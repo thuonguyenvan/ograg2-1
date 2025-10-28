@@ -1,3 +1,21 @@
+# Clone repo
+git clone https://github.com/thuonguyenvan/ograg2-1.git
+cd ograg2-1
+
+# Copy template and add API key
+cp api_keys.yaml.template api_keys.yaml
+# Edit api_keys.yaml and add your Groq API key 
+
+# Install requirements
+pip install -r requirements_minimal_hypergraph.txt
+
+# Run notebook
+jupyter notebook test_hypergraph_original.ipynb
+
+
+
+
+
 # Ontology Generated Retrieval Augmented Generation (OG-RAG)
 ![OG-RAG: Ontology-Grounded Retrieval-Augmented Generation](https://arxiv.org/html/2412.15235v1/x1.png)
 
