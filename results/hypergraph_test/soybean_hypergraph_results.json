@@ -1,0 +1,47 @@
+[
+  {
+    "question":"Which pest can be controlled with Imidacloprid 48 FS pesticide in soybean crops?",
+    "ground_truth":"YELLOW MOSAIC VIRUS (YMV)",
+    "answer":"YELLOW MOSAIC VIRUS (YMV)",
+    "query_time":0.7074933052,
+    "context_length":5351,
+    "num_hyperedges":5,
+    "is_correct":true
+  },
+  {
+    "question":"What type of soil should be avoided for growing soybeans due to its medium to high nutrient holding capacity and medium water holding capacity?",
+    "ground_truth":"Sandy and heavy black soils",
+    "answer":"Sandy and heavy black soils should be avoided for growing soybeans.",
+    "query_time":0.7224330902,
+    "context_length":4482,
+    "num_hyperedges":5,
+    "is_correct":true
+  },
+  {
+    "question":"What is the name of the crop that requires seeds with a germination rate of at least 80%, should be harvested when 85-90% pods have turned brown and lost their green color, and should be stored in a cool, dry place using hermetic storage bags for long-term storage?",
+    "ground_truth":"Soybean",
+    "answer":"Soybean.",
+    "query_time":0.7260279655,
+    "context_length":4548,
+    "num_hyperedges":5,
+    "is_correct":true
+  },
+  {
+    "question":"Which soybean crop is recommended for the Central Zone and has an early sowing time on January 1st, 2016?",
+    "ground_truth":"JS 20-69",
+    "answer":"JS 20-69.",
+    "query_time":0.6427762508,
+    "context_length":3893,
+    "num_hyperedges":5,
+    "is_correct":true
+  },
+  {
+    "question":"What precautions should farmers take before sowing soybean seeds? How can farmers determine the right time for harvesting soybean crops? What are the recommended storage conditions for soybean seeds?",
+    "ground_truth":"Farmers are advised to check germination status of seed purchased\/available with them before sowing. To ensure optimum plant population and thereby good yield, minimum 70% germination is essential.",
+    "answer":"Farmers should check the germination status of seeds before sowing, ensuring a minimum 70% germination rate. The right time for harvesting is when pods have turned brown and lost their green color, with a moisture content of around 10-12% or 14-16%. Soybean seeds should be stored in a cool, dry, and insect-free place, with bags kept upright and stacked no more than 4-5 high, or using hermetic storage bags for long-term storage.",
+    "query_time":1.0039298534,
+    "context_length":3920,
+    "num_hyperedges":5,
+    "is_correct":false
+  }
+]

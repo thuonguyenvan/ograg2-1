@@ -1,0 +1,12 @@
+# Copy this file to `api_keys.yaml` and fill in your credentials.
+# For fastest testing with OpenAI (recommended):
+OPENAI_API_KEY: "sk-..."
+
+# If you prefer Azure OpenAI, fill these and leave OPENAI_API_KEY empty.
+# The code will pick Azure when AZURE_* are set.
+AZURE_API_KEY: "..."
+AZURE_API_BASE: "https://your-azure-openai-resource.openai.azure.com"
+AZURE_API_VERSION: "2024-08-06"
+
+# Optional: if you want to try Together.ai (for llama-based models)
+TOGETHER_API_KEY: "..."
