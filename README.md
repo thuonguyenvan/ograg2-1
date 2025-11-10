@@ -38,18 +38,36 @@ cp api_keys.yaml.template api_keys.yaml
 # Edit and add your OpenAI API key
 ```
 
-### 2. Download & Process GO Ontology
+### 2. Build GO Hypergraph & Embeddings
 
+**⚠️ Important:** Large binary files (.npy, .pkl embeddings) are NOT in Git repo. You need to build them locally.
+
+**Option A: Quick Build (Recommended - ~10 minutes)**
 ```bash
-# Download
+# GO term JSONs are already in repo, just build embeddings
+python build_go_hypergraph.py \
+    --ontology-dir data/kg/go/ontology \
+    --model sentence-transformers/all-MiniLM-L6-v2
+```
+
+This creates:
+- `go_hypergraph_facts.pkl` (19 MB)
+- `go_hypergraph_nodes.pkl` (22 MB)  
+- `go_hypernode_key_embeddings.npy` (420 MB)
+- `go_hypernode_value_embeddings.npy` (420 MB)
+- Graph structure files (*.pkl, ~5 MB total)
+
+**Option B: Full Build from Scratch (if you need fresh GO data)**
+```bash
+# 1. Download GO ontology
 wget http://purl.obolibrary.org/obo/go/go-basic.owl
 
-# Parse (creates 39,354 JSON files)
+# 2. Parse OWL → JSON (creates 39,354 JSON files)
 python scripts/parse_go_owl.py \
     --owl-file go-basic.owl \
     --output-dir data/kg/go/ontology
 
-# Build hypergraph (~10 minutes)
+# 3. Build hypergraph
 python build_go_hypergraph.py \
     --ontology-dir data/kg/go/ontology \
     --model sentence-transformers/all-MiniLM-L6-v2
