@@ -1,0 +1,32 @@
+{
+  "id": "GO:0014839",
+  "uri": "http://purl.obolibrary.org/obo/GO_0014839",
+  "relationships": {
+    "is_a": [
+      "GO:0051451"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "mononucleate cell migration involved in skeletal muscle regeneration"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000056"
+    ],
+    "GOC": [
+      "ef",
+      "mtg_muscle"
+    ],
+    "PMID": [
+      "16607119"
+    ]
+  },
+  "definition": "The process in which a myoblast migrates along an entire fiber to the site of injury. A myoblast is a mononucleate cell type that, by fusion with other myoblasts, gives rise to the myotubes that eventually develop into skeletal muscle fibers.",
+  "namespace": "biological_process",
+  "label": "myoblast migration involved in skeletal muscle regeneration"
+}

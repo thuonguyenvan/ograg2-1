@@ -1,0 +1,32 @@
+{
+  "id": "GO:0075713",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075713",
+  "relationships": {
+    "is_a": [
+      "GO:0019043"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "prophage integration",
+      "provirus integration"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-162592"
+    ],
+    "VZ": [
+      "980"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "A process by which the virus integrates into the host genome and establishes as a stable provirus or prophage.",
+  "namespace": "biological_process",
+  "label": "Viral genome integration"
+}

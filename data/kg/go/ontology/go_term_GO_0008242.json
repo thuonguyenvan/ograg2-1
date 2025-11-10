@@ -1,0 +1,33 @@
+{
+  "id": "GO:0008242",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008242",
+  "relationships": {
+    "is_a": [
+      "GO:0008233"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "peptidase activity, acting on peptides containing modified amino acids"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.4.19.-",
+      "3.4.19.-"
+    ],
+    "Reactome": [
+      "R-HSA-5696365"
+    ],
+    "PMID": [
+      "20157488",
+      "9920379"
+    ]
+  },
+  "definition": "Catalysis of the cleavage of non-standard peptide bonds releasing substituted amino acids such as pyroglutamate or cleave isopeptide bonds, such as many deubiquitinating enzymes.",
+  "namespace": "molecular_function",
+  "label": "ASRGL1 hydrolyses aspartame to L-Asp, L-Phe, MeOH"
+}

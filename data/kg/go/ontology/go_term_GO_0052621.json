@@ -1,0 +1,37 @@
+{
+  "id": "GO:0052621",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052621",
+  "relationships": {
+    "is_a": [
+      "GO:0016779"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "GTP:GTP guanylyltransferase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.65",
+      "2.7.7.65",
+      "2.7.7.65"
+    ],
+    "KEGG_REACTION": [
+      "R08057"
+    ],
+    "MetaCyc": [
+      "RXN0-5359"
+    ],
+    "RHEA": [
+      "24898",
+      "24898"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 GTP = cyclic di-3&apos;,5&apos;-guanylate + 2 diphosphate + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "diguanylate cyclase activity"
+}

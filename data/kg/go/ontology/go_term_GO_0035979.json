@@ -1,0 +1,34 @@
+{
+  "id": "GO:0035979",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035979",
+  "relationships": {
+    "is_a": [
+      "GO:0004674",
+      "GO:0141003"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "histone kinase activity (H2A.x-S139 specific)"
+    ],
+    "related": [
+      "histone H2AS139 kinase activity",
+      "histone kinase activity (H2A-S139 specific)"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "11893489",
+      "16061642",
+      "16061642"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Catalysis of the reaction: histone H2AX-serine (position 139) + ATP = histone H2AX-phosphoserine (position 139) + ADP. This reaction is the addition of a phosphate group to the serine residue at position 139 of histone variant H2AX.",
+  "namespace": "molecular_function",
+  "label": "histone H2AXS139 kinase activity"
+}

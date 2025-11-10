@@ -1,0 +1,27 @@
+{
+  "id": "GO:0048490",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048490",
+  "relationships": {
+    "is_a": [
+      "GO:0008089",
+      "GO:0099517"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "anterograde axonal transport of synaptic vesicle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid",
+      "lmg"
+    ]
+  },
+  "definition": "The directed movement of synaptic vesicle along axonal microtubules from the cell body to the presynapse.",
+  "namespace": "biological_process",
+  "label": "anterograde synaptic vesicle transport"
+}

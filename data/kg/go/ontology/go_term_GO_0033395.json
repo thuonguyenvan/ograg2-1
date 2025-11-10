@@ -1,0 +1,32 @@
+{
+  "id": "GO:0033395",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033395",
+  "relationships": {
+    "is_a": [
+      "GO:0019483"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "beta-alanine anabolism via 3-hydroxypropionate",
+      "beta-alanine biosynthesis via 3-hydroxypropionate",
+      "beta-alanine formation via 3-hydroxypropionate",
+      "beta-alanine synthesis via 3-hydroxypropionate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-3941",
+      "PWY-3941"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of beta-alanine via the intermediate 3-hydroxypropionate.",
+  "namespace": "biological_process",
+  "label": "beta-alanine biosynthetic process via 3-hydroxypropionate"
+}

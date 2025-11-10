@@ -1,0 +1,36 @@
+{
+  "id": "GO:0008838",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008838",
+  "relationships": {
+    "is_a": [
+      "GO:0016841"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,3-diaminopropionate ammonia-lyase (adding H2O; pyruvate-forming)",
+      "2,3-diaminopropionate ammonia-lyase activity",
+      "alpha,beta-diaminopropionate ammonia-lyase activity",
+      "diaminopropionatase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.1.15",
+      "4.3.1.15",
+      "4.3.1.15",
+      "4.3.1.15",
+      "4.3.1.15",
+      "4.3.1.15"
+    ],
+    "MetaCyc": [
+      "4.3.1.15-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,3-diaminopropionate + H2O = pyruvate + 2 NH3.",
+  "namespace": "molecular_function",
+  "label": "diaminopropionate ammonia-lyase activity"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0015127",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015127",
+  "relationships": {
+    "is_a": [
+      "GO:0005310"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5679031",
+      "R-HSA-5679041",
+      "R-HSA-9661417"
+    ],
+    "GOC": [
+      "ai"
+    ],
+    "ISBN": [
+      "0198547684"
+    ]
+  },
+  "definition": "Enables the transfer of bilirubin from one side of a membrane to the other. Bilirubin is a linear tetrapyrrole produced in the reticuloendothelial system from biliverdin and transported to the liver as a complex with serum albumin. In the liver, bilirubin is converted to bilirubin bisglucuronide, which is excreted in the bile.",
+  "namespace": "molecular_function",
+  "label": "ABCG2 tetramer transports BMG,BDG from cytosol to extracellular region"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0070781",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070781",
+  "relationships": {
+    "is_a": [
+      "GO:0033273",
+      "GO:1901698",
+      "GO:1901700"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to Bios IIB",
+      "response to coenzyme R",
+      "response to vitamin B7",
+      "response to vitamin H"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sl",
+      "sl",
+      "sl",
+      "sl",
+      "sl"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a biotin stimulus.",
+  "namespace": "biological_process",
+  "label": "response to biotin"
+}

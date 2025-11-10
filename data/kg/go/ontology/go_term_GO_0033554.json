@@ -1,0 +1,27 @@
+{
+  "id": "GO:0033554",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033554",
+  "relationships": {
+    "is_a": [
+      "GO:0006950",
+      "GO:0051716"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2262752"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus indicating the organism is under stress. The stress is usually, but not necessarily, exogenous (e.g. temperature, humidity, ionizing radiation).",
+  "namespace": "biological_process",
+  "label": "Cellular responses to stress"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0033933",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033933",
+  "relationships": {
+    "is_a": [
+      "GO:0090599"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,2-alpha-D-glucosyl-branched-dextran 2-glucohydrolase activity",
+      "dextran 1,2-alpha-glucosidase activity",
+      "dextran alpha-1,2 debranching enzyme"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.115",
+      "3.2.1.115",
+      "3.2.1.115",
+      "3.2.1.115",
+      "3.2.1.115"
+    ],
+    "MetaCyc": [
+      "3.2.1.115-RXN"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of (1-&gt;2)-alpha-D-glucosidic linkages at the branch points of dextrans and related polysaccharides, producing free D-glucose.",
+  "namespace": "molecular_function",
+  "label": "branched-dextran exo-1,2-alpha-glucosidase activity"
+}

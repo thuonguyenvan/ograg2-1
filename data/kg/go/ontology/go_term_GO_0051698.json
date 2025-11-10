@@ -1,0 +1,32 @@
+{
+  "id": "GO:0051698",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051698",
+  "relationships": {
+    "is_a": [
+      "GO:0016647"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "SAX activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.3.18"
+    ],
+    "RHEA": [
+      "28210",
+      "28210"
+    ],
+    "PMID": [
+      "16233628"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + L-saccharopine + O2 = (S)-2-amino-6-oxohexanoate + H2O2 + L-glutamate.",
+  "namespace": "molecular_function",
+  "label": "saccharopine oxidase activity"
+}

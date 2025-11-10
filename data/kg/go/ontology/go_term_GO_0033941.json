@@ -1,0 +1,32 @@
+{
+  "id": "GO:0033941",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033941",
+  "relationships": {
+    "is_a": [
+      "GO:0004559"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,2-1,6-alpha-D-mannan D-mannohydrolase activity",
+      "exo-1,2-1,6-alpha-mannosidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.137",
+      "3.2.1.137",
+      "3.2.1.137",
+      "3.2.1.137"
+    ],
+    "MetaCyc": [
+      "3.2.1.137-RXN"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of (1-&gt;2)-alpha-D- and (1-&gt;6)-alpha-D- linkages in mannan, releasing D-mannose.",
+  "namespace": "molecular_function",
+  "label": "mannan exo-1,2-1,6-alpha-mannosidase activity"
+}

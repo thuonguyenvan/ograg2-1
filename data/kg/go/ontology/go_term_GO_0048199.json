@@ -1,0 +1,35 @@
+{
+  "id": "GO:0048199",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048199",
+  "relationships": {
+    "is_a": [
+      "GO:0006903"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Golgi vesicle targeting"
+    ],
+    "broad": [],
+    "narrow": [
+      "dictyosome vesicle targeting",
+      "vesicle targeting, to, from or within dictyosome"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid",
+      "mah"
+    ],
+    "ISBN": [
+      "0716731363"
+    ],
+    "PMID": [
+      "10219233"
+    ]
+  },
+  "definition": "The process in which vesicles are directed to specific destination membranes during transport to, from or within the Golgi apparatus; mediated by the addition of specific coat proteins, including COPI and COPII proteins and clathrin, to the membrane during vesicle formation.",
+  "namespace": "biological_process",
+  "label": "vesicle targeting, to, from or within Golgi"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0016861",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016861",
+  "relationships": {
+    "is_a": [
+      "GO:0016860"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "intramolecular isomerase activity, interconverting aldoses and ketoses"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.1.-",
+      "5.3.1.-"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Catalysis of an oxidation-reduction (redox) reaction in which the hydrogen donor and acceptor, which is an aldose or a ketose, are the same molecule, and no oxidized product appears.",
+  "namespace": "molecular_function",
+  "label": "intramolecular oxidoreductase activity, interconverting aldoses and ketoses"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:1990590",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990590",
+  "relationships": {
+    "is_a": [
+      "GO:0090575"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "12871976"
+    ]
+  },
+  "definition": "Transcription factor complex consisting of ATF1 and ATF4 subunits that is capable of binding to cAMP response element (CRE) (consensus: 5&apos;-GTGACGT[AC][AG]-3&apos;) of the GRP78 (HSPA5) promoter. Involved in the ER stress response pathway.",
+  "namespace": "cellular_component",
+  "label": "ATF1-ATF4 transcription factor complex"
+}

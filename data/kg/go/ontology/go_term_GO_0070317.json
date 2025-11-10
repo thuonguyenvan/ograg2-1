@@ -1,0 +1,36 @@
+{
+  "id": "GO:0070317",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070317",
+  "relationships": {
+    "is_a": [
+      "GO:0010948",
+      "GO:0070316"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "maintenance of G0 arrest",
+      "maintenance of G0 phase",
+      "maintenance of cell cycle quiescence",
+      "maintenance of cell quiescence"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8953750"
+    ],
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A cell cycle process that stops, prevents, or reduces the rate or extent of the transition from the G0 quiescent state to the G1 phase.",
+  "namespace": "biological_process",
+  "label": "Transcriptional Regulation by E2F6"
+}

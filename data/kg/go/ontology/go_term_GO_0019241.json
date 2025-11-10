@@ -1,0 +1,32 @@
+{
+  "id": "GO:0019241",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019241",
+  "relationships": {
+    "is_a": [
+      "GO:0000052",
+      "GO:0170044",
+      "GO:1901606"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "citrulline breakdown",
+      "citrulline catabolism",
+      "citrulline degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "CITRULLINE-DEG-PWY"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-citrulline, N5-carbamoyl-L-ornithine, an alpha amino acid not found in proteins.",
+  "namespace": "biological_process",
+  "label": "L-citrulline catabolic process"
+}

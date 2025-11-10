@@ -1,0 +1,29 @@
+{
+  "id": "GO:0090661",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090661",
+  "relationships": {
+    "is_a": [
+      "GO:0072588",
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "jbu"
+    ],
+    "PMID": [
+      "22527283"
+    ]
+  },
+  "definition": "A box H/ACA ribonucleoprotein complex that contains the RNA component of vertebrate telomerase, the enzyme essential for the replication of chromosome termini in most eukaryotes. This ribonucleoprotein complex is a structural box H/ACA RNP, which does not have the catalytic pseudouridylation function shared by the majority of H/ACA RNPs present in the cell.",
+  "namespace": "cellular_component",
+  "label": "box H/ACA telomerase RNP complex"
+}

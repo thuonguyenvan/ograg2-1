@@ -1,0 +1,30 @@
+{
+  "id": "GO:0044096",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044096",
+  "relationships": {
+    "is_a": [
+      "GO:0009289"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TFP",
+      "type 4 pilus",
+      "type IV fimbriae"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pamgo_curators"
+    ],
+    "PMID": [
+      "28496159"
+    ]
+  },
+  "definition": "A short filamentous structure on the surface of a bacterial cell distinguished from other pili by post-translational N-methylation of the pilin monomers.",
+  "namespace": "cellular_component",
+  "label": "type IV pilus"
+}

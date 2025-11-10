@@ -1,0 +1,29 @@
+{
+  "id": "GO:0035385",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035385",
+  "relationships": {
+    "is_a": [
+      "GO:0007166"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ROBO signaling pathway",
+      "ROBO/SLIT signaling pathway",
+      "Roundabout signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "signaling",
+      "mah"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by a SLIT protein binding to a Roundabout (ROBO) family receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "Roundabout signaling pathway"
+}

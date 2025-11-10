@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050138",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050138",
+  "relationships": {
+    "is_a": [
+      "GO:0016726"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "nicotinate hydroxylase activity",
+      "nicotinate:NADP+ 6-oxidoreductase (hydroxylating)",
+      "nicotinic acid hydroxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.17.1.5",
+      "1.17.1.5",
+      "1.17.1.5",
+      "1.17.1.5",
+      "1.17.1.5"
+    ],
+    "KEGG_REACTION": [
+      "R01720"
+    ],
+    "MetaCyc": [
+      "RXN-7637"
+    ],
+    "RHEA": [
+      "12236",
+      "12236"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + NADP+ + nicotinate = 6-hydroxynicotinate + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "nicotinate dehydrogenase activity"
+}

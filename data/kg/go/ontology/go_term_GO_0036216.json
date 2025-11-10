@@ -1,0 +1,39 @@
+{
+  "id": "GO:0036216",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036216",
+  "relationships": {
+    "is_a": [
+      "GO:0036215",
+      "GO:0071345"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to KIT ligand",
+      "cellular response to KITLG",
+      "cellular response to SCF",
+      "cellular response to hematopoietic growth factor KL"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "uh"
+    ],
+    "PMID": [
+      "18787413",
+      "7520444",
+      "18787413"
+    ],
+    "PR": [
+      "000009345",
+      "000009345",
+      "000009345"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stem cell factor (SCF) stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to stem cell factor stimulus"
+}

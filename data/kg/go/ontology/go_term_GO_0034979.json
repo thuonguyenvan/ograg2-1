@@ -1,0 +1,49 @@
+{
+  "id": "GO:0034979",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034979",
+  "relationships": {
+    "is_a": [
+      "GO:0141218"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NAD(+)-dependent protein deacetylase"
+    ],
+    "broad": [
+      "NAD(+)-dependent protein deacylase",
+      "NAD-dependent protein deacetylase activity",
+      "protein acetyllysine N-acetyltransferase",
+      "protein lysine deacetylase",
+      "protein lysine deacylase"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.286"
+    ],
+    "RHEA": [
+      "43636",
+      "43636"
+    ],
+    "Reactome": [
+      "R-HSA-3371467",
+      "R-HSA-5211239",
+      "R-HSA-5685953",
+      "R-HSA-5688289",
+      "R-HSA-5688294",
+      "R-HSA-9620532",
+      "R-HSA-9667952",
+      "R-HSA-9854463"
+    ],
+    "GOC": [
+      "BHF",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(6)-acetyl-L-lysyl-[protein] + NAD+ + H2O = L-lysyl-[protein] + 2&apos;&apos;-O-acetyl-ADP-D-ribose + nicotinamide. This reaction transfers an acetyl group from a protein to NAD, producing nicotinamide.",
+  "namespace": "molecular_function",
+  "label": "SIRT3 deacetylates AcK-IDH2 dimer"
+}

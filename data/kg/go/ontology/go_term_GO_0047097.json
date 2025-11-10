@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047097",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047097",
+  "relationships": {
+    "is_a": [
+      "GO:0004497",
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "phylloquinone epoxidase activity",
+      "phylloquinone,hydrogen-donor:oxygen oxidoreductase (2,3-epoxidizing)",
+      "vitamin K 2,3-epoxidase activity",
+      "vitamin K epoxidase activity",
+      "vitamin K1 epoxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.99.20",
+      "1.14.99.20",
+      "1.14.99.20",
+      "1.14.99.20",
+      "1.14.99.20",
+      "1.14.99.20"
+    ],
+    "KEGG_REACTION": [
+      "R03510"
+    ],
+    "MetaCyc": [
+      "1.14.99.20-RXN"
+    ],
+    "RHEA": [
+      "16745",
+      "16745"
+    ]
+  },
+  "definition": "Catalysis of the reaction: AH2 + O2 + phylloquinone = 2,3-epoxyphylloquinone + A + H2O.",
+  "namespace": "molecular_function",
+  "label": "phylloquinone monooxygenase (2,3-epoxidizing) activity"
+}

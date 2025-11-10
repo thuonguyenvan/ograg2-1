@@ -1,0 +1,25 @@
+{
+  "id": "GO:0015516",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015516",
+  "relationships": {
+    "is_a": [
+      "GO:0015141",
+      "GO:0015297",
+      "GO:0015554"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.47.3.3"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: tartrate(out) + succinate(in) = tartrate(in) + succinate(out).",
+  "namespace": "molecular_function",
+  "label": "tartrate:succinate antiporter activity"
+}

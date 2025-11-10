@@ -1,0 +1,29 @@
+{
+  "id": "GO:0046912",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046912",
+  "relationships": {
+    "is_a": [
+      "GO:0016746"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acyltransferase, acyl groups converted into alkyl on transfer",
+      "transferase activity, transferring acyl groups, acyl groups converted into alkyl on transfer"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.3.-"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Catalysis of the transfer of an acyl group from one compound (donor) to another (acceptor), with the acyl group being converted into alkyl on transfer.",
+  "namespace": "molecular_function",
+  "label": "acyltransferase activity, acyl groups converted into alkyl on transfer"
+}

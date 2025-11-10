@@ -1,0 +1,30 @@
+{
+  "id": "GO:0097452",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097452",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IFN-gamma-activated inhibitor of translation complex",
+      "gamma interferon-activated inhibitor of translation complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "br"
+    ],
+    "PMID": [
+      "15479637",
+      "23071094"
+    ]
+  },
+  "definition": "A protein complex which mediates interferon-gamma-induced transcript-selective translation inhibition in inflammation processes. The complex binds to stem loop-containing GAIT elements in the 3&apos;-UTR of diverse inflammatory mRNAs and suppresses their translation by blocking the recruitment of the 43S ribosomal complex to m7G cap-bound eIF4G. In humans it includes RPL13A, EPRS, SYNCRIP and GAPDH; mouse complexes lack SYNCRIP.",
+  "namespace": "cellular_component",
+  "label": "GAIT complex"
+}

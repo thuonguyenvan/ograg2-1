@@ -1,0 +1,32 @@
+{
+  "id": "GO:1990539",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990539",
+  "relationships": {
+    "is_a": [
+      "GO:0015755",
+      "GO:0140271"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fructose uptake"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "fructose import"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "10735857"
+    ],
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The directed movement of fructose substance from outside of a cell, across the plasma membrane and into the cytosol.",
+  "namespace": "biological_process",
+  "label": "fructose import across plasma membrane"
+}

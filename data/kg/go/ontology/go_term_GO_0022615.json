@@ -1,0 +1,25 @@
+{
+  "id": "GO:0022615",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022615",
+  "relationships": {
+    "is_a": [
+      "GO:0022406"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein-membrane docking"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "isa_complete"
+    ]
+  },
+  "definition": "The initial attachment of a protein to a target membrane, mediated by a proteins protruding from the target membrane. Docking requires only that the proteins come close enough to interact and adhere.",
+  "namespace": "biological_process",
+  "label": "protein to membrane docking"
+}

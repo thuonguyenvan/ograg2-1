@@ -1,0 +1,53 @@
+{
+  "id": "GO:0004338",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004338",
+  "relationships": {
+    "is_a": [
+      "GO:0008422"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "1,3-beta-glucan glucohydrolase activity",
+      "glucan 1,3-beta-glucosidase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "beta-1,3-glucan exo-hydrolase activity",
+      "exo (1-&gt;3)-beta-glucanase activity",
+      "exo-1,3-beta-D-glucanase activity",
+      "exo-1,3-beta-glucanase activity",
+      "exo-1,3-beta-glucosidase activity",
+      "exo-beta-(1-&gt;3)-D-glucanase activity",
+      "exo-beta-(1-&gt;3)-glucanohydrolase activity",
+      "exo-beta-1,3-D-glucanase activity",
+      "exo-beta-1,3-glucanase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.58",
+      "3.2.1.58",
+      "3.2.1.58",
+      "3.2.1.58",
+      "3.2.1.58",
+      "3.2.1.58",
+      "3.2.1.58",
+      "3.2.1.58",
+      "3.2.1.58",
+      "3.2.1.58",
+      "3.2.1.58",
+      "3.2.1.58"
+    ],
+    "MetaCyc": [
+      "3.2.1.58-RXN"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the successive hydrolysis of beta-D-glucose units from the non-reducing ends of (1-&gt;3)-beta-D-glucans, releasing alpha-glucose.",
+  "namespace": "molecular_function",
+  "label": "glucan exo-1,3-beta-glucosidase activity"
+}

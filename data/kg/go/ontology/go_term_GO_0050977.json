@@ -1,0 +1,37 @@
+{
+  "id": "GO:0050977",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050977",
+  "relationships": {
+    "is_a": [
+      "GO:0007606",
+      "GO:0050958"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "magnetoreception by chemical stimulus",
+      "magnetoreception through chemical stimulus",
+      "magnetoreception, sensory perception of chemical stimulus",
+      "magnetoreception, using chemical stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "15886990"
+    ],
+    "Wikipedia": [
+      "Magnetoception"
+    ]
+  },
+  "definition": "The series of events required for an organism to receive a chemical stimulus relating to a magnetic field, convert it to a molecular signal, and recognize and characterize the signal. It is believed that organisms such as birds and salamanders use a &apos;chemical compass&apos;: chemical reactions that involve transitions between different spin states can be influenced by magnetic fields and by detecting the different product ratios, these organisms can perceive the direction of the magnetic field. The mechanism by which this is detected is not certain but it may also involve light stimuli.",
+  "namespace": "biological_process",
+  "label": "magnetoreception by sensory perception of chemical stimulus"
+}

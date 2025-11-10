@@ -1,0 +1,30 @@
+{
+  "id": "GO:0051776",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051776",
+  "relationships": {
+    "is_a": [
+      "GO:0009593",
+      "GO:0051775"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "redox sensing"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "15131240",
+      "16987039"
+    ]
+  },
+  "definition": "The series of events in which a chemical stimulus indicating redox state is received and converted into a molecular signal. Redox state refers to the balance of oxidized versus reduced forms of electron donors and acceptors in an organelle, cell or organ; plastoquinone, glutathione (GSH/GSSG), and nicotinamide nucleotides (NAD+/NADH and NADP+/NADPH) are among the most important.",
+  "namespace": "biological_process",
+  "label": "detection of redox state"
+}

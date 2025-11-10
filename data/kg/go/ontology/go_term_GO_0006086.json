@@ -1,0 +1,37 @@
+{
+  "id": "GO:0006086",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006086",
+  "relationships": {
+    "is_a": [
+      "GO:0006085",
+      "GO:0006090"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acetyl-CoA anabolism from pyruvate",
+      "acetyl-CoA biosynthetic process from pyruvate",
+      "acetyl-CoA formation from pyruvate",
+      "acetyl-CoA synthesis from pyruvate",
+      "oxidative decarboxylation of pyruvate",
+      "pyruvate dehydrogenase pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "pyruvate decarboxylation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PYRUVDEHYD-PWY",
+      "PYRUVDEHYD-PWY"
+    ],
+    "Reactome": [
+      "R-HSA-9861559"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of acetyl-CoA from pyruvate.  In most organisms, this pathway links glycolysis to the TCA cycle, by a series of three reactions carried out by a multisubunit complex called the &apos;pyruvate dehydrogenase complex&apos;, even though pyruvate dehydrogenase activity describes only one of those reactions. The combination of the three reactions can be summarized as: pyruvate + coenzyme A + NAD+ -&gt; acetyl-CoA + CO2 + NADH.",
+  "namespace": "biological_process",
+  "label": "PDH complex synthesizes acetyl-CoA from PYR"
+}

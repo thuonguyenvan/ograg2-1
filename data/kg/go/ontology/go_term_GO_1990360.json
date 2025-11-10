@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990360",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990360",
+  "relationships": {
+    "is_a": [
+      "GO:1902911"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PKM2-SAICAR complex",
+      "PKM2-SAICAR protein kinase complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "24606918"
+    ]
+  },
+  "definition": "A protein complex capable of phosphorylating a large number of protein targets. Contributes to cell proliferation under glycose starvation conditions. In human, the complex is present as a dimer.",
+  "namespace": "cellular_component",
+  "label": "PKM2 protein kinase complex"
+}

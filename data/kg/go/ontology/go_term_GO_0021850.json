@@ -1,0 +1,36 @@
+{
+  "id": "GO:0021850",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021850",
+  "relationships": {
+    "is_a": [
+      "GO:0048860"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glioblast cell division in subpallium",
+      "glioblast division in ventral telencephalon"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "12626695",
+      "16226447"
+    ]
+  },
+  "definition": "The division of glioblasts in the subpallium. These cells will give rise to oligodendrocytes.",
+  "namespace": "biological_process",
+  "label": "subpallium glioblast cell division"
+}

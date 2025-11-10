@@ -1,0 +1,35 @@
+{
+  "id": "GO:0008736",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008736",
+  "relationships": {
+    "is_a": [
+      "GO:0016861"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-fucose aldose-ketose-isomerase activity",
+      "L-fucose ketol-isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.1.25",
+      "5.3.1.25",
+      "5.3.1.25"
+    ],
+    "MetaCyc": [
+      "FUCISOM-RXN"
+    ],
+    "RHEA": [
+      "17233",
+      "17233"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-fucose = L-fuculose.",
+  "namespace": "molecular_function",
+  "label": "L-fucose isomerase activity"
+}

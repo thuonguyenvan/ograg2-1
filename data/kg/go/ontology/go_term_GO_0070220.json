@@ -1,0 +1,29 @@
+{
+  "id": "GO:0070220",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070220",
+  "relationships": {
+    "is_a": [
+      "GO:0019417"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "aerobic sulphur oxidation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "SULFUROX-PWY",
+      "SULFUROX-PWY"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A sulfur oxidation process that proceeds via the reaction catalyzed by sulfur dioxygenase, and requires the presence of oxygen.",
+  "namespace": "biological_process",
+  "label": "aerobic sulfur oxidation"
+}

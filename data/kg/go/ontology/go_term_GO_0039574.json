@@ -1,0 +1,33 @@
+{
+  "id": "GO:0039574",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039574",
+  "relationships": {
+    "is_a": [
+      "GO:0039514",
+      "GO:0052170"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "disruption by virus of host JAK-STAT cascade via inhibition of host TYK2 activity",
+      "suppression by virus of host JAK-STAT cascade via inhibition of host TYK2 activity",
+      "suppression by virus of host TYK2 activity",
+      "suppression by virus of host non-receptor tyrosine-protein kinase TYK2 activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "720"
+    ],
+    "PMID": [
+      "16987978",
+      "19085955"
+    ]
+  },
+  "definition": "A process in which a symbiont interferes with, inhibits or disrupt a JAK-STAT signal cascade in the host organism by reducing the activity of host TYK2 (tyrosine kinase 2). TYK2 is an intracellular signal-transducing tyrosine kinase involved in numerous cytokines and interferons signaling pathways and transmits the cytokine signal by phosphorylating receptor subunits.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host JAK-STAT cascade via inhibition of host TYK2 activity"
+}

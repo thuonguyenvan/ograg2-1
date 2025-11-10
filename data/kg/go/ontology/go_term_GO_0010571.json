@@ -1,0 +1,32 @@
+{
+  "id": "GO:0010571",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010571",
+  "relationships": {
+    "is_a": [
+      "GO:0033262",
+      "GO:0090068",
+      "GO:2000105"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of DNA replication involved in S phase",
+      "positive regulation of DNA replication involved in S-phase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of DNA replication during S phase"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the DNA-dependent DNA replication that occurs in the nucleus of eukaryotic organisms as part of the cell cycle.",
+  "namespace": "biological_process",
+  "label": "positive regulation of nuclear cell cycle DNA replication"
+}

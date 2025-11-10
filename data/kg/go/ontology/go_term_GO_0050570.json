@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050570",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050570",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-threonine 4-phosphate dehydrogenase activity",
+      "NAD(+)-dependent threonine 4-phosphate dehydrogenase activity",
+      "NAD+-dependent threonine 4-phosphate dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.262",
+      "1.1.1.262",
+      "1.1.1.262",
+      "1.1.1.262",
+      "1.1.1.262"
+    ],
+    "MetaCyc": [
+      "RXN-13179"
+    ],
+    "RHEA": [
+      "32275",
+      "32275"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-(phosphooxy)-L-threonine + NAD+ = 3-amino-2-oxopropyl phosphate + CO2 + NADH.",
+  "namespace": "molecular_function",
+  "label": "4-hydroxythreonine-4-phosphate dehydrogenase activity"
+}

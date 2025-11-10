@@ -1,0 +1,33 @@
+{
+  "id": "GO:0021831",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021831",
+  "relationships": {
+    "is_a": [
+      "GO:0021843",
+      "GO:0022028"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "12626695"
+    ]
+  },
+  "definition": "The directed movement of individual interneuron precursors during the embryonic development of the olfactory bulb.",
+  "namespace": "biological_process",
+  "label": "embryonic olfactory bulb interneuron precursor migration"
+}

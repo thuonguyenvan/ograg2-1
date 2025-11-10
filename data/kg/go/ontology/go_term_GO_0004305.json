@@ -1,0 +1,45 @@
+{
+  "id": "GO:0004305",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004305",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:ethanolamine O-phosphotransferase activity",
+      "ethanolamine kinase (phosphorylating)",
+      "ethanolamine phosphokinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.82",
+      "2.7.1.82",
+      "2.7.1.82",
+      "2.7.1.82",
+      "2.7.1.82"
+    ],
+    "KEGG_REACTION": [
+      "R01468"
+    ],
+    "MetaCyc": [
+      "ETHANOLAMINE-KINASE-RXN"
+    ],
+    "RHEA": [
+      "13069",
+      "13069"
+    ],
+    "Reactome": [
+      "R-HSA-1483222"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + ethanolamine = ADP + 2 H+ + phosphoethanolamine.",
+  "namespace": "molecular_function",
+  "label": "ETA is phosphorylated to PETA by CHK/ETNK"
+}

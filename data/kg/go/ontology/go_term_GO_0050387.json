@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050387",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050387",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "urethane amidohydrolase (decarboxylating)",
+      "urethane hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.75",
+      "3.5.1.75",
+      "3.5.1.75",
+      "3.5.1.75"
+    ],
+    "KEGG_REACTION": [
+      "R02359"
+    ],
+    "MetaCyc": [
+      "URETHANASE-RXN"
+    ],
+    "RHEA": [
+      "21372",
+      "21372"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + H+ + urethane = CO2 + ethanol + NH4.",
+  "namespace": "molecular_function",
+  "label": "urethanase activity"
+}

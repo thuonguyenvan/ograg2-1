@@ -1,0 +1,37 @@
+{
+  "id": "GO:1905606",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905606",
+  "relationships": {
+    "is_a": [
+      "GO:0051963",
+      "GO:0099174"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of presynapse biogenesis",
+      "regulation of presynaptic terminal assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bc",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25533483"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of presynapse assembly.",
+  "namespace": "biological_process",
+  "label": "regulation of presynapse assembly"
+}

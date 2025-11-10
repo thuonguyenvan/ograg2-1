@@ -1,0 +1,31 @@
+{
+  "id": "GO:0046000",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046000",
+  "relationships": {
+    "is_a": [
+      "GO:0007555",
+      "GO:2000833"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of ecdysteroid secretion",
+      "up-regulation of ecdysteroid secretion",
+      "upregulation of ecdysteroid secretion"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of ecdysteroid secretion",
+      "stimulation of ecdysteroid secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the regulated release of ecdysteroid.",
+  "namespace": "biological_process",
+  "label": "positive regulation of ecdysteroid secretion"
+}

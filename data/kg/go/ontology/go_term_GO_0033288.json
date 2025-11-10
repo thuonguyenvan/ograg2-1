@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033288",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033288",
+  "relationships": {
+    "is_a": [
+      "GO:0015651",
+      "GO:0015665",
+      "GO:0033285"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent hydroxyectoine transmembrane transporter activity",
+      "hydroxyectoine-transporting ATPase activity"
+    ],
+    "broad": [
+      "hydroxyectoine transmembrane transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mlg"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + hydroxyectoine(out/in) = ADP + phosphate + hydroxyectoine(in/out).",
+  "namespace": "molecular_function",
+  "label": "ATPase-coupled hydroxyectoine transmembrane transporter activity"
+}

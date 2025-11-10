@@ -1,0 +1,26 @@
+{
+  "id": "GO:0048792",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048792",
+  "relationships": {
+    "is_a": [
+      "GO:0007269",
+      "GO:0016079"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "spontaneous synaptic vesicle exocytosis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "The release of a neurotransmitter into the synaptic cleft, where the release step is independent of the presence of calcium ions (Ca2+). The neurotransmitter is contained within a membrane-bounded vesicle, and is released by fusion of the vesicle with the presynaptic plasma membrane of a nerve cell.",
+  "namespace": "biological_process",
+  "label": "spontaneous exocytosis of neurotransmitter"
+}

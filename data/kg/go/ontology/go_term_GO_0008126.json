@@ -1,0 +1,47 @@
+{
+  "id": "GO:0008126",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008126",
+  "relationships": {
+    "is_a": [
+      "GO:0034338"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "C-esterase (in animal tissues)",
+      "chloroesterase",
+      "citrus acetylesterase",
+      "p-nitrophenyl acetate esterase"
+    ],
+    "related": [
+      "acetic ester hydrolase activity",
+      "acetic-ester acetylhydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.6",
+      "3.1.1.6",
+      "3.1.1.6",
+      "3.1.1.6",
+      "3.1.1.6",
+      "3.1.1.6",
+      "3.1.1.6",
+      "3.1.1.6"
+    ],
+    "MetaCyc": [
+      "ACETYLESTERASE-RXN"
+    ],
+    "RHEA": [
+      "12957"
+    ],
+    "UM-BBD_reactionID": [
+      "r0170"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an acetic ester + H2O = an alcohol + acetate.",
+  "namespace": "molecular_function",
+  "label": "acetylesterase activity"
+}

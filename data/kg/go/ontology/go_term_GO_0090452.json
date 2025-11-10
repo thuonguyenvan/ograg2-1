@@ -1,0 +1,29 @@
+{
+  "id": "GO:0090452",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090452",
+  "relationships": {
+    "is_a": [
+      "GO:0010351",
+      "GO:0098655"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lithium ion uptake"
+    ],
+    "broad": [],
+    "narrow": [
+      "lithium ion import"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "tb",
+      "tb"
+    ]
+  },
+  "definition": "The directed movement of lithium ions (Li+) across a membrane.",
+  "namespace": "biological_process",
+  "label": "lithium ion transmembrane transport"
+}

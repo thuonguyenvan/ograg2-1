@@ -1,0 +1,27 @@
+{
+  "id": "GO:0009955",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009955",
+  "relationships": {
+    "is_a": [
+      "GO:0003002"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "adaxial/abaxial pattern formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "isa_complete",
+      "tb"
+    ]
+  },
+  "definition": "The regionalization process in which differences in cell differentiation along the adaxial/abaxial are generated. Adaxial refers to being situated toward an axis of an anatomical structure. Abaxial refers to being situated away from an axis of an anatomical structure.",
+  "namespace": "biological_process",
+  "label": "adaxial/abaxial pattern specification"
+}

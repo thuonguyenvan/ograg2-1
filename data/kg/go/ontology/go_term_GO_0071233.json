@@ -1,0 +1,28 @@
+{
+  "id": "GO:0071233",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071233",
+  "relationships": {
+    "is_a": [
+      "GO:0043201",
+      "GO:0071230",
+      "GO:1901699",
+      "GO:1901701"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "cellular response to leucine"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a L-leucine stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to L-leucine"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0017001",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017001",
+  "relationships": {
+    "is_a": [
+      "GO:0009056",
+      "GO:0016999"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "antibiotic breakdown",
+      "antibiotic catabolism",
+      "antibiotic degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of antibiotic, a substance produced by or derived from certain fungi, bacteria, and other organisms, that can destroy or inhibit the growth of other microorganisms.",
+  "namespace": "biological_process",
+  "label": "antibiotic catabolic process"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0043540",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043540",
+  "relationships": {
+    "is_a": [
+      "GO:0061695"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 1 complex",
+      "6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2 complex",
+      "6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3 complex",
+      "6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "so"
+    ]
+  },
+  "definition": "A homodimeric, bifunctional enzyme complex which catalyzes the synthesis and degradation of fructose 2,6-bisphosphate, and is required for both glycolysis and gluconeogenesis.",
+  "namespace": "cellular_component",
+  "label": "6-phosphofructo-2-kinase/fructose-2,6-biphosphatase complex"
+}

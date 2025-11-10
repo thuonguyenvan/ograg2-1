@@ -1,0 +1,36 @@
+{
+  "id": "GO:0030810",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030810",
+  "relationships": {
+    "is_a": [
+      "GO:0009891",
+      "GO:0030808",
+      "GO:0045981"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of nucleotide anabolism",
+      "positive regulation of nucleotide biosynthesis",
+      "positive regulation of nucleotide formation",
+      "positive regulation of nucleotide synthesis",
+      "up regulation of nucleotide biosynthetic process",
+      "up-regulation of nucleotide biosynthetic process",
+      "upregulation of nucleotide biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of nucleotide biosynthetic process",
+      "stimulation of nucleotide biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of nucleotides.",
+  "namespace": "biological_process",
+  "label": "positive regulation of nucleotide biosynthetic process"
+}

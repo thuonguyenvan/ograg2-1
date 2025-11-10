@@ -1,0 +1,42 @@
+{
+  "id": "GO:0061809",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061809",
+  "relationships": {
+    "is_a": [
+      "GO:0016799"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase"
+    ],
+    "broad": [],
+    "narrow": [
+      "NAD hydrolase",
+      "NAD(+) nucleosidase",
+      "NADase",
+      "nicotinamide adenine dinucleotide nucleosidase"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.2.6",
+      "3.2.2.6"
+    ],
+    "MetaCyc": [
+      "NADNUCLEOSID-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-8870346",
+      "R-HSA-8938076",
+      "R-HSA-9637699"
+    ],
+    "PMID": [
+      "11866528"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD+ + H2O = ADP-D-ribose + nicotinamide + H+, in a two step reaction: first an ADP-ribosyl cyclase reaction to synthesise cyclic ADP-ribose, followed by a cyclic ADP-ribose hydrolase reaction to generate (linear) ADP-ribose.",
+  "namespace": "molecular_function",
+  "label": "CpnT hydrolyses NAD+"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0106231",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106231",
+  "relationships": {
+    "is_a": [
+      "GO:0141218"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "23500",
+      "23500"
+    ],
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "30026585"
+    ]
+  },
+  "definition": "Catalysis of the reaction:H2O + N(6)-propanoyl-L-lysyl-[protein] + NAD+ = 3&apos;&apos;-O-propanoyl-ADP-D-ribose + L-lysyl-[protein] + nicotinamide.",
+  "namespace": "molecular_function",
+  "label": "NAD-dependent protein-lysine depropionylase activity"
+}

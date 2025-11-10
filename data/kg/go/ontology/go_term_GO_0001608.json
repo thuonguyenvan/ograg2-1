@@ -1,0 +1,33 @@
+{
+  "id": "GO:0001608",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001608",
+  "relationships": {
+    "is_a": [
+      "GO:0004930"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G protein coupled nucleotide receptor activity",
+      "G-protein coupled nucleotide receptor activity",
+      "nucleotide receptor activity, G protein coupled",
+      "nucleotide receptor activity, G-protein coupled"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "dph",
+      "bf"
+    ],
+    "IUPHAR_GPCR": [
+      "1294"
+    ]
+  },
+  "definition": "Combining with a nucleotide and transmitting the signal across the membrane by activating an associated G-protein; promotes the exchange of GDP for GTP on the alpha subunit of a heterotrimeric G-protein complex.",
+  "namespace": "molecular_function",
+  "label": "G protein-coupled nucleotide receptor activity"
+}

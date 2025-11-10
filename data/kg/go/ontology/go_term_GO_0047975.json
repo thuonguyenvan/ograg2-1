@@ -1,0 +1,35 @@
+{
+  "id": "GO:0047975",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047975",
+  "relationships": {
+    "is_a": [
+      "GO:0016763"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "guanosine:phosphate D-ribosyltransferase activity",
+      "guanosine:phosphate alpha-D-ribosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.15",
+      "2.4.2.15",
+      "2.4.2.15",
+      "2.4.2.15"
+    ],
+    "MetaCyc": [
+      "RXN0-5199"
+    ],
+    "RHEA": [
+      "13233"
+    ]
+  },
+  "definition": "Catalysis of the reaction: guanosine + phosphate = guanine + D-ribose 1-phosphate.",
+  "namespace": "molecular_function",
+  "label": "guanosine phosphorylase activity"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0140665",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140665",
+  "relationships": {
+    "is_a": [
+      "GO:0000510",
+      "GO:0140674"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "H3-H4 dimer loading activity",
+      "histone H3-H4 dimer loading activity"
+    ],
+    "broad": [
+      "H3-H4 histone chaperone",
+      "H3-H4 histone complex loader activity"
+    ],
+    "narrow": [
+      "ATP-dependent H3-H4 histone complex loader activity"
+    ],
+    "related": [
+      "histone chaperone"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "31848341",
+      "33658433"
+    ]
+  },
+  "definition": "A histone chaperone that carries a H3-H4 histone complex, driven by ATP hydrolysis.",
+  "namespace": "molecular_function",
+  "label": "ATP-dependent H3-H4 histone complex chaperone activity"
+}

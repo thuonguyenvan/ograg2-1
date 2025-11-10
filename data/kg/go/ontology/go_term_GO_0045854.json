@@ -1,0 +1,34 @@
+{
+  "id": "GO:0045854",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045854",
+  "relationships": {
+    "is_a": [
+      "GO:0008359",
+      "GO:1903431",
+      "GO:1904582"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of bicoid mRNA localisation",
+      "up regulation of bicoid mRNA localization",
+      "up-regulation of bicoid mRNA localization",
+      "upregulation of bicoid mRNA localization"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of bicoid mRNA localization",
+      "stimulation of bicoid mRNA localization"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the process in which bicoid mRNA is transported to, or maintained in, a specific location.",
+  "namespace": "biological_process",
+  "label": "positive regulation of bicoid mRNA localization"
+}

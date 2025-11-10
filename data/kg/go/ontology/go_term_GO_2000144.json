@@ -1,0 +1,40 @@
+{
+  "id": "GO:2000144",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000144",
+  "relationships": {
+    "is_a": [
+      "GO:0045893",
+      "GO:2000142"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of DNA-dependent transcription, initiation",
+      "positive regulation of DNA-templated transcription, initiation",
+      "positive regulation of initiation of DNA-dependent transcription",
+      "positive regulation of transcription initiation, DNA-dependent"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "transactivation",
+      "transcriptional transactivation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "txnOH",
+      "txnOH",
+      "jh2",
+      "jh2"
+    ],
+    "PMID": [
+      "11158542",
+      "11580863"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of DNA-templated transcription initiation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of DNA-templated transcription initiation"
+}

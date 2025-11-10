@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047907",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047907",
+  "relationships": {
+    "is_a": [
+      "GO:0016859"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-(2-furyl)-3-(5-nitro-2-furyl)acrylamide cis-trans-isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.2.1.6",
+      "5.2.1.6",
+      "5.2.1.6"
+    ],
+    "KEGG_REACTION": [
+      "R04538"
+    ],
+    "MetaCyc": [
+      "FURYLFURAMIDE-ISOMERASE-RXN"
+    ],
+    "RHEA": [
+      "21848",
+      "21848"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (E)-2-(2-furyl)-3-(5-nitro-2-furyl)acrylamide = (Z)-2-(2-furyl)-3-(5-nitro-2-furyl)acrylamide.",
+  "namespace": "molecular_function",
+  "label": "furylfuramide isomerase activity"
+}

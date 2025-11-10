@@ -1,0 +1,31 @@
+{
+  "id": "GO:0051346",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051346",
+  "relationships": {
+    "is_a": [
+      "GO:0043086",
+      "GO:0051336"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of hydrolase activity",
+      "down-regulation of hydrolase activity",
+      "downregulation of hydrolase activity",
+      "hydrolase inhibitor"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of hydrolase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that stops or reduces the rate of hydrolase activity, the catalysis of the hydrolysis of various bonds.",
+  "namespace": "biological_process",
+  "label": "negative regulation of hydrolase activity"
+}

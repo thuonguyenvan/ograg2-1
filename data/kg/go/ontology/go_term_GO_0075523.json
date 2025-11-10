@@ -1,0 +1,36 @@
+{
+  "id": "GO:0075523",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075523",
+  "relationships": {
+    "is_a": [
+      "GO:0016032"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ribosomal frameshifting involved in viral translation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "860",
+      "860"
+    ],
+    "GOC": [
+      "bf",
+      "ch",
+      "jl",
+      "jl"
+    ],
+    "PMID": [
+      "24825891",
+      "8852897"
+    ]
+  },
+  "definition": "A process which occurs during viral translation, which involves a translational recoding mechanism called programmed ribosomal frameshifting. This causes the ribosome to alter its reading of the mRNA to an a different open reading frame to produce alternate viral proteins.",
+  "namespace": "biological_process",
+  "label": "Ribosomal frameshifting"
+}

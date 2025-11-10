@@ -1,0 +1,28 @@
+{
+  "id": "GO:0031073",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031073",
+  "relationships": {
+    "is_a": [
+      "GO:0008395",
+      "GO:0016716"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "43836",
+      "43836"
+    ],
+    "PMID": [
+      "950499"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cholesterol + H+ NADPH + O2 = 26-hydroxycholesterol + H2O + NADP+.",
+  "namespace": "molecular_function",
+  "label": "cholesterol 26-hydroxylase activity"
+}

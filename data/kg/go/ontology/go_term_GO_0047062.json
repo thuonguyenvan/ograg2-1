@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047062",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047062",
+  "relationships": {
+    "is_a": [
+      "GO:0016680"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(+-)-trans-acenaphthene-1,2-diol:NADP+ oxidoreductase activity",
+      "trans-1,2-acenaphthenediol dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.10.1.1",
+      "1.10.1.1",
+      "1.10.1.1",
+      "1.10.1.1"
+    ],
+    "KEGG_REACTION": [
+      "R04059"
+    ],
+    "MetaCyc": [
+      "1.10.1.1-RXN"
+    ],
+    "RHEA": [
+      "22184",
+      "22184"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (+-)-trans-acenaphthene-1,2-diol + 2 NADP+ = acenaphthene-1,2-dione + 2 H+ + 2 NADPH.",
+  "namespace": "molecular_function",
+  "label": "trans-acenaphthene-1,2-diol dehydrogenase activity"
+}

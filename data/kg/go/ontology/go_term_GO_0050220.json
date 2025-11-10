@@ -1,0 +1,61 @@
+{
+  "id": "GO:0050220",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050220",
+  "relationships": {
+    "is_a": [
+      "GO:0016860"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(5Z,13E)-(15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate E-isomerase activity",
+      "PGE isomerase activity",
+      "PGE2 isomerase activity",
+      "PGH-PGE isomerase activity",
+      "Prostaglandin-H(2) E-isomerase activity",
+      "endoperoxide isomerase activity",
+      "prostaglandin H-E isomerase activity",
+      "prostaglandin R-prostaglandin E isomerase activity",
+      "prostaglandin endoperoxide E isomerase activity",
+      "prostaglandin endoperoxide E2 isomerase activity",
+      "prostaglandin-H2 E-isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.99.3",
+      "5.3.99.3",
+      "5.3.99.3",
+      "5.3.99.3",
+      "5.3.99.3",
+      "5.3.99.3",
+      "5.3.99.3",
+      "5.3.99.3",
+      "5.3.99.3",
+      "5.3.99.3",
+      "5.3.99.3",
+      "5.3.99.3",
+      "5.3.99.3"
+    ],
+    "KEGG_REACTION": [
+      "R02265"
+    ],
+    "MetaCyc": [
+      "PROSTAGLANDIN-E-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "12893",
+      "12893"
+    ],
+    "Reactome": [
+      "R-HSA-2161660",
+      "R-HSA-265295"
+    ]
+  },
+  "definition": "Catalysis of the reaction: prostaglandin H(2) = prostaglandin E(2).",
+  "namespace": "molecular_function",
+  "label": "Prostaglandin E synthase isomerizes PGH2 to PGE2"
+}

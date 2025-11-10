@@ -1,0 +1,32 @@
+{
+  "id": "GO:0036149",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036149",
+  "relationships": {
+    "is_a": [
+      "GO:0046488"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphatidylinositol acyl-chain remodelling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1482922"
+    ],
+    "GOC": [
+      "mw"
+    ],
+    "PMID": [
+      "18094042",
+      "18772128"
+    ]
+  },
+  "definition": "Remodeling the acyl chains of phosphatidylinositol, through sequential deacylation and re-acylation reactions, to generate phosphatidylinositol containing different types of fatty acid acyl chains.",
+  "namespace": "biological_process",
+  "label": "Acyl chain remodelling of PI"
+}

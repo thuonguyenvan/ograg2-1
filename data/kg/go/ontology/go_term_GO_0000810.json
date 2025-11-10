@@ -1,0 +1,41 @@
+{
+  "id": "GO:0000810",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000810",
+  "relationships": {
+    "is_a": [
+      "GO:0016462"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DGPP phosphatase activity",
+      "DGPP phosphohydrolase activity",
+      "diacylglycerol pyrophosphate phosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.75"
+    ],
+    "MetaCyc": [
+      "RXN-11277"
+    ],
+    "RHEA": [
+      "27449",
+      "27449"
+    ],
+    "GOC": [
+      "kad"
+    ],
+    "PMID": [
+      "8567632",
+      "9452443"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1,2-diacyl-sn-glycerol 3-diphosphate + H2O = a 1,2-diacyl-sn-glycerol 3-phosphate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "diacylglycerol diphosphate phosphatase activity"
+}

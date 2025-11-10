@@ -1,0 +1,32 @@
+{
+  "id": "GO:0061852",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061852",
+  "relationships": {
+    "is_a": [
+      "GO:1990351"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "retrograde receptor complex, Golgi to ER",
+      "retrograde receptor complex, Golgi to endoplasmic reticulum",
+      "retrograde transporter complex, Golgi to endoplasmic reticulum"
+    ],
+    "broad": [],
+    "narrow": [
+      "ERV41-ERV46 retrograde receptor complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "16093310"
+    ]
+  },
+  "definition": "Transporter complex that recognises, binds and returns endoplasmic reticulum (ER) resident proteins that have trafficked to Golgi compartments. Targets proteins lacking the HDEL motif recognised by COPI-coated vesicles.",
+  "namespace": "cellular_component",
+  "label": "retrograde transporter complex, Golgi to ER"
+}

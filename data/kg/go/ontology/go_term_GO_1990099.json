@@ -1,0 +1,44 @@
+{
+  "id": "GO:1990099",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990099",
+  "relationships": {
+    "is_a": [
+      "GO:1990077"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pre-priming complex",
+      "pre-primosome",
+      "preprimosome",
+      "preprimosome complex",
+      "prereplication complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pre-replication complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "bhm",
+      "bhm",
+      "bhm",
+      "bhm",
+      "bhm",
+      "bhm"
+    ],
+    "PMID": [
+      "18179598",
+      "20129058",
+      "8663105",
+      "11994158",
+      "2824502"
+    ]
+  },
+  "definition": "Any of the protein-DNA complexes that contain a DNA helicase and associated protein(s) at the origin of replication, and build up to assembling the core primosome. The associated protein(s) chaperone the helicase to the DNA, and assembly of the pre-primosome is essential for the initiation or restart of replication. Pre-primosome complexes lack a primase component.",
+  "namespace": "cellular_component",
+  "label": "pre-primosome complex"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0061768",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061768",
+  "relationships": {
+    "is_a": [
+      "GO:0015081",
+      "GO:0015095",
+      "GO:0140828"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "pad"
+    ],
+    "PMID": [
+      "22031603"
+    ]
+  },
+  "definition": "Catalysis of the reaction: Na+(in) + Mg2+(out) = Na+(out) + Mg2+(in).",
+  "namespace": "molecular_function",
+  "label": "magnesium:sodium antiporter activity"
+}

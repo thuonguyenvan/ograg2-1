@@ -1,0 +1,39 @@
+{
+  "id": "GO:0016485",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016485",
+  "relationships": {
+    "is_a": [
+      "GO:0006508",
+      "GO:0051604"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein maturation by peptide bond cleavage",
+      "protein maturation by peptide bond hydrolysis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "peptidolysis during protein maturation",
+      "protein maturation by proteolysis"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9033500"
+    ],
+    "GOC": [
+      "curators",
+      "jl",
+      "jsg",
+      "bf",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any protein maturation process achieved by the cleavage of a peptide bond or bonds within a protein. Protein maturation is the process leading to the attainment of the full functional capacity of a protein.",
+  "namespace": "biological_process",
+  "label": "TYSND1 cleaves peroxisomal proteins"
+}

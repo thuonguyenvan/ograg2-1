@@ -1,0 +1,29 @@
+{
+  "id": "GO:0070509",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070509",
+  "relationships": {
+    "is_a": [
+      "GO:0006816"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "calcium ion uptake"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "transmembrane calcium influx"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "tb"
+    ]
+  },
+  "definition": "The directed movement of calcium ions into a cell or organelle.",
+  "namespace": "biological_process",
+  "label": "calcium ion import"
+}

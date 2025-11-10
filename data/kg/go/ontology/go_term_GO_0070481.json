@@ -1,0 +1,38 @@
+{
+  "id": "GO:0070481",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070481",
+  "relationships": {
+    "is_a": [
+      "GO:0000956"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "non-stop decay",
+      "non-stop mRNA decay",
+      "nonstop mRNA decay",
+      "nuclear-transcribed mRNA breakdown, non-stop decay",
+      "nuclear-transcribed mRNA catabolism, non-stop decay",
+      "nuclear-transcribed mRNA degradation, non-stop decay"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11910110"
+    ],
+    "GOC": [
+      "jp",
+      "jp",
+      "jp",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of the transcript body of a nuclear-transcribed mRNA that is lacking a stop codon.",
+  "namespace": "biological_process",
+  "label": "nuclear-transcribed mRNA catabolic process, non-stop decay"
+}

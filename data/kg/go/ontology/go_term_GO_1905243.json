@@ -1,0 +1,36 @@
+{
+  "id": "GO:1905243",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905243",
+  "relationships": {
+    "is_a": [
+      "GO:0071230",
+      "GO:1901699",
+      "GO:1901701",
+      "GO:1905242"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to Liothyronin",
+      "cellular response to Liothyronine",
+      "cellular response to Liothyroninum"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000071"
+    ],
+    "PMID": [
+      "21382270"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a 3,3&apos;,5-triiodo-L-thyronine stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to 3,3&apos;,5-triiodo-L-thyronine"
+}

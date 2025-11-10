@@ -1,0 +1,32 @@
+{
+  "id": "GO:0043654",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043654",
+  "relationships": {
+    "is_a": [
+      "GO:0006910"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "detection of apoptotic cell",
+      "detection of apoptotic cell corpse",
+      "detection of cell corpse",
+      "recognition of apoptotic cell corpse",
+      "recognition of cell corpse"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rk"
+    ],
+    "PMID": [
+      "15536015"
+    ]
+  },
+  "definition": "The process in which a cell interprets signals (in the form of specific proteins and lipids) on the surface of a dying cell which it will engulf and remove by phagocytosis.",
+  "namespace": "biological_process",
+  "label": "recognition of apoptotic cell"
+}

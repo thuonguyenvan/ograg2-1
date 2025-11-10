@@ -1,0 +1,31 @@
+{
+  "id": "GO:0051709",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051709",
+  "relationships": {
+    "is_a": [
+      "GO:0031341",
+      "GO:0035821"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of killing of cells of other organism"
+    ],
+    "broad": [],
+    "narrow": [
+      "modulation by organism of apoptotic process in other organism involved in symbiotic interaction",
+      "modulation of programmed cell death in other organism",
+      "modulation of programmed cell death in other organism involved in symbiotic interaction"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "bf"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of the killing by an organism of cells in another organism.",
+  "namespace": "biological_process",
+  "label": "regulation of killing of cells of another organism"
+}

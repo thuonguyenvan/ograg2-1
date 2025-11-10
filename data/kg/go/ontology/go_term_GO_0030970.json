@@ -1,0 +1,33 @@
+{
+  "id": "GO:0030970",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030970",
+  "relationships": {
+    "is_a": [
+      "GO:0032527",
+      "GO:1903513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein dislocation from ER",
+      "protein retrotranslocation, ER to cytosol",
+      "retrograde protein transport, endoplasmic reticulum to cytosol"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11994744"
+    ],
+    "GOC": [
+      "dph",
+      "krc",
+      "bf"
+    ]
+  },
+  "definition": "The directed movement of unfolded or misfolded proteins from the endoplasmic reticulum to the cytosol through the translocon.",
+  "namespace": "biological_process",
+  "label": "retrograde protein transport, ER to cytosol"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0097485",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097485",
+  "relationships": {
+    "is_a": [
+      "GO:0031175"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "neuron process guidance",
+      "neuron protrusion guidance",
+      "neuronal cell projection guidance"
+    ],
+    "broad": [],
+    "narrow": [
+      "neurite guidance"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "rl"
+    ],
+    "PMID": [
+      "22790009"
+    ]
+  },
+  "definition": "The process in which the migration of a neuron projection is directed to a specific target site in response to a combination of attractive and repulsive cues.",
+  "namespace": "biological_process",
+  "label": "neuron projection guidance"
+}

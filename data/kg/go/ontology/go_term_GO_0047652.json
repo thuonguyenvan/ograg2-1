@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047652",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047652",
+  "relationships": {
+    "is_a": [
+      "GO:0016813"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "allantoate amidinohydrolase (decarboxylating)",
+      "allantoate amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.3.9",
+      "3.5.3.9",
+      "3.5.3.9",
+      "3.5.3.9"
+    ],
+    "MetaCyc": [
+      "ALLANTOATE-DEIMINASE-RXN",
+      "ALLANTOATE-DEIMINASE-RXN"
+    ],
+    "RHEA": [
+      "27485"
+    ]
+  },
+  "definition": "Catalysis of the reaction: allantoate + H2O + H+ = CO2 + NH3 + ureidoglycine.",
+  "namespace": "molecular_function",
+  "label": "allantoate deiminase activity"
+}

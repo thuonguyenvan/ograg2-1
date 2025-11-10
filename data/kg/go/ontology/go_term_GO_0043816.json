@@ -1,0 +1,36 @@
+{
+  "id": "GO:0043816",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043816",
+  "relationships": {
+    "is_a": [
+      "GO:0004812"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "O-phosphoseryl-tRNA(Cys) synthetase activity",
+      "phosphoserine--tRNA(Cys) ligase activity",
+      "phosphoserine-tRNACys ligase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "SepRS"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.1.1.27"
+    ],
+    "RHEA": [
+      "25678",
+      "25678"
+    ],
+    "PMID": [
+      "17110438"
+    ]
+  },
+  "definition": "Catalysis of the reaction: tRNA(Cys) + O-phospho-L-serine + ATP = AMP + diphosphate + phosphoseryl-tRNA(Cys).",
+  "namespace": "molecular_function",
+  "label": "phosphoserine-tRNA(Cys) ligase activity"
+}

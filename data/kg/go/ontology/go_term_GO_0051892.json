@@ -1,0 +1,31 @@
+{
+  "id": "GO:0051892",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051892",
+  "relationships": {
+    "is_a": [
+      "GO:0051890",
+      "GO:1905208",
+      "GO:2000737"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of cardioblast differentiation",
+      "down-regulation of cardioblast differentiation",
+      "downregulation of cardioblast differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of cardioblast differentiation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of cardioblast differentiation, the process in which a relatively unspecialized mesodermal cell acquires the specialized structural and/or functional features of a cardioblast. A cardioblast is a cardiac precursor cell. It is a cell that has been committed to a cardiac fate, but will undergo more cell division rather than terminally differentiating.",
+  "namespace": "biological_process",
+  "label": "negative regulation of cardioblast differentiation"
+}

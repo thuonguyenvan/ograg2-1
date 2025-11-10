@@ -1,0 +1,43 @@
+{
+  "id": "GO:1904511",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904511",
+  "relationships": {
+    "is_a": [
+      "GO:0035371"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "growing microtubule plus end of cytoplasmic microtubule",
+      "microtubule plus end of cytoplasmic microtubule",
+      "microtubule plus-end of cytoplasmic microtubule"
+    ],
+    "broad": [],
+    "narrow": [
+      "growing microtubule plus end of non-spindle-associated astral microtubule",
+      "microtubule plus end of non-spindle-associated astral microtubule",
+      "microtubule plus-end of non-spindle-associated astral microtubule"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000064"
+    ],
+    "PMID": [
+      "15772152"
+    ]
+  },
+  "definition": "Any microtubule plus-end that is part of a cytoplasmic microtubule.",
+  "namespace": "cellular_component",
+  "label": "cytoplasmic microtubule plus-end"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0006805",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006805",
+  "relationships": {
+    "is_a": [
+      "GO:0008152"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "xenobiotic metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "drug metabolic process",
+      "drug metabolism"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-211859",
+      "R-HSA-211981",
+      "R-HSA-2161541",
+      "R-HSA-9748784"
+    ],
+    "Wikipedia": [
+      "Drug_metabolism",
+      "Xenobiotic_metabolism"
+    ],
+    "GOC": [
+      "cab2",
+      "krc"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving a xenobiotic compound, a compound foreign to the organism exposed to it. It may be synthesized by another organism (like ampicilin) or it can be a synthetic chemical.",
+  "namespace": "biological_process",
+  "label": "Drug ADME"
+}

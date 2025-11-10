@@ -1,0 +1,34 @@
+{
+  "id": "GO:0061993",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061993",
+  "relationships": {
+    "is_a": [
+      "GO:1902495"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "CAX1 homodimer",
+      "CAX1-CAX3 complex",
+      "CAX3 homodimer"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "bhm",
+      "bhm",
+      "bhm"
+    ],
+    "PMID": [
+      "19098009",
+      "28645169"
+    ]
+  },
+  "definition": "A protein complex that enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: Ca2+(in) + H+(out) = Ca2+(out) + H+(in).",
+  "namespace": "cellular_component",
+  "label": "calcium:proton antiporter complex"
+}

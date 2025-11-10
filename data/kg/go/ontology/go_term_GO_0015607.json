@@ -1,0 +1,44 @@
+{
+  "id": "GO:0015607",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015607",
+  "relationships": {
+    "is_a": [
+      "GO:0015605",
+      "GO:0015932",
+      "GO:0034040",
+      "GO:0042887",
+      "GO:0140359",
+      "GO:1901682"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ABC-type fatty-acyl-CoA transporter"
+    ],
+    "broad": [
+      "fatty-acyl-CoA transmembrane transporter activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ATPase-coupled fatty-acyl-CoA transmembrane transporter activity",
+      "fatty acyl CoA transporter activity",
+      "fatty-acyl-CoA-transporting ATPase"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.6.2.4",
+      "7.6.2.4"
+    ],
+    "MetaCyc": [
+      "3.6.3.47-RXN"
+    ],
+    "RHEA": [
+      "15181",
+      "15181"
+    ]
+  },
+  "definition": "Catalysis of the reaction ATP + H2O + fatty acyl CoA(Side 1) = ADP + phosphate + fatty acyl CoA(Side 2). A fatty acyl CoA group is any acyl group derived from a fatty acid with a coenzyme A group attached to it.",
+  "namespace": "molecular_function",
+  "label": "ABC-type fatty-acyl-CoA transporter activity"
+}

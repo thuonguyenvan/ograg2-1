@@ -1,0 +1,28 @@
+{
+  "id": "GO:1990696",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990696",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "USH2 quaternary protein complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "25406310"
+    ]
+  },
+  "definition": "A protein complex composed of four proteins, loss of which results in Usher Syndrome type 2 (USH2 syndrome), a leading genetic cause of combined hearing and vision loss. This complex is conserved in many species; in mice, it is composed of USH2A, GPR98 (aka ADGRV1), WHRN, and PDZD7.",
+  "namespace": "cellular_component",
+  "label": "USH2 complex"
+}

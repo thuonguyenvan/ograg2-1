@@ -1,0 +1,36 @@
+{
+  "id": "GO:2001295",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001295",
+  "relationships": {
+    "is_a": [
+      "GO:0071616",
+      "GO:2001293"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "malonyl-CoA anabolism",
+      "malonyl-CoA biosynthesis",
+      "malonyl-CoA formation",
+      "malonyl-CoA synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "yaf",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ],
+    "UniPathway": [
+      "UPA00655"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of malonyl-CoA, the S-malonyl derivative of coenzyme A.",
+  "namespace": "biological_process",
+  "label": "malonyl-CoA biosynthetic process"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "GO:0046557",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046557",
+  "relationships": {
+    "is_a": [
+      "GO:0008422"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "endo-(1,6)-beta-D-glucanase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,6-beta-D-glucan glucanohydrolase activity",
+      "beta-1,6-glucan 6-glucanohydrolase activity",
+      "beta-1,6-glucan hydrolase activity",
+      "beta-1,6-glucanase activity",
+      "beta-1,6-glucanase-pustulanase activity",
+      "beta-1-&gt;6-glucan hydrolase activity",
+      "endo-(1-&gt;6)-beta-D-glucanase activity",
+      "endo-1,6-beta-D-glucanase activity",
+      "endo-1,6-beta-glucanase activity",
+      "endo-beta-1,6-glucanase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.75",
+      "3.2.1.75",
+      "3.2.1.75",
+      "3.2.1.75",
+      "3.2.1.75",
+      "3.2.1.75",
+      "3.2.1.75",
+      "3.2.1.75",
+      "3.2.1.75",
+      "3.2.1.75",
+      "3.2.1.75",
+      "3.2.1.75"
+    ],
+    "MetaCyc": [
+      "3.2.1.75-RXN"
+    ]
+  },
+  "definition": "Catalysis of the random hydrolysis of (1-&gt;6) linkages in (1-&gt;6)-beta-D-glucans.",
+  "namespace": "molecular_function",
+  "label": "glucan endo-1,6-beta-glucosidase activity"
+}

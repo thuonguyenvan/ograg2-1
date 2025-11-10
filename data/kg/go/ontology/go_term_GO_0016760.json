@@ -1,0 +1,69 @@
+{
+  "id": "GO:0016760",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016760",
+  "relationships": {
+    "is_a": [
+      "GO:0016759",
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,4-beta-D-glucan synthase activity",
+      "1,4-beta-glucan synthase activity",
+      "GS-I",
+      "UDP-glucose-1,4-beta-glucan glucosyltransferase activity",
+      "UDP-glucose-beta-D-glucan glucosyltransferase activity",
+      "UDP-glucose-cellulose glucosyltransferase activity",
+      "UDP-glucose:1,4-beta-D-glucan 4-beta-D-glucosyltransferase activity",
+      "UDPglucose-beta-glucan glucosyltransferase activity",
+      "UDPglucose-cellulose glucosyltransferase activity",
+      "UDPglucose:1,4-beta-D-glucan 4-beta-D-glucosyltransferase activity",
+      "beta-1,4-glucan synthase activity",
+      "beta-1,4-glucan synthetase activity",
+      "beta-1,4-glucosyltransferase activity",
+      "beta-glucan synthase activity",
+      "glucan synthase activity",
+      "uridine diphosphoglucose-1,4-beta-glucan glucosyltransferase activity",
+      "uridine diphosphoglucose-cellulose glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.12",
+      "2.4.1.12",
+      "2.4.1.12",
+      "2.4.1.12",
+      "2.4.1.12",
+      "2.4.1.12",
+      "2.4.1.12",
+      "2.4.1.12",
+      "2.4.1.12",
+      "2.4.1.12",
+      "2.4.1.12",
+      "2.4.1.12",
+      "2.4.1.12",
+      "2.4.1.12",
+      "2.4.1.12",
+      "2.4.1.12",
+      "2.4.1.12",
+      "2.4.1.12",
+      "2.4.1.12"
+    ],
+    "MetaCyc": [
+      "CELLULOSE-SYNTHASE-UDP-FORMING-RXN"
+    ],
+    "RHEA": [
+      "19929"
+    ],
+    "Reactome": [
+      "R-HSA-9932210"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-glucose + ((1,4)-beta-D-glucosyl)(n) = UDP + ((1,4)-beta-D-glucosyl)(n+1).",
+  "namespace": "molecular_function",
+  "label": "Bcs complex synthesizes cellulose from UDP-Glc"
+}

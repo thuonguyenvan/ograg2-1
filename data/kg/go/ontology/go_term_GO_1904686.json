@@ -1,0 +1,42 @@
+{
+  "id": "GO:1904686",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904686",
+  "relationships": {
+    "is_a": [
+      "GO:0060236"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of mitotic spindle breakdown",
+      "regulation of mitotic spindle catabolism",
+      "regulation of mitotic spindle degradation",
+      "regulation of spindle breakdown during mitosis",
+      "regulation of spindle degradation during mitosis",
+      "regulation of spindle disassembly during mitosis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25963819"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of mitotic spindle disassembly.",
+  "namespace": "biological_process",
+  "label": "regulation of mitotic spindle disassembly"
+}

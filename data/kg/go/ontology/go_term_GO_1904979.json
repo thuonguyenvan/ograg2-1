@@ -1,0 +1,63 @@
+{
+  "id": "GO:1904979",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904979",
+  "relationships": {
+    "is_a": [
+      "GO:0010639",
+      "GO:1904978"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of endosome organisation",
+      "down regulation of endosome organization",
+      "down-regulation of endosome organisation",
+      "down-regulation of endosome organization",
+      "downregulation of endosome organisation",
+      "downregulation of endosome organization",
+      "negative regulation of endosome organisation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of endosome organisation",
+      "inhibition of endosome organization"
+    ],
+    "related": [
+      "down regulation of endosome organization and biogenesis",
+      "down-regulation of endosome organization and biogenesis",
+      "downregulation of endosome organization and biogenesis",
+      "inhibition of endosome organization and biogenesis",
+      "negative regulation of endosome organization and biogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "pad",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22511594"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of endosome organization.",
+  "namespace": "biological_process",
+  "label": "negative regulation of endosome organization"
+}

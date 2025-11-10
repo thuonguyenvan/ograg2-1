@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102445",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102445",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-13930"
+    ],
+    "RHEA": [
+      "74715",
+      "74715"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;,4&apos;,5,7-tetrahydroxy-3-methoxyflavone + S-adenosyl-L-methionine = 3,3&apos;-O-dimethylquercetin + H+ + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "3-methylquercetin 3&apos;-O-methyltransferase activity"
+}

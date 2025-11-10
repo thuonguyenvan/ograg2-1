@@ -1,0 +1,83 @@
+{
+  "id": "GO:1904514",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904514",
+  "relationships": {
+    "is_a": [
+      "GO:0010571",
+      "GO:0032298",
+      "GO:1904512",
+      "GO:2000243"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of premeiotic DNA replication initiation",
+      "up regulation of initiation of premeiotic DNA replication",
+      "up regulation of premeiotic DNA replication initiation",
+      "up-regulation of initiation of premeiotic DNA replication",
+      "up-regulation of premeiotic DNA replication initiation",
+      "upregulation of initiation of premeiotic DNA replication",
+      "upregulation of premeiotic DNA replication initiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of initiation of premeiotic DNA replication",
+      "activation of premeiotic DNA replication initiation"
+    ],
+    "related": [
+      "activation of initiation of meiotic DNA synthesis",
+      "activation of initiation of premeiotic DNA synthesis",
+      "activation of meiotic DNA replication initiation",
+      "positive regulation of initiation of meiotic DNA synthesis",
+      "positive regulation of initiation of premeiotic DNA synthesis",
+      "positive regulation of meiotic DNA replication initiation",
+      "up regulation of initiation of meiotic DNA synthesis",
+      "up regulation of initiation of premeiotic DNA synthesis",
+      "up regulation of meiotic DNA replication initiation",
+      "up-regulation of initiation of meiotic DNA synthesis",
+      "up-regulation of initiation of premeiotic DNA synthesis",
+      "up-regulation of meiotic DNA replication initiation",
+      "upregulation of initiation of meiotic DNA synthesis",
+      "upregulation of initiation of premeiotic DNA synthesis",
+      "upregulation of meiotic DNA replication initiation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25891897"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of initiation of premeiotic DNA replication.",
+  "namespace": "biological_process",
+  "label": "positive regulation of initiation of premeiotic DNA replication"
+}

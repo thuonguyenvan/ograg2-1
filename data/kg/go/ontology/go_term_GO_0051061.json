@@ -1,0 +1,29 @@
+{
+  "id": "GO:0051061",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051061",
+  "relationships": {
+    "is_a": [
+      "GO:0004748"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ADP reduction"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "ADPREDUCT-RXN",
+      "ADPREDUCT-RXN"
+    ],
+    "RHEA": [
+      "28034"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dADP + thioredoxin disulfide + H2O = ADP + thioredoxin.",
+  "namespace": "molecular_function",
+  "label": "ADP reductase activity"
+}

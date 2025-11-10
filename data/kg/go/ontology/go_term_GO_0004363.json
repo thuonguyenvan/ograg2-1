@@ -1,0 +1,46 @@
+{
+  "id": "GO:0004363",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004363",
+  "relationships": {
+    "is_a": [
+      "GO:0016881",
+      "GO:1904091"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GSH synthetase activity",
+      "gamma-L-glutamyl-L-cysteine:glycine ligase (ADP-forming)",
+      "glutathione synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.3",
+      "6.3.2.3",
+      "6.3.2.3",
+      "6.3.2.3",
+      "6.3.2.3"
+    ],
+    "KEGG_REACTION": [
+      "R00497"
+    ],
+    "MetaCyc": [
+      "GLUTATHIONE-SYN-RXN"
+    ],
+    "RHEA": [
+      "13557",
+      "13557"
+    ],
+    "Reactome": [
+      "R-HSA-174394",
+      "R-HSA-5602901"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-gamma-glutamyl-L-cysteine + ATP + glycine = ADP + glutathione + 2 H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "Defective GSS does not synthesize GSH"
+}

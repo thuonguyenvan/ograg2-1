@@ -1,0 +1,39 @@
+{
+  "id": "GO:0086099",
+  "uri": "http://purl.obolibrary.org/obo/GO_0086099",
+  "relationships": {
+    "is_a": [
+      "GO:0086097",
+      "GO:0086098"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Gq-coupled angiotensin receptor signaling pathway involved in heart process",
+      "PLC-activating angiotensin receptor signaling pathway involved in heart process",
+      "angiotensin receptor signaling pathway via activation of phospholipase C involved in heart process",
+      "cardiac angiotensin receptor signaling pathway via activation of PLC"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "phospholipase C-activating angiotensin-mediated signaling pathway involved in heart process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mtg_cardiac_conduct_nov11",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "17376402",
+      "17376402"
+    ]
+  },
+  "definition": "An angiotensin-mediated signaling pathway that contributes to a circulatory system process carried out by the heart, where the activated receptor transmits the signal via Gq-mediated activation of phospholipase C (PLC). PLC hydrolyses phosphatidylinositol 4,5-bisphosphate (PIP2) into the second messengers inositol-1,4,5,-triphosphate (IP3) and diacylglycerol (DAG). DAG activates protein kinase C (PKC), whilst IP3 binds intracellular receptors to induce the release of Ca2+ from intracellular stores.",
+  "namespace": "biological_process",
+  "label": "phospholipase C-activating angiotensin-activated signaling pathway involved in heart process"
+}

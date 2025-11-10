@@ -1,0 +1,30 @@
+{
+  "id": "GO:0044590",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044590",
+  "relationships": {
+    "is_a": [
+      "GO:0051536"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FeMo co binding",
+      "FeMoco binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators",
+      "tt"
+    ],
+    "PMID": [
+      "18429691"
+    ]
+  },
+  "definition": "Binding to iron molybdenum cofactor, the cofactor located at the active site of the molybdenum nitrogenase.",
+  "namespace": "molecular_function",
+  "label": "iron-sulfur-molybdenum cofactor binding"
+}

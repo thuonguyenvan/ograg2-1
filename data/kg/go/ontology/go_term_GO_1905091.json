@@ -1,0 +1,35 @@
+{
+  "id": "GO:1905091",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905091",
+  "relationships": {
+    "is_a": [
+      "GO:1901526",
+      "GO:1905089"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of PRKN-mediated stimulation of mitophagy in response to mitochondrial depolarization",
+      "positive regulation of Park2-mediated stimulation of mitophagy in response to mitochondrial depolarization",
+      "positive regulation of parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of parkin-mediated mitophagy in response to mitochondrial depolarization"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw",
+      "TermGenie"
+    ],
+    "PMID": [
+      "25009776",
+      "26942284"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of type 2 mitophagy.",
+  "namespace": "biological_process",
+  "label": "positive regulation of type 2 mitophagy"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "GO:1902346",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902346",
+  "relationships": {
+    "is_a": [
+      "GO:0000714"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "meiotic strand displacement involved in double-strand break repair via synthesis-dependent strand annealing"
+    ],
+    "broad": [
+      "meiotic strand displacement involved in SDSA"
+    ],
+    "narrow": [],
+    "related": [
+      "meiotic D-loop dissociation involved in double-strand break repair via synthesis-dependent strand annealing",
+      "meiotic D-loop dissociation involved in mitotic gene conversion",
+      "meiotic D-loop processing involved in double-strand break repair via synthesis-dependent strand annealing",
+      "meiotic D-loop processing involved in mitotic gene conversion",
+      "meiotic displacement loop dissociation involved in double-strand break repair via synthesis-dependent strand annealing",
+      "meiotic displacement loop dissociation involved in mitotic gene conversion",
+      "meiotic displacement loop processing involved in double-strand break repair via synthesis-dependent strand annealing",
+      "meiotic displacement loop processing involved in mitotic gene conversion",
+      "meiotic strand displacement involved in mitotic gene conversion"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "al",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "22723423"
+    ]
+  },
+  "definition": "Any meiotic strand displacement that is involved in double-strand break repair via synthesis-dependent strand annealing (SDSA).",
+  "namespace": "biological_process",
+  "label": "meiotic strand displacement involved in double-strand break repair via SDSA"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0048493",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048493",
+  "relationships": {
+    "is_a": [
+      "GO:0048494",
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "plasma membrane ribulose bisphosphate carboxylase complex"
+    ],
+    "broad": [
+      "RubisCO complex",
+      "ribulose bisphosphate carboxylase complex"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mlg",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "A complex, located in the plasma membrane-derived thylakoid, containing either both large and small subunits or just small subunits. It carries out the activity of producing 3-phosphoglycerate from carbon dioxide and ribulose-1,5-bisphosphate.",
+  "namespace": "cellular_component",
+  "label": "plasma membrane-derived thylakoid ribulose bisphosphate carboxylase complex"
+}

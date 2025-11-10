@@ -1,0 +1,32 @@
+{
+  "id": "GO:0045940",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045940",
+  "relationships": {
+    "is_a": [
+      "GO:0019218",
+      "GO:0045834"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of steroid metabolism",
+      "up regulation of steroid metabolic process",
+      "up-regulation of steroid metabolic process",
+      "upregulation of steroid metabolic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of steroid metabolic process",
+      "stimulation of steroid metabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways involving steroids.",
+  "namespace": "biological_process",
+  "label": "positive regulation of steroid metabolic process"
+}

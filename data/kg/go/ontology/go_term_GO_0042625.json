@@ -1,0 +1,31 @@
+{
+  "id": "GO:0042625",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042625",
+  "relationships": {
+    "is_a": [
+      "GO:0042626"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent ion transmembrane transporter activity",
+      "ATPase activity, coupled to transmembrane movement of ions",
+      "ATPase coupled ion transmembrane transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of an ion from one side of a membrane to the other, driven by the reaction: ATP + H2O = ADP + phosphate.",
+  "namespace": "molecular_function",
+  "label": "ATPase-coupled ion transmembrane transporter activity"
+}

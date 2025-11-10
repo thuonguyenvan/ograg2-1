@@ -1,0 +1,30 @@
+{
+  "id": "GO:0016579",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016579",
+  "relationships": {
+    "is_a": [
+      "GO:0070646"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "deubiquitination",
+      "protein deubiquitinylation",
+      "protein deubiquitylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5688426"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The removal of one or more ubiquitin groups from a protein.",
+  "namespace": "biological_process",
+  "label": "Deubiquitination"
+}

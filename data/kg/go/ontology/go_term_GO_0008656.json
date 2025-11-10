@@ -1,0 +1,31 @@
+{
+  "id": "GO:0008656",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008656",
+  "relationships": {
+    "is_a": [
+      "GO:0016505",
+      "GO:0043028"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "caspase activator activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-205117",
+      "R-HSA-449073"
+    ],
+    "GOC": [
+      "mah",
+      "mtg_apoptosis"
+    ]
+  },
+  "definition": "Binds to and increases the rate of proteolysis catalyzed by a cysteine-type endopeptidase involved in the apoptotic process.",
+  "namespace": "molecular_function",
+  "label": "Caspase-3 cleaves pro-interleukin-16"
+}

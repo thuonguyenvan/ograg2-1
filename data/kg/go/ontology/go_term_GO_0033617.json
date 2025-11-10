@@ -1,0 +1,32 @@
+{
+  "id": "GO:0033617",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033617",
+  "relationships": {
+    "is_a": [
+      "GO:0008535",
+      "GO:0033108"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrial cytochrome c oxidase assembly",
+      "mitochondrial cytochrome c oxidase complex assembly"
+    ],
+    "broad": [
+      "mitochondrial cytochrome c oxidase biogenesis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9864848"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form respiratory chain complex IV (also known as cytochrome c oxidase) in the mitochondrial inner membrane.",
+  "namespace": "biological_process",
+  "label": "Complex IV assembly"
+}

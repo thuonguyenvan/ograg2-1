@@ -1,0 +1,34 @@
+{
+  "id": "GO:0001769",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001769",
+  "relationships": {
+    "is_a": [
+      "GO:0001767"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "B cell polarization",
+      "B lymphocyte polarization",
+      "B-cell polarization",
+      "establishment of B lymphocyte polarity",
+      "establishment of B-cell polarity",
+      "establishment of B-lymphocyte polarity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mgi_curators"
+    ],
+    "PMID": [
+      "12615889",
+      "9692889"
+    ]
+  },
+  "definition": "The directed orientation of B cell signaling molecules and associated membrane rafts towards a chemokine gradient of a contact point with an antigen displaying cell.",
+  "namespace": "biological_process",
+  "label": "establishment of B cell polarity"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0051512",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051512",
+  "relationships": {
+    "is_a": [
+      "GO:0010770",
+      "GO:0030307",
+      "GO:0048639",
+      "GO:0051510"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of unidimensional cell growth",
+      "up-regulation of unidimensional cell growth",
+      "upregulation of unidimensional cell growth"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of unidimensional cell growth",
+      "positive regulation of cell elongation",
+      "stimulation of unidimensional cell growth"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of unidimensional cell growth, the process in which a cell irreversibly increases in size in one [spatial] dimension or along one axis.",
+  "namespace": "biological_process",
+  "label": "positive regulation of unidimensional cell growth"
+}

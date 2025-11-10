@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050043",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050043",
+  "relationships": {
+    "is_a": [
+      "GO:0016856"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "hydroxyacid racemase activity",
+      "lactic acid racemase activity",
+      "lacticoracemase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.2.1",
+      "5.1.2.1",
+      "5.1.2.1",
+      "5.1.2.1",
+      "5.1.2.1"
+    ],
+    "KEGG_REACTION": [
+      "R01450"
+    ],
+    "MetaCyc": [
+      "LACTATE-RACEMASE-RXN"
+    ],
+    "RHEA": [
+      "10960",
+      "10960"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-lactate = (R)-lactate.",
+  "namespace": "molecular_function",
+  "label": "lactate racemase activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0008315",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008315",
+  "relationships": {
+    "is_a": [
+      "GO:0044771",
+      "GO:0044839",
+      "GO:0061982"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "meiotic G2/MI phase transition",
+      "meiotic G2/MI transition",
+      "meiotic cell cycle G2/MI phase transition"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "15084480"
+    ]
+  },
+  "definition": "The cell cycle process in which a cell progresses from meiotic G2 phase to M phase of meiosis I.",
+  "namespace": "biological_process",
+  "label": "G2/MI transition of meiotic cell cycle"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0005998",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005998",
+  "relationships": {
+    "is_a": [
+      "GO:0005997",
+      "GO:0019323"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "xylulose breakdown",
+      "xylulose catabolism",
+      "xylulose degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "XYLCAT-PWY"
+    ],
+    "ISBN": [
+      "0198547684"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of xylulose, the ketopentose threo-2-pentulose.",
+  "namespace": "biological_process",
+  "label": "xylulose catabolic process"
+}

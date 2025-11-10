@@ -1,0 +1,41 @@
+{
+  "id": "GO:1903235",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903235",
+  "relationships": {
+    "is_a": [
+      "GO:0045956",
+      "GO:1903233",
+      "GO:2000302"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of calcium ion-dependent exocytosis of neurotransmitter",
+      "up-regulation of calcium ion-dependent exocytosis of neurotransmitter",
+      "upregulation of calcium ion-dependent exocytosis of neurotransmitter"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of calcium ion-dependent exocytosis of neurotransmitter"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "16782817"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of calcium ion-dependent exocytosis of neurotransmitter.",
+  "namespace": "biological_process",
+  "label": "positive regulation of calcium ion-dependent exocytosis of neurotransmitter"
+}

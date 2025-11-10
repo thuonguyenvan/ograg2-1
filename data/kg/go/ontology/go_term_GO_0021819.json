@@ -1,0 +1,35 @@
+{
+  "id": "GO:0021819",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021819",
+  "relationships": {
+    "is_a": [
+      "GO:0048646"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cerebral cortex lamination"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "12626695",
+      "12626695"
+    ]
+  },
+  "definition": "The detachment of cells from radial glial fibers at the appropriate time when they cease to migrate and form distinct layer in the cerebral cortex.",
+  "namespace": "biological_process",
+  "label": "layer formation in cerebral cortex"
+}

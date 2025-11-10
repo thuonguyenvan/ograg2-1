@@ -1,0 +1,26 @@
+{
+  "id": "GO:0001963",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001963",
+  "relationships": {
+    "is_a": [
+      "GO:0007268"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dopaminergic synaptic transmission"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dos",
+      "dph"
+    ]
+  },
+  "definition": "The vesicular release of dopamine. from a presynapse, across a chemical synapse, the subsequent activation of dopamine receptors at the postsynapse of a target cell (neuron, muscle, or secretory cell) and the effects of this activation on the postsynaptic membrane potential and ionic composition of the postsynaptic cytosol. This process encompasses both spontaneous and evoked release of neurotransmitter and all parts of synaptic vesicle exocytosis. Evoked transmission starts with the arrival of an action potential at the presynapse.",
+  "namespace": "biological_process",
+  "label": "synaptic transmission, dopaminergic"
+}

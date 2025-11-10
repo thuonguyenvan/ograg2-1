@@ -1,0 +1,30 @@
+{
+  "id": "GO:0016289",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016289",
+  "relationships": {
+    "is_a": [
+      "GO:0016790",
+      "GO:0160215"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "CoA hydrolase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "70423",
+      "70423"
+    ],
+    "Reactome": [
+      "R-HSA-193385"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an acyl-CoA + H2O = a carboxylate + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "Hydrolysis of choloyl-CoA to cholate and CoASH"
+}

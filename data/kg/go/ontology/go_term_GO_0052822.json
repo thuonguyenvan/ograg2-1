@@ -1,0 +1,27 @@
+{
+  "id": "GO:0052822",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052822",
+  "relationships": {
+    "is_a": [
+      "GO:0043733"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "elh"
+    ],
+    "PMID": [
+      "10872450",
+      "9224623"
+    ]
+  },
+  "definition": "Catalysis of the reaction: DNA containing 3-methylguanine + H2O = DNA with abasic site + 3-methylguanine. This reaction is the hydrolysis of DNA by cleavage of the N-C1&apos; glycosidic bond between the damaged DNA 3-methylguanine and the deoxyribose sugar to remove the 3-methylguanine, leaving an abasic site.",
+  "namespace": "molecular_function",
+  "label": "DNA-3-methylguanine glycosylase activity"
+}

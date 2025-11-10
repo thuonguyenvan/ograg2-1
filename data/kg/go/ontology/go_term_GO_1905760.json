@@ -1,0 +1,57 @@
+{
+  "id": "GO:1905760",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905760",
+  "relationships": {
+    "is_a": [
+      "GO:1990752"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "microtubule end of microtubule of PAA",
+      "microtubule end of microtubule of post-anaphase array",
+      "microtubule end of microtubule of post-anaphase microtubule array",
+      "microtubule end of microtubuli of PAA",
+      "microtubule end of microtubuli of post-anaphase array",
+      "microtubule end of microtubuli of post-anaphase microtubule array",
+      "microtubule end of microtubulus of PAA",
+      "microtubule end of microtubulus of post-anaphase array",
+      "microtubule end of microtubulus of post-anaphase microtubule array",
+      "microtubule end of post-anaphase array microtubule"
+    ],
+    "broad": [],
+    "narrow": [
+      "microtubule end of neurotubule of PAA",
+      "microtubule end of neurotubule of post-anaphase array",
+      "microtubule end of neurotubule of post-anaphase microtubule array"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000064"
+    ],
+    "PMID": [
+      "11007487"
+    ]
+  },
+  "definition": "Any microtubule end that is part of a post-anaphase array microtubule.",
+  "namespace": "cellular_component",
+  "label": "post-anaphase array microtubule end"
+}

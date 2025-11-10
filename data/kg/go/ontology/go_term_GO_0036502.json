@@ -1,0 +1,32 @@
+{
+  "id": "GO:0036502",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036502",
+  "relationships": {
+    "is_a": [
+      "GO:0098796",
+      "GO:0140534"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Derlin-1/VIMP complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf"
+    ],
+    "PMID": [
+      "15215856",
+      "16186510",
+      "15215856"
+    ]
+  },
+  "definition": "A protein complex containing, in mammals, Derlin-1 and VCP-interacting membrane protein (VIMP). The complex links the p97/VCP-containing ATPase complex with Derlin-1 during translocation of protein substrates from the endoplasmic reticulum to the cytosol for degradation by the cytosolic proteasome.",
+  "namespace": "cellular_component",
+  "label": "Derlin-1-VIMP complex"
+}

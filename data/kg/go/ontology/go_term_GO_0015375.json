@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015375",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015375",
+  "relationships": {
+    "is_a": [
+      "GO:0005295",
+      "GO:0005343",
+      "GO:0015187"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "68228"
+    ],
+    "Reactome": [
+      "R-HSA-444120",
+      "R-HSA-5660840"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: glycine(out) + Na+(out) = glycine(in) + Na+(in).",
+  "namespace": "molecular_function",
+  "label": "Defective SLC6A5 does not cotransport Gly, Cl-, Na+ from extracellular region to cytosol"
+}

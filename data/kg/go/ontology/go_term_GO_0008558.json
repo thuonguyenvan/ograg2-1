@@ -1,0 +1,38 @@
+{
+  "id": "GO:0008558",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008558",
+  "relationships": {
+    "is_a": [
+      "GO:0015208",
+      "GO:0140359"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "guanine ABC transporter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP-dependent guanine transmembrane transporter activity",
+      "ATPase-coupled guanine transmembrane transporter activity",
+      "guanine-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.6.2.6",
+      "7.6.2.6"
+    ],
+    "MetaCyc": [
+      "3.6.3.37-RXN"
+    ],
+    "RHEA": [
+      "20832",
+      "20832"
+    ]
+  },
+  "definition": "Catalyses the reaction: ATP + H2O + guanine(out) = ADP + phosphate + guanine(in).",
+  "namespace": "molecular_function",
+  "label": "ABC-type guanine transporter activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0043793",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043793",
+  "relationships": {
+    "is_a": [
+      "GO:0016763"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "beta-RFAP synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.54",
+      "2.4.2.54"
+    ],
+    "PMID": [
+      "12142414"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-hydroxybenzoate + 5-phospho-alpha-D-ribose 1-diphosphate + H+ = 4-(beta-D-ribofuranosyl)phenol 5&apos;-phosphate + CO2 + diphosphate. Both 4-hydroxybenzoate and 4-aminobenzoate may be used as substrates, but only the former is known to be produced by methanogenic archaea.",
+  "namespace": "molecular_function",
+  "label": "beta-ribofuranosylaminobenzene 5&apos;-phosphate synthase activity"
+}

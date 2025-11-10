@@ -1,0 +1,30 @@
+{
+  "id": "GO:0141049",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141049",
+  "relationships": {
+    "is_a": [
+      "GO:0015036",
+      "GO:0016671",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "glutaredoxin activity",
+      "glutathione oxidoreductase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "23397885",
+      "33932870",
+      "36771108"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glutathionylated protein (PSSG) + glutathione (GSH) = protein-thiol (PSH) + glutathione disulfide (GSSG). The reaction may proceed via a &apos;monothiol&apos; or &apos;dithiol&apos; mechanism.",
+  "namespace": "molecular_function",
+  "label": "protein-glutathione oxidoreductase (glutathione) activity"
+}

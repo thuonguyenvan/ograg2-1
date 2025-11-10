@@ -1,0 +1,29 @@
+{
+  "id": "GO:0019559",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019559",
+  "relationships": {
+    "is_a": [
+      "GO:0006548"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histidine breakdown to imidazol-5-yl-lactate",
+      "histidine degradation to imidazol-5-yl-lactate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "HISTDEG-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-histidine into other compounds, including imidazol-5-yl-lactate.",
+  "namespace": "biological_process",
+  "label": "L-histidine catabolic process to imidazol-5-yl-lactate"
+}

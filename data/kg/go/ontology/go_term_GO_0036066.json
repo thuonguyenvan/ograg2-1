@@ -1,0 +1,29 @@
+{
+  "id": "GO:0036066",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036066",
+  "relationships": {
+    "is_a": [
+      "GO:0006493"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "protein O-linked fucosylation"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5173214"
+    ],
+    "PMID": [
+      "16899492",
+      "35536928"
+    ]
+  },
+  "definition": "A glycoprotein biosynthetic process starting with the covalent linkage of a fucose via an alpha-glycosidic bond to the oxygen atom of a serine or threonine side chain in a protein, which can be further elongated with the sequential addition of sugar units resulting in the formation of a protein O-linked glycan. This modification typically occurs within specific motifs, such as EGF-like or thrombospondin type-1 repeats.",
+  "namespace": "biological_process",
+  "label": "O-glycosylation of TSR domain-containing proteins"
+}

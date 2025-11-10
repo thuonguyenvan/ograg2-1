@@ -1,0 +1,52 @@
+{
+  "id": "GO:0001783",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001783",
+  "relationships": {
+    "is_a": [
+      "GO:0070227"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "B cell programmed cell death by apoptosis",
+      "B lymphocyte apoptosis",
+      "B lymphocyte programmed cell death by apoptosis",
+      "B-cell apoptosis",
+      "B-cell programmed cell death by apoptosis",
+      "B-lymphocyte apoptosis",
+      "B-lymphocyte programmed cell death by apoptosis",
+      "apoptosis of B cells",
+      "apoptosis of B lymphocytes",
+      "apoptosis of B-cells",
+      "apoptosis of B-lymphocytes",
+      "programmed cell death of B cells by apoptosis",
+      "programmed cell death of B lymphocytes by apoptosis",
+      "programmed cell death of B-cells by apoptosis",
+      "programmed cell death of B-lymphocytes by apoptosis",
+      "programmed cell death, B cells",
+      "programmed cell death, B lymphocytes",
+      "programmed cell death, B-cells",
+      "programmed cell death, B-lymphocytes"
+    ],
+    "broad": [],
+    "narrow": [
+      "B cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000236"
+    ],
+    "GOC": [
+      "add",
+      "mtg_apoptosis"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "Any apoptotic process in a B cell, a lymphocyte of B lineage with the phenotype CD19-positive and capable of B cell mediated immunity.",
+  "namespace": "biological_process",
+  "label": "B cell apoptotic process"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0036198",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036198",
+  "relationships": {
+    "is_a": [
+      "GO:0006231",
+      "GO:0010139"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dTMP biosynthesis via salvage pathway",
+      "deoxythymidine monophosphate biosynthesis via salvage pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "yaf",
+      "yaf",
+      "yaf"
+    ],
+    "PMID": [
+      "5387459",
+      "5387459",
+      "5387459"
+    ]
+  },
+  "definition": "Any process which produces dTMP, deoxyribosylthymine monophosphate (2&apos;-deoxyribosylthymine 5&apos;-phosphate) without de novo synthesis.",
+  "namespace": "biological_process",
+  "label": "dTMP salvage"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:1990688",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990688",
+  "relationships": {
+    "is_a": [
+      "GO:1990668"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Golgi vesicle fusion with ER-Golgi intermediate compartment membrane",
+      "Golgi vesicle fusion with ERGIC membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "16038056",
+      "24119662"
+    ]
+  },
+  "definition": "The joining of the lipid bilayer membrane around a Golgi vesicle to the lipid bilayer membrane of the ERGIC. Such vesicles include COPI-coated transport vesicles involved in retrograde transport.",
+  "namespace": "biological_process",
+  "label": "Golgi vesicle fusion with endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane"
+}

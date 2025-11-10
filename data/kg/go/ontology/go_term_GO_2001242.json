@@ -1,0 +1,33 @@
+{
+  "id": "GO:2001242",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001242",
+  "relationships": {
+    "is_a": [
+      "GO:1902531",
+      "GO:2001233"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of intrinsic apoptotic pathway",
+      "regulation of intrinsic apoptotic signalling pathway",
+      "regulation of mitochondrial-mediated apoptotic pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of intrinsic apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_apoptosis",
+      "obol",
+      "mah",
+      "obol"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of intrinsic apoptotic signaling pathway.",
+  "namespace": "biological_process",
+  "label": "regulation of intrinsic apoptotic signaling pathway"
+}

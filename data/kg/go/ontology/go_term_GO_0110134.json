@@ -1,0 +1,28 @@
+{
+  "id": "GO:0110134",
+  "uri": "http://purl.obolibrary.org/obo/GO_0110134",
+  "relationships": {
+    "is_a": [
+      "GO:0022414"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "26920473",
+      "29322557",
+      "29499907"
+    ]
+  },
+  "definition": "A biological process that results in the unequal transmission of alleles, haplotypes, or chromosomes from a parental genome to gametes. In the absence of meiotic drive, the two copies of each gene or chromosome in a diploid organism are transmitted to offspring with equal probability, whereas meiotic drive results in overrepresentation of the driving allele among the surviving products of meiosis.",
+  "namespace": "biological_process",
+  "label": "meiotic drive"
+}

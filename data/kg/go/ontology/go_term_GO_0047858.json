@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047858",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047858",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dihydroxyfumarate carboxy-lyase (tartronate-semialdehyde-forming)",
+      "dihydroxyfumarate carboxy-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.54",
+      "4.1.1.54",
+      "4.1.1.54",
+      "4.1.1.54"
+    ],
+    "KEGG_REACTION": [
+      "R03127"
+    ],
+    "MetaCyc": [
+      "DIHYDROXYFUMARATE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "13845",
+      "13845"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dihydroxyfumarate + H+ = 2-hydroxy-3-oxopropanoate + CO2.",
+  "namespace": "molecular_function",
+  "label": "dihydroxyfumarate decarboxylase activity"
+}

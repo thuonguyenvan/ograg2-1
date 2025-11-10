@@ -1,0 +1,37 @@
+{
+  "id": "GO:0050631",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050631",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:protoberberine 13-C-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.147",
+      "2.1.1.147",
+      "2.1.1.147"
+    ],
+    "KEGG_REACTION": [
+      "R07241"
+    ],
+    "MetaCyc": [
+      "2.1.1.147-RXN"
+    ],
+    "RHEA": [
+      "14773",
+      "14773"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + 2 NADPH + palmatine = S-adenosyl-L-homocysteine + corydaline + 2 NADP+.",
+  "namespace": "molecular_function",
+  "label": "corydaline synthase activity"
+}

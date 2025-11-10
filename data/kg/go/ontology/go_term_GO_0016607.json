@@ -1,0 +1,31 @@
+{
+  "id": "GO:0016607",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016607",
+  "relationships": {
+    "is_a": [
+      "GO:0140168"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nuclear speckle",
+      "nuclear speckles",
+      "splicing speckle"
+    ],
+    "broad": [],
+    "narrow": [
+      "speckle domain"
+    ],
+    "related": [
+      "speckle focus"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "28977640"
+    ]
+  },
+  "definition": "A discrete extra-nucleolar subnuclear domain, 20-50 in number, in which splicing factors are seen to be localized by immunofluorescence microscopy.",
+  "namespace": "cellular_component",
+  "label": "nuclear speck"
+}

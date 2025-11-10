@@ -1,0 +1,39 @@
+{
+  "id": "GO:2001279",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001279",
+  "relationships": {
+    "is_a": [
+      "GO:0042304"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of unsaturated fatty acid anabolism",
+      "regulation of unsaturated fatty acid biosynthesis",
+      "regulation of unsaturated fatty acid formation",
+      "regulation of unsaturated fatty acid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of fatty acid desaturation",
+      "regulation of polyunsaturated fatty acid biosynthesis"
+    ]
+  },
+  "cross_references": {
+    "GO": [
+      "0006636"
+    ],
+    "GOC": [
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of unsaturated fatty acid biosynthetic process.",
+  "namespace": "biological_process",
+  "label": "regulation of unsaturated fatty acid biosynthetic process"
+}

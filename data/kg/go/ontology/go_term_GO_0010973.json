@@ -1,0 +1,35 @@
+{
+  "id": "GO:0010973",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010973",
+  "relationships": {
+    "is_a": [
+      "GO:0032955",
+      "GO:1901893"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of division septum formation",
+      "positive regulation of division septum formation involved in cell cycle cytokinesis",
+      "upregulation of mitotic division septum assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "19959363",
+      "21246752",
+      "22786806"
+    ]
+  },
+  "definition": "Any process that increases the frequency, rate or extent of division septum formation. division septum formation is the assembly and arrangement of a septum that spans the plasma membrane interface between progeny cells following cytokinesis.",
+  "namespace": "biological_process",
+  "label": "positive regulation of division septum assembly"
+}

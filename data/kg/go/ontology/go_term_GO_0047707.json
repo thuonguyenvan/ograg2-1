@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047707",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047707",
+  "relationships": {
+    "is_a": [
+      "GO:0016405",
+      "GO:0016878"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "biotin CoA synthetase activity",
+      "biotin:CoA ligase (AMP-forming)",
+      "biotinyl coenzyme A synthetase activity",
+      "biotinyl-CoA synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.2.1.11",
+      "6.2.1.11",
+      "6.2.1.11",
+      "6.2.1.11",
+      "6.2.1.11",
+      "6.2.1.11"
+    ],
+    "MetaCyc": [
+      "BIOTIN--COA-LIGASE-RXN",
+      "BIOTIN--COA-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "19681"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + biotin + CoA = AMP + diphosphate + biotinyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "biotin-CoA ligase activity"
+}

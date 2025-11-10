@@ -1,0 +1,28 @@
+{
+  "id": "GO:0043541",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043541",
+  "relationships": {
+    "is_a": [
+      "GO:0061695",
+      "GO:0098796",
+      "GO:0140534"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rn"
+    ],
+    "PMID": [
+      "19129246"
+    ]
+  },
+  "definition": "A multienzyme, heterooligomeric complex involved in dolichyl-linked oligosaccharide synthesis. In yeast the complex is composed of Alg7p, which catalyzes the first step (GlcNAc1-PP-Dol from dolichol-phosphate and UDP-GlcNAc), and Alg13p plus Alg14p, the catalytic and anchoring subunits respectively, which together catalyze the second step (GlcNAc2-PP-dolichol from GlcNAc1-PP-Dol and UDP-GlcNAc) of dolichyl-linked oligosaccharide synthesis.",
+  "namespace": "cellular_component",
+  "label": "UDP-N-acetylglucosamine transferase complex"
+}

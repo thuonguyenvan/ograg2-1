@@ -1,0 +1,42 @@
+{
+  "id": "GO:0043421",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043421",
+  "relationships": {
+    "is_a": [
+      "GO:0009074",
+      "GO:0042178",
+      "GO:0043420",
+      "GO:0072329"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-aminobenzoate breakdown",
+      "2-aminobenzoate catabolic process",
+      "2-aminobenzoate degradation",
+      "anthranilate breakdown",
+      "anthranilate catabolism",
+      "anthranilate degradation"
+    ],
+    "broad": [],
+    "narrow": [
+      "2-aminobenzoate catabolism",
+      "anthranilic acid catabolic process",
+      "anthranilic acid catabolism",
+      "ortho-aminobenzoic acid catabolic process",
+      "ortho-aminobenzoic acid catabolism"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "2AMINOBENZDEG-PWY"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of anthranilate (2-aminobenzoate).",
+  "namespace": "biological_process",
+  "label": "anthranilate catabolic process"
+}

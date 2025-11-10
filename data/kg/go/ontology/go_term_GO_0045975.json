@@ -1,0 +1,33 @@
+{
+  "id": "GO:0045975",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045975",
+  "relationships": {
+    "is_a": [
+      "GO:0045727",
+      "GO:0045974"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of mRNA translation, ncRNA-mediated",
+      "up-regulation of mRNA translation, ncRNA-mediated",
+      "upregulation of mRNA translation, ncRNA-mediated"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of mRNA translation, ncRNA-mediated",
+      "stimulation of mRNA translation, ncRNA-mediated"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "go_curators",
+      "tb"
+    ]
+  },
+  "definition": "Any process, mediated by small non-coding RNAs, that activates or increases the rate that mRNAs are effectively translated into protein.",
+  "namespace": "biological_process",
+  "label": "positive regulation of translation, ncRNA-mediated"
+}

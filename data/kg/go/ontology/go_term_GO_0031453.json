@@ -1,0 +1,33 @@
+{
+  "id": "GO:0031453",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031453",
+  "relationships": {
+    "is_a": [
+      "GO:0031445",
+      "GO:0044089",
+      "GO:0120263"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of heterochromatin assembly",
+      "up regulation of heterochromatin formation",
+      "up-regulation of heterochromatin formation",
+      "upregulation of heterochromatin formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of heterochromatin formation",
+      "stimulation of heterochromatin formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of heterochromatin formation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of heterochromatin formation"
+}

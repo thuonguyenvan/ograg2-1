@@ -1,0 +1,32 @@
+{
+  "id": "GO:0030209",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030209",
+  "relationships": {
+    "is_a": [
+      "GO:0030167",
+      "GO:0050655"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chondroitin sulfate B catabolic process",
+      "chondroitin sulfate B catabolism",
+      "dermatan sulfate breakdown",
+      "dermatan sulfate catabolism",
+      "dermatan sulfate degradation",
+      "dermatan sulphate catabolic process",
+      "dermatan sulphate catabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "17239763"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of dermatan sulfate proteoglycans, which consist of a core protein linked to a dermatan sulfate glycosaminoglycan. The dermatan sulfate chain is composed of the repeating disaccharide unit beta-(1,4)-D-hexuronic acid-beta-(1,3)-N-acetyl-D-galactosamine. The former can be a mixture of sulfated and nonsulfated D-glucuronic and L-iduronic acids and the latter can be O-sulfated.",
+  "namespace": "biological_process",
+  "label": "dermatan sulfate proteoglycan catabolic process"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "GO:0004342",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004342",
+  "relationships": {
+    "is_a": [
+      "GO:0019239"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "glucosaminephosphate isomerase"
+    ],
+    "narrow": [],
+    "related": [
+      "2-amino-2-deoxy-D-glucose-6-phosphate aminohydrolase (ketol isomerizing)",
+      "GlcN6P deaminase activity",
+      "aminodeoxyglucosephosphate isomerase activity",
+      "glucosamine phosphate deaminase activity",
+      "glucosamine-6-phosphate isomerase activity",
+      "phosphoglucosamine isomerase activity",
+      "phosphoglucosaminisomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.99.6",
+      "3.5.99.6",
+      "3.5.99.6",
+      "3.5.99.6",
+      "3.5.99.6",
+      "3.5.99.6",
+      "3.5.99.6",
+      "3.5.99.6",
+      "3.5.99.6",
+      "3.5.99.6"
+    ],
+    "KEGG_REACTION": [
+      "R00765"
+    ],
+    "MetaCyc": [
+      "GLUCOSAMINE-6-P-DEAMIN-RXN"
+    ],
+    "RHEA": [
+      "12172",
+      "12172"
+    ],
+    "Reactome": [
+      "R-HSA-6799604"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-glucosamine 6-phosphate + H2O = beta-D-fructose 6-phosphate + NH4.",
+  "namespace": "molecular_function",
+  "label": "GNPDA1,2 hexamers deaminate GlcN6P to Fru(6)P"
+}

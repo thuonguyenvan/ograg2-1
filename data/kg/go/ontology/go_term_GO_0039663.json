@@ -1,0 +1,35 @@
+{
+  "id": "GO:0039663",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039663",
+  "relationships": {
+    "is_a": [
+      "GO:0016032"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "fusion of virus membrane with host membrane",
+      "fusion of virus membrane with host membrane during viral entry",
+      "viral entry into host cell via membrane fusion"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "jl",
+      "bf",
+      "jl"
+    ],
+    "UniProtKB-KW": [
+      "KW-1168",
+      "KW-1168",
+      "KW-1168"
+    ]
+  },
+  "definition": "Merging of the virion membrane and a host membrane (host plasma membrane or host organelle membrane) that is involved in the uptake of a virus into a host cell.",
+  "namespace": "biological_process",
+  "label": "membrane fusion involved in viral entry into host cell"
+}

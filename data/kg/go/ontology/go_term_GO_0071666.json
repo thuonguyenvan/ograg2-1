@@ -1,0 +1,30 @@
+{
+  "id": "GO:0071666",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071666",
+  "relationships": {
+    "is_a": [
+      "GO:0032992"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Slit-Robo signalling complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sart",
+      "mah"
+    ],
+    "PMID": [
+      "17062560",
+      "18359766"
+    ]
+  },
+  "definition": "A protein-carbohydrate complex that consists of a transmembrane roundabout (Robo) receptor, an extracellular Slit ligand and heparin/heparan sulfate.",
+  "namespace": "cellular_component",
+  "label": "Slit-Robo signaling complex"
+}

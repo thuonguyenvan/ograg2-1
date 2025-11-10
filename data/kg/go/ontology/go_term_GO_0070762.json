@@ -1,0 +1,33 @@
+{
+  "id": "GO:0070762",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070762",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NDC1 complex",
+      "NDC1 subcomplex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dgf"
+    ],
+    "PMID": [
+      "18046406",
+      "19524430",
+      "20947011",
+      "22419078",
+      "19414609"
+    ]
+  },
+  "definition": "A subcomplex of the nuclear pore complex (NPC) that spans the nuclear membrane and anchors the NPC to the nuclear envelope. In S. cerevisiae, the transmembrane ring is composed of Pom152p, Pom34p, and Ndc1p. In vertebrates, it is composed of Gp210, Ndc1, and Pom121. Components are arranged in 8-fold symmetrical &apos;spokes&apos; around the central transport channel. A single &apos;spoke&apos;, can be isolated and is sometime referred to as the Ndc1 complex.",
+  "namespace": "cellular_component",
+  "label": "nuclear pore transmembrane ring"
+}

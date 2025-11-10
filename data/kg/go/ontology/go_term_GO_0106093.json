@@ -1,0 +1,31 @@
+{
+  "id": "GO:0106093",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106093",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "EDS1-PAD4 complex",
+      "EDS1-PAD4-SAG101 complex",
+      "EDS1-SAG101 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "11574472",
+      "16040633"
+    ]
+  },
+  "definition": "A plant complex involved in basal disease resistance and resistance (R) gene-mediated effector triggered immunity (ETI). Regulates accumulation of the hormone salicylic acid (SA) which is a necessary component of systemic immunity. Involved in responds to bacteria, viruses and oomycetes.",
+  "namespace": "cellular_component",
+  "label": "EDS1 disease-resistance complex"
+}

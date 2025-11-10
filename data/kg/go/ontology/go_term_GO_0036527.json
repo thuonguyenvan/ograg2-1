@@ -1,0 +1,32 @@
+{
+  "id": "GO:0036527",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036527",
+  "relationships": {
+    "is_a": [
+      "GO:0018195",
+      "GO:0036525"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "deglycation of N-acetylarginine"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf"
+    ],
+    "PMID": [
+      "14568004",
+      "25416785",
+      "25416785"
+    ]
+  },
+  "definition": "The removal of a sugar or dicarbonyl from an arginine residue of a glycated protein.",
+  "namespace": "biological_process",
+  "label": "peptidyl-arginine deglycation"
+}

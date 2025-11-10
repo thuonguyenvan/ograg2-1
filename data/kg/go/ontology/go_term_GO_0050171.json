@@ -1,0 +1,45 @@
+{
+  "id": "GO:0050171",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050171",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phenol b-glucosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP glucosyltransferase activity",
+      "UDP-glucose glucosyltransferase activity",
+      "UDP-glucose:phenol beta-D-glucosyltransferase activity",
+      "UDPglucose:phenol beta-D-glucosyltransferase activity",
+      "UDPglucosyltransferase activity",
+      "phenol-beta-D-glucosyltransferase activity",
+      "uridine diphosphoglucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.35",
+      "2.4.1.35",
+      "2.4.1.35",
+      "2.4.1.35",
+      "2.4.1.35",
+      "2.4.1.35",
+      "2.4.1.35",
+      "2.4.1.35",
+      "2.4.1.35"
+    ],
+    "MetaCyc": [
+      "PHENOL-BETA-GLUCOSYLTRANSFERASE-RXN",
+      "PHENOL-BETA-GLUCOSYLTRANSFERASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-glucose + a phenol = UDP + an aryl beta-D-glucoside.",
+  "namespace": "molecular_function",
+  "label": "phenol beta-glucosyltransferase activity"
+}

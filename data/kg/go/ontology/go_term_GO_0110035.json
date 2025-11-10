@@ -1,0 +1,28 @@
+{
+  "id": "GO:0110035",
+  "uri": "http://purl.obolibrary.org/obo/GO_0110035",
+  "relationships": {
+    "is_a": [
+      "GO:0043110",
+      "GO:0044374"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "al",
+      "vw"
+    ],
+    "PMID": [
+      "27035982"
+    ]
+  },
+  "definition": "The activity of binding selectively, and in a sequence-specific manner, a replication fork barrier found in rDNA spacers, and distorting the original structure of DNA, typically a straight helix, into a bend, or increasing the bend if the original structure was intrinsically bent due to its sequence.",
+  "namespace": "molecular_function",
+  "label": "rDNA spacer replication fork barrier binding, bending"
+}

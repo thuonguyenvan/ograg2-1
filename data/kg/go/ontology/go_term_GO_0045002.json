@@ -1,0 +1,23 @@
+{
+  "id": "GO:0045002",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045002",
+  "relationships": {
+    "is_a": [
+      "GO:0006302"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11606529"
+    ]
+  },
+  "definition": "Repair of a DSB made between two repeated sequences oriented in the same direction occurs primarily by the single strand annealing pathway. The ends of the break are processed by a 5&apos; to 3&apos; exonuclease, exposing complementary single-strand regions of the direct repeats that can anneal, resulting in a deletion of the unique DNA between the direct repeats.",
+  "namespace": "biological_process",
+  "label": "double-strand break repair via single-strand annealing"
+}

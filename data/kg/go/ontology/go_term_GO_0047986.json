@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047986",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047986",
+  "relationships": {
+    "is_a": [
+      "GO:0016418"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hydrogen-sulphide S-acetyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetyl-CoA:hydrogen-sulfide S-acetyltransferase activity",
+      "hydrogen-sulfide acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.10",
+      "2.3.1.10",
+      "2.3.1.10",
+      "2.3.1.10"
+    ],
+    "KEGG_REACTION": [
+      "R01850"
+    ],
+    "MetaCyc": [
+      "HYDROGEN-SULFIDE-S-ACETYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "16625",
+      "16625"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + S(2-) = CoA + thioacetate.",
+  "namespace": "molecular_function",
+  "label": "hydrogen-sulfide S-acetyltransferase activity"
+}

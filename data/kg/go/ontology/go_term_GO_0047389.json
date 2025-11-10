@@ -1,0 +1,47 @@
+{
+  "id": "GO:0047389",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047389",
+  "relationships": {
+    "is_a": [
+      "GO:0008081"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glycerolphosphorylcholine phosphodiesterase activity",
+      "glycerophosphinicocholine diesterase activity",
+      "glycerophosphohydrolase activity",
+      "glycerylphosphorylcholinediesterase activity",
+      "sn-glycero-3-phosphocholine glycerophosphohydrolase activity",
+      "sn-glycero-3-phosphorylcholine diesterase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.4.2",
+      "3.1.4.2",
+      "3.1.4.2",
+      "3.1.4.2",
+      "3.1.4.2",
+      "3.1.4.2",
+      "3.1.4.2",
+      "3.1.4.2"
+    ],
+    "MetaCyc": [
+      "3.1.4.2-RXN",
+      "3.1.4.2-RXN"
+    ],
+    "RHEA": [
+      "16061"
+    ],
+    "Reactome": [
+      "R-HSA-6814132"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + L-1-glycero-3-phosphocholine = glycerol-3-phosphate + choline.",
+  "namespace": "molecular_function",
+  "label": "GDPD5 hydrolyzes GPCho"
+}

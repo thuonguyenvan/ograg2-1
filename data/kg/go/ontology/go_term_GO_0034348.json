@@ -1,0 +1,36 @@
+{
+  "id": "GO:0034348",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034348",
+  "relationships": {
+    "is_a": [
+      "GO:0004904"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "interferon-lambda receptor activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "signaling"
+    ],
+    "ISBN": [
+      "0126896631"
+    ],
+    "PMID": [
+      "15546383",
+      "16734557"
+    ],
+    "PR": [
+      "000001362"
+    ]
+  },
+  "definition": "Combining with a type III interferon and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity. Interferon lambda is the only member of the type III interferon found so far.",
+  "namespace": "molecular_function",
+  "label": "type III interferon receptor activity"
+}

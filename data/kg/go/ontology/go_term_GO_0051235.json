@@ -1,0 +1,31 @@
+{
+  "id": "GO:0051235",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051235",
+  "relationships": {
+    "is_a": [
+      "GO:0051179"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "maintenance of localization"
+    ],
+    "broad": [],
+    "narrow": [
+      "retention",
+      "sequestering",
+      "storage"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process in which a cell, substance or cellular entity, such as a protein complex or organelle, is maintained in a location and prevented from moving elsewhere.",
+  "namespace": "biological_process",
+  "label": "maintenance of location"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:1904812",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904812",
+  "relationships": {
+    "is_a": [
+      "GO:1990882"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "rRNA acetylation involved in SSU-rRNA maturation"
+    ],
+    "broad": [],
+    "narrow": [
+      "rRNA acetylation involved in processing of 20S pre-rRNA"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000060"
+    ],
+    "PMID": [
+      "25402480"
+    ]
+  },
+  "definition": "Any rRNA acetylation that is involved in maturation of SSU-rRNA.",
+  "namespace": "biological_process",
+  "label": "rRNA acetylation involved in maturation of SSU-rRNA"
+}

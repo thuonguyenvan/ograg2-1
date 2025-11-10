@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102733",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102733",
+  "relationships": {
+    "is_a": [
+      "GO:0004497",
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-719"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "17138693"
+    ]
+  },
+  "definition": "Catalysis of the reaction: typhasterol + O2 + a reduced electron acceptor = castasterone + H2O + an oxidized electron acceptor.",
+  "namespace": "molecular_function",
+  "label": "typhasterol C-23 hydroxylase activity"
+}

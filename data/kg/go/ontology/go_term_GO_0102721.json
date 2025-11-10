@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102721",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102721",
+  "relationships": {
+    "is_a": [
+      "GO:0016682"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.10.3.11"
+    ],
+    "MetaCyc": [
+      "RXN-6883"
+    ],
+    "RHEA": [
+      "30255",
+      "30255"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: O2 + 2 an ubiquinol = 2 H2O + 2 an ubiquinone.",
+  "namespace": "molecular_function",
+  "label": "ubiquinol:oxygen oxidoreductase activity"
+}

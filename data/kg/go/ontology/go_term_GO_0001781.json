@@ -1,0 +1,40 @@
+{
+  "id": "GO:0001781",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001781",
+  "relationships": {
+    "is_a": [
+      "GO:0006925",
+      "GO:0033028",
+      "GO:0071887"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "apoptosis of neutrophils",
+      "neutrophil programmed cell death by apoptosis",
+      "programmed cell death of neutrophils by apoptosis",
+      "programmed cell death, neutrophils"
+    ],
+    "broad": [],
+    "narrow": [
+      "neutrophil apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000775"
+    ],
+    "GOC": [
+      "add",
+      "mtg_apoptosis"
+    ],
+    "PMID": [
+      "12752675",
+      "12960266"
+    ]
+  },
+  "definition": "Any apoptotic process in a neutrophil, any of the immature or mature forms of a granular leukocyte that in its mature form has a nucleus with three to five lobes connected by slender threads of chromatin, and cytoplasm containing fine inconspicuous granules and stainable by neutral dyes.",
+  "namespace": "biological_process",
+  "label": "neutrophil apoptotic process"
+}

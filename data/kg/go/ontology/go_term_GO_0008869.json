@@ -1,0 +1,43 @@
+{
+  "id": "GO:0008869",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008869",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-galactonate dehydrase activity",
+      "D-galactonate dehydratase activity",
+      "D-galactonate hydro-lyase (2-dehydro-3-deoxy-D-galactonate-forming)",
+      "D-galactonate hydro-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.6",
+      "4.2.1.6",
+      "4.2.1.6",
+      "4.2.1.6",
+      "4.2.1.6",
+      "4.2.1.6"
+    ],
+    "KEGG_REACTION": [
+      "R03033"
+    ],
+    "MetaCyc": [
+      "GALACTONDEHYDRAT-RXN"
+    ],
+    "RHEA": [
+      "18649",
+      "18649"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-galactonate = 2-dehydro-3-deoxy-D-galactonate + H2O.",
+  "namespace": "molecular_function",
+  "label": "galactonate dehydratase activity"
+}

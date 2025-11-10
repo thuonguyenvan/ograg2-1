@@ -1,0 +1,49 @@
+{
+  "id": "GO:1900931",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900931",
+  "relationships": {
+    "is_a": [
+      "GO:0032892",
+      "GO:0034764",
+      "GO:0051957",
+      "GO:1900929"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of L-tyrosine import",
+      "up-regulation of L-tyrosine import",
+      "upregulation of L-tyrosine import"
+    ],
+    "broad": [
+      "positive regulation of L-tyrosine import"
+    ],
+    "narrow": [
+      "activation of L-tyrosine import",
+      "activation of L-tyrosine uptake"
+    ],
+    "related": [
+      "positive regulation of L-tyrosine uptake",
+      "up regulation of L-tyrosine uptake",
+      "up-regulation of L-tyrosine uptake",
+      "upregulation of L-tyrosine uptake"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of L-tyrosine import into the cell.",
+  "namespace": "biological_process",
+  "label": "positive regulation of L-tyrosine import across plasma membrane"
+}

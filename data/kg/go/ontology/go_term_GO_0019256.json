@@ -1,0 +1,38 @@
+{
+  "id": "GO:0019256",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019256",
+  "relationships": {
+    "is_a": [
+      "GO:0042178",
+      "GO:0050899"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acrylonitrile breakdown",
+      "acrylonitrile catabolism",
+      "acrylonitrile degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P344-PWY"
+    ],
+    "UM-BBD_pathwayID": [
+      "acr"
+    ],
+    "GOC": [
+      "ai"
+    ],
+    "PMID": [
+      "1390687",
+      "3830164"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of acrylonitrile, a colorless, volatile liquid with a pungent odor. Acrylonitrile is used in the production of acrylic fibers, plastics, and synthetic rubbers.",
+  "namespace": "biological_process",
+  "label": "acrylonitrile catabolic process"
+}

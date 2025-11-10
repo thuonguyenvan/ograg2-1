@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015387",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015387",
+  "relationships": {
+    "is_a": [
+      "GO:0015079",
+      "GO:0015295"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "potassium:hydrogen symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TRANS-RXN-3"
+    ],
+    "RHEA": [
+      "28490"
+    ],
+    "TC": [
+      "2.A.38.-.-"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: K+(out) + H+(out) = K+(in) + H+(in).",
+  "namespace": "molecular_function",
+  "label": "potassium:proton symporter activity"
+}

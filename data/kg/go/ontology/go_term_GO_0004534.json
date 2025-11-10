@@ -1,0 +1,36 @@
+{
+  "id": "GO:0004534",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004534",
+  "relationships": {
+    "is_a": [
+      "GO:0008409",
+      "GO:0016896"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5&apos;-3&apos; exoribonuclease activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-429845",
+      "R-HSA-6791227",
+      "R-HSA-9915442",
+      "R-HSA-9935265",
+      "R-HSA-9935299"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0198547684"
+    ]
+  },
+  "definition": "Catalysis of the sequential cleavage of mononucleotides from a free 5&apos; terminus of an RNA molecule.",
+  "namespace": "molecular_function",
+  "label": "XRN2 5&apos;-3&apos; exonucleolytically hydrolyzes uncapped RNA"
+}

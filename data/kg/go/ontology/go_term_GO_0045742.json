@@ -1,0 +1,37 @@
+{
+  "id": "GO:0045742",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045742",
+  "relationships": {
+    "is_a": [
+      "GO:0042058",
+      "GO:1901186"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of EGF receptor signaling pathway",
+      "positive regulation of EGF receptor signalling pathway",
+      "positive regulation of EGFR signaling pathway",
+      "up regulation of epidermal growth factor receptor signaling pathway",
+      "up-regulation of epidermal growth factor receptor signaling pathway",
+      "upregulation of epidermal growth factor receptor signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of epidermal growth factor receptor signaling pathway",
+      "stimulation of epidermal growth factor receptor signaling pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8849469"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of epidermal growth factor receptor signaling pathway activity.",
+  "namespace": "biological_process",
+  "label": "PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1"
+}

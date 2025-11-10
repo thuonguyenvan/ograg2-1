@@ -1,0 +1,37 @@
+{
+  "id": "GO:0039533",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039533",
+  "relationships": {
+    "is_a": [
+      "GO:0039531"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of IFIH1 signaling pathway",
+      "regulation of MDA-5 signalling pathway",
+      "regulation of MDA5 signaling pathway",
+      "regulation of melanoma differentiation-associated gene 5 signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "jl",
+      "mah"
+    ],
+    "HGNC": [
+      "18873",
+      "18873"
+    ],
+    "PMID": [
+      "17328678"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of the series of molecular signals generated as a consequence of the cytoplasmic pattern recognition receptor (PRR) MDA-5 (also known as IFIH1) binding to viral RNA.",
+  "namespace": "biological_process",
+  "label": "regulation of MDA-5 signaling pathway"
+}

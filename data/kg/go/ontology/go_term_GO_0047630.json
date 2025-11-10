@@ -1,0 +1,40 @@
+{
+  "id": "GO:0047630",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047630",
+  "relationships": {
+    "is_a": [
+      "GO:0016791"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-(ADP)-2-phosphoglycerate phosphohydrolase activity",
+      "ADPphosphoglycerate phosphatase activity",
+      "adenosine diphosphate phosphoglycerate phosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.3.28",
+      "3.1.3.28",
+      "3.1.3.28",
+      "3.1.3.28"
+    ],
+    "KEGG_REACTION": [
+      "R03969"
+    ],
+    "MetaCyc": [
+      "ADP-PHOSPHOGLYCERATE-PHOSPHATASE-RXN"
+    ],
+    "RHEA": [
+      "15861",
+      "15861"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-ADP-2-phosphoglycerate + H2O = 3-ADP-glycerate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "ADP-phosphoglycerate phosphatase activity"
+}

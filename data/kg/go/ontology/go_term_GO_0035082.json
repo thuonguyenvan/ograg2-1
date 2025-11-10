@@ -1,0 +1,39 @@
+{
+  "id": "GO:0035082",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035082",
+  "relationships": {
+    "is_a": [
+      "GO:0001578",
+      "GO:0022607"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ciliary axoneme assembly",
+      "cilium axoneme assembly",
+      "flagellar axoneme assembly",
+      "flagellum axoneme assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "axoneme biogenesis",
+      "cilium axoneme biogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "cilia",
+      "jl",
+      "mah",
+      "mah"
+    ],
+    "ISBN": [
+      "0815316194"
+    ]
+  },
+  "definition": "The assembly and organization of an axoneme, the bundle of microtubules and associated proteins that forms the core of cilia (also called flagella) in eukaryotic cells and is responsible for their movements.",
+  "namespace": "biological_process",
+  "label": "axoneme assembly"
+}

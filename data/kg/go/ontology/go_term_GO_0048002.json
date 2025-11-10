@@ -1,0 +1,32 @@
+{
+  "id": "GO:0048002",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048002",
+  "relationships": {
+    "is_a": [
+      "GO:0019882"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "antigen presentation, peptide antigen",
+      "peptide antigen processing and presentation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "15771591"
+    ]
+  },
+  "definition": "The process in which an antigen-presenting cell expresses peptide antigen in association with an MHC protein complex on its cell surface, including proteolysis and transport steps for the peptide antigen both prior to and following assembly with the MHC protein complex. The peptide antigen is typically, but not always, processed from an endogenous or exogenous protein.",
+  "namespace": "biological_process",
+  "label": "antigen processing and presentation of peptide antigen"
+}

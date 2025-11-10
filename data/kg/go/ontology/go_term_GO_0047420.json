@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047420",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047420",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-aminoacylase activity",
+      "N-acyl-D-amino acid amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.81",
+      "3.5.1.81",
+      "3.5.1.81",
+      "3.5.1.81"
+    ],
+    "MetaCyc": [
+      "3.5.1.81-RXN",
+      "3.5.1.81-RXN"
+    ],
+    "RHEA": [
+      "18309"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + N-acyl-D-amino acid = D-amino acid + an acid.",
+  "namespace": "molecular_function",
+  "label": "N-acyl-D-amino-acid deacylase activity"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0000992",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000992",
+  "relationships": {
+    "is_a": [
+      "GO:0000987",
+      "GO:0001016"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH"
+    ],
+    "PMID": [
+      "12381659"
+    ]
+  },
+  "definition": "Binding to a specific upstream regulatory DNA sequence (transcription factor recognition sequence or binding site) located in cis relative to the transcription start site (i.e., on the same strand of DNA) of a gene transcribed by RNA polymerase III. The transcribed region might be contain a single gene or a cistron containing multiple genes.",
+  "namespace": "molecular_function",
+  "label": "RNA polymerase III cis-regulatory region sequence-specific DNA binding"
+}

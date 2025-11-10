@@ -1,0 +1,32 @@
+{
+  "id": "GO:0140860",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140860",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "vestitone reductase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "56284",
+      "56284"
+    ],
+    "PMID": [
+      "7625843"
+    ],
+    "EC": [
+      "1.1.1.348"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a (3R,4R)-4,2&apos;-dihydroxyisoflavan + NADP+ = a (3R)-2&apos;-hydroxyisoflavanone + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "(3R)-2&apos;-hydroxyisoflavanone reductase (NADP+) activity"
+}

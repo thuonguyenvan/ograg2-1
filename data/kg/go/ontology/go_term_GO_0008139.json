@@ -1,0 +1,28 @@
+{
+  "id": "GO:0008139",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008139",
+  "relationships": {
+    "is_a": [
+      "GO:0005048"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NLS binding",
+      "nuclear localisation sequence binding",
+      "nuclear localization signal binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mah"
+    ]
+  },
+  "definition": "Binding to a nuclear localization sequence, a specific peptide sequence that acts as a signal to localize the protein within the nucleus.",
+  "namespace": "molecular_function",
+  "label": "nuclear localization sequence binding"
+}

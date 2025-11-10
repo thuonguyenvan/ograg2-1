@@ -1,0 +1,35 @@
+{
+  "id": "GO:0098025",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098025",
+  "relationships": {
+    "is_a": [
+      "GO:0044423"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "bacteriophage baseplate"
+    ],
+    "related": [
+      "tail structure",
+      "tail tip"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "3957",
+      "3957"
+    ],
+    "GOC": [
+      "bm",
+      "bm",
+      "bm",
+      "bm"
+    ]
+  },
+  "definition": "Multiprotein component at the distal (head) end of the virus tail to which fibers of tailed viruses may be attached.",
+  "namespace": "cellular_component",
+  "label": "Viral baseplate protein"
+}

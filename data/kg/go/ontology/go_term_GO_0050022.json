@@ -1,0 +1,36 @@
+{
+  "id": "GO:0050022",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050022",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "L-arabinose 1-dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "L-arabinose:NAD+ 1-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.46",
+      "1.1.1.46",
+      "1.1.1.46"
+    ],
+    "MetaCyc": [
+      "L-ARABINOSE-1-DEHYDROGENASE-RXN",
+      "L-ARABINOSE-1-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "17925"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-arabinose + NAD+ = L-arabinono-1,4-lactone + NADH.",
+  "namespace": "molecular_function",
+  "label": "L-arabinose 1-dehydrogenase (NAD+) activity"
+}

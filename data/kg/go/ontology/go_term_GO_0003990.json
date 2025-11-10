@@ -1,0 +1,48 @@
+{
+  "id": "GO:0003990",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003990",
+  "relationships": {
+    "is_a": [
+      "GO:0004104"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "AcCholE",
+      "acetyl.beta-methylcholinesterase activity",
+      "acetylcholine acetylhydrolase activity",
+      "acetylcholine hydrolase activity",
+      "acetylthiocholinesterase activity",
+      "choline esterase I activity",
+      "true cholinesterase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.7",
+      "3.1.1.7",
+      "3.1.1.7",
+      "3.1.1.7",
+      "3.1.1.7",
+      "3.1.1.7",
+      "3.1.1.7",
+      "3.1.1.7",
+      "3.1.1.7"
+    ],
+    "MetaCyc": [
+      "ACETYLCHOLINESTERASE-RXN"
+    ],
+    "RHEA": [
+      "17561"
+    ],
+    "Reactome": [
+      "R-HSA-372519"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetylcholine + H2O = choline + acetate.",
+  "namespace": "molecular_function",
+  "label": "AcCho is hydrolyzed to Cho and acetate by ACHE"
+}

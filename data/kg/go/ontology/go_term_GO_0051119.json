@@ -1,0 +1,34 @@
+{
+  "id": "GO:0051119",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051119",
+  "relationships": {
+    "is_a": [
+      "GO:0015144"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "sugar/polyol channel activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-428779",
+      "R-HSA-8875902",
+      "R-HSA-8876319"
+    ],
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of a sugar from one side of a membrane to the other. A sugar is any member of a class of sweet, water-soluble, crystallizable carbohydrates, which are the monosaccharides and smaller oligosaccharides.",
+  "namespace": "molecular_function",
+  "label": "SLC50A1 transports Glc from cytosol to extracellular region"
+}

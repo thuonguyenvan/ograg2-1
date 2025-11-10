@@ -1,0 +1,33 @@
+{
+  "id": "GO:0140657",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140657",
+  "relationships": {
+    "is_a": [
+      "GO:0003674"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP hydrolysis-dependent activity",
+      "ATPase activity",
+      "ATPase activity, coupled",
+      "ATPase-dependent activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "24878343",
+      "25750732",
+      "32933017",
+      "33818025",
+      "33873056",
+      "33988324"
+    ]
+  },
+  "definition": "A molecular function characterized by the coupling of ATP hydrolysis to other steps of a reaction mechanism to make the reaction energetically favorable, for example to catalyze a reaction or drive transport against a concentration gradient.",
+  "namespace": "molecular_function",
+  "label": "ATP-dependent activity"
+}

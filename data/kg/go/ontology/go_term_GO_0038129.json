@@ -1,0 +1,35 @@
+{
+  "id": "GO:0038129",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038129",
+  "relationships": {
+    "is_a": [
+      "GO:0038127"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ERBB3 signalling pathway",
+      "HER3 signaling pathway",
+      "receptor tyrosine-protein kinase erbB-3 signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jc",
+      "mah"
+    ],
+    "PMID": [
+      "16460914"
+    ],
+    "PR": [
+      "000007159",
+      "000007159"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by binding of a ligand to the tyrosine kinase receptor ERBB3 on the surface of a cell, and ending with the regulation of a downstream cellular process, e.g. transcription. ERBB3 receptors have impaired kinase activity and rely on the kinase activity of the heterodimer partner for activation and signal transmission.",
+  "namespace": "biological_process",
+  "label": "ERBB3 signaling pathway"
+}

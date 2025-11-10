@@ -1,0 +1,97 @@
+{
+  "id": "GO:0004722",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004722",
+  "relationships": {
+    "is_a": [
+      "GO:0004721"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "serine/threonine specific protein phosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "phosphatase I",
+      "phosphatase II",
+      "phosphatase III",
+      "protein phosphatase type 1 activity",
+      "protein phosphatase type 2A activity",
+      "protein phosphatase type 2B activity",
+      "protein phosphatase type 2C activity",
+      "protein phosphatase-1",
+      "protein phosphatase-2A",
+      "protein phosphatase-2B",
+      "protein phosphatase-2C",
+      "protein serine phosphatase activity",
+      "protein threonine phosphatase activity"
+    ],
+    "related": [
+      "magnesium-dependent protein serine/threonine phosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.3.16",
+      "3.1.3.16",
+      "3.1.3.16",
+      "3.1.3.16",
+      "3.1.3.16"
+    ],
+    "MetaCyc": [
+      "3.1.3.16-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-1295632",
+      "R-HSA-163568",
+      "R-HSA-163689",
+      "R-HSA-163750",
+      "R-HSA-1638821",
+      "R-HSA-199425",
+      "R-HSA-199959",
+      "R-HSA-201787",
+      "R-HSA-201790",
+      "R-HSA-209055",
+      "R-HSA-2187401",
+      "R-HSA-2995388",
+      "R-HSA-3002811",
+      "R-HSA-3601585",
+      "R-HSA-380949",
+      "R-HSA-4088141",
+      "R-HSA-429730",
+      "R-HSA-4419948",
+      "R-HSA-5672957",
+      "R-HSA-5672961",
+      "R-HSA-5675431",
+      "R-HSA-5675433",
+      "R-HSA-5679206",
+      "R-HSA-5683405",
+      "R-HSA-5687758",
+      "R-HSA-5692754",
+      "R-HSA-5694421",
+      "R-HSA-6792863",
+      "R-HSA-6811504",
+      "R-HSA-74948",
+      "R-HSA-8948139",
+      "R-HSA-9619430",
+      "R-HSA-9619449",
+      "R-HSA-9619467",
+      "R-HSA-9658445",
+      "R-HSA-9660536",
+      "R-HSA-9660538",
+      "R-HSA-9686524",
+      "R-HSA-9831948",
+      "R-HSA-9853385",
+      "R-HSA-9861725",
+      "R-HSA-9865226",
+      "R-HSA-9865238",
+      "R-HSA-9912527"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Catalysis of the reaction: protein serine phosphate + H2O = protein serine + phosphate, and protein threonine phosphate + H2O = protein threonine + phosphate.",
+  "namespace": "molecular_function",
+  "label": "H139Hfs13* PPM1K does not dephosphorylate BCKDH"
+}

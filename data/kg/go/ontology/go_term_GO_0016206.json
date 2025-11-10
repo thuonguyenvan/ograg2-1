@@ -1,0 +1,51 @@
+{
+  "id": "GO:0016206",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016206",
+  "relationships": {
+    "is_a": [
+      "GO:0008171",
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "COMT I",
+      "COMT II",
+      "MB-COMT (membrane-bound form of catechol-O-methyltransferase)",
+      "S-COMT (soluble form of catechol-O-methyltransferase)",
+      "S-adenosyl-L-methionine:catechol O-methyltransferase activity",
+      "catechol methyltransferase activity",
+      "catecholamine O-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.6",
+      "2.1.1.6",
+      "2.1.1.6",
+      "2.1.1.6",
+      "2.1.1.6",
+      "2.1.1.6",
+      "2.1.1.6",
+      "2.1.1.6",
+      "2.1.1.6"
+    ],
+    "MetaCyc": [
+      "CATECHOL-O-METHYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "17877",
+      "17877"
+    ],
+    "Reactome": [
+      "R-HSA-175983",
+      "R-HSA-8955010"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a catechol + S-adenosyl-L-methionine = a guaiacol + H+ + S-adenosyl-L-homocysteine. Acts on catechols and on catecholamines such as adrenaline or noradrenaline.",
+  "namespace": "molecular_function",
+  "label": "LRTOMT transfers Met to DA, forming 3MT"
+}

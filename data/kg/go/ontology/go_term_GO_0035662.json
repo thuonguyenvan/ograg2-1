@@ -1,0 +1,29 @@
+{
+  "id": "GO:0035662",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035662",
+  "relationships": {
+    "is_a": [
+      "GO:0035325"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TLR4 binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "bf"
+    ],
+    "PMID": [
+      "18304834"
+    ]
+  },
+  "definition": "Binding to a Toll-like 4 protein, a pattern recognition receptor that binds bacterial lipopolysaccharide (LPS) to initiate an innate immune response.",
+  "namespace": "molecular_function",
+  "label": "Toll-like receptor 4 binding"
+}

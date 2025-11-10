@@ -1,0 +1,41 @@
+{
+  "id": "GO:1904282",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904282",
+  "relationships": {
+    "is_a": [
+      "GO:0002589"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of endogenous peptide antigen processing and presentation via MHC class I"
+    ],
+    "broad": [
+      "regulation of antigen presentation, endogenous peptide antigen",
+      "regulation of antigen processing, endogenous antigen via MHC class I",
+      "regulation of antigen processing, endogenous antigen via major histocompatibility complex class I"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24643698"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of antigen processing and presentation of endogenous peptide antigen via MHC class I.",
+  "namespace": "biological_process",
+  "label": "regulation of antigen processing and presentation of endogenous peptide antigen via MHC class I"
+}

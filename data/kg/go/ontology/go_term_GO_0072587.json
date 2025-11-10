@@ -1,0 +1,25 @@
+{
+  "id": "GO:0072587",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072587",
+  "relationships": {
+    "is_a": [
+      "GO:0001671",
+      "GO:0008047",
+      "GO:0072586"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Binds to and increases the activity of ATP-hydrolyzing DNA topoisomerase. DNA topoisomerase (ATP-hydrolyzing) regulator activity catalyzes a DNA topological transformation by transiently cleaving a pair of complementary DNA strands to form a gate through which a second double-stranded DNA segment is passed, after which the severed strands in the first DNA segment are rejoined; product release is coupled to ATP binding and hydrolysis; changes the linking number in multiples of 2.",
+  "namespace": "molecular_function",
+  "label": "DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activator activity"
+}

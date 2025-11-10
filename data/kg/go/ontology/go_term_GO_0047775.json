@@ -1,0 +1,34 @@
+{
+  "id": "GO:0047775",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047775",
+  "relationships": {
+    "is_a": [
+      "GO:0008410"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetyl-CoA:citramalate CoA-transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.3.11",
+      "2.8.3.11",
+      "2.8.3.11"
+    ],
+    "MetaCyc": [
+      "CITRAMALATE-COA-TRANSFERASE-RXN",
+      "CITRAMALATE-COA-TRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "17621"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + citramalate = acetate + (3S)-citramalyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "citramalate CoA-transferase activity"
+}

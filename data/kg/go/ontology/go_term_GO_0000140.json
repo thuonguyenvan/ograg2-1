@@ -1,0 +1,46 @@
+{
+  "id": "GO:0000140",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000140",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1-acyldihydroxyacetone-phosphate reductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-palmitoylglycerol-3-phosphate:NADP+ oxidoreductase activity",
+      "acyldihydroxyacetone phosphate reductase activity",
+      "palmitoyl dihydroxyacetone phosphate reductase activity",
+      "palmitoyl-dihydroxyacetone-phosphate reductase activity",
+      "palmitoyldihydroxyacetone-phosphate reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.101",
+      "1.1.1.101",
+      "1.1.1.101",
+      "1.1.1.101",
+      "1.1.1.101",
+      "1.1.1.101"
+    ],
+    "MetaCyc": [
+      "ACYLGLYCERONE-PHOSPHATE-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "17341",
+      "17341"
+    ],
+    "Reactome": [
+      "R-HSA-75883"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-hexadecanoyl-sn-glycero-3-phosphate + NADP+ = 1-hexadecanoylglycerone 3-phosphate + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "DHRS7B reduces GO3P to HXDG3P"
+}

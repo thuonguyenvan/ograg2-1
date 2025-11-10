@@ -1,0 +1,30 @@
+{
+  "id": "GO:0061186",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061186",
+  "relationships": {
+    "is_a": [
+      "GO:0031452",
+      "GO:0090054"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of chromatin silencing at silent mating-type cassette",
+      "negative regulation of silent mating-type cassette heterochromatin assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph"
+    ],
+    "PMID": [
+      "10388812"
+    ]
+  },
+  "definition": "Any process that decreases the frequency, rate, or extent of heterochromatin formation at silent mating-type cassette.",
+  "namespace": "biological_process",
+  "label": "negative regulation of silent mating-type cassette heterochromatin formation"
+}

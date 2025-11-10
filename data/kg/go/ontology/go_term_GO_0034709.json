@@ -1,0 +1,27 @@
+{
+  "id": "GO:0034709",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034709",
+  "relationships": {
+    "is_a": [
+      "GO:0034708"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "20S methylosome",
+      "20S methyltransferase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11713266",
+      "11756452"
+    ]
+  },
+  "definition": "A large (20 S) protein complex that possesses protein arginine methyltransferase activity and modifies specific arginines to dimethylarginines in the arginine- and glycine-rich domains of several spliceosomal Sm proteins, thereby targeting these proteins to the survival of motor neurons (SMN) complex for assembly into small nuclear ribonucleoprotein (snRNP) core particles. Proteins found in the methylosome include the methyltransferase JBP1 (PRMT5), pICln (CLNS1A), MEP50 (WDR77), and unmethylated forms of SM proteins that have RG domains.",
+  "namespace": "cellular_component",
+  "label": "methylosome"
+}

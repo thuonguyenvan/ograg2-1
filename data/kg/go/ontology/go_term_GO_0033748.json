@@ -1,0 +1,44 @@
+{
+  "id": "GO:0033748",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033748",
+  "relationships": {
+    "is_a": [
+      "GO:0016695"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "H2 producing hydrogenase activity",
+      "hydrogen-lyase activity",
+      "hydrogenlyase activity",
+      "uptake hydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "hydrogen:(acceptor) oxidoreductase activity",
+      "hydrogen:acceptor oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.12.99.6",
+      "1.12.99.6",
+      "1.12.99.6",
+      "1.12.99.6",
+      "1.12.99.6",
+      "1.12.99.6",
+      "1.12.99.6",
+      "1.12.99.6"
+    ],
+    "MetaCyc": [
+      "RXN0-4141"
+    ],
+    "RHEA": [
+      "12116"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2 + A = AH2.",
+  "namespace": "molecular_function",
+  "label": "hydrogenase (acceptor) activity"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0000979",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000979",
+  "relationships": {
+    "is_a": [
+      "GO:0000977",
+      "GO:0001046"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pg",
+      "txnOH"
+    ],
+    "PMID": [
+      "12381658"
+    ]
+  },
+  "definition": "Binding to a DNA sequence that is part of the core promoter of a RNA polymerase II-transcribed gene.",
+  "namespace": "molecular_function",
+  "label": "RNA polymerase II core promoter sequence-specific DNA binding"
+}

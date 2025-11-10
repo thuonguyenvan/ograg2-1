@@ -1,0 +1,34 @@
+{
+  "id": "GO:0032010",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032010",
+  "relationships": {
+    "is_a": [
+      "GO:0005767",
+      "GO:0045335"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "late phagocytic vesicle",
+      "late phagosome"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Phagolysosome"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "12388753",
+      "14733906"
+    ]
+  },
+  "definition": "A membrane-bounded intracellular vesicle formed by maturation of an early phagosome following the ingestion of particulate material by phagocytosis; during maturation, phagosomes acquire markers of late endosomes and lysosomes.",
+  "namespace": "cellular_component",
+  "label": "phagolysosome"
+}

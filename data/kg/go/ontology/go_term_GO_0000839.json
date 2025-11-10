@@ -1,0 +1,27 @@
+{
+  "id": "GO:0000839",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000839",
+  "relationships": {
+    "is_a": [
+      "GO:0000836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "elh"
+    ],
+    "PMID": [
+      "16873065",
+      "16873066"
+    ]
+  },
+  "definition": "A multiprotein complex that recognizes and ubiquitinates proteins with misfolded luminal domains during ER-associated protein degradation (ERAD). In S. cerevisiae, this complex contains the ubiquitin ligase Hrd1p.",
+  "namespace": "cellular_component",
+  "label": "Hrd1p ubiquitin ligase ERAD-L complex"
+}

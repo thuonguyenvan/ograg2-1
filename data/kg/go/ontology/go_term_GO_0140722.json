@@ -1,0 +1,40 @@
+{
+  "id": "GO:0140722",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140722",
+  "relationships": {
+    "is_a": [
+      "GO:0017000",
+      "GO:0030639",
+      "GO:0043386",
+      "GO:0046189",
+      "GO:0072330",
+      "GO:1901336"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mycophenolic acid anabolism",
+      "mycophenolic acid biosynthesis",
+      "mycophenolic acid formation",
+      "mycophenolic acid synthesis"
+    ],
+    "broad": [
+      "MPA anabolism",
+      "MPA biosynthesis",
+      "MPA formation",
+      "MPA synthesis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "21398490",
+      "26751579",
+      "31209052"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of mycophenolic acid (MPA). MPA is the first isolated antibiotic natural product in the world obtained from a culture of Penicillium brevicompactum in 1893.",
+  "namespace": "biological_process",
+  "label": "mycophenolic acid biosynthetic process"
+}

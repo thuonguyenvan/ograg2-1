@@ -1,0 +1,28 @@
+{
+  "id": "GO:1990662",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990662",
+  "relationships": {
+    "is_a": [
+      "GO:1902495"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "S100A9 homodimer"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "15642721"
+    ]
+  },
+  "definition": "A protein complex composed of a S100A9 dimer and capable of binding to toll-like receptor 4 (TLR4) and the receptor for advanced glycation end products (RAGE) initiating signal transduction through NF-kappa-B pathways. Transports arachidonic acid between the cytosol and the NADPH oxidase complex at the plasma membrane in neutrophils as part of an inflammatory signal cascade leading to an oxidative burst. Complexes with microtubules to increase cell motility.",
+  "namespace": "cellular_component",
+  "label": "S100A9 complex"
+}

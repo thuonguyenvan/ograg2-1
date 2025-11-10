@@ -1,0 +1,36 @@
+{
+  "id": "GO:0045301",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045301",
+  "relationships": {
+    "is_a": [
+      "GO:0016705",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-methylthio-cis-ribozeatin hydroxylase activity",
+      "tRNA-(2-methylthio-N-6-(cis-hydroxy)isopentenyl adenosine)-hydroxylase activity",
+      "tRNA-(2-methylthio-N-6-(cis-hydroxy)isopentenyladenosine)-hydroxylase activity",
+      "tRNA-(ms2io6A)-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.99.69"
+    ],
+    "RHEA": [
+      "65812",
+      "65812"
+    ],
+    "PMID": [
+      "8253666"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-methylsulfanyl-N(6)-dimethylallyladenosine(37) in tRNA + acceptor-H2 + O2 = N(6)-[(2E)-4-hydroxy-3-methylbut-2-en-1-yl]-2-(methylsulfanyl)adenosine(37) in tRNA + acceptor + H2O.",
+  "namespace": "molecular_function",
+  "label": "tRNA 2-(methylsulfanyl)-N(6)-isopentenyladenosine(37) hydroxylase activity"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:1904214",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904214",
+  "relationships": {
+    "is_a": [
+      "GO:1903961",
+      "GO:1904203",
+      "GO:1904212"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of iodide transmembrane transport",
+      "up-regulation of iodide transmembrane transport",
+      "upregulation of iodide transmembrane transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of iodide transmembrane transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "20392814"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of iodide transmembrane transport.",
+  "namespace": "biological_process",
+  "label": "positive regulation of iodide transmembrane transport"
+}

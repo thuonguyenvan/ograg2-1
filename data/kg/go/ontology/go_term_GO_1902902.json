@@ -1,0 +1,86 @@
+{
+  "id": "GO:1902902",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902902",
+  "relationships": {
+    "is_a": [
+      "GO:0016242",
+      "GO:1902116",
+      "GO:2000785"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of autophagic vacuole assembly",
+      "down regulation of autophagosome biosynthesis",
+      "down regulation of autophagosome formation",
+      "down-regulation of autophagic vacuole assembly",
+      "down-regulation of autophagosome biosynthesis",
+      "down-regulation of autophagosome formation",
+      "downregulation of autophagic vacuole assembly",
+      "downregulation of autophagosome biosynthesis",
+      "downregulation of autophagosome formation",
+      "negative regulation of autophagic vacuole assembly",
+      "negative regulation of autophagosome biosynthesis",
+      "negative regulation of autophagosome formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "down regulation of PAS formation",
+      "down-regulation of PAS formation",
+      "downregulation of PAS formation",
+      "inhibition of PAS formation",
+      "inhibition of autophagic vacuole assembly",
+      "inhibition of autophagosome biosynthesis",
+      "inhibition of autophagosome formation",
+      "negative regulation of PAS formation"
+    ],
+    "related": [
+      "down regulation of autophagic vacuole formation",
+      "down-regulation of autophagic vacuole formation",
+      "downregulation of autophagic vacuole formation",
+      "inhibition of autophagic vacuole formation",
+      "negative regulation of autophagic vacuole formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "als",
+      "autophagy",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "autophagy",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "21975012"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of autophagosome assembly.",
+  "namespace": "biological_process",
+  "label": "negative regulation of autophagosome assembly"
+}

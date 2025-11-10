@@ -1,0 +1,71 @@
+{
+  "id": "GO:0047017",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047017",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(5Z,13E)-(15S)-9alpha,11alpha,15-trihydroxyprosta-5,13-dienoate:NADP+ 11-oxidoreductase activity",
+      "NADPH-dependent prostaglandin D2 11-keto reductase activity",
+      "PGD(2) 11-ketoreductase activity",
+      "PGD2 11-ketoreductase activity",
+      "PGF synthetase activity",
+      "PGF2alpha synthetase activity",
+      "prostaglandin 11-keto reductase activity",
+      "prostaglandin 11-ketoreductase activity",
+      "prostaglandin D2-ketoreductase activity",
+      "prostaglandin F synthetase activity",
+      "prostaglandin-D(2) 11-ketoreductase activity",
+      "prostaglandin-D(2) 11-reductase activity",
+      "prostaglandin-D(2) ketoreductase activity",
+      "prostaglandin-D2 11-ketoreductase activity",
+      "prostaglandin-D2 11-reductase activity",
+      "prostaglandin-D2 ketoreductase activity",
+      "prostaglandin-F synthase activity",
+      "prostaglandin-F synthetase activity",
+      "reductase, 15-hydroxy-11-oxoprostaglandin",
+      "synthetase, prostaglandin F2alpha"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188",
+      "1.1.1.188"
+    ],
+    "MetaCyc": [
+      "1.1.1.188-RXN"
+    ],
+    "RHEA": [
+      "10140",
+      "10140"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NADP+ + prostaglandin F2alpha = H+ + NADPH + prostaglandin D2.",
+  "namespace": "molecular_function",
+  "label": "prostaglandin F synthase activity"
+}

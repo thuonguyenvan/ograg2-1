@@ -1,0 +1,29 @@
+{
+  "id": "GO:0043855",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043855",
+  "relationships": {
+    "is_a": [
+      "GO:0015276"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cyclic nucleotide activated ion channel activity",
+      "cyclic nucleotide gated ion channel activity",
+      "cyclic nucleotide-gated monoatomic ion channel activity"
+    ],
+    "broad": [
+      "cyclic nucleotide-gated ion channel activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of an ion by a channel that opens when a cyclic nucleotide has been bound by the channel complex or one of its constituent parts.",
+  "namespace": "molecular_function",
+  "label": "cyclic nucleotide-activated monoatomic ion channel activity"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0006361",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006361",
+  "relationships": {
+    "is_a": [
+      "GO:0006352"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transcription initiation from Pol I promoter",
+      "transcription initiation from RNA polymerase I promoter"
+    ],
+    "broad": [],
+    "narrow": [
+      "transcription initiation from RNA polymerase I promoter for nuclear large rRNA transcript"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-73854"
+    ],
+    "GOC": [
+      "txnOH"
+    ]
+  },
+  "definition": "A transcription initiation process that takes place at a RNA polymerase I gene promoter. Ribosomal RNAs (rRNA) genes are transcribed by RNA polymerase I.",
+  "namespace": "biological_process",
+  "label": "RNA Polymerase I Promoter Clearance"
+}

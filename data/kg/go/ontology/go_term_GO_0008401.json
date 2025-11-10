@@ -1,0 +1,35 @@
+{
+  "id": "GO:0008401",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008401",
+  "relationships": {
+    "is_a": [
+      "GO:0004497",
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "cytochrome P450 CYP261"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-211874",
+      "R-HSA-211923",
+      "R-HSA-212007",
+      "R-HSA-5362525",
+      "R-HSA-5602050",
+      "R-HSA-5602063"
+    ],
+    "PMID": [
+      "19519282",
+      "9250660"
+    ]
+  },
+  "definition": "Catalysis of the conversion of retinoic acid to 4-hydroxy-retinoic acid.",
+  "namespace": "molecular_function",
+  "label": "Defective CYP26B1 does not 4-hydroxylate atRA"
+}

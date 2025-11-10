@@ -1,0 +1,37 @@
+{
+  "id": "GO:0006626",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006626",
+  "relationships": {
+    "is_a": [
+      "GO:0006605",
+      "GO:0072655"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein import into mitochondrion",
+      "protein targeting to mitochondria",
+      "protein-mitochondrial targeting"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "mitochondrial protein import",
+      "mitochondrial translocation"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1268020"
+    ],
+    "GOC": [
+      "mcc"
+    ],
+    "ISBN": [
+      "0716731363"
+    ]
+  },
+  "definition": "The process of directing proteins towards and into the mitochondrion, usually mediated by mitochondrial proteins that recognize signals contained within the imported protein.",
+  "namespace": "biological_process",
+  "label": "Mitochondrial protein import"
+}

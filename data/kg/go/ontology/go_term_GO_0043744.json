@@ -1,0 +1,38 @@
+{
+  "id": "GO:0043744",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043744",
+  "relationships": {
+    "is_a": [
+      "GO:0016774",
+      "GO:0019202"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-acetyl-L-aminoadipate 5-phosphotransferase activity",
+      "N-acetylaminoadipate kinase activity",
+      "acetylaminoadipate kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "[LysW]-aminoadipate kinase"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-5182"
+    ],
+    "RHEA": [
+      "41944",
+      "41944"
+    ],
+    "PMID": [
+      "25392000",
+      "26966182"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + N-acetyl-L-2-aminoadipate = ADP + N-acetyl-L-2-aminoadipate 6-phosphate.",
+  "namespace": "molecular_function",
+  "label": "N2-acetyl-L-aminoadipate kinase activity"
+}

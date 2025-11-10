@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047755",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047755",
+  "relationships": {
+    "is_a": [
+      "GO:0016856"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(1R,2S)-1-hydroxypropane-1,2,3-tricarboxylate 1-epimerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.2.6",
+      "5.1.2.6",
+      "5.1.2.6"
+    ],
+    "KEGG_REACTION": [
+      "R02318"
+    ],
+    "MetaCyc": [
+      "ISOCITRATE-EPIMERASE-RXN"
+    ],
+    "RHEA": [
+      "10820",
+      "10820"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-threo-isocitrate = D-erythro-isocitrate.",
+  "namespace": "molecular_function",
+  "label": "isocitrate epimerase activity"
+}

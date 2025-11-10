@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006508",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006508",
+  "relationships": {
+    "is_a": [
+      "GO:0019538"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptidolysis"
+    ],
+    "broad": [],
+    "narrow": [
+      "ATP-dependent proteolysis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Proteolysis"
+    ],
+    "GOC": [
+      "bf",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "The hydrolysis of proteins into smaller polypeptides and/or amino acids by cleavage of their peptide bonds.",
+  "namespace": "biological_process",
+  "label": "proteolysis"
+}

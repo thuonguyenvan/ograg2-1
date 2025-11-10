@@ -1,0 +1,46 @@
+{
+  "id": "GO:0000252",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000252",
+  "relationships": {
+    "is_a": [
+      "GO:0033764"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3beta-hydroxy-4beta-methyl-5alpha-cholest-7-ene-4alpha-carboxylate:NAD(P)+ 3-oxidoreductase (decarboxylating)",
+      "C-3 sterol dehydrogenase (C-4 sterol decarboxylase) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3beta-hydroxy-4alpha-methylcholestenecarboxylate 3-dehydrogenase (decarboxylating)",
+      "3beta-hydroxy-4beta-methylcholestenecarboxylate 3-dehydrogenase (decarboxylating)",
+      "3beta-hydroxy-4beta-methylcholestenoate dehydrogenase activity",
+      "C-3 sterol dehydrogenase (C-4 decarboxylase) activity",
+      "C-3 sterol dehydrogenase activity",
+      "sterol 4alpha-carboxylic decarboxylase activity",
+      "sterol-4-carboxylate 3-dehydrogenase (decarboxylating) activity",
+      "sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.170",
+      "1.1.1.170",
+      "1.1.1.170"
+    ],
+    "Reactome": [
+      "R-HSA-194642",
+      "R-HSA-194718",
+      "R-HSA-9945787",
+      "R-HSA-9945822"
+    ],
+    "PMID": [
+      "9811880"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 3-beta-hydroxysteroid-4-alpha-carboxylate + NADP+ = a 3-oxosteroid + CO2 + NADPH.",
+  "namespace": "molecular_function",
+  "label": "NSDHL decarboxylates 4a-carboxy-4b-methyl-5a-cholest-8-en-3b-ol to 4a-methyl-5a-cholest-8-en-3b-ol"
+}

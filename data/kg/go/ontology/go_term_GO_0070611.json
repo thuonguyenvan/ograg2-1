@@ -1,0 +1,34 @@
+{
+  "id": "GO:0070611",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070611",
+  "relationships": {
+    "is_a": [
+      "GO:0016274",
+      "GO:0140938"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H3R2 arginine methyltransferase activity",
+      "histone methylase activity (H3-R2 specific)",
+      "histone methyltransferase activity (H3-R2 specific)",
+      "histone-H3R2 methyltransferase activity",
+      "histone-arginine N-methyltransferase activity (H3-R2 specific)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "17898714"
+    ],
+    "GOC": [
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + (histone H3)-arginine (position 2) = S-adenosyl-L-homocysteine + (histone H3)-N-methyl-arginine (position 2). This reaction is the addition of a methyl group to the arginine residue at position 2 of histone H3.",
+  "namespace": "molecular_function",
+  "label": "histone H3R2 methyltransferase activity"
+}

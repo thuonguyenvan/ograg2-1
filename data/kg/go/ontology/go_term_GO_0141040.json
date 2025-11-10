@@ -1,0 +1,37 @@
+{
+  "id": "GO:0141040",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141040",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.330"
+    ],
+    "MetaCyc": [
+      "RXN-7698"
+    ],
+    "RHEA": [
+      "48680",
+      "48680"
+    ],
+    "Reactome": [
+      "R-HSA-548818"
+    ],
+    "PMID": [
+      "16564093",
+      "19763486"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a very-long-chain (3R)-3-hydroxyacyl-CoA + NADP+ = a very-long-chain 3-oxoacyl-CoA + H+ + NADPH. This reaction is the second (reduction) step of the four-step fatty acid elongation cycle in the endoplasmic reticulum that extends fatty acids of C-16 or longer with an additional 2-C unit.",
+  "namespace": "molecular_function",
+  "label": "HSD17B3,12 hydrogenates 3OOD-CoA to 3HODC-CoA"
+}

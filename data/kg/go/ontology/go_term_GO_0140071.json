@@ -1,0 +1,28 @@
+{
+  "id": "GO:0140071",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140071",
+  "relationships": {
+    "is_a": [
+      "GO:0140566"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H2B reader"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11498575",
+      "25688442",
+      "31082667",
+      "34726351"
+    ]
+  },
+  "definition": "A histone reader that specifically binds either to an unmodified histone H2B or a form modified by a post-translational modification on a specific residue. The most common PTMs on histones are methylation, acetylation and phosphorylation.",
+  "namespace": "molecular_function",
+  "label": "histone H2B reader activity"
+}

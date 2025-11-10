@@ -1,0 +1,41 @@
+{
+  "id": "GO:0004737",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004737",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-oxo-acid carboxy-lyase (aldehyde-forming)",
+      "2-oxo-acid carboxy-lyase activity",
+      "alpha-carboxylase activity",
+      "alpha-ketoacid carboxylase activity",
+      "pyruvic decarboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.1",
+      "4.1.1.1",
+      "4.1.1.1",
+      "4.1.1.1",
+      "4.1.1.1",
+      "4.1.1.1",
+      "4.1.1.1"
+    ],
+    "MetaCyc": [
+      "PYRUVATE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "11628"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 2-oxo acid = an aldehyde + CO2.",
+  "namespace": "molecular_function",
+  "label": "pyruvate decarboxylase activity"
+}

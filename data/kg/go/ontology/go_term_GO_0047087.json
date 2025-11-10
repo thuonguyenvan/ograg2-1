@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047087",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047087",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protopine 6-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "protopine,NADPH:oxygen oxidoreductase (6-hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.98",
+      "1.14.14.98"
+    ],
+    "KEGG_REACTION": [
+      "R04699"
+    ],
+    "MetaCyc": [
+      "1.14.13.55-RXN"
+    ],
+    "RHEA": [
+      "22644",
+      "22644"
+    ]
+  },
+  "definition": "Catalysis of the reaction: O2 + protopine + reduced [NADPH--hemoprotein reductase] = 6-hydroxyprotopine + H+ + H2O + oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "protopine 6-monooxygenase activity"
+}

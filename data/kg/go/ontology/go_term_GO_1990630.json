@@ -1,0 +1,36 @@
+{
+  "id": "GO:1990630",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990630",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "IRE1alpha-RACK1-PP2A complex"
+    ],
+    "related": [
+      "ERN1-RACK1-PP2A complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "20103773",
+      "20103773"
+    ],
+    "HGNC": [
+      "3449"
+    ]
+  },
+  "definition": "A protein complex consisting of IRE1 (Inositol-requiring enzyme-1), RACK1 (Receptor of activated protein kinase C 1, GNB2L1) and PP2A (protein phosphatase 2A). RACK1 acts as an adaptor to bridge an interaction between IRE1 and PP2A.",
+  "namespace": "cellular_component",
+  "label": "IRE1-RACK1-PP2A complex"
+}

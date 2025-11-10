@@ -1,0 +1,54 @@
+{
+  "id": "GO:1904507",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904507",
+  "relationships": {
+    "is_a": [
+      "GO:0032206",
+      "GO:0048584",
+      "GO:1904505"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of DNA damage response, telomere maintenance",
+      "up regulation of DNA damage response, telomere maintenance",
+      "up regulation of telomere maintenance in response to DNA damage",
+      "up-regulation of DNA damage response, telomere maintenance",
+      "up-regulation of telomere maintenance in response to DNA damage",
+      "upregulation of DNA damage response, telomere maintenance",
+      "upregulation of telomere maintenance in response to DNA damage"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of DNA damage response, telomere maintenance",
+      "activation of telomere maintenance in response to DNA damage"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "TermGenie",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22579284"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of telomere maintenance in response to DNA damage.",
+  "namespace": "biological_process",
+  "label": "positive regulation of telomere maintenance in response to DNA damage"
+}

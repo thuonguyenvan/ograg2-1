@@ -1,0 +1,32 @@
+{
+  "id": "GO:0008028",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008028",
+  "relationships": {
+    "is_a": [
+      "GO:0046943"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "monocarboxylate carrier",
+      "prostaglandin/thromboxane transporter activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-429749",
+      "R-HSA-433698",
+      "R-HSA-5624211",
+      "R-HSA-9645220"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of monocarboxylic acids from one side of a membrane to the other. A monocarboxylic acid is an organic acid with one COOH group.",
+  "namespace": "molecular_function",
+  "label": "SLC16A1:BSG cotransports monocarboxylates, H+ from extracellular region to cytosol"
+}

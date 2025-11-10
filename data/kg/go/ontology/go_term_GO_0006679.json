@@ -1,0 +1,30 @@
+{
+  "id": "GO:0006679",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006679",
+  "relationships": {
+    "is_a": [
+      "GO:0006678",
+      "GO:0006688",
+      "GO:0046513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucosylceramide anabolism",
+      "glucosylceramide biosynthesis",
+      "glucosylceramide formation",
+      "glucosylceramide synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "35536927"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of glucosylceramides, any compound composed of a ceramide backbone covalently linked to a glucose. The glucose can be further elongated with the sequential addition of various carbohydrate units.",
+  "namespace": "biological_process",
+  "label": "glucosylceramide biosynthetic process"
+}

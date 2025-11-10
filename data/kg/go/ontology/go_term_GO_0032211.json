@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032211",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032211",
+  "relationships": {
+    "is_a": [
+      "GO:0032210",
+      "GO:1904357",
+      "GO:2000279"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of telomere maintenance via telomerase activity",
+      "down-regulation of telomere maintenance via telomerase activity",
+      "downregulation of telomere maintenance via telomerase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of telomere maintenance via telomerase"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the addition of telomeric repeats by telomerase.",
+  "namespace": "biological_process",
+  "label": "negative regulation of telomere maintenance via telomerase"
+}

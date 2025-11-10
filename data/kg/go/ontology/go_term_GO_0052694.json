@@ -1,0 +1,30 @@
+{
+  "id": "GO:0052694",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052694",
+  "relationships": {
+    "is_a": [
+      "GO:0004497"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-12421",
+      "RXN-12421"
+    ],
+    "RHEA": [
+      "54808"
+    ],
+    "PMID": [
+      "21576464"
+    ]
+  },
+  "definition": "Catalysis of the reaction: jasmonoyl-isoleucine + NADPH + H+ + O2 = 12-hydroxy-jasmonoyl-isoleucine + NADP+ + H2O.",
+  "namespace": "molecular_function",
+  "label": "jasmonoyl-isoleucine-12-hydroxylase activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0021917",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021917",
+  "relationships": {
+    "is_a": [
+      "GO:0048663"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ]
+  },
+  "definition": "The commitment of unspecified motor neurons to specific motor neuron cell along the anterior-posterior axis of the spinal cord and their capacity to differentiate into specific motor neurons.",
+  "namespace": "biological_process",
+  "label": "somatic motor neuron fate commitment"
+}

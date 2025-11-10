@@ -1,0 +1,27 @@
+{
+  "id": "GO:0022819",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022819",
+  "relationships": {
+    "is_a": [
+      "GO:0015079",
+      "GO:0022810"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Catalysis of the active transport of a potassium ion across a membrane by a mechanism involving conformational change, where energy for active transport is derived from membrane potential if the solute is charged.",
+  "namespace": "molecular_function",
+  "label": "potassium ion uniporter activity"
+}

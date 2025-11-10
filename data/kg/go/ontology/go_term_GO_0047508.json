@@ -1,0 +1,40 @@
+{
+  "id": "GO:0047508",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047508",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(-)-citramalate hydro-lyase activity",
+      "(R)-2-methylmalate hydro-lyase (2-methylmaleate-forming)",
+      "(R)-2-methylmalate hydro-lyase activity",
+      "citraconase activity",
+      "citraconate hydratase activity",
+      "citramalate hydro-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.35",
+      "4.2.1.35",
+      "4.2.1.35",
+      "4.2.1.35",
+      "4.2.1.35",
+      "4.2.1.35",
+      "4.2.1.35",
+      "4.2.1.35"
+    ],
+    "KEGG_REACTION": [
+      "R03896"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-citramalate = 2-methylmaleate + H2O.",
+  "namespace": "molecular_function",
+  "label": "(R)-2-methylmalate dehydratase activity"
+}

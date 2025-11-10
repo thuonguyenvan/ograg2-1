@@ -1,0 +1,37 @@
+{
+  "id": "GO:0008115",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008115",
+  "relationships": {
+    "is_a": [
+      "GO:0016647"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "sarcosine:oxygen oxidoreductase (demethylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.3.1",
+      "1.5.3.1",
+      "1.5.3.1"
+    ],
+    "KEGG_REACTION": [
+      "R00610"
+    ],
+    "MetaCyc": [
+      "SARCOX-RXN"
+    ],
+    "RHEA": [
+      "13313",
+      "13313"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + O2 + sarcosine = formaldehyde + glycine + H2O2.",
+  "namespace": "molecular_function",
+  "label": "sarcosine oxidase activity"
+}

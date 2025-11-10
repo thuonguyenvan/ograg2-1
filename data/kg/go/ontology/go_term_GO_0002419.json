@@ -1,0 +1,34 @@
+{
+  "id": "GO:0002419",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002419",
+  "relationships": {
+    "is_a": [
+      "GO:0001913",
+      "GO:0002424"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "T lymphocyte mediated cytotoxicity directed against tumor cell target",
+      "T-cell mediated cytotoxicity directed against tumor cell target",
+      "T-lymphocyte mediated cytotoxicity directed against tumor cell target"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "16730260"
+    ]
+  },
+  "definition": "The directed killing of a tumor cell by a T cell through the release of granules containing cytotoxic mediators or through the engagement of death receptors.",
+  "namespace": "biological_process",
+  "label": "T cell mediated cytotoxicity directed against tumor cell target"
+}

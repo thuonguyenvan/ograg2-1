@@ -1,0 +1,38 @@
+{
+  "id": "GO:0032805",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032805",
+  "relationships": {
+    "is_a": [
+      "GO:0032803",
+      "GO:0045732",
+      "GO:2000646"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of low-density lipoprotein receptor breakdown",
+      "positive regulation of low-density lipoprotein receptor catabolic process",
+      "positive regulation of low-density lipoprotein receptor catabolism",
+      "positive regulation of low-density lipoprotein receptor degradation",
+      "up regulation of low-density lipoprotein receptor catabolic process",
+      "up-regulation of low-density lipoprotein receptor catabolic process",
+      "upregulation of low-density lipoprotein receptor catabolic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of low-density lipoprotein receptor catabolic process",
+      "stimulation of low-density lipoprotein receptor catabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "bf",
+      "dph"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways resulting in the breakdown of low-density lipoprotein particle receptors.",
+  "namespace": "biological_process",
+  "label": "positive regulation of low-density lipoprotein particle receptor catabolic process"
+}

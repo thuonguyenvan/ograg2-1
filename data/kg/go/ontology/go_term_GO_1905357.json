@@ -1,0 +1,40 @@
+{
+  "id": "GO:1905357",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905357",
+  "relationships": {
+    "is_a": [
+      "GO:0051253",
+      "GO:1905356"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of snRNA pseudouridine synthesis",
+      "down-regulation of snRNA pseudouridine synthesis",
+      "downregulation of snRNA pseudouridine synthesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of snRNA pseudouridine synthesis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "27268497"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of snRNA pseudouridine synthesis.",
+  "namespace": "biological_process",
+  "label": "negative regulation of snRNA pseudouridine synthesis"
+}

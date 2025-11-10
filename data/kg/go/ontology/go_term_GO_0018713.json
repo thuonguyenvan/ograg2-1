@@ -1,0 +1,27 @@
+{
+  "id": "GO:0018713",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018713",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-8032"
+    ],
+    "UM-BBD_reactionID": [
+      "r0197",
+      "r0197"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-ketopimeloyl-CoA + CoA = glutaryl-CoA + acetyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "3-ketopimelyl-CoA thiolase activity"
+}

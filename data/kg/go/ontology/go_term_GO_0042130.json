@@ -1,0 +1,34 @@
+{
+  "id": "GO:0042130",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042130",
+  "relationships": {
+    "is_a": [
+      "GO:0042129",
+      "GO:0050672",
+      "GO:0050868"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of T cell proliferation",
+      "down-regulation of T cell proliferation",
+      "downregulation of T cell proliferation",
+      "negative regulation of T lymphocyte proliferation",
+      "negative regulation of T-cell proliferation",
+      "negative regulation of T-lymphocyte proliferation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of T cell proliferation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the rate or extent of T cell proliferation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of T cell proliferation"
+}

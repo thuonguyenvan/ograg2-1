@@ -1,0 +1,39 @@
+{
+  "id": "GO:0008712",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008712",
+  "relationships": {
+    "is_a": [
+      "GO:0016857"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ADP-L-glycero-D-manno-heptose 6-epimerase activity",
+      "ADPglyceromanno-heptose 6-epimerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.3.20",
+      "5.1.3.20",
+      "5.1.3.20",
+      "5.1.3.20"
+    ],
+    "KEGG_REACTION": [
+      "R05176"
+    ],
+    "MetaCyc": [
+      "5.1.3.20-RXN"
+    ],
+    "RHEA": [
+      "17577",
+      "17577"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ADP-D-glycero-D-manno-heptose = ADP-L-glycero-D-manno-heptose.",
+  "namespace": "molecular_function",
+  "label": "ADP-glyceromanno-heptose 6-epimerase activity"
+}

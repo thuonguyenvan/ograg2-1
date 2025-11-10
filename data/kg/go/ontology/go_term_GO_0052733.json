@@ -1,0 +1,37 @@
+{
+  "id": "GO:0052733",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052733",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "quinic dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "quinate:NADP 3-oxidoreductase activity",
+      "quinate:NADP(+) 3-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R06846"
+    ],
+    "RHEA": [
+      "18425",
+      "18425"
+    ],
+    "EC": [
+      "1.1.1.24",
+      "1.1.1.24",
+      "1.1.1.24"
+    ]
+  },
+  "definition": "Catalysis of the reaction: quinate + NADP+ = 3-dehydroquinate + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "quinate 3-dehydrogenase (NADP+) activity"
+}

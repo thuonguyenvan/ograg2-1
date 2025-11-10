@@ -1,0 +1,67 @@
+{
+  "id": "GO:0004450",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004450",
+  "relationships": {
+    "is_a": [
+      "GO:0004448"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NADP isocitric dehydrogenase activity",
+      "NADP(+)-linked isocitrate dehydrogenase activity",
+      "NADP-dependent isocitrate dehydrogenase activity",
+      "NADP-dependent isocitric dehydrogenase activity",
+      "NADP-linked isocitrate dehydrogenase activity",
+      "NADP-specific isocitrate dehydrogenase activity",
+      "isocitrate (NADP) dehydrogenase activity",
+      "isocitrate (nicotinamide adenine dinucleotide phosphate) dehydrogenase activity",
+      "isocitrate dehydrogenase (NADP) activity",
+      "isocitrate dehydrogenase (NADP-dependent) activity",
+      "isocitrate:NADP+ oxidoreductase (decarboxylating)",
+      "triphosphopyridine nucleotide-linked isocitrate dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NADP(+)-ICDH activity",
+      "NADP(+)-IDH activity",
+      "dual-cofactor-specific isocitrate dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.42",
+      "1.1.1.42",
+      "1.1.1.42",
+      "1.1.1.42",
+      "1.1.1.42",
+      "1.1.1.42",
+      "1.1.1.42",
+      "1.1.1.42",
+      "1.1.1.42",
+      "1.1.1.42",
+      "1.1.1.42",
+      "1.1.1.42",
+      "1.1.1.42",
+      "1.1.1.42",
+      "1.1.1.42",
+      "1.1.1.42"
+    ],
+    "MetaCyc": [
+      "ISOCITDEH-RXN"
+    ],
+    "RHEA": [
+      "19629",
+      "19629"
+    ],
+    "Reactome": [
+      "R-HSA-389540",
+      "R-HSA-389550",
+      "R-HSA-450984"
+    ]
+  },
+  "definition": "Catalysis of the reaction: isocitrate + NADP+ = 2-oxoglutarate + CO2 + NADPH.",
+  "namespace": "molecular_function",
+  "label": "IDH2 dimer decarboxylates isocitrate"
+}

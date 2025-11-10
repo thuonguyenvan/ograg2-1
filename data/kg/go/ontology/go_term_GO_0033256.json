@@ -1,0 +1,27 @@
+{
+  "id": "GO:0033256",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033256",
+  "relationships": {
+    "is_a": [
+      "GO:0140535"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "mah"
+    ],
+    "PMID": [
+      "9407099"
+    ]
+  },
+  "definition": "A protein complex containing an inhibitory-kappaB (I-kappaB/IKB) protein and one or more copies of an NF-kappaB protein. In the resting state, NF-kappaB dimers are bound to I-kappaB proteins, sequestering NF-kappaB in the cytoplasm.",
+  "namespace": "cellular_component",
+  "label": "I-kappaB/NF-kappaB complex"
+}

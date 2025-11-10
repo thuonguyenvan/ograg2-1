@@ -1,0 +1,61 @@
+{
+  "id": "GO:0003957",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003957",
+  "relationships": {
+    "is_a": [
+      "GO:0016652"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NAD(P) transhydrogenase (B-specific) activity",
+      "NAD(P)+ transhydrogenase (B-specific) activity"
+    ],
+    "broad": [
+      "H+-thase",
+      "NAD transhydrogenase",
+      "NADH transhydrogenase",
+      "NADH-NADP-transhydrogenase",
+      "NADPH-NAD oxidoreductase",
+      "NADPH-NAD transhydrogenase",
+      "NADPH:NAD+ transhydrogenase",
+      "nicotinamide adenine dinucleotide (phosphate) transhydrogenase",
+      "nicotinamide nucleotide transhydrogenase activity",
+      "pyridine nucleotide transferase",
+      "pyridine nucleotide transhydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "NADPH:NAD+ oxidoreductase (B-specific)",
+      "non-energy-linked transhydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.6.1.1",
+      "1.6.1.1",
+      "1.6.1.1",
+      "1.6.1.1",
+      "1.6.1.1",
+      "1.6.1.1",
+      "1.6.1.1",
+      "1.6.1.1",
+      "1.6.1.1",
+      "1.6.1.1",
+      "1.6.1.1",
+      "1.6.1.1",
+      "1.6.1.1",
+      "1.6.1.1"
+    ],
+    "RHEA": [
+      "11692",
+      "11692"
+    ],
+    "Reactome": [
+      "R-HSA-450971"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NADPH + NAD+ = NADP+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "NNT dimer transfers proton from NADPH to NAD+"
+}

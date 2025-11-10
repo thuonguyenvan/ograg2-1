@@ -1,0 +1,38 @@
+{
+  "id": "GO:0140696",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140696",
+  "relationships": {
+    "is_a": [
+      "GO:0016901",
+      "GO:0047545"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-2-hydroxyglutarate dehydrogenase activity"
+    ],
+    "broad": [
+      "(S)-2-hydroxyglutarate dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.5.13"
+    ],
+    "MetaCyc": [
+      "RXN0-7319"
+    ],
+    "RHEA": [
+      "58664",
+      "58664"
+    ],
+    "PMID": [
+      "30498244"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-2-hydroxyglutarate + a quinone = 2-oxoglutarate + a quinol.",
+  "namespace": "molecular_function",
+  "label": "(S)-2-hydroxyglutarate dehydrogenase (quinone) activity"
+}

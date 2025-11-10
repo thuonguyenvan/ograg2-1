@@ -1,0 +1,33 @@
+{
+  "id": "GO:0032209",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032209",
+  "relationships": {
+    "is_a": [
+      "GO:0032206",
+      "GO:0032207",
+      "GO:0045951",
+      "GO:0072696"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of telomere maintenance via recombination",
+      "up-regulation of telomere maintenance via recombination",
+      "upregulation of telomere maintenance via recombination"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of telomere maintenance via recombination",
+      "stimulation of telomere maintenance via recombination"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of a recombinational process involved in the maintenance of proper telomeric length.",
+  "namespace": "biological_process",
+  "label": "positive regulation of telomere maintenance via recombination"
+}

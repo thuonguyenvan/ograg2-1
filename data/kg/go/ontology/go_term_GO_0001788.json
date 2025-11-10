@@ -1,0 +1,42 @@
+{
+  "id": "GO:0001788",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001788",
+  "relationships": {
+    "is_a": [
+      "GO:0001794",
+      "GO:0001909"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ADCC",
+      "antibody dependent cell death",
+      "antibody dependent cell killing",
+      "antibody-dependent cell death",
+      "antibody-dependent cell killing",
+      "type VI hypersensitivity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Antibody-dependent_cell-mediated_cytotoxicity",
+      "Antibody-dependent_cellular_cytotoxicity"
+    ],
+    "GOC": [
+      "pr"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "11677095",
+      "9581795"
+    ]
+  },
+  "definition": "Cytolysis of target cells by natural killer cells, eosinophils, neutrophils, monocytes, or macrophages following engagement of antibodies bound to the target cells by Fc receptors on the effector cells.",
+  "namespace": "biological_process",
+  "label": "antibody-dependent cellular cytotoxicity"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:0140188",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140188",
+  "relationships": {
+    "is_a": [
+      "GO:0042054"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H1 methylase activity",
+      "histone H1 methylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "19144645"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + a histone H1 = S-adenosyl-L-homocysteine + a methylated histone H1.",
+  "namespace": "molecular_function",
+  "label": "histone H1 methyltransferase activity"
+}

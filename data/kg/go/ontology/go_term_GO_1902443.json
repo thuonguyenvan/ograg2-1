@@ -1,0 +1,40 @@
+{
+  "id": "GO:1902443",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902443",
+  "relationships": {
+    "is_a": [
+      "GO:0031333",
+      "GO:1902442"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of ripoptosome assembly involved in necroptosis",
+      "down-regulation of ripoptosome assembly involved in necroptosis",
+      "downregulation of ripoptosome assembly involved in necroptosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of ripoptosome assembly involved in necroptosis",
+      "negative regulation of ripoptosome assembly involved in necroptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dph",
+      "mtg_apoptosis",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "21052097"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of ripoptosome assembly involved in a necroptotic process.",
+  "namespace": "biological_process",
+  "label": "negative regulation of ripoptosome assembly involved in necroptotic process"
+}

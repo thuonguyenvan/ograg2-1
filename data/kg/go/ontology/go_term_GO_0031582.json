@@ -1,0 +1,28 @@
+{
+  "id": "GO:0031582",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031582",
+  "relationships": {
+    "is_a": [
+      "GO:0043007",
+      "GO:0043111"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "replication fork arrest at ribosomal DNA repeats",
+      "replication fork blocking at rDNA repeats"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vw"
+    ]
+  },
+  "definition": "A process that impedes the progress of the DNA replication fork at natural replication fork pausing sites within the eukaryotic rDNA repeat spacer.",
+  "namespace": "biological_process",
+  "label": "replication fork arrest at rDNA repeats"
+}

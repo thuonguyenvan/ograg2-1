@@ -1,0 +1,42 @@
+{
+  "id": "GO:0039514",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039514",
+  "relationships": {
+    "is_a": [
+      "GO:0052029"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "disruption by virus of host JAK-STAT cascade",
+      "down-regulation by virus of host JAK-STAT cascade",
+      "downregulation by virus of host JAK-STAT cascade",
+      "inhibition by virus of host JAK-STAT cascade",
+      "negative regulation by virus of host JAK-STAT cascade",
+      "suppression by virus of host JAK-STAT cascade"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "sp",
+      "bf",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "20624917",
+      "22919663",
+      "27437422",
+      "29924996",
+      "31413201"
+    ]
+  },
+  "definition": "A process in which a symbiont interferes with, inhibits or disrupt a JAK-STAT signal cascade in the host organism. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host JAK-STAT cascade"
+}

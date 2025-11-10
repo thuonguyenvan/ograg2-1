@@ -1,0 +1,47 @@
+{
+  "id": "GO:0004660",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004660",
+  "relationships": {
+    "is_a": [
+      "GO:0008318"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein-cysteine farnesyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "CAAX farnesyltransferase activity"
+    ],
+    "related": [
+      "FTase activity",
+      "farnesyl-diphosphate:protein-cysteine farnesyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.58",
+      "2.5.1.58",
+      "2.5.1.58",
+      "2.5.1.58"
+    ],
+    "MetaCyc": [
+      "RXN-17573"
+    ],
+    "RHEA": [
+      "13345",
+      "13345"
+    ],
+    "Reactome": [
+      "R-HSA-2530501",
+      "R-HSA-9647978"
+    ],
+    "PMID": [
+      "8621375"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-cysteinyl-[protein] + (2E,6E)-farnesyl diphosphate = S-(2E,6E)-farnesyl-L-cysteinyl-[protein] + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "pro-RAS proteins are farnesylated"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0046003",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046003",
+  "relationships": {
+    "is_a": [
+      "GO:0007348",
+      "GO:0045976"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of progression through syncytial blastoderm mitotic cell cycle",
+      "down-regulation of progression through syncytial blastoderm mitotic cell cycle",
+      "downregulation of progression through syncytial blastoderm mitotic cell cycle",
+      "negative regulation of progression through syncytial blastoderm mitotic cell cycle",
+      "negative regulation of syncytial blastoderm cell cycle progression"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of progression through syncytial blastoderm mitotic cell cycle"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "go_curators",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the rate or extent of progression through the syncytial blastoderm mitotic cell cycle.",
+  "namespace": "biological_process",
+  "label": "negative regulation of syncytial blastoderm mitotic cell cycle"
+}

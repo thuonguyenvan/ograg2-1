@@ -1,0 +1,30 @@
+{
+  "id": "GO:0030174",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030174",
+  "relationships": {
+    "is_a": [
+      "GO:0090329"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA replication licencing",
+      "DNA replication licensing",
+      "regulation of DNA-dependent DNA replication initiation"
+    ],
+    "broad": [
+      "regulation of DNA replication initiation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vw"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of initiation of DNA-dependent DNA replication; the process in which DNA becomes competent to replicate. In eukaryotes, replication competence is established in early G1 and lost during the ensuing S phase.",
+  "namespace": "biological_process",
+  "label": "regulation of DNA-templated DNA replication initiation"
+}

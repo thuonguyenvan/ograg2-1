@@ -1,0 +1,42 @@
+{
+  "id": "GO:0030743",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030743",
+  "relationships": {
+    "is_a": [
+      "GO:0016433",
+      "GO:0062105"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "thiostrepton-resistance methylase activity"
+    ],
+    "related": [
+      "RNA-pentose methylase activity",
+      "S-adenosyl-L-methionine:rRNA (adenosine-2&apos;-O)-methyltransferase activity",
+      "rRNA adenosine 2&apos;-methylase activity",
+      "ribosomal ribonucleate adenosine 2&apos;-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.230",
+      "2.1.1.230",
+      "2.1.1.230",
+      "2.1.1.230",
+      "2.1.1.230",
+      "2.1.1.230"
+    ],
+    "MetaCyc": [
+      "RXN-12464"
+    ],
+    "RHEA": [
+      "43212"
+    ]
+  },
+  "definition": "Catalysis of the reaction: adenosine(1067) in 23S rRNA + S-adenosyl-L-methionine = 2&apos;-O-methyladenosine(1067) in 23S rRNA + H+ + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "23S rRNA (adenosine(1067)-2&apos;-O)-methyltransferase activity"
+}

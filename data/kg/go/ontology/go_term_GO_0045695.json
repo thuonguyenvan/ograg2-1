@@ -1,0 +1,34 @@
+{
+  "id": "GO:0045695",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045695",
+  "relationships": {
+    "is_a": [
+      "GO:0045596",
+      "GO:0045694",
+      "GO:0051241",
+      "GO:2000242"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of female gametophyte egg cell differentiation",
+      "down-regulation of female gametophyte egg cell differentiation",
+      "downregulation of female gametophyte egg cell differentiation",
+      "negative regulation of female gametophyte egg cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of female gametophyte egg cell differentiation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mtg_plant"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of embryo sac egg cell differentiation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of embryo sac egg cell differentiation"
+}

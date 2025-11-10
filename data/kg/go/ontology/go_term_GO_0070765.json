@@ -1,0 +1,54 @@
+{
+  "id": "GO:0070765",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070765",
+  "relationships": {
+    "is_a": [
+      "GO:0098797",
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "presenilin complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "CD147-gamma-secretase complex (APH-1a, PS-1, PEN-2, NCT variant)",
+      "PS1 complex",
+      "PS2 complex",
+      "gamma-secretase complex (APH1A, PSEN1, PSENEN, NCSTN variant)",
+      "gamma-secretase complex (APH1A, PSEN2, PSENEN, NCSTN)",
+      "gamma-secretase complex (APH1B, PSEN1, PSENEN, NCSTN)",
+      "gamma-secretase complex (APH1B, PSEN2, PSENEN, NCSTN)"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "15286082",
+      "15890777",
+      "17047368",
+      "22122073",
+      "25565961",
+      "28320827",
+      "32616437"
+    ],
+    "CORUM": [
+      "142",
+      "130",
+      "2891",
+      "43",
+      "45",
+      "466",
+      "468",
+      "3128",
+      "467"
+    ]
+  },
+  "definition": "A protein complex that has aspartic-type endopeptidase activity and contains a presenilin catalytic subunit (either PSEN1 or PSEN2), an APH1 subunit (multiple genes and splice variants exist), nicastrin (NCT), and presenilin enhancer (aka PEN-2 or Psenen), as the core complex. Variants of the complex with different subunit compositions differ in localization and specific substrates. Additionally, variants of the complex exist that contain a additional regulatory subunit as well as the four core subunits; known regulatory subunits include gamma-secretase-activating protein (aka gSAP), TMP1 (aka TMED10), and CD147 antigen (aka basigin). Gamma-secretase cleaves type I transmembrane protein substrates, including the cell surface receptor Notch and the amyloid-beta precursor protein.",
+  "namespace": "cellular_component",
+  "label": "gamma-secretase complex"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0072410",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072410",
+  "relationships": {
+    "is_a": [
+      "GO:0072396"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "meiotic cell cycle checkpoint effector process",
+      "response to signal involved in meiotic cell cycle checkpoint"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A process that acts directly to delay or stop progression through the cell cycle in response to signals generated as a result of meiotic cell cycle checkpoint signaling; contributes to a meiotic cell cycle checkpoint.",
+  "namespace": "biological_process",
+  "label": "response to meiotic cell cycle checkpoint signaling"
+}

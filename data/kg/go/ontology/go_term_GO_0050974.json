@@ -1,0 +1,32 @@
+{
+  "id": "GO:0050974",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050974",
+  "relationships": {
+    "is_a": [
+      "GO:0050906",
+      "GO:0050982"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sensory detection of mechanical stimulus",
+      "sensory detection of mechanical stimulus during sensory perception",
+      "sensory perception, sensory detection of mechanical stimulus",
+      "sensory perception, sensory transduction of mechanical stimulus",
+      "sensory transduction of mechanical stimulus",
+      "sensory transduction of mechanical stimulus during sensory perception"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dos"
+    ]
+  },
+  "definition": "The series of events in which a mechanical stimulus is received and converted into a molecular signal as part of sensory perception.",
+  "namespace": "biological_process",
+  "label": "detection of mechanical stimulus involved in sensory perception"
+}

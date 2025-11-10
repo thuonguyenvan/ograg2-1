@@ -1,0 +1,39 @@
+{
+  "id": "GO:0016757",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016757",
+  "relationships": {
+    "is_a": [
+      "GO:0016740"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transferase activity, transferring glycosyl groups",
+      "transglycosidase activity",
+      "transglycosylase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "transferase activity, transferring other glycosyl groups"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.-.-"
+    ],
+    "Reactome": [
+      "R-HSA-5173005",
+      "R-HSA-6785565"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a glycosyl group from one compound (donor) to another (acceptor).",
+  "namespace": "molecular_function",
+  "label": "Defective B3GALTL does not transfer glucose to O-fucosyl-proteins"
+}

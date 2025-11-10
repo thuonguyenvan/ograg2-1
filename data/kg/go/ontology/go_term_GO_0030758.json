@@ -1,0 +1,47 @@
+{
+  "id": "GO:0030758",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030758",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3,7-dimethylquercetin 4&apos;-O-methyltransferase activity",
+      "4&apos;-OMT activity",
+      "S-adenosyl-L-methionine:3&apos;,4&apos;,5-trihydroxy-3,7-dimethoxyflavone 4&apos;-O-methyltransferase activity",
+      "S-adenosyl-L-methionine:5,3&apos;,4&apos;-trihydroxy-3,7-dimethoxyflavone 4&apos;-O-methyltransferase activity",
+      "flavonol 4&apos;-O-methyltransferase activity",
+      "flavonol 4&apos;-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.83",
+      "2.1.1.83",
+      "2.1.1.83",
+      "2.1.1.83",
+      "2.1.1.83",
+      "2.1.1.83",
+      "2.1.1.83",
+      "2.1.1.83"
+    ],
+    "KEGG_REACTION": [
+      "R03456"
+    ],
+    "MetaCyc": [
+      "2.1.1.83-RXN"
+    ],
+    "RHEA": [
+      "21832",
+      "21832"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;,4&apos;,5-trihydroxy-3,7-dimethoxyflavone + S-adenosyl-L-methionine(1+) = 3&apos;,5-dihydroxy-3,4&apos;,7-trimethoxyflavone + S-adenosyl-L-homocysteine + H+.",
+  "namespace": "molecular_function",
+  "label": "3,7-dimethylquercitin 4&apos;-O-methyltransferase activity"
+}

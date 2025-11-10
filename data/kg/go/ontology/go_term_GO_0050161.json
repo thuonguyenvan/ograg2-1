@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050161",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050161",
+  "relationships": {
+    "is_a": [
+      "GO:0008410"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "oxalate CoA-transferase activity",
+      "oxalate coenzyme A-transferase activity",
+      "succinyl-CoA:oxalate CoA-transferase activity",
+      "succinyl-beta-ketoacyl-CoA transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.3.2",
+      "2.8.3.2",
+      "2.8.3.2",
+      "2.8.3.2",
+      "2.8.3.2",
+      "2.8.3.2"
+    ],
+    "KEGG_REACTION": [
+      "R01559"
+    ],
+    "MetaCyc": [
+      "OXALATE-COA-TRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "23588",
+      "23588"
+    ]
+  },
+  "definition": "Catalysis of the reaction: oxalate + succinyl-CoA = oxalyl-CoA + succinate.",
+  "namespace": "molecular_function",
+  "label": "succinyl-CoA:oxalate CoA-transferase"
+}

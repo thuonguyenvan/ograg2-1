@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047595",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047595",
+  "relationships": {
+    "is_a": [
+      "GO:0016636"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,4,5,6-tetrahydro-6-oxonicotinate:ferredoxin oxidoreductase activity",
+      "6-hydroxynicotinic reductase activity",
+      "6-oxo-1,4,5,6-tetrahydronicotinate:ferredoxin oxidoreductase activity",
+      "6-oxotetrahydro-nicotinate dehydrogenase activity",
+      "6-oxotetrahydronicotinate dehydrogenase activity",
+      "HNA reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.3.7.1",
+      "1.3.7.1",
+      "1.3.7.1",
+      "1.3.7.1",
+      "1.3.7.1",
+      "1.3.7.1",
+      "1.3.7.1",
+      "1.3.7.1"
+    ],
+    "MetaCyc": [
+      "6-HYDROXYNICOTINATE-REDUCTASE-RXN",
+      "6-HYDROXYNICOTINATE-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "17225"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1,4,5,6-tetrahydro-6-oxonicotinate + oxidized ferredoxin = 6-hydroxynicotinate + reduced ferredoxin.",
+  "namespace": "molecular_function",
+  "label": "6-hydroxynicotinate reductase activity"
+}

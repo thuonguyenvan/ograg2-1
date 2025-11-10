@@ -1,0 +1,36 @@
+{
+  "id": "GO:1900826",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900826",
+  "relationships": {
+    "is_a": [
+      "GO:1900825",
+      "GO:1904180"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of membrane depolarization during cardiac muscle cell action potential",
+      "down-regulation of membrane depolarization during of cardiac muscle cell action potential",
+      "downregulation of membrane depolarization during cardiac muscle cell action potential"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of membrane depolarization during cardiac muscle cell action potential"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "mtg_cardiac_conduct_nov11",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of membrane depolarization during a cardiac muscle cell action potential.",
+  "namespace": "biological_process",
+  "label": "negative regulation of membrane depolarization during cardiac muscle cell action potential"
+}

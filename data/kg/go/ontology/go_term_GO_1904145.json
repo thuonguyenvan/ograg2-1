@@ -1,0 +1,42 @@
+{
+  "id": "GO:1904145",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904145",
+  "relationships": {
+    "is_a": [
+      "GO:0010948",
+      "GO:0051447",
+      "GO:1900194",
+      "GO:1903538"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of meiotic cell cycle process involved in oocyte maturation",
+      "down-regulation of meiotic cell cycle process involved in oocyte maturation",
+      "downregulation of meiotic cell cycle process involved in oocyte maturation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of meiotic cell cycle process involved in oocyte maturation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22674394"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of meiotic cell cycle process involved in oocyte maturation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of meiotic cell cycle process involved in oocyte maturation"
+}

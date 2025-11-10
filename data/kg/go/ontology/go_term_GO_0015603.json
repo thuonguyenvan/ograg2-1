@@ -1,0 +1,26 @@
+{
+  "id": "GO:0015603",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015603",
+  "relationships": {
+    "is_a": [
+      "GO:0022857"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9931048"
+    ],
+    "PMID": [
+      "17660286"
+    ]
+  },
+  "definition": "Enables the transfer of an iron chelate from one side of a membrane to the other. An iron chelate is a heterocyclic compound having a metal ion attached by coordinate bonds to at least two nonmetal ions.",
+  "namespace": "molecular_function",
+  "label": "FecBCDE imports Fe3+-citrates to cytosol"
+}

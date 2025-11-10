@@ -1,0 +1,61 @@
+{
+  "id": "GO:0008676",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008676",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-dehydro-3-deoxyphosphooctonate aldolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-dehydro-3-deoxy-D-octonate-8-phosphate D-arabinose-5-phosphate-lyase (pyruvate-phosphorylating) activity",
+      "2-dehydro-3-deoxy-phosphooctonate aldolase activity",
+      "2-keto-3-deoxy-8-phosphooctonic synthetase activity",
+      "3-deoxy-D-manno-octulosonate-8-phosphate synthase activity",
+      "3-deoxy-D-manno-octulosonic acid 8-phosphate synthetase activity",
+      "3-deoxy-D-mannooctulosonate-8-phosphate synthetase activity",
+      "3-deoxyoctulosonic 8-phosphate synthetase activity",
+      "KDO-8-P synthase activity",
+      "KDO-8-phosphate synthetase activity",
+      "KDOP synthase activity",
+      "phospho-2-keto-3-deoxyoctonate aldolase activity",
+      "phosphoenolpyruvate:D-arabinose-5-phosphate C-(1-carboxyvinyl)transferase (phosphate-hydrolysing, 2-carboxy-2-oxoethyl-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.55",
+      "2.5.1.55",
+      "2.5.1.55",
+      "2.5.1.55",
+      "2.5.1.55",
+      "2.5.1.55",
+      "2.5.1.55",
+      "2.5.1.55",
+      "2.5.1.55",
+      "2.5.1.55",
+      "2.5.1.55",
+      "2.5.1.55",
+      "2.5.1.55",
+      "2.5.1.55"
+    ],
+    "KEGG_REACTION": [
+      "R03254"
+    ],
+    "MetaCyc": [
+      "KDO-8PSYNTH-RXN"
+    ],
+    "RHEA": [
+      "14053",
+      "14053"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-arabinose 5-phosphate + H2O + phosphoenolpyruvate = 8-phospho-3-deoxy-D-manno-oct-2-ulosonate + 2 H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "3-deoxy-8-phosphooctulonate synthase activity"
+}

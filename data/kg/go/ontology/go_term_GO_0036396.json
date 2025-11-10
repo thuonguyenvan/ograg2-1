@@ -1,0 +1,41 @@
+{
+  "id": "GO:0036396",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036396",
+  "relationships": {
+    "is_a": [
+      "GO:0034708"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Mum2, Ime4, and Slz1 complex",
+      "WMM complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "METTL3-METTL14-WTAP methyltransferase complex",
+      "MIS complex",
+      "m(6)A writer complex",
+      "m6A methyltransferase complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dgf",
+      "sp"
+    ],
+    "PMID": [
+      "22685417",
+      "24316715",
+      "24407421",
+      "29507755",
+      "29535189",
+      "29547716",
+      "22685417"
+    ]
+  },
+  "definition": "A RNA methyltransferase complex that catalyzes the post-transcriptional methylation of adenosine to form N6-methyladenosine (m6A). In budding yeast, the MIS complex consists of Mum2p, Ime4p and Slz1p. In vertebrates, the complex consists of METTL3, METTL14 and associated components WTAP, ZC3H13, VIRMA, CBLL1/HAKAI and in some cases of RBM15 (RBM15 or RBM15B).",
+  "namespace": "cellular_component",
+  "label": "RNA N6-methyladenosine methyltransferase complex"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0016747",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016747",
+  "relationships": {
+    "is_a": [
+      "GO:0016746"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transferase activity, transferring acyl groups other than amino-acyl groups"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "transferase activity, transferring groups other than amino-acyl groups"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.-",
+      "2.3.1.-",
+      "2.3.1.-"
+    ],
+    "Reactome": [
+      "R-HSA-9859163",
+      "R-HSA-9865115"
+    ]
+  },
+  "definition": "Catalysis of the transfer of an acyl group, other than amino-acyl, from one compound (donor) to another (acceptor).",
+  "namespace": "molecular_function",
+  "label": "DBT loss-of-function mutants don&apos;t synthesize BCAA-CoA"
+}

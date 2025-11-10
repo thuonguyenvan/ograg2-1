@@ -1,0 +1,29 @@
+{
+  "id": "GO:0072488",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072488",
+  "relationships": {
+    "is_a": [
+      "GO:0055085",
+      "GO:0071705"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ammonium membrane transport"
+    ],
+    "broad": [
+      "ammonia transport",
+      "ammonium transport"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The process in which ammonium is transported across a membrane. Ammonium is the cation NH4+.",
+  "namespace": "biological_process",
+  "label": "ammonium transmembrane transport"
+}

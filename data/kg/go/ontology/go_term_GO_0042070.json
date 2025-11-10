@@ -1,0 +1,44 @@
+{
+  "id": "GO:0042070",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042070",
+  "relationships": {
+    "is_a": [
+      "GO:0051658",
+      "GO:0051663"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "maintenance of oocyte nucleus location involved in oocyte dorsal-ventral axis specification",
+      "maintenance of oocyte nucleus location involved in oocyte dorsal/ventral axis determination",
+      "maintenance of oocyte nucleus location involved in oocyte dorsoventral axis specification"
+    ],
+    "broad": [
+      "maintenance of oocyte nucleus localization during oocyte axis determination",
+      "maintenance of oocyte nucleus position during oocyte axis determination",
+      "oocyte axis determination, maintenance of oocyte nucleus localization",
+      "oocyte axis determination, maintenance of oocyte nucleus position",
+      "oocyte axis determination, oocyte nucleus anchoring",
+      "oocyte nucleus anchoring during oocyte axis determination"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mah",
+      "mtg_sensu",
+      "tb",
+      "dph",
+      "tb",
+      "mah",
+      "dph",
+      "tb",
+      "mah"
+    ]
+  },
+  "definition": "Maintenance of the oocyte nucleus in a particular position within the cell during the establishment and maintenance of the axes of the oocyte. An example of this process is found In Drosophila melanogaster.",
+  "namespace": "biological_process",
+  "label": "maintenance of oocyte nucleus location involved in oocyte dorsal/ventral axis specification"
+}

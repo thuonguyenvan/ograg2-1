@@ -1,0 +1,28 @@
+{
+  "id": "GO:0141008",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141008",
+  "relationships": {
+    "is_a": [
+      "GO:0010526",
+      "GO:0061157"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "post-transcriptional retrotransposon silencing"
+    ],
+    "broad": [],
+    "narrow": [
+      "retrotransposon silencing by mRNA destabilization"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "A transposable element silencing mechanism in which mRNAs transcribed from transposons are targeted for degradation.",
+  "namespace": "biological_process",
+  "label": "transposable element silencing by mRNA destabilization"
+}

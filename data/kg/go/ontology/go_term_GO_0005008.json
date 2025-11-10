@@ -1,0 +1,29 @@
+{
+  "id": "GO:0005008",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005008",
+  "relationships": {
+    "is_a": [
+      "GO:0004714"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "HGF receptor activity",
+      "HGF-activated receptor activity",
+      "hepatocyte growth factor-activated receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "bf",
+      "signaling"
+    ]
+  },
+  "definition": "Combining with hepatocyte growth factor receptor ligand and transmitting the signal across the plasma membrane to initiate a change in cell activity.",
+  "namespace": "molecular_function",
+  "label": "hepatocyte growth factor receptor activity"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:0010629",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010629",
+  "relationships": {
+    "is_a": [
+      "GO:0010468",
+      "GO:0010558"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "gene silencing"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH-2018"
+    ]
+  },
+  "definition": "Any process that decreases the frequency, rate or extent of gene expression. Gene expression is the process in which a gene&apos;s coding sequence is converted into a mature gene product (protein or RNA).",
+  "namespace": "biological_process",
+  "label": "negative regulation of gene expression"
+}

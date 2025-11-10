@@ -1,0 +1,30 @@
+{
+  "id": "GO:0106415",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106415",
+  "relationships": {
+    "is_a": [
+      "GO:0004180"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.4.17.13"
+    ],
+    "RHEA": [
+      "48688"
+    ],
+    "PMID": [
+      "10428950",
+      "15361936"
+    ]
+  },
+  "definition": "GlcNAc-MurNAc-L-alanyl-gamma-D-glutamyl-meso-diaminopimelyl-D-alanine + H2O = GlcNAc-MurNAc-L-alanyl-gamma-D-glutamyl-meso-diaminopimelate + D-alanine.",
+  "namespace": "molecular_function",
+  "label": "muramoyltetrapeptide carboxypeptidase activity"
+}

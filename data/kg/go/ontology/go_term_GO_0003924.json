@@ -1,0 +1,112 @@
+{
+  "id": "GO:0003924",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003924",
+  "relationships": {
+    "is_a": [
+      "GO:0017111"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "hydrolase activity, acting on acid anhydrides, acting on GTP, involved in cellular and subcellular movement"
+    ],
+    "narrow": [
+      "ARF small monomeric GTPase activity",
+      "RHEB small monomeric GTPase activity",
+      "Rab small monomeric GTPase activity",
+      "Ran small monomeric GTPase activity",
+      "Ras small monomeric GTPase activity",
+      "Rho small monomeric GTPase activity",
+      "Sar small monomeric GTPase activity",
+      "dynamin GTPase activity",
+      "heterotrimeric G-protein GTPase activity",
+      "protein-synthesizing GTPase activity",
+      "protein-synthesizing GTPase activity, elongation",
+      "protein-synthesizing GTPase activity, initiation",
+      "protein-synthesizing GTPase activity, termination",
+      "signal-recognition-particle GTPase activity",
+      "small monomeric GTPase activity",
+      "tubulin GTPase activity"
+    ],
+    "related": [
+      "GTPase activity, coupled",
+      "heterotrimeric G-protein GTPase, alpha-subunit",
+      "heterotrimeric G-protein GTPase, beta-subunit",
+      "heterotrimeric G-protein GTPase, gamma-subunit"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN0-5462"
+    ],
+    "RHEA": [
+      "19669"
+    ],
+    "Reactome": [
+      "R-HSA-1445143",
+      "R-HSA-1458485",
+      "R-HSA-156923",
+      "R-HSA-164381",
+      "R-HSA-165055",
+      "R-HSA-167415",
+      "R-HSA-170666",
+      "R-HSA-170685",
+      "R-HSA-170686",
+      "R-HSA-177501",
+      "R-HSA-203973",
+      "R-HSA-2130641",
+      "R-HSA-2130725",
+      "R-HSA-2584246",
+      "R-HSA-380979",
+      "R-HSA-392133",
+      "R-HSA-392212",
+      "R-HSA-418574",
+      "R-HSA-418582",
+      "R-HSA-421835",
+      "R-HSA-428941",
+      "R-HSA-432707",
+      "R-HSA-5333615",
+      "R-HSA-5389839",
+      "R-HSA-5389842",
+      "R-HSA-5419273",
+      "R-HSA-5419279",
+      "R-HSA-555065",
+      "R-HSA-5623513",
+      "R-HSA-5638006",
+      "R-HSA-5658231",
+      "R-HSA-5665809",
+      "R-HSA-5672017",
+      "R-HSA-5694527",
+      "R-HSA-6807877",
+      "R-HSA-6814833",
+      "R-HSA-8847534",
+      "R-HSA-8847883",
+      "R-HSA-8849082",
+      "R-HSA-8854173",
+      "R-HSA-8854255",
+      "R-HSA-8854329",
+      "R-HSA-8854604",
+      "R-HSA-8854612",
+      "R-HSA-8868661",
+      "R-HSA-8981353",
+      "R-HSA-8982020",
+      "R-HSA-8982021",
+      "R-HSA-8982025",
+      "R-HSA-9018814",
+      "R-HSA-9018826",
+      "R-HSA-9640195",
+      "R-HSA-9645598",
+      "R-HSA-9649736",
+      "R-HSA-983422",
+      "R-HSA-9954919"
+    ],
+    "PMID": [
+      "26832457",
+      "27218782"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GTP + H2O = GDP + H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "ABCE1:ATP binds PELO:HBS1L-1:GTP:80S ribosome:non-stop mRNA:peptidyl-tRNA with nascent peptide and HBS1L-1:GDP is released"
+}

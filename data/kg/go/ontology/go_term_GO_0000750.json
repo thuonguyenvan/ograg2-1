@@ -1,0 +1,25 @@
+{
+  "id": "GO:0000750",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000750",
+  "relationships": {
+    "is_a": [
+      "GO:0032005"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "transduction of mating signal"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "clt"
+    ]
+  },
+  "definition": "A signal transduction process resulting in the relay, amplification or dampening of a signal generated in response to pheromone exposure in organisms that undergo conjugation with cellular fusion. An example of this process is found in Saccharomyces cerevisiae.",
+  "namespace": "biological_process",
+  "label": "pheromone-dependent signal transduction involved in conjugation with cellular fusion"
+}

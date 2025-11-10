@@ -1,0 +1,44 @@
+{
+  "id": "GO:1903595",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903595",
+  "relationships": {
+    "is_a": [
+      "GO:0043306",
+      "GO:0046887",
+      "GO:0050729",
+      "GO:0051240",
+      "GO:1903593"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of histamine secretion by mast cell",
+      "up-regulation of histamine secretion by mast cell",
+      "upregulation of histamine secretion by mast cell"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of histamine secretion by mast cell"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "als",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "18253931"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of histamine secretion by mast cell.",
+  "namespace": "biological_process",
+  "label": "positive regulation of histamine secretion by mast cell"
+}

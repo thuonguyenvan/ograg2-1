@@ -1,0 +1,37 @@
+{
+  "id": "GO:0006887",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006887",
+  "relationships": {
+    "is_a": [
+      "GO:0016192",
+      "GO:0032940"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "vesicle exocytosis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "nonselective vesicle exocytosis"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Exocytosis"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0716731363"
+    ],
+    "PMID": [
+      "22323285"
+    ]
+  },
+  "definition": "A process of secretion by a cell that results in the release of intracellular molecules (e.g. hormones, matrix proteins) contained within a membrane-bounded vesicle. Exocytosis can occur either by full fusion, when the vesicle collapses into the plasma membrane, or by a kiss-and-run mechanism that involves the formation of a transient contact, a pore, between a granule (for example of chromaffin cells) and the plasma membrane. The latter process most of the time leads to only partial secretion of the granule content. Exocytosis begins with steps that prepare vesicles for fusion with the membrane (tethering and docking) and ends when molecules are secreted from the cell.",
+  "namespace": "biological_process",
+  "label": "exocytosis"
+}

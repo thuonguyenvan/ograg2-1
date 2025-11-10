@@ -1,0 +1,62 @@
+{
+  "id": "GO:1905134",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905134",
+  "relationships": {
+    "is_a": [
+      "GO:1905132",
+      "GO:1905820",
+      "GO:2000243"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of chromosome separation during meiosis",
+      "positive regulation of meiotic chromosome resolution",
+      "up regulation of chromosome separation during meiosis",
+      "up regulation of meiotic chromosome resolution",
+      "up regulation of meiotic chromosome separation",
+      "up-regulation of chromosome separation during meiosis",
+      "up-regulation of meiotic chromosome resolution",
+      "up-regulation of meiotic chromosome separation",
+      "upregulation of chromosome separation during meiosis",
+      "upregulation of meiotic chromosome resolution",
+      "upregulation of meiotic chromosome separation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of chromosome separation during meiosis",
+      "activation of meiotic chromosome resolution",
+      "activation of meiotic chromosome separation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "vw",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "15620645"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of meiotic chromosome separation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of meiotic chromosome separation"
+}

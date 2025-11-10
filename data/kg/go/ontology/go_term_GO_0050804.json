@@ -1,0 +1,28 @@
+{
+  "id": "GO:0050804",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050804",
+  "relationships": {
+    "is_a": [
+      "GO:0099177"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of chemical synaptic transmission",
+      "regulation of synaptic transmission"
+    ],
+    "broad": [
+      "modulation of synaptic transmission"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that modulates the frequency or amplitude of synaptic transmission, the process of communication from a neuron to a target (neuron, muscle, or secretory cell) across a synapse. Amplitude, in this case, refers to the change in postsynaptic membrane potential due to a single instance of synaptic transmission.",
+  "namespace": "biological_process",
+  "label": "modulation of chemical synaptic transmission"
+}

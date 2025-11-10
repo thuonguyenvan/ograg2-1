@@ -1,0 +1,34 @@
+{
+  "id": "GO:0070622",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070622",
+  "relationships": {
+    "is_a": [
+      "GO:0061695"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-N-acetylglucosamine:lysosomal-enzyme N-acetylglucosamine-1-phosphotransferase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acetylglucosamine-1-phosphotransferase complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "8940155",
+      "8940155"
+    ],
+    "CORUM": [
+      "406"
+    ]
+  },
+  "definition": "A protein complex that possesses UDP-N-acetylglucosamine-lysosomal-enzyme N-acetylglucosaminephosphotransferase activity; the bovine complex contains disulfide-linked homodimers of 166- and 51-kDa subunits and two identical, noncovalently associated 56-kDa subunits.",
+  "namespace": "cellular_component",
+  "label": "UDP-N-acetylglucosamine-lysosomal-enzyme N-acetylglucosaminephosphotransferase complex"
+}

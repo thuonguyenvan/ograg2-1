@@ -1,0 +1,36 @@
+{
+  "id": "GO:0009982",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009982",
+  "relationships": {
+    "is_a": [
+      "GO:0016866"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "48348",
+      "48348"
+    ],
+    "Reactome": [
+      "R-HSA-6782381",
+      "R-HSA-6786583",
+      "R-HSA-6787566",
+      "R-HSA-6790905",
+      "R-HSA-8870289",
+      "R-HSA-9936243",
+      "R-HSA-9937369"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a uridine in RNA = a pseudouridine in RNA. Conversion of uridine in an RNA molecule to pseudouridine by rotation of the C1&apos;-N-1 glycosidic bond of uridine in RNA to a C1&apos;-C5.",
+  "namespace": "molecular_function",
+  "label": "RPUSD3,TRUB2 pseudouridylates MT-CO1,MT-CO3 mRNA"
+}

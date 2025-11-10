@@ -1,0 +1,29 @@
+{
+  "id": "GO:0032456",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032456",
+  "relationships": {
+    "is_a": [
+      "GO:0016197",
+      "GO:0098876"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "retrograde transport, endosome to plasma membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "retrograde transport of endocytic vesicles"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "16473635",
+      "23563491"
+    ]
+  },
+  "definition": "The directed movement of membrane-bounded vesicles from endosomes back to the plasma membrane, a trafficking pathway that promotes the recycling of internalized transmembrane proteins.",
+  "namespace": "biological_process",
+  "label": "endocytic recycling"
+}

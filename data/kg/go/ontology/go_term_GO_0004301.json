@@ -1,0 +1,68 @@
+{
+  "id": "GO:0004301",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004301",
+  "relationships": {
+    "is_a": [
+      "GO:0016803"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "arene-oxide hydratase activity",
+      "aryl epoxide hydrase activity",
+      "epoxide hydrase activity",
+      "epoxide hydratase activity"
+    ],
+    "narrow": [
+      "soluble epoxide hydrolase activity"
+    ],
+    "related": [
+      "cytosolic epoxide hydrolase activity",
+      "sEH",
+      "trans-stilbene oxide hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.3.2.10",
+      "3.3.2.10",
+      "3.3.2.10",
+      "3.3.2.10",
+      "3.3.2.10",
+      "3.3.2.10",
+      "3.3.2.10",
+      "3.3.2.10",
+      "3.3.2.10",
+      "3.3.2.10"
+    ],
+    "MetaCyc": [
+      "3.3.2.10-RXN"
+    ],
+    "RHEA": [
+      "19037"
+    ],
+    "Reactome": [
+      "R-HSA-2161961",
+      "R-HSA-9018862",
+      "R-HSA-9018877",
+      "R-HSA-9020252",
+      "R-HSA-9020253",
+      "R-HSA-9020257",
+      "R-HSA-9020258",
+      "R-HSA-9020270",
+      "R-HSA-9024890",
+      "R-HSA-9024973",
+      "R-HSA-9024993",
+      "R-HSA-9025998",
+      "R-HSA-9026000",
+      "R-HSA-9026008",
+      "R-HSA-9915968",
+      "R-HSA-9915986",
+      "R-HSA-9915994"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an epoxide + H2O = an ethanediol.",
+  "namespace": "molecular_function",
+  "label": "14,15-EET is hydrolysed to 14,15-DHET by EPHX2"
+}

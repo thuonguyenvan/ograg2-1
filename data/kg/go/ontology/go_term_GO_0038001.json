@@ -1,0 +1,29 @@
+{
+  "id": "GO:0038001",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038001",
+  "relationships": {
+    "is_a": [
+      "GO:0007267"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "paracrine signalling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_signaling_feb11",
+      "bf"
+    ],
+    "ISBN": [
+      "3527303782"
+    ]
+  },
+  "definition": "The transfer of information from one cell to another, where the signal travels from the signal-producing cell to the receiving cell by passive diffusion or bulk flow in intercellular fluid. The signaling cell and the receiving cell are usually in the vicinity of each other.",
+  "namespace": "biological_process",
+  "label": "paracrine signaling"
+}

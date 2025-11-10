@@ -1,0 +1,26 @@
+{
+  "id": "GO:0060927",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060927",
+  "relationships": {
+    "is_a": [
+      "GO:0060923"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "pacemaker cell fate commitment"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cardiac_conduct_nov11",
+      "mtg_heart"
+    ]
+  },
+  "definition": "The commitment of cells to pacemaker cell fates and their capacity to differentiate into pacemaker cells. Pacemaker cells are specialized cardiomyocytes that are responsible for regulating the timing of heart contractions.",
+  "namespace": "biological_process",
+  "label": "cardiac pacemaker cell fate commitment"
+}

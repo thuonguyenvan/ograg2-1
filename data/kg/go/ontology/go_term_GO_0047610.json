@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047610",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047610",
+  "relationships": {
+    "is_a": [
+      "GO:0019213",
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetylsalicylate O-acetylhydrolase activity",
+      "acetylsalicylic acid esterase activity",
+      "aspirin esterase activity",
+      "aspirin hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.55",
+      "3.1.1.55",
+      "3.1.1.55",
+      "3.1.1.55",
+      "3.1.1.55",
+      "3.1.1.55"
+    ],
+    "KEGG_REACTION": [
+      "R02942"
+    ],
+    "MetaCyc": [
+      "ACETYLSALICYLATE-DEACETYLASE-RXN"
+    ],
+    "RHEA": [
+      "11752",
+      "11752"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetylsalicylate + H2O = acetate + H+ + salicylate.",
+  "namespace": "molecular_function",
+  "label": "acetylsalicylate deacetylase activity"
+}

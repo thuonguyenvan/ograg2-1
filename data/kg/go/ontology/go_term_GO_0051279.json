@@ -1,0 +1,35 @@
+{
+  "id": "GO:0051279",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051279",
+  "relationships": {
+    "is_a": [
+      "GO:0051282",
+      "GO:1903169"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of calcium ion (Ca2+) mobilization",
+      "regulation of calcium mobilization",
+      "regulation of cytoplasmic release of sequestered calcium ion (Ca2+)",
+      "regulation of cytoplasmic release of stored calcium ion (Ca2+)",
+      "regulation of release of stored calcium ion (Ca2+) into cytoplasm",
+      "regulation of release of stored calcium ion (Ca2+) into cytosol"
+    ],
+    "broad": [
+      "regulation of release of sequestered calcium ion (Ca2+)",
+      "regulation of release of stored calcium ion (Ca2+)"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of the release into the cytosolic compartment of calcium ions sequestered in the endoplasmic reticulum or mitochondria.",
+  "namespace": "biological_process",
+  "label": "regulation of release of sequestered calcium ion into cytosol"
+}

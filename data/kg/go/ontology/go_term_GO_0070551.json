@@ -1,0 +1,32 @@
+{
+  "id": "GO:0070551",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070551",
+  "relationships": {
+    "is_a": [
+      "GO:0016891"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "argonaute endoribonuclease activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9820842"
+    ],
+    "GOC": [
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "15105377"
+    ]
+  },
+  "definition": "Catalysis of the endonucleolytic cleavage of the mRNA in a double-stranded RNA molecule formed by the base pairing of an mRNA with an siRNA, yielding 5&apos;-phosphomonoesters.",
+  "namespace": "molecular_function",
+  "label": "AGO2:endosiRNA hydrolyzes maternal mRNA in the zygote"
+}

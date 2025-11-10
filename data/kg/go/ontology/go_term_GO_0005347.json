@@ -1,0 +1,27 @@
+{
+  "id": "GO:0005347",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005347",
+  "relationships": {
+    "is_a": [
+      "GO:0000295",
+      "GO:0005346"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9717392"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of ATP, adenosine triphosphate, from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "CALHM1:CALHM3 transports ATP from the cytosol to the extracellular region"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0001706",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001706",
+  "relationships": {
+    "is_a": [
+      "GO:0001704"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "endoblast formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9823730"
+    ],
+    "GOC": [
+      "go_curators",
+      "dph",
+      "sdb_2009",
+      "tb"
+    ]
+  },
+  "definition": "The formation of the endoderm during gastrulation.",
+  "namespace": "biological_process",
+  "label": "Formation of definitive endoderm"
+}

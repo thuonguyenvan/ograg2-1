@@ -1,0 +1,29 @@
+{
+  "id": "GO:0102394",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102394",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-13637"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "21069315"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2S,3R,4S)-4-hydroxy-L-isoleucine + NAD = (2S,3R)-2-amino-3-methyl-4-ketopentanoate + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "4-hydroxy-L-isoleucine dehydrogenase activity"
+}

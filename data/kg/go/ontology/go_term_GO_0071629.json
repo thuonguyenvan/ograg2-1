@@ -1,0 +1,36 @@
+{
+  "id": "GO:0071629",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071629",
+  "relationships": {
+    "is_a": [
+      "GO:0043161",
+      "GO:0140455"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytoplasm-associated proteasomal ubiquitin-dependent protein breakdown",
+      "cytoplasm-associated proteasomal ubiquitin-dependent protein catabolism",
+      "cytoplasm-associated proteasomal ubiquitin-dependent protein degradation",
+      "ubiquitin-dependent catabolism of misfolded proteins by cytoplasm-associated proteasome"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "rb",
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "20080635"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of misfolded proteins in the cytoplasm, which are targeted to cytoplasmic proteasomes for degradation.",
+  "namespace": "biological_process",
+  "label": "cytoplasm protein quality control by the ubiquitin-proteasome system"
+}

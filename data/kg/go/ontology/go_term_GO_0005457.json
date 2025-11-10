@@ -1,0 +1,31 @@
+{
+  "id": "GO:0005457",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005457",
+  "relationships": {
+    "is_a": [
+      "GO:0036080"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5653596",
+      "R-HSA-742345"
+    ],
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of a GDP-fucose from one side of a membrane to the other. GDP-fucose is a substance composed of fucose in glycosidic linkage with guanosine diphosphate.",
+  "namespace": "molecular_function",
+  "label": "SLC35C1 transport UDP-Fuc from cytosol to Golgi lumen"
+}

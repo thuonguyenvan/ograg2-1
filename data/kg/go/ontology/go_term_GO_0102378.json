@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102378",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102378",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-13512"
+    ],
+    "RHEA": [
+      "61736",
+      "61736"
+    ]
+  },
+  "definition": "Catalysis of the reaction: steviolmonoside + UDP-alpha-D-glucose = rubusoside + UDP.",
+  "namespace": "molecular_function",
+  "label": "steviolmonoside glucosyltransferase activity"
+}

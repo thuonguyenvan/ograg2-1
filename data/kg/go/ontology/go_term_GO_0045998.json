@@ -1,0 +1,36 @@
+{
+  "id": "GO:0045998",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045998",
+  "relationships": {
+    "is_a": [
+      "GO:0007554",
+      "GO:0062013",
+      "GO:0090031"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of ecdysteroid anabolism",
+      "positive regulation of ecdysteroid biosynthesis",
+      "positive regulation of ecdysteroid formation",
+      "positive regulation of ecdysteroid synthesis",
+      "up regulation of ecdysteroid biosynthetic process",
+      "up-regulation of ecdysteroid biosynthetic process",
+      "upregulation of ecdysteroid biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of ecdysteroid biosynthetic process",
+      "stimulation of ecdysteroid biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of ecdysteroids.",
+  "namespace": "biological_process",
+  "label": "positive regulation of ecdysteroid biosynthetic process"
+}

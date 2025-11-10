@@ -1,0 +1,45 @@
+{
+  "id": "GO:0008473",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008473",
+  "relationships": {
+    "is_a": [
+      "GO:0016841"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-ornithine ammonia-lyase (cyclizing)",
+      "L-ornithine ammonia-lyase (cyclizing; L-proline-forming)",
+      "OCD activity",
+      "ornithine cyclase (deaminating) activity",
+      "ornithine cyclase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.1.12",
+      "4.3.1.12",
+      "4.3.1.12",
+      "4.3.1.12",
+      "4.3.1.12",
+      "4.3.1.12",
+      "4.3.1.12"
+    ],
+    "KEGG_REACTION": [
+      "R00671"
+    ],
+    "MetaCyc": [
+      "ORNITHINE-CYCLODEAMINASE-RXN"
+    ],
+    "RHEA": [
+      "24368",
+      "24368"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-ornithine = L-proline + NH4.",
+  "namespace": "molecular_function",
+  "label": "ornithine cyclodeaminase activity"
+}

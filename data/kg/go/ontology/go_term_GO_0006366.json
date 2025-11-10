@@ -1,0 +1,39 @@
+{
+  "id": "GO:0006366",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006366",
+  "relationships": {
+    "is_a": [
+      "GO:0006351"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transcription from Pol II promoter",
+      "transcription from RNA polymerase II promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RNA polymerase II transcription factor activity",
+      "gene-specific transcription from RNA polymerase II promoter",
+      "general transcription from RNA polymerase II promoter",
+      "specific transcription from RNA polymerase II promoter"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-73857"
+    ],
+    "GOC": [
+      "jl",
+      "txnOH",
+      "mah"
+    ],
+    "ISBN": [
+      "0321000382"
+    ]
+  },
+  "definition": "The synthesis of RNA from a DNA template by RNA polymerase II (RNAP II), originating at an RNA polymerase II promoter. Includes transcription of messenger RNA (mRNA) and certain small nuclear RNAs (snRNAs).",
+  "namespace": "biological_process",
+  "label": "RNA Polymerase II Transcription"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0086027",
+  "uri": "http://purl.obolibrary.org/obo/GO_0086027",
+  "relationships": {
+    "is_a": [
+      "GO:0086019",
+      "GO:0086067"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "AV node cell to bundle of His cell signalling",
+      "atrioventricular node to bundle of His cell signaling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mtg_cardiac_conduct_nov11",
+      "mah"
+    ]
+  },
+  "definition": "Any process that mediates the transfer of information from an AV node cardiac muscle cell to a bundle of His cardiomyocyte.",
+  "namespace": "biological_process",
+  "label": "AV node cell to bundle of His cell signaling"
+}

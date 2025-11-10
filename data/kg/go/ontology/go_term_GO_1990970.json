@@ -1,0 +1,33 @@
+{
+  "id": "GO:1990970",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990970",
+  "relationships": {
+    "is_a": [
+      "GO:0070883"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TAR binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf"
+    ],
+    "PMID": [
+      "25116364",
+      "25116364"
+    ],
+    "Wikipedia": [
+      "Trans-activation_response_element_(TAR)"
+    ]
+  },
+  "definition": "Binding to a trans-activation response (TAR) element, a hairpin RNA structure located at the 5&apos; end of all HIV-1 transcripts, and which is required for trans-activation of a viral promoter.",
+  "namespace": "molecular_function",
+  "label": "trans-activation response element binding"
+}

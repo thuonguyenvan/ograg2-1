@@ -1,0 +1,31 @@
+{
+  "id": "GO:0004568",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004568",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6786421"
+    ],
+    "GOC": [
+      "bf",
+      "kah",
+      "pde"
+    ],
+    "PMID": [
+      "11468293"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of (1-&gt;4)-beta linkages of N-acetyl-D-glucosamine (GlcNAc) polymers of chitin and chitodextrins.",
+  "namespace": "molecular_function",
+  "label": "CHIA hydrolyses chitin"
+}

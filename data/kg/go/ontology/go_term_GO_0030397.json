@@ -1,0 +1,28 @@
+{
+  "id": "GO:0030397",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030397",
+  "relationships": {
+    "is_a": [
+      "GO:0022411",
+      "GO:0061024"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "membrane breakdown",
+      "membrane catabolism",
+      "membrane degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The controlled breakdown of any cell membrane in the context of a normal process such as autophagy.",
+  "namespace": "biological_process",
+  "label": "membrane disassembly"
+}

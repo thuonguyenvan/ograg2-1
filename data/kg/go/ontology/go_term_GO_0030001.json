@@ -1,0 +1,28 @@
+{
+  "id": "GO:0030001",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030001",
+  "relationships": {
+    "is_a": [
+      "GO:0006812"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "divalent metal ion export",
+      "divalent metal ion transport",
+      "heavy metal ion transport",
+      "metal ion export"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The directed movement of metal ions, any metal ion with an electric charge, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "metal ion transport"
+}

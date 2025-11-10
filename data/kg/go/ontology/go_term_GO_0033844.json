@@ -1,0 +1,36 @@
+{
+  "id": "GO:0033844",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033844",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-galactose-6-sulfate:alkyltransferase (cyclizing) activity",
+      "galactose 6-sulfatase activity",
+      "galactose-6-sulfatase activity",
+      "porphyran sulfatase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.5",
+      "2.5.1.5",
+      "2.5.1.5",
+      "2.5.1.5",
+      "2.5.1.5",
+      "2.5.1.5"
+    ],
+    "MetaCyc": [
+      "2.5.1.5-RXN"
+    ]
+  },
+  "definition": "Catalysis of the elimination of sulfate from the D-galactose 6-sulfate residues of porphyran, producing 3,6-anhydrogalactose residues.",
+  "namespace": "molecular_function",
+  "label": "galactose-6-sulfurylase activity"
+}

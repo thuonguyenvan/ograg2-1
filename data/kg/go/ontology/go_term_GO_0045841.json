@@ -1,0 +1,33 @@
+{
+  "id": "GO:0045841",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045841",
+  "relationships": {
+    "is_a": [
+      "GO:0030071",
+      "GO:0045839",
+      "GO:1901991",
+      "GO:1902100",
+      "GO:2000816"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of mitotic metaphase/anaphase transition",
+      "down-regulation of mitotic metaphase/anaphase transition",
+      "downregulation of mitotic metaphase/anaphase transition"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of mitotic metaphase/anaphase transition"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the cell cycle process in which a cell progresses from metaphase to anaphase during mitosis, triggered by the activation of the anaphase promoting complex by Cdc20/Sleepy homolog which results in the degradation of Securin.",
+  "namespace": "biological_process",
+  "label": "negative regulation of mitotic metaphase/anaphase transition"
+}

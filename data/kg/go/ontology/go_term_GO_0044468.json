@@ -1,0 +1,29 @@
+{
+  "id": "GO:0044468",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044468",
+  "relationships": {
+    "is_a": [
+      "GO:0044483"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "envenomation perturbing blood coagulation",
+      "envenomation resulting in modulation of blood coagulation in another organism",
+      "envenomation resulting in modulation of blood coagulation in other organism",
+      "envenomation resulting in perturbation of blood coagulation",
+      "envenomation resulting in regulation of blood coagulation in other organism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "A process in which an organism alters or subverts blood coagulation in another organism via the action of a venom.",
+  "namespace": "biological_process",
+  "label": "venom-mediated perturbation of blood coagulation"
+}

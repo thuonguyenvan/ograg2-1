@@ -1,0 +1,31 @@
+{
+  "id": "GO:0033393",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033393",
+  "relationships": {
+    "is_a": [
+      "GO:0000272",
+      "GO:0010394"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "homogalacturonan breakdown",
+      "homogalacturonan catabolism",
+      "homogalacturonan degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-1081"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of homogalacturonan, a pectidic polymer, characterized by a backbone of 1,4-linked alpha-D-GalpA residues that can be methyl-esterified at C-6 and carry acetyl groups on O-2 and O-3.",
+  "namespace": "biological_process",
+  "label": "homogalacturonan catabolic process"
+}

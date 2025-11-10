@@ -1,0 +1,33 @@
+{
+  "id": "GO:0010326",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010326",
+  "relationships": {
+    "is_a": [
+      "GO:0008483"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.88"
+    ],
+    "MetaCyc": [
+      "R15-RXN"
+    ],
+    "RHEA": [
+      "31763",
+      "31763"
+    ],
+    "PMID": [
+      "17056707"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 2-oxocarboxylate + L-methionine = 4-methylsulfanyl-2-oxobutanoate + an L-alpha-amino acid.",
+  "namespace": "molecular_function",
+  "label": "methionine-oxo-acid transaminase activity"
+}

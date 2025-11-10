@@ -1,0 +1,33 @@
+{
+  "id": "GO:0052912",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052912",
+  "relationships": {
+    "is_a": [
+      "GO:0008989"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "23S rRNA m(1)G(748) methyltransferase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.188",
+      "2.1.1.188",
+      "2.1.1.188"
+    ],
+    "MetaCyc": [
+      "RXN-11599"
+    ],
+    "RHEA": [
+      "42904"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + guanine(748) in 23S rRNA = N(1)-methylguanine(748) in 23S rRNA + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "23S rRNA (guanine(748)-N(1))-methyltransferase activity"
+}

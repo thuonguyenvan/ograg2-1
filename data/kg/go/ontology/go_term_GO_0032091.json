@@ -1,0 +1,30 @@
+{
+  "id": "GO:0032091",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032091",
+  "relationships": {
+    "is_a": [
+      "GO:0043393",
+      "GO:0051100"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of protein binding",
+      "down-regulation of protein binding",
+      "downregulation of protein binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of protein binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of protein binding.",
+  "namespace": "biological_process",
+  "label": "negative regulation of protein binding"
+}

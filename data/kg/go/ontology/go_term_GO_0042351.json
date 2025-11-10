@@ -1,0 +1,34 @@
+{
+  "id": "GO:0042351",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042351",
+  "relationships": {
+    "is_a": [
+      "GO:0019673",
+      "GO:0042350"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "&apos;de novo&apos; GDP-L-fucose anabolism",
+      "&apos;de novo&apos; GDP-L-fucose biosynthesis",
+      "&apos;de novo&apos; GDP-L-fucose formation",
+      "&apos;de novo&apos; GDP-L-fucose synthesis",
+      "GDP-L-fucose biosynthesis, de novo pathway",
+      "GDP-L-fucose biosynthetic process, de novo pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-66"
+    ],
+    "PMID": [
+      "11030750"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of GDP-L-fucose from GDP-D-mannose via GDP-4-dehydro-6-deoxy-D-mannose, requiring the functions of GDP-mannose 4,6-dehydratase (EC:4.2.1.47) and GDP-L-fucose synthase (EC:1.1.1.271).",
+  "namespace": "biological_process",
+  "label": "&apos;de novo&apos; GDP-L-fucose biosynthetic process"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "GO:0004515",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004515",
+  "relationships": {
+    "is_a": [
+      "GO:0070566"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP:nicotinate-nucleotide adenylyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "nicotinic acid mononucleotide adenylyltransferase"
+    ],
+    "related": [
+      "ATP:nicotinate-ribonucleotide adenylyltransferase activity",
+      "NaMN-ATase activity",
+      "deamido-NAD(+) diphosphorylase activity",
+      "deamido-NAD(+) pyrophosphorylase activity",
+      "deamido-NAD+ pyrophosphorylase activity",
+      "deamidonicotinamide adenine dinucleotide pyrophosphorylase activity",
+      "nicotinate mononucleotide adenylyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.18",
+      "2.7.7.18",
+      "2.7.7.18",
+      "2.7.7.18",
+      "2.7.7.18",
+      "2.7.7.18",
+      "2.7.7.18",
+      "2.7.7.18"
+    ],
+    "MetaCyc": [
+      "NICONUCADENYLYLTRAN-RXN"
+    ],
+    "RHEA": [
+      "22860",
+      "22860"
+    ],
+    "Reactome": [
+      "R-HSA-197235",
+      "R-HSA-200474",
+      "R-HSA-200512"
+    ]
+  },
+  "definition": "Catalysis of the reaction: nicotinate beta-D-ribonucleotide + ATP + H+ = deamido-NAD+ + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "NMNAT1 transfers an adenylyl group from ATP to NAMN to yield NAAD"
+}

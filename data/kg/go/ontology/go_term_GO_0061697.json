@@ -1,0 +1,27 @@
+{
+  "id": "GO:0061697",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061697",
+  "relationships": {
+    "is_a": [
+      "GO:0141218"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "47664",
+      "47664"
+    ],
+    "PMID": [
+      "24703693"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(6)-glutaryl-L-lysyl-[protein] + NAD+ + H2O = 2&apos;&apos;-O-glutaryl-ADP-D-ribose + nicotinamide + L-lysyl-[protein].",
+  "namespace": "molecular_function",
+  "label": "protein-glutaryllysine deglutarylase activity"
+}

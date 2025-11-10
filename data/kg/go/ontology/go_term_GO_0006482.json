@@ -1,0 +1,27 @@
+{
+  "id": "GO:0006482",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006482",
+  "relationships": {
+    "is_a": [
+      "GO:0008214",
+      "GO:0070988"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein amino acid demethylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "bf"
+    ]
+  },
+  "definition": "The removal of a methyl group, from a protein amino acid. A methyl group is derived from methane by the removal of a hydrogen atom.",
+  "namespace": "biological_process",
+  "label": "protein demethylation"
+}

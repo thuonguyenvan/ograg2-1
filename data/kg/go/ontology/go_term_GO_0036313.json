@@ -1,0 +1,33 @@
+{
+  "id": "GO:0036313",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036313",
+  "relationships": {
+    "is_a": [
+      "GO:0019900",
+      "GO:0043548"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PI3K catalytic subunit binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "p110 binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "17475214",
+      "17475214"
+    ]
+  },
+  "definition": "Binding to the catalytic subunit of a phosphatidylinositol 3-kinase. The catalytic subunit catalyzes the addition of a phosphate group to an inositol lipid at the 3&apos; position of the inositol ring.",
+  "namespace": "molecular_function",
+  "label": "phosphatidylinositol 3-kinase catalytic subunit binding"
+}

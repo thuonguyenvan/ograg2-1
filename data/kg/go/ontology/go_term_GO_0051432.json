@@ -1,0 +1,29 @@
+{
+  "id": "GO:0051432",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051432",
+  "relationships": {
+    "is_a": [
+      "GO:0051400"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11048732",
+      "12133724",
+      "9020082",
+      "9704409"
+    ],
+    "Prosite": [
+      "PS01080"
+    ]
+  },
+  "definition": "Binding to a BH1 protein domain, present in Bcl-2 family members. Proteins that act as inhibitors of apoptosis harbour at least three BH domains: BH1, BH2 and BH3; the BH1 and BH2 domains are found in all death antagonists of the Bcl-2 family but only in one class of death agonists.",
+  "namespace": "molecular_function",
+  "label": "BH1 domain binding"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0098904",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098904",
+  "relationships": {
+    "is_a": [
+      "GO:0010646",
+      "GO:0098901"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of AV node cardiac muscle cell action potential",
+      "regulation of atrioventricular node cardiac muscle cell action potential"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mtg_cardiac_conduct_nov11"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of action potential creation, propagation or termination in an atrioventricular node myocyte. This typically occurs via modulation of the activity or expression of voltage-gated ion channels.",
+  "namespace": "biological_process",
+  "label": "regulation of AV node cell action potential"
+}

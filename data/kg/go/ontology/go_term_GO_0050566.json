@@ -1,0 +1,52 @@
+{
+  "id": "GO:0050566",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050566",
+  "relationships": {
+    "is_a": [
+      "GO:0016884",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Asp-AdT activity",
+      "Asp-tRNA(Asn) amidotransferase activity",
+      "Asp-tRNAAsn amidotransferase activity",
+      "Asp-tRNAAsn:L-glutamine amido-ligase (ADP-forming)",
+      "asparaginyl-tRNA synthase (glutamine-hydrolysing)",
+      "aspartyl-tRNA(Asn) amidotransferase activity",
+      "aspartyl-tRNAAsn amidotransferase activity",
+      "aspartyl-tRNAAsn:L-glutamine amido-ligase (ADP-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.5.6",
+      "6.3.5.6",
+      "6.3.5.6",
+      "6.3.5.6",
+      "6.3.5.6",
+      "6.3.5.6",
+      "6.3.5.6",
+      "6.3.5.6",
+      "6.3.5.6",
+      "6.3.5.6"
+    ],
+    "MetaCyc": [
+      "6.3.5.6-RXN",
+      "6.3.5.6-RXN"
+    ],
+    "RHEA": [
+      "14513"
+    ],
+    "Wikipedia": [
+      "Asparaginyl-tRNA_synthase_(glutamine-hydrolysing)"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-glutamine + aspartyl-tRNA(Asn) + ATP = L-glutamate + asparaginyl-tRNA(Asn) + phosphate + ADP.",
+  "namespace": "molecular_function",
+  "label": "asparaginyl-tRNA synthase (glutamine-hydrolyzing) activity"
+}

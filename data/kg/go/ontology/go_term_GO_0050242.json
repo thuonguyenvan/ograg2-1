@@ -1,0 +1,58 @@
+{
+  "id": "GO:0050242",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050242",
+  "relationships": {
+    "is_a": [
+      "GO:0016781"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:pyruvate, phosphate phosphotransferase activity",
+      "PPDK",
+      "orthophosphate dikinase pyruvate",
+      "pyruvate, Pi dikinase activity",
+      "pyruvate,orthophosphate dikinase activity",
+      "pyruvate,phosphate dikinase activity",
+      "pyruvate-inorganic phosphate dikinase activity",
+      "pyruvate-phosphate dikinase (phosphorylating)",
+      "pyruvate-phosphate dikinase activity",
+      "pyruvate-phosphate ligase activity",
+      "pyruvic-phosphate dikinase activity",
+      "pyruvic-phosphate ligase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.9.1",
+      "2.7.9.1",
+      "2.7.9.1",
+      "2.7.9.1",
+      "2.7.9.1",
+      "2.7.9.1",
+      "2.7.9.1",
+      "2.7.9.1",
+      "2.7.9.1",
+      "2.7.9.1",
+      "2.7.9.1",
+      "2.7.9.1",
+      "2.7.9.1"
+    ],
+    "KEGG_REACTION": [
+      "R00206"
+    ],
+    "MetaCyc": [
+      "PYRUVATEORTHOPHOSPHATE-DIKINASE-RXN"
+    ],
+    "RHEA": [
+      "10756",
+      "10756"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + phosphate + pyruvate = AMP + diphosphate + 2 H+ + phosphoenolpyruvate.",
+  "namespace": "molecular_function",
+  "label": "pyruvate, phosphate dikinase activity"
+}

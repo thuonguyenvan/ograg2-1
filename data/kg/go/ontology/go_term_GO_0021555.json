@@ -1,0 +1,37 @@
+{
+  "id": "GO:0021555",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021555",
+  "relationships": {
+    "is_a": [
+      "GO:0048598"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MHB morphogenesis",
+      "isthmus morphogenesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid",
+      "cls",
+      "cls"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "15541513"
+    ]
+  },
+  "definition": "The process in which the anatomical structure of the midbrain-hindbrain boundary is generated and organized. The midbrain-hindbrain domain of the embryonic brain is comprised of the mesencephalic vesicle and the first rhombencephalic vesicle at early somitogenesis stages. An organizing center at the boundary patterns the midbrain and hindbrain primordia of the neural plate.",
+  "namespace": "biological_process",
+  "label": "midbrain-hindbrain boundary morphogenesis"
+}

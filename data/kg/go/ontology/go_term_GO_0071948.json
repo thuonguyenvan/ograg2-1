@@ -1,0 +1,48 @@
+{
+  "id": "GO:0071948",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071948",
+  "relationships": {
+    "is_a": [
+      "GO:0001783"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "activation-induced B-cell apoptosis",
+      "activation-induced cell death of B cells",
+      "activation-induced cell death of B lymphocytes",
+      "activation-induced cell death of B-cells",
+      "activation-induced cell death of B-lymphocytes"
+    ],
+    "broad": [
+      "AICD",
+      "activated B cell apoptosis",
+      "antigen-driven apoptosis"
+    ],
+    "narrow": [
+      "activation-induced B cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_apoptosis",
+      "tfm",
+      "tfm",
+      "tfm",
+      "tfm",
+      "tfm",
+      "tfm",
+      "tfm",
+      "tfm",
+      "tfm"
+    ],
+    "PMID": [
+      "11032170",
+      "19300454"
+    ]
+  },
+  "definition": "B cell apoptotic process that occurs upon engagement of either the B cell receptor or CD40. Engagement of either receptor, but not both, leads to expression of fas or related receptors that make the B cell susceptible to fas-ligand mediated death.",
+  "namespace": "biological_process",
+  "label": "activation-induced B cell apoptotic process"
+}

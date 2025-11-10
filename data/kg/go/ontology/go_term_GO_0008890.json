@@ -1,0 +1,37 @@
+{
+  "id": "GO:0008890",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008890",
+  "relationships": {
+    "is_a": [
+      "GO:0016453"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glycine acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.29",
+      "2.3.1.29",
+      "2.3.1.29"
+    ],
+    "KEGG_REACTION": [
+      "R00371"
+    ],
+    "MetaCyc": [
+      "AKBLIG-RXN"
+    ],
+    "RHEA": [
+      "20736",
+      "20736"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + glycine = L-2-amino-3-oxobutanoate + CoA.",
+  "namespace": "molecular_function",
+  "label": "glycine C-acetyltransferase activity"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GO:1900928",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900928",
+  "relationships": {
+    "is_a": [
+      "GO:0032892",
+      "GO:0034764",
+      "GO:0051957",
+      "GO:1900926"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of L-threonine import",
+      "up-regulation of L-threonine import",
+      "upregulation of L-threonine import"
+    ],
+    "broad": [
+      "positive regulation of L-threonine import"
+    ],
+    "narrow": [
+      "activation of L-threonine import",
+      "activation of L-threonine uptake"
+    ],
+    "related": [
+      "positive regulation of L-threonine uptake",
+      "up regulation of L-threonine uptake",
+      "up-regulation of L-threonine uptake",
+      "upregulation of L-threonine uptake"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of L-threonine import into cell.",
+  "namespace": "biological_process",
+  "label": "positive regulation of L-threonine import across plasma membrane"
+}

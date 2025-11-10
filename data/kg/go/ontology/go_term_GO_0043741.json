@@ -1,0 +1,30 @@
+{
+  "id": "GO:0043741",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043741",
+  "relationships": {
+    "is_a": [
+      "GO:0008080"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-2-aminoadipate N-acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-5181"
+    ],
+    "PMID": [
+      "10613839",
+      "12925802",
+      "29053735"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-aminoadipate + acetyl-CoA = N2-acetyl-alpha-aminoadipate + coenzyme A.",
+  "namespace": "molecular_function",
+  "label": "alpha-aminoadipate acetyltransferase activity"
+}

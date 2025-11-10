@@ -1,0 +1,36 @@
+{
+  "id": "GO:0045624",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045624",
+  "relationships": {
+    "is_a": [
+      "GO:0002699",
+      "GO:0043372",
+      "GO:0045622",
+      "GO:0050778"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of T-helper cell differentiation",
+      "up-regulation of T-helper cell differentiation",
+      "upregulation of T-helper cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of T-helper cell differentiation",
+      "stimulation of T-helper cell differentiation"
+    ],
+    "related": [
+      "positive regulation of T-helper cell development"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of T-helper cell differentiation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of T-helper cell differentiation"
+}

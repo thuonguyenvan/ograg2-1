@@ -1,0 +1,35 @@
+{
+  "id": "GO:0060102",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060102",
+  "relationships": {
+    "is_a": [
+      "GO:0140047"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "collagen and cuticulin-based cuticle extracellular matrix",
+      "cuticular ECM"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "collagen and cuticulin-based exoskeleton extracellular matrix"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "kmv"
+    ],
+    "ISSN": [
+      "15518507"
+    ],
+    "PMID": [
+      "12619137"
+    ]
+  },
+  "definition": "A collagen and cuticulin-based noncellular, multilayered structure that is synthesized by an underlying ectodermal (hypodermal) cell layer. The cuticle serves essential functions in body morphology, locomotion, and environmental protection. An example of this component is found in Caenorhabditis elegans.",
+  "namespace": "cellular_component",
+  "label": "cuticular extracellular matrix"
+}

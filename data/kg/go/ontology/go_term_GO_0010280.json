@@ -1,0 +1,32 @@
+{
+  "id": "GO:0010280",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010280",
+  "relationships": {
+    "is_a": [
+      "GO:0016740"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "UDP-4-keto-6-deoxy-D-glucose 3,5-epimerase-4-reductase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-5482",
+      "RXN-5482"
+    ],
+    "PMID": [
+      "14701918"
+    ],
+    "GOC": [
+      "tb"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-D-glucose + NADPH + H+ = UDP-L-rhamnose + NADP+ + H2O.",
+  "namespace": "molecular_function",
+  "label": "UDP-L-rhamnose synthase activity"
+}

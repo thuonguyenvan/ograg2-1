@@ -1,0 +1,63 @@
+{
+  "id": "GO:0004314",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004314",
+  "relationships": {
+    "is_a": [
+      "GO:0016419"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ACP S-malonyltransferase activity",
+      "[acyl-carrier protein] S-malonyltransferase activity"
+    ],
+    "broad": [
+      "malonyl transacylase activity",
+      "malonyl transferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "FabD",
+      "MAT",
+      "MCAT activity",
+      "acyl carrier protein malonyltransferase activity",
+      "acyl carrier proteinmalonyltransferase activity",
+      "acyl-carrier-protein S-malonyltransferase activity",
+      "malonyl coenzyme A-acyl carrier protein transacylase activity",
+      "malonyl-CoA-acyl carrier protein transacylase activity",
+      "malonyl-CoA:ACP transacylase activity",
+      "malonyl-CoA:AcpM transacylase activity",
+      "malonyl-CoA:acyl carrier protein transacylase activity",
+      "malonyl-CoA:acyl-carrier-protein S-malonyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.39",
+      "2.3.1.39",
+      "2.3.1.39",
+      "2.3.1.39",
+      "2.3.1.39",
+      "2.3.1.39",
+      "2.3.1.39",
+      "2.3.1.39",
+      "2.3.1.39",
+      "2.3.1.39",
+      "2.3.1.39",
+      "2.3.1.39",
+      "2.3.1.39",
+      "2.3.1.39",
+      "2.3.1.39",
+      "2.3.1.39"
+    ],
+    "MetaCyc": [
+      "MALONYL-COA-ACP-TRANSACYL-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-8933547"
+    ]
+  },
+  "definition": "Catalysis of the reaction: malonyl-CoA + [acyl-carrier protein] = CoA + malonyl-[acyl-carrier protein].",
+  "namespace": "molecular_function",
+  "label": "MCAT transfers Mal from Mal-CoA to NDUFAB1"
+}

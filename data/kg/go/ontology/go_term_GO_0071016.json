@@ -1,0 +1,56 @@
+{
+  "id": "GO:0071016",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071016",
+  "relationships": {
+    "is_a": [
+      "GO:0005689",
+      "GO:0071011"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "minor precatalytic spliceosome"
+    ],
+    "broad": [],
+    "narrow": [
+      "AT-AC precatalytic spliceosome",
+      "mammalian U12-type spliceosomal complex B",
+      "mammalian U12-type spliceosomal complex B1",
+      "yeast U12-type spliceosomal complex A2-1"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ab",
+      "krc",
+      "mah",
+      "krc",
+      "mah",
+      "krc",
+      "mah",
+      "ab",
+      "krc",
+      "mah",
+      "krc",
+      "mah",
+      "krc",
+      "mah"
+    ],
+    "PMID": [
+      "16201866",
+      "19239890"
+    ],
+    "ISBN": [
+      "0879695897",
+      "0879697393",
+      "0879695897",
+      "0879697393",
+      "0879695897",
+      "0879697393"
+    ]
+  },
+  "definition": "A spliceosomal complex that is formed by the recruitment of the preassembled U4atac/U6atac.U5 tri-snRNP to the U12-type prespliceosome. Although all 5 snRNPs are present, the precatalytic spliceosome is catalytically inactive. The precatalytic spliceosome includes many proteins in addition to those found in the U11, U12 and U4atac/U6atac.U5 snRNPs.",
+  "namespace": "cellular_component",
+  "label": "U12-type precatalytic spliceosome"
+}

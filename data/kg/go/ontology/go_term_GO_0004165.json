@@ -1,0 +1,55 @@
+{
+  "id": "GO:0004165",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004165",
+  "relationships": {
+    "is_a": [
+      "GO:0016863"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "delta3-cis-delta2-trans-enoyl-CoA isomerase",
+      "delta3-delta2 enoyl-CoA isomerase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "dodecenoyl-CoA (3Z)-(2E)-isomerase activity",
+      "dodecenoyl-CoA D-isomerase activity",
+      "dodecenoyl-CoA delta-isomerase activity",
+      "dodecenoyl-CoA delta3-cis-delta2-trans-isomerase activity"
+    ],
+    "related": [
+      "3,2-trans-enoyl-CoA isomerase activity",
+      "acetylene-allene isomerase activity",
+      "delta(3),delta(2)-enoyl-CoA isomerase activity",
+      "delta(3)-cis-delta(2)-trans-enoyl-CoA isomerase activity",
+      "delta3,delta2-enoyl-CoA isomerase activity",
+      "dodecenoyl-CoA isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.3.8",
+      "5.3.3.8",
+      "5.3.3.8",
+      "5.3.3.8",
+      "5.3.3.8",
+      "5.3.3.8",
+      "5.3.3.8",
+      "5.3.3.8",
+      "5.3.3.8",
+      "5.3.3.8"
+    ],
+    "RHEA": [
+      "45900",
+      "45900"
+    ],
+    "Reactome": [
+      "R-HSA-109338",
+      "R-HSA-6809808"
+    ]
+  },
+  "definition": "Catalysis of the reactions: a (3Z)-enoyl-CoA = a 4-saturated (2E)-enoyl-CoA or a (3E)-enoyl-CoA = a 4-saturated (2E)-enoyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "ECI2 isomerizes 3Z-enoyl-CoA to 2E-enoyl-CoA"
+}

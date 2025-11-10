@@ -1,0 +1,33 @@
+{
+  "id": "GO:0009260",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009260",
+  "relationships": {
+    "is_a": [
+      "GO:0009165",
+      "GO:0009259",
+      "GO:0046390"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ribonucleotide anabolism",
+      "ribonucleotide biosynthesis",
+      "ribonucleotide formation",
+      "ribonucleotide synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of a ribonucleotide, a compound consisting of ribonucleoside (a base linked to a ribose sugar) esterified with a phosphate group at either the 3&apos; or 5&apos;-hydroxyl group of the sugar.",
+  "namespace": "biological_process",
+  "label": "ribonucleotide biosynthetic process"
+}

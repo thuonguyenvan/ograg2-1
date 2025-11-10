@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140774",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140774",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "70563",
+      "70563"
+    ],
+    "PMID": [
+      "23552949"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N6-octadecanoyl-L-lysyl-[protein] + NAD+ + H2O = octadecanoyl-ADP-D-ribose + L-lysyl-[protein] + nicotinamide.",
+  "namespace": "molecular_function",
+  "label": "NAD-dependent protein depalmitoylase activity"
+}

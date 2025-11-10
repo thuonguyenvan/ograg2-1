@@ -1,0 +1,37 @@
+{
+  "id": "GO:0006313",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006313",
+  "relationships": {
+    "is_a": [
+      "GO:0006310",
+      "GO:0032196"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Class II transposition",
+      "transposition, DNA-mediated"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Transposable_element",
+      "Transposase"
+    ],
+    "ISBN": [
+      "0198506732",
+      "1555812090"
+    ],
+    "PMID": [
+      "26846462",
+      "30416149",
+      "32588192"
+    ]
+  },
+  "definition": "A type of transposition in which a transposable element (transposon) is moved to another part of a genome, either by a cut-and-paste mechanism or a replicative mechanism.",
+  "namespace": "biological_process",
+  "label": "DNA transposition"
+}

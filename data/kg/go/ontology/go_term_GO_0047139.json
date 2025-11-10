@@ -1,0 +1,34 @@
+{
+  "id": "GO:0047139",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047139",
+  "relationships": {
+    "is_a": [
+      "GO:0016671"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glutathione:homocystine oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.4.1",
+      "1.8.4.1",
+      "1.8.4.1"
+    ],
+    "MetaCyc": [
+      "1.8.4.1-RXN",
+      "1.8.4.1-RXN"
+    ],
+    "RHEA": [
+      "11464"
+    ]
+  },
+  "definition": "Catalysis of the reaction: homocystine + 2 reduced glutathione = oxidized glutathione + 2 homocysteine.",
+  "namespace": "molecular_function",
+  "label": "glutathione-homocystine transhydrogenase activity"
+}

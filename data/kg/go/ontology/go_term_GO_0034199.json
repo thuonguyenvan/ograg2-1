@@ -1,0 +1,28 @@
+{
+  "id": "GO:0034199",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034199",
+  "relationships": {
+    "is_a": [
+      "GO:0032147"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein kinase A activation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-163615"
+    ],
+    "GOC": [
+      "pde"
+    ]
+  },
+  "definition": "Any process that initiates the activity of the inactive enzyme protein kinase A.",
+  "namespace": "biological_process",
+  "label": "PKA activation"
+}

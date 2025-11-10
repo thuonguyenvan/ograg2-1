@@ -1,0 +1,49 @@
+{
+  "id": "GO:0048208",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048208",
+  "relationships": {
+    "is_a": [
+      "GO:0006901",
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "COPII coating of ER-derived vesicle",
+      "COPII vesicle coat assembly",
+      "COPII vesicle coat formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-204005"
+    ],
+    "GOC": [
+      "ascb_2009",
+      "dph",
+      "jid",
+      "mah",
+      "tb",
+      "tb",
+      "ascb_2009",
+      "dph",
+      "tb",
+      "ascb_2009",
+      "dph",
+      "jp",
+      "tb"
+    ],
+    "ISBN": [
+      "0716731363"
+    ],
+    "PMID": [
+      "10219233"
+    ]
+  },
+  "definition": "The addition of COPII proteins and adaptor proteins to ER membranes during the formation of transport vesicles, forming a vesicle coat.",
+  "namespace": "biological_process",
+  "label": "COPII-mediated vesicle transport"
+}

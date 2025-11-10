@@ -1,0 +1,26 @@
+{
+  "id": "GO:0032923",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032923",
+  "relationships": {
+    "is_a": [
+      "GO:0009058",
+      "GO:0019634"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "organophosphonate biosynthetic process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "js"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of phosphonates, any organic compound containing one or more C-PO(OH)2 or C-PO(OR)2 (with R=alkyl, aryl) groups. Synthesis of phosphonic acid itself, an inorganic compound without the biochemically relevant C-P bond, is not included.",
+  "namespace": "biological_process",
+  "label": "organic phosphonate biosynthetic process"
+}

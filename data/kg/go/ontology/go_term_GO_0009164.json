@@ -1,0 +1,29 @@
+{
+  "id": "GO:0009164",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009164",
+  "relationships": {
+    "is_a": [
+      "GO:0009116",
+      "GO:0034656",
+      "GO:1901658"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nucleoside breakdown",
+      "nucleoside catabolism",
+      "nucleoside degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of any one of a family of organic molecules consisting of a purine or pyrimidine base covalently bonded to a sugar ribose (a ribonucleoside) or deoxyribose (a deoxyribonucleoside).",
+  "namespace": "biological_process",
+  "label": "nucleoside catabolic process"
+}

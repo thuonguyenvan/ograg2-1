@@ -1,0 +1,27 @@
+{
+  "id": "GO:0030096",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030096",
+  "relationships": {
+    "is_a": [
+      "GO:0009523",
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "plasma membrane photosystem II"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "A protein complex, located in the membrane-derived thylakoid, containing the P680 reaction center. In the light, PSII functions as a water-plastoquinone oxidoreductase, transferring electrons from water to plastoquinone.",
+  "namespace": "cellular_component",
+  "label": "plasma membrane-derived thylakoid photosystem II"
+}

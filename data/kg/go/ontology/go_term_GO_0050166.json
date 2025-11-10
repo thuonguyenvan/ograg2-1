@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050166",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050166",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-pantoate:NAD+ 4-oxidoreductase activity",
+      "D-pantoate:NAD+ 4-oxidoreductase activity",
+      "panthothenase activity",
+      "pantoate dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.106",
+      "1.1.1.106",
+      "1.1.1.106",
+      "1.1.1.106",
+      "1.1.1.106",
+      "1.1.1.106"
+    ],
+    "KEGG_REACTION": [
+      "R02471"
+    ],
+    "MetaCyc": [
+      "PANTOATE-4-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "23000",
+      "23000"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-pantoate + NAD+ = (R)-4-dehydropantoate + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "pantoate 4-dehydrogenase activity"
+}

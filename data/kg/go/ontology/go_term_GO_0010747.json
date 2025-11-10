@@ -1,0 +1,29 @@
+{
+  "id": "GO:0010747",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010747",
+  "relationships": {
+    "is_a": [
+      "GO:0010746",
+      "GO:0034764",
+      "GO:0140214"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of plasma membrane long-chain fatty acid transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that increases the rate, frequency or extent of plasma membrane long-chain fatty acid transport. Plasma membrane long-chain fatty acid transport is the directed movement of long-chain fatty acids across the plasma membrane. A long-chain fatty acid has an aliphatic tail containing 13 to 22 carbons.",
+  "namespace": "biological_process",
+  "label": "positive regulation of long-chain fatty acid import across plasma membrane"
+}

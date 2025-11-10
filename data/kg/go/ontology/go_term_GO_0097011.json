@@ -1,0 +1,30 @@
+{
+  "id": "GO:0097011",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097011",
+  "relationships": {
+    "is_a": [
+      "GO:0071345",
+      "GO:0097012"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to GM-CSF stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "ebc"
+    ],
+    "PMID": [
+      "7901744"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a granulocyte macrophage colony-stimulating factor stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to granulocyte macrophage colony-stimulating factor stimulus"
+}

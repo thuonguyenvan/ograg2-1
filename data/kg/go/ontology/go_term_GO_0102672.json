@@ -1,0 +1,32 @@
+{
+  "id": "GO:0102672",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102672",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "fatty acid alpha-oxygenase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.92"
+    ],
+    "MetaCyc": [
+      "RXN-4121"
+    ],
+    "RHEA": [
+      "63508",
+      "63508"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1,2-saturated fatty acid + O2 = a (2R)-2-hydroperoxy fatty acid.",
+  "namespace": "molecular_function",
+  "label": "fatty acid alpha-dioxygenase activity"
+}

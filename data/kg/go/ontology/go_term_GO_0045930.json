@@ -1,0 +1,39 @@
+{
+  "id": "GO:0045930",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045930",
+  "relationships": {
+    "is_a": [
+      "GO:0007346",
+      "GO:0045786"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of progression through mitotic cell cycle",
+      "down-regulation of progression through mitotic cell cycle",
+      "downregulation of progression through mitotic cell cycle",
+      "negative regulation of mitotic cell cycle progression",
+      "negative regulation of progression through mitotic cell cycle"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of progression through mitotic cell cycle"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8854050"
+    ],
+    "GOC": [
+      "dph",
+      "go_curators",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the rate or extent of progression through the mitotic cell cycle.",
+  "namespace": "biological_process",
+  "label": "FBXL7 down-regulates AURKA during mitotic entry and in early mitosis"
+}

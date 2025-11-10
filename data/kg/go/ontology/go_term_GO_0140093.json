@@ -1,0 +1,33 @@
+{
+  "id": "GO:0140093",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140093",
+  "relationships": {
+    "is_a": [
+      "GO:0070603"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "embryonic stem cell-specific BAF complex",
+      "embryonic stem cell-specific SWI/SNF complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "19279218",
+      "19279220",
+      "2620226",
+      "8804307",
+      "8895581"
+    ]
+  },
+  "definition": "An embryonic stem cell-specific SWI/SNF-type complex that contains eight or nine proteins, including both conserved (core) and nonconserved components; contains the ATPase product of either the SMARCA4/BAF190A/BRG1 gene, the mammalian ortholog of the yeast SNF2 gene, or an ortholog thereof. Compared to many other BAF complexes never contains ACTL6B/BAF53B, ARID1B/BAF250B, SMARCA2/BRM, SMARCC2/BAF170 or SMARCD3/BAF60C but contains PHF10/BAF45A, DPF2/BAF45D and possibly one of BCL7A/B/C.",
+  "namespace": "cellular_component",
+  "label": "esBAF complex"
+}

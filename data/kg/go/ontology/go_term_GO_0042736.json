@@ -1,0 +1,44 @@
+{
+  "id": "GO:0042736",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042736",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:NADH 2&apos;-phosphotransferase activity",
+      "DPNH kinase activity",
+      "reduced diphosphopyridine nucleotide kinase activity",
+      "reduced nicotinamide adenine dinucleotide kinase (phosphorylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.86",
+      "2.7.1.86",
+      "2.7.1.86",
+      "2.7.1.86",
+      "2.7.1.86",
+      "2.7.1.86"
+    ],
+    "KEGG_REACTION": [
+      "R00105"
+    ],
+    "MetaCyc": [
+      "NADH-KINASE-RXN"
+    ],
+    "RHEA": [
+      "12260",
+      "12260"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + NADH = ADP + 2 H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "NADH kinase activity"
+}

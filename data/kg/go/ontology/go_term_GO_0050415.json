@@ -1,0 +1,45 @@
+{
+  "id": "GO:0050415",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050415",
+  "relationships": {
+    "is_a": [
+      "GO:0016813"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "formiminoglutamase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-formimidoyl-L-glutamate formimidoylhydrolase activity",
+      "N-formimino-L-glutamate formiminohydrolase activity",
+      "N-formiminoglutamate hydrolase activity",
+      "formiminoglutamate hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.3.8",
+      "3.5.3.8",
+      "3.5.3.8",
+      "3.5.3.8",
+      "3.5.3.8",
+      "3.5.3.8"
+    ],
+    "KEGG_REACTION": [
+      "R02285"
+    ],
+    "MetaCyc": [
+      "FORMIMINOGLUTAMASE-RXN"
+    ],
+    "RHEA": [
+      "22492",
+      "22492"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-formimidoyl-L-glutamate + H2O = L-glutamate + formamide.",
+  "namespace": "molecular_function",
+  "label": "formimidoylglutamase activity"
+}

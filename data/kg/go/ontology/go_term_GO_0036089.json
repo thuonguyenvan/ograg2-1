@@ -1,0 +1,32 @@
+{
+  "id": "GO:0036089",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036089",
+  "relationships": {
+    "is_a": [
+      "GO:0032506",
+      "GO:0099024"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "cleavage furrow positioning"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ans"
+    ],
+    "PMID": [
+      "15811947",
+      "20687468",
+      "2192590",
+      "14757750"
+    ]
+  },
+  "definition": "Generation of the cleavage furrow, a shallow groove in the cell surface near the old metaphase plate that marks the site of cytokinesis. This process includes the recruitment and localized activation of signals such as RhoA at the site of the future furrow to ensure that furrowing initiates at the correct site in the cell.",
+  "namespace": "biological_process",
+  "label": "cleavage furrow formation"
+}

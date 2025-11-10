@@ -1,0 +1,35 @@
+{
+  "id": "GO:1904600",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904600",
+  "relationships": {
+    "is_a": [
+      "GO:0010927",
+      "GO:0030036"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "actin fusion focus formation"
+    ],
+    "broad": [
+      "actin fusion focus assembly"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000079"
+    ],
+    "PMID": [
+      "25825517"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form an actin fusion focus.",
+  "namespace": "biological_process",
+  "label": "mating projection actin fusion focus assembly"
+}

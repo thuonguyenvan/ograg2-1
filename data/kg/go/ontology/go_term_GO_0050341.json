@@ -1,0 +1,42 @@
+{
+  "id": "GO:0050341",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050341",
+  "relationships": {
+    "is_a": [
+      "GO:0016706"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-hydroxy-methyluracil dioxygenase activity",
+      "5-hydroxymethyluracil oxygenase activity",
+      "thymine 7-hydroxylase activity",
+      "thymine,2-oxoglutarate dioxygenase activity",
+      "thymine,2-oxoglutarate:oxygen oxidoreductase (7-hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.11.6",
+      "1.14.11.6",
+      "1.14.11.6",
+      "1.14.11.6",
+      "1.14.11.6",
+      "1.14.11.6",
+      "1.14.11.6"
+    ],
+    "MetaCyc": [
+      "THYMINE-DIOXYGENASE-RXN",
+      "THYMINE-DIOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "10316"
+    ]
+  },
+  "definition": "Catalysis of the reaction: thymine + 2-oxoglutarate + O2 = 5-hydroxymethyluracil + succinate + CO2.",
+  "namespace": "molecular_function",
+  "label": "thymine dioxygenase activity"
+}

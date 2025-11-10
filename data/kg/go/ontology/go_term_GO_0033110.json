@@ -1,0 +1,29 @@
+{
+  "id": "GO:0033110",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033110",
+  "relationships": {
+    "is_a": [
+      "GO:0030659"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytoplasm to vacuole targeting vesicle membrane",
+      "cytoplasm-to-vacuole targeting vesicle membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ecd"
+    ],
+    "PMID": [
+      "20065092"
+    ]
+  },
+  "definition": "Either of the two lipid bilayers surrounding a Cvt vesicle, a vesicle that functions in the cytoplasm-to-vacuole targeting (Cvt) pathway.",
+  "namespace": "cellular_component",
+  "label": "Cvt vesicle membrane"
+}

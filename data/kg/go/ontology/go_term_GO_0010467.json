@@ -1,0 +1,30 @@
+{
+  "id": "GO:0010467",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010467",
+  "relationships": {
+    "is_a": [
+      "GO:0009059"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Gene_expression"
+    ],
+    "GOC": [
+      "txnOH-2018"
+    ],
+    "PMID": [
+      "25934543",
+      "31580950"
+    ]
+  },
+  "definition": "The process in which a gene&apos;s sequence is converted into a mature gene product (protein or RNA). This includes the production of an RNA transcript and its processing, as well as translation and maturation for protein-coding genes.",
+  "namespace": "biological_process",
+  "label": "gene expression"
+}

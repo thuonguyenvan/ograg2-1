@@ -1,0 +1,27 @@
+{
+  "id": "GO:2000075",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000075",
+  "relationships": {
+    "is_a": [
+      "GO:0032466",
+      "GO:2000073"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of site selection involved in cell cycle cytokinesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle",
+      "obol"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of site selection that occurs as part of cytokinesis.",
+  "namespace": "biological_process",
+  "label": "negative regulation of cytokinesis, site selection"
+}

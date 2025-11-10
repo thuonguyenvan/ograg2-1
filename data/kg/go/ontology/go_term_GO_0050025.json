@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050025",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050025",
+  "relationships": {
+    "is_a": [
+      "GO:0001716"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-glutamate:oxygen oxidoreductase (deaminating)",
+      "L-glutamic acid oxidase activity",
+      "glutamate (acceptor) dehydrogenase activity",
+      "glutamate oxidase activity",
+      "glutamic acid oxidase activity",
+      "glutamic dehydrogenase (acceptor)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.3.11",
+      "1.4.3.11",
+      "1.4.3.11",
+      "1.4.3.11",
+      "1.4.3.11",
+      "1.4.3.11",
+      "1.4.3.11"
+    ],
+    "MetaCyc": [
+      "L-GLUTAMATE-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "20728",
+      "20728"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-glutamate + O2 + H2O = 2-oxoglutarate + NH3 + H2O2.",
+  "namespace": "molecular_function",
+  "label": "L-glutamate oxidase activity"
+}

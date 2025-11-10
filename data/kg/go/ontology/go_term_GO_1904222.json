@@ -1,0 +1,83 @@
+{
+  "id": "GO:1904222",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904222",
+  "relationships": {
+    "is_a": [
+      "GO:0043085",
+      "GO:0051338"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of 3-oxosphinganine synthetase activity",
+      "positive regulation of palmitoyl-CoA:L-serine C-palmitoyltransferase (decarboxylating) activity",
+      "up regulation of 3-oxosphinganine synthetase activity",
+      "up regulation of palmitoyl-CoA:L-serine C-palmitoyltransferase (decarboxylating) activity",
+      "up regulation of serine C-palmitoyltransferase activity",
+      "up-regulation of 3-oxosphinganine synthetase activity",
+      "up-regulation of palmitoyl-CoA:L-serine C-palmitoyltransferase (decarboxylating) activity",
+      "up-regulation of serine C-palmitoyltransferase activity",
+      "upregulation of 3-oxosphinganine synthetase activity",
+      "upregulation of palmitoyl-CoA:L-serine C-palmitoyltransferase (decarboxylating) activity",
+      "upregulation of serine C-palmitoyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of 3-oxosphinganine synthetase activity",
+      "activation of palmitoyl-CoA:L-serine C-palmitoyltransferase (decarboxylating) activity",
+      "activation of serine C-palmitoyltransferase activity"
+    ],
+    "related": [
+      "activation of SPT",
+      "activation of acyl-CoA:serine C-2 acyltransferase decarboxylating",
+      "positive regulation of SPT",
+      "positive regulation of acyl-CoA:serine C-2 acyltransferase decarboxylating",
+      "up regulation of SPT",
+      "up regulation of acyl-CoA:serine C-2 acyltransferase decarboxylating",
+      "up-regulation of SPT",
+      "up-regulation of acyl-CoA:serine C-2 acyltransferase decarboxylating",
+      "upregulation of SPT",
+      "upregulation of acyl-CoA:serine C-2 acyltransferase decarboxylating"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000059"
+    ],
+    "PMID": [
+      "16120614"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of serine C-palmitoyltransferase activity.",
+  "namespace": "biological_process",
+  "label": "positive regulation of serine C-palmitoyltransferase activity"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0048624",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048624",
+  "relationships": {
+    "is_a": [
+      "GO:0003006",
+      "GO:0019954",
+      "GO:0044706",
+      "GO:0048507",
+      "GO:0048609"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "vegetative vivipary",
+      "vivipary"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The process in which a new plantlet develops from a meristem on the plant body. As part of this process, when the plantlet is large enough to live independently, the physical connection between the new plantlet and the main plant is severed.",
+  "namespace": "biological_process",
+  "label": "plantlet formation on parent plant"
+}

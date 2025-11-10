@@ -1,0 +1,35 @@
+{
+  "id": "GO:0050659",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050659",
+  "relationships": {
+    "is_a": [
+      "GO:0008146"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3&apos;-phosphoadenylyl-sulfate:dermatan 6&apos;-sulfotransferase activity",
+      "GalNAc4S-6ST",
+      "N-acetylgalactosamine 4-sulfate 6-O-sulphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.33",
+      "2.8.2.33",
+      "2.8.2.33",
+      "2.8.2.33",
+      "2.8.2.33"
+    ],
+    "Reactome": [
+      "R-HSA-2018659",
+      "R-HSA-9941312"
+    ]
+  },
+  "definition": "Catalysis of the reactions: n 3&apos;-phosphoadenylyl sulfate + chondroitin 4&apos;-sulfate = n adenosine 3&apos;,5&apos;-bisphosphate + chondroitin 4&apos;,6&apos;-bissulfate + n H+, and n 3&apos;-phosphoadenylyl sulfate + dermatan 4&apos;-sulfate = n adenosine 3&apos;,5&apos;-bisphosphate + dermatan 4&apos;,6&apos;-bissulfate + n H+.",
+  "namespace": "molecular_function",
+  "label": "CHST15 transfers sulfate to (6-)GalNAc-4-sulfate"
+}

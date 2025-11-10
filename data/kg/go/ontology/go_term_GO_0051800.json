@@ -1,0 +1,32 @@
+{
+  "id": "GO:0051800",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051800",
+  "relationships": {
+    "is_a": [
+      "GO:0106017"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "PTEN activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1676149",
+      "R-HSA-1676204"
+    ],
+    "GOC": [
+      "bf"
+    ],
+    "PMID": [
+      "9811831"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-phosphatidyl-1D-myo-inositol 3,4-bisphosphate + H2O = 1-phosphatidyl-1D-myo-inositol 4-phosphate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "PI(3,4)P2 is dephosphorylated to PI4P by TPTE2 at the Golgi membrane"
+}

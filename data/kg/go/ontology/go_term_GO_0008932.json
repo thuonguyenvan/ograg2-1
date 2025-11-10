@@ -1,0 +1,30 @@
+{
+  "id": "GO:0008932",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008932",
+  "relationships": {
+    "is_a": [
+      "GO:0008933"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "murein lytic endotransglycosylase E activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.2.n2",
+      "4.2.2.n2"
+    ],
+    "PMID": [
+      "10964424",
+      "9642199"
+    ]
+  },
+  "definition": "Catalysis of the endolytic cleavage of the (1-&gt;4)-beta-glycosidic linkage between N-acetylmuramic acid (MurNAc) and N-acetylglucosamine (GlcNAc) residues in peptidoglycan with concomitant formation of a 1,6-anhydrobond in the MurNAc residue.",
+  "namespace": "molecular_function",
+  "label": "lytic endotransglycosylase activity"
+}

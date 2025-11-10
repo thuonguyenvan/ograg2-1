@@ -1,0 +1,39 @@
+{
+  "id": "GO:0008520",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008520",
+  "relationships": {
+    "is_a": [
+      "GO:0005343",
+      "GO:0005402",
+      "GO:0015145",
+      "GO:0046943"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "sodium-dependent L-ascorbate transmembrane transporter activity",
+      "sodium-dependent L-ascorbic acid transporter"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "69883"
+    ],
+    "TC": [
+      "2.A.40.6.1"
+    ],
+    "GOC": [
+      "mah",
+      "yaf"
+    ],
+    "PMID": [
+      "18094143"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: L-ascorbate(out) + Na+(out) = L-ascorbate(in) + Na+(in).",
+  "namespace": "molecular_function",
+  "label": "L-ascorbate:sodium symporter activity"
+}

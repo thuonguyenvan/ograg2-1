@@ -1,0 +1,29 @@
+{
+  "id": "GO:0046340",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046340",
+  "relationships": {
+    "is_a": [
+      "GO:0046339",
+      "GO:0046464"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "diacylglycerol breakdown",
+      "diacylglycerol catabolism",
+      "diacylglycerol degradation",
+      "diglyceride catabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11717312"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of diacylglycerol, a glyceride in which any two of the R groups (positions not specified) are acyl groups while the remaining R group can be either H or an alkyl group.",
+  "namespace": "biological_process",
+  "label": "diacylglycerol catabolic process"
+}

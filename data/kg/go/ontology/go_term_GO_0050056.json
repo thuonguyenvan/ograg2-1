@@ -1,0 +1,36 @@
+{
+  "id": "GO:0050056",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050056",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "linalool,[reduced NADPH--hemoprotein reductase]:oxygen oxidoreductase (8-hydroxylating) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.84",
+      "1.14.14.84"
+    ],
+    "KEGG_REACTION": [
+      "R04366"
+    ],
+    "MetaCyc": [
+      "LINALOOL-8-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "32635",
+      "32635"
+    ]
+  },
+  "definition": "Catalysis of the reaction: linalool + 2 O2 + 2 reduced [NADPH--hemoprotein reductase] = (6E)-8-oxolinalool + 2 H+ + 3 H2O + 2 oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "linalool 8-monooxygenase activity"
+}

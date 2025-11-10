@@ -1,0 +1,29 @@
+{
+  "id": "GO:0009407",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009407",
+  "relationships": {
+    "is_a": [
+      "GO:0009056",
+      "GO:0009404",
+      "GO:0098754"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "toxin breakdown",
+      "toxin catabolism",
+      "toxin degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of toxin, a poisonous compound (typically a protein) that is produced by cells or organisms and that can cause disease when introduced into the body or tissues of an organism.",
+  "namespace": "biological_process",
+  "label": "toxin catabolic process"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:1990238",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990238",
+  "relationships": {
+    "is_a": [
+      "GO:0004520",
+      "GO:0016788"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "double-stranded DNA endodeoxyribonuclease activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dsDNA-specific endodeoxyribonuclease activity"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "22885404"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of ester linkages within a double-stranded DNA molecule by creating internal breaks.",
+  "namespace": "molecular_function",
+  "label": "double-stranded DNA endonuclease activity"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0019151",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019151",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-galactose 1-dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-galactose dehydrogenase activity",
+      "D-galactose:NAD+ 1-oxidoreductase activity",
+      "NAD-dependent D-galactose dehydrogenase activity",
+      "beta-galactose dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.48",
+      "1.1.1.48",
+      "1.1.1.48",
+      "1.1.1.48",
+      "1.1.1.48",
+      "1.1.1.48"
+    ],
+    "MetaCyc": [
+      "GALACTODEHYDROG-RXN"
+    ],
+    "RHEA": [
+      "21296"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-galactose + NAD+ = D-galactono-1,4-lactone + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "galactose 1-dehydrogenase activity"
+}

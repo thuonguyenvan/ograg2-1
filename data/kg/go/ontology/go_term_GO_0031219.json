@@ -1,0 +1,35 @@
+{
+  "id": "GO:0031219",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031219",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "levan hydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,6-beta-D-fructan fructanohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.65",
+      "3.2.1.65",
+      "3.2.1.65"
+    ],
+    "MetaCyc": [
+      "3.2.1.65-RXN"
+    ],
+    "GOC": [
+      "mlg"
+    ]
+  },
+  "definition": "Catalysis of the random hydrolysis of 2,6-beta-D-fructofuranosidic linkages in 2,6-beta-D-fructans (levans) containing more than 3 fructose units.",
+  "namespace": "molecular_function",
+  "label": "levanase activity"
+}

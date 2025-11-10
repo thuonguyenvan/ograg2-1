@@ -1,0 +1,30 @@
+{
+  "id": "GO:0002482",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002482",
+  "relationships": {
+    "is_a": [
+      "GO:0002477"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TAP-independent antigen processing and presentation of exogenous peptide antigen via MHC class Ib",
+      "TAP-independent exogenous peptide antigen processing and presentation via MHC class Ib",
+      "exogenous peptide antigen processing and presentation via MHC class Ib, TAP-independent"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "PMID": [
+      "15928678"
+    ]
+  },
+  "definition": "The process in which an antigen-presenting cell expresses a peptide antigen of exogenous origin on its cell surface in association with an MHC class Ib protein complex following intracellular transport via a pathway not requiring TAP (transporter associated with antigen processing). The peptide is typically a fragment of a larger exogenous protein which has been degraded within the cell. Class Ib here refers to non-classical class I molecules, such as those of the HLA-E gene family.",
+  "namespace": "biological_process",
+  "label": "antigen processing and presentation of exogenous protein antigen via MHC class Ib, TAP-independent"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0006816",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006816",
+  "relationships": {
+    "is_a": [
+      "GO:0030001"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "calcium transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "mitochondrial sodium/calcium ion exchange",
+      "sodium:calcium exchange"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The directed movement of calcium (Ca) ions into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "calcium ion transport"
+}

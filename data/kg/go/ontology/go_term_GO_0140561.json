@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140561",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140561",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.376"
+    ],
+    "RHEA": [
+      "58116",
+      "58116"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-alpha-D-glucose + [protein with EGF-like domain]-L-serine = UDP + [protein with EGF-like domain]-3-O-(beta-D-glucosyl)-L-serine.",
+  "namespace": "molecular_function",
+  "label": "EGF-domain serine glucosyltransferase activity"
+}

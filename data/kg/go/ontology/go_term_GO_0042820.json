@@ -1,0 +1,33 @@
+{
+  "id": "GO:0042820",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042820",
+  "relationships": {
+    "is_a": [
+      "GO:0042365",
+      "GO:0042816",
+      "GO:0072526"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "vitamin B6 breakdown",
+      "vitamin B6 catabolism",
+      "vitamin B6 degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "30037155",
+      "30671974"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of any of the vitamin B6 compounds; pyridoxal, pyridoxamine and pyridoxine and the active form, pyridoxal phosphate.",
+  "namespace": "biological_process",
+  "label": "vitamin B6 catabolic process"
+}

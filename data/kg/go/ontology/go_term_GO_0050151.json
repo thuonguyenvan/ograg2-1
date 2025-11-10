@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050151",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050151",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-10-hydroxystearate 10-hydro-lyase (oleate-forming)",
+      "(R)-10-hydroxystearate 10-hydro-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.53",
+      "4.2.1.53",
+      "4.2.1.53",
+      "4.2.1.53"
+    ],
+    "KEGG_REACTION": [
+      "R02813"
+    ],
+    "MetaCyc": [
+      "OLEATE-HYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "21852",
+      "21852"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-10-hydroxystearate = H2O + oleate.",
+  "namespace": "molecular_function",
+  "label": "oleate hydratase activity"
+}

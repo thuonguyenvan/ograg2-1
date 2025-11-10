@@ -1,0 +1,28 @@
+{
+  "id": "GO:0019379",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019379",
+  "relationships": {
+    "is_a": [
+      "GO:0000103"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulphate assimilation, phosphoadenylyl sulphate reduction by a phosphoadenylyl-sulphate reductase (thioredoxin)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "SO4ASSIM-PWY"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The pathway by which inorganic sulfate is processed and incorporated into sulfated compounds, where the phosphoadenylyl sulfate reduction step is catalyzed by the enzyme phosphoadenylyl-sulfate reductase (thioredoxin) (EC:1.8.4.8).",
+  "namespace": "biological_process",
+  "label": "sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin)"
+}

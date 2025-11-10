@@ -1,0 +1,42 @@
+{
+  "id": "GO:1902510",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902510",
+  "relationships": {
+    "is_a": [
+      "GO:1903624"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of DNA catabolic process during apoptosis",
+      "regulation of DNA catabolism during apoptosis",
+      "regulation of DNA fragmentation involved in apoptotic nuclear change",
+      "regulation of endonucleolytic DNA catabolic process involved in apoptosis"
+    ],
+    "broad": [
+      "regulation of DNA fragmentation",
+      "regulation of chromatinolysis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "hjd",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "15572351",
+      "15723341"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of apoptotic DNA fragmentation.",
+  "namespace": "biological_process",
+  "label": "regulation of apoptotic DNA fragmentation"
+}

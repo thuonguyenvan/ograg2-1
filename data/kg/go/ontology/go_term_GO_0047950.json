@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047950",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047950",
+  "relationships": {
+    "is_a": [
+      "GO:0016670"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glutathione:oxygen oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.3.3",
+      "1.8.3.3",
+      "1.8.3.3"
+    ],
+    "KEGG_REACTION": [
+      "R00120"
+    ],
+    "MetaCyc": [
+      "GLUTATHIONE-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "24112",
+      "24112"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 glutathione + O2 = glutathione disulfide + H2O2.",
+  "namespace": "molecular_function",
+  "label": "glutathione oxidase activity"
+}

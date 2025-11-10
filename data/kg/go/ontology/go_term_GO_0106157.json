@@ -1,0 +1,36 @@
+{
+  "id": "GO:0106157",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106157",
+  "relationships": {
+    "is_a": [
+      "GO:0016706",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-arginine 3-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.11.73"
+    ],
+    "RHEA": [
+      "56744"
+    ],
+    "Reactome": [
+      "R-HSA-9629869",
+      "R-HSA-9629888"
+    ],
+    "PMID": [
+      "29563586"
+    ]
+  },
+  "definition": "Catalyzes the reaction: 2-oxoglutarate + [protein]-L-arginine + O2 = [protein]-(3R)-3-hydroxy-L-arginine + CO2 + succinate.",
+  "namespace": "molecular_function",
+  "label": "KDM8:Fe2+ hydroxylates an arginine residue of RCCD1"
+}

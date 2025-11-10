@@ -1,0 +1,40 @@
+{
+  "id": "GO:0050511",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050511",
+  "relationships": {
+    "is_a": [
+      "GO:0008375"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "undecaprenyldiphospho-muramoylpentapeptide b-N-acetylglucosaminyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "MurG transferase activity",
+      "UDP-N-acetyl-D-glucosamine:N-acetyl-alpha-D-muramyl(oyl-L-Ala- gamma-D-Glu-L-Lys-D-Ala-D-Ala)-diphosphoundecaprenol beta-1,4-N-acetylglucosaminlytransferase activity",
+      "UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase activity",
+      "undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-8976"
+    ],
+    "RHEA": [
+      "23192",
+      "23192"
+    ],
+    "EC": [
+      "2.4.1.227",
+      "2.4.1.227",
+      "2.4.1.227",
+      "2.4.1.227"
+    ]
+  },
+  "definition": "Catalysis of the reaction: Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-di-trans,octa-cis-undecaprenyl diphosphate + UDP-N-acetyl-alpha-D-glucosamine = beta-D-GlcNAc-(1-&gt;4)-Mur2Ac(oyl-L-Ala-gamm-D-Glu-L-Lys-D-Ala-D-Ala)-di-trans,octa-cis-undecaprenyl diphosphate + H+ + UDP.",
+  "namespace": "molecular_function",
+  "label": "undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase activity"
+}

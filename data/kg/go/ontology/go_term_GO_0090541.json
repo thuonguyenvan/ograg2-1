@@ -1,0 +1,26 @@
+{
+  "id": "GO:0090541",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090541",
+  "relationships": {
+    "is_a": [
+      "GO:0019904"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pm"
+    ],
+    "InterPro": [
+      "IPR007330"
+    ]
+  },
+  "definition": "Binding to a MIT protein domain. The MIT domain is found in vacuolar sorting proteins, spastin (probable ATPase involved in the assembly or function of nuclear protein complexes), and a sorting nexin, which may play a role in intracellular trafficking.",
+  "namespace": "molecular_function",
+  "label": "MIT domain binding"
+}

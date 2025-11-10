@@ -1,0 +1,27 @@
+{
+  "id": "GO:0032502",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032502",
+  "relationships": {
+    "is_a": [
+      "GO:0008150"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "development"
+    ],
+    "related": [
+      "single-organism developmental process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "isa_complete"
+    ]
+  },
+  "definition": "A biological process whose specific outcome is the progression of an integrated living unit: an anatomical structure (which may be a subcellular structure, cell, tissue, or organ), or organism over time from an initial condition to a later condition.",
+  "namespace": "biological_process",
+  "label": "developmental process"
+}

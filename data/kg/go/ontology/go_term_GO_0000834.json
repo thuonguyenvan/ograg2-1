@@ -1,0 +1,28 @@
+{
+  "id": "GO:0000834",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000834",
+  "relationships": {
+    "is_a": [
+      "GO:0000829"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "inositol heptakisphosphate 6-kinase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "elh"
+    ],
+    "PMID": [
+      "16429326"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + 5-diphospho-1D-myo-inositol (1,2,3,4,6)pentakisphosphate = ADP + 5,6-bisdiphosphoinositol-1D-myo-inositol (1,2,3,4)tetrakisphosphate.",
+  "namespace": "molecular_function",
+  "label": "5-diphosphoinositol pentakisphosphate 6-kinase activity"
+}

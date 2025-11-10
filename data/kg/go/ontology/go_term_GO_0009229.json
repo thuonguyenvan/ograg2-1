@@ -1,0 +1,41 @@
+{
+  "id": "GO:0009229",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009229",
+  "relationships": {
+    "is_a": [
+      "GO:0042357",
+      "GO:0042724",
+      "GO:0090407"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TPP biosynthesis",
+      "TPP biosynthetic process",
+      "thiamin diphosphate biosynthetic process",
+      "thiamin pyrophosphate biosynthesis",
+      "thiamin pyrophosphate biosynthetic process",
+      "thiamine diphosphate anabolism",
+      "thiamine diphosphate biosynthesis",
+      "thiamine diphosphate formation",
+      "thiamine diphosphate synthesis",
+      "thiamine pyrophosphate biosynthesis",
+      "thiamine pyrophosphate biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "cuators"
+    ],
+    "ISBN": [
+      "0140512713"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of thiamine diphosphate, a derivative of thiamine (vitamin B1) which acts as a coenzyme in a range of processes including the Krebs cycle.",
+  "namespace": "biological_process",
+  "label": "thiamine diphosphate biosynthetic process"
+}

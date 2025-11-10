@@ -1,0 +1,67 @@
+{
+  "id": "GO:0050221",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050221",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(5Z,13E)-(15S)-9alpha,11alpha,15-trihydroxyprosta-5,13-dienoate:NADP+ 9-oxidoreductase activity",
+      "9-keto-prostaglandin E(2) reductase activity",
+      "9-keto-prostaglandin E2 reductase activity",
+      "9-ketoprostaglandin reductase activity",
+      "PGE(2) 9-ketoreductase activity",
+      "PGE(2) 9-oxoreductase activity",
+      "PGE-9-ketoreductase activity",
+      "PGE2 9-ketoreductase activity",
+      "PGE2 9-oxoreductase activity",
+      "PGE2-9-OR",
+      "PGE2-9-ketoreductase activity",
+      "prostaglandin E 9-ketoreductase activity",
+      "prostaglandin E2-9-oxoreductase activity",
+      "prostaglandin-E(2) 9-oxoreductase activity",
+      "prostaglandin-E2 9-oxoreductase activity",
+      "reductase, 15-hydroxy-9-oxoprostaglandin"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.189",
+      "1.1.1.189",
+      "1.1.1.189",
+      "1.1.1.189",
+      "1.1.1.189",
+      "1.1.1.189",
+      "1.1.1.189",
+      "1.1.1.189",
+      "1.1.1.189",
+      "1.1.1.189",
+      "1.1.1.189",
+      "1.1.1.189",
+      "1.1.1.189",
+      "1.1.1.189",
+      "1.1.1.189",
+      "1.1.1.189",
+      "1.1.1.189",
+      "1.1.1.189"
+    ],
+    "MetaCyc": [
+      "PROSTAGLANDIN-E2-9-REDUCTASE-RXN",
+      "PROSTAGLANDIN-E2-9-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "24508"
+    ],
+    "Reactome": [
+      "R-HSA-2161651"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (5Z,13E)-(15S)-9-alpha,11-alpha,15-trihydroxyprosta-5,13-dienoate + NADP+ = (5Z,13E)-(15S)-11-alpha,15-dihydroxy-9-oxoprosta-5,13-dienoate + NADPH.",
+  "namespace": "molecular_function",
+  "label": "PGE2 is converted to PGF2a by CBR1"
+}

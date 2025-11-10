@@ -1,0 +1,44 @@
+{
+  "id": "GO:0018549",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018549",
+  "relationships": {
+    "is_a": [
+      "GO:0016670"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(MM)-oxidase activity",
+      "MT-oxidase activity",
+      "methanethiol:oxygen oxidoreductase activity",
+      "methyl mercaptan oxidase activity",
+      "methylmercaptan oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.3.4",
+      "1.8.3.4",
+      "1.8.3.4",
+      "1.8.3.4",
+      "1.8.3.4",
+      "1.8.3.4",
+      "1.8.3.4"
+    ],
+    "MetaCyc": [
+      "METHANETHIOL-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "11812"
+    ],
+    "UM-BBD_reactionID": [
+      "r0209"
+    ]
+  },
+  "definition": "Catalysis of the reaction: methanethiol + O2 + H2O = formaldehyde + hydrogen sulfide + hydrogen peroxide.",
+  "namespace": "molecular_function",
+  "label": "methanethiol oxidase activity"
+}

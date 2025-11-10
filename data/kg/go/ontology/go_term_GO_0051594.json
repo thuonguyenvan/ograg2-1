@@ -1,0 +1,29 @@
+{
+  "id": "GO:0051594",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051594",
+  "relationships": {
+    "is_a": [
+      "GO:0009732",
+      "GO:0009749"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucose detection"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glucose perception",
+      "glucose sensing"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The series of events in which a glucose stimulus is received by a cell and converted into a molecular signal.",
+  "namespace": "biological_process",
+  "label": "detection of glucose"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "GO:0008974",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008974",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-phosphoribulose kinase activity",
+      "ATP:D-ribulose-5-phosphate 1-phosphotransferase activity",
+      "PKK",
+      "PRK",
+      "PRuK",
+      "phosphopentokinase activity",
+      "phosphoribulokinase (phosphorylating)",
+      "ribulose phosphate kinase activity",
+      "ribulose-5-phosphate kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.19",
+      "2.7.1.19",
+      "2.7.1.19",
+      "2.7.1.19",
+      "2.7.1.19",
+      "2.7.1.19",
+      "2.7.1.19",
+      "2.7.1.19",
+      "2.7.1.19",
+      "2.7.1.19",
+      "2.7.1.19"
+    ],
+    "KEGG_REACTION": [
+      "R01523"
+    ],
+    "MetaCyc": [
+      "PHOSPHORIBULOKINASE-RXN"
+    ],
+    "RHEA": [
+      "19365",
+      "19365"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-ribulose 5-phosphate + ATP = D-ribulose 1,5-bisphosphate + ADP + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "phosphoribulokinase activity"
+}

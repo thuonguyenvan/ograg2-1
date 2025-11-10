@@ -1,0 +1,27 @@
+{
+  "id": "GO:0044014",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044014",
+  "relationships": {
+    "is_a": [
+      "GO:0044013"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone acetylase activity (H2B-K5 specific)",
+      "histone acetyltransferase activity (H2B-K5 specific)",
+      "histone lysine N-acetyltransferase activity (H2B-K5 specific)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "18552846"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + histone H2B L-lysine (position 5) = CoA + histone H2B N6-acetyl-L-lysine (position 5).",
+  "namespace": "molecular_function",
+  "label": "histone H2BK5 acetyltransferase activity"
+}

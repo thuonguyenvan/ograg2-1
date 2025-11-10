@@ -1,0 +1,30 @@
+{
+  "id": "GO:0043865",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043865",
+  "relationships": {
+    "is_a": [
+      "GO:0000099",
+      "GO:0015171"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "methionine importer activity",
+      "methionine importing activity",
+      "methionine-importing activity"
+    ],
+    "related": [
+      "methionine importer"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Enables the transfer of methionine from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "methionine transmembrane transporter activity"
+}

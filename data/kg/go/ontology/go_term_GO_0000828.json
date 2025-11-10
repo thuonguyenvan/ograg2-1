@@ -1,0 +1,35 @@
+{
+  "id": "GO:0000828",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000828",
+  "relationships": {
+    "is_a": [
+      "GO:0016776",
+      "GO:0180030"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IP6 kinase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1855207",
+      "R-HSA-1855216",
+      "R-HSA-1855227"
+    ],
+    "GOC": [
+      "elh",
+      "vw"
+    ],
+    "PMID": [
+      "16429326"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + 1D-myo-inositol hexakisphosphate = ADP + diphospho-1D-myo-inositol-pentakisphosphate. The isomeric configuration of diphospho-1D-myo-inositol-pentakisphosphate (PP-IP5) is unknown.",
+  "namespace": "molecular_function",
+  "label": "IP6 is phosphorylated to 5-PP-IP5 by IP6K1/3 in the cytosol"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0042797",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042797",
+  "relationships": {
+    "is_a": [
+      "GO:0006383",
+      "GO:0009304"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA transcription from Pol III promoter",
+      "tRNA transcription from RNA polymerase III promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0321000382"
+    ]
+  },
+  "definition": "The synthesis of transfer RNA (tRNA) from a DNA template by RNA polymerase III (Pol III), originating at a Pol III promoter.",
+  "namespace": "biological_process",
+  "label": "tRNA transcription by RNA polymerase III"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0036376",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036376",
+  "relationships": {
+    "is_a": [
+      "GO:0035725",
+      "GO:0140115"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sodium ion export from cell"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "sodium export",
+      "sodium ion export"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "vw",
+      "mah"
+    ],
+    "PMID": [
+      "14674689"
+    ]
+  },
+  "definition": "The directed movement of sodium ions from inside of a cell, across the plasma membrane and into the extracellular region.",
+  "namespace": "biological_process",
+  "label": "sodium ion export across plasma membrane"
+}

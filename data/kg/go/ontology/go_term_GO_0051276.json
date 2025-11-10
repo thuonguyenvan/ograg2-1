@@ -1,0 +1,36 @@
+{
+  "id": "GO:0051276",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051276",
+  "relationships": {
+    "is_a": [
+      "GO:0006996"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA condensation",
+      "chromosome organisation"
+    ],
+    "broad": [],
+    "narrow": [
+      "DNA packaging"
+    ],
+    "related": [
+      "chromosome organization and biogenesis",
+      "maintenance of genome integrity",
+      "nuclear genome maintenance"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "jl",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A process that is carried out at the cellular level that results in the assembly, arrangement of constituent parts, or disassembly of chromosomes, structures composed of a very long molecule of DNA and associated proteins that carries hereditary information. This term covers covalent modifications at the molecular level as well as spatial relationships among the major components of a chromosome.",
+  "namespace": "biological_process",
+  "label": "chromosome organization"
+}

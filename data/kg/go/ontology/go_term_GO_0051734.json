@@ -1,0 +1,28 @@
+{
+  "id": "GO:0051734",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051734",
+  "relationships": {
+    "is_a": [
+      "GO:0051731"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "polynucleotide kinase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ATP-dependent polynucleotide kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.78",
+      "2.7.1.78"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + 5&apos;-dephosphopolynucleotide = ADP + 5&apos;-phosphopolynucleotide. The polynucleotide may be DNA or RNA.",
+  "namespace": "molecular_function",
+  "label": "ATP-dependent polynucleotide 5&apos;-hydroxyl-kinase activity"
+}

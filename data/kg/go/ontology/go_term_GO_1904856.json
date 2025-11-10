@@ -1,0 +1,37 @@
+{
+  "id": "GO:1904856",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904856",
+  "relationships": {
+    "is_a": [
+      "GO:0005775",
+      "GO:0060205"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytolytic granule cytoplasmic membrane-bounded vesicle lumen",
+      "cytoplasmic membrane-bounded vesicle lumen of cytolytic granule",
+      "cytoplasmic membrane-enclosed vesicle lumen of cytolytic granule"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000064"
+    ],
+    "PMID": [
+      "17272266",
+      "21247065"
+    ]
+  },
+  "definition": "Any cytoplasmic membrane-bounded vesicle lumen that is part of a cytolytic granule.",
+  "namespace": "cellular_component",
+  "label": "cytolytic granule lumen"
+}

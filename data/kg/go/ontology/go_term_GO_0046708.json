@@ -1,0 +1,30 @@
+{
+  "id": "GO:0046708",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046708",
+  "relationships": {
+    "is_a": [
+      "GO:0009152",
+      "GO:0009180",
+      "GO:0046707"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IDP anabolism",
+      "IDP biosynthesis",
+      "IDP formation",
+      "IDP synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of IDP, inosine 5&apos;-diphosphate.",
+  "namespace": "biological_process",
+  "label": "IDP biosynthetic process"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "GO:0050412",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050412",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cinnamate b-D-glucosyltransferase activity",
+      "cinnamate glucosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose:trans-cinnamate beta-D-glucosyltransferase activity",
+      "UDPG:t-cinnamate glucosyltransferase activity",
+      "UDPglucose:trans-cinnamate beta-D-glucosyltransferase activity",
+      "uridine diphosphoglucose-cinnamate glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.177",
+      "2.4.1.177",
+      "2.4.1.177",
+      "2.4.1.177",
+      "2.4.1.177",
+      "2.4.1.177"
+    ],
+    "KEGG_REACTION": [
+      "R02256"
+    ],
+    "MetaCyc": [
+      "CINNAMATE-GLUCOSYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "13437",
+      "13437"
+    ]
+  },
+  "definition": "Catalysis of the reaction: trans-cinnamate + UDP-D-glucose = 1-O-trans-cinnamoyl-beta-D-glucopyranose + UDP.",
+  "namespace": "molecular_function",
+  "label": "cinnamate beta-D-glucosyltransferase activity"
+}

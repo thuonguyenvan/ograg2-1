@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047691",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047691",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dimethylallyl pyrophosphate:aspulvinone dimethylallyltransferase activity",
+      "dimethylallyl-diphosphate:aspulvinone-E dimethylallyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.35",
+      "2.5.1.35",
+      "2.5.1.35",
+      "2.5.1.35"
+    ],
+    "KEGG_REACTION": [
+      "R03799"
+    ],
+    "MetaCyc": [
+      "ASPULVINONE-DIMETHYLALLYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "13809",
+      "13809"
+    ]
+  },
+  "definition": "Catalysis of the reaction: aspulvinone E + 2 dimethylallyl diphosphate = aspulvinone H + 2 diphosphate.",
+  "namespace": "molecular_function",
+  "label": "aspulvinone dimethylallyltransferase activity"
+}

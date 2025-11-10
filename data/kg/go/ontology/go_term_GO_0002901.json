@@ -1,0 +1,52 @@
+{
+  "id": "GO:0002901",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002901",
+  "relationships": {
+    "is_a": [
+      "GO:0001783"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "apoptosis of mature B cells",
+      "apoptosis of mature B lymphocytes",
+      "apoptosis of mature B-cells",
+      "apoptosis of mature B-lymphocytes",
+      "mature B cell programmed cell death by apoptosis",
+      "mature B lymphocyte apoptosis",
+      "mature B lymphocyte programmed cell death by apoptosis",
+      "mature B-cell apoptosis",
+      "mature B-cell programmed cell death by apoptosis",
+      "mature B-lymphocyte apoptosis",
+      "mature B-lymphocyte programmed cell death by apoptosis",
+      "programmed cell death of mature B cells by apoptosis",
+      "programmed cell death of mature B lymphocytes by apoptosis",
+      "programmed cell death of mature B-cells by apoptosis",
+      "programmed cell death of mature B-lymphocytes by apoptosis",
+      "programmed cell death, mature B cells",
+      "programmed cell death, mature B lymphocytes",
+      "programmed cell death, mature B-cells",
+      "programmed cell death, mature B-lymphocytes"
+    ],
+    "broad": [],
+    "narrow": [
+      "mature B cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000785"
+    ],
+    "GOC": [
+      "add",
+      "mtg_apoptosis"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "Any apoptotic process in a B cell that is mature, having left the bone marrow.",
+  "namespace": "biological_process",
+  "label": "mature B cell apoptotic process"
+}

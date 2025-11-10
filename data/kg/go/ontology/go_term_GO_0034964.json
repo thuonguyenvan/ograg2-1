@@ -1,0 +1,28 @@
+{
+  "id": "GO:0034964",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034964",
+  "relationships": {
+    "is_a": [
+      "GO:0033979",
+      "GO:0043144"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "box H/ACA sRNA processing",
+      "box H/ACA snoRNA processing"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mah"
+    ]
+  },
+  "definition": "Any process involved in the conversion of a primary box H/ACA type small RNA transcript into a mature box H/ACA RNA.",
+  "namespace": "biological_process",
+  "label": "box H/ACA sno(s)RNA processing"
+}

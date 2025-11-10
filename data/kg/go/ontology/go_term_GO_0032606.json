@@ -1,0 +1,37 @@
+{
+  "id": "GO:0032606",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032606",
+  "relationships": {
+    "is_a": [
+      "GO:0001816"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "interferon type I production",
+      "type I IFN production"
+    ],
+    "broad": [],
+    "narrow": [
+      "type I interferon biosynthetic process",
+      "type I interferon secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mah"
+    ],
+    "ISBN": [
+      "0126896631"
+    ],
+    "PMID": [
+      "15546383",
+      "16681834"
+    ]
+  },
+  "definition": "The appearance of type I interferon due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels. Type I interferons include the interferon-alpha, beta, delta, episilon, zeta, kappa, tau, and omega gene families.",
+  "namespace": "biological_process",
+  "label": "type I interferon production"
+}

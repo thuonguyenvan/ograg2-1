@@ -1,0 +1,48 @@
+{
+  "id": "GO:0047356",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047356",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "teichoic-acid synthase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "CDP-ribitol:poly(ribitol phosphate) ribitolphosphotransferase activity",
+      "CDPribitol ribitolphosphotransferase activity",
+      "poly(ribitol phosphate) synthetase activity",
+      "polyribitol phosphate polymerase activity",
+      "polyribitol phosphate synthetase activity",
+      "teichoate synthase activity",
+      "teichoate synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.14",
+      "2.7.8.14",
+      "2.7.8.14",
+      "2.7.8.14",
+      "2.7.8.14",
+      "2.7.8.14",
+      "2.7.8.14",
+      "2.7.8.14",
+      "2.7.8.14",
+      "2.7.8.14"
+    ],
+    "MetaCyc": [
+      "RXN-18380"
+    ],
+    "RHEA": [
+      "13353"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ribitol phosphate(n) + CDP-ribitol = ribitol phosphate(n+1) + CMP.",
+  "namespace": "molecular_function",
+  "label": "CDP-ribitol ribitolphosphotransferase activity"
+}

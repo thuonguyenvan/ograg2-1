@@ -1,0 +1,32 @@
+{
+  "id": "GO:0043626",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043626",
+  "relationships": {
+    "is_a": [
+      "GO:0044796",
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PCNA homotrimer",
+      "proliferating cell nuclear antigen complex"
+    ],
+    "broad": [
+      "sliding clamp"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "12829735"
+    ]
+  },
+  "definition": "A protein complex composed of three identical PCNA monomers, each comprising two similar domains, which are joined in a head-to-tail arrangement to form a homotrimer. Forms a ring-like structure in solution, with a central hole sufficiently large to accommodate the double helix of DNA. Originally characterized as a DNA sliding clamp for replicative DNA polymerases and as an essential component of the replisome, and has also been shown to be involved in other processes including Okazaki fragment processing, DNA repair, translesion DNA synthesis, DNA methylation, chromatin remodeling and cell cycle regulation.",
+  "namespace": "cellular_component",
+  "label": "PCNA complex"
+}

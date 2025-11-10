@@ -1,0 +1,30 @@
+{
+  "id": "GO:0032490",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032490",
+  "relationships": {
+    "is_a": [
+      "GO:0002237",
+      "GO:0009593",
+      "GO:0098581"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "detection of bacteria associated molecule",
+      "detection of bacterial associated molecule",
+      "detection of bacterium associated molecule"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "rl"
+    ]
+  },
+  "definition": "The series of events in which a stimulus from a molecule of bacterial origin is received and converted into a molecular signal.",
+  "namespace": "biological_process",
+  "label": "detection of molecule of bacterial origin"
+}

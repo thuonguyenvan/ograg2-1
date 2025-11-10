@@ -1,0 +1,35 @@
+{
+  "id": "GO:1904714",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904714",
+  "relationships": {
+    "is_a": [
+      "GO:0010506",
+      "GO:0042176"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of CMA"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "pad",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "20176123"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of chaperone-mediated autophagy.",
+  "namespace": "biological_process",
+  "label": "regulation of chaperone-mediated autophagy"
+}

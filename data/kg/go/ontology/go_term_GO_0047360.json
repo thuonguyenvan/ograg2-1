@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047360",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047360",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-galactose:undecaprenyl-phosphate galactose phosphotransferase activity",
+      "poly(isoprenol)-phosphate galactose phosphotransferase activity",
+      "poly(isoprenol)-phosphate galactosephosphotransferase activity",
+      "poly(isoprenyl)phosphate galactosephosphatetransferase activity",
+      "undecaprenyl phosphate galactosyl-1-phosphate transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.6",
+      "2.7.8.6",
+      "2.7.8.6",
+      "2.7.8.6",
+      "2.7.8.6",
+      "2.7.8.6",
+      "2.7.8.6"
+    ],
+    "KEGG_REACTION": [
+      "R01535"
+    ],
+    "MetaCyc": [
+      "2.7.8.6-RXN"
+    ],
+    "RHEA": [
+      "11652",
+      "11652"
+    ]
+  },
+  "definition": "Catalysis of the reaction: all-trans-undecaprenyl phosphate + UDP-D-galactose = alpha-D-galactosyl-diphosphoundecaprenol + UMP.",
+  "namespace": "molecular_function",
+  "label": "undecaprenyl-phosphate galactose phosphotransferase activity"
+}

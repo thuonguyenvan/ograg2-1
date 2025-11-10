@@ -1,0 +1,33 @@
+{
+  "id": "GO:0150092",
+  "uri": "http://purl.obolibrary.org/obo/GO_0150092",
+  "relationships": {
+    "is_a": [
+      "GO:0048167"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "homeostatic synaptic scaling",
+      "regulation of homeostatic synaptic scaling"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "aruk",
+      "bc"
+    ],
+    "PMID": [
+      "14630218",
+      "14735113",
+      "16547515",
+      "16547515"
+    ]
+  },
+  "definition": "A process that modulates synaptic scaling. Synaptic scaling is a form of synaptic plasticity, which entails uniform adjustments in the strength of all synapses on a cell in response to prolonged changes in the electrical activity of the cell.",
+  "namespace": "biological_process",
+  "label": "regulation of synaptic scaling"
+}

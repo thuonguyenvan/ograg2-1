@@ -1,0 +1,37 @@
+{
+  "id": "GO:1903624",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903624",
+  "relationships": {
+    "is_a": [
+      "GO:0009894",
+      "GO:0051052"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of DNA breakdown",
+      "regulation of DNA catabolism",
+      "regulation of DNA degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "2001740"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of DNA catabolic process.",
+  "namespace": "biological_process",
+  "label": "regulation of DNA catabolic process"
+}

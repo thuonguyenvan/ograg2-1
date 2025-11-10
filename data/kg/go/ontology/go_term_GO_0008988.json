@@ -1,0 +1,34 @@
+{
+  "id": "GO:0008988",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008988",
+  "relationships": {
+    "is_a": [
+      "GO:0008170",
+      "GO:0016433"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "ErmC 23S rRNA methyltransferase",
+      "gene ksgA methyltransferase"
+    ],
+    "related": [
+      "S-adenosyl-L-methionine:rRNA (adenine-6-N-)-methyltransferase activity",
+      "S-adenosyl-L-methionine:rRNA (adenine-N6-)-methyltransferase activity",
+      "ribonucleic acid-adenine (N(6)) methylase activity",
+      "ribonucleic acid-adenine (N6) methylase activity",
+      "ribosomal ribonucleate adenine 6-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "58728",
+      "58728"
+    ]
+  },
+  "definition": "Catalysis of the reaction: adenosine in rRNA + S-adenosyl-L-methionine = H+ + N(6)-methyladenosine in rRNA + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "rRNA (adenine-N6-)-methyltransferase activity"
+}

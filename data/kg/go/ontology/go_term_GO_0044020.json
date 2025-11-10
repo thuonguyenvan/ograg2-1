@@ -1,0 +1,34 @@
+{
+  "id": "GO:0044020",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044020",
+  "relationships": {
+    "is_a": [
+      "GO:0016274",
+      "GO:0140939"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H4KR3 methylation",
+      "histone H4R3 arginine methylase activity",
+      "histone methylase activity (H4-R3 specific)",
+      "histone methyltransferase activity (H4-R3 specific)",
+      "histone-arginine N-methyltransferase activity (H4-R3 specific)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "17898714"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + (histone H4)-arginine (position 3) = S-adenosyl-L-homocysteine + (histone H4)-N-methyl-arginine (position 3). This reaction is the addition of a methyl group to the arginine residue at position 3 of histone H4, producing histone H4R3me.",
+  "namespace": "molecular_function",
+  "label": "histone H4R3 methyltransferase activity"
+}

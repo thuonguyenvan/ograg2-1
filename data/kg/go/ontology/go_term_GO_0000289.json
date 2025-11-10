@@ -1,0 +1,30 @@
+{
+  "id": "GO:0000289",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000289",
+  "relationships": {
+    "is_a": [
+      "GO:0000956"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3&apos; to 5&apos; mRNA deadenylation",
+      "mRNA deadenylation",
+      "nuclear mRNA poly(A) tail shortening"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-429947"
+    ],
+    "GOC": [
+      "krc"
+    ]
+  },
+  "definition": "Shortening of the poly(A) tail of a nuclear-transcribed mRNA from full length to an oligo(A) length.",
+  "namespace": "biological_process",
+  "label": "Deadenylation of mRNA"
+}

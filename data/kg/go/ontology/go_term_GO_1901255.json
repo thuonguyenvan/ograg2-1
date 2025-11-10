@@ -1,0 +1,33 @@
+{
+  "id": "GO:1901255",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901255",
+  "relationships": {
+    "is_a": [
+      "GO:0006289"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NER involved in ICL repair",
+      "NER involved in interstrand cross-link repair",
+      "nucleotide-excision repair involved in ICL repair"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "22064477"
+    ]
+  },
+  "definition": "Any nucleotide-excision repair that is involved in interstrand cross-link repair.",
+  "namespace": "biological_process",
+  "label": "nucleotide-excision repair involved in interstrand cross-link repair"
+}

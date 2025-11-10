@@ -1,0 +1,31 @@
+{
+  "id": "GO:0000402",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000402",
+  "relationships": {
+    "is_a": [
+      "GO:0000400"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "crossed form Holliday junction binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "ISBN": [
+      "0815332181"
+    ],
+    "PMID": [
+      "15563464"
+    ]
+  },
+  "definition": "Binding to a DNA segment containing the crossed form of a four-way junction, also known as a Holliday junction, a structure where two DNA double strands are held together by reciprocal exchange of two of the four strands, one strand each from the two original helices. The crossed form of a four-way junction cannot be diagrammed without any of the strands crossing over, and instead contains a single crossover between two of the strands.",
+  "namespace": "molecular_function",
+  "label": "crossed form four-way junction DNA binding"
+}

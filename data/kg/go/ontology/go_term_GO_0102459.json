@@ -1,0 +1,28 @@
+{
+  "id": "GO:0102459",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102459",
+  "relationships": {
+    "is_a": [
+      "GO:0017110"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "8-oxo-deoxyadenine diphosphate phosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-14005"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 8-oxo-dADP + H2O = 8-oxo-dAMP + hydrogenphosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "8-oxo-dADP diphosphate phosphatase activity"
+}

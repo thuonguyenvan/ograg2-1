@@ -1,0 +1,32 @@
+{
+  "id": "GO:0099074",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099074",
+  "relationships": {
+    "is_a": [
+      "GO:0006839",
+      "GO:0007041",
+      "GO:0099075"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrion to lysosome transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL-UCL",
+      "bc",
+      "pad"
+    ],
+    "PMID": [
+      "20619655"
+    ]
+  },
+  "definition": "Vesicle-mediated transport of cargo from the mitochondrion to the lysosome, mediated by a mitochondrion-derived vesicle.",
+  "namespace": "biological_process",
+  "label": "mitochondrion to lysosome vesicle-mediated transport"
+}

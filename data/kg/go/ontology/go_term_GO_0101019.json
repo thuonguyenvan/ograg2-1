@@ -1,0 +1,25 @@
+{
+  "id": "GO:0101019",
+  "uri": "http://purl.obolibrary.org/obo/GO_0101019",
+  "relationships": {
+    "is_a": [
+      "GO:0000176"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "17174896",
+      "20531386",
+      "26726035"
+    ]
+  },
+  "definition": "A ribonuclease complex that has 3-prime to 5-prime distributive hydrolytic exoribonuclease activity and in some taxa (e.g. yeast) endoribonuclease activity, producing 5-prime-phosphomonoesters. Participates in a multitude of cellular RNA processing and degradation events preventing nuclear export and/or translation of aberrant RNAs. Restricted to processing linear and circular single-stranded RNAs (ssRNA) only. RNAs with complex secondary structures may have to be unwound or pre-processed by co-factors prior to entering the complex, esp if the 3-prime end is structured.",
+  "namespace": "cellular_component",
+  "label": "nucleolar exosome (RNase complex)"
+}

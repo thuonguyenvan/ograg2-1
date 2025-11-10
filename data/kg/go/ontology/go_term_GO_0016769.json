@@ -1,0 +1,31 @@
+{
+  "id": "GO:0016769",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016769",
+  "relationships": {
+    "is_a": [
+      "GO:0016740"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "transferase activity, transferring other nitrogenous groups"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.-.-"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a nitrogenous group from one compound (donor) to another (acceptor).",
+  "namespace": "molecular_function",
+  "label": "transferase activity, transferring nitrogenous groups"
+}

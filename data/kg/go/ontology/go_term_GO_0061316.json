@@ -1,0 +1,31 @@
+{
+  "id": "GO:0061316",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061316",
+  "relationships": {
+    "is_a": [
+      "GO:0003306",
+      "GO:0060070"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "canonical Wnt receptor signaling pathway involved in heart development",
+      "canonical Wnt receptor signalling pathway involved in heart development",
+      "canonical Wnt-activated signaling pathway involved in heart development"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_heart",
+      "signaling",
+      "mah",
+      "signaling"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by binding of a Wnt protein to a frizzled family receptor on the surface of the target cell, followed by propagation of the signal via beta-catenin, and ending with a change in transcription of target genes that contributes to the progression of the heart over time. In this pathway, the activated receptor signals via downstream effectors that result in the inhibition of beta-catenin phosphorylation, thereby preventing degradation of beta-catenin. Stabilized beta-catenin can then accumulate and travel to the nucleus to trigger changes in transcription of target genes.",
+  "namespace": "biological_process",
+  "label": "canonical Wnt signaling pathway involved in heart development"
+}

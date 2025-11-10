@@ -1,0 +1,32 @@
+{
+  "id": "GO:0102988",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102988",
+  "relationships": {
+    "is_a": [
+      "GO:0016215"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "9,12-cis-hexadecadienoic acid delta 15 desaturase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.19.13",
+      "1.14.19.13"
+    ],
+    "MetaCyc": [
+      "RXN-9617"
+    ],
+    "RHEA": [
+      "46232"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (9Z,12Z)-hexadecadienoyl-CoA + O2 + a reduced electron acceptor = 9,12,15-cis-hexadecatrienoyl-CoA + 2 H2O + an oxidized electron acceptor.",
+  "namespace": "molecular_function",
+  "label": "acyl-CoA 15-desaturase activity"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047126",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047126",
+  "relationships": {
+    "is_a": [
+      "GO:0016646"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-N-(L-1-carboxyethyl)-L-ornithine:NADP+ oxidoreductase (L-ornithine-forming)",
+      "N5-(L-1-carboxyethyl)-L-ornithine:NADP+ oxidoreductase (L-ornithine-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.24",
+      "1.5.1.24",
+      "1.5.1.24",
+      "1.5.1.24"
+    ],
+    "KEGG_REACTION": [
+      "R00666"
+    ],
+    "MetaCyc": [
+      "1.5.1.24-RXN"
+    ],
+    "RHEA": [
+      "18661",
+      "18661"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(5)-[1(S)-1-carboxyethyl]-L-ornithine + H2O + NADP+ = L-ornithine + H+ + NADPH + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "N5-(carboxyethyl)ornithine synthase activity"
+}

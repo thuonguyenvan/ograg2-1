@@ -1,0 +1,42 @@
+{
+  "id": "GO:1902531",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902531",
+  "relationships": {
+    "is_a": [
+      "GO:0009966"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of intracellular signaling cascade",
+      "regulation of intracellular signaling chain"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of intracellular protein kinase cascade",
+      "regulation of intracellular signal transduction pathway",
+      "regulation of signal transmission via intracellular cascade"
+    ],
+    "related": [
+      "regulation of intracellular signaling pathway",
+      "regulation of signal transduction via intracellular signaling cascade"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dph",
+      "signaling",
+      "tb",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of intracellular signal transduction.",
+  "namespace": "biological_process",
+  "label": "regulation of intracellular signal transduction"
+}

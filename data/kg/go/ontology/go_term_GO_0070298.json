@@ -1,0 +1,37 @@
+{
+  "id": "GO:0070298",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070298",
+  "relationships": {
+    "is_a": [
+      "GO:0070297",
+      "GO:1902532"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of two-component signal transduction",
+      "down-regulation of two-component signal transduction",
+      "downregulation of two-component signal transduction",
+      "negative regulation of histidyl-aspartyl phosphorelay"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of two-component signal transduction",
+      "negative regulation of two-component signal transduction system (phosphorelay)"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of signal transduction via a phosphorelay signal transduction system.",
+  "namespace": "biological_process",
+  "label": "negative regulation of phosphorelay signal transduction system"
+}

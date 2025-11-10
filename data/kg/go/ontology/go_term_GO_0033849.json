@@ -1,0 +1,39 @@
+{
+  "id": "GO:0033849",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033849",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CPPase activity",
+      "dimethylallyl-diphosphate:dimethylallyl-diphosphate dimethylallyltransferase (chrysanthemyl-diphosphate-forming) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.67",
+      "2.5.1.67",
+      "2.5.1.67",
+      "2.5.1.67"
+    ],
+    "KEGG_REACTION": [
+      "R08948"
+    ],
+    "MetaCyc": [
+      "2.5.1.67-RXN"
+    ],
+    "RHEA": [
+      "14009",
+      "14009"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 dimethylallyl diphosphate = (R,R)-chrysanthemyl diphosphate + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "chrysanthemyl diphosphate synthase activity"
+}

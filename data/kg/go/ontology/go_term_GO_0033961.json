@@ -1,0 +1,58 @@
+{
+  "id": "GO:0033961",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033961",
+  "relationships": {
+    "is_a": [
+      "GO:0004301"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "arene-oxide hydratase activity",
+      "aryl epoxide hydrase activity",
+      "epoxide hydrase activity",
+      "epoxide hydratase activity"
+    ],
+    "narrow": [
+      "benzo(a)pyrene-4,5-epoxide hydratase activity",
+      "benzo[a]pyrene-4,5-oxide hydratase activity",
+      "microsomal epoxide hydrase activity",
+      "microsomal epoxide hydratase activity",
+      "microsomal epoxide hydrolase activity"
+    ],
+    "related": [
+      "cis-epoxide hydrolase activity",
+      "mEH"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.3.2.9",
+      "3.3.2.9",
+      "3.3.2.9",
+      "3.3.2.9",
+      "3.3.2.9",
+      "3.3.2.9",
+      "3.3.2.9",
+      "3.3.2.9",
+      "3.3.2.9",
+      "3.3.2.9",
+      "3.3.2.9",
+      "3.3.2.9",
+      "3.3.2.9"
+    ],
+    "MetaCyc": [
+      "3.3.2.9-RXN"
+    ],
+    "RHEA": [
+      "23900"
+    ],
+    "Reactome": [
+      "R-HSA-5694077"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cis-stilbene oxide + H2O = (+)-(1R,2R)-1,2-diphenylethane-1,2-diol.",
+  "namespace": "molecular_function",
+  "label": "EPHX1 hydrates BaP4,5O to BaP4,5-DHD"
+}

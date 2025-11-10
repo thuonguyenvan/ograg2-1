@@ -1,0 +1,33 @@
+{
+  "id": "GO:0039602",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039602",
+  "relationships": {
+    "is_a": [
+      "GO:0039656"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "inhibition of host transcription initiation by virus",
+      "suppression by virus of host DNA-dependent transcription, initiation",
+      "suppression by virus of host transcription initiation from RNA polymerase II promoter"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "904"
+    ],
+    "PMID": [
+      "1316611"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Any process in which a virus stops, prevents, or reduces the frequency, rate or extent of the assembly of the RNA polymerase II preinitiation complex (PIC) at an RNA polymerase II promoter region of a host DNA template. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "Inhibition of host transcription initiation by virus"
+}

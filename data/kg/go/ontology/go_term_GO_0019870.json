@@ -1,0 +1,28 @@
+{
+  "id": "GO:0019870",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019870",
+  "relationships": {
+    "is_a": [
+      "GO:0008200",
+      "GO:0015459"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-381644",
+      "R-HSA-381713"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Binds to and stops, prevents, or reduces the activity of a potassium channel.",
+  "namespace": "molecular_function",
+  "label": "Potassium voltage-gated channels close in reponse to PKA"
+}

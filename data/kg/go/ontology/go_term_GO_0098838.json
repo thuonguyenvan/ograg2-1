@@ -1,0 +1,29 @@
+{
+  "id": "GO:0098838",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098838",
+  "relationships": {
+    "is_a": [
+      "GO:0015884",
+      "GO:0035461",
+      "GO:1905039"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "reduced folate transmembrane transport"
+    ],
+    "related": [
+      "folic acid transmembrane transport"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "24745983"
+    ]
+  },
+  "definition": "The process in which a folic acid, or one of its derivatives (dihydrofolate, tetrahydrofolate, methylene-tetrahydrofolate or methyl-tetrahydrofolate) is transported across a membrane.",
+  "namespace": "biological_process",
+  "label": "folate transmembrane transport"
+}

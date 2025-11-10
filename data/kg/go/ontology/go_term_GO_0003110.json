@@ -1,0 +1,29 @@
+{
+  "id": "GO:0003110",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003110",
+  "relationships": {
+    "is_a": [
+      "GO:0003061"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "increased force of heart contraction by neuronal norepinephrine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "increased force of heart contraction by neuronal noradrenaline"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cardio",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The process in which the release of norepinephrine from nerve endings modulates the force of heart muscle contraction.",
+  "namespace": "biological_process",
+  "label": "positive regulation of the force of heart contraction by neuronal norepinephrine"
+}

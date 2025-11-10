@@ -1,0 +1,40 @@
+{
+  "id": "GO:0036310",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036310",
+  "relationships": {
+    "is_a": [
+      "GO:0008094",
+      "GO:1990814"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nucleoside-triphosphatase activity involved in DNA annealing"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP-dependent DNA annealing activity",
+      "DNA rewinding activity",
+      "annealing helicase activity"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "21078962",
+      "22704558",
+      "22705370",
+      "22759634",
+      "22888405",
+      "22888405",
+      "22888405"
+    ],
+    "GOC": [
+      "bf",
+      "sp"
+    ]
+  },
+  "definition": "An ATP-dependent activity that facilitates the formation of a complementary double-stranded DNA molecule.",
+  "namespace": "molecular_function",
+  "label": "ATP-dependent DNA/DNA annealing activity"
+}

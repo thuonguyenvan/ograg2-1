@@ -1,0 +1,34 @@
+{
+  "id": "GO:0036462",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036462",
+  "relationships": {
+    "is_a": [
+      "GO:0008625"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TRAIL-activated extrinsic apoptotic signaling pathway",
+      "TRAIL-induced apoptotic signaling pathway",
+      "tumor necrosis factor-related apoptosis-inducing ligand apoptotic signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "21785459",
+      "21785459",
+      "21785459"
+    ]
+  },
+  "definition": "An extrinsic apoptotic signaling pathway initiated by the binding of the ligand TRAIL (tumor necrosis factor-related apoptosis-inducing ligand) to a death receptor on the cell surface.",
+  "namespace": "biological_process",
+  "label": "TRAIL-activated apoptotic signaling pathway"
+}

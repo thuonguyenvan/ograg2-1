@@ -1,0 +1,50 @@
+{
+  "id": "GO:1904590",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904590",
+  "relationships": {
+    "is_a": [
+      "GO:0051224",
+      "GO:1904589"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of protein import",
+      "down regulation of protein uptake",
+      "down-regulation of protein import",
+      "down-regulation of protein uptake",
+      "downregulation of protein import",
+      "downregulation of protein uptake",
+      "negative regulation of protein uptake"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of protein import",
+      "inhibition of protein uptake"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "11406629"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of protein import.",
+  "namespace": "biological_process",
+  "label": "negative regulation of protein import"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0033754",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033754",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "tryptophan pyrrolase activity"
+    ],
+    "narrow": [
+      "D-tryptophan:oxygen 2,3-oxidoreductase (decyclizing) activity"
+    ],
+    "related": [
+      "IDO"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-8664"
+    ],
+    "RHEA": [
+      "14189",
+      "14189"
+    ],
+    "EC": [
+      "1.13.11.52",
+      "1.13.11.52",
+      "1.13.11.52"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-tryptophan + O2 = N-formyl-D-kynurenine.",
+  "namespace": "molecular_function",
+  "label": "indoleamine 2,3-dioxygenase activity"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0009976",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009976",
+  "relationships": {
+    "is_a": [
+      "GO:0009975"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.5.1.24",
+      "5.5.1.24"
+    ],
+    "PMID": [
+      "12213958"
+    ]
+  },
+  "definition": "Catalysis of the reactions: delta-tocopherol = 2-methyl-6-phytyl-1,4-benzene-1,4-diol, gamma-tocopherol = 2,3-dimethyl-6-phytylbenzene-1,4-diol. delta-tocotrienol = 6-geranylgeranyl-2-methylbenzene-1,4-diol gamma-tocotrienol, and = 6-geranylgeranyl-2,3-dimethylbenzene-1,4-diol.",
+  "namespace": "molecular_function",
+  "label": "tocopherol cyclase activity"
+}

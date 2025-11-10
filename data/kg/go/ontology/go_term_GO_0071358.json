@@ -1,0 +1,30 @@
+{
+  "id": "GO:0071358",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071358",
+  "relationships": {
+    "is_a": [
+      "GO:0034342",
+      "GO:0071345"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to type III IFN"
+    ],
+    "broad": [],
+    "narrow": [
+      "cellular response to interferon-lambda"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a type III interferon stimulus. Interferon lambda is the only member of the type III interferon found so far.",
+  "namespace": "biological_process",
+  "label": "cellular response to type III interferon"
+}

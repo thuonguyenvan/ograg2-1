@@ -1,0 +1,30 @@
+{
+  "id": "GO:0051591",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051591",
+  "relationships": {
+    "is_a": [
+      "GO:0014074",
+      "GO:0046683",
+      "GO:1901700"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to 3&apos;,5&apos; cAMP",
+      "response to 3&apos;,5&apos;-cAMP",
+      "response to adenosine 3&apos;,5&apos;-cyclophosphate",
+      "response to cyclic AMP"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a cAMP (cyclic AMP, adenosine 3&apos;,5&apos;-cyclophosphate) stimulus.",
+  "namespace": "biological_process",
+  "label": "response to cAMP"
+}

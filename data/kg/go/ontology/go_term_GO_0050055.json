@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050055",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050055",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "limonin lactone hydrolase activity",
+      "limonin-D-ring-lactone hydrolase activity",
+      "limonoate-D-ring-lactone lactonohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.36",
+      "3.1.1.36",
+      "3.1.1.36",
+      "3.1.1.36",
+      "3.1.1.36"
+    ],
+    "MetaCyc": [
+      "LIMONIN-D-RING-LACTONASE-RXN",
+      "LIMONIN-D-RING-LACTONASE-RXN"
+    ],
+    "RHEA": [
+      "10896"
+    ]
+  },
+  "definition": "Catalysis of the reaction: limonoate D-ring-lactone + H2O = limonoate.",
+  "namespace": "molecular_function",
+  "label": "limonin-D-ring-lactonase activity"
+}

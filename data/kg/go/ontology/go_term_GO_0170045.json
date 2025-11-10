@@ -1,0 +1,31 @@
+{
+  "id": "GO:0170045",
+  "uri": "http://purl.obolibrary.org/obo/GO_0170045",
+  "relationships": {
+    "is_a": [
+      "GO:0005548",
+      "GO:0015605",
+      "GO:0170055"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IPP transmembrane transport activity",
+      "isopentenyl diphosphate transmembrane transport activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ew"
+    ],
+    "PMID": [
+      "37813972"
+    ]
+  },
+  "definition": "Enables the transfer of isopentenyl pyrophosphate from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "isopentenyl pyrophosphate transmembrane transporter activity"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "GO:0004077",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004077",
+  "relationships": {
+    "is_a": [
+      "GO:0016879",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "biotin-protein ligase activity"
+    ],
+    "broad": [
+      "biotin-acetyl-CoA carboxylase synthetase"
+    ],
+    "narrow": [],
+    "related": [
+      "HCS",
+      "acetyl CoA holocarboxylase synthetase activity",
+      "acetyl coenzyme A holocarboxylase synthetase activity",
+      "acetyl-CoA carboxylase biotin holoenzyme synthetase activity",
+      "biotin holoenzyme synthetase activity",
+      "biotin--[acetyl-CoA carboxylase] synthetase activity",
+      "biotin--protein ligase activity",
+      "biotin-acetyl coenzyme A carboxylase synthetase activity",
+      "biotin-acetyl-CoA-carboxylase ligase activity",
+      "biotin:apo-acetyl-CoA:carbon-dioxide ligase (ADP-forming) ligase (AMP-forming)",
+      "biotin:apocarboxylase ligase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.4.15",
+      "6.3.4.15",
+      "6.3.4.15",
+      "6.3.4.15",
+      "6.3.4.15",
+      "6.3.4.15",
+      "6.3.4.15",
+      "6.3.4.15",
+      "6.3.4.15",
+      "6.3.4.15",
+      "6.3.4.15",
+      "6.3.4.15",
+      "6.3.4.15"
+    ],
+    "MetaCyc": [
+      "BIOTINLIG-RXN"
+    ],
+    "RHEA": [
+      "11756",
+      "11756"
+    ],
+    "Reactome": [
+      "R-HSA-2993447",
+      "R-HSA-2993799",
+      "R-HSA-2993802",
+      "R-HSA-2993814",
+      "R-HSA-3323184",
+      "R-HSA-4167511",
+      "R-HSA-9035987",
+      "R-HSA-9035988",
+      "R-HSA-9035990"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + biotin + L-lysyl-[protein] = AMP + diphosphate + H+ + N(6)-biotinyl-L-lysyl-[protein].",
+  "namespace": "molecular_function",
+  "label": "Defective HLCS does not biotinylate 6x(PCCA:PCCB)"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0018616",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018616",
+  "relationships": {
+    "is_a": [
+      "GO:0016708"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "R305-RXN"
+    ],
+    "UM-BBD_reactionID": [
+      "r0093",
+      "r0093"
+    ],
+    "PMID": [
+      "1254564"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,3,5-trihydroxytoluene + O2 = 2,4,6-trioxoheptanoate.",
+  "namespace": "molecular_function",
+  "label": "trihydroxytoluene dioxygenase activity"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047685",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047685",
+  "relationships": {
+    "is_a": [
+      "GO:0008146"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "amine sulphotransferase activity",
+      "arylamine sulfotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3&apos;-phosphoadenylyl-sulfate:amine N-sulfotransferase activity",
+      "amine N-sulfotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.3",
+      "2.8.2.3",
+      "2.8.2.3",
+      "2.8.2.3"
+    ],
+    "MetaCyc": [
+      "ARYLAMINE-SULFOTRANSFERASE-RXN",
+      "ARYLAMINE-SULFOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "24136"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;-phosphoadenosine 5&apos;-phosphosulfate + an amine = adenosine 3&apos;,5&apos;-bisphosphate + a sulfamate.",
+  "namespace": "molecular_function",
+  "label": "amine sulfotransferase activity"
+}

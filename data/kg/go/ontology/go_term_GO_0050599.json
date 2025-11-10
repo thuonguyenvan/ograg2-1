@@ -1,0 +1,46 @@
+{
+  "id": "GO:0050599",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050599",
+  "relationships": {
+    "is_a": [
+      "GO:0050498"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "deacetoxycephalosporin C synthetase activity",
+      "expandase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "DAOC synthase activity",
+      "DAOCS activity",
+      "penicillin N expandase activity",
+      "penicillin-N,2-oxoglutarate:oxygen oxidoreductase (ring-expanding)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.20.1",
+      "1.14.20.1",
+      "1.14.20.1",
+      "1.14.20.1",
+      "1.14.20.1",
+      "1.14.20.1"
+    ],
+    "KEGG_REACTION": [
+      "R05301"
+    ],
+    "MetaCyc": [
+      "1.14.20.1-RXN"
+    ],
+    "RHEA": [
+      "20748",
+      "20748"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxoglutarate + O2 + penicillin N = CO2 + deacetoxycephalosporin C + H2O + succinate.",
+  "namespace": "molecular_function",
+  "label": "deacetoxycephalosporin-C synthase activity"
+}

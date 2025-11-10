@@ -1,0 +1,28 @@
+{
+  "id": "GO:0004661",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004661",
+  "relationships": {
+    "is_a": [
+      "GO:0008318"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein-cysteine geranylgeranyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "21240"
+    ],
+    "PMID": [
+      "8621375"
+    ]
+  },
+  "definition": "Catalysis of the covalent addition of a geranylgeranyl (20-carbon isoprenoid) group via thioether linkages to a cysteine residue at or near the C terminus of a protein.",
+  "namespace": "molecular_function",
+  "label": "protein geranylgeranyltransferase activity"
+}

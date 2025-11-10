@@ -1,0 +1,29 @@
+{
+  "id": "GO:0001640",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001640",
+  "relationships": {
+    "is_a": [
+      "GO:0098988"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "adenylyl cyclase inhibiting metabotropic glutamate receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "adenylate cyclase inhibiting metabotropic glutamate receptor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "dph",
+      "bf"
+    ]
+  },
+  "definition": "Combining with glutamate and transmitting the signal across the membrane by activating the alpha-subunit of an associated heterotrimeric G-protein complex to inhibit downstream adenylate cyclase activity.",
+  "namespace": "molecular_function",
+  "label": "adenylate cyclase inhibiting G protein-coupled glutamate receptor activity"
+}

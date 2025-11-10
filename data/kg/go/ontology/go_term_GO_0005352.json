@@ -1,0 +1,30 @@
+{
+  "id": "GO:0005352",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005352",
+  "relationships": {
+    "is_a": [
+      "GO:0015151",
+      "GO:0015295"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "alpha-glucoside:hydrogen symporter activity",
+      "general alpha-glucoside:hydrogen symporter activity",
+      "general alpha-glucoside:proton symporter activity"
+    ],
+    "broad": [
+      "general alpha-glucoside transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.1.1.11"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: alpha-glucoside(out) + H+(out) = alpha-glucoside(in) + H+(in). Alpha-glucosides include trehalose, maltose, turanose, isomaltose, alpha-methylglucoside, maltotriose, palatinose, trehalose and melezitose.",
+  "namespace": "molecular_function",
+  "label": "alpha-glucoside:proton symporter activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0007605",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007605",
+  "relationships": {
+    "is_a": [
+      "GO:0050954"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hearing",
+      "perception of sound"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9659379"
+    ],
+    "Wikipedia": [
+      "Hearing_(sense)"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The series of events required for an organism to receive an auditory stimulus, convert it to a molecular signal, and recognize and characterize the signal. Sonic stimuli are detected in the form of vibrations and are processed to form a sound.",
+  "namespace": "biological_process",
+  "label": "Sensory processing of sound"
+}

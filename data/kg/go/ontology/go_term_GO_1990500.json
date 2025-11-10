@@ -1,0 +1,28 @@
+{
+  "id": "GO:1990500",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990500",
+  "relationships": {
+    "is_a": [
+      "GO:1903502"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "eukaryotic translation initiation factor 4E-cup complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "14723848"
+    ]
+  },
+  "definition": "A protein complex that causes translational repression in Drosophila. Prevents assembly of ribosomes at the mRNA by interfacing with a sequence-specific RNA-binding protein leading to recruitment of the CCR4 complex and consequently, reduction of the mRNA&apos;s poly(A) tail length. The complex is also required for dorso-ventral pattern formation in the embryo.",
+  "namespace": "cellular_component",
+  "label": "eif4e-cup complex"
+}

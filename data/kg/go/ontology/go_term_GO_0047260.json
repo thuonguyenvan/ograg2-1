@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047260",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047260",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GDP-glucose-glucosephosphate glucosyltransferase activity",
+      "GDP-glucose:D-glucose-6-phosphate 1-alpha-D-glucosyltransferase activity",
+      "GDPglucose-glucose-phosphate glucosyltransferase activity",
+      "GDPglucose:D-glucose-6-phosphate 1-alpha-D-glucosyltransferase activity",
+      "guanosine diphosphoglucose-glucose phosphate glucosyltransferase activity",
+      "trehalose phosphate synthase (GDP-forming) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.36",
+      "2.4.1.36",
+      "2.4.1.36",
+      "2.4.1.36",
+      "2.4.1.36",
+      "2.4.1.36",
+      "2.4.1.36",
+      "2.4.1.36"
+    ],
+    "MetaCyc": [
+      "2.4.1.36-RXN",
+      "2.4.1.36-RXN"
+    ],
+    "RHEA": [
+      "14605"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GDP-D-glucose + glucose-6-phosphate = alpha,alpha-trehalose 6-phosphate + GDP.",
+  "namespace": "molecular_function",
+  "label": "alpha,alpha-trehalose-phosphate synthase (GDP-forming) activity"
+}

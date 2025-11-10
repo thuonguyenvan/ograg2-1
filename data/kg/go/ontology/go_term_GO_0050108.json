@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050108",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050108",
+  "relationships": {
+    "is_a": [
+      "GO:0016791"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "monoterpenyl-pyrophosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "bornyl diphosphate hydrolase activity",
+      "bornyl pyrophosphate hydrolase activity",
+      "monoterpenyl-diphosphate diphosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "MONOTERPENYL-PYROPHOSPHATASE-RXN"
+    ],
+    "RHEA": [
+      "81371"
+    ],
+    "EC": [
+      "3.1.7.3",
+      "3.1.7.3",
+      "3.1.7.3",
+      "3.1.7.3"
+    ],
+    "PMID": [
+      "42357"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2S,4R)-bornyl diphosphate + H2O = (1R,2S,4R)-borneol + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "monoterpenyl-diphosphatase activity"
+}

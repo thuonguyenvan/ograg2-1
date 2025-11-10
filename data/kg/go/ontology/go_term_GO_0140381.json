@@ -1,0 +1,32 @@
+{
+  "id": "GO:0140381",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140381",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "norbaeocystin methyltransferase",
+      "psilocybin synthase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.345"
+    ],
+    "RHEA": [
+      "55568"
+    ],
+    "PMID": [
+      "28763571"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 S-adenosyl-L-methionine (SAM) + 4-hydroxytryptamine 4-phosphate (norbaeocystin) = 2 S-adenosyl-L-homocysteine + psilocybin.",
+  "namespace": "molecular_function",
+  "label": "4-hydroxytryptamine 4-phosphate methyltransferase activity"
+}

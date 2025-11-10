@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140823",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140823",
+  "relationships": {
+    "is_a": [
+      "GO:0004674",
+      "GO:0140998"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H2B-S36 kinase activity",
+      "histone kinase activity (H2B-S36 specific)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "32822587"
+    ]
+  },
+  "definition": "Catalysis of the reaction: histone H2B-serine (position 36) + ATP = histone H2B-phosphoserine (position 36) + ADP. This reaction is the addition of a phosphate group to the serine residue at position 36 of histone H2B.",
+  "namespace": "molecular_function",
+  "label": "histone H2BS36 kinase activity"
+}

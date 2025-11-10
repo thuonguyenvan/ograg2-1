@@ -1,0 +1,42 @@
+{
+  "id": "GO:1903691",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903691",
+  "relationships": {
+    "is_a": [
+      "GO:0030335",
+      "GO:0090303",
+      "GO:1903689"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of wound healing, spreading of epidermal cells",
+      "up-regulation of wound healing, spreading of epidermal cells",
+      "upregulation of wound healing, spreading of epidermal cells"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of wound healing, spreading of epidermal cells"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "als",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "18394891"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of wound healing, spreading of epidermal cells.",
+  "namespace": "biological_process",
+  "label": "positive regulation of wound healing, spreading of epidermal cells"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0018861",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018861",
+  "relationships": {
+    "is_a": [
+      "GO:0016405",
+      "GO:0016878"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-chlorobenzoate:CoA ligase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "6.2.1.33",
+      "6.2.1.33"
+    ],
+    "KEGG_REACTION": [
+      "R03932"
+    ],
+    "MetaCyc": [
+      "6.2.1.33-RXN"
+    ],
+    "RHEA": [
+      "23220"
+    ],
+    "UM-BBD_reactionID": [
+      "r0139"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-chlorobenzoate + CoA + ATP = 4-chlorobenzoyl-CoA + AMP + diphosphate. This reaction requires magnesium and is part of the bacterial 2,4-dichlorobenzoate degradation pathway.",
+  "namespace": "molecular_function",
+  "label": "4-chlorobenzoate-CoA ligase activity"
+}

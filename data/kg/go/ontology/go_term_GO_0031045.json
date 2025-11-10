@@ -1,0 +1,32 @@
+{
+  "id": "GO:0031045",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031045",
+  "relationships": {
+    "is_a": [
+      "GO:0030141"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dense core vesicle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao772007592",
+      "sao772007592"
+    ],
+    "PMID": [
+      "14690495"
+    ],
+    "GOC": [
+      "kmv"
+    ]
+  },
+  "definition": "Electron-dense organelle with a granular internal matrix; contains proteins destined to be secreted.",
+  "namespace": "cellular_component",
+  "label": "dense core granule"
+}

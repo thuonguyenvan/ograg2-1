@@ -1,0 +1,67 @@
+{
+  "id": "GO:0042132",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042132",
+  "relationships": {
+    "is_a": [
+      "GO:0050308"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "fructose-bisphosphatase activity",
+      "hexosediphosphatase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "D-fructose 1,6-diphosphatase activity",
+      "D-fructose-1,6-bisphosphate 1-phosphohydrolase activity",
+      "D-fructose-1,6-bisphosphate phosphatase activity",
+      "FBPase activity",
+      "fructose 1,6-bisphosphatase activity",
+      "fructose 1,6-bisphosphate phosphatase activity",
+      "fructose 1,6-diphosphatase activity",
+      "fructose 1,6-diphosphate phosphatase activity",
+      "fructose bisphosphate phosphatase activity",
+      "fructose diphosphatase activity",
+      "fructose diphosphate phosphatase activity",
+      "fructose-1,6-bisphosphatase activity",
+      "hexose bisphosphatase activity",
+      "hexose diphosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.3.11",
+      "3.1.3.11",
+      "3.1.3.00",
+      "3.1.3.11",
+      "3.1.3.11",
+      "3.1.3.11",
+      "3.1.3.11",
+      "3.1.3.11",
+      "3.1.3.11",
+      "3.1.3.11",
+      "3.1.3.11",
+      "3.1.3.11",
+      "3.1.3.11",
+      "3.1.3.11",
+      "3.1.3.11",
+      "3.1.3.11",
+      "3.1.3.11",
+      "3.1.3.11"
+    ],
+    "MetaCyc": [
+      "F16BDEPHOS-RXN"
+    ],
+    "RHEA": [
+      "11064"
+    ],
+    "Reactome": [
+      "R-HSA-70479"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-fructose 1,6-bisphosphate + H2O = D-fructose 6-phosphate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "FBP tetramers hydrolyze F1,6PP to Fru(6)P"
+}

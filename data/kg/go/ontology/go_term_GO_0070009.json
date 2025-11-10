@@ -1,0 +1,25 @@
+{
+  "id": "GO:0070009",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070009",
+  "relationships": {
+    "is_a": [
+      "GO:0004177",
+      "GO:0070008"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "https": [
+      "//www.ebi.ac.uk/merops/about/glossary.shtml#AMINOPEPTIDASE",
+      "//www.ebi.ac.uk/merops/about/glossary.shtml#CATTYPE"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of a single N-terminal amino acid residue from a polypeptide chain by a catalytic mechanism that involves a catalytic triad consisting of a serine nucleophile that is activated by a proton relay involving an acidic residue (e.g. aspartate or glutamate) and a basic residue (usually histidine).",
+  "namespace": "molecular_function",
+  "label": "serine-type aminopeptidase activity"
+}

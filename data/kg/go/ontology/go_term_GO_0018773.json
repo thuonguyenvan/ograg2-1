@@ -1,0 +1,39 @@
+{
+  "id": "GO:0018773",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018773",
+  "relationships": {
+    "is_a": [
+      "GO:0016823"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,4-dioxopentanoate acetylhydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.7.1.6",
+      "3.7.1.6"
+    ],
+    "KEGG_REACTION": [
+      "R00324"
+    ],
+    "MetaCyc": [
+      "ACETYLPYRUVATE-HYDROLASE-RXN"
+    ],
+    "RHEA": [
+      "16097",
+      "16097"
+    ],
+    "UM-BBD_reactionID": [
+      "r0095"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetylpyruvate + H2O = acetate + H+ + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "acetylpyruvate hydrolase activity"
+}

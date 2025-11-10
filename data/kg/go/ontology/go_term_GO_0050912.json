@@ -1,0 +1,33 @@
+{
+  "id": "GO:0050912",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050912",
+  "relationships": {
+    "is_a": [
+      "GO:0050907"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "perception of taste, detection of chemical stimulus",
+      "perception of taste, sensory detection of chemical stimulus",
+      "perception of taste, sensory transduction of chemical stimulus",
+      "sensory detection of chemical stimulus during perception of taste",
+      "sensory detection of taste",
+      "sensory transduction of chemical stimulus during perception of taste",
+      "sensory transduction of taste"
+    ],
+    "broad": [
+      "taste perception"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The series of events involved in the perception of taste in which a gustatory chemical stimulus is received and converted into a molecular signal.",
+  "namespace": "biological_process",
+  "label": "detection of chemical stimulus involved in sensory perception of taste"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0007171",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007171",
+  "relationships": {
+    "is_a": [
+      "GO:0032147",
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "transmembrane receptor protein tyrosine kinase activation",
+      "transmembrane receptor protein tyrosine kinase dimerization"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "mtg_lung"
+    ]
+  },
+  "definition": "Any process that initiates the activity of the inactive transmembrane receptor protein tyrosine kinase activity.",
+  "namespace": "biological_process",
+  "label": "activation of transmembrane receptor protein tyrosine kinase activity"
+}

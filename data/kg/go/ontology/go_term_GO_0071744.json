@@ -1,0 +1,32 @@
+{
+  "id": "GO:0071744",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071744",
+  "relationships": {
+    "is_a": [
+      "GO:0019815",
+      "GO:0071742"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "membrane-bound IgE",
+      "surface IgE"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "add",
+      "add"
+    ],
+    "ISBN": [
+      "0781765196"
+    ]
+  },
+  "definition": "An IgE immunoglobulin complex that is present in the plasma membrane of B cells and is composed of two identical immunoglobulin heavy chains of the IgE isotype and two identical immunoglobulin light chains and a signaling subunit, a heterodimer of the Ig-alpha and Ig-beta proteins.",
+  "namespace": "cellular_component",
+  "label": "IgE B cell receptor complex"
+}

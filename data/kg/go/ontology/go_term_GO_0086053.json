@@ -1,0 +1,28 @@
+{
+  "id": "GO:0086053",
+  "uri": "http://purl.obolibrary.org/obo/GO_0086053",
+  "relationships": {
+    "is_a": [
+      "GO:0086064",
+      "GO:0086067"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "atrioventricular node cell to bundle of His cell communication by electrical coupling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "dph",
+      "mtg_cardiac_conduct_nov11"
+    ]
+  },
+  "definition": "The process that mediates signaling interactions between an AV node cardiomyocyte and a bundle of His cardiac muscle cell by transfer of current between their adjacent cytoplasms via intercellular protein channels.",
+  "namespace": "biological_process",
+  "label": "AV node cell to bundle of His cell communication by electrical coupling"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:1903981",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903981",
+  "relationships": {
+    "is_a": [
+      "GO:0005527",
+      "GO:0043168",
+      "GO:1901363"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "enterochelin binding"
+    ],
+    "broad": [
+      "siderophore binding"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mr"
+    ],
+    "GO_REF": [
+      "0000067"
+    ],
+    "PMID": [
+      "21951132"
+    ]
+  },
+  "definition": "Binding to enterobactin.",
+  "namespace": "molecular_function",
+  "label": "enterobactin binding"
+}

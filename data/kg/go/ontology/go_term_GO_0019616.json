@@ -1,0 +1,32 @@
+{
+  "id": "GO:0019616",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019616",
+  "relationships": {
+    "is_a": [
+      "GO:0019614"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "catechol breakdown, meta-cleavage",
+      "catechol degradation, meta-cleavage"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P183-PWY"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "7765833"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of catechol via the meta-cleavage pathway, in which the catechol aromatic ring is broken between a hydroxylated carbon atom and an adjacent unsubstituted carbon atom.",
+  "namespace": "biological_process",
+  "label": "catechol catabolic process, meta-cleavage"
+}

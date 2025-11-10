@@ -1,0 +1,35 @@
+{
+  "id": "GO:0045887",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045887",
+  "relationships": {
+    "is_a": [
+      "GO:0008582",
+      "GO:0048639",
+      "GO:0051965",
+      "GO:1904398"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of synaptic growth at neuromuscular junction",
+      "up-regulation of synaptic growth at neuromuscular junction",
+      "upregulation of synaptic growth at neuromuscular junction"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of synaptic growth at neuromuscular junction",
+      "stimulation of synaptic growth at neuromuscular junction"
+    ],
+    "related": [
+      "positive regulation of synaptic growth at neuromuscular junction"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of synaptic assembly at neuromuscular junction.",
+  "namespace": "biological_process",
+  "label": "positive regulation of synaptic assembly at neuromuscular junction"
+}

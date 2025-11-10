@@ -1,0 +1,31 @@
+{
+  "id": "GO:0047651",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047651",
+  "relationships": {
+    "is_a": [
+      "GO:0019120"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alkyl-halide halidohydrolase activity",
+      "haloalkane halidohydrolase activity",
+      "halogenase activity"
+    ]
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R03523"
+    ],
+    "RHEA": [
+      "13765",
+      "13765"
+    ]
+  },
+  "definition": "Catalysis of the reaction: bromochloromethane + H2O = bromide + chloride + formaldehyde + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "alkylhalidase activity"
+}

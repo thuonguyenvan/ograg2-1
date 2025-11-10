@@ -1,0 +1,32 @@
+{
+  "id": "GO:1990381",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990381",
+  "relationships": {
+    "is_a": [
+      "GO:0002020"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "deubiquitinase binding",
+      "deubiquitinating enzyme binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "24063750",
+      "24063750"
+    ]
+  },
+  "definition": "Binding to a ubiquitin-specific protease.",
+  "namespace": "molecular_function",
+  "label": "ubiquitin-specific protease binding"
+}

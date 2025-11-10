@@ -1,0 +1,29 @@
+{
+  "id": "GO:0001091",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001091",
+  "relationships": {
+    "is_a": [
+      "GO:0001099",
+      "GO:0140296"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA polymerase II basal transcription factor binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH"
+    ],
+    "PMID": [
+      "16858867"
+    ]
+  },
+  "definition": "Binding to a basal RNA polymerase II transcription factor, any of the factors involved in formation of the preinitiation complex (PIC) by RNA polymerase II and defined as a basal or general transcription factor.",
+  "namespace": "molecular_function",
+  "label": "RNA polymerase II general transcription initiation factor binding"
+}

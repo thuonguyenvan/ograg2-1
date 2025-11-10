@@ -1,0 +1,45 @@
+{
+  "id": "GO:0050460",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050460",
+  "relationships": {
+    "is_a": [
+      "GO:0046857"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-hydroxy amine reductase activity",
+      "NADH-hydroxylamine reductase activity",
+      "NADH2:hydroxylamine oxidoreductase activity",
+      "NADH:hydroxylamine oxidoreductase activity",
+      "ammonium dehydrogenase activity",
+      "ammonium:NAD+ oxidoreductase activity",
+      "hydroxylamine reductase (NADH2)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.1.10",
+      "1.7.1.10",
+      "1.7.1.10",
+      "1.7.1.10",
+      "1.7.1.10",
+      "1.7.1.10",
+      "1.7.1.10",
+      "1.7.1.10"
+    ],
+    "MetaCyc": [
+      "HYDROXYLAMINE-REDUCTASE-NADH-RXN"
+    ],
+    "RHEA": [
+      "20581",
+      "20581"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NH4+ + NAD+ + H2O = hydroxylamine + NADH + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "hydroxylamine reductase (NADH) activity"
+}

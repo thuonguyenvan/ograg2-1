@@ -1,0 +1,31 @@
+{
+  "id": "GO:0010509",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010509",
+  "relationships": {
+    "is_a": [
+      "GO:0055082"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "polyamine homeostasis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "rph",
+      "tb"
+    ],
+    "PMID": [
+      "11161802",
+      "9761731"
+    ]
+  },
+  "definition": "A homeostatic process involved in the maintenance of a steady state level of polyamine within a cell.",
+  "namespace": "biological_process",
+  "label": "intracellular polyamine homeostasis"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0060404",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060404",
+  "relationships": {
+    "is_a": [
+      "GO:0010938",
+      "GO:0061523"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "dph",
+      "krc",
+      "tb"
+    ]
+  },
+  "definition": "The removal of tubulin heterodimers from one or both ends of an axonemal microtubule. An axonemal microtubule is a microtubule in the axoneme of a cilium or flagellum; an axoneme contains nine modified doublet microtubules surrounding a pair of single microtubules.",
+  "namespace": "biological_process",
+  "label": "axonemal microtubule depolymerization"
+}

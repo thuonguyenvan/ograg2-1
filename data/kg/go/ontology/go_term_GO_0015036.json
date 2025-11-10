@@ -1,0 +1,31 @@
+{
+  "id": "GO:0015036",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015036",
+  "relationships": {
+    "is_a": [
+      "GO:0016667"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "disulphide oxidoreductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1222417",
+      "R-HSA-1222644",
+      "R-HSA-1222655",
+      "R-HSA-1222690"
+    ],
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "Catalysis of the reaction: substrate with reduced sulfide groups = substrate with oxidized disulfide bonds.",
+  "namespace": "molecular_function",
+  "label": "DlaT reactivates AhpD"
+}

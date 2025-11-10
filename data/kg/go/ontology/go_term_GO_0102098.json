@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102098",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102098",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.365",
+      "1.1.1.365"
+    ],
+    "MetaCyc": [
+      "RXN-11151"
+    ],
+    "RHEA": [
+      "26345"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-galactonate + NADP = aldehydo-D-galacturonate + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "D-galacturonate reductase activity"
+}

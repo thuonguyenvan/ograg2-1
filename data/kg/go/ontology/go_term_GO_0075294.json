@@ -1,0 +1,38 @@
+{
+  "id": "GO:0075294",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075294",
+  "relationships": {
+    "is_a": [
+      "GO:0048518",
+      "GO:0052372"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation by symbiont of entry into host",
+      "up-regulation by symbiont of entry into host",
+      "upregulation by symbiont of entry into host"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation by organism of entry into other organism during symbiotic interaction",
+      "activation by symbiont of entry into host"
+    ],
+    "related": [
+      "positive regulation by organism of entry into other organism during symbiotic interaction",
+      "positive regulation by organism of entry into other organism involved in symbiotic interaction",
+      "up regulation by organism of entry into other organism during symbiotic interaction",
+      "up-regulation by organism of entry into other organism during symbiotic interaction",
+      "upregulation by organism of entry into other organism during symbiotic interaction"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "pamgo_curators",
+      "tb"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent to which it enters into the host organism, where the two organisms are in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "positive regulation by symbiont of entry into host"
+}

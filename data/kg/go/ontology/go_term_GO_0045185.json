@@ -1,0 +1,31 @@
+{
+  "id": "GO:0045185",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045185",
+  "relationships": {
+    "is_a": [
+      "GO:0051235"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "active protein retrieval",
+      "protein retention",
+      "protein sequestering"
+    ],
+    "related": [
+      "maintenance of protein localization"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process in which a protein is maintained in a location and prevented from moving elsewhere. These include sequestration, stabilization to prevent transport elsewhere and the active retrieval of proteins that do move away.",
+  "namespace": "biological_process",
+  "label": "maintenance of protein location"
+}

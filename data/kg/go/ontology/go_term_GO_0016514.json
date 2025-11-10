@@ -1,0 +1,29 @@
+{
+  "id": "GO:0016514",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016514",
+  "relationships": {
+    "is_a": [
+      "GO:0070603"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SWI-SNF complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "mah"
+    ],
+    "PMID": [
+      "12672490"
+    ]
+  },
+  "definition": "A SWI/SNF-type complex that contains 8 to 14 proteins, including both conserved (core) and nonconserved components; contains the ATPase product of the yeast SNF2 or mammalian SMARCA4/BAF190A/BRG1 gene, or an ortholog thereof.",
+  "namespace": "cellular_component",
+  "label": "SWI/SNF complex"
+}

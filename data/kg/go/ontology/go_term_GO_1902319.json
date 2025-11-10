@@ -1,0 +1,32 @@
+{
+  "id": "GO:1902319",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902319",
+  "relationships": {
+    "is_a": [
+      "GO:1902296"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA strand elongation involved in DNA replication involved in S phase",
+      "DNA strand elongation involved in DNA replication involved in S-phase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "DNA strand elongation involved in DNA replication during S phase"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_cell_cycle",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any DNA strand elongation that is involved in nuclear cell cycle DNA replication.",
+  "namespace": "biological_process",
+  "label": "DNA strand elongation involved in nuclear cell cycle DNA replication"
+}

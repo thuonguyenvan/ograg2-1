@@ -1,0 +1,35 @@
+{
+  "id": "GO:0021903",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021903",
+  "relationships": {
+    "is_a": [
+      "GO:0009952"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "anterior-posterior neural tube patterning"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid",
+      "dph"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "11262869"
+    ]
+  },
+  "definition": "The process in which the neural tube is divided into specific regions along the rostrocaudal axis.",
+  "namespace": "biological_process",
+  "label": "rostrocaudal neural tube patterning"
+}

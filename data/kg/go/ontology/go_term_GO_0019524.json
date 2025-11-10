@@ -1,0 +1,30 @@
+{
+  "id": "GO:0019524",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019524",
+  "relationships": {
+    "is_a": [
+      "GO:0046181"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "keto-D-gluconate breakdown",
+      "keto-D-gluconate catabolism",
+      "keto-D-gluconate degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "DHGLUCONATE-PYR-CAT-PWY"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of keto-D-gluconate, the anion of keto-D-gluconic acid, an aldonic acid derived from glucose.",
+  "namespace": "biological_process",
+  "label": "keto-D-gluconate catabolic process"
+}

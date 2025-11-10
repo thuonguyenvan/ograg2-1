@@ -1,0 +1,39 @@
+{
+  "id": "GO:0019853",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019853",
+  "relationships": {
+    "is_a": [
+      "GO:0019852",
+      "GO:0042364",
+      "GO:0046364",
+      "GO:0046394",
+      "GO:1901336"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-ascorbic acid anabolism",
+      "L-ascorbic acid biosynthesis",
+      "L-ascorbic acid formation",
+      "L-ascorbic acid synthesis",
+      "ascorbate biosynthesis",
+      "ascorbate biosynthetic process",
+      "vitamin C biosynthesis",
+      "vitamin C biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ma"
+    ],
+    "ISBN": [
+      "0198547684"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of L-ascorbic acid; L-ascorbic acid ionizes to give L-ascorbate, (2R)-2-[(1S)-1,2-dihydroxyethyl]-4-hydroxy-5-oxo-2,5-dihydrofuran-3-olate, which is required as a cofactor in the oxidation of prolyl residues to hydroxyprolyl, and other reactions.",
+  "namespace": "biological_process",
+  "label": "L-ascorbic acid biosynthetic process"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0044419",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044419",
+  "relationships": {
+    "is_a": [
+      "GO:0008150"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "interaction with another species",
+      "interspecies interaction",
+      "interspecies interaction between organisms",
+      "interspecies interaction with other organisms"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9824443"
+    ],
+    "GOC": [
+      "cc"
+    ]
+  },
+  "definition": "Any process evolved to enable an interaction with an organism of a different species.",
+  "namespace": "biological_process",
+  "label": "Parasitic Infection Pathways"
+}

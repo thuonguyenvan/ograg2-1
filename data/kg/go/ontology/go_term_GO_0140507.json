@@ -1,0 +1,25 @@
+{
+  "id": "GO:0140507",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140507",
+  "relationships": {
+    "is_a": [
+      "GO:0007165"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "granzyme-mediated cell death signaling pathway"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "32299851"
+    ]
+  },
+  "definition": "The series of molecular signals induced by granzymes which triggers the cell death of a cell. The pathway starts with reception of a granzyme signal, and ends when the execution phase of cell death is triggered. Granzymes are serine proteases that are secreted by cytotoxic T cells and natural killer cells to induce cell death in target cells.",
+  "namespace": "biological_process",
+  "label": "granzyme-mediated programmed cell death signaling pathway"
+}

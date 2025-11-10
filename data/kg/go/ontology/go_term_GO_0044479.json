@@ -1,0 +1,30 @@
+{
+  "id": "GO:0044479",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044479",
+  "relationships": {
+    "is_a": [
+      "GO:0035738"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "envenomation resulting in modulation of mast cell degranulation in another organism",
+      "envenomation resulting in modulation of mast cell degranulation in other organism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "fj",
+      "jl"
+    ],
+    "PMID": [
+      "21549739"
+    ]
+  },
+  "definition": "A process in which an organism alters or subverts mast cell degranulation in another organism via the action of a venom.",
+  "namespace": "biological_process",
+  "label": "venom-mediated perturbation of mast cell degranulation"
+}

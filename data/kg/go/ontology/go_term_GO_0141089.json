@@ -1,0 +1,28 @@
+{
+  "id": "GO:0141089",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141089",
+  "relationships": {
+    "is_a": [
+      "GO:0140299"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucose sensing activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-170810"
+    ],
+    "PMID": [
+      "17470517"
+    ]
+  },
+  "definition": "Binding to and responding, e.g. by conformational change, to changes in the cellular level of glucose.",
+  "namespace": "molecular_function",
+  "label": "nucleoplasmic GCK1:GCKR complex =&gt; glucokinase (GCK1) + glucokinase regulatory protein (GCKR)"
+}

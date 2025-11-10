@@ -1,0 +1,29 @@
+{
+  "id": "GO:0016405",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016405",
+  "relationships": {
+    "is_a": [
+      "GO:0016877"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-159443",
+      "R-HSA-159567",
+      "R-HSA-177157",
+      "R-HSA-9749971"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Catalysis of the reaction: substrate + ATP + CoASH = AMP + diphosphate + substrate-CoA.",
+  "namespace": "molecular_function",
+  "label": "ACSM2B-like proteins transform 2,5-DHBA to 2,5-DHB-CoA"
+}

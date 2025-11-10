@@ -1,0 +1,33 @@
+{
+  "id": "GO:2001256",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001256",
+  "relationships": {
+    "is_a": [
+      "GO:0051924"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of SOCE",
+      "regulation of capacitative calcium entry",
+      "regulation of store-operated calcium import"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of calcium ion import"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of store-operated calcium entry.",
+  "namespace": "biological_process",
+  "label": "regulation of store-operated calcium entry"
+}

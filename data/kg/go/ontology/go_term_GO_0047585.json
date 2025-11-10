@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047585",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047585",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-pyridoxolactone lactonohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.27",
+      "3.1.1.27",
+      "3.1.1.27"
+    ],
+    "KEGG_REACTION": [
+      "R02992"
+    ],
+    "MetaCyc": [
+      "4-PYRIDOXOLACTONASE-RXN"
+    ],
+    "RHEA": [
+      "14301",
+      "14301"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-pyridoxolactone + H2O = 4-pyridoxate + H+.",
+  "namespace": "molecular_function",
+  "label": "4-pyridoxolactonase activity"
+}

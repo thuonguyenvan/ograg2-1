@@ -1,0 +1,36 @@
+{
+  "id": "GO:0019335",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019335",
+  "relationships": {
+    "is_a": [
+      "GO:0042178"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "2-methylquinoline catabolic process",
+      "3-methylquinoline breakdown",
+      "3-methylquinoline catabolic process",
+      "3-methylquinoline catabolism",
+      "3-methylquinoline degradation",
+      "quinaldine catabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-721"
+    ],
+    "GOC": [
+      "ai"
+    ],
+    "PMID": [
+      "10746195"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of methylquinoline, an aromatic compound composed of a benzene ring and a heterocyclic N-containing ring.",
+  "namespace": "biological_process",
+  "label": "methylquinoline catabolic process"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0035538",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035538",
+  "relationships": {
+    "is_a": [
+      "GO:0000978"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ChoRE binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF"
+    ],
+    "PMID": [
+      "20001964",
+      "20001964"
+    ]
+  },
+  "definition": "Binding to a carbohydrate response element (ChoRE) found in the promoters of genes whose expression is regulated in response to carbohydrates, such as the triglyceride synthesis genes.",
+  "namespace": "molecular_function",
+  "label": "carbohydrate response element binding"
+}

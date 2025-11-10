@@ -1,0 +1,41 @@
+{
+  "id": "GO:1904414",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904414",
+  "relationships": {
+    "is_a": [
+      "GO:0051094",
+      "GO:0051240",
+      "GO:1904412"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of cardiac ventricle development",
+      "up-regulation of cardiac ventricle development",
+      "upregulation of cardiac ventricle development"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of cardiac ventricle development"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19590510"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of cardiac ventricle development.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cardiac ventricle development"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0098543",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098543",
+  "relationships": {
+    "is_a": [
+      "GO:0051707",
+      "GO:0098581"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "recognition of other organism during symbiotic interaction",
+      "recognition of other organism involved in symbiotic interaction"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dos",
+      "dph"
+    ]
+  },
+  "definition": "The series of events in which a stimulus from another organism is received and converted into a molecular signal.",
+  "namespace": "biological_process",
+  "label": "detection of other organism"
+}

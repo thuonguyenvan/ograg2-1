@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047947",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047947",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glutamine phenylacetyltransferase activity",
+      "phenylacetyl-CoA:L-glutamine N-acetyltransferase activity",
+      "phenylacetyl-CoA:L-glutamine alpha-N-phenylacetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.14",
+      "2.3.1.14",
+      "2.3.1.14",
+      "2.3.1.14",
+      "2.3.1.14"
+    ],
+    "MetaCyc": [
+      "GLUTAMINE-N-PHENYLACETYLTRANSFERASE-RXN",
+      "GLUTAMINE-N-PHENYLACETYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "21844"
+    ]
+  },
+  "definition": "Catalysis of the reaction: phenylacetyl-CoA + L-glutamine = CoA + alpha-N-phenylacetyl-L-glutamine.",
+  "namespace": "molecular_function",
+  "label": "glutamine N-phenylacetyltransferase activity"
+}

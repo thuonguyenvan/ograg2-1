@@ -1,0 +1,30 @@
+{
+  "id": "GO:0006651",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006651",
+  "relationships": {
+    "is_a": [
+      "GO:0046339",
+      "GO:0046463"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "diacylglycerol anabolism",
+      "diacylglycerol biosynthesis",
+      "diacylglycerol formation",
+      "diacylglycerol synthesis",
+      "diglyceride biosynthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of diacylglycerol, a glyceride in which any two of the R groups (positions not specified) are acyl groups while the remaining R group can be either H or an alkyl group.",
+  "namespace": "biological_process",
+  "label": "diacylglycerol biosynthetic process"
+}

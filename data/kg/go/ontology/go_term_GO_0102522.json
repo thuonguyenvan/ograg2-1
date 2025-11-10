@@ -1,0 +1,34 @@
+{
+  "id": "GO:0102522",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102522",
+  "relationships": {
+    "is_a": [
+      "GO:0016765",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.114",
+      "2.5.1.114"
+    ],
+    "MetaCyc": [
+      "RXN-14518"
+    ],
+    "RHEA": [
+      "36355"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + 4-demethylwyosine37 in tRNAPhe = 5&apos;-S-methyl-5&apos;-thioadenosine + H+ + 7-[(3S)-3-amino-3-carboxypropyl]-4-demethylwyosine37 in tRNAPhe.",
+  "namespace": "molecular_function",
+  "label": "tRNA 4-demethylwyosine alpha-amino-alpha-carboxypropyltransferase activity"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0061789",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061789",
+  "relationships": {
+    "is_a": [
+      "GO:0065003",
+      "GO:0140029"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LDCV priming",
+      "dense core vesicle priming",
+      "large dense-core vesicle priming"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf"
+    ],
+    "PMID": [
+      "10899113",
+      "26575293",
+      "26575293",
+      "26575293",
+      "10899113"
+    ]
+  },
+  "definition": "A process that converts unprimed dense core granules (DCVs) to a pool of primed vesicles that are capable of fusing with the plasma membrane (fusion-competent) and thereby releasing their contents. Priming typically occurs after docking.",
+  "namespace": "biological_process",
+  "label": "dense core granule priming"
+}

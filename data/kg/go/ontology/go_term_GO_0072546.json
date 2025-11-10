@@ -1,0 +1,32 @@
+{
+  "id": "GO:0072546",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072546",
+  "relationships": {
+    "is_a": [
+      "GO:0098796",
+      "GO:0140534"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "ER membrane protein complex",
+      "endoplasmic reticulum membrane protein complex"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "29242231",
+      "30415835",
+      "32459176"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A transmembrane protein complex located in the endoplasmic reticulum (ER) involved in the insertion of newly synthesized proteins in the membrane of the ER. In S. cerevisiae, it has six members: EMC1, EMC2, AIM27, EMC4, KRE27, and EMC6.",
+  "namespace": "cellular_component",
+  "label": "EMC complex"
+}

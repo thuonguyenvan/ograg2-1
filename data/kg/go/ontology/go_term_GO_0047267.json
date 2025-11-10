@@ -1,0 +1,33 @@
+{
+  "id": "GO:0047267",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047267",
+  "relationships": {
+    "is_a": [
+      "GO:0000030"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GDP mannose-undecaprenyl phosphate mannosyltransferase activity",
+      "GDP-D-mannose:lipid phosphate transmannosylase activity",
+      "GDP-mannose:undecaprenyl-phosphate D-mannosyltransferase activity",
+      "guanosine diphosphomannose-undecaprenyl phosphate mannosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.54",
+      "2.4.1.54",
+      "2.4.1.54",
+      "2.4.1.54",
+      "2.4.1.54",
+      "2.4.1.54"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GDP-mannose + undecaprenyl phosphate = GDP + D-mannosyl-1-phosphoundecaprenol.",
+  "namespace": "molecular_function",
+  "label": "undecaprenyl-phosphate mannosyltransferase activity"
+}

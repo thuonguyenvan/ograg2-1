@@ -1,0 +1,33 @@
+{
+  "id": "GO:0060175",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060175",
+  "relationships": {
+    "is_a": [
+      "GO:0004714",
+      "GO:0005030"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "BDNF-activated receptor activity",
+      "brain-derived neurotrophic factor-activated receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "BDNF receptor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "dph",
+      "bf",
+      "signaling",
+      "dph"
+    ]
+  },
+  "definition": "Combining with a brain-derived neurotrophic factor and transmitting the signal across the plasma membrane to initiate a change in cell activity.",
+  "namespace": "molecular_function",
+  "label": "brain-derived neurotrophic factor receptor activity"
+}

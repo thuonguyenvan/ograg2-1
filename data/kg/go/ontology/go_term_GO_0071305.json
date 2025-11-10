@@ -1,0 +1,34 @@
+{
+  "id": "GO:0071305",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071305",
+  "relationships": {
+    "is_a": [
+      "GO:0033280",
+      "GO:0071295",
+      "GO:0071396",
+      "GO:1901701"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to calciferol"
+    ],
+    "broad": [],
+    "narrow": [
+      "cellular response to cholecalciferol",
+      "cellular response to ergocalciferol"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a vitamin D stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to vitamin D"
+}

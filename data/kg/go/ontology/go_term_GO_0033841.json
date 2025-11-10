@@ -1,0 +1,38 @@
+{
+  "id": "GO:0033841",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033841",
+  "relationships": {
+    "is_a": [
+      "GO:0050738"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1F-oligo[beta-D-fructofuranosyl-(2-&gt;1)-]sucrose 6G-beta-D-fructotransferase activity",
+      "6G-FFT",
+      "6G-FT",
+      "6G-fructotransferase activity",
+      "fructan:fructan 6G-fructosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.243",
+      "2.4.1.243",
+      "2.4.1.243",
+      "2.4.1.243",
+      "2.4.1.243",
+      "2.4.1.243",
+      "2.4.1.243"
+    ],
+    "MetaCyc": [
+      "2.4.1.243-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [1-beta-D-fructofuranosyl-(2-&gt;1)-]m+1 alpha-D-glucopyranoside + [1-beta-D-fructofuranosyl-(2-&gt;1)-]n+1 alpha-D-glucopyranoside = [1-beta-D-fructofuranosyl-(2-&gt;1)-]m alpha-D-glucopyranoside + [1-beta-D-fructofuranosyl-(2-&gt;1)-]n+1 beta-D-fructofuranosyl-(2-&gt;6)-alpha-D-glucopyranoside (m &gt; 0; n &gt;= 0).",
+  "namespace": "molecular_function",
+  "label": "6G-fructosyltransferase activity"
+}

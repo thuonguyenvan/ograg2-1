@@ -1,0 +1,30 @@
+{
+  "id": "GO:0097672",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097672",
+  "relationships": {
+    "is_a": [
+      "GO:0019005"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "SCF-YDR306C ubiquitin ligase complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jd",
+      "vw"
+    ],
+    "PMID": [
+      "14747994",
+      "15147268"
+    ]
+  },
+  "definition": "An SCF ubiquitin ligase complex in which the F-box protein is Pof5 in S. pombe (YDR306C in S. cerevisiae).",
+  "namespace": "cellular_component",
+  "label": "SCF-Pof5 ubiquitin ligase complex"
+}

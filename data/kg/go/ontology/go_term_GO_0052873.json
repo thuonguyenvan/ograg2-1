@@ -1,0 +1,35 @@
+{
+  "id": "GO:0052873",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052873",
+  "relationships": {
+    "is_a": [
+      "GO:0008752"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NADPH dehydrogenase (FMN) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.38"
+    ],
+    "KEGG_REACTION": [
+      "R05706"
+    ],
+    "RHEA": [
+      "21624",
+      "21624"
+    ],
+    "Reactome": [
+      "R-HSA-1222399"
+    ]
+  },
+  "definition": "Catalysis of the reaction: FMNH2 + NADP+ = FMN + NADPH + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "Iron is reduced and separates from mycobactin"
+}

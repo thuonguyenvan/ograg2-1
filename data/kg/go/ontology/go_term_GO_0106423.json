@@ -1,0 +1,34 @@
+{
+  "id": "GO:0106423",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106423",
+  "relationships": {
+    "is_a": [
+      "GO:0004181"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tubulinyl-Tyr carboxypeptidase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.4.17.17",
+      "3.4.17.17"
+    ],
+    "RHEA": [
+      "57444",
+      "57444"
+    ],
+    "PMID": [
+      "29146869",
+      "35482892"
+    ]
+  },
+  "definition": "Catalysis of the reaction: C-terminal L-alpha-aminoacyl-L-glutamyl-L-glutamyl-L-tyrosyl-[tubulin] + H2O = C-terminal L-alpha-aminoacyl-L-glutamyl-L-glutamyl-[tubulin] + L-tyrosine.",
+  "namespace": "molecular_function",
+  "label": "tubulin-tyrosine carboxypeptidase"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0045724",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045724",
+  "relationships": {
+    "is_a": [
+      "GO:0120034",
+      "GO:1902017",
+      "GO:1902117"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of cilium assembly",
+      "up-regulation of cilium assembly",
+      "upregulation of cilium assembly"
+    ],
+    "broad": [
+      "positive regulation of flagellum assembly"
+    ],
+    "narrow": [
+      "activation of cilium assembly",
+      "stimulation of cilium assembly"
+    ],
+    "related": [
+      "positive regulation of flagellum biogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "go_curators",
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the formation of a cilium.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cilium assembly"
+}

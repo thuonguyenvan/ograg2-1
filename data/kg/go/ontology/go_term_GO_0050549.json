@@ -1,0 +1,44 @@
+{
+  "id": "GO:0050549",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050549",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-cyclohexylformamide hydro-lyase (cyclohexyl-isocyanide-forming)",
+      "N-cyclohexylformamide hydro-lyase activity",
+      "isonitrile hydratase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.103",
+      "4.2.1.103",
+      "4.2.1.103",
+      "4.2.1.103",
+      "4.2.1.103"
+    ],
+    "KEGG_REACTION": [
+      "R05771"
+    ],
+    "MetaCyc": [
+      "4.2.1.103-RXN"
+    ],
+    "RHEA": [
+      "18197",
+      "18197"
+    ],
+    "UM-BBD_reactionID": [
+      "r1029"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-cyclohexylformamide + H+ = cyclohexyl isocyanide + H2O.",
+  "namespace": "molecular_function",
+  "label": "cyclohexyl-isocyanide hydratase activity"
+}

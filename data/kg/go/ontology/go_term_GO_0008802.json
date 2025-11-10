@@ -1,0 +1,44 @@
+{
+  "id": "GO:0008802",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008802",
+  "relationships": {
+    "is_a": [
+      "GO:0004029"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "BADH activity",
+      "BetB",
+      "betaine aldehyde dehydrogenase activity",
+      "betaine aldehyde oxidase activity",
+      "betaine-aldehyde:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.8",
+      "1.2.1.8",
+      "1.2.1.8",
+      "1.2.1.8",
+      "1.2.1.8",
+      "1.2.1.8",
+      "1.2.1.8"
+    ],
+    "MetaCyc": [
+      "BADH-RXN"
+    ],
+    "RHEA": [
+      "15305"
+    ],
+    "Reactome": [
+      "R-HSA-6797955"
+    ]
+  },
+  "definition": "Catalysis of the reaction: betaine aldehyde + NAD+ + H2O = betaine + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "ALDH7A1 oxidises BETALD to BET"
+}

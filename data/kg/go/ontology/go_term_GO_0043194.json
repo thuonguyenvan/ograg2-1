@@ -1,0 +1,33 @@
+{
+  "id": "GO:0043194",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043194",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "initial segment"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao256000789"
+    ],
+    "GOC": [
+      "nln",
+      "sl"
+    ],
+    "PMID": [
+      "1754851",
+      "21551097"
+    ]
+  },
+  "definition": "Portion of the axon proximal to the neuronal cell body, at the level of the axon hillock. The action potentials that propagate along the axon are generated at the level of this initial segment.",
+  "namespace": "cellular_component",
+  "label": "axon initial segment"
+}

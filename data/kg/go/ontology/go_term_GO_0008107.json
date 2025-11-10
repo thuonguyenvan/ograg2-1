@@ -1,0 +1,86 @@
+{
+  "id": "GO:0008107",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008107",
+  "relationships": {
+    "is_a": [
+      "GO:0031127"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "alpha(1,2)-L-fucosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "H-gene-encoded beta-galactoside alpha-1-&gt;2 fucosyltransferase activity",
+      "blood group H alpha-2-fucosyltransferase activity",
+      "blood-group substance H-dependent fucosyltransferase activity",
+      "secretor-type beta-galactoside alpha-1-&gt;2 fucosyltransferase activity"
+    ],
+    "related": [
+      "GDP fucose-lactose fucosyltransferase activity",
+      "GDP-L-fucose:lactose fucosyltransferase activity",
+      "GDP-beta-L-fucose:beta-D-galactosyl-R 2-alpha-L-fucosyltransferase activity",
+      "H-gene-encoded beta-galactoside alpha1-&gt;2 fucosyltransferase activity",
+      "alpha-(1-&gt;2)-L-fucosyltransferase activity",
+      "alpha-2-L-fucosyltransferase activity",
+      "alpha-2-fucosyltransferase activity",
+      "beta-galactoside alpha-1-&gt;2 fucosyltransferase activity",
+      "beta-galactoside alpha1-&gt;2 fucosyltransferase activity",
+      "galactoside 2-L-fucosyltransferase activity",
+      "guanosine diphospho-L-fucose-lactose fucosyltransferase activity",
+      "guanosine diphosphofucose-beta-D-galactosyl-alpha-2-L-fucosyltransferase activity",
+      "guanosine diphosphofucose-galactoside 2-L-fucosyltransferase activity",
+      "guanosine diphosphofucose-galactosylacetylglucosaminylgalactosyl-glucosylceramide alpha-L-fucosyltransferase activity",
+      "guanosine diphosphofucose-galactosylacetylglucosaminylgalactosylglucosylceramide alpha-L-fucosyltransferase activity",
+      "guanosine diphosphofucose-glycoprotein 2-alpha-L-fucosyltransferase activity",
+      "guanosine diphosphofucose-glycoprotein 2-alpha-fucosyltransferase activity",
+      "guanosine diphosphofucose-lactose fucosyltransferase activity",
+      "secretor-type beta-galactoside alpha1-&gt;2 fucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69",
+      "2.4.1.69"
+    ],
+    "MetaCyc": [
+      "GALACTOSIDE-2-L-FUCOSYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "50664",
+      "50664"
+    ],
+    "Reactome": [
+      "R-HSA-9036987",
+      "R-HSA-9603982",
+      "R-HSA-9603983"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GDP-L-fucose + beta-D-galactosyl-R = GDP + alpha-L-fucosyl-(1,2)-beta-D-galactosyl-R.",
+  "namespace": "molecular_function",
+  "label": "FUT2 transfers Fuc to LeX to form LeY"
+}

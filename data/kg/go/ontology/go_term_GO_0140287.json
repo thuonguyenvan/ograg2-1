@@ -1,0 +1,30 @@
+{
+  "id": "GO:0140287",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140287",
+  "relationships": {
+    "is_a": [
+      "GO:0016662"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.2.8"
+    ],
+    "MetaCyc": [
+      "1.7.99.8-RXN"
+    ],
+    "RHEA": [
+      "23232",
+      "23232"
+    ]
+  },
+  "definition": "Catalysis of the reaction: hydrazine + 4 Fe(III)-[cytochrome c] = N2 + 4 Fe(II)-[cytochrome c] + 4 H+.",
+  "namespace": "molecular_function",
+  "label": "hydrazine dehydrogenase activity"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:1901132",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901132",
+  "relationships": {
+    "is_a": [
+      "GO:0030649",
+      "GO:0046174"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "kanamycin breakdown",
+      "kanamycin catabolism",
+      "kanamycin degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "UniPathway": [
+      "UPA00965"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of kanamycin.",
+  "namespace": "biological_process",
+  "label": "kanamycin catabolic process"
+}

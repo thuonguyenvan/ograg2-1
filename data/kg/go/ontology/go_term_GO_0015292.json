@@ -1,0 +1,34 @@
+{
+  "id": "GO:0015292",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015292",
+  "relationships": {
+    "is_a": [
+      "GO:0015291"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "facilitated diffusion carrier",
+      "single-species transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "uniport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ],
+    "PMID": [
+      "10839820"
+    ]
+  },
+  "definition": "Catalysis of the transport of a single molecular species across a membrane; transport is independent of the movement of any other molecular species.",
+  "namespace": "molecular_function",
+  "label": "uniporter activity"
+}

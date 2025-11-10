@@ -1,0 +1,34 @@
+{
+  "id": "GO:0002319",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002319",
+  "relationships": {
+    "is_a": [
+      "GO:0002313",
+      "GO:0090715"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "memory B lymphocyte differentiation",
+      "memory B-cell differentiation",
+      "memory B-lymphocyte differentiation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "memory B cell development"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jal",
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "The process in which a B cell acquires the specialized features of a memory B cell. Memory B cells are cells that can respond rapidly to antigen re-exposure by production of high-affinity antibody.",
+  "namespace": "biological_process",
+  "label": "memory B cell differentiation"
+}

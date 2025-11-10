@@ -1,0 +1,35 @@
+{
+  "id": "GO:0072583",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072583",
+  "relationships": {
+    "is_a": [
+      "GO:0006898"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CME",
+      "clathrin coated pit-dependent endocytosis",
+      "clathrin-mediated endocytosis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "BHF"
+    ],
+    "PMID": [
+      "18498251",
+      "8970738",
+      "9234965",
+      "20074057"
+    ]
+  },
+  "definition": "An endocytosis process that begins when material is taken up into clathrin-coated pits, which then pinch off to form clathrin-coated endocytic vesicles.",
+  "namespace": "biological_process",
+  "label": "clathrin-dependent endocytosis"
+}

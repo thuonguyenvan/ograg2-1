@@ -1,0 +1,26 @@
+{
+  "id": "GO:0036308",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036308",
+  "relationships": {
+    "is_a": [
+      "GO:0008990"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "imk"
+    ],
+    "PMID": [
+      "22079366"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + guanosine(1516) in 16S rRNA = N(2)-methylguanosine(1516) in 16S rRNA + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "16S rRNA (guanine(1516)-N(2))-methyltransferase activity"
+}

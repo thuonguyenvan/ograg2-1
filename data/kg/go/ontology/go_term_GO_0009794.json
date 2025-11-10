@@ -1,0 +1,36 @@
+{
+  "id": "GO:0009794",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009794",
+  "relationships": {
+    "is_a": [
+      "GO:0007346"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "embryonic mitotic cell cycle modulation",
+      "embryonic mitotic cell cycle regulation",
+      "modulation of embryonic mitotic cell cycle progression",
+      "regulation of embryonic mitotic cell cycle",
+      "regulation of embryonic mitotic cell cycle progression",
+      "regulation of progression through embryonic mitotic cell cycle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "embryonic mitotic cell cycle regulator"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "go_curators",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of replication and segregation of genetic material in the embryo.",
+  "namespace": "biological_process",
+  "label": "regulation of mitotic cell cycle, embryonic"
+}

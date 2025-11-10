@@ -1,0 +1,36 @@
+{
+  "id": "GO:0052029",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052029",
+  "relationships": {
+    "is_a": [
+      "GO:0052027"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "disruption by symbiont of host signal transduction pathway",
+      "disruption of host signal transduction pathway",
+      "down regulation by symbiont of host signal transduction pathway",
+      "down-regulation by symbiont of host signal transduction pathway",
+      "downregulation by symbiont of host signal transduction pathway",
+      "negative modulation by organism of host signal transduction pathway",
+      "negative regulation by symbiont of host signal transduction pathway",
+      "suppression by symbiont of host signal transduction pathway"
+    ],
+    "broad": [
+      "negative regulation by organism of signal transduction in other organism involved in symbiotic interaction"
+    ],
+    "narrow": [
+      "inhibition by symbiont of host signal transduction pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_pamgo_17jul06"
+    ]
+  },
+  "definition": "A process in which a symbiont interferes with, inhibits or disrupts a host signal transduction pathway. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host signal transduction pathway"
+}

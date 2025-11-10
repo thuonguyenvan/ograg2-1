@@ -1,0 +1,52 @@
+{
+  "id": "GO:1990464",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990464",
+  "relationships": {
+    "is_a": [
+      "GO:0016901",
+      "GO:0033719"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-2-hydroxyacid dehydrogenase (quinone) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-2-hydroxy acid dehydrogenase activity",
+      "(R)-2-hydroxy-acid:(acceptor) 2-oxidoreductase activity",
+      "(R)-2-hydroxyacid:quinone oxidoreductase activity",
+      "D-lactate dehydrogenase (quinone) activity",
+      "D-lactate dehydrogenase activity",
+      "D-lactate:quinone oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.5.10",
+      "1.1.5.10",
+      "1.1.5.10",
+      "1.1.5.10",
+      "1.1.5.10"
+    ],
+    "MetaCyc": [
+      "RXN-14931"
+    ],
+    "RHEA": [
+      "11272",
+      "11272"
+    ],
+    "PMID": [
+      "3013300",
+      "4582730"
+    ],
+    "GOC": [
+      "am",
+      "am"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a (2R)-2-hydroxycarboxylate + a quinone = a 2-oxocarboxylate + a quinol.",
+  "namespace": "molecular_function",
+  "label": "(2R)-hydroxyacid dehydrogenase (quinone) activity"
+}

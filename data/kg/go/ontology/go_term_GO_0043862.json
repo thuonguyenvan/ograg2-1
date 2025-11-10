@@ -1,0 +1,34 @@
+{
+  "id": "GO:0043862",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043862",
+  "relationships": {
+    "is_a": [
+      "GO:0015171",
+      "GO:0015297",
+      "GO:0046943"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "arginine-agmatine antiporter activity",
+      "arginine-agmatine exchange transporter activity",
+      "arginine/agmatine antiporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "AdiC"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "17099215"
+    ]
+  },
+  "definition": "Catalysis of the reaction: arginine(out) + agmatine(in) = arginine(in) + agmatine(out).",
+  "namespace": "molecular_function",
+  "label": "arginine:agmatine antiporter activity"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047820",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047820",
+  "relationships": {
+    "is_a": [
+      "GO:0009975",
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-glutamate hydro-lyase (cyclizing)",
+      "D-glutamate hydro-lyase (cyclizing; 5-oxo-D-proline-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.48",
+      "4.2.1.48",
+      "4.2.1.48"
+    ],
+    "KEGG_REACTION": [
+      "R01583"
+    ],
+    "MetaCyc": [
+      "D-GLUTAMATE-CYCLASE-RXN"
+    ],
+    "RHEA": [
+      "22360",
+      "22360"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-glutamate = 5-oxo-D-proline + H2O.",
+  "namespace": "molecular_function",
+  "label": "D-glutamate cyclase activity"
+}

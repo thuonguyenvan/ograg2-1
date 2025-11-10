@@ -1,0 +1,33 @@
+{
+  "id": "GO:0015116",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015116",
+  "relationships": {
+    "is_a": [
+      "GO:1901682"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulphate transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "sulfate permease activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-3560789",
+      "R-HSA-427555",
+      "R-HSA-8875871",
+      "R-HSA-9941470"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of sulfate ions, SO4(2-), from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "SLC26A11 imports SO4(2-) and H+ into cytosol"
+}

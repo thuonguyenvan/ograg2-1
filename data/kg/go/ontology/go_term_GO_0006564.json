@@ -1,0 +1,38 @@
+{
+  "id": "GO:0006564",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006564",
+  "relationships": {
+    "is_a": [
+      "GO:0006563",
+      "GO:0009070",
+      "GO:0170034",
+      "GO:0170038"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-serine anabolism",
+      "L-serine biosynthesis",
+      "L-serine formation",
+      "L-serine synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "SERSYN-PWY"
+    ],
+    "Reactome": [
+      "R-HSA-977347"
+    ],
+    "GOC": [
+      "ai",
+      "jsg"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of L-serine, the L-enantiomer of serine, i.e. (2S)-2-amino-3-hydroxypropanoic acid.",
+  "namespace": "biological_process",
+  "label": "Serine biosynthesis"
+}

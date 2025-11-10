@@ -1,0 +1,31 @@
+{
+  "id": "GO:0031047",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031047",
+  "relationships": {
+    "is_a": [
+      "GO:0010629"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA-dependent gene silencing"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RNA-mediated gene silencing",
+      "gene silencing by RNA"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-211000"
+    ],
+    "PMID": [
+      "15020054"
+    ]
+  },
+  "definition": "A process in which an regulatory non-coding RNA molecule reduces expression of target genes. This can occur pre-transcriptionally by assembly of heterochromatin and prevention of transcription or co- or post-transcriptionally by targeting RNAs for degradation or by interfering with splicing or translation. This process starts once the inhibitory RNA molecule has been transcribed, and includes processing of the RNA such as cleavage, modifications, transport from the nucleus to the cytoplasm, loading onto the RISC complex, and the effect on transcription or translation.",
+  "namespace": "biological_process",
+  "label": "Gene Silencing by RNA"
+}

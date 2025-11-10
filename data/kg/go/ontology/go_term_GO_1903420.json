@@ -1,0 +1,39 @@
+{
+  "id": "GO:1903420",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903420",
+  "relationships": {
+    "is_a": [
+      "GO:0070972"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein localisation in endoplasmic reticulum tubular network",
+      "protein localisation to endoplasmic reticulum tubular network",
+      "protein localization in endoplasmic reticulum tubular network"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "protein localization to tubular ER"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000087"
+    ],
+    "PMID": [
+      "25103238",
+      "25103238"
+    ]
+  },
+  "definition": "A process in which a protein is transported to, or maintained in, a location within an endoplasmic reticulum tubular network.",
+  "namespace": "biological_process",
+  "label": "protein localization to endoplasmic reticulum tubular network"
+}

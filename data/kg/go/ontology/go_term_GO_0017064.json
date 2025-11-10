@@ -1,0 +1,33 @@
+{
+  "id": "GO:0017064",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017064",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "anandamide amidohydrolase activity",
+      "oleamide hydrolase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.99"
+    ],
+    "Reactome": [
+      "R-HSA-5693742",
+      "R-HSA-5693751"
+    ],
+    "PMID": [
+      "15952893"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of a fatty acid amide to yield a fatty acid.",
+  "namespace": "molecular_function",
+  "label": "FAAH2 hydrolyses AEA to AA and ETA"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0042832",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042832",
+  "relationships": {
+    "is_a": [
+      "GO:0001562",
+      "GO:0098542"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "defence response to pathogenic protozoa",
+      "defence response to protozoa",
+      "defence response to protozoon",
+      "defense response to pathogenic protozoa",
+      "defense response to protozoa",
+      "defense response to protozoon"
+    ],
+    "broad": [],
+    "narrow": [
+      "defense response to protozoan, incompatible interaction",
+      "resistance response to pathogenic protozoa",
+      "resistance response to pathogenic protozoan"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Reactions triggered in response to the presence of a protozoan that act to protect the cell or organism.",
+  "namespace": "biological_process",
+  "label": "defense response to protozoan"
+}

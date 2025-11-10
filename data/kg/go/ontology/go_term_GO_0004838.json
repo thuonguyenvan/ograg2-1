@@ -1,0 +1,70 @@
+{
+  "id": "GO:0004838",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004838",
+  "relationships": {
+    "is_a": [
+      "GO:0008793"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-tyrosine:2-oxoglutarate aminotransferase activity"
+    ],
+    "broad": [
+      "L-tyrosine aminotransferase activity",
+      "L-tyrosine transaminase activity",
+      "tyrosine aminotransferase activity",
+      "tyrosine transaminase activity",
+      "tyrosine-2-ketoglutarate aminotransferase activity",
+      "tyrosine-alpha-ketoglutarate aminotransferase activity",
+      "tyrosine-alpha-ketoglutarate transaminase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "L-phenylalanine 2-oxoglutarate aminotransferase activity",
+      "TyrAT activity",
+      "glutamic phenylpyruvic aminotransferase activity",
+      "glutamic-hydroxyphenylpyruvic transaminase activity",
+      "phenylalanine aminotransferase activity",
+      "phenylalanine transaminase activity",
+      "phenylalanine-alpha-ketoglutarate transaminase activity",
+      "phenylpyruvate transaminase activity",
+      "phenylpyruvic acid transaminase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TYROSINE-AMINOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "15093",
+      "15093"
+    ],
+    "Reactome": [
+      "R-HSA-517444",
+      "R-HSA-71155"
+    ],
+    "UM-BBD_reactionID": [
+      "r0297"
+    ],
+    "EC": [
+      "2.6.1.5",
+      "2.6.1.5",
+      "2.6.1.5",
+      "2.6.1.5",
+      "2.6.1.5",
+      "2.6.1.5",
+      "2.6.1.5",
+      "2.6.1.5",
+      "2.6.1.5",
+      "2.6.1.5",
+      "2.6.1.5",
+      "2.6.1.5",
+      "2.6.1.5",
+      "2.6.1.5"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-tyrosine + 2-oxoglutarate = 4-hydroxyphenylpyruvate + L-glutamate.",
+  "namespace": "molecular_function",
+  "label": "TAT deaminates tyrosine"
+}

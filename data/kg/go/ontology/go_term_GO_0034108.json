@@ -1,0 +1,39 @@
+{
+  "id": "GO:0034108",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034108",
+  "relationships": {
+    "is_a": [
+      "GO:0002684",
+      "GO:0034105",
+      "GO:0034106"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of RBC clearance",
+      "positive regulation of red blood cell clearance"
+    ],
+    "broad": [],
+    "narrow": [
+      "positive regulation of neocytolysis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "PMID": [
+      "12905029",
+      "14754397",
+      "14754397"
+    ],
+    "CL": [
+      "0000232",
+      "0000232"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of erythrocyte clearance.",
+  "namespace": "biological_process",
+  "label": "positive regulation of erythrocyte clearance"
+}

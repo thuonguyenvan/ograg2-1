@@ -1,0 +1,45 @@
+{
+  "id": "GO:0034018",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034018",
+  "relationships": {
+    "is_a": [
+      "GO:0016862"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,5-anhydro-D-glycero-hex-3-en-2-ulose delta3-delta1-isomerase activity",
+      "1,5-anhydro-D-glycero-hex-3-en-2-ulose tautomerase activity",
+      "APM tautomerase activity",
+      "APTM",
+      "ascopyrone P tautomerase activity",
+      "ascopyrone intramolecular oxidoreductase activity",
+      "ascopyrone isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.2.7",
+      "5.3.2.7",
+      "5.3.2.7",
+      "5.3.2.7",
+      "5.3.2.7",
+      "5.3.2.7",
+      "5.3.2.7",
+      "5.3.2.7",
+      "5.3.2.7"
+    ],
+    "MetaCyc": [
+      "5.3.3.15-RXN"
+    ],
+    "RHEA": [
+      "22568"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1,5-anhydro-4-deoxy-D-glycero-hex-3-en-2-ulose = 1,5-anhydro-4-deoxy-D-glycero-hex-1-en-3-ulose.",
+  "namespace": "molecular_function",
+  "label": "ascopyrone tautomerase activity"
+}

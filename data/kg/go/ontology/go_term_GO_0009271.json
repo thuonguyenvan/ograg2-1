@@ -1,0 +1,28 @@
+{
+  "id": "GO:0009271",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009271",
+  "relationships": {
+    "is_a": [
+      "GO:0006950"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "jl"
+    ],
+    "PMID": [
+      "15485810",
+      "16045608"
+    ]
+  },
+  "definition": "A response by bacterial cells to a variety of stresses including filamentous phage infection, mislocalization of envelope proteins, extremes of temperature, osmolarity or ethanol concentration, and the presence of proton ionophores such as carbonylcyanide m-chlorophenylhydrazone (CCCP), that involves expression of the phage shock protein operon, and acts to protect the bacterial cells from damage.",
+  "namespace": "biological_process",
+  "label": "phage shock"
+}

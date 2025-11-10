@@ -1,0 +1,28 @@
+{
+  "id": "GO:0061995",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061995",
+  "relationships": {
+    "is_a": [
+      "GO:0140083"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "ATP-dependent protein-nucleic acid complex displacement activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9822115"
+    ],
+    "PMID": [
+      "18593879"
+    ]
+  },
+  "definition": "An activity that displaces proteins or protein complexes from DNA, sometimes in a &apos;wire stripping&apos; fashion, driven by ATP hydrolysis.",
+  "namespace": "molecular_function",
+  "label": "NPM2 dissociates p-S9-PRM1 from HIRA:NPM2:p-S9-PRM1:dsDNA"
+}

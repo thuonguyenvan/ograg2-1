@@ -1,0 +1,40 @@
+{
+  "id": "GO:0004106",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004106",
+  "relationships": {
+    "is_a": [
+      "GO:0016866"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "hydroxyphenylpyruvate synthase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "chorismate pyruvatemutase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.99.5",
+      "5.4.99.5",
+      "5.4.99.5",
+      "5.4.99.5"
+    ],
+    "KEGG_REACTION": [
+      "R01715"
+    ],
+    "MetaCyc": [
+      "CHORISMATEMUT-RXN"
+    ],
+    "RHEA": [
+      "13897",
+      "13897"
+    ]
+  },
+  "definition": "Catalysis of the reaction: chorismate = prephenate.",
+  "namespace": "molecular_function",
+  "label": "chorismate mutase activity"
+}

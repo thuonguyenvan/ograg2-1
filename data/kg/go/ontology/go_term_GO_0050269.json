@@ -1,0 +1,30 @@
+{
+  "id": "GO:0050269",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050269",
+  "relationships": {
+    "is_a": [
+      "GO:0004030"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "coniferyl aldehyde:NAD(P)+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.68",
+      "1.2.1.68",
+      "1.2.1.68"
+    ],
+    "MetaCyc": [
+      "RXN-1241"
+    ]
+  },
+  "definition": "Catalysis of the reaction: coniferyl aldehyde + H2O + NAD(P)+ = ferulate + NAD(P)H + H+.",
+  "namespace": "molecular_function",
+  "label": "coniferyl-aldehyde dehydrogenase [NAD(P)+] activity"
+}

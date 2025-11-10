@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990861",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990861",
+  "relationships": {
+    "is_a": [
+      "GO:1905368"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Ubp3-Bre5 ubiquitin protease complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rb"
+    ],
+    "PMID": [
+      "12778054",
+      "18391941"
+    ]
+  },
+  "definition": "A protein complex that cleaves ubiquitin from specific substrates. In the budding yeast Saccharomyces cerevisiae, this complex consists of Ubp3p and Bre5p.",
+  "namespace": "cellular_component",
+  "label": "Ubp3-Bre5 deubiquitination complex"
+}

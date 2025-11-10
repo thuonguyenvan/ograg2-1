@@ -1,0 +1,32 @@
+{
+  "id": "GO:0060331",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060331",
+  "relationships": {
+    "is_a": [
+      "GO:0045824",
+      "GO:0060330",
+      "GO:0060761"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of response to immune interferon",
+      "negative regulation of response to interferon-gamma"
+    ],
+    "broad": [
+      "negative regulation of response to type II IFN"
+    ],
+    "narrow": [],
+    "related": [
+      "negative regulation of response to gamma-interferon"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph"
+    ]
+  },
+  "definition": "Any process that decreases the rate, frequency or extent of a response to type II interferon (interferon-gamma). Response to interferon gamma is a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an interferon-gamma stimulus.",
+  "namespace": "biological_process",
+  "label": "negative regulation of response to type II interferon"
+}

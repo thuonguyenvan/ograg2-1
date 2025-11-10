@@ -1,0 +1,32 @@
+{
+  "id": "GO:0042998",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042998",
+  "relationships": {
+    "is_a": [
+      "GO:0042996",
+      "GO:0051222",
+      "GO:1903078"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of Golgi to plasma membrane protein transport",
+      "up-regulation of Golgi to plasma membrane protein transport",
+      "upregulation of Golgi to plasma membrane protein transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of Golgi to plasma membrane protein transport",
+      "stimulation of Golgi to plasma membrane protein transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the transport of proteins from the Golgi to the plasma membrane.",
+  "namespace": "biological_process",
+  "label": "positive regulation of Golgi to plasma membrane protein transport"
+}

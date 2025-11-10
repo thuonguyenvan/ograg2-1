@@ -1,0 +1,52 @@
+{
+  "id": "GO:0008942",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008942",
+  "relationships": {
+    "is_a": [
+      "GO:0046857",
+      "GO:0098809"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NAD(P)H2:nitrite oxidoreductase activity",
+      "NAD(P)H:nitrite oxidoreductase activity",
+      "NADH-nitrite oxidoreductase activity",
+      "NADPH-nitrite reductase activity",
+      "ammonium-hydroxide:NAD(P)+ oxidoreductase activity",
+      "assimilatory nitrite reductase activity",
+      "nitrite reductase (reduced nicotinamide adenine dinucleotide (phosphate)) activity",
+      "nitrite reductase [NAD(P)H2]"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.1.4",
+      "1.7.1.4",
+      "1.7.1.4",
+      "1.7.1.4",
+      "1.7.1.4",
+      "1.7.1.4",
+      "1.7.1.4",
+      "1.7.1.4",
+      "1.7.1.4",
+      "1.7.1.4"
+    ],
+    "KEGG_REACTION": [
+      "R00787",
+      "R00789"
+    ],
+    "MetaCyc": [
+      "RXN0-6377"
+    ],
+    "PMID": [
+      "31961593"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NH4+ + 3 NAD(P)+ + 2 H2O = nitrite + 3 NAD(P)H + 5 H+.",
+  "namespace": "molecular_function",
+  "label": "nitrite reductase [NAD(P)H] activity"
+}

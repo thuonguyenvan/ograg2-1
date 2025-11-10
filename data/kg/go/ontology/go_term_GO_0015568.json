@@ -1,0 +1,27 @@
+{
+  "id": "GO:0015568",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015568",
+  "relationships": {
+    "is_a": [
+      "GO:0008028",
+      "GO:0015144",
+      "GO:0042879"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "L-idonate/D-gluconate:hydrogen symporter activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of L-idonate from one side of a membrane to the other. L-idonate is an aldonic acid derived from L-idose, an aldohexose which is epimeric with D-glucose.",
+  "namespace": "molecular_function",
+  "label": "L-idonate transmembrane transporter activity"
+}

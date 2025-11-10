@@ -1,0 +1,28 @@
+{
+  "id": "GO:0044068",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044068",
+  "relationships": {
+    "is_a": [
+      "GO:0044003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "modulation by symbiont of host cellular process",
+      "modulation of host cellular process by symbiont",
+      "regulation by symbiont of host cellular process",
+      "regulation of host cellular process by symbiont"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MITRE": [
+      "tk"
+    ]
+  },
+  "definition": "A process in which a symbiont alters or subverts a cellular biological process in its host organism. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated perturbation of host cellular process"
+}

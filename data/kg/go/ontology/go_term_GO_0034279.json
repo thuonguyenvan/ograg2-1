@@ -1,0 +1,36 @@
+{
+  "id": "GO:0034279",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034279",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "9alpha-copalyl-diphosphate diphosphate-lyase (9beta-pimara-7,15-diene-forming) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.35"
+    ],
+    "KEGG_REACTION": [
+      "R09117",
+      "R09117"
+    ],
+    "MetaCyc": [
+      "RXN-4883"
+    ],
+    "RHEA": [
+      "25560",
+      "25560"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 9-alpha-copalyl diphosphate = 9-beta-pimara-7,15-diene + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "syn-pimara-7,15-diene synthase activity"
+}

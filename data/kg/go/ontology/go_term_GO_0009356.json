@@ -1,0 +1,30 @@
+{
+  "id": "GO:0009356",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009356",
+  "relationships": {
+    "is_a": [
+      "GO:0140535",
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ADC synthase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-amino-4-deoxychorismate synthase complex",
+      "p-aminobenzoate synthetase complex"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "2251281",
+      "7592344"
+    ]
+  },
+  "definition": "A heterodimeric protein complex that possesses 4-amino-4-deoxychorismate synthase activity.",
+  "namespace": "cellular_component",
+  "label": "aminodeoxychorismate synthase complex"
+}

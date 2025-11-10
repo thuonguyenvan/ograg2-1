@@ -1,0 +1,36 @@
+{
+  "id": "GO:0046886",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046886",
+  "relationships": {
+    "is_a": [
+      "GO:0009891",
+      "GO:0032352",
+      "GO:0046885"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of hormone anabolism",
+      "positive regulation of hormone biosynthesis",
+      "positive regulation of hormone formation",
+      "positive regulation of hormone synthesis",
+      "up regulation of hormone biosynthetic process",
+      "up-regulation of hormone biosynthetic process",
+      "upregulation of hormone biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of hormone biosynthetic process",
+      "stimulation of hormone biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of hormones.",
+  "namespace": "biological_process",
+  "label": "positive regulation of hormone biosynthetic process"
+}

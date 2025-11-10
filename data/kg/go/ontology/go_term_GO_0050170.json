@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050170",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050170",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "peptidoglutaminase I activity"
+    ],
+    "related": [
+      "peptideglutaminase activity",
+      "peptidoglutaminase activity",
+      "peptidyl-L-glutamine amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.43",
+      "3.5.1.43",
+      "3.5.1.43",
+      "3.5.1.43",
+      "3.5.1.43",
+      "3.5.1.43"
+    ],
+    "MetaCyc": [
+      "PEPTIDYL-GLUTAMINASE-RXN",
+      "PEPTIDYL-GLUTAMINASE-RXN"
+    ],
+    "RHEA": [
+      "10032"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-N-peptidyl-L-glutamine + H2O = alpha-N-peptidyl-L-glutamate + NH3.",
+  "namespace": "molecular_function",
+  "label": "peptidyl-glutaminase activity"
+}

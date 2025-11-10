@@ -1,0 +1,53 @@
+{
+  "id": "GO:0004733",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004733",
+  "relationships": {
+    "is_a": [
+      "GO:0016641"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PMP oxidase activity",
+      "pyridoxal 5&apos;-phosphate synthase activity",
+      "pyridoxamine 5&apos;-phosphate oxidase activity",
+      "pyridoxamine-5&apos;-phosphate:oxygen oxidoreductase (deaminating)",
+      "pyridoxamine-phosphate oxidase activity",
+      "pyridoxaminephosphate oxidase deaminating",
+      "pyridoxine (pyridoxamine) 5&apos;-phosphate oxidase activity",
+      "pyridoxine (pyridoxamine)phosphate oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.3.5",
+      "1.4.3.5",
+      "1.4.3.5",
+      "1.4.3.5",
+      "1.4.3.5",
+      "1.4.3.5",
+      "1.4.3.5",
+      "1.4.3.5",
+      "1.4.3.5"
+    ],
+    "MetaCyc": [
+      "PMPOXI-RXN"
+    ],
+    "RHEA": [
+      "15817"
+    ],
+    "Reactome": [
+      "R-HSA-965019",
+      "R-HSA-965079"
+    ],
+    "PMID": [
+      "11786019"
+    ]
+  },
+  "definition": "Catalysis of the reaction: pyridoxamine 5&apos;-phosphate + H2O + O2 = pyridoxal 5&apos;-phosphate + NH4+ + hydrogen peroxide. This activity can also oxidize pyridoxine 5&apos;-phosphate to pyridoxal 5&apos;-phosphate + hydrogen peroxide.",
+  "namespace": "molecular_function",
+  "label": "2xPNPO:2xFMN oxidizes PXAP to PXLP"
+}

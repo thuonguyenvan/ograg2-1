@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047158",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047158",
+  "relationships": {
+    "is_a": [
+      "GO:0016753"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-(hydroxycinnamoyl)-glucose:1-(hydroxycinnamoyl)-glucose hydroxycinnamoyltransferase activity",
+      "1-O-(4-hydroxy-3,5-dimethoxycinnamoyl)-beta-D-glucoside:1-O-(4-hydroxy-3,5-dimethoxycinnamoyl-beta-D-glucoside 1-O-sinapoyltransferase activity",
+      "hydroxycinnamoylglucose-hydroxycinnamoylglucose hydroxycinnamoyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.103",
+      "2.3.1.103",
+      "2.3.1.103",
+      "2.3.1.103",
+      "2.3.1.103"
+    ],
+    "KEGG_REACTION": [
+      "R00063"
+    ],
+    "MetaCyc": [
+      "2.3.1.103-RXN"
+    ],
+    "RHEA": [
+      "22664",
+      "22664"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 1-O-sinapoyl-beta-D-glucose = 1,2-di-O-sinapoyl-beta-D-glucose + D-glucose.",
+  "namespace": "molecular_function",
+  "label": "sinapoylglucose-sinapoylglucose O-sinapoyltransferase activity"
+}

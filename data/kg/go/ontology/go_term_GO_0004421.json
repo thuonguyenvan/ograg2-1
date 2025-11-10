@@ -1,0 +1,66 @@
+{
+  "id": "GO:0004421",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004421",
+  "relationships": {
+    "is_a": [
+      "GO:0046912"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(S)-3-hydroxy-3-methylglutaryl-CoA acetoacetyl-CoA-lyase (CoA-acetylating)",
+      "(s)-3-hydroxy-3-methylglutaryl-CoA acetoacetyl-CoA-lyase (CoA- acetylating) activity",
+      "3-hydroxy-3-methylglutaryl CoA synthetase activity",
+      "3-hydroxy-3-methylglutaryl coenzyme A synthase activity",
+      "3-hydroxy-3-methylglutaryl coenzyme A synthetase activity",
+      "3-hydroxy-3-methylglutaryl-CoA synthase activity",
+      "3-hydroxy-3-methylglutaryl-coenzyme A synthase activity",
+      "HMG-CoA synthase activity",
+      "acetoacetyl coenzyme A transacetase activity",
+      "acetyl-CoA:acetoacetyl-CoA C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)",
+      "beta-hydroxy-beta-methylglutaryl-CoA synthase activity",
+      "hydroxymethylglutaryl coenzyme A synthase activity",
+      "hydroxymethylglutaryl coenzyme A-condensing enzyme",
+      "hydroxymethylglutaryl coenzyme alpha-condensing enzyme activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.3.10",
+      "2.3.3.10",
+      "2.3.3.10",
+      "2.3.3.10",
+      "2.3.3.10",
+      "2.3.3.10",
+      "2.3.3.10",
+      "2.3.3.10",
+      "2.3.3.10",
+      "2.3.3.10",
+      "2.3.3.10",
+      "2.3.3.10",
+      "2.3.3.10",
+      "2.3.3.10",
+      "2.3.3.10"
+    ],
+    "KEGG_REACTION": [
+      "R01978"
+    ],
+    "MetaCyc": [
+      "HYDROXYMETHYLGLUTARYL-COA-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "10188",
+      "10188"
+    ],
+    "Reactome": [
+      "R-HSA-191323",
+      "R-HSA-73918"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetoacetyl-CoA + acetyl-CoA + H2O = (S)-3-hydroxy-3-methylglutaryl-CoA + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "acetoacetyl-CoA+acetyl-CoA =&gt; HMG-CoA + CoASH"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:2000052",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000052",
+  "relationships": {
+    "is_a": [
+      "GO:0030177",
+      "GO:2000050"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of beta-catenin-independent Wnt receptor signaling pathway",
+      "positive regulation of non-canonical Wnt receptor signaling pathway",
+      "positive regulation of non-canonical Wnt receptor signalling pathway",
+      "positive regulation of non-canonical Wnt-activated signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "obol",
+      "yaf",
+      "obol",
+      "mah",
+      "signaling"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of non-canonical Wnt-activated signaling pathway.",
+  "namespace": "biological_process",
+  "label": "positive regulation of non-canonical Wnt signaling pathway"
+}

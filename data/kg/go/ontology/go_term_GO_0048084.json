@@ -1,0 +1,33 @@
+{
+  "id": "GO:0048084",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048084",
+  "relationships": {
+    "is_a": [
+      "GO:0045801",
+      "GO:0048081",
+      "GO:0048082"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of adult chitin-containing cuticle pigmentation",
+      "up-regulation of adult chitin-containing cuticle pigmentation",
+      "upregulation of adult chitin-containing cuticle pigmentation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of adult chitin-containing cuticle pigmentation",
+      "stimulation of adult chitin-containing cuticle pigmentation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of establishment of the adult pattern of pigmentation in the cuticle of an organism.",
+  "namespace": "biological_process",
+  "label": "positive regulation of adult chitin-containing cuticle pigmentation"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0071222",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071222",
+  "relationships": {
+    "is_a": [
+      "GO:0032496",
+      "GO:0071219",
+      "GO:0071396",
+      "GO:1901701"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to LPS"
+    ],
+    "broad": [
+      "cellular response to endotoxin"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "sl",
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a lipopolysaccharide stimulus; lipopolysaccharide is a major component of the cell wall of gram-negative bacteria.",
+  "namespace": "biological_process",
+  "label": "cellular response to lipopolysaccharide"
+}

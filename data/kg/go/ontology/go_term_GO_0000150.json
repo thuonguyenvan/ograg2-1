@@ -1,0 +1,33 @@
+{
+  "id": "GO:0000150",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000150",
+  "relationships": {
+    "is_a": [
+      "GO:0140097"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "recombinase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "strand transferase"
+    ],
+    "related": [
+      "RecA-family recombinase activity",
+      "strand exchange activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-912458"
+    ],
+    "GOC": [
+      "elh"
+    ]
+  },
+  "definition": "Catalysis of the identification and base-pairing of homologous sequences between single-stranded DNA and double-stranded DNA.",
+  "namespace": "molecular_function",
+  "label": "Formation of meiotic heteroduplex"
+}

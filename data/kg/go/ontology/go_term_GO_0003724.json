@@ -1,0 +1,44 @@
+{
+  "id": "GO:0003724",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003724",
+  "relationships": {
+    "is_a": [
+      "GO:0004386",
+      "GO:0008186",
+      "GO:0140098"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent RNA helicase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.4.13"
+    ],
+    "MetaCyc": [
+      "RXN-11109"
+    ],
+    "Reactome": [
+      "R-HSA-72647",
+      "R-HSA-9770129",
+      "R-HSA-9770131",
+      "R-HSA-9770141",
+      "R-HSA-9770142",
+      "R-HSA-9770145"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "19158098"
+    ]
+  },
+  "definition": "Unwinding of an RNA helix, driven by ATP hydrolysis.",
+  "namespace": "molecular_function",
+  "label": "Formation of the Spliceosomal Bact complex"
+}

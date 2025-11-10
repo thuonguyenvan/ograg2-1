@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047955",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047955",
+  "relationships": {
+    "is_a": [
+      "GO:0016614"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glycerol:(acceptor) 1-oxidoreductase activity",
+      "glycerol:acceptor 1-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.99.22",
+      "1.1.99.22",
+      "1.1.99.22",
+      "1.1.99.22"
+    ],
+    "KEGG_REACTION": [
+      "R01045"
+    ],
+    "MetaCyc": [
+      "GLYCEROL-DEHYDROGENASE-ACCEPTOR-RXN"
+    ],
+    "RHEA": [
+      "17493",
+      "17493"
+    ]
+  },
+  "definition": "Catalysis of the reaction: A + glycerol = AH(2) + glycerone.",
+  "namespace": "molecular_function",
+  "label": "glycerol dehydrogenase (acceptor) activity"
+}

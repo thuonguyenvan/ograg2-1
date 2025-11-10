@@ -1,0 +1,33 @@
+{
+  "id": "GO:0033812",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033812",
+  "relationships": {
+    "is_a": [
+      "GO:0003988"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "succinyl-CoA:acetyl-CoA C-succinyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.174",
+      "2.3.1.174"
+    ],
+    "MetaCyc": [
+      "RXN-3641"
+    ],
+    "RHEA": [
+      "19481",
+      "19481"
+    ]
+  },
+  "definition": "Catalysis of the reaction: succinyl-CoA + acetyl-CoA = CoA + 3-oxoadipyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "3-oxoadipyl-CoA thiolase activity"
+}

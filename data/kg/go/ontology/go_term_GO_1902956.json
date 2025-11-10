@@ -1,0 +1,36 @@
+{
+  "id": "GO:1902956",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902956",
+  "relationships": {
+    "is_a": [
+      "GO:1903715"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of oxidative phosphorylation, NADH to ubiquinone"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of complex I (NADH to ubiquinone)"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dph",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23530063"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of mitochondrial electron transport, NADH to ubiquinone.",
+  "namespace": "biological_process",
+  "label": "regulation of mitochondrial electron transport, NADH to ubiquinone"
+}

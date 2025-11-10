@@ -1,0 +1,39 @@
+{
+  "id": "GO:0018527",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018527",
+  "relationships": {
+    "is_a": [
+      "GO:0008131"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cyclohexylamine:oxygen oxidoreductase (deaminating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.3.12",
+      "1.4.3.12"
+    ],
+    "MetaCyc": [
+      "CYCLOHEXYLAMINE-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "18433",
+      "18433"
+    ],
+    "UM-BBD_reactionID": [
+      "r0754"
+    ],
+    "PMID": [
+      "18451"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cyclohexylamine + O2 + H2O = cyclohexanone + NH3 + hydrogen peroxide.",
+  "namespace": "molecular_function",
+  "label": "cyclohexylamine oxidase activity"
+}

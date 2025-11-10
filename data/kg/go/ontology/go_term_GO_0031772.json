@@ -1,0 +1,29 @@
+{
+  "id": "GO:0031772",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031772",
+  "relationships": {
+    "is_a": [
+      "GO:0042324"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "OX2 orexin receptor binding",
+      "type 2 hypocretin receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "type 2 hypocretin receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "nln"
+    ]
+  },
+  "definition": "Binding to a type 2 orexin receptor.",
+  "namespace": "molecular_function",
+  "label": "type 2 orexin receptor binding"
+}

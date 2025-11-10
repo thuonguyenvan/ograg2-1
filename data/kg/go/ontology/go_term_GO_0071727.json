@@ -1,0 +1,32 @@
+{
+  "id": "GO:0071727",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071727",
+  "relationships": {
+    "is_a": [
+      "GO:0071221",
+      "GO:0071725"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to triacylated bacterial lipoprotein"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "add"
+    ],
+    "PMID": [
+      "12077222",
+      "12524386",
+      "2757794"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a triacylated bacterial lipopeptide stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to triacyl bacterial lipopeptide"
+}

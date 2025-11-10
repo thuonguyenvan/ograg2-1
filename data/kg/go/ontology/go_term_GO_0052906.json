@@ -1,0 +1,44 @@
+{
+  "id": "GO:0052906",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052906",
+  "relationships": {
+    "is_a": [
+      "GO:0016423"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA (guanine(37)-N(1))-methyltransferase activity",
+      "tRNA (guanosine(37)-N(1))-methyltransferase activity",
+      "tRNA (guanosine(37)-N1-)-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "tRNA (m(1)G(37)) methyltransferase activity",
+      "tRNA-(N(1)G37) methyltransferase activity",
+      "transfer RNA (m(1)G(37)) methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.228",
+      "2.1.1.228",
+      "2.1.1.228",
+      "2.1.1.228",
+      "2.1.1.228"
+    ],
+    "MetaCyc": [
+      "RXN-12458"
+    ],
+    "RHEA": [
+      "36899"
+    ],
+    "Reactome": [
+      "R-HSA-6782859"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + guanine(37) in tRNA = N(1)-methylguanine(37) in tRNA + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "TRMT5 methylates guanosine yielding 1-methylguanosine at nucleotide 37 of tRNA(Phe)"
+}

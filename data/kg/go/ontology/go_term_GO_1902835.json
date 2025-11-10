@@ -1,0 +1,43 @@
+{
+  "id": "GO:1902835",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902835",
+  "relationships": {
+    "is_a": [
+      "GO:0032891",
+      "GO:0034763",
+      "GO:0051956",
+      "GO:1902834"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of proline import into cell",
+      "down-regulation of proline import into cell",
+      "downregulation of proline import into cell",
+      "negative regulation of proline import into cell"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of proline import into cell"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24344203"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of proline import into cell.",
+  "namespace": "biological_process",
+  "label": "negative regulation of proline import across plasma membrane"
+}

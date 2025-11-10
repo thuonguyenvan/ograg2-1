@@ -1,0 +1,31 @@
+{
+  "id": "GO:0030522",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030522",
+  "relationships": {
+    "is_a": [
+      "GO:0035556"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "intracellular receptor mediated signaling pathway",
+      "intracellular receptor-mediated signaling pathway",
+      "intracellular receptor-mediated signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9024446"
+    ],
+    "GOC": [
+      "bf",
+      "mah"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by a ligand binding to a receptor located within a cell.",
+  "namespace": "biological_process",
+  "label": "NR1H2 and NR1H3-mediated signaling"
+}

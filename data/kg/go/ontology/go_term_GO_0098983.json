@@ -1,0 +1,25 @@
+{
+  "id": "GO:0098983",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098983",
+  "relationships": {
+    "is_a": [
+      "GO:0032280",
+      "GO:0060077",
+      "GO:0098982"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dos"
+    ]
+  },
+  "definition": "A neuron to neuron synapse that lacks an electron dense postsynaptic specialization, uses GABA as a neurotransmitter and whose activity results in inhibitory postsynaptic potentials.",
+  "namespace": "cellular_component",
+  "label": "symmetric, GABA-ergic, inhibitory synapse"
+}

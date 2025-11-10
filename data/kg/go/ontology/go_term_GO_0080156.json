@@ -1,0 +1,28 @@
+{
+  "id": "GO:0080156",
+  "uri": "http://purl.obolibrary.org/obo/GO_0080156",
+  "relationships": {
+    "is_a": [
+      "GO:0016556",
+      "GO:1900864"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "mitochondrial RNA editing"
+    ],
+    "narrow": [
+      "mitochondrial mRNA editing"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "20566637"
+    ]
+  },
+  "definition": "The covalent alteration within the mitochondrion of one or more nucleotides within an mRNA to produce an mRNA molecule with a sequence that differs from that coded genetically.",
+  "namespace": "biological_process",
+  "label": "mitochondrial mRNA modification"
+}

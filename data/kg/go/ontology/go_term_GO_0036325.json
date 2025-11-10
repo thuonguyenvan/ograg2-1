@@ -1,0 +1,38 @@
+{
+  "id": "GO:0036325",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036325",
+  "relationships": {
+    "is_a": [
+      "GO:0048010"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FLT4 signaling pathway",
+      "VEGFR-3 signaling pathway",
+      "VEGFR3 signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "uh",
+      "uh"
+    ],
+    "Wikipedia": [
+      "VEGFR3",
+      "VEGF_receptors",
+      "VEGF_receptors",
+      "VEGFR3"
+    ],
+    "PR": [
+      "000007565"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by a ligand binding to a vascular endothelial growth factor receptor-3 (VEGFR-3) on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "vascular endothelial growth factor receptor-3 signaling pathway"
+}

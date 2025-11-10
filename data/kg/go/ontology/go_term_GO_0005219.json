@@ -1,0 +1,31 @@
+{
+  "id": "GO:0005219",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005219",
+  "relationships": {
+    "is_a": [
+      "GO:0048763"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "ryanodine receptor"
+    ],
+    "related": [
+      "caffeine-sensitive calcium-release channel"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "22822064"
+    ]
+  },
+  "definition": "Enables transmembrane transfer of calcium ions from an intracellular store to the cytosol on induction by increased calcium concentration and is sensitive to the plant alkaloid ryanodine.",
+  "namespace": "molecular_function",
+  "label": "ryanodine-sensitive calcium-release channel activity"
+}

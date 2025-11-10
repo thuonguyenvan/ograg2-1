@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047083",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047083",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5-O-(4-coumaroyl)-D-quinate/shikimate 3&apos;-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "coumaroylquinate(coumaroylshikimate) 3&apos;-monooxygenase activity",
+      "trans-5-O-(4-coumaroyl)-D-quinate,NADPH:oxygen oxidoreductase (3&apos;-hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.96",
+      "1.14.14.96",
+      "1.14.14.96",
+      "1.14.14.96"
+    ],
+    "MetaCyc": [
+      "1.14.13.36-RXN",
+      "1.14.13.36-RXN"
+    ],
+    "RHEA": [
+      "16265"
+    ]
+  },
+  "definition": "Catalysis of the reaction: O2 + NADPH + H+ + trans-5-O-(4-coumaroyl)-D-quinate = H2O + NADP+ + trans-5-O-caffeoyl-D-quinate.",
+  "namespace": "molecular_function",
+  "label": "5-O-(4-coumaroyl)-D-quinate 3&apos;-monooxygenase activity"
+}

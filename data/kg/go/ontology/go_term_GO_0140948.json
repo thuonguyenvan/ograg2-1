@@ -1,0 +1,33 @@
+{
+  "id": "GO:0140948",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140948",
+  "relationships": {
+    "is_a": [
+      "GO:0046974"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H3K9 monomethylase activity",
+      "histone lysine N-monomethyltransferase activity (H3-K9 specific)"
+    ],
+    "broad": [
+      "histone H3-K9 methylation",
+      "histone H3K9 methylation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.367"
+    ],
+    "RHEA": [
+      "60280",
+      "60280"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-lysyl9-[histone H3] + S-adenosyl-L-methionine = H+ + N6-methyl-L-lysyl9-[histone H3] + S-adenosyl-L-homocysteine. This reaction is the addition of a methyl group to the unmethylated lysine residue at position 9 of histone H3, producing histone H3K9me.",
+  "namespace": "molecular_function",
+  "label": "histone H3K9 monomethyltransferase activity"
+}

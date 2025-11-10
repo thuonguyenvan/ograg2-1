@@ -1,0 +1,39 @@
+{
+  "id": "GO:0019081",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019081",
+  "relationships": {
+    "is_a": [
+      "GO:0016032"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "viral protein anabolism",
+      "viral protein biosynthesis",
+      "viral protein biosynthetic process",
+      "viral protein formation",
+      "viral protein synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9683701",
+      "R-HSA-9694635",
+      "R-HSA-9727281"
+    ],
+    "GOC": [
+      "bf",
+      "jl"
+    ],
+    "ISBN": [
+      "0781702534",
+      "0781702534"
+    ]
+  },
+  "definition": "A process by which viral mRNA is translated into viral protein, using the host cellular machinery.",
+  "namespace": "biological_process",
+  "label": "Translation of Accessory Proteins"
+}

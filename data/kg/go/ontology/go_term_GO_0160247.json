@@ -1,0 +1,28 @@
+{
+  "id": "GO:0160247",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160247",
+  "relationships": {
+    "is_a": [
+      "GO:0030674"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "autophagy adaptor activity",
+      "selective autophagy receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "23545414",
+      "31585693",
+      "36538890"
+    ]
+  },
+  "definition": "The binding activity of a molecule that brings together a cargo, targeted for degradation via autophagy, to a phagophore.",
+  "namespace": "molecular_function",
+  "label": "autophagy cargo adaptor activity"
+}

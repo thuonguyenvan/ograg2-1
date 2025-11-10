@@ -1,0 +1,34 @@
+{
+  "id": "GO:0045917",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045917",
+  "relationships": {
+    "is_a": [
+      "GO:0002699",
+      "GO:0002922",
+      "GO:0030449"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of complement cascade",
+      "up regulation of complement activation",
+      "up-regulation of complement activation",
+      "upregulation of complement activation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of complement activation",
+      "stimulation of complement activation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of complement activation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of complement activation"
+}

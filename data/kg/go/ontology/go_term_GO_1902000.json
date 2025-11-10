@@ -1,0 +1,35 @@
+{
+  "id": "GO:1902000",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902000",
+  "relationships": {
+    "is_a": [
+      "GO:0019336",
+      "GO:0042537",
+      "GO:0072329"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "homogentisate breakdown",
+      "homogentisate catabolism",
+      "homogentisate degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "22980205"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of homogentisate.",
+  "namespace": "biological_process",
+  "label": "homogentisate catabolic process"
+}

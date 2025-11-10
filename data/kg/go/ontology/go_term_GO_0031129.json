@@ -1,0 +1,25 @@
+{
+  "id": "GO:0031129",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031129",
+  "relationships": {
+    "is_a": [
+      "GO:0031128"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "inductive cell-cell signalling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Signaling at short range between cells of different ancestry and developmental potential that results in one cell or group of cells effecting a developmental change in the other. This is often done by secretion of proteins by one cell which affects the neighboring cells and causes them to adopt a certain fate.",
+  "namespace": "biological_process",
+  "label": "inductive cell-cell signaling"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0033324",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033324",
+  "relationships": {
+    "is_a": [
+      "GO:0042425"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "choline anabolism via N-monomethylethanolamine",
+      "choline biosynthesis via N-monomethylethanolamine",
+      "choline formation via N-monomethylethanolamine",
+      "choline synthesis via N-monomethylethanolamine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-3542",
+      "PWY-3542"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of choline (2-hydroxyethyltrimethylammonium), via the intermediate N-monomethylethanolamine.",
+  "namespace": "biological_process",
+  "label": "choline biosynthetic process via N-monomethylethanolamine"
+}

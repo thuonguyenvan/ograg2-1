@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102381",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102381",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-13517"
+    ],
+    "RHEA": [
+      "61756",
+      "61756"
+    ]
+  },
+  "definition": "Catalysis of the reaction: stevioside + UDP-alpha-D-glucose = H+ + rebaudioside A + UDP.",
+  "namespace": "molecular_function",
+  "label": "stevioside glucosyltransferase activity (rebaudioside A forming)"
+}

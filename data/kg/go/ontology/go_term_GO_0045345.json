@@ -1,0 +1,37 @@
+{
+  "id": "GO:0045345",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045345",
+  "relationships": {
+    "is_a": [
+      "GO:0010557",
+      "GO:0045343"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of MHC class I anabolism",
+      "positive regulation of MHC class I biosynthesis",
+      "positive regulation of MHC class I formation",
+      "positive regulation of MHC class I synthesis",
+      "positive regulation of major histocompatibility complex class I biosynthesis",
+      "positive regulation of major histocompatibility complex class I biosynthetic process",
+      "up regulation of MHC class I biosynthetic process",
+      "up-regulation of MHC class I biosynthetic process",
+      "upregulation of MHC class I biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of MHC class I biosynthetic process",
+      "stimulation of MHC class I biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of MHC class I.",
+  "namespace": "biological_process",
+  "label": "positive regulation of MHC class I biosynthetic process"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0044733",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044733",
+  "relationships": {
+    "is_a": [
+      "GO:0044560"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "envenomation resulting in modulation of ASIC channel activity in other organism",
+      "envenomation resulting in modulation of acid-sensing ion channel activity in another organism",
+      "envenomation resulting in modulation of acid-sensing ion channel activity in other organism",
+      "venom-mediated perturbation of acid-sensing ion channel activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "fj",
+      "jl"
+    ],
+    "PMID": [
+      "23034652"
+    ]
+  },
+  "definition": "A process in which an organism alters or subverts the activity of a pH-gated (also known as acid-sensing ion channel (ASIC)) in another organism via the action of a venom.",
+  "namespace": "biological_process",
+  "label": "venom-mediated perturbation of pH-gated ion channel activity"
+}

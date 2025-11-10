@@ -1,0 +1,66 @@
+{
+  "id": "GO:1904154",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904154",
+  "relationships": {
+    "is_a": [
+      "GO:0070863",
+      "GO:1904152"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of protein dislocation from ER",
+      "positive regulation of protein retrotranslocation from ER",
+      "positive regulation of retrograde protein transport, endoplasmic reticulum to cytosol",
+      "up regulation of protein dislocation from ER",
+      "up regulation of retrograde protein transport, ER to cytosol",
+      "up regulation of retrograde protein transport, endoplasmic reticulum to cytosol",
+      "up-regulation of protein dislocation from ER",
+      "up-regulation of protein retrotranslocation from ER",
+      "up-regulation of retrograde protein transport, ER to cytosol",
+      "up-regulation of retrograde protein transport, endoplasmic reticulum to cytosol",
+      "upregulation of protein dislocation from ER",
+      "upregulation of retrograde protein transport, ER to cytosol",
+      "upregulation of retrograde protein transport, endoplasmic reticulum to cytosol"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein dislocation from ER",
+      "activation of retrograde protein transport, ER to cytosol",
+      "activation of retrograde protein transport, endoplasmic reticulum to cytosol"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "18555783"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of retrograde protein transport, ER to cytosol.",
+  "namespace": "biological_process",
+  "label": "positive regulation of retrograde protein transport, ER to cytosol"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047237",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047237",
+  "relationships": {
+    "is_a": [
+      "GO:0008376"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-acetylgalactosaminyltransferase I activity",
+      "glucuronylgalactosylproteoglycan beta-1,4-N-acetylgalactosaminyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-N-acetyl-D-galactosamine:D-glucuronyl-1,3-beta-D-galactosyl-proteoglycan beta-1,4-N-acetylgalactosaminyltransferase activity",
+      "uridine diphosphoacetylgalactosamine-chondroitin acetylgalactosaminyltransferase I",
+      "uridine diphosphoacetylgalactosamine-chondroitinacetylgalactosaminyltransferase I activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.174",
+      "2.4.1.174",
+      "2.4.1.174",
+      "2.4.1.174",
+      "2.4.1.174"
+    ],
+    "MetaCyc": [
+      "2.4.1.174-RXN",
+      "2.4.1.174-RXN"
+    ],
+    "RHEA": [
+      "23464"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-glucuronyl-1,3-beta-D-galactosylproteoglycan + UDP-N-acetylgalactosamine = N-acetyl-D-galactosaminyl-1,4-beta-D-glucuronyl-1,3-beta-D-galactosylproteoglycan + UDP.",
+  "namespace": "molecular_function",
+  "label": "glucuronylgalactosylproteoglycan 4-beta-N-acetylgalactosaminyltransferase activity"
+}

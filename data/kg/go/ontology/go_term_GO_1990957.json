@@ -1,0 +1,32 @@
+{
+  "id": "GO:1990957",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990957",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NPHP module"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia"
+    ],
+    "PMID": [
+      "18337471",
+      "21422230",
+      "21498478",
+      "21555462",
+      "25150219"
+    ]
+  },
+  "definition": "A protein complex that is located at the ciliary transition zone and consists of the NPHP4 and NPHP1 proteins. It acts as an organiser of the transition zone inner structure, specifically the Y-shaped links, in conjunction with the MKS complex. It is involved in ciliary protein trafficking and is required for correct functioning of the WNT and Hippo signaling pathways.",
+  "namespace": "cellular_component",
+  "label": "NPHP complex"
+}

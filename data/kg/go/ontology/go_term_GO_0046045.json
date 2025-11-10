@@ -1,0 +1,29 @@
+{
+  "id": "GO:0046045",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046045",
+  "relationships": {
+    "is_a": [
+      "GO:0009175",
+      "GO:0009222",
+      "GO:0046044"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TMP breakdown",
+      "TMP catabolism",
+      "TMP degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of TMP, ribosylthymine monophosphate.",
+  "namespace": "biological_process",
+  "label": "TMP catabolic process"
+}

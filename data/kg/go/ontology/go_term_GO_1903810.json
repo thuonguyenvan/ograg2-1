@@ -1,0 +1,35 @@
+{
+  "id": "GO:1903810",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903810",
+  "relationships": {
+    "is_a": [
+      "GO:0089709",
+      "GO:0089718"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-histidine import into cell"
+    ],
+    "broad": [
+      "L-histidine import",
+      "histidine import"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000075"
+    ],
+    "PMID": [
+      "23895341"
+    ]
+  },
+  "definition": "The directed movement of L-histidine from outside of a cell, across the plasma membrane and into the cytosol.",
+  "namespace": "biological_process",
+  "label": "L-histidine import across plasma membrane"
+}

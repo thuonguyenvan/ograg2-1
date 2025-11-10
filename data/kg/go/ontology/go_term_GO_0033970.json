@@ -1,0 +1,39 @@
+{
+  "id": "GO:0033970",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033970",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-oxo-3-ureidopropanoate amidohydrolase (urea- and malonate-forming) activity",
+      "ureidomalonase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.95",
+      "3.5.1.95",
+      "3.5.1.95",
+      "3.5.1.95"
+    ],
+    "KEGG_REACTION": [
+      "R07629"
+    ],
+    "MetaCyc": [
+      "3.5.1.95-RXN"
+    ],
+    "RHEA": [
+      "17361",
+      "17361"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-oxo-3-ureidopropanoate + H2O = H+ + malonate + urea.",
+  "namespace": "molecular_function",
+  "label": "N-malonylurea hydrolase activity"
+}

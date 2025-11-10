@@ -1,0 +1,36 @@
+{
+  "id": "GO:0034760",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034760",
+  "relationships": {
+    "is_a": [
+      "GO:0034757",
+      "GO:0034759",
+      "GO:1904063"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of transmembrane iron ion transport",
+      "down-regulation of transmembrane iron ion transport",
+      "downregulation of transmembrane iron ion transport",
+      "negative regulation of iron ion membrane transport",
+      "negative regulation of transmembrane iron ion transport",
+      "negative regulation of transmembrane iron transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of transmembrane iron ion transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the directed movement of iron ions from one side of a membrane to the other by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "negative regulation of iron ion transmembrane transport"
+}

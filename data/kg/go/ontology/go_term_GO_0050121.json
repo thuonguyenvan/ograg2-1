@@ -1,0 +1,45 @@
+{
+  "id": "GO:0050121",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050121",
+  "relationships": {
+    "is_a": [
+      "GO:0016857"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GlcNAc 2-epimerase activity",
+      "N-acetyl-D-glucosamine 2-epimerase activity",
+      "N-acetylglucosamine 2-epimerase activity",
+      "N-acyl-D-glucosamine 2-epimerase activity",
+      "acylglucosamine 2-epimerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.3.8",
+      "5.1.3.8",
+      "5.1.3.8",
+      "5.1.3.8",
+      "5.1.3.8",
+      "5.1.3.8",
+      "5.1.3.8"
+    ],
+    "MetaCyc": [
+      "N-ACYLGLUCOSAMINE-2-EPIMERASE-RXN",
+      "N-ACYLGLUCOSAMINE-2-EPIMERASE-RXN"
+    ],
+    "RHEA": [
+      "19033"
+    ],
+    "Reactome": [
+      "R-HSA-6803761"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acyl-D-glucosamine = N-acyl-D-mannosamine.",
+  "namespace": "molecular_function",
+  "label": "RENBP isomerises ManNAc, ManNGc to GlcNAc, GlcNGc"
+}

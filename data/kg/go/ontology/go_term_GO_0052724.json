@@ -1,0 +1,27 @@
+{
+  "id": "GO:0052724",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052724",
+  "relationships": {
+    "is_a": [
+      "GO:0000828"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-10971",
+      "RXN-10971"
+    ],
+    "PMID": [
+      "18981179"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + 1D-myo-inositol hexakisphosphate = ADP + 3-diphospho-1D-myo-inositol (1,2,4,5,6)pentakisphosphate.",
+  "namespace": "molecular_function",
+  "label": "inositol hexakisphosphate 3-kinase activity"
+}

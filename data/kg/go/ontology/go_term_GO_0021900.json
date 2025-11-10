@@ -1,0 +1,32 @@
+{
+  "id": "GO:0021900",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021900",
+  "relationships": {
+    "is_a": [
+      "GO:0021898"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "16226447"
+    ]
+  },
+  "definition": "The commitment of neuroblast to become a basal progenitor cell. Basal progenitor cells are neuronal precursor cells that are committed to becoming neurons.",
+  "namespace": "biological_process",
+  "label": "ventricular zone cell fate commitment"
+}

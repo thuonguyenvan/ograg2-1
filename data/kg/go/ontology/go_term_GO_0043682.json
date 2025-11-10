@@ -1,0 +1,50 @@
+{
+  "id": "GO:0043682",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043682",
+  "relationships": {
+    "is_a": [
+      "GO:0005375",
+      "GO:0015662",
+      "GO:0019829"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "copper exporting ATPase activity",
+      "copper transmembrane transporter activity, phosphorylative mechanism",
+      "copper-translocating P-type ATPase activity",
+      "copper-transporting ATPase activity"
+    ],
+    "narrow": [
+      "copper-exporting ATPase activity"
+    ],
+    "related": [
+      "Cu(2+)-exporting ATPase activity",
+      "Cu2+-exporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.2.2.9",
+      "7.2.2.9",
+      "7.2.2.9"
+    ],
+    "MetaCyc": [
+      "TRANS-RXN-178"
+    ],
+    "RHEA": [
+      "10376",
+      "10376"
+    ],
+    "Reactome": [
+      "R-HSA-3697838",
+      "R-HSA-6803545",
+      "R-HSA-936802",
+      "R-HSA-936895"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + Cu2+(in) = ADP + phosphate + Cu2+(out).",
+  "namespace": "molecular_function",
+  "label": "ATP7B transports cytosolic Cu2+ to Golgi lumen"
+}

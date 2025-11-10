@@ -1,0 +1,39 @@
+{
+  "id": "GO:1901769",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901769",
+  "relationships": {
+    "is_a": [
+      "GO:0030654"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "carbapenem anabolism",
+      "carbapenem biosynthesis",
+      "carbapenem formation",
+      "carbapenem synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "9402024"
+    ],
+    "UniPathway": [
+      "UPA00182"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of carbapenem.",
+  "namespace": "biological_process",
+  "label": "carbapenem biosynthetic process"
+}

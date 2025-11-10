@@ -1,0 +1,52 @@
+{
+  "id": "GO:0018576",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018576",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,2-pyrocatechase activity",
+      "CD I",
+      "CD II",
+      "catechase activity",
+      "catechol 1,2-oxygenase activity",
+      "catechol-oxygen 1,2-oxidoreductase activity",
+      "catechol:oxygen 1,2-oxidoreductase activity",
+      "pyrocatechase activity",
+      "pyrocatechol 1,2-dioxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.1",
+      "1.13.11.1",
+      "1.13.11.1",
+      "1.13.11.1",
+      "1.13.11.1",
+      "1.13.11.1",
+      "1.13.11.1",
+      "1.13.11.1",
+      "1.13.11.1",
+      "1.13.11.1"
+    ],
+    "MetaCyc": [
+      "CATECHOL-12-DIOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "23852",
+      "23852"
+    ],
+    "UM-BBD_enzymeID": [
+      "r0601"
+    ]
+  },
+  "definition": "Catalysis of the reaction: catechol + O2 = cis,cis-muconate.",
+  "namespace": "molecular_function",
+  "label": "catechol 1,2-dioxygenase activity"
+}

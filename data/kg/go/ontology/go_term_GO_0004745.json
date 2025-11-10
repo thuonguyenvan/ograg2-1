@@ -1,0 +1,52 @@
+{
+  "id": "GO:0004745",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004745",
+  "relationships": {
+    "is_a": [
+      "GO:0004022"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "all-trans retinol dehydrogenase activity",
+      "retinal reductase activity",
+      "retinene reductase activity",
+      "retinol (vitamin A1) dehydrogenase activity",
+      "retinol dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.105",
+      "1.1.1.105",
+      "1.1.1.105",
+      "1.1.1.105"
+    ],
+    "MetaCyc": [
+      "RETINOL-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "48488",
+      "48488"
+    ],
+    "Reactome": [
+      "R-HSA-2454081",
+      "R-HSA-2466832",
+      "R-HSA-5362518",
+      "R-HSA-5362564",
+      "R-HSA-5362721"
+    ],
+    "GOC": [
+      "ecd"
+    ],
+    "PMID": [
+      "12036956"
+    ]
+  },
+  "definition": "Catalysis of the reaction: all-trans-retinol--[retinol-binding protein] + NAD+ = all-trans-retinal--[retinol-binding protein] + H+ + NADH. Recognizes the substrate both in free form and when bound to cellular-retinol-binding-protein (CRBP1), but has higher affinity for the bound form.",
+  "namespace": "molecular_function",
+  "label": "RDH5,RDH11 oxidise 11cROL to 11cRAL"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0005537",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005537",
+  "relationships": {
+    "is_a": [
+      "GO:0048029"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "mannose binding"
+    ],
+    "narrow": [],
+    "related": [
+      "mannose binding lectin"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-947991"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0192800981"
+    ]
+  },
+  "definition": "Binding to mannose, a monosaccharide hexose, stereoisomeric with glucose, that occurs naturally only in polymerized forms called mannans.",
+  "namespace": "molecular_function",
+  "label": "Transport of glycoproteins with Man8 (or Man9) N-glycans to the Golgi"
+}

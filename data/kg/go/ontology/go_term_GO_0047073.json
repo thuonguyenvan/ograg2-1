@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047073",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047073",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(4-hydroxybenzoyl)methanol oxygenase activity",
+      "2,4&apos;-dihydroxyacetophenone oxidoreductase (C-C-bond-cleaving)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.41",
+      "1.13.11.41",
+      "1.13.11.41",
+      "1.13.11.41"
+    ],
+    "KEGG_REACTION": [
+      "R01305"
+    ],
+    "MetaCyc": [
+      "1.13.11.41-RXN"
+    ],
+    "RHEA": [
+      "24416",
+      "24416"
+    ],
+    "UM-BBD_reactionID": [
+      "r1410"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,4&apos;-dihydroxyacetophenone + O2 = 4-hydroxybenzoate + formate + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "2,4&apos;-dihydroxyacetophenone dioxygenase activity"
+}

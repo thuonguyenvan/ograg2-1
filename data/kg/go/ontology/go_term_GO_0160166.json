@@ -1,0 +1,28 @@
+{
+  "id": "GO:0160166",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160166",
+  "relationships": {
+    "is_a": [
+      "GO:0016624"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "69576",
+      "69576"
+    ],
+    "PMID": [
+      "29191460",
+      "32695416"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxoadipate + H+ + N(6)-[(R)-lipoyl]-L-lysyl-[dihydrolipoyllysine-residue succinyltransferase] = CO2 + N(6)-[(R)-S(8)-glutaryldihydrolipoyl]-L-lysyl-[dihydrolipoyllysine-residue succinyltransferase].",
+  "namespace": "molecular_function",
+  "label": "2-oxoadipate dehydrogenase activity"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GO:0008831",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008831",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "TDP-4-keto-rhamnose reductase activity",
+      "dTDP-4-keto-L-rhamnose reductase activity",
+      "dTDP-4-ketorhamnose reductase activity",
+      "dTDP-6-deoxy-L-mannose dehydrogenase activity",
+      "dTDP-6-deoxy-L-mannose:NADP+ 4-oxidoreductase activity",
+      "reductase, thymidine diphospho-4-ketorhamnose",
+      "thymidine diphospho-4-ketorhamnose reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.133",
+      "1.1.1.133",
+      "1.1.1.133",
+      "1.1.1.133",
+      "1.1.1.133",
+      "1.1.1.133",
+      "1.1.1.133",
+      "1.1.1.133",
+      "1.1.1.133"
+    ],
+    "KEGG_REACTION": [
+      "R02777"
+    ],
+    "MetaCyc": [
+      "DTDPDEHYRHAMREDUCT-RXN"
+    ],
+    "RHEA": [
+      "21796",
+      "21796"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dTDP-6-deoxy-L-mannose + NADP+ = dTDP-4-dehydro-6-deoxy-L-mannose + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "dTDP-4-dehydrorhamnose reductase activity"
+}

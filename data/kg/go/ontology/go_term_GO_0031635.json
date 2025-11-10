@@ -1,0 +1,36 @@
+{
+  "id": "GO:0031635",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031635",
+  "relationships": {
+    "is_a": [
+      "GO:0007193",
+      "GO:0038003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "opioid receptor, adenylate cyclase inhibiting pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "inhibition of adenylate cyclase activity by opioid receptor signaling pathway",
+      "inhibition of adenylate cyclase activity by opioid receptor signalling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mah",
+      "signaling",
+      "tb",
+      "dph",
+      "tb",
+      "signaling",
+      "mah"
+    ]
+  },
+  "definition": "An adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway initiated by an opioid binding to its receptor, and ending with the regulation of a downstream cellular process.",
+  "namespace": "biological_process",
+  "label": "adenylate cyclase-inhibiting opioid receptor signaling pathway"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0034586",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034586",
+  "relationships": {
+    "is_a": [
+      "GO:0006401",
+      "GO:0034585"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "21U-RNA breakdown",
+      "21U-RNA catabolism",
+      "21U-RNA degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "kmv"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of 21U-RNAs, a class of single-stranded RNA molecules of about 21 nucleotides in length characterized by a uridine 5&apos;-monophosphate and a modified 3&apos; end resistant to periodate degradation. 21U-RNAs are derived from distinct, autonomously expressed loci within the genome.",
+  "namespace": "biological_process",
+  "label": "21U-RNA catabolic process"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0033980",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033980",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-phosphonopyruvate carboxy-lyase (2-phosphonoacetaldehyde-forming) activity",
+      "3-phosphonopyruvate carboxy-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.82",
+      "4.1.1.82",
+      "4.1.1.82",
+      "4.1.1.82"
+    ],
+    "KEGG_REACTION": [
+      "R04053"
+    ],
+    "MetaCyc": [
+      "4.1.1.82-RXN"
+    ],
+    "RHEA": [
+      "20768",
+      "20768"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-phosphonopyruvate + 2 H+ = CO2 + phosphonoacetaldehyde.",
+  "namespace": "molecular_function",
+  "label": "phosphonopyruvate decarboxylase activity"
+}

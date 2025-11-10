@@ -1,0 +1,28 @@
+{
+  "id": "GO:0061688",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061688",
+  "relationships": {
+    "is_a": [
+      "GO:0006096"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "gluconate pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph"
+    ],
+    "PMID": [
+      "9657988"
+    ]
+  },
+  "definition": "A glycolytic process in which the glucose is catabolized to pyruvate by first entering the Entner-Doudoroff pathway to yield pyruvate and glyceraldehyde-3-phosphate. The glyceraldehyde-3-phosphate is subsequently converted to pyruvate by the core glycolytic enzymes.",
+  "namespace": "biological_process",
+  "label": "glycolytic process via Entner-Doudoroff Pathway"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0016818",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016818",
+  "relationships": {
+    "is_a": [
+      "GO:0016817"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.-"
+    ],
+    "Reactome": [
+      "R-HSA-9731590",
+      "R-HSA-9731613",
+      "R-HSA-9731632"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of any acid anhydride which contains phosphorus.",
+  "namespace": "molecular_function",
+  "label": "NUDT1 hydrolyzes N6-methyl-ATP to N6-methyl-AMP"
+}

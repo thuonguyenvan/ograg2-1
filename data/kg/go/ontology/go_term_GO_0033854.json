@@ -1,0 +1,44 @@
+{
+  "id": "GO:0033854",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033854",
+  "relationships": {
+    "is_a": [
+      "GO:0008483"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "prephenate transaminase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "L-arogenate:2-oxoglutarate aminotransferase activity",
+      "L-glutamate:prephenate aminotransferase activity",
+      "PAT"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.79",
+      "2.6.1.79",
+      "2.6.1.79",
+      "2.6.1.79",
+      "2.6.1.79",
+      "2.6.1.79"
+    ],
+    "KEGG_REACTION": [
+      "R07276"
+    ],
+    "MetaCyc": [
+      "PREPHENATE-TRANSAMINE-RXN"
+    ],
+    "RHEA": [
+      "22880",
+      "22880"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxoglutarate + L-arogenate = L-glutamate + prephenate.",
+  "namespace": "molecular_function",
+  "label": "glutamate-prephenate aminotransferase activity"
+}

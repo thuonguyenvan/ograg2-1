@@ -1,0 +1,70 @@
+{
+  "id": "GO:0141152",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141152",
+  "relationships": {
+    "is_a": [
+      "GO:0047952"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NAD-L-glycerol-3-phosphate dehydrogenase activity",
+      "NAD-alpha-glycerophosphate dehydrogenase activity",
+      "NAD-dependent glycerol phosphate dehydrogenase activity",
+      "NAD-dependent glycerol-3-phosphate dehydrogenase activity",
+      "NAD-linked glycerol 3-phosphate dehydrogenase activity",
+      "NADH-dihydroxyacetone phosphate reductase activity",
+      "alpha-glycerol phosphate dehydrogenase (NAD) activity",
+      "alpha-glycerophosphate dehydrogenase (NAD) activity",
+      "glycerol phosphate dehydrogenase (NAD) activity",
+      "glycerol-3-phosphate dehydrogenase (NAD) activity",
+      "glycerol-3-phosphate dehydrogenase [NAD+] activity",
+      "glycerophosphate dehydrogenase (NAD) activity"
+    ],
+    "broad": [
+      "L-alpha-glycerol phosphate dehydrogenase activity",
+      "L-alpha-glycerophosphate dehydrogenase activity",
+      "L-glycerol phosphate dehydrogenase activity",
+      "L-glycerophosphate dehydrogenase activity",
+      "glycerol 1-phosphate dehydrogenase activity",
+      "hydroglycerophosphate dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.8",
+      "1.1.1.8",
+      "1.1.1.8",
+      "1.1.1.8",
+      "1.1.1.8",
+      "1.1.1.8",
+      "1.1.1.8",
+      "1.1.1.8",
+      "1.1.1.8",
+      "1.1.1.8",
+      "1.1.1.8",
+      "1.1.1.8",
+      "1.1.1.8",
+      "1.1.1.8",
+      "1.1.1.8",
+      "1.1.1.8",
+      "1.1.1.8",
+      "1.1.1.8"
+    ],
+    "KEGG_REACTION": [
+      "R00842"
+    ],
+    "MetaCyc": [
+      "1.1.1.8-RXN"
+    ],
+    "RHEA": [
+      "11092",
+      "11092"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD+ + sn-glycerol 3-phosphate = dihydroxyacetone phosphate + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "glycerol-3-phosphate dehydrogenase (NAD+) activity"
+}

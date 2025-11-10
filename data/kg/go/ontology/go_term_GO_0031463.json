@@ -1,0 +1,32 @@
+{
+  "id": "GO:0031463",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031463",
+  "relationships": {
+    "is_a": [
+      "GO:0031461"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "BC3B complex",
+      "BCR3 complex",
+      "CDL3 complex",
+      "CRL3 complex",
+      "cullin-RING ligase 3"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "SCF3 complex"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "15571813",
+      "15688063"
+    ]
+  },
+  "definition": "A ubiquitin ligase complex in which a cullin from the Cul3 subfamily and a RING domain protein form the catalytic core; substrate specificity is conferred by a BTB-domain-containing protein.",
+  "namespace": "cellular_component",
+  "label": "Cul3-RING ubiquitin ligase complex"
+}

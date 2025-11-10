@@ -1,0 +1,36 @@
+{
+  "id": "GO:1990737",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990737",
+  "relationships": {
+    "is_a": [
+      "GO:0034976",
+      "GO:0062197",
+      "GO:0071287"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "manganese-induced ER stress response",
+      "response to Mn-induced ER stress",
+      "response to manganese-induced ER stress"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "23934647",
+      "23934647"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of endoplasmic reticulum stress caused by a manganese stimulus.",
+  "namespace": "biological_process",
+  "label": "response to manganese-induced endoplasmic reticulum stress"
+}

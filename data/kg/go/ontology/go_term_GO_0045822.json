@@ -1,0 +1,32 @@
+{
+  "id": "GO:0045822",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045822",
+  "relationships": {
+    "is_a": [
+      "GO:0008016",
+      "GO:1903523"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of heart contraction",
+      "down-regulation of heart contraction",
+      "downregulation of heart contraction"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of heart contraction"
+    ],
+    "related": [
+      "negative regulation of cardiac contraction"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of heart contraction.",
+  "namespace": "biological_process",
+  "label": "negative regulation of heart contraction"
+}

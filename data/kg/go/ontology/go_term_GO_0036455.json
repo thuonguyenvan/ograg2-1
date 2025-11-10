@@ -1,0 +1,30 @@
+{
+  "id": "GO:0036455",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036455",
+  "relationships": {
+    "is_a": [
+      "GO:0016782"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Fe-S transferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2564828",
+      "R-HSA-8878815"
+    ],
+    "GOC": [
+      "bhm",
+      "bf"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a iron-sulfur cluster from one compound (donor) to another (acceptor).",
+  "namespace": "molecular_function",
+  "label": "Formation of 4Fe-4S cluster on ISCA1:ISCA2"
+}

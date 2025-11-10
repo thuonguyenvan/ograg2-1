@@ -1,0 +1,31 @@
+{
+  "id": "GO:1990490",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990490",
+  "relationships": {
+    "is_a": [
+      "GO:0016469",
+      "GO:1904949"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "A-type ATPase protein complex",
+      "archaeal A-type ATPase protein complex"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators"
+    ],
+    "PMID": [
+      "15473999",
+      "24650628"
+    ]
+  },
+  "definition": "A large proton-transporting two-sector ATPase protein complex that catalyzes the synthesis or hydrolysis of ATP by a rotational mechanism, coupled to the transport of protons across a membrane and is found in Archaea.",
+  "namespace": "cellular_component",
+  "label": "archaeal proton-transporting A-type ATPase complex"
+}

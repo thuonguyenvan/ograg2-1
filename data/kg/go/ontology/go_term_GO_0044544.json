@@ -1,0 +1,27 @@
+{
+  "id": "GO:0044544",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044544",
+  "relationships": {
+    "is_a": [
+      "GO:0044484"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "envenomation resulting in plasminogen activation in another organism",
+      "envenomation resulting in plasminogen activation in other organism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "fj",
+      "jl"
+    ]
+  },
+  "definition": "A process in which an organism initiates, promotes, or enhances the activation of plasminogen into plasmin in another organism via the action of a venom. This process includes cleavage at an internal Arg-Val site to form an N-terminal A-chain and C-terminal B-chain held together by a disulfide bond, and can include further proteolytic cleavage events to remove the preactivation peptide.",
+  "namespace": "biological_process",
+  "label": "venom-mediated plasminogen activation"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "GO:0004834",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004834",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-serine hydro-lyase (adding indoleglycerol-phosphate)",
+      "L-serine hydro-lyase [adding 1-C-(indol-3-yl)glycerol 3-phosphate; L-tryptophan and glyceraldehyde-3-phosphate-forming]",
+      "L-tryptophan synthetase activity",
+      "indoleglycerol phosphate aldolase activity",
+      "tryptophan desmolase activity",
+      "tryptophan synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.20",
+      "4.2.1.20",
+      "4.2.1.20",
+      "4.2.1.20",
+      "4.2.1.20",
+      "4.2.1.20",
+      "4.2.1.20"
+    ],
+    "KEGG_REACTION": [
+      "R02722"
+    ],
+    "MetaCyc": [
+      "TRYPSYN-RXN"
+    ],
+    "RHEA": [
+      "10532",
+      "10532"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-serine + (1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate = L-tryptophan + glyceraldehyde 3-phosphate + H2O.",
+  "namespace": "molecular_function",
+  "label": "tryptophan synthase activity"
+}

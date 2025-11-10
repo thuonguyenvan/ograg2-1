@@ -1,0 +1,39 @@
+{
+  "id": "GO:0045439",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045439",
+  "relationships": {
+    "is_a": [
+      "GO:0016855"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "isopenicillin N epimerase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "penicillin-N 5-amino-5-carboxypentanoyl-epimerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.1.17",
+      "5.1.1.17",
+      "5.1.1.17"
+    ],
+    "KEGG_REACTION": [
+      "R04147"
+    ],
+    "MetaCyc": [
+      "5.1.1.17-RXN"
+    ],
+    "RHEA": [
+      "20033",
+      "20033"
+    ]
+  },
+  "definition": "Catalysis of the reaction: isopenicillin N = penicillin N.",
+  "namespace": "molecular_function",
+  "label": "isopenicillin-N epimerase activity"
+}

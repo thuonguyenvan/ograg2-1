@@ -1,0 +1,26 @@
+{
+  "id": "GO:0008490",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008490",
+  "relationships": {
+    "is_a": [
+      "GO:0015105",
+      "GO:0015291"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "arsenite porter activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Enables the transfer of arsenite from one side of a membrane to the other, up its concentration gradient. The transporter binds the solute and undergoes a series of conformational changes. Transport works equally well in either direction and is driven by a chemiosmotic source of energy. Secondary active transporters include symporters and antiporters.",
+  "namespace": "molecular_function",
+  "label": "arsenite secondary active transmembrane transporter activity"
+}

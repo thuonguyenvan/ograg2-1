@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140788",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140788",
+  "relationships": {
+    "is_a": [
+      "GO:0005313",
+      "GO:0022810"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "glutamate uniporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "27133463",
+      "29642010"
+    ]
+  },
+  "definition": "Catalysis of the active transport of a L-glutamate across a membrane by a mechanism involving conformational change, where energy for active transport is derived from membrane potential if the solute is charged.",
+  "namespace": "molecular_function",
+  "label": "L-glutamate uniporter activity"
+}

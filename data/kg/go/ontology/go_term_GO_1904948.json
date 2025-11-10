@@ -1,0 +1,42 @@
+{
+  "id": "GO:1904948",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904948",
+  "relationships": {
+    "is_a": [
+      "GO:0021953",
+      "GO:0071542"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DA neurogenesis from midbrain floor plate",
+      "mDA neuron differentiation",
+      "midbrain DA neurogenesis",
+      "midbrain dopaminergic neuron production"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf"
+    ],
+    "GO_REF": [
+      "0000086"
+    ],
+    "PMID": [
+      "17331494",
+      "19122665",
+      "19122665",
+      "24287202",
+      "19122665",
+      "19122665"
+    ]
+  },
+  "definition": "The process in which a relatively unspecialized cell acquires the specialized features of a midbrain dopaminergic neuron.",
+  "namespace": "biological_process",
+  "label": "midbrain dopaminergic neuron differentiation"
+}

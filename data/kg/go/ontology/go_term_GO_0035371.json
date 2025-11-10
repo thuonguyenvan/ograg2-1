@@ -1,0 +1,31 @@
+{
+  "id": "GO:0035371",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035371",
+  "relationships": {
+    "is_a": [
+      "GO:1990752"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "growing microtubule plus end",
+      "microtubule plus end"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "lb"
+    ],
+    "PMID": [
+      "12700769",
+      "16643273"
+    ]
+  },
+  "definition": "The growing (plus) end of a microtubule. In vitro, microtubules polymerize more quickly at the plus end than at the minus end. In vivo, microtubule growth occurs only at the plus end, and the plus end switches between periods of growth and shortening, a behavior known as dynamic instability.",
+  "namespace": "cellular_component",
+  "label": "microtubule plus-end"
+}

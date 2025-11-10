@@ -1,0 +1,32 @@
+{
+  "id": "GO:0017025",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017025",
+  "relationships": {
+    "is_a": [
+      "GO:0140296"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "TATA-binding protein binding",
+      "TBP binding",
+      "TBP-related factor (TRF) protein binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "txnOH"
+    ],
+    "PMID": [
+      "1509519",
+      "16858867"
+    ]
+  },
+  "definition": "Binding to a member of the class of TATA-binding proteins (TBP), including any of the TBP-related factors (TRFs).",
+  "namespace": "molecular_function",
+  "label": "TBP-class protein binding"
+}

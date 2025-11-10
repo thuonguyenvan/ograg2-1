@@ -1,0 +1,28 @@
+{
+  "id": "GO:0033029",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033029",
+  "relationships": {
+    "is_a": [
+      "GO:0002682",
+      "GO:0033032",
+      "GO:2000106"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "regulation of neutrophil apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mtg_apoptosis"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate, or extent of neutrophil apoptotic process.",
+  "namespace": "biological_process",
+  "label": "regulation of neutrophil apoptotic process"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050480",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050480",
+  "relationships": {
+    "is_a": [
+      "GO:0016812"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-(5-oxo-4,5-dihydro-3H-imidazol-4-yl)propanoate amidohydrolase activity",
+      "4(5)-imidazolone-5(4)-propionic acid hydrolase activity",
+      "imidazolone propionic acid hydrolase activity",
+      "imidazolone-5-propionate hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.2.7",
+      "3.5.2.7",
+      "3.5.2.7",
+      "3.5.2.7",
+      "3.5.2.7",
+      "3.5.2.7"
+    ],
+    "KEGG_REACTION": [
+      "R02288"
+    ],
+    "MetaCyc": [
+      "IMIDAZOLONEPROPIONASE-RXN"
+    ],
+    "RHEA": [
+      "23660",
+      "23660"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-3-(4-oxo-4,5-dihydro-1H-imidazol-5-yl)propanoic acid + H2O = N-formimidoyl-L-glutamate + H+.",
+  "namespace": "molecular_function",
+  "label": "imidazolonepropionase activity"
+}

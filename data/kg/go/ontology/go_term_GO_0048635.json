@@ -1,0 +1,31 @@
+{
+  "id": "GO:0048635",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048635",
+  "relationships": {
+    "is_a": [
+      "GO:0048634",
+      "GO:0051093",
+      "GO:0051241"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of muscle development",
+      "down-regulation of muscle development",
+      "downregulation of muscle development"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of muscle development"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of muscle development.",
+  "namespace": "biological_process",
+  "label": "negative regulation of muscle organ development"
+}

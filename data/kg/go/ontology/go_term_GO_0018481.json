@@ -1,0 +1,40 @@
+{
+  "id": "GO:0018481",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018481",
+  "relationships": {
+    "is_a": [
+      "GO:0016620"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-hydroxymuconic-semialdehyde:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.61",
+      "1.2.1.61",
+      "1.2.1.61"
+    ],
+    "KEGG_REACTION": [
+      "R05236"
+    ],
+    "MetaCyc": [
+      "1.2.1.61-RXN"
+    ],
+    "RHEA": [
+      "22420",
+      "22420"
+    ],
+    "UM-BBD_reactionID": [
+      "r0229"
+    ]
+  },
+  "definition": "Catalysis of the reaction: &lt;stereo&gt;cis,trans&lt;/stereo&gt;-4-hydroxymuconate semialdehyde + H2O + NAD+ = 2 H+ + maleylacetate + NADH.",
+  "namespace": "molecular_function",
+  "label": "4-hydroxymuconic-semialdehyde dehydrogenase activity"
+}

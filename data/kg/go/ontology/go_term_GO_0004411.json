@@ -1,0 +1,57 @@
+{
+  "id": "GO:0004411",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004411",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "homogentisate dioxygenase activity",
+      "homogentisate oxidase activity",
+      "homogentisate oxygenase activity",
+      "homogentisate:oxygen 1,2-oxidoreductase (decyclizing)",
+      "homogentisic acid oxidase activity",
+      "homogentisic acid oxygenase activity",
+      "homogentisic oxygenase activity",
+      "homogentisicase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.5",
+      "1.13.11.5",
+      "1.13.11.5",
+      "1.13.11.5",
+      "1.13.11.5",
+      "1.13.11.5",
+      "1.13.11.5",
+      "1.13.11.5",
+      "1.13.11.5",
+      "1.13.11.5"
+    ],
+    "KEGG_REACTION": [
+      "R02519"
+    ],
+    "MetaCyc": [
+      "HOMOGENTISATE-12-DIOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "15449",
+      "15449"
+    ],
+    "Reactome": [
+      "R-HSA-71164"
+    ],
+    "UM-BBD_reactionID": [
+      "r0105"
+    ]
+  },
+  "definition": "Catalysis of the reaction: homogentisate + O2 = 4-maleylacetoacetate + H+.",
+  "namespace": "molecular_function",
+  "label": "HGD dioxygenates homogentisate"
+}

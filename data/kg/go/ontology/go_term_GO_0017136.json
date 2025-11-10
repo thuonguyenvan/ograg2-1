@@ -1,0 +1,34 @@
+{
+  "id": "GO:0017136",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017136",
+  "relationships": {
+    "is_a": [
+      "GO:0004407",
+      "GO:0034979"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NAD-dependent histone deacetylase activity",
+      "NAD-dependent histone lysine deacetylase activity"
+    ],
+    "broad": [
+      "histone deacetylase activity"
+    ],
+    "narrow": [
+      "sirtuin"
+    ],
+    "related": [
+      "SIR2"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "24691964",
+      "28450737"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(6)-acetyl-L-lysyl-[histone] + NAD+ + H2O = L-lysyl-[protein] + 2&apos;&apos;-O-acetyl-ADP-D-ribose + nicotinamide. This reaction transfers an acetyl group from a histone to NAD, producing nicotinamide.",
+  "namespace": "molecular_function",
+  "label": "histone deacetylase activity, NAD-dependent"
+}

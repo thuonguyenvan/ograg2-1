@@ -1,0 +1,36 @@
+{
+  "id": "GO:0033209",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033209",
+  "relationships": {
+    "is_a": [
+      "GO:0019221"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tumor necrosis factor-mediated signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "TNF-alpha-mediated signaling pathway",
+      "tumor necrosis factor alpha-mediated signaling pathway"
+    ],
+    "related": [
+      "adipocytokine signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5668541",
+      "R-HSA-75893"
+    ],
+    "GOC": [
+      "mah",
+      "signaling",
+      "mah"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by tumor necrosis factor binding to its receptor on the surface of a cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "TNF signaling"
+}

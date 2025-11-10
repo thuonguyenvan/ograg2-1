@@ -1,0 +1,31 @@
+{
+  "id": "GO:2001061",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001061",
+  "relationships": {
+    "is_a": [
+      "GO:0090407",
+      "GO:1901137",
+      "GO:2001060"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-glycero-D-manno-heptose 7-phosphate biosynthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "UniPathway": [
+      "UPA00041"
+    ],
+    "GOC": [
+      "mengo_curators",
+      "obol"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of a D-glycero-D-manno-heptose 7-phosphate.",
+  "namespace": "biological_process",
+  "label": "D-glycero-D-manno-heptose 7-phosphate biosynthetic process"
+}

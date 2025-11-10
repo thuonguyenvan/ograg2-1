@@ -1,0 +1,36 @@
+{
+  "id": "GO:0050389",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050389",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-glucurono-6,2-lactone lactonohydrolase activity",
+      "glucuronolactonase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.19",
+      "3.1.1.19",
+      "3.1.1.19",
+      "3.1.1.19"
+    ],
+    "MetaCyc": [
+      "URONOLACTONASE-RXN",
+      "URONOLACTONASE-RXN"
+    ],
+    "RHEA": [
+      "13337"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-glucurono-6,2-lactone + H2O = D-glucuronate.",
+  "namespace": "molecular_function",
+  "label": "uronolactonase activity"
+}

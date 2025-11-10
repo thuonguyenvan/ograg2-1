@@ -1,0 +1,25 @@
+{
+  "id": "GO:0140676",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140676",
+  "relationships": {
+    "is_a": [
+      "GO:0007267"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cAMP relay"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "18657484"
+    ]
+  },
+  "definition": "Fluctuation in the extracellular cAMP levels due to the alternate activation of adenylate cyclase, which produces cAMP, and phosphodiesterase, which degrades it. Occurs in Dictyostelium during early sorocarp development. Oscillation in signaling result is directional chemotaxis of cells towards the center of the aggregate.",
+  "namespace": "biological_process",
+  "label": "oscillatory cAMP signaling"
+}

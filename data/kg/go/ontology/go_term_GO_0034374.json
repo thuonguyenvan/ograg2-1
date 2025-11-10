@@ -1,0 +1,38 @@
+{
+  "id": "GO:0034374",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034374",
+  "relationships": {
+    "is_a": [
+      "GO:0034369"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LDL remodeling",
+      "LDL remodelling",
+      "low-density lipoprotein particle remodelling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "small dense LDL formation",
+      "small dense low-density lipoprotein particle formation"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8964041"
+    ],
+    "GOC": [
+      "BHF",
+      "expert_pt",
+      "mah",
+      "rl",
+      "BHF",
+      "BHF"
+    ]
+  },
+  "definition": "The acquisition, loss or modification of a protein or lipid within a low-density lipoprotein particle, including the hydrolysis of triglyceride by hepatic lipase, with the subsequent loss of free fatty acid, and the transfer of cholesterol esters from LDL to a triglyceride-rich lipoprotein particle by cholesteryl ester transfer protein (CETP), with the simultaneous transfer of triglyceride to LDL.",
+  "namespace": "biological_process",
+  "label": "LDL remodeling"
+}

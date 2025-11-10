@@ -1,0 +1,37 @@
+{
+  "id": "GO:0033837",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033837",
+  "relationships": {
+    "is_a": [
+      "GO:0046527"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3&apos;GT",
+      "UDP-glucose:anthocyanin 3&apos;-O-beta-D-glucosyltransferase activity",
+      "UDP-glucose:anthocyanin 3&apos;-O-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.238",
+      "2.4.1.238",
+      "2.4.1.238",
+      "2.4.1.238",
+      "2.4.1.238"
+    ],
+    "MetaCyc": [
+      "RXN-8231"
+    ],
+    "RHEA": [
+      "35627"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-glucose + an anthocyanin = UDP + an anthocyanin 3&apos;-O-beta-D-glucoside.",
+  "namespace": "molecular_function",
+  "label": "anthocyanin 3&apos;-O-beta-glucosyltransferase activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0008713",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008713",
+  "relationships": {
+    "is_a": [
+      "GO:0008920"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ADP-heptose:LPS heptosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.99.24"
+    ],
+    "MetaCyc": [
+      "RXN-22477",
+      "LIPA-CORESYN-PWY"
+    ],
+    "RHEA": [
+      "74071",
+      "74071"
+    ]
+  },
+  "definition": "Catalysis of the reaction: heptosyl-KDO2-lipid A + ADP-L-glycero-beta-D-manno-heptose = heptosyl2-KDO2-lipid A + ADP + H+.",
+  "namespace": "molecular_function",
+  "label": "ADP-heptose-lipopolysaccharide heptosyltransferase activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0044071",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044071",
+  "relationships": {
+    "is_a": [
+      "GO:0044068"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "modification by symbiont of host cell cycle",
+      "modulation by symbiont of host cell cycle",
+      "modulation of host cell cycle by symbiont",
+      "perturbation of host cell cycle progression",
+      "regulation by symbiont of host cell cycle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "1636"
+    ],
+    "MITRE": [
+      "tk"
+    ]
+  },
+  "definition": "A process in which a symbiont interferes with the normal progression through the host cell cycle. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated perturbation of host cell cycle progression"
+}

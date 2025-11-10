@@ -1,0 +1,46 @@
+{
+  "id": "GO:0008704",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008704",
+  "relationships": {
+    "is_a": [
+      "GO:0016863"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5-carboxymethyl-2-hydroxymuconate D-isomerase activity",
+      "HHDD isomerase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-hydroxyhepta-2,4-diene-1,7-dioate isomerase",
+      "5-carboxymethyl-2-hydroxymuconate delta2,Delta4-2-oxo,Delta3-isomerase activity",
+      "5-carboxymethyl-2-hydroxymuconic acid isomerase activity",
+      "CHM isomerase activity",
+      "hpaG-1",
+      "hpaG1"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.3.10",
+      "5.3.3.10",
+      "5.3.3.10",
+      "5.3.3.10",
+      "5.3.3.10"
+    ],
+    "MetaCyc": [
+      "5.3.3.10-RXN"
+    ],
+    "RHEA": [
+      "18813"
+    ],
+    "UM-BBD_reactionID": [
+      "r0366"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-carboxymethyl-2-hydroxymuconate = 5-carboxy-2-oxohept-3-enedioate.",
+  "namespace": "molecular_function",
+  "label": "5-carboxymethyl-2-hydroxymuconate delta-isomerase activity"
+}

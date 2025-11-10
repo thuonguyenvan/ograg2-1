@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015628",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015628",
+  "relationships": {
+    "is_a": [
+      "GO:0009306",
+      "GO:0098776"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein secretion by the T2S",
+      "protein secretion by the T2SS",
+      "protein secretion by the type II protein secretion system",
+      "type II protein secretion system"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "protein secretion by the general secretion pathway",
+      "protein secretion by the general secretory pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "pamgo_curators"
+    ]
+  },
+  "definition": "The process in which proteins are secreted across the outer membrane of Gram-negative bacteria by the type II secretion system. Proteins using this pathway are first translocated across the cytoplasmic membrane via the Sec or Tat pathways.",
+  "namespace": "biological_process",
+  "label": "protein secretion by the type II secretion system"
+}

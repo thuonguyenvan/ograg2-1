@@ -1,0 +1,40 @@
+{
+  "id": "GO:0052034",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052034",
+  "relationships": {
+    "is_a": [
+      "GO:0140403"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "negative regulation by organism of pathogen-associated molecular pattern-induced innate immune response of other organism involved in symbiotic interaction",
+      "suppression by symbiont of microbe-associated molecular pattern-induced host innate immune response"
+    ],
+    "narrow": [],
+    "related": [
+      "down regulation by symbiont of pathogen-associated molecular pattern-induced host innate immunity",
+      "down-regulation by symbiont of pathogen-associated molecular pattern-induced host innate immunity",
+      "downregulation by symbiont of pathogen-associated molecular pattern-induced host innate immunity",
+      "inhibition by symbiont of pathogen-associated molecular pattern-induced host innate immunity",
+      "negative regulation by symbiont of microbe-associated molecular pattern-induced host innate immune response",
+      "negative regulation by symbiont of microbe-associated molecular pattern-induced host innate immunity",
+      "suppression of MAMP induced host innate immunity",
+      "suppression of MAMP-induced host innate immunity",
+      "suppression of PAMP induced host innate immunity",
+      "suppression of PAMP-induced host innate immunity",
+      "suppression of general elicitor induced host innate immunity",
+      "suppression of general elicitor-induced host innate immunity",
+      "suppression of pathogen-associated molecular pattern-induced host innate immunity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A process mediated by a molecule secreted by a symbiont that results in the suppression of the innate immune response of the host organism via recognition of a microbe-associated molecular pattern. The innate immune response is the host&apos;s first line of defense against infection. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "effector-mediated suppression of host pattern-triggered immunity"
+}

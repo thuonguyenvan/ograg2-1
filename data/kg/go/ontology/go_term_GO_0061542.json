@@ -1,0 +1,44 @@
+{
+  "id": "GO:0061542",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061542",
+  "relationships": {
+    "is_a": [
+      "GO:0008171",
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-demethylubiquinol-n 3-O-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "2-octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone methyltransferase",
+      "5-demethylubiquinone-10 methyltransferase",
+      "5-demethylubiquinone-9 methyltransferase"
+    ],
+    "related": [
+      "OMHMB-methyltransferase",
+      "S-adenosyl-L-methionine:2-octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone-O-methyltransferase"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.64"
+    ],
+    "RHEA": [
+      "44380",
+      "44380"
+    ],
+    "Reactome": [
+      "R-HSA-2162186"
+    ],
+    "PMID": [
+      "10777520",
+      "23190198"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 3-demethylubiquinol + S-adenosyl-L-methionine = a ubiquinol + S-adenosyl-L-homocysteine + H+.",
+  "namespace": "molecular_function",
+  "label": "COQ3 methylates DeMQ10H2"
+}

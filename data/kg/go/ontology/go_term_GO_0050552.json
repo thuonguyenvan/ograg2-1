@@ -1,0 +1,42 @@
+{
+  "id": "GO:0050552",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050552",
+  "relationships": {
+    "is_a": [
+      "GO:0010333"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(-)-(4S)-limonene synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4S-(-)-limonene synthase activity",
+      "geranyl-diphosphate diphosphate-lyase [cyclizing, (-)-(4S)-limonene-forming]",
+      "geranyldiphosphate diphosphate lyase (limonene forming)",
+      "geranyldiphosphate diphosphate lyase [cyclizing, (4S)-limonene-forming]"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.16",
+      "4.2.3.16",
+      "4.2.3.16",
+      "4.2.3.16",
+      "4.2.3.16",
+      "4.2.3.16"
+    ],
+    "MetaCyc": [
+      "4.2.3.16-RXN",
+      "4.2.3.16-RXN"
+    ],
+    "RHEA": [
+      "12869"
+    ]
+  },
+  "definition": "Catalysis of the reaction: geranyl diphosphate = (4S)-limonene + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "(4S)-limonene synthase activity"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:1904447",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904447",
+  "relationships": {
+    "is_a": [
+      "GO:0098739",
+      "GO:0098838"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "folate import into cell"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "folic acid import across plasma membrane"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "hal",
+      "hal"
+    ],
+    "GO_REF": [
+      "0000075"
+    ],
+    "PMID": [
+      "19762432"
+    ]
+  },
+  "definition": "The directed movement of folic acid from outside of a cell, across the plasma membrane and into the cytosol.",
+  "namespace": "biological_process",
+  "label": "folate import across plasma membrane"
+}

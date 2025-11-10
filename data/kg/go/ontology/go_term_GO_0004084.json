@@ -1,0 +1,45 @@
+{
+  "id": "GO:0004084",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004084",
+  "relationships": {
+    "is_a": [
+      "GO:0008483"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "branched-chain amino acid aminotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-branched chain amino acid aminotransferase activity",
+      "branched-chain amino acid-glutamate transaminase activity",
+      "branched-chain aminotransferase activity",
+      "branched-chain-amino-acid:2-oxoglutarate aminotransferase activity",
+      "glutamate-branched-chain amino acid transaminase activity",
+      "transaminase B activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.42",
+      "2.6.1.42",
+      "2.6.1.42",
+      "2.6.1.42",
+      "2.6.1.42",
+      "2.6.1.42",
+      "2.6.1.42",
+      "2.6.1.42"
+    ],
+    "Reactome": [
+      "R-HSA-508179",
+      "R-HSA-508189",
+      "R-HSA-70723",
+      "R-HSA-70724"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a branched-chain amino acid (L-leucine, L-isoleucine and L-valine) + 2-oxoglutarate = L-glutamate + a 2-oxocarboxylate derived from the branched-chain amino acid.",
+  "namespace": "molecular_function",
+  "label": "leu, ile, or val + alpha-ketoglutarate &lt;=&gt; a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate [BCAT2]"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:0030340",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030340",
+  "relationships": {
+    "is_a": [
+      "GO:0016837"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "hyaluronidase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "glucuronoglycosaminoglycan lyase activity",
+      "hyaluronidase [but cf. EC:3.2.1.35 (hyalurononglucosaminidase) and EC:3.2.1.36 (hyaluronoglucuronidase)]",
+      "mucinase activity",
+      "spreading factor activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.2.1",
+      "4.2.2.1",
+      "4.2.2.1",
+      "4.2.2.1",
+      "4.2.2.1",
+      "4.2.2.1",
+      "4.2.2.1"
+    ],
+    "MetaCyc": [
+      "HYALURONATE-LYASE-RXN"
+    ],
+    "RHEA": [
+      "50240"
+    ]
+  },
+  "definition": "Catalysis of the reaction: hyaluronate = n 3-(4-deoxy-beta-D-gluc-4-enuronosyl)-N-acetyl-D-glucosamine.",
+  "namespace": "molecular_function",
+  "label": "hyaluronate lyase activity"
+}

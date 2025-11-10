@@ -1,0 +1,33 @@
+{
+  "id": "GO:0008995",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008995",
+  "relationships": {
+    "is_a": [
+      "GO:0016891"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ribonuclease G activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.26.12",
+      "3.1.26.12"
+    ],
+    "MetaCyc": [
+      "3.1.26.12-RXN"
+    ],
+    "PMID": [
+      "10722715",
+      "16854990"
+    ]
+  },
+  "definition": "Catalysis of the cleavage of single-stranded RNA that is monophosphorylated at its 5&apos;-end; cleavage occurs predominantly at 5 nucleotides from the 5&apos;-end and in A + U-rich regions, and is blocked by the presence of a 5&apos;-triphosphate group.",
+  "namespace": "molecular_function",
+  "label": "ribonuclease E activity"
+}

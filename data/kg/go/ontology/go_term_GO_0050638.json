@@ -1,0 +1,49 @@
+{
+  "id": "GO:0050638",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050638",
+  "relationships": {
+    "is_a": [
+      "GO:0016413"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "taxadien-5a-ol O-acetyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetyl coenzyme A: taxa-4(20),11(12)-dien-5alpha-ol O-acetyl transferase activity",
+      "acetyl coenzyme A:taxa-4(20),11(12)-dien-5-alpha-ol O-acetyl transferase activity",
+      "acetyl-CoA:taxa-4(20),11-dien-5alpha-ol O-acetyltransferase activity",
+      "taxa-4(20),11(12)-dien-5alpha-ol-O-acetyltransferase activity",
+      "taxadien-5alpha-ol O-acetyltransferase activity",
+      "taxadienol acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.162",
+      "2.3.1.162",
+      "2.3.1.162",
+      "2.3.1.162",
+      "2.3.1.162",
+      "2.3.1.162",
+      "2.3.1.162",
+      "2.3.1.162"
+    ],
+    "KEGG_REACTION": [
+      "R06307"
+    ],
+    "MetaCyc": [
+      "2.3.1.162-RXN"
+    ],
+    "RHEA": [
+      "22028",
+      "22028"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + taxa-4(20),11-dien-5alpha-ol = CoA + taxa-4(20),11-dien-5alpha-yl acetate.",
+  "namespace": "molecular_function",
+  "label": "taxadien-5-alpha-ol O-acetyltransferase activity"
+}

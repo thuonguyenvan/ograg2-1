@@ -1,0 +1,31 @@
+{
+  "id": "GO:0045881",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045881",
+  "relationships": {
+    "is_a": [
+      "GO:0042173",
+      "GO:0043938"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of sporulation",
+      "up-regulation of sporulation",
+      "upregulation of sporulation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of sporulation",
+      "stimulation of sporulation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of sporulation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of sporulation resulting in formation of a cellular spore"
+}

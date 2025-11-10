@@ -1,0 +1,34 @@
+{
+  "id": "GO:0047701",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047701",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "b-L-arabinosidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "beta-L-arabinoside arabinohydrolase activity",
+      "vicianosidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.88",
+      "3.2.1.88",
+      "3.2.1.88",
+      "3.2.1.88"
+    ],
+    "MetaCyc": [
+      "BETA-L-ARABINOSIDASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + a beta-L-arabinoside = L-arabinose + an alcohol.",
+  "namespace": "molecular_function",
+  "label": "beta-L-arabinosidase activity"
+}

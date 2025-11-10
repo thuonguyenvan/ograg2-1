@@ -1,0 +1,65 @@
+{
+  "id": "GO:0003844",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003844",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1,4-alpha-D-glucan:1,4-alpha-D-glucan 6-alpha-D-(1,4-alpha-D-glucano)-transferase activity",
+      "1,4-glucan-6-(1,4-glucano)-transferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Q-enzyme",
+      "alpha-1,4-glucan:alpha-1,4-glucan-6-glycosyltransferase activity",
+      "alpha-glucan-branching glycosyltransferase activity",
+      "amylo-(1,4 to 1,6)transglucosidase activity",
+      "amylo-(1,4-&gt;1,6)-transglycosylase activity",
+      "amylose isomerase activity",
+      "branching enzyme activity",
+      "branching glycosyltransferase activity",
+      "enzymatic branching factor",
+      "enzyme Q",
+      "glucosan transglycosylase activity",
+      "glycogen branching enzyme activity",
+      "plant branching enzyme",
+      "starch branching enzyme"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.18",
+      "2.4.1.18",
+      "2.4.1.18",
+      "2.4.1.18",
+      "2.4.1.18",
+      "2.4.1.18",
+      "2.4.1.18",
+      "2.4.1.18",
+      "2.4.1.18",
+      "2.4.1.18",
+      "2.4.1.18",
+      "2.4.1.18",
+      "2.4.1.18",
+      "2.4.1.18",
+      "2.4.1.18",
+      "2.4.1.18"
+    ],
+    "MetaCyc": [
+      "GLYCOGEN-BRANCH-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-3322005",
+      "R-HSA-3322016",
+      "R-HSA-3322057",
+      "R-HSA-3878762"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a segment of a (1-&gt;4)-alpha-D-glucan chain to a primary hydroxyl group in a similar glucan chain.",
+  "namespace": "molecular_function",
+  "label": "Defective GBE1 does not catalyze branch formation in growing glycogen chains (liver)"
+}

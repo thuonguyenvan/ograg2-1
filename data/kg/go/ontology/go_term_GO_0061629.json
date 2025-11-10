@@ -1,0 +1,31 @@
+{
+  "id": "GO:0061629",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061629",
+  "relationships": {
+    "is_a": [
+      "GO:0140297"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA polymerase II sequence-specific DNA binding transcription factor binding",
+      "RNA polymerase II sequence-specific DNA-binding transcription factor binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RNA polymerase II activating transcription factor binding",
+      "RNA polymerase II repressing transcription factor binding",
+      "RNA polymerase II transcription factor binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "vw"
+    ]
+  },
+  "definition": "Binding to a sequence-specific DNA binding RNA polymerase II transcription factor, any of the factors that interact selectively and non-covalently with a specific DNA sequence in order to modulate transcription.",
+  "namespace": "molecular_function",
+  "label": "RNA polymerase II-specific DNA-binding transcription factor binding"
+}

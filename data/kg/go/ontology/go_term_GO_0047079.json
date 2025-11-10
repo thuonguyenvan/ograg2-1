@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047079",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047079",
+  "relationships": {
+    "is_a": [
+      "GO:0016706"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "pyrimidine-deoxynucleoside 1&apos;-dioxygenase activity",
+      "pyrimidine-deoxynucleoside,2-oxoglutarate 1&apos;-dioxygenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "2&apos;-deoxyuridine,2-oxoglutarate:oxygen oxidoreductase (1&apos;-hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.11.10",
+      "1.14.11.10",
+      "1.14.11.10",
+      "1.14.11.10",
+      "1.14.11.10"
+    ],
+    "KEGG_REACTION": [
+      "R02486"
+    ],
+    "MetaCyc": [
+      "1.14.11.10-RXN"
+    ],
+    "RHEA": [
+      "23316",
+      "23316"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2&apos;-deoxyuridine + 2-oxoglutarate + O2 = 2-deoxy-D-ribono-1,4-lactone + CO2 + succinate + uracil.",
+  "namespace": "molecular_function",
+  "label": "deoxyuridine 1&apos;-dioxygenase activity"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:0042565",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042565",
+  "relationships": {
+    "is_a": [
+      "GO:0031074"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "9323123"
+    ]
+  },
+  "definition": "A complex which usually consists of three components, e.g. in Xenopus and yeast, the export receptor CRM1 (also known as exportin 1), the Ran protein and any RNA with a nuclear export sequence (NES). The complex acts to export RNA molecules with a NES from the nucleus through a nuclear pore.",
+  "namespace": "cellular_component",
+  "label": "RNA nuclear export complex"
+}

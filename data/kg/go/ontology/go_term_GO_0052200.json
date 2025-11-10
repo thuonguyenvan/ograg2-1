@@ -1,0 +1,29 @@
+{
+  "id": "GO:0052200",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052200",
+  "relationships": {
+    "is_a": [
+      "GO:0075136"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to host defenses"
+    ],
+    "broad": [],
+    "narrow": [
+      "maintenance of symbiont tolerance to host defense molecules",
+      "response of symbiont to host defense molecules",
+      "response to host defense molecules"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_pamgo_17jul06"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of detecting the defenses of the host organism. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated response to host defenses"
+}

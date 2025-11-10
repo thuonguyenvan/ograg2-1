@@ -1,0 +1,26 @@
+{
+  "id": "GO:0102369",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102369",
+  "relationships": {
+    "is_a": [
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-13491"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 11alpha,30-dihydroxy-beta-amyrin + NADPH + O2 + H+ = 30-hydroxy-11-oxo-beta-amyrin + NADP + 2 H2O.",
+  "namespace": "molecular_function",
+  "label": "11alpha-30-dihydroxy beta-amyrin dehydrogenase activity"
+}

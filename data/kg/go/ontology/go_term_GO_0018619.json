@@ -1,0 +1,44 @@
+{
+  "id": "GO:0018619",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018619",
+  "relationships": {
+    "is_a": [
+      "GO:0016708"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "benzene dioxygenase activity",
+      "benzene hydroxylase activity",
+      "benzene,NADH:oxygen oxidoreductase (1,2-hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.12.3",
+      "1.14.12.3",
+      "1.14.12.3",
+      "1.14.12.3",
+      "1.14.12.3"
+    ],
+    "KEGG_REACTION": [
+      "R03543"
+    ],
+    "MetaCyc": [
+      "BENZENE-12-DIOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "13813",
+      "13813"
+    ],
+    "UM-BBD_reactionID": [
+      "r0079"
+    ]
+  },
+  "definition": "Catalysis of the reaction: benzene + H+ + NADH + O2 = cis-cyclohexa-3,5-diene-1,2-diol + NAD+.",
+  "namespace": "molecular_function",
+  "label": "benzene 1,2-dioxygenase activity"
+}

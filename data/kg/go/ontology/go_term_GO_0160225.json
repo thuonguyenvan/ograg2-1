@@ -1,0 +1,28 @@
+{
+  "id": "GO:0160225",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160225",
+  "relationships": {
+    "is_a": [
+      "GO:0140640"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G-quadruplex resolving activity",
+      "G4 unwinding activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "1324186",
+      "26883636",
+      "34113828"
+    ]
+  },
+  "definition": "Unwinding G-quadruplex structures in nucleic acids. A G-quadruplex is a specialized structure formed in DNA/RNA when sequences rich in guanine (G) assemble into a unique four-stranded arrangement.",
+  "namespace": "molecular_function",
+  "label": "G-quadruplex unwinding activity"
+}

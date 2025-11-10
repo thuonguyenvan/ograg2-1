@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047369",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047369",
+  "relationships": {
+    "is_a": [
+      "GO:0008410"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dicarboxyl-CoA:dicarboxylic acid coenzyme A transferase activity",
+      "hydroxymethylglutarate coenzyme A-transferase activity",
+      "succinate:(S)-3-hydroxy-3-methylglutarate CoA-transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.3.13",
+      "2.8.3.13",
+      "2.8.3.13",
+      "2.8.3.13",
+      "2.8.3.13"
+    ],
+    "MetaCyc": [
+      "2.8.3.13-RXN",
+      "2.8.3.13-RXN"
+    ],
+    "RHEA": [
+      "12284"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-3-hydroxy-3-methylglutarate + succinyl-CoA = 3-hydroxy-3-methyl-glutaryl-CoA + succinate.",
+  "namespace": "molecular_function",
+  "label": "succinate-hydroxymethylglutarate CoA-transferase activity"
+}

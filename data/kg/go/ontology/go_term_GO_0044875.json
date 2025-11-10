@@ -1,0 +1,38 @@
+{
+  "id": "GO:0044875",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044875",
+  "relationships": {
+    "is_a": [
+      "GO:0004497",
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "gamma-glutamyl hercynylcysteine S-oxide synthase",
+      "gamma-glutamyl hercynylcysteine sulfoxide synthase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.99.50"
+    ],
+    "RHEA": [
+      "42672",
+      "42672"
+    ],
+    "GOC": [
+      "jl",
+      "dph"
+    ],
+    "PMID": [
+      "24828577"
+    ]
+  },
+  "definition": "Catalysis of the reaction: gamma-glutamyl cysteine + hercynine + O2 = gamma-glutamyl-hercynyl cysteine sulfoxide + H2O.",
+  "namespace": "molecular_function",
+  "label": "gamma-glutamyl hercynylcysteine sulfoxide synthase activity"
+}

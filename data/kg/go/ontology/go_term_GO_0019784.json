@@ -1,0 +1,34 @@
+{
+  "id": "GO:0019784",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019784",
+  "relationships": {
+    "is_a": [
+      "GO:0019783"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NEDD8-specific protease activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5690808",
+      "R-HSA-8863723",
+      "R-HSA-8956040",
+      "R-HSA-8956045"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "25628956"
+    ]
+  },
+  "definition": "An isopeptidase activity that cleaves NEDD8 from a target protein to which it is conjugated.",
+  "namespace": "molecular_function",
+  "label": "COP9 signalosome deneddylates nuclear CRL4 E3 ubiquitin ligase complex"
+}

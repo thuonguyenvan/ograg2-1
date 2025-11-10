@@ -1,0 +1,27 @@
+{
+  "id": "GO:0070974",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070974",
+  "relationships": {
+    "is_a": [
+      "GO:0019904"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "yaf"
+    ],
+    "InterPro": [
+      "IPR000327"
+    ]
+  },
+  "definition": "Binding to a POU domain of a protein. The POU domain is a bipartite DNA binding domain composed of two subunits separated by a non-conserved region of 15-55 amino acids; it is found in several eukaryotic transcription factors.",
+  "namespace": "molecular_function",
+  "label": "POU domain binding"
+}

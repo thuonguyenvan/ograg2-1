@@ -1,0 +1,30 @@
+{
+  "id": "GO:0090038",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090038",
+  "relationships": {
+    "is_a": [
+      "GO:0090036",
+      "GO:1902532"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "negative regulation of protein kinase C signaling cascade",
+      "negative regulation of protein kinase C signalling cascade"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb",
+      "signaling",
+      "mah"
+    ]
+  },
+  "definition": "Any process that decreases the frequency, rate, or extent of a series of reactions, mediated by the intracellular serine/threonine kinase protein kinase C, which occurs as a result of a single trigger reaction or compound.",
+  "namespace": "biological_process",
+  "label": "negative regulation of protein kinase C signaling"
+}

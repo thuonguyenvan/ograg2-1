@@ -1,0 +1,38 @@
+{
+  "id": "GO:0097466",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097466",
+  "relationships": {
+    "is_a": [
+      "GO:0006516",
+      "GO:0036503",
+      "GO:1904587"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ER-associated glycoprotein degradation",
+      "glycoprotein ERAD",
+      "gpERAD"
+    ],
+    "broad": [
+      "misfolded or incompletely synthesized glycoprotein catabolic process"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "al",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "16079177",
+      "25092655"
+    ]
+  },
+  "definition": "An ERAD pathway whereby endoplasmic reticulum (ER)-resident glycoproteins are targeted for degradation. Includes differential processing of the glycoprotein sugar chains, retrotranslocation to the cytosol and degradation by the ubiquitin-proteasome pathway. A glycoprotein is a compound in which a carbohydrate component is covalently bound to a protein component.",
+  "namespace": "biological_process",
+  "label": "ubiquitin-dependent glycoprotein ERAD pathway"
+}

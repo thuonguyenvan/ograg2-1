@@ -1,0 +1,26 @@
+{
+  "id": "GO:0160298",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160298",
+  "relationships": {
+    "is_a": [
+      "GO:0070568"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R13518"
+    ],
+    "PMID": [
+      "24249552"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 6-carboxymethyl-3,5-dimethyl-4-hydroxypyridin-2-ol + GTP + H+ = guanylylpyridinol + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "pyridinol guanylyltransferase activity"
+}

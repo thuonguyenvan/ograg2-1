@@ -1,0 +1,36 @@
+{
+  "id": "GO:0048197",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048197",
+  "relationships": {
+    "is_a": [
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Golgi apparatus membrane coat protein complex assembly"
+    ],
+    "broad": [],
+    "narrow": [
+      "Golgi membrane bud coat oligomerisation",
+      "dictyosome membrane binding by cytosolic coat proteins",
+      "dictyosome membrane bud coat oligomerisation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid",
+      "mah"
+    ],
+    "ISBN": [
+      "0716731363"
+    ],
+    "PMID": [
+      "10219233"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of priming complexes to form a coat on a Golgi membrane. Priming complexes associate laterally and additional coat proteins are recruited from the cytosol to the forming coat. Cargo proteins diffuse into the budding site and become trapped by their interactions with the coat.",
+  "namespace": "biological_process",
+  "label": "Golgi membrane coat protein complex assembly"
+}

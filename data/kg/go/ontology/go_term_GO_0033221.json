@@ -1,0 +1,31 @@
+{
+  "id": "GO:0033221",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033221",
+  "relationships": {
+    "is_a": [
+      "GO:0015204",
+      "GO:0042626"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent urea transmembrane transporter activity",
+      "carbamide-transporting ATPase activity",
+      "urea-transporting ATPase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "32803"
+    ],
+    "GOC": [
+      "mlg"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + H2O + urea(out) = ADP + phosphate + urea(in).",
+  "namespace": "molecular_function",
+  "label": "ATPase-coupled urea transmembrane transporter activity"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0007195",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007195",
+  "relationships": {
+    "is_a": [
+      "GO:0007193",
+      "GO:0007212"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dopamine receptor, adenylate cyclase inhibiting pathway",
+      "dopamine receptor, adenylyl cyclase inhibiting pathway",
+      "inhibition of adenylate cyclase activity by dopamine receptor signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "inhibition of adenylate cyclase activity by dopamine receptor signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mah",
+      "signaling",
+      "tb",
+      "dph",
+      "tb",
+      "mah",
+      "signaling"
+    ]
+  },
+  "definition": "An adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway initiated by dopamine binding to its receptor, and ending with the regulation of a downstream cellular process.",
+  "namespace": "biological_process",
+  "label": "adenylate cyclase-inhibiting dopamine receptor signaling pathway"
+}

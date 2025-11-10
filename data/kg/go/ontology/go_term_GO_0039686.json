@@ -1,0 +1,31 @@
+{
+  "id": "GO:0039686",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039686",
+  "relationships": {
+    "is_a": [
+      "GO:0039693"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "viral bidirectional dsDNA replication"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "1939",
+      "1939",
+      "1939"
+    ],
+    "GOC": [
+      "bf",
+      "jl"
+    ]
+  },
+  "definition": "A viral DNA replication process where replication occurs in both directions from the starting point. This creates two replication forks, moving in opposite directions.",
+  "namespace": "biological_process",
+  "label": "dsDNA bidirectional replication"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "GO:0008260",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008260",
+  "relationships": {
+    "is_a": [
+      "GO:0008410"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-oxoacid CoA-transferase activity",
+      "Succinyl-CoA:3-ketoacid-CoA transferase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-oxo-CoA transferase activity",
+      "3-oxoacid CoA dehydrogenase activity",
+      "3-oxoacid coenzyme A-transferase activity",
+      "acetoacetate succinyl-CoA transferase activity",
+      "acetoacetyl coenzyme A-succinic thiophorase activity",
+      "succinyl coenzyme A-acetoacetyl coenzyme A-transferase activity",
+      "succinyl-CoA 3-ketoacid-CoA transferase activity",
+      "succinyl-CoA transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.3.5",
+      "2.8.3.5",
+      "2.8.3.5",
+      "2.8.3.5",
+      "2.8.3.5",
+      "2.8.3.5",
+      "2.8.3.5",
+      "2.8.3.5"
+    ],
+    "MetaCyc": [
+      "3-OXOACID-COA-TRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "24564",
+      "24564"
+    ],
+    "Reactome": [
+      "R-HSA-74177"
+    ],
+    "GOC": [
+      "vw"
+    ],
+    "PMID": [
+      "10964512",
+      "8844009"
+    ]
+  },
+  "definition": "Catalysis of the reaction: succinyl-CoA + a 3-oxo acid = succinate + a 3-oxo-acyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "OXCT dimers transfer CoA from SUCC-CoA to ACA, forming ACA-CoA"
+}

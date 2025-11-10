@@ -1,0 +1,41 @@
+{
+  "id": "GO:1904971",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904971",
+  "relationships": {
+    "is_a": [
+      "GO:0050792"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of viral protein anabolism",
+      "regulation of viral protein biosynthesis",
+      "regulation of viral protein biosynthetic process",
+      "regulation of viral protein formation",
+      "regulation of viral protein synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bhm",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19666601"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of viral translation.",
+  "namespace": "biological_process",
+  "label": "regulation of viral translation"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0009637",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009637",
+  "relationships": {
+    "is_a": [
+      "GO:0009416"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "blue light response",
+      "blue-light response",
+      "response to blue light stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mtg_far_red"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a blue light stimulus. Blue light is electromagnetic radiation with a wavelength of between 440 and 500nm.",
+  "namespace": "biological_process",
+  "label": "response to blue light"
+}

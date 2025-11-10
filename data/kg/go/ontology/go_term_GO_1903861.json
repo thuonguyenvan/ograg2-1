@@ -1,0 +1,43 @@
+{
+  "id": "GO:1903861",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903861",
+  "relationships": {
+    "is_a": [
+      "GO:0030307",
+      "GO:0048639",
+      "GO:1903859"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of dendrite extension",
+      "up-regulation of dendrite extension",
+      "upregulation of dendrite extension"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of dendrite extension"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "pad",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24898855"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of dendrite extension.",
+  "namespace": "biological_process",
+  "label": "positive regulation of dendrite extension"
+}

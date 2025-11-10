@@ -1,0 +1,33 @@
+{
+  "id": "GO:0009374",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009374",
+  "relationships": {
+    "is_a": [
+      "GO:0019842",
+      "GO:0033218",
+      "GO:0033293",
+      "GO:1901363",
+      "GO:1901681"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "vitamin B7 binding",
+      "vitamin H binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Binding to biotin (cis-tetrahydro-2-oxothieno(3,4-d)imidazoline-4-valeric acid), the (+) enantiomer of which is very widely distributed in cells and serves as a carrier in a number of enzymatic beta-carboxylation reactions.",
+  "namespace": "molecular_function",
+  "label": "biotin binding"
+}

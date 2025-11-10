@@ -1,0 +1,26 @@
+{
+  "id": "GO:0005762",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005762",
+  "relationships": {
+    "is_a": [
+      "GO:0000315",
+      "GO:0098798"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "39S ribosomal subunit, mitochondrial"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mcc"
+    ]
+  },
+  "definition": "The larger of the two subunits of a mitochondrial ribosome. Two sites on the ribosomal large subunit are involved in translation: the aminoacyl site (A site) and peptidyl site (P site).",
+  "namespace": "cellular_component",
+  "label": "mitochondrial large ribosomal subunit"
+}

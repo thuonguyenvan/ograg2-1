@@ -1,0 +1,31 @@
+{
+  "id": "GO:0010236",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010236",
+  "relationships": {
+    "is_a": [
+      "GO:1901663"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "plastoquinone anabolism",
+      "plastoquinone biosynthesis",
+      "plastoquinone formation",
+      "plastoquinone synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-1581"
+    ],
+    "GOC": [
+      "sm"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of plastoquinone, a lipid-soluble electron-transporting coenzyme present in the chloroplast.",
+  "namespace": "biological_process",
+  "label": "plastoquinone biosynthetic process"
+}

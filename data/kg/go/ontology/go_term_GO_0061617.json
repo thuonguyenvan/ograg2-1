@@ -1,0 +1,38 @@
+{
+  "id": "GO:0061617",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061617",
+  "relationships": {
+    "is_a": [
+      "GO:0098800"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Fcj1 complex",
+      "MINOS complex",
+      "MitOS complex",
+      "mitochondrial contact site and cristae organizing system"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "dph",
+      "dph",
+      "dph",
+      "dph"
+    ],
+    "PMID": [
+      "21944719",
+      "21987634",
+      "22009199",
+      "24687277"
+    ]
+  },
+  "definition": "Mitochondrial inner membrane complex involved in maintenance of crista junctions, inner membrane architecture, and formation of contact sites to the outer membrane. In Saccharomyces cerevisiae the complex has six subunits: MIC10, MIC12, MIC19, MIC26, MIC27, and MIC60.",
+  "namespace": "cellular_component",
+  "label": "MICOS complex"
+}

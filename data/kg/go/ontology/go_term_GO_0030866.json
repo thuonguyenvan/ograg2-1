@@ -1,0 +1,35 @@
+{
+  "id": "GO:0030866",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030866",
+  "relationships": {
+    "is_a": [
+      "GO:0030036",
+      "GO:0030865"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "actin cortex stabilization",
+      "cortical actin cytoskeleton organisation",
+      "cortical actin cytoskeleton stabilization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cortical actin cytoskeleton organization and biogenesis",
+      "cortical resistance"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "jl",
+      "mah",
+      "pf",
+      "mah"
+    ]
+  },
+  "definition": "A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of actin-based cytoskeletal structures in the cell cortex, i.e. just beneath the plasma membrane.",
+  "namespace": "biological_process",
+  "label": "cortical actin cytoskeleton organization"
+}

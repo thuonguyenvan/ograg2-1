@@ -1,0 +1,34 @@
+{
+  "id": "GO:0038186",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038186",
+  "relationships": {
+    "is_a": [
+      "GO:0004879"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "lithocholic acid receptor activity"
+    ],
+    "narrow": [],
+    "related": [
+      "farnesoid X nuclear receptor activity",
+      "farnesoid X receptor activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5340195"
+    ],
+    "PMID": [
+      "32480317",
+      "35415765",
+      "36409000",
+      "10334992"
+    ]
+  },
+  "definition": "A nuclear receptor activity regulated by a bile acid binding and modulating the transcription of specific gene sets transcribed by RNA polymerase II.",
+  "namespace": "molecular_function",
+  "label": "NR1H4 binds DCA, CDCA, LCHA"
+}

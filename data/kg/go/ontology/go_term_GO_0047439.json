@@ -1,0 +1,49 @@
+{
+  "id": "GO:0047439",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047439",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-keto-3-deoxyoctonate aldolase activity",
+      "2-keto-3-deoxyoctonic aldolase activity",
+      "3-deoxy-D-manno-octulosonate D-arabinose-lyase (pyruvate-forming)",
+      "3-deoxy-D-manno-octulosonate D-arabinose-lyase activity",
+      "3-deoxy-D-manno-octulosonic aldolase activity",
+      "3-deoxyoctulosonic aldolase activity",
+      "KDOaldolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.23",
+      "4.1.2.23",
+      "4.1.2.23",
+      "4.1.2.23",
+      "4.1.2.23",
+      "4.1.2.23",
+      "4.1.2.23",
+      "4.1.2.23",
+      "4.1.2.23"
+    ],
+    "KEGG_REACTION": [
+      "R01576"
+    ],
+    "MetaCyc": [
+      "4.1.2.23-RXN"
+    ],
+    "RHEA": [
+      "23340",
+      "23340"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-deoxy-D-manno-octulosonate = D-arabinose + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "3-deoxy-D-manno-octulosonate aldolase activity"
+}

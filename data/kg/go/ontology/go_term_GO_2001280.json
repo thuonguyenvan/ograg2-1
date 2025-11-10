@@ -1,0 +1,40 @@
+{
+  "id": "GO:2001280",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001280",
+  "relationships": {
+    "is_a": [
+      "GO:0045723",
+      "GO:2001279"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of unsaturated fatty acid anabolism",
+      "positive regulation of unsaturated fatty acid biosynthesis",
+      "positive regulation of unsaturated fatty acid formation",
+      "positive regulation of unsaturated fatty acid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of fatty acid desaturation",
+      "positive regulation of polyunsaturated fatty acid biosynthesis"
+    ]
+  },
+  "cross_references": {
+    "GO": [
+      "0006636"
+    ],
+    "GOC": [
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of unsaturated fatty acid biosynthetic process.",
+  "namespace": "biological_process",
+  "label": "positive regulation of unsaturated fatty acid biosynthetic process"
+}

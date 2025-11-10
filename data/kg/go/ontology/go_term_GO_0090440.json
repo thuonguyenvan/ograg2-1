@@ -1,0 +1,27 @@
+{
+  "id": "GO:0090440",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090440",
+  "relationships": {
+    "is_a": [
+      "GO:0008028",
+      "GO:0015665",
+      "GO:0170055"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "abscisic acid transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "tb"
+    ]
+  },
+  "definition": "Enables the transfer of abscisic acid from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "abscisic acid transmembrane transporter activity"
+}

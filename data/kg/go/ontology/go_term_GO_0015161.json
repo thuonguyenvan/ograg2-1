@@ -1,0 +1,39 @@
+{
+  "id": "GO:0015161",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015161",
+  "relationships": {
+    "is_a": [
+      "GO:0140328"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "undecaprenol-pyrophosphate O-antigen flippase activity"
+    ],
+    "broad": [
+      "capsule polysaccharide transporter activity"
+    ],
+    "narrow": [],
+    "related": [
+      "capsular polysaccharide transmembrane transporter activity"
+    ]
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.66.2.12",
+      "2.A.66.2.3",
+      "2.A.66.2.3"
+    ],
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "PMID": [
+      "12621029",
+      "16816184"
+    ]
+  },
+  "definition": "Enables the transbilayer of capsular-polysaccharides (Und-PP-GlcNAc-ManNAcA-Fuc4NAc (lipid III)) from the inner to the outer leaflet of the cytoplasmic membrane during the assembly of ECA. Capsular polysaccharides make up the capsule, a protective structure surrounding some species of bacteria and fungi.",
+  "namespace": "molecular_function",
+  "label": "lipid III floppase activity"
+}

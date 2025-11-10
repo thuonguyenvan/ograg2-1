@@ -1,0 +1,36 @@
+{
+  "id": "GO:0016929",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016929",
+  "relationships": {
+    "is_a": [
+      "GO:0008234",
+      "GO:0019783"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SUMO-specific isopeptidase activity",
+      "SUMO-specific protease activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "SUSP",
+      "ULP"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rn"
+    ],
+    "PMID": [
+      "10094048",
+      "11031248",
+      "11265250",
+      "23746258"
+    ]
+  },
+  "definition": "An thiol-dependent isopeptidase activity that cleaves SUMO from a target protein to which it is conjugated.",
+  "namespace": "molecular_function",
+  "label": "deSUMOylase activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0005365",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005365",
+  "relationships": {
+    "is_a": [
+      "GO:0015166"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "vitamin Bh transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1855155",
+      "R-HSA-1855164",
+      "R-HSA-1855186",
+      "R-HSA-1855195",
+      "R-HSA-1855217"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of myo-inositol from one side of a membrane to the other. Myo-inositol is 1,2,3,4,5/4,6-cyclohexanehexol, a growth factor for animals and microorganisms.",
+  "namespace": "molecular_function",
+  "label": "I(1,4,5)P3 transports from the ER lumen to the cytosol"
+}

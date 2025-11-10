@@ -1,0 +1,37 @@
+{
+  "id": "GO:1900485",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900485",
+  "relationships": {
+    "is_a": [
+      "GO:0090314",
+      "GO:0090316",
+      "GO:1900483",
+      "GO:1903337",
+      "GO:1905477"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of protein targeting to vacuolar membrane",
+      "up-regulation of protein targeting to vacuolar membrane",
+      "upregulation of protein targeting to vacuolar membrane"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein targeting to vacuolar membrane"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of protein targeting to vacuolar membrane.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein targeting to vacuolar membrane"
+}

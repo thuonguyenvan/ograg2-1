@@ -1,0 +1,29 @@
+{
+  "id": "GO:0035206",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035206",
+  "relationships": {
+    "is_a": [
+      "GO:0002682",
+      "GO:0042127",
+      "GO:0050793",
+      "GO:0051239"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of arthropod blood cell proliferation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of hemocyte proliferation. Hemocytes are blood cells associated with a hemocoel (the cavity containing most of the major organs of the arthropod body) which are involved in defense and clotting of hemolymph, but not involved in transport of oxygen. An example of this is found in Drosophila melanogaster.",
+  "namespace": "biological_process",
+  "label": "regulation of hemocyte proliferation"
+}

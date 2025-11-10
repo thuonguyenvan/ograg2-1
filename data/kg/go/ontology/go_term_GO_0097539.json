@@ -1,0 +1,49 @@
+{
+  "id": "GO:0097539",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097539",
+  "relationships": {
+    "is_a": [
+      "GO:0140535"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cilial transition fiber",
+      "cilial transition fibre",
+      "ciliary transition fibre",
+      "cilium transition fiber",
+      "cilium transition fibre"
+    ],
+    "broad": [
+      "transition fiber",
+      "transition fibre"
+    ],
+    "narrow": [],
+    "related": [
+      "centriolar distal appendage",
+      "distal appendage of basal body",
+      "distal appendage of centriole",
+      "distal appendage of mother centriole"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "kmv",
+      "krc",
+      "krc",
+      "krc",
+      "krc"
+    ],
+    "PMID": [
+      "22653444",
+      "24231678",
+      "5064817",
+      "5335827",
+      "24469809"
+    ]
+  },
+  "definition": "A nine-bladed, propeller-like protein complex that links the distal end of the basal body and the cilium to the plasma membrane. Functions in protein sorting and gating (i.e. active and passive transport of proteins in and out of the cilium).",
+  "namespace": "cellular_component",
+  "label": "ciliary transition fiber"
+}

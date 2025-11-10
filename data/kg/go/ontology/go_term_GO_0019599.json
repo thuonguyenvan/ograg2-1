@@ -1,0 +1,31 @@
+{
+  "id": "GO:0019599",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019599",
+  "relationships": {
+    "is_a": [
+      "GO:0019336",
+      "GO:0072329"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(R)-4-hydroxymandelate breakdown",
+      "(R)-4-hydroxymandelate catabolism",
+      "(R)-4-hydroxymandelate degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "4-HYDROXYMANDELATE-DEGRADATION-PWY"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of (R)-4-hydroxymandelate, the anion of (R)-4-hydroxymandelic acid.",
+  "namespace": "biological_process",
+  "label": "(R)-4-hydroxymandelate catabolic process"
+}

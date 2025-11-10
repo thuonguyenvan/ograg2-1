@@ -1,0 +1,40 @@
+{
+  "id": "GO:0039504",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039504",
+  "relationships": {
+    "is_a": [
+      "GO:0052562"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of host adaptive immune response",
+      "negative regulation of host adaptive immunity",
+      "suppression of host acquired immune response"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of host adaptive immune response by virus",
+      "suppression by virus of host adaptive immune response"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "bf",
+      "sp",
+      "bf",
+      "bf"
+    ],
+    "ISBN": [
+      "068340007X"
+    ],
+    "UniProtKB-KW": [
+      "KW-1080"
+    ]
+  },
+  "definition": "A process by which a symbiont inhibits or disrupts the normal execution of the adaptive immune response of the host organism, an immune response based on directed amplification of specific receptors for antigen produced through a somatic diversification process, and allowing for enhanced response to subsequent exposures to the same antigen (immunological memory).",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host adaptive immune response"
+}

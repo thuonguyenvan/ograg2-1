@@ -1,0 +1,48 @@
+{
+  "id": "GO:0018859",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018859",
+  "relationships": {
+    "is_a": [
+      "GO:0016405",
+      "GO:0016878"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-hydroxybenzoate-CoA synthetase activity",
+      "4-hydroxybenzoate-coenzyme A ligase (AMP-forming)",
+      "4-hydroxybenzoate:CoA ligase (AMP-forming)",
+      "4-hydroxybenzoyl coenzyme A synthetase activity",
+      "4-hydroxybenzoyl-CoA ligase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.2.1.27",
+      "6.2.1.27",
+      "6.2.1.27",
+      "6.2.1.27",
+      "6.2.1.27",
+      "6.2.1.27",
+      "6.2.1.27"
+    ],
+    "KEGG_REACTION": [
+      "R01300"
+    ],
+    "MetaCyc": [
+      "4-HYDROXYBENZOATE--COA-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "23116"
+    ],
+    "UM-BBD_reactionID": [
+      "r0156"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + 4-hydroxybenzoate + CoA = AMP + diphosphate + 4-hydroxybenzoyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "4-hydroxybenzoate-CoA ligase activity"
+}

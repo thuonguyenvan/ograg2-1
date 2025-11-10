@@ -1,0 +1,30 @@
+{
+  "id": "GO:0008603",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008603",
+  "relationships": {
+    "is_a": [
+      "GO:0019887"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3&apos;,5&apos; cAMP-dependent protein kinase regulator activity",
+      "3&apos;,5&apos;-cAMP-dependent protein kinase regulator activity",
+      "adenosine 3&apos;,5&apos;-cyclophosphate-dependent protein kinase regulator activity",
+      "cyclic AMP-dependent protein kinase regulator activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "cAMP-dependent protein kinase, intrinsic regulator activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Modulation of the activity of the enzyme cAMP-dependent protein kinase.",
+  "namespace": "molecular_function",
+  "label": "cAMP-dependent protein kinase regulator activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0032305",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032305",
+  "relationships": {
+    "is_a": [
+      "GO:0032303",
+      "GO:0051047",
+      "GO:2000193"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of eicosanoid secretion",
+      "up regulation of icosanoid secretion",
+      "up-regulation of icosanoid secretion",
+      "upregulation of icosanoid secretion"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of icosanoid secretion",
+      "stimulation of icosanoid secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the controlled release of an icosanoid from a cell.",
+  "namespace": "biological_process",
+  "label": "positive regulation of icosanoid secretion"
+}

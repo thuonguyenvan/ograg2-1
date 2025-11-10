@@ -1,0 +1,30 @@
+{
+  "id": "GO:0038041",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038041",
+  "relationships": {
+    "is_a": [
+      "GO:0008277",
+      "GO:2000272"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cross-receptor inhibition within G-protein coupled receptor heterodimer"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "al",
+      "bf"
+    ],
+    "PMID": [
+      "15979374"
+    ]
+  },
+  "definition": "Inhibition of one protomer of a G protein-coupled receptor (GPCR) heterodimer by the associated subunit. For example, agonist activation of one cytokine receptor can prevent activation of its associated cytokine receptor subunit.",
+  "namespace": "biological_process",
+  "label": "cross-receptor inhibition within G protein-coupled receptor heterodimer"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0039593",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039593",
+  "relationships": {
+    "is_a": [
+      "GO:0044071"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "inhibition of host mitotic exit by virus"
+    ],
+    "broad": [],
+    "narrow": [
+      "perturbation by virus of host exit from mitosis"
+    ],
+    "related": [
+      "suppression by virus of host exit from mitosis"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "877",
+      "877",
+      "877"
+    ],
+    "UniProtKB-KW": [
+      "KW-1098"
+    ]
+  },
+  "definition": "A process in which a virus interferes with the host cell completing the M phase of the cell cycle.",
+  "namespace": "biological_process",
+  "label": "Inhibition of host mitotic exit by virus"
+}

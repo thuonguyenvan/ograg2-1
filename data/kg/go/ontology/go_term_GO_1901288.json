@@ -1,0 +1,57 @@
+{
+  "id": "GO:1901288",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901288",
+  "relationships": {
+    "is_a": [
+      "GO:0009058",
+      "GO:1901286"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FeMo-co anabolism",
+      "FeMo-co biosynthesis",
+      "FeMo-co biosynthetic process",
+      "FeMo-co formation",
+      "FeMo-co synthesis",
+      "iron-molybdenum cofactor anabolism",
+      "iron-molybdenum cofactor biosynthesis",
+      "iron-molybdenum cofactor biosynthetic process",
+      "iron-molybdenum cofactor formation",
+      "iron-molybdenum cofactor synthesis",
+      "iron-sulfur-molybdenum cofactor anabolism",
+      "iron-sulfur-molybdenum cofactor biosynthesis",
+      "iron-sulfur-molybdenum cofactor formation",
+      "iron-sulfur-molybdenum cofactor synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "UniPathway": [
+      "UPA00782"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of iron-sulfur-molybdenum cofactor.",
+  "namespace": "biological_process",
+  "label": "iron-sulfur-molybdenum cofactor biosynthetic process"
+}

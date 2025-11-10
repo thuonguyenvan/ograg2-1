@@ -1,0 +1,28 @@
+{
+  "id": "GO:0180010",
+  "uri": "http://purl.obolibrary.org/obo/GO_0180010",
+  "relationships": {
+    "is_a": [
+      "GO:0031124",
+      "GO:0180012"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cotranscriptional 3&apos; processing of RNA polymerase II mRNA transcripts"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "mRNA polyadenylation"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "31499460"
+    ]
+  },
+  "definition": "Any process involved in transcription termination-coupled 3&apos; processing of RNA polymerase II mRNA transcripts by the 3&apos; end cleavage and addition of a poly(A) tail.",
+  "namespace": "biological_process",
+  "label": "co-transcriptional mRNA 3&apos;-end processing, cleavage and polyadenylation pathway"
+}

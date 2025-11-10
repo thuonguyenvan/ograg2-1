@@ -1,0 +1,49 @@
+{
+  "id": "GO:0034480",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034480",
+  "relationships": {
+    "is_a": [
+      "GO:0004629"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phospholipase C, acting on phosphatidylcholine"
+    ],
+    "broad": [],
+    "narrow": [
+      "Clostridium oedematiens beta- and gamma-toxins activity",
+      "Clostridium welchii alpha-toxin activity",
+      "heat-labile hemolysin"
+    ],
+    "related": [
+      "lipophosphodiesterase I activity",
+      "phosphatidylcholine cholinephosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.4.3",
+      "3.1.4.3",
+      "3.1.4.3",
+      "3.1.4.3",
+      "3.1.4.3"
+    ],
+    "MetaCyc": [
+      "PHOSPHOLIPASE-C-RXN"
+    ],
+    "RHEA": [
+      "10604",
+      "10604"
+    ],
+    "Reactome": [
+      "R-HSA-9680388"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1,2-diacyl-sn-glycero-3-phosphocholine + H2O = a 1,2-diacyl-sn-glycerol + H+ + phosphocholine.",
+  "namespace": "molecular_function",
+  "label": "CSF1R-associated PLCG2 hydrolyzes phosphatidylcholine"
+}

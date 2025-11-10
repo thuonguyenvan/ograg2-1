@@ -1,0 +1,39 @@
+{
+  "id": "GO:1904602",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904602",
+  "relationships": {
+    "is_a": [
+      "GO:0034703",
+      "GO:0098665",
+      "GO:0098878"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5-HT-3 receptor complex",
+      "5-HT3 receptor complex",
+      "5-hydroxytryptamine receptor 3 complex",
+      "5HT3 receptor complex"
+    ],
+    "broad": [
+      "serotonin receptor complex"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bhm"
+    ],
+    "GO_REF": [
+      "0000088"
+    ],
+    "PMID": [
+      "16116092"
+    ]
+  },
+  "definition": "A protein complex which is capable of serotonin-activated cation-selective channel activity. Mainly found in pre- and postsynaptic membranes of the brain and gastrointestinal tract. Depending on its location it transports Ca2+, Mg2+, Na+ or K+. It is always a pentamer, containing at least the 5HT3A subunit forming 5HT3A homopentamers or 5HT3A/B heteropentamers. In human, 5HT3A/C, A/D and A/E heteropentamers also exist.",
+  "namespace": "cellular_component",
+  "label": "serotonin-activated cation-selective channel complex"
+}

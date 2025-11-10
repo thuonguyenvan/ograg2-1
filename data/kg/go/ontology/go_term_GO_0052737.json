@@ -1,0 +1,44 @@
+{
+  "id": "GO:0052737",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052737",
+  "relationships": {
+    "is_a": [
+      "GO:0052738"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pyruvate:ubiquinone oxidoreductase activity"
+    ],
+    "broad": [
+      "pyruvate dehydrogenase activity",
+      "pyruvic dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "pyruvate:ubiquinone-8-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.5.1",
+      "1.2.5.1",
+      "1.2.5.1",
+      "1.2.5.1",
+      "1.2.5.1",
+      "1.2.5.1"
+    ],
+    "KEGG_REACTION": [
+      "R03145"
+    ],
+    "MetaCyc": [
+      "RXN-11496"
+    ],
+    "RHEA": [
+      "27405"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a ubiquinone + H2O + pyruvate = a ubiquinol + acetate + CO2.",
+  "namespace": "molecular_function",
+  "label": "pyruvate dehydrogenase (quinone) activity"
+}

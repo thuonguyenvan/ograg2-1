@@ -1,0 +1,26 @@
+{
+  "id": "GO:0016840",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016840",
+  "relationships": {
+    "is_a": [
+      "GO:0016829"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "other carbon-nitrogen lyase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.-.-",
+      "4.3.-.-"
+    ]
+  },
+  "definition": "Catalysis of the release of ammonia or one of its derivatives, with the formation of a double bond or ring. Enzymes with this activity may catalyze the actual elimination of the ammonia, amine or amide, e.g. CH-CH(-NH-R) = C=CH- + NH2-R. Others, however, catalyze elimination of another component, e.g. water, which is followed by spontaneous reactions that lead to breakage of the C-N bond, e.g. L-serine ammonia-lyase (EC:4.3.1.17), so that the overall reaction is C(-OH)-CH(-NH2) = CH2-CO- + NH3, i.e. an elimination with rearrangement. The sub-subclasses of EC:4.3 are the ammonia-lyases (EC:4.3.1), lyases acting on amides, amidines, etc. (EC:4.3.2), the amine-lyases (EC:4.3.3), and other carbon-nitrogen lyases (EC:4.3.99).",
+  "namespace": "molecular_function",
+  "label": "carbon-nitrogen lyase activity"
+}

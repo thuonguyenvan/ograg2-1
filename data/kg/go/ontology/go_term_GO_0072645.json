@@ -1,0 +1,34 @@
+{
+  "id": "GO:0072645",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072645",
+  "relationships": {
+    "is_a": [
+      "GO:0032606"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IFN-delta production",
+      "IFND production"
+    ],
+    "broad": [],
+    "narrow": [
+      "interferon-delta secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "mah",
+      "BHF"
+    ],
+    "PMID": [
+      "15546383"
+    ]
+  },
+  "definition": "The appearance of interferon-delta due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels.",
+  "namespace": "biological_process",
+  "label": "interferon-delta production"
+}

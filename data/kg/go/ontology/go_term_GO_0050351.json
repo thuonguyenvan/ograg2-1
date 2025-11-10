@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050351",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050351",
+  "relationships": {
+    "is_a": [
+      "GO:0016818"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "inorganic trimetaphosphatase activity",
+      "trimetaphosphate hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.2",
+      "3.6.1.2",
+      "3.6.1.2",
+      "3.6.1.2"
+    ],
+    "KEGG_REACTION": [
+      "R02504"
+    ],
+    "MetaCyc": [
+      "TRIMETAPHOSPHATASE-RXN"
+    ],
+    "RHEA": [
+      "11088",
+      "11088"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + trimetaphosphate = 2 H+ + triphosphate.",
+  "namespace": "molecular_function",
+  "label": "trimetaphosphatase activity"
+}

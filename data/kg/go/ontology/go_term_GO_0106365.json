@@ -1,0 +1,31 @@
+{
+  "id": "GO:0106365",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106365",
+  "relationships": {
+    "is_a": [
+      "GO:0016859"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.2.1.14"
+    ],
+    "RHEA": [
+      "34455",
+      "34455"
+    ],
+    "PMID": [
+      "19470589",
+      "22422982"
+    ]
+  },
+  "definition": "Catalyzes the reaction: all-trans-beta-carotene = 9-cis-beta-carotene.",
+  "namespace": "molecular_function",
+  "label": "beta-carotene isomerase activity"
+}

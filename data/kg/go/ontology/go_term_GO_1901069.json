@@ -1,0 +1,40 @@
+{
+  "id": "GO:1901069",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901069",
+  "relationships": {
+    "is_a": [
+      "GO:0046130"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "guanosine-containing compound breakdown",
+      "guanosine-containing compound catabolism",
+      "guanosine-containing compound degradation",
+      "guanosines breakdown",
+      "guanosines catabolic process",
+      "guanosines catabolism",
+      "guanosines degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bf",
+      "bf",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "CHEBI": [
+      "24458"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of guanosine-containing compounds (guanosines).",
+  "namespace": "biological_process",
+  "label": "guanosine-containing compound catabolic process"
+}

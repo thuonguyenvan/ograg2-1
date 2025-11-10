@@ -1,0 +1,46 @@
+{
+  "id": "GO:0080131",
+  "uri": "http://purl.obolibrary.org/obo/GO_0080131",
+  "relationships": {
+    "is_a": [
+      "GO:0008146"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "OHJA sulfotransferase activity",
+      "hydroxyjasmonic acid sulfotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "11-OHJA sulfotransferase activity",
+      "11-hydroxyjasmonate sulfotransferase activity",
+      "11-hydroxyjasmonic acid sulfotransferase activity",
+      "12-OHJA sulfotransferase activity",
+      "12-hydroxyjasmonate sulfotransferase activity",
+      "12-hydroxyjasmonic acid sulfotransferase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.39",
+      "2.8.2.39"
+    ],
+    "MetaCyc": [
+      "RXN-10451",
+      "RXN-10453",
+      "RXN-10453",
+      "RXN-10453",
+      "RXN-10451",
+      "RXN-10451",
+      "RXN-10451"
+    ],
+    "PMID": [
+      "12637544"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a hydroxyjasmonate + 3&apos;-phosphoadenosine-5&apos;-phosphosulfate = a hydroxyjasmonate sulfate + adenosine-3&apos;,5&apos;-diphosphate.",
+  "namespace": "molecular_function",
+  "label": "hydroxyjasmonate sulfotransferase activity"
+}

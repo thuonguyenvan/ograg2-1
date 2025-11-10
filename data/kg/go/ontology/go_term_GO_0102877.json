@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102877",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102877",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.133",
+      "4.2.3.133"
+    ],
+    "MetaCyc": [
+      "RXN-8416"
+    ],
+    "RHEA": [
+      "33991"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-trans,6-trans-farnesyl diphosphate = alpha-copaene + diphosphoric acid.",
+  "namespace": "molecular_function",
+  "label": "alpha-copaene synthase activity"
+}

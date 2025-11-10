@@ -1,0 +1,30 @@
+{
+  "id": "GO:0060141",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060141",
+  "relationships": {
+    "is_a": [
+      "GO:0044068"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of syncytium formation by virus",
+      "syncytium formation induced by viral infection"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "5957",
+      "5957"
+    ],
+    "GOC": [
+      "dph"
+    ]
+  },
+  "definition": "A process in which a symbiont initiates, promotes, or enhances the formation of a syncytium, a mass of cytoplasm containing several nuclei enclosed within a single plasma membrane, by the fusion of the plasma membranes of two or more individual host cells. Syncytia are produced by viruses that are able to fuse directly at the cell surface without requiring endocytosis.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated induction of syncytium formation"
+}

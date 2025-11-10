@@ -1,0 +1,48 @@
+{
+  "id": "GO:0050352",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050352",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "trimethylamine N-oxide aldolase activity",
+      "trimethylamine N-oxide demethylase activity",
+      "trimethylamine N-oxide formaldehyde-lyase activity",
+      "trimethylamine-N-oxide formaldehyde-lyase (dimethylamine-forming)",
+      "trimethylamine-N-oxide formaldehyde-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.32",
+      "4.1.2.32",
+      "4.1.2.32",
+      "4.1.2.32",
+      "4.1.2.32",
+      "4.1.2.32",
+      "4.1.2.32"
+    ],
+    "KEGG_REACTION": [
+      "R02512"
+    ],
+    "MetaCyc": [
+      "TRIMETHYLAMINE-OXIDE-ALDOLASE-RXN"
+    ],
+    "RHEA": [
+      "20217",
+      "20217"
+    ],
+    "UM-BBD_reactionID": [
+      "r1409"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H+ + trimethylamine N-oxide = dimethylamine + formaldehyde.",
+  "namespace": "molecular_function",
+  "label": "trimethylamine-oxide aldolase activity"
+}

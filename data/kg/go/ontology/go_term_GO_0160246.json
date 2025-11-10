@@ -1,0 +1,27 @@
+{
+  "id": "GO:0160246",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160246",
+  "relationships": {
+    "is_a": [
+      "GO:0016731"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "67716",
+      "67716"
+    ],
+    "Reactome": [
+      "R-HSA-2564824"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 oxidized [2Fe-2S]-[protein] + NADPH = 2 reduced [2Fe-2S]-[protein] + NADP+ + H+.",
+  "namespace": "molecular_function",
+  "label": "NADPH reduces NDOR1:CIAPIN1"
+}

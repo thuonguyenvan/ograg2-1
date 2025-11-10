@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140161",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140161",
+  "relationships": {
+    "is_a": [
+      "GO:0005343",
+      "GO:0015355"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ln"
+    ],
+    "PMID": [
+      "15322102"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: monocarboxylate(out) + Na+(out) = monocarboxylate(in) + Na+(in).",
+  "namespace": "molecular_function",
+  "label": "monocarboxylate:sodium symporter activity"
+}

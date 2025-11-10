@@ -1,0 +1,49 @@
+{
+  "id": "GO:0004775",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004775",
+  "relationships": {
+    "is_a": [
+      "GO:0004774"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "succinic thiokinase",
+      "succinyl coenzyme A synthetase"
+    ],
+    "narrow": [],
+    "related": [
+      "succinate thiokinase activity",
+      "succinyl coenzyme A synthetase (adenosine diphosphate-forming) activity",
+      "succinyl-CoA synthetase (ADP-forming) activity",
+      "succinyl-CoA synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.2.1.5",
+      "6.2.1.5",
+      "6.2.1.5"
+    ],
+    "KEGG_REACTION": [
+      "R00405"
+    ],
+    "MetaCyc": [
+      "SUCCCOASYN-RXN"
+    ],
+    "RHEA": [
+      "17661",
+      "17661"
+    ],
+    "Reactome": [
+      "R-HSA-70997"
+    ],
+    "PMID": [
+      "9874242"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + succinate + CoA = ADP + succinyl-CoA + phosphate.",
+  "namespace": "molecular_function",
+  "label": "SUCLG1/A2 cleaves succinyl-CoA"
+}

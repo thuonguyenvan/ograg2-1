@@ -1,0 +1,66 @@
+{
+  "id": "GO:0004622",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004622",
+  "relationships": {
+    "is_a": [
+      "GO:0120558"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "lysophospholipase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "2-lysophosphatidylcholine acylhydrolase activity",
+      "lecithinase B activity",
+      "lecitholipase activity",
+      "lysolecithinase activity",
+      "lysophopholipase L2",
+      "lysophosphatidase activity",
+      "lysophosphatidylcholine hydrolase activity",
+      "lysophospholipase A1",
+      "phosphatidase B",
+      "phospholipase B activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.5",
+      "3.1.1.5",
+      "3.1.1.5",
+      "3.1.1.5",
+      "3.1.1.5",
+      "3.1.1.5",
+      "3.1.1.5",
+      "3.1.1.5",
+      "3.1.1.5",
+      "3.1.1.5",
+      "3.1.1.5",
+      "3.1.1.5"
+    ],
+    "MetaCyc": [
+      "LYSOPHOSPHOLIPASE-RXN"
+    ],
+    "RHEA": [
+      "15177",
+      "15177"
+    ],
+    "Reactome": [
+      "R-HSA-1482545",
+      "R-HSA-1482571",
+      "R-HSA-1482612",
+      "R-HSA-1482629",
+      "R-HSA-1482685",
+      "R-HSA-1482696",
+      "R-HSA-6814254",
+      "R-HSA-6814766",
+      "R-HSA-6814778",
+      "R-HSA-8847912"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1-acyl-sn-glycero-3-phosphocholine + H2O = a fatty acid + H+ + sn-glycerol 3-phosphocholine.",
+  "namespace": "molecular_function",
+  "label": "PNPLA7 hydrolyzes LysoPtdCho"
+}

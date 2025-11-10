@@ -1,0 +1,31 @@
+{
+  "id": "GO:0045861",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045861",
+  "relationships": {
+    "is_a": [
+      "GO:0030162",
+      "GO:0051248"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of proteolysis",
+      "down-regulation of proteolysis",
+      "downregulation of proteolysis",
+      "negative regulation of peptidolysis"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of proteolysis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the hydrolysis of a peptide bond or bonds within a protein.",
+  "namespace": "biological_process",
+  "label": "negative regulation of proteolysis"
+}

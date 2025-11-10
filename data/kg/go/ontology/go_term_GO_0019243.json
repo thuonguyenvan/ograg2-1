@@ -1,0 +1,40 @@
+{
+  "id": "GO:0019243",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019243",
+  "relationships": {
+    "is_a": [
+      "GO:0061727"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "methylglyoxal catabolism to D-lactate via S-lactoyl-glutathione"
+    ],
+    "broad": [
+      "D-lactate biosynthesis from methylglyoxal",
+      "D-lactate biosynthetic process from methylglyoxal",
+      "methylglyoxal breakdown to D-lactate",
+      "methylglyoxal degradation to D-lactate"
+    ],
+    "narrow": [],
+    "related": [
+      "glyoxalase system",
+      "methylglyoxal detoxification"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5386"
+    ],
+    "GOC": [
+      "ai",
+      "dph"
+    ],
+    "PMID": [
+      "2198020"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of methylglyoxal, CH3-CO-CHO, into D-lactate via the intermediate S-lactoyl-glutathione. Glutathione is used in the first step of the pathway and then regenerated in the second step.",
+  "namespace": "biological_process",
+  "label": "methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione"
+}

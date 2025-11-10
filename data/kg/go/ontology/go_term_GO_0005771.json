@@ -1,0 +1,33 @@
+{
+  "id": "GO:0005771",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005771",
+  "relationships": {
+    "is_a": [
+      "GO:0005770"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MVB",
+      "MVE",
+      "multivesicular endosome"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao2045955158"
+    ],
+    "PMID": [
+      "11566881",
+      "16533950",
+      "12122203",
+      "12122203"
+    ]
+  },
+  "definition": "A type of endosome in which regions of the limiting endosomal membrane invaginate to form internal vesicles; membrane proteins that enter the internal vesicles are sequestered from the cytoplasm.",
+  "namespace": "cellular_component",
+  "label": "multivesicular body"
+}

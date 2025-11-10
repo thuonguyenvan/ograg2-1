@@ -1,0 +1,28 @@
+{
+  "id": "GO:0010656",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010656",
+  "relationships": {
+    "is_a": [
+      "GO:0010660",
+      "GO:0043066"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "negative regulation of muscle cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mtg_apoptosis",
+      "tb"
+    ]
+  },
+  "definition": "Any process that decreases the rate or frequency of muscle cell apoptotic process, a form of programmed cell death induced by external or internal signals that trigger the activity of proteolytic caspases whose actions dismantle a muscle cell and result in its death.",
+  "namespace": "biological_process",
+  "label": "negative regulation of muscle cell apoptotic process"
+}

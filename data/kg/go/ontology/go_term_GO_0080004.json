@@ -1,0 +1,26 @@
+{
+  "id": "GO:0080004",
+  "uri": "http://purl.obolibrary.org/obo/GO_0080004",
+  "relationships": {
+    "is_a": [
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-9637"
+    ],
+    "PMID": [
+      "18356490"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a thalian-diol = a desaturated thalian-diol. This reaction is the introduction of a double bond to a thalian-diol molecule at carbon 15.",
+  "namespace": "molecular_function",
+  "label": "thalian-diol desaturase activity"
+}

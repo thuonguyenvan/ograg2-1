@@ -1,0 +1,31 @@
+{
+  "id": "GO:0000154",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000154",
+  "relationships": {
+    "is_a": [
+      "GO:0006364",
+      "GO:0009451"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "rRNA editing"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6790901",
+      "R-HSA-6793080"
+    ],
+    "GOC": [
+      "curators",
+      "hjd"
+    ]
+  },
+  "definition": "The covalent alteration of one or more nucleotides within an rRNA molecule to produce an rRNA molecule with a sequence that differs from that coded genetically.",
+  "namespace": "biological_process",
+  "label": "rRNA modification in the mitochondrion"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102626",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102626",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-15531"
+    ],
+    "RHEA": [
+      "61320",
+      "61320"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (+)-costunolide + O2 + reduced [NADPH--hemoprotein reductase] = H+ + H2O + oxidized [NADPH--hemoprotein reductase] + parthenolide.",
+  "namespace": "molecular_function",
+  "label": "parthenolide synthase activity"
+}

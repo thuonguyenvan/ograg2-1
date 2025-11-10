@@ -1,0 +1,37 @@
+{
+  "id": "GO:0051179",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051179",
+  "relationships": {
+    "is_a": [
+      "GO:0008150"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "establishment and maintenance of localization",
+      "establishment and maintenance of position",
+      "localisation"
+    ],
+    "broad": [],
+    "narrow": [
+      "establishment and maintenance of cellular component location",
+      "establishment and maintenance of substance location",
+      "establishment and maintenance of substrate location"
+    ],
+    "related": [
+      "single organism localization",
+      "single-organism localization"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dos",
+      "mah",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process in which a cell, a substance, or a cellular entity, such as a protein complex or organelle, is transported, tethered to or otherwise maintained in a specific location. In the case of substances, localization may also be achieved via selective degradation.",
+  "namespace": "biological_process",
+  "label": "localization"
+}

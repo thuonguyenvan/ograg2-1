@@ -1,0 +1,45 @@
+{
+  "id": "GO:1903221",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903221",
+  "relationships": {
+    "is_a": [
+      "GO:0010564",
+      "GO:0051052"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of mitotic recombination involved in collapsed replication fork processing",
+      "regulation of mitotic recombination involved in recovery from replication fork arrest",
+      "regulation of mitotic recombination involved in recovery from replication fork stalling",
+      "regulation of mitotic recombination involved in replication fork processing"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "prevention of genomic instability induced by DNA replication fork arrest",
+      "regulation of mitotic recombination involved in replication fork restart",
+      "regulation of mitotic recombination involved in replication restart"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23093942",
+      "23093942"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of mitotic recombination-dependent replication fork processing. Regulation of mitotic recombination prevents recombination between inappropriate homologous sequences.",
+  "namespace": "biological_process",
+  "label": "regulation of mitotic recombination-dependent replication fork processing"
+}

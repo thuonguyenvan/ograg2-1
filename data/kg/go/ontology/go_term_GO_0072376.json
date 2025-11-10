@@ -1,0 +1,30 @@
+{
+  "id": "GO:0072376",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072376",
+  "relationships": {
+    "is_a": [
+      "GO:0051604"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein activation pathway",
+      "protein activitory cascade"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mah",
+      "pde",
+      "add",
+      "add"
+    ]
+  },
+  "definition": "A sequential series of modifications to a set of proteins where the product of one reaction catalyzes the following reaction, ultimately leading to the generation of a mature protein. Modifications typically include proteolysis or covalent modification, and may also include binding events.",
+  "namespace": "biological_process",
+  "label": "protein activation cascade"
+}

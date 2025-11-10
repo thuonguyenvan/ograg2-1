@@ -1,0 +1,37 @@
+{
+  "id": "GO:0006768",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006768",
+  "relationships": {
+    "is_a": [
+      "GO:0006790",
+      "GO:0032787",
+      "GO:0043603"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "biotin metabolism",
+      "vitamin B7 metabolic process",
+      "vitamin B7 metabolism",
+      "vitamin H metabolic process",
+      "vitamin H metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-196780"
+    ],
+    "Wikipedia": [
+      "Biotin"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving biotin, cis-tetrahydro-2-oxothieno(3,4-d)imidazoline-4-valeric acid; the (+) enantiomer is very widely distributed in cells and serves as a carrier in a number of enzymatic beta-carboxylation reactions.",
+  "namespace": "biological_process",
+  "label": "Biotin transport and metabolism"
+}

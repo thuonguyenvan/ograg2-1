@@ -1,0 +1,26 @@
+{
+  "id": "GO:0071461",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071461",
+  "relationships": {
+    "is_a": [
+      "GO:0051775"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular redox signal response"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus indicating redox state. Redox state refers to the balance of oxidized versus reduced forms of electron donors and acceptors in an organelle, cell or organ; plastoquinone, glutathione (GSH/GSSG), and nicotinamide nucleotides (NAD+/NADH and NADP+/NADPH) are among the most important.",
+  "namespace": "biological_process",
+  "label": "cellular response to redox state"
+}

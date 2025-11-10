@@ -1,0 +1,30 @@
+{
+  "id": "GO:0002926",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002926",
+  "relationships": {
+    "is_a": [
+      "GO:0002098"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mcm5 modification",
+      "mcm5s2U34 biosynthesis",
+      "tRNA wobble base 5-methoxycarbonylmethyl-2-thiouridine biosynthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "hjd"
+    ],
+    "PMID": [
+      "22768388"
+    ]
+  },
+  "definition": "The process whereby a wobble base uridine residue in a tRNA is modified to 5-methoxycarbonylmethyl-2-thiouridine.",
+  "namespace": "biological_process",
+  "label": "tRNA wobble base 5-methoxycarbonylmethyl-2-thiouridinylation"
+}

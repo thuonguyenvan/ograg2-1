@@ -1,0 +1,33 @@
+{
+  "id": "GO:0080079",
+  "uri": "http://purl.obolibrary.org/obo/GO_0080079",
+  "relationships": {
+    "is_a": [
+      "GO:0008422"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-cellobiose glucosidase activity",
+      "cellobiose glucohydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-10773"
+    ],
+    "RHEA": [
+      "30679",
+      "30679"
+    ],
+    "PMID": [
+      "15604686"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-cellobiose + H2O = 2 D-glucose.",
+  "namespace": "molecular_function",
+  "label": "cellobiose glucosidase activity"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "GO:0003911",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003911",
+  "relationships": {
+    "is_a": [
+      "GO:0003909"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "DNA joinase activity",
+      "deoxyribonucleate ligase",
+      "deoxyribonucleic acid joinase",
+      "deoxyribonucleic acid ligase",
+      "deoxyribonucleic joinase",
+      "deoxyribonucleic ligase",
+      "polynucleotide ligase"
+    ],
+    "narrow": [],
+    "related": [
+      "DNA ligase (NAD)",
+      "DNA repair enzyme activity",
+      "DNA-joining enzyme",
+      "deoxyribonucleic repair enzyme",
+      "deoxyribonucleic-joining enzyme",
+      "poly(deoxyribonucleotide):poly(deoxyribonucleotide) ligase (AMP-forming, NMN-forming)",
+      "polydeoxyribonucleotide synthase (NAD(+)) activity",
+      "polydeoxyribonucleotide synthase (NAD)",
+      "polydeoxyribonucleotide synthase (NAD+) activity",
+      "polynucleotide ligase (NAD(+)) activity",
+      "polynucleotide ligase (NAD)",
+      "polynucleotide ligase (NAD+) activity",
+      "polynucleotide ligase (nicotinamide adenine dinucleotide)",
+      "polynucleotide synthetase (nicotinamide adenine dinucleotide)",
+      "polynucleotide synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2",
+      "6.5.1.2"
+    ],
+    "MetaCyc": [
+      "DNA-LIGASE-NAD+-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD+ + deoxyribonucleotide(n) + deoxyribonucleotide(m) = AMP + nicotinamide nucleotide + deoxyribonucleotide(n+m).",
+  "namespace": "molecular_function",
+  "label": "DNA ligase (NAD+) activity"
+}

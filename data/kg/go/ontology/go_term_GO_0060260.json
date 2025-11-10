@@ -1,0 +1,31 @@
+{
+  "id": "GO:0060260",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060260",
+  "relationships": {
+    "is_a": [
+      "GO:0006357",
+      "GO:2000142"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of transcription initiation from RNA polymerase II promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-212436"
+    ],
+    "GOC": [
+      "dph",
+      "tb",
+      "txnOH"
+    ]
+  },
+  "definition": "Any process that modulates the rate, frequency or extent of a process involved in starting transcription from an RNA polymerase II promoter.",
+  "namespace": "biological_process",
+  "label": "Generic Transcription Pathway"
+}

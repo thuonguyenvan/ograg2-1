@@ -1,0 +1,32 @@
+{
+  "id": "GO:0008175",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008175",
+  "relationships": {
+    "is_a": [
+      "GO:0008173",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6782879",
+      "R-HSA-6782881",
+      "R-HSA-6782890",
+      "R-HSA-6783473",
+      "R-HSA-6786500",
+      "R-HSA-6786567"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a methyl group from a donor to a nucleoside residue in a tRNA molecule.",
+  "namespace": "molecular_function",
+  "label": "KIAA1456 (TRM9L) methylates 5-carboxymethyluridine in tRNA yielding 5-methoxycarbonylmethyluridine"
+}

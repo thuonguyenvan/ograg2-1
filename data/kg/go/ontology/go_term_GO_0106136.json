@@ -1,0 +1,28 @@
+{
+  "id": "GO:0106136",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106136",
+  "relationships": {
+    "is_a": [
+      "GO:0051702"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LIMBI"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rjd"
+    ],
+    "PMID": [
+      "30049880"
+    ]
+  },
+  "definition": "The process in which an organism effects a change in the structure or function of a symbiont organism, mediated by secretion of lectins which bind to the bacterial surface. The symbiont is defined as the smaller of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "lectin-induced modified bacterial internalization"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0044754",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044754",
+  "relationships": {
+    "is_a": [
+      "GO:0005767"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "AVd",
+      "degrading autophagic vacuole"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao8444068431",
+      "sao8444068431"
+    ],
+    "GOC": [
+      "sart"
+    ],
+    "PMID": [
+      "19008921",
+      "24657946"
+    ]
+  },
+  "definition": "A type of secondary lysosome in which a primary lysosome has fused with the outer membrane of an autophagosome or amphisome. It is involved in the second step of autophagy in which it degrades contents with acidic lysosomal hydrolases.",
+  "namespace": "cellular_component",
+  "label": "autolysosome"
+}

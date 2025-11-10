@@ -1,0 +1,26 @@
+{
+  "id": "GO:0071237",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071237",
+  "relationships": {
+    "is_a": [
+      "GO:0046678",
+      "GO:0071236",
+      "GO:1901699",
+      "GO:1901701"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a bacteriocin stimulus. A bacteriocin is a protein substance released by certain bacteria that kills but does not lyse closely related strains of bacteria. Specific bacteriocins attach to specific receptors on cell walls and induce specific metabolic block, e.g. cessation of nucleic acid or protein synthesis of oxidative phosphorylation.",
+  "namespace": "biological_process",
+  "label": "cellular response to bacteriocin"
+}

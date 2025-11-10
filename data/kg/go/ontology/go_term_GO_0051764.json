@@ -1,0 +1,30 @@
+{
+  "id": "GO:0051764",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051764",
+  "relationships": {
+    "is_a": [
+      "GO:0007015"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "actin crosslinking",
+      "formation of actin crosslink"
+    ],
+    "broad": [],
+    "narrow": [
+      "bridging actin filaments"
+    ],
+    "related": [
+      "actin bundling"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The process in which two or more actin filaments are connected together by proteins that act as crosslinks between the filaments. The crosslinked filaments may be on the same or differing axes.",
+  "namespace": "biological_process",
+  "label": "actin crosslink formation"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:1903661",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903661",
+  "relationships": {
+    "is_a": [
+      "GO:0031343",
+      "GO:1903659"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of complement-dependent cytotoxicity",
+      "up-regulation of complement-dependent cytotoxicity",
+      "upregulation of complement-dependent cytotoxicity"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of complement-dependent cytotoxicity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24280217"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of complement-dependent cytotoxicity.",
+  "namespace": "biological_process",
+  "label": "positive regulation of complement-dependent cytotoxicity"
+}

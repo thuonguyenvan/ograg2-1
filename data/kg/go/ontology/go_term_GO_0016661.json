@@ -1,0 +1,26 @@
+{
+  "id": "GO:0016661",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016661",
+  "relationships": {
+    "is_a": [
+      "GO:0016491"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "oxidoreductase activity, acting on other nitrogenous compounds as donors, other acceptors"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.-.-",
+      "1.7.-.-"
+    ]
+  },
+  "definition": "Catalysis of an oxidation-reduction (redox) reaction in which a nitrogenous group, excluding NH and NH2 groups, acts as a hydrogen or electron donor and reduces a hydrogen or electron acceptor.",
+  "namespace": "molecular_function",
+  "label": "oxidoreductase activity, acting on other nitrogenous compounds as donors"
+}

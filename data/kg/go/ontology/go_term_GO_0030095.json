@@ -1,0 +1,25 @@
+{
+  "id": "GO:0030095",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030095",
+  "relationships": {
+    "is_a": [
+      "GO:0009523",
+      "GO:0098807"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "An integral chloroplast membrane complex containing the P680 reaction center. In the light, PSII functions as a water-plastoquinone oxidoreductase, transferring electrons from water to plastoquinone.",
+  "namespace": "cellular_component",
+  "label": "chloroplast photosystem II"
+}

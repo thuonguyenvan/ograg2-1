@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102180",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102180",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-11936"
+    ],
+    "RHEA": [
+      "59036",
+      "59036"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4alpha-hydroxymethyl-stigmasta-7,24(241)-dien-3beta-ol + NADH + O2 + H+ = 4alpha-formyl-stigmasta-7,24(241)-dien-3beta-ol + NAD + 2 H2O.",
+  "namespace": "molecular_function",
+  "label": "4alpha-hydroxymethyl-stigmasta-7,24(241)-dien-3beta-ol-methyl oxidase activity"
+}

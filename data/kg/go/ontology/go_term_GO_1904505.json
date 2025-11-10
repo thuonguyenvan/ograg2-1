@@ -1,0 +1,36 @@
+{
+  "id": "GO:1904505",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904505",
+  "relationships": {
+    "is_a": [
+      "GO:0032204",
+      "GO:0080135"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of DNA damage response, telomere maintenance"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "TermGenie",
+      "nc",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22579284"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of telomere maintenance in response to DNA damage.",
+  "namespace": "biological_process",
+  "label": "regulation of telomere maintenance in response to DNA damage"
+}

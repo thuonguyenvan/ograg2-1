@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050060",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050060",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "fatty alcohol oxidoreductase activity",
+      "long-chain alcohol dehydrogenase activity",
+      "long-chain-alcohol:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.192",
+      "1.1.1.192",
+      "1.1.1.192",
+      "1.1.1.192",
+      "1.1.1.192"
+    ],
+    "MetaCyc": [
+      "LONG-CHAIN-ALCOHOL-DEHYDROGENASE-RXN",
+      "LONG-CHAIN-ALCOHOL-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "17977"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a long-chain alcohol + 2 NAD+ + H2O = a long-chain carboxylate + 2 NADH.",
+  "namespace": "molecular_function",
+  "label": "long-chain-alcohol dehydrogenase activity"
+}

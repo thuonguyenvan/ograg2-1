@@ -1,0 +1,40 @@
+{
+  "id": "GO:0021817",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021817",
+  "relationships": {
+    "is_a": [
+      "GO:0030473"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nucleokinesis involved in cell locomotion in cerebral cortex glial-mediated radial migration"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "nucleokinesis involved in cell locomotion in cerebral cortex radial glia guided migration"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid",
+      "tb",
+      "dph",
+      "dph",
+      "tb"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "12626695"
+    ]
+  },
+  "definition": "The microtubule-mediated movement of the nucleus that is required for the movement of cells along radial glial fibers as a component of the process of cerebral cortex glial-mediated radial cell migration.",
+  "namespace": "biological_process",
+  "label": "nucleokinesis involved in cell motility in cerebral cortex radial glia guided migration"
+}

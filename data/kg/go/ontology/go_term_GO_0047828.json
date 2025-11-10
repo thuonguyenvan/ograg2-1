@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047828",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047828",
+  "relationships": {
+    "is_a": [
+      "GO:0016861"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-lyxose aldose-ketose-isomerase activity",
+      "D-lyxose isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.1.15",
+      "5.3.1.15",
+      "5.3.1.15",
+      "5.3.1.15"
+    ],
+    "KEGG_REACTION": [
+      "R01898"
+    ],
+    "MetaCyc": [
+      "D-LYXOSE-KETOL-ISOMERASE-RXN"
+    ],
+    "RHEA": [
+      "14201",
+      "14201"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-lyxose = D-xylulose.",
+  "namespace": "molecular_function",
+  "label": "D-lyxose ketol-isomerase activity"
+}

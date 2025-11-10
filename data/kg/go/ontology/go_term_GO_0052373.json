@@ -1,0 +1,35 @@
+{
+  "id": "GO:0052373",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052373",
+  "relationships": {
+    "is_a": [
+      "GO:0140546"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "suppression of symbiont entry into host by host"
+    ],
+    "broad": [
+      "negative regulation by organism of entry into other organism involved in symbiotic interaction"
+    ],
+    "narrow": [
+      "inhibition by organism of entry into other organism during symbiotic interaction"
+    ],
+    "related": [
+      "down regulation by organism of entry into other organism during symbiotic interaction",
+      "down-regulation by organism of entry into other organism during symbiotic interaction",
+      "downregulation by organism of entry into other organism during symbiotic interaction",
+      "negative regulation by organism of entry into other organism during symbiotic interaction"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_pamgo_17jul06",
+      "tb"
+    ]
+  },
+  "definition": "Any process in which an organism stops, prevents, or reduces the frequency, rate or extent to which it enters into a second organism, where the two organisms are in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "suppression of symbiont entry into host"
+}

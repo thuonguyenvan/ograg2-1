@@ -1,0 +1,31 @@
+{
+  "id": "GO:0006740",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006740",
+  "relationships": {
+    "is_a": [
+      "GO:0006091",
+      "GO:0006739"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NADP (reduced) regeneration",
+      "reduced NADP regeneration",
+      "reduced nicotinamide adenine dinucleotide phosphate regeneration"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-389542"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A metabolic process that generates a pool of NADPH by the reduction of NADP+.",
+  "namespace": "biological_process",
+  "label": "NADPH regeneration"
+}

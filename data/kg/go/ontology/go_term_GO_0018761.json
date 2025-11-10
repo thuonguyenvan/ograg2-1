@@ -1,0 +1,39 @@
+{
+  "id": "GO:0018761",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018761",
+  "relationships": {
+    "is_a": [
+      "GO:0000257"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3,5-dibromo-4-hydroxybenzonitrile aminohydrolase activity",
+      "bromoxynil-specific nitrilase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.5.6"
+    ],
+    "KEGG_REACTION": [
+      "R04349"
+    ],
+    "MetaCyc": [
+      "3.5.5.6-RXN"
+    ],
+    "RHEA": [
+      "22100",
+      "22100"
+    ],
+    "UM-BBD_enzymeID": [
+      "r0548"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3,5-dibromo-4-hydroxybenzonitrile + 2 H2O = 3,5-dibromo-4-hydroxybenzoate + NH4. Involved in the bacterial degradation of the herbicide bromoxynil.",
+  "namespace": "molecular_function",
+  "label": "bromoxynil nitrilase activity"
+}

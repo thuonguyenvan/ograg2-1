@@ -1,0 +1,31 @@
+{
+  "id": "GO:0019956",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019956",
+  "relationships": {
+    "is_a": [
+      "GO:0019955"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "ai",
+      "rl"
+    ],
+    "PMID": [
+      "12183377"
+    ],
+    "Wikipedia": [
+      "Chemokine"
+    ]
+  },
+  "definition": "Binding to a chemokine. Chemokines are a family of small chemotactic cytokines; their name is derived from their ability to induce directed chemotaxis in nearby responsive cells. All chemokines possess a number of conserved cysteine residues involved in intramolecular disulfide bond formation. Some chemokines are considered pro-inflammatory and can be induced during an immune response to recruit cells of the immune system to a site of infection, while others are considered homeostatic and are involved in controlling the migration of cells during normal processes of tissue maintenance or development. Chemokines are found in all vertebrates, some viruses and some bacteria.",
+  "namespace": "molecular_function",
+  "label": "chemokine binding"
+}

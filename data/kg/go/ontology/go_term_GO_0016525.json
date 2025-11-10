@@ -1,0 +1,30 @@
+{
+  "id": "GO:0016525",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016525",
+  "relationships": {
+    "is_a": [
+      "GO:0045765",
+      "GO:2000181"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of angiogenesis",
+      "down-regulation of angiogenesis",
+      "downregulation of angiogenesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of angiogenesis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of angiogenesis.",
+  "namespace": "biological_process",
+  "label": "negative regulation of angiogenesis"
+}

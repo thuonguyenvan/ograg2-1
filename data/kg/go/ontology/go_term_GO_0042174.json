@@ -1,0 +1,30 @@
+{
+  "id": "GO:0042174",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042174",
+  "relationships": {
+    "is_a": [
+      "GO:0042173",
+      "GO:0043939"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of sporulation",
+      "down-regulation of sporulation",
+      "downregulation of sporulation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of sporulation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of sporulation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of sporulation resulting in formation of a cellular spore"
+}

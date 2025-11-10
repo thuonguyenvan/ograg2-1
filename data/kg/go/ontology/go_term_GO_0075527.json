@@ -1,0 +1,32 @@
+{
+  "id": "GO:0075527",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075527",
+  "relationships": {
+    "is_a": [
+      "GO:0016032"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA editing involved in viral mRNA transcription"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "857",
+      "857"
+    ],
+    "PMID": [
+      "1629949"
+    ],
+    "GO": [
+      "jl"
+    ]
+  },
+  "definition": "The process by which bases in viral mRNA are chemically altered during viral transcription. This is usually the incorporation of 1 - 6 additional nucleotides, which shifts the reading frame, allowing the generation of different protein products or through a specific nucleotide change that eliminates the termination codon.",
+  "namespace": "biological_process",
+  "label": "RNA editing"
+}

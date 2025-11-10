@@ -1,0 +1,29 @@
+{
+  "id": "GO:0051082",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051082",
+  "relationships": {
+    "is_a": [
+      "GO:0005515"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "chaperone activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9683772",
+      "R-HSA-9694337"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binding to an unfolded protein.",
+  "namespace": "molecular_function",
+  "label": "Trimmed spike protein binds to calnexin"
+}

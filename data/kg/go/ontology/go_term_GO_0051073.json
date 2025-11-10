@@ -1,0 +1,42 @@
+{
+  "id": "GO:0051073",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051073",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cobalamin synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CobS",
+      "adenosylcobinamide-GDP:alpha-ribazole ribazoletransferase activity",
+      "cobalamin (5&apos;-phosphate) synthase activity",
+      "cobalamin-5&apos;-phosphate synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.26",
+      "2.7.8.26",
+      "2.7.8.26",
+      "2.7.8.26",
+      "2.7.8.26",
+      "2.7.8.26"
+    ],
+    "MetaCyc": [
+      "COBALAMINSYN-RXN",
+      "COBALAMINSYN-RXN"
+    ],
+    "RHEA": [
+      "16049"
+    ]
+  },
+  "definition": "Catalysis of the reaction: adenosylcobinamide-GDP + alpha-ribazole = GMP + adenosylcobalamin.",
+  "namespace": "molecular_function",
+  "label": "adenosylcobinamide-GDP ribazoletransferase activity"
+}

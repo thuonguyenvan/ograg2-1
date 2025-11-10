@@ -1,0 +1,48 @@
+{
+  "id": "GO:0004427",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004427",
+  "relationships": {
+    "is_a": [
+      "GO:0016462"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "inorganic diphosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "diphosphate phosphohydrolase activity",
+      "inorganic pyrophosphatase activity",
+      "pyrophosphate phosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.1",
+      "3.6.1.1",
+      "3.6.1.1",
+      "3.6.1.1",
+      "3.6.1.1"
+    ],
+    "KEGG_REACTION": [
+      "R00004"
+    ],
+    "MetaCyc": [
+      "INORGPYROPHOSPHAT-RXN"
+    ],
+    "RHEA": [
+      "24576",
+      "24576"
+    ],
+    "Reactome": [
+      "R-HSA-449937",
+      "R-HSA-6788912",
+      "R-HSA-71732"
+    ]
+  },
+  "definition": "Catalysis of the reaction: diphosphate + H2O = H+ + 2 phosphate.",
+  "namespace": "molecular_function",
+  "label": "PPA1 hydrolyzes pyrophosphate to orthophosphate"
+}

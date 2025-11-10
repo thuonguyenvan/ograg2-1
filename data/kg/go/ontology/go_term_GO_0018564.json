@@ -1,0 +1,31 @@
+{
+  "id": "GO:0018564",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018564",
+  "relationships": {
+    "is_a": [
+      "GO:0016708"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CARDO",
+      "carbazole 1,9alpha-dioxygenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.12.22",
+      "1.14.12.22",
+      "1.14.12.22"
+    ],
+    "UM-BBD_reactionID": [
+      "r0456"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 9H-carbazole + H+ + NAD(P)H + O2 = 2&apos;-aminobiphenyl-2,3-diol + NAD(P)+.",
+  "namespace": "molecular_function",
+  "label": "carbazole 1,9a-dioxygenase [NAD(P)H] activity"
+}

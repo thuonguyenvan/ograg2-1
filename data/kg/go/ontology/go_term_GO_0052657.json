@@ -1,0 +1,58 @@
+{
+  "id": "GO:0052657",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052657",
+  "relationships": {
+    "is_a": [
+      "GO:0106130"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "Transphosphoribosidase activity",
+      "guanine-hypoxanthine phosphoribosyltransferase activity",
+      "hypoxanthine-guanine phosphoribosyltransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "6-hydroxypurine phosphoribosyltransferase activity",
+      "6-mercaptopurine phosphoribosyltransferase activity",
+      "GMP pyrophosphorylase activity",
+      "GPRT",
+      "guanosine 5&apos;-phosphate pyrophosphorylase activity",
+      "guanosine phosphoribosyltransferase activity",
+      "guanylate pyrophosphorylase activity",
+      "guanylic pyrophosphorylase activity",
+      "purine-6-thiol phosphoribosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R01229"
+    ],
+    "MetaCyc": [
+      "GUANPRIBOSYLTRAN-RXN"
+    ],
+    "RHEA": [
+      "25424",
+      "25424"
+    ],
+    "EC": [
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GMP + diphosphate = guanine + 5-phospho-alpha-D-ribose 1-diphosphate.",
+  "namespace": "molecular_function",
+  "label": "guanine phosphoribosyltransferase activity"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0030287",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030287",
+  "relationships": {
+    "is_a": [
+      "GO:0042597"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell wall bounded periplasmic space",
+      "cell wall-enclosed periplasmic space"
+    ],
+    "broad": [],
+    "narrow": [
+      "IWZ",
+      "inner wall zone"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mlg",
+      "mtg_sensu",
+      "bf",
+      "md",
+      "bf",
+      "md"
+    ],
+    "Wikipedia": [
+      "Periplasmic_space",
+      "Periplasmic_space"
+    ]
+  },
+  "definition": "The region between the plasma membrane and the cell wall in organisms lacking an outer cell membrane such as yeast and Gram positive bacteria. The region is thinner than the equivalent in Gram negative bacteria.",
+  "namespace": "cellular_component",
+  "label": "cell wall-bounded periplasmic space"
+}

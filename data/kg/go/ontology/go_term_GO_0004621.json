@@ -1,0 +1,46 @@
+{
+  "id": "GO:0004621",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004621",
+  "relationships": {
+    "is_a": [
+      "GO:0004630"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycoprotein phospholipase D activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GPI-PLD activity",
+      "glycoprotein-phosphatidylinositol phosphatidohydrolase activity",
+      "phosphatidylinositol phospholipase D activity",
+      "phosphatidylinositol-glycan-specific phospholipase D activity",
+      "phosphatidylinositol-specific phospholipase D activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.4.50",
+      "3.1.4.50",
+      "3.1.4.50",
+      "3.1.4.50",
+      "3.1.4.50",
+      "3.1.4.50",
+      "3.1.4.50"
+    ],
+    "MetaCyc": [
+      "GLYCOPROTEIN-PHOSPHOLIPASE-D-RXN"
+    ],
+    "RHEA": [
+      "10832"
+    ],
+    "Reactome": [
+      "R-HSA-8940388"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glycoprotein phosphatidylinositol + H2O = phosphatidate + glycoprotein inositol.",
+  "namespace": "molecular_function",
+  "label": "GPLD1 hydrolyses GPI-anchors from proteins"
+}

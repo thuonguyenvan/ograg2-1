@@ -1,0 +1,31 @@
+{
+  "id": "GO:0140939",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140939",
+  "relationships": {
+    "is_a": [
+      "GO:0042054"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H4 methylase activity",
+      "histone H4 methylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5423038",
+      "R-HSA-5651654",
+      "R-HSA-5651657"
+    ],
+    "PMID": [
+      "28450737"
+    ]
+  },
+  "definition": "Catalysis of the reaction: Catalysis of the reaction: S-adenosyl-L-methionine + a histone H4 = S-adenosyl-L-homocysteine + a methylated histone H4. Histone methylation generally occurs on either an arginine or a lysine residue.",
+  "namespace": "molecular_function",
+  "label": "SUV420H1, SUV420H2, (possibly SMYD3 (KMT3E)) methylate dimethyl-lysine-21 of histone H4 (H4K20)"
+}

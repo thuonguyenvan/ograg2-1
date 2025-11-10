@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047254",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047254",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose:2,4-dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one 2-D-glucosyltransferase activity",
+      "UDPglucose:2,4-dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one 2-D-glucosyltransferase activity",
+      "uridine diphosphoglucose-2,4-dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one 2-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.202",
+      "2.4.1.202",
+      "2.4.1.202",
+      "2.4.1.202",
+      "2.4.1.202"
+    ],
+    "MetaCyc": [
+      "RXN-7022"
+    ],
+    "RHEA": [
+      "15541"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,4-dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one + UDP-D-glucose = 2,4-dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one 2-D-glucoside + UDP.",
+  "namespace": "molecular_function",
+  "label": "2,4-dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one 2-D-glucosyltransferase activity"
+}

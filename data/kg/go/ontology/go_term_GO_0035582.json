@@ -1,0 +1,36 @@
+{
+  "id": "GO:0035582",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035582",
+  "relationships": {
+    "is_a": [
+      "GO:0030514",
+      "GO:0035581",
+      "GO:0071694"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "BMP sequestration in the ECM",
+      "negative regulation of BMP signaling pathway by extracellular sequestering of BMP",
+      "negative regulation of BMP signalling pathway by extracellular matrix sequestering of BMP",
+      "negative regulation of bone morphogenetic protein signaling pathway by extracellular matrix sequestering of bone morphogenetic protein"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "bf",
+      "mah"
+    ],
+    "PMID": [
+      "20855508",
+      "20855508"
+    ]
+  },
+  "definition": "Confining a bone morphogenetic protein (BMP) to the extracellular matrix (ECM), such that it is separated from other components of the signaling pathway, including its cell surface receptor. Bone morphogenetic proteins (BMPs) are secreted as homodimers, non-covalently associated with N-terminal pro-peptides, and are targeted to the extracellular matrix through interaction with matrix proteins.",
+  "namespace": "biological_process",
+  "label": "sequestering of BMP in extracellular matrix"
+}

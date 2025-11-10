@@ -1,0 +1,44 @@
+{
+  "id": "GO:0050451",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050451",
+  "relationships": {
+    "is_a": [
+      "GO:0015036",
+      "GO:0016668"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CoA-disulfide reductase (NADP) activity"
+    ],
+    "broad": [
+      "CoA-disulfide reductase activity",
+      "CoA-disulphide reductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "CoA-disulfide reductase (NADH) activity",
+      "CoADR activity",
+      "NADH:CoA-disulfide oxidoreductase activity",
+      "coenzyme A disulfide reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.1.14",
+      "1.8.1.14",
+      "1.8.1.14",
+      "1.8.1.14"
+    ],
+    "MetaCyc": [
+      "COA-DISULFIDE-REDUCTASE-NADH-RXN"
+    ],
+    "RHEA": [
+      "14705",
+      "14705"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 CoA + NADP+ = CoA-disulfide + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "CoA-disulfide reductase (NADPH) activity"
+}

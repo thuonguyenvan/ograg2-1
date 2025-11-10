@@ -1,0 +1,32 @@
+{
+  "id": "GO:0045903",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045903",
+  "relationships": {
+    "is_a": [
+      "GO:0006450",
+      "GO:0045727"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of translational fidelity",
+      "up-regulation of translational fidelity",
+      "upregulation of translational fidelity"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of translational fidelity",
+      "stimulation of translational fidelity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that increases the ability of the translational apparatus to interpret the genetic code.",
+  "namespace": "biological_process",
+  "label": "positive regulation of translational fidelity"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "GO:1903705",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903705",
+  "relationships": {
+    "is_a": [
+      "GO:0009893",
+      "GO:0070921"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of RNA interference, production of guide RNAs",
+      "positive regulation of RNA interference, production of siRNA",
+      "positive regulation of production of guide RNAs involved in RNA interference",
+      "positive regulation of production of siRNA involved in PTGS",
+      "positive regulation of production of siRNA involved in RNA interference",
+      "up regulation of RNA interference, production of guide RNAs",
+      "up regulation of RNA interference, production of siRNA",
+      "up regulation of production of guide RNAs involved in RNA interference",
+      "up regulation of production of siRNA involved in RNA interference",
+      "up-regulation of RNA interference, production of guide RNAs",
+      "up-regulation of RNA interference, production of siRNA",
+      "up-regulation of production of guide RNAs involved in RNA interference",
+      "up-regulation of production of siRNA involved in RNA interference",
+      "upregulation of RNA interference, production of guide RNAs",
+      "upregulation of RNA interference, production of siRNA",
+      "upregulation of production of guide RNAs involved in RNA interference",
+      "upregulation of production of siRNA involved in RNA interference"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of RNA interference, production of guide RNAs",
+      "activation of RNA interference, production of siRNA",
+      "activation of production of guide RNAs involved in RNA interference",
+      "activation of production of siRNA involved in RNA interference"
+    ],
+    "related": [
+      "positive regulation of production of siRNA involved in post-transcriptional gene silencing by RNA",
+      "positive regulation of siRNA production"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19701182"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of siRNA processing.",
+  "namespace": "biological_process",
+  "label": "positive regulation of siRNA processing"
+}

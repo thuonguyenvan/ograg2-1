@@ -1,0 +1,66 @@
+{
+  "id": "GO:0033743",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033743",
+  "relationships": {
+    "is_a": [
+      "GO:0016671",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein-methionine-R-oxide reductase activity"
+    ],
+    "broad": [
+      "methionine S-oxide reductase activity",
+      "methionine sulfoxide reductase activity"
+    ],
+    "narrow": [
+      "methionine sulfoxide reductase B activity"
+    ],
+    "related": [
+      "MsrB",
+      "PilB",
+      "SelR",
+      "SelX",
+      "methionine S-oxide reductase (R-form oxidizing) activity",
+      "pMRsr",
+      "pMSR",
+      "peptide-methionine:thioredoxin-disulfide S-oxidoreductase [methionine (R)-S-oxide-forming] activity",
+      "selenoprotein R"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.4.12",
+      "1.8.4.12",
+      "1.8.4.12",
+      "1.8.4.12",
+      "1.8.4.12",
+      "1.8.4.12",
+      "1.8.4.12",
+      "1.8.4.12",
+      "1.8.4.12",
+      "1.8.4.12",
+      "1.8.4.12",
+      "1.8.4.12",
+      "1.8.4.12"
+    ],
+    "KEGG_REACTION": [
+      "R07607"
+    ],
+    "MetaCyc": [
+      "1.8.4.12-RXN"
+    ],
+    "RHEA": [
+      "24164",
+      "24164"
+    ],
+    "Reactome": [
+      "R-HSA-5676917"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-methionyl-[protein] + [thioredoxin]-disulfide + H2O = L-methionyl-(R)-S-oxide-[protein] + [thioredoxin]-dithiol.",
+  "namespace": "molecular_function",
+  "label": "MRSBs reduce L-methyl-(R)-S-oxide to L-methionine"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GO:0004132",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004132",
+  "relationships": {
+    "is_a": [
+      "GO:0016814",
+      "GO:0019239"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dCMP aminohydrolase activity",
+      "deoxy-CMP-deaminase activity",
+      "deoxycytidine monophosphate deaminase activity",
+      "deoxycytidine-5&apos;-monophosphate aminohydrolase activity",
+      "deoxycytidine-5&apos;-phosphate deaminase activity",
+      "deoxycytidylate aminohydrolase activity",
+      "deoxycytidylate deaminase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.4.12",
+      "3.5.4.12",
+      "3.5.4.12",
+      "3.5.4.12",
+      "3.5.4.12",
+      "3.5.4.12",
+      "3.5.4.12",
+      "3.5.4.12",
+      "3.5.4.12"
+    ],
+    "MetaCyc": [
+      "DCMP-DEAMINASE-RXN"
+    ],
+    "RHEA": [
+      "22924"
+    ],
+    "Reactome": [
+      "R-HSA-73596"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dCMP + H2O = dUMP + NH3.",
+  "namespace": "molecular_function",
+  "label": "dCMP + H2O =&gt; dUMP + NH4+"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "GO:0071562",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071562",
+  "relationships": {
+    "is_a": [
+      "GO:0022607",
+      "GO:0140056"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NV junction assembly",
+      "NV junction formation",
+      "NVJ assembly",
+      "NVJ formation",
+      "nucleus-vacuole junction formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jp",
+      "jp",
+      "jp",
+      "mah",
+      "mah",
+      "jp"
+    ],
+    "PMID": [
+      "16709156",
+      "28533415",
+      "16709156",
+      "16709156",
+      "16806880",
+      "16806880"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form a nucleus-vacuole junction (NVJ), membrane contact sites formed between the vacuole membrane and the outer nuclear membrane. In S. cerevisiae these contacts are mediated through direct physical interaction between Vac8p and Nvj1p. The NVJ plays roles in piecemeal microautophagy of the nucleus and in the cytoplasm-to-vacuole targeting pathway.",
+  "namespace": "biological_process",
+  "label": "nucleus-vacuole junction assembly"
+}

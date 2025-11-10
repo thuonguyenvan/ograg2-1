@@ -1,0 +1,48 @@
+{
+  "id": "GO:0072680",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072680",
+  "relationships": {
+    "is_a": [
+      "GO:0006929",
+      "GO:0072679"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "extracellular matrix-dependent thymic lymphocyte migration"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "extracellular matrix-dependent immature T cell migration",
+      "extracellular matrix-dependent immature T lymphocyte migration",
+      "extracellular matrix-dependent immature T-cell migration",
+      "extracellular matrix-dependent immature T-lymphocyte migration"
+    ]
+  },
+  "cross_references": {
+    "CL": [
+      "0000893",
+      "0000893",
+      "0000893",
+      "0000893",
+      "0000893",
+      "0000893"
+    ],
+    "GOC": [
+      "BHF",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "20856819"
+    ]
+  },
+  "definition": "The movement of a thymocyte through distinct intrathymic niches (e.g. medulla, cortex), where it receives a unique set of developmental cues required for T-cell development, dependent on extracellular matrix components including fibronectin, collagen and laminin.",
+  "namespace": "biological_process",
+  "label": "extracellular matrix-dependent thymocyte migration"
+}

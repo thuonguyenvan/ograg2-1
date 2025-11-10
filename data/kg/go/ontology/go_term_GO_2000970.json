@@ -1,0 +1,31 @@
+{
+  "id": "GO:2000970",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000970",
+  "relationships": {
+    "is_a": [
+      "GO:0048583"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of glucose detection"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of glucose perception",
+      "regulation of glucose sensing"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of detection of glucose.",
+  "namespace": "biological_process",
+  "label": "regulation of detection of glucose"
+}

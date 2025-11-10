@@ -1,0 +1,45 @@
+{
+  "id": "GO:0018803",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018803",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "trans-2&apos;-carboxybenzalpyruvate hydratase-aldolase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "(3E)-4-(2-carboxyphenyl)-2-oxobut-3-enoate 2-carboxybenzaldehyde-lyase activity",
+      "(3Z)-4-(2-carboxyphenyl)-2-oxobut-3-enoate 2-carboxybenzaldehyde-lyase activity"
+    ],
+    "related": [
+      "(3Z)-4-(2-carboxyphenyl)-2-oxobut-3-enoate 2-carboxybenzaldehyde-lyase (pyruvate-forming)",
+      "2&apos;-carboxybenzalpyruvate aldolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.34",
+      "4.1.2.34",
+      "4.1.2.34",
+      "4.1.2.34",
+      "4.1.2.34",
+      "4.1.2.34"
+    ],
+    "MetaCyc": [
+      "4.1.2.34-RXN"
+    ],
+    "RHEA": [
+      "16453"
+    ],
+    "UM-BBD_reactionID": [
+      "r0487"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (3E)-4-(2-carboxyphenyl)-2-oxobut-3-enoate = 2-carboxybenzaldehyde + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "4-(2-carboxyphenyl)-2-oxobut-3-enoate aldolase activity"
+}

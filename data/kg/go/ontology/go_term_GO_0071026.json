@@ -1,0 +1,34 @@
+{
+  "id": "GO:0071026",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071026",
+  "relationships": {
+    "is_a": [
+      "GO:0071025"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytoplasmic RNA quality control",
+      "cytoplasmic aberrant RNA catabolic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dgf",
+      "krc",
+      "dgf",
+      "krc",
+      "dgf",
+      "krc"
+    ],
+    "PMID": [
+      "18644474"
+    ]
+  },
+  "definition": "The set of processes involved in identifying and degrading defective or aberrant RNAs within the cytoplasm.",
+  "namespace": "biological_process",
+  "label": "cytoplasmic RNA surveillance"
+}

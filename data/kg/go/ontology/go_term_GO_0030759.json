@@ -1,0 +1,43 @@
+{
+  "id": "GO:0030759",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030759",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "6-OMT",
+      "S-adenosyl-L-methionine:3&apos;,4&apos;,5,6-tetrahydroxy-3,7-dimethoxyflavone 6-O-methyltransferase activity",
+      "flavonol 6-O-methyltransferase activity",
+      "flavonol 6-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.84",
+      "2.1.1.84",
+      "2.1.1.84",
+      "2.1.1.84",
+      "2.1.1.84",
+      "2.1.1.84"
+    ],
+    "KEGG_REACTION": [
+      "R04505"
+    ],
+    "MetaCyc": [
+      "2.1.1.84-RXN"
+    ],
+    "RHEA": [
+      "18717",
+      "18717"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;,4&apos;,5,6-tetrahydroxy-3,7-dimethoxyflavone + S-adenosyl-L-methionine(1+) = 3&apos;,4&apos;,5-trihydroxy-3,6,7-trimethoxyflavone + S-adenosyl-L-homocysteine + H+.",
+  "namespace": "molecular_function",
+  "label": "methylquercetagetin 6-O-methyltransferase activity"
+}

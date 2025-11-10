@@ -1,0 +1,31 @@
+{
+  "id": "GO:0075118",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075118",
+  "relationships": {
+    "is_a": [
+      "GO:0075109"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "modulation by symbiont of host G protein-coupled receptor signal transduction",
+      "modulation by symbiont of host G-protein coupled receptor protein signal transduction",
+      "perturbation of host G protein-coupled receptor signal transduction pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "modulation by symbiont of host signal transduction mediated by G-protein alpha subunit",
+      "modulation by symbiont of host signal transduction mediated by G-protein beta subunit",
+      "modulation by symbiont of host signal transduction mediated by G-protein gamma subunit"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pamgo_curators"
+    ]
+  },
+  "definition": "A process by which a symbiont alters or subverts the normal execution of a host G protein-coupled receptor signal transduction pathway. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated perturbation of host G protein-coupled receptor signal transduction pathway"
+}

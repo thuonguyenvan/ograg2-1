@@ -1,0 +1,41 @@
+{
+  "id": "GO:0033230",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033230",
+  "relationships": {
+    "is_a": [
+      "GO:0015424",
+      "GO:0033229",
+      "GO:0033284"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent cysteine transporter activity",
+      "cysteine-transporting ATPase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATPase-coupled cysteine transmembrane transporter activity",
+      "ATPase-coupled cysteine transporter activity",
+      "cysteine exporter",
+      "cysteine-exporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN0-3"
+    ],
+    "RHEA": [
+      "29783",
+      "29783"
+    ],
+    "PMID": [
+      "25837721",
+      "32144203"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + L-cysteine(in) = ADP + H+ + L-cysteine(out) + phosphate.",
+  "namespace": "molecular_function",
+  "label": "ABC-type cysteine transporter activity"
+}

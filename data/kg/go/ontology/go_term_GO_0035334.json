@@ -1,0 +1,29 @@
+{
+  "id": "GO:0035334",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035334",
+  "relationships": {
+    "is_a": [
+      "GO:0016485"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Notch S1 cleavage"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf"
+    ],
+    "PMID": [
+      "12651094",
+      "12651094"
+    ]
+  },
+  "definition": "The proteolytic cleavages to the Notch protein that occur prior to ligand binding. A primary cleavage event within the extracellular domain whilst the Notch protein in still in the secretory pathway, leads to the transportation of a processed heterodimer to the cell surface.",
+  "namespace": "biological_process",
+  "label": "Notch receptor processing, ligand-independent"
+}

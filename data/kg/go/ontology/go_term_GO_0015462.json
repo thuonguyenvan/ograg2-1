@@ -1,0 +1,34 @@
+{
+  "id": "GO:0015462",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015462",
+  "relationships": {
+    "is_a": [
+      "GO:0015450",
+      "GO:0140359"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ABC-type protein transmembrane transporter activity",
+      "protein ABC transporter"
+    ],
+    "broad": [
+      "protein-transporting ATPase activity"
+    ],
+    "narrow": [
+      "pilin/fimbrilin exporter activity"
+    ],
+    "related": [
+      "ATPase-coupled protein transmembrane transporter activity",
+      "protein-transmembrane transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + protein(out) = ADP + phosphate + protein(in).",
+  "namespace": "molecular_function",
+  "label": "ABC-type protein transporter activity"
+}

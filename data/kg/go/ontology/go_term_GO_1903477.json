@@ -1,0 +1,31 @@
+{
+  "id": "GO:1903477",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903477",
+  "relationships": {
+    "is_a": [
+      "GO:0071519",
+      "GO:1903479"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "actin filament bundle assembly involved in mitotic actomyosin contractile ring assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_cell_cycle",
+      "vw"
+    ],
+    "GO_REF": [
+      "0000060"
+    ]
+  },
+  "definition": "Any actin filament bundle assembly that is involved in mitotic actomyosin contractile ring assembly.",
+  "namespace": "biological_process",
+  "label": "mitotic contractile ring actin filament bundle assembly"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0015188",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015188",
+  "relationships": {
+    "is_a": [
+      "GO:0015175",
+      "GO:0015179",
+      "GO:0015658"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "L-isoleucine transporter activity"
+    ],
+    "narrow": [
+      "isoleucine/valine:sodium symporter activity",
+      "leucine/isoleucine/valine porter activity",
+      "leucine/valine/isoleucine permease activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of L-isoleucine from one side of a membrane to the other. L-isoleucine is (2R*,3R*)-2-amino-3-methylpentanoic acid.",
+  "namespace": "molecular_function",
+  "label": "L-isoleucine transmembrane transporter activity"
+}

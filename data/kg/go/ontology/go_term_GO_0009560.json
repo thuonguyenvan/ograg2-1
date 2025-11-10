@@ -1,0 +1,30 @@
+{
+  "id": "GO:0009560",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009560",
+  "relationships": {
+    "is_a": [
+      "GO:0003006",
+      "GO:0030154"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "female gametophyte egg cell differentiation"
+    ],
+    "broad": [
+      "female gamete generation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid",
+      "mtg_plant",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "The process in which an uncellularized embryo sac nucleus cellularizes and acquires the specialized features of an egg cell. An example of this process is found in Arabidopsis thaliana.",
+  "namespace": "biological_process",
+  "label": "embryo sac egg cell differentiation"
+}

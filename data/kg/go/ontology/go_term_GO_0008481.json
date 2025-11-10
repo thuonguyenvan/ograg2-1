@@ -1,0 +1,45 @@
+{
+  "id": "GO:0008481",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008481",
+  "relationships": {
+    "is_a": [
+      "GO:0001727",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:sphinganine 1-phosphotransferase activity",
+      "dihydrosphingosine kinase (phosphorylating)",
+      "dihydrosphingosine kinase activity",
+      "sphinganine kinase activity",
+      "sphingosine kinase (phosphorylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.91",
+      "2.7.1.91",
+      "2.7.1.91",
+      "2.7.1.91",
+      "2.7.1.91"
+    ],
+    "MetaCyc": [
+      "SPHINGANINE-KINASE-RXN"
+    ],
+    "RHEA": [
+      "51496",
+      "51496"
+    ],
+    "Reactome": [
+      "R-HSA-5218845",
+      "R-HSA-9625814"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a sphingoid base + ATP = a sphingoid 1-phosphate + ADP + H+.",
+  "namespace": "molecular_function",
+  "label": "SPHK1 phosphorylates sphingosine in response to E2 stimulation"
+}

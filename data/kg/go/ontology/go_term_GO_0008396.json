@@ -1,0 +1,32 @@
+{
+  "id": "GO:0008396",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008396",
+  "relationships": {
+    "is_a": [
+      "GO:0008387"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "cytochrome P450 CYP7B1"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "68740",
+      "68740"
+    ],
+    "Reactome": [
+      "R-HSA-191972",
+      "R-HSA-192065",
+      "R-HSA-192178",
+      "R-HSA-5602885"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 7-oxocholesterol + H+ + NADPH = 7alpha-hydroxycholesterol + NADP+.",
+  "namespace": "molecular_function",
+  "label": "Defective CYP7B1 does not 7-hydroxylate 25OH-CHOL"
+}

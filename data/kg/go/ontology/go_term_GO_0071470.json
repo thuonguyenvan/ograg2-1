@@ -1,0 +1,30 @@
+{
+  "id": "GO:0071470",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071470",
+  "relationships": {
+    "is_a": [
+      "GO:0006970",
+      "GO:0062197",
+      "GO:0071214"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular osmotic response",
+      "cellular osmotic stress response"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus indicating an increase or decrease in the concentration of solutes outside the organism or cell.",
+  "namespace": "biological_process",
+  "label": "cellular response to osmotic stress"
+}

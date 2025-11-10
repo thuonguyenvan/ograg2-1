@@ -1,0 +1,29 @@
+{
+  "id": "GO:0008951",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008951",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "palmitoleoyl ACP-dependent acyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PALMITOTRANS-RXN",
+      "PALMITOTRANS-RXN"
+    ],
+    "RHEA": [
+      "44012"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a palmitoleoyl-[acyl-carrier protein] + alpha-KDO-(2-&gt;4)-alpha-KDO-(2-&gt;6)-lipid IVA = KDO2-(palmitoleoyl)-lipid IVA + a holo-[acyl-carrier protein].",
+  "namespace": "molecular_function",
+  "label": "palmitoleoyl [acyl-carrier-protein]-dependent acyltransferase activity"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0044569",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044569",
+  "relationships": {
+    "is_a": [
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Ni-Fe hydrogenase complex",
+      "nickel-iron hydrogenase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators",
+      "tt"
+    ],
+    "PMID": [
+      "8936309"
+    ]
+  },
+  "definition": "A microbial enzyme complex which contains nickel and iron in its active site. In Acetomicrobium flavidum it is an alpha 2 beta 2 tetramer.",
+  "namespace": "cellular_component",
+  "label": "[Ni-Fe] hydrogenase complex"
+}

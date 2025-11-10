@@ -1,0 +1,31 @@
+{
+  "id": "GO:0140761",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140761",
+  "relationships": {
+    "is_a": [
+      "GO:0004115"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "calcium- and calmodulin-regulated AMP-specific phosphodiesterase activity",
+      "calcium- and calmodulin-regulated cyclic-AMP phosphodiesterase activity",
+      "calcium/calmodulin-regulated cAMP-specific phosphodiesterase activity"
+    ],
+    "broad": [
+      "calcium- and calmodulin-regulated 3&apos;,5&apos;-cyclic-AMP phosphodiesterase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "calcium- and calmodulin-regulated cAMP phosphodiesterase activity"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "15901640"
+    ]
+  },
+  "definition": "Catalysis of the reactions: nucleoside 3&apos;,5&apos;-cyclic AMP + H2O = AMP + H+; this activity is activated by binding to calcium-bound calmodulin.",
+  "namespace": "molecular_function",
+  "label": "calmodulin-activated 3&apos;,5&apos;-cyclic-AMP phosphodiesterase activity"
+}

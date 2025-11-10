@@ -1,0 +1,45 @@
+{
+  "id": "GO:0008709",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008709",
+  "relationships": {
+    "is_a": [
+      "GO:0033764"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "7-alpha-hydroxysteroid dehydrogenase activity",
+      "7alpha-hydroxy steroid dehydrogenase activity",
+      "7alpha-hydroxysteroid dehydrogenase activity",
+      "7alpha-hydroxysteroid:NAD+ 7-oxidoreductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "7alpha-HSDH"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.159",
+      "1.1.1.159",
+      "1.1.1.159",
+      "1.1.1.159",
+      "1.1.1.159",
+      "1.1.1.159"
+    ],
+    "KEGG_REACTION": [
+      "R02792"
+    ],
+    "MetaCyc": [
+      "7-ALPHA-HYDROXYSTEROID-DEH-RXN"
+    ],
+    "RHEA": [
+      "19409",
+      "19409"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cholate + NAD+ = -3alpha,12-alpha-dihydroxy-7-oxo--5beta-cholanate + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "cholate 7-alpha-dehydrogenase (NAD+) activity"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "GO:0004360",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004360",
+  "relationships": {
+    "is_a": [
+      "GO:0070548"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucosamine-6-phosphate isomerase (glutamine-forming) activity"
+    ],
+    "broad": [
+      "glucosaminephosphate isomerase"
+    ],
+    "narrow": [],
+    "related": [
+      "D-fructose-6-phosphate amidotransferase activity",
+      "GlcN6P synthase activity",
+      "L-glutamine-D-fructose-6-phosphate amidotransferase activity",
+      "L-glutamine:D-fructose-6-phosphate isomerase (deaminating)",
+      "glucosamine 6-phosphate synthase activity",
+      "glucosamine--fructose-6-phosphate aminotransferase (isomerizing) activity",
+      "glucosamine-6-phosphate synthase activity",
+      "hexosephosphate aminotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.16",
+      "2.6.1.16",
+      "2.6.1.16",
+      "2.6.1.16",
+      "2.6.1.16",
+      "2.6.1.16",
+      "2.6.1.16",
+      "2.6.1.16",
+      "2.6.1.16",
+      "2.6.1.16",
+      "2.6.1.16"
+    ],
+    "KEGG_REACTION": [
+      "R00768"
+    ],
+    "MetaCyc": [
+      "L-GLN-FRUCT-6-P-AMINOTRANS-RXN"
+    ],
+    "RHEA": [
+      "13237",
+      "13237"
+    ],
+    "Reactome": [
+      "R-HSA-4085027",
+      "R-HSA-449715"
+    ]
+  },
+  "definition": "Catalysis of the reaction: beta-D-fructose 6-phosphate + L-glutamine = D-glucosamine 6-phosphate + L-glutamate.",
+  "namespace": "molecular_function",
+  "label": "GFPT1,2 transfer an amino group from L-Gln to F6P to form GlcN6P"
+}

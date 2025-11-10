@@ -1,0 +1,27 @@
+{
+  "id": "GO:0061663",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061663",
+  "relationships": {
+    "is_a": [
+      "GO:0019788",
+      "GO:0061659"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "E3"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "dph"
+    ]
+  },
+  "definition": "Catalysis of the transfer of NEDD8 to a substrate protein via the reaction X-NEDD8 + S = X + S-NEDD8, where X is either an E2 or E3 enzyme, the X-NEDD8 linkage is a thioester bond, and the S-NEDD8 linkage is an isopeptide bond between the C-terminal amino acid of NEDD8 and the epsilon-amino group of lysine residues in the substrate.",
+  "namespace": "molecular_function",
+  "label": "NEDD8 ligase activity"
+}

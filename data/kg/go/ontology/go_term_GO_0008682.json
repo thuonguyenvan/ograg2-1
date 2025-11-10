@@ -1,0 +1,40 @@
+{
+  "id": "GO:0008682",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008682",
+  "relationships": {
+    "is_a": [
+      "GO:0004497",
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "2-octoprenyl-3-methyl-6-methoxy-1,4-benzoquinone hydroxylase activity"
+    ],
+    "related": [
+      "demethoxy-ubiquinone hydroxylase",
+      "demethoxyubiquinone monooxygenase"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.99.60"
+    ],
+    "MetaCyc": [
+      "RXN-18458"
+    ],
+    "RHEA": [
+      "50908",
+      "50908"
+    ],
+    "GOC": [
+      "vw",
+      "vw"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 6-methoxy-3-methyl-2-all-trans-polyprenyl-1,4-benzoquinol + donor-H2 + O2 = acceptor + a 3-demethylubiquinol + H2O.",
+  "namespace": "molecular_function",
+  "label": "3-demethoxyubiquinol 3-hydroxylase activity"
+}

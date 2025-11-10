@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050382",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050382",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "uracil-5-carboxylate carboxy-lyase (uracil-forming)",
+      "uracil-5-carboxylate carboxy-lyase activity",
+      "uracil-5-carboxylic acid decarboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.66",
+      "4.1.1.66",
+      "4.1.1.66",
+      "4.1.1.66",
+      "4.1.1.66"
+    ],
+    "KEGG_REACTION": [
+      "R00973"
+    ],
+    "MetaCyc": [
+      "URACIL-5-CARBOXYLATE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "17685",
+      "17685"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H+ + uracil 5-carboxylate = CO2 + uracil.",
+  "namespace": "molecular_function",
+  "label": "uracil-5-carboxylate decarboxylase activity"
+}

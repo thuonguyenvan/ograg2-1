@@ -1,0 +1,27 @@
+{
+  "id": "GO:0019412",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019412",
+  "relationships": {
+    "is_a": [
+      "GO:0009060",
+      "GO:0015975"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "hydrogen oxidation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P283-PWY",
+      "P283-PWY"
+    ]
+  },
+  "definition": "The oxidation of hydrogen (H2) to water (H2O), using oxygen (O2) as the electron acceptor. A hydrogenase enzyme binds H2 and the hydrogen atoms are passed through an electron transfer chain to O2 to form water.",
+  "namespace": "biological_process",
+  "label": "aerobic respiration, using hydrogen as electron donor"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:0033544",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033544",
+  "relationships": {
+    "is_a": [
+      "GO:0033542"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "MetaCyc": [
+      "PWY-5138"
+    ]
+  },
+  "definition": "A fatty acid beta-oxidation pathway by which fatty acids having cis-double bonds on even-numbered carbons are degraded. In this pathway, the intermediate 2,4-dienoyl-CoA is converted to cis-2-enoyl-CoA through one more cycle of the core beta-oxidation pathway. Cis-2-enoyl-CoA cannot be completely degraded via the core beta-oxidation pathway because hydratation of cis-2-enoyl-CoA yields D-3-hydroxyacyl-CoA, which is not a substrate for 3-hydroxylacyl-CoA dehydrogenase. Cis-2-enoyl-CoA must enter the so-called epimerase pathway, which involves converting D-3-hydroxyacyl-CoA to L-3-hydroxyacyl-CoA by 3-hydroxylacyl-CoA epimerase or by two stereo-specific enoyl-CoA hydratases. L-3-hydroxyacyl-CoA then returns to the core beta-oxidation pathway. Fatty acid beta-oxidation begins with the addition of coenzyme A to a fatty acid, and ends when only two or three carbons remain (as acetyl-CoA or propionyl-CoA respectively).",
+  "namespace": "biological_process",
+  "label": "fatty acid beta-oxidation, unsaturated, even number, epimerase pathway"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:1904561",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904561",
+  "relationships": {
+    "is_a": [
+      "GO:0097306",
+      "GO:1901699",
+      "GO:1904560"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mr"
+    ],
+    "GO_REF": [
+      "0000071"
+    ],
+    "PMID": [
+      "25796330"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a diphenidol stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to diphenidol"
+}

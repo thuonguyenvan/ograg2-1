@@ -1,0 +1,37 @@
+{
+  "id": "GO:1903040",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903040",
+  "relationships": {
+    "is_a": [
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "EJC assembly",
+      "EJC formation",
+      "exon-exon junction complex formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "sart",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000079"
+    ],
+    "PMID": [
+      "17606899"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form an exon-exon junction complex.",
+  "namespace": "biological_process",
+  "label": "exon-exon junction complex assembly"
+}

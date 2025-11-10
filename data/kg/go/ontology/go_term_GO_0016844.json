@@ -1,0 +1,42 @@
+{
+  "id": "GO:0016844",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016844",
+  "relationships": {
+    "is_a": [
+      "GO:0016810"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-alpha(S)-strictosidine tryptamine-lyase (secologanin-forming)",
+      "3-alpha(S)-strictosidine tryptamine-lyase activity",
+      "STR activity",
+      "strictosidine synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.99.13",
+      "3.5.99.13",
+      "3.5.99.13",
+      "3.5.99.13",
+      "3.5.99.13"
+    ],
+    "KEGG_REACTION": [
+      "R03738"
+    ],
+    "MetaCyc": [
+      "STRICTOSIDINE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "15013",
+      "15013"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3alpha(S)-strictosidine + H2O = secologanin + tryptamine.",
+  "namespace": "molecular_function",
+  "label": "strictosidine synthase activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0061680",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061680",
+  "relationships": {
+    "is_a": [
+      "GO:0019595",
+      "GO:0061679",
+      "GO:0061718"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "NPGLUCAT-PWY",
+      "NPGLUCAT-PWY"
+    ],
+    "GOC": [
+      "dph"
+    ],
+    "PMID": [
+      "12921536"
+    ]
+  },
+  "definition": "The Entner-Doudoroff pathway that proceeds through a D-gluconate intermediate and yields pyruvate and D-glyceraldehyde.",
+  "namespace": "biological_process",
+  "label": "Entner-Doudoroff pathway through gluconate to D-glyceraldehyde"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047019",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047019",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(indol-3-yl)ethanol:NADP+ oxidoreductase activity",
+      "indole-3-ethanol:NADP+ oxidoreductase activity",
+      "indoleacetaldehyde (reduced nicotinamide adenine dinucleotide phosphate) reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.191",
+      "1.1.1.191",
+      "1.1.1.191",
+      "1.1.1.191",
+      "1.1.1.191"
+    ],
+    "KEGG_REACTION": [
+      "R02680"
+    ],
+    "MetaCyc": [
+      "1.1.1.191-RXN"
+    ],
+    "RHEA": [
+      "17037",
+      "17037"
+    ]
+  },
+  "definition": "Catalysis of the reaction: indole-3-ethanol + NADP+ = (indol-3-yl)acetaldehyde + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "indole-3-acetaldehyde reductase (NADPH) activity"
+}

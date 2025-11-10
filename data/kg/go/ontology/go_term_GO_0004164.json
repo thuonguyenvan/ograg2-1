@@ -1,0 +1,43 @@
+{
+  "id": "GO:0004164",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004164",
+  "relationships": {
+    "is_a": [
+      "GO:0008276",
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:2-(3-carboxy-3-aminopropyl)-L-histidine methyltransferase activity",
+      "S-adenosyl-L-methionine:elongation factor 2 methyltransferase activity",
+      "diphthine methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.98",
+      "2.1.1.98",
+      "2.1.1.98",
+      "2.1.1.98"
+    ],
+    "MetaCyc": [
+      "RXN-14326"
+    ],
+    "RHEA": [
+      "36415",
+      "36415"
+    ],
+    "PMID": [
+      "15485916",
+      "20873788",
+      "3042777"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-[(3S)-amino-3-carboxypropyl]-L-histidyl-[translation elongation factor 2] + 3 S-adenosyl-L-methionine = diphthine-[translation elongation factor 2] + 3 H+ + 3 S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "diphthine synthase activity"
+}

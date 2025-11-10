@@ -1,0 +1,43 @@
+{
+  "id": "GO:1904674",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904674",
+  "relationships": {
+    "is_a": [
+      "GO:1902459",
+      "GO:1904672"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of somatic stem cell population maintenance",
+      "up-regulation of somatic stem cell population maintenance",
+      "upregulation of somatic stem cell population maintenance"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of somatic stem cell population maintenance"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "TermGenie",
+      "rph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19409607"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of somatic stem cell population maintenance.",
+  "namespace": "biological_process",
+  "label": "positive regulation of somatic stem cell population maintenance"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015125",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015125",
+  "relationships": {
+    "is_a": [
+      "GO:0008028",
+      "GO:0170055"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-194079",
+      "R-HSA-194083",
+      "R-HSA-194130",
+      "R-HSA-5661184",
+      "R-HSA-5661198",
+      "R-HSA-9733964"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of bile acid from one side of a membrane to the other. Bile acids are any of a group of steroid carboxylic acids occurring in bile, where they are present as the sodium salts of their amides with glycine or taurine.",
+  "namespace": "molecular_function",
+  "label": "SLC51A:SLC51B transports bile salts from cytosol to extracellular region"
+}

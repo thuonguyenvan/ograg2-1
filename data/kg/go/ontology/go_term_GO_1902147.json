@@ -1,0 +1,29 @@
+{
+  "id": "GO:1902147",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902147",
+  "relationships": {
+    "is_a": [
+      "GO:1902145"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of cytokinesis checkpoint effector process",
+      "regulation of response to signal involved in cytokinesis checkpoint"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_cell_cycle",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of response to cytokinesis checkpoint signaling.",
+  "namespace": "biological_process",
+  "label": "regulation of response to cytokinesis checkpoint signaling"
+}

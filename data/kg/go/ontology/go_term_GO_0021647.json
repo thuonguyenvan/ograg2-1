@@ -1,0 +1,35 @@
+{
+  "id": "GO:0021647",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021647",
+  "relationships": {
+    "is_a": [
+      "GO:0021605"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CN VIII maturation",
+      "auditory nerve maturation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "ISBN": [
+      "0838580343"
+    ]
+  },
+  "definition": "A developmental process, independent of morphogenetic (shape) change, that is required for the vestibulocochlear nerve to attain its fully functional state. This sensory nerve innervates the membranous labyrinth of the inner ear. The vestibular branch innervates the vestibular apparatus that senses head position changes relative to gravity. The auditory branch innervates the cochlear duct, which is connected to the three bony ossicles which transduce sound waves into fluid movement in the cochlea.",
+  "namespace": "biological_process",
+  "label": "vestibulocochlear nerve maturation"
+}

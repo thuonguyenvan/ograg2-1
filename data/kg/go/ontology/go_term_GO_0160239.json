@@ -1,0 +1,26 @@
+{
+  "id": "GO:0160239",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160239",
+  "relationships": {
+    "is_a": [
+      "GO:0032774"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "promoter proximal pausing by RNA polymerase II"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "33271312",
+      "35816930"
+    ]
+  },
+  "definition": "A transcription halt following transcription initiation but prior to elongation, during which RNA polymerase II pauses approximately 20-60 nucleotides downstream of the transcriptional start site before proceeding into productive elongation. Transcription pausing starts following phosphorylation of the C-terminal domain (CTD) of RNA polymerase II subunit POLR2A at Ser-5 and stops following phosphorylation of POLR2A by the P-TEFb complex.",
+  "namespace": "biological_process",
+  "label": "transcription pausing by RNA polymerase II"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047570",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047570",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-ketoadipate enol-lactonase activity",
+      "3-oxoadipic enol-lactone hydrolase activity",
+      "4-carboxymethylbut-3-en-4-olide enol-lactonohydrolase activity",
+      "beta-ketoadipate enol-lactone hydrolase activity",
+      "beta-ketoadipic enol-lactone hydrolase activity",
+      "carboxymethylbutenolide lactonase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.24",
+      "3.1.1.24",
+      "3.1.1.24",
+      "3.1.1.24",
+      "3.1.1.24",
+      "3.1.1.24",
+      "3.1.1.24",
+      "3.1.1.24"
+    ],
+    "MetaCyc": [
+      "3-OXOADIPATE-ENOL-LACTONASE-RXN",
+      "3-OXOADIPATE-ENOL-LACTONASE-RXN"
+    ],
+    "RHEA": [
+      "10184"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-oxoadipate enol-lactone + H2O = 3-oxoadipate.",
+  "namespace": "molecular_function",
+  "label": "3-oxoadipate enol-lactonase activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0043628",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043628",
+  "relationships": {
+    "is_a": [
+      "GO:0031123",
+      "GO:0070918"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "ncRNA 3&apos; end processing",
+      "ncRNA 3&apos;-end processing"
+    ],
+    "narrow": [
+      "small regulatory ncRNA 3&apos;-end processing"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process involved in forming the mature 3&apos; end of a regulatory non-coding RNA molecule.",
+  "namespace": "biological_process",
+  "label": "regulatory ncRNA 3&apos;-end processing"
+}

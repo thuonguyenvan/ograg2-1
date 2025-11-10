@@ -1,0 +1,46 @@
+{
+  "id": "GO:0047358",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047358",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Glc-phosphotransferase activity",
+      "GlcPTase activity",
+      "UDP-glucose:glycoprotein glucose-1-phosphotransferase activity",
+      "UDP-glucose:glycoprotein-D-mannose glucosephosphotransferase activity",
+      "UDPglucose-glycoprotein glucose phosphotransferase activity",
+      "UDPglucose:glycoprotein-D-mannose glucosephosphotransferase activity",
+      "uridine diphosphoglucose-glycoprotein glucose-1-phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.19",
+      "2.7.8.19",
+      "2.7.8.19",
+      "2.7.8.19",
+      "2.7.8.19",
+      "2.7.8.19",
+      "2.7.8.19",
+      "2.7.8.19",
+      "2.7.8.19"
+    ],
+    "MetaCyc": [
+      "2.7.8.19-RXN",
+      "2.7.8.19-RXN"
+    ],
+    "RHEA": [
+      "20181"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glycoprotein D-mannose + UDP-D-glucose = glycoprotein 6-(D-glucose-1-phospho)-D-mannose + UMP.",
+  "namespace": "molecular_function",
+  "label": "UDP-glucose-glycoprotein glucose phosphotransferase activity"
+}

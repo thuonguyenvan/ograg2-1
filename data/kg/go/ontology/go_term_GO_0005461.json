@@ -1,0 +1,35 @@
+{
+  "id": "GO:0005461",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005461",
+  "relationships": {
+    "is_a": [
+      "GO:0015165",
+      "GO:0046943"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-glucuronic acid transmembrane transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-174368",
+      "R-HSA-5603297",
+      "R-HSA-9912889"
+    ],
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of a UDP-glucuronic acid from one side of a membrane to the other. UDP-glucuronic acid is a substance composed of glucuronic acid in glycosidic linkage with uridine diphosphate.",
+  "namespace": "molecular_function",
+  "label": "SLC35D2 exchanges UDP-GlcA for UMP"
+}

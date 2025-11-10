@@ -1,0 +1,31 @@
+{
+  "id": "GO:0005784",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005784",
+  "relationships": {
+    "is_a": [
+      "GO:0071256"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Sec61p-Sbh1p-Sss1p complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "18166647",
+      "32820719",
+      "33960686"
+    ]
+  },
+  "definition": "A translocon complex that contains a core heterotrimer of conserved alpha, beta and gamma subunits, and may contain additional proteins (translocon-associated proteins or TRAPs); in budding yeast the core proteins are Sec61p, Sbh1p, and Sss1p. The Sec61 translocon complex functions in cotranslational and posttranslational translocation events.",
+  "namespace": "cellular_component",
+  "label": "Sec61 translocon complex"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:0042744",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042744",
+  "relationships": {
+    "is_a": [
+      "GO:0009056",
+      "GO:0042743"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "H2O2 catabolic process",
+      "hydrogen peroxide breakdown",
+      "hydrogen peroxide catabolism",
+      "hydrogen peroxide degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "H2O2 scavenging",
+      "detoxification of H2O2",
+      "detoxification of hydrogen peroxide",
+      "hydrogen peroxide removal",
+      "hydrogen peroxide scavenging"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mah",
+      "vw",
+      "vw",
+      "vw",
+      "vw"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of hydrogen peroxide (H2O2).",
+  "namespace": "biological_process",
+  "label": "hydrogen peroxide catabolic process"
+}

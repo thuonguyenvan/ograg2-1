@@ -1,0 +1,38 @@
+{
+  "id": "GO:0006540",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006540",
+  "relationships": {
+    "is_a": [
+      "GO:0006105",
+      "GO:0006538"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-aminobutyrate shunt",
+      "GABA shunt",
+      "degradation of glutamate to succinate through GABA",
+      "gamma aminobutyrate shunt",
+      "glutamate decarboxylation to succinate",
+      "glutamate degradation via 4-aminobutyrate",
+      "glutamate degradation via GABA"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "GLUDEG-I-PWY",
+      "GLUDEG-I-PWY",
+      "GLUDEG-I-PWY",
+      "GLUDEG-I-PWY"
+    ],
+    "PMID": [
+      "12740438"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of succinate from L-glutamate. Also known as GABA (gamma-aminobutyrate) shunt since it channels glutamate into the TCA cycle bypassing two steps of that cycle. There are three enzymes involved in the GABA shunt: glutamate decarboxylase (GAD), GABA aminotransferase (GABA-TA), and succinate semialdehyde dehydrogenase (SSADH). These three enzymes acting in concert to convert glutamate into succinate. The GABA shunt is predominantly associated with neurotransmission in the mammalian brain. It is also present in nonneuronal cells, in plants, in unicellular eukaryotes, and in prokaryotes.",
+  "namespace": "biological_process",
+  "label": "gamma-aminobutyrate shunt"
+}

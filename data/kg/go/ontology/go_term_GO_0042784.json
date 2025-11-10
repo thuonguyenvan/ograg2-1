@@ -1,0 +1,39 @@
+{
+  "id": "GO:0042784",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042784",
+  "relationships": {
+    "is_a": [
+      "GO:0052170"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "active immune evasion via modulation of host complement system",
+      "active immune evasion via regulation of host complement system",
+      "evasion of host immune response via modulation of host complement system",
+      "evasion of host immune response via regulation of host complement system"
+    ],
+    "broad": [
+      "active evasion of immune response of other organism via regulation of complement system of other organism involved in symbiotic interaction",
+      "suppression of complement activation by another organism"
+    ],
+    "narrow": [],
+    "related": [
+      "active evasion of host immune response via regulation of host complement system"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "811"
+    ],
+    "PMID": [
+      "20194595",
+      "21191012",
+      "25830295",
+      "7745740"
+    ]
+  },
+  "definition": "A process by which a symbiont inhibits or disrupts the normal execution of the activation of complement in its host. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host complement activation"
+}

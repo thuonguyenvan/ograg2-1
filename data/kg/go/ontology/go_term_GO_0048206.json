@@ -1,0 +1,36 @@
+{
+  "id": "GO:0048206",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048206",
+  "relationships": {
+    "is_a": [
+      "GO:0006890",
+      "GO:0048199",
+      "GO:0051650"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cis-Golgi to rough ER targeting",
+      "cis-Golgi to rough endoplasmic reticulum targeting",
+      "vesicle targeting, cis-Golgi to rough ER"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid",
+      "mah"
+    ],
+    "ISBN": [
+      "0716731363"
+    ],
+    "PMID": [
+      "10219233"
+    ]
+  },
+  "definition": "The process in which vesicles are directed to specific destination membranes during transport from the cis-Golgi to the rough ER.",
+  "namespace": "biological_process",
+  "label": "vesicle targeting, cis-Golgi to rough endoplasmic reticulum"
+}

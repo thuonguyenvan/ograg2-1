@@ -1,0 +1,29 @@
+{
+  "id": "GO:0031762",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031762",
+  "relationships": {
+    "is_a": [
+      "GO:0001664"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FSH receptor binding",
+      "follicle stimulating hormone receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "follicle stimulating hormone receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "nln"
+    ]
+  },
+  "definition": "Binding to a follicle-stimulating hormone receptor.",
+  "namespace": "molecular_function",
+  "label": "follicle-stimulating hormone receptor binding"
+}

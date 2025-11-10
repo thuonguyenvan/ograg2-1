@@ -1,0 +1,35 @@
+{
+  "id": "GO:0015615",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015615",
+  "relationships": {
+    "is_a": [
+      "GO:0015149",
+      "GO:0015407"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "D-allose porter activity"
+    ],
+    "narrow": [],
+    "related": [
+      "D-allose-importing ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.5.2.8"
+    ],
+    "RHEA": [
+      "29799",
+      "29799"
+    ],
+    "PMID": [
+      "9401019"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + D-allose(out) = ADP + phosphate + D-allose(in).",
+  "namespace": "molecular_function",
+  "label": "ABC-type D-allose transporter activity"
+}

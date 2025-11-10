@@ -1,0 +1,33 @@
+{
+  "id": "GO:0009425",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009425",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "flagellin-based flagellum basal body"
+    ],
+    "broad": [
+      "flagellar basal body"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "mtg_sensu"
+    ],
+    "PMID": [
+      "10572114",
+      "12624192",
+      "24697492"
+    ]
+  },
+  "definition": "One of the three major substructures of the bacterial-type flagellum, the basal body is embedded in the cell envelope (the plasma membrane, peptidoglycan cell wall, and, if one is present, the outer membrane); it houses the secretion apparatus that exports the more distal components and the flagellar motor.",
+  "namespace": "cellular_component",
+  "label": "bacterial-type flagellum basal body"
+}

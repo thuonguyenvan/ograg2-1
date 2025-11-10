@@ -1,0 +1,38 @@
+{
+  "id": "GO:0031448",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031448",
+  "relationships": {
+    "is_a": [
+      "GO:0031446",
+      "GO:0045989"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of fast-twitch skeletal muscle contraction",
+      "up regulation of fast-twitch skeletal muscle contraction",
+      "up-regulation of fast-twitch skeletal muscle contraction",
+      "upregulation of fast-twitch skeletal muscle contraction"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of fast-twitch skeletal muscle contraction",
+      "stimulation of fast-twitch skeletal muscle contraction"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "ef",
+      "mah",
+      "mtg_muscle",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of fast-twitch skeletal muscle contraction.",
+  "namespace": "biological_process",
+  "label": "positive regulation of fast-twitch skeletal muscle fiber contraction"
+}

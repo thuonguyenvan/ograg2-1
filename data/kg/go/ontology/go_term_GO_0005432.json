@@ -1,0 +1,40 @@
+{
+  "id": "GO:0005432",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005432",
+  "relationships": {
+    "is_a": [
+      "GO:0015081",
+      "GO:0015368"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sodium/calcium exchanger"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "mitochondrial sodium/calcium ion exchange",
+      "sodium:calcium exchange"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "29255"
+    ],
+    "Reactome": [
+      "R-HSA-425661",
+      "R-HSA-8949688",
+      "R-HSA-8949703"
+    ],
+    "GOC": [
+      "curators"
+    ],
+    "PMID": [
+      "16371597"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: Ca2+(in) + Na+(out) = Ca2+(out) + Na+(in).",
+  "namespace": "molecular_function",
+  "label": "SLC8A3 (NCX3) exchanges sodium (cytosol) for calcium (mitochondrial intermembrane space)"
+}

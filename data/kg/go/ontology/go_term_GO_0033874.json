@@ -1,0 +1,34 @@
+{
+  "id": "GO:0033874",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033874",
+  "relationships": {
+    "is_a": [
+      "GO:0008146"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.32",
+      "2.8.2.32"
+    ],
+    "KEGG_REACTION": [
+      "R07798"
+    ],
+    "MetaCyc": [
+      "2.8.2.32-RXN"
+    ],
+    "RHEA": [
+      "15477",
+      "15477"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;-phospho-5&apos;-adenylyl sulfate + 5beta-scymnol = 5beta-scymnol sulfate + adenosine 3&apos;,5&apos;-diphosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "scymnol sulfotransferase activity"
+}

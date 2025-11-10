@@ -1,0 +1,34 @@
+{
+  "id": "GO:0019184",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019184",
+  "relationships": {
+    "is_a": [
+      "GO:0043043"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "non-ribosomal peptide biosynthesis",
+      "non-ribosomal peptide biosynthetic process",
+      "non-ribosomal peptide formation",
+      "non-ribosomal peptide synthesis",
+      "nonribosomal peptide anabolism",
+      "nonribosomal peptide biosynthesis",
+      "nonribosomal peptide formation",
+      "nonribosomal peptide synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "nonribosomal peptide synthetase"
+    ]
+  },
+  "cross_references": {
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The biosynthetic process in which peptide bond formation occurs in the absence of the translational machinery. Examples include the synthesis of antibiotic peptides, and glutathione.",
+  "namespace": "biological_process",
+  "label": "nonribosomal peptide biosynthetic process"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0043599",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043599",
+  "relationships": {
+    "is_a": [
+      "GO:0005663",
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nuclear RFC"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_sensu"
+    ],
+    "PMID": [
+      "14614842"
+    ]
+  },
+  "definition": "A nuclear complex of five polypeptides that loads the DNA polymerase processivity factor proliferating cell nuclear antigen (PCNA) onto DNA, thereby permitting processive DNA synthesis catalyzed by DNA polymerase delta or epsilon. In Saccharomyces and several other species, the subunits are known as Rfc1p-Rfc5p, although subunit names do not necessarily correspond between different species.",
+  "namespace": "cellular_component",
+  "label": "nuclear DNA replication factor C complex"
+}

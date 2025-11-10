@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047202",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047202",
+  "relationships": {
+    "is_a": [
+      "GO:0016753"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-O-(4-hydroxy-3,5-dimethoxycinnamoyl)-beta-D-glucose:choline 1-O-(4-hydroxy-3,5-dimethoxycinnamoyl)transferase activity",
+      "sinapine synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.91",
+      "2.3.1.91",
+      "2.3.1.91",
+      "2.3.1.91"
+    ],
+    "KEGG_REACTION": [
+      "R03075"
+    ],
+    "MetaCyc": [
+      "2.3.1.91-RXN"
+    ],
+    "RHEA": [
+      "12024",
+      "12024"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-O-sinapoyl-beta-D-glucose + choline = O-sinapoylcholine + D-glucose.",
+  "namespace": "molecular_function",
+  "label": "sinapoylglucose-choline O-sinapoyltransferase activity"
+}

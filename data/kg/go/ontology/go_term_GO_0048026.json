@@ -1,0 +1,42 @@
+{
+  "id": "GO:0048026",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048026",
+  "relationships": {
+    "is_a": [
+      "GO:0033120",
+      "GO:0048024",
+      "GO:0050685"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of nuclear mRNA splicing, via spliceosome",
+      "up regulation of nuclear mRNA splicing, via spliceosome",
+      "up-regulation of nuclear mRNA splicing, via spliceosome",
+      "upregulation of nuclear mRNA splicing, via spliceosome"
+    ],
+    "broad": [
+      "positive regulation of pre-mRNA splicing"
+    ],
+    "narrow": [
+      "activation of nuclear mRNA splicing via U2-type spliceosome",
+      "activation of nuclear mRNA splicing, via spliceosome",
+      "positive regulation of nuclear mRNA splicing via U2-type spliceosome",
+      "stimulation of nuclear mRNA splicing via U2-type spliceosome",
+      "stimulation of nuclear mRNA splicing, via spliceosome",
+      "up regulation of nuclear mRNA splicing via U2-type spliceosome",
+      "up-regulation of nuclear mRNA splicing via U2-type spliceosome",
+      "upregulation of nuclear mRNA splicing via U2-type spliceosome"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid",
+      "vw"
+    ]
+  },
+  "definition": "Any process that activates or increases the rate or extent of mRNA splicing via a spliceosomal mechanism.",
+  "namespace": "biological_process",
+  "label": "positive regulation of mRNA splicing, via spliceosome"
+}

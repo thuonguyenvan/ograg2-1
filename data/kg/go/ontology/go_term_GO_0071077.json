@@ -1,0 +1,31 @@
+{
+  "id": "GO:0071077",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071077",
+  "relationships": {
+    "is_a": [
+      "GO:0000295",
+      "GO:0005346"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "adenosine 3&apos;,5&apos;-diphosphate transporter activity",
+      "adenosine 3&apos;-phosphate-5&apos;-phosphate transmembrane transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PubChem_Compound": [
+      "159296",
+      "159296"
+    ]
+  },
+  "definition": "Enables the transfer of adenosine 3&apos;,5&apos;-bisphosphate from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "adenosine 3&apos;,5&apos;-bisphosphate transmembrane transporter activity"
+}

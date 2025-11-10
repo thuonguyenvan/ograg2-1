@@ -1,0 +1,50 @@
+{
+  "id": "GO:1903921",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903921",
+  "relationships": {
+    "is_a": [
+      "GO:0070613"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of protein maturation by peptide bond cleavage in phagocytic vesicle",
+      "regulation of protein maturation by peptide bond cleavage in phagosome",
+      "regulation of protein maturation by peptide bond hydrolysis in phagocytic vesicle",
+      "regulation of protein maturation by peptide bond hydrolysis in phagosome",
+      "regulation of protein processing in phagosome"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of peptidolysis during protein maturation in phagocytic vesicle",
+      "regulation of peptidolysis during protein maturation in phagosome",
+      "regulation of protein maturation by proteolysis in phagocytic vesicle",
+      "regulation of protein maturation by proteolysis in phagosome"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "als",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23325791"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of protein processing in phagocytic vesicle.",
+  "namespace": "biological_process",
+  "label": "regulation of protein processing in phagocytic vesicle"
+}

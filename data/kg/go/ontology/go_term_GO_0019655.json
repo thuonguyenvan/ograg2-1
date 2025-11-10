@@ -1,0 +1,47 @@
+{
+  "id": "GO:0019655",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019655",
+  "relationships": {
+    "is_a": [
+      "GO:0006067",
+      "GO:0019660"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ethanol fermentation",
+      "glucose fermentation to ethanol"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alcoholic fermentation",
+      "ethanol anabolism during fermentation",
+      "ethanol biosynthetic process involved in glucose fermentation to ethanol",
+      "ethanol formation during fermentation",
+      "ethanol synthesis during fermentation",
+      "glucose catabolic process to ethanol",
+      "glycolytic fermentation to ethanol"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "Pyruvate-Ethanol-Fermentation"
+    ],
+    "Wikipedia": [
+      "Ethanol_fermentation"
+    ],
+    "GOC": [
+      "dph",
+      "nr",
+      "dph"
+    ],
+    "ISBN": [
+      "0716720094",
+      "0716720094"
+    ]
+  },
+  "definition": "The anaerobic chemical reactions and pathways resulting in the breakdown of pyruvate into ethanol and carbon dioxide (CO2).",
+  "namespace": "biological_process",
+  "label": "pyruvate fermentation to ethanol"
+}

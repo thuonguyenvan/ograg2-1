@@ -1,0 +1,42 @@
+{
+  "id": "GO:1903552",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903552",
+  "relationships": {
+    "is_a": [
+      "GO:1902116",
+      "GO:1903551"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of extracellular vesicular exosome assembly",
+      "down-regulation of extracellular vesicular exosome assembly",
+      "downregulation of extracellular vesicular exosome assembly",
+      "negative regulation of extracellular vesicular exosome assembly"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of extracellular vesicular exosome assembly"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "vesicles",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24105262"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of extracellular vesicular exosome assembly.",
+  "namespace": "biological_process",
+  "label": "negative regulation of extracellular exosome assembly"
+}

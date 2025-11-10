@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047964",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047964",
+  "relationships": {
+    "is_a": [
+      "GO:0106345"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NADH-dependent glyoxylate reductase activity",
+      "glycolate reductase activity",
+      "glyoxylic acid reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.26",
+      "1.1.1.26",
+      "1.1.1.26",
+      "1.1.1.26"
+    ],
+    "MetaCyc": [
+      "GLYCOLATE-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "18229",
+      "18229"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glycolate + NAD+ = glyoxylate + NADH.",
+  "namespace": "molecular_function",
+  "label": "glyoxylate reductase (NADH) activity"
+}

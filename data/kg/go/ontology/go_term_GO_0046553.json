@@ -1,0 +1,43 @@
+{
+  "id": "GO:0046553",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046553",
+  "relationships": {
+    "is_a": [
+      "GO:0016615",
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-malate:NAD+ oxidoreductase (decarboxylating)",
+      "D-malate dehydrogenase activity",
+      "D-malic enzyme",
+      "bifunctional L(+)-tartrate dehydrogenase-D(+)-malate (decarboxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.83",
+      "1.1.1.83",
+      "1.1.1.83",
+      "1.1.1.83",
+      "1.1.1.83"
+    ],
+    "KEGG_REACTION": [
+      "R00215"
+    ],
+    "MetaCyc": [
+      "1.1.1.83-RXN"
+    ],
+    "RHEA": [
+      "18365",
+      "18365"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-malate + NAD+ = CO2 + NADH + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "D-malate dehydrogenase (decarboxylating) (NAD+) activity"
+}

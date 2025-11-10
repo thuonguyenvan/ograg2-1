@@ -1,0 +1,46 @@
+{
+  "id": "GO:0050274",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050274",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "salicyl-alcohol b-D-glucosyltransferase activity",
+      "salicyl-alcohol glucosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose:salicyl-alcohol beta-D-glucosyltransferase activity",
+      "UDPglucose:salicyl alcohol phenyl-glucosyltransferase activity",
+      "UDPglucose:salicyl-alcohol beta-D-glucosyltransferase activity",
+      "uridine diphosphoglucose-salicyl alcohol 2-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.172",
+      "2.4.1.172",
+      "2.4.1.172",
+      "2.4.1.172",
+      "2.4.1.172",
+      "2.4.1.172"
+    ],
+    "KEGG_REACTION": [
+      "R03558"
+    ],
+    "MetaCyc": [
+      "SALICYL-ALCOHOL-GLUCOSYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "11512",
+      "11512"
+    ]
+  },
+  "definition": "Catalysis of the reaction: salicyl alcohol + UDP-D-glucose = H+ + salicin + UDP.",
+  "namespace": "molecular_function",
+  "label": "salicyl-alcohol beta-D-glucosyltransferase activity"
+}

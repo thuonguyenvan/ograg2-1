@@ -1,0 +1,29 @@
+{
+  "id": "GO:0017084",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017084",
+  "relationships": {
+    "is_a": [
+      "GO:0016620"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D1-pyrroline-5-carboxylate synthetase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "33207",
+      "33207"
+    ],
+    "Reactome": [
+      "R-HSA-508040"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + H+ + L-glutamate + NADPH = ADP + L-glutamate 5-semialdehyde + NADP+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "glutamate + ATP + NADPH + H+ =&gt; L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]"
+}

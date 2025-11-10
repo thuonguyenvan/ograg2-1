@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047291",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047291",
+  "relationships": {
+    "is_a": [
+      "GO:0008373"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "CMP-acetylneuraminate-lactosylceramide-sialyltransferase",
+      "cytidine monophosphoacetylneuraminate-lactosylceramide sialyltransferase"
+    ],
+    "narrow": [],
+    "related": [
+      "GM3 synthase activity",
+      "cytidine monophosphoacetylneuraminate-lactosylceramide alpha2,3- sialyltransferase activity",
+      "ganglioside GM3 synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.3.9",
+      "2.4.3.9",
+      "2.4.3.9",
+      "2.4.3.9",
+      "2.4.3.9",
+      "2.4.3.9",
+      "2.4.3.9"
+    ],
+    "MetaCyc": [
+      "2.4.99.9-RXN",
+      "2.4.99.9-RXN"
+    ],
+    "RHEA": [
+      "18417"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cytolipin-H + CMP-N-acetylneuraminate = alpha-N-acetylneuraminyl-2,3-beta-D-galactosyl-1,4-beta-D-glucosylceramide + CMP. Alpha-N-acetylneuraminyl-2,3-beta-D-galactosyl-1,4-beta-D-glucosylceramide is also known as GM3.",
+  "namespace": "molecular_function",
+  "label": "lactosylceramide alpha-2,3-sialyltransferase activity"
+}

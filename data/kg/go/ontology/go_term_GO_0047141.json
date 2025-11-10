@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047141",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047141",
+  "relationships": {
+    "is_a": [
+      "GO:0016671"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GSH-cystine transhydrogenase",
+      "NADPH-dependent GSH-cystine transhydrogenase",
+      "glutathione:cystine oxidoreductase"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.4.4",
+      "1.8.4.4",
+      "1.8.4.4",
+      "1.8.4.4",
+      "1.8.4.4"
+    ],
+    "MetaCyc": [
+      "1.8.4.4-RXN",
+      "1.8.4.4-RXN"
+    ],
+    "RHEA": [
+      "12613"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cystine + 2 reduced glutathione = oxidized glutathione + 2 L-cysteine.",
+  "namespace": "molecular_function",
+  "label": "glutathione-cystine transhydrogenase activity"
+}

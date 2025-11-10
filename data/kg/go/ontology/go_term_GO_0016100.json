@@ -1,0 +1,28 @@
+{
+  "id": "GO:0016100",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016100",
+  "relationships": {
+    "is_a": [
+      "GO:0016098",
+      "GO:0016115"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "monoterpenoid breakdown",
+      "monoterpenoid catabolism",
+      "monoterpenoid degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of monoterpenoid compounds, terpenoids having a C10 skeleton.",
+  "namespace": "biological_process",
+  "label": "monoterpenoid catabolic process"
+}

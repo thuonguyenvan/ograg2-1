@@ -1,0 +1,31 @@
+{
+  "id": "GO:0001518",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001518",
+  "relationships": {
+    "is_a": [
+      "GO:0034706",
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "voltage gated sodium channel complex",
+      "voltage-dependent sodium channel complex",
+      "voltage-sensitive sodium channel complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao785001660"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "A sodium channel in a cell membrane whose opening is governed by the membrane potential.",
+  "namespace": "cellular_component",
+  "label": "voltage-gated sodium channel complex"
+}

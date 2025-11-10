@@ -1,0 +1,33 @@
+{
+  "id": "GO:0010696",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010696",
+  "relationships": {
+    "is_a": [
+      "GO:0010695",
+      "GO:0090068"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of SPB separation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "16792804",
+      "18500339"
+    ]
+  },
+  "definition": "Any process that increases the rate, frequency or extent of the process involving the release of duplicated mitotic spindle pole bodies (SPBs) and their migration away from each other within the nuclear membrane.",
+  "namespace": "biological_process",
+  "label": "positive regulation of mitotic spindle pole body separation"
+}

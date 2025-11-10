@@ -1,0 +1,28 @@
+{
+  "id": "GO:0034215",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034215",
+  "relationships": {
+    "is_a": [
+      "GO:0015234",
+      "GO:0015295"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "thiamin:hydrogen symporter activity",
+      "thiamin:proton symporter activity",
+      "thiamine:hydrogen symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: thiamine(out) + H+(out) = thiamine(in) + H+(in).",
+  "namespace": "molecular_function",
+  "label": "thiamine:proton symporter activity"
+}

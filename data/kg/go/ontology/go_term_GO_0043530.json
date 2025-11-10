@@ -1,0 +1,30 @@
+{
+  "id": "GO:0043530",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043530",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "adenosine 5&apos; monophosphoramidase activity",
+      "adenosine 5&apos;-monophosphoramidate hydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "67916",
+      "67916"
+    ],
+    "PMID": [
+      "11805111"
+    ]
+  },
+  "definition": "Catalysis of the reaction: adenosine 5&apos;-monophosphoramidate + H2O = AMP + NH4+. Other substrates include AMP-morpholidate, AMP-N-alanine methyl ester and AMP-alpha-acetyl lysine methyl ester.",
+  "namespace": "molecular_function",
+  "label": "adenosine 5&apos;-monophosphoramidase activity"
+}

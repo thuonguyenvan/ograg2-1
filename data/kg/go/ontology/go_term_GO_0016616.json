@@ -1,0 +1,30 @@
+{
+  "id": "GO:0016616",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016616",
+  "relationships": {
+    "is_a": [
+      "GO:0016614"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.-",
+      "1.1.1.-"
+    ],
+    "Reactome": [
+      "R-HSA-9027625",
+      "R-HSA-9027631",
+      "R-HSA-9027632",
+      "R-HSA-975629"
+    ]
+  },
+  "definition": "Catalysis of an oxidation-reduction (redox) reaction in which a CH-OH group acts as a hydrogen or electron donor and reduces NAD+ or NADP.",
+  "namespace": "molecular_function",
+  "label": "RDH11 reduces RBP2:atRAL to RBP2:atROL"
+}

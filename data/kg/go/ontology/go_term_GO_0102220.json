@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102220",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102220",
+  "relationships": {
+    "is_a": [
+      "GO:0016696"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.12.1.4"
+    ],
+    "MetaCyc": [
+      "RXN-12215"
+    ],
+    "RHEA": [
+      "30279",
+      "30279"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 dihydrogen + NAD + 2 an oxidized ferredoxin = NADH + 3 H+ + 2 a reduced ferredoxin.",
+  "namespace": "molecular_function",
+  "label": "hydrogenase activity (NAD+, ferredoxin)"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:1990573",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990573",
+  "relationships": {
+    "is_a": [
+      "GO:0071805",
+      "GO:0098659"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "potassium import",
+      "potassium ion import",
+      "potassium ion uptake"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "9139127"
+    ],
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The directed movement of potassium ions from outside of a cell, across the plasma membrane and into the cytosol.",
+  "namespace": "biological_process",
+  "label": "potassium ion import across plasma membrane"
+}

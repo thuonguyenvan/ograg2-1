@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102195",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102195",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.37",
+      "6.3.2.37"
+    ],
+    "MetaCyc": [
+      "RXN-12042"
+    ],
+    "RHEA": [
+      "25273"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-N-acetylmuramoyl-L-alanyl-D-glutamate + D-lysinium(1+) + ATP = UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-D-lysine + ADP + hydrogenphosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--D-lysine ligase activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0006346",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006346",
+  "relationships": {
+    "is_a": [
+      "GO:0140719"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA methylation-dependent heterochromatin assembly",
+      "DNA methylation-dependent heterochromatin formation"
+    ],
+    "broad": [
+      "methylation-dependent chromatin silencing",
+      "methylation-dependent heterochromatic silencing"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Formation of constitutive heterochromatin by a pathway that includes methylation of genomic DNA such as CpG islands.",
+  "namespace": "biological_process",
+  "label": "DNA methylation-dependent constitutive heterochromatin formation"
+}

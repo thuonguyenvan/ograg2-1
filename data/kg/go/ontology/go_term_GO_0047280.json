@@ -1,0 +1,49 @@
+{
+  "id": "GO:0047280",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047280",
+  "relationships": {
+    "is_a": [
+      "GO:0016763"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NMN diphosphorylase activity",
+      "NMN pyrophosphorylase activity",
+      "NMN synthetase activity",
+      "nicotinamide mononucleotide pyrophosphorylase activity",
+      "nicotinamide mononucleotide synthetase activity",
+      "nicotinamide-nucleotide:diphosphate phospho-alpha-D-ribosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.12",
+      "2.4.2.12",
+      "2.4.2.12",
+      "2.4.2.12",
+      "2.4.2.12",
+      "2.4.2.12",
+      "2.4.2.12"
+    ],
+    "KEGG_REACTION": [
+      "R01271"
+    ],
+    "MetaCyc": [
+      "2.4.2.12-RXN"
+    ],
+    "RHEA": [
+      "16149",
+      "16149"
+    ],
+    "Reactome": [
+      "R-HSA-197250"
+    ]
+  },
+  "definition": "Catalysis of the reaction: diphosphate + nicotinamide mononucleotide = 5-phospho-alpha-D-ribose 1-diphosphate + H+ + nicotinamide.",
+  "namespace": "molecular_function",
+  "label": "NAMPT transfers PRIB to NAM to form NAMN"
+}

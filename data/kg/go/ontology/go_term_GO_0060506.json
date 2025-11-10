@@ -1,0 +1,33 @@
+{
+  "id": "GO:0060506",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060506",
+  "relationships": {
+    "is_a": [
+      "GO:0007224"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hedgehog signaling pathway involved in lung development",
+      "hh signaling pathway involved in lung development",
+      "smoothened signalling pathway involved in lung development"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mtg_lung",
+      "bf",
+      "ecd",
+      "bf",
+      "ecd",
+      "mah"
+    ]
+  },
+  "definition": "The series of molecular signals generated as a consequence of activation of the transmembrane Smoothened-type protein. This process contributes to lung development.",
+  "namespace": "biological_process",
+  "label": "smoothened signaling pathway involved in lung development"
+}

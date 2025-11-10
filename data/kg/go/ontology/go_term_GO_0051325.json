@@ -1,0 +1,30 @@
+{
+  "id": "GO:0051325",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051325",
+  "relationships": {
+    "is_a": [
+      "GO:0022403"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "karyostasis"
+    ],
+    "broad": [
+      "resting phase"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Interphase"
+    ],
+    "GOC": [
+      "mtg_cell_cycle"
+    ]
+  },
+  "definition": "The cell cycle phase following cytokinesis which begins with G1 phase, proceeds through S phase and G2 phase and ends when prophase of meiosis or mitosis begins. During interphase the cell readies itself for meiosis or mitosis and the replication of its DNA occurs.",
+  "namespace": "biological_process",
+  "label": "interphase"
+}

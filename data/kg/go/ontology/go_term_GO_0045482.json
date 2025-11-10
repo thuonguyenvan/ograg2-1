@@ -1,0 +1,44 @@
+{
+  "id": "GO:0045482",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045482",
+  "relationships": {
+    "is_a": [
+      "GO:0010334"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "sesquiterpene cyclase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "trans,trans-farnesyl-diphosphate diphosphate-lyase (cyclizing, trichodiene-forming)",
+      "trans,trans-farnesyl-diphosphate sesquiterpenoid-lyase activity",
+      "trichodiene synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.6",
+      "4.2.3.6",
+      "4.2.3.6",
+      "4.2.3.6",
+      "4.2.3.6",
+      "4.2.3.6"
+    ],
+    "KEGG_REACTION": [
+      "R02306"
+    ],
+    "MetaCyc": [
+      "TRICHODIENE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "12052",
+      "12052"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-trans,6-trans-farnesyl diphosphate = diphosphate + trichodiene.",
+  "namespace": "molecular_function",
+  "label": "trichodiene synthase activity"
+}

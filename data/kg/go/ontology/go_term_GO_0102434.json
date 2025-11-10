@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102434",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102434",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-13908"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "18245455",
+      "20959559"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 10-formyltetrahydrofolate-4a-carbinolamine = H2O + a 10-formyldihydrofolate.",
+  "namespace": "molecular_function",
+  "label": "pterin-4alpha-carbinolamine dehydratase activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0003427",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003427",
+  "relationships": {
+    "is_a": [
+      "GO:0032878",
+      "GO:0051493",
+      "GO:0060071"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division by planar cell polarity pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ascb_2009",
+      "dph",
+      "tb",
+      "ascb_2009",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by binding of a Wnt protein to a receptor on the surface of the target cell that modulates the rate, frequency, or extent of the polarization of cytoskeletal structures in a growth plate cartilage chondrocyte. This process results in the oriented division of the cell.",
+  "namespace": "biological_process",
+  "label": "regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division"
+}

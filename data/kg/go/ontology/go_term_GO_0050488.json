@@ -1,0 +1,28 @@
+{
+  "id": "GO:0050488",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050488",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ecdysteroid UDP-glucosyl/UDP-glucuronosyl transferase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ],
+    "PMID": [
+      "10073711"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-glucose + ecdysteroid = UDP + glucosyl-ecdysteroid.",
+  "namespace": "molecular_function",
+  "label": "ecdysteroid UDP-glucosyltransferase activity"
+}

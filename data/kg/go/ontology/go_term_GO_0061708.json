@@ -1,0 +1,40 @@
+{
+  "id": "GO:0061708",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061708",
+  "relationships": {
+    "is_a": [
+      "GO:0016783",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.1.14"
+    ],
+    "MetaCyc": [
+      "RXN-16821"
+    ],
+    "RHEA": [
+      "47040",
+      "47040"
+    ],
+    "Reactome": [
+      "R-HSA-6787447"
+    ],
+    "GOC": [
+      "dph"
+    ],
+    "PMID": [
+      "15509579"
+    ]
+  },
+  "definition": "Catalysis of 5-taurinomethyluridine in tRNA + a [protein]-S-sulfanylcysteine + ATP + a reduced electron acceptor = a 5-taurinomethyl-2-thiouridine in tRNA + a [protein]-L-cysteine + AMP + an oxidized electron acceptor + diphosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "TRMU (MTO2, MTU1) transfers a sulfur atom to 5-taurinomethyluridine-34 in tRNA"
+}

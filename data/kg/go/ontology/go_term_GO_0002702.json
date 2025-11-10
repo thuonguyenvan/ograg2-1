@@ -1,0 +1,32 @@
+{
+  "id": "GO:0002702",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002702",
+  "relationships": {
+    "is_a": [
+      "GO:0002699",
+      "GO:0002700",
+      "GO:0010628"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of production of molecular mediator of immune response",
+      "up-regulation of production of molecular mediator of immune response",
+      "upregulation of production of molecular mediator of immune response"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of production of molecular mediator of immune response",
+      "stimulation of production of molecular mediator of immune response"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of the production of molecular mediator of immune response.",
+  "namespace": "biological_process",
+  "label": "positive regulation of production of molecular mediator of immune response"
+}

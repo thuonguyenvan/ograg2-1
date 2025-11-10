@@ -1,0 +1,35 @@
+{
+  "id": "GO:0008670",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008670",
+  "relationships": {
+    "is_a": [
+      "GO:0016628"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-enoyl coenzyme A (reduced nicotinamide adenine dinucleotide phosphate) reductase activity",
+      "4-enoyl-CoA reductase (NADPH) activity",
+      "4-enoyl-CoA reductase (NADPH2)",
+      "4-enoyl-CoA reductase activity",
+      "trans-2,3-didehydroacyl-CoA:NADP+ 4-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.3.1.34",
+      "1.3.1.34",
+      "1.3.1.34",
+      "1.3.1.34",
+      "1.3.1.34",
+      "1.3.1.34",
+      "1.3.1.34"
+    ]
+  },
+  "definition": "Catalysis of the reactions: a 4,5-saturated-(2E)-enoyl-CoA + NADP+ = a (2E,4E)-dienoyl-CoA + H+ + NADPH, and a (2E,4Z)-dienoyl-CoA + H+ + NADPH = a 4,5-saturated-(2E)-enoyl-CoA + NADP+.",
+  "namespace": "molecular_function",
+  "label": "2,4-dienoyl-CoA reductase (NADPH) activity"
+}

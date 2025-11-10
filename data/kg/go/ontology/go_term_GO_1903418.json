@@ -1,0 +1,39 @@
+{
+  "id": "GO:1903418",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903418",
+  "relationships": {
+    "is_a": [
+      "GO:0072657",
+      "GO:1990151",
+      "GO:1990778"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein localisation in plasma membrane of cell tip",
+      "protein localisation to plasma membrane of cell tip",
+      "protein localization in plasma membrane of cell tip"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000087"
+    ],
+    "PMID": [
+      "25157670",
+      "27852900"
+    ]
+  },
+  "definition": "A process in which a protein is transported to, or maintained in, a location within a plasma membrane of cell tip.",
+  "namespace": "biological_process",
+  "label": "protein localization to plasma membrane of cell tip"
+}

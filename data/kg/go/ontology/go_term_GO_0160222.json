@@ -1,0 +1,34 @@
+{
+  "id": "GO:0160222",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160222",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.35",
+      "6.3.2.35"
+    ],
+    "KEGG_REACTION": [
+      "R09595"
+    ],
+    "MetaCyc": [
+      "RXN-11299"
+    ],
+    "RHEA": [
+      "27706",
+      "27706"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + D-alanine + D-serine = ADP + D-alanyl-D-serine + H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "D-alanine-D-serine ligase activity"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:1903343",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903343",
+  "relationships": {
+    "is_a": [
+      "GO:0051054",
+      "GO:0090068",
+      "GO:1903341",
+      "GO:2000243"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of meiotic DNA double-strand break formation",
+      "up-regulation of meiotic DNA double-strand break formation",
+      "upregulation of meiotic DNA double-strand break formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of meiotic DNA double-strand break formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25103240"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of meiotic DNA double-strand break formation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of meiotic DNA double-strand break formation"
+}

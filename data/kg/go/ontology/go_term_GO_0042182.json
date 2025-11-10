@@ -1,0 +1,28 @@
+{
+  "id": "GO:0042182",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042182",
+  "relationships": {
+    "is_a": [
+      "GO:0042180",
+      "GO:0044282"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ketone breakdown",
+      "ketone catabolism",
+      "ketone degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of ketones, a class of organic compounds that contain the carbonyl group, CO, and in which the carbonyl group is bonded only to carbon atoms. The general formula for a ketone is RCOR, where R and R are alkyl or aryl groups.",
+  "namespace": "biological_process",
+  "label": "ketone catabolic process"
+}

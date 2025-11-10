@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047983",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047983",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "beta-alanine specific hGSH synthetase activity",
+      "gamma-L-glutamyl-L-cysteine:beta-alanine ligase (ADP-forming)",
+      "homoglutathione synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.23",
+      "6.3.2.23",
+      "6.3.2.23",
+      "6.3.2.23",
+      "6.3.2.23"
+    ],
+    "KEGG_REACTION": [
+      "R02741"
+    ],
+    "MetaCyc": [
+      "HOMOGLUTATHIONE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "17993",
+      "17993"
+    ]
+  },
+  "definition": "Catalysis of the reaction: beta-alanine + L-gamma-glutamyl-L-cysteine + ATP = gamma-L-glutamyl-L-cysteinyl-beta-alanine + ADP + 2 H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "homoglutathione synthase activity"
+}

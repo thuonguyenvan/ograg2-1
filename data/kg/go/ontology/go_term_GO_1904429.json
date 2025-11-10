@@ -1,0 +1,36 @@
+{
+  "id": "GO:1904429",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904429",
+  "relationships": {
+    "is_a": [
+      "GO:0032204",
+      "GO:0044087"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of telomeric circle formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "TermGenie",
+      "nc",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22579284"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of t-circle formation.",
+  "namespace": "biological_process",
+  "label": "regulation of t-circle formation"
+}

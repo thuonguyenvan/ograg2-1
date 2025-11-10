@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102355",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102355",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.91",
+      "3.1.1.91"
+    ],
+    "MetaCyc": [
+      "RXN-13371"
+    ],
+    "RHEA": [
+      "33967"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxo-3-(5-oxofuran-2-ylidene)propanoate + H2O = 3-maleylpyruvate + H+.",
+  "namespace": "molecular_function",
+  "label": "2-oxo-3-(5-oxofuran-2-ylidene)propanoate lactonase activity"
+}

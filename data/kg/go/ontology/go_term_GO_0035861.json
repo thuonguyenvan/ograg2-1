@@ -1,0 +1,45 @@
+{
+  "id": "GO:0035861",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035861",
+  "relationships": {
+    "is_a": [
+      "GO:0090734"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "site of DSB"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "DNA damage foci",
+      "DNA damage focus",
+      "IRIF",
+      "ionizing radiation-induced foci"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "mah",
+      "vw",
+      "vw",
+      "mah"
+    ],
+    "PMID": [
+      "20096808",
+      "21035408",
+      "21035408",
+      "20096808",
+      "21035408",
+      "20096808",
+      "21035408",
+      "20096808",
+      "21035408"
+    ]
+  },
+  "definition": "A region of a chromosome at which a DNA double-strand break has occurred. DNA damage signaling and repair proteins accumulate at the lesion to respond to the damage and repair the DNA to form a continuous DNA helix.",
+  "namespace": "cellular_component",
+  "label": "site of double-strand break"
+}

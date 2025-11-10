@@ -1,0 +1,61 @@
+{
+  "id": "GO:0004464",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004464",
+  "relationships": {
+    "is_a": [
+      "GO:0016846"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(7E,9E,11Z,14Z)-(5S,6R)-5,6-epoxyicosa-7,9,11,14-tetraenoate:glutathione leukotriene-transferase (epoxide-ring-opening)",
+      "(7E,9E,11Z,14Z)-(5S,6R)-6-(glutathion-S-yl)-5-hydroxyicosa-7,9,11,14-tetraenoate glutathione-lyase (epoxide-forming)",
+      "LTC(4) synthase activity",
+      "LTC(4) synthetase activity",
+      "LTC4 synthase activity",
+      "LTC4 synthetase activity",
+      "leukotriene A(4):glutathione S-leukotrienyltransferase activity",
+      "leukotriene A4:glutathione S-leukotrienyltransferase activity",
+      "leukotriene C(4) synthetase activity",
+      "leukotriene C4 synthetase activity",
+      "leukotriene-C4 glutathione-lyase (leukotriene-A4-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.4.1.20",
+      "4.4.1.20",
+      "4.4.1.20",
+      "4.4.1.20",
+      "4.4.1.20",
+      "4.4.1.20",
+      "4.4.1.20",
+      "4.4.1.20",
+      "4.4.1.20",
+      "4.4.1.20",
+      "4.4.1.20",
+      "4.4.1.20",
+      "4.4.1.20"
+    ],
+    "KEGG_REACTION": [
+      "R03059"
+    ],
+    "MetaCyc": [
+      "LEUKOTRIENE-C4-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "17617",
+      "17617"
+    ],
+    "Reactome": [
+      "R-HSA-2162019",
+      "R-HSA-266050"
+    ]
+  },
+  "definition": "Catalysis of the reaction: leukotriene C(4) = glutathione + leukotriene A(4).",
+  "namespace": "molecular_function",
+  "label": "LTA4 is converted to LTC4 by LTC4S"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:0099006",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099006",
+  "relationships": {
+    "is_a": [
+      "GO:0140267"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "viral entry via permeabilization of endosomal membrane"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "15329727",
+      "25055856"
+    ]
+  },
+  "definition": "The entry of a symbiont into a host cell, following endocytosis, via permeabilization of the endosomal membrane by membrane penetration protein(s) of the symbiont. This process mediates the entry of some non-enveloped virus into eukaryotic cells. In some cases, viral membrane-penetration protein requires to be activated to display its membrane penetrating activity. Activation can be due to receptor binding or the acidic pH of the endosomal lumen.",
+  "namespace": "biological_process",
+  "label": "symbiont entry into host cell via permeabilization of endosomal membrane"
+}

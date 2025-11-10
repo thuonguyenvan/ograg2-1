@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102684",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102684",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.40",
+      "1.14.14.40"
+    ],
+    "MetaCyc": [
+      "RXN-4602"
+    ],
+    "RHEA": [
+      "33263"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-phenylalanine + 2 NADPH + 2 O2 + 2 H+ = (E)-phenylacetaldehyde oxime + 2 NADP + 3 H2O + carbon dioxide.",
+  "namespace": "molecular_function",
+  "label": "L-phenylalanine N-monooxygenase activity"
+}

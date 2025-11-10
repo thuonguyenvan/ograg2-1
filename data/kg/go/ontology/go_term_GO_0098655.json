@@ -1,0 +1,29 @@
+{
+  "id": "GO:0098655",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098655",
+  "relationships": {
+    "is_a": [
+      "GO:0006812",
+      "GO:0034220"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "cation transmembrane transport"
+    ],
+    "narrow": [
+      "ATP hydrolysis coupled cation transmembrane transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dos",
+      "vw"
+    ]
+  },
+  "definition": "The process in which a monoatomic cation is transported across a membrane. Monatomic cations (also called simple cations) are positively charged ions consisting of exactly one atom.",
+  "namespace": "biological_process",
+  "label": "monoatomic cation transmembrane transport"
+}

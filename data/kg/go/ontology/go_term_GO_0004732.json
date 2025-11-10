@@ -1,0 +1,33 @@
+{
+  "id": "GO:0004732",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004732",
+  "relationships": {
+    "is_a": [
+      "GO:0004031"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pyridoxal:oxygen 4-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.3.8",
+      "1.2.3.8"
+    ],
+    "MetaCyc": [
+      "PYRIDOXAL-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "23724",
+      "23724"
+    ]
+  },
+  "definition": "Catalysis of the reaction:  pyridoxal + H2O + O2 = 4-pyridoxate + H+ + H2O2.",
+  "namespace": "molecular_function",
+  "label": "pyridoxal oxidase activity"
+}

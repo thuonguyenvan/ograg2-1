@@ -1,0 +1,35 @@
+{
+  "id": "GO:0035770",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035770",
+  "relationships": {
+    "is_a": [
+      "GO:0043232",
+      "GO:0099080"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNP granule",
+      "mRNP granule"
+    ],
+    "broad": [],
+    "narrow": [
+      "RNA granule"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "sp"
+    ],
+    "PMID": [
+      "16520386",
+      "20368989",
+      "21436445"
+    ]
+  },
+  "definition": "A non-membranous macromolecular complex containing proteins and translationally silenced mRNAs. RNA granules contain proteins that control the localization, stability, and translation of their RNA cargo. Different types of RNA granules (RGs) exist, depending on the cell type and cellular conditions.",
+  "namespace": "cellular_component",
+  "label": "ribonucleoprotein granule"
+}

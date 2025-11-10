@@ -1,0 +1,31 @@
+{
+  "id": "GO:1990451",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990451",
+  "relationships": {
+    "is_a": [
+      "GO:0062197",
+      "GO:0071468"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "cellular stress response to acidity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "go_curators",
+      "rl"
+    ],
+    "PMID": [
+      "10615049"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a disturbance in the homeostasis of organismal or cellular pH (with pH &lt; 7). pH is a measure of the acidity or basicity of an aqueous solution.",
+  "namespace": "biological_process",
+  "label": "cellular stress response to acidic pH"
+}

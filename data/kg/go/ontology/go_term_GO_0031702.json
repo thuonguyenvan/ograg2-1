@@ -1,0 +1,28 @@
+{
+  "id": "GO:0031702",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031702",
+  "relationships": {
+    "is_a": [
+      "GO:0031701"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "AT1 receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "type 1 angiotensin receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "nln"
+    ]
+  },
+  "definition": "Binding to a type 1 angiotensin receptor.",
+  "namespace": "molecular_function",
+  "label": "type 1 angiotensin receptor binding"
+}

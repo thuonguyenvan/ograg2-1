@@ -1,0 +1,35 @@
+{
+  "id": "GO:0060337",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060337",
+  "relationships": {
+    "is_a": [
+      "GO:0140888"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "type I interferon signaling pathway",
+      "type I interferon-activated signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-909733"
+    ],
+    "GOC": [
+      "add",
+      "dph",
+      "signaling",
+      "signaling"
+    ],
+    "PMID": [
+      "32464097"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by type I interferon binding to its receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription. Type I interferons include the interferon-alpha, beta, delta, episilon, zeta, kappa, tau, and omega gene families.",
+  "namespace": "biological_process",
+  "label": "Interferon alpha/beta signaling"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GO:0016250",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016250",
+  "relationships": {
+    "is_a": [
+      "GO:0016826"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-sulphoglucosamine sulphohydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-desoxy-D-glucoside-2-sulphamate sulphohydrolase (sulphamate sulphohydrolase)",
+      "N-sulfo-D-glucosamine sulfohydrolase activity",
+      "heparin sulfamidase activity",
+      "sulfoglucosamine sulfamidase activity",
+      "sulphamidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.10.1.1",
+      "3.10.1.1",
+      "3.10.1.1",
+      "3.10.1.1",
+      "3.10.1.1",
+      "3.10.1.1",
+      "3.10.1.1"
+    ],
+    "MetaCyc": [
+      "N-SULFOGLUCOSAMINE-SULFOHYDROLASE-RXN"
+    ],
+    "RHEA": [
+      "17881"
+    ],
+    "Reactome": [
+      "R-HSA-1678708",
+      "R-HSA-2090043",
+      "R-HSA-2263444",
+      "R-HSA-9036050"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-sulfo-D-glucosamine + H2O = D-glucosamine + sulfate.",
+  "namespace": "molecular_function",
+  "label": "Defective SGSH does not hydrolyse Heparan sulfate chain(2)"
+}

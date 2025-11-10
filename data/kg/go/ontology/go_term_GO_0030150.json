@@ -1,0 +1,30 @@
+{
+  "id": "GO:0030150",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030150",
+  "relationships": {
+    "is_a": [
+      "GO:0070585",
+      "GO:0071806",
+      "GO:0072655"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrial matrix protein import",
+      "protein transport into mitochondrial matrix"
+    ],
+    "broad": [
+      "mitochondrial translocation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "ISBN": [
+      "0716731363"
+    ]
+  },
+  "definition": "The import of proteins across the outer and inner mitochondrial membranes into the matrix. Unfolded proteins enter the mitochondrial matrix with a chaperone protein; the information required to target the precursor protein from the cytosol to the mitochondrial matrix is contained within its N-terminal matrix-targeting sequence. Translocation of precursors to the matrix occurs at the rare sites where the outer and inner membranes are close together.",
+  "namespace": "biological_process",
+  "label": "protein import into mitochondrial matrix"
+}

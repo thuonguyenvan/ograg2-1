@@ -1,0 +1,30 @@
+{
+  "id": "GO:0120514",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120514",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.360"
+    ],
+    "MetaCyc": [
+      "RXN-18732"
+    ],
+    "RHEA": [
+      "51504",
+      "51504"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 3&apos;-hydro-2&apos;-hydroxy-beta-oxodihydrochalcone + UDP-alpha-D-glucose = a 3&apos;-(beta-D-glucopyranosyl)-2&apos;-hydroxy-beta-oxodihydrochalcone + H+ + UDP.",
+  "namespace": "molecular_function",
+  "label": "2-hydroxyflavanone C-glucosyltransferase activity"
+}

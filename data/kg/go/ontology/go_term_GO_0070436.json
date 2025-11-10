@@ -1,0 +1,31 @@
+{
+  "id": "GO:0070436",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070436",
+  "relationships": {
+    "is_a": [
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Grb2-Egfr complex, EGF stimulated"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "7798267"
+    ],
+    "CORUM": [
+      "2889"
+    ]
+  },
+  "definition": "A protein complex that contains the epidermal growth factor receptor (EGFR) and Grb2, and is involved in linking EGFR activation to the p21-Ras pathway.",
+  "namespace": "cellular_component",
+  "label": "Grb2-EGFR complex"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0106409",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106409",
+  "relationships": {
+    "is_a": [
+      "GO:0016779"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.4.59"
+    ],
+    "MetaCyc": [
+      "RXN-19814"
+    ],
+    "RHEA": [
+      "54420",
+      "54420"
+    ],
+    "PMID": [
+      "21909268"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;,3&apos;-c-di-AMP + H2O = 5&apos;-O-phosphonoadenylyl-(3&apos;-5&apos;)-adenosine + H+.",
+  "namespace": "molecular_function",
+  "label": "cyclic-di-AMP phosphodiesterase activity"
+}

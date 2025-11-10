@@ -1,0 +1,29 @@
+{
+  "id": "GO:0120513",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120513",
+  "relationships": {
+    "is_a": [
+      "GO:1990234"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Dph1-Dph2 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sjm"
+    ],
+    "PMID": [
+      "24422557",
+      "31463593"
+    ]
+  },
+  "definition": "A protein complex capable of catalysing the transfer of the 3-amino-3-carboxypropyl group from S-adenosyl-L-methionine (SAM) to the histidine residue of translation elongation factor 2 (EF2), which is the first step in the biosynthesis of diphthamide. The complex is a Dph2 homodimer in archaea and a Dph1-Dph2 heterodimer in eukaryotes.",
+  "namespace": "cellular_component",
+  "label": "2-(3-amino-3-carboxypropyl)histidine synthase complex"
+}

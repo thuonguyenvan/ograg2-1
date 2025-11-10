@@ -1,0 +1,34 @@
+{
+  "id": "GO:0019529",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019529",
+  "relationships": {
+    "is_a": [
+      "GO:0019530",
+      "GO:0046306"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "taurine breakdown",
+      "taurine catabolism",
+      "taurine degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TAURINEDEG-PWY"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198600461"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of taurine (2-aminoethanesulfonic acid), a sulphur-containing amino acid derivative important in the metabolism of fats.",
+  "namespace": "biological_process",
+  "label": "taurine catabolic process"
+}

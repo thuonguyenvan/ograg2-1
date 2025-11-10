@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047169",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047169",
+  "relationships": {
+    "is_a": [
+      "GO:0050737"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "feruloyl-CoA:galactarate O-(hydroxycinnamoyl)transferase activity",
+      "galacturate hydroxycinnamoyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.130",
+      "2.3.1.130",
+      "2.3.1.130",
+      "2.3.1.130"
+    ],
+    "KEGG_REACTION": [
+      "R03727"
+    ],
+    "MetaCyc": [
+      "2.3.1.130-RXN"
+    ],
+    "RHEA": [
+      "12997",
+      "12997"
+    ]
+  },
+  "definition": "Catalysis of the reaction: feruloyl-CoA + galactarate = 2-(E)-O-feruloyl-D-galactarate + CoA.",
+  "namespace": "molecular_function",
+  "label": "galactarate O-hydroxycinnamoyltransferase activity"
+}

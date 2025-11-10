@@ -1,0 +1,38 @@
+{
+  "id": "GO:0032831",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032831",
+  "relationships": {
+    "is_a": [
+      "GO:0032829",
+      "GO:0043372",
+      "GO:0045591"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T lymphocyte differentiation",
+      "positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T-cell differentiation",
+      "positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T-lymphocyte differentiation",
+      "up regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation",
+      "up-regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation",
+      "upregulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation",
+      "stimulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"
+    ],
+    "related": [
+      "positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell development"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of differentiation of CD4-positive, CD25-positive, alpha-beta regulatory T cells.",
+  "namespace": "biological_process",
+  "label": "positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"
+}

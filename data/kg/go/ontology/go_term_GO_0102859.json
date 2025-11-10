@@ -1,0 +1,32 @@
+{
+  "id": "GO:0102859",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102859",
+  "relationships": {
+    "is_a": [
+      "GO:0016717"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1-18:1-2-18:2-phosphatidylcholine desaturase activity (SN2-18:3 forming)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.19.25"
+    ],
+    "MetaCyc": [
+      "RXN-16046"
+    ],
+    "RHEA": [
+      "46404",
+      "46404"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a (9Z,12Z)-octadecadienoyl-containing glycerolipid + 2 Fe(II)-[cytochrome b5] + 2 H+ + O2 = (9Z,12Z,15Z)-octadecatrienoyl-containing glycerolipid + 2 Fe(III)-[cytochrome b5] + 2 H2O.",
+  "namespace": "molecular_function",
+  "label": "acyl-lipid omega-3 desaturase (cytochrome b5) activity"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "GO:0008889",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008889",
+  "relationships": {
+    "is_a": [
+      "GO:0008081"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "IgD-binding protein D",
+      "gene hpd protein",
+      "glycerophosphodiester glycerophosphohydrolase activity",
+      "glycerophosphoryl diester phosphodiesterase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.4.46",
+      "3.1.4.46",
+      "3.1.4.46",
+      "3.1.4.46",
+      "3.1.4.46",
+      "3.1.4.46"
+    ],
+    "MetaCyc": [
+      "GLYCPDIESTER-RXN"
+    ],
+    "RHEA": [
+      "12969"
+    ],
+    "Reactome": [
+      "R-HSA-1483107",
+      "R-HSA-1483116"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a glycerophosphodiester + H2O = an alcohol + sn-glycerol 3-phosphate.",
+  "namespace": "molecular_function",
+  "label": "GPCho is hydrolyzed to Cho and G3P by GPCPD1"
+}

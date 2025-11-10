@@ -1,0 +1,31 @@
+{
+  "id": "GO:0019684",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019684",
+  "relationships": {
+    "is_a": [
+      "GO:0006091"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "photolysis"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-101"
+    ],
+    "Wikipedia": [
+      "Photolysis#Photolysis_in_photosynthesis"
+    ],
+    "PMID": [
+      "15746074"
+    ]
+  },
+  "definition": "The light reactions of photosynthesis, which take place in photosystems II and I. Light energy is harvested and used to power the transfer of electrons among a series of electron donors and acceptors. The final electron acceptor is NADP+, which is reduced to NADPH. NADPH generated from light reactions is used in sugar synthesis in dark reactions. Light reactions also generate a proton motive force across the thylakoid membrane, and the proton gradient is used to synthesize ATP. There are two chemical reactions involved in the light reactions: water oxidation in photosystem II, and NADP reduction in photosystem I.",
+  "namespace": "biological_process",
+  "label": "photosynthesis, light reaction"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "GO:0018623",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018623",
+  "relationships": {
+    "is_a": [
+      "GO:0016708"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "benzoate dioxygenase activity",
+      "benzoate hydroxylase activity",
+      "benzoate,NADH:oxygen oxidoreductase (1,2-hydroxylating)",
+      "benzoate,NADH:oxygen oxidoreductase (1,2-hydroxylating, decarboxylating)",
+      "benzoic hydroxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.12.10",
+      "1.14.12.10",
+      "1.14.12.10",
+      "1.14.12.10",
+      "1.14.12.10",
+      "1.14.12.10",
+      "1.14.12.10"
+    ],
+    "MetaCyc": [
+      "BENZOATE-12-DIOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "12633"
+    ],
+    "UM-BBD_enzymeID": [
+      "r0245"
+    ]
+  },
+  "definition": "Catalysis of the reaction: benzoate + NADH + H+ + O2 = catechol + CO2 + NAD+.",
+  "namespace": "molecular_function",
+  "label": "benzoate 1,2-dioxygenase activity"
+}

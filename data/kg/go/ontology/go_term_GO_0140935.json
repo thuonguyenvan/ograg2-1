@@ -1,0 +1,25 @@
+{
+  "id": "GO:0140935",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140935",
+  "relationships": {
+    "is_a": [
+      "GO:0140936"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "histone conserved C-terminal lysine deubiquitination"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "15657442"
+    ]
+  },
+  "definition": "A histone deubiquitinase that cleaves ubiquitin from the conserved C-terminal lysine residue of a histone H2B protein to which it is conjugated. The conserved lysine residue is K119 in fission yeast, K123 in budding yeast, and K120 in mammals.",
+  "namespace": "molecular_function",
+  "label": "histone H2B conserved C-terminal lysine deubiquitinase activity"
+}

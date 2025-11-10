@@ -1,0 +1,28 @@
+{
+  "id": "GO:0000837",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000837",
+  "relationships": {
+    "is_a": [
+      "GO:0000835"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Ssm4p ubiquitin ligase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "elh"
+    ],
+    "PMID": [
+      "16873066"
+    ]
+  },
+  "definition": "A multiprotein complex that recognizes and ubiquitinates membrane proteins with misfolded cytosolic domains during ER-associated protein degradation (ERAD). In S. cerevisiae, this complex contains the ubiquitin ligase Ssm4p/Doa10p.",
+  "namespace": "cellular_component",
+  "label": "Doa10p ubiquitin ligase complex"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0032725",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032725",
+  "relationships": {
+    "is_a": [
+      "GO:0001819",
+      "GO:0032645",
+      "GO:0051247"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of GM-CSF production",
+      "positive regulation of granulocyte macrophage colony stimulating factor production",
+      "up regulation of granulocyte macrophage colony-stimulating factor production",
+      "up-regulation of granulocyte macrophage colony-stimulating factor production",
+      "upregulation of granulocyte macrophage colony-stimulating factor production"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of granulocyte macrophage colony-stimulating factor production",
+      "positive regulation of granulocyte macrophage colony-stimulating factor biosynthetic process",
+      "stimulation of granulocyte macrophage colony-stimulating factor production"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vk"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of granulocyte macrophage colony-stimulating factor production.",
+  "namespace": "biological_process",
+  "label": "positive regulation of granulocyte macrophage colony-stimulating factor production"
+}

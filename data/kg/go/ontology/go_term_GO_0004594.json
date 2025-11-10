@@ -1,0 +1,46 @@
+{
+  "id": "GO:0004594",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004594",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:(R)-pantothenate 4&apos;-phosphotransferase activity",
+      "ATP:pantothenate 4&apos;-phosphotransferase activity",
+      "D-pantothenate kinase activity",
+      "pantothenate kinase (phosphorylating) activity",
+      "pantothenic acid kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.33",
+      "2.7.1.33",
+      "2.7.1.33",
+      "2.7.1.33",
+      "2.7.1.33",
+      "2.7.1.33",
+      "2.7.1.33"
+    ],
+    "MetaCyc": [
+      "PANTOTHENATE-KIN-RXN"
+    ],
+    "RHEA": [
+      "16373"
+    ],
+    "Reactome": [
+      "R-HSA-196857",
+      "R-HSA-199203"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + pantothenate = ADP + D-4&apos;-phosphopantothenate.",
+  "namespace": "molecular_function",
+  "label": "PANK1/3 phosphorylate PanK"
+}

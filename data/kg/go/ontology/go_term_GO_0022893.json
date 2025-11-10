@@ -1,0 +1,28 @@
+{
+  "id": "GO:0022893",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022893",
+  "relationships": {
+    "is_a": [
+      "GO:0015196"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "low-affinity tryptophan permease activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Catalysis of the low-affinity transfer of L-tryptophan from one side of a membrane to the other. Tryptophan is 2-amino-3-(1H-indol-3-yl)propanoic acid. In low-affinity transport the transporter is able to bind the solute only if it is present at very high concentrations.",
+  "namespace": "molecular_function",
+  "label": "low-affinity tryptophan transmembrane transporter activity"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102175",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102175",
+  "relationships": {
+    "is_a": [
+      "GO:0000252"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.418"
+    ],
+    "MetaCyc": [
+      "RXN-11928"
+    ],
+    "RHEA": [
+      "34775",
+      "34775"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 3-beta-hydroxysteroid-4-alpha-carboxylate + NAD+ = a 3-oxosteroid + CO2 + NADH.",
+  "namespace": "molecular_function",
+  "label": "3-beta-hydroxysteroid dehydrogenase (NAD+)/C4-decarboxylase activity"
+}

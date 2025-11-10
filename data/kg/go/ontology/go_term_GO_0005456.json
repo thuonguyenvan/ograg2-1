@@ -1,0 +1,33 @@
+{
+  "id": "GO:0005456",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005456",
+  "relationships": {
+    "is_a": [
+      "GO:0015165"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "CMP-sialic acid transmembrane transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5651942",
+      "R-HSA-727807"
+    ],
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of a CMP-N-acetylneuraminate from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "SLC35A1 exchanges CMP-Neu5Ac for CMP"
+}

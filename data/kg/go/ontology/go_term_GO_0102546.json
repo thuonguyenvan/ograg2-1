@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102546",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102546",
+  "relationships": {
+    "is_a": [
+      "GO:0016803"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.170"
+    ],
+    "MetaCyc": [
+      "RXN-14900"
+    ],
+    "RHEA": [
+      "58456",
+      "58456"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2R)-2-O-(alpha-D-mannosyl)-glycerate + H2O = (R)-glycerate + D-mannose.",
+  "namespace": "molecular_function",
+  "label": "mannosylglycerate hydrolase activity"
+}

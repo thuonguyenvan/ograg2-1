@@ -1,0 +1,30 @@
+{
+  "id": "GO:0006635",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006635",
+  "relationships": {
+    "is_a": [
+      "GO:0009062",
+      "GO:0019395"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-77289"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "A fatty acid oxidation process that results in the complete oxidation of a long-chain fatty acid. Fatty acid beta-oxidation begins with the addition of coenzyme A to a fatty acid, and occurs by successive cycles of reactions during each of which the fatty acid is shortened by a two-carbon fragment removed as acetyl coenzyme A; the cycle continues until only two or three carbons remain (as acetyl-CoA or propionyl-CoA respectively).",
+  "namespace": "biological_process",
+  "label": "Mitochondrial Fatty Acid Beta-Oxidation"
+}

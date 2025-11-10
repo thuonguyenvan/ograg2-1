@@ -1,0 +1,33 @@
+{
+  "id": "GO:0070369",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070369",
+  "relationships": {
+    "is_a": [
+      "GO:0071664",
+      "GO:1990907"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "beta-catenin-TCF4 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "rl"
+    ],
+    "PMID": [
+      "9065401",
+      "9065402",
+      "9065401",
+      "9065402"
+    ]
+  },
+  "definition": "A protein complex that contains beta-catenin and TCF7L2 (TCF4), binds to the TCF DNA motif within a promoter element, and is involved in the regulation of WNT target gene transcription.",
+  "namespace": "cellular_component",
+  "label": "beta-catenin-TCF7L2 complex"
+}

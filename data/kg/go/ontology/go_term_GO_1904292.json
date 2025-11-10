@@ -1,0 +1,37 @@
+{
+  "id": "GO:1904292",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904292",
+  "relationships": {
+    "is_a": [
+      "GO:0061136",
+      "GO:1905897"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of endoplasmic reticulum-associated degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of ER-associated degradation pathway",
+      "regulation of endoplasmic reticulum-associated protein degradation pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of ERAD pathway.",
+  "namespace": "biological_process",
+  "label": "regulation of ERAD pathway"
+}

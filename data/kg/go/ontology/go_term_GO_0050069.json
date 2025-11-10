@@ -1,0 +1,34 @@
+{
+  "id": "GO:0050069",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050069",
+  "relationships": {
+    "is_a": [
+      "GO:0016639"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-lysine:NAD+ oxidoreductase (deaminating, cyclizing)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.1.15",
+      "1.4.1.15",
+      "1.4.1.15"
+    ],
+    "MetaCyc": [
+      "LYSINE-DEHYDROGENASE-RXN",
+      "LYSINE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "18505"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-lysine + NAD+ = 1,2-didehydropiperidine-2-carboxylate + NH3 + NADH.",
+  "namespace": "molecular_function",
+  "label": "lysine dehydrogenase activity"
+}

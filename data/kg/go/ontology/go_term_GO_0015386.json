@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015386",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015386",
+  "relationships": {
+    "is_a": [
+      "GO:0022821",
+      "GO:0051139"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "potassium:hydrogen antiporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TRANS-RXN-42"
+    ],
+    "RHEA": [
+      "29467"
+    ],
+    "TC": [
+      "2.A.37.-.-"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: K+(in) + H+(out) = K+(out) + H+(in).",
+  "namespace": "molecular_function",
+  "label": "potassium:proton antiporter activity"
+}

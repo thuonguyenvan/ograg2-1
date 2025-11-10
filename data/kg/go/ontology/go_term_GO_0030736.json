@@ -1,0 +1,39 @@
+{
+  "id": "GO:0030736",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030736",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PMT",
+      "S-adenosyl-L-methionine:phenol O-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.25",
+      "2.1.1.25",
+      "2.1.1.25",
+      "2.1.1.25"
+    ],
+    "KEGG_REACTION": [
+      "R01239"
+    ],
+    "MetaCyc": [
+      "PHENOL-O-METHYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "14809",
+      "14809"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + phenol = S-adenosyl-L-homocysteine + anisole + H+.",
+  "namespace": "molecular_function",
+  "label": "phenol O-methyltransferase activity"
+}

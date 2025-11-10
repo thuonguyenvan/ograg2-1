@@ -1,0 +1,32 @@
+{
+  "id": "GO:0043392",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043392",
+  "relationships": {
+    "is_a": [
+      "GO:0051100",
+      "GO:0051101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of DNA binding",
+      "down-regulation of DNA binding",
+      "downregulation of DNA binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of DNA binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "jl",
+      "tb"
+    ]
+  },
+  "definition": "Any process that stops or reduces the frequency, rate or extent of DNA binding. DNA binding is any process in which a gene product interacts selectively with DNA (deoxyribonucleic acid).",
+  "namespace": "biological_process",
+  "label": "negative regulation of DNA binding"
+}

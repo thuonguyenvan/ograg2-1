@@ -1,0 +1,86 @@
+{
+  "id": "GO:0003955",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003955",
+  "relationships": {
+    "is_a": [
+      "GO:0016655"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "NAD(P)H dehydrogenase activity",
+      "NAD(P)H menadione reductase activity",
+      "NAD(P)H: menadione oxidoreductase activity",
+      "azoreductase activity",
+      "diaphorase activity"
+    ],
+    "narrow": [
+      "NADH-menadione reductase activity",
+      "menadione oxidoreductase activity",
+      "menadione reductase activity",
+      "naphthoquinone reductase activity",
+      "p-benzoquinone reductase activity",
+      "phylloquinone reductase activity",
+      "viologen accepting pyridine nucleotide oxidoreductase activity",
+      "vitamin K reductase activity",
+      "vitamin-K reductase activity"
+    ],
+    "related": [
+      "DT-diaphorase activity",
+      "NAD(P)H(2) dehydrogenase (quinone) activity",
+      "NAD(P)H-quinone dehydrogenase activity",
+      "NAD(P)H-quinone oxidoreductase activity",
+      "NAD(P)H2 dehydrogenase (quinone)",
+      "NAD(P)H:(quinone-acceptor)oxidoreductase activity",
+      "NAD(P)H:quinone oxidoreductase activity",
+      "NQO1",
+      "QR1",
+      "dehydrogenase, reduced nicotinamide adenine dinucleotide (phosphate, quinone) activity",
+      "flavoprotein NAD(P)H-quinone reductase activity",
+      "quinone reductase activity",
+      "reduced NAD(P)H dehydrogenase activity",
+      "reduced nicotinamide-adenine dinucleotide (phosphate) dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2",
+      "1.6.5.2"
+    ],
+    "MetaCyc": [
+      "NQOR-RXN"
+    ],
+    "UM-BBD_reactionID": [
+      "r0227"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD(P)H + H+ + a quinone = NAD(P)+ + a quinol.",
+  "namespace": "molecular_function",
+  "label": "NAD(P)H dehydrogenase (quinone) activity"
+}

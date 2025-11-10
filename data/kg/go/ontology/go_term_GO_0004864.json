@@ -1,0 +1,30 @@
+{
+  "id": "GO:0004864",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004864",
+  "relationships": {
+    "is_a": [
+      "GO:0019212",
+      "GO:0019888"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphoprotein phosphatase inhibitor activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "protein phosphatase 2 inhibitor activity",
+      "protein phosphatase type 2A inhibitor activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph"
+    ]
+  },
+  "definition": "Binds to and stops, prevents or reduces the activity of a protein phosphatase.",
+  "namespace": "molecular_function",
+  "label": "protein phosphatase inhibitor activity"
+}

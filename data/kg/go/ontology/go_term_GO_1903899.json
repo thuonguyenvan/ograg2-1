@@ -1,0 +1,97 @@
+{
+  "id": "GO:1903899",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903899",
+  "relationships": {
+    "is_a": [
+      "GO:1900103",
+      "GO:1903897"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of PERK branch of UPR",
+      "positive regulation of PKR-like ER kinase signal transduction",
+      "positive regulation of UPR signaling by PERK stress sensor",
+      "positive regulation of endoplasmic reticulum unfolded protein response; PERK signaling",
+      "up regulation of PERK branch of UPR",
+      "up regulation of PERK-mediated unfolded protein response",
+      "up regulation of PKR-like ER kinase signal transduction",
+      "up regulation of UPR signaling by PERK stress sensor",
+      "up regulation of endoplasmic reticulum unfolded protein response; PERK signaling",
+      "up-regulation of PERK branch of UPR",
+      "up-regulation of PERK-mediated unfolded protein response",
+      "up-regulation of PKR-like ER kinase signal transduction",
+      "up-regulation of UPR signaling by PERK stress sensor",
+      "up-regulation of endoplasmic reticulum unfolded protein response; PERK signaling",
+      "upregulation of PERK branch of UPR",
+      "upregulation of PERK-mediated unfolded protein response",
+      "upregulation of PKR-like ER kinase signal transduction",
+      "upregulation of UPR signaling by PERK stress sensor",
+      "upregulation of endoplasmic reticulum unfolded protein response; PERK signaling"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of PERK branch of UPR",
+      "activation of PERK-mediated unfolded protein response",
+      "activation of PKR-like ER kinase signal transduction",
+      "activation of UPR signaling by PERK stress sensor",
+      "activation of endoplasmic reticulum unfolded protein response; PERK signaling"
+    ],
+    "related": [
+      "activation of PERK signaling in response to endoplasmic reticulum stress",
+      "positive regulation of EIF2AK3-mediated unfolded protein response",
+      "positive regulation of PERK signaling in response to endoplasmic reticulum stress",
+      "up regulation of PERK signaling in response to endoplasmic reticulum stress",
+      "up-regulation of PERK signaling in response to endoplasmic reticulum stress",
+      "upregulation of PERK signaling in response to endoplasmic reticulum stress"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22013210"
+    ],
+    "HGNC": [
+      "3255"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the PERK-mediated unfolded protein response.",
+  "namespace": "biological_process",
+  "label": "positive regulation of PERK-mediated unfolded protein response"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:7770010",
+  "uri": "http://purl.obolibrary.org/obo/GO_7770010",
+  "relationships": {
+    "is_a": [
+      "GO:1990234"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5-taurinomethyluridine-tRNA synthase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "29390138",
+      "33619562"
+    ]
+  },
+  "definition": "A protein complex consisting of GTP binding protein 3 (GTPBP3) and mitochondrial tRNA translation optimization 1 (MTO1). The complex catalyzes the formation of 5-taurinomethyluridine at wobble position U34 of mitochondrial tRNAs.",
+  "namespace": "cellular_component",
+  "label": "GTPBP3-MTO1 complex"
+}

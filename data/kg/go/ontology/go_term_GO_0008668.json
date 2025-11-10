@@ -1,0 +1,36 @@
+{
+  "id": "GO:0008668",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008668",
+  "relationships": {
+    "is_a": [
+      "GO:0016878"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "(2,3-dihydroxybenzoyl)adenylate synthase activity",
+      "2,3-dihydroxybenzoate-AMP ligase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "6.2.1.71"
+    ],
+    "KEGG_REACTION": [
+      "R12777"
+    ],
+    "MetaCyc": [
+      "RXN-19445"
+    ],
+    "RHEA": [
+      "61652",
+      "61652"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,3-dihydroxybenzoate + ATP + holo-[ACP] = 2,3-dihydroxybenzoyl-[ACP] + AMP + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "2,3-dihydroxybenzoate--[aryl-carrier protein] ligase"
+}

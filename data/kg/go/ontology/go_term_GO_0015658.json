@@ -1,0 +1,38 @@
+{
+  "id": "GO:0015658",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015658",
+  "relationships": {
+    "is_a": [
+      "GO:0046943"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "branched-chain aliphatic amino acid transmembrane transporter activity",
+      "branched-chain aliphatic amino acid transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "leucine/valine/isoleucine permease activity",
+      "valine/tyrosine/tryptophan permease activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9672770"
+    ],
+    "GOC": [
+      "ai",
+      "bf",
+      "mtg_transport",
+      "bf"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of branched-chain amino acids from one side of a membrane to the other. Branched-chain amino acids are amino acids with a branched carbon skeleton without rings.",
+  "namespace": "molecular_function",
+  "label": "SLC25A44 transports Leu, Ile and Val from cytosol to mitochondrial matrix"
+}

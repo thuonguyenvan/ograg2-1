@@ -1,0 +1,29 @@
+{
+  "id": "GO:0009966",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009966",
+  "relationships": {
+    "is_a": [
+      "GO:0010646",
+      "GO:0023051",
+      "GO:0048583"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of signaling pathway",
+      "regulation of signalling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "sm",
+      "mah"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of signal transduction.",
+  "namespace": "biological_process",
+  "label": "regulation of signal transduction"
+}

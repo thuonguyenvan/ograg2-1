@@ -1,0 +1,30 @@
+{
+  "id": "GO:0160051",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160051",
+  "relationships": {
+    "is_a": [
+      "GO:0090571"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Tup11/Tup12 repressor complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw"
+    ],
+    "PMID": [
+      "10871883",
+      "17101775",
+      "22156212"
+    ]
+  },
+  "definition": "A corepressor complex containing the WD-repeat protein Tup1p (S. cerevisiae) and Tup11/Tup12 (fission yeast) and the TPR repeat protein Cyc8p (S. cerevisiae) ssn6 (fission yeast) that is recruited to target genes by DNA-bound repressor proteins preferentially at regions where histones are deacetylated by the Clr6 class I HDAC, and recruits the SWI/SNF and SAGA complexes to promoters.",
+  "namespace": "cellular_component",
+  "label": "Cyc8(Ssn6)-Tup1 general repressor complex"
+}

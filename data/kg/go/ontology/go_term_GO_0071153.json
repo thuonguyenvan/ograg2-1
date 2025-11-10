@@ -1,0 +1,33 @@
+{
+  "id": "GO:0071153",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071153",
+  "relationships": {
+    "is_a": [
+      "GO:0140535"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Ric-8A G(o) alpha-1 subunit complex",
+      "Ric-8A G(o) alpha-2 subunit complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "12509430"
+    ],
+    "CORUM": [
+      "172",
+      "174"
+    ]
+  },
+  "definition": "A protein complex formed by the association of the guanine nucleotide exchange factor synembrin with the alpha(o) subunit of a heterotrimeric G protein.",
+  "namespace": "cellular_component",
+  "label": "G-protein alpha(o)-synembrin complex"
+}

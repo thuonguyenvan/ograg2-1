@@ -1,0 +1,32 @@
+{
+  "id": "GO:0001921",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001921",
+  "relationships": {
+    "is_a": [
+      "GO:0001919",
+      "GO:0010604",
+      "GO:0023056"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of receptor recycling",
+      "up-regulation of receptor recycling",
+      "upregulation of receptor recycling"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of receptor recycling",
+      "stimulation of receptor recycling"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of receptor recycling.",
+  "namespace": "biological_process",
+  "label": "positive regulation of receptor recycling"
+}

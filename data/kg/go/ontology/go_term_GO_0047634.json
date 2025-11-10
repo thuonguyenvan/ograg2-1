@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047634",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047634",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-coumaroyl-CoA:agmatine 4-N-coumaroyltransferase activity",
+      "4-coumaroyl-CoA:agmatine N4-coumaroyltransferase activity",
+      "agmatine coumaroyltransferase activity",
+      "p-coumaroyl-CoA-agmatine N-p-coumaroyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.64",
+      "2.3.1.64",
+      "2.3.1.64",
+      "2.3.1.64",
+      "2.3.1.64",
+      "2.3.1.64"
+    ],
+    "KEGG_REACTION": [
+      "R01617"
+    ],
+    "MetaCyc": [
+      "AGMATINE-N4-COUMAROYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "13405",
+      "13405"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-coumaroyl-CoA + agmatine = N-(4-guanidiniumylbutyl)-4-hydroxycinnamamide + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "agmatine N4-coumaroyltransferase activity"
+}

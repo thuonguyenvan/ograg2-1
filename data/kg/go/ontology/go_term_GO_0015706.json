@@ -1,0 +1,29 @@
+{
+  "id": "GO:0015706",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015706",
+  "relationships": {
+    "is_a": [
+      "GO:0055085",
+      "GO:1902025"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "nitrate transport"
+    ],
+    "narrow": [
+      "low affinity nitrate transport",
+      "low-affinity nitrate transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ]
+  },
+  "definition": "The directed movement of nitrate into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "nitrate transmembrane transport"
+}

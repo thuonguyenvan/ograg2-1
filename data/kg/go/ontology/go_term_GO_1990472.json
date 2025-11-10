@@ -1,0 +1,26 @@
+{
+  "id": "GO:1990472",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990472",
+  "relationships": {
+    "is_a": [
+      "GO:1990470"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "24906153"
+    ]
+  },
+  "definition": "Binding to dual-strand piRNA clusters, double-stranded DNA regions that give rise to PIWI-interacting RNAs (piRNAs) where piRNAs originate from both DNA strands via noncanonical transcription.",
+  "namespace": "molecular_function",
+  "label": "piRNA dual-strand cluster binding"
+}

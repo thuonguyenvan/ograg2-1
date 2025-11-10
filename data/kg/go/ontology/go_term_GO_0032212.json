@@ -1,0 +1,32 @@
+{
+  "id": "GO:0032212",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032212",
+  "relationships": {
+    "is_a": [
+      "GO:0032210",
+      "GO:1904358",
+      "GO:2000573"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of telomere maintenance via telomerase activity",
+      "up-regulation of telomere maintenance via telomerase activity",
+      "upregulation of telomere maintenance via telomerase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of telomere maintenance via telomerase",
+      "stimulation of telomere maintenance via telomerase"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the addition of telomeric repeats by telomerase.",
+  "namespace": "biological_process",
+  "label": "positive regulation of telomere maintenance via telomerase"
+}

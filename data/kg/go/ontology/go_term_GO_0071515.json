@@ -1,0 +1,32 @@
+{
+  "id": "GO:0071515",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071515",
+  "relationships": {
+    "is_a": [
+      "GO:0022413"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "genetic imprinting at mating-type locus",
+      "genomic imprinting at mating-type locus",
+      "mating type determination, imprinting"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vw"
+    ],
+    "PMID": [
+      "14765111",
+      "18723894"
+    ]
+  },
+  "definition": "A genomic imprinting process in which a stable single-strand DNA lesion triggers programmed gene conversion at the mating-type locus, thereby restricting mating-type interconversion to one of the two sister chromatids during DNA replication.",
+  "namespace": "biological_process",
+  "label": "mating-type locus imprinting"
+}

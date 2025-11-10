@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102307",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102307",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "erythromycin C 3&apos;&apos;-o-methyltransferase activity",
+      "erythromycin D 3&apos;&apos;-o-methyltransferase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.254",
+      "2.1.1.254"
+    ]
+  },
+  "definition": "Catalysis of the reaction: erythromycin C + S-adenosyl-L-methionine = erythromycin A + H+ + S-adenosyl-L-homocysteine. Also converts erythromycin D into erythromycin B.",
+  "namespace": "molecular_function",
+  "label": "erythromycin 3&apos;&apos;-o-methyltransferase activity"
+}

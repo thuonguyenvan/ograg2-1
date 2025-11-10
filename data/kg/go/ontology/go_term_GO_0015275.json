@@ -1,0 +1,26 @@
+{
+  "id": "GO:0015275",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015275",
+  "relationships": {
+    "is_a": [
+      "GO:0005262",
+      "GO:0140135"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "stretch-activated, cation-selective, calcium channel activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of a calcium ion by a channel that opens in response to a mechanical stress in the form of stretching.",
+  "namespace": "molecular_function",
+  "label": "stretch-activated, monoatomic cation-selective, calcium channel activity"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0046254",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046254",
+  "relationships": {
+    "is_a": [
+      "GO:0042203"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "anaerobic toluene breakdown",
+      "anaerobic toluene catabolism",
+      "anaerobic toluene degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-81"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of toluene, a volatile monoaromatic hydrocarbon found in crude petroleum and petroleum products, in the absence of oxygen.",
+  "namespace": "biological_process",
+  "label": "anaerobic toluene catabolic process"
+}

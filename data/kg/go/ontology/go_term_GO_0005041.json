@@ -1,0 +1,39 @@
+{
+  "id": "GO:0005041",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005041",
+  "relationships": {
+    "is_a": [
+      "GO:0030228"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LDL receptor",
+      "LDLR activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "low-density lipoprotein receptor activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2404131",
+      "R-HSA-2424254"
+    ],
+    "Wikipedia": [
+      "LDL_receptor"
+    ],
+    "GOC": [
+      "bf",
+      "bf"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Combining with a low-density lipoprotein particle and delivering the low-density lipoprotein particle into the cell via endocytosis.",
+  "namespace": "molecular_function",
+  "label": "LDLR transports extracellular CR:atREs to cytosol"
+}

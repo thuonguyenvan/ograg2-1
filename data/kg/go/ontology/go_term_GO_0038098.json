@@ -1,0 +1,33 @@
+{
+  "id": "GO:0038098",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038098",
+  "relationships": {
+    "is_a": [
+      "GO:0030514",
+      "GO:0035581"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "extracellular sequestering of BMP",
+      "extracellular sequestering of bone morphogenetic protein"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "signaling",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "19855014"
+    ]
+  },
+  "definition": "Binding to a bone morphogenetic protein (BMP) in the extracellular region, and inhibiting BMP signaling by preventing BMP from binding to its cell surface receptor.",
+  "namespace": "biological_process",
+  "label": "sequestering of BMP from receptor via BMP binding"
+}

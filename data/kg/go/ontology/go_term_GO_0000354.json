@@ -1,0 +1,36 @@
+{
+  "id": "GO:0000354",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000354",
+  "relationships": {
+    "is_a": [
+      "GO:0022618"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "cis assembly of U12-type pre-catalytic spliceosome",
+      "cis assembly of U2-type pre-catalytic spliceosome",
+      "formation of spliceosomal A2-1 complex",
+      "formation of spliceosomal B1 complex",
+      "spliceosomal A2-1 complex biosynthesis",
+      "spliceosomal A2-1 complex formation",
+      "spliceosomal B1 complex biosynthesis",
+      "spliceosomal B1 complex formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mtg_mpo"
+    ],
+    "ISBN": [
+      "0879695897"
+    ]
+  },
+  "definition": "Assembly of a spliceosomal complex containing the intact pre-mRNA and all of the spliceosomal snRNPs. This occurs when the tri-snRNP associates with the pre-mRNA and associated snRNPs in an ATP-dependent manner.",
+  "namespace": "biological_process",
+  "label": "cis assembly of pre-catalytic spliceosome"
+}

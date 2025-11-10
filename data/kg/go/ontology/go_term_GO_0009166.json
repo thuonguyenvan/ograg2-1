@@ -1,0 +1,28 @@
+{
+  "id": "GO:0009166",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009166",
+  "relationships": {
+    "is_a": [
+      "GO:0009117",
+      "GO:1901292"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nucleotide breakdown",
+      "nucleotide catabolism",
+      "nucleotide degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of nucleotides, any nucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the glycose moiety; may be mono-, di- or triphosphate; this definition includes cyclic-nucleotides (nucleoside cyclic phosphates).",
+  "namespace": "biological_process",
+  "label": "nucleotide catabolic process"
+}

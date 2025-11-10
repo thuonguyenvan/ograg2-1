@@ -1,0 +1,32 @@
+{
+  "id": "GO:1905318",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905318",
+  "relationships": {
+    "is_a": [
+      "GO:0033316",
+      "GO:0110029"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "meiosis I spindle assembly checkpoint"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000060"
+    ],
+    "PMID": [
+      "26483559"
+    ]
+  },
+  "definition": "Any spindle assembly checkpoint that is involved in meiosis I.",
+  "namespace": "biological_process",
+  "label": "meiosis I spindle assembly checkpoint signaling"
+}

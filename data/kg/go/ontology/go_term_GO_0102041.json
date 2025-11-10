@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102041",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102041",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.105"
+    ],
+    "MetaCyc": [
+      "RXN-10009"
+    ],
+    "RHEA": [
+      "35951",
+      "35951"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-(beta-D-ribofuranosyl)aminobenzene 5&apos;-phosphate + (2-amino-4-hydroxy-7,8-dihydropteridin-6-yl)methyl diphosphate = N-[(7,8-dihydropterin-6-yl)methyl]-4-(beta-D-ribofuranosyl)aniline 5&apos;-phosphate + diphosphoric acid.",
+  "namespace": "molecular_function",
+  "label": "7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5&apos;-phosphate synthase"
+}

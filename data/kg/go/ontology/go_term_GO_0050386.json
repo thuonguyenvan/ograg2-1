@@ -1,0 +1,37 @@
+{
+  "id": "GO:0050386",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050386",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-carbamoyl-L-aspartate amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.7",
+      "3.5.1.7",
+      "3.5.1.7"
+    ],
+    "KEGG_REACTION": [
+      "R00484"
+    ],
+    "MetaCyc": [
+      "UREIDOSUCCINASE-RXN"
+    ],
+    "RHEA": [
+      "14365",
+      "14365"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-carbamoyl-L-aspartate + H2O + 2 H+ = L-aspartate + CO2 + NH4.",
+  "namespace": "molecular_function",
+  "label": "ureidosuccinase activity"
+}

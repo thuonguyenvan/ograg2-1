@@ -1,0 +1,53 @@
+{
+  "id": "GO:0050040",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050040",
+  "relationships": {
+    "is_a": [
+      "GO:0016703"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(S)-lactate:oxygen 2-oxidoreductase (decarboxylating)",
+      "L-lactate monooxygenase activity",
+      "L-lactate-2-monooxygenase activity",
+      "lactate monooxygenase activity",
+      "lactate oxidase activity",
+      "lactate oxidative decarboxylase activity",
+      "lactate oxygenase activity",
+      "lactic oxidase activity",
+      "lactic oxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.12.4",
+      "1.13.12.4",
+      "1.13.12.4",
+      "1.13.12.4",
+      "1.13.12.4",
+      "1.13.12.4",
+      "1.13.12.4",
+      "1.13.12.4",
+      "1.13.12.4",
+      "1.13.12.4",
+      "1.13.12.4"
+    ],
+    "KEGG_REACTION": [
+      "R00319"
+    ],
+    "MetaCyc": [
+      "RXN-19631"
+    ],
+    "RHEA": [
+      "16513",
+      "16513"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-lactate + O2 = acetate + CO2 + H2O.",
+  "namespace": "molecular_function",
+  "label": "lactate 2-monooxygenase activity"
+}

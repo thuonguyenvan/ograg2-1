@@ -1,0 +1,41 @@
+{
+  "id": "GO:1904594",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904594",
+  "relationships": {
+    "is_a": [
+      "GO:0031554"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of RNA 3&apos;-end formation by RNA polymerase II",
+      "regulation of RNA polymerase II transcription termination",
+      "regulation of transcription termination from Pol II promoter",
+      "regulation of transcription termination from RNA polymerase II promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of RNA polymerase II transcription termination factor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25417108"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of termination of RNA polymerase II transcription.",
+  "namespace": "biological_process",
+  "label": "regulation of termination of RNA polymerase II transcription"
+}

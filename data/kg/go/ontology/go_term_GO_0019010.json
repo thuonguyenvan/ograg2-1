@@ -1,0 +1,34 @@
+{
+  "id": "GO:0019010",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019010",
+  "relationships": {
+    "is_a": [
+      "GO:0008171",
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "S-adenosyl-methionine:farnesoic acid O-methyltransferase activity",
+      "juvenile hormone acid methyltransferase activity",
+      "juvenile hormone-III synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.325",
+      "2.1.1.325"
+    ],
+    "PMID": [
+      "12135499",
+      "14530389",
+      "18549957"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2E,6E)-farnesoate + S-adenosyl-L-methionine = methyl (2E,6E)-farnesoate + S-adenosyl-L-homocysteine. Also converts juvenile hormone III carboxylate into juvenile hormone-III.",
+  "namespace": "molecular_function",
+  "label": "farnesoic acid O-methyltransferase activity"
+}

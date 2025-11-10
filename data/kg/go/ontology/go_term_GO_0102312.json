@@ -1,0 +1,36 @@
+{
+  "id": "GO:0102312",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102312",
+  "relationships": {
+    "is_a": [
+      "GO:0016706"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.11.62"
+    ],
+    "MetaCyc": [
+      "RXN-12963"
+    ],
+    "RHEA": [
+      "57868"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "22168819",
+      "22169019"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-coumaryl-CoA + 2-oxoglutarate + O2 = 2,4-dihydroxycinnamoyl-CoA + succinate + carbon dioxide.",
+  "namespace": "molecular_function",
+  "label": "4-coumaroyl 2&apos;-hydroxylase activity"
+}

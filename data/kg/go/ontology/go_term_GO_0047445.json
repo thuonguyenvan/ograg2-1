@@ -1,0 +1,50 @@
+{
+  "id": "GO:0047445",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047445",
+  "relationships": {
+    "is_a": [
+      "GO:0016833"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-hydroxy-3-(4-methylpent-3-en-1-yl)glutaryl-CoA acetate-lyase (7-methyl-3-oxooct-6-enoyl-CoA-forming)",
+      "3-hydroxy-3-(4-methylpent-3-en-1-yl)glutaryl-CoA acetate-lyase activity",
+      "3-hydroxy-3-isohexenylglutaryl coenzyme A lyase activity",
+      "3-hydroxy-3-isohexenylglutaryl-CoA isopentenylacetoacetyl-CoA-lyase activity",
+      "beta-hydroxy-beta-isohexenylglutaryl CoA-lyase activity",
+      "hydroxyisohexenylglutaryl-CoA:acetatelyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.3.26",
+      "4.1.3.26",
+      "4.1.3.26",
+      "4.1.3.26",
+      "4.1.3.26",
+      "4.1.3.26",
+      "4.1.3.26",
+      "4.1.3.26"
+    ],
+    "KEGG_REACTION": [
+      "R08090"
+    ],
+    "MetaCyc": [
+      "4.1.3.26-RXN"
+    ],
+    "RHEA": [
+      "23084",
+      "23084"
+    ],
+    "UM-BBD_reactionID": [
+      "r1168"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-hydroxy-3-(4-methylpent-3-en-1-yl)glutaryl-CoA + 4 H+ = 7-methyl-3-oxooct-6-enoyl-CoA + acetate.",
+  "namespace": "molecular_function",
+  "label": "3-hydroxy-3-isohexenylglutaryl-CoA lyase activity"
+}

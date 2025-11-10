@@ -1,0 +1,38 @@
+{
+  "id": "GO:0001716",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001716",
+  "relationships": {
+    "is_a": [
+      "GO:0008131"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-amino-acid:oxygen oxidoreductase (deaminating)",
+      "ophio-amino-acid oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.3.2",
+      "1.4.3.2",
+      "1.4.3.2"
+    ],
+    "MetaCyc": [
+      "L-AMINO-ACID-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "13781",
+      "13781"
+    ],
+    "Reactome": [
+      "R-HSA-2160492"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an L-alpha-amino acid + H2O + O2 = a 2-oxocarboxylate + H2O2 + NH4+.",
+  "namespace": "molecular_function",
+  "label": "IL4I1:FAD oxidises L-Phe to kPPV"
+}

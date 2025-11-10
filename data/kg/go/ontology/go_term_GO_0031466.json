@@ -1,0 +1,32 @@
+{
+  "id": "GO:0031466",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031466",
+  "relationships": {
+    "is_a": [
+      "GO:0031461"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CDL5 complex",
+      "CRL5 complex",
+      "cullin-RING ligase 5"
+    ],
+    "broad": [
+      "EC2S complex"
+    ],
+    "narrow": [],
+    "related": [
+      "SCF5 complex"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "15571813",
+      "15688063"
+    ]
+  },
+  "definition": "A ubiquitin ligase complex in which a cullin from the Cul5 subfamily and a RING domain protein form the catalytic core; substrate specificity is conferred by an elongin-BC adaptor and a SOCS/BC box protein.",
+  "namespace": "cellular_component",
+  "label": "Cul5-RING ubiquitin ligase complex"
+}

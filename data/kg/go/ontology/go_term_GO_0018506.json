@@ -1,0 +1,35 @@
+{
+  "id": "GO:0018506",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018506",
+  "relationships": {
+    "is_a": [
+      "GO:0016628"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-oxoadipate:NAD(P)+ oxidoreductase activity",
+      "maleolylacetate reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.3.1.32",
+      "1.3.1.32",
+      "1.3.1.32",
+      "1.3.1.32"
+    ],
+    "MetaCyc": [
+      "MALEYLACETATE-REDUCTASE-RXN"
+    ],
+    "UM-BBD_enzymeID": [
+      "r0099"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-oxoadipate + NAD(P)+ = 2-maleylacetate + NAD(P)H + H+.",
+  "namespace": "molecular_function",
+  "label": "maleylacetate reductase activity"
+}

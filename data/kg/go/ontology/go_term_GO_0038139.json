@@ -1,0 +1,30 @@
+{
+  "id": "GO:0038139",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038139",
+  "relationships": {
+    "is_a": [
+      "GO:0098802"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "EGFR-ERBB4 complex",
+      "ERBB4:EGFR heterodimer"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "signaling",
+      "bf"
+    ],
+    "PMID": [
+      "16460914"
+    ]
+  },
+  "definition": "A heterodimeric complex between the tyrosine kinase receptors ERBB4 (also called HER4) and epidermal growth factor receptor (EGFR/ERBB1).",
+  "namespace": "cellular_component",
+  "label": "ERBB4-EGFR complex"
+}

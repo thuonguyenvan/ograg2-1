@@ -1,0 +1,39 @@
+{
+  "id": "GO:0015624",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015624",
+  "relationships": {
+    "is_a": [
+      "GO:0015603",
+      "GO:0140359"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent ferric-enterobactin transmembrane transporter activity",
+      "ferric-enterobactin ABC transporter"
+    ],
+    "broad": [
+      "ferric-enterobactin porter activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ATPase-coupled ferric-enterobactin transmembrane transporter activity",
+      "ferric-enterobactin-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.2.2.17"
+    ],
+    "MetaCyc": [
+      "ABC-10-RXN"
+    ],
+    "RHEA": [
+      "58492",
+      "58492"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + ferric-enterobactin(out) = ADP + phosphate + ferric-enterobactin(in).",
+  "namespace": "molecular_function",
+  "label": "ABC-type ferric-enterobactin transporter activity"
+}

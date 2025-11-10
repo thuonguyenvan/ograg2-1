@@ -1,0 +1,59 @@
+{
+  "id": "GO:0008821",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008821",
+  "relationships": {
+    "is_a": [
+      "GO:0016889"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "crossover junction endodeoxyribonuclease activity",
+      "crossover junction endoribonuclease activity",
+      "endodeoxyribonuclease RUS activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "Holliday junction endonuclease CCE1 activity",
+      "Holliday junction resolvase activity",
+      "RusA endonuclease activity",
+      "RuvC endonuclease activity",
+      "SpCCe1 Holliday junction resolvase activity",
+      "SpCCe1 holliday junction resolvase",
+      "endonuclease RuvC activity",
+      "endonuclease VII activity",
+      "endonuclease X3 activity"
+    ],
+    "related": [
+      "Hje endonuclease activity",
+      "Holliday junction nuclease activity",
+      "cruciform-cutting endonuclease activity",
+      "endo X3"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.21.10",
+      "3.1.21.10",
+      "3.1.21.10",
+      "3.1.21.10",
+      "3.1.21.10",
+      "3.1.21.10",
+      "3.1.21.10",
+      "3.1.21.10",
+      "3.1.21.10",
+      "3.1.21.10",
+      "3.1.21.10",
+      "3.1.21.10",
+      "3.1.21.10",
+      "3.1.21.10",
+      "3.1.21.10"
+    ],
+    "MetaCyc": [
+      "3.1.22.4-RXN"
+    ]
+  },
+  "definition": "Catalysis of the endonucleolytic cleavage at a junction such as a reciprocal single-stranded crossover between two homologous DNA duplexes (Holliday junction).",
+  "namespace": "molecular_function",
+  "label": "crossover junction DNA endonuclease activity"
+}

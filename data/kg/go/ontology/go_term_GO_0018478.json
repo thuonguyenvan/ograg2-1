@@ -1,0 +1,32 @@
+{
+  "id": "GO:0018478",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018478",
+  "relationships": {
+    "is_a": [
+      "GO:0016620"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "malonic semialdehyde oxidative decarboxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-oxopropanoate:NAD(P)+ oxidoreductase (decarboxylating, CoA-acetylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.18",
+      "1.2.1.18",
+      "1.2.1.18"
+    ],
+    "MetaCyc": [
+      "RXN-9958"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-oxopropanoate + CoA + NAD(P)+ = acetyl-CoA + CO2 + NAD(P)H.",
+  "namespace": "molecular_function",
+  "label": "malonate-semialdehyde dehydrogenase (acetylating) activity"
+}

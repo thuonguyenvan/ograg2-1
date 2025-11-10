@@ -1,0 +1,40 @@
+{
+  "id": "GO:0051717",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051717",
+  "relationships": {
+    "is_a": [
+      "GO:0052743"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "inositol (1,3,4,5)-tetrakisphosphate 3-phosphatase activity",
+      "inositol 1,3,4,5-tetrakisphosphate 3-phosphomonoesterase activity",
+      "inositol 1,3,4,5-tetrakisphosphate-5-phosphomonoesterase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "3.1.3.62-RXN"
+    ],
+    "RHEA": [
+      "77155",
+      "77155"
+    ],
+    "Reactome": [
+      "R-HSA-1855200",
+      "R-HSA-1855205"
+    ],
+    "EC": [
+      "2.7.1.-",
+      "2.7.1.-",
+      "2.7.1.-"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1D-myo-inositol 1,3,4,5-tetrakisphosphate + H2O = 1D-myo-inositol 1,4,5-trisphosphate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "I(1,3,4,5)P4 is dephosphorylated to I(1,4,5)P3 by PTEN in the cytosol"
+}

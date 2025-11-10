@@ -1,0 +1,37 @@
+{
+  "id": "GO:0004906",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004906",
+  "relationships": {
+    "is_a": [
+      "GO:0004904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IFN-gamma receptor activity",
+      "IFNG receptor activity",
+      "interferon-gamma receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "ai",
+      "signaling",
+      "mah",
+      "mah"
+    ],
+    "ISBN": [
+      "0126896631"
+    ],
+    "PMID": [
+      "15546383"
+    ]
+  },
+  "definition": "Combining with interferon-gamma (a type II interferon) and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.",
+  "namespace": "molecular_function",
+  "label": "type II interferon receptor activity"
+}

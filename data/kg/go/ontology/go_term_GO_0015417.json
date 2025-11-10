@@ -1,0 +1,44 @@
+{
+  "id": "GO:0015417",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015417",
+  "relationships": {
+    "is_a": [
+      "GO:0015203",
+      "GO:0140359"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "polyamine porter activity"
+    ],
+    "narrow": [
+      "ATPase-coupled spermidine transmembrane transporter activity",
+      "polyamine ABC transporter",
+      "polyamine-importing ATPase activity",
+      "spermidine porter activity",
+      "spermidine-importing ATPase activity"
+    ],
+    "related": [
+      "ATP-dependent polyamine transmembrane transporter activity",
+      "ATPase-coupled polyamine transmembrane transporter activity",
+      "polyamine-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.6.2.11",
+      "7.6.2.11",
+      "7.6.2.11"
+    ],
+    "MetaCyc": [
+      "3.6.3.31-RXN"
+    ],
+    "RHEA": [
+      "29999"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + H2O + polyamine(out) = ADP + phosphate + polyamine(in).",
+  "namespace": "molecular_function",
+  "label": "ABC-type polyamine transporter activity"
+}

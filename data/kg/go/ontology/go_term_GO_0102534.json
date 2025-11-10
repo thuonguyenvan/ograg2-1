@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102534",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102534",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-14751"
+    ],
+    "RHEA": [
+      "73435",
+      "73435"
+    ]
+  },
+  "definition": "Catalysis of the reaction: apigenin 4&apos;,7-dimethyl ether + O2 + reduced [NADPH--hemoprotein reductase] = H+ + H2O + ladanein + oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "apigenin-7,4&apos;-dimethyl ether 6-hydroxylase activity"
+}

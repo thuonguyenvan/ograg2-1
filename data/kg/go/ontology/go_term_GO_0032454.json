@@ -1,0 +1,32 @@
+{
+  "id": "GO:0032454",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032454",
+  "relationships": {
+    "is_a": [
+      "GO:0141052"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H3-K49 demethylase activity",
+      "histone H3-methyl-lysine-9 demethylase activity",
+      "histone demethylase activity (H3-K9 specific)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9011949",
+      "R-HSA-9011985",
+      "R-HSA-997263"
+    ],
+    "PMID": [
+      "16362057"
+    ]
+  },
+  "definition": "Catalysis of the removal of a methyl group from a modified lysine residue at position 9 of the histone H3 protein.",
+  "namespace": "molecular_function",
+  "label": "JMJD1C demethylates H3K9 mono- and di-methylation"
+}

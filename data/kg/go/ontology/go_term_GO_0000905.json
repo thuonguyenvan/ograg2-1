@@ -1,0 +1,33 @@
+{
+  "id": "GO:0000905",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000905",
+  "relationships": {
+    "is_a": [
+      "GO:0030584"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "fruiting body formation involved in asexual reproduction"
+    ],
+    "narrow": [
+      "conidium development",
+      "imperfect stage fruiting body development"
+    ],
+    "related": [
+      "haploid fruiting",
+      "homokaryotic fruiting",
+      "monokaryotic fruiting"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "clt",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "The formation of a spore-bearing structure by fungus where spores will arise from asexual reproduction.",
+  "namespace": "biological_process",
+  "label": "sporocarp development involved in asexual reproduction"
+}

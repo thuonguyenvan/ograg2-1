@@ -1,0 +1,35 @@
+{
+  "id": "GO:0038135",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038135",
+  "relationships": {
+    "is_a": [
+      "GO:0038128",
+      "GO:0038130"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ERBB2-ERBB4 signalling pathway",
+      "HER2-HER4 signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "signaling",
+      "mah"
+    ],
+    "PMID": [
+      "16460914"
+    ],
+    "PR": [
+      "000002082",
+      "000007160"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by binding of a ligand to a ERBB4 receptor on the surface of a cell, followed by transmission of the signal by a heterodimeric complex of ERBB2 and ERBB4. ERBB2, which does not bind any known ligand, is activated through formation of a heterodimer with another ligand-activated ERBB family member such as ERBB4.",
+  "namespace": "biological_process",
+  "label": "ERBB2-ERBB4 signaling pathway"
+}

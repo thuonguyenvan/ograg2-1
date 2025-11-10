@@ -1,0 +1,50 @@
+{
+  "id": "GO:1904046",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904046",
+  "relationships": {
+    "is_a": [
+      "GO:0001818",
+      "GO:0010574"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of VEGF production",
+      "down regulation of vascular endothelial growth factor production",
+      "down-regulation of VEGF production",
+      "down-regulation of vascular endothelial growth factor production",
+      "downregulation of VEGF production",
+      "downregulation of vascular endothelial growth factor production",
+      "negative regulation of VEGF production"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of VEGF production",
+      "inhibition of vascular endothelial growth factor production"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19404486"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of vascular endothelial growth factor production.",
+  "namespace": "biological_process",
+  "label": "negative regulation of vascular endothelial growth factor production"
+}

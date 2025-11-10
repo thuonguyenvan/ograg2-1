@@ -1,0 +1,34 @@
+{
+  "id": "GO:0047085",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047085",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-hydroxyphenylacetonitrile hydroxylase activity",
+      "4-hydroxyphenylacetonitrile monooxygenase activity",
+      "4-hydroxyphenylacetonitrile,NADPH:oxygen oxidoreductase (2-hydroxylating)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R02708"
+    ],
+    "MetaCyc": [
+      "1.14.13.42-RXN"
+    ],
+    "RHEA": [
+      "50732",
+      "50732"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-hydroxyphenylacetonitrile + H+ + NADPH + O2 = 4-hydroxymandelonitrile + H2O + NADP+.",
+  "namespace": "molecular_function",
+  "label": "hydroxyphenylacetonitrile 2-monooxygenase activity"
+}

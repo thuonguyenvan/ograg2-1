@@ -1,0 +1,43 @@
+{
+  "id": "GO:1901151",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901151",
+  "relationships": {
+    "is_a": [
+      "GO:0030649",
+      "GO:0046174"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ribostamycin breakdown",
+      "ribostamycin catabolic process",
+      "ribostamycin catabolism",
+      "ribostamycin degradation",
+      "vistamycin breakdown",
+      "vistamycin catabolism",
+      "vistamycin degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "UniPathway": [
+      "UPA00972"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of vistamycin.",
+  "namespace": "biological_process",
+  "label": "vistamycin catabolic process"
+}

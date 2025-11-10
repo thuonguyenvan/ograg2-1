@@ -1,0 +1,31 @@
+{
+  "id": "GO:0045827",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045827",
+  "relationships": {
+    "is_a": [
+      "GO:0019747",
+      "GO:0045833"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of isoprenoid metabolic process",
+      "down-regulation of isoprenoid metabolic process",
+      "downregulation of isoprenoid metabolic process",
+      "negative regulation of isoprenoid metabolism"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of isoprenoid metabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the chemical reactions and pathways involving isoprenoid.",
+  "namespace": "biological_process",
+  "label": "negative regulation of isoprenoid metabolic process"
+}

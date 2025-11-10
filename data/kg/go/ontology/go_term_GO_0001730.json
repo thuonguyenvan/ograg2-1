@@ -1,0 +1,42 @@
+{
+  "id": "GO:0001730",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001730",
+  "relationships": {
+    "is_a": [
+      "GO:0070566"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(2-5&apos;)oligo(A) synthetase activity",
+      "2&apos;-5&apos; oligoadenylate synthetase activity",
+      "2-5A synthetase activity",
+      "oligo-2&apos;,5&apos;-adenylate synthetase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.84"
+    ],
+    "MetaCyc": [
+      "RXN-13648"
+    ],
+    "RHEA": [
+      "34407"
+    ],
+    "Reactome": [
+      "R-HSA-8983680",
+      "R-HSA-8985091",
+      "R-HSA-8985104"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP = pppA(2&apos;p5&apos;A)n oligomers. This reaction requires the binding of double-stranded RNA.",
+  "namespace": "molecular_function",
+  "label": "OAS2 produces oligoadenylates"
+}

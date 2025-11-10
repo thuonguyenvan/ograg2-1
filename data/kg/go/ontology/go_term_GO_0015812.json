@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015812",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015812",
+  "relationships": {
+    "is_a": [
+      "GO:0006865",
+      "GO:0046942",
+      "GO:0071705"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-aminobutanoate transport",
+      "4-aminobutyrate transport",
+      "GABA transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The directed movement of gamma-aminobutyric acid (GABA, 4-aminobutyrate), an amino acid which acts as a neurotransmitter in some organisms, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "gamma-aminobutyric acid transport"
+}

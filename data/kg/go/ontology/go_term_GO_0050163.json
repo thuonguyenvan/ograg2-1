@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050163",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050163",
+  "relationships": {
+    "is_a": [
+      "GO:0016862"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "oxalacetic keto-enol isomerase activity",
+      "oxaloacetate keto-enol tautomerase activity",
+      "oxaloacetate keto-enol-isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.2.2",
+      "5.3.2.2",
+      "5.3.2.2",
+      "5.3.2.2",
+      "5.3.2.2"
+    ],
+    "KEGG_REACTION": [
+      "R00363"
+    ],
+    "MetaCyc": [
+      "OXALOACETATE-TAUTOMERASE-RXN"
+    ],
+    "RHEA": [
+      "16021",
+      "16021"
+    ]
+  },
+  "definition": "Catalysis of the reaction: oxaloacetate = &lt;stereo&gt;enol&lt;/stereo&gt;-oxaloacetate.",
+  "namespace": "molecular_function",
+  "label": "oxaloacetate tautomerase activity"
+}

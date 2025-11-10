@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047719",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047719",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "IDO",
+      "indole oxidase activity",
+      "indole-oxygen 2,3-oxidoreductase (decyclizing)",
+      "indole:O2 oxidoreductase activity",
+      "indole:oxygen 2,3-oxidoreductase (decyclizing)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.17",
+      "1.13.11.17",
+      "1.13.11.17",
+      "1.13.11.17",
+      "1.13.11.17",
+      "1.13.11.17",
+      "1.13.11.17"
+    ],
+    "KEGG_REACTION": [
+      "R02338"
+    ],
+    "MetaCyc": [
+      "INDOLE-23-DIOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "11212",
+      "11212"
+    ]
+  },
+  "definition": "Catalysis of the reaction: indole + O2 = 2-formamidobenzaldehyde.",
+  "namespace": "molecular_function",
+  "label": "indole 2,3-dioxygenase activity"
+}

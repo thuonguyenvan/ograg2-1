@@ -1,0 +1,27 @@
+{
+  "id": "GO:0072384",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072384",
+  "relationships": {
+    "is_a": [
+      "GO:0010970",
+      "GO:0051656"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "microtubule-based organelle localization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "rl"
+    ]
+  },
+  "definition": "The directed movement of an organelle along a microtubule, mediated by motor proteins. This process begins with the attachment of an organelle to a microtubule, and ends when the organelle reaches its final destination.",
+  "namespace": "biological_process",
+  "label": "organelle transport along microtubule"
+}

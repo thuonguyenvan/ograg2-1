@@ -1,0 +1,32 @@
+{
+  "id": "GO:2000158",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000158",
+  "relationships": {
+    "is_a": [
+      "GO:0010952"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of deubiquitinase activity",
+      "positive regulation of ubiquitin hydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of UBP",
+      "positive regulation of UCH2"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of ubiquitin-specific protease (deubiquitinase) activity.",
+  "namespace": "biological_process",
+  "label": "positive regulation of ubiquitin-specific protease activity"
+}

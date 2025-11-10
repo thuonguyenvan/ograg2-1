@@ -1,0 +1,44 @@
+{
+  "id": "GO:0019807",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019807",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acetylaspartate amidohydrolase activity",
+      "N-acyl-L-aspartate amidohydrolase activity",
+      "acetyl-aspartic deaminase activity",
+      "acylase II",
+      "aminoacylase II activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.15",
+      "3.5.1.15",
+      "3.5.1.15",
+      "3.5.1.15",
+      "3.5.1.15",
+      "3.5.1.15",
+      "3.5.1.15"
+    ],
+    "MetaCyc": [
+      "ASPARTOACYLASE-RXN"
+    ],
+    "RHEA": [
+      "10872"
+    ],
+    "Reactome": [
+      "R-HSA-5691507"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acyl-L-aspartate + H2O = a fatty acid anion + L-aspartate.",
+  "namespace": "molecular_function",
+  "label": "ASPA deacetylates NAASP to acetate and L-aspartate"
+}

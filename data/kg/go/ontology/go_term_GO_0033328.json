@@ -1,0 +1,35 @@
+{
+  "id": "GO:0033328",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033328",
+  "relationships": {
+    "is_a": [
+      "GO:0000268"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PMP targeting signal (mPTS) binding",
+      "PMP targeting signal binding",
+      "mPTS binding",
+      "peroxisomal membrane protein (PMP) targeting signal (mPTS) binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rb"
+    ],
+    "PMID": [
+      "15133130",
+      "17020786",
+      "14709540",
+      "14709540",
+      "14709540"
+    ]
+  },
+  "definition": "Binding to a peroxisomal membrane targeting sequence, any of several sequences of amino acids within a protein that can act as a signal for the localization of the protein into the peroxisome membrane.",
+  "namespace": "molecular_function",
+  "label": "peroxisome membrane targeting sequence binding"
+}

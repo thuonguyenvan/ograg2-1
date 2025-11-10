@@ -1,0 +1,28 @@
+{
+  "id": "GO:0030140",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030140",
+  "relationships": {
+    "is_a": [
+      "GO:0005798",
+      "GO:0030133",
+      "GO:0030136"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TGN transport vesicle",
+      "trans-Golgi network constitutive secretory pathway transport vesicle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A vesicle that mediates transport between the trans-Golgi network and other parts of the cell.",
+  "namespace": "cellular_component",
+  "label": "trans-Golgi network transport vesicle"
+}

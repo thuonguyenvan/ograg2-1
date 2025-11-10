@@ -1,0 +1,28 @@
+{
+  "id": "GO:0044673",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044673",
+  "relationships": {
+    "is_a": [
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FO-synthase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators"
+    ],
+    "PMID": [
+      "14593448"
+    ]
+  },
+  "definition": "A heterodimer which catalyses the reaction of 5-amino-6-(D-ribitylamino)uracil and 4-hydroxyphenylpyruvate to form 7,8-didemethyl-8-hydroxy-5-deazariboflavin (FO), an intermediate of coenzyme F420.",
+  "namespace": "cellular_component",
+  "label": "7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase complex"
+}

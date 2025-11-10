@@ -1,0 +1,35 @@
+{
+  "id": "GO:0008767",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008767",
+  "relationships": {
+    "is_a": [
+      "GO:0016866"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-D-galactopyranose furanomutase activity",
+      "UDPgalactopyranose mutase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.99.9",
+      "5.4.99.9",
+      "5.4.99.9",
+      "5.4.99.9"
+    ],
+    "MetaCyc": [
+      "GALPMUT-RXN"
+    ],
+    "RHEA": [
+      "24132"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-D-galactopyranose = UDP-D-galacto-1,4-furanose.",
+  "namespace": "molecular_function",
+  "label": "UDP-galactopyranose mutase activity"
+}

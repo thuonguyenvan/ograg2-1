@@ -1,0 +1,27 @@
+{
+  "id": "GO:0160129",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160129",
+  "relationships": {
+    "is_a": [
+      "GO:0016829"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-21016"
+    ],
+    "PMID": [
+      "30554877",
+      "31235913"
+    ]
+  },
+  "definition": "Catalysis of the cross-link between a protein and a DNA abasic site, forming a thiazolidine linkage between a DNA ring-opened abasic site and the alpha-amino and sulfhydryl substituents of cysteine residue of the protein.",
+  "namespace": "molecular_function",
+  "label": "protein-DNA covalent cross-linking activity"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0008697",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008697",
+  "relationships": {
+    "is_a": [
+      "GO:0016861"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-deoxy-L-threo-5-hexosulose-uronate aldose-ketose-isomerase activity",
+      "4-deoxy-L-threo-5-hexulose uronate isomerase activity",
+      "5-keto-4-deoxyuronate isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.1.17",
+      "5.3.1.17",
+      "5.3.1.17",
+      "5.3.1.17",
+      "5.3.1.17"
+    ],
+    "KEGG_REACTION": [
+      "R04383"
+    ],
+    "MetaCyc": [
+      "5.3.1.17-RXN"
+    ],
+    "RHEA": [
+      "23896",
+      "23896"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-dehydro-4-deoxy-D-glucuronate = 3-deoxy-D-glycero-2,5-hexodiulosonate.",
+  "namespace": "molecular_function",
+  "label": "4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase activity"
+}

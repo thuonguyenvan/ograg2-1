@@ -1,0 +1,38 @@
+{
+  "id": "GO:0004994",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004994",
+  "relationships": {
+    "is_a": [
+      "GO:0008188"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GHIH receptor activity",
+      "SRIF receptor activity",
+      "SST receptor activity",
+      "growth hormone-inhibiting hormone receptor activity",
+      "somatotrophin release inhibiting factor receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "bf"
+    ],
+    "Wikipedia": [
+      "Somatostatin",
+      "Somatostatin",
+      "Somatostatin",
+      "Somatostatin",
+      "Somatostatin",
+      "Somatostatin"
+    ]
+  },
+  "definition": "Combining with somatostatin to initiate a change in cell activity. Somatostatin is a peptide hormone that regulates the endocrine system by signaling via G protein-coupled somatostatin receptors. Somatostatin has two active forms produced by proteolytic cleavage: a 14 amino acid peptide (SST-14) and a 28 amino acid peptide (SST-28).",
+  "namespace": "molecular_function",
+  "label": "somatostatin receptor activity"
+}

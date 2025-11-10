@@ -1,0 +1,29 @@
+{
+  "id": "GO:0035102",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035102",
+  "relationships": {
+    "is_a": [
+      "GO:0000152",
+      "GO:0031519"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Polycomb repressive complex 1"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf"
+    ],
+    "PMID": [
+      "10412979"
+    ]
+  },
+  "definition": "A multiprotein complex that mediates monoubiquitination of lysine residues of histone H2A (lysine-118 in Drosophila or lysine-119 in mammals). The complex is required for stable long-term maintenance of transcriptionally repressed states and is involved in chromatin remodeling.",
+  "namespace": "cellular_component",
+  "label": "PRC1 complex"
+}

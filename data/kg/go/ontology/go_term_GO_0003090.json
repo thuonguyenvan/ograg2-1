@@ -1,0 +1,32 @@
+{
+  "id": "GO:0003090",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003090",
+  "relationships": {
+    "is_a": [
+      "GO:0001997"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "increased force of heart contraction by epinephrine-norepinephrine released from the nerve endings",
+      "increased force of heart contraction by neuronal adrenaline-noradrenaline",
+      "increased force of heart contraction by neuronal epinephrine-norepinephrine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of heart contraction by adrenaline-noradrenaline",
+      "positive regulation of heart contraction by epinephrine-norepinephrine"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cardio",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that increases the force with which the cardiac muscles of the heart pump blood through the circulatory system as a result of the presence of epinephrine or norepinephrine released from the nerve endings.",
+  "namespace": "biological_process",
+  "label": "positive regulation of the force of heart contraction by neuronal epinephrine-norepinephrine"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:1901514",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901514",
+  "relationships": {
+    "is_a": [
+      "GO:0042626",
+      "GO:1901513"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "lipo-chitin oligosaccharide transmembrane-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + lipo-chitin oligosaccharide(in) = ADP + phosphate + lipo-chitin oligosaccharide(out).",
+  "namespace": "molecular_function",
+  "label": "ATPase-coupled lipo-chitin oligosaccharide transmembrane transporter activity"
+}

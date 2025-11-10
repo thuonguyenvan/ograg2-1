@@ -1,0 +1,41 @@
+{
+  "id": "GO:0001905",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001905",
+  "relationships": {
+    "is_a": [
+      "GO:0006956"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MAC assembly",
+      "MAC formation",
+      "activation of MAC",
+      "membrane attack complex assembly",
+      "membrane attack complex formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of TCC",
+      "activation of terminal complement complex",
+      "activation of the terminal complement cascade"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "rl",
+      "rl",
+      "rl",
+      "rl",
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "The activation of the membrane attack complex components of the complement cascade which can result in death of a target cell through cytolysis.",
+  "namespace": "biological_process",
+  "label": "activation of membrane attack complex"
+}

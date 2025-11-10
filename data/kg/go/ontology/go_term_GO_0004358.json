@@ -1,0 +1,69 @@
+{
+  "id": "GO:0004358",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004358",
+  "relationships": {
+    "is_a": [
+      "GO:0140085"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acetyl-L-glutamate:acetyl-L-ornithine transacetylase activity"
+    ],
+    "broad": [
+      "L-glutamate N-acetyltransferase activity",
+      "N-acetyl-L-glutamate synthetase activity",
+      "N-acetylglutamate synthase activity",
+      "N-acetylglutamate synthetase activity",
+      "acetylornithinase activity",
+      "glutamate N-acetyltransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "2-N-acetyl-L-ornithine:L-glutamate N-acetyltransferase activity",
+      "N2-acetyl-L-ornithine:L-glutamate N-acetyltransferase activity",
+      "acetylglutamate synthetase activity",
+      "acetylglutamate-acetylornithine transacetylase activity",
+      "acetylglutamic synthetase activity",
+      "acetylglutamic-acetylornithine transacetylase activity",
+      "acetylornithine glutamate acetyltransferase activity",
+      "alpha-N-acetyl-L-ornithine:L-glutamate N-acetyltransferase activity",
+      "glutamate acetyltransferase activity",
+      "ornithine acetyltransferase activity",
+      "ornithine transacetylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.35",
+      "2.3.1.35",
+      "2.3.1.35",
+      "2.3.1.35",
+      "2.3.1.35",
+      "2.3.1.35",
+      "2.3.1.35",
+      "2.3.1.35",
+      "2.3.1.35",
+      "2.3.1.35",
+      "2.3.1.35",
+      "2.3.1.35",
+      "2.3.1.35",
+      "2.3.1.35",
+      "2.3.1.35",
+      "2.3.1.35"
+    ],
+    "KEGG_REACTION": [
+      "R02282"
+    ],
+    "MetaCyc": [
+      "GLUTAMATE-N-ACETYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "15349",
+      "15349"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N2-acetyl-L-ornithine + L-glutamate = N-acetyl-L-glutamate + L-ornithine.",
+  "namespace": "molecular_function",
+  "label": "L-glutamate N-acetyltransferase activity, acting on acetyl-L-ornithine as donor"
+}

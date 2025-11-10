@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102529",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102529",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-14661"
+    ],
+    "RHEA": [
+      "73071",
+      "73071"
+    ]
+  },
+  "definition": "Catalysis of the reaction: apigenin + S-adenosyl-L-methionine = genkwanin + H+ + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "apigenin 7-O-methyltransferase activity"
+}

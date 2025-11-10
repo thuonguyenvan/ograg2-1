@@ -1,0 +1,31 @@
+{
+  "id": "GO:0051606",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051606",
+  "relationships": {
+    "is_a": [
+      "GO:0050896"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "stimulus detection"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "perception of stimulus",
+      "stimulus sensing"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "ai",
+      "dph",
+      "mah"
+    ]
+  },
+  "definition": "The series of events in which a stimulus is received by a cell or organism and converted into a molecular signal.",
+  "namespace": "biological_process",
+  "label": "detection of stimulus"
+}

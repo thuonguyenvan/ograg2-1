@@ -1,0 +1,34 @@
+{
+  "id": "GO:0070845",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070845",
+  "relationships": {
+    "is_a": [
+      "GO:0070843",
+      "GO:0070844"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "polyubiquitylated misfolded protein transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "misfolded polyubiquitinated protein transport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "14675537"
+    ]
+  },
+  "definition": "The directed movement of misfolded polyubiquitinated proteins in a cell, including the movement of proteins between specific compartments or structures within a cell.",
+  "namespace": "biological_process",
+  "label": "polyubiquitinated misfolded protein transport"
+}

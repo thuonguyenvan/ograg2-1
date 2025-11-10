@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050041",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050041",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(S)-lactate acetaldehyde-lyase (formate-forming)",
+      "(S)-lactate acetaldehyde-lyase activity",
+      "lactate synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.36",
+      "4.1.2.36",
+      "4.1.2.36",
+      "4.1.2.36",
+      "4.1.2.36"
+    ],
+    "KEGG_REACTION": [
+      "R00753"
+    ],
+    "MetaCyc": [
+      "LACTATE-ALDOLASE-RXN"
+    ],
+    "RHEA": [
+      "17909",
+      "17909"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-lactate = acetaldehyde + formate.",
+  "namespace": "molecular_function",
+  "label": "lactate aldolase activity"
+}

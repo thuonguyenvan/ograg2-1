@@ -1,0 +1,46 @@
+{
+  "id": "GO:0016263",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016263",
+  "relationships": {
+    "is_a": [
+      "GO:0048531",
+      "GO:0140103"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Core 1 GalT",
+      "UDP-galactose:glycoprotein-N-acetyl-D-galactosamine 3-beta-D-galactosyltransferase activity",
+      "UDPgalactose:glycoprotein-N-acetyl-D-galactosamine 3-beta-D-galactosyltransferase activity",
+      "uridine diphosphogalactose-mucin beta-(1-&gt;3)-galactosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.122",
+      "2.4.1.122",
+      "2.4.1.122",
+      "2.4.1.122",
+      "2.4.1.122"
+    ],
+    "MetaCyc": [
+      "2.4.1.122-RXN"
+    ],
+    "RHEA": [
+      "15621"
+    ],
+    "Reactome": [
+      "R-HSA-1964505",
+      "R-HSA-6785524"
+    ],
+    "GOC": [
+      "ma"
+    ]
+  },
+  "definition": "Catalysis of the addition of a galactosyl residue to a non-reducing O-linked N-acetylgalactosamine residue in an O-glycan.",
+  "namespace": "molecular_function",
+  "label": "Defective C1GALT1C1 does not bind C1GALT1"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050481",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050481",
+  "relationships": {
+    "is_a": [
+      "GO:0016714"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-mandelate 4-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(S)-2-hydroxy-2-phenylacetate,tetrahydrobiopterin:oxygen oxidoreductase (4-hydroxylating)",
+      "mandelic acid 4-hydroxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.16.6",
+      "1.14.16.6",
+      "1.14.16.6",
+      "1.14.16.6"
+    ],
+    "KEGG_REACTION": [
+      "R03794"
+    ],
+    "MetaCyc": [
+      "MANDELATE-4-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "21716",
+      "21716"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-mandelate + 5,6,7,8-tetrahydrobiopterin + O2 = (S)-4-hydroxymandelate + 7,8-dihydrobiopterin + H2O. (S)-2-hydroxy-2-phenylacetate is also known as S-mandelate.",
+  "namespace": "molecular_function",
+  "label": "mandelate 4-monooxygenase activity"
+}

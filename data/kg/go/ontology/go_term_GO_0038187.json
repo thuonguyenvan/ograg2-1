@@ -1,0 +1,39 @@
+{
+  "id": "GO:0038187",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038187",
+  "relationships": {
+    "is_a": [
+      "GO:0038023"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PRR",
+      "PRR activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "MAMP receptor activity",
+      "PAMP receptor activity",
+      "microbe-associated molecular pattern receptor activity",
+      "pathogen associated molecular pattern receptor activity"
+    ],
+    "related": [
+      "macrophage receptor activity",
+      "signaling pattern recognition receptor activity"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Pattern_recognition_receptor",
+      "Pattern_recognition_receptor"
+    ],
+    "GOC": [
+      "ar",
+      "bf"
+    ]
+  },
+  "definition": "Combining with a pathogen-associated molecular pattern (PAMP), a structure conserved among microbial species to initiate an innate immune response.",
+  "namespace": "molecular_function",
+  "label": "pattern recognition receptor activity"
+}

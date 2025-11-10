@@ -1,0 +1,58 @@
+{
+  "id": "GO:0004366",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004366",
+  "relationships": {
+    "is_a": [
+      "GO:0008374"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-glycerophosphate acyltransferase activity",
+      "ACP:sn-glycerol-3-phosphate acyltransferase activity",
+      "acyl-CoA:sn-glycerol-3-phosphate 1-O-acyltransferase activity",
+      "alpha-glycerophosphate acyltransferase activity",
+      "glycerol 3-phosphate acyltransferase activity",
+      "glycerol phosphate acyltransferase activity",
+      "glycerol phosphate transacylase activity",
+      "glycerophosphate acyltransferase activity",
+      "glycerophosphate transacylase activity",
+      "sn-glycerol 3-phosphate acyltransferase activity",
+      "sn-glycerol-3-phosphate acyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.15",
+      "2.3.1.15",
+      "2.3.1.15",
+      "2.3.1.15",
+      "2.3.1.15",
+      "2.3.1.15",
+      "2.3.1.15",
+      "2.3.1.15",
+      "2.3.1.15",
+      "2.3.1.15",
+      "2.3.1.15",
+      "2.3.1.15"
+    ],
+    "MetaCyc": [
+      "RXN-1381"
+    ],
+    "RHEA": [
+      "15325",
+      "15325"
+    ],
+    "Reactome": [
+      "R-HSA-1482695",
+      "R-HSA-549112",
+      "R-HSA-75886"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an acyl-CoA + sn-glycerol 3-phosphate = a 1-acyl-sn-glycero-3-phosphate + CoA.",
+  "namespace": "molecular_function",
+  "label": "glycerol 3-phosphate + acyl-CoA =&gt; 1-acylglycerol 3-phosphate + CoASH [mitochondrial membrane-associated]"
+}

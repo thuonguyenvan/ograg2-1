@@ -1,0 +1,33 @@
+{
+  "id": "GO:0060215",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060215",
+  "relationships": {
+    "is_a": [
+      "GO:0035162"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "primitive haematopoiesis",
+      "primitive haemopoiesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "primitive hematopoiesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "dph"
+    ],
+    "PMID": [
+      "15378083",
+      "15617691"
+    ]
+  },
+  "definition": "A first transient wave of blood cell production that, in vertebrates, gives rise to erythrocytes (red blood cells) and myeloid cells.",
+  "namespace": "biological_process",
+  "label": "primitive hemopoiesis"
+}

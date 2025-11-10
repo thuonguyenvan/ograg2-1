@@ -1,0 +1,28 @@
+{
+  "id": "GO:0097279",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097279",
+  "relationships": {
+    "is_a": [
+      "GO:0097280"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histamine secretion mediated by IgE antibody"
+    ],
+    "broad": [
+      "Ig-mediated histamine release"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "rv"
+    ]
+  },
+  "definition": "Histamine release triggered by the binding of an antigen to an IgE immunoglobulin bound to the cell surface. An example is mast cell histamine degranulation as a result of exposure of mast cell-bound IgE to alder tree pollen.",
+  "namespace": "biological_process",
+  "label": "histamine secretion mediated by IgE immunoglobulin"
+}

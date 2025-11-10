@@ -1,0 +1,34 @@
+{
+  "id": "GO:0008509",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008509",
+  "relationships": {
+    "is_a": [
+      "GO:0015075"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "anion transporter activity"
+    ],
+    "broad": [
+      "anion transmembrane transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-166214"
+    ],
+    "GOC": [
+      "dgf",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of a negatively charged ion from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "FA anion flip-flops to the opposite surface"
+}

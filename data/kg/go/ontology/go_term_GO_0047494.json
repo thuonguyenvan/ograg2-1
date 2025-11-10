@@ -1,0 +1,47 @@
+{
+  "id": "GO:0047494",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047494",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CDP-ethanolamine:L-serine ethanolamine phosphotransferase activity",
+      "serine ethanolamine phosphate synthetase activity",
+      "serine ethanolamine phosphodiester synthase activity",
+      "serine ethanolaminephosphotransferase activity",
+      "serine-phosphinico-ethanolamine synthase activity",
+      "serinephosphoethanolamine synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.4",
+      "2.7.8.4",
+      "2.7.8.4",
+      "2.7.8.4",
+      "2.7.8.4",
+      "2.7.8.4",
+      "2.7.8.4",
+      "2.7.8.4"
+    ],
+    "KEGG_REACTION": [
+      "R02563"
+    ],
+    "MetaCyc": [
+      "SERINE-PHOSPHOETHANOLAMINE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "22656",
+      "22656"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-serine + CDP-ethanolamine = L-serine-phosphoethanolamine + CMP + H+.",
+  "namespace": "molecular_function",
+  "label": "serine-phosphoethanolamine synthase activity"
+}

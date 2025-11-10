@@ -1,0 +1,36 @@
+{
+  "id": "GO:0046765",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046765",
+  "relationships": {
+    "is_a": [
+      "GO:0046755"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nuclear membrane viral budding",
+      "virus budding from nuclear membrane",
+      "virus budding from nuclear membrane by viral capsid envelopment"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "nuclear membrane viral budding during viral capsid envelopment",
+      "viral budding from nuclear membrane by viral capsid envelopment",
+      "viral budding from nuclear membrane during viral capsid envelopment",
+      "virus budding from nuclear membrane during viral capsid envelopment"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "tb"
+    ],
+    "ISBN": [
+      "0072370319"
+    ]
+  },
+  "definition": "A viral budding that starts with formation of a membrane curvature in the host nuclear membrane.",
+  "namespace": "biological_process",
+  "label": "viral budding from nuclear membrane"
+}

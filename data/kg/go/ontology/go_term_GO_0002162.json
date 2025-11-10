@@ -1,0 +1,26 @@
+{
+  "id": "GO:0002162",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002162",
+  "relationships": {
+    "is_a": [
+      "GO:0005515"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "alpha-dystroglycan binding",
+      "beta-dystroglycan binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "hjd"
+    ]
+  },
+  "definition": "Binding to dystroglycan, a glycoprotein found in non-muscle tissues as well as in muscle tissues, often in association with dystrophin. The native dystroglycan cleaved into two non-covalently associated subunits, alpha (N-terminal) and beta (C-terminal).",
+  "namespace": "molecular_function",
+  "label": "dystroglycan binding"
+}

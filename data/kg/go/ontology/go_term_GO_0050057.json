@@ -1,0 +1,47 @@
+{
+  "id": "GO:0050057",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050057",
+  "relationships": {
+    "is_a": [
+      "GO:0008194",
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP glucose ketone cyanohydrin glucosyltransferase activity",
+      "UDP-glucose:2-hydroxy-2-methylpropanenitrile beta-D-glucosyltransferase activity",
+      "UDPglucose:2-hydroxy-2-methylpropanenitrile beta-D-glucosyltransferase activity",
+      "UDPglucose:ketone cyanohydrin beta-glucosyltransferase activity",
+      "uridine diphosphate-glucose-ketone cyanohydrin beta-glucosyltransferase activity",
+      "uridine diphosphoglucose-ketone cyanohydrin glucosyltransferase activity",
+      "uridine diphosphoglucose-ketone glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.63",
+      "2.4.1.63",
+      "2.4.1.63",
+      "2.4.1.63",
+      "2.4.1.63",
+      "2.4.1.63",
+      "2.4.1.63",
+      "2.4.1.63",
+      "2.4.1.63"
+    ],
+    "MetaCyc": [
+      "LINAMARIN-SYNTHASE-RXN",
+      "LINAMARIN-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "20009"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-glucose + 2-hydroxy-2-methylpropanenitrile = UDP + linamarin.",
+  "namespace": "molecular_function",
+  "label": "linamarin synthase activity"
+}

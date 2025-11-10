@@ -1,0 +1,40 @@
+{
+  "id": "GO:0036317",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036317",
+  "relationships": {
+    "is_a": [
+      "GO:0008081",
+      "GO:0140098"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "VPg unlinkase activity",
+      "Y-pUpN PDE activity",
+      "unlinkase activity",
+      "uridylylpolynucleotide-(5&apos; P-&gt;O)- tyrosine phosphodiesterase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "sp",
+      "sp"
+    ],
+    "PMID": [
+      "21408223",
+      "22908287",
+      "21408223",
+      "22908287",
+      "21408223",
+      "21408223",
+      "21408223"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of a 5&apos; tyrosyl-RNA phosphodiester bond between a protein and RNA. In picornaviruses, this covalent bond connects VPg, a viral-encoded protein essential for RNA replication, to the 5&apos; end of all nascent picornavirus genomes; it is cleaved from viral RNA prior to its engaging in protein synthesis.",
+  "namespace": "molecular_function",
+  "label": "tyrosyl-RNA phosphodiesterase activity"
+}

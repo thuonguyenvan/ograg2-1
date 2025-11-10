@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047353",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047353",
+  "relationships": {
+    "is_a": [
+      "GO:0070567"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CTP:N-methylphosphoethanolamine cytidylyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CTP:N-methylethanolamine-phosphate cytidylyltransferase activity",
+      "CTP:P-MEA cytidylyltransferase activity",
+      "monomethylethanolamine phosphate cytidylyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.57",
+      "2.7.7.57",
+      "2.7.7.57",
+      "2.7.7.57",
+      "2.7.7.57"
+    ],
+    "KEGG_REACTION": [
+      "R03375"
+    ],
+    "MetaCyc": [
+      "2.7.7.57-RXN"
+    ],
+    "RHEA": [
+      "10576",
+      "10576"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-methylethanolamine phosphate + CTP = CDP-N-methylethanolamine + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "N-methylphosphoethanolamine cytidylyltransferase activity"
+}

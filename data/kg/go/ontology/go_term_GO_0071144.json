@@ -1,0 +1,40 @@
+{
+  "id": "GO:0071144",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071144",
+  "relationships": {
+    "is_a": [
+      "GO:0071141",
+      "GO:0090575"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "SMAD1-SMAD4 protein complex",
+      "SMAD2-SMAD3-SMAD4 protein complex",
+      "SMAD2-SMAD4 protein complex",
+      "SMAD3-SMAD4 protein complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "mah"
+    ],
+    "PMID": [
+      "11779505",
+      "15350224",
+      "16322555",
+      "9389648",
+      "9670020"
+    ],
+    "CORUM": [
+      "3001"
+    ]
+  },
+  "definition": "A protein complex composed of SMAD family proteins, a transcription factor complex which binds to the promoters of target genes and recruits co-activators and histone acetyltransferases, facilitating transcription. Phosphorylation of the non-SMAD4 subunit(s) enables binding of SMAD4 to form heteromeric complexes that enter the nucleus to initiate gene transcription. DNA-binding specificity is conferred by other transcription factors binding to SMAD complexes. Interactions with coactivators or corepressors modulate their transcriptional activity. Can be heterotrimeric or heterodimeric.",
+  "namespace": "cellular_component",
+  "label": "heteromeric SMAD protein complex"
+}

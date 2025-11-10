@@ -1,0 +1,27 @@
+{
+  "id": "GO:0042272",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042272",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Mex67-Mtr2 complex",
+      "NXF1-NXT1 complex",
+      "TAP-p15 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11780633"
+    ]
+  },
+  "definition": "A protein complex that contains two proteins (know in several organisms, including Drosophila, as NXF1 and NXF2) and is required for the export of the majority of mRNAs from the nucleus to the cytoplasm; localized in the nucleoplasm and at both the nucleoplasmic and cytoplasmic faces of the nuclear pore complex; shuttles between the nucleus and the cytoplasm.",
+  "namespace": "cellular_component",
+  "label": "nuclear RNA export factor complex"
+}

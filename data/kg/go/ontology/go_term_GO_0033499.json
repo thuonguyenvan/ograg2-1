@@ -1,0 +1,40 @@
+{
+  "id": "GO:0033499",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033499",
+  "relationships": {
+    "is_a": [
+      "GO:0006796",
+      "GO:0019388",
+      "GO:0046434",
+      "GO:1901136"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Leloir Pathway",
+      "galactose breakdown via UDP-galactose",
+      "galactose catabolism via UDP-galactose",
+      "galactose degradation via UDP-galactose"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-6317"
+    ],
+    "Reactome": [
+      "R-HSA-70370"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "14741191"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of galactose, via the intermediate UDP-galactose.",
+  "namespace": "biological_process",
+  "label": "Galactose catabolism"
+}

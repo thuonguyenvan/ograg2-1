@@ -1,0 +1,33 @@
+{
+  "id": "GO:0070179",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070179",
+  "relationships": {
+    "is_a": [
+      "GO:0046437",
+      "GO:0070178"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-serine anabolism",
+      "D-serine biosynthesis",
+      "D-serine formation",
+      "D-serine synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "CHEBI": [
+      "16523"
+    ],
+    "GOC": [
+      "jsg",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of D-serine, the D-enantiomer of serine, i.e. (2R)-2-amino-3-hydroxypropanoic acid. D-serine is often formed by racemization of L-serine.",
+  "namespace": "biological_process",
+  "label": "D-serine biosynthetic process"
+}

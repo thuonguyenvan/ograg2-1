@@ -1,0 +1,31 @@
+{
+  "id": "GO:0015038",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015038",
+  "relationships": {
+    "is_a": [
+      "GO:0015036"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glutathione disulphide oxidoreductase activity"
+    ],
+    "broad": [
+      "glutaredoxin",
+      "glutathione oxidoreductase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-111746"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 glutathione + electron acceptor = glutathione disulfide + electron donor.",
+  "namespace": "molecular_function",
+  "label": "glutaredoxin (oxidized) + glutathione (reduced) =&gt; glutaredoxin (reduced) + glutathione (oxidized)"
+}

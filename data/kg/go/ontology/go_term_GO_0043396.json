@@ -1,0 +1,30 @@
+{
+  "id": "GO:0043396",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043396",
+  "relationships": {
+    "is_a": [
+      "GO:0030072"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CRF secretion",
+      "CRH secretion",
+      "corticotropin-releasing factor secretion"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ],
+    "PMID": [
+      "11027914"
+    ]
+  },
+  "definition": "The regulated release of corticotropin-releasing hormone (CRH), a polypeptide hormone involved in the stress response. CRH is produced by the hypothalamus and stimulates corticotropic cells of the anterior lobe of the pituitary to produce corticotropic hormone (CTH) and other biologically active substances e.g. 2-endorphin, release of CRH is affected by serum levels of cortisol, by stress and by the sleep/wake cycle.",
+  "namespace": "biological_process",
+  "label": "corticotropin-releasing hormone secretion"
+}

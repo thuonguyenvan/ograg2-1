@@ -1,0 +1,36 @@
+{
+  "id": "GO:0035946",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035946",
+  "relationships": {
+    "is_a": [
+      "GO:0000958",
+      "GO:2000827"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrial aberrant RNA catabolic process",
+      "mitochondrial mRNA quality control",
+      "mitochondrial messenger RNA surveillance"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ans",
+      "dgf",
+      "krc",
+      "dgf",
+      "krc",
+      "bf"
+    ],
+    "PMID": [
+      "19864255"
+    ]
+  },
+  "definition": "The set of processes involved in identifying and degrading messenger RNA (mRNA) within the mitochondrion.",
+  "namespace": "biological_process",
+  "label": "mitochondrial mRNA surveillance"
+}

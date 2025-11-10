@@ -1,0 +1,36 @@
+{
+  "id": "GO:0035797",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035797",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "S-adenosyl-L-methionine-dependent tellurite methyltransferase activity",
+      "SAM-dependent tellurite methyltransferase activity"
+    ],
+    "broad": [
+      "tellurite methylase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "kad",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "11053398",
+      "21244361"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a methyl group from S-adenosyl-L-methionine to tellurite [TeO3(2-)]. Methylated derivatives of tellurite include Te(CH3)2 (dimethyltelluride) and Te2(CH3)2 (dimethylditelluride).",
+  "namespace": "molecular_function",
+  "label": "tellurite methyltransferase activity"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0010170",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010170",
+  "relationships": {
+    "is_a": [
+      "GO:0140535",
+      "GO:1902503"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "tb"
+    ],
+    "PMID": [
+      "12748181"
+    ]
+  },
+  "definition": "Complex that catalyzes the synthesis of ADP-glucose and pyrophosphate from glucose-1-phosphate and ATP. In plants, the complex is a heterotetramer composed of two types of subunits (small and large). In bacteria, the enzyme complex is composed of four identical subunits.",
+  "namespace": "cellular_component",
+  "label": "glucose-1-phosphate adenylyltransferase complex"
+}

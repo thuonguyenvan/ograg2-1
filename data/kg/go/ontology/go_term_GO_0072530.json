@@ -1,0 +1,29 @@
+{
+  "id": "GO:0072530",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072530",
+  "relationships": {
+    "is_a": [
+      "GO:0055085",
+      "GO:0071705"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "purine-containing compound membrane transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2161517"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The process in which a purine-containing compound is transported across a membrane. A purine-containing compound is any compound that contains purine or a formal derivative thereof.",
+  "namespace": "biological_process",
+  "label": "Abacavir transmembrane transport"
+}

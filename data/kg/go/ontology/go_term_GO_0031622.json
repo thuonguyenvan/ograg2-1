@@ -1,0 +1,33 @@
+{
+  "id": "GO:0031622",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031622",
+  "relationships": {
+    "is_a": [
+      "GO:0002675",
+      "GO:0031620",
+      "GO:0031652"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of pyrexia",
+      "up regulation of fever",
+      "up-regulation of fever",
+      "upregulation of fever"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of fever",
+      "stimulation of fever"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of fever generation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of fever generation"
+}

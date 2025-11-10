@@ -1,0 +1,36 @@
+{
+  "id": "GO:0021527",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021527",
+  "relationships": {
+    "is_a": [
+      "GO:0021515",
+      "GO:0021953"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "spinal cord dorsal interneuron differentiation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid",
+      "dph"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "11262869"
+    ]
+  },
+  "definition": "The process in which neuroepithelial cells in the neural tube acquire specialized structural and/or functional features of association neurons. Association neurons are cells located in the dorsal portion of the spinal cord that integrate sensory input. Differentiation includes the processes involved in commitment of a cell to a specific fate.",
+  "namespace": "biological_process",
+  "label": "spinal cord association neuron differentiation"
+}

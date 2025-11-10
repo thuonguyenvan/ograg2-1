@@ -1,0 +1,60 @@
+{
+  "id": "GO:0004642",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004642",
+  "relationships": {
+    "is_a": [
+      "GO:0016884"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-N-formyl-1-N-(5-phospho-D-ribosyl)glycinamide:L-glutamine amido-ligase (ADP-forming)",
+      "5&apos;-phosphoribosylformylglycinamide:L-glutamine amido-ligase (ADP-forming)",
+      "FGAM synthase activity",
+      "FGAM synthetase activity",
+      "FGAR amidotransferase activity",
+      "FGARAT activity",
+      "N2-formyl-N1-(5-phospho-D-ribosyl)glycinamide:L-glutamine amido-ligase (ADP-forming)",
+      "formylglycinamide ribonucloetide amidotransferase activity",
+      "formylglycinamide ribotide amidotransferase activity",
+      "phosphoribosylformylglycinamidine synthetase activity",
+      "phosphoribosylformylglycineamidine synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.5.3",
+      "6.3.5.3",
+      "6.3.5.3",
+      "6.3.5.3",
+      "6.3.5.3",
+      "6.3.5.3",
+      "6.3.5.3",
+      "6.3.5.3",
+      "6.3.5.3",
+      "6.3.5.3",
+      "6.3.5.3",
+      "6.3.5.3",
+      "6.3.5.3"
+    ],
+    "KEGG_REACTION": [
+      "R04463"
+    ],
+    "MetaCyc": [
+      "FGAMSYN-RXN"
+    ],
+    "RHEA": [
+      "17129",
+      "17129"
+    ],
+    "Reactome": [
+      "R-HSA-73812"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(2)-formyl-N(1)-(5-phospho-D-ribosyl)glycinamide + L-glutamine + ATP + H2O = 2-(formamido)-N(1)-(5-phospho-D-ribosyl)acetamidine + L-glutamate + ADP + 2 H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "FGAR + L-Glutamine + ATP + H2O =&gt; FGAM + L-Glutamate + ADP + Pi"
+}

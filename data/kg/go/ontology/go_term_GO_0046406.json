@@ -1,0 +1,51 @@
+{
+  "id": "GO:0046406",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046406",
+  "relationships": {
+    "is_a": [
+      "GO:0008171",
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "magnesium-protoporphyrin O-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(-)-S-adenosyl-L-methionine:magnesium-protoporphyrin IX methyltransferase activity",
+      "Mg-protoporphyrin IX methyltransferase activity",
+      "S-adenosyl-L-methionine:Mg protoporphyrin methyltransferase activity",
+      "S-adenosyl-L-methionine:magnesium-protoporphyrin O-methyltransferase activity",
+      "S-adenosyl-L-methionine:magnesium-protoporphyrin-IX O-methyltransferase activity",
+      "S-adenosylmethionine-magnesium protoporphyrin methyltransferase activity",
+      "S-adenosylmethioninemagnesium protoporphyrin methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.11",
+      "2.1.1.11",
+      "2.1.1.11",
+      "2.1.1.11",
+      "2.1.1.11",
+      "2.1.1.11",
+      "2.1.1.11",
+      "2.1.1.11"
+    ],
+    "KEGG_REACTION": [
+      "R04237"
+    ],
+    "MetaCyc": [
+      "RXN-MG-PROTOPORPHYRIN-METHYLESTER-SYN"
+    ],
+    "RHEA": [
+      "17809",
+      "17809"
+    ]
+  },
+  "definition": "Catalysis of the reaction: Mg-protoporphyrin IX + S-adenosyl-L-methionine = Mg-protoporphyrin IX 13-monomethyl ester + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "magnesium protoporphyrin IX methyltransferase activity"
+}

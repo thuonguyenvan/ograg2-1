@@ -1,0 +1,30 @@
+{
+  "id": "GO:0019356",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019356",
+  "relationships": {
+    "is_a": [
+      "GO:0009072",
+      "GO:0019357",
+      "GO:0042430",
+      "GO:1901605"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nicotinate nucleotide anabolism from tryptophan",
+      "nicotinate nucleotide formation from tryptophan",
+      "nicotinate nucleotide synthesis from tryptophan"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of nicotinate nucleotide from other compounds, including tryptophan.",
+  "namespace": "biological_process",
+  "label": "nicotinate nucleotide biosynthetic process from tryptophan"
+}

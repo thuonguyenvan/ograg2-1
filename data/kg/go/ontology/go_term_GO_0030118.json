@@ -1,0 +1,35 @@
+{
+  "id": "GO:0030118",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030118",
+  "relationships": {
+    "is_a": [
+      "GO:0030117"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "clathrin cage"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao879919129"
+    ],
+    "Wikipedia": [
+      "Clathrin"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "11252894",
+      "9531549"
+    ]
+  },
+  "definition": "A membrane coat found on coated pits and some coated vesicles; consists of polymerized clathrin triskelions, each comprising three clathrin heavy chains and three clathrin light chains, linked to the membrane via one of the AP adaptor complexes.",
+  "namespace": "cellular_component",
+  "label": "clathrin coat"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:2001209",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001209",
+  "relationships": {
+    "is_a": [
+      "GO:0032786",
+      "GO:0045943",
+      "GO:2001207"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of RNA elongation from Pol I promoter",
+      "positive regulation of transcription elongation from RNA polymerase I promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "20299458"
+    ],
+    "GOC": [
+      "obol"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of transcription elongation from RNA polymerase I promoter.",
+  "namespace": "biological_process",
+  "label": "positive regulation of transcription elongation by RNA polymerase I"
+}

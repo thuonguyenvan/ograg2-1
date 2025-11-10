@@ -1,0 +1,62 @@
+{
+  "id": "GO:0016303",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016303",
+  "relationships": {
+    "is_a": [
+      "GO:0052742"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1-phosphatidylinositol 3-kinase activity",
+      "PI3-kinase activity",
+      "PI3K",
+      "PtdIns-3-kinase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "phosphatidylinositol 3-kinase activity, class I",
+      "phosphatidylinositol 3-kinase activity, class II",
+      "phosphatidylinositol 3-kinase activity, class III",
+      "phosphatidylinositol 3-kinase, class I, catalyst activity",
+      "type I phosphatidylinositol kinase activity",
+      "type III phosphoinositide 3-kinase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.137",
+      "2.7.1.137",
+      "2.7.1.137",
+      "2.7.1.137",
+      "2.7.1.137",
+      "2.7.1.137"
+    ],
+    "KEGG_REACTION": [
+      "R03362"
+    ],
+    "MetaCyc": [
+      "1-PHOSPHATIDYLINOSITOL-3-KINASE-RXN"
+    ],
+    "RHEA": [
+      "12709",
+      "12709"
+    ],
+    "Reactome": [
+      "R-HSA-109699",
+      "R-HSA-1433514",
+      "R-HSA-1675939",
+      "R-HSA-1675961",
+      "R-HSA-1676024",
+      "R-HSA-2045911",
+      "R-HSA-5672012",
+      "R-HSA-6798174",
+      "R-HSA-9670433",
+      "R-HSA-9680389"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1-phosphatidyl-1D-myo-inositol + ATP = a 1-phosphatidyl-1D-myo-inositol 3-phosphate + ADP + H+.",
+  "namespace": "molecular_function",
+  "label": "CSF1R-associated phosphatidylinositol 3-kinase (PI3K) phosphorylates PI(4,5)P2"
+}

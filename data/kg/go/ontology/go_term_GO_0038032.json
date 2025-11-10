@@ -1,0 +1,31 @@
+{
+  "id": "GO:0038032",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038032",
+  "relationships": {
+    "is_a": [
+      "GO:0023021",
+      "GO:0045744"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "termination of G-protein coupled receptor signaling pathway",
+      "termination of G-protein coupled receptor signalling pathway",
+      "termination of GPCR signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "signaling",
+      "mah",
+      "bf"
+    ]
+  },
+  "definition": "The signaling process in which G protein-coupled receptor signaling is brought to an end. For example, through the action of GTPase-activating proteins (GAPs) that act to accelerate hydrolysis of GTP to GDP on G-alpha proteins, thereby terminating the transduced signal.",
+  "namespace": "biological_process",
+  "label": "termination of G protein-coupled receptor signaling pathway"
+}

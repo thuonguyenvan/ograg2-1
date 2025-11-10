@@ -1,0 +1,39 @@
+{
+  "id": "GO:0006363",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006363",
+  "relationships": {
+    "is_a": [
+      "GO:0006353"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA polymerase I transcription termination",
+      "transcription termination from Pol I promoter",
+      "transcription termination from RNA polymerase I promoter"
+    ],
+    "broad": [],
+    "narrow": [
+      "termination of RNA polymerase I transcription from promoter for nuclear large rRNA transcript"
+    ],
+    "related": [
+      "RNA polymerase I transcription termination factor activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-73863"
+    ],
+    "GOC": [
+      "mah",
+      "txnOH"
+    ],
+    "PMID": [
+      "10684922",
+      "27371117"
+    ]
+  },
+  "definition": "A transcription termination process that completes the production of a ribosomal RNA transcript. RNAP I termination requires binding of a terminator protein to specific sequences downstream of the transcription unit.",
+  "namespace": "biological_process",
+  "label": "RNA Polymerase I Transcription Termination"
+}

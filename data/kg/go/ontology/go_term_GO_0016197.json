@@ -1,0 +1,36 @@
+{
+  "id": "GO:0016197",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016197",
+  "relationships": {
+    "is_a": [
+      "GO:0016192",
+      "GO:0046907"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "endosome localisation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "endosome localization",
+      "endosome transport"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-917729"
+    ],
+    "ISBN": [
+      "0198506732"
+    ],
+    "GOC": [
+      "mah",
+      "bf"
+    ]
+  },
+  "definition": "The directed movement of substances mediated by an endosome, a membrane-bounded organelle that carries materials enclosed in the lumen or located in the endosomal membrane.",
+  "namespace": "biological_process",
+  "label": "Endosomal Sorting Complex Required For Transport (ESCRT)"
+}

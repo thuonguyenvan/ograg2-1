@@ -1,0 +1,38 @@
+{
+  "id": "GO:0052682",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052682",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(2E,6E)-farnesyl-diphosphate diphosphate-lyase (8-epi-cedrol-forming) activity",
+      "8-epicedrol synthase activity",
+      "epicedrol synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.39",
+      "4.2.3.39"
+    ],
+    "KEGG_REACTION": [
+      "R09140"
+    ],
+    "MetaCyc": [
+      "RXN-10004"
+    ],
+    "RHEA": [
+      "26115",
+      "26115"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-trans,6-trans-farnesyl diphosphate + H2O = epi-cedrol + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "epi-cedrol synthase activity"
+}

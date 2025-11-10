@@ -1,0 +1,41 @@
+{
+  "id": "GO:0007052",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007052",
+  "relationships": {
+    "is_a": [
+      "GO:0007051",
+      "GO:1902850"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitotic spindle organisation",
+      "spindle organization and biogenesis during mitosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "mitotic spindle organisation in nucleus",
+      "mitotic spindle organization and biogenesis in cell nucleus",
+      "mitotic spindle organization and biogenesis in nucleus",
+      "mitotic spindle organization in nucleus",
+      "spindle organization and biogenesis in nucleus during mitosis"
+    ],
+    "related": [
+      "mitotic spindle organization and biogenesis",
+      "mitotic spindle stabilization"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9648025"
+    ],
+    "GOC": [
+      "go_curators",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of the microtubule spindle during a mitotic cell cycle.",
+  "namespace": "biological_process",
+  "label": "EML4 and NUDC in mitotic spindle formation"
+}

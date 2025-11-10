@@ -1,0 +1,30 @@
+{
+  "id": "GO:0032410",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032410",
+  "relationships": {
+    "is_a": [
+      "GO:0044092",
+      "GO:0051051"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of transporter activity",
+      "down-regulation of transporter activity",
+      "downregulation of transporter activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of transporter activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops or reduces the activity of a transporter.",
+  "namespace": "biological_process",
+  "label": "negative regulation of transporter activity"
+}

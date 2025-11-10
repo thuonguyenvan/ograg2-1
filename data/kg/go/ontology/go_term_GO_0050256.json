@@ -1,0 +1,32 @@
+{
+  "id": "GO:0050256",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050256",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-ribitol-5-phosphate:NAD(P)+ 2-oxidoreductase activity",
+      "dehydrogenase, ribitol 5-phosphate"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.137",
+      "1.1.1.137",
+      "1.1.1.137",
+      "1.1.1.137"
+    ],
+    "MetaCyc": [
+      "RIBITOL-5-PHOSPHATE-2-DEHYDROGENASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-ribitol 5-phosphate + NAD(P)+ = D-ribulose 5-phosphate + NAD(P)H + H+.",
+  "namespace": "molecular_function",
+  "label": "ribitol-5-phosphate 2-dehydrogenase [NAD(P)+] activity"
+}

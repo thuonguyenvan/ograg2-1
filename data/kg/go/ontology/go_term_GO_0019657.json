@@ -1,0 +1,34 @@
+{
+  "id": "GO:0019657",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019657",
+  "relationships": {
+    "is_a": [
+      "GO:0006105",
+      "GO:0019541",
+      "GO:0019660"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "succinate-propionate fermentation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glycolytic fermentation to propionate"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P108-PWY",
+      "P108-PWY"
+    ],
+    "GOC": [
+      "dph",
+      "nr"
+    ]
+  },
+  "definition": "The anaerobic chemical reactions and pathways resulting in the breakdown of pyruvate into to propionate, an alternative to the acrylate pathway to produce propionate.",
+  "namespace": "biological_process",
+  "label": "pyruvate fermentation to propionate"
+}

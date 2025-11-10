@@ -1,0 +1,34 @@
+{
+  "id": "GO:0008511",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008511",
+  "relationships": {
+    "is_a": [
+      "GO:0009674",
+      "GO:0015378",
+      "GO:0015379"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sodium/potassium/chloride symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "72395"
+    ],
+    "Reactome": [
+      "R-HSA-426086",
+      "R-HSA-5623588"
+    ],
+    "TC": [
+      "2.A.30.1.1"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: Na+(out) + K+(out) + Cl-(out) = Na+(in) + K+(in) + Cl-(in).",
+  "namespace": "molecular_function",
+  "label": "Defective SLC12A1 does not cotransport Na+, K+, 2Cl- from extracellular region to cytosol"
+}

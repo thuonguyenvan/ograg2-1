@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102917",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102917",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(R)-reticuline 7-O-methyltransferase activity",
+      "(S)-reticuline 7-O-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.291",
+      "2.1.1.291"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)- or (R)-reticuline + S-adenosyl-L-methionine = (S)- or (R)-laudanine + H+ + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "(R,S)-reticuline 7-O-methyltransferase activity"
+}

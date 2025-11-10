@@ -1,0 +1,32 @@
+{
+  "id": "GO:0005109",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005109",
+  "relationships": {
+    "is_a": [
+      "GO:0001664"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fz binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "frizzled ligand",
+      "frizzled-2 binding",
+      "frizzled-2 ligand",
+      "fz ligand",
+      "fz2 binding",
+      "fz2 ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ceb"
+    ]
+  },
+  "definition": "Binding to a frizzled (fz) receptor.",
+  "namespace": "molecular_function",
+  "label": "frizzled binding"
+}

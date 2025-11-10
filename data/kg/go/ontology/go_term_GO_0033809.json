@@ -1,0 +1,39 @@
+{
+  "id": "GO:0033809",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033809",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3MaT",
+      "Dv3MaT",
+      "malonyl-CoA:anthocyanidin-3-O-beta-D-glucoside 6&apos;&apos;-O-malonyltransferase activity",
+      "malonyl-coenzymeA:anthocyanidin-3-O-beta-D-glucoside 6&apos;&apos;-O-malonyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.171",
+      "2.3.1.171",
+      "2.3.1.171",
+      "2.3.1.171",
+      "2.3.1.171"
+    ],
+    "MetaCyc": [
+      "2.3.1.171-RXN"
+    ],
+    "RHEA": [
+      "16025",
+      "16025"
+    ]
+  },
+  "definition": "Catalysis of the reaction: malonyl-CoA + an anthocyanidin 3-O-beta-D-glucoside = CoA + an anthocyanidin 3-O-(6-O-malonyl-beta-D-glucoside).",
+  "namespace": "molecular_function",
+  "label": "anthocyanin 6&apos;&apos;-O-malonyltransferase activity"
+}

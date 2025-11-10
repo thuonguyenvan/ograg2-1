@@ -1,0 +1,36 @@
+{
+  "id": "GO:0005154",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005154",
+  "relationships": {
+    "is_a": [
+      "GO:0070851"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "EGF receptor binding",
+      "EGFR binding",
+      "TGF-alpha receptor binding",
+      "TGFalpha receptor binding",
+      "transforming growth factor alpha receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "EGF",
+      "EGF receptor ligand",
+      "epidermal growth factor",
+      "epidermal growth factor receptor ligand",
+      "transforming growth factor alpha",
+      "transforming growth factor alpha receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binding to an epidermal growth factor receptor.",
+  "namespace": "molecular_function",
+  "label": "epidermal growth factor receptor binding"
+}

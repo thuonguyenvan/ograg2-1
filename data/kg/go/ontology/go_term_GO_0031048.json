@@ -1,0 +1,53 @@
+{
+  "id": "GO:0031048",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031048",
+  "relationships": {
+    "is_a": [
+      "GO:0031047",
+      "GO:0031507"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA interference-like chromatin silencing",
+      "RNA-dependent heterochromatin formation",
+      "RNA-mediated chromatin silencing",
+      "RNA-mediated transcriptional silencing",
+      "RNAi-directed chromatin silencing",
+      "RNAi-like chromatin silencing",
+      "ncRNA-mediated heterochromatin formation"
+    ],
+    "broad": [
+      "RNA-mediated TGS",
+      "pre-transcriptional gene silencing by RNA"
+    ],
+    "narrow": [
+      "heterochromatin assembly by small RNA",
+      "pre-transcriptional gene silencing by small non-coding RNA",
+      "small RNA-mediated heterochromatic silencing",
+      "small RNA-mediated heterochromatin formation",
+      "small ncRNA-mediated heterochromatin formation",
+      "small non-coding RNA-dependent heterochromatin formation"
+    ],
+    "related": [
+      "RNA-mediated heterochromatin formation",
+      "chromatin silencing by small RNA",
+      "heterochromatin assembly involved in chromatin silencing by small RNA",
+      "heterochromatin formation involved in chromatin silencing by small RNA"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "19239886",
+      "21420348"
+    ],
+    "GOC": [
+      "dph",
+      "tb",
+      "vw"
+    ]
+  },
+  "definition": "A heterochromatin formation-based gene silencing process mediated by a regulatory non-coding RNA molecule that occur before the beginning of trancription.",
+  "namespace": "biological_process",
+  "label": "regulatory ncRNA-mediated heterochromatin formation"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0044542",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044542",
+  "relationships": {
+    "is_a": [
+      "GO:0044068"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "plasminogen activation in another organism",
+      "plasminogen activation in other organism"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "18070889",
+      "27533300",
+      "34305859"
+    ]
+  },
+  "definition": "A process in which a symbiont initiates, promotes, or enhances the normal activation of plasminogen, the pathway resulting in the processing of inactive plasminogen to active plasmin in the host organism. This can facilitate the dissemination of the symbiont into host tissues. It can also be used to destroy complement, opsonins as well as antibacterial proteins like histones.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated activation of host plasminogen"
+}

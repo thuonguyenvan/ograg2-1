@@ -1,0 +1,69 @@
+{
+  "id": "GO:1902576",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902576",
+  "relationships": {
+    "is_a": [
+      "GO:0010948",
+      "GO:0033262",
+      "GO:2000104"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of DNA replication involved in S phase",
+      "down regulation of DNA replication involved in S-phase",
+      "down regulation of nuclear cell cycle DNA replication",
+      "down-regulation of DNA replication involved in S phase",
+      "down-regulation of DNA replication involved in S-phase",
+      "down-regulation of nuclear cell cycle DNA replication",
+      "downregulation of DNA replication involved in S phase",
+      "downregulation of DNA replication involved in S-phase",
+      "downregulation of nuclear cell cycle DNA replication",
+      "negative regulation of DNA replication involved in S phase",
+      "negative regulation of DNA replication involved in S-phase"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of DNA replication involved in S phase",
+      "inhibition of DNA replication involved in S-phase",
+      "inhibition of nuclear cell cycle DNA replication"
+    ],
+    "related": [
+      "down regulation of DNA replication during S phase",
+      "down-regulation of DNA replication during S phase",
+      "downregulation of DNA replication during S phase",
+      "inhibition of DNA replication during S phase",
+      "negative regulation of DNA replication during S phase"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "19033384"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of nuclear cell cycle DNA replication.",
+  "namespace": "biological_process",
+  "label": "negative regulation of nuclear cell cycle DNA replication"
+}

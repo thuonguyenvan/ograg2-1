@@ -1,0 +1,37 @@
+{
+  "id": "GO:0051537",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051537",
+  "relationships": {
+    "is_a": [
+      "GO:0051536"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2 Fe 2 S cluster binding",
+      "2 iron, 2 sulphur cluster binding",
+      "2Fe-2S cluster binding",
+      "diiron disulfide cluster binding",
+      "diiron disulphide cluster binding",
+      "iron-sulfur cluster 2Fe-2S binding",
+      "iron-sulphur cluster 2Fe-2S binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ],
+    "PMID": [
+      "15952888"
+    ],
+    "Wikipedia": [
+      "Iron-sulfur_cluster"
+    ]
+  },
+  "definition": "Binding to a 2 iron, 2 sulfur (2Fe-2S) cluster; this cluster consists of two iron atoms, with two inorganic sulfur atoms found between the irons and acting as bridging ligands.",
+  "namespace": "molecular_function",
+  "label": "2 iron, 2 sulfur cluster binding"
+}

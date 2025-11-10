@@ -1,0 +1,38 @@
+{
+  "id": "GO:0045476",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045476",
+  "relationships": {
+    "is_a": [
+      "GO:0003006",
+      "GO:0010623",
+      "GO:1902742"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "apoptosis of nurse cells",
+      "nurse cell programmed cell death by apoptosis",
+      "programmed cell death of nurse cells by apoptosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "invertebrate nurse cell apoptosis",
+      "nurse cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000026"
+    ],
+    "GOC": [
+      "mtg_apoptosis"
+    ],
+    "PMID": [
+      "11973306"
+    ]
+  },
+  "definition": "Any apoptotic process in a nurse cell. During late oogenesis, following the transfer of substances from the nurse cells to the oocyte, nurse cell remnants are cleared from the egg chamber by apoptotic process.",
+  "namespace": "biological_process",
+  "label": "nurse cell apoptotic process"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:1902824",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902824",
+  "relationships": {
+    "is_a": [
+      "GO:1902822",
+      "GO:1903337"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of late endosome to lysosome transport",
+      "up-regulation of late endosome to lysosome transport",
+      "upregulation of late endosome to lysosome transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of late endosome to lysosome transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "pad",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23949442"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of late endosome to lysosome transport.",
+  "namespace": "biological_process",
+  "label": "positive regulation of late endosome to lysosome transport"
+}

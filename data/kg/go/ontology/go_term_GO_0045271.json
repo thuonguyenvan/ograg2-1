@@ -1,0 +1,35 @@
+{
+  "id": "GO:0045271",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045271",
+  "relationships": {
+    "is_a": [
+      "GO:0030964",
+      "GO:0098803",
+      "GO:1902495"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NADH dehydrogenase (ubiquinone) complex",
+      "NADH dehydrogenase complex (ubiquinone)",
+      "NADH-Q oxidoreductase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "electron transport complex I"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "imk",
+      "jid"
+    ],
+    "ISBN": [
+      "0716749556"
+    ]
+  },
+  "definition": "Respiratory chain complex I is an enzyme of the respiratory chain. It consists of several polypeptide chains and is L-shaped, with a horizontal arm lying in the membrane and a vertical arm that projects into the matrix. The electrons of NADH enter the chain at this complex.",
+  "namespace": "cellular_component",
+  "label": "respiratory chain complex I"
+}

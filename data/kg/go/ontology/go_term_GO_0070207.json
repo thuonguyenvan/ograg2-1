@@ -1,0 +1,33 @@
+{
+  "id": "GO:0070207",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070207",
+  "relationships": {
+    "is_a": [
+      "GO:0051260",
+      "GO:0070206"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein homotrimer assembly",
+      "protein homotrimer biosynthesis",
+      "protein homotrimer biosynthetic process",
+      "protein homotrimer formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "hjd",
+      "hjd",
+      "hjd",
+      "hjd",
+      "hjd"
+    ]
+  },
+  "definition": "The formation of a protein homotrimer, a macromolecular structure consisting of three noncovalently associated identical subunits.",
+  "namespace": "biological_process",
+  "label": "protein homotrimerization"
+}

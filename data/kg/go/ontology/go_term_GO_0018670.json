@@ -1,0 +1,39 @@
+{
+  "id": "GO:0018670",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018670",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-aminobenzoate hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-aminobenzoate dehydrogenase activity",
+      "4-aminobenzoate monooxygenase activity",
+      "4-aminobenzoate,NAD(P)H:oxygen oxidoreductase (1-hydroxylating, decarboxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.27",
+      "1.14.13.27",
+      "1.14.13.27",
+      "1.14.13.27",
+      "1.14.13.27"
+    ],
+    "MetaCyc": [
+      "4-AMINOBENZOATE-1-MONOOXYGENASE-RXN"
+    ],
+    "UM-BBD_reactionID": [
+      "r0597"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-aminobenzoate + NADPH + H+ + O2 = 4-hydroxyaniline + NADP+ + H2O + CO2.",
+  "namespace": "molecular_function",
+  "label": "4-aminobenzoate 1-monooxygenase activity"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "GO:0003908",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003908",
+  "relationships": {
+    "is_a": [
+      "GO:0008172",
+      "GO:0008276"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA-6-O-methylguanine:[protein]-L-cysteine S-methyltransferase activity",
+      "MGMT"
+    ],
+    "broad": [
+      "O6-alkylguanine-DNA alkyltransferase"
+    ],
+    "narrow": [],
+    "related": [
+      "6-O-methylguanine-DNA methyltransferase activity",
+      "DNA-6-O-methylguanine:protein-L-cysteine S-methyltransferase activity",
+      "O-6-methylguanine-DNA-alkyltransferase activity",
+      "methylated-DNA-protein-cysteine S-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.63",
+      "2.1.1.63",
+      "2.1.1.63",
+      "2.1.1.63",
+      "2.1.1.63",
+      "2.1.1.63"
+    ],
+    "MetaCyc": [
+      "2.1.1.63-RXN"
+    ],
+    "RHEA": [
+      "24000"
+    ],
+    "Reactome": [
+      "R-HSA-73892"
+    ]
+  },
+  "definition": "Catalysis of the reaction: DNA (containing 6-O-methylguanine) + (protein)-L-cysteine = DNA (without 6-O-methylguanine) + protein S-methyl-L-cysteine.",
+  "namespace": "molecular_function",
+  "label": "MGMT/hAGT mediated DNA Damage Reversal"
+}

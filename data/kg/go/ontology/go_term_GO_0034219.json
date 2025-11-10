@@ -1,0 +1,29 @@
+{
+  "id": "GO:0034219",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034219",
+  "relationships": {
+    "is_a": [
+      "GO:0008643",
+      "GO:0055085"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "carbohydrate membrane transport",
+      "transmembrane carbohydrate transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The process in which a carbohydrate is transported across a membrane.",
+  "namespace": "biological_process",
+  "label": "carbohydrate transmembrane transport"
+}

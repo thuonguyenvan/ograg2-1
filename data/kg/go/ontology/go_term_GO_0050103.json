@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050103",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050103",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,4-alpha-D-glucan:1,6-alpha-D-glucan 6-alpha-D-glucosyltransferase activity",
+      "dextran dextrinase activity",
+      "dextrin 6-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.2",
+      "2.4.1.2",
+      "2.4.1.2",
+      "2.4.1.2",
+      "2.4.1.2"
+    ],
+    "MetaCyc": [
+      "DEXTRIN-DEXTRANASE-RXN",
+      "DEXTRIN-DEXTRANASE-RXN"
+    ],
+    "RHEA": [
+      "14625"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1,4-alpha-D-glucosyl(n) + 1,6-alpha-D-glucosyl(m) = 1,4-alpha-D-glucosyl(n-1) + 1,6-alpha-D-glucosyl(m+1).",
+  "namespace": "molecular_function",
+  "label": "dextrin dextranase activity"
+}

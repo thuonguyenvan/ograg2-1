@@ -1,0 +1,30 @@
+{
+  "id": "GO:0010829",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010829",
+  "relationships": {
+    "is_a": [
+      "GO:0010827",
+      "GO:0034763"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of glucose transmembrane transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "negative regulation of glucose transport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that decreases the frequency, rate or extent of glucose transport across a membrane. Glucose transport is the directed movement of the hexose monosaccharide glucose into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "negative regulation of D-glucose transmembrane transport"
+}

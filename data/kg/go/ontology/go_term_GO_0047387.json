@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047387",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047387",
+  "relationships": {
+    "is_a": [
+      "GO:0008081"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "SEP diesterase activity",
+      "serine ethanolamine phosphodiester phosphodiesterase activity",
+      "serine-phosphoethanolamine ethanolaminephosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.4.13",
+      "3.1.4.13",
+      "3.1.4.13",
+      "3.1.4.13",
+      "3.1.4.13"
+    ],
+    "KEGG_REACTION": [
+      "R02817"
+    ],
+    "MetaCyc": [
+      "3.1.4.13-RXN"
+    ],
+    "RHEA": [
+      "17113",
+      "17113"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + serine phosphoethanolamine = H+ + phosphoethanolamine + serine.",
+  "namespace": "molecular_function",
+  "label": "serine-ethanolaminephosphate phosphodiesterase activity"
+}

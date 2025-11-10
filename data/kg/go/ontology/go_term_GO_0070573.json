@@ -1,0 +1,37 @@
+{
+  "id": "GO:0070573",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070573",
+  "relationships": {
+    "is_a": [
+      "GO:0008235",
+      "GO:0016805"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "metallo-exo-dipeptidase activity",
+      "metalloexodipeptidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2022398",
+      "R-HSA-2022405",
+      "R-HSA-2065355"
+    ],
+    "GOC": [
+      "mah",
+      "rb",
+      "mah"
+    ],
+    "https": [
+      "//www.ebi.ac.uk/merops/about/glossary.shtml#CATTYPE"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of a dipeptide by a mechanism in which water acts as a nucleophile, one or two metal ions hold the water molecule in place, and charged amino acid side chains are ligands for the metal ions.",
+  "namespace": "molecular_function",
+  "label": "Secreted ACE:Zn2+ hydrolyzes AGT(25-34) (Angiotensin-(1-10)) to AGT(25-32) (Angiotensin-(1-8))"
+}

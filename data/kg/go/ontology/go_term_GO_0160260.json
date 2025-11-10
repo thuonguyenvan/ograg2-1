@@ -1,0 +1,31 @@
+{
+  "id": "GO:0160260",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160260",
+  "relationships": {
+    "is_a": [
+      "GO:0016811",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "57416",
+      "57416"
+    ],
+    "PMID": [
+      "25752576",
+      "30092200",
+      "39719712",
+      "40240600"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-asparaginyl-[protein] + H2O = L-aspartyl-[protein] + NH4+.",
+  "namespace": "molecular_function",
+  "label": "protein asparagine deamidase activity"
+}

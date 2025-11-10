@@ -1,0 +1,30 @@
+{
+  "id": "GO:0043839",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043839",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lipid A 1-phosphomethyltransferase activity",
+      "lipid A phosphomethyltransferase activity"
+    ],
+    "broad": [
+      "lipid A methyltransferase"
+    ],
+    "narrow": [],
+    "related": [
+      "LmtA"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "15994324"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a methyl group from S-adenosylmethionine (SAM) to the 1-phosphate group of lipid A.",
+  "namespace": "molecular_function",
+  "label": "lipid A phosphate methyltransferase activity"
+}

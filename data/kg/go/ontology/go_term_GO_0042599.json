@@ -1,0 +1,39 @@
+{
+  "id": "GO:0042599",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042599",
+  "relationships": {
+    "is_a": [
+      "GO:0030141"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lamellar granule",
+      "membrane-coating granule"
+    ],
+    "broad": [],
+    "narrow": [
+      "Odland body",
+      "keratinosome"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1379604862"
+    ],
+    "GOC": [
+      "cjm",
+      "jl"
+    ],
+    "PMID": [
+      "12243725"
+    ],
+    "Wikipedia": [
+      "Lamellar_granule"
+    ]
+  },
+  "definition": "A membrane-bounded organelle, specialized for the storage and secretion of various substances (surfactant phospholipids, glycoproteins and acid phosphates) which are arranged in the form of tightly packed, concentric, membrane sheets or lamellae. Has some similar properties to, but is distinct from, a lysosome.",
+  "namespace": "cellular_component",
+  "label": "lamellar body"
+}

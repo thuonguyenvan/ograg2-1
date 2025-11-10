@@ -1,0 +1,39 @@
+{
+  "id": "GO:0021852",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021852",
+  "relationships": {
+    "is_a": [
+      "GO:0021801",
+      "GO:0140650"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "pyramidal neuron migration"
+    ],
+    "narrow": [],
+    "related": [
+      "projection neuron migration"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "12626695",
+      "22192824",
+      "12626695"
+    ]
+  },
+  "definition": "The migration of a pyramidal neuron precursor from the ventricular zone to the correct layer of the cerebral cortex.",
+  "namespace": "biological_process",
+  "label": "pyramidal neuron migration to cerebral cortex"
+}

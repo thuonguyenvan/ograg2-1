@@ -1,0 +1,32 @@
+{
+  "id": "GO:1904374",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904374",
+  "relationships": {
+    "is_a": [
+      "GO:0071230",
+      "GO:1901699",
+      "GO:1901701",
+      "GO:1904373"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000071"
+    ],
+    "PMID": [
+      "17443789"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a kainic acid stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to kainic acid"
+}

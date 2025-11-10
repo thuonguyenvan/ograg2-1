@@ -1,0 +1,37 @@
+{
+  "id": "GO:0016422",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016422",
+  "relationships": {
+    "is_a": [
+      "GO:0008174"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:mRNA (2&apos;-O-methyladenosine-6-N-)-methyltransferase activity",
+      "S-adenosyl-L-methionine:mRNA (2&apos;-O-methyladenosine-N6-)-methyltransferase activity",
+      "messenger ribonucleate 2&apos;-O-methyladenosine NG-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.62",
+      "2.1.1.62",
+      "2.1.1.62",
+      "2.1.1.62",
+      "2.1.1.62"
+    ],
+    "MetaCyc": [
+      "2.1.1.62-RXN"
+    ],
+    "RHEA": [
+      "22744"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + m(7)G(5&apos;)pppAm = S-adenosyl-L-homocysteine + m(7)G(5&apos;)pppm(6)Am.",
+  "namespace": "molecular_function",
+  "label": "mRNA (2&apos;-O-methyladenosine-N6-)-methyltransferase activity"
+}

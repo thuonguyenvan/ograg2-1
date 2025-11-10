@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047375",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047375",
+  "relationships": {
+    "is_a": [
+      "GO:0019213",
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acetyl galactosaminoglycan deacetylase activity",
+      "N-acetyl-D-galactosaminoglycan acetylhydrolase activity",
+      "Vi-polysaccharide deacetylase activity",
+      "polysaccharide deacetylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.58",
+      "3.1.1.58",
+      "3.1.1.58",
+      "3.1.1.58",
+      "3.1.1.58",
+      "3.1.1.58"
+    ],
+    "MetaCyc": [
+      "3.1.1.58-RXN",
+      "3.1.1.58-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + N-acetyl-D-galactosaminoglycan = acetate + D-galactosaminoglycan.",
+  "namespace": "molecular_function",
+  "label": "N-acetylgalactosaminoglycan deacetylase activity"
+}

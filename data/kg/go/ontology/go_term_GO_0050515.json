@@ -1,0 +1,46 @@
+{
+  "id": "GO:0050515",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050515",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-diphosphocytidyl-2C-methyl-D-erythritol kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-diphosphocytidyl-2-C-methyl-D-erythritol kinase activity",
+      "ATP:4-(cytidine 5&apos;-diphospho)-2-C-methyl-D-erythritol 2-phosphotransferase activity",
+      "CDP-ME kinase activity",
+      "CMK activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.148",
+      "2.7.1.148",
+      "2.7.1.148",
+      "2.7.1.148",
+      "2.7.1.148",
+      "2.7.1.148"
+    ],
+    "KEGG_REACTION": [
+      "R05634"
+    ],
+    "MetaCyc": [
+      "2.7.1.148-RXN"
+    ],
+    "RHEA": [
+      "18437",
+      "18437"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-CDP-2-C-methyl-D-erythritol + ATP = 4-CDP-2-C-methyl-D-erythritol 2-phosphate + ADP + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "4-(cytidine 5&apos;-diphospho)-2-C-methyl-D-erythritol kinase activity"
+}

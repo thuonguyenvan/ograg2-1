@@ -1,0 +1,30 @@
+{
+  "id": "GO:0034004",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034004",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-trans,6-trans-farnesyl-diphosphate diphosphate-lyase [(1E,4S,5E,7R)-germacra-1(10),5-dien-11-ol-forming] activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.22",
+      "4.2.3.22",
+      "4.2.3.22"
+    ],
+    "RHEA": [
+      "22436"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-trans,6-trans-farnesyl diphosphate + H2O = (1E,4S,5E,7R)-germacra-1(10),5-dien-11-ol + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "germacradienol synthase activity"
+}

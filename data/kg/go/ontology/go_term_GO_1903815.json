@@ -1,0 +1,50 @@
+{
+  "id": "GO:1903815",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903815",
+  "relationships": {
+    "is_a": [
+      "GO:0051241",
+      "GO:1903814"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of collecting lymphatic vessel constriction",
+      "down regulation of lymphatic vessel myogenic constriction",
+      "down-regulation of collecting lymphatic vessel constriction",
+      "down-regulation of lymphatic vessel myogenic constriction",
+      "downregulation of collecting lymphatic vessel constriction",
+      "downregulation of lymphatic vessel myogenic constriction",
+      "negative regulation of lymphatic vessel myogenic constriction"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of collecting lymphatic vessel constriction",
+      "inhibition of lymphatic vessel myogenic constriction"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23897233"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of collecting lymphatic vessel constriction.",
+  "namespace": "biological_process",
+  "label": "negative regulation of collecting lymphatic vessel constriction"
+}

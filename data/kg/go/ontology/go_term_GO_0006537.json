@@ -1,0 +1,37 @@
+{
+  "id": "GO:0006537",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006537",
+  "relationships": {
+    "is_a": [
+      "GO:0006536",
+      "GO:0009084",
+      "GO:0043650"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glutamate anabolism",
+      "glutamate biosynthesis",
+      "glutamate formation",
+      "glutamate synthesis",
+      "glutamic acid biosynthesis",
+      "glutamic acid biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "glutamate biosynthesis, using glutamate dehydrogenase (NAD(P)+)",
+      "glutamate biosynthesis, using glutamate synthase (NADPH)",
+      "glutamate biosynthetic process, using glutamate dehydrogenase (NAD(P)+)",
+      "glutamate biosynthetic process, using glutamate synthase (NADPH)"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of glutamate, the anion of 2-aminopentanedioic acid.",
+  "namespace": "biological_process",
+  "label": "glutamate biosynthetic process"
+}

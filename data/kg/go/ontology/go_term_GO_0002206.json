@@ -1,0 +1,30 @@
+{
+  "id": "GO:0002206",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002206",
+  "relationships": {
+    "is_a": [
+      "GO:0002565",
+      "GO:0016445",
+      "GO:0035822"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "gene conversion of antibody genes"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "PMID": [
+      "14991701"
+    ]
+  },
+  "definition": "The somatic process in which immunoglobulin genes are diversified through the mechanism of gene conversion.",
+  "namespace": "biological_process",
+  "label": "gene conversion of immunoglobulin genes"
+}

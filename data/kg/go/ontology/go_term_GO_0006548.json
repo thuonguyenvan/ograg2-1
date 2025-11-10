@@ -1,0 +1,36 @@
+{
+  "id": "GO:0006548",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006548",
+  "relationships": {
+    "is_a": [
+      "GO:0006547",
+      "GO:0009074",
+      "GO:0052805",
+      "GO:0170035",
+      "GO:0170040"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histidine breakdown",
+      "histidine catabolism",
+      "histidine degradation"
+    ],
+    "broad": [
+      "histidine catabolic process"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-70921"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-histidine, 2-amino-3-(1H-imidazol-4-yl)propanoic acid.",
+  "namespace": "biological_process",
+  "label": "Histidine catabolism"
+}

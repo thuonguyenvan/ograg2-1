@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102698",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102698",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.61",
+      "4.2.3.61"
+    ],
+    "MetaCyc": [
+      "RXN-4781"
+    ],
+    "RHEA": [
+      "28635"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-trans,6-trans-farnesyl diphosphate = (+)-5-epi-aristolochene + diphosphoric acid.",
+  "namespace": "molecular_function",
+  "label": "5-epi-aristolochene synthase activity"
+}

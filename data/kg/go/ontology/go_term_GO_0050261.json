@@ -1,0 +1,40 @@
+{
+  "id": "GO:0050261",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050261",
+  "relationships": {
+    "is_a": [
+      "GO:0016861"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-ribose aldose-ketose-isomerase activity",
+      "D-ribose isomerase activity",
+      "D-ribose ketol-isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.1.20",
+      "5.3.1.20",
+      "5.3.1.20",
+      "5.3.1.20"
+    ],
+    "KEGG_REACTION": [
+      "R01081"
+    ],
+    "MetaCyc": [
+      "RIBOSE-ISOMERASE-RXN"
+    ],
+    "RHEA": [
+      "20796",
+      "20796"
+    ]
+  },
+  "definition": "Catalysis of the reaction: aldehydo-D-ribose = D-ribulose.",
+  "namespace": "molecular_function",
+  "label": "ribose isomerase activity"
+}

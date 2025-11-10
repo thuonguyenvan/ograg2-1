@@ -1,0 +1,30 @@
+{
+  "id": "GO:0061929",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061929",
+  "relationships": {
+    "is_a": [
+      "GO:0016842"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.2.8"
+    ],
+    "RHEA": [
+      "16961"
+    ],
+    "PMID": [
+      "20110353",
+      "6107907"
+    ]
+  },
+  "definition": "Catalysis of the reaction: epsilon-(L-gamma-glutamyl)-L-lysine = L-lysine + 5-oxo-L-proline.",
+  "namespace": "molecular_function",
+  "label": "gamma-glutamylaminecyclotransferase activity"
+}

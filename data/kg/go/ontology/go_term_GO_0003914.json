@@ -1,0 +1,32 @@
+{
+  "id": "GO:0003914",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003914",
+  "relationships": {
+    "is_a": [
+      "GO:0003913"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.99.13"
+    ],
+    "MetaCyc": [
+      "RXN-10771"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "11124949"
+    ]
+  },
+  "definition": "Catalysis of the reaction: pyrimidine-pyrimidone (6-4) photoproduct (in DNA) = 2 pyrimidine residues (in DNA). Catalyzes the reactivation of ultraviolet-irradiated DNA.",
+  "namespace": "molecular_function",
+  "label": "DNA (6-4) photolyase activity"
+}

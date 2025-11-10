@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102530",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102530",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.95",
+      "3.1.1.95"
+    ],
+    "MetaCyc": [
+      "RXN-14703"
+    ],
+    "RHEA": [
+      "37891"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: aclacinomycin T(1+) + H2O = 15-demethylaclacinomycin T + methanol + H+.",
+  "namespace": "molecular_function",
+  "label": "aclacinomycin T methylesterase activity"
+}

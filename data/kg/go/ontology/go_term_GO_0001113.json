@@ -1,0 +1,30 @@
+{
+  "id": "GO:0001113",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001113",
+  "relationships": {
+    "is_a": [
+      "GO:0001112"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA polymerase II promoter melting",
+      "transcriptional open complex formation at RNA polymerase II promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH"
+    ],
+    "PMID": [
+      "15020047",
+      "18280161"
+    ]
+  },
+  "definition": "Any process involved in the melting of the DNA hybrid of the core promoter region within the transcriptional closed complex of an RNA polymerase II preinitiation complex (PIC) to produce an open complex where the DNA duplex around the transcription initiation site is unwound to form the transcription bubble.",
+  "namespace": "biological_process",
+  "label": "transcription open complex formation at RNA polymerase II promoter"
+}

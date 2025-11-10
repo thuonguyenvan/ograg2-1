@@ -1,0 +1,29 @@
+{
+  "id": "GO:0022000",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022000",
+  "relationships": {
+    "is_a": [
+      "GO:0031128"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ]
+  },
+  "definition": "The close range interaction of the anterior neural ridge to the caudal region of the neural plate that specifies the forebrain fate.",
+  "namespace": "biological_process",
+  "label": "forebrain induction by the anterior neural ridge"
+}

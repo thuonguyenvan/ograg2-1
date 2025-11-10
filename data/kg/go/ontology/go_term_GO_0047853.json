@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047853",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047853",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "bis-D-fructose 2&apos;,1:2,1&apos;-dianhydride fructohydrolase activity",
+      "inulobiose hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.179",
+      "4.2.1.179",
+      "4.2.1.179"
+    ],
+    "MetaCyc": [
+      "DIFRUCTOSE-ANHYDRIDE-SYNTHASE-RXN",
+      "DIFRUCTOSE-ANHYDRIDE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "15041",
+      "15041"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + bis-D-fructose 2&apos;,1:2,1&apos;-dianhydride = inulobiose.",
+  "namespace": "molecular_function",
+  "label": "difructose-anhydride synthase activity"
+}

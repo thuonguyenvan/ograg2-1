@@ -1,0 +1,35 @@
+{
+  "id": "GO:0016651",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016651",
+  "relationships": {
+    "is_a": [
+      "GO:0016491"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "NAD(P)H dehydrogenase",
+      "oxidoreductase activity, acting on NADH or NADPH, other acceptor"
+    ],
+    "related": [
+      "oxidoreductase activity, acting on NADH or NADPH"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.6.-.-"
+    ],
+    "Reactome": [
+      "R-HSA-109343",
+      "R-HSA-8956458"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Catalysis of an oxidation-reduction (redox) reaction in which NADH or NADPH acts as a hydrogen or electron donor and reduces a hydrogen or electron acceptor.",
+  "namespace": "molecular_function",
+  "label": "RNLS:FAD oxidises dh-beta-NAD to NAD+"
+}

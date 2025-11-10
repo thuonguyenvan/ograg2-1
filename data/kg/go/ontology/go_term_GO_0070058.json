@@ -1,0 +1,27 @@
+{
+  "id": "GO:0070058",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070058",
+  "relationships": {
+    "is_a": [
+      "GO:0051276"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jh",
+      "mah"
+    ],
+    "PMID": [
+      "18708579"
+    ]
+  },
+  "definition": "The process in which tRNA genes, which are not linearly connected on the chromosome, are transported in three dimensions to, and maintained together in, the nucleolus. This clustered positioning leads to transcriptional silencing of nearby RNA polymerase II promoters (termed tRNA gene mediated (tgm) silencing) in S. cerevisiae.",
+  "namespace": "biological_process",
+  "label": "tRNA gene clustering"
+}

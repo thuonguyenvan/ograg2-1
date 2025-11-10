@@ -1,0 +1,31 @@
+{
+  "id": "GO:0019427",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019427",
+  "relationships": {
+    "is_a": [
+      "GO:0006083",
+      "GO:0006085"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acetyl-CoA anabolism from acetate",
+      "acetyl-CoA formation from acetate",
+      "acetyl-CoA synthesis from acetate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetate utilization"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "ACETATEUTIL-PWY",
+      "ACETATEUTIL-PWY"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of acetyl-CoA from acetate, either directly or via acetylphosphate.",
+  "namespace": "biological_process",
+  "label": "acetyl-CoA biosynthetic process from acetate"
+}

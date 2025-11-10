@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047628",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047628",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ADP:dThd phosphotransferase activity",
+      "ADP:thymidine 5&apos;-phosphotransferase activity",
+      "adenosine diphosphate-thymidine phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.118",
+      "2.7.1.118",
+      "2.7.1.118",
+      "2.7.1.118",
+      "2.7.1.118"
+    ],
+    "MetaCyc": [
+      "ADP--THYMIDINE-KINASE-RXN",
+      "ADP--THYMIDINE-KINASE-RXN"
+    ],
+    "RHEA": [
+      "13413"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ADP + thymidine = AMP + thymidine 5&apos;-phosphate.",
+  "namespace": "molecular_function",
+  "label": "ADP-thymidine kinase activity"
+}

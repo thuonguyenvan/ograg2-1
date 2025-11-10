@@ -1,0 +1,47 @@
+{
+  "id": "GO:1900099",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900099",
+  "relationships": {
+    "is_a": [
+      "GO:0002698",
+      "GO:0045578",
+      "GO:0050777",
+      "GO:1900098"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of plasma cell differentiation",
+      "down-regulation of plasma cell differentiation",
+      "downregulation of plasma cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of plasma cell differentiation"
+    ],
+    "related": [
+      "down regulation of plasma cell development",
+      "down-regulation of plasma cell development",
+      "downregulation of plasma cell development",
+      "inhibition of plasma cell development",
+      "negative regulation of plasma cell development"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of plasma cell differentiation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of plasma cell differentiation"
+}

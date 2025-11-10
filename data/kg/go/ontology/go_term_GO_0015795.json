@@ -1,0 +1,31 @@
+{
+  "id": "GO:0015795",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015795",
+  "relationships": {
+    "is_a": [
+      "GO:0015791",
+      "GO:0034219"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucitol transport"
+    ],
+    "broad": [
+      "sorbitol transport"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The directed movement of sorbitol across a membrane. Sorbitol, also known as glucitol, is the hexitol derived by the reduction of the aldehyde group of glucose.",
+  "namespace": "biological_process",
+  "label": "sorbitol transmembrane transport"
+}

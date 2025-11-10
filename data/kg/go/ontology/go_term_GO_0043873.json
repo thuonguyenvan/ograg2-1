@@ -1,0 +1,33 @@
+{
+  "id": "GO:0043873",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043873",
+  "relationships": {
+    "is_a": [
+      "GO:0016625"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pyruvate:flavodoxin oxidoreductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NifJ"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PYFLAVOXRE-RXN"
+    ],
+    "RHEA": [
+      "44140"
+    ],
+    "PMID": [
+      "6352705"
+    ]
+  },
+  "definition": "Catalysis of the reaction: pyruvate + CoA + oxidized flavodoxin = acetyl-CoA + CO2 + reduced flavodoxin.",
+  "namespace": "molecular_function",
+  "label": "pyruvate-flavodoxin oxidoreductase activity"
+}

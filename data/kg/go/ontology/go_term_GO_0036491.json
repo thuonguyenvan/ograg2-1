@@ -1,0 +1,32 @@
+{
+  "id": "GO:0036491",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036491",
+  "relationships": {
+    "is_a": [
+      "GO:0036490",
+      "GO:0043558"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of translation initiation in response to ER stress"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "14676213",
+      "16835242"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of translation initiation, as a result of endoplasmic reticulum stress.",
+  "namespace": "biological_process",
+  "label": "regulation of translation initiation in response to endoplasmic reticulum stress"
+}

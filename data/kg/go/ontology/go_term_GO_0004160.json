@@ -1,0 +1,47 @@
+{
+  "id": "GO:0004160",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004160",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,3-dihydroxy-acid hydro-lyase (3-methyl-2-oxobutanoate-forming)",
+      "2,3-dihydroxy-acid hydro-lyase activity",
+      "2,3-dihydroxyisovalerate dehydratase activity",
+      "DHAD",
+      "acetohydroxyacid dehydratase activity",
+      "alpha,beta-dihydroxyacid dehydratase activity",
+      "alpha,beta-dihydroxyisovalerate dehydratase activity",
+      "dihydroxy acid dehydrase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.9",
+      "4.2.1.9",
+      "4.2.1.9",
+      "4.2.1.9",
+      "4.2.1.9",
+      "4.2.1.9",
+      "4.2.1.9",
+      "4.2.1.9",
+      "4.2.1.9"
+    ],
+    "MetaCyc": [
+      "DIHYDROXYISOVALDEHYDRAT-RXN"
+    ],
+    "RHEA": [
+      "24809",
+      "24809"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2R)-2,3-dihydroxy-3-methylbutanoate = 3-methyl-2-oxobutanoate + H2O.",
+  "namespace": "molecular_function",
+  "label": "dihydroxy-acid dehydratase activity"
+}

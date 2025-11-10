@@ -1,0 +1,41 @@
+{
+  "id": "GO:0030513",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030513",
+  "relationships": {
+    "is_a": [
+      "GO:0030510",
+      "GO:0090100"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of BMP signalling pathway",
+      "positive regulation of bone morphogenetic protein signaling pathway",
+      "positive regulation of bone morphogenetic protein signalling pathway",
+      "up regulation of BMP signaling pathway",
+      "up-regulation of BMP signaling pathway",
+      "upregulation of BMP signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of BMP signaling pathway",
+      "positive regulation of decapentaplegic receptor signaling pathway",
+      "positive regulation of decapentaplegic receptor signalling pathway",
+      "positive regulation of decapentaplegic signaling pathway",
+      "stimulation of BMP signaling pathway"
+    ],
+    "related": [
+      "positive regulation of BMP receptor signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "bf",
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of BMP signaling pathway activity.",
+  "namespace": "biological_process",
+  "label": "positive regulation of BMP signaling pathway"
+}

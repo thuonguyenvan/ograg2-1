@@ -1,0 +1,40 @@
+{
+  "id": "GO:0050174",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050174",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-phenylalanine carboxy-lyase (phenylethylamine-forming)"
+    ],
+    "broad": [
+      "aromatic L-amino acid decarboxylase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "L-phenylalanine carboxy-lyase activity",
+      "L-phenylalanine decarboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.53",
+      "4.1.1.53",
+      "4.1.1.53",
+      "4.1.1.53"
+    ],
+    "MetaCyc": [
+      "PHENYLALANINE-DECARBOXYLASE-RXN",
+      "PHENYLALANINE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "19717"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-phenylalanine = phenylethylamine + CO2.",
+  "namespace": "molecular_function",
+  "label": "phenylalanine decarboxylase activity"
+}

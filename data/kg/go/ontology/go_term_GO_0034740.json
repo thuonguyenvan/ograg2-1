@@ -1,0 +1,25 @@
+{
+  "id": "GO:0034740",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034740",
+  "relationships": {
+    "is_a": [
+      "GO:0090576"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TFIIIC-Topoisomerase 1-PC4 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "9660958"
+    ]
+  },
+  "definition": "A protein complex that contains TFIIIC, topoisomerase 1, and Sub1/PC4. Characterized in human, the complex is involved in regulating transcription from RNA polymerase III (Pol III) promoters. Topoisomerase 1 and Sub1 enhance the accuracy of transcription termination, and promote reinitiation by Pol III.",
+  "namespace": "cellular_component",
+  "label": "TFIIIC-TOP1-SUB1 complex"
+}

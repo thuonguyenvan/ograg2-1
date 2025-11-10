@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050126",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050126",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-carbamoylputrescine amidohydrolase activity",
+      "NCP",
+      "carbamoylputrescine hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.53",
+      "3.5.1.53",
+      "3.5.1.53",
+      "3.5.1.53",
+      "3.5.1.53"
+    ],
+    "KEGG_REACTION": [
+      "R01152"
+    ],
+    "MetaCyc": [
+      "N-CARBAMOYLPUTRESCINE-AMIDASE-RXN"
+    ],
+    "RHEA": [
+      "22284",
+      "22284"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-carbamoylputrescine + H2O + 2 H+ = CO2 + NH4 + putrescine.",
+  "namespace": "molecular_function",
+  "label": "N-carbamoylputrescine amidase activity"
+}

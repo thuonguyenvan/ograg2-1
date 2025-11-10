@@ -1,0 +1,64 @@
+{
+  "id": "GO:1904934",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904934",
+  "relationships": {
+    "is_a": [
+      "GO:1904933",
+      "GO:2000178"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of cell proliferation in mesencephalon",
+      "down regulation of cell proliferation in midbrain",
+      "down-regulation of cell proliferation in mesencephalon",
+      "down-regulation of cell proliferation in midbrain",
+      "downregulation of cell proliferation in mesencephalon",
+      "downregulation of cell proliferation in midbrain",
+      "negative regulation of cell proliferation in mesencephalon"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of cell proliferation in mesencephalon",
+      "inhibition of cell proliferation in midbrain"
+    ],
+    "related": [
+      "down regulation of mesencepahalic cell proliferation",
+      "down-regulation of mesencepahalic cell proliferation",
+      "downregulation of mesencepahalic cell proliferation",
+      "inhibition of mesencepahalic cell proliferation",
+      "negative regulation of mesencepahalic cell proliferation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "18953410",
+      "24431302"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of cell proliferation in midbrain.",
+  "namespace": "biological_process",
+  "label": "negative regulation of cell proliferation in midbrain"
+}

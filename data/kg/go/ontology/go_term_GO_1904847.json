@@ -1,0 +1,34 @@
+{
+  "id": "GO:1904847",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904847",
+  "relationships": {
+    "is_a": [
+      "GO:0030334",
+      "GO:0050920",
+      "GO:0090287"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "TermGenie",
+      "rph"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23233752"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of cell chemotaxis to fibroblast growth factor.",
+  "namespace": "biological_process",
+  "label": "regulation of cell chemotaxis to fibroblast growth factor"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0140680",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140680",
+  "relationships": {
+    "is_a": [
+      "GO:0051864"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H3-di/monomethyl-lysine-36 demethylase activity"
+    ],
+    "broad": [
+      "histone H3K36me2 demethylase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "histone H3K36me demethylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.11.27"
+    ],
+    "MetaCyc": [
+      "RXN-13186"
+    ],
+    "RHEA": [
+      "42032"
+    ],
+    "PMID": [
+      "20531378"
+    ]
+  },
+  "definition": "Catalysis of the removal of a methyl group from a di- or a monomethyl-lysine residue at position 36 of the histone H3 protein. This is a dioxygenase reaction that is dependent on Fe(II) and 2-oxoglutarate.",
+  "namespace": "molecular_function",
+  "label": "histone H3K36me/H3K36me2 demethylase activity"
+}

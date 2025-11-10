@@ -1,0 +1,45 @@
+{
+  "id": "GO:0050146",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050146",
+  "relationships": {
+    "is_a": [
+      "GO:0016773",
+      "GO:0019205"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "nonspecific nucleoside phosphotransferase activity",
+      "nucleotide:2&apos;-nucleoside 5&apos;-phosphotransferase activity",
+      "nucleotide:3&apos;-deoxynucleoside 5&apos;-phosphotransferase activity",
+      "nucleotide:nucleoside 5&apos;-phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.77",
+      "2.7.1.77",
+      "2.7.1.77",
+      "2.7.1.77",
+      "2.7.1.77",
+      "2.7.1.77"
+    ],
+    "MetaCyc": [
+      "NUCLEOSIDE-PHOSPHOTRANSFERASE-RXN",
+      "NUCLEOSIDE-PHOSPHOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "19961"
+    ],
+    "Reactome": [
+      "R-HSA-2162066",
+      "R-HSA-9754916"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a nucleotide + a 2&apos;-deoxynucleoside = a nucleoside + a 2&apos;-deoxynucleoside 5&apos;-monophosphate.",
+  "namespace": "molecular_function",
+  "label": "NT5C2 tetramer phosphorylates RBV"
+}

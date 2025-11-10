@@ -1,0 +1,31 @@
+{
+  "id": "GO:0043218",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043218",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Schwann cell compact myelin",
+      "oligodendrocyte compact myelin"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1123256993",
+      "sao1123256993",
+      "sao1186642361"
+    ],
+    "GOC": [
+      "dgh"
+    ]
+  },
+  "definition": "The portion of the myelin sheath in which layers of cell membrane are tightly juxtaposed, completely excluding cytoplasm. The juxtaposed cytoplasmic surfaces form the major dense line, while the juxtaposed extracellular surfaces form the interperiod line visible in electron micrographs.",
+  "namespace": "cellular_component",
+  "label": "compact myelin"
+}

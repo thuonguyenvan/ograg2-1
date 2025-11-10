@@ -1,0 +1,35 @@
+{
+  "id": "GO:0061776",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061776",
+  "relationships": {
+    "is_a": [
+      "GO:0003690"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent ring closure activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "topological DNA entrapment activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "vw"
+    ],
+    "PMID": [
+      "16179255",
+      "26687354",
+      "27797071",
+      "29358048",
+      "37820734"
+    ]
+  },
+  "definition": "A DNA binding activity in which a protein complex interacts with at least one DNA duplex to encircle the DNA molecules with a loose fitting ring.",
+  "namespace": "molecular_function",
+  "label": "ATP-dependent topological DNA co-entrapment activity"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:1901238",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901238",
+  "relationships": {
+    "is_a": [
+      "GO:0140359"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "tungstate transmembrane transporter activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ATPase-coupled tungstate transmembrane transporter activity",
+      "tungstate transmembrane-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.3.2.6"
+    ],
+    "MetaCyc": [
+      "TRANS-RXN-242B"
+    ],
+    "RHEA": [
+      "35027",
+      "35027"
+    ],
+    "GOC": [
+      "TermGenie"
+    ],
+    "PMID": [
+      "16952940",
+      "21784948"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + tungstate(in) = ADP + phosphate + tungstate(out).",
+  "namespace": "molecular_function",
+  "label": "ABC-type tungstate transporter activity"
+}

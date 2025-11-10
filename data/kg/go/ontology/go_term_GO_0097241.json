@@ -1,0 +1,34 @@
+{
+  "id": "GO:0097241",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097241",
+  "relationships": {
+    "is_a": [
+      "GO:0035701"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hemopoietic stem cell migration to bone marrow"
+    ],
+    "broad": [
+      "hematopoietic stem cell homing",
+      "progenitor cell homing"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000037"
+    ],
+    "GOC": [
+      "yaf"
+    ],
+    "PMID": [
+      "17368745"
+    ]
+  },
+  "definition": "The orderly movement of a hematopoietic stem cell into the bone marrow, and its subsequent positioning within defined functional compartments in that microenvironment. A hematopoietic stem cell is a cell from which all cells of the lymphoid and myeloid lineages develop, including blood cells and cells of the immune system.",
+  "namespace": "biological_process",
+  "label": "hematopoietic stem cell migration to bone marrow"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "GO:0019518",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019518",
+  "relationships": {
+    "is_a": [
+      "GO:0006545",
+      "GO:0006567"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-threonine breakdown to glycine",
+      "L-threonine catabolism to glycine",
+      "L-threonine degradation to glycine",
+      "glycine biosynthetic process from L-threonine"
+    ],
+    "broad": [
+      "threonine catabolic process to glycine"
+    ],
+    "narrow": [],
+    "related": [
+      "L-threonine catabolic process to pyruvate"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "THREONINE-DEG2-PWY",
+      "THREONINE-DEG2-PWY"
+    ],
+    "Reactome": [
+      "R-HSA-8849175"
+    ],
+    "GOC": [
+      "bf",
+      "mah",
+      "bf",
+      "bf",
+      "mah",
+      "bf",
+      "mah",
+      "bf",
+      "mah",
+      "bf",
+      "mah"
+    ],
+    "PMID": [
+      "728468"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-threonine (the L-enantiomer of 2-amino-3-hydroxybutyric acid) to form 2-amino-3-oxobutanoate, which is subsequently converted to glycine.",
+  "namespace": "biological_process",
+  "label": "Threonine catabolism"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047332",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047332",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "diphosphate:L-serine O-phosphotransferase activity",
+      "pyrophosphate--serine phosphotransferase activity",
+      "pyrophosphate-L-serine phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.80",
+      "2.7.1.80",
+      "2.7.1.80",
+      "2.7.1.80",
+      "2.7.1.80"
+    ],
+    "KEGG_REACTION": [
+      "R00584"
+    ],
+    "MetaCyc": [
+      "2.7.1.80-RXN"
+    ],
+    "RHEA": [
+      "23764",
+      "23764"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-serine + diphosphate = O-phospho-L-serine + H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "diphosphate-serine phosphotransferase activity"
+}

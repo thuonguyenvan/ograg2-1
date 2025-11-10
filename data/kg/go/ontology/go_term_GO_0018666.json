@@ -1,0 +1,40 @@
+{
+  "id": "GO:0018666",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018666",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2,4-dichlorophenol hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,4-dichlorophenol monooxygenase activity",
+      "2,4-dichlorophenol,NADPH:oxygen oxidoreductase (6-hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.20",
+      "1.14.13.20",
+      "1.14.13.20",
+      "1.14.13.20"
+    ],
+    "MetaCyc": [
+      "24-DICHLOROPHENOL-6-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "20920"
+    ],
+    "UM-BBD_enzymeID": [
+      "r0275"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,4-dichlorophenol + NADPH + H+ + O2 = 3,5-dichlorocatechol + NADP+ + H2O.",
+  "namespace": "molecular_function",
+  "label": "2,4-dichlorophenol 6-monooxygenase activity"
+}

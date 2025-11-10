@@ -1,0 +1,30 @@
+{
+  "id": "GO:0003711",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003711",
+  "relationships": {
+    "is_a": [
+      "GO:0140110"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "transcription elongation regulator activity",
+      "transcriptional elongation regulator activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH-2018"
+    ],
+    "PMID": [
+      "23878398",
+      "28892040"
+    ]
+  },
+  "definition": "A molecular function that stimulates the elongation properties of the RNA polymerase during the elongation phase of transcription. A subclass of transcription elongation factors enable the transition from transcription initiation to elongation, while another class rescue stalled RNA polymerases.",
+  "namespace": "molecular_function",
+  "label": "transcription elongation factor activity"
+}

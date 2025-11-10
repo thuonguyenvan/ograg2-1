@@ -1,0 +1,47 @@
+{
+  "id": "GO:0004573",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004573",
+  "relationships": {
+    "is_a": [
+      "GO:0090599"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mannosyl-oligosaccharide glucosidase (processing A-glucosidase I) activity",
+      "trimming glucosidase I"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "mannosyl-oligosaccharide glucohydrolase activity",
+      "mannosyl-oligosaccharide glucosidase activity",
+      "processing A-glucosidase I activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.106",
+      "3.2.1.106",
+      "3.2.1.106",
+      "3.2.1.106",
+      "3.2.1.106",
+      "3.2.1.106"
+    ],
+    "MetaCyc": [
+      "3.2.1.106-RXN"
+    ],
+    "RHEA": [
+      "55988"
+    ],
+    "Reactome": [
+      "R-HSA-4793947",
+      "R-HSA-532678",
+      "R-HSA-9694364",
+      "R-HSA-9932344"
+    ]
+  },
+  "definition": "Catalysis of the exohydrolysis of the non-reducing terminal glucose residue in the mannosyl-oligosaccharide Glc(3)Man(9)GlcNAc(2).",
+  "namespace": "molecular_function",
+  "label": "MOGS removes terminal glucose from Glu3Man9GlcNAc2-CDH1"
+}

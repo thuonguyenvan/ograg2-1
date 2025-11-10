@@ -1,0 +1,33 @@
+{
+  "id": "GO:0039702",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039702",
+  "relationships": {
+    "is_a": [
+      "GO:0046755"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "host-assisted viral budding"
+    ],
+    "narrow": [],
+    "related": [
+      "viral budding through the ESCRT machinery"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "1536",
+      "1536",
+      "1536",
+      "1536"
+    ],
+    "UniProtKB-KW": [
+      "KW-1187"
+    ]
+  },
+  "definition": "Viral budding which uses a host ESCRT protein complex, or complexes, to mediate the budding process.",
+  "namespace": "biological_process",
+  "label": "Viral budding via the host ESCRT complexes"
+}

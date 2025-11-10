@@ -1,0 +1,45 @@
+{
+  "id": "GO:0016034",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016034",
+  "relationships": {
+    "is_a": [
+      "GO:0016859"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-maleylacetoacetate cis-trans-isomerase activity",
+      "maleylacetoacetic isomerase activity",
+      "maleylacetone cis-trans-isomerase activity",
+      "maleylacetone isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.2.1.2",
+      "5.2.1.2",
+      "5.2.1.2",
+      "5.2.1.2",
+      "5.2.1.2",
+      "5.2.1.2"
+    ],
+    "MetaCyc": [
+      "MALEYLACETOACETATE-ISOMERASE-RXN"
+    ],
+    "RHEA": [
+      "14817"
+    ],
+    "Reactome": [
+      "R-HSA-71173"
+    ],
+    "UM-BBD_reactionID": [
+      "r0106"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-maleylacetoacetate = 4-fumarylacetoacetate.",
+  "namespace": "molecular_function",
+  "label": "GSTZ1 isomerizes 4-MAA"
+}

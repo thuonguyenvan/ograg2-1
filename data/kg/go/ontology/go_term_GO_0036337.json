@@ -1,0 +1,46 @@
+{
+  "id": "GO:0036337",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036337",
+  "relationships": {
+    "is_a": [
+      "GO:0007166"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Apo-1 signaling pathway",
+      "CD95 signaling pathway",
+      "Fas receptor signaling pathway",
+      "FasR signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "FAS ligand-Fas signaling pathway",
+      "Fas-FasL signaling pathway"
+    ],
+    "related": [
+      "FasL signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "nhn",
+      "bf"
+    ],
+    "PMID": [
+      "12040174",
+      "12040174",
+      "12040174",
+      "12040174"
+    ],
+    "Wikipedia": [
+      "Fas_receptor",
+      "Fas_receptor",
+      "Fas_receptor",
+      "Fas_ligand"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by the binding of a ligand to a Fas receptor on the surface of the cell, and ending with the regulation of a downstream cellular process, e.g. transcription. Fas is a death domain-containing member of the tumor necrosis factor receptor (TNFR) superfamily.",
+  "namespace": "biological_process",
+  "label": "Fas signaling pathway"
+}

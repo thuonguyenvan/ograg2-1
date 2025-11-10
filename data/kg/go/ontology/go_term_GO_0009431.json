@@ -1,0 +1,33 @@
+{
+  "id": "GO:0009431",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009431",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "flagellar basal body, MS ring",
+      "flagellin-based flagellum basal body, MS ring"
+    ],
+    "broad": [
+      "flagellar basal body, mounting plate"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "mtg_sensu"
+    ],
+    "PMID": [
+      "10572114",
+      "12624192"
+    ]
+  },
+  "definition": "One of the rings of the bacterial-type flagellar basal body; a double-flanged ring that anchors the basal body to the cytoplasmic membrane.",
+  "namespace": "cellular_component",
+  "label": "bacterial-type flagellum basal body, MS ring"
+}

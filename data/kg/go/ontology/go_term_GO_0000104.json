@@ -1,0 +1,38 @@
+{
+  "id": "GO:0000104",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000104",
+  "relationships": {
+    "is_a": [
+      "GO:0016627"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fumarate dehydrogenase activity",
+      "fumarate reductase activity",
+      "succinate oxidoreductase activity",
+      "succinic acid dehydrogenase activity",
+      "succinodehydrogenase activity",
+      "succinyl dehydrogenase activity"
+    ],
+    "broad": [
+      "succinic dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "fumaric hydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R00412"
+    ],
+    "RHEA": [
+      "16357",
+      "16357"
+    ]
+  },
+  "definition": "Catalysis of the reaction: succinate + acceptor = fumarate + reduced acceptor.",
+  "namespace": "molecular_function",
+  "label": "succinate dehydrogenase activity"
+}

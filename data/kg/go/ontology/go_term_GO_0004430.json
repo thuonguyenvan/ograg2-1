@@ -1,0 +1,64 @@
+{
+  "id": "GO:0004430",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004430",
+  "relationships": {
+    "is_a": [
+      "GO:0052742"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PI 4-kinase activity",
+      "PI4-kinase activity",
+      "PI4K",
+      "PI4K-alpha activity",
+      "PtdIns-4-kinase activity",
+      "phosphatidylinositol 4-kinase activity"
+    ],
+    "broad": [
+      "PI kinase activity",
+      "phosphatidylinositol kinase (phosphorylating) activity",
+      "phosphatidylinositol kinase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "type II phosphatidylinositol kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.67",
+      "2.7.1.67",
+      "2.7.1.67",
+      "2.7.1.67",
+      "2.7.1.67",
+      "2.7.1.67",
+      "2.7.1.67",
+      "2.7.1.67",
+      "2.7.1.67",
+      "2.7.1.67",
+      "2.7.1.67",
+      "2.7.1.67"
+    ],
+    "KEGG_REACTION": [
+      "R03361"
+    ],
+    "MetaCyc": [
+      "1-PHOSPHATIDYLINOSITOL-KINASE-RXN"
+    ],
+    "RHEA": [
+      "19877",
+      "19877"
+    ],
+    "Reactome": [
+      "R-HSA-1675780",
+      "R-HSA-1675813",
+      "R-HSA-1675883",
+      "R-HSA-1675974",
+      "R-HSA-1676185"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1-phosphatidyl-1D-myo-inositol + ATP = a 1-phosphatidyl-1D-myo-inositol 4-phosphate + ADP + H+.",
+  "namespace": "molecular_function",
+  "label": "PI is phosphorylated to PI4P by PI4KA/2A/2B at the Golgi membrane"
+}

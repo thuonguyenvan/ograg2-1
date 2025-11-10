@@ -1,0 +1,46 @@
+{
+  "id": "GO:0009038",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009038",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "isoprenoid alcohol kinase (phosphorylating)",
+      "isoprenoid alcohol kinase activity",
+      "isoprenoid alcohol phosphokinase activity",
+      "isoprenoid-alcohol kinase activity",
+      "polyisoprenol kinase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ATP:undecaprenol phosphotransferase activity",
+      "C55-isoprenoid alcohol kinase activity",
+      "C55-isoprenoid alcohol phosphokinase activity",
+      "C55-isoprenyl alcohol phosphokinase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "curators"
+    ],
+    "EC": [
+      "2.7.1.66",
+      "2.7.1.66",
+      "2.7.1.66",
+      "2.7.1.66",
+      "2.7.1.66",
+      "2.7.1.66",
+      "2.7.1.66",
+      "2.7.1.66",
+      "2.7.1.66"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + undecaprenol = ADP + undecaprenyl phosphate.",
+  "namespace": "molecular_function",
+  "label": "undecaprenol kinase activity"
+}

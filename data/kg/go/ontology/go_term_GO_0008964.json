@@ -1,0 +1,48 @@
+{
+  "id": "GO:0008964",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008964",
+  "relationships": {
+    "is_a": [
+      "GO:0004611"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PEP carboxylase activity",
+      "PEPC",
+      "PEPCase activity",
+      "phosphate:oxaloacetate carboxy-lyase (adding phosphate; phosphoenolpyruvate-forming)",
+      "phosphate:oxaloacetate carboxy-lyase (phosphorylating)",
+      "phosphoenolpyruvic carboxylase activity",
+      "phosphopyruvate (phosphate) carboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.31",
+      "4.1.1.31",
+      "4.1.1.31",
+      "4.1.1.31",
+      "4.1.1.31",
+      "4.1.1.31",
+      "4.1.1.31",
+      "4.1.1.31",
+      "4.1.1.31"
+    ],
+    "KEGG_REACTION": [
+      "R00345"
+    ],
+    "MetaCyc": [
+      "PEPCARBOX-RXN"
+    ],
+    "RHEA": [
+      "28370"
+    ]
+  },
+  "definition": "Catalysis of the reaction: phosphate + oxaloacetate = phosphoenolpyruvate + HCO3-.",
+  "namespace": "molecular_function",
+  "label": "phosphoenolpyruvate carboxylase activity"
+}

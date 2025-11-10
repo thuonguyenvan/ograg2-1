@@ -1,0 +1,37 @@
+{
+  "id": "GO:0043872",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043872",
+  "relationships": {
+    "is_a": [
+      "GO:0015171",
+      "GO:0015297",
+      "GO:0046943"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cadaverine:lysine antiporter activity",
+      "lysine-cadaverine antiporter activity",
+      "lysine/cadaverine antiporter activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "cadaverine transmembrane transporter activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "10986235"
+    ],
+    "TC": [
+      "2.A.3.2.2"
+    ]
+  },
+  "definition": "Catalysis of the reaction: lysine(out) + cadaverine(in) = lysine(in) + cadaverine(out).",
+  "namespace": "molecular_function",
+  "label": "lysine:cadaverine antiporter activity"
+}

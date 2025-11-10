@@ -1,0 +1,41 @@
+{
+  "id": "GO:0052903",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052903",
+  "relationships": {
+    "is_a": [
+      "GO:0046592"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "N(1)-acetylpolyamine oxidase activity"
+    ],
+    "narrow": [
+      "N1-acetylspermidine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity",
+      "N1-acetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.3.13",
+      "1.5.3.13",
+      "1.5.3.13",
+      "1.5.3.13"
+    ],
+    "KEGG_REACTION": [
+      "R03899"
+    ],
+    "MetaCyc": [
+      "RXN-12090"
+    ],
+    "Reactome": [
+      "R-HSA-141348",
+      "R-HSA-141351"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + N(1)-acetylspermine + O2 = 3-acetamidopropanal + H2O2 + spermidine. Also converts N(1)-acetylspermidine to putrescine.",
+  "namespace": "molecular_function",
+  "label": "PAOX:FAD oxidises NASPN to SPM"
+}

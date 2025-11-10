@@ -1,0 +1,30 @@
+{
+  "id": "GO:0032327",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032327",
+  "relationships": {
+    "is_a": [
+      "GO:0032325"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "W-molybdopterin cofactor breakdown",
+      "W-molybdopterin cofactor catabolism",
+      "W-molybdopterin cofactor degradation"
+    ],
+    "broad": [
+      "Moco catabolic process",
+      "Moco catabolism"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of the W-molybdopterin cofactor, essential for the catalytic activity of some enzymes. The cofactor consists of a mononuclear tungsten ion (W) coordinated by one or two molybdopterin ligands.",
+  "namespace": "biological_process",
+  "label": "W-molybdopterin cofactor catabolic process"
+}

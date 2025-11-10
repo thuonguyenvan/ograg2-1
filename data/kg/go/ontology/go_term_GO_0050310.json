@@ -1,0 +1,40 @@
+{
+  "id": "GO:0050310",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050310",
+  "relationships": {
+    "is_a": [
+      "GO:0016669"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulphite dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "sulfite cytochrome c reductase activity",
+      "sulfite-cytochrome c oxidoreductase activity",
+      "sulfite:ferricytochrome-c oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.2.1",
+      "1.8.2.1",
+      "1.8.2.1",
+      "1.8.2.1",
+      "1.8.2.1"
+    ],
+    "MetaCyc": [
+      "SULFITE-DEHYDROGENASE-RXN",
+      "SULFITE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "14281"
+    ]
+  },
+  "definition": "Catalysis of the reaction: sulfite + 2 ferricytochrome c + H2O = sulfate + 2 ferrocytochrome c.",
+  "namespace": "molecular_function",
+  "label": "sulfite dehydrogenase activity"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0120505",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120505",
+  "relationships": {
+    "is_a": [
+      "GO:0031151"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "60332",
+      "60332"
+    ],
+    "PMID": [
+      "14732680",
+      "15371351"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-lysyl79-[histone H3] + S-adenosyl-L-methionine = H+ + N6-methyl-L-lysyl79-[histone H3] + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "histone H3K79 monomethyltransferase activity"
+}

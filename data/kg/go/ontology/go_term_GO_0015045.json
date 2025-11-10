@@ -1,0 +1,42 @@
+{
+  "id": "GO:0015045",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015045",
+  "relationships": {
+    "is_a": [
+      "GO:0016731"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NADPH:rubredoxin reductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NAD(P)--rubredoxin oxidoreductase activity",
+      "NAD(P)H--rubredoxin oxidoreductase activity",
+      "dinucleotide phosphate reductase activity",
+      "rubredoxin--nicotinamide adenine activity",
+      "rubredoxin--nicotinamide adenine dinucleotide (phosphate) reductase activity",
+      "rubredoxin:NAD(P)+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.18.1.4",
+      "1.18.1.4",
+      "1.18.1.4",
+      "1.18.1.4",
+      "1.18.1.4",
+      "1.18.1.4",
+      "1.18.1.4",
+      "1.18.1.4"
+    ],
+    "MetaCyc": [
+      "RUBREDOXIN--NADP+-REDUCTASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: reduced rubredoxin + NAD(P)+ = oxidized rubredoxin + NAD(P)H + H+.",
+  "namespace": "molecular_function",
+  "label": "rubredoxin-NAD(P)H reductase activity"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0005980",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005980",
+  "relationships": {
+    "is_a": [
+      "GO:0005977",
+      "GO:0009251"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycogen breakdown",
+      "glycogen catabolism",
+      "glycogen degradation",
+      "glycogenolysis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-70221"
+    ],
+    "ISBN": [
+      "0198506732"
+    ],
+    "GOC": [
+      "sl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of glycogen, a polydisperse, highly branched glucan composed of chains of D-glucose residues.",
+  "namespace": "biological_process",
+  "label": "Glycogen breakdown (glycogenolysis)"
+}

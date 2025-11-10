@@ -1,0 +1,42 @@
+{
+  "id": "GO:0036139",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036139",
+  "relationships": {
+    "is_a": [
+      "GO:0016706",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein-L-histidine (3S)-3-hydroxylase"
+    ],
+    "broad": [
+      "protein histidyl hydroxylase"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.11.79"
+    ],
+    "MetaCyc": [
+      "RXN-22839"
+    ],
+    "RHEA": [
+      "54256",
+      "54256"
+    ],
+    "Reactome": [
+      "R-HSA-9630967",
+      "R-HSA-9630993"
+    ],
+    "PMID": [
+      "21251231"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-histidyl-[protein] + 2-oxoglutarate + O2 = (3S)-3-hydroxy-L-histidyl-[protein] + succinate + CO2.",
+  "namespace": "molecular_function",
+  "label": "RIOX1:Fe2+ hydroxylates a histidine residue of RPL8"
+}

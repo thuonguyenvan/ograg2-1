@@ -1,0 +1,81 @@
+{
+  "id": "GO:0004708",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004708",
+  "relationships": {
+    "is_a": [
+      "GO:0004712"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ERK activator kinase activity",
+      "MAPK activator activity",
+      "MAPKK activity"
+    ],
+    "broad": [
+      "MEK activity"
+    ],
+    "narrow": [
+      "MAP kinase kinase 4 activity",
+      "MAP kinase kinase 7 activity"
+    ],
+    "related": [
+      "ATP:protein phosphotransferase (MAPKKK-activated) activity",
+      "MAP kinase or ERK kinase activity",
+      "MAP2K",
+      "MAPKK",
+      "MAPKK1",
+      "MEK1",
+      "MEK2",
+      "MKK",
+      "MKK2",
+      "MKK4",
+      "MKK6",
+      "MKK7",
+      "STK27",
+      "mitogen-activated protein kinase kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.12.2",
+      "2.7.12.2",
+      "2.7.12.2",
+      "2.7.12.2",
+      "2.7.12.2",
+      "2.7.12.2",
+      "2.7.12.2",
+      "2.7.12.2",
+      "2.7.12.2",
+      "2.7.12.2",
+      "2.7.12.2",
+      "2.7.12.2",
+      "2.7.12.2",
+      "2.7.12.2",
+      "2.7.12.2",
+      "2.7.12.2",
+      "2.7.12.2"
+    ],
+    "MetaCyc": [
+      "2.7.12.2-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-1247960",
+      "R-HSA-3238999",
+      "R-HSA-448951",
+      "R-HSA-450333",
+      "R-HSA-5218804"
+    ],
+    "PMID": [
+      "12623839",
+      "38270553",
+      "20811974"
+    ],
+    "GOC": [
+      "vw"
+    ]
+  },
+  "definition": "Catalysis of the concomitant phosphorylation of threonine (T) and tyrosine (Y) residues in a T-X-Y motif in the activation loop of a MAP kinase (MAPK) substrate.",
+  "namespace": "molecular_function",
+  "label": "p38 MAPK activation by VEGFR"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0042289",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042289",
+  "relationships": {
+    "is_a": [
+      "GO:0042287"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "major histocompatibility complex class II binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "major histocompatibility complex class II ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Binding to a major histocompatibility complex class II molecule; a set of molecules displayed on cell surfaces that are responsible for lymphocyte recognition and antigen presentation.",
+  "namespace": "molecular_function",
+  "label": "MHC class II protein binding"
+}

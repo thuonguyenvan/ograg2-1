@@ -1,0 +1,35 @@
+{
+  "id": "GO:0005160",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005160",
+  "relationships": {
+    "is_a": [
+      "GO:0005126"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TGF-beta receptor binding",
+      "TGFbeta receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "transforming growth factor beta",
+      "transforming growth factor beta receptor ligand"
+    ],
+    "related": [
+      "activin",
+      "inhibin",
+      "transforming growth factor beta ligand binding to type I receptor",
+      "transforming growth factor beta ligand binding to type II receptor",
+      "transforming growth factor beta receptor anchoring activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binding to a transforming growth factor beta receptor.",
+  "namespace": "molecular_function",
+  "label": "transforming growth factor beta receptor binding"
+}

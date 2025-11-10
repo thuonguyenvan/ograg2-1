@@ -1,0 +1,34 @@
+{
+  "id": "GO:0047285",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047285",
+  "relationships": {
+    "is_a": [
+      "GO:0035252"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-D-xylose:flavonol-3-O-glycoside 2&apos;&apos;-O-beta-D-xylosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.35",
+      "2.4.2.35",
+      "2.4.2.35"
+    ],
+    "MetaCyc": [
+      "2.4.2.35-RXN",
+      "2.4.2.35-RXN"
+    ],
+    "RHEA": [
+      "19701"
+    ]
+  },
+  "definition": "Catalysis of the reaction: flavonol 3-O-glycoside + UDP-D-xylose = flavonol 3-O-D-xylosylglycoside + UDP.",
+  "namespace": "molecular_function",
+  "label": "flavonol-3-O-glycoside xylosyltransferase activity"
+}

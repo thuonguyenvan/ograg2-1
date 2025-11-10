@@ -1,0 +1,41 @@
+{
+  "id": "GO:1900980",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900980",
+  "relationships": {
+    "is_a": [
+      "GO:0009889"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of acridizine biosynthesis",
+      "regulation of acridizine biosynthetic process",
+      "regulation of azophenylene biosynthesis",
+      "regulation of azophenylene biosynthetic process",
+      "regulation of dibenzo-p-diazine biosynthesis",
+      "regulation of dibenzo-p-diazine biosynthetic process",
+      "regulation of dibenzopyrazine biosynthesis",
+      "regulation of dibenzopyrazine biosynthetic process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mengo_curators",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of phenazine biosynthetic process.",
+  "namespace": "biological_process",
+  "label": "regulation of phenazine biosynthetic process"
+}

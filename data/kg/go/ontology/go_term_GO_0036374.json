@@ -1,0 +1,56 @@
+{
+  "id": "GO:0036374",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036374",
+  "relationships": {
+    "is_a": [
+      "GO:0008242",
+      "GO:0070003"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "gamma-glutamyltranspeptidase activity",
+      "glutathionase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.4.19.13",
+      "3.4.19.13",
+      "3.4.19.13",
+      "3.4.19.13"
+    ],
+    "KEGG_REACTION": [
+      "R00494"
+    ],
+    "MetaCyc": [
+      "RXN-12618"
+    ],
+    "RHEA": [
+      "28807"
+    ],
+    "Reactome": [
+      "R-HSA-1222712",
+      "R-HSA-266046",
+      "R-HSA-5433072",
+      "R-HSA-5602984",
+      "R-HSA-8943279",
+      "R-HSA-9026757",
+      "R-HSA-9026907",
+      "R-HSA-9026912",
+      "R-HSA-9026916",
+      "R-HSA-9026927",
+      "R-HSA-9035966",
+      "R-HSA-9753634"
+    ],
+    "GOC": [
+      "imk"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glutathione + H2O = L-cysteinylglycine + L-glutamate.",
+  "namespace": "molecular_function",
+  "label": "GGT dimers hydrolyse APAP-SG"
+}

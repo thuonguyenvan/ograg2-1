@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050303",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050303",
+  "relationships": {
+    "is_a": [
+      "GO:0016639"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-lysine 6-dehydrogenase activity",
+      "L-lysine epsilon-dehydrogenase activity",
+      "L-lysine:NAD+ 6-oxidoreductase (deaminating)",
+      "LysDH activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.1.18",
+      "1.4.1.18",
+      "1.4.1.18",
+      "1.4.1.18",
+      "1.4.1.18",
+      "1.4.1.18"
+    ],
+    "MetaCyc": [
+      "LYSINE-6-DEHYDROGENASE-RXN",
+      "LYSINE-6-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "12408",
+      "12408"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + NAD+ + L-lysine = NH3 + NADH + allysine.",
+  "namespace": "molecular_function",
+  "label": "lysine 6-dehydrogenase activity"
+}

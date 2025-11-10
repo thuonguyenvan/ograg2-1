@@ -1,0 +1,38 @@
+{
+  "id": "GO:0120146",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120146",
+  "relationships": {
+    "is_a": [
+      "GO:0051861"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-O-sulfogalactosylceramide binding",
+      "SM4 binding",
+      "sulfated galactocerebroside binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "21525289",
+      "22619219",
+      "22977233",
+      "23574804",
+      "29497057",
+      "3549017"
+    ],
+    "Wikipedia": [
+      "Sulfatide"
+    ]
+  },
+  "definition": "Binding to sulfatide, also known as 3-O-sulfogalactosylceramide, SM4, or sulfated galactocerebroside. Sulfatide is a class of sulfoglycolipid, which are glycolipids that contain a sulfate group.",
+  "namespace": "molecular_function",
+  "label": "sulfatide binding"
+}

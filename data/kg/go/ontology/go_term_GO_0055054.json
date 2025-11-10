@@ -1,0 +1,26 @@
+{
+  "id": "GO:0055054",
+  "uri": "http://purl.obolibrary.org/obo/GO_0055054",
+  "relationships": {
+    "is_a": [
+      "GO:0005353",
+      "GO:0009679"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fructose:hydrogen symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ct"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: fructose + H+ = fructose + H+.",
+  "namespace": "molecular_function",
+  "label": "fructose:proton symporter activity"
+}

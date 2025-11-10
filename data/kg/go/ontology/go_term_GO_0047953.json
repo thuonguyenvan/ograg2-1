@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047953",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047953",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "DHA oxidoreductase activity",
+      "dihydroxyacetone (reduced nicotinamide adenine dinucleotide phosphate) reductase activity",
+      "dihydroxyacetone reductase (NADPH)",
+      "dihydroxyacetone reductase activity",
+      "glycerol:NADP+ 2-oxidoreductase (glycerone-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.156",
+      "1.1.1.156",
+      "1.1.1.156",
+      "1.1.1.156",
+      "1.1.1.156",
+      "1.1.1.156"
+    ],
+    "KEGG_REACTION": [
+      "R01039"
+    ],
+    "MetaCyc": [
+      "GLYCEROL-2-DEHYDROGENASE-NADP+-RXN"
+    ],
+    "RHEA": [
+      "12753",
+      "12753"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glycerol + NADP+ = dihydroxyacetone + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "glycerol 2-dehydrogenase (NADP+) activity"
+}

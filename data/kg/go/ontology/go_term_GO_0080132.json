@@ -1,0 +1,28 @@
+{
+  "id": "GO:0080132",
+  "uri": "http://purl.obolibrary.org/obo/GO_0080132",
+  "relationships": {
+    "is_a": [
+      "GO:0016716"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fatty acid alpha-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5693761"
+    ],
+    "PMID": [
+      "36902339"
+    ]
+  },
+  "definition": "Catalysis of the hydroxylation of the C-2 position in a fatty acid. The 2-hydroxylation may occur on free fatty acids or within the fatty acyl chain of a sphingolipid.",
+  "namespace": "molecular_function",
+  "label": "FA2H hydroxylates 1,2-saturated fatty acids"
+}

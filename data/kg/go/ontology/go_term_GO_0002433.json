@@ -1,0 +1,35 @@
+{
+  "id": "GO:0002433",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002433",
+  "relationships": {
+    "is_a": [
+      "GO:0002252",
+      "GO:0002768"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "immune response-regulating cell surface receptor signalling pathway involved in phagocytosis",
+      "phagocytosis triggered by activation of immune response cell surface activating receptor"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "bf",
+      "mah"
+    ],
+    "GO_REF": [
+      "0000022"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "An immune response-regulating cell surface receptor signaling pathway that contributes to the endocytic engulfment of external particulate material by phagocytes.",
+  "namespace": "biological_process",
+  "label": "immune response-regulating cell surface receptor signaling pathway involved in phagocytosis"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GO:0039654",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039654",
+  "relationships": {
+    "is_a": [
+      "GO:0039663"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fusion of virus membrane with host endosomal membrane"
+    ],
+    "broad": [],
+    "narrow": [
+      "viral entry into host cell via caveolae-mediated endocytosis followed by membrane fusion with the endosome membrane",
+      "viral entry into host cell via caveolin-mediated endocytosis followed by membrane fusion with the endosome membrane",
+      "viral entry into host cell via clathrin-mediated endocytosis followed by membrane fusion with the endosome membrane",
+      "viral penetration via endocytosis followed by caveolae-mediated membrane fusion with the endosome membrane",
+      "viral penetration via endocytosis followed by clathrin-mediated membrane fusion with the endosome membrane"
+    ],
+    "related": [
+      "viral entry into host cell via endocytosis followed by membrane fusion with host endosome",
+      "viral entry into host cell via endocytosis followed by membrane fusion with the endosome membrane"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "992",
+      "992",
+      "992"
+    ],
+    "GOC": [
+      "bf",
+      "bf",
+      "jl",
+      "bf",
+      "jl",
+      "bf",
+      "jl"
+    ],
+    "UniProtKB-KW": [
+      "KW-1170",
+      "KW-1170"
+    ]
+  },
+  "definition": "Fusion of a virus membrane with a host endosome membrane. Occurs after internalization of the virus through the endosomal pathway, and results in release of the virus contents into the cell.",
+  "namespace": "biological_process",
+  "label": "Fusion of virus membrane with host endosomal membrane"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "GO:0050294",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050294",
+  "relationships": {
+    "is_a": [
+      "GO:0008146"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "steroid sulphotransferase activity"
+    ],
+    "broad": [
+      "steroid alcohol sulfotransferase"
+    ],
+    "narrow": [],
+    "related": [
+      "3&apos;-phosphoadenylyl-sulfate:phenolic-steroid sulfotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.15",
+      "2.8.2.15",
+      "2.8.2.15"
+    ],
+    "MetaCyc": [
+      "STEROID-SULFOTRANSFERASE-RXN",
+      "STEROID-SULFOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "68460",
+      "68460"
+    ],
+    "Reactome": [
+      "R-HSA-176517",
+      "R-HSA-176521",
+      "R-HSA-176631"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;-phosphoadenosine 5&apos;-phosphosulfate + a phenolic steroid = adenosine 3&apos;,5&apos;-bisphosphate + steroid O-sulfate.",
+  "namespace": "molecular_function",
+  "label": "dehydroepiandrosterone (DHEA) + PAPS =&gt; DHEA sulfate + PAP"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0045967",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045967",
+  "relationships": {
+    "is_a": [
+      "GO:0040009",
+      "GO:0045926"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of growth rate",
+      "down-regulation of growth rate",
+      "downregulation of growth rate"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of growth rate"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that reduces the rate of growth of all or part of an organism.",
+  "namespace": "biological_process",
+  "label": "negative regulation of growth rate"
+}

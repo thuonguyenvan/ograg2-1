@@ -1,0 +1,34 @@
+{
+  "id": "GO:1990100",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990100",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "helicase-loading complex"
+    ],
+    "narrow": [
+      "DnaB6-DnaC3 complex",
+      "DnaB6-DnaC6 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "bhm"
+    ],
+    "PMID": [
+      "20129058",
+      "20129058",
+      "20129058"
+    ]
+  },
+  "definition": "A protein complex containing homohexameric DNA helicase DnaB, and the DNA helicase loader DnaC. The helicase loader DnaC delivers DnaB to the chromosomal origin (oriC).",
+  "namespace": "cellular_component",
+  "label": "DnaB-DnaC complex"
+}

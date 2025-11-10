@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047328",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047328",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acyl-phosphate:D-hexose phosphotransferase activity",
+      "hexose phosphate:hexose phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.61",
+      "2.7.1.61",
+      "2.7.1.61",
+      "2.7.1.61"
+    ],
+    "MetaCyc": [
+      "2.7.1.61-RXN",
+      "2.7.1.61-RXN"
+    ],
+    "RHEA": [
+      "13077"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-hexose + acyl phosphate = D-hexose phosphate + an acid.",
+  "namespace": "molecular_function",
+  "label": "acyl-phosphate-hexose phosphotransferase activity"
+}

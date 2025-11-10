@@ -1,0 +1,32 @@
+{
+  "id": "GO:0016099",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016099",
+  "relationships": {
+    "is_a": [
+      "GO:0016098",
+      "GO:0016114"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "monoterpenoid anabolism",
+      "monoterpenoid biosynthesis",
+      "monoterpenoid formation",
+      "monoterpenoid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-3041"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of monoterpenoid compounds, terpenoids having a C10 skeleton.",
+  "namespace": "biological_process",
+  "label": "monoterpenoid biosynthetic process"
+}

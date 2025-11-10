@@ -1,0 +1,30 @@
+{
+  "id": "GO:0016926",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016926",
+  "relationships": {
+    "is_a": [
+      "GO:0018205",
+      "GO:0070646"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "desumoylation",
+      "protein desumolation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "11265250"
+    ]
+  },
+  "definition": "The process in which a SUMO protein (small ubiquitin-related modifier) is cleaved from its target protein.",
+  "namespace": "biological_process",
+  "label": "protein desumoylation"
+}

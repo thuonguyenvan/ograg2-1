@@ -1,0 +1,53 @@
+{
+  "id": "GO:0047545",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047545",
+  "relationships": {
+    "is_a": [
+      "GO:0016614"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "2-hydroxyglutarate dehydrogenase activity"
+    ],
+    "narrow": [
+      "L-alpha-hydroxyglutarate:NAD+ 2-oxidoreductase",
+      "alpha-hydroxyglutarate dehydrogenase (NAD+ specific)"
+    ],
+    "related": [
+      "(S)-2-hydroxyglutarate:(acceptor) 2-oxidoreductase",
+      "(S)-2-hydroxyglutarate:acceptor 2-oxidoreductase",
+      "L-alpha-hydroxyglutarate dehydrogenase activity",
+      "alpha-hydroxyglutarate dehydrogenase activity",
+      "alpha-hydroxyglutarate oxidoreductase activity",
+      "hydroxyglutaric dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.99.2",
+      "1.1.99.2",
+      "1.1.99.2",
+      "1.1.99.2",
+      "1.1.99.2",
+      "1.1.99.2",
+      "1.1.99.2",
+      "1.1.99.2",
+      "1.1.99.2"
+    ],
+    "MetaCyc": [
+      "2-HYDROXYGLUTARATE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "21252",
+      "21252"
+    ],
+    "Reactome": [
+      "R-HSA-880050"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-2-hydroxyglutarate + acceptor = 2-oxoglutarate + reduced acceptor.",
+  "namespace": "molecular_function",
+  "label": "(S)-2-hydroxyglutarate + FAD =&gt; 2-oxoglutarate + FADH2"
+}

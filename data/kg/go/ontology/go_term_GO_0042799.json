@@ -1,0 +1,37 @@
+{
+  "id": "GO:0042799",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042799",
+  "relationships": {
+    "is_a": [
+      "GO:0016279",
+      "GO:0140939"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H4 lysine 20-specific methyltransferase activity",
+      "histone H4K20 methylation",
+      "histone lysine N-methyltransferase activity (H4-K20 specific)",
+      "histone methylase activity (H4-K20 specific)",
+      "histone methyltransferase activity (H4-K20 specific)",
+      "histone-H4K20 methyltransferase activity"
+    ],
+    "broad": [
+      "histone H4K20 methylase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2301205",
+      "R-HSA-5682965"
+    ],
+    "PMID": [
+      "12086618"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + histone H4 L-lysine (position 20) = S-adenosyl-L-homocysteine + histone H4 N6-methyl-L-lysine (position 20). This reaction is the addition of a methyl group to the lysine residue at position 20 of the histone H4 protein.",
+  "namespace": "molecular_function",
+  "label": "WHSC1 dimethylates histone H4 on lysine K21 at DSBs"
+}

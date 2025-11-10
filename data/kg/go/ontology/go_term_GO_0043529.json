@@ -1,0 +1,29 @@
+{
+  "id": "GO:0043529",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043529",
+  "relationships": {
+    "is_a": [
+      "GO:0140534"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "vw"
+    ],
+    "PMID": [
+      "16269340",
+      "18724936",
+      "32910895"
+    ]
+  },
+  "definition": "An endoplasmic reticulum protein-containing complex that is conserved in eukaryotics and that mediates the insertion of tail-anchored proteins into the ER membrane. In yeast, includes Get1p, Get2p and Get3p proteins.",
+  "namespace": "cellular_component",
+  "label": "GET complex"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0002806",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002806",
+  "relationships": {
+    "is_a": [
+      "GO:0002785",
+      "GO:0002805"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of antimicrobial peptide biosynthetic process",
+      "down-regulation of antimicrobial peptide biosynthetic process",
+      "downregulation of antimicrobial peptide biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of antimicrobial peptide biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate, or extent of antimicrobial peptide biosynthesis.",
+  "namespace": "biological_process",
+  "label": "negative regulation of antimicrobial peptide biosynthetic process"
+}

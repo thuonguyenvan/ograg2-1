@@ -1,0 +1,29 @@
+{
+  "id": "GO:0052764",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052764",
+  "relationships": {
+    "is_a": [
+      "GO:0016837"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.2.26"
+    ],
+    "GOC": [
+      "mengo_curators"
+    ],
+    "PMID": [
+      "20925655"
+    ]
+  },
+  "definition": "Catalysis of the cleavage of glycosidic bonds through a beta-elimination reaction on alginate, a linear polysaccharide consisting of guluronate (G) and mannuronate (M) as the monomer constituents. An oligoalginate is a linear polymer of two, three or four units of (1-&gt;4)-alpha-L-guluronic acid and beta-D-mannuronic acid, releasing monosaccharides with 4-deoxy-alpha-L-erythro-hex-4-enopyranuronosyl groups at their ends.",
+  "namespace": "molecular_function",
+  "label": "exo-oligoalginate lyase activity"
+}

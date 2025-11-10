@@ -1,0 +1,27 @@
+{
+  "id": "GO:1990330",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990330",
+  "relationships": {
+    "is_a": [
+      "GO:1990221",
+      "GO:1990229"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "20404999"
+    ]
+  },
+  "definition": "A heterotetrameric protein complex involved in the sulfur transfer during iron-sulfur cluster assembly and in the modification of tRNA wobble positions. In E. coli it consists of a central IscS dimer with the IscU protomers attached to one of the IscS units each via a disulfide (-SSH) group.",
+  "namespace": "cellular_component",
+  "label": "IscS-IscU complex"
+}

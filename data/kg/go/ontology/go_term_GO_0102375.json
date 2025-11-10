@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102375",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102375",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.115"
+    ],
+    "MetaCyc": [
+      "RXN-13506"
+    ],
+    "RHEA": [
+      "35499",
+      "35499"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 11-oxo-beta-amyrin + 3 NADPH + 3 O2 + 2 H+ = glycyrrhetinic acid + 3 NADP + 4 H2O.",
+  "namespace": "molecular_function",
+  "label": "11-oxo-beta-amyrin 30-oxidase activity"
+}

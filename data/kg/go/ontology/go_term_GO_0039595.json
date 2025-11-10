@@ -1,0 +1,42 @@
+{
+  "id": "GO:0039595",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039595",
+  "relationships": {
+    "is_a": [
+      "GO:0039656"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "induction by virus of catabolism of host mRNA",
+      "induction by virus of host mRNA catabolic process",
+      "induction of host mRNA decay",
+      "promotion of host mRNA degradation",
+      "viral induction of host mRNA decay",
+      "virus-mediated mRNA decay"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "901",
+      "901",
+      "901"
+    ],
+    "PMID": [
+      "12163576",
+      "16477041",
+      "17360652",
+      "22696660"
+    ],
+    "GOC": [
+      "bf",
+      "bf"
+    ]
+  },
+  "definition": "The process in which a virus increases the frequency, rate or extent of the breakdown of host messenger RNA (mRNA).",
+  "namespace": "biological_process",
+  "label": "Virus-mediated host mRNA decay"
+}

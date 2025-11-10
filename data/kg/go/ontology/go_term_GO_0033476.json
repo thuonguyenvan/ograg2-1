@@ -1,0 +1,35 @@
+{
+  "id": "GO:0033476",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033476",
+  "relationships": {
+    "is_a": [
+      "GO:0033474"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IAA ester conjugate biosynthetic process",
+      "indole acetic acid ester conjugate biosynthesis",
+      "indole acetic acid ester conjugate biosynthetic process",
+      "indoleacetic acid ester conjugate anabolism",
+      "indoleacetic acid ester conjugate biosynthesis",
+      "indoleacetic acid ester conjugate formation",
+      "indoleacetic acid ester conjugate synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-1741",
+      "PWY-1741"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of an indole-3-acetic acid amide conjugate, a form of indoleacetic acid covalently bound to an a sugar or polyol through an ester bond.",
+  "namespace": "biological_process",
+  "label": "indoleacetic acid ester conjugate biosynthetic process"
+}

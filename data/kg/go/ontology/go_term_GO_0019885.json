@@ -1,0 +1,36 @@
+{
+  "id": "GO:0019885",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019885",
+  "relationships": {
+    "is_a": [
+      "GO:0002474",
+      "GO:0002483"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "endogenous peptide antigen processing and presentation via MHC class I"
+    ],
+    "broad": [
+      "antigen presentation, endogenous peptide antigen",
+      "antigen processing, endogenous antigen via MHC class I",
+      "antigen processing, endogenous antigen via major histocompatibility complex class I"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "15771591"
+    ]
+  },
+  "definition": "The process in which an antigen-presenting cell expresses a peptide antigen of endogenous origin on its cell surface in association with an MHC class I protein complex. The peptide antigen is typically, but not always, processed from a whole protein. Class I here refers to classical class I molecules.",
+  "namespace": "biological_process",
+  "label": "antigen processing and presentation of endogenous peptide antigen via MHC class I"
+}

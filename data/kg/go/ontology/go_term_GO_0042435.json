@@ -1,0 +1,31 @@
+{
+  "id": "GO:0042435",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042435",
+  "relationships": {
+    "is_a": [
+      "GO:0009058",
+      "GO:0042430"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "indole derivative biosynthesis",
+      "indole derivative biosynthetic process",
+      "indole-containing compound anabolism",
+      "indole-containing compound biosynthesis",
+      "indole-containing compound formation",
+      "indole-containing compound synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of compounds that contain an indole (2,3-benzopyrrole) skeleton.",
+  "namespace": "biological_process",
+  "label": "indole-containing compound biosynthetic process"
+}

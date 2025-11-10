@@ -1,0 +1,28 @@
+{
+  "id": "GO:0015106",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015106",
+  "relationships": {
+    "is_a": [
+      "GO:0022857"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hydrogencarbonate transmembrane transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2752067"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of bicarbonate from one side of a membrane to the other. Bicarbonate is the hydrogencarbonate ion, HCO3-.",
+  "namespace": "molecular_function",
+  "label": "BESTs transport cytosolic HCO3- to extracellular region"
+}

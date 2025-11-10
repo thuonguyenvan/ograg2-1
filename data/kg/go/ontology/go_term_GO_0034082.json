@@ -1,0 +1,31 @@
+{
+  "id": "GO:0034082",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034082",
+  "relationships": {
+    "is_a": [
+      "GO:0034081"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "type II PKS",
+      "type II PKS complex",
+      "type II polyketide synthase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cb",
+      "mah"
+    ],
+    "PMID": [
+      "12636085"
+    ]
+  },
+  "definition": "A polyketide synthase complex that consists of several different polypeptide chains, each of which catalyzes a single reaction.",
+  "namespace": "cellular_component",
+  "label": "type II polyketide synthase complex"
+}

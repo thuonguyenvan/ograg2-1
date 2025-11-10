@@ -1,0 +1,34 @@
+{
+  "id": "GO:0032962",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032962",
+  "relationships": {
+    "is_a": [
+      "GO:0032960",
+      "GO:0060732"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of IP3 biosynthesis",
+      "positive regulation of IP3 biosynthetic process",
+      "positive regulation of inositol trisphosphate anabolism",
+      "positive regulation of inositol trisphosphate biosynthesis",
+      "positive regulation of inositol trisphosphate formation",
+      "positive regulation of inositol trisphosphate synthesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "positive regulation of myo-inositol trisphosphate biosynthesis",
+      "positive regulation of myo-inositol trisphosphate biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of inositol trisphosphate.",
+  "namespace": "biological_process",
+  "label": "positive regulation of inositol trisphosphate biosynthetic process"
+}

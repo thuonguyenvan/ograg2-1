@@ -1,0 +1,30 @@
+{
+  "id": "GO:0032501",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032501",
+  "relationships": {
+    "is_a": [
+      "GO:0008150"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "organismal physiological process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "single-multicellular organism process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "curators",
+      "dph",
+      "isa_complete",
+      "tb"
+    ]
+  },
+  "definition": "Any biological process, occurring at the level of a multicellular organism, pertinent to its function.",
+  "namespace": "biological_process",
+  "label": "multicellular organismal process"
+}

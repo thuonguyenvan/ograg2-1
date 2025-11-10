@@ -1,0 +1,39 @@
+{
+  "id": "GO:0017176",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017176",
+  "relationships": {
+    "is_a": [
+      "GO:0008375"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-N-acetyl-D-glucosamine:1-phosphatidyl-1D-myo-inositol 6-(N-acetyl-alpha-D-glucosaminyl)transferase activity",
+      "UDP-N-acetyl-D-glucosamine:phosphatidylinositol N-acetyl-D-glucosaminyltransferase activity",
+      "uridine diphosphoacetylglucosamine alpha-1,6-acetyl-D-glucosaminyltransferase activity",
+      "uridine diphosphoacetylglucosamine alpha1,6-acetyl-D-glucosaminyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.198",
+      "2.4.1.198",
+      "2.4.1.198",
+      "2.4.1.198",
+      "2.4.1.198",
+      "2.4.1.198"
+    ],
+    "MetaCyc": [
+      "2.4.1.198-RXN"
+    ],
+    "RHEA": [
+      "14789"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-N-acetyl-D-glucosamine + phosphatidylinositol = UDP + N-acetyl-D-glucosaminylphosphatidylinositol.",
+  "namespace": "molecular_function",
+  "label": "phosphatidylinositol N-acetylglucosaminyltransferase activity"
+}

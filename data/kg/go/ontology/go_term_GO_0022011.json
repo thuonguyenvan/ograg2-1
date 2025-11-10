@@ -1,0 +1,32 @@
+{
+  "id": "GO:0022011",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022011",
+  "relationships": {
+    "is_a": [
+      "GO:0032292",
+      "GO:0042552"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peripheral nervous system myelination"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ]
+  },
+  "definition": "The process in which neuronal axons and dendrites become coated with a segmented lipid-rich sheath (myelin) to enable faster and more energetically efficient conduction of electrical impulses. The sheath is formed by the cell membranes of Schwann cells in the peripheral nervous system. Adjacent myelin segments are separated by a non-myelinated stretch of axon called a node of Ranvier.",
+  "namespace": "biological_process",
+  "label": "myelination in peripheral nervous system"
+}

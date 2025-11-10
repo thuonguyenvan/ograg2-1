@@ -1,0 +1,32 @@
+{
+  "id": "GO:0010971",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010971",
+  "relationships": {
+    "is_a": [
+      "GO:0010389",
+      "GO:1901992",
+      "GO:1902751"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of mitotic entry"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of cyclin-dependent protein serine/threonine kinase activity involved in G2/M transition of mitotic cell cycle"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mtg_cell_cycle",
+      "tb",
+      "mah"
+    ]
+  },
+  "definition": "Any signaling pathway that activates or increases the activity of a cell cycle cyclin-dependent protein kinase to modulate the switch from G2 phase to M phase of the mitotic cell cycle.",
+  "namespace": "biological_process",
+  "label": "positive regulation of G2/M transition of mitotic cell cycle"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "GO:1903854",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903854",
+  "relationships": {
+    "is_a": [
+      "GO:0048585",
+      "GO:1903853"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of response to copper ion stress",
+      "down regulation of stress response to copper ion",
+      "down-regulation of response to copper ion stress",
+      "down-regulation of stress response to copper ion",
+      "downregulation of response to copper ion stress",
+      "downregulation of stress response to copper ion",
+      "negative regulation of response to copper ion stress"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of response to copper ion stress",
+      "inhibition of stress response to copper ion"
+    ],
+    "related": [
+      "down regulation of response to copper toxicity",
+      "down-regulation of response to copper toxicity",
+      "downregulation of response to copper toxicity",
+      "inhibition of response to copper toxicity",
+      "negative regulation of response to copper toxicity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "kmv",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23437011"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of stress response to copper ion.",
+  "namespace": "biological_process",
+  "label": "negative regulation of stress response to copper ion"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102240",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102240",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.272",
+      "2.4.1.272"
+    ],
+    "MetaCyc": [
+      "RXN-12319"
+    ],
+    "RHEA": [
+      "31487"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-D-galactose + soyasapogenol B 3-O-beta-glucuronate = H+ + UDP + soyasaponin III.",
+  "namespace": "molecular_function",
+  "label": "soyasapogenol B glucuronide galactosyltransferase activity"
+}

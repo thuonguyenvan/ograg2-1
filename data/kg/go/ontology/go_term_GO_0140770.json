@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140770",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140770",
+  "relationships": {
+    "is_a": [
+      "GO:0018030"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "59752",
+      "59752"
+    ],
+    "PMID": [
+      "1402651"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-lysyl-[protein] + tetradecanoyl-CoA = CoA + H+ + N(6)-tetradecanoyl-L-lysyl-[protein].",
+  "namespace": "molecular_function",
+  "label": "CoA-dependent peptidyl-lysine N6-myristoyltransferase activity"
+}

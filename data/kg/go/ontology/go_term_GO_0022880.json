@@ -1,0 +1,29 @@
+{
+  "id": "GO:0022880",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022880",
+  "relationships": {
+    "is_a": [
+      "GO:0008982",
+      "GO:0015572"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-acetylglucosamine PTS transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Catalysis of the PEP-dependent, phosphoryl transfer-driven transport of substances across a membrane. The transport happens by catalysis of the reaction: protein N-phosphohistidine + N-acetylglucosamine(out) = protein histidine + N-acetylglucosamine phosphate(in). This differs from primary and secondary active transport in that the solute is modified during transport.",
+  "namespace": "molecular_function",
+  "label": "protein-N(PI)-phosphohistidine-N-acetylglucosamine phosphotransferase system transporter activity"
+}

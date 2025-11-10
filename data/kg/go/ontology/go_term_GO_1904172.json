@@ -1,0 +1,51 @@
+{
+  "id": "GO:1904172",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904172",
+  "relationships": {
+    "is_a": [
+      "GO:0120034",
+      "GO:1904170"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of cell blebbing",
+      "up regulation of bleb assembly",
+      "up regulation of cell blebbing",
+      "up-regulation of bleb assembly",
+      "up-regulation of cell blebbing",
+      "upregulation of bleb assembly",
+      "upregulation of cell blebbing"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of bleb assembly",
+      "activation of cell blebbing"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "als",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25651887"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of bleb assembly.",
+  "namespace": "biological_process",
+  "label": "positive regulation of bleb assembly"
+}

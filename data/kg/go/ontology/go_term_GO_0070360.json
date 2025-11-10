@@ -1,0 +1,39 @@
+{
+  "id": "GO:0070360",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070360",
+  "relationships": {
+    "is_a": [
+      "GO:0070358",
+      "GO:0106259"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "actin polymerization-dependent cell-to-cell migration in host"
+    ],
+    "broad": [
+      "actin polymerization-dependent cell migration in host"
+    ],
+    "narrow": [],
+    "related": [
+      "actin polymerization-dependent cell motility involved in migration of symbiont in host",
+      "migration of symbiont within host by polymerization of host actin"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mah"
+    ],
+    "PMID": [
+      "15773977",
+      "15981456",
+      "26021574",
+      "27997855",
+      "35285700"
+    ]
+  },
+  "definition": "The directional movement of an organism, usually a bacterial cell, from one place to another within its host organism, by a process involving continuous polymerization of actin at one pole of the symbiont cell. Some bacteria use host actin for migration from cell to cell. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated actin polymerization-dependent cell-to-cell migration in host"
+}

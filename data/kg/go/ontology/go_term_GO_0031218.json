@@ -1,0 +1,37 @@
+{
+  "id": "GO:0031218",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031218",
+  "relationships": {
+    "is_a": [
+      "GO:0015925"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "arabinogalactanase activity",
+      "endo-1,4-beta-galactanase activity",
+      "galactanase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "arabinogalactan 4-beta-D-galactanohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.89",
+      "3.2.1.89",
+      "3.2.1.89"
+    ],
+    "MetaCyc": [
+      "3.2.1.89-RXN"
+    ],
+    "GOC": [
+      "mlg"
+    ]
+  },
+  "definition": "Catalysis of the endohydrolysis of (1-&gt;4)-beta-D-galactosidic linkages in arabinogalactans.",
+  "namespace": "molecular_function",
+  "label": "arabinogalactan endo-1,4-beta-galactosidase activity"
+}

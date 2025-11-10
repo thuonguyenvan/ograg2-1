@@ -1,0 +1,32 @@
+{
+  "id": "GO:0038105",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038105",
+  "relationships": {
+    "is_a": [
+      "GO:0035581"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "extracellular sequestering of TGFbeta",
+      "extracellular sequestering of transforming growth factor-beta"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "signaling",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "19855014"
+    ]
+  },
+  "definition": "Binding to a transforming growth factor-beta (TGFbeta) protein in the extracellular region, and inhibiting TGFbeta signaling by preventing TGFbeta from binding to its cell surface receptor.",
+  "namespace": "biological_process",
+  "label": "sequestering of TGFbeta from receptor via TGFbeta binding"
+}

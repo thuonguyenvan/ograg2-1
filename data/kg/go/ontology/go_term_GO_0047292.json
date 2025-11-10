@@ -1,0 +1,33 @@
+{
+  "id": "GO:0047292",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047292",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dimethylallyl-diphosphate:(6aS,11aS)-3,6a,9-trihydroxypterocarpan dimethylallyltransferase activity",
+      "dimethylallyl-diphosphate:(6aS,11aS)-3,6a,9-trihydroxypterocarpan dimethyltransferase activity",
+      "dimethylallylpyrophosphate:3,6a,9-trihydroxypterocarpan dimethylallyltransferase activity",
+      "dimethylallylpyrophosphate:trihydroxypterocarpan dimethylallyl transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.36",
+      "2.5.1.36",
+      "2.5.1.36",
+      "2.5.1.36",
+      "2.5.1.36",
+      "2.5.1.36"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (6AS,11AS)-3,6A,9-trihydroxypterocarpan + dimethylallyl-pyrophosphate = glyceollin + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "trihydroxypterocarpan dimethylallyltransferase activity"
+}

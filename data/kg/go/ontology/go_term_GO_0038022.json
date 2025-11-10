@@ -1,0 +1,39 @@
+{
+  "id": "GO:0038022",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038022",
+  "relationships": {
+    "is_a": [
+      "GO:0004930",
+      "GO:0004984"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G-protein coupled odorant receptor activity",
+      "G-protein coupled olfactory receptor activity",
+      "olfactory receptor activity, G-protein coupled"
+    ],
+    "broad": [],
+    "narrow": [
+      "odorant receptor activity, G-protein coupled"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "sart",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "21041441",
+      "21041441",
+      "21041441"
+    ]
+  },
+  "definition": "Combining with an odorant and transmitting the signal across the membrane by activating an associated G-protein; promotes the exchange of GDP for GTP on the alpha subunit of a heterotrimeric G-protein complex.",
+  "namespace": "molecular_function",
+  "label": "G protein-coupled olfactory receptor activity"
+}

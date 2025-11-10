@@ -1,0 +1,39 @@
+{
+  "id": "GO:0016689",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016689",
+  "relationships": {
+    "is_a": [
+      "GO:0004601"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Mn(II):hydrogen-peroxide oxidoreductase activity",
+      "Mn-dependent (NADH-oxidizing) peroxidase activity",
+      "Mn-dependent peroxidase activity",
+      "peroxidase-M2"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.11.1.13",
+      "1.11.1.13",
+      "1.11.1.13",
+      "1.11.1.13",
+      "1.11.1.13",
+      "1.11.1.13"
+    ],
+    "MetaCyc": [
+      "MANGANESE-PEROXIDASE-RXN"
+    ],
+    "RHEA": [
+      "22776"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 Mn2+ + 2 H+ + hydrogen peroxide = 2 Mn3+ + 2 H2O.",
+  "namespace": "molecular_function",
+  "label": "manganese peroxidase activity"
+}

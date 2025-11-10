@@ -1,0 +1,63 @@
+{
+  "id": "GO:1903950",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903950",
+  "relationships": {
+    "is_a": [
+      "GO:0045759",
+      "GO:0098904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of AV node cardiac muscle cell action potential",
+      "down regulation of AV node cell action potential",
+      "down regulation of atrioventricular node cardiac muscle cell action potential",
+      "down-regulation of AV node cardiac muscle cell action potential",
+      "down-regulation of AV node cell action potential",
+      "down-regulation of atrioventricular node cardiac muscle cell action potential",
+      "downregulation of AV node cardiac muscle cell action potential",
+      "downregulation of AV node cell action potential",
+      "downregulation of atrioventricular node cardiac muscle cell action potential",
+      "negative regulation of AV node cardiac muscle cell action potential",
+      "negative regulation of atrioventricular node cardiac muscle cell action potential"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of AV node cardiac muscle cell action potential",
+      "inhibition of AV node cell action potential",
+      "inhibition of atrioventricular node cardiac muscle cell action potential"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "mtg_cardiac_conduct_nov11",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25281747"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of AV node cell action potential.",
+  "namespace": "biological_process",
+  "label": "negative regulation of AV node cell action potential"
+}

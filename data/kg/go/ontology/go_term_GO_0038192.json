@@ -1,0 +1,33 @@
+{
+  "id": "GO:0038192",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038192",
+  "relationships": {
+    "is_a": [
+      "GO:0007186"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GIP signaling",
+      "gastric inhibitory polypeptide receptor signaling pathway",
+      "glucose-dependent insulinotropic polypeptide signaling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "nhn",
+      "nhn"
+    ],
+    "PMID": [
+      "15955806",
+      "19251046",
+      "19251046"
+    ]
+  },
+  "definition": "A G protein-coupled receptor signaling pathway initiated by gastric inhibitory peptide (GIP) binding to its receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "gastric inhibitory peptide signaling pathway"
+}

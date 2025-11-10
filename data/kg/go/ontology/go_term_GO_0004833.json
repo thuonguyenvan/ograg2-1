@@ -1,0 +1,58 @@
+{
+  "id": "GO:0004833",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004833",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "indoleamine-pyrrole 2,3-dioxygenase activity",
+      "tryptophan 2,3-dioxygenase activity"
+    ],
+    "broad": [
+      "indolamine 2,3-dioxygenase activity",
+      "tryptophan oxygenase activity",
+      "tryptophan peroxidase activity",
+      "tryptophan pyrrolase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "L-tryptophan pyrrolase activity",
+      "L-tryptophan:oxygen 2,3-oxidoreductase (decyclizing)",
+      "TDO",
+      "tryptamin 2,3-dioxygenase activity",
+      "tryptamine 2,3-dioxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.11",
+      "1.13.11.11",
+      "1.13.11.11",
+      "1.13.11.11",
+      "1.13.11.11",
+      "1.13.11.11",
+      "1.13.11.11",
+      "1.13.11.11",
+      "1.13.11.11",
+      "1.13.11.11",
+      "1.13.11.11"
+    ],
+    "MetaCyc": [
+      "RXN-8665"
+    ],
+    "RHEA": [
+      "24536"
+    ],
+    "Reactome": [
+      "R-HSA-198563",
+      "R-HSA-71188",
+      "R-HSA-888614"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-tryptophan + O2 = N-formyl-L-kynurenine.",
+  "namespace": "molecular_function",
+  "label": "IDO2 dioxygenates L-Trp to NFK"
+}

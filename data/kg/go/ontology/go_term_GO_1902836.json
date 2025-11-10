@@ -1,0 +1,43 @@
+{
+  "id": "GO:1902836",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902836",
+  "relationships": {
+    "is_a": [
+      "GO:0032892",
+      "GO:0034764",
+      "GO:0051957",
+      "GO:1902834"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of proline import into cell",
+      "up regulation of proline import into cell",
+      "up-regulation of proline import into cell",
+      "upregulation of proline import into cell"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of proline import into cell"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24344203"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of proline import into cell.",
+  "namespace": "biological_process",
+  "label": "positive regulation of proline import across plasma membrane"
+}

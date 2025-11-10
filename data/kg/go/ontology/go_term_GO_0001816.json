@@ -1,0 +1,47 @@
+{
+  "id": "GO:0001816",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001816",
+  "relationships": {
+    "is_a": [
+      "GO:0010467",
+      "GO:0032501"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "cytokine biosynthetic process",
+      "cytokine metabolic process",
+      "cytokine secretion",
+      "interferon production",
+      "interferon secretion",
+      "interleukin production",
+      "interleukin secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "add",
+      "mah",
+      "add",
+      "mah",
+      "add",
+      "mah",
+      "add",
+      "mah"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "http": [
+      "//wiki.geneontology.org/index.php/Why_isn%27t_interleukin_in_GO%3F",
+      "//wiki.geneontology.org/index.php/Why_isn%27t_interleukin_in_GO%3F"
+    ]
+  },
+  "definition": "The appearance of a cytokine due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels.",
+  "namespace": "biological_process",
+  "label": "cytokine production"
+}

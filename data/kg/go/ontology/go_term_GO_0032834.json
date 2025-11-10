@@ -1,0 +1,40 @@
+{
+  "id": "GO:0032834",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032834",
+  "relationships": {
+    "is_a": [
+      "GO:0002699",
+      "GO:0032831",
+      "GO:0032832",
+      "GO:0050778"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "activation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation during immune response",
+      "stimulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation during immune response"
+    ],
+    "related": [
+      "positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell development involved in immune response",
+      "positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation during immune response",
+      "positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T lymphocyte differentiation during immune response",
+      "positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T-cell differentiation during immune response",
+      "positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T-lymphocyte differentiation during immune response",
+      "up regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation during immune response",
+      "up-regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation during immune response",
+      "upregulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "add",
+      "tb"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of differentiation of CD4-positive, CD25-positive, alpha-beta regulatory T cells as part of an immune response.",
+  "namespace": "biological_process",
+  "label": "positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"
+}

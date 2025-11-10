@@ -1,0 +1,28 @@
+{
+  "id": "GO:0005121",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005121",
+  "relationships": {
+    "is_a": [
+      "GO:0005102"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Tl binding",
+      "Toll receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "Toll ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ceb"
+    ]
+  },
+  "definition": "Binding to a Toll protein, a transmembrane receptor.",
+  "namespace": "molecular_function",
+  "label": "Toll binding"
+}

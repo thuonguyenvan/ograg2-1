@@ -1,0 +1,26 @@
+{
+  "id": "GO:1990234",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990234",
+  "relationships": {
+    "is_a": [
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "16540464"
+    ]
+  },
+  "definition": "A protein complex capable of catalyzing the transfer of a group, e.g. a methyl group, glycosyl group, acyl group, phosphorus-containing, or other groups, from one compound (generally regarded as the donor) to another compound (generally regarded as the acceptor).",
+  "namespace": "cellular_component",
+  "label": "transferase complex"
+}

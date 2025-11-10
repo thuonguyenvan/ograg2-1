@@ -1,0 +1,26 @@
+{
+  "id": "GO:0017032",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017032",
+  "relationships": {
+    "is_a": [
+      "GO:0005416",
+      "GO:0015079"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "potassium:amino acid symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: amino acid(out) + K+(out) = amino acid(in) + K+(in).",
+  "namespace": "molecular_function",
+  "label": "amino acid:potassium symporter activity"
+}

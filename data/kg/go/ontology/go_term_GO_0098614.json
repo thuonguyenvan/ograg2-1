@@ -1,0 +1,27 @@
+{
+  "id": "GO:0098614",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098614",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2408536"
+    ],
+    "PMID": [
+      "14705",
+      "17988700"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + hydrogen selenide = S-adenosyl-L-homocysteine + methaneselenol.",
+  "namespace": "molecular_function",
+  "label": "H2Se is methylated to MeSeH by H2Se methyltransferase"
+}

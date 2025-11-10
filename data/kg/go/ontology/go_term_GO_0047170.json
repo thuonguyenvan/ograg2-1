@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047170",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047170",
+  "relationships": {
+    "is_a": [
+      "GO:0050737"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "sinapoyl-CoA:glucarate O-(hydroxycinnamoyl)transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.131",
+      "2.3.1.131",
+      "2.3.1.131"
+    ],
+    "KEGG_REACTION": [
+      "R02899"
+    ],
+    "MetaCyc": [
+      "2.3.1.131-RXN"
+    ],
+    "RHEA": [
+      "23308",
+      "23308"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-glucarate + sinapoyl-CoA = 2-O-sinapoyl-D-glucarate + CoA.",
+  "namespace": "molecular_function",
+  "label": "glucarate O-hydroxycinnamoyltransferase activity"
+}

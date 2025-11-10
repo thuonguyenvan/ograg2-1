@@ -1,0 +1,45 @@
+{
+  "id": "GO:0050275",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050275",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "SGTase activity",
+      "UDP-glucose:scopoletin O-beta-D-glucosyltransferase activity",
+      "UDPglucose:scopoletin O-beta-D-glucosyltransferase activity",
+      "UDPglucose:scopoletin glucosyltransferase activity",
+      "uridine diphosphoglucose-scopoletin glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.128",
+      "2.4.1.128",
+      "2.4.1.128",
+      "2.4.1.128",
+      "2.4.1.128",
+      "2.4.1.128",
+      "2.4.1.128"
+    ],
+    "KEGG_REACTION": [
+      "R03594"
+    ],
+    "MetaCyc": [
+      "SCOPOLETIN-GLUCOSYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "20453",
+      "20453"
+    ]
+  },
+  "definition": "Catalysis of the reaction: scopoletin + UDP-D-glucose = H+ + scopolin + UDP.",
+  "namespace": "molecular_function",
+  "label": "scopoletin glucosyltransferase activity"
+}

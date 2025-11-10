@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047625",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047625",
+  "relationships": {
+    "is_a": [
+      "GO:0016846"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SAM lyase activity",
+      "adenosyl methionine cyclotransferase activity",
+      "adenosylmethionine cyclotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine alkyltransferase (cyclizing) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.4.1.42",
+      "4.4.1.42"
+    ],
+    "MetaCyc": [
+      "ADENOSYLMETHIONINE-CYCLOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "21932",
+      "21932"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine = L-homoserine lactone + S-methyl-5&apos;-thioadenosine.",
+  "namespace": "molecular_function",
+  "label": "S-adenosyl-L-methionine lyase activity"
+}

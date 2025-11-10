@@ -1,0 +1,38 @@
+{
+  "id": "GO:0002230",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002230",
+  "relationships": {
+    "is_a": [
+      "GO:0050691"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of antiviral response by host",
+      "up regulation of antiviral response by host",
+      "up-regulation of antiviral response by host",
+      "upregulation of antiviral response by host"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of antiviral response by host",
+      "stimulation of antiviral response by host"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "Any host process that results in the promotion of antiviral immune response mechanisms, thereby limiting viral replication.",
+  "namespace": "biological_process",
+  "label": "positive regulation of defense response to virus by host"
+}

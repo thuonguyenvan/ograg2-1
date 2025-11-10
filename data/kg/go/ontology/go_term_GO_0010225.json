@@ -1,0 +1,32 @@
+{
+  "id": "GO:0010225",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010225",
+  "relationships": {
+    "is_a": [
+      "GO:0009411"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to UV-C light stimulus",
+      "response to UV-C radiation stimulus",
+      "response to UVC light stimulus",
+      "response to UVC radiation stimulus",
+      "response to germicidal ultraviolet light stimulus",
+      "response to germicidal ultraviolet radiation stimulus",
+      "response to shortwave ultraviolet light stimulus",
+      "response to shortwave ultraviolet radiation stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "tb"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a UV-C radiation stimulus. UV-C radiation (UV-C light) spans the wavelengths 100 to 280 nm.",
+  "namespace": "biological_process",
+  "label": "response to UV-C"
+}

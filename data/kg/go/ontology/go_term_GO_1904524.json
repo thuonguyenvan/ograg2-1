@@ -1,0 +1,40 @@
+{
+  "id": "GO:1904524",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904524",
+  "relationships": {
+    "is_a": [
+      "GO:1904523",
+      "GO:2000279"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of DNA amplification",
+      "down-regulation of DNA amplification",
+      "downregulation of DNA amplification"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of DNA amplification"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "26195783"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of DNA amplification.",
+  "namespace": "biological_process",
+  "label": "negative regulation of DNA amplification"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "GO:1905059",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905059",
+  "relationships": {
+    "is_a": [
+      "GO:0005388"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP phosphohydrolase (Ca2+-transporting) involved in regulation of postsynaptic cytosolic calcium ion concentration",
+      "ATPase-coupled calcium ion transmembrane transporter activity involved in regulation of postsynaptic cytosolic calcium levels",
+      "Ca(2+)-transporting ATPase activity involved in regulation of postsynaptic cytosolic calcium ion concentration",
+      "Ca2+-pumping ATPase activity involved in regulation of postsynaptic cytosolic calcium ion concentration",
+      "Ca2+-transporting ATPase activity involved in regulation of postsynaptic cytosolic calcium ion concentration",
+      "calcium transporting ATPase activity involved in regulation of postsynaptic cytosolic calcium ion concentration",
+      "calcium-transporting ATPase activity involved in regulation of postsynaptic cytosolic calcium ion concentration",
+      "calcium-transporting ATPase activity involved in regulation of postsynaptic cytosolic calcium levels"
+    ],
+    "broad": [],
+    "narrow": [
+      "calcium ABC transporter involved in regulation of postsynaptic cytosolic calcium ion concentration",
+      "calcium efflux ATPase involved in regulation of postsynaptic cytosolic calcium ion concentration",
+      "calcium-translocating P-type ATPase activity involved in regulation of postsynaptic cytosolic calcium ion concentration",
+      "plasma membrane Ca-ATPase involved in regulation of postsynaptic cytosolic calcium ion concentration",
+      "sarco(endo)plasmic reticulum Ca2+-ATPase involved in regulation of postsynaptic cytosolic calcium ion concentration",
+      "sarcoplasmic reticulum ATPase involved in regulation of postsynaptic cytosolic calcium ion concentration"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000061"
+    ],
+    "PMID": [
+      "20678993"
+    ]
+  },
+  "definition": "A calcium-transporting P-type ATPase activity involved in regulation of postsynaptic cytosolic calcium ion concentration.",
+  "namespace": "molecular_function",
+  "label": "P-type calcium transporter activity involved in regulation of postsynaptic cytosolic calcium ion concentration"
+}

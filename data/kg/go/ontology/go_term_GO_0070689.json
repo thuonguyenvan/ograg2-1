@@ -1,0 +1,42 @@
+{
+  "id": "GO:0070689",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070689",
+  "relationships": {
+    "is_a": [
+      "GO:0006567",
+      "GO:0019541"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-threonine breakdown to propionate",
+      "L-threonine catabolism to propionate",
+      "L-threonine degradation to propionate"
+    ],
+    "broad": [
+      "threonine catabolic process to propionate"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5437",
+      "PWY-5437"
+    ],
+    "GOC": [
+      "bf",
+      "mah",
+      "bf",
+      "bf",
+      "mah",
+      "bf",
+      "mah",
+      "bf",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-threonine (the L-enantiomer of 2-amino-3-hydroxybutyric acid) to form the compound propionate.",
+  "namespace": "biological_process",
+  "label": "L-threonine catabolic process to propionate"
+}

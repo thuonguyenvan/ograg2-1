@@ -1,0 +1,30 @@
+{
+  "id": "GO:0070900",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070900",
+  "relationships": {
+    "is_a": [
+      "GO:0006400",
+      "GO:0070525",
+      "GO:0090646",
+      "GO:1900864"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6787450"
+    ],
+    "GOC": [
+      "mah",
+      "mcc"
+    ]
+  },
+  "definition": "The covalent alteration of one or more nucleotides within a mitochondrial tRNA molecule to produce a mitochondrial tRNA molecule with a sequence that differs from that coded genetically.",
+  "namespace": "biological_process",
+  "label": "tRNA modification in the mitochondrion"
+}

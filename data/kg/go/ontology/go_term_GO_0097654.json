@@ -1,0 +1,27 @@
+{
+  "id": "GO:0097654",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097654",
+  "relationships": {
+    "is_a": [
+      "GO:0031201"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "12130530",
+      "19450911"
+    ]
+  },
+  "definition": "A SNARE complex that is capable of fusing intracellular vesicles to the plasma membrane of platelets for exocytosis of alpha-granules or dense granules. Contains isoforms of VAMP, SNAP and syntaxin proteins. Ternary SNARE complexes interact in a circular array to form ring complexes or channels around the membrane fusion. A common composition in human is VAMP-8, SNAP-23 and syntaxin-2 or -4.",
+  "namespace": "cellular_component",
+  "label": "platelet SNARE complex"
+}

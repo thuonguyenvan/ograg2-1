@@ -1,0 +1,33 @@
+{
+  "id": "GO:0046134",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046134",
+  "relationships": {
+    "is_a": [
+      "GO:0006213",
+      "GO:0009163",
+      "GO:0072528"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pyrimidine nucleoside anabolism",
+      "pyrimidine nucleoside biosynthesis",
+      "pyrimidine nucleoside formation",
+      "pyrimidine nucleoside synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-500753"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of one of a family of organic molecules consisting of a pyrimidine base covalently bonded to a sugar ribose (a ribonucleoside) or deoxyribose (a deoxyribonucleoside).",
+  "namespace": "biological_process",
+  "label": "Pyrimidine biosynthesis"
+}

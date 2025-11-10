@@ -1,0 +1,50 @@
+{
+  "id": "GO:1904591",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904591",
+  "relationships": {
+    "is_a": [
+      "GO:0051222",
+      "GO:1904589"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of protein uptake",
+      "up regulation of protein import",
+      "up regulation of protein uptake",
+      "up-regulation of protein import",
+      "up-regulation of protein uptake",
+      "upregulation of protein import",
+      "upregulation of protein uptake"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein import",
+      "activation of protein uptake"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "11406629"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of protein import.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein import"
+}

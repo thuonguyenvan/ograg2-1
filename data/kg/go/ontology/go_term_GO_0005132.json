@@ -1,0 +1,44 @@
+{
+  "id": "GO:0005132",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005132",
+  "relationships": {
+    "is_a": [
+      "GO:0005126",
+      "GO:0044877"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "interferon-alpha/beta receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "IFNAR1 binding",
+      "IFNAR2 binding",
+      "interferon-alpha/beta",
+      "interferon-alpha/beta receptor ligand"
+    ],
+    "related": [
+      "IFNAR binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "signaling"
+    ],
+    "PMID": [
+      "17502368",
+      "17502368"
+    ],
+    "PR": [
+      "000008922",
+      "000008923",
+      "000008922",
+      "000008923"
+    ]
+  },
+  "definition": "Binding to an interferon-type I receptor, a heterodimeric complex composed of an alpha subunit (IFNAR1) and a beta subunit (IFNAR2).",
+  "namespace": "molecular_function",
+  "label": "type I interferon receptor binding"
+}

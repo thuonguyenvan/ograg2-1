@@ -1,0 +1,30 @@
+{
+  "id": "GO:0061598",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061598",
+  "relationships": {
+    "is_a": [
+      "GO:0070566"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.75",
+      "2.7.7.75"
+    ],
+    "RHEA": [
+      "31331"
+    ],
+    "GOC": [
+      "dph"
+    ]
+  },
+  "definition": "Catalysis of the reaction ATP + molybdopterin = diphosphate + adenylyl-molybdopterin.",
+  "namespace": "molecular_function",
+  "label": "molybdopterin adenylyltransferase activity"
+}

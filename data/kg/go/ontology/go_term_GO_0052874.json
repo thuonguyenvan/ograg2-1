@@ -1,0 +1,35 @@
+{
+  "id": "GO:0052874",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052874",
+  "relationships": {
+    "is_a": [
+      "GO:0008752"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NADH dehydrogenase (FMN) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NADH-FMN reductase activity",
+      "NADH-dependent FMN reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.42"
+    ],
+    "KEGG_REACTION": [
+      "R05705"
+    ],
+    "RHEA": [
+      "21620",
+      "21620"
+    ]
+  },
+  "definition": "Catalysis of the reaction: FMNH2 + NAD+ = FMN + NADH + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "FMN reductase (NADH) activity"
+}

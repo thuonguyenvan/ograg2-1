@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047830",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047830",
+  "relationships": {
+    "is_a": [
+      "GO:0016646"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-N-(D-1-carboxyethyl)-L-arginine:NAD+ oxidoreductase (L-arginine-forming)",
+      "D-octopine synthase activity",
+      "N2-(D-1-carboxyethyl)-L-arginine:NAD+ oxidoreductase (L-arginine-forming)",
+      "ODH activity",
+      "octopine dehydrogenase activity",
+      "octopine:NAD oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.11",
+      "1.5.1.11",
+      "1.5.1.11",
+      "1.5.1.11",
+      "1.5.1.11",
+      "1.5.1.11",
+      "1.5.1.11",
+      "1.5.1.11"
+    ],
+    "MetaCyc": [
+      "D-OCTOPINE-DEHYDROGENASE-RXN",
+      "D-OCTOPINE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "16285"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N2-(D-1-carboxyethyl)-L-arginine + NAD+ + H2O = L-arginine + pyruvate + NADH.",
+  "namespace": "molecular_function",
+  "label": "D-octopine dehydrogenase activity"
+}

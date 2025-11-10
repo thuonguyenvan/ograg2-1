@@ -1,0 +1,40 @@
+{
+  "id": "GO:0036109",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036109",
+  "relationships": {
+    "is_a": [
+      "GO:0001676",
+      "GO:0033559",
+      "GO:0120254"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ALA metabolism",
+      "alpha-linolenic acid metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2046106"
+    ],
+    "Wikipedia": [
+      "Linoleic_acid"
+    ],
+    "PMID": [
+      "15538555"
+    ],
+    "CHEBI": [
+      "27432"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving alpha-linolenic acid, an unsaturated omega-6 fatty acid that has the molecular formula C18H32O2.",
+  "namespace": "biological_process",
+  "label": "alpha-linolenic acid (ALA) metabolism"
+}

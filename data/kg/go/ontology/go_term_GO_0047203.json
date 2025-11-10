@@ -1,0 +1,40 @@
+{
+  "id": "GO:0047203",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047203",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(E)-2-methylcrotonoyl-CoA:13-hydroxylupinine O-2-methylcrotonoyltransferase activity",
+      "13-hydroxylupanine acyltransferase activity",
+      "tigloyl-CoA:13-hydroxylupanine O-tigloyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.93",
+      "2.3.1.93",
+      "2.3.1.93",
+      "2.3.1.93"
+    ],
+    "KEGG_REACTION": [
+      "R04205"
+    ],
+    "MetaCyc": [
+      "RXN-8694"
+    ],
+    "RHEA": [
+      "12360",
+      "12360"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 13-hydroxylupanine + 2-methylcrotonoyl-CoA = 13-(2-methylcrotonoyloxy)lupanine + CoA.",
+  "namespace": "molecular_function",
+  "label": "13-hydroxylupinine O-tigloyltransferase activity"
+}

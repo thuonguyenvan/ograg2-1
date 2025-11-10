@@ -1,0 +1,36 @@
+{
+  "id": "GO:0042723",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042723",
+  "relationships": {
+    "is_a": [
+      "GO:0006790",
+      "GO:0072527"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "thiamin and derivative metabolic process",
+      "thiamin and derivative metabolism",
+      "thiamin-containing compound metabolic process",
+      "thiamine and derivative metabolic process",
+      "thiamine and derivative metabolism",
+      "thiamine-containing compound metabolism",
+      "vitamin B1 and derivative metabolic process",
+      "vitamin B1 and derivative metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-196819"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving thiamine (vitamin B1), and compounds derived from it.",
+  "namespace": "biological_process",
+  "label": "Vitamin B1 (thiamin) metabolism"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0018189",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018189",
+  "relationships": {
+    "is_a": [
+      "GO:0042181",
+      "GO:0072351"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PQQ biosynthesis",
+      "PQQ biosynthetic process",
+      "coenzyme pyrroloquinoline-quinone biosynthesis",
+      "coenzyme pyrroloquinoline-quinone biosynthetic process",
+      "pyrroloquinoline quinone anabolism",
+      "pyrroloquinoline quinone biosynthesis",
+      "pyrroloquinoline quinone formation",
+      "pyrroloquinoline quinone synthesis",
+      "pyrroloquinoline-quinone biosynthesis",
+      "pyrroloquinoline-quinone biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RESID": [
+      "AA0283",
+      "AA0283"
+    ],
+    "PMID": [
+      "7665488"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of the cofactor pyrroloquinoline quinone (PQQ); it is synthesized from a small peptide containing tyrosine and glutamic acid; these amino acids in the peptide are multiply cross-linked and the rest of the peptide is removed.",
+  "namespace": "biological_process",
+  "label": "pyrroloquinoline quinone biosynthetic process"
+}

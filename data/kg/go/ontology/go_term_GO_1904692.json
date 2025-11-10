@@ -1,0 +1,60 @@
+{
+  "id": "GO:1904692",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904692",
+  "relationships": {
+    "is_a": [
+      "GO:0050679",
+      "GO:0061469"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of pancreatic B cell proliferation",
+      "positive regulation of pancreatic beta cell proliferation",
+      "up regulation of pancreatic B cell proliferation",
+      "up regulation of pancreatic beta cell proliferation",
+      "up regulation of type B pancreatic cell proliferation",
+      "up-regulation of pancreatic B cell proliferation",
+      "up-regulation of pancreatic beta cell proliferation",
+      "up-regulation of type B pancreatic cell proliferation",
+      "upregulation of pancreatic B cell proliferation",
+      "upregulation of pancreatic beta cell proliferation",
+      "upregulation of type B pancreatic cell proliferation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of pancreatic B cell proliferation",
+      "activation of pancreatic beta cell proliferation",
+      "activation of type B pancreatic cell proliferation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24055447"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of type B pancreatic cell proliferation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of type B pancreatic cell proliferation"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0005139",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005139",
+  "relationships": {
+    "is_a": [
+      "GO:0005126",
+      "GO:0070851"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "IL-7",
+      "interleukin-7 receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binding to an interleukin-7 receptor.",
+  "namespace": "molecular_function",
+  "label": "interleukin-7 receptor binding"
+}

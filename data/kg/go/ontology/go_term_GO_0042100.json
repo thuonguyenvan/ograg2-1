@@ -1,0 +1,28 @@
+{
+  "id": "GO:0042100",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042100",
+  "relationships": {
+    "is_a": [
+      "GO:0042113",
+      "GO:0046651"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "B lymphocyte proliferation",
+      "B-cell proliferation",
+      "B-lymphocyte proliferation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The expansion of a B cell population by cell division. Follows B cell activation.",
+  "namespace": "biological_process",
+  "label": "B cell proliferation"
+}

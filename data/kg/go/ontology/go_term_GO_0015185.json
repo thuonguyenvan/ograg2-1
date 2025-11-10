@@ -1,0 +1,35 @@
+{
+  "id": "GO:0015185",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015185",
+  "relationships": {
+    "is_a": [
+      "GO:0008028",
+      "GO:0015171"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-aminobutanoate transporter activity",
+      "4-aminobutyrate transporter activity",
+      "GABA transporter activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "betaine/GABA:sodium symporter activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0198506732",
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of gamma-aminobutyric acid from one side of a membrane to the other. Gamma-aminobutyric acid is 4-aminobutyrate (GABA).",
+  "namespace": "molecular_function",
+  "label": "gamma-aminobutyric acid transmembrane transporter activity"
+}

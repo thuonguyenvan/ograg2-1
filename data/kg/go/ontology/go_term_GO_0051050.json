@@ -1,0 +1,31 @@
+{
+  "id": "GO:0051050",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051050",
+  "relationships": {
+    "is_a": [
+      "GO:0048518",
+      "GO:0051049"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of transport",
+      "up-regulation of transport",
+      "upregulation of transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of transport",
+      "stimulation of transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the directed movement of substances (such as macromolecules, small molecules, ions) into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "positive regulation of transport"
+}

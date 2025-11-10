@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047556",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047556",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3,4-dihydroxyphthalate 2-decarboxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3,4-dihydroxyphthalate carboxy-lyase (3,4-dihydroxybenzoate-forming)",
+      "3,4-dihydroxyphthalate carboxy-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.69",
+      "4.1.1.69",
+      "4.1.1.69",
+      "4.1.1.69"
+    ],
+    "KEGG_REACTION": [
+      "R01634"
+    ],
+    "MetaCyc": [
+      "34-DIHYDROXYPHTHALATE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "18601",
+      "18601"
+    ],
+    "UM-BBD_reactionID": [
+      "r1447"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3,4-dihydroxyphthalate + H+ = 3,4-dihydroxybenzoate + CO2.",
+  "namespace": "molecular_function",
+  "label": "3,4-dihydroxyphthalate decarboxylase activity"
+}

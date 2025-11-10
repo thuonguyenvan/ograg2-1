@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047818",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047818",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-fuconate hydratase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-fuconate hydro-lyase (2-dehydro-3-deoxy-D-fuconate-forming)",
+      "D-fuconate hydro-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.67",
+      "4.2.1.67",
+      "4.2.1.67",
+      "4.2.1.67"
+    ],
+    "KEGG_REACTION": [
+      "R03671"
+    ],
+    "MetaCyc": [
+      "D-FUCONATE-HYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "12949",
+      "12949"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-fuconate = 2-dehydro-3-deoxy-D-fuconate + H2O.",
+  "namespace": "molecular_function",
+  "label": "D-fuconate dehydratase activity"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0160248",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160248",
+  "relationships": {
+    "is_a": [
+      "GO:0008170",
+      "GO:0016423"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "83895"
+    ],
+    "PMID": [
+      "39786990",
+      "39786998"
+    ]
+  },
+  "definition": "Catalysis of the reaction: guanosine(27) in tRNA + 2 S-adenosyl-L-methionine = 2 H+ + N(2)-dimethylguanosine(27) in tRNA + 2 S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "tRNA (guanine(27)-N2)-dimethyltransferase activity"
+}

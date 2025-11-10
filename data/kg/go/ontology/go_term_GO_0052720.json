@@ -1,0 +1,28 @@
+{
+  "id": "GO:0052720",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052720",
+  "relationships": {
+    "is_a": [
+      "GO:0003906",
+      "GO:0016888"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "class II DNA-(apurinic or apyrimidinic site) lyase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "class II AP endonuclease activity"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "1698278"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of ester linkages immediately 5&apos; to an apurinic/apyrimidinic (AP; also called abasic) site within a deoxyribonucleic acid molecule by creating internal breaks, generating a single-strand break with 5&apos;-deoxyribose phosphate and 3&apos;-hydroxyl ends.",
+  "namespace": "molecular_function",
+  "label": "class II DNA-(apurinic or apyrimidinic site) endonuclease activity"
+}

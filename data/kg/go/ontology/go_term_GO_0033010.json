@@ -1,0 +1,33 @@
+{
+  "id": "GO:0033010",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033010",
+  "relationships": {
+    "is_a": [
+      "GO:0005911"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "axoglial septate junction",
+      "paranodal axoglial junction",
+      "paranodal septate junction"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11395001",
+      "14630217",
+      "18803321"
+    ],
+    "MP": [
+      "0010735",
+      "0010735"
+    ]
+  },
+  "definition": "A highly specialized cell-cell junction found in vertebrates, which forms between a neuron and a glial cell, and has structural similarity to Drosophila septate junctions. It flanks the node of Ranvier in myelinated nerve and electrically isolates the myelinated from unmyelinated nerve segments and physically separates the voltage-gated sodium channels at the node from the cluster of potassium channels underneath the myelin sheath.",
+  "namespace": "cellular_component",
+  "label": "paranodal junction"
+}

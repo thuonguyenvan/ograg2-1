@@ -1,0 +1,38 @@
+{
+  "id": "GO:0008373",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008373",
+  "relationships": {
+    "is_a": [
+      "GO:0016757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.3.-"
+    ],
+    "Reactome": [
+      "R-HSA-9683769",
+      "R-HSA-9694718",
+      "R-HSA-9697018",
+      "R-HSA-981814"
+    ],
+    "Wikipedia": [
+      "Sialyltransferase"
+    ],
+    "GOC": [
+      "cjm"
+    ],
+    "PMID": [
+      "26192491"
+    ]
+  },
+  "definition": "Catalysis of the transfer of sialic acid to an acceptor molecule, typically the terminal portions of the sialylated glycolipids (gangliosides) or to the N- or O-linked sugar chains of glycoproteins.",
+  "namespace": "molecular_function",
+  "label": "ST6GALNAC2 transfers sialic acid to Core 1 mucins"
+}

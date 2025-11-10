@@ -1,0 +1,35 @@
+{
+  "id": "GO:0001980",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001980",
+  "relationships": {
+    "is_a": [
+      "GO:0001976"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ischemic regulation of systemic arterial blood pressure"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CNS ischemic response",
+      "ischemic control of blood pressure"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ],
+    "ISBN": [
+      "0721643949",
+      "0721643949"
+    ]
+  },
+  "definition": "The process that modulates blood pressure by the detection of carbon dioxide levels in the brain stem. Increased levels activate the sympathetic vasoconstrictor mechanism increasing the force with which blood flows through the circulatory system.",
+  "namespace": "biological_process",
+  "label": "regulation of systemic arterial blood pressure by ischemic conditions"
+}

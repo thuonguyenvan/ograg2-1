@@ -1,0 +1,34 @@
+{
+  "id": "GO:0097449",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097449",
+  "relationships": {
+    "is_a": [
+      "GO:0097386"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "astrocyte process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "peripheral astrocyte process",
+      "vellous process"
+    ]
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1630537580",
+      "sao1630537580",
+      "sao1573004591",
+      "sao1189060993"
+    ],
+    "PMID": [
+      "12445894"
+    ]
+  },
+  "definition": "A prolongation or process extending from the soma of an astrocyte and wrapping around neurons.",
+  "namespace": "cellular_component",
+  "label": "astrocyte projection"
+}

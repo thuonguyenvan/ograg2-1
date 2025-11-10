@@ -1,0 +1,33 @@
+{
+  "id": "GO:0043039",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043039",
+  "relationships": {
+    "is_a": [
+      "GO:0006399",
+      "GO:0043038"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "aminoacyl-tRNA biosynthesis",
+      "aminoacyl-tRNA biosynthetic process",
+      "tRNA charging"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "amino acid activation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ma",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways by which the various amino acids become bonded to their corresponding tRNAs. The most common route for synthesis of aminoacyl tRNA is by the formation of an ester bond between the 3&apos;-hydroxyl group of the most 3&apos; adenosine of the tRNA and the alpha carboxylic acid group of an amino acid, usually catalyzed by the cognate aminoacyl-tRNA ligase. A given aminoacyl-tRNA ligase aminoacylates all species of an isoaccepting group of tRNA molecules.",
+  "namespace": "biological_process",
+  "label": "tRNA aminoacylation"
+}

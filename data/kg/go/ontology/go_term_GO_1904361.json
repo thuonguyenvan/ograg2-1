@@ -1,0 +1,43 @@
+{
+  "id": "GO:1904361",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904361",
+  "relationships": {
+    "is_a": [
+      "GO:0048522",
+      "GO:0051094",
+      "GO:1904359"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of spore germination",
+      "up-regulation of spore germination",
+      "upregulation of spore germination"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of spore germination",
+      "positive regulation of spore germination on or near host"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "14718564",
+      "8798577"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of spore germination.",
+  "namespace": "biological_process",
+  "label": "positive regulation of spore germination"
+}

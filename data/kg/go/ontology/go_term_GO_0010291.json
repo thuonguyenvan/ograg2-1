@@ -1,0 +1,37 @@
+{
+  "id": "GO:0010291",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010291",
+  "relationships": {
+    "is_a": [
+      "GO:0004497"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "beta-carotene hydroxylase activity"
+    ],
+    "related": [
+      "carotene beta-ring hydroxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.15.24"
+    ],
+    "MetaCyc": [
+      "RXN1F-152"
+    ],
+    "RHEA": [
+      "30331",
+      "30331"
+    ],
+    "PMID": [
+      "16492736"
+    ]
+  },
+  "definition": "Catalysis of the reaction: all-trans-beta-carotene + 4 H+ + 2 O2 + 4 reduced [2Fe-2S]-[ferredoxin] = all-trans-zeaxanthin + 2 H2O + 4 oxidized [2Fe-2S]-[ferredoxin].",
+  "namespace": "molecular_function",
+  "label": "beta-carotene 3-hydroxylase activity"
+}

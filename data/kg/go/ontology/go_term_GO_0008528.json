@@ -1,0 +1,31 @@
+{
+  "id": "GO:0008528",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008528",
+  "relationships": {
+    "is_a": [
+      "GO:0001653",
+      "GO:0004930"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G protein coupled peptide receptor activity",
+      "G-protein coupled peptide receptor activity",
+      "peptide receptor activity, G protein coupled",
+      "peptide receptor activity, G-protein coupled"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb",
+      "bf"
+    ]
+  },
+  "definition": "Combining with a peptide and transmitting the signal across the membrane by activating an associated G-protein; promotes the exchange of GDP for GTP on the alpha subunit of a heterotrimeric G-protein complex.",
+  "namespace": "molecular_function",
+  "label": "G protein-coupled peptide receptor activity"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047673",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047673",
+  "relationships": {
+    "is_a": [
+      "GO:0050735"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "malonyl-CoA:anthranilate N-malonyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.113",
+      "2.3.1.113",
+      "2.3.1.113"
+    ],
+    "KEGG_REACTION": [
+      "R00989"
+    ],
+    "MetaCyc": [
+      "ANTHRANILATE-N-MALONYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "17557",
+      "17557"
+    ]
+  },
+  "definition": "Catalysis of the reaction: anthranilate + malonyl-CoA = N-malonylanthranilate + CoA.",
+  "namespace": "molecular_function",
+  "label": "anthranilate N-malonyltransferase activity"
+}

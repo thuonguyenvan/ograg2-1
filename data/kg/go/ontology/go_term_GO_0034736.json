@@ -1,0 +1,53 @@
+{
+  "id": "GO:0034736",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034736",
+  "relationships": {
+    "is_a": [
+      "GO:0004772"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acylcoenzyme A:cholesterol O-acyltransferase activity"
+    ],
+    "broad": [
+      "ACAT activity",
+      "cholesterol acyltransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "acyl coenzyme A-cholesterol-O-acyltransferase activity",
+      "acyl-CoA:cholesterol O-acyltransferase activity",
+      "acyl-CoA:cholesterol acyltransferase activity",
+      "cholesterol ester synthetase activity",
+      "cholesteryl ester synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R01461"
+    ],
+    "MetaCyc": [
+      "STEROL-O-ACYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "17729",
+      "17729"
+    ],
+    "Reactome": [
+      "R-HSA-8876696"
+    ],
+    "EC": [
+      "2.3.1.26",
+      "2.3.1.26",
+      "2.3.1.26",
+      "2.3.1.26",
+      "2.3.1.26",
+      "2.3.1.26",
+      "2.3.1.26"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acyl-CoA + cholesterol = a cholesterol ester + CoA.",
+  "namespace": "molecular_function",
+  "label": "SOAT1,2 transfer acyl group to CHOL forming CHEST"
+}

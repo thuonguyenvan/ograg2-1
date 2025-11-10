@@ -1,0 +1,32 @@
+{
+  "id": "GO:0044513",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044513",
+  "relationships": {
+    "is_a": [
+      "GO:0044509"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "envenomation resulting in modulation of G protein-coupled receptor activity in other organism",
+      "envenomation resulting in modulation of G-protein coupled receptor activity in other organism"
+    ],
+    "broad": [],
+    "narrow": [
+      "envenomation resulting in modulation of G protein-coupled receptor activity in another organism"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "fj",
+      "jl"
+    ],
+    "PMID": [
+      "8405712"
+    ]
+  },
+  "definition": "A process in which an organism alters or subverts a G protein-coupled receptor signaling pathway in another organism via the action of a venom.",
+  "namespace": "biological_process",
+  "label": "venom-mediated perturbation of G protein-coupled receptor signaling pathway"
+}

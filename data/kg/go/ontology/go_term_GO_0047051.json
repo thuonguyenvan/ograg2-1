@@ -1,0 +1,33 @@
+{
+  "id": "GO:0047051",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047051",
+  "relationships": {
+    "is_a": [
+      "GO:0016898"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-lactate:ferricytochrome-c-553 2-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.2.5",
+      "1.1.2.5"
+    ],
+    "MetaCyc": [
+      "1.1.2.5-RXN"
+    ],
+    "RHEA": [
+      "16465",
+      "16465"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-lactate + 2 [Fe(III)cytochrome c553] = 2 [Fe(II)cytochrome c553] + 2 H+ + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "D-lactate dehydrogenase (cytochrome c-553) activity"
+}

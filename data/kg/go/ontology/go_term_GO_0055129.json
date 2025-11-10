@@ -1,0 +1,29 @@
+{
+  "id": "GO:0055129",
+  "uri": "http://purl.obolibrary.org/obo/GO_0055129",
+  "relationships": {
+    "is_a": [
+      "GO:0006560",
+      "GO:0009084"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "pyrrolidine-2-carboxylic acid biosynthetic process"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-4281"
+    ],
+    "GOC": [
+      "ecd"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of L-proline, an L-enantiomer of a chiral, cyclic, nonessential alpha-amino acid found in peptide linkage in proteins.",
+  "namespace": "biological_process",
+  "label": "L-proline biosynthetic process"
+}

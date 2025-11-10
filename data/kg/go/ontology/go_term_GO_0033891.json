@@ -1,0 +1,36 @@
+{
+  "id": "GO:0033891",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033891",
+  "relationships": {
+    "is_a": [
+      "GO:0016888"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5&apos;-CC-3&apos;-preferring endodeoxyribonuclease activity",
+      "Streptomyces glaucescens exocytoplasmic dodeoxyribonuclease activity",
+      "Streptomyces glaucescens exocytoplasmic endodeoxyribonuclease activity",
+      "Streptomyces glaucescens exocytoplasmic endonuclease activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.21.6",
+      "3.1.21.6",
+      "3.1.21.6",
+      "3.1.21.6",
+      "3.1.21.6",
+      "3.1.21.6"
+    ],
+    "MetaCyc": [
+      "3.1.21.6-RXN"
+    ]
+  },
+  "definition": "Catalysis of the endonucleolytic cleavage to give 5&apos;-phosphooligonucleotide end-products, with a preference for cleavage within the sequence CC.",
+  "namespace": "molecular_function",
+  "label": "CC-preferring endodeoxyribonuclease activity"
+}

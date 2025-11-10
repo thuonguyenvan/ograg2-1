@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047517",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047517",
+  "relationships": {
+    "is_a": [
+      "GO:0008194",
+      "GO:0016763"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,4-beta-xylan synthase activity",
+      "UDP-D-xylose:1,4-beta-D-xylan 4-beta-D-xylosyltransferase activity",
+      "uridine diphosphoxylose-1,4-beta-xylan xylosyltransferase activity",
+      "xylan synthase activity",
+      "xylan synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.24",
+      "2.4.2.24",
+      "2.4.2.24",
+      "2.4.2.24",
+      "2.4.2.24",
+      "2.4.2.24",
+      "2.4.2.24"
+    ],
+    "MetaCyc": [
+      "RXN-9104"
+    ],
+    "RHEA": [
+      "15289"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-D-xylose + [(1-&gt;4)-beta-D-xylan](n) = UDP + [(1-&gt;4)-beta-D-xylan](n+1).",
+  "namespace": "molecular_function",
+  "label": "1,4-beta-D-xylan synthase activity"
+}

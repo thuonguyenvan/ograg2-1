@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102970",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102970",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.323",
+      "2.4.1.323"
+    ],
+    "MetaCyc": [
+      "RXN-9372"
+    ],
+    "RHEA": [
+      "39895"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-alpha-D-glucose + 7-deoxyloganetate = H+ + 7-deoxyloganate + UDP.",
+  "namespace": "molecular_function",
+  "label": "7-deoxyloganetic acid glucosyltransferase activity"
+}

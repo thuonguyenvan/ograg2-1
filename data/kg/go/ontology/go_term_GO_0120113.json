@@ -1,0 +1,25 @@
+{
+  "id": "GO:0120113",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120113",
+  "relationships": {
+    "is_a": [
+      "GO:0006623"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein localization by the Nbr1-mediated vacuolar targeting pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "26365378"
+    ]
+  },
+  "definition": "A pathway targeting soluble cytosolic proteins to the vacuole lumen. It uses a selective autophagy receptor protein Nbr1, which is an ortholog of mammalian NBR1, and is remotely related to S. cerevisiae Cvt pathway receptor protein Atg19. Similar to the Cvt pathway, the cargos transported by this pathway are hydrolases, which presumably contribute to the hydrolytic activities in the vacuole lumen. Different from the Cvt pathway, this pathway does not require the macroautophagy machinery, but instead relies on the ESCRT machinery for cargo sequestration. This pathway is observed in the fission yeast S. pombe.",
+  "namespace": "biological_process",
+  "label": "cytoplasm to vacuole targeting by the NVT pathway"
+}

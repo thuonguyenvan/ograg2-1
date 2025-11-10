@@ -1,0 +1,47 @@
+{
+  "id": "GO:0047807",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047807",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytokinin 7-b-glucosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose-zeatin 7-glucosyltransferase activity",
+      "UDP-glucose:zeatin 7-glucosyltransferase activity",
+      "UDPglucose:zeatin 7-glucosyltransferase activity",
+      "cytokinin 7-glucosyltransferase activity",
+      "uridine diphosphoglucose-zeatin 7-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.118",
+      "2.4.1.118",
+      "2.4.1.118",
+      "2.4.1.118",
+      "2.4.1.118",
+      "2.4.1.118",
+      "2.4.1.118"
+    ],
+    "KEGG_REACTION": [
+      "R04071"
+    ],
+    "MetaCyc": [
+      "CYTOKININ-7-BETA-GLUCOSYLTRANSFERASE-RXN",
+      "CYTOKININ-7-BETA-GLUCOSYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "23272"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 6-alkylaminopurine + UDP-D-glucose = 6-alkylamino-7-beta-D-glucosylpurine + H+ + UDP. This reaction is an N-glucosylation event.",
+  "namespace": "molecular_function",
+  "label": "cytokinin 7-beta-glucosyltransferase activity"
+}

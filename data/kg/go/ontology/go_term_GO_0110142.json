@@ -1,0 +1,39 @@
+{
+  "id": "GO:0110142",
+  "uri": "http://purl.obolibrary.org/obo/GO_0110142",
+  "relationships": {
+    "is_a": [
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CoQ Biosynthetic Complex",
+      "CoQ metabolon",
+      "CoQ-synthome",
+      "Ubi complex",
+      "complex Q"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "imk"
+    ],
+    "PMID": [
+      "27060254",
+      "28927698",
+      "30686758",
+      "28927698",
+      "28927698",
+      "28927698",
+      "30686758",
+      "28927698"
+    ]
+  },
+  "definition": "A protein complex composed of enzymes and accessory factors of the ubiquinone (CoQ) biosynthesis pathway. In E. coli, the complex is composed of seven proteins: UbiE, F, G, H, I, J and K. In eukaryotes, the complex is located on the matrix face of the inner mitochondrial membrane and includes COQ3, COQ4, COQ5, COQ6, COQ7, COQ9.",
+  "namespace": "cellular_component",
+  "label": "ubiquinone biosynthesis complex"
+}

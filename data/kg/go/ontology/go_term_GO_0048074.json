@@ -1,0 +1,30 @@
+{
+  "id": "GO:0048074",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048074",
+  "relationships": {
+    "is_a": [
+      "GO:0048073",
+      "GO:0048086"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of eye pigmentation",
+      "down-regulation of eye pigmentation",
+      "downregulation of eye pigmentation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of eye pigmentation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of establishment of a pattern of pigment in the eye of an organism.",
+  "namespace": "biological_process",
+  "label": "negative regulation of eye pigmentation"
+}

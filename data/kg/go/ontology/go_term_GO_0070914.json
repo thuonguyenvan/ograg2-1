@@ -1,0 +1,43 @@
+{
+  "id": "GO:0070914",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070914",
+  "relationships": {
+    "is_a": [
+      "GO:0006281",
+      "GO:0034644"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UV-damaged DNA endonuclease-dependent excision repair",
+      "UVDE-dependent excision repair",
+      "UVER"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "AER",
+      "alternative excision repair"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vw",
+      "vw",
+      "vw",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "9619100",
+      "9619100",
+      "9619100",
+      "10704216",
+      "10704216"
+    ]
+  },
+  "definition": "A DNA repair process that is initiated by an endonuclease that introduces a single-strand incision immediately 5&apos; of a UV-induced damage site. UV-damage excision repair acts on both cyclobutane pyrimidine dimers (CPDs) and pyrimidine-pyrimidone 6-4 photoproducts (6-4PPs).",
+  "namespace": "biological_process",
+  "label": "UV-damage excision repair"
+}

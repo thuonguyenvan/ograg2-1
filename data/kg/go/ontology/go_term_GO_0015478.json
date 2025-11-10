@@ -1,0 +1,26 @@
+{
+  "id": "GO:0015478",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015478",
+  "relationships": {
+    "is_a": [
+      "GO:0015157",
+      "GO:0015288"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "raffinose porin"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ]
+  },
+  "definition": "Enables the transfer of oligosaccharide, sized less than 1000 Da, from one side of a membrane to the other. The transmembrane portions of porins consist exclusively of beta-strands which form a beta-barrel. They are found in the outer membranes of Gram-negative bacteria, mitochondria, plastids and possibly acid-fast Gram-positive bacteria.",
+  "namespace": "molecular_function",
+  "label": "oligosaccharide transporting porin activity"
+}

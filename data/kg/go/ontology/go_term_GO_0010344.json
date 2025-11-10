@@ -1,0 +1,31 @@
+{
+  "id": "GO:0010344",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010344",
+  "relationships": {
+    "is_a": [
+      "GO:0044085"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "seed oil body organization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "oleosome biogenesis",
+      "spherosome biogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "16877495"
+    ]
+  },
+  "definition": "A cellular process that results in the biosynthesis of constituent macromolecules, assembly, and arrangement of constituent parts of a seed oilbody. Seed oilbodies are simple organelles comprising a matrix of triglyceride surrounded by a phospholipid monolayer embedded and covered with unique proteins called oleosins. Seed oilbodies supply the energy requirements for the growth of the seedling after germination.",
+  "namespace": "biological_process",
+  "label": "seed oilbody biogenesis"
+}

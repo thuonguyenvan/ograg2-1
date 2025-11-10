@@ -1,0 +1,34 @@
+{
+  "id": "GO:0000974",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000974",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "MOS4-Associated Complex",
+      "Prp19/CDC5 complex",
+      "nineteen complex"
+    ],
+    "related": [
+      "NTC"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "16540691",
+      "19239890",
+      "28947490"
+    ]
+  },
+  "definition": "A protein complex consisting of Prp19 and associated proteins that is involved in the transition from the precatalytic spliceosome to the activated form that catalyzes step 1 of splicing, and which remains associated with the spliceosome through the second catalytic step. It is widely conserved, found in both yeast and mammals, though the exact composition varies. In S. cerevisiae, it contains Prp19p, Ntc20p, Snt309p, Isy1p, Syf2p, Cwc2p, Prp46p, Clf1p, Cef1p, and Syf1p.",
+  "namespace": "cellular_component",
+  "label": "Prp19 complex"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0046828",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046828",
+  "relationships": {
+    "is_a": [
+      "GO:0032239",
+      "GO:0046822"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of RNA import into cell nucleus",
+      "regulation of RNA transport from cytoplasm to nucleus",
+      "regulation of RNA-nucleus import"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of movement of RNA from the cytoplasm to the nucleus.",
+  "namespace": "biological_process",
+  "label": "regulation of RNA import into nucleus"
+}

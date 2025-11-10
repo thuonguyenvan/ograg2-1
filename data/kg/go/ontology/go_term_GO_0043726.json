@@ -1,0 +1,35 @@
+{
+  "id": "GO:0043726",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043726",
+  "relationships": {
+    "is_a": [
+      "GO:0016791"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pyrimidine phosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.3.104"
+    ],
+    "MetaCyc": [
+      "RIBOPHOSPHAT-RXN"
+    ],
+    "RHEA": [
+      "25197"
+    ],
+    "GOC": [
+      "jl",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-amino-6-(5-phospho-D-ribitylamino)uracil + H2O = 5-amino-6-(D-ribitylamino)uracil + phosphate.",
+  "namespace": "molecular_function",
+  "label": "5-amino-6-(5-phosphoribitylamino)uracil phosphatase activity"
+}

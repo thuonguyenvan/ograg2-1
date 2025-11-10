@@ -1,0 +1,32 @@
+{
+  "id": "GO:0018652",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018652",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "toluene-sulphonate methyl-monooxygenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TSMOS-RXN"
+    ],
+    "RHEA": [
+      "51024",
+      "51024"
+    ],
+    "UM-BBD_reactionID": [
+      "r0290"
+    ]
+  },
+  "definition": "Catalysis of the reaction: toluene-4-sulfonate + NADH + O2 = NAD+ + OH- + 4-sulfobenzyl alcohol.",
+  "namespace": "molecular_function",
+  "label": "toluene-sulfonate methyl-monooxygenase activity"
+}

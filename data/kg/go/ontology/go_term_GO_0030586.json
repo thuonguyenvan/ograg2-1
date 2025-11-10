@@ -1,0 +1,45 @@
+{
+  "id": "GO:0030586",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030586",
+  "relationships": {
+    "is_a": [
+      "GO:0016723"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "[methionine synthase]-cobalamin methyltransferase (cob(II)alamin reducing) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-methyltetrahydrofolate-homocysteine methyltransferase reductase",
+      "methionine synthase cob(II)alamin reductase (methylating) activity",
+      "methionine synthase reductase activity",
+      "methionine synthase-cobalamin methyltransferase (cob(II)alamin reducing)",
+      "methionine synthase-methylcob(I)alamin,S-adenosylhomocysteine:NADP+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.16.1.8",
+      "1.16.1.8",
+      "1.16.1.8",
+      "1.16.1.8",
+      "1.16.1.8"
+    ],
+    "MetaCyc": [
+      "2.1.1.135-RXN"
+    ],
+    "RHEA": [
+      "23908",
+      "23908"
+    ],
+    "Reactome": [
+      "R-HSA-3149518"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [methionine synthase]-cob(II)alamin + NADPH + H+ + S-adenosyl methionine = [methionine synthase]-methylcob(I)alamin + S-adenosylhomocysteine + NADP+.",
+  "namespace": "molecular_function",
+  "label": "MTRR reduces cob(II)alamin to meCbl"
+}

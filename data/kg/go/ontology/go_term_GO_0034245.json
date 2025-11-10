@@ -1,0 +1,32 @@
+{
+  "id": "GO:0034245",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034245",
+  "relationships": {
+    "is_a": [
+      "GO:0000428",
+      "GO:0098798"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrial RNA polymerase holoenzyme complex"
+    ],
+    "broad": [
+      "mitochondrial RNA polymerase complex"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mah"
+    ],
+    "PMID": [
+      "7929382"
+    ]
+  },
+  "definition": "A DNA-directed RNA polymerase complex located in the mitochondrion. Mitochondrial RNA polymerase is composed of two subunits, a catalytic core, which resembles the enzymes from bacteriophage T7 and T3, and a specificity factor required for promoter recognition, which is similar to members of the eubacterial sigma factor family. In S. cerevisiae, these are encoded by the nuclear genes RPO41 and MTF1 and the specificity factor, required for promoter recognition and initiation, is not present in the elongating form.",
+  "namespace": "cellular_component",
+  "label": "mitochondrial DNA-directed RNA polymerase complex"
+}

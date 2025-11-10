@@ -1,0 +1,37 @@
+{
+  "id": "GO:0033702",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033702",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(+)-trans-carveol:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.275",
+      "1.1.1.275",
+      "1.1.1.275"
+    ],
+    "KEGG_REACTION": [
+      "R06117"
+    ],
+    "MetaCyc": [
+      "RXN-9397"
+    ],
+    "RHEA": [
+      "14825",
+      "14825"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (1R,5S)-carveol + NAD+ = (S)-carvone + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "(+)-trans-carveol dehydrogenase activity"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0048269",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048269",
+  "relationships": {
+    "is_a": [
+      "GO:0140535",
+      "GO:1990234"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MAT complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid"
+    ],
+    "PMID": [
+      "10644686",
+      "25075345"
+    ]
+  },
+  "definition": "A multimeric enzyme complex composed of variable numbers of catalytic alpha subunits, and noncatalytic beta subunits. The beta subunits are believed to have a regulatory function. The enzyme complex catalyzes the synthesis of S-adenosylmethionine (AdoMet), which is the major methyl group donor, participating in the methylation of proteins, DNA, RNA, phospholipids, and other small molecules.",
+  "namespace": "cellular_component",
+  "label": "methionine adenosyltransferase complex"
+}

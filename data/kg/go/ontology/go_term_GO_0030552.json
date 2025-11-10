@@ -1,0 +1,36 @@
+{
+  "id": "GO:0030552",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030552",
+  "relationships": {
+    "is_a": [
+      "GO:0030551",
+      "GO:0032559",
+      "GO:0043168"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3&apos;,5&apos; cAMP binding",
+      "3&apos;,5&apos;-cAMP binding",
+      "adenosine 3&apos;,5&apos;-cyclophosphate binding",
+      "cyclic AMP binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-111925",
+      "R-HSA-381608",
+      "R-HSA-381668",
+      "R-HSA-381707"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binding to cAMP, the nucleotide cyclic AMP (adenosine 3&apos;,5&apos;-cyclophosphate).",
+  "namespace": "molecular_function",
+  "label": "PKA:AKAP79:IQGAP1 complex dissociates to active PKA subunits in response to cAMP"
+}

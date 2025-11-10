@@ -1,0 +1,33 @@
+{
+  "id": "GO:0033626",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033626",
+  "relationships": {
+    "is_a": [
+      "GO:0007166",
+      "GO:0033625"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell surface receptor linked signal transduction leading to integrin activation",
+      "cell surface receptor linked signal transduction leading to integrin complex activation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "bf",
+      "signaling"
+    ],
+    "PMID": [
+      "12213832",
+      "14754902"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of integrin activation by cell surface receptor linked signal transduction. This can occur by increased affinity of an integrin for its extracellular ligands.",
+  "namespace": "biological_process",
+  "label": "positive regulation of integrin activation by cell surface receptor linked signal transduction"
+}

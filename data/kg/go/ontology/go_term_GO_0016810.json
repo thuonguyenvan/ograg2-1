@@ -1,0 +1,29 @@
+{
+  "id": "GO:0016810",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016810",
+  "relationships": {
+    "is_a": [
+      "GO:0016787"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in other compounds"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.-.-",
+      "3.5.-.-"
+    ],
+    "Reactome": [
+      "R-HSA-6803753"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of any carbon-nitrogen bond, C-N, with the exception of peptide bonds.",
+  "namespace": "molecular_function",
+  "label": "NAAA hydrolyses NAEs to FAs and ethanolamine"
+}

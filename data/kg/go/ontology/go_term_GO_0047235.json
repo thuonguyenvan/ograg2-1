@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047235",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047235",
+  "relationships": {
+    "is_a": [
+      "GO:0035250"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sucrose 6(F)-alpha-galactosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-galactose:sucrose 6F-alpha-D-galactosyltransferase activity",
+      "UDPgalactose:sucrose 6F-alpha-D-galactosyltransferase activity",
+      "UDPgalactose:sucrose 6fru-alpha-galactosyltransferase activity",
+      "sucrose 6F-alpha-galactosyltransferase activity",
+      "uridine diphosphogalactose-sucrose 6F-alpha-galactosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.167",
+      "2.4.1.167",
+      "2.4.1.167",
+      "2.4.1.167",
+      "2.4.1.167",
+      "2.4.1.167",
+      "2.4.1.167"
+    ],
+    "MetaCyc": [
+      "2.4.1.167-RXN",
+      "2.4.1.167-RXN"
+    ],
+    "RHEA": [
+      "10088"
+    ]
+  },
+  "definition": "Catalysis of the reaction: sucrose + UDP-galactose = 6F-alpha-D-galactosylsucrose + UDP.",
+  "namespace": "molecular_function",
+  "label": "sucrose 6F-alpha-galactotransferase activity"
+}

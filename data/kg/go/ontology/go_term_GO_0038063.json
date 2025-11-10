@@ -1,0 +1,39 @@
+{
+  "id": "GO:0038063",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038063",
+  "relationships": {
+    "is_a": [
+      "GO:0007169",
+      "GO:0038065"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "collagen-activated RTK signaling pathway",
+      "collagen-activated tyrosine kinase receptor signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "DDR signaling pathway",
+      "discoidin domain receptor signaling pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "uh",
+      "mah"
+    ],
+    "PMID": [
+      "15888913",
+      "16626936",
+      "21568710",
+      "16626936",
+      "16626936"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by collagen binding to its receptor on the surface of a target cell where the receptor possesses tyrosine kinase activity, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "collagen-activated tyrosine kinase receptor signaling pathway"
+}

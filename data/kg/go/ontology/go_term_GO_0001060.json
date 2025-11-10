@@ -1,0 +1,29 @@
+{
+  "id": "GO:0001060",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001060",
+  "relationships": {
+    "is_a": [
+      "GO:0006351"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transcription from RNA pol V promoter",
+      "transcription from RNA polymerase V promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH"
+    ],
+    "PMID": [
+      "19110459"
+    ]
+  },
+  "definition": "The synthesis of RNA from a DNA template by RNA polymerase V, originating at a Pol V-specific promoter.",
+  "namespace": "biological_process",
+  "label": "transcription by RNA polymerase V"
+}

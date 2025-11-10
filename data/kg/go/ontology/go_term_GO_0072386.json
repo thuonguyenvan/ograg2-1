@@ -1,0 +1,30 @@
+{
+  "id": "GO:0072386",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072386",
+  "relationships": {
+    "is_a": [
+      "GO:0072384"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "microtubule plus-end-directed organelle localization"
+    ],
+    "broad": [],
+    "narrow": [
+      "microtubule plus-end-directed organelle distribution"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "rl",
+      "rl"
+    ]
+  },
+  "definition": "The directed movement of an organelle towards the plus end of a microtubule, mediated by motor proteins. This process begins with the attachment of an organelle to a microtubule, and ends when the organelle reaches its final destination.",
+  "namespace": "biological_process",
+  "label": "plus-end-directed organelle transport along microtubule"
+}

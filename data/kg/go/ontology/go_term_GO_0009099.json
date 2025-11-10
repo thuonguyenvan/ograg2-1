@@ -1,0 +1,33 @@
+{
+  "id": "GO:0009099",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009099",
+  "relationships": {
+    "is_a": [
+      "GO:0006573",
+      "GO:0009079",
+      "GO:0009082"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "valine anabolism",
+      "valine biosynthesis",
+      "valine formation",
+      "valine synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "VALSYN-PWY"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of valine, 2-amino-3-methylbutanoic acid.",
+  "namespace": "biological_process",
+  "label": "L-valine biosynthetic process"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0035666",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035666",
+  "relationships": {
+    "is_a": [
+      "GO:0002756"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TRIF-dependent TLR signaling pathway",
+      "TRIF-dependent toll-like receptor signalling pathway",
+      "Toll/IL-1 receptor (TIR) domain-containing adaptor-dependent TLR signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9013973",
+      "R-HSA-937061"
+    ],
+    "GOC": [
+      "BHF",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "12855817",
+      "12855817"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by a ligand binding to a toll-like receptor where the TRIF adaptor mediates transduction of the signal. Toll-like receptors directly bind pattern motifs from a variety of microbial sources to initiate an innate immune response.",
+  "namespace": "biological_process",
+  "label": "TRIF (TICAM1)-mediated TLR4 signaling"
+}

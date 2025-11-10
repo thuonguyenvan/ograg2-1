@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047902",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047902",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-formyl-L-aspartate amidohydrolase activity",
+      "formylaspartic formylase (formylase I, formylase II)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.8",
+      "3.5.1.8",
+      "3.5.1.8",
+      "3.5.1.8"
+    ],
+    "MetaCyc": [
+      "FORMYLASPARTATE-DEFORMYLASE-RXN",
+      "FORMYLASPARTATE-DEFORMYLASE-RXN"
+    ],
+    "RHEA": [
+      "22040"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-formyl-L-aspartate + H2O = formate + L-aspartate.",
+  "namespace": "molecular_function",
+  "label": "formylaspartate deformylase activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0051553",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051553",
+  "relationships": {
+    "is_a": [
+      "GO:0009813",
+      "GO:0046148",
+      "GO:0051552"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "2-phenyl-4H-1-benzopyran-4-one biosynthesis",
+      "2-phenyl-4H-1-benzopyran-4-one biosynthetic process",
+      "2-phenylchromone biosynthesis",
+      "2-phenylchromone biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ],
+    "PMID": [
+      "18567791"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of flavones, a class of pigmented plant compounds based on 2-phenyl-4H-1-benzopyran-4-one (2-phenylchromone).",
+  "namespace": "biological_process",
+  "label": "flavone biosynthetic process"
+}

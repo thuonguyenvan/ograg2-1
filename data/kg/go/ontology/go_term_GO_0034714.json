@@ -1,0 +1,31 @@
+{
+  "id": "GO:0034714",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034714",
+  "relationships": {
+    "is_a": [
+      "GO:0005160"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TGF-beta type III binding",
+      "transforming growth factor beta receptor type III binding",
+      "type IIII TGF-beta binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "betaglycan binding",
+      "transforming growth factor beta ligand binding to type III receptor"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah"
+    ]
+  },
+  "definition": "Binding to a type III transforming growth factor beta receptor.",
+  "namespace": "molecular_function",
+  "label": "type III transforming growth factor beta receptor binding"
+}

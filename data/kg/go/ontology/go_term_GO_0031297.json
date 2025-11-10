@@ -1,0 +1,43 @@
+{
+  "id": "GO:0031297",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031297",
+  "relationships": {
+    "is_a": [
+      "GO:0045005"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "collapsed replication fork processing",
+      "recovery from replication fork arrest",
+      "recovery from replication fork stalling"
+    ],
+    "broad": [],
+    "narrow": [
+      "recovery from replication fork arrest at rDNA locus",
+      "recovery from replication fork stalling at rDNA locus",
+      "replication fork processing at rDNA locus",
+      "replication fork processing at ribosomal DNA locus"
+    ],
+    "related": [
+      "replication fork restart",
+      "replication restart"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "vw",
+      "bhm"
+    ],
+    "PMID": [
+      "11459955",
+      "15367656",
+      "17660542",
+      "20842177",
+      "15780929"
+    ]
+  },
+  "definition": "The process in which a DNA replication fork that has stalled is restored to a functional state and replication is restarted. The stalling may be due to DNA damage, DNA secondary structure, bound proteins, dNTP shortage, or other causes.",
+  "namespace": "biological_process",
+  "label": "replication fork processing"
+}

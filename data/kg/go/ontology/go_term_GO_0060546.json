@@ -1,0 +1,29 @@
+{
+  "id": "GO:0060546",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060546",
+  "relationships": {
+    "is_a": [
+      "GO:0060544",
+      "GO:0062099"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "negative regulation of necroptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "dph",
+      "mtg_apoptosis",
+      "tb"
+    ]
+  },
+  "definition": "Any process that decreases the rate, frequency or extent of a necroptotic process, a necrotic cell death process that results from the activation of endogenous cellular processes, such as signaling involving death domain receptors or Toll-like receptors.",
+  "namespace": "biological_process",
+  "label": "negative regulation of necroptotic process"
+}

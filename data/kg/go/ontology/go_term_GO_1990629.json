@@ -1,0 +1,32 @@
+{
+  "id": "GO:1990629",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990629",
+  "relationships": {
+    "is_a": [
+      "GO:0098796",
+      "GO:0140534"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cardiac phospholamban complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cardiac PLB complex",
+      "cardiac PLN complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ame"
+    ],
+    "PMID": [
+      "16043693"
+    ]
+  },
+  "definition": "A protein complex found as a homopentamer of the phospholamban (PLN) protein in the sarcoplasmic reticulum (SR) membrane of cardiomyocytes. Cardiac PLN is a main determinant of muscle contraction and relaxation, by regulating intracellular calcium levels.",
+  "namespace": "cellular_component",
+  "label": "phospholamban complex"
+}

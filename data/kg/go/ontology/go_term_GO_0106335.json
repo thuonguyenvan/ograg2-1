@@ -1,0 +1,30 @@
+{
+  "id": "GO:0106335",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106335",
+  "relationships": {
+    "is_a": [
+      "GO:0016300"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.229"
+    ],
+    "RHEA": [
+      "43208",
+      "43208"
+    ],
+    "PMID": [
+      "20123966"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-(carboxymethyl)uridine34 in tRNA + S-adenosyl-L-methionine = 5-(2-methoxy-2-oxoethyl)uridine34 in tRNA + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "tRNA (5-carboxymethyluridine(34)-5-O)-methyltransferase activity"
+}

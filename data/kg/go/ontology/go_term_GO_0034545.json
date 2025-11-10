@@ -1,0 +1,30 @@
+{
+  "id": "GO:0034545",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034545",
+  "relationships": {
+    "is_a": [
+      "GO:0016823"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.7.1.20"
+    ],
+    "RHEA": [
+      "26168"
+    ],
+    "UM-BBD_reactionID": [
+      "r0811",
+      "r0811"
+    ]
+  },
+  "definition": "Catalysis of the reaction: fumarylpyruvate + H2O = fumarate + pyruvate + H+.",
+  "namespace": "molecular_function",
+  "label": "fumarylpyruvate hydrolase activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0022821",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022821",
+  "relationships": {
+    "is_a": [
+      "GO:0015079",
+      "GO:0140828"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "potassium ion antiporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Catalysis of the active transport of a potassium ion across a membrane by a mechanism whereby two or more species are transported in opposite directions in a tightly coupled process not directly linked to a form of energy other than chemiosmotic energy.",
+  "namespace": "molecular_function",
+  "label": "solute:potassium antiporter activity"
+}

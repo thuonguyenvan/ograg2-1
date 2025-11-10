@@ -1,0 +1,38 @@
+{
+  "id": "GO:0046952",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046952",
+  "relationships": {
+    "is_a": [
+      "GO:0044282",
+      "GO:1901569",
+      "GO:1902224"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ketolysis",
+      "ketone body breakdown",
+      "ketone body catabolism",
+      "ketone body degradation",
+      "utilization of ketone bodies"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY66-368",
+      "PWY66-368"
+    ],
+    "Reactome": [
+      "R-HSA-77108"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of ketone bodies, any one of the three substances: acetoacetate, D-3-hydroxybutyrate (beta-hydroxybutyrate) or acetone. Ketone bodies can be used as an energy source as an alternative to glucose. Utilization of ketone bodies in peripheral tissues involves conversion of acetoacetate to acetoacetyl-CoA, which is then converted to two molecules of acetyl-CoA.",
+  "namespace": "biological_process",
+  "label": "Utilization of Ketone Bodies"
+}

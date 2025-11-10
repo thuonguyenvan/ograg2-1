@@ -1,0 +1,30 @@
+{
+  "id": "GO:0002036",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002036",
+  "relationships": {
+    "is_a": [
+      "GO:0010958",
+      "GO:0032890"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of L-glutamate uptake"
+    ],
+    "broad": [
+      "regulation of L-glutamate import",
+      "regulation of L-glutamate transport"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of L-glutamate import into a cell.",
+  "namespace": "biological_process",
+  "label": "regulation of L-glutamate import across plasma membrane"
+}

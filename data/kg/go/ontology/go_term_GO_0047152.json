@@ -1,0 +1,49 @@
+{
+  "id": "GO:0047152",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047152",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "methanol-corrinoid protein Co-methyltransferase",
+      "methanol:corrinoid methyltransferase activity"
+    ],
+    "broad": [
+      "methyltransferase 1"
+    ],
+    "narrow": [],
+    "related": [
+      "MT 1",
+      "MT1",
+      "MtaB",
+      "methanol cobalamin methyltransferase activity",
+      "methanol:5-hydroxybenzimidazolylcobamide Co-methyltransferase activity",
+      "methanol:5-hydroxybenzimidazolylcobamide methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.90",
+      "2.1.1.90",
+      "2.1.1.90",
+      "2.1.1.90",
+      "2.1.1.90"
+    ],
+    "MetaCyc": [
+      "2.1.1.90-RXN"
+    ],
+    "RHEA": [
+      "45204",
+      "45204"
+    ],
+    "PMID": [
+      "6438059"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-hydroxybenzimidazolylcobamide + methanol = H2O + Co-methyl-Co-5-hydroxybenzimidazolylcob(I)amide.",
+  "namespace": "molecular_function",
+  "label": "methanol-5-hydroxybenzimidazolylcobamide Co-methyltransferase activity"
+}

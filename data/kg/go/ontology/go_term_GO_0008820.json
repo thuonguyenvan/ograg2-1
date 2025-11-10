@@ -1,0 +1,42 @@
+{
+  "id": "GO:0008820",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008820",
+  "relationships": {
+    "is_a": [
+      "GO:0070568"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GTP:adenosylcobinamide-phosphate guanylyltransferase activity",
+      "GTP:cobinamide phosphate guanylyltransferase activity",
+      "adenosylcobinamide-phosphate guanylyltransferase activity"
+    ],
+    "broad": [
+      "AdoCbi kinase/AdoCbi-phosphate guanylyltransferase",
+      "adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase"
+    ],
+    "narrow": [],
+    "related": [
+      "CobU"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.62"
+    ],
+    "KEGG_REACTION": [
+      "R05222"
+    ],
+    "MetaCyc": [
+      "COBINPGUANYLYLTRANS-RXN"
+    ],
+    "RHEA": [
+      "22712",
+      "22712"
+    ]
+  },
+  "definition": "Catalysis of the reaction: adenosylcobinamide phosphate + GTP + 2 H+ = adenosylcobinamide-GDP + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "cobinamide phosphate guanylyltransferase activity"
+}

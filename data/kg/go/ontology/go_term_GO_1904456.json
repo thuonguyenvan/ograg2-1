@@ -1,0 +1,52 @@
+{
+  "id": "GO:1904456",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904456",
+  "relationships": {
+    "is_a": [
+      "GO:0045759",
+      "GO:0051970",
+      "GO:0098908"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of neuronal action potential",
+      "down-regulation of neuronal action potential",
+      "downregulation of neuronal action potential"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of neuronal action potential"
+    ],
+    "related": [
+      "down regulation of generation of action potential",
+      "down-regulation of generation of action potential",
+      "downregulation of generation of action potential",
+      "inhibition of generation of action potential",
+      "negative regulation of generation of action potential"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25126967"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of neuronal action potential.",
+  "namespace": "biological_process",
+  "label": "negative regulation of neuronal action potential"
+}

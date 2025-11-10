@@ -1,0 +1,28 @@
+{
+  "id": "GO:0051084",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051084",
+  "relationships": {
+    "is_a": [
+      "GO:0006458"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "&apos;de novo&apos; posttranslational protein folding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-391251"
+    ],
+    "GOC": [
+      "rb"
+    ]
+  },
+  "definition": "The process of assisting in the correct noncovalent folding of newly formed polypeptides or folding intermediates of polypeptides that have exited the ribosome and/or have been stabilized and transferred by other chaperone proteins. This process could involve several cycles of ATP hydrolysis.",
+  "namespace": "biological_process",
+  "label": "Protein folding"
+}

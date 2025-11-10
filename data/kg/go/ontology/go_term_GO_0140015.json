@@ -1,0 +1,25 @@
+{
+  "id": "GO:0140015",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140015",
+  "relationships": {
+    "is_a": [
+      "GO:0140006"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "histone H3K14ac modified histone binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "30110338"
+    ]
+  },
+  "definition": "A histone reader that recognizes a histone H3 acetylated at lysine 14.",
+  "namespace": "molecular_function",
+  "label": "histone H3K14ac reader activity"
+}

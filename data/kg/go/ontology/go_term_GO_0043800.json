@@ -1,0 +1,36 @@
+{
+  "id": "GO:0043800",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043800",
+  "relationships": {
+    "is_a": [
+      "GO:0016861"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "HUMPI",
+      "hexulose-6-phosphate isomerase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.1.27"
+    ],
+    "MetaCyc": [
+      "R12-RXN"
+    ],
+    "RHEA": [
+      "25900",
+      "25900"
+    ],
+    "PMID": [
+      "11839305"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-arabino-hex-3-ulose 6-phosphate = beta-D-fructose 6-phosphate.",
+  "namespace": "molecular_function",
+  "label": "6-phospho-3-hexuloisomerase activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0102545",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102545",
+  "relationships": {
+    "is_a": [
+      "GO:0004620"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphatidyl phospholipase B activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-14899"
+    ],
+    "RHEA": [
+      "32907",
+      "32907"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1,2-diacyl-sn-glycero-3-phosphocholine + 2 H2O = sn-glycerol 3-phosphocholine + 2 a carboxylate + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "phospholipase B activity"
+}

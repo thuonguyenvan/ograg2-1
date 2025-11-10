@@ -1,0 +1,37 @@
+{
+  "id": "GO:0016907",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016907",
+  "relationships": {
+    "is_a": [
+      "GO:0008227",
+      "GO:0015464",
+      "GO:0099528"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G protein coupled acetylcholine receptor activity",
+      "G-protein coupled acetylcholine receptor activity",
+      "acetylcholine receptor activity, G-protein coupled",
+      "metabotropic acetylcholine receptor activity",
+      "muscarinic acetylcholine receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-400012"
+    ],
+    "GOC": [
+      "bf",
+      "fj",
+      "mah",
+      "bf"
+    ]
+  },
+  "definition": "Combining with acetylcholine and transmitting the signal across the membrane by activating an associated G-protein; promotes the exchange of GDP for GTP on the alpha subunit of a heterotrimeric G-protein complex.",
+  "namespace": "molecular_function",
+  "label": "Acetylcholine binds Muscarinic Acetylcholine Receptor M3"
+}

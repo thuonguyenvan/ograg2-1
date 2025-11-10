@@ -1,0 +1,32 @@
+{
+  "id": "GO:0042662",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042662",
+  "relationships": {
+    "is_a": [
+      "GO:0009996",
+      "GO:0042661",
+      "GO:1905771"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of mesodermal cell fate specification",
+      "down-regulation of mesodermal cell fate specification",
+      "downregulation of mesodermal cell fate specification",
+      "suppression of mesodermal cell fate"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of mesodermal cell fate specification"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of mesoderm cell fate specification.",
+  "namespace": "biological_process",
+  "label": "negative regulation of mesodermal cell fate specification"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GO:0008854",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008854",
+  "relationships": {
+    "is_a": [
+      "GO:0016895"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "E. coli exonuclease V activity"
+    ],
+    "related": [
+      "E. coli exonuclease V",
+      "Escherichia coli exonuclease V",
+      "RecBC deoxyribonuclease activity",
+      "exonuclease V activity",
+      "gene recBC DNase activity",
+      "gene recBC endoenzyme",
+      "gene recBCD enzymes"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.11.5",
+      "3.1.11.5",
+      "3.1.11.5",
+      "3.1.11.5",
+      "3.1.11.5",
+      "3.1.11.5",
+      "3.1.11.5",
+      "3.1.11.5",
+      "3.1.11.5",
+      "3.1.11.5"
+    ],
+    "MetaCyc": [
+      "RXN0-2605"
+    ]
+  },
+  "definition": "Catalysis of the exonucleolytic cleavage (in the presence of ATP) in either 5&apos; to 3&apos; or 3&apos; to 5&apos; direction to yield 5&apos;-phosphooligonucleotides.",
+  "namespace": "molecular_function",
+  "label": "exodeoxyribonuclease V activity"
+}

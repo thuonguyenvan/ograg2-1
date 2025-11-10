@@ -1,0 +1,29 @@
+{
+  "id": "GO:0005787",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005787",
+  "relationships": {
+    "is_a": [
+      "GO:0098796",
+      "GO:0140534",
+      "GO:1905370"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sgd_curators"
+    ],
+    "PMID": [
+      "1846444",
+      "7615509"
+    ]
+  },
+  "definition": "A protein complex that is located in the endoplasmic reticulum membrane and cleaves the signal sequence from precursor proteins following their transport out of the cytoplasmic space.",
+  "namespace": "cellular_component",
+  "label": "signal peptidase complex"
+}

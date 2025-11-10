@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140186",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140186",
+  "relationships": {
+    "is_a": [
+      "GO:0016410",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein acyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "53916",
+      "53916"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an acyl-CoA + L-lysyl-[protein] = N6-acyl-L-lysyl-[protein] + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "protein N-acyltransferase activity"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "GO:1905503",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905503",
+  "relationships": {
+    "is_a": [
+      "GO:1902017"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of motile primary cilia assembly",
+      "regulation of motile primary cilia formation",
+      "regulation of motile primary cilium assembly",
+      "regulation of motile primary cilium formation",
+      "regulation of nodal cilium assembly",
+      "regulation of nodal cilium formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "cilia",
+      "krc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25294941"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of motile cilium assembly.",
+  "namespace": "biological_process",
+  "label": "regulation of motile cilium assembly"
+}

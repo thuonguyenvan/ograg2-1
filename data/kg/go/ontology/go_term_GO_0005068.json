@@ -1,0 +1,32 @@
+{
+  "id": "GO:0005068",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005068",
+  "relationships": {
+    "is_a": [
+      "GO:0030159",
+      "GO:0030971"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transmembrane receptor protein tyrosine kinase adaptor protein activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "transmembrane receptor protein tyrosine kinase docking protein activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_MIT_16mar07"
+    ],
+    "PMID": [
+      "10502414",
+      "20565848"
+    ]
+  },
+  "definition": "The binding activity of a molecule that brings together a transmembrane receptor protein tyrosine kinase and one or more other molecules, permitting them to function in a coordinated way.",
+  "namespace": "molecular_function",
+  "label": "transmembrane receptor protein tyrosine kinase adaptor activity"
+}

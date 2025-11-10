@@ -1,0 +1,36 @@
+{
+  "id": "GO:0106334",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106334",
+  "relationships": {
+    "is_a": [
+      "GO:0016829",
+      "GO:0140097"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3&apos;-dRP lyase",
+      "3&apos;-dRP lyase activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "65764",
+      "65764"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "21276450",
+      "22084197",
+      "22375014"
+    ]
+  },
+  "definition": "Catalysis of the conversion of a 3&apos;-deoxyribose phosphate in DNA to a 3&apos;-phosphate.",
+  "namespace": "molecular_function",
+  "label": "3&apos;-deoxyribose phosphate lyase activity"
+}

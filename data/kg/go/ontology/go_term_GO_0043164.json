@@ -1,0 +1,35 @@
+{
+  "id": "GO:0043164",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043164",
+  "relationships": {
+    "is_a": [
+      "GO:0009273"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1-2nm peptidoglycan-based cell wall biogenesis"
+    ],
+    "broad": [
+      "cell wall anabolism",
+      "cell wall assembly",
+      "cell wall biosynthetic process",
+      "cell wall formation",
+      "cell wall synthesis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mtg_sensu"
+    ],
+    "ISBN": [
+      "0815108893"
+    ]
+  },
+  "definition": "A cellular process that results in the biosynthesis of constituent macromolecules, assembly, and arrangement of constituent parts of a cell wall of the type found in Gram-negative bacteria. The cell wall is the rigid or semi-rigid envelope lying outside the cell membrane.",
+  "namespace": "biological_process",
+  "label": "Gram-negative-bacterium-type cell wall biogenesis"
+}

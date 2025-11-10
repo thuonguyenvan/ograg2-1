@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050062",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050062",
+  "relationships": {
+    "is_a": [
+      "GO:0016620"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "long-chain fatty acyl CoA reductase activity",
+      "long-chain fatty acyl-CoA reductase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "long-chain-fatty-acyl-CoA luciferin component reductase activity"
+    ],
+    "related": [
+      "acyl coenzyme A reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.50",
+      "1.2.1.50"
+    ],
+    "MetaCyc": [
+      "LONG-CHAIN-FATTY-ACYL-COA-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "15437",
+      "15437"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a long-chain fatty aldehyde + CoA + NADP+ = a long-chain fatty acyl-CoA + NADPH.",
+  "namespace": "molecular_function",
+  "label": "long-chain-fatty-acyl-CoA reductase activity"
+}

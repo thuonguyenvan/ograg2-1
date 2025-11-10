@@ -1,0 +1,33 @@
+{
+  "id": "GO:0048171",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048171",
+  "relationships": {
+    "is_a": [
+      "GO:0048169",
+      "GO:0050768"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of long-term neuronal synaptic plasticity",
+      "down-regulation of long-term neuronal synaptic plasticity",
+      "downregulation of long-term neuronal synaptic plasticity"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of long-term neuronal synaptic plasticity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid"
+    ],
+    "PMID": [
+      "11891290"
+    ]
+  },
+  "definition": "A process that decreases long-term neuronal synaptic plasticity, the ability of neuronal synapses to change long-term as circumstances require. Long-term neuronal synaptic plasticity generally involves increase or decrease in actual synapse numbers.",
+  "namespace": "biological_process",
+  "label": "negative regulation of long-term neuronal synaptic plasticity"
+}

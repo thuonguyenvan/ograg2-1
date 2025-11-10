@@ -1,0 +1,42 @@
+{
+  "id": "GO:1904260",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904260",
+  "relationships": {
+    "is_a": [
+      "GO:0051093",
+      "GO:1901202",
+      "GO:1904259"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of basement membrane assembly involved in embryonic body morphogenesis",
+      "down-regulation of basement membrane assembly involved in embryonic body morphogenesis",
+      "downregulation of basement membrane assembly involved in embryonic body morphogenesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of basement membrane assembly involved in embryonic body morphogenesis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "als",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23940118"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of basement membrane assembly involved in embryonic body morphogenesis.",
+  "namespace": "biological_process",
+  "label": "negative regulation of basement membrane assembly involved in embryonic body morphogenesis"
+}

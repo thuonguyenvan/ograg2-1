@@ -1,0 +1,33 @@
+{
+  "id": "GO:0061928",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061928",
+  "relationships": {
+    "is_a": [
+      "GO:0016842"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.2.7"
+    ],
+    "RHEA": [
+      "47724"
+    ],
+    "Reactome": [
+      "R-HSA-6785928"
+    ],
+    "PMID": [
+      "23070364",
+      "27913623"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glutathione = 5-oxoproline + L-cysteinylglycine.",
+  "namespace": "molecular_function",
+  "label": "CHAC1,2 cleaves GSH to OPRO and CysGly"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047324",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047324",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "phosphoenolpyruvate:glycerone phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.121",
+      "2.7.1.121",
+      "2.7.1.121"
+    ],
+    "KEGG_REACTION": [
+      "R01012"
+    ],
+    "MetaCyc": [
+      "2.7.1.121-RXN"
+    ],
+    "RHEA": [
+      "18381",
+      "18381"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glycerone + phosphoenolpyruvate = glycerone phosphate + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "phosphoenolpyruvate-glycerone phosphotransferase activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0120551",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120551",
+  "relationships": {
+    "is_a": [
+      "GO:0006103",
+      "GO:1901290"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-ketoglutarate dehydrogenase system",
+      "2-oxoglutarate dehydrogenase system",
+      "2alpha-ketoglutarate dehydrogenase system"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5084",
+      "PWY-5084"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of succinyl-CoA from 2-oxoglutarate.  In most organisms, this pathway is part of the TCA cycle and comprises a series of three reactions carried out by a multisubunit complex called the &apos;2-oxoglutarate dehydrogenase complex&apos;, even though 2-oxoglutarate dehydrogenase activity describes only one of those reactions. The combination of the three reactions can be summarized as: 2-oxoglutarate + coenzyme A + NAD+ -&gt; succinyl-CoA + CO2 + NADH.",
+  "namespace": "biological_process",
+  "label": "2-oxoglutarate decarboxylation to succinyl-CoA"
+}

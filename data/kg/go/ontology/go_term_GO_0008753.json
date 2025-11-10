@@ -1,0 +1,42 @@
+{
+  "id": "GO:0008753",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008753",
+  "relationships": {
+    "is_a": [
+      "GO:0003955",
+      "GO:0003959"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "NADPH oxidase"
+    ],
+    "narrow": [],
+    "related": [
+      "NADPH:(quinone-acceptor) oxidoreductase",
+      "reduced nicotinamide adenine dinucleotide phosphate (quinone) dehydrogenase"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.6.5.10",
+      "1.6.5.10",
+      "1.6.5.10",
+      "1.6.5.10"
+    ],
+    "KEGG_REACTION": [
+      "R07359"
+    ],
+    "MetaCyc": [
+      "RXN0-7385"
+    ],
+    "RHEA": [
+      "46164",
+      "46164"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NADPH + H+ + a quinone = NADP+ + a quinol.",
+  "namespace": "molecular_function",
+  "label": "NADPH dehydrogenase (quinone) activity"
+}

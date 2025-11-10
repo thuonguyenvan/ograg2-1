@@ -1,0 +1,41 @@
+{
+  "id": "GO:0060307",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060307",
+  "relationships": {
+    "is_a": [
+      "GO:0099623"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of ventricular cardiac muscle cell repolarization",
+      "regulation of ventricular cardiomyocyte membrane repolarization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "electrocardiogram T wave",
+      "regulation of ventricular cardiac muscle repolarization",
+      "ventricular repolarization"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "dph",
+      "mtg_cardiac_conduct_nov11",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the establishment or extent of a membrane potential in the polarizing direction towards the resting potential in a ventricular cardiomyocyte.",
+  "namespace": "biological_process",
+  "label": "regulation of ventricular cardiac muscle cell membrane repolarization"
+}

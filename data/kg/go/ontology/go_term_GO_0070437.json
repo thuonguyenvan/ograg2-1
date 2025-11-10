@@ -1,0 +1,31 @@
+{
+  "id": "GO:0070437",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070437",
+  "relationships": {
+    "is_a": [
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Grb2-Shc complex, EGF stimulated"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "7798267"
+    ],
+    "CORUM": [
+      "2888"
+    ]
+  },
+  "definition": "A protein complex that contains Grb2 and the adaptor protein Shc, and is involved in linking epidermal growth factor receptor (EGFR) activation to the p21-Ras pathway.",
+  "namespace": "cellular_component",
+  "label": "Grb2-Shc complex"
+}

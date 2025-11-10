@@ -1,0 +1,33 @@
+{
+  "id": "GO:2001294",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001294",
+  "relationships": {
+    "is_a": [
+      "GO:0044273",
+      "GO:0072523",
+      "GO:1901292",
+      "GO:2001293"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "malonyl-CoA breakdown",
+      "malonyl-CoA catabolism",
+      "malonyl-CoA degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "yaf",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of malonyl-CoA, the S-malonyl derivative of coenzyme A.",
+  "namespace": "biological_process",
+  "label": "malonyl-CoA catabolic process"
+}

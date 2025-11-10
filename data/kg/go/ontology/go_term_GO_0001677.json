@@ -1,0 +1,25 @@
+{
+  "id": "GO:0001677",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001677",
+  "relationships": {
+    "is_a": [
+      "GO:0022618"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "translation initiation ternary complex assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "hjd"
+    ]
+  },
+  "definition": "Formation of a complex between aminoacylated initiator methionine tRNA, GTP, and initiation factor 2 (either eIF2 in eukaryotes, or IF2 in prokaryotes). In prokaryotes, fMet-tRNA (initiator) is used rather than Met-tRNA (initiator).",
+  "namespace": "biological_process",
+  "label": "formation of translation initiation ternary complex"
+}

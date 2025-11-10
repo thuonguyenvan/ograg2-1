@@ -1,0 +1,41 @@
+{
+  "id": "GO:1902697",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902697",
+  "relationships": {
+    "is_a": [
+      "GO:0006574",
+      "GO:0034308"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "valine breakdown to isobutanol",
+      "valine catabolism to isobutanol",
+      "valine degradation to isobutanol"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5057"
+    ],
+    "GOC": [
+      "TermGenie",
+      "mengo_curators",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000093"
+    ],
+    "PMID": [
+      "9748245"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-valine to isobutanol.",
+  "namespace": "biological_process",
+  "label": "L-valine catabolic process to isobutanol"
+}

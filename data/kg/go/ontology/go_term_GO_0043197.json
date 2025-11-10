@@ -1,0 +1,43 @@
+{
+  "id": "GO:0043197",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043197",
+  "relationships": {
+    "is_a": [
+      "GO:0044309",
+      "GO:0098794"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dendrite spine"
+    ],
+    "broad": [],
+    "narrow": [
+      "branched dendritic spine",
+      "mushroom dendritic spine",
+      "sessile dendritic spine",
+      "stubby dendritic spine",
+      "thin dendritic spine"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1799103720",
+      "sao965204139",
+      "sao876577163",
+      "sao1536532595",
+      "sao317384566",
+      "sao1232858786"
+    ],
+    "Wikipedia": [
+      "Dendritic_spine"
+    ],
+    "GOC": [
+      "nln"
+    ]
+  },
+  "definition": "A small, membranous protrusion from a dendrite that forms a postsynaptic compartment, typically receiving input from a single presynapse. They function as partially isolated biochemical and an electrical compartments. Spine morphology is variable:they can be thin, stubby, mushroom, or branched, with a continuum of intermediate morphologies. They typically terminate in a bulb shape, linked to the dendritic shaft by a restriction. Spine remodeling is though to be involved in synaptic plasticity.",
+  "namespace": "cellular_component",
+  "label": "dendritic spine"
+}

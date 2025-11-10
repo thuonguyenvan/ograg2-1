@@ -1,0 +1,30 @@
+{
+  "id": "GO:0015487",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015487",
+  "relationships": {
+    "is_a": [
+      "GO:0005402",
+      "GO:0015156"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "melibiose:monovalent cation symporter activity"
+    ],
+    "broad": [
+      "melibiose:cation symporter activity"
+    ],
+    "narrow": [],
+    "related": [
+      "melibiose permease activity"
+    ]
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.2.1.1"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: melibiose(out) + monovalent cation(out) = melibiose(in) + monovalent cation(in).",
+  "namespace": "molecular_function",
+  "label": "melibiose:monoatomic cation symporter activity"
+}

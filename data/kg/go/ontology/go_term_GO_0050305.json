@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050305",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050305",
+  "relationships": {
+    "is_a": [
+      "GO:0016646"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-(carboxymethyl)-D-alanine: NAD+ oxidoreductase activity",
+      "N-(carboxymethyl)-D-alanine:NAD+ oxidoreductase (glycine-forming)",
+      "strombine[N-(carboxymethyl)-D-alanine]dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.22",
+      "1.5.1.22",
+      "1.5.1.22",
+      "1.5.1.22",
+      "1.5.1.22"
+    ],
+    "KEGG_REACTION": [
+      "R00368"
+    ],
+    "MetaCyc": [
+      "STROMBINE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "14061",
+      "14061"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-(carboxymethyl)-D-alanine + H2O + NAD+ = glycine + H+ + NADH + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "strombine dehydrogenase activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0045593",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045593",
+  "relationships": {
+    "is_a": [
+      "GO:0030857",
+      "GO:0045592",
+      "GO:2000242"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of cumulus cell differentiation",
+      "down-regulation of cumulus cell differentiation",
+      "downregulation of cumulus cell differentiation",
+      "negative regulation of ovarian cumulus cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of cumulus cell differentiation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of ovarian cumulus cell differentiation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of cumulus cell differentiation"
+}

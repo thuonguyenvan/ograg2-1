@@ -1,0 +1,31 @@
+{
+  "id": "GO:0009273",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009273",
+  "relationships": {
+    "is_a": [
+      "GO:0042546"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "cell envelope biosynthesis",
+      "cell envelope biosynthetic process",
+      "cell wall anabolism",
+      "cell wall assembly",
+      "cell wall biosynthetic process",
+      "cell wall formation",
+      "cell wall synthesis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of the peptidoglycan-based cell wall. An example of this process is found in Escherichia coli.",
+  "namespace": "biological_process",
+  "label": "peptidoglycan-based cell wall biogenesis"
+}

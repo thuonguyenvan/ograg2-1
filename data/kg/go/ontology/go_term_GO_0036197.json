@@ -1,0 +1,38 @@
+{
+  "id": "GO:0036197",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036197",
+  "relationships": {
+    "is_a": [
+      "GO:0016126",
+      "GO:0036196",
+      "GO:1902653"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "zymosterol anabolism",
+      "zymosterol biosynthesis",
+      "zymosterol formation",
+      "zymosterol synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-6074",
+      "PWY-6074"
+    ],
+    "GOC": [
+      "yaf",
+      "bf",
+      "bf",
+      "bf",
+      "bf"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of zymosterol, (5alpha-cholesta-8,24-dien-3beta-ol).",
+  "namespace": "biological_process",
+  "label": "zymosterol biosynthetic process"
+}

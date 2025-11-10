@@ -1,0 +1,33 @@
+{
+  "id": "GO:0033485",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033485",
+  "relationships": {
+    "is_a": [
+      "GO:0009813",
+      "GO:1901038",
+      "GO:1901806"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cyanidin 3-O-glucoside anabolism",
+      "cyanidin 3-O-glucoside biosynthesis",
+      "cyanidin 3-O-glucoside formation",
+      "cyanidin 3-O-glucoside synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "MetaCyc": [
+      "PWY-5125"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of cyanidin 3-O-glucoside, a basic anthocyanin responsible for red to magenta coloration of flowers and fruits.",
+  "namespace": "biological_process",
+  "label": "cyanidin 3-O-glucoside biosynthetic process"
+}

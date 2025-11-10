@@ -1,0 +1,47 @@
+{
+  "id": "GO:0050362",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050362",
+  "relationships": {
+    "is_a": [
+      "GO:0070529"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tryptophan aminotransferase activity"
+    ],
+    "broad": [
+      "L-tryptophan aminotransferase activity",
+      "L-tryptophan transaminase activity",
+      "tryptophan transaminase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "5-hydroxytryptophan-ketoglutaric transaminase activity",
+      "L-phenylalanine-2-oxoglutarate aminotransferase activity",
+      "hydroxytryptophan aminotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.27",
+      "2.6.1.27",
+      "2.6.1.27",
+      "2.6.1.27",
+      "2.6.1.27",
+      "2.6.1.27",
+      "2.6.1.27",
+      "2.6.1.27"
+    ],
+    "MetaCyc": [
+      "TRYPTOPHAN-AMINOTRANSFERASE-RXN",
+      "TRYPTOPHAN-AMINOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "14093"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-tryptophan + 2-oxoglutarate = indolepyruvate + L-glutamate.",
+  "namespace": "molecular_function",
+  "label": "L-tryptophan:2-oxoglutarate aminotransferase activity"
+}

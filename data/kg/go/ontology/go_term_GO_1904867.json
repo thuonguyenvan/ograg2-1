@@ -1,0 +1,39 @@
+{
+  "id": "GO:1904867",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904867",
+  "relationships": {
+    "is_a": [
+      "GO:1903405"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein localisation in Cajal body",
+      "protein localisation to Cajal body",
+      "protein localization in Cajal body"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "TermGenie",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000087"
+    ],
+    "PMID": [
+      "25467444"
+    ]
+  },
+  "definition": "A process in which a protein is transported to, or maintained in, a location within a Cajal body.",
+  "namespace": "biological_process",
+  "label": "protein localization to Cajal body"
+}

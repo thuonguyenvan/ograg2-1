@@ -1,0 +1,28 @@
+{
+  "id": "GO:0015373",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015373",
+  "relationships": {
+    "is_a": [
+      "GO:0015296",
+      "GO:0015370"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "anion:sodium symporter activity"
+    ],
+    "narrow": [],
+    "related": [
+      "monovalent anion:sodium symporter activity"
+    ]
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.21.5.-"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: monoatomic anion(out) + Na+(out) = monoatomic anion(in) + Na+(in).",
+  "namespace": "molecular_function",
+  "label": "monoatomic anion:sodium symporter activity"
+}

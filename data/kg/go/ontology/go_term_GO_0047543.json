@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047543",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047543",
+  "relationships": {
+    "is_a": [
+      "GO:0016628"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "hexadecanal: NADP+ oxidoreductase activity",
+      "hexadecanal:NADP+ delta2-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.3.1.27",
+      "1.3.1.27",
+      "1.3.1.27",
+      "1.3.1.27"
+    ],
+    "KEGG_REACTION": [
+      "R02463"
+    ],
+    "MetaCyc": [
+      "2-HEXADECENAL-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "12444",
+      "12444"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NADP+ + palmitaldehyde = trans-hexadec-2-enal + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "2-hexadecenal reductase activity"
+}

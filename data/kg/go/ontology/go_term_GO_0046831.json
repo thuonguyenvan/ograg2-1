@@ -1,0 +1,29 @@
+{
+  "id": "GO:0046831",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046831",
+  "relationships": {
+    "is_a": [
+      "GO:0032239",
+      "GO:0046822"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of RNA export from cell nucleus",
+      "regulation of RNA export out of nucleus",
+      "regulation of RNA transport from nucleus to cytoplasm",
+      "regulation of RNA-nucleus export"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of the directed movement of RNA from the nucleus to the cytoplasm.",
+  "namespace": "biological_process",
+  "label": "regulation of RNA export from nucleus"
+}

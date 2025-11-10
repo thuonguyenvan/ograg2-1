@@ -1,0 +1,31 @@
+{
+  "id": "GO:0031339",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031339",
+  "relationships": {
+    "is_a": [
+      "GO:0010639",
+      "GO:0031338",
+      "GO:0051051"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of vesicle fusion",
+      "down-regulation of vesicle fusion",
+      "downregulation of vesicle fusion"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of vesicle fusion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of vesicle fusion.",
+  "namespace": "biological_process",
+  "label": "negative regulation of vesicle fusion"
+}

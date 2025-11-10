@@ -1,0 +1,30 @@
+{
+  "id": "GO:1990684",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990684",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "miRNA-lipoprotein complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "vesicles"
+    ],
+    "PMID": [
+      "21423178",
+      "22028337",
+      "23559634"
+    ]
+  },
+  "definition": "A macromolecular complex containing separate protein, lipid and RNA molecules. Separate in this context means not covalently bound to each other.",
+  "namespace": "cellular_component",
+  "label": "protein-lipid-RNA complex"
+}

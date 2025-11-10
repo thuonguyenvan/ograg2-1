@@ -1,0 +1,39 @@
+{
+  "id": "GO:0009239",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009239",
+  "relationships": {
+    "is_a": [
+      "GO:0019540",
+      "GO:0033068"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "enterobactin anabolism",
+      "enterobactin biosynthesis",
+      "enterobactin formation",
+      "enterobactin synthesis",
+      "enterochelin biosynthesis",
+      "enterochelin biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "enterobactin biosynthetic process, peptide formation",
+      "enterobactin biosynthetic process, peptide modification"
+    ],
+    "related": [
+      "enterobactin synthetase"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "ENTBACSYN-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of enterobactin, a catechol-derived siderochrome of Enterobacteria; enterobactin (N&apos;,N&apos;,N&apos;&apos;-(2,6,10-trioxo-1,5,9-triacyclodecane-3,7,11-triyl)tris(2,3-dihydroxy)benzamide) is a self-triester of 2,3-dihydroxy-N-benzoyl-L-serine and a product of the shikimate pathway.",
+  "namespace": "biological_process",
+  "label": "enterobactin biosynthetic process"
+}

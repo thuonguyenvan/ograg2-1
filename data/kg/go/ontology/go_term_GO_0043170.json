@@ -1,0 +1,30 @@
+{
+  "id": "GO:0043170",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043170",
+  "relationships": {
+    "is_a": [
+      "GO:0008152"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "biopolymer metabolic process",
+      "macromolecule metabolism",
+      "organismal macromolecule metabolism"
+    ],
+    "broad": [],
+    "narrow": [
+      "multicellular organismal macromolecule metabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mtg_chebi_dec09"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving macromolecules, any molecule of high relative molecular mass, the structure of which essentially comprises the multiple repetition of units derived, actually or conceptually, from molecules of low relative molecular mass.",
+  "namespace": "biological_process",
+  "label": "macromolecule metabolic process"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0005794",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005794",
+  "relationships": {
+    "is_a": [
+      "GO:0043231"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Golgi complex"
+    ],
+    "broad": [
+      "Golgi"
+    ],
+    "narrow": [
+      "Golgi ribbon"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao451912436"
+    ],
+    "Wikipedia": [
+      "Golgi_apparatus"
+    ],
+    "ISBN": [
+      "0198506732"
+    ],
+    "PMID": [
+      "9695800"
+    ]
+  },
+  "definition": "A membrane-bound cytoplasmic organelle of the endomembrane system that further processes the core oligosaccharides (e.g. N-glycans) added to proteins in the endoplasmic reticulum and packages them into membrane-bound vesicles. The Golgi apparatus operates at the intersection of the secretory, lysosomal, and endocytic pathways.",
+  "namespace": "cellular_component",
+  "label": "Golgi apparatus"
+}

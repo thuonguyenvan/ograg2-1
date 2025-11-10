@@ -1,0 +1,36 @@
+{
+  "id": "GO:0009240",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009240",
+  "relationships": {
+    "is_a": [
+      "GO:0008654",
+      "GO:0046490"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IPP biosynthesis",
+      "IPP biosynthetic process",
+      "isopentenyl diphosphate anabolism",
+      "isopentenyl diphosphate biosynthesis",
+      "isopentenyl diphosphate formation",
+      "isopentenyl diphosphate synthesis",
+      "isopentenyl pyrophosphate biosynthesis",
+      "isopentenyl pyrophosphate biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of isopentenyl diphosphate, an isomer of dimethylallyl diphosphate and the key precursor of all isoprenoids.",
+  "namespace": "biological_process",
+  "label": "isopentenyl diphosphate biosynthetic process"
+}

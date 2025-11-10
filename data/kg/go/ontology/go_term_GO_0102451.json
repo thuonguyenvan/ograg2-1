@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102451",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102451",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-13937"
+    ],
+    "RHEA": [
+      "74755",
+      "74755"
+    ]
+  },
+  "definition": "Catalysis of the reaction: kaempferide + S-adenosyl-L-methionine = 3,4&apos;-O-dimethylkaempferol + H+ + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "kaempferide 3-O-methyltransferase activity"
+}

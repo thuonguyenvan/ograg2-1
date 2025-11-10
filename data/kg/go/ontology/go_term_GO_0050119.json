@@ -1,0 +1,45 @@
+{
+  "id": "GO:0050119",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050119",
+  "relationships": {
+    "is_a": [
+      "GO:0016811",
+      "GO:0019213"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acetyl-D-glucosamine amidohydrolase activity",
+      "N-acetyl-D-glucosaminyl N-deacetylase activity",
+      "acetylaminodeoxyglucose acetylhydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.33",
+      "3.5.1.33",
+      "3.5.1.33",
+      "3.5.1.33",
+      "3.5.1.33"
+    ],
+    "KEGG_REACTION": [
+      "R01200"
+    ],
+    "MetaCyc": [
+      "N-ACETYLGLUCOSAMINE-DEACETYLASE-RXN"
+    ],
+    "RHEA": [
+      "20593",
+      "20593"
+    ],
+    "Reactome": [
+      "R-HSA-2022887"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acetyl-D-glucosamine + H2O = D-glucosamine + acetate.",
+  "namespace": "molecular_function",
+  "label": "NDST1-4 N-deacetylates GlcNAc residues in heparan"
+}

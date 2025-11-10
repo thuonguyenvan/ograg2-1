@@ -1,0 +1,33 @@
+{
+  "id": "GO:0043653",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043653",
+  "relationships": {
+    "is_a": [
+      "GO:0008637"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "mitochondrial fragmentation involved in apoptosis"
+    ],
+    "related": [
+      "mitochondrial fission during apoptosis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_apoptosis",
+      "rk",
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "12867994"
+    ]
+  },
+  "definition": "The change in the morphology of the mitochondria in an apoptotic cell from a highly branched network to a fragmented vesicular form.",
+  "namespace": "biological_process",
+  "label": "mitochondrial fragmentation involved in apoptotic process"
+}

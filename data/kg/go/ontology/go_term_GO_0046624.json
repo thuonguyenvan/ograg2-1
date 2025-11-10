@@ -1,0 +1,30 @@
+{
+  "id": "GO:0046624",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046624",
+  "relationships": {
+    "is_a": [
+      "GO:0005319"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9695890",
+      "R-HSA-9843721"
+    ],
+    "GOC": [
+      "ai"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Enables the directed movement of sphingolipids into, out of or within a cell, or between cells. Sphingolipids are a class of lipids containing the long-chain amine diol sphingosine or a closely related base (a sphingoid).",
+  "namespace": "molecular_function",
+  "label": "ABCC1,ABCG2 transport C18-S1P to extracellular region"
+}

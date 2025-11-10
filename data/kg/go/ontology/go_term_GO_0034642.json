@@ -1,0 +1,37 @@
+{
+  "id": "GO:0034642",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034642",
+  "relationships": {
+    "is_a": [
+      "GO:0030048",
+      "GO:0051654",
+      "GO:0099515"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrial migration along actin filament",
+      "mitochondrial migration along microfilament",
+      "mitochondrial migration, actin-mediated",
+      "mitochondrion migration along microfilament",
+      "mitochondrion transport along actin filament"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "15979253",
+      "16306220"
+    ]
+  },
+  "definition": "The directed movement of a mitochondrion along a microfilament, mediated by motor proteins.",
+  "namespace": "biological_process",
+  "label": "mitochondrion migration along actin filament"
+}

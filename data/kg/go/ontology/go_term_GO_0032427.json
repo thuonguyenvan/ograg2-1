@@ -1,0 +1,36 @@
+{
+  "id": "GO:0032427",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032427",
+  "relationships": {
+    "is_a": [
+      "GO:0019904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CRIB motif binding",
+      "Cdc42/Rac interactive binding motif binding",
+      "P21-Rho-binding domain binding",
+      "PMD binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "pg",
+      "rl",
+      "rl"
+    ],
+    "PMID": [
+      "9119069",
+      "9119069",
+      "9119069"
+    ]
+  },
+  "definition": "Binding to a GTPase protein binding domain (GDB) domain. The GBD is a short motif, including a minimum region of 16 amino acids, identified in proteins that bind to small GTPases such as Cdc42 and Rac.",
+  "namespace": "molecular_function",
+  "label": "GBD domain binding"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:0015090",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015090",
+  "relationships": {
+    "is_a": [
+      "GO:0015091"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "low affinity iron ion transmembrane transporter activity",
+      "low affinity iron transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "9.A.9.1.1"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: Fe2+(out) = Fe2+(in). In low-affinity transport the transporter is able to bind the solute only if it is present at very high concentrations.",
+  "namespace": "molecular_function",
+  "label": "low-affinity ferric iron ion transmembrane transporter activity"
+}

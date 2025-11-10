@@ -1,0 +1,31 @@
+{
+  "id": "GO:0060291",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060291",
+  "relationships": {
+    "is_a": [
+      "GO:0048167",
+      "GO:0050806"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "long-term potentiation"
+    ],
+    "narrow": [],
+    "related": [
+      "LTP"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dgh",
+      "dph",
+      "dph",
+      "dph"
+    ]
+  },
+  "definition": "A process that modulates synaptic plasticity such that synapses are changed resulting in the increase in the rate, or frequency of synaptic transmission at the synapse.",
+  "namespace": "biological_process",
+  "label": "long-term synaptic potentiation"
+}

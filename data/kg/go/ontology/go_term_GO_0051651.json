@@ -1,0 +1,43 @@
+{
+  "id": "GO:0051651",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051651",
+  "relationships": {
+    "is_a": [
+      "GO:0009987",
+      "GO:0051235"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "cellular retention",
+      "cellular sequestering",
+      "cellular storage",
+      "intracellular retention",
+      "intracellular sequestering",
+      "intracellular storage",
+      "maintenance of intracellular localization",
+      "maintenance of localization within cell",
+      "retention within cell",
+      "sequestering within cell",
+      "storage within cell"
+    ],
+    "related": [
+      "maintenance of cellular localization",
+      "maintenance of localization in cell"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process in which a substance or cellular entity, such as a protein complex or organelle, is maintained in a specific location within, or in the membrane of, a cell, and is prevented from moving elsewhere.",
+  "namespace": "biological_process",
+  "label": "maintenance of location in cell"
+}

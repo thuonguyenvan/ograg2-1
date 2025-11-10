@@ -1,0 +1,34 @@
+{
+  "id": "GO:0045850",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045850",
+  "relationships": {
+    "is_a": [
+      "GO:0045477",
+      "GO:1904747",
+      "GO:2000243"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of nurse cell apoptosis",
+      "up-regulation of nurse cell apoptosis",
+      "upregulation of nurse cell apoptosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of nurse cell apoptosis",
+      "positive regulation of nurse cell apoptosis",
+      "stimulation of nurse cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mtg_apoptosis"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of nurse cell apoptotic process.",
+  "namespace": "biological_process",
+  "label": "positive regulation of nurse cell apoptotic process"
+}

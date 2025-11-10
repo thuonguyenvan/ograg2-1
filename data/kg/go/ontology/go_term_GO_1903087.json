@@ -1,0 +1,44 @@
+{
+  "id": "GO:1903087",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903087",
+  "relationships": {
+    "is_a": [
+      "GO:0030474",
+      "GO:1903047"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "spindle pole body assembly involved in mitotic cell cycle",
+      "spindle pole body biogenesis involved in mitotic cell cycle",
+      "spindle pole body biosynthesis involved in mitotic cell cycle",
+      "spindle pole body duplication associated with nuclear envelope involved in mitotic cell cycle",
+      "spindle pole body duplication in cytoplasm involved in mitotic cell cycle",
+      "spindle pole body duplication involved in mitotic cell cycle",
+      "spindle pole body formation involved in mitotic cell cycle",
+      "spindle pole body replication involved in mitotic cell cycle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_cell_cycle",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000060"
+    ]
+  },
+  "definition": "Any spindle pole body duplication that is involved in the mitotic cell cycle.",
+  "namespace": "biological_process",
+  "label": "mitotic spindle pole body duplication"
+}

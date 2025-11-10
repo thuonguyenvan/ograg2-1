@@ -1,0 +1,35 @@
+{
+  "id": "GO:0032241",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032241",
+  "relationships": {
+    "is_a": [
+      "GO:0032239",
+      "GO:0051050"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of nucleobase, nucleoside, nucleotide and nucleic acid transport",
+      "up-regulation of nucleobase, nucleoside, nucleotide and nucleic acid transport",
+      "upregulation of nucleobase, nucleoside, nucleotide and nucleic acid transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of nucleobase, nucleoside, nucleotide and nucleic acid transport",
+      "stimulation of nucleobase, nucleoside, nucleotide and nucleic acid transport"
+    ],
+    "related": [
+      "positive regulation of nucleobase, nucleoside, nucleotide and nucleic acid transport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the directed movement of nucleobases, nucleosides, nucleotides and nucleic acids, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "positive regulation of nucleobase-containing compound transport"
+}

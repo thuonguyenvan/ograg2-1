@@ -1,0 +1,30 @@
+{
+  "id": "GO:0046689",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046689",
+  "relationships": {
+    "is_a": [
+      "GO:0010038"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to mercury"
+    ],
+    "broad": [],
+    "narrow": [
+      "response to mercuric ion"
+    ],
+    "related": [
+      "mercuric sensitivity/resistance"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a mercury ion stimulus.",
+  "namespace": "biological_process",
+  "label": "response to mercury ion"
+}

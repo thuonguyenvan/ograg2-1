@@ -1,0 +1,29 @@
+{
+  "id": "GO:0019651",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019651",
+  "relationships": {
+    "is_a": [
+      "GO:0006101",
+      "GO:0019662",
+      "GO:0042180",
+      "GO:0072352"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "citrate fermentation to diacetyl",
+      "diacetyl fermentation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P126-PWY"
+    ]
+  },
+  "definition": "The anaerobic chemical reactions and pathways resulting in the breakdown of citrate to diacetyl, yielding energy in the form of ATP.",
+  "namespace": "biological_process",
+  "label": "citrate catabolic process to diacetyl"
+}

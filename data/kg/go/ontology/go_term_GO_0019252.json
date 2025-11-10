@@ -1,0 +1,32 @@
+{
+  "id": "GO:0019252",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019252",
+  "relationships": {
+    "is_a": [
+      "GO:0005982",
+      "GO:0009250"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "starch anabolism",
+      "starch biosynthesis",
+      "starch formation",
+      "starch synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-622"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of starch, the most important reserve polysaccharide in plants.",
+  "namespace": "biological_process",
+  "label": "starch biosynthetic process"
+}

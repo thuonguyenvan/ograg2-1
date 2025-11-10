@@ -1,0 +1,29 @@
+{
+  "id": "GO:0031234",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031234",
+  "relationships": {
+    "is_a": [
+      "GO:0019897"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "extrinsic to internal leaflet of plasma membrane",
+      "extrinsic to internal side of plasma membrane"
+    ],
+    "broad": [],
+    "narrow": [
+      "extrinsic to cytoplasmic side of plasma membrane"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "ab"
+    ]
+  },
+  "definition": "The component of a plasma membrane consisting of gene products and protein complexes that are loosely bound to its cytoplasmic surface, but not integrated into the hydrophobic region.",
+  "namespace": "cellular_component",
+  "label": "extrinsic component of cytoplasmic side of plasma membrane"
+}

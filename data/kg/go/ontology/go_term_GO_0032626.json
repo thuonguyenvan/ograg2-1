@@ -1,0 +1,34 @@
+{
+  "id": "GO:0032626",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032626",
+  "relationships": {
+    "is_a": [
+      "GO:0001816"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IL-22 production",
+      "IL22 production",
+      "ILTIF production"
+    ],
+    "broad": [],
+    "narrow": [
+      "ZCYTO18 production",
+      "interleukin-22 biosynthetic process",
+      "interleukin-22 secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "BHF",
+      "BHF",
+      "BHF"
+    ]
+  },
+  "definition": "The appearance of interleukin-22 due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels.",
+  "namespace": "biological_process",
+  "label": "interleukin-22 production"
+}

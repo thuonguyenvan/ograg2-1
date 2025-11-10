@@ -1,0 +1,28 @@
+{
+  "id": "GO:0038151",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038151",
+  "relationships": {
+    "is_a": [
+      "GO:0038148",
+      "GO:0038150"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CCL2/CCR2 signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "nhn",
+      "signaling",
+      "bf"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by the binding of the C-C chemokine CCL2 to a C-C chemokine type 2 receptor (CCR2) on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "CCL2-activated CCR2 signaling pathway"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0047498",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047498",
+  "relationships": {
+    "is_a": [
+      "GO:0004623"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "calcium-dependent cytosolic phospholipase A2 activity",
+      "calcium-dependent secreted phospholipase A2 activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-111881",
+      "R-HSA-111883"
+    ],
+    "PMID": [
+      "34831185"
+    ]
+  },
+  "definition": "Catalysis of the reaction: phosphatidylcholine + H2O = 1-acylglycerophosphocholine + a carboxylate. This reaction requires Ca2+.",
+  "namespace": "molecular_function",
+  "label": "PLA2G4A (cPLA2) hydrolyzes phosphatidylcholine"
+}

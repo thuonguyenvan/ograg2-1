@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050416",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050416",
+  "relationships": {
+    "is_a": [
+      "GO:0016813"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "formiminoglutamate deiminase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-formimidoyl-L-glutamate iminohydrolase activity",
+      "formiminoglutamic iminohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.3.13",
+      "3.5.3.13",
+      "3.5.3.13",
+      "3.5.3.13"
+    ],
+    "MetaCyc": [
+      "FORMIMINOGLUTAMATE-DEIMINASE-RXN",
+      "FORMIMINOGLUTAMATE-DEIMINASE-RXN"
+    ],
+    "RHEA": [
+      "22832"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-formimidoyl-L-glutamate + H2O = N-formyl-L-glutamate + NH3.",
+  "namespace": "molecular_function",
+  "label": "formimidoylglutamate deiminase activity"
+}

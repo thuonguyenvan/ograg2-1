@@ -1,0 +1,28 @@
+{
+  "id": "GO:0000373",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000373",
+  "relationships": {
+    "is_a": [
+      "GO:0000377"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "mRNA splicing"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "11377794"
+    ]
+  },
+  "definition": "The splicing of Group II introns. This occurs by a ribozymic mechanism where the intron sequence forms a distinct 3D structure, characteristic of Group II introns and containing splice site consensus sequences, that is involved in catalyzing the splicing reactions, though protein factors are also required in vivo. Splicing occurs by a series of two transesterification reactions (mechanistically similar to those for splicing of nuclear mRNAs) initiated by a bulged adenosine residue within the intron sequence as the initiating nucleophile. The intron is excised as a lariat.",
+  "namespace": "biological_process",
+  "label": "Group II intron splicing"
+}

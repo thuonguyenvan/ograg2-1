@@ -1,0 +1,33 @@
+{
+  "id": "GO:0042207",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042207",
+  "relationships": {
+    "is_a": [
+      "GO:0018966",
+      "GO:0042178",
+      "GO:0120253",
+      "GO:0120256"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "styrene breakdown",
+      "styrene catabolism",
+      "styrene degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "UM-BBD_pathwayID": [
+      "sty"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of styrene, an aromatic hydrocarbon liquid used in the manufacture of polystyrene.",
+  "namespace": "biological_process",
+  "label": "styrene catabolic process"
+}

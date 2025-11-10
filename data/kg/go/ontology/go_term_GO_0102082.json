@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102082",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102082",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.164",
+      "2.1.1.164"
+    ],
+    "MetaCyc": [
+      "RXN-10847"
+    ],
+    "RHEA": [
+      "27353"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4&apos;-demethylrebeccamycin + S-adenosyl-L-methionine = H+ + rebeccamycin + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "demethylrebeccamycin--D-glucose O-methyltransferase activity"
+}

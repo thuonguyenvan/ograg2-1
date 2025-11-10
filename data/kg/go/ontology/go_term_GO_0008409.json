@@ -1,0 +1,27 @@
+{
+  "id": "GO:0008409",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008409",
+  "relationships": {
+    "is_a": [
+      "GO:0004527"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5358599",
+      "R-HSA-5358619"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of ester linkages within nucleic acids by removing nucleotide residues from the 5&apos; end.",
+  "namespace": "molecular_function",
+  "label": "EXO1 interacting with MSH2:MSH3 excises DNA strand containing an insertion/deletion loop (IDL)"
+}

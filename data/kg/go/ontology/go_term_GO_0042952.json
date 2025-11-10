@@ -1,0 +1,28 @@
+{
+  "id": "GO:0042952",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042952",
+  "relationships": {
+    "is_a": [
+      "GO:0009056"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "ortho-cleavage pathway"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "8905091"
+    ]
+  },
+  "definition": "A pathway of aromatic compound degradation by ortho-cleavage; one branch converts protocatechuate, derived from phenolic compounds, to beta-ketoadipate, and the other branch converts catechol, generated from various aromatic hydrocarbons, amino aromatics, and lignin monomers, also to beta-ketoadipate. Two additional steps accomplish the conversion of beta-ketoadipate to tricarboxylic acid cycle intermediates.",
+  "namespace": "biological_process",
+  "label": "beta-ketoadipate pathway"
+}

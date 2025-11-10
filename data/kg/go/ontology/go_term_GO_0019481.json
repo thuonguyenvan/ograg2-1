@@ -1,0 +1,29 @@
+{
+  "id": "GO:0019481",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019481",
+  "relationships": {
+    "is_a": [
+      "GO:0042853"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-alanine breakdown, by transamination",
+      "L-alanine degradation, by transamination"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "ALANINE-DEG3-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-alanine by transamination.",
+  "namespace": "biological_process",
+  "label": "L-alanine catabolic process, by transamination"
+}

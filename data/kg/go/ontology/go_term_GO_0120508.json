@@ -1,0 +1,28 @@
+{
+  "id": "GO:0120508",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120508",
+  "relationships": {
+    "is_a": [
+      "GO:0061695"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GMPPA-GMPPB complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sjm"
+    ],
+    "PMID": [
+      "33986552"
+    ]
+  },
+  "definition": "A protein complex capable of catalyzing the reaction of GTP and mannose-1-phosphate to form GDP-mannose. The complex is a homodimer in most bacteria and a heterodimer in most eukaryotes. In humans, it is composed of a catalytic beta subunit (GMPPB) and a regulatory alpha subunit (GMPPA).",
+  "namespace": "cellular_component",
+  "label": "GDP-mannose pyrophosphorylase complex"
+}

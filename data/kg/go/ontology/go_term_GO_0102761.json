@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102761",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102761",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-7753"
+    ],
+    "RHEA": [
+      "60948",
+      "60948"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-eriodictyol + S-adenosyl-L-methionine = (S)-homoeriodictyol + H+ + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "eriodictyol 3&apos;-O-methyltransferase activity"
+}

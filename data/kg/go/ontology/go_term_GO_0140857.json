@@ -1,0 +1,28 @@
+{
+  "id": "GO:0140857",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140857",
+  "relationships": {
+    "is_a": [
+      "GO:0004674",
+      "GO:0140996"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone kinase activity (H3-T45 specific)",
+      "histone threonine kinase activity (H3-T45 specific)",
+      "histone-threonine kinase activity (H3-T45 specific)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "24820035"
+    ]
+  },
+  "definition": "Catalysis of the reaction: histone H3-threonine (position 45) + ATP = histone H3-phosphothreonine (position 45) + ADP. This reaction is the addition of a phosphate group to the threonine residue at position 45 of histone H3.",
+  "namespace": "molecular_function",
+  "label": "histone H3T45 kinase activity"
+}

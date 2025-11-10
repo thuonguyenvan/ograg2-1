@@ -1,0 +1,29 @@
+{
+  "id": "GO:0032057",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032057",
+  "relationships": {
+    "is_a": [
+      "GO:0045947"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of translation initiation in response to stress",
+      "down-regulation of translation initiation in response to stress",
+      "downregulation of translation initiation in response to stress"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of translation initiation in response to stress"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the rate of translation initiation as a result of a stimulus indicating the organism is under stress.",
+  "namespace": "biological_process",
+  "label": "negative regulation of translational initiation in response to stress"
+}

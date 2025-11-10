@@ -1,0 +1,36 @@
+{
+  "id": "GO:0071816",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071816",
+  "relationships": {
+    "is_a": [
+      "GO:0045048"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein insertion of tail-anchored membrane proteins into ER membrane",
+      "tail-anchored membrane protein insertion into endoplasmic reticulum membrane",
+      "type II transmembrane protein insertion into ER membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "sp",
+      "sp",
+      "mah",
+      "mah",
+      "sp"
+    ],
+    "PMID": [
+      "20516149",
+      "20676083"
+    ]
+  },
+  "definition": "A process of protein insertion into the endoplasmic reticulum (ER) membrane in which a tail-anchored (TA) transmembrane protein is incorporated into an endoplasmic reticulum (ER) membrane. TA transmembrane protein, also named type II transmembrane proteins, contain a single C- terminal transmembrane region.",
+  "namespace": "biological_process",
+  "label": "tail-anchored membrane protein insertion into ER membrane"
+}

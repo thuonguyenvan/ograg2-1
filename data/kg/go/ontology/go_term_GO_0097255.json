@@ -1,0 +1,27 @@
+{
+  "id": "GO:0097255",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097255",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mcc"
+    ],
+    "PMID": [
+      "15766533",
+      "21925213"
+    ]
+  },
+  "definition": "A highly conserved protein complex comprised of two ATP-dependent DNA helicases (Rvb1p and Rvb2p in yeast, Pontin52 and Reptin52 in humans), Pih1p in yeast or PIH1D1 in humans, and Tah1 in yeast or RPAP3 in humans. The complex associates with Hsp90 and is thought to have a role in assembly of large protein or protein/nucleic acid complexes. In this role it is involved in multiple processes such as box C/D snoRNP biogenesis, phosphatidylinositol-3 kinase-related protein kinase (PIKK) signaling, RNA polymerase II assembly, and others.",
+  "namespace": "cellular_component",
+  "label": "R2TP complex"
+}

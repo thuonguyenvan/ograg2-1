@@ -1,0 +1,31 @@
+{
+  "id": "GO:0061953",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061953",
+  "relationships": {
+    "is_a": [
+      "GO:0008174"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9937508",
+      "R-HSA-9937512",
+      "R-HSA-9937518",
+      "R-HSA-9937521",
+      "R-HSA-9937529",
+      "R-HSA-9937535"
+    ],
+    "PMID": [
+      "29072297"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + adenine in mRNA = S-adenosyl-L-homocysteine + N(1)-methyladenine in mRNA.",
+  "namespace": "molecular_function",
+  "label": "TRMT61B methylates adenosine-252 of MT-ND4L mRNA"
+}

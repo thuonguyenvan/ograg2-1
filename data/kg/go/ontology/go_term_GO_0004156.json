@@ -1,0 +1,51 @@
+{
+  "id": "GO:0004156",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004156",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(2-amino-4-hydroxy-7,8-dihydropteridin-6-yl)methyl-diphosphate:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase activity",
+      "2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine-diphosphate:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase activity",
+      "7,8-dihydropteroate synthase activity",
+      "7,8-dihydropteroate synthetase activity",
+      "7,8-dihydropteroic acid synthetase activity",
+      "DHPS activity",
+      "dihydropteroate diphosphorylase activity",
+      "dihydropteroate pyrophosphorylase activity",
+      "dihydropteroate synthetase activity",
+      "dihydropteroic synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.15",
+      "2.5.1.15",
+      "2.5.1.15",
+      "2.5.1.15",
+      "2.5.1.15",
+      "2.5.1.15",
+      "2.5.1.15",
+      "2.5.1.15",
+      "2.5.1.15",
+      "2.5.1.15",
+      "2.5.1.15",
+      "2.5.1.15"
+    ],
+    "MetaCyc": [
+      "H2PTEROATESYNTH-RXN"
+    ],
+    "RHEA": [
+      "19949"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine diphosphate + 4-aminobenzoate = diphosphate + dihydropteroate.",
+  "namespace": "molecular_function",
+  "label": "dihydropteroate synthase activity"
+}

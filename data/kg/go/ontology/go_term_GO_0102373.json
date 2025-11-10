@@ -1,0 +1,39 @@
+{
+  "id": "GO:0102373",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102373",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ursolic aldehyde 28-monooxygenase activity",
+      "uvaol dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.126"
+    ],
+    "KEGG_REACTION": [
+      "R10924"
+    ],
+    "MetaCyc": [
+      "RXN-13509"
+    ],
+    "RHEA": [
+      "43068",
+      "43068"
+    ],
+    "PMID": [
+      "22039103"
+    ]
+  },
+  "definition": "Catalysis of the reaction: beta-amyrin + 3 O2 + 3 reduced [NADPH--hemoprotein reductase] = 4 H+ + 4 H2O + oleanolate + 3 oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "beta-amyrin 28-monooxygenase activity"
+}

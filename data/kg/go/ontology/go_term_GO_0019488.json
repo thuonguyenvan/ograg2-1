@@ -1,0 +1,30 @@
+{
+  "id": "GO:0019488",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019488",
+  "relationships": {
+    "is_a": [
+      "GO:0046363",
+      "GO:0051167"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ribitol breakdown to xylulose 5-phosphate",
+      "ribitol degradation to xylulose 5-phosphate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ribitol utilization"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RIBITOLUTIL-PWY",
+      "RIBITOLUTIL-PWY"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of ribitol to form D-xylulose 5-phosphate. Ribitol is initially converted to D-ribulose, which is phosphorylated to form D-ribulose 5-phosphate, which is then converted into D-xylulose 5-phosphate.",
+  "namespace": "biological_process",
+  "label": "ribitol catabolic process to D-xylulose 5-phosphate"
+}

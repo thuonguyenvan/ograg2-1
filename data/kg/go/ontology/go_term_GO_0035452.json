@@ -1,0 +1,28 @@
+{
+  "id": "GO:0035452",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035452",
+  "relationships": {
+    "is_a": [
+      "GO:0031312"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peripheral to plastid membrane"
+    ],
+    "broad": [],
+    "narrow": [
+      "extrinsic to plastid membrane"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "dos"
+    ]
+  },
+  "definition": "The component of a plastid membrane consisting of gene products and protein complexes that are loosely bound to one of its surfaces, but not integrated into the hydrophobic region.",
+  "namespace": "cellular_component",
+  "label": "extrinsic component of plastid membrane"
+}

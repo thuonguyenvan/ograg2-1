@@ -1,0 +1,35 @@
+{
+  "id": "GO:0035447",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035447",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acetyl-CoA:Cys-GlcN-Ins acetyltransferase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.189",
+      "2.3.1.189"
+    ],
+    "MetaCyc": [
+      "RXN1G-4"
+    ],
+    "RHEA": [
+      "26172"
+    ],
+    "PMID": [
+      "12033919"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1D-myo-inositol-2-(L-cysteinylamido)-2-deoxy-alpha-D-glucopyranoside + acetyl-CoA = mycothiol + coA + H+. Mycothiol is also known as AcCys-GlcN-Ins and 1-D-myo-inosityl-2-L-cysteinylamido-2-deoxy-alpha-D-glucopyranoside as Cys-GlcN-Ins or desacetylmycothiol.",
+  "namespace": "molecular_function",
+  "label": "mycothiol synthase activity"
+}

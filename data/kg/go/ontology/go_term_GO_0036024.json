@@ -1,0 +1,42 @@
+{
+  "id": "GO:0036024",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036024",
+  "relationships": {
+    "is_a": [
+      "GO:0097180"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PCI-TMPRSS7 complex",
+      "SERPINA5-TMPRSS7 complex",
+      "plasma serine protease inhibitor-TMPRSS7 complex",
+      "protein C inhibitor-matriptase-3 complex",
+      "protein C inhibitor-transmembrane protease serine 7 complex",
+      "serpin A5-TMPRSS7 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ans"
+    ],
+    "PMID": [
+      "15853774",
+      "15853774"
+    ],
+    "PR": [
+      "000014685",
+      "000014685",
+      "000014685",
+      "000016461",
+      "000016461",
+      "000014685"
+    ]
+  },
+  "definition": "A heterodimeric protein complex that contains protein C inhibitor (SERPINA5) and transmembrane protease serine 7 (TMPRSS7); formation of the complex inhibits the serine protease activity of transmembrane protease serine 7.",
+  "namespace": "cellular_component",
+  "label": "protein C inhibitor-TMPRSS7 complex"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0032609",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032609",
+  "relationships": {
+    "is_a": [
+      "GO:0001816"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IFNG production",
+      "interferon-gamma production",
+      "type II IFN production"
+    ],
+    "broad": [],
+    "narrow": [
+      "interferon-gamma biosynthetic process",
+      "interferon-gamma secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "15546383"
+    ]
+  },
+  "definition": "The appearance of interferon-gamma due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels. Interferon-gamma is also known as type II interferon.",
+  "namespace": "biological_process",
+  "label": "type II interferon production"
+}

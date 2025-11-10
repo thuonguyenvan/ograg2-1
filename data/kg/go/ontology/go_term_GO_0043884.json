@@ -1,0 +1,41 @@
+{
+  "id": "GO:0043884",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043884",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CO-methylating acetyl-coenzyme A synthase activity",
+      "acetyl-CoA:corrinoid protein O-acetyltransferase activity"
+    ],
+    "broad": [
+      "acetyl-CoA synthase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ACS"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.169",
+      "2.3.1.169",
+      "2.3.1.169"
+    ],
+    "MetaCyc": [
+      "ACETYLSYNCLTH-RXN"
+    ],
+    "RHEA": [
+      "45212"
+    ],
+    "PMID": [
+      "1748656"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + corrinoid protein = CO + methylcorrinoid protein + CoA.",
+  "namespace": "molecular_function",
+  "label": "CO-methylating acetyl-CoA synthase activity"
+}

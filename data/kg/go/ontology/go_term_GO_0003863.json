@@ -1,0 +1,75 @@
+{
+  "id": "GO:0003863",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003863",
+  "relationships": {
+    "is_a": [
+      "GO:0016624"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring) activity",
+      "alpha-ketoacid dehydrogenase activity"
+    ],
+    "related": [
+      "2-oxoisocaproate dehydrogenase activity",
+      "2-oxoisovalerate (lipoate) dehydrogenase activity",
+      "3-methyl-2-oxobutanoate dehydrogenase (lipoamide) activity",
+      "3-methyl-2-oxobutanoate:dihydrolipoyllysine-residue (2-methylpropanoyl)transferase-lipoyllysine 2-oxidoreductase (decarboxylating, acceptor-2-methylpropanoylating)",
+      "3-methyl-2-oxobutanoate:lipoamide oxidoreductase (decarboxylating and acceptor-2-methylpropanoylating) activity",
+      "BCKDH activity",
+      "BCOAD activity",
+      "alpha-keto-alpha-methylvalerate dehydrogenase activity",
+      "alpha-ketoisocaproate dehydrogenase activity",
+      "alpha-ketoisocaproic dehydrogenase activity",
+      "alpha-ketoisocaproic-alpha-keto-alpha-methylvaleric dehydrogenase activity",
+      "alpha-ketoisovalerate dehydrogenase activity",
+      "alpha-oxoisocaproate dehydrogenase activity",
+      "branched chain keto acid dehydrogenase activity",
+      "branched-chain (-2-oxoacid) dehydrogenase (BCD) activity",
+      "branched-chain 2-keto acid dehydrogenase activity",
+      "branched-chain alpha-keto acid dehydrogenase activity",
+      "branched-chain alpha-oxo acid dehydrogenase activity",
+      "branched-chain keto acid dehydrogenase activity",
+      "branched-chain ketoacid dehydrogenase activity",
+      "dehydrogenase, 2-oxoisovalerate (lipoate) activity",
+      "dehydrogenase, branched chain alpha-keto acid activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4",
+      "1.2.4.4"
+    ],
+    "MetaCyc": [
+      "1.2.4.4-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(6)-[(R)-lipoyl]-L-lysyl-[dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] + 3-methyl-2-oxobutanoate + H+ = N(6)-[(R)-S(8)-2-methylpropanoyldihydrolipoyl]-L-lysyl-[dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] + CO2. Also acts on 4-methyl-2-oxopentanoate and (S)-3-methyl-2-oxopentanoate, so that it acts on the 2-oxo acids that derive from the action of transaminases on valine, leucine and isoleucine.",
+  "namespace": "molecular_function",
+  "label": "branched-chain 2-oxo acid dehydrogenase activity"
+}

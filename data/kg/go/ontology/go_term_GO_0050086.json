@@ -1,0 +1,36 @@
+{
+  "id": "GO:0050086",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050086",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-mannitol dehydrogenase activity",
+      "D-mannitol:NAD+ 2-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.67",
+      "1.1.1.67",
+      "1.1.1.67",
+      "1.1.1.67"
+    ],
+    "MetaCyc": [
+      "MANNITOL-2-DEHYDROGENASE-RXN",
+      "MANNITOL-2-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "12084"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-mannitol + NAD+ = D-fructose + NADH.",
+  "namespace": "molecular_function",
+  "label": "mannitol 2-dehydrogenase activity"
+}

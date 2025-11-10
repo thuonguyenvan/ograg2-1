@@ -1,0 +1,34 @@
+{
+  "id": "GO:1990904",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990904",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA-protein complex",
+      "RNP",
+      "protein-RNA complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "extracellular ribonucleoprotein complex",
+      "intracellular ribonucleoprotein complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Ribonucleoprotein"
+    ],
+    "GOC": [
+      "krc",
+      "vesicles"
+    ]
+  },
+  "definition": "A macromolecular complex that contains both RNA and protein molecules.",
+  "namespace": "cellular_component",
+  "label": "ribonucleoprotein complex"
+}

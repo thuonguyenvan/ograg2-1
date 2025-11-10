@@ -1,0 +1,28 @@
+{
+  "id": "GO:0000080",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000080",
+  "relationships": {
+    "is_a": [
+      "GO:0051318"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G1 phase of mitotic cell cycle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-69236"
+    ],
+    "GOC": [
+      "mtg_cell_cycle"
+    ]
+  },
+  "definition": "The cell cycle &apos;gap&apos; phase which is the interval between the completion of DNA segregation by mitosis and the beginning of DNA synthesis.",
+  "namespace": "biological_process",
+  "label": "G1 Phase"
+}

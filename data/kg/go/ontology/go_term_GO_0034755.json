@@ -1,0 +1,42 @@
+{
+  "id": "GO:0034755",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034755",
+  "relationships": {
+    "is_a": [
+      "GO:0006826",
+      "GO:0098655"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "iron ion membrane transport",
+      "transmembrane iron transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "ferrous ion transmembrane transport",
+      "ferrous iron transmembrane transport",
+      "high affinity ferrous ion transmembrane transport",
+      "high affinity iron ion transport",
+      "high-affinity ferrous ion transmembrane transport",
+      "high-affinity iron ion transmembrane transport",
+      "high-affinity iron ion transport",
+      "iron(2+) transmembrane transport",
+      "low affinity iron ion transport",
+      "low-affinity iron ion transmembrane transport",
+      "low-affinity iron ion transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "11390404"
+    ]
+  },
+  "definition": "A process in which an iron ion is transported from one side of a membrane to the other by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "iron ion transmembrane transport"
+}

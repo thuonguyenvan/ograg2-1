@@ -1,0 +1,68 @@
+{
+  "id": "GO:0008803",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008803",
+  "relationships": {
+    "is_a": [
+      "GO:0008796"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "Ap(4)A hydrolase activity",
+      "Ap4A hydrolase activity"
+    ],
+    "narrow": [
+      "diadenosine tetraphosphatase (symmetrical)"
+    ],
+    "related": [
+      "1-P,4-P-bis(5&apos;-nucleosyl)-tetraphosphate nucleosidebisphosphohydrolase activity",
+      "P1,P4-bis(5&apos;-nucleosyl)-tetraphosphate nucleosidebisphosphohydrolase activity",
+      "adenosine tetraphosphate phosphodiesterase activity",
+      "bis(5&apos;-adenosyl) tetraphosphatase activity",
+      "diadenosine 5&apos;,5&apos;&apos;&apos;-P(1),P(4)-tetraphosphate pyrophosphohydrolase activity",
+      "diadenosine 5&apos;,5&apos;&apos;&apos;-P1,P4-tetraphosphatase activity",
+      "diadenosine 5&apos;,5&apos;&apos;&apos;-P1,P4-tetraphosphate pyrophosphohydrolase activity",
+      "diadenosine polyphosphate hydrolase activity",
+      "diadenosine tetraphosphate hydrolase activity",
+      "diadenosinetetraphosphatase (symmetrical) activity",
+      "dinucleosidetetraphosphatase (symmetrical) activity",
+      "dinucleosidetetraphosphate (symmetrical)",
+      "symmetrical diadenosine tetraphosphate hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.41",
+      "3.6.1.41",
+      "3.6.1.41",
+      "3.6.1.41",
+      "3.6.1.41",
+      "3.6.1.41",
+      "3.6.1.41",
+      "3.6.1.41",
+      "3.6.1.41",
+      "3.6.1.41",
+      "3.6.1.41",
+      "3.6.1.41",
+      "3.6.1.41",
+      "3.6.1.41",
+      "3.6.1.41",
+      "3.6.1.41",
+      "3.6.1.41"
+    ],
+    "KEGG_REACTION": [
+      "R00125"
+    ],
+    "MetaCyc": [
+      "3.6.1.41-RXN"
+    ],
+    "RHEA": [
+      "24252",
+      "24252"
+    ]
+  },
+  "definition": "Catalysis of the reaction: P(1),P(4)-bis(5&apos;-adenosyl) tetraphosphate + H2O = 2 ADP + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "bis(5&apos;-nucleosyl)-tetraphosphatase (symmetrical) activity"
+}

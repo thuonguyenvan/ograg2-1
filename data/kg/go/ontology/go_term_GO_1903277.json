@@ -1,0 +1,63 @@
+{
+  "id": "GO:1903277",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903277",
+  "relationships": {
+    "is_a": [
+      "GO:1902306",
+      "GO:1903276"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of sodium ion export from cell",
+      "down-regulation of sodium ion export from cell",
+      "downregulation of sodium ion export from cell",
+      "negative regulation of sodium ion export from cell"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of sodium export",
+      "inhibition of sodium ion export",
+      "inhibition of sodium ion export from cell"
+    ],
+    "related": [
+      "down regulation of sodium export",
+      "down regulation of sodium ion export",
+      "down-regulation of sodium export",
+      "down-regulation of sodium ion export",
+      "downregulation of sodium export",
+      "downregulation of sodium ion export",
+      "negative regulation of sodium export",
+      "negative regulation of sodium ion export"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "17095720"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of sodium ion export across the plasma membrane.",
+  "namespace": "biological_process",
+  "label": "negative regulation of sodium ion export across plasma membrane"
+}

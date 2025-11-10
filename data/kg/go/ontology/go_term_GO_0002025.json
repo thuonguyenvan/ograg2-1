@@ -1,0 +1,31 @@
+{
+  "id": "GO:0002025",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002025",
+  "relationships": {
+    "is_a": [
+      "GO:0003085",
+      "GO:0042311"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "noradrenaline-adrenaline vasodilation involved in regulation of blood pressure",
+      "norepinephrine-epinephrine vasodilation during blood pressure regulation",
+      "vasodilation by norepinephrine-epinephrine involved in regulation of systemic arterial blood pressure"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cardio"
+    ],
+    "PMID": [
+      "10358008"
+    ]
+  },
+  "definition": "A process that results in an increase in the diameter of an artery during the norepinephrine-epinephrine response to blood pressure change.",
+  "namespace": "biological_process",
+  "label": "norepinephrine-epinephrine-mediated vasodilation involved in regulation of systemic arterial blood pressure"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0006111",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006111",
+  "relationships": {
+    "is_a": [
+      "GO:0010906",
+      "GO:0043255"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "regulation of glucose biosynthesis",
+      "regulation of glucose biosynthetic process"
+    ],
+    "narrow": [],
+    "related": [
+      "regulation of gluconeogenesis involved in cellular glucose homeostasis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of gluconeogenesis, the formation of glucose from noncarbohydrate precursors, such as pyruvate, amino acids and glycerol.",
+  "namespace": "biological_process",
+  "label": "regulation of gluconeogenesis"
+}

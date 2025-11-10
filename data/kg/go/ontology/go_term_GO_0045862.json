@@ -1,0 +1,32 @@
+{
+  "id": "GO:0045862",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045862",
+  "relationships": {
+    "is_a": [
+      "GO:0030162",
+      "GO:0051247"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of peptidolysis",
+      "up regulation of proteolysis",
+      "up-regulation of proteolysis",
+      "upregulation of proteolysis"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of proteolysis",
+      "stimulation of proteolysis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the hydrolysis of a peptide bond or bonds within a protein.",
+  "namespace": "biological_process",
+  "label": "positive regulation of proteolysis"
+}

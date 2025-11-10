@@ -1,0 +1,42 @@
+{
+  "id": "GO:0050365",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050365",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "L-tryptophan aminopeptidase",
+      "tryptophan aminopeptidase"
+    ],
+    "narrow": [],
+    "related": [
+      "L-tryptophanamide amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.57",
+      "3.5.1.57",
+      "3.5.1.57",
+      "3.5.1.57",
+      "3.5.1.57"
+    ],
+    "KEGG_REACTION": [
+      "R00682"
+    ],
+    "MetaCyc": [
+      "TRYPTOPHANAMIDASE-RXN"
+    ],
+    "RHEA": [
+      "11012",
+      "11012"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-tryptophanamide + H2O = L-tryptophan + NH4.",
+  "namespace": "molecular_function",
+  "label": "tryptophanamidase activity"
+}

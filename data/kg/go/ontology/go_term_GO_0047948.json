@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047948",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047948",
+  "relationships": {
+    "is_a": [
+      "GO:0016878"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glutarate:CoA ligase (ADP-forming)",
+      "glutaryl coenzyme A synthetase activity",
+      "glutaryl-CoA synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.2.1.6",
+      "6.2.1.6",
+      "6.2.1.6",
+      "6.2.1.6",
+      "6.2.1.6"
+    ],
+    "KEGG_REACTION": [
+      "R02402"
+    ],
+    "MetaCyc": [
+      "GLUTARATE--COA-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "14169",
+      "14169"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + CoA + glutarate = ADP + glutaryl-CoA + H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "glutarate-CoA ligase activity"
+}

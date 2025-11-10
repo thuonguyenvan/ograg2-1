@@ -1,0 +1,44 @@
+{
+  "id": "GO:0044878",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044878",
+  "relationships": {
+    "is_a": [
+      "GO:0007093",
+      "GO:0010972"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitotic cytokinesis checkpoint",
+      "signal transduction involved in mitotic cytokinesis checkpoint",
+      "signaling pathway involved in mitotic cytokinesis checkpoint",
+      "signalling cascade involved in mitotic cytokinesis checkpoint"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cytokinesis after mitosis checkpoint",
+      "defective cytokinesis checkpoint",
+      "signalling pathway involved in mitotic cytokinesis checkpoint"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mtg_cell_cycle",
+      "TermGenie",
+      "TermGenie",
+      "dph",
+      "vw",
+      "dph",
+      "vw",
+      "TermGenie"
+    ],
+    "PMID": [
+      "17538026"
+    ]
+  },
+  "definition": "A signaling process that contributes to a mitotic cell cycle checkpoint that detects a defect in cytokinesis and prevents further rounds of nuclear division until cytokinesis is completed.",
+  "namespace": "biological_process",
+  "label": "mitotic cytokinesis checkpoint signaling"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0043097",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043097",
+  "relationships": {
+    "is_a": [
+      "GO:0008655",
+      "GO:0043174",
+      "GO:0046134"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-73614"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process that generates a pyrimidine nucleoside, one of a family of organic molecules consisting of a pyrimidine base covalently bonded to a sugar ribose, from derivatives of it, without de novo synthesis.",
+  "namespace": "biological_process",
+  "label": "Pyrimidine salvage"
+}

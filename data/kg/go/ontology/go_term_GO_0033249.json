@@ -1,0 +1,29 @@
+{
+  "id": "GO:0033249",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033249",
+  "relationships": {
+    "is_a": [
+      "GO:0009896",
+      "GO:0033246",
+      "GO:0033247"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of penicillin breakdown",
+      "positive regulation of penicillin catabolism",
+      "positive regulation of penicillin degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways leading to the breakdown of any antibiotic that contains the condensed beta-lactamthiazolidine ring system.",
+  "namespace": "biological_process",
+  "label": "positive regulation of penicillin catabolic process"
+}

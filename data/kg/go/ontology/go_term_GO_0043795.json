@@ -1,0 +1,30 @@
+{
+  "id": "GO:0043795",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043795",
+  "relationships": {
+    "is_a": [
+      "GO:0016903"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.99.8"
+    ],
+    "RHEA": [
+      "36047",
+      "36047"
+    ],
+    "PMID": [
+      "10095793"
+    ]
+  },
+  "definition": "Catalysis of the reaction: A + D-glyceraldehyde + H2O = (R)-glycerate + AH2 + H+.",
+  "namespace": "molecular_function",
+  "label": "glyceraldehyde oxidoreductase activity"
+}

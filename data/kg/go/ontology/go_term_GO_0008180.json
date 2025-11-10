@@ -1,0 +1,34 @@
+{
+  "id": "GO:0008180",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008180",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "COP9 complex",
+      "CSN"
+    ],
+    "broad": [
+      "signalosome"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11019806",
+      "12186635",
+      "14570571"
+    ],
+    "GOC": [
+      "krc",
+      "krc"
+    ]
+  },
+  "definition": "A protein complex that catalyzes the deneddylation of proteins, including the cullin component of SCF ubiquitin E3 ligase; deneddylation increases the activity of cullin family ubiquitin ligases. The signalosome is involved in many regulatory process, including some which control development, in many species; also regulates photomorphogenesis in plants; in many species its subunits are highly similar to those of the proteasome.",
+  "namespace": "cellular_component",
+  "label": "COP9 signalosome"
+}

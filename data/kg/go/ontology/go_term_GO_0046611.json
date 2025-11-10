@@ -1,0 +1,33 @@
+{
+  "id": "GO:0046611",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046611",
+  "relationships": {
+    "is_a": [
+      "GO:0016471"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lysosomal hydrogen-translocating V-type ATPase complex"
+    ],
+    "broad": [
+      "lysosomal membrane hydrogen-transporting ATPase"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0716743663"
+    ],
+    "PMID": [
+      "16449553"
+    ]
+  },
+  "definition": "A proton-transporting two-sector ATPase complex found in the lysosomal membrane, where it acts as a proton pump to mediate acidification of the lysosomal lumen.",
+  "namespace": "cellular_component",
+  "label": "lysosomal proton-transporting V-type ATPase complex"
+}

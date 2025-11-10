@@ -1,0 +1,51 @@
+{
+  "id": "GO:0036500",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036500",
+  "relationships": {
+    "is_a": [
+      "GO:0006984",
+      "GO:0030968"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATF6 branch of UPR",
+      "UPR signaling by ATF6 stress sensor",
+      "activating transcription factor 6 signaling in unfolded protein response",
+      "endoplasmic reticulum unfolded protein response; ATF6 signaling"
+    ],
+    "broad": [
+      "ATF6 signal transduction pathway"
+    ],
+    "narrow": [
+      "ATF6-alpha UPR branch",
+      "ATF6-beta UPR branch"
+    ],
+    "related": [
+      "ATF6 signaling in response to endoplasmic reticulum stress"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-381033"
+    ],
+    "GOC": [
+      "PARL",
+      "bf",
+      "bf",
+      "bf",
+      "bf",
+      "bf",
+      "bf",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "22013210"
+    ]
+  },
+  "definition": "The series of molecular signals mediated by the endoplasmic reticulum membrane stress sensor ATF6 (activating transcription factor 6). Begins with activation of ATF6 in response to endoplasmic reticulum (ER) stress, and ends with regulation of a downstream cellular process, e.g. transcription. Under conditions of endoplasmic reticulum stress, ATF6 translocates to the Golgi where it is processed by proteases to release a cytoplasmic domain (ATF6f), which operates as a transcriptional activator of many genes required to restore folding capacity.",
+  "namespace": "biological_process",
+  "label": "ATF6 (ATF6-alpha) activates chaperones"
+}

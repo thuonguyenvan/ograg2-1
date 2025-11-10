@@ -1,0 +1,32 @@
+{
+  "id": "GO:0051430",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051430",
+  "relationships": {
+    "is_a": [
+      "GO:0051429"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CRHR1 binding",
+      "type 1 corticotropin releasing factor receptor binding",
+      "type 1 corticotropin-releasing factor receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "type 1 corticotropin releasing factor receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "15134857"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Binding to a corticotropin-releasing hormone receptor 1 (CRHR1). CRHR1 is the major subtype in the pituitary corticotroph, and mediates the stimulatory actions of corticotropin-releasing hormone on corticotropin hormone secretion. CRHR1 are also located in cortical areas of the brain, cerebellum and limbic system.",
+  "namespace": "molecular_function",
+  "label": "corticotropin-releasing hormone receptor 1 binding"
+}

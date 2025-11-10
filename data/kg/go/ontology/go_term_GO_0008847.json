@@ -1,0 +1,30 @@
+{
+  "id": "GO:0008847",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008847",
+  "relationships": {
+    "is_a": [
+      "GO:0004521",
+      "GO:0016849"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Enterobacter RNase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.6.1.21",
+      "4.6.1.21"
+    ],
+    "MetaCyc": [
+      "3.1.27.6-RXN"
+    ]
+  },
+  "definition": "Catalysis of the endonucleolytic cleavage to 3&apos;-phosphomononucleotides and 3&apos;-phosphooligonucleotides with 2&apos;,3&apos;-cyclic phosphate intermediates.",
+  "namespace": "molecular_function",
+  "label": "Enterobacter ribonuclease activity"
+}

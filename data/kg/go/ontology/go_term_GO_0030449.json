@@ -1,0 +1,30 @@
+{
+  "id": "GO:0030449",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030449",
+  "relationships": {
+    "is_a": [
+      "GO:0002697",
+      "GO:0002920"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of complement cascade"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-977606"
+    ],
+    "GOC": [
+      "go_curators",
+      "add"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of complement activation.",
+  "namespace": "biological_process",
+  "label": "Regulation of Complement cascade"
+}

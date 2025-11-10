@@ -1,0 +1,50 @@
+{
+  "id": "GO:0003883",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003883",
+  "relationships": {
+    "is_a": [
+      "GO:0016879"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CTP synthetase activity",
+      "UTP--ammonia ligase activity",
+      "UTP:ammonia ligase (ADP-forming)",
+      "cytidine 5&apos;-triphosphate synthetase activity",
+      "cytidine triphosphate synthetase activity",
+      "uridine triphosphate aminase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.4.2",
+      "6.3.4.2",
+      "6.3.4.2",
+      "6.3.4.2",
+      "6.3.4.2",
+      "6.3.4.2",
+      "6.3.4.2"
+    ],
+    "MetaCyc": [
+      "CTPSYN-RXN"
+    ],
+    "RHEA": [
+      "26426",
+      "26426"
+    ],
+    "Reactome": [
+      "R-HSA-504054",
+      "R-HSA-73647"
+    ],
+    "PMID": [
+      "12354108"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + UTP + glutamine + H20= ADP + phosphate + CTP + glutamate.",
+  "namespace": "molecular_function",
+  "label": "UTP + glutamine + ATP + H2O =&gt; CTP + glutamate + ADP + orthophosphate [CTPS]"
+}

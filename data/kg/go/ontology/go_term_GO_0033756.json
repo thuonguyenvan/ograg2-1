@@ -1,0 +1,36 @@
+{
+  "id": "GO:0033756",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033756",
+  "relationships": {
+    "is_a": [
+      "GO:0016703",
+      "GO:0045289"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Oplophorus luciferase activity",
+      "Oplophorus-luciferin:oxygen 2-oxidoreductase (decarboxylating) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.12.13",
+      "1.13.12.13",
+      "1.13.12.13",
+      "1.13.12.13"
+    ],
+    "MetaCyc": [
+      "RXN-3361"
+    ],
+    "RHEA": [
+      "20417"
+    ]
+  },
+  "definition": "Catalysis of the reaction: Oplophorus luciferin + O2 = oxidized Oplophorus luciferin + CO2 + hnu.",
+  "namespace": "molecular_function",
+  "label": "Oplophorus-luciferin 2-monooxygenase activity"
+}

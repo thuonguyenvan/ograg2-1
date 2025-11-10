@@ -1,0 +1,32 @@
+{
+  "id": "GO:0045597",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045597",
+  "relationships": {
+    "is_a": [
+      "GO:0045595",
+      "GO:0048522",
+      "GO:0051094"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of cell differentiation",
+      "up-regulation of cell differentiation",
+      "upregulation of cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of cell differentiation",
+      "stimulation of cell differentiation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of cell differentiation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cell differentiation"
+}

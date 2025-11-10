@@ -1,0 +1,28 @@
+{
+  "id": "GO:0043227",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043227",
+  "relationships": {
+    "is_a": [
+      "GO:0043226"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "membrane-enclosed organelle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao414196390"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Organized structure of distinctive morphology and function, bounded by a single or double lipid bilayer membrane. Includes the nucleus, mitochondria, plastids, vacuoles, and vesicles. Excludes the plasma membrane.",
+  "namespace": "cellular_component",
+  "label": "membrane-bounded organelle"
+}

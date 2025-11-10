@@ -1,0 +1,30 @@
+{
+  "id": "GO:0032196",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032196",
+  "relationships": {
+    "is_a": [
+      "GO:0009987"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Transposon"
+    ],
+    "ISBN": [
+      "1555812090"
+    ],
+    "PMID": [
+      "14682279",
+      "25893143"
+    ]
+  },
+  "definition": "Any process involved in mediating the movement of discrete segments of DNA between nonhomologous sites. For elements that are transcribed as the first step of transposition, the process starts with the transcription of the transposable element, its translation and maturation, and ending with integration into DNA. For elements that are cut out, the process starts with the excision of the donor DNA and integrated into another site.",
+  "namespace": "biological_process",
+  "label": "transposition"
+}

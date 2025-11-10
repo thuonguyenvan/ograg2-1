@@ -1,0 +1,27 @@
+{
+  "id": "GO:0044104",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044104",
+  "relationships": {
+    "is_a": [
+      "GO:0016620"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2,5-dioxopentanoate dehydrogenase (NAD+) activity",
+      "2,5-dioxopentanoate:NAD+ 5-oxidoreductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "16835232",
+      "17202142"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,5-dioxopentanoate + NAD+ + H2O = 2-oxoglutarate + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "2,5-dioxovalerate dehydrogenase (NAD+) activity"
+}

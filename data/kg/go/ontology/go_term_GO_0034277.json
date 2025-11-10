@@ -1,0 +1,38 @@
+{
+  "id": "GO:0034277",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034277",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ent-copalyl-diphosphate diphosphate-lyase (ent-cassa-12,15-diene-forming) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.28",
+      "4.2.3.28",
+      "4.2.3.28"
+    ],
+    "KEGG_REACTION": [
+      "R09119",
+      "R09119"
+    ],
+    "MetaCyc": [
+      "RXN-4881"
+    ],
+    "RHEA": [
+      "25532",
+      "25532"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ent-copalyl diphosphate = ent-cassa-12,15-diene + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "ent-cassa-12,15-diene synthase activity"
+}

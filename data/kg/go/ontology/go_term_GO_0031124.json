@@ -1,0 +1,30 @@
+{
+  "id": "GO:0031124",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031124",
+  "relationships": {
+    "is_a": [
+      "GO:0006397",
+      "GO:0031123"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mRNA 3&apos; end processing"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-72187",
+      "R-HSA-75067"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process involved in forming the mature 3&apos; end of an mRNA molecule.",
+  "namespace": "biological_process",
+  "label": "Processing of Capped Intronless Pre-mRNA"
+}

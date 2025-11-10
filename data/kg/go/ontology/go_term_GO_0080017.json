@@ -1,0 +1,35 @@
+{
+  "id": "GO:0080017",
+  "uri": "http://purl.obolibrary.org/obo/GO_0080017",
+  "relationships": {
+    "is_a": [
+      "GO:0009975",
+      "GO:0010334"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.104"
+    ],
+    "MetaCyc": [
+      "RXN-8415"
+    ],
+    "RHEA": [
+      "31895",
+      "31895"
+    ],
+    "PMID": [
+      "12566586",
+      "9442047"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-trans,6-trans-farnesyl diphosphate = alpha-humulene + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "alpha-humulene synthase activity"
+}

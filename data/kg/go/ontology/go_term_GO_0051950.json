@@ -1,0 +1,43 @@
+{
+  "id": "GO:0051950",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051950",
+  "relationships": {
+    "is_a": [
+      "GO:0032892",
+      "GO:0051943",
+      "GO:0051947"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of 4-aminobutyrate reuptake",
+      "positive regulation of 4-aminobutyrate uptake during transmission of nerve impulse",
+      "positive regulation of GABA reuptake",
+      "positive regulation of GABA uptake during transmission of nerve impulse",
+      "positive regulation of gamma-aminobutyric acid reuptake",
+      "positive regulation of gamma-aminobutyric acid uptake involved in conduction of nerve impulse",
+      "up regulation of gamma-aminobutyric acid uptake during transmission of nerve impulse",
+      "up-regulation of gamma-aminobutyric acid uptake during transmission of nerve impulse",
+      "upregulation of gamma-aminobutyric acid uptake during transmission of nerve impulse"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of gamma-aminobutyric acid uptake during transmission of nerve impulse",
+      "stimulation of gamma-aminobutyric acid uptake during transmission of nerve impulse"
+    ],
+    "related": [
+      "positive regulation of gamma-aminobutyric acid uptake during transmission of nerve impulse"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that activates, maintains or increases the frequency, rate or extent of the directed movement of gamma-aminobutyric acid (GABA, 4-aminobutyrate) into a neuron or glial cell.",
+  "namespace": "biological_process",
+  "label": "positive regulation of gamma-aminobutyric acid uptake involved in transmission of nerve impulse"
+}

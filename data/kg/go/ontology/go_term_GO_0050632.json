@@ -1,0 +1,61 @@
+{
+  "id": "GO:0050632",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050632",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "propionyl-CoA C(2)-trimethyltridecanoyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "peroxisomal 3-oxoacyl coenzyme A thiolase",
+      "peroxisome sterol carrier protein thiolase"
+    ],
+    "related": [
+      "3-oxopristanoyl-CoA hydrolase activity",
+      "3-oxopristanoyl-CoA thiolase activity",
+      "4,8,12-trimethyltridecanoyl-CoA:propanoyl-CoA 2-C-4,8,12-trimethyltridecanoyltransferase activity",
+      "4,8,12-trimethyltridecanoyl-CoA:propanoyl-CoA C2-4,8,12-trimethyltridecanoyltransferase activity",
+      "SCPx",
+      "oxopristanoyl-CoA thiolase activity",
+      "sterol carrier protein",
+      "sterol carrier protein X-related thiolase activity"
+    ]
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R05330"
+    ],
+    "MetaCyc": [
+      "2.3.1.154-RXN"
+    ],
+    "RHEA": [
+      "10408",
+      "10408"
+    ],
+    "Reactome": [
+      "R-HSA-192341",
+      "R-HSA-193533",
+      "R-HSA-2066781",
+      "R-HSA-390224"
+    ],
+    "EC": [
+      "2.3.1.176",
+      "2.3.1.176",
+      "2.3.1.176",
+      "2.3.1.176",
+      "2.3.1.176",
+      "2.3.1.176",
+      "2.3.1.176",
+      "2.3.1.176",
+      "2.3.1.176"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4,8,12-trimethyltridecanoyl-CoA + propanoyl-CoA = 3-oxopristanoyl-CoA + CoA.",
+  "namespace": "molecular_function",
+  "label": "3-ketopristanoyl-CoA + CoASH =&gt; 4,8,12-trimethyltridecanoyl-CoA + propionyl-CoA"
+}

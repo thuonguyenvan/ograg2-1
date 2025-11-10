@@ -1,0 +1,35 @@
+{
+  "id": "GO:0009236",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009236",
+  "relationships": {
+    "is_a": [
+      "GO:0009235",
+      "GO:0033014",
+      "GO:0042364"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cobalamin anabolism",
+      "cobalamin biosynthesis",
+      "cobalamin formation",
+      "cobalamin synthesis",
+      "vitamin B12 biosynthesis",
+      "vitamin B12 biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of cobalamin (vitamin B12), a water-soluble vitamin characterized by possession of a corrin nucleus containing a cobalt atom.",
+  "namespace": "biological_process",
+  "label": "cobalamin biosynthetic process"
+}

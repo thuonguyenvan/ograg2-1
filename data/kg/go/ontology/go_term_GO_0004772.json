@@ -1,0 +1,35 @@
+{
+  "id": "GO:0004772",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004772",
+  "relationships": {
+    "is_a": [
+      "GO:0008374"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "sterol-ester synthase activity",
+      "sterol-ester synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.26",
+      "2.3.1.26",
+      "2.3.1.26"
+    ],
+    "MetaCyc": [
+      "RXN-20233"
+    ],
+    "RHEA": [
+      "59816",
+      "59816"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a long-chain fatty acyl-CoA + a sterol = a sterol ester + CoA.",
+  "namespace": "molecular_function",
+  "label": "sterol O-acyltransferase activity"
+}

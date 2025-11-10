@@ -1,0 +1,30 @@
+{
+  "id": "GO:0015499",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015499",
+  "relationships": {
+    "is_a": [
+      "GO:0008028"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "formate uptake permease activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "formate uptake transmembrane transporter activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TRANS-RXN-1"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of formate from one side of a membrane to the other. Formate is also known as methanoate, the anion HCOO- derived from methanoic (formic) acid.",
+  "namespace": "molecular_function",
+  "label": "formate transmembrane transporter activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0038037",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038037",
+  "relationships": {
+    "is_a": [
+      "GO:0097648"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G-protein coupled receptor dimer",
+      "G-protein coupled receptor dimeric complex",
+      "GPCR dimer"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "al",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "10713101"
+    ]
+  },
+  "definition": "A protein complex that contains two G protein-coupled receptors.",
+  "namespace": "cellular_component",
+  "label": "G protein-coupled receptor dimeric complex"
+}

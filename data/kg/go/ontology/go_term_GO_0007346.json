@@ -1,0 +1,39 @@
+{
+  "id": "GO:0007346",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007346",
+  "relationships": {
+    "is_a": [
+      "GO:0051726"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitotic cell cycle modulation",
+      "mitotic cell cycle regulation",
+      "modulation of mitotic cell cycle progression",
+      "regulation of mitotic cell cycle progression",
+      "regulation of progression through mitotic cell cycle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "mitotic cell cycle regulator"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2465910",
+      "R-HSA-68911"
+    ],
+    "GOC": [
+      "dph",
+      "go_curators",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the rate or extent of progress through the mitotic cell cycle.",
+  "namespace": "biological_process",
+  "label": "G2 Phase"
+}

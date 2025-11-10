@@ -1,0 +1,31 @@
+{
+  "id": "GO:1990276",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990276",
+  "relationships": {
+    "is_a": [
+      "GO:0008171",
+      "GO:0008173",
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RNA 5&apos;-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "al",
+      "vw"
+    ],
+    "PMID": [
+      "22740346"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a methyl group from S-adenosyl-L-methionine to the 5&apos;-gamma-phosphate in an RNA molecule.",
+  "namespace": "molecular_function",
+  "label": "RNA 5&apos;-gamma-phosphate methyltransferase activity"
+}

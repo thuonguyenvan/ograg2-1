@@ -1,0 +1,32 @@
+{
+  "id": "GO:0001836",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001836",
+  "relationships": {
+    "is_a": [
+      "GO:0008637"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mah",
+      "mtg_apoptosis"
+    ],
+    "ISBN": [
+      "0721639976"
+    ],
+    "PMID": [
+      "12925707",
+      "9560217"
+    ]
+  },
+  "definition": "The process that results in the movement of cytochrome c from the mitochondrial intermembrane space into the cytosol, which is part of the apoptotic signaling pathway and leads to caspase activation.",
+  "namespace": "biological_process",
+  "label": "release of cytochrome c from mitochondria"
+}

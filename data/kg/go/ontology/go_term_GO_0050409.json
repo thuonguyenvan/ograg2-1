@@ -1,0 +1,42 @@
+{
+  "id": "GO:0050409",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050409",
+  "relationships": {
+    "is_a": [
+      "GO:0008194",
+      "GO:0052636"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-L-arabinose:(indol-3-yl)acetyl-myo-inositol L-arabinosyltransferase activity",
+      "UDP-L-arabinose:indol-3-ylacetyl-myo-inositol L-arabinosyltransferase activity",
+      "arabinosylindolylacetylinositol synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.34",
+      "2.4.2.34",
+      "2.4.2.34",
+      "2.4.2.34",
+      "2.4.2.34"
+    ],
+    "KEGG_REACTION": [
+      "R04335"
+    ],
+    "MetaCyc": [
+      "2.4.2.34-RXN"
+    ],
+    "RHEA": [
+      "19505",
+      "19505"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1L-1-O-(indol-3-yl)acetyl-myo-inositol + UDP-L-arabinose = (indol-3-yl)acetyl-myo-inositol 3-L-arabinoside + H+ + UDP.",
+  "namespace": "molecular_function",
+  "label": "indolylacetylinositol arabinosyltransferase activity"
+}

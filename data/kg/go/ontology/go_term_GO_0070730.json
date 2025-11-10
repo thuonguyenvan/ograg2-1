@@ -1,0 +1,32 @@
+{
+  "id": "GO:0070730",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070730",
+  "relationships": {
+    "is_a": [
+      "GO:0015711",
+      "GO:0015868",
+      "GO:0051503",
+      "GO:0070729"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cyclic AMP transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The directed movement of cyclic AMP (cAMP), into, out of or within a cell.",
+  "namespace": "biological_process",
+  "label": "cAMP transport"
+}

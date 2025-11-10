@@ -1,0 +1,32 @@
+{
+  "id": "GO:0061594",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061594",
+  "relationships": {
+    "is_a": [
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.184"
+    ],
+    "MetaCyc": [
+      "RXN-15297"
+    ],
+    "RHEA": [
+      "40443"
+    ],
+    "PMID": [
+      "24463506"
+    ]
+  },
+  "definition": "Catalysis of the reaction 6-deoxy-6-sulfofructose + ATP = 6-deoxy-6-sulfofructose-1-phosphate + ADP.",
+  "namespace": "molecular_function",
+  "label": "6-deoxy-6-sulfofructose kinase activity"
+}

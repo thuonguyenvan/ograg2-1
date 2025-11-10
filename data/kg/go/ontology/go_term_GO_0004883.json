@@ -1,0 +1,29 @@
+{
+  "id": "GO:0004883",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004883",
+  "relationships": {
+    "is_a": [
+      "GO:0003707"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "glucocorticoid receptor activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "signaling"
+    ],
+    "PMID": [
+      "17689856",
+      "20920967"
+    ]
+  },
+  "definition": "A nuclear receptor activity regulated by glucocorticoid binding and modulating the transcription of specific gene sets transcribed by RNA polymerase II.",
+  "namespace": "molecular_function",
+  "label": "nuclear glucocorticoid receptor activity"
+}

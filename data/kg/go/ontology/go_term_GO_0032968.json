@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032968",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032968",
+  "relationships": {
+    "is_a": [
+      "GO:0032786",
+      "GO:0034243",
+      "GO:0045944"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of RNA elongation from RNA polymerase II promoter",
+      "positive regulation of transcription elongation from RNA polymerase II promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of gene-specific transcription elongation from RNA polymerase II promoter"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "txnOH"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of transcription elongation, the extension of an RNA molecule after transcription initiation and promoter clearance by the addition of ribonucleotides, catalyzed by RNA polymerase II.",
+  "namespace": "biological_process",
+  "label": "positive regulation of transcription elongation by RNA polymerase II"
+}

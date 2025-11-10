@@ -1,0 +1,31 @@
+{
+  "id": "GO:0000781",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000781",
+  "relationships": {
+    "is_a": [
+      "GO:0098687"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "nuclear chromosome, telomere",
+      "nuclear chromosome, telomeric region"
+    ],
+    "related": [
+      "telomere"
+    ]
+  },
+  "cross_references": {
+    "SO": [
+      "0000624"
+    ],
+    "GOC": [
+      "elh"
+    ]
+  },
+  "definition": "The end of a linear chromosome, required for the integrity and maintenance of the end. A chromosome telomere usually includes a region of telomerase-encoded repeats the length of which rarely exceeds 20 bp each and that permits the formation of a telomeric loop (T-loop). The telomeric repeat region is usually preceded by a sub-telomeric region that is gene-poor but rich in repetitive elements. Some telomeres only consist of the latter part (for eg. D. melanogaster telomeres).",
+  "namespace": "cellular_component",
+  "label": "chromosome, telomeric region"
+}

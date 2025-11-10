@@ -1,0 +1,30 @@
+{
+  "id": "GO:0002277",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002277",
+  "relationships": {
+    "is_a": [
+      "GO:0001773",
+      "GO:0002275"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "myeloid dendritic cell activation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "tb"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "The change in morphology and behavior of a myeloid dendritic cell resulting from exposure to a cytokine, chemokine, cellular ligand, or soluble factor, leading to the initiation or perpetuation of an immune response.",
+  "namespace": "biological_process",
+  "label": "myeloid dendritic cell activation involved in immune response"
+}

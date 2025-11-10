@@ -1,0 +1,30 @@
+{
+  "id": "GO:0043184",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043184",
+  "relationships": {
+    "is_a": [
+      "GO:0005172"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Flk-1 binding",
+      "VEGF receptor 2 binding",
+      "VEGFR 2 binding",
+      "kinase domain region binding"
+    ],
+    "broad": [
+      "KDR binding"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "st"
+    ]
+  },
+  "definition": "Binding to a vascular endothelial growth factor receptor 2.",
+  "namespace": "molecular_function",
+  "label": "vascular endothelial growth factor receptor 2 binding"
+}

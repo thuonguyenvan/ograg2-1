@@ -1,0 +1,44 @@
+{
+  "id": "GO:0008792",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008792",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-arginine carboxy-lyase (agmatine-forming)",
+      "L-arginine carboxy-lyase activity",
+      "SpeA"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.19",
+      "4.1.1.19",
+      "4.1.1.19",
+      "4.1.1.19",
+      "4.1.1.19"
+    ],
+    "KEGG_REACTION": [
+      "R00566"
+    ],
+    "MetaCyc": [
+      "ARGDECARBOX-RXN"
+    ],
+    "RHEA": [
+      "17641",
+      "17641"
+    ],
+    "Reactome": [
+      "R-HSA-350598"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-arginine + H+ = agmatine + CO2.",
+  "namespace": "molecular_function",
+  "label": "Arginine&lt;=&gt;Agmatine+CO2"
+}

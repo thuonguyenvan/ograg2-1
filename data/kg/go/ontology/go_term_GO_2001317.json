@@ -1,0 +1,55 @@
+{
+  "id": "GO:2001317",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001317",
+  "relationships": {
+    "is_a": [
+      "GO:0034309",
+      "GO:0042181",
+      "GO:0120255"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5-hydroxy-2-(hydroxymethyl)-4H-pyran-4-one anabolism",
+      "5-hydroxy-2-(hydroxymethyl)-4H-pyran-4-one biosynthesis",
+      "5-hydroxy-2-(hydroxymethyl)-4H-pyran-4-one biosynthetic process",
+      "5-hydroxy-2-(hydroxymethyl)-4H-pyran-4-one formation",
+      "5-hydroxy-2-(hydroxymethyl)-4H-pyran-4-one synthesis",
+      "kojic acid anabolism",
+      "kojic acid biosynthesis",
+      "kojic acid formation",
+      "kojic acid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "C6H6O4 anabolism",
+      "C6H6O4 biosynthesis",
+      "C6H6O4 biosynthetic process",
+      "C6H6O4 formation",
+      "C6H6O4 synthesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "di",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of kojic acid.",
+  "namespace": "biological_process",
+  "label": "kojic acid biosynthetic process"
+}

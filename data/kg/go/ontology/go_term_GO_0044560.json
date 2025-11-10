@@ -1,0 +1,28 @@
+{
+  "id": "GO:0044560",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044560",
+  "relationships": {
+    "is_a": [
+      "GO:0035738"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "envenomation resulting in modulation of ion channel activity in another organism",
+      "envenomation resulting in modulation of ion channel activity in other organism",
+      "envenomation resulting in regulation of ion channel activity in other organism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "fj",
+      "jl"
+    ]
+  },
+  "definition": "A process in which an organism alters or subverts the activity of an ion channel in another organism via the action of a venom.",
+  "namespace": "biological_process",
+  "label": "venom-mediated perturbation of ion channel activity"
+}

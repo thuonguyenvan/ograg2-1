@@ -1,0 +1,40 @@
+{
+  "id": "GO:0150098",
+  "uri": "http://purl.obolibrary.org/obo/GO_0150098",
+  "relationships": {
+    "is_a": [
+      "GO:0007267"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glia-neuron signaling",
+      "glia-neuron signalling",
+      "glia-neurone signaling",
+      "glia-neurone signalling",
+      "glial cell- neuron signalling",
+      "glial cell-neurone signalling",
+      "glial cell-neurone singaling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "aruk",
+      "bc"
+    ],
+    "PMID": [
+      "14980203",
+      "16144764",
+      "16547515",
+      "18685038",
+      "27788368",
+      "9459440"
+    ]
+  },
+  "definition": "Cell-cell signaling that mediates the transfer of information from a glial cell to a neuron. This signaling has been shown to be mediated by various molecules, depending on which glial cells release them, and in which tissues the signaling occurs, e.g. microglial cell-derived nerve growth factor (NGF) in the retina, or microglial cell-derived superoxide ions in the cerebellum.",
+  "namespace": "biological_process",
+  "label": "glial cell-neuron signaling"
+}

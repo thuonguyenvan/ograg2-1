@@ -1,0 +1,31 @@
+{
+  "id": "GO:0035668",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035668",
+  "relationships": {
+    "is_a": [
+      "GO:0002756"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TRAM-dependent TLR signaling pathway",
+      "TRAM-dependent toll-like receptor signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "14556004"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by a ligand binding to a toll-like receptor where the TRAM adaptor mediates transduction of the signal. Toll-like receptors directly bind pattern motifs from a variety of microbial sources to initiate an innate immune response.",
+  "namespace": "biological_process",
+  "label": "TRAM-dependent toll-like receptor signaling pathway"
+}

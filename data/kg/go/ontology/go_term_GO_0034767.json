@@ -1,0 +1,36 @@
+{
+  "id": "GO:0034767",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034767",
+  "relationships": {
+    "is_a": [
+      "GO:0034764",
+      "GO:0034765",
+      "GO:0043270"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of ion membrane transport",
+      "positive regulation of transmembrane ion transport",
+      "up regulation of transmembrane ion transport",
+      "up-regulation of transmembrane ion transport",
+      "upregulation of transmembrane ion transport"
+    ],
+    "broad": [
+      "positive regulation of ion transmembrane transport"
+    ],
+    "narrow": [
+      "activation of transmembrane ion transport",
+      "stimulation of transmembrane ion transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the directed movement of ions from one side of a membrane to the other.",
+  "namespace": "biological_process",
+  "label": "positive regulation of monoatomic ion transmembrane transport"
+}

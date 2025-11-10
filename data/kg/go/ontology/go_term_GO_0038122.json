@@ -1,0 +1,32 @@
+{
+  "id": "GO:0038122",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038122",
+  "relationships": {
+    "is_a": [
+      "GO:0016493"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CCL5 receptor activity",
+      "RANTES receptor activity",
+      "small inducible cytokine A5 receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "signaling",
+      "bf"
+    ],
+    "PR": [
+      "000002094",
+      "000002094"
+    ]
+  },
+  "definition": "Combining with the C-C motif chemokine 5 (CCL5) and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.",
+  "namespace": "molecular_function",
+  "label": "C-C motif chemokine 5 receptor activity"
+}

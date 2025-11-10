@@ -1,0 +1,25 @@
+{
+  "id": "GO:0070877",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070877",
+  "relationships": {
+    "is_a": [
+      "GO:0140513",
+      "GO:1903095"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "16963499",
+      "17159994"
+    ]
+  },
+  "definition": "A protein complex that binds to heme and to pri-miRNAs, and is required for the formation of a pre-microRNA (pre-miRNA), the initial step of microRNA (miRNA) biogenesis. The complex is composed of the double-stranded-RNA-specific RNase Drosha (also called RNASEN) and the RNA-binding protein DGCR8 (heme-free or heme-bound forms). Within the complex, DGCR8 function as a molecular anchor necessary for the recognition of pri-miRNA at dsRNA-ssRNA junction and directs RNASEN/Drosha to cleave the 3&apos; and 5&apos; strands of a stem-loop to release hairpin-shaped pre-miRNAs.",
+  "namespace": "cellular_component",
+  "label": "microprocessor complex"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:1902547",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902547",
+  "relationships": {
+    "is_a": [
+      "GO:0090287"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of cellular response to VEGF",
+      "regulation of cellular response to vascular endothelial growth factor"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of cellular response to VEGFA",
+      "regulation of cellular response to VEGFB"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "17895370"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of cellular response to vascular endothelial growth factor stimulus.",
+  "namespace": "biological_process",
+  "label": "regulation of cellular response to vascular endothelial growth factor stimulus"
+}

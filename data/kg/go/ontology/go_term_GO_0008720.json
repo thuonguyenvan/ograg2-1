@@ -1,0 +1,41 @@
+{
+  "id": "GO:0008720",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008720",
+  "relationships": {
+    "is_a": [
+      "GO:0047809",
+      "GO:0140175"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "D-lactate dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "D-lactic acid dehydrogenase activity",
+      "D-lactic dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.28",
+      "1.1.1.28",
+      "1.1.1.28"
+    ],
+    "KEGG_REACTION": [
+      "R00704"
+    ],
+    "MetaCyc": [
+      "DLACTDEHYDROGNAD-RXN"
+    ],
+    "RHEA": [
+      "16369",
+      "16369"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-lactate + NAD+ = H+ + NADH + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "D-lactate dehydrogenase (NAD+) activity"
+}

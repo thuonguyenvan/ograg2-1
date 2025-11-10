@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102294",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102294",
+  "relationships": {
+    "is_a": [
+      "GO:0003854"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-12693"
+    ],
+    "RHEA": [
+      "35459",
+      "35459"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cholesterol + NAD+ = cholest-5-en-3-one + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "cholesterol dehydrogenase (NAD+) activity"
+}

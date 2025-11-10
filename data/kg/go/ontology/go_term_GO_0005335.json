@@ -1,0 +1,39 @@
+{
+  "id": "GO:0005335",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005335",
+  "relationships": {
+    "is_a": [
+      "GO:0008504",
+      "GO:0015378"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "serotonin transmembrane transporter activity",
+      "sodium/serotonin symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "serotonin:sodium symporter activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "51196"
+    ],
+    "Reactome": [
+      "R-HSA-444008"
+    ],
+    "TC": [
+      "2.A.22.1.1"
+    ],
+    "PMID": [
+      "21752877",
+      "22519513"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: serotonin(out) + Na+(out) + Cl-(out) = serotonin(in) + Na+(in)+ Cl-(in).",
+  "namespace": "molecular_function",
+  "label": "SLC6A4 co-transports 5HT, Cl-, Na+ from extracellular region to cytosol"
+}

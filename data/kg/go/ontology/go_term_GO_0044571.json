@@ -1,0 +1,34 @@
+{
+  "id": "GO:0044571",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044571",
+  "relationships": {
+    "is_a": [
+      "GO:0016226"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2Fe-2S cluster assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "[2Fe-2S] cluster biosynthetic process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mengo_curators",
+      "pde",
+      "tt",
+      "vw"
+    ],
+    "PMID": [
+      "15952888"
+    ]
+  },
+  "definition": "The incorporation of two iron atoms and two sulfur atoms into an iron-sulfur cluster.",
+  "namespace": "biological_process",
+  "label": "[2Fe-2S] cluster assembly"
+}

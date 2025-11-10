@@ -1,0 +1,33 @@
+{
+  "id": "GO:0097300",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097300",
+  "relationships": {
+    "is_a": [
+      "GO:0012501"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "programmed cell death by necrosis"
+    ],
+    "broad": [
+      "regulated necrosis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5218859"
+    ],
+    "GOC": [
+      "mtg_apoptosis"
+    ],
+    "PMID": [
+      "21760595"
+    ]
+  },
+  "definition": "A necrotic cell death process that results from the activation of endogenous cellular processes, such as signaling involving death domain receptors or Toll-like receptors.",
+  "namespace": "biological_process",
+  "label": "Regulated Necrosis"
+}

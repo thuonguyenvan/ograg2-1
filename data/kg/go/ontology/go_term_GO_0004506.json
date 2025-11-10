@@ -1,0 +1,52 @@
+{
+  "id": "GO:0004506",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004506",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "squalene,NADPH:oxygen oxidoreductase (2,3-epoxidizing) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "squalene 2,3-oxidocyclase activity",
+      "squalene epoxidase activity",
+      "squalene hydroxylase activity",
+      "squalene oxydocyclase activity",
+      "squalene-2,3-epoxidase activity",
+      "squalene-2,3-epoxide cyclase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.17",
+      "1.14.14.17",
+      "1.14.14.17",
+      "1.14.14.17",
+      "1.14.14.17",
+      "1.14.14.17",
+      "1.14.14.17"
+    ],
+    "KEGG_REACTION": [
+      "R02874",
+      "R02874"
+    ],
+    "MetaCyc": [
+      "SQUALENE-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "25282",
+      "25282"
+    ],
+    "Reactome": [
+      "R-HSA-191299"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H+ + NADPH + O2 + squalene = (S)-2,3-epoxysqualene + H2O + NADP+.",
+  "namespace": "molecular_function",
+  "label": "Squalene is oxidized to its epoxide"
+}

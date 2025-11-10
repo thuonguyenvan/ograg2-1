@@ -1,0 +1,30 @@
+{
+  "id": "GO:0032984",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032984",
+  "relationships": {
+    "is_a": [
+      "GO:0022411",
+      "GO:0043933"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein complex disassembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cellular macromolecule complex disassembly",
+      "cellular protein complex disassembly",
+      "macromolecule complex disassembly"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The disaggregation of a protein-containing macromolecular complex into its constituent components.",
+  "namespace": "biological_process",
+  "label": "protein-containing complex disassembly"
+}

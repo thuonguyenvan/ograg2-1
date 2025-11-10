@@ -1,0 +1,28 @@
+{
+  "id": "GO:0090434",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090434",
+  "relationships": {
+    "is_a": [
+      "GO:0004467"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "oleoyl-CoA synthetase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "al"
+    ],
+    "PMID": [
+      "18071249"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + oleic acid + CoA = AMP + diphosphate + oleoyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "oleoyl-CoA ligase activity"
+}

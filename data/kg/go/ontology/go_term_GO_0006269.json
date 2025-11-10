@@ -1,0 +1,31 @@
+{
+  "id": "GO:0006269",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006269",
+  "relationships": {
+    "is_a": [
+      "GO:0032774"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "DNA priming",
+      "DNA replication, synthesis of DNA primer",
+      "DNA replication, synthesis of RNA primer"
+    ],
+    "related": [
+      "replication priming"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "11395402",
+      "38203225",
+      "38492718"
+    ]
+  },
+  "definition": "The synthesis of a short nucleotide polymer using one strand of unwound DNA as a template. The product is usually a RNA molecule between 4-15 nucleotides long that provides a free 3&apos;-OH that can be extended by DNA-directed DNA polymerases. In certain conditions, for example in response to DNA damage, some primases synthesize a DNA primer.",
+  "namespace": "biological_process",
+  "label": "DNA replication, synthesis of primer"
+}

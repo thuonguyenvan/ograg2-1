@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015137",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015137",
+  "relationships": {
+    "is_a": [
+      "GO:0015142"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "tricarboxylate transport protein"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-433104"
+    ],
+    "TC": [
+      "2.A.29.7.2",
+      "2.A.29.7.2"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of citrate, 2-hydroxy-1,2,3-propanetricarboxylate, from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "NACT co-transports trivalent citrate and a sodium ion"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0051956",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051956",
+  "relationships": {
+    "is_a": [
+      "GO:0051953",
+      "GO:0051955"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of amino acid transport",
+      "down-regulation of amino acid transport",
+      "downregulation of amino acid transport",
+      "negative regulation of amino acid transmembrane transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of amino acid transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the directed movement of amino acids into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "negative regulation of amino acid transport"
+}

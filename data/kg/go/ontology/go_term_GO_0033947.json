@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033947",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033947",
+  "relationships": {
+    "is_a": [
+      "GO:0004567"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "endo-beta-mannosidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.152",
+      "3.2.1.152",
+      "3.2.1.152"
+    ],
+    "MetaCyc": [
+      "3.2.1.152-RXN"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of the alpha-D-mannosyl-(1-&gt;6)-beta-D-mannosyl-(1-&gt;4)-beta-D-N-acetylglucosaminyl-(1-&gt;4)-beta-D-N-acetylglucosaminyl sequence of glycoprotein to alpha-D-mannosyl-(1-&gt;6)-D-mannose and beta-D-N-acetylglucosaminyl-(1-&gt;4)-beta-D-N-acetylglucosaminyl sequences.",
+  "namespace": "molecular_function",
+  "label": "mannosylglycoprotein endo-beta-mannosidase activity"
+}

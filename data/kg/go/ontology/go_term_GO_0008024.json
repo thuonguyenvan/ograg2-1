@@ -1,0 +1,35 @@
+{
+  "id": "GO:0008024",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008024",
+  "relationships": {
+    "is_a": [
+      "GO:0008023",
+      "GO:0019908",
+      "GO:0032806"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive transcription elongation factor complex b"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "vw"
+    ],
+    "PMID": [
+      "10766736",
+      "16721054",
+      "17079683",
+      "19328067",
+      "7759473"
+    ]
+  },
+  "definition": "A transcription elongation factor complex that facilitates the transition from abortive to productive elongation by phosphorylating the CTD domain of the large subunit of DNA-directed RNA polymerase II, holoenzyme. Contains a cyclin and a cyclin-dependent protein kinase catalytic subunit.",
+  "namespace": "cellular_component",
+  "label": "cyclin/CDK positive transcription elongation factor complex"
+}

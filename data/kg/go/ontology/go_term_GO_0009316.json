@@ -1,0 +1,32 @@
+{
+  "id": "GO:0009316",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009316",
+  "relationships": {
+    "is_a": [
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "isopropylmalate isomerase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "3-ISOPROPYLMALISOM-CPLX",
+      "3-ISOPROPYLMALISOM-CPLX"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "7026530"
+    ]
+  },
+  "definition": "A heterodimeric enzyme complex composed of subunits leuC and leuD. Catalyzes the isomerization between 2-isopropylmalate and 3-isopropylmalate, via the formation of 2-isopropylmaleate.",
+  "namespace": "cellular_component",
+  "label": "3-isopropylmalate dehydratase complex"
+}

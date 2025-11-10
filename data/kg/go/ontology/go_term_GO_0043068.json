@@ -1,0 +1,32 @@
+{
+  "id": "GO:0043068",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043068",
+  "relationships": {
+    "is_a": [
+      "GO:0043067",
+      "GO:0048522"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of programmed cell death",
+      "up-regulation of programmed cell death",
+      "upregulation of programmed cell death"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of programmed cell death",
+      "positive regulation of non-apoptotic programmed cell death",
+      "stimulation of programmed cell death"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of programmed cell death, cell death resulting from activation of endogenous cellular processes.",
+  "namespace": "biological_process",
+  "label": "positive regulation of programmed cell death"
+}

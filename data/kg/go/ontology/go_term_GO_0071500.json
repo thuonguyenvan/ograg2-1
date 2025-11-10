@@ -1,0 +1,24 @@
+{
+  "id": "GO:0071500",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071500",
+  "relationships": {
+    "is_a": [
+      "GO:0051409",
+      "GO:0062197"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a nitrosative stress stimulus. Nitrosative stress is a state often resulting from exposure to high levels of nitric oxide (NO) or the highly reactive oxidant peroxynitrite, which is produced following interaction of NO with superoxide anions.",
+  "namespace": "biological_process",
+  "label": "cellular response to nitrosative stress"
+}

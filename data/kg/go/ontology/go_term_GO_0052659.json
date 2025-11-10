@@ -1,0 +1,51 @@
+{
+  "id": "GO:0052659",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052659",
+  "relationships": {
+    "is_a": [
+      "GO:0004445",
+      "GO:0052743"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-myo-inositol (1,3,4,5)-polyphosphate 5-phosphatase activity",
+      "Ins(1,3,4,5)P(4) 5-phosphatase activity",
+      "Ins(1,3,4,5)P4 5-phosphatase activity"
+    ],
+    "broad": [
+      "inositol polyphosphate-5-phosphatase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "type I inositol-polyphosphate phosphatase activity",
+      "type II inositol polyphosphate 5-phosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R03430"
+    ],
+    "MetaCyc": [
+      "RXN-8730"
+    ],
+    "RHEA": [
+      "11392",
+      "11392"
+    ],
+    "Reactome": [
+      "R-HSA-1855213",
+      "R-HSA-1855218"
+    ],
+    "EC": [
+      "3.1.3.56",
+      "3.1.3.56",
+      "3.1.3.56",
+      "3.1.3.56",
+      "3.1.3.56"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1D-myo-inositol 1,3,4,5-tetrakisphosphate + H2O = 1D-myo-inositol 1,3,4-trisphosphate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5[3]/ITPK1 in the cytosol"
+}

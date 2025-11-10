@@ -1,0 +1,39 @@
+{
+  "id": "GO:0017148",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017148",
+  "relationships": {
+    "is_a": [
+      "GO:0006417",
+      "GO:0010629",
+      "GO:0051248"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of protein biosynthetic process",
+      "down-regulation of protein biosynthetic process",
+      "downregulation of protein biosynthetic process",
+      "negative regulation of protein anabolism",
+      "negative regulation of protein biosynthesis",
+      "negative regulation of protein biosynthetic process",
+      "negative regulation of protein formation",
+      "negative regulation of protein synthesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of protein biosynthetic process"
+    ],
+    "related": [
+      "protein biosynthesis inhibitor activity",
+      "protein biosynthetic process inhibitor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "isa_complete"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of proteins by the translation of mRNA or circRNA.",
+  "namespace": "biological_process",
+  "label": "negative regulation of translation"
+}

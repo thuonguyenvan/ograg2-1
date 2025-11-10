@@ -1,0 +1,35 @@
+{
+  "id": "GO:0030813",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030813",
+  "relationships": {
+    "is_a": [
+      "GO:0009896",
+      "GO:0030811",
+      "GO:0045981"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of nucleotide breakdown",
+      "positive regulation of nucleotide catabolism",
+      "positive regulation of nucleotide degradation",
+      "up regulation of nucleotide catabolic process",
+      "up-regulation of nucleotide catabolic process",
+      "upregulation of nucleotide catabolic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of nucleotide catabolic process",
+      "stimulation of nucleotide catabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways resulting in the breakdown of nucleotides.",
+  "namespace": "biological_process",
+  "label": "positive regulation of nucleotide catabolic process"
+}

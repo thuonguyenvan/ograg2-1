@@ -1,0 +1,31 @@
+{
+  "id": "GO:0060330",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060330",
+  "relationships": {
+    "is_a": [
+      "GO:0045088",
+      "GO:0060759"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of response to immune interferon",
+      "regulation of response to type II IFN"
+    ],
+    "broad": [
+      "regulation of response to interferon-gamma"
+    ],
+    "narrow": [],
+    "related": [
+      "regulation of response to gamma-interferon"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph"
+    ]
+  },
+  "definition": "Any process that modulates the rate, frequency or extent of a response to type II interferon (interferon-gamma). Response to interferon gamma is a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an interferon-gamma stimulus.",
+  "namespace": "biological_process",
+  "label": "regulation of response to type II interferon"
+}

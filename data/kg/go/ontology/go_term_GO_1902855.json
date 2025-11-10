@@ -1,0 +1,41 @@
+{
+  "id": "GO:1902855",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902855",
+  "relationships": {
+    "is_a": [
+      "GO:1902017"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of immotile primary cilium assembly",
+      "regulation of nonmotile primary cilia assembly",
+      "regulation of nonmotile primary cilium assembly",
+      "regulation of sensory cilium assembly",
+      "regulation of sensory cilium biogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "cilia",
+      "kmv",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23807208"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of non-motile cilium assembly.",
+  "namespace": "biological_process",
+  "label": "regulation of non-motile cilium assembly"
+}

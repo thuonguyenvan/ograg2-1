@@ -1,0 +1,36 @@
+{
+  "id": "GO:0035665",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035665",
+  "relationships": {
+    "is_a": [
+      "GO:0034142",
+      "GO:0035664"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MAL-dependent toll-like receptor 4 signaling pathway",
+      "MyD88 adapter-like dependent toll-like receptor 4 signaling pathway",
+      "TIRAP-dependent TLR4 signaling pathway",
+      "TIRAP-dependent toll-like receptor 4 signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "11544529",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "12447441",
+      "11544529"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by a ligand binding to a toll-like receptor 4 where the TIRAP/MAL adaptor mediates transduction of the signal. Toll-like 4 receptors are pattern recognition receptors that bind bacterial lipopolysaccharide (LPS) to initiate an innate immune response.",
+  "namespace": "biological_process",
+  "label": "TIRAP-dependent toll-like receptor 4 signaling pathway"
+}

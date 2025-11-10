@@ -1,0 +1,50 @@
+{
+  "id": "GO:0008609",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008609",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-acyl-glycerone-3-phosphate:long-chain-alcohol O-3-phospho-2-oxopropanyltransferase activity",
+      "DHAP-AT",
+      "alkyl DHAP synthetase activity",
+      "alkyl-DHAP",
+      "alkyl-DHAP synthase activity",
+      "alkyldihydroxyacetone phosphate synthetase activity",
+      "alkyldihydroxyacetonephosphate synthase activity",
+      "dihydroxyacetone-phosphate acyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.26",
+      "2.5.1.26",
+      "2.5.1.26",
+      "2.5.1.26",
+      "2.5.1.26",
+      "2.5.1.26",
+      "2.5.1.26",
+      "2.5.1.26",
+      "2.5.1.26",
+      "2.5.1.26"
+    ],
+    "MetaCyc": [
+      "ALKYLGLYCERONE-PHOSPHATE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "36171"
+    ],
+    "Reactome": [
+      "R-HSA-390427"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-acyl-glycerone 3-phosphate + a long-chain alcohol = 1-alkyl-glycerone 3-phosphate + a long-chain acid anion.",
+  "namespace": "molecular_function",
+  "label": "1-palmitoylglycerone phosphate + hexadecanol =&gt; O-hexadecylglycerone phosphate + palmitate"
+}

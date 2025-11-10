@@ -1,0 +1,36 @@
+{
+  "id": "GO:0071573",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071573",
+  "relationships": {
+    "is_a": [
+      "GO:0065004"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "telosome assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Pot1 complex assembly",
+      "Pot1-Tpz1 complex assembly",
+      "shelterin complex formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vw",
+      "mah",
+      "vw",
+      "mah",
+      "vw",
+      "mah",
+      "vw"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form a shelterin complex. A shelterin complex is a nuclear telomere cap complex that is formed by the association of telomeric ssDNA- and dsDNA-binding proteins with telomeric DNA, and is involved in telomere protection and recruitment of telomerase.",
+  "namespace": "biological_process",
+  "label": "shelterin complex assembly"
+}

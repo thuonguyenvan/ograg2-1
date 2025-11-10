@@ -1,0 +1,35 @@
+{
+  "id": "GO:0070326",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070326",
+  "relationships": {
+    "is_a": [
+      "GO:0070325"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "VLDL receptor binding",
+      "VLDLR binding",
+      "very-low-density lipoprotein receptor binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "apolipoprotein E receptor binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "mah",
+      "mah",
+      "bf",
+      "dph",
+      "rl"
+    ]
+  },
+  "definition": "Binding to a very-low-density lipoprotein receptor.",
+  "namespace": "molecular_function",
+  "label": "very-low-density lipoprotein particle receptor binding"
+}

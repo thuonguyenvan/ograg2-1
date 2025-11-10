@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047590",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047590",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-keto-2-deoxyglucono kinase (phosphorylating)",
+      "5-keto-2-deoxygluconokinase activity",
+      "ATP:5-dehydro-2-deoxy-D-gluconate 6-phosphotransferase activity",
+      "DKH kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.92",
+      "2.7.1.92",
+      "2.7.1.92",
+      "2.7.1.92",
+      "2.7.1.92",
+      "2.7.1.92"
+    ],
+    "MetaCyc": [
+      "5-DEHYDRO-2-DEOXYGLUCONOKINASE-RXN",
+      "5-DEHYDRO-2-DEOXYGLUCONOKINASE-RXN"
+    ],
+    "RHEA": [
+      "13497"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + 5-dehydro-2-deoxy-D-gluconate = ADP + 6-phospho-5-dehydro-2-deoxy-D-gluconate.",
+  "namespace": "molecular_function",
+  "label": "5-dehydro-2-deoxygluconokinase activity"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0021811",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021811",
+  "relationships": {
+    "is_a": [
+      "GO:0021807"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "growth factor signaling initiating cell movement involved in cerebral cortex glial-mediated radial migration",
+      "growth factor signalling initiating cell movement involved in cerebral cortex glial-mediated radial migration"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid",
+      "mtg_cardio"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "12626695"
+    ]
+  },
+  "definition": "Signaling between growth factors and their receptors that results in the start of cell movement, where this process is involved in glial-mediated radial migration in the cerebral cortex.",
+  "namespace": "biological_process",
+  "label": "growth factor signaling initiating cell movement involved in cerebral cortex radial glia guided migration"
+}

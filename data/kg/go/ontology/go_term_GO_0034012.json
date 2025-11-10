@@ -1,0 +1,35 @@
+{
+  "id": "GO:0034012",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034012",
+  "relationships": {
+    "is_a": [
+      "GO:0009975",
+      "GO:0016849"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "FAD AMP-lyase (cyclic-FMN-forming) activity",
+      "FAD AMP-lyase (riboflavin-cyclic-4&apos;,5&apos;-phosphate-forming) activity",
+      "FMN cyclase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.6.1.15",
+      "4.6.1.15",
+      "4.6.1.15",
+      "4.6.1.15"
+    ],
+    "RHEA": [
+      "13729",
+      "13729"
+    ]
+  },
+  "definition": "Catalysis of the reaction: FAD = AMP + H+ + riboflavin cyclic-4&apos;,5&apos;-phosphate.",
+  "namespace": "molecular_function",
+  "label": "FAD-AMP lyase (cyclizing) activity"
+}

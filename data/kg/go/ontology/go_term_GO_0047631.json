@@ -1,0 +1,47 @@
+{
+  "id": "GO:0047631",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047631",
+  "relationships": {
+    "is_a": [
+      "GO:0016462"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ADP-ribose phosphohydrolase activity",
+      "ADP-ribose pyrophosphatase activity",
+      "ADPR-PPase activity",
+      "adenosine diphosphoribose pyrophosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ADP-ribose ribophosphohydrolase activity",
+      "ADPribose diphosphatase activity",
+      "ADPribose pyrophosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.13",
+      "3.6.1.13",
+      "3.6.1.13",
+      "3.6.1.13",
+      "3.6.1.13"
+    ],
+    "MetaCyc": [
+      "RXN0-1441"
+    ],
+    "RHEA": [
+      "10412"
+    ],
+    "Reactome": [
+      "R-HSA-2393939",
+      "R-HSA-2393954",
+      "R-HSA-5696049"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ADP-ribose + H2O = AMP + D-ribose 5-phosphate.",
+  "namespace": "molecular_function",
+  "label": "ADPRM hydrolyses ADP-ribose to R5P and AMP"
+}

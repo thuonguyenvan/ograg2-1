@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050003",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050003",
+  "relationships": {
+    "is_a": [
+      "GO:0008169"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5,10-methylenetetrahydrofolate:dCMP C-methyltransferase activity",
+      "dCMP methyltransferase activity",
+      "deoxycytidylate methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.54",
+      "2.1.1.54",
+      "2.1.1.54",
+      "2.1.1.54",
+      "2.1.1.54"
+    ],
+    "KEGG_REACTION": [
+      "R01670"
+    ],
+    "MetaCyc": [
+      "DEOXYCYTIDYLATE-C-METHYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "11568",
+      "11568"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5,10-methylenetetrahydrofolate + dCMP = 2&apos;-deoxy-5-methyl-5&apos;-cytidylate + 7,8-dihydrofolate.",
+  "namespace": "molecular_function",
+  "label": "deoxycytidylate C-methyltransferase activity"
+}

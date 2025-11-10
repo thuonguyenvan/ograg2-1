@@ -1,0 +1,44 @@
+{
+  "id": "GO:0009905",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009905",
+  "relationships": {
+    "is_a": [
+      "GO:0016872"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "diterpene cyclase activity"
+    ],
+    "narrow": [
+      "ent-kaurene synthase A activity",
+      "ent-kaurene synthetase A activity"
+    ],
+    "related": [
+      "ent-copalyl-diphosphate lyase (decyclizing)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.5.1.13",
+      "5.5.1.13",
+      "5.5.1.13",
+      "5.5.1.13",
+      "5.5.1.13"
+    ],
+    "KEGG_REACTION": [
+      "R02068"
+    ],
+    "MetaCyc": [
+      "5.5.1.13-RXN"
+    ],
+    "RHEA": [
+      "14841",
+      "14841"
+    ]
+  },
+  "definition": "Catalysis of the reaction: all-trans-geranylgeranyl diphosphate = ent-copalyl diphosphate.",
+  "namespace": "molecular_function",
+  "label": "ent-copalyl diphosphate synthase activity"
+}

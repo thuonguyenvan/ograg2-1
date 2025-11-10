@@ -1,0 +1,42 @@
+{
+  "id": "GO:1905278",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905278",
+  "relationships": {
+    "is_a": [
+      "GO:0051240",
+      "GO:1905276",
+      "GO:1905332"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of epithelial tube formation",
+      "up-regulation of epithelial tube formation",
+      "upregulation of epithelial tube formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of epithelial tube formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bhm",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25745997"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of epithelial tube formation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of epithelial tube formation"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:0160292",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160292",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Na(+)-translocating NADH-quinone reductase complex",
+      "Na+-NQR complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "38955304"
+    ]
+  },
+  "definition": "A bacterial protein complex consisting of six subunits, NqrABCDEF, encoded by the nqr operon, which catalyzes electron transfer from NADH to ubiquinone in the respiratory chain coupled with the transport of sodium ions from the cytoplasm to the periplasm.",
+  "namespace": "cellular_component",
+  "label": "sodium-translocating NADH:quinone reductase complex"
+}

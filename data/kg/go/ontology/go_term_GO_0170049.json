@@ -1,0 +1,27 @@
+{
+  "id": "GO:0170049",
+  "uri": "http://purl.obolibrary.org/obo/GO_0170049",
+  "relationships": {
+    "is_a": [
+      "GO:0005732"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "SNORD ribonucleoprotein complex",
+      "SNORNP"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "28505386",
+      "30254138"
+    ]
+  },
+  "definition": "A ribonucleoprotein complex consisting of a box C/D type snRNA and three (Archaea) or four (Eukaryotes) core proteins that have diverse functions, including site-specific methylation of rRNA and processing rRNA.",
+  "namespace": "cellular_component",
+  "label": "box C/D RNP complex"
+}

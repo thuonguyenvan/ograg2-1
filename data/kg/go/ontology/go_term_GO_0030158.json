@@ -1,0 +1,51 @@
+{
+  "id": "GO:0030158",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030158",
+  "relationships": {
+    "is_a": [
+      "GO:0035252",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptide O-xylosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-D-xylose:core protein beta-D-xylosyltransferase activity",
+      "UDP-D-xylose:core protein xylosyltransferase activity",
+      "UDP-D-xylose:protein beta-D-xylosyltransferase activity",
+      "UDP-D-xylose:proteoglycan core protein beta-D-xylosyltransferase activity",
+      "UDP-xylose-core protein beta-D-xylosyltransferase activity",
+      "uridine diphosphoxylose-core protein beta-xylosyltransferase activity",
+      "uridine diphosphoxylose-protein xylosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.26",
+      "2.4.2.26",
+      "2.4.2.26",
+      "2.4.2.26",
+      "2.4.2.26",
+      "2.4.2.26",
+      "2.4.2.26",
+      "2.4.2.26",
+      "2.4.2.26"
+    ],
+    "MetaCyc": [
+      "2.4.2.26-RXN"
+    ],
+    "RHEA": [
+      "50192"
+    ],
+    "Reactome": [
+      "R-HSA-1878002"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a beta-D-xylosyl residue from UDP-D-xylose to the serine hydroxyl group of an acceptor protein substrate.",
+  "namespace": "molecular_function",
+  "label": "XYLTs transfer Xyl to core protein"
+}

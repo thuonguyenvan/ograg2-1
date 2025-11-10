@@ -1,0 +1,34 @@
+{
+  "id": "GO:0048260",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048260",
+  "relationships": {
+    "is_a": [
+      "GO:0045807",
+      "GO:0048259"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of receptor mediated endocytosis",
+      "up regulation of receptor mediated endocytosis",
+      "up-regulation of receptor mediated endocytosis",
+      "upregulation of receptor mediated endocytosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of receptor mediated endocytosis",
+      "stimulation of receptor mediated endocytosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "tb",
+      "tb"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of receptor mediated endocytosis, the uptake of external materials by cells, utilizing receptors to ensure specificity of transport.",
+  "namespace": "biological_process",
+  "label": "positive regulation of receptor-mediated endocytosis"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0070559",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070559",
+  "relationships": {
+    "is_a": [
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "GALNS-lysosomal hydrolase 1.27 MDa complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "8910459"
+    ],
+    "CORUM": [
+      "1379"
+    ]
+  },
+  "definition": "A protein complex found in the lysosome that contains beta-galactosidase, cathepsin A, alpha-neuraminidase and N-acetylgalactosamine-6-sulfate sulfatase, and is involved in glycosaminoglycan catabolism.",
+  "namespace": "cellular_component",
+  "label": "lysosomal multienzyme complex"
+}

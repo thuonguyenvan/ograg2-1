@@ -1,0 +1,33 @@
+{
+  "id": "GO:0140941",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140941",
+  "relationships": {
+    "is_a": [
+      "GO:0042799"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H4 methyl lysine(20) N-methyltransferase activity (H4-K20 specific)",
+      "histone H4K20me methylase activity"
+    ],
+    "broad": [
+      "histone H4-K20 dimethylation",
+      "histone H4K20 dimethylation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.362"
+    ],
+    "RHEA": [
+      "60348",
+      "60348"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(6)-methyl-L-lysyl(20)-[histone H4] + S-adenosyl-L-methionine = H+ + N(6),N(6)-dimethyl-L-lysyl(20)-[histone H4] + S-adenosyl-L-homocysteine. This reaction is the addition of a methyl group to the monomethylated lysine residue at position 20 of histone H4, producing H4K20me2.",
+  "namespace": "molecular_function",
+  "label": "histone H4K20me methyltransferase activity"
+}

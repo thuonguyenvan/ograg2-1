@@ -1,0 +1,59 @@
+{
+  "id": "GO:0033984",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033984",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "tryptophan synthase alpha activity",
+      "tryptophan synthase alpha subunit activity"
+    ],
+    "related": [
+      "(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate D-glyceraldehyde-3-phosphate-lyase (indole-forming) activity",
+      "(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate D-glyceraldehyde-3-phosphate-lyase activity",
+      "BX1",
+      "IGL",
+      "TSA",
+      "indole glycerol phosphate hydrolase activity",
+      "indole synthase activity",
+      "indole-3-glycerol phosphate lyase activity",
+      "indole-3-glycerolphosphate D-glyceraldehyde-3-phosphate-lyase activity",
+      "indoleglycerolphosphate aldolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.8",
+      "4.1.2.8",
+      "4.1.2.8",
+      "4.1.2.8",
+      "4.1.2.8",
+      "4.1.2.8",
+      "4.1.2.8",
+      "4.1.2.8",
+      "4.1.2.8",
+      "4.1.2.8",
+      "4.1.2.8",
+      "4.1.2.8",
+      "4.1.2.8",
+      "4.1.2.8"
+    ],
+    "KEGG_REACTION": [
+      "R02340"
+    ],
+    "MetaCyc": [
+      "RXN0-2381"
+    ],
+    "RHEA": [
+      "14081"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate = indole + D-glyceraldehyde 3-phosphate.",
+  "namespace": "molecular_function",
+  "label": "indole-3-glycerol-phosphate lyase activity"
+}

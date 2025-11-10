@@ -1,0 +1,31 @@
+{
+  "id": "GO:0036081",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036081",
+  "relationships": {
+    "is_a": [
+      "GO:0005230"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "extracellular ammonia-gated ion channel activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ionotropic ammonia receptor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "sart"
+    ],
+    "PMID": [
+      "19135896",
+      "19135896"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of an ion by a channel that opens when extracellular ammonia (NH3) has been bound by the channel complex or one of its constituent parts.",
+  "namespace": "molecular_function",
+  "label": "extracellular ammonia-gated monoatomic ion channel activity"
+}

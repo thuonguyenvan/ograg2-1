@@ -1,0 +1,32 @@
+{
+  "id": "GO:1990140",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990140",
+  "relationships": {
+    "is_a": [
+      "GO:1990228"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MPT synthase complex",
+      "molybdopterin converting factor complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "molybdopterin cofactor (Moco) biosynthesis sulfurtransferase complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "11135669",
+      "16669776"
+    ]
+  },
+  "definition": "A heterotetrameric protein complex that catalyses sulfur transfer from the sulfur carrier subunit of molybdopterin synthase to precursor Z to synthesize molybdopterin as part of molybdopterin cofactor (Moco) biosynthesis. In E. coli the subunits are MoaE and MoaD; in human, MOCS2B and MOCS2A. Moco biosynthesis and its constituent molecules are evolutionarily conserved.",
+  "namespace": "cellular_component",
+  "label": "molybdopterin synthase complex"
+}

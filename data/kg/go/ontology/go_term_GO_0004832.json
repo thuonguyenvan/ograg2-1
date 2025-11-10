@@ -1,0 +1,53 @@
+{
+  "id": "GO:0004832",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004832",
+  "relationships": {
+    "is_a": [
+      "GO:0004812"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "valyl-tRNA synthetase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-valine:tRNAVal ligase (AMP-forming)",
+      "valine transfer ribonucleate ligase activity",
+      "valine translase activity",
+      "valyl-transfer RNA synthetase activity",
+      "valyl-transfer ribonucleate synthetase activity",
+      "valyl-transfer ribonucleic acid synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.1.1.9",
+      "6.1.1.9",
+      "6.1.1.9",
+      "6.1.1.9",
+      "6.1.1.9",
+      "6.1.1.9",
+      "6.1.1.9",
+      "6.1.1.9"
+    ],
+    "KEGG_REACTION": [
+      "R03665"
+    ],
+    "MetaCyc": [
+      "VALINE--TRNA-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "10704",
+      "10704"
+    ],
+    "Reactome": [
+      "R-HSA-380042",
+      "R-HSA-380199"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-valine + ATP + tRNA(Val) = L-valyl-tRNA(Val) + AMP + diphosphate + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "valine + tRNA(Val) + ATP =&gt; Val-tRNA(Val) + AMP + pyrophosphate"
+}

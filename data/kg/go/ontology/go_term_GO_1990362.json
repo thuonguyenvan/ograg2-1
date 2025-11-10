@@ -1,0 +1,32 @@
+{
+  "id": "GO:1990362",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990362",
+  "relationships": {
+    "is_a": [
+      "GO:0004022"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "butanol dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "33199",
+      "33199"
+    ],
+    "GOC": [
+      "mengo_curators"
+    ],
+    "PMID": [
+      "1999395"
+    ]
+  },
+  "definition": "Catalysis of the reaction: butan-1-ol + NAD+ = butanal + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "butanol dehydrogenase (NAD+) activity"
+}

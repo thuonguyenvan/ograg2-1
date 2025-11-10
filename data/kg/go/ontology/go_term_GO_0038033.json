@@ -1,0 +1,44 @@
+{
+  "id": "GO:0038033",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038033",
+  "relationships": {
+    "is_a": [
+      "GO:0038089",
+      "GO:0048010",
+      "GO:2001028"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "VEGF-VEGFR-induced endothelial cell chemotaxis",
+      "positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signalling pathway",
+      "positive regulation of endothelial cell chemotaxis by VEGF/VEGFR signaling pathway"
+    ],
+    "broad": [
+      "VEGF-mediated chemotactic endothelial cell migration"
+    ],
+    "narrow": [],
+    "related": [
+      "vascular endothelial growth factor receptor signaling pathway involved in endothelial cell chemotaxis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "bf",
+      "rl",
+      "bf",
+      "bf",
+      "mah",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "21245381",
+      "21245381"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by the binding of a vascular endothelial growth factor (VEGF) to its receptor on the surface of a cell, which activates or increases the frequency, rate or extent of endothelial cell chemotaxis.",
+  "namespace": "biological_process",
+  "label": "positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway"
+}

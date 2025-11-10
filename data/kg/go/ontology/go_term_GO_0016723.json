@@ -1,0 +1,29 @@
+{
+  "id": "GO:0016723",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016723",
+  "relationships": {
+    "is_a": [
+      "GO:0016722"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "oxidoreductase activity, oxidizing metal ions, NAD or NADP as acceptor",
+      "oxidoreductase activity, reducing metal ions, NAD or NADP as acceptor"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.16.1.-"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of an oxidation-reduction in which the metal ion is reduced and NAD+ or NADP+ acts as an electron acceptor.",
+  "namespace": "molecular_function",
+  "label": "oxidoreductase activity, acting on metal ions, NAD or NADP as acceptor"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0120270",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120270",
+  "relationships": {
+    "is_a": [
+      "GO:0061013"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of nuclear-transcribed mRNA catabolic process, meiosis-specific transcripts"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "24920274"
+    ]
+  },
+  "definition": "Any process that modulates the rate, frequency, or extent of selective degradation of meiosis-specific nuclear transcribed transcripts during vegetative growth, by a mechanism that requires determinant of selective removal (DSR) sequences in the targeted mRNAs and involves a YTH family protein.",
+  "namespace": "biological_process",
+  "label": "regulation of nuclear mRNA surveillance of meiosis-specific transcripts"
+}

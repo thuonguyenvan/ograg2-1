@@ -1,0 +1,35 @@
+{
+  "id": "GO:0033917",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033917",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "exopolygalacturanosidase activity",
+      "exopolygalacturonosidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.82",
+      "3.2.1.82",
+      "3.2.1.82",
+      "3.2.1.82"
+    ],
+    "MetaCyc": [
+      "3.2.1.82-RXN"
+    ],
+    "RHEA": [
+      "56232"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of pectic acid from the non-reducing end, releasing digalacturonate.",
+  "namespace": "molecular_function",
+  "label": "exo-poly-alpha-galacturonosidase activity"
+}

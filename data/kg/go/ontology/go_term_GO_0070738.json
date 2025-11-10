@@ -1,0 +1,29 @@
+{
+  "id": "GO:0070738",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070738",
+  "relationships": {
+    "is_a": [
+      "GO:0070735"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tubulin glycylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "19524510"
+    ]
+  },
+  "definition": "Catalysis of the posttranslational transfer of one or more glycine residues to a specific glutamate residue on a target tubulin molecule; acts on alpha or beta tubulin.",
+  "namespace": "molecular_function",
+  "label": "tubulin-glycine ligase activity"
+}

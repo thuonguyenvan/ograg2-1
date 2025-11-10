@@ -1,0 +1,42 @@
+{
+  "id": "GO:1901771",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901771",
+  "relationships": {
+    "is_a": [
+      "GO:0030639",
+      "GO:0030648",
+      "GO:0042181",
+      "GO:0044597"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "daunorubicin anabolism",
+      "daunorubicin biosynthesis",
+      "daunorubicin formation",
+      "daunorubicin synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "7601857"
+    ],
+    "UniPathway": [
+      "UPA00054"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of daunorubicin.",
+  "namespace": "biological_process",
+  "label": "daunorubicin biosynthetic process"
+}

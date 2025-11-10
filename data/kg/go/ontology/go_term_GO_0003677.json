@@ -1,0 +1,32 @@
+{
+  "id": "GO:0003677",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003677",
+  "relationships": {
+    "is_a": [
+      "GO:0003676"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "plasmid binding"
+    ],
+    "related": [
+      "microtubule/chromatin interaction",
+      "structure specific DNA binding",
+      "structure-specific DNA binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "jl",
+      "tb",
+      "vw"
+    ]
+  },
+  "definition": "Any molecular function by which a gene product interacts selectively and non-covalently with DNA (deoxyribonucleic acid).",
+  "namespace": "molecular_function",
+  "label": "DNA binding"
+}

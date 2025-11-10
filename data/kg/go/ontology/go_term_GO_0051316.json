@@ -1,0 +1,33 @@
+{
+  "id": "GO:0051316",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051316",
+  "relationships": {
+    "is_a": [
+      "GO:0008608",
+      "GO:1903046"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "attachment of spindle microtubules to meiotic chromosome"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "attachment of spindle microtubules to kinetochore during meiosis",
+      "attachment of spindle microtubules to kinetochore during meiotic chromosome segregation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The cellular process in which spindle microtubules become physically associated with the proteins making up the kinetochore complex in meiosis.",
+  "namespace": "biological_process",
+  "label": "attachment of meiotic spindle microtubules to kinetochore"
+}

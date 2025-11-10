@@ -1,0 +1,46 @@
+{
+  "id": "GO:0004535",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004535",
+  "relationships": {
+    "is_a": [
+      "GO:0000175"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "poly(A)-specific RNase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2&apos;,3&apos;-exoribonuclease activity",
+      "3&apos;-exoribonuclease activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.13.4",
+      "3.1.13.4",
+      "3.1.13.4",
+      "3.1.13.4"
+    ],
+    "MetaCyc": [
+      "3.1.13.4-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-429955",
+      "R-HSA-429992",
+      "R-HSA-430021",
+      "R-HSA-9009950",
+      "R-HSA-9615042",
+      "R-HSA-9822311",
+      "R-HSA-9822335"
+    ],
+    "ISBN": [
+      "0198547684"
+    ]
+  },
+  "definition": "Catalysis of the exonucleolytic cleavage of poly(A) to 5&apos;-AMP.",
+  "namespace": "molecular_function",
+  "label": "CCR4-NOT(CNOT6L) deadenylates mRNA in CCR4-NOT(CNOT6L):ZFP36L2:mRNA"
+}

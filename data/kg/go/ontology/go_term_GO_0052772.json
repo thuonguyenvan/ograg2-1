@@ -1,0 +1,31 @@
+{
+  "id": "GO:0052772",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052772",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "brefeldin A hydrolase activity"
+    ],
+    "broad": [
+      "BFA esterase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators"
+    ],
+    "PMID": [
+      "10201402",
+      "8106385"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of brefeldin A to produce brefeldin A acid. Brefeldin A is also known as gamma,4-dihydroxy-2-(6-hydroxy-1-heptenyl)-4-cyclopentanecrotonic acid lambda-lactone.",
+  "namespace": "molecular_function",
+  "label": "brefeldin A esterase activity"
+}

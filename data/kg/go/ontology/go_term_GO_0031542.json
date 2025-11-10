@@ -1,0 +1,36 @@
+{
+  "id": "GO:0031542",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031542",
+  "relationships": {
+    "is_a": [
+      "GO:0009963",
+      "GO:0031539",
+      "GO:0031540"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of anthocyanin anabolism",
+      "positive regulation of anthocyanin biosynthesis",
+      "positive regulation of anthocyanin formation",
+      "positive regulation of anthocyanin synthesis",
+      "up regulation of anthocyanin biosynthetic process",
+      "up-regulation of anthocyanin biosynthetic process",
+      "upregulation of anthocyanin biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of anthocyanin biosynthetic process",
+      "stimulation of anthocyanin biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of anthocyanins.",
+  "namespace": "biological_process",
+  "label": "positive regulation of anthocyanin biosynthetic process"
+}

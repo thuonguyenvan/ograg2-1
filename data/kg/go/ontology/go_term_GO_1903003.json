@@ -1,0 +1,72 @@
+{
+  "id": "GO:1903003",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903003",
+  "relationships": {
+    "is_a": [
+      "GO:0090085",
+      "GO:1903322"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of deubiquitination",
+      "positive regulation of protein deubiquitinylation",
+      "positive regulation of protein deubiquitylation",
+      "up regulation of deubiquitination",
+      "up regulation of protein deubiquitination",
+      "up regulation of protein deubiquitinylation",
+      "up regulation of protein deubiquitylation",
+      "up-regulation of deubiquitination",
+      "up-regulation of protein deubiquitination",
+      "up-regulation of protein deubiquitinylation",
+      "up-regulation of protein deubiquitylation",
+      "upregulation of deubiquitination",
+      "upregulation of protein deubiquitination",
+      "upregulation of protein deubiquitinylation",
+      "upregulation of protein deubiquitylation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of deubiquitination",
+      "activation of protein deubiquitination",
+      "activation of protein deubiquitinylation",
+      "activation of protein deubiquitylation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22970133"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of protein deubiquitination.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein deubiquitination"
+}

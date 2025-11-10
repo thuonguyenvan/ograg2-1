@@ -1,0 +1,34 @@
+{
+  "id": "GO:0015708",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015708",
+  "relationships": {
+    "is_a": [
+      "GO:0098658"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "silicic acid transport"
+    ],
+    "broad": [
+      "silicate transport"
+    ],
+    "narrow": [],
+    "related": [
+      "silicic acid import",
+      "silicon uptake"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "krc"
+    ],
+    "PMID": [
+      "16572174"
+    ]
+  },
+  "definition": "The directed movement of silicates from outside of a cell, across the plasma membrane and into the cytosol. Silicates are the salts of silicic acids, and are usually composed of silicon and oxygen (Si[x]O[y]), one or more metals, and possibly hydrogen. Types of silicate include unisilicates, metasilicates and hydrous silicates.",
+  "namespace": "biological_process",
+  "label": "silicic acid import across plasma membrane"
+}

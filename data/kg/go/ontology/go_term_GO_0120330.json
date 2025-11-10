@@ -1,0 +1,29 @@
+{
+  "id": "GO:0120330",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120330",
+  "relationships": {
+    "is_a": [
+      "GO:1902555"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "rix1 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw"
+    ],
+    "PMID": [
+      "32491985",
+      "35355014"
+    ]
+  },
+  "definition": "A conserved RNA endonuclease complex required for spreading and epigenetic inheritance of heterochromatin. The rixosome contains six unique subunits: three structural subunits (Crb3, Rix1, and Ipi1) which form the core of the complex, and three catalytic subunits (the endonuclease Las1, the polynucleotide kinase Grc3, and the AAA-type ATPase Mdn1), which are involved in the processing of ribosomal RNA precursors. All subunits are essential for viability and are conserved from yeast to mammals, including humans.",
+  "namespace": "cellular_component",
+  "label": "rixosome complex"
+}

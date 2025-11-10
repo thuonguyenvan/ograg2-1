@@ -1,0 +1,30 @@
+{
+  "id": "GO:1990203",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990203",
+  "relationships": {
+    "is_a": [
+      "GO:0098797",
+      "GO:1902495"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "multidrug efflux pump MdtBC"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "bhm"
+    ],
+    "PMID": [
+      "20038594"
+    ]
+  },
+  "definition": "A protein complex containing two transmembrane subunits; a MdtB dimer and one unit of MdtC. Capable of exporting substrates across the cell membrane. Involved in conferring antibiotic resistance of Gram-negative bacteria by transporting drugs across the membrane.",
+  "namespace": "cellular_component",
+  "label": "MdtBC Complex"
+}

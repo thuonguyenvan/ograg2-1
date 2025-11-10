@@ -1,0 +1,35 @@
+{
+  "id": "GO:0071596",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071596",
+  "relationships": {
+    "is_a": [
+      "GO:0043161"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ubiquitin-dependent protein breakdown via the N-end rule pathway",
+      "ubiquitin-dependent protein catabolism via the N-end rule pathway",
+      "ubiquitin-dependent protein degradation via the N-end rule pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "rb",
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "19246002",
+      "9112437"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a protein or peptide covalently tagged with ubiquitin, via the N-end rule pathway. In the N-end rule pathway, destabilizing N-terminal residues (N-degrons) in substrates are recognized by E3 ligases (N-recognins), whereupon the substrates are linked to ubiquitin and then delivered to the proteasome for degradation.",
+  "namespace": "biological_process",
+  "label": "ubiquitin-dependent protein catabolic process via the N-end rule pathway"
+}

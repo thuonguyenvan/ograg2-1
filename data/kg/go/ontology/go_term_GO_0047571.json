@@ -1,0 +1,51 @@
+{
+  "id": "GO:0047571",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047571",
+  "relationships": {
+    "is_a": [
+      "GO:0033765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-ene-dehydrogenase activity",
+      "3-ketosteroid-1-en-dehydrogenase activity",
+      "3-ketosteroid-delta1-dehydrogenase activity",
+      "3-oxosteroid delta1-dehydrogenase activity",
+      "3-oxosteroid:(2,6-dichlorphenolindophenol) delta1-oxidoreductase activity",
+      "3-oxosteroid:(acceptor) delta1-oxidoreductase activity",
+      "3-oxosteroid:acceptor delta1-oxidoreductase activity",
+      "4-en-3-oxosteroid:(acceptor)-1-en-oxido-reductase activity",
+      "delta1-dehydrogenase activity",
+      "delta1-steroid reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.3.99.4",
+      "1.3.99.4",
+      "1.3.99.4",
+      "1.3.99.4",
+      "1.3.99.4",
+      "1.3.99.4",
+      "1.3.99.4",
+      "1.3.99.4",
+      "1.3.99.4",
+      "1.3.99.4",
+      "1.3.99.4",
+      "1.3.99.4"
+    ],
+    "MetaCyc": [
+      "3-OXOSTEROID-1-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "13329"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 3-oxosteroid + acceptor = a 3-oxo-D1-steroid + reduced acceptor.",
+  "namespace": "molecular_function",
+  "label": "3-oxosteroid 1-dehydrogenase activity"
+}

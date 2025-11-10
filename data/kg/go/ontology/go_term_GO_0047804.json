@@ -1,0 +1,47 @@
+{
+  "id": "GO:0047804",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047804",
+  "relationships": {
+    "is_a": [
+      "GO:0016846"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cysteine-S-conjugate b-lyase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-cysteine-S-conjugate thiol-lyase (deaminating) activity",
+      "L-cysteine-S-conjugate thiol-lyase (deaminating; pyruvate-forming)",
+      "S-alkylcysteine lyase activity",
+      "alkylcysteine lyase activity",
+      "cystathionine beta-lyase activity",
+      "cysteine conjugate beta-lyase activity",
+      "glutamine transaminase K/cysteine conjugate beta-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.4.1.13",
+      "4.4.1.13",
+      "4.4.1.13",
+      "4.4.1.13",
+      "4.4.1.13",
+      "4.4.1.13",
+      "4.4.1.13",
+      "4.4.1.13"
+    ],
+    "MetaCyc": [
+      "RXN-6763"
+    ],
+    "RHEA": [
+      "18121",
+      "18121"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-substituted L-cysteine + H2O = a thiol + NH4+ + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "cysteine-S-conjugate beta-lyase activity"
+}

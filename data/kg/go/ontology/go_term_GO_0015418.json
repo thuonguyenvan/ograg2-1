@@ -1,0 +1,46 @@
+{
+  "id": "GO:0015418",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015418",
+  "relationships": {
+    "is_a": [
+      "GO:0015651",
+      "GO:0140359"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "quaternary-ammonium-compound ABC transporter"
+    ],
+    "broad": [
+      "quarternary amine transporter activity"
+    ],
+    "narrow": [
+      "glycine betaine/proline porter activity"
+    ],
+    "related": [
+      "ATP-dependent quaternary-ammonium compound transmembrane transporting activity",
+      "ATPase-coupled quaternary ammonium compound transmembrane transporting activity",
+      "quaternary amine uptake transporter activity",
+      "quaternary-amine-transporting ATPase activity",
+      "quaternary-ammonium-compound-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.6.2.9"
+    ],
+    "MetaCyc": [
+      "RXN-8638"
+    ],
+    "RHEA": [
+      "11036",
+      "11036"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + H2O + quaternary ammonium(out) = ADP + H+ + phosphate + quaternary ammonium(in).",
+  "namespace": "molecular_function",
+  "label": "ABC-type quaternary ammonium compound transporting activity"
+}

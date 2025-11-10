@@ -1,0 +1,30 @@
+{
+  "id": "GO:0080097",
+  "uri": "http://purl.obolibrary.org/obo/GO_0080097",
+  "relationships": {
+    "is_a": [
+      "GO:0070529"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.99"
+    ],
+    "MetaCyc": [
+      "RXN-10139"
+    ],
+    "RHEA": [
+      "27586",
+      "27586"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-tryptophan + pyruvate = 3-(indol-3-yl)pyruvate + L-alanine.",
+  "namespace": "molecular_function",
+  "label": "L-tryptophan:pyruvate aminotransferase activity"
+}

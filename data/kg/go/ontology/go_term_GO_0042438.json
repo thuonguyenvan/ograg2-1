@@ -1,0 +1,34 @@
+{
+  "id": "GO:0042438",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042438",
+  "relationships": {
+    "is_a": [
+      "GO:0006582",
+      "GO:0044550",
+      "GO:0046148",
+      "GO:0046189"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "melanin anabolism",
+      "melanin biosynthesis",
+      "melanin formation",
+      "melanin synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5662702"
+    ],
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of melanins, pigments largely of animal origin. High molecular weight polymers of indole quinone, they are irregular polymeric structures and are divided into three groups: allomelanins in the plant kingdom and eumelanins and phaeomelanins in the animal kingdom.",
+  "namespace": "biological_process",
+  "label": "Melanin biosynthesis"
+}

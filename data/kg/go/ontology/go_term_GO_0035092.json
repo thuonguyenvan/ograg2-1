@@ -1,0 +1,30 @@
+{
+  "id": "GO:0035092",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035092",
+  "relationships": {
+    "is_a": [
+      "GO:0006325"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sperm chromatin condensation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "spermatogenesis, exchange of chromosomal proteins"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf"
+    ],
+    "PMID": [
+      "11735001"
+    ]
+  },
+  "definition": "The progressive compaction of the spermatid chromatin so that it reaches a level of condensation that is not compatible with nuclear activities such as transcription or DNA replication.",
+  "namespace": "biological_process",
+  "label": "sperm DNA condensation"
+}

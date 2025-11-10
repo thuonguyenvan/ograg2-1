@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033513",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033513",
+  "relationships": {
+    "is_a": [
+      "GO:0019474"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-lysine breakdown to acetyl-CoA via 5-aminopentanamide",
+      "L-lysine degradation to acetyl-CoA via 5-aminopentanamide"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5280",
+      "PWY-5280"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-lysine into other compounds, including acetyl-CoA, via the intermediate 5-aminopentanamide.",
+  "namespace": "biological_process",
+  "label": "L-lysine catabolic process to acetyl-CoA via 5-aminopentanamide"
+}

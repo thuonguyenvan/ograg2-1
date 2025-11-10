@@ -1,0 +1,40 @@
+{
+  "id": "GO:1903135",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903135",
+  "relationships": {
+    "is_a": [
+      "GO:0005507"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Cu(2+) binding",
+      "Cu(II) binding",
+      "copper(2+)binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf"
+    ],
+    "GO_REF": [
+      "0000067"
+    ],
+    "PMID": [
+      "24567322",
+      "24567322"
+    ],
+    "CHEBI": [
+      "29036",
+      "29036"
+    ]
+  },
+  "definition": "Binding to a cupric ion, copper(2+).",
+  "namespace": "molecular_function",
+  "label": "cupric ion binding"
+}

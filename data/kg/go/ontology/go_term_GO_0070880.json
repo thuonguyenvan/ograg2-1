@@ -1,0 +1,34 @@
+{
+  "id": "GO:0070880",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070880",
+  "relationships": {
+    "is_a": [
+      "GO:0034410",
+      "GO:0051278",
+      "GO:0070879"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fungal-type cell wall beta-glucan anabolism",
+      "fungal-type cell wall beta-glucan biosynthesis",
+      "fungal-type cell wall beta-glucan formation",
+      "fungal-type cell wall beta-glucan synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of beta-glucans, compounds composed of glucose residues linked by beta-D-glucosidic bonds, found in the walls of fungal cells.",
+  "namespace": "biological_process",
+  "label": "fungal-type cell wall beta-glucan biosynthetic process"
+}

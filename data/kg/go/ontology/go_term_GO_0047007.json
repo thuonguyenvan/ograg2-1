@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047007",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047007",
+  "relationships": {
+    "is_a": [
+      "GO:0033764"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "21-hydroxysteroid dehydrogenase (NAD+) activity",
+      "21-hydroxysteroid:NAD+ 21-oxidoreductase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.150",
+      "1.1.1.150",
+      "1.1.1.150"
+    ],
+    "KEGG_REACTION": [
+      "R03043"
+    ],
+    "MetaCyc": [
+      "1.1.1.150-RXN"
+    ],
+    "RHEA": [
+      "11448",
+      "11448"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD+ + pregnan-21-ol = H+ + NADH + pregnan-21-al.",
+  "namespace": "molecular_function",
+  "label": "pregnan-21-ol dehydrogenase (NAD+) activity"
+}

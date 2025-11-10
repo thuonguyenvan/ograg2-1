@@ -1,0 +1,38 @@
+{
+  "id": "GO:0018480",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018480",
+  "relationships": {
+    "is_a": [
+      "GO:0016620"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-carboxymethyl-2-hydroxymuconic-semialdehyde:NAD+ oxidoreductase activity",
+      "carboxymethylhydroxymuconic semialdehyde dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.60",
+      "1.2.1.60",
+      "1.2.1.60",
+      "1.2.1.60"
+    ],
+    "MetaCyc": [
+      "CHMS-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "15681"
+    ],
+    "UM-BBD_reactionID": [
+      "r0365"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-carboxymethyl-2-hydroxymuconate semialdehyde + H2O + NAD+ = 5-carboxymethyl-2-hydroxymuconate + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase activity"
+}

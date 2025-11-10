@@ -1,0 +1,32 @@
+{
+  "id": "GO:0044612",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044612",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Nic96 complex",
+      "Nup82 complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dgf"
+    ],
+    "PMID": [
+      "18046406",
+      "19524430",
+      "20947011",
+      "22419078"
+    ]
+  },
+  "definition": "A substructure of the nuclear pore complex (NPC) that serves to connect members of the central transport channel (composed of FG-nucleoporins) to the core scaffold (composed of the inner and outer NPC rings). In S. cerevisiae, the linkers are Nic96p and Nup82p. In vertebrates, they are Nup93 and Nup88. Components are arranged in 8-fold symmetrical &apos;spokes&apos; around the central transport channel. Both linkers can be isolated in association with specific FG-nucleoporins, complexes that are sometimes referred to as the Nic96 complex (Nic96p-Nsp1p-Nup49p-Nup57p) and the Nup82 complex (Nup82p-Nup116p-Nup159p-Gle2p).",
+  "namespace": "cellular_component",
+  "label": "nuclear pore linkers"
+}

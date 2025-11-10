@@ -1,0 +1,30 @@
+{
+  "id": "GO:0043861",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043861",
+  "relationships": {
+    "is_a": [
+      "GO:0015297",
+      "GO:0015489"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "agmatine-putrescine antiporter activity",
+      "agmatine/putrescine antiporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "17028272"
+    ]
+  },
+  "definition": "Catalysis of the reaction: agmatine(out) + putrescine(in) = agmatine(in) + putrescine(out).",
+  "namespace": "molecular_function",
+  "label": "agmatine:putrescine antiporter activity"
+}

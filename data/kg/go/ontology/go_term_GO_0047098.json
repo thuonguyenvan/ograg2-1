@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047098",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047098",
+  "relationships": {
+    "is_a": [
+      "GO:0016705",
+      "GO:0045289"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Latia luciferin monooxygenase (demethylating)",
+      "Latia-luciferin,hydrogen-donor:oxygen oxidoreductase (demethylating)",
+      "luciferase (Latia luciferin)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.99.21",
+      "1.14.99.21",
+      "1.14.99.21",
+      "1.14.99.21",
+      "1.14.99.21"
+    ],
+    "MetaCyc": [
+      "1.14.99.21-RXN"
+    ],
+    "RHEA": [
+      "12677"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 O2 + donor-H2 + Latia luciferin = light + H2O + acceptor + formate + CO2 + oxidized Latia luciferin.",
+  "namespace": "molecular_function",
+  "label": "Latia-luciferin monooxygenase (demethylating) activity"
+}

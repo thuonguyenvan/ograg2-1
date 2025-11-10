@@ -1,0 +1,36 @@
+{
+  "id": "GO:0102025",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102025",
+  "relationships": {
+    "is_a": [
+      "GO:0015117",
+      "GO:0140359"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "thiosulphate ABC transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATPase-coupled thiosulfate transmembrane transporter activity",
+      "thiosulfate transmembrane-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "ABC-7-RXN"
+    ],
+    "RHEA": [
+      "29871"
+    ],
+    "GOC": [
+      "mlg",
+      "pz"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + thiosulfate(out) = ADP + phosphate + thiosulfate(in).",
+  "namespace": "molecular_function",
+  "label": "ABC-type thiosulfate transporter activity"
+}

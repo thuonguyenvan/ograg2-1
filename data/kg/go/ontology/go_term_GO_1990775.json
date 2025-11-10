@@ -1,0 +1,31 @@
+{
+  "id": "GO:1990775",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990775",
+  "relationships": {
+    "is_a": [
+      "GO:0001816"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "EDN1 production",
+      "EDN2 production",
+      "EDN3 production",
+      "endothelin secretion",
+      "endothelin-1 secretion",
+      "endothelin-2 production",
+      "endothelin-3 production"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "15560120"
+    ]
+  },
+  "definition": "The appearance of a endothelin due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels. Endothelins are endothelium-derived vasoactive peptides involved in a variety of biological functions.",
+  "namespace": "biological_process",
+  "label": "endothelin production"
+}

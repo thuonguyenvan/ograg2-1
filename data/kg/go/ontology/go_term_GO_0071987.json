@@ -1,0 +1,31 @@
+{
+  "id": "GO:0071987",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071987",
+  "relationships": {
+    "is_a": [
+      "GO:0019904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "WD domain binding",
+      "beta-transducin repeat domain binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "yaf",
+      "yaf",
+      "yaf"
+    ],
+    "InterPro": [
+      "IPR017986"
+    ]
+  },
+  "definition": "Binding to a WD40 repeat domain of a protein. The WD40 repeat is a short structural motif of approximately 40 amino acids, often terminating in a tryptophan-aspartic acid (W-D) dipeptide. Several of these repeats are combined to form a type of protein domain called the WD domain.",
+  "namespace": "molecular_function",
+  "label": "WD40-repeat domain binding"
+}

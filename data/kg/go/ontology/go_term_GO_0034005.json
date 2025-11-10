@@ -1,0 +1,47 @@
+{
+  "id": "GO:0034005",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034005",
+  "relationships": {
+    "is_a": [
+      "GO:0010334"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(+)-(10R)-germacrene A synthase activity",
+      "(+)-germacrene A synthase activity",
+      "2-trans,6-trans-farnesyl-diphosphate diphosphate-lyase (germacrene-A-forming) activity",
+      "2-trans,6-trans-farnesyl-diphosphate diphosphate-lyase [(+)-germacrene-A-forming] activity",
+      "GAS",
+      "germacrene A synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.23",
+      "4.2.3.23",
+      "4.2.3.23",
+      "4.2.3.23",
+      "4.2.3.23",
+      "4.2.3.23",
+      "4.2.3.23",
+      "4.2.3.23"
+    ],
+    "KEGG_REACTION": [
+      "R07649"
+    ],
+    "MetaCyc": [
+      "RXN-11527"
+    ],
+    "RHEA": [
+      "12516",
+      "12516"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-trans,6-trans-farnesyl diphosphate = (+)-(R)-germacrene A + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "germacrene-A synthase activity"
+}

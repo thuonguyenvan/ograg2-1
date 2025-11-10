@@ -1,0 +1,36 @@
+{
+  "id": "GO:0039692",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039692",
+  "relationships": {
+    "is_a": [
+      "GO:0039694"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "retroviral genome replication"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "viral ssRNA replication via dsDNA intermediate"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "1937",
+      "1937"
+    ],
+    "GOC": [
+      "bf",
+      "jl",
+      "bf"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "A viral genome replication where the template is single-stranded RNA (ssRNA), and which proceeds via a double stranded DNA (dsDNA) intermediate molecule. Viral genomic RNA is first reverse transcribed into dsDNA, which integrates into the host chromosomal DNA, where it is transcribed by host RNA polymerase II.",
+  "namespace": "biological_process",
+  "label": "ssRNA(RT) replication/transcription"
+}

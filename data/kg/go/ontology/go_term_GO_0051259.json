@@ -1,0 +1,36 @@
+{
+  "id": "GO:0051259",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051259",
+  "relationships": {
+    "is_a": [
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein oligomer assembly",
+      "protein oligomer formation",
+      "protein oligomerization"
+    ],
+    "broad": [
+      "protein oligomer biosynthesis",
+      "protein oligomer biosynthetic process"
+    ],
+    "narrow": [],
+    "related": [
+      "protein multimerization"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "bf"
+    ],
+    "PMID": [
+      "18293929"
+    ]
+  },
+  "definition": "The process of creating protein oligomers, compounds composed of a small number, usually between three and ten, of component monomers; protein oligomers may be composed of different or identical monomers. Oligomers may be formed by the polymerization of a number of monomers or the depolymerization of a large protein polymer.",
+  "namespace": "biological_process",
+  "label": "protein complex oligomerization"
+}

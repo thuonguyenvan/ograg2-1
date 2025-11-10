@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006384",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006384",
+  "relationships": {
+    "is_a": [
+      "GO:0006352"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transcription initiation from Pol III promoter",
+      "transcription initiation from RNA polymerase III promoter"
+    ],
+    "broad": [],
+    "narrow": [
+      "transcription initiation from RNA polymerase III hybrid type promoter",
+      "transcription initiation from RNA polymerase III type 1 promoter",
+      "transcription initiation from RNA polymerase III type 2 promoter",
+      "transcription initiation from RNA polymerase III type 3 promoter"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "txnOH"
+    ]
+  },
+  "definition": "A transcription initiation process that takes place at a RNA polymerase III gene promoter. Transfer RNAs (tRNA) genes, as well as some other non-coding RNAs, are transcribed by RNA polymerase III.",
+  "namespace": "biological_process",
+  "label": "transcription initiation at RNA polymerase III promoter"
+}

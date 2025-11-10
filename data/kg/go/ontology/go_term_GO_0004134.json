@@ -1,0 +1,44 @@
+{
+  "id": "GO:0004134",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004134",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,4-alpha-D-glucan:1,4-alpha-D-glucan 4-alpha-D-glycosyltransferase activity",
+      "D-enzyme activity",
+      "amylomaltase activity",
+      "debranching enzyme maltodextrin glycosyltransferase activity",
+      "dextrin glycosyltransferase activity",
+      "dextrin transglycosylase activity",
+      "disproportionating enzyme activity",
+      "oligo-1,4-1,4-glucantransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.25",
+      "2.4.1.25",
+      "2.4.1.25",
+      "2.4.1.25",
+      "2.4.1.25",
+      "2.4.1.25",
+      "2.4.1.25",
+      "2.4.1.25",
+      "2.4.1.25",
+      "2.4.1.25"
+    ],
+    "Reactome": [
+      "R-HSA-71552"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a segment of a (1-&gt;4)-alpha-D-glucan to a new 4-position in an acceptor, which may be glucose or (1-&gt;4)-alpha-D-glucan.",
+  "namespace": "molecular_function",
+  "label": "limit dextrin-glycogenin =&gt; ((1,6)-alpha-glucosyl)poly((1,4)-alpha-glucosyl) glycogenin"
+}

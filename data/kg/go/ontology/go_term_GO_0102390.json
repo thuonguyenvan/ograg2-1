@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102390",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102390",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.93",
+      "3.1.1.93"
+    ],
+    "MetaCyc": [
+      "RXN-13605"
+    ],
+    "RHEA": [
+      "34179"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: mycophenolic acid O-acyl-glucuronide(1-) + H2O = mycophenolate + H+ + D-glucopyranuronate.",
+  "namespace": "molecular_function",
+  "label": "mycophenolic acid acyl-glucuronide esterase activity"
+}

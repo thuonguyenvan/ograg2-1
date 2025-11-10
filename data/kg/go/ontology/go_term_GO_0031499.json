@@ -1,0 +1,41 @@
+{
+  "id": "GO:0031499",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031499",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "TRAMP4 complex",
+      "TRAMP5 complex",
+      "Trf4 complex",
+      "Trf4 poly(A) polymerase complex",
+      "Trf4p-Air2p-Mtr4p polyadenylation complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "TRAMP_complex"
+    ],
+    "PMID": [
+      "15173578",
+      "15828860",
+      "15935758",
+      "15935759",
+      "16373491",
+      "16374505",
+      "16431988",
+      "16973437",
+      "17410208",
+      "17652137"
+    ]
+  },
+  "definition": "A multiprotein complex having distributive polyadenylation activity of a variety of RNA substrates including hypomodified and incorrectly folded tRNAs, pre-snRNAs, pre-snoRNAs, incorrectly spliced or processed pre-mRNAs, cryptic unstable transcripts (CUTs), pre-rRNAs and rRNA fragments released as part of rRNA processing. In S. cerevisiae, the complex consists of either Pap2 (also known as Trf4) or Trf5, Air1 or Air2, and Mtr4, and is involved in RNA 3&apos;-end processing and in RNA surveillance and quality control.",
+  "namespace": "cellular_component",
+  "label": "TRAMP complex"
+}

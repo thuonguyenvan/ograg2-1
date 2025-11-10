@@ -1,0 +1,29 @@
+{
+  "id": "GO:0050661",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050661",
+  "relationships": {
+    "is_a": [
+      "GO:0030554"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nicotinamide adenine dinucleotide phosphate binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NADP or NADPH binding",
+      "NADP+ or NADPH binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mah"
+    ]
+  },
+  "definition": "Binding to nicotinamide-adenine dinucleotide phosphate, a coenzyme involved in many redox and biosynthetic reactions; binding may be to either the oxidized form, NADP+, or the reduced form, NADPH.",
+  "namespace": "molecular_function",
+  "label": "NADP binding"
+}

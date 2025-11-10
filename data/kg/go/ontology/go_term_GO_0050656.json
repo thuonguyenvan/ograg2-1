@@ -1,0 +1,31 @@
+{
+  "id": "GO:0050656",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050656",
+  "relationships": {
+    "is_a": [
+      "GO:0032559",
+      "GO:0043168",
+      "GO:1901681"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3&apos;-phosphoadenosine 5&apos;-phosphosulphate binding",
+      "3&apos;-phosphoadenylyl-sulfate binding",
+      "PAPS binding",
+      "adenosine 3&apos;-phosphate 5&apos;-phosphosulfate binding",
+      "phosphoadenosine phosphosulfate binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binding to 3&apos;-phosphoadenosine 5&apos;-phosphosulfate (PAPS), a naturally occurring mixed anhydride. It is an intermediate in the formation of a variety of sulfo compounds in biological systems.",
+  "namespace": "molecular_function",
+  "label": "3&apos;-phosphoadenosine 5&apos;-phosphosulfate binding"
+}

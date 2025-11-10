@@ -1,0 +1,29 @@
+{
+  "id": "GO:0102365",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102365",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "taxusin 2-alpha-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.183",
+      "1.14.14.183"
+    ],
+    "PMID": [
+      "15178487"
+    ]
+  },
+  "definition": "Catalysis of the reaction: taxusin + NADPH + O2 + H+ = 2-alpha-hydroxytaxusin + NADP + H2O. Also converts 7beta-hydroxytaxusin to 2alpha,7beta-dihydroxytaxusin.",
+  "namespace": "molecular_function",
+  "label": "taxoid 2alpha-hydroxylase activity"
+}

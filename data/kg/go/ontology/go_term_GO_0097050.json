@@ -1,0 +1,35 @@
+{
+  "id": "GO:0097050",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097050",
+  "relationships": {
+    "is_a": [
+      "GO:1904019"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pancreatic B cell apoptosis",
+      "pancreatic beta cell apoptosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "type B pancreatic cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000169"
+    ],
+    "GOC": [
+      "BHF",
+      "mtg_apoptosis"
+    ],
+    "PMID": [
+      "16087305"
+    ]
+  },
+  "definition": "Any apoptotic process in a type B pancreatic cell, a cell located towards center of the islets of Langerhans that secretes insulin.",
+  "namespace": "biological_process",
+  "label": "type B pancreatic cell apoptotic process"
+}

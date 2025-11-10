@@ -1,0 +1,41 @@
+{
+  "id": "GO:1905528",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905528",
+  "relationships": {
+    "is_a": [
+      "GO:0032849",
+      "GO:1905526"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of Golgi lumen acidification",
+      "up-regulation of Golgi lumen acidification",
+      "upregulation of Golgi lumen acidification"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of Golgi lumen acidification"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23447592"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of Golgi lumen acidification.",
+  "namespace": "biological_process",
+  "label": "positive regulation of Golgi lumen acidification"
+}

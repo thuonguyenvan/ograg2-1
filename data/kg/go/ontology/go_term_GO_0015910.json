@@ -1,0 +1,31 @@
+{
+  "id": "GO:0015910",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015910",
+  "relationships": {
+    "is_a": [
+      "GO:0015909",
+      "GO:0015919",
+      "GO:0032365",
+      "GO:1902001"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peroxisomal long-chain fatty acid import",
+      "peroxisomal long-chain fatty acid uptake"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The directed movement of a long-chain fatty acid into a peroxisome. A long-chain fatty acid has an aliphatic tail containing 13 to 22 carbons.",
+  "namespace": "biological_process",
+  "label": "long-chain fatty acid import into peroxisome"
+}

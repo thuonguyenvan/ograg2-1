@@ -1,0 +1,51 @@
+{
+  "id": "GO:1905747",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905747",
+  "relationships": {
+    "is_a": [
+      "GO:0046877",
+      "GO:0051048",
+      "GO:0060457"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of saliva secretion",
+      "down regulation of salivation",
+      "down-regulation of saliva secretion",
+      "down-regulation of salivation",
+      "downregulation of saliva secretion",
+      "downregulation of salivation",
+      "negative regulation of salivation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of saliva secretion",
+      "inhibition of salivation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23419067"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of saliva secretion.",
+  "namespace": "biological_process",
+  "label": "negative regulation of saliva secretion"
+}

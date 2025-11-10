@@ -1,0 +1,30 @@
+{
+  "id": "GO:0018807",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018807",
+  "relationships": {
+    "is_a": [
+      "GO:0016822"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.7.1.21"
+    ],
+    "RHEA": [
+      "39651"
+    ],
+    "UM-BBD_reactionID": [
+      "r0204",
+      "r0204"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 6-hydroxycyclohex-1-ene-1-carboxyl-CoA + H2O = 2,6-dihydroxycyclohexane-1-carboxyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "6-hydroxycyclohex-1-ene-1-carboxyl-CoA hydratase activity"
+}

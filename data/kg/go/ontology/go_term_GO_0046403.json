@@ -1,0 +1,44 @@
+{
+  "id": "GO:0046403",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046403",
+  "relationships": {
+    "is_a": [
+      "GO:0016791"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2&apos;(3&apos;)-polynucleotidase activity",
+      "5&apos;-polynucleotidekinase 3&apos;-phosphatase activity",
+      "DNA 3&apos;-phosphatase activity",
+      "deoxyribonucleate 3&apos;-phosphatase activity",
+      "polynucleotide 3&apos;-phosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.3.32",
+      "3.1.3.32",
+      "3.1.3.32",
+      "3.1.3.32",
+      "3.1.3.32",
+      "3.1.3.32"
+    ],
+    "MetaCyc": [
+      "POLYNUCLEOTIDE-3-PHOSPHATASE-RXN"
+    ],
+    "RHEA": [
+      "14113",
+      "14113"
+    ],
+    "Reactome": [
+      "R-HSA-5649705"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 3&apos;end (2&apos;-deoxyribonucleotide 3&apos;-phosphate)-DNA + H2O = a 3&apos;-end 2&apos;-deoxyribonucleotide-DNA + phosphate.",
+  "namespace": "molecular_function",
+  "label": "PNKP hydrolyzes the terminal 3&apos;Pi at the NEIL1,NEIL2-generated single strand break (SSB)"
+}

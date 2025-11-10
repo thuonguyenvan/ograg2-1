@@ -1,0 +1,33 @@
+{
+  "id": "GO:0032195",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032195",
+  "relationships": {
+    "is_a": [
+      "GO:0005773",
+      "GO:0030139"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "post-lysosome",
+      "postlysosome"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pf",
+      "dph"
+    ],
+    "PMID": [
+      "23494323",
+      "9276759",
+      "9394012"
+    ]
+  },
+  "definition": "A membrane-bounded intracellular vesicle formed late in the endocytic pathway when the pH in the vacuole becomes neutral prior to exocytosis.",
+  "namespace": "cellular_component",
+  "label": "post-lysosomal vacuole"
+}

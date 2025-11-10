@@ -1,0 +1,40 @@
+{
+  "id": "GO:0015441",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015441",
+  "relationships": {
+    "is_a": [
+      "GO:0015160",
+      "GO:0043211"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "beta-glucan ABC transporter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ABC-type beta-glucan transporter",
+      "ATP-dependent beta-glucan transporter activity",
+      "ATPase-coupled beta-glucan transporter activity",
+      "beta-glucan-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.5.2.3",
+      "7.5.2.3",
+      "7.5.2.3"
+    ],
+    "MetaCyc": [
+      "3.6.3.42-RXN"
+    ],
+    "RHEA": [
+      "18453",
+      "18453"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + beta-glucan(in) = ADP + phosphate + beta-glucan(out).",
+  "namespace": "molecular_function",
+  "label": "ABC-type beta-glucan transporter activity"
+}

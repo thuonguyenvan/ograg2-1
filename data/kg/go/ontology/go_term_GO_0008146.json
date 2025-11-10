@@ -1,0 +1,33 @@
+{
+  "id": "GO:0008146",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008146",
+  "relationships": {
+    "is_a": [
+      "GO:0016782"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulphotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.-",
+      "2.8.2.-"
+    ],
+    "Reactome": [
+      "R-HSA-176588",
+      "R-HSA-176604",
+      "R-HSA-176669",
+      "R-HSA-2022061",
+      "R-HSA-9753277"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a sulfate group from 3&apos;-phosphoadenosine 5&apos;-phosphosulfate to the hydroxyl group of an acceptor, producing the sulfated derivative and 3&apos;-phosphoadenosine 5&apos;-phosphate.",
+  "namespace": "molecular_function",
+  "label": "SULT dimers sulfate APAP to APAP-SO3"
+}

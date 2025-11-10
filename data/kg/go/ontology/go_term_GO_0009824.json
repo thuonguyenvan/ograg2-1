@@ -1,0 +1,47 @@
+{
+  "id": "GO:0009824",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009824",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-isopentenyl-diphosphate:AMP 2-isopentenyltransferase activity",
+      "2-isopentenyl-diphosphate:AMP delta2-isopentenyltransferase activity",
+      "adenylate dimethylallyltransferase (AMP-dependent) activity"
+    ],
+    "broad": [
+      "adenylate isopentenyltransferase activity",
+      "cytokinin synthase activity",
+      "isopentenyltransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "adenylate dimethylallyltransferase activity",
+      "dimethylallyl-diphosphate:AMP dimethylallyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.27",
+      "2.5.1.27",
+      "2.5.1.27"
+    ],
+    "KEGG_REACTION": [
+      "R04038",
+      "R04038"
+    ],
+    "MetaCyc": [
+      "RXN-4307"
+    ],
+    "RHEA": [
+      "15285",
+      "15285"
+    ]
+  },
+  "definition": "Catalysis of the reaction: AMP + dimethylallyl diphosphate = N(6)-(dimethylallyl)adenosine 5&apos;-phosphate + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "AMP dimethylallyltransferase activity"
+}

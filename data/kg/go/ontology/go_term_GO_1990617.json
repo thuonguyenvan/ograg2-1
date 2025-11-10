@@ -1,0 +1,38 @@
+{
+  "id": "GO:1990617",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990617",
+  "relationships": {
+    "is_a": [
+      "GO:0090575"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATF4-CHOP heterodimer",
+      "CHOP-ATF4 heterodimer",
+      "CHOP-CREB-2 complex",
+      "CHOP/ATF4 complex",
+      "GADD153-ATF4 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "18940792",
+      "18940792",
+      "18940792",
+      "11478948",
+      "18940792"
+    ]
+  },
+  "definition": "A heterodimeric transcription factor complex that is composed of CHOP (C/EBP homology protein, GADD153) and ATF4 (activating transcription factor 4, also known as cAMP response element binding protein-2/CREB-2) subunits.",
+  "namespace": "cellular_component",
+  "label": "CHOP-ATF4 complex"
+}

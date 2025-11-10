@@ -1,0 +1,42 @@
+{
+  "id": "GO:0019058",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019058",
+  "relationships": {
+    "is_a": [
+      "GO:0016032"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "viral assembly, maturation, egress, and release"
+    ],
+    "related": [
+      "lytic viral life cycle",
+      "viral infectious cycle",
+      "viral replication"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-162588",
+      "R-HSA-168255",
+      "R-HSA-9609646"
+    ],
+    "ISBN": [
+      "1555811272"
+    ],
+    "GOC": [
+      "bf",
+      "jl",
+      "bf",
+      "jl",
+      "bf",
+      "jl"
+    ]
+  },
+  "definition": "A set of processes which all viruses follow to ensure survival; includes attachment and entry of the virus particle, decoding of genome information, translation of viral mRNA by host ribosomes, genome replication, and assembly and release of viral particles containing the genome.",
+  "namespace": "biological_process",
+  "label": "HCMV Infection"
+}

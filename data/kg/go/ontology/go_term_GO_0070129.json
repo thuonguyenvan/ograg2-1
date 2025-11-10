@@ -1,0 +1,33 @@
+{
+  "id": "GO:0070129",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070129",
+  "relationships": {
+    "is_a": [
+      "GO:0006417",
+      "GO:0062125"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of mitochondrial protein anabolism",
+      "regulation of mitochondrial protein biosynthesis",
+      "regulation of mitochondrial protein formation",
+      "regulation of mitochondrial protein synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of proteins by the translation of mRNA in a mitochondrion.",
+  "namespace": "biological_process",
+  "label": "regulation of mitochondrial translation"
+}

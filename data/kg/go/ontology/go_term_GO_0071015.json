@@ -1,0 +1,52 @@
+{
+  "id": "GO:0071015",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071015",
+  "relationships": {
+    "is_a": [
+      "GO:0005689",
+      "GO:0071010"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "minor prespliceosome"
+    ],
+    "broad": [],
+    "narrow": [
+      "AT-AC prespliceosome",
+      "mammalian U12-type spliceosomal complex A",
+      "yeast U12-type spliceosomal complex B"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ab",
+      "krc",
+      "mah",
+      "krc",
+      "mah",
+      "krc",
+      "mah",
+      "ab",
+      "krc",
+      "mah",
+      "krc",
+      "mah"
+    ],
+    "PMID": [
+      "10197985",
+      "16201866",
+      "19239890"
+    ],
+    "ISBN": [
+      "0879695897",
+      "0879697393",
+      "0879695897",
+      "0879697393"
+    ]
+  },
+  "definition": "A spliceosomal complex that is formed by the cooperative binding of the heterodimeric U11/U12 snRNP to the 5&apos; splice site and the branch point sequence. The U12-type prespliceosome includes many proteins in addition to those found in the U11/U12 heterodimeric snRNPs. Commitment to a given pair of 5&apos; and 3&apos; splice sites occurs at the time of prespliceosome formation.",
+  "namespace": "cellular_component",
+  "label": "U12-type prespliceosome"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GO:0004452",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004452",
+  "relationships": {
+    "is_a": [
+      "GO:0016863"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "isopentenyl-diphosphate D-isomerase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "IPP isomerase activity",
+      "isopentenyl-diphosphate delta3-delta2-isomerase activity",
+      "isopentenylpyrophosphate delta-isomerase activity",
+      "isopentenylpyrophosphate isomerase activity",
+      "methylbutenylpyrophosphate isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.3.2",
+      "5.3.3.2",
+      "5.3.3.2",
+      "5.3.3.2",
+      "5.3.3.2",
+      "5.3.3.2"
+    ],
+    "KEGG_REACTION": [
+      "R01123"
+    ],
+    "MetaCyc": [
+      "IPPISOM-RXN"
+    ],
+    "RHEA": [
+      "23284",
+      "23284"
+    ],
+    "Reactome": [
+      "R-HSA-191382"
+    ]
+  },
+  "definition": "Catalysis of the reaction: isopentenyl diphosphate = dimethylallyl diphosphate.",
+  "namespace": "molecular_function",
+  "label": "Isopentenyl pyrophosphate rearranges to dimethylallyl pyrophosphate"
+}

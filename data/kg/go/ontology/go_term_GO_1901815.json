@@ -1,0 +1,43 @@
+{
+  "id": "GO:1901815",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901815",
+  "relationships": {
+    "is_a": [
+      "GO:0016123"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "astaxanthin anabolism",
+      "astaxanthin biosynthesis",
+      "astaxanthin formation",
+      "astaxanthin synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5288",
+      "PWY-5288"
+    ],
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "16434154"
+    ],
+    "UniPathway": [
+      "UPA00387"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of astaxanthin.",
+  "namespace": "biological_process",
+  "label": "astaxanthin biosynthetic process"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "GO:0036373",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036373",
+  "relationships": {
+    "is_a": [
+      "GO:0016857"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alpha-L-fucose 1-epimerase activity",
+      "fucose 1-epimerase activity",
+      "type-2 mutarotase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.3.29",
+      "5.1.3.29",
+      "5.1.3.29",
+      "5.1.3.29"
+    ],
+    "MetaCyc": [
+      "RXN0-5298"
+    ],
+    "RHEA": [
+      "25580",
+      "25580"
+    ],
+    "GOC": [
+      "crds"
+    ],
+    "PMID": [
+      "15060078"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-L-fucose = beta-L-fucose.",
+  "namespace": "molecular_function",
+  "label": "L-fucose mutarotase activity"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0009032",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009032",
+  "relationships": {
+    "is_a": [
+      "GO:0016154"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "pyrimidine phosphorylase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "thymidine-orthophosphate deoxyribosyltransferase activity",
+      "thymidine:phosphate deoxy-D-ribosyltransferase activity",
+      "thymidine:phosphate deoxy-alpha-D-ribosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.4",
+      "2.4.2.4"
+    ],
+    "MetaCyc": [
+      "THYM-PHOSPH-RXN"
+    ],
+    "RHEA": [
+      "16037",
+      "16037"
+    ]
+  },
+  "definition": "Catalysis of the reaction: thymidine + phosphate = thymine + 2-deoxy-D-ribose 1-phosphate.",
+  "namespace": "molecular_function",
+  "label": "thymidine phosphorylase activity"
+}

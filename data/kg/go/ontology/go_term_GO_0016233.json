@@ -1,0 +1,30 @@
+{
+  "id": "GO:0016233",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016233",
+  "relationships": {
+    "is_a": [
+      "GO:0000723"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "telomere end protection"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "rn"
+    ],
+    "PMID": [
+      "11349150",
+      "11352055"
+    ]
+  },
+  "definition": "A process in which telomeres are protected from degradation and fusion, thereby ensuring chromosome stability by protecting the ends from both degradation and from being recognized as damaged DNA. May be mediated by specific single- or double-stranded telomeric DNA binding proteins.",
+  "namespace": "biological_process",
+  "label": "telomere capping"
+}

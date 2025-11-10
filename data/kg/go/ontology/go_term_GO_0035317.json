@@ -1,0 +1,35 @@
+{
+  "id": "GO:0035317",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035317",
+  "relationships": {
+    "is_a": [
+      "GO:0035316"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "wing hair organisation",
+      "wing trichome organization and biogenesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "imaginal disc-derived wing hair organization and biogenesis",
+      "wing hair organization and biogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_sensu",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "11064425",
+      "12540853"
+    ]
+  },
+  "definition": "A process that is carried out at the cellular level that results in the assembly, arrangement of constituent parts, or disassembly of an imaginal disc-derived wing hair. A wing hair is an actin-rich, polarized, non-sensory apical projection that protrudes from each of the approximately 30,000 wing epithelial cells. An example of this is found in Drosophila melanogaster.",
+  "namespace": "biological_process",
+  "label": "imaginal disc-derived wing hair organization"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006390",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006390",
+  "relationships": {
+    "is_a": [
+      "GO:0000959",
+      "GO:0006351"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transcription from mitochondrial promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-75944"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "23632312"
+    ]
+  },
+  "definition": "The synthesis of RNA from a mitochondrial DNA template, usually by a specific mitochondrial RNA polymerase.",
+  "namespace": "biological_process",
+  "label": "Transcription from mitochondrial promoters"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0007064",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007064",
+  "relationships": {
+    "is_a": [
+      "GO:0007062"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "rn"
+    ],
+    "PMID": [
+      "10827941",
+      "11389843",
+      "14623866"
+    ]
+  },
+  "definition": "The cell cycle process in which the sister chromatids of a replicated chromosome are joined along the entire length of the chromosome, from their formation in S phase through metaphase during a mitotic cell cycle. This cohesion cycle is critical for high fidelity chromosome transmission.",
+  "namespace": "biological_process",
+  "label": "mitotic sister chromatid cohesion"
+}

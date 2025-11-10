@@ -1,0 +1,30 @@
+{
+  "id": "GO:0034403",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034403",
+  "relationships": {
+    "is_a": [
+      "GO:0000389",
+      "GO:0000395"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "alignment of 3&apos; and 5&apos; splice sites of nuclear mRNA"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "vw"
+    ],
+    "PMID": [
+      "9430647"
+    ]
+  },
+  "definition": "Recognition of both the 5&apos; and 3&apos;-splice sites and positioning them in the correct alignment with respect to each other so that the second catalytic step of nuclear mRNA splicing can occur.",
+  "namespace": "biological_process",
+  "label": "alignment of 3&apos; and 5&apos; splice sites of mRNA"
+}

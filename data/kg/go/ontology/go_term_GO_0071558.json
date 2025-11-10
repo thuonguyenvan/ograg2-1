@@ -1,0 +1,47 @@
+{
+  "id": "GO:0071558",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071558",
+  "relationships": {
+    "is_a": [
+      "GO:0016706",
+      "GO:0141052"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H3-tri/di-methyl-lysine-27 demethylase activity"
+    ],
+    "broad": [
+      "histone demethylase activity (H3-K27 specific)"
+    ],
+    "narrow": [],
+    "related": [
+      "histone H3K27me2 demethylase activity",
+      "histone H3K27me3 demethylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.11.68"
+    ],
+    "RHEA": [
+      "60224"
+    ],
+    "Reactome": [
+      "R-HSA-3222593",
+      "R-HSA-5617431",
+      "R-HSA-5617887",
+      "R-HSA-9822914",
+      "R-HSA-9822985"
+    ],
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "20622853"
+    ]
+  },
+  "definition": "Catalysis of the removal of a methyl group from a tri- or a dimethyl-lysine residue at position 27 of the histone H3 protein. This is a dioxygenase reaction that is dependent on Fe(II) and 2-oxoglutarate.",
+  "namespace": "molecular_function",
+  "label": "KDM6A (UTX) demethylates histone H3 trimethyllysine-27 (H3K27me3)"
+}

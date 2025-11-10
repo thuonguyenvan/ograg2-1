@@ -1,0 +1,32 @@
+{
+  "id": "GO:0036152",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036152",
+  "relationships": {
+    "is_a": [
+      "GO:0046470"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphatidylethanolamine acyl-chain remodelling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1482839"
+    ],
+    "GOC": [
+      "mw"
+    ],
+    "PMID": [
+      "18287005",
+      "18458083"
+    ]
+  },
+  "definition": "Remodeling the acyl chains of phosphatidylethanolamine, through sequential deacylation and re-acylation reactions, to generate phosphatidylethanolamine containing different types of fatty acid acyl chains.",
+  "namespace": "biological_process",
+  "label": "Acyl chain remodelling of PE"
+}

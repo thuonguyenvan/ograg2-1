@@ -1,0 +1,42 @@
+{
+  "id": "GO:0010293",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010293",
+  "relationships": {
+    "is_a": [
+      "GO:0018488"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "AAO3",
+      "AOdelta",
+      "abscisic-aldehyde oxidase activity",
+      "abscisic-aldehyde:oxygen oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.3.14",
+      "1.2.3.14",
+      "1.2.3.14",
+      "1.2.3.14",
+      "1.2.3.14"
+    ],
+    "KEGG_REACTION": [
+      "R06957"
+    ],
+    "MetaCyc": [
+      "1.2.3.14-RXN"
+    ],
+    "RHEA": [
+      "20529",
+      "20529"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 2-cis-(+)-abscisic aldehyde + H2O + O2 = 2-cis-(+)-abscisate + H+ + H2O2.",
+  "namespace": "molecular_function",
+  "label": "abscisic aldehyde oxidase activity"
+}

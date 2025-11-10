@@ -1,0 +1,29 @@
+{
+  "id": "GO:0030165",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030165",
+  "relationships": {
+    "is_a": [
+      "GO:0019904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DHR-domain binding",
+      "GLGF-domain binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ],
+    "Pfam": [
+      "PF00595"
+    ]
+  },
+  "definition": "Binding to a PDZ domain of a protein, a domain found in diverse signaling proteins.",
+  "namespace": "molecular_function",
+  "label": "PDZ domain binding"
+}

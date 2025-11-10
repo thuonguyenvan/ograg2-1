@@ -1,0 +1,41 @@
+{
+  "id": "GO:0016805",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016805",
+  "relationships": {
+    "is_a": [
+      "GO:0008238"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "cytosolic dipeptidase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.4.13.-",
+      "3.4.13.-"
+    ],
+    "MetaCyc": [
+      "3.4.13.18-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-266012",
+      "R-HSA-5433067",
+      "R-HSA-5693783",
+      "R-HSA-9026771"
+    ],
+    "PMID": [
+      "19879002"
+    ],
+    "https": [
+      "//www.ebi.ac.uk/merops/about/glossary.shtml#DIPEPTIDASE"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of a dipeptide.",
+  "namespace": "molecular_function",
+  "label": "DPEP hydrolyses MCTR2 to MCTR3"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:0047211",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047211",
+  "relationships": {
+    "is_a": [
+      "GO:0016758",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1,4alpha-glucan-protein synthase (ADP-forming) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ADP-glucose:protein 4-alpha-D-glucosyltransferase activity",
+      "ADPglucose:protein 4-alpha-D-glucosyltransferase activity",
+      "ADPglucose:protein glucosyltransferase activity",
+      "adenosine diphosphoglucose-protein glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.113",
+      "2.4.1.113",
+      "2.4.1.113",
+      "2.4.1.113",
+      "2.4.1.113",
+      "2.4.1.113"
+    ],
+    "MetaCyc": [
+      "2.4.1.113-RXN",
+      "2.4.1.113-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ADP-D-glucose + protein = alpha-D-glucosyl-protein + ADP.",
+  "namespace": "molecular_function",
+  "label": "alpha-1,4-glucan-protein synthase (ADP-forming) activity"
+}

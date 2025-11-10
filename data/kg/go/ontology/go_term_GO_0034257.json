@@ -1,0 +1,26 @@
+{
+  "id": "GO:0034257",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034257",
+  "relationships": {
+    "is_a": [
+      "GO:0005337"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TRANS-RXN0-481"
+    ],
+    "GOC": [
+      "se"
+    ]
+  },
+  "definition": "Enables the transfer of nicotinamide riboside, which is a pyridine-3-carboxamide covalently bonded to a ribose sugar, from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "nicotinamide riboside transmembrane transporter activity"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "GO:0004608",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004608",
+  "relationships": {
+    "is_a": [
+      "GO:0008170",
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "LMTase activity",
+      "PEMT",
+      "S-adenosyl-L-methionine:phosphatidylethanolamine N-methyltransferase activity",
+      "lipid methyl transferase activity",
+      "phosphatidylethanolamine methyltransferase activity",
+      "phosphatidylethanolamine-N-methylase activity",
+      "phosphatidylethanolamine-S-adenosylmethionine methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.17",
+      "2.1.1.17",
+      "2.1.1.17",
+      "2.1.1.17",
+      "2.1.1.17",
+      "2.1.1.17",
+      "2.1.1.17",
+      "2.1.1.17",
+      "2.1.1.17"
+    ],
+    "KEGG_REACTION": [
+      "R02056"
+    ],
+    "MetaCyc": [
+      "2.1.1.17-RXN"
+    ],
+    "RHEA": [
+      "11164",
+      "11164"
+    ],
+    "Reactome": [
+      "R-HSA-1483174"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + phosphatidylethanolamine = S-adenosyl-L-homocysteine + H+ + phosphatidyl-N-methylethanolamine.",
+  "namespace": "molecular_function",
+  "label": "PE is methylated to PC by PEMT"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0035853",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035853",
+  "relationships": {
+    "is_a": [
+      "GO:0031503",
+      "GO:0044380"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CPC complex localization to spindle midzone",
+      "CPC localization to spindle midzone",
+      "chromosomal passenger complex localization to spindle midzone",
+      "chromosome passenger complex localisation to spindle midzone",
+      "chromosome passenger complex localization to central spindle",
+      "chromosome passenger complex localization to spindle equator"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vw",
+      "bf",
+      "bf",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "15296749",
+      "14528012"
+    ]
+  },
+  "definition": "A cellular protein complex localization that acts on a chromosome passenger complex; as a result, the complex is transported to, or maintained in, a specific location at the spindle midzone. A chromosome passenger complex is a protein complex that contains the BIR-domain-containing protein Survivin, Aurora B kinase, INCENP and Borealin, and coordinates various events based on its location to different structures during the course of mitosis. The spindle midzone is the area in the center of the spindle where the spindle microtubules from opposite poles overlap.",
+  "namespace": "biological_process",
+  "label": "chromosome passenger complex localization to spindle midzone"
+}

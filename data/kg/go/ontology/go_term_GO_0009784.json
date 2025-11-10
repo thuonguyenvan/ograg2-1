@@ -1,0 +1,25 @@
+{
+  "id": "GO:0009784",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009784",
+  "relationships": {
+    "is_a": [
+      "GO:0004673",
+      "GO:0019199"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "lr",
+      "mah"
+    ]
+  },
+  "definition": "Combining with a signal and transmitting the signal from one side of a membrane to the other to initiate a change in cell activity by catalysis of the reaction: ATP + a protein-L-histidine = ADP + a protein-L-histidine phosphate.",
+  "namespace": "molecular_function",
+  "label": "transmembrane receptor histidine kinase activity"
+}

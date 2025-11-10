@@ -1,0 +1,28 @@
+{
+  "id": "GO:0050919",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050919",
+  "relationships": {
+    "is_a": [
+      "GO:0006935"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chemoaversion",
+      "chemorepulsion"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "bf",
+      "isa_complete"
+    ]
+  },
+  "definition": "The directed movement of a motile cell or organism towards a lower concentration of a chemical.",
+  "namespace": "biological_process",
+  "label": "negative chemotaxis"
+}

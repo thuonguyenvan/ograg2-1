@@ -1,0 +1,41 @@
+{
+  "id": "GO:0046740",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046740",
+  "relationships": {
+    "is_a": [
+      "GO:0046739"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell to cell spread of virus within host",
+      "intercellular virus transport",
+      "spread of virus within host, cell to cell",
+      "viral spread within host, cell to cell"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "spread of virus in host, cell to cell"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "1018"
+    ],
+    "GOC": [
+      "bf",
+      "jl",
+      "bf",
+      "jl",
+      "bf",
+      "jl"
+    ],
+    "ISBN": [
+      "0781718325"
+    ]
+  },
+  "definition": "The transport of a virus between adjacent cells in a multicellular organism.",
+  "namespace": "biological_process",
+  "label": "transport of virus in host, cell to cell"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "GO:1905291",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905291",
+  "relationships": {
+    "is_a": [
+      "GO:0050850",
+      "GO:1905289"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of CAMKK-AMPK signaling cascade",
+      "up-regulation of CAMKK-AMPK signaling cascade",
+      "upregulation of CAMKK-AMPK signaling cascade"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of CAMKK-AMPK signaling cascade"
+    ],
+    "related": [
+      "activation of stress-activated AMP-activated protein kinase signaling cascade",
+      "positive regulation of stress-activated AMP-activated protein kinase signaling cascade",
+      "up regulation of stress-activated AMP-activated protein kinase signaling cascade",
+      "up-regulation of stress-activated AMP-activated protein kinase signaling cascade",
+      "upregulation of stress-activated AMP-activated protein kinase signaling cascade"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22128786"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of CAMKK-AMPK signaling cascade.",
+  "namespace": "biological_process",
+  "label": "positive regulation of CAMKK-AMPK signaling cascade"
+}

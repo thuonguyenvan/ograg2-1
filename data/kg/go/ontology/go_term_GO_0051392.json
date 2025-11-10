@@ -1,0 +1,30 @@
+{
+  "id": "GO:0051392",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051392",
+  "relationships": {
+    "is_a": [
+      "GO:0008080",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA N4-acetyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "53876",
+      "53876"
+    ],
+    "PMID": [
+      "15037780"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a cytidine in tRNA + acetyl-CoA + ATP + H2O = ADP + an N4-acetylcytidine in tRNA + CoA + H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "tRNA cytidine N4-acetyltransferase activity"
+}

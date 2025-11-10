@@ -1,0 +1,39 @@
+{
+  "id": "GO:1903831",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903831",
+  "relationships": {
+    "is_a": [
+      "GO:0007165"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "signaling cascade involved in cellular response to ammonium ion",
+      "signalling cascade involved in cellular response to ammonium ion"
+    ],
+    "related": [
+      "signaling pathway involved in cellular response to ammonium ion",
+      "signalling pathway involved in cellular response to ammonium ion"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000060"
+    ],
+    "PMID": [
+      "16297994"
+    ]
+  },
+  "definition": "Any signal transduction that is involved in cellular response to ammonium ion.",
+  "namespace": "biological_process",
+  "label": "signal transduction involved in cellular response to ammonium ion"
+}

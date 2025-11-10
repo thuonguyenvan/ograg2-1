@@ -1,0 +1,48 @@
+{
+  "id": "GO:1901988",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901988",
+  "relationships": {
+    "is_a": [
+      "GO:0010948",
+      "GO:1901987"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of cell cycle phase transition",
+      "down regulation of cell cycle transition",
+      "down-regulation of cell cycle phase transition",
+      "down-regulation of cell cycle transition",
+      "downregulation of cell cycle phase transition",
+      "downregulation of cell cycle transition",
+      "inhibition of cell cycle transition",
+      "negative regulation of cell cycle transition"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of cell cycle phase transition"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_cell_cycle",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "22841721"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of cell cycle phase transition.",
+  "namespace": "biological_process",
+  "label": "negative regulation of cell cycle phase transition"
+}

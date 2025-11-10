@@ -1,0 +1,52 @@
+{
+  "id": "GO:0070240",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070240",
+  "relationships": {
+    "is_a": [
+      "GO:0002683",
+      "GO:0070233",
+      "GO:0070239"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of activated T cell autonomous cell death",
+      "down-regulation of activated T cell autonomous cell death",
+      "downregulation of activated T cell autonomous cell death",
+      "negative regulation of activated T lymphocyte autonomous cell death",
+      "negative regulation of activated T-cell autonomous cell death",
+      "negative regulation of activated T-lymphocyte autonomous cell death"
+    ],
+    "broad": [
+      "negative regulation of ACAD",
+      "negative regulation of activated T cell apoptosis",
+      "negative regulation of activated cell autonomous cell death"
+    ],
+    "narrow": [
+      "inhibition of activated T cell autonomous cell death"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mtg_apoptosis",
+      "add",
+      "add",
+      "add",
+      "add",
+      "add",
+      "add",
+      "add",
+      "add",
+      "add",
+      "add"
+    ],
+    "ISBN": [
+      "0781765196"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of activated T cell autonomous cell death.",
+  "namespace": "biological_process",
+  "label": "negative regulation of activated T cell autonomous cell death"
+}

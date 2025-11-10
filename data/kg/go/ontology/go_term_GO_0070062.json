@@ -1,0 +1,38 @@
+{
+  "id": "GO:0070062",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070062",
+  "relationships": {
+    "is_a": [
+      "GO:1903561"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "exosome",
+      "extracellular vesicular exosome"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "vesicles",
+      "pr",
+      "vesicles"
+    ],
+    "PMID": [
+      "15908444",
+      "17641064",
+      "19442504",
+      "19498381",
+      "22418571",
+      "24009894"
+    ]
+  },
+  "definition": "A vesicle that is released into the extracellular region by fusion of the limiting endosomal membrane of a multivesicular body with the plasma membrane. Extracellular exosomes, also simply called exosomes, have a diameter of about 40-100 nm.",
+  "namespace": "cellular_component",
+  "label": "extracellular exosome"
+}

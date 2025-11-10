@@ -1,0 +1,29 @@
+{
+  "id": "GO:0048505",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048505",
+  "relationships": {
+    "is_a": [
+      "GO:0040034",
+      "GO:0045595"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "timing of cell differentiation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "dph",
+      "jid",
+      "tb"
+    ]
+  },
+  "definition": "The process controlling the activation and/or rate at which relatively unspecialized cells acquire specialized features. Any process that modulates the rate, frequency or extent of the XXX at a consistent predetermined time point during its development.",
+  "namespace": "biological_process",
+  "label": "regulation of timing of cell differentiation"
+}

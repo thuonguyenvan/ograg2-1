@@ -1,0 +1,32 @@
+{
+  "id": "GO:0097594",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097594",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "dorsal microribbon",
+      "dorsal ribbon",
+      "microribbon"
+    ],
+    "narrow": [],
+    "related": [
+      "ventral disk dorsal microribbon"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "giardia"
+    ],
+    "PMID": [
+      "11432808"
+    ]
+  },
+  "definition": "Trilaminar structure extending perpendicularly into the cytoplasm along the length of ventral disc microtubules in Giardia species (trophozoite stage). Constituents of dorsal microribbons (also called dorsal ribbons or microribbons) include alpha-coiled-helix proteins approximately 29 to 38 kDa in size. These proteins line the edges of the microribbons but are not found in microtubules. Tubulins are not found in microribbons.",
+  "namespace": "cellular_component",
+  "label": "ventral disc dorsal microribbon"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0004972",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004972",
+  "relationships": {
+    "is_a": [
+      "GO:0004970",
+      "GO:0005244"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-methyl-D-aspartate selective glutamate receptor activity",
+      "NMDA receptor"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "NMDA_receptor"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "10049997",
+      "7790891"
+    ]
+  },
+  "definition": "A cation channel that opens in response to binding by extracellular glutmate, but only if glycine or D-serine is also bound and the membrane is depolarized. Voltage gating is indirect, due to ejection of bound magnesium from the pore at permissive voltages.",
+  "namespace": "molecular_function",
+  "label": "NMDA glutamate receptor activity"
+}

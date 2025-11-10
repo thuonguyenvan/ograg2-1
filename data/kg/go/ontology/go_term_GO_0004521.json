@@ -1,0 +1,47 @@
+{
+  "id": "GO:0004521",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004521",
+  "relationships": {
+    "is_a": [
+      "GO:0004519",
+      "GO:0004540"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "endoribonuclease activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "endonuclease G activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-425923",
+      "R-HSA-426520",
+      "R-HSA-5601887",
+      "R-HSA-5601910",
+      "R-HSA-6791223",
+      "R-HSA-6814555",
+      "R-HSA-9009936",
+      "R-HSA-9009941",
+      "R-HSA-9023909",
+      "R-HSA-9023912",
+      "R-HSA-927836",
+      "R-HSA-9708327",
+      "R-HSA-9708812",
+      "R-HSA-9948427"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0198547684"
+    ]
+  },
+  "definition": "Catalysis of the cleavage of ester linkages within ribonucleic acid by creating internal breaks.",
+  "namespace": "molecular_function",
+  "label": "ANKZF1 cleaves the peptidyl-tRNA in VCP hexamer:LTN1:NEMF:60S ribosome subunit:peptidyl-tRNA with K48polyUb-nascent peptide"
+}

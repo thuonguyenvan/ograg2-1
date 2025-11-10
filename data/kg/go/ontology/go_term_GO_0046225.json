@@ -1,0 +1,30 @@
+{
+  "id": "GO:0046225",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046225",
+  "relationships": {
+    "is_a": [
+      "GO:0009407",
+      "GO:0030652",
+      "GO:0046224",
+      "GO:0051410"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "bacteriocin breakdown",
+      "bacteriocin catabolism",
+      "bacteriocin degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a bacteriocin, any of a heterogeneous group of polypeptide antibiotics that are secreted by certain bacterial strains and are able to kill cells of other susceptible (frequently related) strains after adsorption at specific receptors on the cell surface. They include the colicins, and their mechanisms of action vary.",
+  "namespace": "biological_process",
+  "label": "bacteriocin catabolic process"
+}

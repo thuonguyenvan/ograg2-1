@@ -1,0 +1,30 @@
+{
+  "id": "GO:0097076",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097076",
+  "relationships": {
+    "is_a": [
+      "GO:1902911"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TAK1 kinase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cna"
+    ],
+    "PMID": [
+      "16410796",
+      "17496917",
+      "18021073"
+    ]
+  },
+  "definition": "A protein complex that possesses protein kinase activity and activates the I-kappa B kinase complex (IKK) and mitogen-activated protein (MAP) kinases in response to TRAF6 signaling. It comprises the catalytic subunit TAK1 complexed to the regulatory subunits, termed TABs (TAK1-binding subunits).",
+  "namespace": "cellular_component",
+  "label": "transforming growth factor beta activated kinase 1 complex"
+}

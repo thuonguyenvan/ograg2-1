@@ -1,0 +1,36 @@
+{
+  "id": "GO:1900137",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900137",
+  "relationships": {
+    "is_a": [
+      "GO:0030336",
+      "GO:0050922",
+      "GO:0060302",
+      "GO:1900136"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of chemokine activity",
+      "down-regulation of chemokine activity",
+      "downregulation of chemokine activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of chemokine activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of chemokine activity.",
+  "namespace": "biological_process",
+  "label": "negative regulation of chemokine activity"
+}

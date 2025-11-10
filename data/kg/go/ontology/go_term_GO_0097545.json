@@ -1,0 +1,43 @@
+{
+  "id": "GO:0097545",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097545",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "axonemal outer doublet",
+      "axoneme outer doublet"
+    ],
+    "broad": [
+      "outer doublet"
+    ],
+    "narrow": [],
+    "related": [
+      "DMT",
+      "outer-doublet microtubules"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "krc",
+      "pr"
+    ],
+    "PMID": [
+      "5044758",
+      "5664206"
+    ],
+    "Wikipedia": [
+      "Axoneme"
+    ],
+    "https": [
+      "//github.com/geneontology/go-ontology/issues/26128"
+    ]
+  },
+  "definition": "A cellular anatomical entity that is part of an axoneme consisting of a doublet microtubule.",
+  "namespace": "cellular_component",
+  "label": "axonemal doublet microtubule"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0110153",
+  "uri": "http://purl.obolibrary.org/obo/GO_0110153",
+  "relationships": {
+    "is_a": [
+      "GO:0016462",
+      "GO:0140098"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "60876",
+      "60876"
+    ],
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "25533955",
+      "31101919"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 5&apos;-end NAD+-phospho-ribonucleoside in mRNA + H2O = a 5&apos;-end phospho-adenosine-phospho-ribonucleoside in mRNA + beta-nicotinamide D-ribonucleotide + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "RNA NAD-cap (NMN-forming) hydrolase activity"
+}

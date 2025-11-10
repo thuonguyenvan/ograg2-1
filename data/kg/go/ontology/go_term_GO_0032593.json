@@ -1,0 +1,28 @@
+{
+  "id": "GO:0032593",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032593",
+  "relationships": {
+    "is_a": [
+      "GO:0030141"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GLUT4 storage compartment"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GSC",
+      "IRC"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "17644329"
+    ]
+  },
+  "definition": "A small membrane-bounded vesicle that releases its contents by exocytosis in response to insulin stimulation; the contents are enriched in GLUT4, IRAP and VAMP2.",
+  "namespace": "cellular_component",
+  "label": "insulin-responsive compartment"
+}

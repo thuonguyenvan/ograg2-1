@@ -1,0 +1,29 @@
+{
+  "id": "GO:0072461",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072461",
+  "relationships": {
+    "is_a": [
+      "GO:0072410",
+      "GO:1903046"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "meiotic recombination checkpoint effector process",
+      "response to signal involved in meiotic recombination checkpoint"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A process that occurs in response to signals generated as a result of meiotic recombination checkpoint signaling.",
+  "namespace": "biological_process",
+  "label": "response to meiotic recombination checkpoint signaling"
+}

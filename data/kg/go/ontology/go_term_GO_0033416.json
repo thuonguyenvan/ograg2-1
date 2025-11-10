@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033416",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033416",
+  "relationships": {
+    "is_a": [
+      "GO:0030533"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TGG codon-amino acid adaptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "tryptophan tRNA"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "hjd",
+      "hjd",
+      "mah"
+    ]
+  },
+  "definition": "A triplet codon-amino acid adaptor activity that recognizes a UGG codon.",
+  "namespace": "molecular_function",
+  "label": "UGG codon-amino acid adaptor activity"
+}

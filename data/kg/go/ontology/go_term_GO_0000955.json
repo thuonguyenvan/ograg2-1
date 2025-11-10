@@ -1,0 +1,26 @@
+{
+  "id": "GO:0000955",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000955",
+  "relationships": {
+    "is_a": [
+      "GO:0009063"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "18281432"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving the catabolism of amino acids to produce alcohols or carboxylic acids containing one carbon less than the starting amino acid. In S. cerevisiae, this is known to occur for leucine, isoleucine, valine, methionine, phenylalanine, tyrosine, or tryptophan. Often referred to as the Ehrlich pathway, these reactions generally occur during fermentation to produce a variety of alcohols, often collectively referred to as fusel alcohols. Depending on the redox state of the cells, carboxylic acid derivatives, sometimes referred to as fusel acids, may be produced instead of alcohols.",
+  "namespace": "biological_process",
+  "label": "amino acid catabolic process via Ehrlich pathway"
+}

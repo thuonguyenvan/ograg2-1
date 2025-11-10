@@ -1,0 +1,40 @@
+{
+  "id": "GO:0120216",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120216",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "matrilin-1 complex",
+      "matrilin-2 complex",
+      "matrilin-3 complex",
+      "matrilin-4 complex"
+    ],
+    "related": [
+      "matrilin family complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "bhm",
+      "bhm",
+      "bhm",
+      "bhm",
+      "bhm"
+    ],
+    "PMID": [
+      "10367731",
+      "15075323",
+      "9699631"
+    ]
+  },
+  "definition": "A cartilage extracellular matrix complex that mediates interactions between major components of the extracellular matrix such as collagens and proteoglycans and contributes to their fibrillar network. Exists as an obligate homotrimer.",
+  "namespace": "cellular_component",
+  "label": "matrilin complex"
+}

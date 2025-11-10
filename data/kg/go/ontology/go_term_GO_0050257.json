@@ -1,0 +1,44 @@
+{
+  "id": "GO:0050257",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050257",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-glucose-1-phosphate:riboflavin 5&apos;-phosphotransferase activity",
+      "G-1-P phosphotransferase activity",
+      "alpha-D-glucose-1-phosphate:riboflavin 5&apos;-phosphotransferase activity",
+      "riboflavine phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.42",
+      "2.7.1.42",
+      "2.7.1.42",
+      "2.7.1.42",
+      "2.7.1.42",
+      "2.7.1.42"
+    ],
+    "KEGG_REACTION": [
+      "R00550"
+    ],
+    "MetaCyc": [
+      "RIBOFLAVIN-PHOSPHOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "20409",
+      "20409"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-D-glucose 1-phosphate + riboflavin = D-glucose + FMN.",
+  "namespace": "molecular_function",
+  "label": "riboflavin phosphotransferase activity"
+}

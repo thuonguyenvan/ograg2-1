@@ -1,0 +1,39 @@
+{
+  "id": "GO:0097014",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097014",
+  "relationships": {
+    "is_a": [
+      "GO:0032838"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cilium plasm"
+    ],
+    "broad": [],
+    "narrow": [
+      "microtubule-based flagellar matrix",
+      "microtubule-based flagellum matrix"
+    ],
+    "related": [
+      "cilial cytoplasm",
+      "ciliary cytoplasm",
+      "cilium cytoplasm",
+      "microtubule-based flagellar cytoplasm",
+      "microtubule-based flagellum cytoplasm"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "cilia",
+      "dos"
+    ],
+    "PMID": [
+      "17895364"
+    ]
+  },
+  "definition": "All of the contents of a cilium, excluding the plasma membrane surrounding the cilium.",
+  "namespace": "cellular_component",
+  "label": "ciliary plasm"
+}

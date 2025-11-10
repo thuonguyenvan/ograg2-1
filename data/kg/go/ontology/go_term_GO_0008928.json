@@ -1,0 +1,49 @@
+{
+  "id": "GO:0008928",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008928",
+  "relationships": {
+    "is_a": [
+      "GO:0070568"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GDP:mannose-1-phosphate guanylyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GDP mannose phosphorylase activity",
+      "GDP-mannose 1-phosphate guanylyltransferase activity",
+      "GDP-mannose phosphorylase activity",
+      "GDP-mannose pyrophosphorylase activity",
+      "GDP:D-mannose-1-phosphate guanylyltransferase activity",
+      "GDP:alpha-D-mannose-1-phosphate guanylyltransferase activity",
+      "guanosine diphosphate-mannose 1-phosphate guanylyltransferase activity",
+      "guanosine diphosphomannose phosphorylase activity",
+      "mannose 1-phosphate (guanosine diphosphate) guanylyltransferase activity",
+      "mannose 1-phosphate guanylyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.22",
+      "2.7.7.22",
+      "2.7.7.22",
+      "2.7.7.22"
+    ],
+    "KEGG_REACTION": [
+      "R00883"
+    ],
+    "MetaCyc": [
+      "MANNPGUANYLTRANGDP-RXN"
+    ],
+    "RHEA": [
+      "12905",
+      "12905"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-D-mannose 1-phosphate + GDP + H+ = GDP-alpha-D-mannose + phosphate.",
+  "namespace": "molecular_function",
+  "label": "mannose-1-phosphate guanylyltransferase (GDP) activity"
+}

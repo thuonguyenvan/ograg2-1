@@ -1,0 +1,41 @@
+{
+  "id": "GO:1902423",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902423",
+  "relationships": {
+    "is_a": [
+      "GO:0033047",
+      "GO:0051988",
+      "GO:0090235"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of attachment of spindle microtubules to kinetochore involved in mitosis",
+      "regulation of attachment of spindle microtubules to kinetochore involved in mitotic sister chromatid segregation",
+      "regulation of attachment of spindle microtubules to mitotic chromosome",
+      "regulation of mitotic attachment of spindle microtubules to kinetochore"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of attachment of spindle microtubules to kinetochore during mitosis",
+      "regulation of mitotic bipolar attachment"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "vw",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "22065639"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of attachment of spindle microtubules to kinetochore involved in mitotic sister chromatid segregation.",
+  "namespace": "biological_process",
+  "label": "regulation of attachment of mitotic spindle microtubules to kinetochore"
+}

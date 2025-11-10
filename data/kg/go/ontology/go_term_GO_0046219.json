@@ -1,0 +1,32 @@
+{
+  "id": "GO:0046219",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046219",
+  "relationships": {
+    "is_a": [
+      "GO:0042401",
+      "GO:0042435"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "indolalkylamine anabolism",
+      "indolalkylamine biosynthesis",
+      "indolalkylamine formation",
+      "indolalkylamine synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-209931"
+    ],
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of indolalkylamines, indole or indole derivatives containing a primary, secondary, or tertiary amine group.",
+  "namespace": "biological_process",
+  "label": "Serotonin and melatonin biosynthesis"
+}

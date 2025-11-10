@@ -1,0 +1,37 @@
+{
+  "id": "GO:0038109",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038109",
+  "relationships": {
+    "is_a": [
+      "GO:0007169",
+      "GO:0019221"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Kit signalling pathway",
+      "SCF signaling pathway",
+      "stem cell factor receptor signaling pathway",
+      "stem cell factor signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "nhn",
+      "signaling",
+      "mah"
+    ],
+    "PMID": [
+      "16129412",
+      "18787413",
+      "16129412",
+      "16129412"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by the binding of stem cell factor to the tyrosine kinase receptor KIT on the surface of a target cell, and ending with regulation of a downstream cellular process, e.g. transcription. Stem cell factor (KIT ligand) binding to the receptor Kit mediates receptor dimerization, activation of its intrinsic tyrosine kinase activity and autophosphorylation. The activated receptor then phosphorylates various substrates, thereby activating distinct signaling cascades within the cell that trigger a change in state or activity of the cell.",
+  "namespace": "biological_process",
+  "label": "Kit signaling pathway"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0015225",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015225",
+  "relationships": {
+    "is_a": [
+      "GO:0008028",
+      "GO:0042887",
+      "GO:0090482",
+      "GO:1901682"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "biotin transporter activity",
+      "vitamin B7 transporter activity",
+      "vitamin H transporter activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TRANS-RXN0-240"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of biotin from one side of a membrane to the other. Biotin is cis-tetrahydro-2-oxothieno(3,4-d)imidazoline-4-valeric acid; the (+) enantiomer is very widely distributed in cells and serves as a carrier in a number of enzymatic beta-carboxylation reactions.",
+  "namespace": "molecular_function",
+  "label": "biotin transmembrane transporter activity"
+}

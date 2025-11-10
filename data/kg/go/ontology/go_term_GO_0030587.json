@@ -1,0 +1,36 @@
+{
+  "id": "GO:0030587",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030587",
+  "relationships": {
+    "is_a": [
+      "GO:0099120"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sorocarp biosynthesis",
+      "sorocarp formation"
+    ],
+    "broad": [
+      "fruiting body development",
+      "fruiting body formation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mtg_sensu"
+    ],
+    "ISBN": [
+      "0521583640"
+    ],
+    "PMID": [
+      "4332228"
+    ]
+  },
+  "definition": "The process whose specific outcome is the progression of the sorocarp over time, from its formation to the mature structure. The process begins with the aggregation of individual cells and ends with the mature sorocarp. The sorocarp is a structure containing a spore-bearing sorus that sits on top of a stalk. An example of this process is found in Dictyostelium discoideum.",
+  "namespace": "biological_process",
+  "label": "sorocarp development"
+}

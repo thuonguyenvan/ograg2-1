@@ -1,0 +1,31 @@
+{
+  "id": "GO:0008389",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008389",
+  "relationships": {
+    "is_a": [
+      "GO:0004497",
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "cytochrome P450 CYP2A5"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-211881",
+      "R-HSA-76453"
+    ],
+    "PMID": [
+      "10490589",
+      "2733794"
+    ]
+  },
+  "definition": "Catalysis of the reaction: coumarin + O2 + NADPH + H+ = hydroxycoumarin + H2O + NADP+.",
+  "namespace": "molecular_function",
+  "label": "Coumarin is 7-hydroxylated by CYP2A6"
+}

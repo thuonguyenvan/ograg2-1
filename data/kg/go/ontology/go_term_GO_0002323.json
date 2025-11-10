@@ -1,0 +1,31 @@
+{
+  "id": "GO:0002323",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002323",
+  "relationships": {
+    "is_a": [
+      "GO:0002285",
+      "GO:0030101"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NK cell activation during immune response",
+      "natural killer cell activation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "tb"
+    ],
+    "PMID": [
+      "15032583"
+    ]
+  },
+  "definition": "The change in morphology and behavior of a natural killer cell resulting from exposure a cytokine, chemokine, cellular ligand, or soluble factor, leading to the initiation or perpetuation of an immune response.",
+  "namespace": "biological_process",
+  "label": "natural killer cell activation involved in immune response"
+}

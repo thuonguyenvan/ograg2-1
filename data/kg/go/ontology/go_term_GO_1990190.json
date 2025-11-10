@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990190",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990190",
+  "relationships": {
+    "is_a": [
+      "GO:0004596"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptide-glutamate-alpha-N-acetyltransferase activity",
+      "protein-N-terminal-glutamate-alpha-N-acetyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "al"
+    ],
+    "PMID": [
+      "23912279"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + N-terminal L-glutamate in peptide = CoA + N-acetyl-L-glutamate-peptide.",
+  "namespace": "molecular_function",
+  "label": "protein-N-terminal-glutamate acetyltransferase activity"
+}

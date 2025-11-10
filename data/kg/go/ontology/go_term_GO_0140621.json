@@ -1,0 +1,28 @@
+{
+  "id": "GO:0140621",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140621",
+  "relationships": {
+    "is_a": [
+      "GO:0009289"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "type 1 pilus",
+      "type I fimbriae",
+      "type I pili"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "28496159",
+      "29345620"
+    ]
+  },
+  "definition": "A short filamentous structure on the surface of a bacterial cell distinguished from other pili by their D-mannose-sensitive agglutinatination of erythrocytes. In E. coli, type I pili consist of a short tip fibrillum made up of the adhesin protein (FimH) and two minor subunits (FimG and FimF) that is joined to the pilus rod, a homopolymer of ~1000 FimA subunits.",
+  "namespace": "cellular_component",
+  "label": "type I pilus"
+}

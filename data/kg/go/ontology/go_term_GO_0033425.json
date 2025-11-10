@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033425",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033425",
+  "relationships": {
+    "is_a": [
+      "GO:0030533"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CAT codon-amino acid adaptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "histidine tRNA"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "hjd",
+      "hjd",
+      "mah"
+    ]
+  },
+  "definition": "A triplet codon-amino acid adaptor activity that recognizes a CAU codon.",
+  "namespace": "molecular_function",
+  "label": "CAU codon-amino acid adaptor activity"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0034657",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034657",
+  "relationships": {
+    "is_a": [
+      "GO:0000151"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "C-terminal to LisH complex",
+      "CTLH complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "12686616",
+      "18508925",
+      "35682545",
+      "29911972",
+      "29911972"
+    ]
+  },
+  "definition": "A protein complex with ubiquitin ligase activity that, in Saccharomyces cerevisiae, is involved in proteasomal degradation of fructose-1,6-bisphosphatase (FBPase) and phosphoenolpyruvate carboxykinase during the transition from gluconeogenic to glycolytic growth conditions. It appears to play a broader role in cellular homeostasis and development in other species.",
+  "namespace": "cellular_component",
+  "label": "GID complex"
+}

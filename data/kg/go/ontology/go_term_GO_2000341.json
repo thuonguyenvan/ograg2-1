@@ -1,0 +1,38 @@
+{
+  "id": "GO:2000341",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000341",
+  "relationships": {
+    "is_a": [
+      "GO:0032642"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of CXCL2 production",
+      "regulation of MIP-2 production",
+      "regulation of MIP2 production",
+      "regulation of SCYB2 production"
+    ],
+    "broad": [],
+    "narrow": [
+      "chemokine (C-C motif) ligand 2 secretion",
+      "regulation of CCL2 secretion",
+      "regulation of chemokine (C-C motif) ligand 2 secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of chemokine (C-X-C motif) ligand 2 production.",
+  "namespace": "biological_process",
+  "label": "regulation of chemokine (C-X-C motif) ligand 2 production"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0008523",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008523",
+  "relationships": {
+    "is_a": [
+      "GO:0015370",
+      "GO:0090482"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-199206",
+      "R-HSA-199219",
+      "R-HSA-429581"
+    ],
+    "TC": [
+      "2.A.21.5.2"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: multivitamin(out) + Na+(out) = multivitamin(in) + Na+(in). Multivitamins include pantothenate, biotin and lipoate.",
+  "namespace": "molecular_function",
+  "label": "SLC5A6 transports vitamins from extracellular region to cytosol"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0097068",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097068",
+  "relationships": {
+    "is_a": [
+      "GO:0043200",
+      "GO:0097066",
+      "GO:1901700",
+      "GO:1904386"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to T4",
+      "response to T4 stimulus",
+      "response to thyroxine stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sjw",
+      "dos"
+    ],
+    "PMID": [
+      "9916872"
+    ],
+    "Wikipedia": [
+      "Thyroxine",
+      "Thyroxine"
+    ]
+  },
+  "definition": "A change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a thyroxine stimulus.",
+  "namespace": "biological_process",
+  "label": "response to thyroxine"
+}

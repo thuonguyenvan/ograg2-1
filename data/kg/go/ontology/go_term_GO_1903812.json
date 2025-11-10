@@ -1,0 +1,33 @@
+{
+  "id": "GO:1903812",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903812",
+  "relationships": {
+    "is_a": [
+      "GO:0015825",
+      "GO:0098718",
+      "GO:1902475"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-serine import into cell"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000075"
+    ],
+    "PMID": [
+      "23895341"
+    ]
+  },
+  "definition": "The directed movement of L-serine into a cell.",
+  "namespace": "biological_process",
+  "label": "L-serine import across plasma membrane"
+}

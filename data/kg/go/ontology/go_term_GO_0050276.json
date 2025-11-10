@@ -1,0 +1,44 @@
+{
+  "id": "GO:0050276",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050276",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "scyllo-inosamine kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:1-amino-1-deoxy-scyllo-inositol 4-phosphotransferase activity",
+      "ATP:inosamine phosphotransferase activity",
+      "scyllo-inosamine kinase (phosphorylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.65",
+      "2.7.1.65",
+      "2.7.1.65",
+      "2.7.1.65",
+      "2.7.1.65"
+    ],
+    "KEGG_REACTION": [
+      "R03384"
+    ],
+    "MetaCyc": [
+      "SCYLLO-INOSAMINE-KINASE-RXN"
+    ],
+    "RHEA": [
+      "18605",
+      "18605"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-amino-1-deoxy-scyllo-inositol + ATP = 1-amino-1-deoxy-scyllo-inositol 4-phosphate + ADP + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "scyllo-inosamine 4-kinase activity"
+}

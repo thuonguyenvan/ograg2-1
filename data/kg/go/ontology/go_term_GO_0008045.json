@@ -1,0 +1,34 @@
+{
+  "id": "GO:0008045",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008045",
+  "relationships": {
+    "is_a": [
+      "GO:0007411"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "motoneuron axon guidance",
+      "motor axon guidance",
+      "motor axon pathfinding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000100"
+    ],
+    "GOC": [
+      "pr",
+      "mah"
+    ],
+    "ISBN": [
+      "0878932437"
+    ]
+  },
+  "definition": "The process in which the migration of an axon growth cone of a motor neuron is directed to a specific target site in response to a combination of attractive and repulsive cues.",
+  "namespace": "biological_process",
+  "label": "motor neuron axon guidance"
+}

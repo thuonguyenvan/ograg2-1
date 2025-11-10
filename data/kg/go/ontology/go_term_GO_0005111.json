@@ -1,0 +1,30 @@
+{
+  "id": "GO:0005111",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005111",
+  "relationships": {
+    "is_a": [
+      "GO:0005104"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FGFR2 binding",
+      "heartless binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "FGFR2 ligand",
+      "heartless ligand",
+      "type 2 fibroblast growth factor receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "fb_curators"
+    ]
+  },
+  "definition": "Binding to a type 2 fibroblast growth factor receptor (FGFR2).",
+  "namespace": "molecular_function",
+  "label": "type 2 fibroblast growth factor receptor binding"
+}

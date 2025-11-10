@@ -1,0 +1,34 @@
+{
+  "id": "GO:0018114",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018114",
+  "relationships": {
+    "is_a": [
+      "GO:0047661"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.1.6",
+      "5.1.1.6"
+    ],
+    "KEGG_REACTION": [
+      "R01467"
+    ],
+    "MetaCyc": [
+      "THREONINE-RACEMASE-RXN"
+    ],
+    "RHEA": [
+      "13913",
+      "13913"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-threonine = D-threonine.",
+  "namespace": "molecular_function",
+  "label": "threonine racemase activity"
+}

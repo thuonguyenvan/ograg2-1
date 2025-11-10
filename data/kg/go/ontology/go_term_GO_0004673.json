@@ -1,0 +1,41 @@
+{
+  "id": "GO:0004673",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004673",
+  "relationships": {
+    "is_a": [
+      "GO:0004672",
+      "GO:0016775"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histidine kinase activity",
+      "protein-histidine kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:protein-L-histidine N-phosphotransferase activity",
+      "histidine protein kinase activity",
+      "protein kinase (histidine)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.13.3",
+      "2.7.13.3",
+      "2.7.13.3",
+      "2.7.13.3",
+      "2.7.13.3"
+    ],
+    "MetaCyc": [
+      "2.7.13.3-RXN"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + protein L-histidine = ADP + protein phospho-L-histidine.",
+  "namespace": "molecular_function",
+  "label": "protein histidine kinase activity"
+}

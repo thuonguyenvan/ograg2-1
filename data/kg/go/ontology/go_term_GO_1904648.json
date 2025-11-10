@@ -1,0 +1,30 @@
+{
+  "id": "GO:1904648",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904648",
+  "relationships": {
+    "is_a": [
+      "GO:1901655",
+      "GO:1904647"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000071"
+    ],
+    "PMID": [
+      "18538940"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a rotenone stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to rotenone"
+}

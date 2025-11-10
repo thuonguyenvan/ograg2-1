@@ -1,0 +1,39 @@
+{
+  "id": "GO:1990909",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990909",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LRP5/6 signalosome",
+      "Wnt signalosome complex",
+      "Wnt-LRP5/6 signalosome"
+    ],
+    "broad": [],
+    "narrow": [
+      "LRP6 signalosome"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "22899650",
+      "25336320",
+      "24412065",
+      "23892894",
+      "22899650",
+      "25074807"
+    ]
+  },
+  "definition": "A multiprotein protein complex containing membrane-localized Wnt receptors and cytosolic protein complexes, which is capable of transmitting the Wnt signal. Contains at least a Wnt protein, LRP5 or LRP6, a member of the Frizzled (Fz) family, Axin and and a Dishevelled (DVL) protein.",
+  "namespace": "cellular_component",
+  "label": "Wnt signalosome"
+}

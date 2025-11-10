@@ -1,0 +1,43 @@
+{
+  "id": "GO:0015625",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015625",
+  "relationships": {
+    "is_a": [
+      "GO:0015603",
+      "GO:0140359"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent ferric-hydroxamate transmembrane transporter activity",
+      "ferric-hydroxamate-transporting ATPase activity"
+    ],
+    "broad": [
+      "ATP-dependent iron-chelate transporter activity",
+      "ATPase-coupled iron-chelate transporter activity",
+      "ferric-hydroxamate porter activity",
+      "ferric-hydroxamate transmembrane transporter activity",
+      "iron-chelate-transporting ATPase activity"
+    ],
+    "narrow": [
+      "ferric-hydroxamate ABC transporter"
+    ],
+    "related": [
+      "ATPase-coupled ferric-hydroxamate transmembrane transporter activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.2.2.16"
+    ],
+    "MetaCyc": [
+      "ABC-11-RXN"
+    ],
+    "PMID": [
+      "1551849"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + ferric-hydroxamate(out) = ADP + phosphate + ferric-hydroxamate(in).",
+  "namespace": "molecular_function",
+  "label": "ABC-type ferric hydroxamate transporter activity"
+}

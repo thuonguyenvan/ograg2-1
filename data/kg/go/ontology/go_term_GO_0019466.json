@@ -1,0 +1,30 @@
+{
+  "id": "GO:0019466",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019466",
+  "relationships": {
+    "is_a": [
+      "GO:0006560",
+      "GO:0006593"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ornithine breakdown via proline",
+      "ornithine degradation via proline"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "ORN-AMINOPENTANOATE-CAT-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-ornithine, via the intermediate proline.",
+  "namespace": "biological_process",
+  "label": "L-ornithine catabolic process via proline"
+}

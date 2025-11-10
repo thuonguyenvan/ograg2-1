@@ -1,0 +1,49 @@
+{
+  "id": "GO:1904890",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904890",
+  "relationships": {
+    "is_a": [
+      "GO:0051964",
+      "GO:1904889"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of excitatory synapse assembly",
+      "down regulation of excitatory synapse formation",
+      "down-regulation of excitatory synapse assembly",
+      "down-regulation of excitatory synapse formation",
+      "downregulation of excitatory synapse assembly",
+      "downregulation of excitatory synapse formation",
+      "negative regulation of excitatory synapse formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of excitatory synapse assembly",
+      "inhibition of excitatory synapse formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of excitatory synapse assembly.",
+  "namespace": "biological_process",
+  "label": "negative regulation of excitatory synapse assembly"
+}

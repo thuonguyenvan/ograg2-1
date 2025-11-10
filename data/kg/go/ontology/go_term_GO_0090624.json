@@ -1,0 +1,29 @@
+{
+  "id": "GO:0090624",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090624",
+  "relationships": {
+    "is_a": [
+      "GO:0016891"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "rph"
+    ],
+    "PMID": [
+      "15260970",
+      "19239888"
+    ]
+  },
+  "definition": "Catalysis of the endonucleolytic cleavage of the mRNA in a double-stranded RNA molecule formed by the base pairing of an mRNA with an miRNA.",
+  "namespace": "molecular_function",
+  "label": "endoribonuclease activity, cleaving miRNA-paired mRNA"
+}

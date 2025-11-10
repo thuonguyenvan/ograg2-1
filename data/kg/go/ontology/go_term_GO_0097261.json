@@ -1,0 +1,30 @@
+{
+  "id": "GO:0097261",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097261",
+  "relationships": {
+    "is_a": [
+      "GO:0016846"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2161768"
+    ],
+    "GOC": [
+      "mw"
+    ],
+    "PMID": [
+      "18184802",
+      "18647347"
+    ]
+  },
+  "definition": "Catalysis of the reaction: eoxin A4 + glutathione = eoxin C4.",
+  "namespace": "molecular_function",
+  "label": "EXA4 is converted to EXC4 by LTC4S"
+}

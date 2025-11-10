@@ -1,0 +1,32 @@
+{
+  "id": "GO:0033936",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033936",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "poly(mannuronide) mannuronohydrolase activity",
+      "polymannuronic acid polymerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.121",
+      "3.2.1.121",
+      "3.2.1.121",
+      "3.2.1.121"
+    ],
+    "MetaCyc": [
+      "3.2.1.121-RXN"
+    ]
+  },
+  "definition": "Catalysis of the endohydrolysis of the D-mannuronide linkages of polymannuronate.",
+  "namespace": "molecular_function",
+  "label": "polymannuronate hydrolase activity"
+}

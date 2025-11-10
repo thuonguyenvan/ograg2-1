@@ -1,0 +1,49 @@
+{
+  "id": "GO:1905281",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905281",
+  "relationships": {
+    "is_a": [
+      "GO:0032388",
+      "GO:1905279"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of retrograde (endosome to Golgi) transport",
+      "up regulation of retrograde (endosome to Golgi) transport",
+      "up regulation of retrograde transport, endosome to Golgi",
+      "up-regulation of retrograde (endosome to Golgi) transport",
+      "up-regulation of retrograde transport, endosome to Golgi",
+      "upregulation of retrograde (endosome to Golgi) transport",
+      "upregulation of retrograde transport, endosome to Golgi"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of retrograde (endosome to Golgi) transport",
+      "activation of retrograde transport, endosome to Golgi"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of retrograde transport, endosome to Golgi.",
+  "namespace": "biological_process",
+  "label": "positive regulation of retrograde transport, endosome to Golgi"
+}

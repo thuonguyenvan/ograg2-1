@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102168",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102168",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.327"
+    ],
+    "MetaCyc": [
+      "RXN-11897"
+    ],
+    "RHEA": [
+      "49112",
+      "49112"
+    ]
+  },
+  "definition": "Catalysis of the reaction: phenazine-1-carboxylate + S-adenosyl-L-methionine = 5-methyl-phenazine-1-carboxylate + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "5-methyl-phenazine-1-carboxylate N-methyltransferase activity"
+}

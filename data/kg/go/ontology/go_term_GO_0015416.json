@@ -1,0 +1,45 @@
+{
+  "id": "GO:0015416",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015416",
+  "relationships": {
+    "is_a": [
+      "GO:0140359"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphonate ABC transporter"
+    ],
+    "broad": [
+      "organic phosphonate transmembrane transporter activity"
+    ],
+    "narrow": [
+      "ATPase-coupled alkylphosphonate transmembrane transporter activity",
+      "alkylphosphonate ABC transporter activity",
+      "alkylphosphonate transmembrane transporter activity",
+      "alkylphosphonate transmembrane-transporting ATPase activity"
+    ],
+    "related": [
+      "ATP phosphohydrolase (phosphonate-transporting)",
+      "ATPase-coupled organic phosphonate transmembrane transporter activity",
+      "organic phosphonate transmembrane-transporting ATPase activity",
+      "phosphonate transporting ATPase activity",
+      "phosphonate-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.3.2.2"
+    ],
+    "MetaCyc": [
+      "3.6.3.28-RXN"
+    ],
+    "RHEA": [
+      "18065",
+      "18065"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + phosphonate(out) = ADP + phosphate + phosphonate(in). A phosphonate is any salt, anion, or ester of phosphonic acid (HPO(OH)2).",
+  "namespace": "molecular_function",
+  "label": "ABC-type phosphonate transporter activity"
+}

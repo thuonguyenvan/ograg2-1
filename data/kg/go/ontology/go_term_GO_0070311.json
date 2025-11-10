@@ -1,0 +1,29 @@
+{
+  "id": "GO:0070311",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070311",
+  "relationships": {
+    "is_a": [
+      "GO:0035097"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NUMAC"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "14729568",
+      "14729568"
+    ]
+  },
+  "definition": "A protein complex that contains eight subunits in common with the SWI/SNF complex, plus the ATPase BRG1 (SMARCA4) and the histone methyltransferase CARM1; the complex is involved in regulating nuclear receptor-dependent transcription.",
+  "namespace": "cellular_component",
+  "label": "nucleosomal methylation activator complex"
+}

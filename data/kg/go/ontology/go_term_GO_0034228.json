@@ -1,0 +1,34 @@
+{
+  "id": "GO:0034228",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034228",
+  "relationships": {
+    "is_a": [
+      "GO:0005275",
+      "GO:0015665"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-aminoethanol transmembrane transporter activity",
+      "ethanolamine permease activity",
+      "monoethanolamine transmembrane transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TRANS-RXN0-476"
+    ],
+    "GOC": [
+      "rn"
+    ],
+    "PMID": [
+      "3514579"
+    ]
+  },
+  "definition": "Enables the transfer of ethanolamine from one side of a membrane to the other. Ethanolamine (2-aminoethanol, monoethanolamine) is an amino alcohol that occurs widely in living organisms as a constituent of certain types of phospholipids, such as phosphatidylethanolamine.",
+  "namespace": "molecular_function",
+  "label": "ethanolamine transmembrane transporter activity"
+}

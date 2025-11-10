@@ -1,0 +1,42 @@
+{
+  "id": "GO:0050639",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050639",
+  "relationships": {
+    "is_a": [
+      "GO:0016413"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "acetyl-CoA:taxan-10beta-ol O-acetyltransferase"
+    ],
+    "narrow": [],
+    "related": [
+      "acetyl coenzyme A: 10-hydroxytaxane O-acetyltransferase activity",
+      "acetyl coenzyme A:10-hydroxytaxane O-acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.163",
+      "2.3.1.163",
+      "2.3.1.163",
+      "2.3.1.163",
+      "2.3.1.163"
+    ],
+    "KEGG_REACTION": [
+      "R07252"
+    ],
+    "MetaCyc": [
+      "2.3.1.163-RXN"
+    ],
+    "RHEA": [
+      "18837",
+      "18837"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 10-desacetyltaxuyunnanin C + acetyl-CoA = CoA + taxuyunnanin C.",
+  "namespace": "molecular_function",
+  "label": "10-hydroxytaxane O-acetyltransferase activity"
+}

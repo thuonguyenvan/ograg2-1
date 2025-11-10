@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033512",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033512",
+  "relationships": {
+    "is_a": [
+      "GO:0019474"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-lysine breakdown to acetyl-CoA via saccharopine",
+      "L-lysine degradation to acetyl-CoA via saccharopine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "LYSINE-DEG1-PWY",
+      "LYSINE-DEG1-PWY"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-lysine into other compounds, including acetyl-CoA, via the intermediate saccharopine.",
+  "namespace": "biological_process",
+  "label": "L-lysine catabolic process to acetyl-CoA via saccharopine"
+}

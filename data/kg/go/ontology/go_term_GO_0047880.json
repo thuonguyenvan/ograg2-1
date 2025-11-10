@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047880",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047880",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-erythrulose reductase activity",
+      "erythritol:NADP+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.162",
+      "1.1.1.162",
+      "1.1.1.162",
+      "1.1.1.162"
+    ],
+    "KEGG_REACTION": [
+      "R08573"
+    ],
+    "MetaCyc": [
+      "RXN-17773"
+    ],
+    "RHEA": [
+      "18005",
+      "18005"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-threitol + NADP+ = D-erythrulose + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "erythrulose reductase activity"
+}

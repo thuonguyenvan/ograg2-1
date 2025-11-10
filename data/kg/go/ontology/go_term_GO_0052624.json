@@ -1,0 +1,46 @@
+{
+  "id": "GO:0052624",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052624",
+  "relationships": {
+    "is_a": [
+      "GO:0008169",
+      "GO:0008171"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "S-adenosyl-L-methionine:2-phytyl-1,4-naphthoquinone methyltransferase activity",
+      "S-adenosyl-L-methionine:demethylphylloquinone methyltransferase activity",
+      "S-adenosyl-L-methionine:salicylate carboxyl methyltransferase activity",
+      "demethylphylloquinone methyltransferase activity"
+    ],
+    "broad": [
+      "SA methyltransferase activity",
+      "salicylate methyltransferase activity",
+      "salicylic acid methyltransferase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.329"
+    ],
+    "KEGG_REACTION": [
+      "R06859"
+    ],
+    "MetaCyc": [
+      "RXN-7569"
+    ],
+    "RHEA": [
+      "40551",
+      "40551"
+    ],
+    "PMID": [
+      "14617060"
+    ]
+  },
+  "definition": "Catalysis of the reaction: demethylphylloquinol + S-adenosyl-L-methionine = H+ + phylloquinol + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "2-phytyl-1,4-naphthoquinone methyltransferase activity"
+}

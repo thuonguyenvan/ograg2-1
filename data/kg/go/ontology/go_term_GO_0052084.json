@@ -1,0 +1,29 @@
+{
+  "id": "GO:0052084",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052084",
+  "relationships": {
+    "is_a": [
+      "GO:0052031"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "modulation by symbiont of host ethylene-mediated defense response"
+    ],
+    "broad": [
+      "modulation by organism of defense-related ethylene-mediated signal transduction pathway in other organism involved in symbiotic interaction",
+      "modulation by organism of ethylene-mediated defense response of other organism involved in symbiotic interaction",
+      "modulation by symbiont of defense-related host ethylene-mediated signal transduction pathway"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_pamgo_17jul06"
+    ]
+  },
+  "definition": "Any process in which a symbiont modulates the frequency, rate or extent of the ethylene-mediated defense response of the host organism. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated modulation of host ethylene-mediated defense response"
+}

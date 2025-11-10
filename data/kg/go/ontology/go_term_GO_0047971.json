@@ -1,0 +1,49 @@
+{
+  "id": "GO:0047971",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047971",
+  "relationships": {
+    "is_a": [
+      "GO:0016813"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-guanidinobutanoate amidinohydrolase activity",
+      "4-guanidinobutyrate amidinobutyrase activity",
+      "G-base activity",
+      "GBH",
+      "gamma-guanidinobutyrate amidinohydrolase activity",
+      "gamma-guanidobutyrase activity",
+      "guanidinobutyrate ureahydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.3.7",
+      "3.5.3.7",
+      "3.5.3.7",
+      "3.5.3.7",
+      "3.5.3.7",
+      "3.5.3.7",
+      "3.5.3.7",
+      "3.5.3.7",
+      "3.5.3.7"
+    ],
+    "KEGG_REACTION": [
+      "R01990"
+    ],
+    "MetaCyc": [
+      "GUANIDINOBUTYRASE-RXN"
+    ],
+    "RHEA": [
+      "19501",
+      "19501"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-guanidinobutanoate + H2O = 4-aminobutanoate + urea.",
+  "namespace": "molecular_function",
+  "label": "guanidinobutyrase activity"
+}

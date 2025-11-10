@@ -1,0 +1,32 @@
+{
+  "id": "GO:0061779",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061779",
+  "relationships": {
+    "is_a": [
+      "GO:0098796",
+      "GO:0140534"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "dph"
+    ],
+    "Intact": [
+      "EBI-11896237",
+      "EBI-9013963"
+    ],
+    "PMID": [
+      "17603487"
+    ]
+  },
+  "definition": "Subunit of the MHC class I peptide loading complex (GO:0042824) (=PLC) involved in the assembly of the heavy-chain-beta2-microglobulin dimers of the MHC class I molecules that fold with eight to ten residue peptides in the endoplasmic reticulum. Required for the inhibition of the reduction of the disulfide bonds of the heavy chains and the assembly and stabilization of the PLC, suggesting it may play a structural rather than a catalytic role.",
+  "namespace": "cellular_component",
+  "label": "Tapasin-ERp57 complex"
+}

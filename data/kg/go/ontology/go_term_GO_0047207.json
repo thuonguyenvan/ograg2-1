@@ -1,0 +1,47 @@
+{
+  "id": "GO:0047207",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047207",
+  "relationships": {
+    "is_a": [
+      "GO:0050738"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,2-beta-D-fructan 1(F)-fructosyltransferase activity",
+      "1,2-beta-D-fructan 1F-fructosyltransferase activity",
+      "1,2-beta-D-fructan:1,2-beta-D-fructan 1(F)-beta-D-fructosyltransferase activity",
+      "1,2-beta-D-fructan:1,2-beta-D-fructan 1F-beta-D-fructosyltransferase activity",
+      "1,2-beta-fructan 1(F)-fructosyltransferase activity",
+      "2,1-beta-D-fructan:2,1-beta-D-fructan 1-beta-D-fructosyltransferase activity",
+      "2,1-fructan:2,1-fructan 1-fructosyltransferase activity",
+      "FFT activity",
+      "fructan:fructan fructosyl transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.100",
+      "2.4.1.100",
+      "2.4.1.100",
+      "2.4.1.100",
+      "2.4.1.100",
+      "2.4.1.100",
+      "2.4.1.100",
+      "2.4.1.100",
+      "2.4.1.100",
+      "2.4.1.100",
+      "2.4.1.100"
+    ],
+    "MetaCyc": [
+      "2.4.1.100-RXN",
+      "2.4.1.100-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [(1-&gt;2)-beta-D-fructosyl](n) + [(1-&gt;2)-beta-D-fructosyl](m) = [(1-&gt;2)-beta-D-fructosyl](n+1) + [(1-&gt;2)-beta-D-fructosyl](m-1).",
+  "namespace": "molecular_function",
+  "label": "1,2-beta-fructan 1F-fructosyltransferase activity"
+}

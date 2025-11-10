@@ -1,0 +1,30 @@
+{
+  "id": "GO:0006065",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006065",
+  "relationships": {
+    "is_a": [
+      "GO:0009226",
+      "GO:0046394",
+      "GO:0046398"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-glucuronate anabolism",
+      "UDP-glucuronate biosynthesis",
+      "UDP-glucuronate formation",
+      "UDP-glucuronate synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of UDP-glucuronate, a substance composed of glucuronic acid in glycosidic linkage with uridine diphosphate.",
+  "namespace": "biological_process",
+  "label": "UDP-glucuronate biosynthetic process"
+}

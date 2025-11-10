@@ -1,0 +1,57 @@
+{
+  "id": "GO:0004473",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004473",
+  "relationships": {
+    "is_a": [
+      "GO:0004470",
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "&apos;malic&apos; enzyme",
+      "(S)-malate:NADP+ oxidoreductase (oxaloacetate-decarboxylating)",
+      "L-malate:NADP oxidoreductase activity",
+      "NADP-linked decarboxylating malic enzyme",
+      "NADP-malic enzyme activity",
+      "NADP-specific malate dehydrogenase activity",
+      "NADP-specific malic enzyme",
+      "malate dehydrogenase (NADP, decarboxylating)",
+      "malate dehydrogenase (decarboxylating, NADP)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.40",
+      "1.1.1.40",
+      "1.1.1.40",
+      "1.1.1.40",
+      "1.1.1.40",
+      "1.1.1.40",
+      "1.1.1.40",
+      "1.1.1.40",
+      "1.1.1.40",
+      "1.1.1.40"
+    ],
+    "KEGG_REACTION": [
+      "R00216"
+    ],
+    "MetaCyc": [
+      "MALIC-NADP-RXN"
+    ],
+    "RHEA": [
+      "18253",
+      "18253"
+    ],
+    "Reactome": [
+      "R-HSA-9012036",
+      "R-HSA-9012349"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-malate + NADP+ = pyruvate + CO2 + NADPH.",
+  "namespace": "molecular_function",
+  "label": "ME3 tetramer decarboxylates MAL to PYR"
+}

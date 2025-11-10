@@ -1,0 +1,28 @@
+{
+  "id": "GO:0019330",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019330",
+  "relationships": {
+    "is_a": [
+      "GO:0008152"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "aldoxime metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P345-PWY"
+    ],
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving aldoximes, compounds derived by the reaction of an aldose with hydroxylamine, thus containing the aldoxime group -HC=NOH.",
+  "namespace": "biological_process",
+  "label": "aldoxime metabolic process"
+}

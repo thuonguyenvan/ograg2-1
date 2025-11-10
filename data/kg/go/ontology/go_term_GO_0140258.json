@@ -1,0 +1,28 @@
+{
+  "id": "GO:0140258",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140258",
+  "relationships": {
+    "is_a": [
+      "GO:0140006"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "H3-K14ub reader activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "H3K14ub modified histone binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "29053958",
+      "34524082"
+    ]
+  },
+  "definition": "A histone reader that recognizes a histone H3 ubiquitinated at lysine 14.",
+  "namespace": "molecular_function",
+  "label": "histone H3K14ub reader activity"
+}

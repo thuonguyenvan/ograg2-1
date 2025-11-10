@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015565",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015565",
+  "relationships": {
+    "is_a": [
+      "GO:0015195",
+      "GO:0034639"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "threonine efflux permease activity",
+      "threonine export transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "threonine export protein"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of threonine from the inside of the cell to the outside of the cell across a membrane.",
+  "namespace": "molecular_function",
+  "label": "threonine efflux transmembrane transporter activity"
+}

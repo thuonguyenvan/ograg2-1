@@ -1,0 +1,49 @@
+{
+  "id": "GO:0050134",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050134",
+  "relationships": {
+    "is_a": [
+      "GO:0016647"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "6-N-methyl-L-lysine:oxygen oxidoreductase (demethylating)",
+      "N(6)-methyllysine oxidase activity",
+      "N6-methyl-L-lysine:oxygen oxidoreductase (demethylating)",
+      "N6-methyllysine oxidase activity",
+      "epsilon-N-methyllysine demethylase activity",
+      "epsilon-alkyl-L-lysine:oxygen oxidoreductase activity",
+      "epsilon-alkyllysinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.3.4",
+      "1.5.3.4",
+      "1.5.3.4",
+      "1.5.3.4",
+      "1.5.3.4",
+      "1.5.3.4",
+      "1.5.3.4",
+      "1.5.3.4",
+      "1.5.3.4"
+    ],
+    "KEGG_REACTION": [
+      "R00612"
+    ],
+    "MetaCyc": [
+      "N6-METHYL-LYSINE-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "23200",
+      "23200"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(6)-methyl-L-lysine + H2O + O2 = L-lysine + formaldehyde + H2O2.",
+  "namespace": "molecular_function",
+  "label": "N6-methyl-lysine oxidase activity"
+}

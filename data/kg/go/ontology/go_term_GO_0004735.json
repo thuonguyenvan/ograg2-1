@@ -1,0 +1,48 @@
+{
+  "id": "GO:0004735",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004735",
+  "relationships": {
+    "is_a": [
+      "GO:0016646"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-pyrroline-5-carboxylate reductase activity",
+      "L-proline oxidase activity",
+      "L-proline-NAD(P)+ 5-oxidoreductase activity",
+      "L-proline:NAD(P)+ 5-oxidoreductase activity",
+      "NADPH-L-delta1-pyrroline carboxylic acid reductase activity",
+      "P5CR activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.2",
+      "1.5.1.2",
+      "1.5.1.2",
+      "1.5.1.2",
+      "1.5.1.2",
+      "1.5.1.2",
+      "1.5.1.2",
+      "1.5.1.2"
+    ],
+    "MetaCyc": [
+      "PYRROLINECARBREDUCT-RXN"
+    ],
+    "RHEA": [
+      "14109"
+    ],
+    "Reactome": [
+      "R-HSA-6783939",
+      "R-HSA-6783955",
+      "R-HSA-70664"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-proline + NADP+ = 1-pyrroline-5-carboxylate + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "PYCR1 decamer reduces (S)-1-pyrroline-5-carboxylate to L-Pro"
+}

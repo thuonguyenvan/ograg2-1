@@ -1,0 +1,32 @@
+{
+  "id": "GO:0048476",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048476",
+  "relationships": {
+    "is_a": [
+      "GO:1905347"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "resolvasome"
+    ],
+    "broad": [],
+    "narrow": [
+      "Mus81-Eme1 complex",
+      "Mus81-Eme1 holliday resolvase complex",
+      "Mus81-Eme2 complex",
+      "Mus81-Eme2 holliday resolvase complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11207366",
+      "12374758",
+      "11207366"
+    ]
+  },
+  "definition": "An endodeoxyribonuclease complex that resolves the 4-way DNA intermediates of a Holliday junction into two separate duplex DNA molecules. Can be branch-migration associated.",
+  "namespace": "cellular_component",
+  "label": "Holliday junction resolvase complex"
+}

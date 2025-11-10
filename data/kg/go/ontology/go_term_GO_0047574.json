@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047574",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047574",
+  "relationships": {
+    "is_a": [
+      "GO:0016811",
+      "GO:0019213"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-acetamidobutanoyl-CoA amidohydrolase activity",
+      "aminobutyryl-CoA thiolesterase activity",
+      "deacetylase-thiolesterase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.51",
+      "3.5.1.51",
+      "3.5.1.51",
+      "3.5.1.51",
+      "3.5.1.51"
+    ],
+    "KEGG_REACTION": [
+      "R04056"
+    ],
+    "MetaCyc": [
+      "4-ACETAMIDOBUTYRYL-COA-DEACETYLASE-RXN"
+    ],
+    "RHEA": [
+      "22928",
+      "22928"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-acetamidobutanoyl-CoA + H2O = 4-aminobutanoyl-CoA + acetate.",
+  "namespace": "molecular_function",
+  "label": "4-acetamidobutyryl-CoA deacetylase activity"
+}

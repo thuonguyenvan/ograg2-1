@@ -1,0 +1,40 @@
+{
+  "id": "GO:0004658",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004658",
+  "relationships": {
+    "is_a": [
+      "GO:0016421"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PCCase activity",
+      "propanoyl-CoA:carbon-dioxide ligase (ADP-forming)",
+      "propionyl coenzyme A carboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.4.1.3",
+      "6.4.1.3",
+      "6.4.1.3",
+      "6.4.1.3",
+      "6.4.1.3"
+    ],
+    "MetaCyc": [
+      "PROPIONYL-COA-CARBOXY-RXN"
+    ],
+    "RHEA": [
+      "23720"
+    ],
+    "Reactome": [
+      "R-HSA-71031"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + propanoyl-CoA + HCO3- = ADP + phosphate + (S)-methylmalonyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "propionyl-CoA + CO2 + ATP &lt;=&gt; D-methylmalonyl-CoA + ADP + orthophosphate"
+}

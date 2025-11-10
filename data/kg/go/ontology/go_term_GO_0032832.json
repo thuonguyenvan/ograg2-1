@@ -1,0 +1,33 @@
+{
+  "id": "GO:0032832",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032832",
+  "relationships": {
+    "is_a": [
+      "GO:0002697",
+      "GO:0032829",
+      "GO:0050776"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell development involved in immune response",
+      "regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation during immune response",
+      "regulation of CD4-positive, CD25-positive, alpha-beta regulatory T lymphocyte differentiation during immune response",
+      "regulation of CD4-positive, CD25-positive, alpha-beta regulatory T-cell differentiation during immune response",
+      "regulation of CD4-positive, CD25-positive, alpha-beta regulatory T-lymphocyte differentiation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "add",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of differentiation of CD4-positive, CD25-positive, alpha-beta regulatory T cells as part of an immune response.",
+  "namespace": "biological_process",
+  "label": "regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"
+}

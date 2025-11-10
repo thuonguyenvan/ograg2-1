@@ -1,0 +1,30 @@
+{
+  "id": "GO:0098018",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098018",
+  "relationships": {
+    "is_a": [
+      "GO:0046727"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "minor capsomere"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "minor head protein"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bm",
+      "bf",
+      "bm",
+      "jl"
+    ]
+  },
+  "definition": "The part of the viral capsid that comprises the less common capsomere type. For example, in a T=3 icosahedral capsid, which is composed of 12 pentameric and 20 hexameric capsomeres, the pentameric capsomeres are minor subunits.",
+  "namespace": "cellular_component",
+  "label": "viral capsid, minor subunit"
+}

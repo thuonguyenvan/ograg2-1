@@ -1,0 +1,42 @@
+{
+  "id": "GO:0050004",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050004",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose:isoflavone 7-O-beta-D-glucosyltransferase activity",
+      "UDPglucose-flavonoid 7-O-glucosyltransferase activity",
+      "UDPglucose:isoflavone 7-O-beta-D-glucosyltransferase activity",
+      "UDPglucose:isoflavone 7-O-glucosyltransferase activity",
+      "uridine diphosphoglucose-isoflavone 7-O-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.170",
+      "2.4.1.170",
+      "2.4.1.170",
+      "2.4.1.170",
+      "2.4.1.170",
+      "2.4.1.170",
+      "2.4.1.170"
+    ],
+    "MetaCyc": [
+      "ISOFLAVONE-7-O-GLUCOSYLTRANSFERASE-RXN",
+      "ISOFLAVONE-7-O-GLUCOSYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "56344"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-glucose + isoflavone = UDP + isoflavone 7-O-beta-D-glucoside.",
+  "namespace": "molecular_function",
+  "label": "isoflavone 7-O-glucosyltransferase activity"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0009688",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009688",
+  "relationships": {
+    "is_a": [
+      "GO:0009687",
+      "GO:0016106",
+      "GO:0043289",
+      "GO:0072330",
+      "GO:0120255",
+      "GO:1902645"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "abscisic acid anabolism",
+      "abscisic acid biosynthesis",
+      "abscisic acid formation",
+      "abscisic acid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-695"
+    ],
+    "ISBN": [
+      "0387969845"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of abscisic acid, 5-(1-hydroxy-2,6,6,trimethyl-4-oxocyclohex-2-en-1-y1)-3-methylpenta-2,4-dienoic acid.",
+  "namespace": "biological_process",
+  "label": "abscisic acid biosynthetic process"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GO:0050277",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050277",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:sedoheptulose 7-phosphotransferase activity",
+      "heptulokinase activity",
+      "sedoheptulokinase (phosphorylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.14",
+      "2.7.1.14",
+      "2.7.1.14",
+      "2.7.1.14",
+      "2.7.1.14"
+    ],
+    "KEGG_REACTION": [
+      "R01844"
+    ],
+    "MetaCyc": [
+      "SEDOHEPTULOKINASE-RXN"
+    ],
+    "RHEA": [
+      "23844",
+      "23844"
+    ],
+    "Reactome": [
+      "R-HSA-8959719"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + sedoheptulose = ADP + 2 H+ + sedoheptulose 7-phosphate.",
+  "namespace": "molecular_function",
+  "label": "SHPK phosphorylates Sedo to Sedo7P"
+}

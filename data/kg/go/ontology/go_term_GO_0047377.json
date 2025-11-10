@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047377",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047377",
+  "relationships": {
+    "is_a": [
+      "GO:0019213",
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3,4-diacetoxybutinylbithiophene:4-acetate esterase activity",
+      "5-(3,4-diacetoxybut-1-ynyl)-2,2&apos;-bithiophene acetylhydrolase activity",
+      "diacetoxybutynylbithiophene acetate esterase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.66",
+      "3.1.1.66",
+      "3.1.1.66",
+      "3.1.1.66",
+      "3.1.1.66"
+    ],
+    "KEGG_REACTION": [
+      "R04525"
+    ],
+    "MetaCyc": [
+      "3.1.1.66-RXN"
+    ],
+    "RHEA": [
+      "16313",
+      "16313"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-(3,4-diacetoxybut-1-ynyl)-2,2&apos;-bithiophene + H2O = 5-(3-hydroxy-4-acetoxybut-1-ynyl)-2,2&apos;-bithiophene + acetate + H+.",
+  "namespace": "molecular_function",
+  "label": "5-(3,4-diacetoxybut-1-ynyl)-2,2&apos;-bithiophene deacetylase activity"
+}

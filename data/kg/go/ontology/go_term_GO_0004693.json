@@ -1,0 +1,123 @@
+{
+  "id": "GO:0004693",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004693",
+  "relationships": {
+    "is_a": [
+      "GO:0004674",
+      "GO:0097472"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CDK activity",
+      "CDK, catalytic subunit activity",
+      "cyclin-dependent protein kinase, intrinsic catalyst activity"
+    ],
+    "broad": [
+      "cyclin-dependent kinase activity",
+      "cyclin-dependent protein kinase activity"
+    ],
+    "narrow": [
+      "D-type cyclin kinase activity",
+      "cdc2 kinase activity",
+      "cyclin D-cdk6 kinase activity",
+      "cyclin D-dependent kinase activity",
+      "cyclin E kinase activity",
+      "cyclin-A associated kinase activity",
+      "cyclin-dependent kinase 6 activity",
+      "cyclin-dependent kinase-2 activity",
+      "cyclin-dependent kinase-4 activity",
+      "neuronal cdc2-like kinase activity"
+    ],
+    "related": [
+      "ATP:cyclin phosphotransferase activity",
+      "CDK",
+      "Cdk-activating protein kinase activity",
+      "cdk-activating kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.11.22",
+      "2.7.11.22",
+      "2.7.11.22",
+      "2.7.11.22",
+      "2.7.11.22",
+      "2.7.11.22",
+      "2.7.11.22",
+      "2.7.11.22",
+      "2.7.11.22",
+      "2.7.11.22",
+      "2.7.11.22",
+      "2.7.11.22",
+      "2.7.11.22",
+      "2.7.11.22",
+      "2.7.11.22",
+      "2.7.11.22"
+    ],
+    "Reactome": [
+      "R-HSA-1226094",
+      "R-HSA-1226095",
+      "R-HSA-174079",
+      "R-HSA-174122",
+      "R-HSA-174132",
+      "R-HSA-174251",
+      "R-HSA-180047",
+      "R-HSA-187520",
+      "R-HSA-187916",
+      "R-HSA-187948",
+      "R-HSA-187959",
+      "R-HSA-188390",
+      "R-HSA-1912391",
+      "R-HSA-2172183",
+      "R-HSA-2220971",
+      "R-HSA-2245218",
+      "R-HSA-2294600",
+      "R-HSA-2430533",
+      "R-HSA-2468287",
+      "R-HSA-2468293",
+      "R-HSA-2514854",
+      "R-HSA-2984220",
+      "R-HSA-2990882",
+      "R-HSA-3788705",
+      "R-HSA-380278",
+      "R-HSA-4086410",
+      "R-HSA-4088024",
+      "R-HSA-5195402",
+      "R-HSA-5244669",
+      "R-HSA-5692755",
+      "R-HSA-6793661",
+      "R-HSA-6797606",
+      "R-HSA-6805109",
+      "R-HSA-68944",
+      "R-HSA-69005",
+      "R-HSA-69227",
+      "R-HSA-9008412",
+      "R-HSA-9009282",
+      "R-HSA-9624800",
+      "R-HSA-9686521",
+      "R-HSA-9929482",
+      "R-HSA-9929514",
+      "R-HSA-9929532",
+      "R-HSA-9929535",
+      "R-HSA-9929717",
+      "R-HSA-9929719",
+      "R-HSA-9929720",
+      "R-HSA-9929721",
+      "R-HSA-9929884",
+      "R-HSA-9929904",
+      "R-HSA-9929935"
+    ],
+    "GOC": [
+      "pr",
+      "rn"
+    ],
+    "PMID": [
+      "7877684",
+      "9841670"
+    ]
+  },
+  "definition": "Cyclin-dependent catalysis of the reactions: ATP + protein serine = ADP + protein serine phosphate, and ATP + protein threonine = ADP + protein threonine phosphate.",
+  "namespace": "molecular_function",
+  "label": "CCNA:CDK1 phosphorylates CDC25B"
+}

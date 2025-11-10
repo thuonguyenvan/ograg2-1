@@ -1,0 +1,30 @@
+{
+  "id": "GO:0071261",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071261",
+  "relationships": {
+    "is_a": [
+      "GO:0071256"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Ssh1p-Sss1p-Sbh2p complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "12134063",
+      "8612571"
+    ]
+  },
+  "definition": "A translocon complex that contains a core heterotrimer of alpha, beta and gamma subunits, and may contain additional proteins (translocon-associated proteins or TRAPs); in budding yeast the core proteins are Ssh1p, Sbh2p, and Sss1p. The Ssh1 translocon complex is involved in the cotranslational pathway of protein transport across the ER membrane, and recognizes proteins bearing strongly hydrophobic signal sequences.",
+  "namespace": "cellular_component",
+  "label": "Ssh1 translocon complex"
+}

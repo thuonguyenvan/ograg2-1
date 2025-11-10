@@ -1,0 +1,74 @@
+{
+  "id": "GO:0004315",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004315",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-oxoacyl-ACP synthase activity",
+      "3-oxoacyl-[acyl-carrier protein] synthase activity",
+      "ketoacyl-ACP synthase activity"
+    ],
+    "broad": [
+      "condensing enzyme activity",
+      "fatty acid condensing enzyme activity"
+    ],
+    "narrow": [
+      "3-oxoacyl-acyl carrier protein synthase I activity",
+      "beta-ketoacyl-ACP synthase I activity",
+      "beta-ketoacyl-ACP synthase II activity",
+      "beta-ketoacyl-acyl-carrier-protein synthase I",
+      "beta-ketoacyl-acyl-carrier-protein synthase II activity"
+    ],
+    "related": [
+      "3-ketoacyl-acyl carrier protein synthase activity",
+      "3-oxoacyl-acyl-carrier-protein synthase activity",
+      "acyl-acyl-carrier-protein:malonyl-acyl-carrier-protein C-acyltransferase (decarboxylating)",
+      "acyl-malonyl acyl carrier protein-condensing enzyme activity",
+      "acyl-malonyl(acyl-carrier-protein)-condensing enzyme activity",
+      "beta-ketoacyl acyl carrier protein synthase activity",
+      "beta-ketoacyl synthetase activity",
+      "beta-ketoacyl-ACP synthetase activity",
+      "beta-ketoacyl-[acyl carrier protein] synthase activity",
+      "beta-ketoacyl-acyl carrier protein synthase activity",
+      "beta-ketoacyl-acyl carrier protein synthetase activity",
+      "beta-ketoacylsynthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.41",
+      "2.3.1.41",
+      "2.3.1.41",
+      "2.3.1.179",
+      "2.3.1.41",
+      "2.3.1.179",
+      "2.3.1.41",
+      "2.3.1.41",
+      "2.3.1.41",
+      "2.3.1.41",
+      "2.3.1.41",
+      "2.3.1.41",
+      "2.3.1.41",
+      "2.3.1.41",
+      "2.3.1.41",
+      "2.3.1.41",
+      "2.3.1.41",
+      "2.3.1.41",
+      "2.3.1.41"
+    ],
+    "MetaCyc": [
+      "3-OXOACYL-ACP-SYNTH-RXN"
+    ],
+    "RHEA": [
+      "22836",
+      "22836"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acyl-[acyl-carrier protein] + malonyl-[acyl-carrier protein] = 3-oxoacyl-[acyl-carrier protein] + CO2 + [acyl-carrier protein].",
+  "namespace": "molecular_function",
+  "label": "3-oxoacyl-[acyl-carrier-protein] synthase activity"
+}

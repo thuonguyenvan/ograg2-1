@@ -1,0 +1,42 @@
+{
+  "id": "GO:0051060",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051060",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "alpha-dextrin endo-1,6-alpha-glucosidase activity",
+      "amylopectin 6-glucanohydrolase activity",
+      "pullulan 6-glucanohydrolase activity"
+    ],
+    "broad": [
+      "debranching enzyme activity"
+    ],
+    "narrow": [],
+    "related": [
+      "R-enzyme",
+      "bacterial debranching enzyme",
+      "limit dextrinase",
+      "pullulan alpha-1,6-glucanohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.41",
+      "3.2.1.41",
+      "3.2.1.41",
+      "3.2.1.41",
+      "3.2.1.41",
+      "3.2.1.41"
+    ],
+    "MetaCyc": [
+      "RXN-1824"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of (1,6)-alpha-D-glucosidic linkages in pullulan (a linear polymer of alpha-(1,6)-linked maltotriose units) and in amylopectin and glycogen, and the a- and b-limit dextrins of amylopectin and glycogen.",
+  "namespace": "molecular_function",
+  "label": "pullulanase activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0043779",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043779",
+  "relationships": {
+    "is_a": [
+      "GO:0016823"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cobalt-precorrin 5A acetaldehyde-lyase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.7.1.12"
+    ],
+    "MetaCyc": [
+      "RXN-8763"
+    ],
+    "RHEA": [
+      "26281",
+      "26281"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cobalt-precorrin 5A + H2O = cobalt-precorrin 5B + acetaldehyde + H+.",
+  "namespace": "molecular_function",
+  "label": "cobalt-precorrin-5A acetaldehyde-lyase activity"
+}

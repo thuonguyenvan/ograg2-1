@@ -1,0 +1,46 @@
+{
+  "id": "GO:0047842",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047842",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-dehydro-L-gulonate carboxy-lyase (L-xylulose-forming)",
+      "3-dehydro-L-gulonate carboxy-lyase activity",
+      "3-keto-L-gulonate decarboxylase activity",
+      "keto-L-gulonate decarboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.34",
+      "4.1.1.34",
+      "4.1.1.34",
+      "4.1.1.34",
+      "4.1.1.34",
+      "4.1.1.34"
+    ],
+    "KEGG_REACTION": [
+      "R01905"
+    ],
+    "MetaCyc": [
+      "DEHYDRO-L-GULONATE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "11084",
+      "11084"
+    ],
+    "Reactome": [
+      "R-HSA-5662473"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-dehydro-L-gulonate + H+ = L-xylulose + CO2.",
+  "namespace": "molecular_function",
+  "label": "KGPDC decarboxylates 3-dehydro-L-gulonate to L-xylulose"
+}

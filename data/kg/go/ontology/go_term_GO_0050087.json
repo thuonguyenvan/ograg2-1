@@ -1,0 +1,35 @@
+{
+  "id": "GO:0050087",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050087",
+  "relationships": {
+    "is_a": [
+      "GO:0016898"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "polyol dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "D-mannitol:ferricytochrome-c 2-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.2.2",
+      "1.1.2.2"
+    ],
+    "MetaCyc": [
+      "MANNITOL-DEHYDROGENASE-CYTOCHROME-RXN"
+    ],
+    "RHEA": [
+      "17597",
+      "17597"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 [Fe(III)cytochrome c] + D-mannitol = 2 [Fe(II)cytochrome c] + D-fructose + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "mannitol dehydrogenase (cytochrome) activity"
+}

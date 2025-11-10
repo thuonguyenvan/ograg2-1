@@ -1,0 +1,40 @@
+{
+  "id": "GO:1903210",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903210",
+  "relationships": {
+    "is_a": [
+      "GO:1904019"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glomerular podocyte apoptotic process",
+      "glomerular visceral epithelial cell apoptotic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "glomerular podocyte apoptosis",
+      "glomerular visceral epithelial cell apoptosis",
+      "podocyte apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000085"
+    ],
+    "PMID": [
+      "23515840"
+    ]
+  },
+  "definition": "Any apoptotic process in a glomerular visceral epithelial cell.",
+  "namespace": "biological_process",
+  "label": "podocyte apoptotic process"
+}

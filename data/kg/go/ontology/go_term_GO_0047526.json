@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047526",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047526",
+  "relationships": {
+    "is_a": [
+      "GO:0016628"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2&apos;,7-dihydroxy-4&apos;,5&apos;-methylenedioxyisoflavone reductase activity",
+      "NADPH:2&apos;-hydroxyisoflavone oxidoreductase activity",
+      "isoflavone reductase activity",
+      "vestitone:NADP+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.3.1.45",
+      "1.3.1.45",
+      "1.3.1.45",
+      "1.3.1.45",
+      "1.3.1.45"
+    ],
+    "MetaCyc": [
+      "RXN-3562"
+    ],
+    "RHEA": [
+      "22560",
+      "22560"
+    ]
+  },
+  "definition": "Catalysis of the reaction: vestitone + NADP+ = 2&apos;-hydroxyformononetin + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "2&apos;-hydroxyisoflavone reductase activity"
+}

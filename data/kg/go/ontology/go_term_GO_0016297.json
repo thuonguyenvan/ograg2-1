@@ -1,0 +1,39 @@
+{
+  "id": "GO:0016297",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016297",
+  "relationships": {
+    "is_a": [
+      "GO:0016790"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acyl-ACP hydrolase activity",
+      "acyl-ACP thioesterase activity",
+      "acyl-[acyl-carrier protein] hydrolase activity",
+      "acyl-[acyl-carrier-protein] hydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acyl-ACP-hydrolase activity",
+      "acyl-acyl carrier protein hydrolase activity",
+      "acyl-acyl-carrier-protein hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-7902"
+    ],
+    "RHEA": [
+      "44596",
+      "44596"
+    ],
+    "Reactome": [
+      "R-HSA-5655955"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a fatty acyl-[ACP] + H2O = a fatty acid + H+ + holo-[acyl-carrier protein].",
+  "namespace": "molecular_function",
+  "label": "OLAH hydrolyzes decanoyl-FASN dimer to DECA and FASN dimer"
+}

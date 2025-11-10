@@ -1,0 +1,51 @@
+{
+  "id": "GO:0047294",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047294",
+  "relationships": {
+    "is_a": [
+      "GO:0004659"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(S)-3-O-geranylgeranylglyceryl phosphate synthase activity",
+      "GGGP synthase activity",
+      "GGGPS activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "geranylgeranyl diphosphate:sn-glyceryl phosphate geranylgeranyltransferase activity",
+      "geranylgeranyl-transferase activity",
+      "glycerol phosphate geranylgeranyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.41",
+      "2.5.1.41",
+      "2.5.1.41",
+      "2.5.1.41",
+      "2.5.1.41",
+      "2.5.1.41"
+    ],
+    "KEGG_REACTION": [
+      "R04158"
+    ],
+    "MetaCyc": [
+      "2.5.1.41-RXN"
+    ],
+    "RHEA": [
+      "23404",
+      "23404"
+    ],
+    "PMID": [
+      "12801917",
+      "17253090",
+      "8408023"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2E,6E,10E)-geranylgeranyl diphosphate + sn-glycerol 1-phosphate = diphosphate + sn-3-O-(geranylgeranyl)glycerol 1-phosphate.",
+  "namespace": "molecular_function",
+  "label": "phosphoglycerol geranylgeranyltransferase activity"
+}

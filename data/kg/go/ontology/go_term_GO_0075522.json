@@ -1,0 +1,31 @@
+{
+  "id": "GO:0075522",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075522",
+  "relationships": {
+    "is_a": [
+      "GO:0016032"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "867",
+      "867"
+    ],
+    "GOC": [
+      "bf",
+      "jl"
+    ],
+    "PMID": [
+      "19632368"
+    ]
+  },
+  "definition": "Process by which viral mRNA translation is initiated, where a domain in the 5&apos; untranslated region (UTR) of the viral mRNA called an internal ribosome entry site (IRES) binds the host 43S preinitiation complex, circumventing regular cap-dependent translation initiation.",
+  "namespace": "biological_process",
+  "label": "Viral initiation of translation: IRES and DLP"
+}

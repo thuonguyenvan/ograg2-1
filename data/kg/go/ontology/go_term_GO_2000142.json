@@ -1,0 +1,32 @@
+{
+  "id": "GO:2000142",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000142",
+  "relationships": {
+    "is_a": [
+      "GO:0006355"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of DNA-dependent transcription, initiation",
+      "regulation of DNA-templated transcription, initiation",
+      "regulation of initiation of DNA-dependent transcription",
+      "regulation of transcription initiation, DNA-dependent"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "txnOH",
+      "txnOH",
+      "jh2",
+      "jh2"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of DNA-templated transcription initiation.",
+  "namespace": "biological_process",
+  "label": "regulation of DNA-templated transcription initiation"
+}

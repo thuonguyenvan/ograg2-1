@@ -1,0 +1,30 @@
+{
+  "id": "GO:0015199",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015199",
+  "relationships": {
+    "is_a": [
+      "GO:0015651",
+      "GO:0072349"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "betaine transmembrane transporter activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "betaine/GABA:sodium symporter activity",
+      "glycine betaine/proline porter activity",
+      "proline/glycine/betaine:hydrogen/sodium symporter activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of betaine from one side of a membrane to the other. Betaine is the N-trimethyl derivative of an amino acid.",
+  "namespace": "molecular_function",
+  "label": "amino-acid betaine transmembrane transporter activity"
+}

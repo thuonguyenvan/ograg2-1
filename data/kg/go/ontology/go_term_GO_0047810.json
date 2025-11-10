@@ -1,0 +1,50 @@
+{
+  "id": "GO:0047810",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047810",
+  "relationships": {
+    "is_a": [
+      "GO:0008483"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-alanine aminotransferase activity"
+    ],
+    "broad": [
+      "D-alanine transaminase activity",
+      "D-amino acid aminotransferase activity",
+      "D-amino acid transaminase activity",
+      "D-amino-acid transaminase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "D-alanine-D-glutamate transaminase activity",
+      "D-aspartate aminotransferase activity",
+      "D-aspartate transaminase activity",
+      "D-aspartic aminotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.21",
+      "2.6.1.21",
+      "2.6.1.21",
+      "2.6.1.21",
+      "2.6.1.21",
+      "2.6.1.21",
+      "2.6.1.21",
+      "2.6.1.21",
+      "2.6.1.21",
+      "2.6.1.21"
+    ],
+    "MetaCyc": [
+      "D-ALANINE-AMINOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "15869"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-alanine + 2-oxoglutarate = pyruvate + D-glutamate.",
+  "namespace": "molecular_function",
+  "label": "D-alanine-2-oxoglutarate aminotransferase activity"
+}

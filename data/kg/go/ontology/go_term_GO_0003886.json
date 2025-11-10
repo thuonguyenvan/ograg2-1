@@ -1,0 +1,72 @@
+{
+  "id": "GO:0003886",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003886",
+  "relationships": {
+    "is_a": [
+      "GO:0008757",
+      "GO:0009008"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "DNA cytosine methylase activity",
+      "DNA-cytosine methyltransferase activity",
+      "cytosine DNA methylase activity",
+      "cytosine DNA methyltransferase activity",
+      "deoxyribonucleic methylase activity"
+    ],
+    "narrow": [
+      "site-specific DNA-methyltransferase (cytosine-specific) activity"
+    ],
+    "related": [
+      "DNA 5-cytosine methylase activity",
+      "DNA cytosine C(5) methylase activity",
+      "DNA cytosine C5 methylase activity",
+      "DNA-cytosine 5-methylase activity",
+      "S-adenosyl-L-methionine:DNA (cytosine-5-)-methyltransferase activity",
+      "cytosine 5-methyltransferase activity",
+      "cytosine-specific DNA methyltransferase activity",
+      "deoxyribonucleic (cytosine-5-)-methyltransferase activity",
+      "deoxyribonucleic acid (cytosine-5-)-methyltransferase activity",
+      "methylphosphotriester-DNA methyltransferase activity",
+      "modification methylase activity",
+      "restriction-modification system activity",
+      "type II DNA methylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37"
+    ],
+    "MetaCyc": [
+      "DNA-CYTOSINE-5--METHYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "13681",
+      "13681"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 2&apos;-deoxycytidine in DNA + S-adenosyl-L-methionine = a 5-methyl-2&apos;-deoxycytidine in DNA + H+ + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "DNA (cytosine-5-)-methyltransferase activity"
+}

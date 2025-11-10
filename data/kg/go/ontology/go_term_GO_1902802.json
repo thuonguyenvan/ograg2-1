@@ -1,0 +1,39 @@
+{
+  "id": "GO:1902802",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902802",
+  "relationships": {
+    "is_a": [
+      "GO:0010964"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of HOOD assembly",
+      "regulation of HOOD formation",
+      "regulation of heterochromatin domain assembly",
+      "regulation of heterochromatin domain formation",
+      "regulation of siRNA-dependent facultative heterochromatin assembly",
+      "regulation of siRNA-dependent facultative heterochromatin formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24210919"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of siRNA-dependent facultative heterochromatin formation.",
+  "namespace": "biological_process",
+  "label": "regulation of siRNA-mediated facultative heterochromatin formation"
+}

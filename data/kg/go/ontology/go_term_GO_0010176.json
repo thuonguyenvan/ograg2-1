@@ -1,0 +1,39 @@
+{
+  "id": "GO:0010176",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010176",
+  "relationships": {
+    "is_a": [
+      "GO:0010354"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "HPT activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.115",
+      "2.5.1.115"
+    ],
+    "KEGG_REACTION": [
+      "R07500"
+    ],
+    "MetaCyc": [
+      "RXN-2541",
+      "RXN-2541"
+    ],
+    "RHEA": [
+      "37975"
+    ],
+    "PMID": [
+      "14512521"
+    ]
+  },
+  "definition": "Catalysis of the reaction: homogentisate + phytyl diphosphate + H+ = 2-methyl-6-phytyl-1,4-benzoquinone + CO2 + diphosphate. 2-methyl-6-phytyl-1,4-benzoquinone is also known as 2-methyl-6-phytylplastoquinol.",
+  "namespace": "molecular_function",
+  "label": "homogentisate phytyltransferase activity"
+}

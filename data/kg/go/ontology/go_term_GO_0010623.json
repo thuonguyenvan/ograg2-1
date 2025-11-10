@@ -1,0 +1,29 @@
+{
+  "id": "GO:0010623",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010623",
+  "relationships": {
+    "is_a": [
+      "GO:0012501",
+      "GO:0048869"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "developmental programmed cell death",
+      "programmed cell death involved in development"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mtg_apoptosis",
+      "tb"
+    ]
+  },
+  "definition": "The activation of endogenous cellular processes that result in the death of a cell as part of its development.",
+  "namespace": "biological_process",
+  "label": "programmed cell death involved in cell development"
+}

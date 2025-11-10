@@ -1,0 +1,33 @@
+{
+  "id": "GO:0106095",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106095",
+  "relationships": {
+    "is_a": [
+      "GO:1903293"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "7-methylguanosine-5&apos;-triphospho-5&apos;-polynucleotide 7-methylguanosine-5&apos;-phosphohydrolase enzyme",
+      "DCS1 decapping scavenger complex",
+      "M(7)G(5&apos;)pppN pyrophosphatase enzyme",
+      "m7G(5&apos;)pppN diphosphatase enzyme",
+      "m7G(5&apos;)pppN pyrophosphatase enzyme"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "lnp"
+    ],
+    "PMID": [
+      "22985415",
+      "26258763"
+    ]
+  },
+  "definition": "A homodimeric protein complex that catalyzes the reaction: 7-methylguanosine-5&apos;-triphospho-5&apos;-pholynucleotide + H20 = 7-methylguanosine-5&apos;-phosphate + polynucleotide.",
+  "namespace": "cellular_component",
+  "label": "m7G(5&apos;)pppN diphosphatase complex"
+}

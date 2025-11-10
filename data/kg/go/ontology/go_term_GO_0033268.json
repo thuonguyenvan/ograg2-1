@@ -1,0 +1,32 @@
+{
+  "id": "GO:0033268",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033268",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "node of Ranvier axon"
+    ]
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "birnlex_1152_2",
+      "sao188049490"
+    ],
+    "Wikipedia": [
+      "Nodes_of_Ranvier"
+    ],
+    "GOC": [
+      "mh"
+    ]
+  },
+  "definition": "An axon part that is a gap in the myelin where voltage-gated sodium channels cluster and saltatory conduction is executed.",
+  "namespace": "cellular_component",
+  "label": "node of Ranvier"
+}

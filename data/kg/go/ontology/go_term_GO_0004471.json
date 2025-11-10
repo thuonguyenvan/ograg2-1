@@ -1,0 +1,58 @@
+{
+  "id": "GO:0004471",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004471",
+  "relationships": {
+    "is_a": [
+      "GO:0004470",
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "malate dehydrogenase (oxaloacetate-decarboxylating) activity"
+    ],
+    "broad": [
+      "NAD-malic enzyme activity"
+    ],
+    "narrow": [],
+    "related": [
+      "&apos;malic&apos; enzyme",
+      "(S)-malate:NAD+ oxidoreductase (decarboxylating)",
+      "(S)-malate:NAD+ oxidoreductase (oxaloacetate-decarboxylating)",
+      "NAD-linked malic enzyme",
+      "NAD-specific malic enzyme",
+      "malate dehydrogenase (decarboxylating) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.39",
+      "1.1.1.38",
+      "1.1.1.39",
+      "1.1.1.38",
+      "1.1.1.39",
+      "1.1.1.39",
+      "1.1.1.38",
+      "1.1.1.38",
+      "1.1.1.38",
+      "1.1.1.39",
+      "1.1.1.39"
+    ],
+    "KEGG_REACTION": [
+      "R00214"
+    ],
+    "MetaCyc": [
+      "1.1.1.39-RXN"
+    ],
+    "RHEA": [
+      "12653",
+      "12653"
+    ],
+    "Reactome": [
+      "R-HSA-9012268"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-malate + NAD+ = pyruvate + CO2 + NADH.",
+  "namespace": "molecular_function",
+  "label": "ME2 tetramer decarboxylates MAL to PYR"
+}

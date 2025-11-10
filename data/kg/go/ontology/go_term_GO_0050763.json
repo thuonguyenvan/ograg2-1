@@ -1,0 +1,29 @@
+{
+  "id": "GO:0050763",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050763",
+  "relationships": {
+    "is_a": [
+      "GO:0043604",
+      "GO:0050761"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "depsipeptide anabolism",
+      "depsipeptide biosynthesis",
+      "depsipeptide formation",
+      "depsipeptide synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of depsipeptides, a linear or cyclic compound composed of both amino acids and hydroxy acids in peptide and ester bonds respectively.",
+  "namespace": "biological_process",
+  "label": "depsipeptide biosynthetic process"
+}

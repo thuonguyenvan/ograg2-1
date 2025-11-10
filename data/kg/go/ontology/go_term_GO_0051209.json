@@ -1,0 +1,42 @@
+{
+  "id": "GO:0051209",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051209",
+  "relationships": {
+    "is_a": [
+      "GO:0051283",
+      "GO:0097553"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytosolic release of sequestered calcium ion (Ca2+)",
+      "cytosolic release of stored calcium ion (Ca2+)",
+      "release of stored calcium ion (Ca2+) into cytosol"
+    ],
+    "broad": [
+      "calcium ion (Ca2+) mobilization",
+      "calcium mobilization",
+      "cytoplasmic release of sequestered calcium ion (Ca2+)",
+      "cytoplasmic release of stored calcium ion (Ca2+)",
+      "release of sequestered calcium ion (Ca2+)",
+      "release of sequestered calcium ion into cytoplasm",
+      "release of stored calcium ion (Ca2+)",
+      "release of stored calcium ion (Ca2+) into cytoplasm"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "hjd",
+      "mtg_lung"
+    ],
+    "PMID": [
+      "1814929"
+    ]
+  },
+  "definition": "The process in which calcium ions sequestered in the endoplasmic reticulum, Golgi apparatus or mitochondria are released into the cytosolic compartment.",
+  "namespace": "biological_process",
+  "label": "release of sequestered calcium ion into cytosol"
+}

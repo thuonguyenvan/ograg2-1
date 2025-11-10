@@ -1,0 +1,33 @@
+{
+  "id": "GO:0030907",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030907",
+  "relationships": {
+    "is_a": [
+      "GO:0090575"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DSC1 transcription factor complex",
+      "MBF",
+      "Mlu1-box binding factor"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "11206552",
+      "15838511",
+      "18160399",
+      "9343385"
+    ]
+  },
+  "definition": "A protein complex that binds to the Mlu1 cell cycle box (MCB) promoter element, consensus sequence ACGCGN, and is involved in regulation of transcription during the G1/S transition of the cell cycle. In Saccharomyces, the complex contains a heterodimer of the DNA binding protein Mbp1p and the activator Swi6p, and is associated with additional proteins known as Nrm1p, Msa1p, and Msa2p; in Schizosaccharomyces the complex contains Res1p, Res2p, and Cdc10p.",
+  "namespace": "cellular_component",
+  "label": "MBF transcription complex"
+}

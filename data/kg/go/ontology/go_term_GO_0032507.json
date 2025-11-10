@@ -1,0 +1,29 @@
+{
+  "id": "GO:0032507",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032507",
+  "relationships": {
+    "is_a": [
+      "GO:0045185",
+      "GO:0051651"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "maintenance of protein localization in cell"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "isa_complete",
+      "mah",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process in which a protein is maintained in a specific location within, or in the membrane of, a cell, and is prevented from moving elsewhere.",
+  "namespace": "biological_process",
+  "label": "maintenance of protein location in cell"
+}

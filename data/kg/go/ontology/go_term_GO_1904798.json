@@ -1,0 +1,42 @@
+{
+  "id": "GO:1904798",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904798",
+  "relationships": {
+    "is_a": [
+      "GO:2000679"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of core promoter binding",
+      "up-regulation of core promoter binding",
+      "upregulation of core promoter binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of core promoter binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "TermGenie",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000059"
+    ],
+    "PMID": [
+      "22723415"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of core promoter binding.",
+  "namespace": "biological_process",
+  "label": "positive regulation of core promoter binding"
+}

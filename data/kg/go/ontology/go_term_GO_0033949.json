@@ -1,0 +1,34 @@
+{
+  "id": "GO:0033949",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033949",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "6-FEH",
+      "beta-(2,6)-D-fructan fructohydrolase activity",
+      "beta-(2,6)-fructan exohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.154",
+      "3.2.1.154",
+      "3.2.1.154",
+      "3.2.1.154",
+      "3.2.1.154"
+    ],
+    "MetaCyc": [
+      "3.2.1.154-RXN"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of terminal, non-reducing (2-&gt;6) linked beta-D-fructofuranose residues in fructans.",
+  "namespace": "molecular_function",
+  "label": "fructan beta-(2,6)-fructosidase activity"
+}

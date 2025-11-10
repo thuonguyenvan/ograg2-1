@@ -1,0 +1,32 @@
+{
+  "id": "GO:0019094",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019094",
+  "relationships": {
+    "is_a": [
+      "GO:0007316",
+      "GO:0060811"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "establishment and maintenance of mRNA localization in pole plasm",
+      "establishment and maintenance of pole plasm mRNA localization",
+      "oocyte pole plasm mRNA localization",
+      "pole plasm mRNA localisation"
+    ],
+    "broad": [
+      "pole granule RNA localization"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mah"
+    ]
+  },
+  "definition": "Any process in which mRNA is transported to, or maintained in, the oocyte pole plasm. An example of this is found in Drosophila melanogaster.",
+  "namespace": "biological_process",
+  "label": "pole plasm mRNA localization"
+}

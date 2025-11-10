@@ -1,0 +1,36 @@
+{
+  "id": "GO:0071255",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071255",
+  "relationships": {
+    "is_a": [
+      "GO:0016050",
+      "GO:0070925"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Cvt vesicle formation",
+      "cytoplasm to vacuole targeting vesicle assembly",
+      "cytoplasm-to-vacuole targetin vesicle assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Cvt vesicle biosynthesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "rb",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "10966461",
+      "11085977"
+    ]
+  },
+  "definition": "A vesicle organization process that takes place as part of the Cvt pathway, and results in the formation of a double membrane-bounded cytosolic structure that sequesters precursor aminopeptidase I (prAPI).",
+  "namespace": "biological_process",
+  "label": "Cvt vesicle assembly"
+}

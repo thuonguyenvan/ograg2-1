@@ -1,0 +1,33 @@
+{
+  "id": "GO:0036175",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036175",
+  "relationships": {
+    "is_a": [
+      "GO:0061731"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-111742",
+      "R-HSA-8866405"
+    ],
+    "GOC": [
+      "bf",
+      "pde"
+    ],
+    "PMID": [
+      "19176520",
+      "31266802",
+      "7476363"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2&apos;-deoxyribonucleoside diphosphate + glutaredoxin disulfide + H2O = ribonucleoside diphosphate + glutaredoxin.",
+  "namespace": "molecular_function",
+  "label": "RNR (M1M2B) reduces nucleotide diphosphates to deoxynucleotide diphosphates (glutaredoxin)"
+}

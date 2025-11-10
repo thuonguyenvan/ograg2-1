@@ -1,0 +1,41 @@
+{
+  "id": "GO:1904022",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904022",
+  "relationships": {
+    "is_a": [
+      "GO:0002092",
+      "GO:1904020"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of G-protein coupled receptor internalization",
+      "up regulation of G-protein coupled receptor internalization",
+      "up-regulation of G-protein coupled receptor internalization",
+      "upregulation of G-protein coupled receptor internalization"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of G-protein coupled receptor internalization"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24732013"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of G protein-coupled receptor internalization.",
+  "namespace": "biological_process",
+  "label": "positive regulation of G protein-coupled receptor internalization"
+}

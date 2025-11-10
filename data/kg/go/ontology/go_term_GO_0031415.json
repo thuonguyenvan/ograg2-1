@@ -1,0 +1,25 @@
+{
+  "id": "GO:0031415",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031415",
+  "relationships": {
+    "is_a": [
+      "GO:0031414"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-terminal acetyltransferase A complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "12890471"
+    ]
+  },
+  "definition": "A conserved complex that catalyzes the transfer of an acetyl group to an N-terminal Ser, Ala, Gly, or Thr residue of a protein acceptor molecule. In Saccharomyces the complex includes Nat1p and Ard1p, and may contain additional proteins.",
+  "namespace": "cellular_component",
+  "label": "NatA complex"
+}

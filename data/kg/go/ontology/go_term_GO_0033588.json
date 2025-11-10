@@ -1,0 +1,37 @@
+{
+  "id": "GO:0033588",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033588",
+  "relationships": {
+    "is_a": [
+      "GO:0140535",
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Elongator core complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "jh",
+      "mah",
+      "vw"
+    ],
+    "PMID": [
+      "11435442",
+      "11689709",
+      "15769872",
+      "17018299",
+      "18755837",
+      "23165209"
+    ]
+  },
+  "definition": "A heterohexameric protein complex composed two discrete heterotrimeric subcomplexes that is involved in modification of wobble nucleosides in tRNA.",
+  "namespace": "cellular_component",
+  "label": "elongator holoenzyme complex"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0019286",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019286",
+  "relationships": {
+    "is_a": [
+      "GO:0006544",
+      "GO:0031456"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-trimethylglycine biosynthesis from glycine",
+      "N-trimethylglycine biosynthetic process from glycine",
+      "glycine betaine anabolism from glycine",
+      "glycine betaine formation from glycine",
+      "glycine betaine synthesis from glycine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P541-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of glycine betaine from other compounds, including glycine.",
+  "namespace": "biological_process",
+  "label": "glycine betaine biosynthetic process from glycine"
+}

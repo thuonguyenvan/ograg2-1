@@ -1,0 +1,37 @@
+{
+  "id": "GO:1902737",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902737",
+  "relationships": {
+    "is_a": [
+      "GO:0030175",
+      "GO:0043005"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dendrite filopodium"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "pad"
+    ],
+    "GO_REF": [
+      "0000064"
+    ],
+    "PMID": [
+      "24464040"
+    ],
+    "Wikipedia": [
+      "Dendritic_filopodia"
+    ]
+  },
+  "definition": "A small, membranous protrusion found primarily on dendritic stretches of developing neurons. May receive synaptic input, and can develop into dendritic spines.",
+  "namespace": "cellular_component",
+  "label": "dendritic filopodium"
+}

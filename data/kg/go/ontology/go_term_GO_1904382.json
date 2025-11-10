@@ -1,0 +1,53 @@
+{
+  "id": "GO:1904382",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904382",
+  "relationships": {
+    "is_a": [
+      "GO:0035977",
+      "GO:0036508"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein alpha-1,2-demannosylation involved in ER-associated glycoprotein degradation",
+      "protein alpha-1,2-demannosylation involved in glycoprotein ERAD",
+      "protein alpha-1,2-demannosylation involved in glycoprotein ERAD pathway",
+      "protein alpha-1,2-demannosylation involved in gpERAD"
+    ],
+    "broad": [
+      "mannose trimming involved in misfolded or incompletely synthesized glycoprotein catabolic process"
+    ],
+    "narrow": [],
+    "related": [
+      "glycoprotein mannose trimming involved in ER-associated glycoprotein degradation",
+      "glycoprotein mannose trimming involved in glycoprotein ERAD",
+      "glycoprotein mannose trimming involved in glycoprotein ERAD pathway",
+      "glycoprotein mannose trimming involved in gpERAD"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000060"
+    ],
+    "PMID": [
+      "24519966"
+    ]
+  },
+  "definition": "The removal of one or more alpha 1,2-linked mannose residues from a mannosylated protein that occurs as part of glycoprotein ER-associated glycoprotein degradation (gpERAD).",
+  "namespace": "biological_process",
+  "label": "mannose trimming involved in glycoprotein ERAD pathway"
+}

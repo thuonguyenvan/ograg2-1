@@ -1,0 +1,44 @@
+{
+  "id": "GO:0004802",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004802",
+  "relationships": {
+    "is_a": [
+      "GO:0016744"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehydetransferase activity",
+      "sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glycolaldehydetransferase activity"
+    ],
+    "related": [
+      "glycoaldehyde transferase activity",
+      "glycolaldehydetransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.2.1.1",
+      "2.2.1.1",
+      "2.2.1.1",
+      "2.2.1.1",
+      "2.2.1.1"
+    ],
+    "Reactome": [
+      "R-HSA-163741",
+      "R-HSA-163751",
+      "R-HSA-71324",
+      "R-HSA-71335"
+    ],
+    "GOC": [
+      "fmc",
+      "fmc",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reversible transfer of a 2-carbon ketol group (CH2OH-CO-) from a ketose phosphate donor to an aldose phosphate acceptor.",
+  "namespace": "molecular_function",
+  "label": "xylulose 5-phosphate + D-erythrose 4-phosphate &lt;=&gt; D-glyceraldehyde 3-phosphate + D-fructose 6-phosphate"
+}

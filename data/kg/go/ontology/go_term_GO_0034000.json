@@ -1,0 +1,42 @@
+{
+  "id": "GO:0034000",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034000",
+  "relationships": {
+    "is_a": [
+      "GO:0016837"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "ChS ABC lyase activity",
+      "chondroitin ABC eliminase activity",
+      "chondroitin sulfate ABC lyase activity",
+      "chondroitinase ABC activity",
+      "chondroitinase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ChS ABC lyase I activity",
+      "chondroitin sulfate ABC endoeliminase activity",
+      "chondroitin sulfate ABC endolyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.2.20",
+      "4.2.2.20",
+      "4.2.2.20",
+      "4.2.2.20",
+      "4.2.2.20",
+      "4.2.2.20",
+      "4.2.2.20",
+      "4.2.2.20",
+      "4.2.2.20",
+      "4.2.2.20"
+    ]
+  },
+  "definition": "Catalysis of the endolytic cleavage of beta-1,4-galactosaminic bonds between N-acetylgalactosamine and either D-glucuronic acid or L-iduronic acid to produce a mixture of Delta4-unsaturated oligosaccharides of different sizes that are ultimately degraded to Delta4-unsaturated tetra- and disaccharides.",
+  "namespace": "molecular_function",
+  "label": "chondroitin-sulfate-ABC endolyase activity"
+}

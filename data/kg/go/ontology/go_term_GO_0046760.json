@@ -1,0 +1,39 @@
+{
+  "id": "GO:0046760",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046760",
+  "relationships": {
+    "is_a": [
+      "GO:0046755"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Golgi membrane viral budding",
+      "virus budding from Golgi membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Golgi membrane viral budding during viral capsid envelopment",
+      "viral budding from Golgi membrane by viral capsid envelopment",
+      "viral budding from Golgi membrane during viral capsid envelopment",
+      "virus budding from Golgi membrane by viral capsid envelopment",
+      "virus budding from Golgi membrane during viral capsid envelopment"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "tb"
+    ],
+    "ISBN": [
+      "0072370319"
+    ],
+    "VZ": [
+      "1947"
+    ]
+  },
+  "definition": "A viral budding that starts with formation of a membrane curvature in the host Golgi membrane.",
+  "namespace": "biological_process",
+  "label": "viral budding from Golgi membrane"
+}

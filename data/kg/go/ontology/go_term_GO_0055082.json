@@ -1,0 +1,27 @@
+{
+  "id": "GO:0055082",
+  "uri": "http://purl.obolibrary.org/obo/GO_0055082",
+  "relationships": {
+    "is_a": [
+      "GO:0019725",
+      "GO:0048878"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular chemical homeostasis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "isa_complete",
+      "jid"
+    ]
+  },
+  "definition": "A homeostatic process involved in the maintenance of a steady state level of a chemical within a cell.",
+  "namespace": "biological_process",
+  "label": "intracellular chemical homeostasis"
+}

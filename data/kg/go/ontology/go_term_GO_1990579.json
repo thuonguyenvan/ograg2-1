@@ -1,0 +1,33 @@
+{
+  "id": "GO:1990579",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990579",
+  "relationships": {
+    "is_a": [
+      "GO:0036289",
+      "GO:0036290"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "serine autophosphorylation in trans",
+      "serine transautophosphorylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf"
+    ],
+    "PMID": [
+      "21317875",
+      "21317875",
+      "21317875"
+    ]
+  },
+  "definition": "The phosphorylation of a peptidyl-serine to form peptidyl-O-phospho-L-serine on an identical protein. For example, phosphorylation by the other kinase within a homodimer.",
+  "namespace": "biological_process",
+  "label": "peptidyl-serine trans-autophosphorylation"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0046423",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046423",
+  "relationships": {
+    "is_a": [
+      "GO:0009975",
+      "GO:0016860"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(9Z)-(13S)-12,13-epoxyoctadeca-9,11,15-trienoate isomerase (cyclizing)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.99.6",
+      "5.3.99.6",
+      "5.3.99.6"
+    ],
+    "KEGG_REACTION": [
+      "R03402"
+    ],
+    "MetaCyc": [
+      "ALLENE-OXIDE-CYCLASE-RXN"
+    ],
+    "RHEA": [
+      "22592",
+      "22592"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (9Z,13S,15Z)-12,13-epoxyoctadeca-9,11,15-trienoate = (15Z)-12-oxophyto-10,15-dienoate.",
+  "namespace": "molecular_function",
+  "label": "allene-oxide cyclase activity"
+}

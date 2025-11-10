@@ -1,0 +1,35 @@
+{
+  "id": "GO:0047412",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047412",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-(long-chain-acyl)ethanolamine amidohydrolase activity",
+      "N-acylethanolamine amidohydrolase activity",
+      "acylethanolamine amidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.60",
+      "3.5.1.60"
+    ],
+    "MetaCyc": [
+      "3.5.1.60-RXN",
+      "3.5.1.60-RXN"
+    ],
+    "RHEA": [
+      "17505"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + N-(long-chain-acyl)ethanolamine = ethanolamine + a fatty acid.",
+  "namespace": "molecular_function",
+  "label": "N-(long-chain-acyl)ethanolamine deacylase activity"
+}

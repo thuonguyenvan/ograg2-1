@@ -1,0 +1,33 @@
+{
+  "id": "GO:0170010",
+  "uri": "http://purl.obolibrary.org/obo/GO_0170010",
+  "relationships": {
+    "is_a": [
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Upf complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "IntAct": [
+      "EBI-16420380"
+    ],
+    "GOC": [
+      "lnp"
+    ],
+    "PMID": [
+      "1569946",
+      "29282598",
+      "9032286"
+    ]
+  },
+  "definition": "A highly conserved protein complex that recognises and elicits the rapid degradation of mRNAs in which an amino-acid codon has changed to a nonsense codon; occurs when the 3&apos; end is not protected by a 3&apos;-poly(A) tail; degradation proceeds in the 3&apos; to 5&apos; direction.",
+  "namespace": "cellular_component",
+  "label": "nonsense-mediated decay complex"
+}

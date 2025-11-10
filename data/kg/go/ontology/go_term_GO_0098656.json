@@ -1,0 +1,29 @@
+{
+  "id": "GO:0098656",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098656",
+  "relationships": {
+    "is_a": [
+      "GO:0006820",
+      "GO:0034220"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "anion transmembrane transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "ATP hydrolysis coupled anion transmembrane transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dos",
+      "vw"
+    ]
+  },
+  "definition": "The process in which a monoatomic anion is transported across a membrane. Monatomic anions (also called simple anions) are negatively charged ions consisting of exactly one atom.",
+  "namespace": "biological_process",
+  "label": "monoatomic anion transmembrane transport"
+}

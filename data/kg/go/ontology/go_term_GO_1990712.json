@@ -1,0 +1,27 @@
+{
+  "id": "GO:1990712",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990712",
+  "relationships": {
+    "is_a": [
+      "GO:0098802"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "kom"
+    ],
+    "PMID": [
+      "25147378"
+    ]
+  },
+  "definition": "A protein complex containing at least HFE and a transferrin receptor (either TFR1/TFRC or TFR2), proposed to play a role in the sensing of transferrin-bound Fe (Fe2-Tf) on the plasma membrane to regulate hepcidin transcription.",
+  "namespace": "cellular_component",
+  "label": "HFE-transferrin receptor complex"
+}

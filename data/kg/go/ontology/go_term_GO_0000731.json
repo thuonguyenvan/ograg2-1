@@ -1,0 +1,34 @@
+{
+  "id": "GO:0000731",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000731",
+  "relationships": {
+    "is_a": [
+      "GO:0071897"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "DNA repair synthesis"
+    ],
+    "narrow": [
+      "mitotic DNA repair synthesis"
+    ],
+    "related": [
+      "DNA synthesis during DNA repair"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "10357855"
+    ],
+    "GOC": [
+      "mah",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Synthesis of DNA that proceeds from the broken 3&apos; single-strand DNA end and uses the homologous intact duplex as the template.",
+  "namespace": "biological_process",
+  "label": "DNA synthesis involved in DNA repair"
+}

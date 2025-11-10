@@ -1,0 +1,32 @@
+{
+  "id": "GO:1905011",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905011",
+  "relationships": {
+    "is_a": [
+      "GO:0034486",
+      "GO:0035435"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "vacuolar phosphate transport"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000078"
+    ],
+    "PMID": [
+      "26554016"
+    ]
+  },
+  "definition": "The directed movement of phosphate ions from the cytosol across the vacuolar membrane and into the vacuolar lumen.",
+  "namespace": "biological_process",
+  "label": "transmembrane phosphate ion transport from cytosol to vacuole"
+}

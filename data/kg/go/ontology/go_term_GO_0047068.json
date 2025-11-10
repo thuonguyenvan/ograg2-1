@@ -1,0 +1,57 @@
+{
+  "id": "GO:0047068",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047068",
+  "relationships": {
+    "is_a": [
+      "GO:0046995"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N5,N10-methylenetetrahydromethanopterin dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5,10-methenyltetrahydromethanopterin hydrogenase activity",
+      "H(2)-dependent methylene-H(4)MPT dehydrogenase activity",
+      "H(2)-forming N(5),N(10)-methylenetetrahydromethanopterin dehydrogenase activity",
+      "H2-dependent methylene-H4MPT dehydrogenase activity",
+      "H2-forming N5,N10-methylenetetrahydromethanopterin dehydrogenase activity",
+      "N(5),N(10)-methenyltetrahydromethanopterin hydrogenase activity",
+      "hydrogen:5,10-methenyltetrahydromethanopterin oxidoreductase activity",
+      "hydrogen:N(5),N(10)-methenyltetrahydromethanopterin oxidoreductase activity",
+      "hydrogen:N5,N10-methenyltetrahydromethanopterin oxidoreductase activity",
+      "nonmetal hydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.12.98.2",
+      "1.12.98.2",
+      "1.12.98.2",
+      "1.12.98.2",
+      "1.12.98.2",
+      "1.12.98.2",
+      "1.12.98.2",
+      "1.12.98.2",
+      "1.12.98.2",
+      "1.12.98.2",
+      "1.12.98.2",
+      "1.12.98.2"
+    ],
+    "KEGG_REACTION": [
+      "R04455"
+    ],
+    "MetaCyc": [
+      "H2-METHYLENE-THMPT-DEHYDRO-RXN"
+    ],
+    "RHEA": [
+      "20017",
+      "20017"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5,10-methenyl-5,6,7,8-tetrahydromethanopterin + H(2) = 5,10-methylenetetrahydromethanopterin + H+.",
+  "namespace": "molecular_function",
+  "label": "N5,N10-methenyltetrahydromethanopterin hydrogenase activity"
+}

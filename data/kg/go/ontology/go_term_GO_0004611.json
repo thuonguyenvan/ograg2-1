@@ -1,0 +1,27 @@
+{
+  "id": "GO:0004611",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004611",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PEP carboxykinase activity",
+      "PEPCK activity",
+      "phosphopyruvate carboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "Catalysis of the reaction: phosphate + oxaloacetate = phosphoenolpyruvate + CO2 + other reaction products.",
+  "namespace": "molecular_function",
+  "label": "phosphoenolpyruvate carboxykinase activity"
+}

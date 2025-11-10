@@ -1,0 +1,39 @@
+{
+  "id": "GO:0033152",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033152",
+  "relationships": {
+    "is_a": [
+      "GO:0016447",
+      "GO:0033151"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "immunoglobulin V(D)J joining"
+    ],
+    "broad": [],
+    "narrow": [
+      "immunoglobulin V-D-J joining",
+      "immunoglobulin V-D-J recombination",
+      "immunoglobulin V-J joining",
+      "immunoglobulin V-J recombination"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "add",
+      "add",
+      "add",
+      "add",
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "The process in which immunoglobulin gene segments are recombined within a single locus utilizing the conserved heptamer and nonomer recombination signal sequences (RSS). For immunoglobulin heavy chains V, D, and J gene segments are joined, and for immunoglobulin light chains V and J gene segments are joined.",
+  "namespace": "biological_process",
+  "label": "immunoglobulin V(D)J recombination"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0004902",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004902",
+  "relationships": {
+    "is_a": [
+      "GO:0004896"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G-CSF receptor activity",
+      "granulocyte colony stimulating factor receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CSF3R"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "signaling",
+      "bf",
+      "bf"
+    ]
+  },
+  "definition": "Combining with granulocyte colony-stimulating factor (G-CSF) and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.",
+  "namespace": "molecular_function",
+  "label": "granulocyte colony-stimulating factor receptor activity"
+}

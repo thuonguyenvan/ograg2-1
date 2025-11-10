@@ -1,0 +1,33 @@
+{
+  "id": "GO:0160237",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160237",
+  "relationships": {
+    "is_a": [
+      "GO:0016805"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-alanyl-D-alanine dipeptidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.4.13.22",
+      "3.4.13.22"
+    ],
+    "RHEA": [
+      "20661",
+      "20661"
+    ],
+    "PMID": [
+      "7873524"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-alanyl-D-alanine + H2O = 2 D-alanine.",
+  "namespace": "molecular_function",
+  "label": "D-Ala-D-Ala dipeptidase activity"
+}

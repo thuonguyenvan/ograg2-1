@@ -1,0 +1,37 @@
+{
+  "id": "GO:0031031",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031031",
+  "relationships": {
+    "is_a": [
+      "GO:0010973",
+      "GO:0031029",
+      "GO:0051057"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of septation initiation network",
+      "positive regulation of septation initiation signalling",
+      "up regulation of septation initiation signaling",
+      "up-regulation of septation initiation signaling",
+      "upregulation of septation initiation signaling"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of septation initiation signaling",
+      "stimulation of septation initiation signaling"
+    ],
+    "related": [
+      "positive regulation of septation initiation signaling cascade"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "signaling"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of septation initiation signaling.",
+  "namespace": "biological_process",
+  "label": "positive regulation of septation initiation signaling"
+}

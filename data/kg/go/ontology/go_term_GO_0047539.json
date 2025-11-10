@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047539",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047539",
+  "relationships": {
+    "is_a": [
+      "GO:0015926"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-deoxy-alpha-D-glucosidase activity",
+      "2-deoxy-alpha-D-glucoside deoxyglucohydrolase activity",
+      "2-deoxy-alpha-glucosidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.112",
+      "3.2.1.112",
+      "3.2.1.112",
+      "3.2.1.112",
+      "3.2.1.112"
+    ],
+    "MetaCyc": [
+      "2-DEOXYGLUCOSIDASE-RXN",
+      "2-DEOXYGLUCOSIDASE-RXN"
+    ],
+    "RHEA": [
+      "15317"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + a 2-deoxy-alpha-D-glucoside = 2-deoxy-D-glucose + an alcohol.",
+  "namespace": "molecular_function",
+  "label": "2-deoxyglucosidase activity"
+}

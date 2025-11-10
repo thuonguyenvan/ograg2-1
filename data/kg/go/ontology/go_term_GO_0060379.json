@@ -1,0 +1,32 @@
+{
+  "id": "GO:0060379",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060379",
+  "relationships": {
+    "is_a": [
+      "GO:0010002",
+      "GO:0045445"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "myocardial precursor cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cardiac myoblast differentiation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb",
+      "mtg_heart",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The process in which a relatively unspecialized cell acquires specialized features of a cardiac myoblast. A cardiac myoblast is a precursor cell that has been committed to a cardiac muscle cell fate but retains the ability to divide and proliferate throughout life.",
+  "namespace": "biological_process",
+  "label": "cardiac muscle cell myoblast differentiation"
+}

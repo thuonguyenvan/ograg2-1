@@ -1,0 +1,37 @@
+{
+  "id": "GO:0003837",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003837",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-carbamoyl-beta-alanine amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.6",
+      "3.5.1.6",
+      "3.5.1.6"
+    ],
+    "MetaCyc": [
+      "BETA-UREIDOPROPIONASE-RXN"
+    ],
+    "RHEA": [
+      "11184"
+    ],
+    "Reactome": [
+      "R-HSA-73591",
+      "R-HSA-73620"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-carbamoyl-beta-alanine + H2O = beta-alanine + CO2 + NH3.",
+  "namespace": "molecular_function",
+  "label": "beta-ureidoisobutyrate + H2O =&gt; 3-aminoisobutyrate + NH4+ + CO2"
+}

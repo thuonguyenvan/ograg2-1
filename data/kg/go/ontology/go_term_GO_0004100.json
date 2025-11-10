@@ -1,0 +1,43 @@
+{
+  "id": "GO:0004100",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004100",
+  "relationships": {
+    "is_a": [
+      "GO:0008375"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-N-acetyl-D-glucosamine:chitin 4-beta-N-acetylglucosaminyl-transferase activity",
+      "chitin synthetase activity",
+      "chitin-UDP N-acetylglucosaminyltransferase activity",
+      "chitin-UDP acetyl-glucosaminyl transferase activity",
+      "chitin-uridine diphosphate acetylglucosaminyltransferase activity",
+      "trans-N-acetylglucosaminosylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.16",
+      "2.4.1.16",
+      "2.4.1.16",
+      "2.4.1.16",
+      "2.4.1.16",
+      "2.4.1.16",
+      "2.4.1.16",
+      "2.4.1.16"
+    ],
+    "MetaCyc": [
+      "CHITIN-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "16637"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-N-acetyl-D-glucosamine + [-&gt;4)-N-acetyl-beta-D-glucosaminyl-(1-](n) = UDP + [-&gt;4)-N-acetyl-beta-D-glucosaminyl-(1-](n+1).",
+  "namespace": "molecular_function",
+  "label": "chitin synthase activity"
+}

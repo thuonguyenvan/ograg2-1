@@ -1,0 +1,37 @@
+{
+  "id": "GO:0120326",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120326",
+  "relationships": {
+    "is_a": [
+      "GO:0044409"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "appressorium-mediated host invasion",
+      "appressorium-mediated host penetration",
+      "appressorium-mediated invasion into host",
+      "appressorium-mediated penetration into host"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ach",
+      "krc",
+      "ach",
+      "ach",
+      "ach",
+      "ach"
+    ],
+    "PMID": [
+      "14731267",
+      "22589729"
+    ]
+  },
+  "definition": "Penetration by a symbiont into a host organism via an appressorium. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "appressorium-mediated entry into host"
+}

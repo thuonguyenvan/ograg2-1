@@ -1,0 +1,30 @@
+{
+  "id": "GO:0070048",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070048",
+  "relationships": {
+    "is_a": [
+      "GO:0031201"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "SNARE complex (Stx1a, Snap25, Vamp8)",
+      "Stx1a-Snap25-Vamp8 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "10336434"
+    ],
+    "CORUM": [
+      "854",
+      "854"
+    ]
+  },
+  "definition": "A SNARE complex that contains endobrevin (VAMP8), SNAP-25, and syntaxin 1a (or orthologs thereof).",
+  "namespace": "cellular_component",
+  "label": "endobrevin-SNAP-25-syntaxin-1a complex"
+}

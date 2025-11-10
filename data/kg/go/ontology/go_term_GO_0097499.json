@@ -1,0 +1,29 @@
+{
+  "id": "GO:0097499",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097499",
+  "relationships": {
+    "is_a": [
+      "GO:0061512"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "protein localization to nonmotile primary cilium"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "kmv"
+    ],
+    "PMID": [
+      "23128241"
+    ]
+  },
+  "definition": "A process in which a protein is transported to, or maintained in, a location within a non-motile cilium.",
+  "namespace": "biological_process",
+  "label": "protein localization to non-motile cilium"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0002153",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002153",
+  "relationships": {
+    "is_a": [
+      "GO:0003727"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SRA binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw"
+    ],
+    "PMID": [
+      "10199399",
+      "15180993"
+    ]
+  },
+  "definition": "Binding to a steroid receptor RNA activator RNA (SRA). SRA enhances steroid hormone receptor transcriptional activity as an RNA transcript by an indirect mechanism that does not involve SRA-steroid receptor binding.",
+  "namespace": "molecular_function",
+  "label": "steroid receptor RNA activator RNA binding"
+}

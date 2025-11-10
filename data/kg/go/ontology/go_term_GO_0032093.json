@@ -1,0 +1,28 @@
+{
+  "id": "GO:0032093",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032093",
+  "relationships": {
+    "is_a": [
+      "GO:0019904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Sterile Alpha Motif domain binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mcc"
+    ],
+    "PMID": [
+      "16337230"
+    ]
+  },
+  "definition": "Binding to a SAM (Sterile Alpha Motif) domain, which is a 70-amino acid protein sequence that participates in protein-protein, protein-lipid, and protein-RNA interactions and is conserved from lower to higher eukaryotes.",
+  "namespace": "molecular_function",
+  "label": "SAM domain binding"
+}

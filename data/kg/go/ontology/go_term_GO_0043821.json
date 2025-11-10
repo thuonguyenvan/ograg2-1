@@ -1,0 +1,32 @@
+{
+  "id": "GO:0043821",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043821",
+  "relationships": {
+    "is_a": [
+      "GO:0008410"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "propionyl-CoA succinate CoA-transferase activity",
+      "propionyl-CoA:succinate CoA transferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN0-268"
+    ],
+    "RHEA": [
+      "28010"
+    ],
+    "PMID": [
+      "10769117"
+    ]
+  },
+  "definition": "Catalysis of the reaction: succinate + propionyl-CoA = succinyl-CoA + propionate.",
+  "namespace": "molecular_function",
+  "label": "propionyl-CoA:succinate CoA-transferase activity"
+}

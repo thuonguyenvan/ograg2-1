@@ -1,0 +1,29 @@
+{
+  "id": "GO:0102157",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102157",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-11729"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "20150239"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2R)-3-sulfopropanediol(1-) + NAD = 2-oxo-3-hydroxy-propane-1-sulfonate + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "(R)-sulfopropanediol 2-dehydrogenase activity"
+}

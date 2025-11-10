@@ -1,0 +1,36 @@
+{
+  "id": "GO:1905660",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905660",
+  "relationships": {
+    "is_a": [
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MCC assembly",
+      "MCC formation",
+      "mitotic checkpoint complex formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000079"
+    ],
+    "PMID": [
+      "26882497"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form a mitotic checkpoint complex.",
+  "namespace": "biological_process",
+  "label": "mitotic checkpoint complex assembly"
+}

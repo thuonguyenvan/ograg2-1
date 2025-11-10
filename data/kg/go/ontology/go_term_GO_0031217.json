@@ -1,0 +1,45 @@
+{
+  "id": "GO:0031217",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031217",
+  "relationships": {
+    "is_a": [
+      "GO:0008422"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "exo-1,4-beta-glucanase activity",
+      "exo-1,4-beta-glucosidase activity",
+      "exo-beta-1,4-glucanase activity",
+      "exo-beta-1,4-glucosidase activity",
+      "exocellulase activity"
+    ],
+    "broad": [
+      "1,4-beta-D-glucan glucohydrolase activity",
+      "beta-1,4-beta-glucanase activity",
+      "beta-1,4-glucanase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "exo-1,4-beta-D-glucosidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.74",
+      "3.2.1.74",
+      "3.2.1.74",
+      "3.2.1.74",
+      "3.2.1.74"
+    ],
+    "MetaCyc": [
+      "3.2.1.74-RXN"
+    ],
+    "GOC": [
+      "mlg"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of (1-&gt;4) linkages in (1-&gt;4)-beta-D-glucans, to remove successive glucose units.",
+  "namespace": "molecular_function",
+  "label": "glucan 1,4-beta-glucosidase activity"
+}

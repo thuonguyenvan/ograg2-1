@@ -1,0 +1,32 @@
+{
+  "id": "GO:0019155",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019155",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(S)-3-(imidazol-5-yl)lactate:NAD(P)+ oxidoreductase activity",
+      "imidazol-5-yl lactate dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.111",
+      "1.1.1.111",
+      "1.1.1.111",
+      "1.1.1.111"
+    ],
+    "MetaCyc": [
+      "IMILACTDEHYDROG-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-3-(imidazol-5-yl)lactate + NADP+ = 3-(imidazol-5-yl)pyruvate + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "3-(imidazol-5-yl)lactate dehydrogenase activity"
+}

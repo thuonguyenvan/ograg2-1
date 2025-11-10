@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102816",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102816",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.298",
+      "2.4.1.298"
+    ],
+    "MetaCyc": [
+      "RXN-8234"
+    ],
+    "RHEA": [
+      "35423"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-alpha-D-glucose + delphinidin 3-O-glucosyl-5-O-caffeoylglucoside = H+ + delphinidin 3-O-glucosyl-5-O-(caffeoylglucoside-3&apos;-O-glucoside) + UDP.",
+  "namespace": "molecular_function",
+  "label": "UDP-D-glucose:delphinidin 3-O-glucosyl-5-O-caffeoylglucoside -O-beta-D-glucosyltransferase activity"
+}

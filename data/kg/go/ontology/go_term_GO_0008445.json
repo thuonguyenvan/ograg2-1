@@ -1,0 +1,37 @@
+{
+  "id": "GO:0008445",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008445",
+  "relationships": {
+    "is_a": [
+      "GO:0003884"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-aspartate:oxygen oxidoreductase (deaminating)",
+      "D-aspartic oxidase activity",
+      "aspartic oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.3.1",
+      "1.4.3.1",
+      "1.4.3.1",
+      "1.4.3.1"
+    ],
+    "RHEA": [
+      "12512",
+      "12512"
+    ],
+    "Reactome": [
+      "R-HSA-6810076"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-aspartate + H2O + O2 = H2O2 + NH4+ + oxaloacetate.",
+  "namespace": "molecular_function",
+  "label": "DDO oxidizes D-Asp to OA"
+}

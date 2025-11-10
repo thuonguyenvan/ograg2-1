@@ -1,0 +1,37 @@
+{
+  "id": "GO:0050622",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050622",
+  "relationships": {
+    "is_a": [
+      "GO:0016638"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "HCN synthase activity",
+      "glycine:acceptor oxidoreductase (hydrogen-cyanide-forming)",
+      "hydrogen cyanide synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.99.5",
+      "1.4.99.5",
+      "1.4.99.5",
+      "1.4.99.5"
+    ],
+    "MetaCyc": [
+      "1.4.99.5-RXN"
+    ],
+    "RHEA": [
+      "15821",
+      "15821"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glycine + 2 A = HCN + CO2 + 2 AH2.",
+  "namespace": "molecular_function",
+  "label": "glycine dehydrogenase (cyanide-forming) activity"
+}

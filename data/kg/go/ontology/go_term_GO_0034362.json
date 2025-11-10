@@ -1,0 +1,30 @@
+{
+  "id": "GO:0034362",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034362",
+  "relationships": {
+    "is_a": [
+      "GO:0034358"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LDL complex",
+      "LDL particle",
+      "low-density lipoprotein complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "expert_pt",
+      "mah",
+      "rl"
+    ]
+  },
+  "definition": "A lipoprotein particle, rich in cholesterol esters and low in triglycerides that is typically composed of APOB100 and APOE and has a density of 1.02-1.06 g/ml and a diameter of between 20-25 nm. LDL particles are formed from VLDL particles (via IDL) by the loss of triglyceride and gain of cholesterol ester. They transport endogenous cholesterol (and to some extent triglycerides) from peripheral tissues back to the liver.",
+  "namespace": "cellular_component",
+  "label": "low-density lipoprotein particle"
+}

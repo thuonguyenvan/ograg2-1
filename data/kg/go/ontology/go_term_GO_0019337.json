@@ -1,0 +1,39 @@
+{
+  "id": "GO:0019337",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019337",
+  "relationships": {
+    "is_a": [
+      "GO:0042205"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tetrachloroethene catabolic process",
+      "tetrachloroethene catabolism",
+      "tetrachloroethylene breakdown",
+      "tetrachloroethylene catabolism",
+      "tetrachloroethylene degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PCEDEG-PWY"
+    ],
+    "UM-BBD_pathwayID": [
+      "tce2"
+    ],
+    "GOC": [
+      "ai"
+    ],
+    "PMID": [
+      "7988892",
+      "8663199"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of tetrachloroethylene, a derivative of ethene with the hydrogen atoms replaced by chlorines.",
+  "namespace": "biological_process",
+  "label": "tetrachloroethylene catabolic process"
+}

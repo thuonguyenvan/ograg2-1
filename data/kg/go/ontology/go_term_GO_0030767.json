@@ -1,0 +1,39 @@
+{
+  "id": "GO:0030767",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030767",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-hydroxyanthranilate 4-methyltransferase activity",
+      "S-adenosyl-L-methionine:3-hydroxyanthranilate 4-C-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.97",
+      "2.1.1.97",
+      "2.1.1.97",
+      "2.1.1.97"
+    ],
+    "KEGG_REACTION": [
+      "R02667"
+    ],
+    "MetaCyc": [
+      "2.1.1.97-RXN"
+    ],
+    "RHEA": [
+      "17833",
+      "17833"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-hydroxyanthranilate + S-adenosyl-L-methionine = 3-hydroxy-4-methylanthranilate + S-adenosyl-L-homocysteine + H+.",
+  "namespace": "molecular_function",
+  "label": "3-hydroxyanthranilate 4-C-methyltransferase activity"
+}

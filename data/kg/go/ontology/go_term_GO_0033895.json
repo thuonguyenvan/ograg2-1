@@ -1,0 +1,31 @@
+{
+  "id": "GO:0033895",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033895",
+  "relationships": {
+    "is_a": [
+      "GO:0016891"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ribonuclease (uracil-specific) activity",
+      "uracil-specific RNase activity",
+      "uracil-specific endoribonuclease activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.26.9",
+      "3.1.26.9",
+      "3.1.26.9",
+      "3.1.26.9",
+      "3.1.26.9"
+    ]
+  },
+  "definition": "Catalysis of the endonucleolytic cleavage of poly(U) to fragments terminated by 3&apos;-hydroxy and 5&apos;-phosphate groups.",
+  "namespace": "molecular_function",
+  "label": "ribonuclease [poly-(U)-specific] activity"
+}

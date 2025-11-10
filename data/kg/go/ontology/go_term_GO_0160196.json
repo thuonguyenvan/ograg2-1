@@ -1,0 +1,35 @@
+{
+  "id": "GO:0160196",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160196",
+  "relationships": {
+    "is_a": [
+      "GO:0016628"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "polyprenol dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-24567"
+    ],
+    "RHEA": [
+      "80719",
+      "80719"
+    ],
+    "Reactome": [
+      "R-HSA-9937298"
+    ],
+    "PMID": [
+      "38821050"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a di-trans,poly-cis-polyprenol + NAD+ = a di-trans,poly-cis-polyprenal + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "DHRSX oxidizes polyprenol to polyprenal"
+}

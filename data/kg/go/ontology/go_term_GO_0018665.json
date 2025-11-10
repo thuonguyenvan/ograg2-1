@@ -1,0 +1,41 @@
+{
+  "id": "GO:0018665",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018665",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-hydroxyphenyl-acetate 1-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-HPA 1-hydroxylase activity",
+      "4-hydroxyphenylacetate 1-hydroxylase activity",
+      "4-hydroxyphenylacetate,NAD(P)H:oxygen oxidoreductase (1-hydroxylating)",
+      "4-hydroxyphenylacetic 1-hydroxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.18",
+      "1.14.13.18",
+      "1.14.13.18",
+      "1.14.13.18",
+      "1.14.13.18",
+      "1.14.13.18"
+    ],
+    "MetaCyc": [
+      "1.14.13.18-RXN"
+    ],
+    "UM-BBD_reactionID": [
+      "r0300"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-hydroxyphenylacetate + NADPH + H+ + O2 = homogentisate + NADP+ + H2O.",
+  "namespace": "molecular_function",
+  "label": "4-hydroxyphenylacetate 1-monooxygenase activity"
+}

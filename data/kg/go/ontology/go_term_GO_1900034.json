@@ -1,0 +1,31 @@
+{
+  "id": "GO:1900034",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900034",
+  "relationships": {
+    "is_a": [
+      "GO:0080135"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of cellular response to heat stress"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-3371453",
+      "R-HSA-3371571"
+    ],
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of cellular response to heat.",
+  "namespace": "biological_process",
+  "label": "HSF1-dependent transactivation"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0010130",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010130",
+  "relationships": {
+    "is_a": [
+      "GO:0018915"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "anaerobic ethylbenzene breakdown",
+      "anaerobic ethylbenzene catabolism",
+      "anaerobic ethylbenzene degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-481"
+    ],
+    "UM-BBD_pathwayID": [
+      "ethb"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of ethylbenzene, a benzene derivative with an ethyl group attached to the ring, which occurs in the absence of oxygen.",
+  "namespace": "biological_process",
+  "label": "anaerobic ethylbenzene catabolic process"
+}

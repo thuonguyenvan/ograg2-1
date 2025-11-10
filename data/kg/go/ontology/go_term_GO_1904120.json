@@ -1,0 +1,41 @@
+{
+  "id": "GO:1904120",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904120",
+  "relationships": {
+    "is_a": [
+      "GO:0110110",
+      "GO:1904118",
+      "GO:1905332"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of otic vesicle morphogenesis",
+      "up-regulation of otic vesicle morphogenesis",
+      "upregulation of otic vesicle morphogenesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of otic vesicle morphogenesis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25677106"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of otic vesicle morphogenesis.",
+  "namespace": "biological_process",
+  "label": "positive regulation of otic vesicle morphogenesis"
+}

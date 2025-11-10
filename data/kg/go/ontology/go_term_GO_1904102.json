@@ -1,0 +1,32 @@
+{
+  "id": "GO:1904102",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904102",
+  "relationships": {
+    "is_a": [
+      "GO:1901699",
+      "GO:1901701",
+      "GO:1904101"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mr"
+    ],
+    "GO_REF": [
+      "0000071"
+    ],
+    "PMID": [
+      "20802119"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an acadesine stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to acadesine"
+}

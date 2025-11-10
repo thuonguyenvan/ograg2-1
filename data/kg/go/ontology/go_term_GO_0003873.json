@@ -1,0 +1,50 @@
+{
+  "id": "GO:0003873",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003873",
+  "relationships": {
+    "is_a": [
+      "GO:0008443"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "6-phosphofructo-2-kinase (phosphorylating)",
+      "6-phosphofructose 2-kinase activity",
+      "ATP:D-fructose-6-phosphate 2-phosphotransferase activity",
+      "ATP:beta-D-fructose-6-phosphate 2-phosphotransferase activity",
+      "fructose 6-phosphate 2-kinase activity",
+      "phosphofructokinase 2 activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.105",
+      "2.7.1.105",
+      "2.7.1.105",
+      "2.7.1.105",
+      "2.7.1.105",
+      "2.7.1.105",
+      "2.7.1.105",
+      "2.7.1.105"
+    ],
+    "KEGG_REACTION": [
+      "R02732"
+    ],
+    "MetaCyc": [
+      "6-PHOSPHOFRUCTO-2-KINASE-RXN"
+    ],
+    "RHEA": [
+      "15653",
+      "15653"
+    ],
+    "Reactome": [
+      "R-HSA-71802"
+    ]
+  },
+  "definition": "Catalysis of the reaction: beta-D-fructose 6-phosphate + ATP = beta-D-fructose 2,6-bisphosphate + ADP + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "PFKFKB dimer phosphorylates Fru(6)P"
+}

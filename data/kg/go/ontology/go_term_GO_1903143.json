@@ -1,0 +1,34 @@
+{
+  "id": "GO:1903143",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903143",
+  "relationships": {
+    "is_a": [
+      "GO:0038037",
+      "GO:1903439"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "adrenomedullin receptor AM1 complex",
+      "adrenomedullin receptor AM2 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bhm"
+    ],
+    "GO_REF": [
+      "0000088"
+    ],
+    "PMID": [
+      "22102369"
+    ]
+  },
+  "definition": "A transmembrane, G protein-coupled signaling receptor complex which is capable of adrenomedullin receptor activity.",
+  "namespace": "cellular_component",
+  "label": "adrenomedullin receptor complex"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:1901327",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901327",
+  "relationships": {
+    "is_a": [
+      "GO:1901698",
+      "GO:1901700"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to FK506",
+      "response to tacrolimus hydrate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "CHEBI": [
+      "61057",
+      "61057"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a tacrolimus stimulus.",
+  "namespace": "biological_process",
+  "label": "response to tacrolimus"
+}

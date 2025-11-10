@@ -1,0 +1,29 @@
+{
+  "id": "GO:0015513",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015513",
+  "relationships": {
+    "is_a": [
+      "GO:0015112",
+      "GO:0015291"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nitrite uptake permease activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Catalysis of the transfer of nitrite from one side of the membrane to the other, up the solute&apos;s concentration gradient. The transporter binds the solute and undergoes a series of conformational changes. Transport works equally well in either direction and is driven by a chemiosmotic source of energy. In high affinity transport the transporter is able to bind the solute even if it is only present at very low concentrations.",
+  "namespace": "molecular_function",
+  "label": "high-affinity secondary active nitrite transmembrane transporter activity"
+}

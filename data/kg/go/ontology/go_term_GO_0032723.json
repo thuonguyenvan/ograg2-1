@@ -1,0 +1,38 @@
+{
+  "id": "GO:0032723",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032723",
+  "relationships": {
+    "is_a": [
+      "GO:0001819",
+      "GO:0032643"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of CCN2 production",
+      "positive regulation of CTGF production",
+      "positive regulation of Fisp12 production",
+      "positive regulation of Hcs24 production",
+      "positive regulation of IGFBP8 production",
+      "positive regulation of hypertrophic chondrocyte-specific gene product 24 production",
+      "up regulation of connective tissue growth factor production",
+      "up-regulation of connective tissue growth factor production",
+      "upregulation of connective tissue growth factor production"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of connective tissue growth factor production",
+      "positive regulation of connective tissue growth factor biosynthetic process",
+      "stimulation of connective tissue growth factor production"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of connective tissue growth factor production.",
+  "namespace": "biological_process",
+  "label": "positive regulation of connective tissue growth factor production"
+}

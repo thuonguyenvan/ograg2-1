@@ -1,0 +1,34 @@
+{
+  "id": "GO:0022007",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022007",
+  "relationships": {
+    "is_a": [
+      "GO:0060027",
+      "GO:0060029"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "13679871",
+      "15806586"
+    ]
+  },
+  "definition": "The process of directed cell movement in the neural plate resulting in tissue elongation via intercalation of adjacent cells in an epithelial sheet at the midline, leading to narrowing and lengthening of the neural plate.",
+  "namespace": "biological_process",
+  "label": "convergent extension involved in neural plate elongation"
+}

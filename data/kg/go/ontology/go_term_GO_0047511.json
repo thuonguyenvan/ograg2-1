@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047511",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047511",
+  "relationships": {
+    "is_a": [
+      "GO:0016289"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-methylmalonyl-coenzyme A hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.2.17",
+      "3.1.2.17",
+      "3.1.2.17"
+    ],
+    "KEGG_REACTION": [
+      "R02764"
+    ],
+    "MetaCyc": [
+      "S-METHYLMALONYL-COA-HYDROLASE-RXN"
+    ],
+    "RHEA": [
+      "17345",
+      "17345"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-methylmalonyl-CoA + H2O = CoA + H+ + methylmalonate.",
+  "namespace": "molecular_function",
+  "label": "(S)-methylmalonyl-CoA hydrolase activity"
+}

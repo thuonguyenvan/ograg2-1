@@ -1,0 +1,28 @@
+{
+  "id": "GO:0140709",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140709",
+  "relationships": {
+    "is_a": [
+      "GO:0035567"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Frizzled Nuclear Import Wnt Pathway"
+    ],
+    "broad": [
+      "FNI"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "22510459",
+      "22579286"
+    ]
+  },
+  "definition": "A type of non-canonical Wnt signaling in which Wnt binding to its receptor on the surface a the target cell results in internalization and cleavage of the frizzled receptor to yield a C-terminal fragment that is imported into the nucleus. The frizzled C-terminal fragment is incorporated into large ribonucleoprotein particles and stimulates their egress via nuclear budding.",
+  "namespace": "biological_process",
+  "label": "Frizzled Nuclear Import pathway"
+}

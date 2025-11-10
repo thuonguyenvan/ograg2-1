@@ -1,0 +1,29 @@
+{
+  "id": "GO:0001096",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001096",
+  "relationships": {
+    "is_a": [
+      "GO:0001091",
+      "GO:0044877"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TFIIF-class transcription factor binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "16858867"
+    ]
+  },
+  "definition": "Binding to a general RNA polymerase II transcription factor belonging to the TFIIF complex, one of the factors involved in formation of the preinitiation complex (PIC) by RNA polymerase II.",
+  "namespace": "molecular_function",
+  "label": "TFIIF-class transcription factor complex binding"
+}

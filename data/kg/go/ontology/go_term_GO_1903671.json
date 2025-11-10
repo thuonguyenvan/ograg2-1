@@ -1,0 +1,40 @@
+{
+  "id": "GO:1903671",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903671",
+  "relationships": {
+    "is_a": [
+      "GO:0016525",
+      "GO:1903670"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of sprouting angiogenesis",
+      "down-regulation of sprouting angiogenesis",
+      "downregulation of sprouting angiogenesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of sprouting angiogenesis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "16756958"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of sprouting angiogenesis.",
+  "namespace": "biological_process",
+  "label": "negative regulation of sprouting angiogenesis"
+}

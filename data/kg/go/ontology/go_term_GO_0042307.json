@@ -1,0 +1,36 @@
+{
+  "id": "GO:0042307",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042307",
+  "relationships": {
+    "is_a": [
+      "GO:0042306",
+      "GO:0046824",
+      "GO:0090316",
+      "GO:1900182"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of protein import into cell nucleus",
+      "positive regulation of protein transport from cytoplasm to nucleus",
+      "positive regulation of protein-nucleus import",
+      "up regulation of protein import into nucleus",
+      "up-regulation of protein import into nucleus",
+      "upregulation of protein import into nucleus"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein import into nucleus",
+      "stimulation of protein import into nucleus"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of movement of proteins from the cytoplasm into the nucleus.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein import into nucleus"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "GO:0000449",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000449",
+  "relationships": {
+    "is_a": [
+      "GO:0006364"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "Endonucleolytic cleavage of a pre-rRNA molecule originally produced as a tricistronic rRNA transcript that contains the Small Subunit (SSU) rRNA, the Large Subunit (LSU) rRNA, and the 5S rRNA, in that order, from 5&apos; to 3&apos; along the primary transcript. For example, primary ribosomal RNA transcripts containing three genes, in this order, are produced in E. coli and other prokaryotic species. Note that the use of the word tricistronic refers only to the number of mature rRNA molecules which will be produced from the primary transcript and ignores tRNAs that may also be present within the primary transcript.",
+  "namespace": "biological_process",
+  "label": "endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, LSU-rRNA, 5S)"
+}

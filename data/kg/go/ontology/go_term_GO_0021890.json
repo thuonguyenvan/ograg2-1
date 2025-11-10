@@ -1,0 +1,32 @@
+{
+  "id": "GO:0021890",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021890",
+  "relationships": {
+    "is_a": [
+      "GO:0048663"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "12626695"
+    ]
+  },
+  "definition": "The process in which the developmental fate of a neuroblast becomes restricted such that it will develop into an interneuron residing in the olfactory bulb.",
+  "namespace": "biological_process",
+  "label": "olfactory bulb interneuron fate commitment"
+}

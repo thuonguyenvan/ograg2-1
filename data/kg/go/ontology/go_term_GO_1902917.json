@@ -1,0 +1,53 @@
+{
+  "id": "GO:1902917",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902917",
+  "relationships": {
+    "is_a": [
+      "GO:0031383",
+      "GO:0051094",
+      "GO:0120034"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of mating projection assembly",
+      "up-regulation of mating projection assembly",
+      "upregulation of mating projection assembly"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of mating projection assembly"
+    ],
+    "related": [
+      "activation of mating projection biogenesis",
+      "positive regulation of mating projection biogenesis",
+      "up regulation of mating projection biogenesis",
+      "up-regulation of mating projection biogenesis",
+      "upregulation of mating projection biogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "di",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "12455985"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of mating projection assembly.",
+  "namespace": "biological_process",
+  "label": "positive regulation of mating projection assembly"
+}

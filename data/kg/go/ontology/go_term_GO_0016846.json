@@ -1,0 +1,31 @@
+{
+  "id": "GO:0016846",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016846",
+  "relationships": {
+    "is_a": [
+      "GO:0016829"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "carbon-sulphur lyase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.4.-.-",
+      "4.4.-.-"
+    ],
+    "Reactome": [
+      "R-HSA-1614567",
+      "R-HSA-1614591",
+      "R-HSA-1614614"
+    ]
+  },
+  "definition": "Catalysis of the elimination of hydrogen sulfide or substituted H2S.",
+  "namespace": "molecular_function",
+  "label": "Cysteine is degraded to pyruvate and H2S"
+}

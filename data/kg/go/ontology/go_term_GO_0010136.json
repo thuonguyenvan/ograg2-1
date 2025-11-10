@@ -1,0 +1,31 @@
+{
+  "id": "GO:0010136",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010136",
+  "relationships": {
+    "is_a": [
+      "GO:0009056",
+      "GO:0043603"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ureide breakdown",
+      "ureide catabolism",
+      "ureide degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "URDEGR-PWY"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of ureide, which is the organic form of nitrogen in nitrogen fixing and transporting plants with the release of ammonium.",
+  "namespace": "biological_process",
+  "label": "ureide catabolic process"
+}

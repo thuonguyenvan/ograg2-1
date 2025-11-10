@@ -1,0 +1,39 @@
+{
+  "id": "GO:0034349",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034349",
+  "relationships": {
+    "is_a": [
+      "GO:0006915"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "apoptosis of glia",
+      "apoptosis of glial cells",
+      "glia apoptosis",
+      "glia programmed cell death by apoptosis",
+      "glial cell programmed cell death by apoptosis",
+      "programmed cell death of glia by apoptosis",
+      "programmed cell death of glial cells by apoptosis",
+      "programmed cell death, glia",
+      "programmed cell death, glial cells"
+    ],
+    "broad": [],
+    "narrow": [
+      "glial cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000125"
+    ],
+    "GOC": [
+      "mtg_apoptosis",
+      "sart"
+    ]
+  },
+  "definition": "Any apoptotic process in a glial cell, a non-neuronal cell of the nervous system.",
+  "namespace": "biological_process",
+  "label": "glial cell apoptotic process"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0034432",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034432",
+  "relationships": {
+    "is_a": [
+      "GO:0016462"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "AP(5)A hydrolase activity",
+      "AP-5-A hydrolase activity",
+      "AP5A hydrolase activity",
+      "Ap5a pyrophosphohydrolase activity",
+      "diadenosine 5&apos;,5&apos;&apos;&apos;-P1,P6-pentaphosphate hydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "10085096",
+      "9450008"
+    ],
+    "GOC": [
+      "tb"
+    ]
+  },
+  "definition": "Catalysis of the reaction: P1-P6-bis(5&apos;-adenosyl) pentaphosphate + H2O = AMP + adenosine 5&apos;-tetraphosphate.",
+  "namespace": "molecular_function",
+  "label": "bis(5&apos;-adenosyl)-pentaphosphatase activity"
+}

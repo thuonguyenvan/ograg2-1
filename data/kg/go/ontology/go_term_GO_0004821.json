@@ -1,0 +1,43 @@
+{
+  "id": "GO:0004821",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004821",
+  "relationships": {
+    "is_a": [
+      "GO:0004812"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histidyl-tRNA synthetase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-histidine:tRNAHis ligase (AMP-forming)",
+      "histidine translase activity",
+      "histidyl-transfer ribonucleate synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.1.1.21",
+      "6.1.1.21",
+      "6.1.1.21",
+      "6.1.1.21",
+      "6.1.1.21"
+    ],
+    "MetaCyc": [
+      "HISTIDINE--TRNA-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "17313"
+    ],
+    "Reactome": [
+      "R-HSA-379844",
+      "R-HSA-380234"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + L-histidine + tRNA(His) = AMP + diphosphate + L-histidyl-tRNA(His).",
+  "namespace": "molecular_function",
+  "label": "histidine + tRNA(His) + ATP =&gt; His-tRNA(His) + AMP + pyrophosphate"
+}

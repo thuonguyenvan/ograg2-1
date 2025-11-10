@@ -1,0 +1,28 @@
+{
+  "id": "GO:0004941",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004941",
+  "relationships": {
+    "is_a": [
+      "GO:0004939"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "beta2 adrenoceptor"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "IUPHAR_GPCR": [
+      "1274"
+    ]
+  },
+  "definition": "Combining with epinephrine or norepinephrine to initiate a change in cell activity via activation of a G protein, with pharmacological characteristics of beta2-adrenergic receptors.",
+  "namespace": "molecular_function",
+  "label": "beta2-adrenergic receptor activity"
+}

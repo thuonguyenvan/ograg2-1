@@ -1,0 +1,36 @@
+{
+  "id": "GO:0097351",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097351",
+  "relationships": {
+    "is_a": [
+      "GO:0140313"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "toxin-antitoxin pair type I binding",
+      "toxin-antitoxin pair type II binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rs"
+    ],
+    "PMID": [
+      "19143615",
+      "19325885",
+      "21819231",
+      "22545240",
+      "24806488"
+    ],
+    "Wikipedia": [
+      "Toxin-antitoxin_system#Type_II"
+    ]
+  },
+  "definition": "Binding to a toxin to prevent it from interacting with other partners or to inhibit its localization to the area of the cell or complex where it is active.",
+  "namespace": "molecular_function",
+  "label": "toxin sequestering activity"
+}

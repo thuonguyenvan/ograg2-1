@@ -1,0 +1,40 @@
+{
+  "id": "GO:0030796",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030796",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "sterol C-methyltransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:cycloartenol 24-C-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.142",
+      "2.1.1.142",
+      "2.1.1.142",
+      "2.1.1.142"
+    ],
+    "KEGG_REACTION": [
+      "R05760"
+    ],
+    "MetaCyc": [
+      "2.1.1.142-RXN"
+    ],
+    "RHEA": [
+      "13137",
+      "13137"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + cycloartenol = (24R)-24-methylcycloart-25-en-3beta-ol + S-adenosyl-L-homocysteine + H+.",
+  "namespace": "molecular_function",
+  "label": "cycloartenol 24-C-methyltransferase activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0160021",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160021",
+  "relationships": {
+    "is_a": [
+      "GO:0010468"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "MZT"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9816359"
+    ],
+    "PMID": [
+      "19204068",
+      "32558204"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of gene expression by which developmental control passes from the maternal genome to the zygotic genome.",
+  "namespace": "biological_process",
+  "label": "Maternal to zygotic transition (MZT)"
+}

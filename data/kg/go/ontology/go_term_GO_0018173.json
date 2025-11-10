@@ -1,0 +1,32 @@
+{
+  "id": "GO:0018173",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018173",
+  "relationships": {
+    "is_a": [
+      "GO:0018201",
+      "GO:0042398"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptidyl-1-thioglycine anabolism from peptidyl-glycine",
+      "peptidyl-1-thioglycine formation from peptidyl-glycine",
+      "peptidyl-1-thioglycine synthesis from peptidyl-glycine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RESID": [
+      "AA0265",
+      "AA0265"
+    ],
+    "PMID": [
+      "10660523"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of peptidyl-1-thioglycine from other compounds, including peptidyl-glycine.",
+  "namespace": "biological_process",
+  "label": "peptidyl-1-thioglycine biosynthetic process from peptidyl-glycine"
+}

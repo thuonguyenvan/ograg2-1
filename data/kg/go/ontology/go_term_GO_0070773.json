@@ -1,0 +1,34 @@
+{
+  "id": "GO:0070773",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070773",
+  "relationships": {
+    "is_a": [
+      "GO:0016811",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NtQ-amidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.122"
+    ],
+    "RHEA": [
+      "50680",
+      "50680"
+    ],
+    "PMID": [
+      "19560421",
+      "19560421"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-terminal L-glutaminyl-[protein] + H2O = N-terminal L-glutamyl-[protein] + NH3. This reaction is the deamidation of an N-terminal glutamine residue of a protein.",
+  "namespace": "molecular_function",
+  "label": "protein-N-terminal glutamine amidohydrolase activity"
+}

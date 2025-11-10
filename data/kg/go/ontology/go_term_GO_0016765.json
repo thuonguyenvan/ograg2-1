@@ -1,0 +1,32 @@
+{
+  "id": "GO:0016765",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016765",
+  "relationships": {
+    "is_a": [
+      "GO:0016740"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transferase activity, transferring alkyl or aryl groups, other than methyl groups"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.-",
+      "2.5.1.-"
+    ],
+    "Reactome": [
+      "R-HSA-3095889",
+      "R-HSA-4419978",
+      "R-HSA-4755545",
+      "R-HSA-6782893"
+    ]
+  },
+  "definition": "Catalysis of the transfer of an alkyl or aryl (but not methyl) group from one compound (donor) to another (acceptor).",
+  "namespace": "molecular_function",
+  "label": "TRMT12 transforms yW-187 yielding yW-86 at nucleotide 37 of tRNA(Phe)"
+}

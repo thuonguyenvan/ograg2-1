@@ -1,0 +1,34 @@
+{
+  "id": "GO:0005868",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005868",
+  "relationships": {
+    "is_a": [
+      "GO:0030286"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "cytoplasmic dynein heavy chain",
+      "cytoplasmic dynein intermediate chain",
+      "cytoplasmic dynein intermediate light chain",
+      "cytoplasmic dynein light chain"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "hla",
+      "krc",
+      "mah"
+    ],
+    "PMID": [
+      "12600311"
+    ]
+  },
+  "definition": "Any dynein complex with a homodimeric dynein heavy chain core that catalyzes movement along a microtubule. Cytoplasmic dynein complexes participate in many cytoplasmic transport activities in eukaryotes, such as mRNA localization, intermediate filament transport, nuclear envelope breakdown, apoptosis, transport of centrosomal proteins, mitotic spindle assembly, virus transport, kinetochore functions, and movement of signaling and spindle checkpoint proteins. Some complexes participate in intraflagellar transport. Subunits associated with the dynein heavy chain mediate association between dynein heavy chain and cargoes, and may include light chains and light intermediate chains.",
+  "namespace": "cellular_component",
+  "label": "cytoplasmic dynein complex"
+}

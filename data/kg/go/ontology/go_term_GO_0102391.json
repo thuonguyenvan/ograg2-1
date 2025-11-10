@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102391",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102391",
+  "relationships": {
+    "is_a": [
+      "GO:0031956"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-13614"
+    ],
+    "RHEA": [
+      "33627",
+      "33627"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + decanoate + CoA = AMP + diphosphate + decanoyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "decanoate-CoA ligase activity"
+}

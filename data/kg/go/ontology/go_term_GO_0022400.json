@@ -1,0 +1,32 @@
+{
+  "id": "GO:0022400",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022400",
+  "relationships": {
+    "is_a": [
+      "GO:0008277",
+      "GO:0032101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of rhodopsin mediated signaling pathway",
+      "regulation of rhodopsin mediated signalling"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of rhodopsin-mediated signaling pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2514859"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of opsin-mediated signaling.",
+  "namespace": "biological_process",
+  "label": "Inactivation, recovery and regulation of the phototransduction cascade"
+}

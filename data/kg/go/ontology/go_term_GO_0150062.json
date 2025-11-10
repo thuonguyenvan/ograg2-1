@@ -1,0 +1,36 @@
+{
+  "id": "GO:0150062",
+  "uri": "http://purl.obolibrary.org/obo/GO_0150062",
+  "relationships": {
+    "is_a": [
+      "GO:0098883"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "complement-dependent synapse pruning"
+    ],
+    "broad": [
+      "synapse clearance",
+      "synapse disassembly",
+      "synapse elimination",
+      "synapse removal"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "aruk",
+      "bc"
+    ],
+    "PMID": [
+      "18083105",
+      "22632727",
+      "29844190"
+    ]
+  },
+  "definition": "Synaptic pruning mediated by complement system signaling.",
+  "namespace": "biological_process",
+  "label": "complement-mediated synapse pruning"
+}

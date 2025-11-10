@@ -1,0 +1,39 @@
+{
+  "id": "GO:1990907",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990907",
+  "relationships": {
+    "is_a": [
+      "GO:0090575"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "beta-catenin/LEF complex"
+    ],
+    "related": [
+      "beta-catenin/T-cell factor complex",
+      "beta-catenin/lymphoid enhancer binding factor complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "11751639",
+      "16936075",
+      "20123964",
+      "21075118",
+      "9419974",
+      "8757136",
+      "8757136"
+    ]
+  },
+  "definition": "A protein complex that contains beta-catenin and a member of the T-cell factor (TCF)/lymphoid enhancer binding factor (LEF) family of transcription factors.",
+  "namespace": "cellular_component",
+  "label": "beta-catenin-TCF complex"
+}

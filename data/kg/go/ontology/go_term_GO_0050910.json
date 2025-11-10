@@ -1,0 +1,33 @@
+{
+  "id": "GO:0050910",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050910",
+  "relationships": {
+    "is_a": [
+      "GO:0050877",
+      "GO:0050974"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "detection of sound",
+      "hearing, sensory transduction of sound",
+      "perception of sound, detection of mechanical stimulus",
+      "perception of sound, sensory detection of mechanical stimulus",
+      "perception of sound, sensory transduction of mechanical stimulus",
+      "sensory detection of mechanical stimulus during perception of sound",
+      "sensory transduction of mechanical stimulus during perception of sound",
+      "sensory transduction of sound"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The series of events involved in the perception of sound vibration in which the vibration is received and converted into a molecular signal.",
+  "namespace": "biological_process",
+  "label": "detection of mechanical stimulus involved in sensory perception of sound"
+}

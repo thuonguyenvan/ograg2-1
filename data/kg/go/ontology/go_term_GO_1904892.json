@@ -1,0 +1,37 @@
+{
+  "id": "GO:1904892",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904892",
+  "relationships": {
+    "is_a": [
+      "GO:0009966"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of STAT signalling pathway",
+      "regulation of kinase activated-STAT cascade",
+      "regulation of kinase-STAT cascade"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "rjd",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24587195"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of receptor signaling via STAT.",
+  "namespace": "biological_process",
+  "label": "regulation of receptor signaling pathway via STAT"
+}

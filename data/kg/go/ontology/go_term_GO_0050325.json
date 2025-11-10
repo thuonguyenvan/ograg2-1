@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050325",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050325",
+  "relationships": {
+    "is_a": [
+      "GO:0016646"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-N-(D-1-carboxyethyl)taurine:NAD+ oxidoreductase (taurine-forming)",
+      "N2-(D-1-carboxyethyl)taurine:NAD+ oxidoreductase (taurine-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.23",
+      "1.5.1.23",
+      "1.5.1.23",
+      "1.5.1.23"
+    ],
+    "KEGG_REACTION": [
+      "R01683"
+    ],
+    "MetaCyc": [
+      "TAUROPINE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "12580",
+      "12580"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + NAD+ + tauropine = H+ + NADH + pyruvate + taurine.",
+  "namespace": "molecular_function",
+  "label": "tauropine dehydrogenase activity"
+}

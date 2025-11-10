@@ -1,0 +1,36 @@
+{
+  "id": "GO:0042759",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042759",
+  "relationships": {
+    "is_a": [
+      "GO:0001676",
+      "GO:0006633"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "long-chain fatty acid anabolism",
+      "long-chain fatty acid biosynthesis",
+      "long-chain fatty acid formation",
+      "long-chain fatty acid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9018677",
+      "R-HSA-9018679",
+      "R-HSA-9018683",
+      "R-HSA-9026403",
+      "R-HSA-9027604"
+    ],
+    "PMID": [
+      "18390550"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of a long-chain fatty acid. A long-chain fatty acid has an aliphatic tail containing 13 to 22 carbons.",
+  "namespace": "biological_process",
+  "label": "Biosynthesis of electrophilic -3 PUFA oxo-derivatives"
+}

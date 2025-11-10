@@ -1,0 +1,34 @@
+{
+  "id": "GO:1905092",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905092",
+  "relationships": {
+    "is_a": [
+      "GO:0036314",
+      "GO:0097305",
+      "GO:1905836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "TermGenie",
+      "bc"
+    ],
+    "GO_REF": [
+      "0000071"
+    ],
+    "PMID": [
+      "25765596"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a diosgenin stimulus.",
+  "namespace": "biological_process",
+  "label": "response to diosgenin"
+}

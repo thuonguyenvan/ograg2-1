@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033890",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033890",
+  "relationships": {
+    "is_a": [
+      "GO:0016896"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RNase D activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.13.5",
+      "3.1.13.5",
+      "3.1.13.5"
+    ],
+    "MetaCyc": [
+      "3.1.13.5-RXN"
+    ]
+  },
+  "definition": "Catalysis of the exonucleolytic cleavage that removes extra residues from the 3&apos;-terminus of tRNA to produce 5&apos;-mononucleotides.",
+  "namespace": "molecular_function",
+  "label": "ribonuclease D activity"
+}

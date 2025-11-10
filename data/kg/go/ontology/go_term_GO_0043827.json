@@ -1,0 +1,38 @@
+{
+  "id": "GO:0043827",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043827",
+  "relationships": {
+    "is_a": [
+      "GO:0016426"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA (adenine(57)-N(1))/(adenine(58)-N(1))-methyltransferase activity",
+      "tRNA (adenine(57)-N1-)/(adenine(58)-N1-)-methyltransferase activity",
+      "tRNA (adenine(57)-N1-/adenine(58)-N1-)-methyltransferase activity",
+      "tRNA (adenine-57, 58 N1-) methyltransferase activity",
+      "tRNA (adenine-57, 58-N(1)-) methyltransferase activity",
+      "tRNA (adenine-57, 58-N1-) methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.219"
+    ],
+    "RHEA": [
+      "41740",
+      "41740"
+    ],
+    "PMID": [
+      "14739239",
+      "20483913"
+    ]
+  },
+  "definition": "Catalysis of the reaction: adenosine57/adenosine58 in tRNA + 2 S-adenosyl-L-methionine = 2 H+ + N1-methyladenosine57/N1-methyladenosine58 in tRNA + 2 S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "tRNA (adenine(57)-N1)/(adenine(58)-N1)-methyltransferase activity"
+}

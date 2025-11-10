@@ -1,0 +1,34 @@
+{
+  "id": "GO:0070930",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070930",
+  "relationships": {
+    "is_a": [
+      "GO:0072344"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "co-translational protein tagging",
+      "cotranslational protein tagging",
+      "protein modification by trans-translation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11395451",
+      "35264790"
+    ],
+    "GOC": [
+      "jh2",
+      "jsg",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A protein modification process in which a polypeptide is added to a nascent polypeptide cotranslationally by trans-translation.",
+  "namespace": "biological_process",
+  "label": "trans-translation-dependent protein tagging"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0002769",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002769",
+  "relationships": {
+    "is_a": [
+      "GO:0002767"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NK cell inhibitory signaling pathway",
+      "natural killer cell inhibitory signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibitory KIR signaling pathway",
+      "killer cell inhibitory receptor signaling pathway"
+    ],
+    "related": [
+      "Ly49 inhibitory receptor signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "15771571"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by an extracellular ligand binding to a receptor on the surface of a natural killer cell capable of inhibiting an immune effector process contributing to an immune response.",
+  "namespace": "biological_process",
+  "label": "natural killer cell inhibitory signaling pathway"
+}

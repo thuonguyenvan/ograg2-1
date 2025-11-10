@@ -1,0 +1,51 @@
+{
+  "id": "GO:0005921",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005921",
+  "relationships": {
+    "is_a": [
+      "GO:0005911"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "communicating junction",
+      "gap junction macula",
+      "gap junction plaque",
+      "macula communicans",
+      "zonula communicans"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "electrical synapse",
+      "electrotonic synapse",
+      "intercellular gap junction channel"
+    ]
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao118541872",
+      "sao700839054",
+      "sao700839054",
+      "sao1311109124"
+    ],
+    "Wikipedia": [
+      "Gap_junction",
+      "Gap_junction",
+      "Gap_junction"
+    ],
+    "GOC": [
+      "mah",
+      "mtg_muscle"
+    ],
+    "ISBN": [
+      "0815332181"
+    ],
+    "PMID": [
+      "22366062"
+    ]
+  },
+  "definition": "A cell-cell junction composed of pannexins or innexins and connexins, two different families of channel-forming proteins.",
+  "namespace": "cellular_component",
+  "label": "gap junction"
+}

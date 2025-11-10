@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006787",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006787",
+  "relationships": {
+    "is_a": [
+      "GO:0006778",
+      "GO:0033015"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "porphyrin breakdown",
+      "porphyrin catabolic process",
+      "porphyrin catabolism",
+      "porphyrin degradation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of any member of a large group of derivatives or analogs of porphyrin. Porphyrin consists of a ring of four pyrrole nuclei linked each to the next at their alpha positions through a methine group.",
+  "namespace": "biological_process",
+  "label": "porphyrin-containing compound catabolic process"
+}

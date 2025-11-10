@@ -1,0 +1,28 @@
+{
+  "id": "GO:0015904",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015904",
+  "relationships": {
+    "is_a": [
+      "GO:0015711",
+      "GO:0015850",
+      "GO:0055085"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "tetracyclin transport",
+      "tetracycline transport"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "The directed movement of tetracycline from one side of a membrane to the other. Tetracycline is a broad spectrum antibiotic that blocks binding of aminoacyl tRNA to the ribosomes of both Gram-positive and Gram-negative organisms (and those of organelles).",
+  "namespace": "biological_process",
+  "label": "tetracycline transmembrane transport"
+}

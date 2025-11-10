@@ -1,0 +1,51 @@
+{
+  "id": "GO:0004692",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004692",
+  "relationships": {
+    "is_a": [
+      "GO:0004690"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3&apos;:5&apos;-cyclic GMP-dependent protein kinase activity",
+      "ATP:protein phosphotransferase (cGMP-dependent) activity",
+      "PKG",
+      "PKG 1alpha",
+      "PKG 1beta",
+      "PKG II",
+      "STK23",
+      "cGMP-dependent protein kinase ibeta activity",
+      "guanosine 3&apos;:5&apos;-cyclic monophosphate-dependent protein kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.11.12",
+      "2.7.11.12",
+      "2.7.11.12",
+      "2.7.11.12",
+      "2.7.11.12",
+      "2.7.11.12",
+      "2.7.11.12",
+      "2.7.11.12",
+      "2.7.11.12",
+      "2.7.11.12"
+    ],
+    "Reactome": [
+      "R-HSA-1475422",
+      "R-HSA-1497853",
+      "R-HSA-418442",
+      "R-HSA-418549"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "cGMP dependent catalysis of the reaction: ATP + a protein = ADP + a phosphoprotein.",
+  "namespace": "molecular_function",
+  "label": "PKG1 phosphorylates BK channels"
+}

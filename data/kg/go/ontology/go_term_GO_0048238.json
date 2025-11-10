@@ -1,0 +1,29 @@
+{
+  "id": "GO:0048238",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048238",
+  "relationships": {
+    "is_a": [
+      "GO:0005788"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SER lumen",
+      "smooth ER lumen"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao927884761"
+    ],
+    "GOC": [
+      "jid"
+    ]
+  },
+  "definition": "The volume enclosed by the membranes of the smooth endoplasmic reticulum.",
+  "namespace": "cellular_component",
+  "label": "smooth endoplasmic reticulum lumen"
+}

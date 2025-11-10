@@ -1,0 +1,26 @@
+{
+  "id": "GO:0015494",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015494",
+  "relationships": {
+    "is_a": [
+      "GO:0015173",
+      "GO:0015295"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "aromatic amino acid:hydrogen symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.3.1.3"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: aromatic amino acid(out) + H+(out) = aromatic amino acid(in) + H+(in).",
+  "namespace": "molecular_function",
+  "label": "aromatic amino acid:proton symporter activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0051253",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051253",
+  "relationships": {
+    "is_a": [
+      "GO:0010605",
+      "GO:0045934",
+      "GO:0051252"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of RNA metabolic process",
+      "down-regulation of RNA metabolic process",
+      "downregulation of RNA metabolic process",
+      "negative regulation of RNA metabolism"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of RNA metabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the chemical reactions and pathways involving RNA.",
+  "namespace": "biological_process",
+  "label": "negative regulation of RNA metabolic process"
+}

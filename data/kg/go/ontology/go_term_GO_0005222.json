@@ -1,0 +1,37 @@
+{
+  "id": "GO:0005222",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005222",
+  "relationships": {
+    "is_a": [
+      "GO:0005221"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "intracellular 3&apos;,5&apos; cAMP activated cation channel activity",
+      "intracellular 3&apos;,5&apos;-cAMP activated cation channel activity",
+      "intracellular adenosine 3&apos;,5&apos;-cyclophosphate activated cation channel activity",
+      "intracellular cAMP activated cation channel activity",
+      "intracellular cAMP-activated cation channel activity",
+      "intracellular cyclic AMP activated cation channel activity"
+    ],
+    "broad": [
+      "HCN channel activity",
+      "hyperpolarization-activated cyclic nucleotide-gated channel activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport",
+      "BHF",
+      "mtg_cardiac_conduct_nov11",
+      "BHF",
+      "mtg_cardiac_conduct_nov11"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of a cation by a channel that opens when intracellular cAMP has been bound by the channel complex or one of its constituent parts.",
+  "namespace": "molecular_function",
+  "label": "intracellularly cAMP-activated cation channel activity"
+}

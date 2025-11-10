@@ -1,0 +1,28 @@
+{
+  "id": "GO:0072334",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072334",
+  "relationships": {
+    "is_a": [
+      "GO:0015711",
+      "GO:0090481"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-galactose membrane transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-galactose transport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The process in which UDP-galactose is transported across a membrane.",
+  "namespace": "biological_process",
+  "label": "UDP-galactose transmembrane transport"
+}

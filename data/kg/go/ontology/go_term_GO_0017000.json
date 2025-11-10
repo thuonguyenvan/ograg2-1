@@ -1,0 +1,29 @@
+{
+  "id": "GO:0017000",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017000",
+  "relationships": {
+    "is_a": [
+      "GO:0009058",
+      "GO:0016999"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "antibiotic anabolism",
+      "antibiotic biosynthesis",
+      "antibiotic formation",
+      "antibiotic synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of an antibiotic, a substance produced by or derived from certain fungi, bacteria, and other organisms, that can destroy or inhibit the growth of other microorganisms.",
+  "namespace": "biological_process",
+  "label": "antibiotic biosynthetic process"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0001767",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001767",
+  "relationships": {
+    "is_a": [
+      "GO:0030010"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lymphocyte polarization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mgi_curators"
+    ],
+    "PMID": [
+      "11244041",
+      "12615889"
+    ]
+  },
+  "definition": "The directed orientation of lymphocyte signaling molecules and associated membrane rafts towards a chemokine gradient or a contact point with an appropriate activating cell.",
+  "namespace": "biological_process",
+  "label": "establishment of lymphocyte polarity"
+}

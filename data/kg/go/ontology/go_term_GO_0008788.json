@@ -1,0 +1,37 @@
+{
+  "id": "GO:0008788",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008788",
+  "relationships": {
+    "is_a": [
+      "GO:0015927"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alpha,alpha-trehalose-6-phosphate phosphoglucohydrolase activity",
+      "phosphotrehalase activity",
+      "trehalose-6-phosphate hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.93",
+      "3.2.1.93",
+      "3.2.1.93",
+      "3.2.1.93",
+      "3.2.1.93"
+    ],
+    "MetaCyc": [
+      "TRE6PHYDRO-RXN"
+    ],
+    "RHEA": [
+      "23008"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha,alpha-trehalose 6-phosphate + H2O = D-glucose + D-glucose 6-phosphate.",
+  "namespace": "molecular_function",
+  "label": "alpha,alpha-phosphotrehalase activity"
+}

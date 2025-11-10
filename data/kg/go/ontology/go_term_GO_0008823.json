@@ -1,0 +1,30 @@
+{
+  "id": "GO:0008823",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008823",
+  "relationships": {
+    "is_a": [
+      "GO:0016723"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "R170-RXN"
+    ],
+    "RHEA": [
+      "66848",
+      "66848"
+    ],
+    "PMID": [
+      "10510271"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 Cu2+ + NADH = 2 Cu+ + H+ + NAD+.",
+  "namespace": "molecular_function",
+  "label": "cupric reductase (NADH) activity"
+}

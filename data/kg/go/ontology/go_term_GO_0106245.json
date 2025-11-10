@@ -1,0 +1,31 @@
+{
+  "id": "GO:0106245",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106245",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.29"
+    ],
+    "RHEA": [
+      "27606",
+      "27606"
+    ],
+    "PMID": [
+      "19014349",
+      "31869331"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-1-phosphatidylethanolamine + L-serine = L-1-phosphatidylserine + ethanolamine.",
+  "namespace": "molecular_function",
+  "label": "L-serine-phosphatidylethanolamine phosphatidyltransferase activity"
+}

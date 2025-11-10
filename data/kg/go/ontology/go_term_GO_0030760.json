@@ -1,0 +1,42 @@
+{
+  "id": "GO:0030760",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030760",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:pyridine N-methyltransferase activity",
+      "pyridine methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.87",
+      "2.1.1.87",
+      "2.1.1.87",
+      "2.1.1.87"
+    ],
+    "KEGG_REACTION": [
+      "R02862"
+    ],
+    "MetaCyc": [
+      "PYRIDINE-N-METHYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "16893",
+      "16893"
+    ],
+    "Reactome": [
+      "R-HSA-175987"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine(1+) + pyridine = N-methylpyridinium + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "NNMT transfers CH3 from AdoMet to PY"
+}

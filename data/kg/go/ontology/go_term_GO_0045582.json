@@ -1,0 +1,38 @@
+{
+  "id": "GO:0045582",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045582",
+  "relationships": {
+    "is_a": [
+      "GO:0045580",
+      "GO:0045621",
+      "GO:0050870"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of T lymphocyte differentiation",
+      "positive regulation of T-cell differentiation",
+      "positive regulation of T-lymphocyte differentiation",
+      "up regulation of T cell differentiation",
+      "up-regulation of T cell differentiation",
+      "upregulation of T cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of T cell differentiation",
+      "stimulation of T cell differentiation"
+    ],
+    "related": [
+      "positive regulation of T cell development"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of T cell differentiation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of T cell differentiation"
+}

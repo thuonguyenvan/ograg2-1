@@ -1,0 +1,31 @@
+{
+  "id": "GO:0019211",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019211",
+  "relationships": {
+    "is_a": [
+      "GO:0008047",
+      "GO:0019208"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6809238",
+      "R-HSA-6809254",
+      "R-HSA-6809309",
+      "R-HSA-6809680",
+      "R-HSA-6809793"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binds to and increases the activity of a phosphatase.",
+  "namespace": "molecular_function",
+  "label": "MTMR2 binds SBF2"
+}

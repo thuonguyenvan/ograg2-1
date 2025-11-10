@@ -1,0 +1,37 @@
+{
+  "id": "GO:0009277",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009277",
+  "relationships": {
+    "is_a": [
+      "GO:0005618"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "chitin- and beta-glucan-containing cell wall"
+    ],
+    "related": [
+      "beta-glucan-containing cell wall",
+      "chitin-containing cell wall"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mcc",
+      "mtg_sensu"
+    ],
+    "ISBN": [
+      "3540601864"
+    ],
+    "PMID": [
+      "11283274",
+      "16927300",
+      "3319422"
+    ]
+  },
+  "definition": "A rigid yet dynamic structure surrounding the plasma membrane that affords protection from stresses and contributes to cell morphogenesis, consisting of extensively cross-linked glycoproteins and carbohydrates. The glycoproteins may be modified with N- or O-linked carbohydrates, or glycosylphosphatidylinositol (GPI) anchors; the polysaccharides are primarily branched glucans, including beta-linked and alpha-linked glucans, and may also include chitin and other carbohydrate polymers, but not cellulose or pectin. Enzymes involved in cell wall biosynthesis are also found in the cell wall. Note that some forms of fungi develop a capsule outside of the cell wall under certain circumstances; this is considered a separate structure.",
+  "namespace": "cellular_component",
+  "label": "fungal-type cell wall"
+}

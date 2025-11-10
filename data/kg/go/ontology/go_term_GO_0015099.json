@@ -1,0 +1,28 @@
+{
+  "id": "GO:0015099",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015099",
+  "relationships": {
+    "is_a": [
+      "GO:0046915"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "zinc, cadmium, cobalt, nickel, lead-efflux ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TRANS-RXN-141B"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of nickel (Ni) cations from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "nickel cation transmembrane transporter activity"
+}

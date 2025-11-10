@@ -1,0 +1,37 @@
+{
+  "id": "GO:0033772",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033772",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "F3&apos;,5&apos;H",
+      "F3&apos;5&apos;H",
+      "flavanone,NADPH:oxygen oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.81",
+      "1.14.14.81",
+      "1.14.14.81",
+      "1.14.14.81"
+    ],
+    "MetaCyc": [
+      "RXN-13192"
+    ],
+    "RHEA": [
+      "55448",
+      "55448"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 3&apos;,5&apos;-unsubstituted flavanone + 2 O2 + 2 reduced [NADPH--hemoprotein reductase] = a 3&apos;,5&apos;-dihydroxyflavanone + 2 H+ + 2 H2O + 2 oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "flavonoid 3&apos;,5&apos;-hydroxylase activity"
+}

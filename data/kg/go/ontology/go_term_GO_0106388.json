@@ -1,0 +1,33 @@
+{
+  "id": "GO:0106388",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106388",
+  "relationships": {
+    "is_a": [
+      "GO:0016765",
+      "GO:0140102"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "18S rRNA aminocarboxypropyltransferase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.157"
+    ],
+    "RHEA": [
+      "63296",
+      "63296"
+    ],
+    "PMID": [
+      "27084949"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N1-methylpseudouridine in small subunit rRNA + S-adenosyl-L-methionine = H+ + N1-methyl-N3-[(3S)-3-amino-3-carboxypropyl]pseudouridine in small subunit rRNA + S-methyl-5&apos;-thioadenosine.",
+  "namespace": "molecular_function",
+  "label": "rRNA small subunit aminocarboxypropyltransferase activity"
+}

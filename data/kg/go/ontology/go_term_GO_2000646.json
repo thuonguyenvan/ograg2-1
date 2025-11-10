@@ -1,0 +1,32 @@
+{
+  "id": "GO:2000646",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000646",
+  "relationships": {
+    "is_a": [
+      "GO:0009896",
+      "GO:0010604",
+      "GO:2000644"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of receptor breakdown",
+      "positive regulation of receptor catabolism",
+      "positive regulation of receptor degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of receptor catabolic process.",
+  "namespace": "biological_process",
+  "label": "positive regulation of receptor catabolic process"
+}

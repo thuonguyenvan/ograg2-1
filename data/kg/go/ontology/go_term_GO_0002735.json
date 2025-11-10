@@ -1,0 +1,33 @@
+{
+  "id": "GO:0002735",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002735",
+  "relationships": {
+    "is_a": [
+      "GO:0002732",
+      "GO:0002733",
+      "GO:0002888",
+      "GO:0061081"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of myeloid dendritic cell cytokine production",
+      "up-regulation of myeloid dendritic cell cytokine production",
+      "upregulation of myeloid dendritic cell cytokine production"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of myeloid dendritic cell cytokine production",
+      "stimulation of myeloid dendritic cell cytokine production"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of myeloid dendritic cell cytokine production.",
+  "namespace": "biological_process",
+  "label": "positive regulation of myeloid dendritic cell cytokine production"
+}

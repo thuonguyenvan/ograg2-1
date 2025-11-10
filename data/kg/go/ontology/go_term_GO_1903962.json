@@ -1,0 +1,33 @@
+{
+  "id": "GO:1903962",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903962",
+  "relationships": {
+    "is_a": [
+      "GO:0005324"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "arachidonate transporter activity",
+      "arachidonic acid transporter activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bhm"
+    ],
+    "GO_REF": [
+      "0000066"
+    ],
+    "PMID": [
+      "15642721"
+    ]
+  },
+  "definition": "Enables the transfer of arachidonate from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "arachidonate transmembrane transporter activity"
+}

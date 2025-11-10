@@ -1,0 +1,34 @@
+{
+  "id": "GO:0140953",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140953",
+  "relationships": {
+    "is_a": [
+      "GO:0046976"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H3-K27 monomethylase activity",
+      "histone H3K27 monomethylase activity",
+      "histone lysine N-monomethyltransferase activity (H3-K27 specific)"
+    ],
+    "broad": [
+      "histone H3-K27 methylation",
+      "histone H3K27 methylation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.369"
+    ],
+    "RHEA": [
+      "60296",
+      "60296"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-lysyl27-[histone H3] + S-adenosyl-L-methionine = H+ + N6-methyl-L-lysyl27-[histone H3] + S-adenosyl-L-homocysteine. This reaction is the addition of a single methyl group to the unmethylated lysine residue at position 27 of histone H3, producing histone H3K27me.",
+  "namespace": "molecular_function",
+  "label": "histone H3K27 monomethyltransferase activity"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0047847",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047847",
+  "relationships": {
+    "is_a": [
+      "GO:0016154"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "URA-PHOSPH-RXN"
+    ],
+    "RHEA": [
+      "22824",
+      "22824"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2&apos;-deoxyuridine + phosphate = 2-deoxy-alpha-D-ribose 1-phosphate + uracil.",
+  "namespace": "molecular_function",
+  "label": "deoxyuridine phosphorylase activity"
+}

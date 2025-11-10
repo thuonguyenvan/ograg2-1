@@ -1,0 +1,30 @@
+{
+  "id": "GO:0071614",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071614",
+  "relationships": {
+    "is_a": [
+      "GO:0004497",
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "linoleic acid monooxygenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah"
+    ],
+    "PMID": [
+      "11042099"
+    ]
+  },
+  "definition": "Catalysis of an NADPH- and oxygen-dependent reaction that converts linoleic acid to a cis-epoxyoctadecenoic acid.",
+  "namespace": "molecular_function",
+  "label": "linoleic acid epoxygenase activity"
+}

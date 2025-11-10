@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047532",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047532",
+  "relationships": {
+    "is_a": [
+      "GO:0016812"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,5-dioxopiperazine amidohydrolase activity",
+      "cyclo(Gly-Gly) hydrolase activity",
+      "cyclo(glycylglycine) hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.2.13",
+      "3.5.2.13",
+      "3.5.2.13",
+      "3.5.2.13",
+      "3.5.2.13"
+    ],
+    "KEGG_REACTION": [
+      "R03810"
+    ],
+    "MetaCyc": [
+      "25-DIOXOPIPERAZINE-HYDROLASE-RXN"
+    ],
+    "RHEA": [
+      "21808",
+      "21808"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,5-dioxopiperazine + H2O = glycylglycine.",
+  "namespace": "molecular_function",
+  "label": "2,5-dioxopiperazine hydrolase activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0016560",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016560",
+  "relationships": {
+    "is_a": [
+      "GO:0008104"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peroxisome matrix protein import, docking",
+      "protein docking during peroxisome matrix protein import",
+      "protein docking during protein import into peroxisome matrix",
+      "protein docking during protein transport into peroxisome matrix",
+      "protein transport into peroxisome matrix, docking"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "peroxisome receptor docking"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "11687502",
+      "11988772",
+      "14754507"
+    ]
+  },
+  "definition": "The process in which a complex formed of a peroxisome targeting sequence (PTS) receptor bound to a PTS-bearing protein docks with translocation machinery in the peroxisomal membrane.",
+  "namespace": "biological_process",
+  "label": "protein import into peroxisome matrix, docking"
+}

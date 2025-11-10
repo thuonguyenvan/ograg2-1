@@ -1,0 +1,44 @@
+{
+  "id": "GO:1905300",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905300",
+  "relationships": {
+    "is_a": [
+      "GO:0010720",
+      "GO:0051240",
+      "GO:1905298"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of intestinal epithelial cell development",
+      "up-regulation of intestinal epithelial cell development",
+      "upregulation of intestinal epithelial cell development"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of intestinal epithelial cell development"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "TermGenie",
+      "rph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23904268"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of intestinal epithelial cell development.",
+  "namespace": "biological_process",
+  "label": "positive regulation of intestinal epithelial cell development"
+}

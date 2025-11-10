@@ -1,0 +1,44 @@
+{
+  "id": "GO:0052911",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052911",
+  "relationships": {
+    "is_a": [
+      "GO:0008989"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "S-adenosyl-L-methionine:rRNA (guanine-1-N-)-methyltransferase activity",
+      "rRNA(m(1)G)methylase activity",
+      "ribosomal RNA(m(1)G)-methylase activity",
+      "ribosomal ribonucleate guanine 1-methyltransferase activity",
+      "rlmA(I) methyltransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "23S rRNA m(1)G(745) methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.187",
+      "2.1.1.187",
+      "2.1.1.187",
+      "2.1.1.187",
+      "2.1.1.187",
+      "2.1.1.187",
+      "2.1.1.187",
+      "2.1.1.187"
+    ],
+    "MetaCyc": [
+      "RXN-11573"
+    ],
+    "RHEA": [
+      "42900"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + guanine(745) in 23S rRNA = N(1)-methylguanine(745) in 23S rRNA + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "23S rRNA (guanine(745)-N(1))-methyltransferase activity"
+}

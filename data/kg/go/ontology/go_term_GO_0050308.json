@@ -1,0 +1,35 @@
+{
+  "id": "GO:0050308",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050308",
+  "relationships": {
+    "is_a": [
+      "GO:0019203"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sugar-phosphate phosphatase activity",
+      "sugar-phosphate phosphohydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.3.23",
+      "3.1.3.23",
+      "3.1.3.23"
+    ],
+    "KEGG_REACTION": [
+      "R00804"
+    ],
+    "MetaCyc": [
+      "SUGAR-PHOSPHATASE-RXN",
+      "SUGAR-PHOSPHATASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: sugar phosphate + H2O = sugar + phosphate.",
+  "namespace": "molecular_function",
+  "label": "sugar-phosphatase activity"
+}

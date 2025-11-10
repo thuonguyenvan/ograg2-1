@@ -1,0 +1,42 @@
+{
+  "id": "GO:1905087",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905087",
+  "relationships": {
+    "is_a": [
+      "GO:0009893",
+      "GO:1905085"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of bioluminescence",
+      "up-regulation of bioluminescence",
+      "upregulation of bioluminescence"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of bioluminescence"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "rph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "10913092"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of bioluminescence.",
+  "namespace": "biological_process",
+  "label": "positive regulation of bioluminescence"
+}

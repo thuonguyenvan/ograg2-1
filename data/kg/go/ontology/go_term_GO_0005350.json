@@ -1,0 +1,28 @@
+{
+  "id": "GO:0005350",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005350",
+  "relationships": {
+    "is_a": [
+      "GO:0015205"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pyrimidine base transmembrane transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pyrimidine transmembrane transporter activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "go_curators"
+    ]
+  },
+  "definition": "Enables the transfer of pyrimidine nucleobases, one of the two classes of nitrogen-containing ring compounds found in DNA and RNA, from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "pyrimidine nucleobase transmembrane transporter activity"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "GO:0004666",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004666",
+  "relationships": {
+    "is_a": [
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoate,hydrogen-donor:oxygen oxidoreductase activity",
+      "(PG)H synthase activity",
+      "PG synthetase activity",
+      "fatty acid cyclooxygenase activity",
+      "prostaglandin G/H synthase activity",
+      "prostaglandin endoperoxide synthetase activity",
+      "prostaglandin synthase activity",
+      "prostaglandin synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.99.1",
+      "1.14.99.1",
+      "1.14.99.1",
+      "1.14.99.1",
+      "1.14.99.1",
+      "1.14.99.1",
+      "1.14.99.1",
+      "1.14.99.1",
+      "1.14.99.1"
+    ],
+    "MetaCyc": [
+      "PROSTAGLANDIN-ENDOPEROXIDE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "23728",
+      "23728"
+    ],
+    "Reactome": [
+      "R-HSA-140355",
+      "R-HSA-2309787"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (5Z,8Z,11Z,14Z)-eicosatetraenoate + AH2 + 2 O2 = A + H2O + prostaglandin H2.",
+  "namespace": "molecular_function",
+  "label": "Arachidonate is oxidised to PGG2 by PTGS2"
+}

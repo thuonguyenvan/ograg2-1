@@ -1,0 +1,30 @@
+{
+  "id": "GO:0098038",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098038",
+  "relationships": {
+    "is_a": [
+      "GO:0006313"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cut-and-paste transposition",
+      "non-replicative transposition, DNA-mediated"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bm",
+      "bm"
+    ],
+    "PMID": [
+      "2553270"
+    ]
+  },
+  "definition": "Process by which a transposable element is excised from the donor site and integrated at the target site without replication of the element. Also referred to as cut-and-paste transposition.",
+  "namespace": "biological_process",
+  "label": "non-replicative DNA transposition"
+}

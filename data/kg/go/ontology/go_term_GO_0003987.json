@@ -1,0 +1,69 @@
+{
+  "id": "GO:0003987",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003987",
+  "relationships": {
+    "is_a": [
+      "GO:0016405",
+      "GO:0016878"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "acetate thiokinase activity",
+      "acyl-activating enzyme activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ACS",
+      "acetate to acetyl-CoA",
+      "acetate:CoA ligase (AMP-forming)",
+      "acetic thiokinase activity",
+      "acetyl CoA ligase activity",
+      "acetyl CoA synthase activity",
+      "acetyl activating enzyme",
+      "acetyl coenzyme A synthetase activity",
+      "acetyl-CoA synthase activity",
+      "acetyl-CoA synthetase activity",
+      "acetyl-activating enzyme activity",
+      "acetyl-coenzyme A synthase activity",
+      "short chain fatty acyl-CoA synthetase activity",
+      "short-chain acyl-coenzyme A synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.2.1.1",
+      "6.2.1.1",
+      "6.2.1.1",
+      "6.2.1.1",
+      "6.2.1.1",
+      "6.2.1.1",
+      "6.2.1.1",
+      "6.2.1.1",
+      "6.2.1.1",
+      "6.2.1.1",
+      "6.2.1.1",
+      "6.2.1.1",
+      "6.2.1.1",
+      "6.2.1.1",
+      "6.2.1.1",
+      "6.2.1.1",
+      "6.2.1.1"
+    ],
+    "MetaCyc": [
+      "ACETATE--COA-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "23176"
+    ],
+    "Reactome": [
+      "R-HSA-449911",
+      "R-HSA-71735",
+      "R-HSA-8875071"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + acetate + CoA = AMP + diphosphate + acetyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "ACSS3 ligates CoA to CH3COO-"
+}

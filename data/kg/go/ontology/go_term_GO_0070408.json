@@ -1,0 +1,34 @@
+{
+  "id": "GO:0070408",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070408",
+  "relationships": {
+    "is_a": [
+      "GO:0006796",
+      "GO:0019637"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "carbamoyl phosphate metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "UM-BBD_pathwayID": [
+      "bzn"
+    ],
+    "CHEBI": [
+      "17672"
+    ],
+    "GOC": [
+      "mah",
+      "rph",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving carbamoyl phosphate, an intermediate in the urea cycle and other nitrogen compound metabolic pathways.",
+  "namespace": "biological_process",
+  "label": "carbamoyl phosphate metabolic process"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0031087",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031087",
+  "relationships": {
+    "is_a": [
+      "GO:0110156"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "deadenylylation-independent decapping"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "deadenylation-independent decapping of nuclear mRNA"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "15225542",
+      "15225544"
+    ]
+  },
+  "definition": "Cleavage of the 5&apos;-cap of a nuclear-transcribed mRNA that is independent of poly(A) tail shortening.",
+  "namespace": "biological_process",
+  "label": "deadenylation-independent decapping of nuclear-transcribed mRNA"
+}

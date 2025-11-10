@@ -1,0 +1,46 @@
+{
+  "id": "GO:0003941",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003941",
+  "relationships": {
+    "is_a": [
+      "GO:0016841"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-serine deaminase activity",
+      "L-serine hydro-lyase (deaminating) activity"
+    ],
+    "broad": [
+      "L-hydroxyaminoacid dehydratase activity",
+      "L-serine dehydratase activity",
+      "serine deaminase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "L-serine ammonia-lyase (pyruvate-forming) activity",
+      "L-serine dehydration activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.1.17",
+      "4.3.1.17",
+      "4.3.1.17",
+      "4.3.1.17",
+      "4.3.1.17"
+    ],
+    "MetaCyc": [
+      "4.3.1.17-RXN"
+    ],
+    "RHEA": [
+      "19169"
+    ],
+    "Reactome": [
+      "R-HSA-9929460"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-serine = pyruvate + NH3.",
+  "namespace": "molecular_function",
+  "label": "SDS dimers:PXLP convert L-Ser to PYR and NH4+"
+}

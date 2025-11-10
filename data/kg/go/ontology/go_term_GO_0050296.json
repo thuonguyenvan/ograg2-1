@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050296",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050296",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "stipitatonate carboxy-lyase (decyclizing)",
+      "stipitatonate carboxy-lyase (decyclizing, stipitatate-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.60",
+      "4.1.1.60",
+      "4.1.1.60",
+      "4.1.1.60"
+    ],
+    "KEGG_REACTION": [
+      "R03739"
+    ],
+    "MetaCyc": [
+      "STIPITATONATE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "13885",
+      "13885"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + stipitatonate = CO2 + H+ + stipitatate.",
+  "namespace": "molecular_function",
+  "label": "stipitatonate decarboxylase activity"
+}

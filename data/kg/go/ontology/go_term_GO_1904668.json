@@ -1,0 +1,84 @@
+{
+  "id": "GO:1904668",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904668",
+  "relationships": {
+    "is_a": [
+      "GO:0051443",
+      "GO:1904666"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of protein ubiquitination activity",
+      "up regulation of protein ubiquitination activity",
+      "up regulation of ubiquitin ligase activity",
+      "up regulation of ubiquitin protein ligase activity",
+      "up-regulation of protein ubiquitination activity",
+      "up-regulation of ubiquitin ligase activity",
+      "up-regulation of ubiquitin protein ligase activity",
+      "upregulation of protein ubiquitination activity",
+      "upregulation of ubiquitin ligase activity",
+      "upregulation of ubiquitin protein ligase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of APC-Cdc20 complex activity",
+      "activation of APC-fizzy related complex activity",
+      "activation of anaphase-promoting complex activity",
+      "activation of protein ubiquitination activity",
+      "activation of ubiquitin ligase activity",
+      "activation of ubiquitin protein ligase activity",
+      "positive regulation of APC-fizzy related complex activity",
+      "up regulation of APC-fizzy related complex activity",
+      "up-regulation of APC-fizzy related complex activity",
+      "upregulation of APC-fizzy related complex activity"
+    ],
+    "related": [
+      "activation of E3",
+      "positive regulation of E3",
+      "positive regulation of ubiquitin ligase activity",
+      "up regulation of E3",
+      "up-regulation of E3",
+      "upregulation of E3"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dph",
+      "vw",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000059"
+    ],
+    "PMID": [
+      "10921876",
+      "26216882"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of ubiquitin protein ligase activity.",
+  "namespace": "biological_process",
+  "label": "positive regulation of ubiquitin protein ligase activity"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0006110",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006110",
+  "relationships": {
+    "is_a": [
+      "GO:0033121",
+      "GO:0043467",
+      "GO:0043470",
+      "GO:1903578"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of glycolysis involved in cellular glucose homeostasis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-170822"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of glycolysis.",
+  "namespace": "biological_process",
+  "label": "Regulation of Glucokinase by Glucokinase Regulatory Protein"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0039685",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039685",
+  "relationships": {
+    "is_a": [
+      "GO:0039693"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ssDNA rolling hairpin viral DNA replication"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "2656",
+      "2656",
+      "2656"
+    ],
+    "GOC": [
+      "bf",
+      "jl"
+    ]
+  },
+  "definition": "A viral DNA replication process where a 3&apos; hairpin structure in the viral single-stranded DNA (ssDNA) template serves as a primer for host enzymes to synthesize DNA.",
+  "namespace": "biological_process",
+  "label": "Rolling hairpin replication"
+}

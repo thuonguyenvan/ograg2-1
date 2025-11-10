@@ -1,0 +1,37 @@
+{
+  "id": "GO:0050651",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050651",
+  "relationships": {
+    "is_a": [
+      "GO:0030166",
+      "GO:0050655",
+      "GO:0180064"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chondroitin sulfate B proteoglycan biosynthesis",
+      "chondroitin sulfate B proteoglycan biosynthetic process",
+      "dermatan sulfate proteoglycan anabolism",
+      "dermatan sulfate proteoglycan biosynthesis",
+      "dermatan sulfate proteoglycan formation",
+      "dermatan sulfate proteoglycan synthesis",
+      "dermatan sulphate proteoglycan biosynthesis",
+      "dermatan sulphate proteoglycan biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-6568"
+    ],
+    "PMID": [
+      "17239763"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of dermatan sulfate proteoglycans, which consist of a core protein linked to a dermatan sulfate glycosaminoglycan. The dermatan sulfate chain is composed of the repeating disaccharide unit beta-(1,4)-D-hexuronic acid-beta-(1,3)-N-acetyl-D-galactosamine. Tthe former can be a mixture of sulfated and nonsulfated D-glucuronic and L-iduronic acids, and the latter can be O-sulfated. Dermatan sulfate chains are covalently linked to serine/threonine residues (O-linked) of the core protein via a tetrasaccharide linker sequence (xylose-galactose-galactose-glucuronate).",
+  "namespace": "biological_process",
+  "label": "dermatan sulfate proteoglycan biosynthetic process"
+}

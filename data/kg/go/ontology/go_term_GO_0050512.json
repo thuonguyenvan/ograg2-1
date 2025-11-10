@@ -1,0 +1,50 @@
+{
+  "id": "GO:0050512",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050512",
+  "relationships": {
+    "is_a": [
+      "GO:0035250"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lactosylceramide 4-a-galactosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "globotriaosylceramide/CD77 synthase activity",
+      "histo-blood group P(k) UDP-galactose activity"
+    ],
+    "related": [
+      "Gal-beta-(1,4)-Glc-beta-1-Cer alpha-(1,4)-galactosyltransferase activity",
+      "Gal-beta-1,4-Glc-beta-1-Cer alpha-1,4-galactosyltransferase activity",
+      "UDP-galactose:lactosylceramide 4II-alpha-D-galactosyltransferase activity",
+      "histo-blood group Pk UDP-galactose"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.228",
+      "2.4.1.228",
+      "2.4.1.228",
+      "2.4.1.228",
+      "2.4.1.228",
+      "2.4.1.228",
+      "2.4.1.228",
+      "2.4.1.228"
+    ],
+    "MetaCyc": [
+      "2.4.1.228-RXN",
+      "2.4.1.228-RXN"
+    ],
+    "RHEA": [
+      "11924"
+    ],
+    "Reactome": [
+      "R-HSA-9846477"
+    ]
+  },
+  "definition": "Catalysis of the reaction: beta-D-galactosyl-(1,4)-D-glucosylceramide + UDP-galactose = alpha-D-galactosyl-(1,4)-beta-D-galactosyl-(1,4)-D-glucosylceramide + UDP.",
+  "namespace": "molecular_function",
+  "label": "A4GALT transfers galactose to LacCer"
+}

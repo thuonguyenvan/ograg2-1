@@ -1,0 +1,26 @@
+{
+  "id": "GO:0009553",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009553",
+  "relationships": {
+    "is_a": [
+      "GO:0048229"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "female gametophyte development"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_plant",
+      "tb"
+    ]
+  },
+  "definition": "The process whose specific outcome is the progression of the embryo sac over time, from its formation to the mature structure. The process begins with the meiosis of the megasporocyte to form four haploid megaspores. Three of the megaspores disintegrate, and the fourth undergoes mitosis giving rise to a binucleate syncytial embryo sac. The two haploid nuclei migrate to the opposite poles of the embryo sac and then undergo two rounds of mitosis generating four haploid nuclei at each pole. One nucleus from each set of four migrates to the center of the cell. Cellularization occurs, resulting in an eight-nucleate seven-celled structure. This structure contains two synergid cells and an egg cell at the micropylar end, and three antipodal cells at the other end. A binucleate endosperm mother cell is formed at the center. The two polar nuclei fuse resulting in a mononucleate diploid endosperm mother cell. The three antipodal cells degenerate.",
+  "namespace": "biological_process",
+  "label": "embryo sac development"
+}

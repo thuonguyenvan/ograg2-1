@@ -1,0 +1,63 @@
+{
+  "id": "GO:1902805",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902805",
+  "relationships": {
+    "is_a": [
+      "GO:0048522",
+      "GO:0051050",
+      "GO:1902803"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of synaptic vesicle transport",
+      "up-regulation of synaptic vesicle transport",
+      "upregulation of synaptic vesicle transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of synaptic vesicle transport"
+    ],
+    "related": [
+      "activation of synaptic vesicle fission",
+      "activation of synaptic vesicle fusion",
+      "positive regulation of synaptic vesicle fission",
+      "positive regulation of synaptic vesicle fusion",
+      "up regulation of synaptic vesicle fission",
+      "up regulation of synaptic vesicle fusion",
+      "up-regulation of synaptic vesicle fission",
+      "up-regulation of synaptic vesicle fusion",
+      "upregulation of synaptic vesicle fission",
+      "upregulation of synaptic vesicle fusion"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "kmv",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23527112"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of synaptic vesicle transport.",
+  "namespace": "biological_process",
+  "label": "positive regulation of synaptic vesicle transport"
+}

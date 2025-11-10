@@ -1,0 +1,54 @@
+{
+  "id": "GO:0036261",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036261",
+  "relationships": {
+    "is_a": [
+      "GO:0001510",
+      "GO:0036260"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2,2,7-trimethylguanosine cap formation",
+      "TMG cap formation",
+      "conversion of m(7)G to m(3)G",
+      "m(7)G cap hypermethylation"
+    ],
+    "broad": [],
+    "narrow": [
+      "hypermethylation of snRNA cap",
+      "hypermethylation of snoRNA cap",
+      "snRNA capping",
+      "snoRNA capping"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "bf",
+      "krc",
+      "mah",
+      "rl",
+      "bf",
+      "bf",
+      "krc",
+      "mah",
+      "bf",
+      "krc",
+      "mah",
+      "rl",
+      "rl"
+    ],
+    "PMID": [
+      "11983179",
+      "18775984",
+      "11983179",
+      "11983179",
+      "11983179"
+    ]
+  },
+  "definition": "Hypermethylation of the 7-(mono)methylguanosine (m(7)G) cap structure at the 2&apos; position of the guanosine residue to convert a mono-methylated cap to a 2,2,7-trimethylguanosine cap structure. This type of cap modification occurs on small nuclear RNAs (snRNAs) and small nucleolar RNAs (snoRNAs) and is dependent on prior guanine-N7 methylation.",
+  "namespace": "biological_process",
+  "label": "7-methylguanosine cap hypermethylation"
+}

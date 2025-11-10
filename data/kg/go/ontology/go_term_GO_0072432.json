@@ -1,0 +1,30 @@
+{
+  "id": "GO:0072432",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072432",
+  "relationships": {
+    "is_a": [
+      "GO:0072414",
+      "GO:0072423"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitotic cell cycle G1/S transition DNA damage checkpoint effector process",
+      "response to mitotic cell cycle G1/S transition DNA damage checkpoint signaling",
+      "response to signal involved in mitotic cell cycle G1/S transition DNA damage checkpoint"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A process that occurs in response to signals generated as a result of G1/S transition DNA damage checkpoint signaling.",
+  "namespace": "biological_process",
+  "label": "response to G1 DNA damage checkpoint signaling"
+}

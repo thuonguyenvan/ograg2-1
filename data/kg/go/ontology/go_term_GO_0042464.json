@@ -1,0 +1,30 @@
+{
+  "id": "GO:0042464",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042464",
+  "relationships": {
+    "is_a": [
+      "GO:0007549"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "XY_sex-determination_system"
+    ],
+    "GOC": [
+      "jl",
+      "mr"
+    ],
+    "PMID": [
+      "11102361"
+    ]
+  },
+  "definition": "Compensating for the two-fold variation in X:autosome chromosome ratios between sexes by an inactivation of a proportion of genes on both of the X chromosomes of the XX sex, leading to a decrease, of half, of the levels of gene expression from these chromosomes. An example of this process is found in Caenorhabditis elegans.",
+  "namespace": "biological_process",
+  "label": "dosage compensation by hypoactivation of X chromosome"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140929",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140929",
+  "relationships": {
+    "is_a": [
+      "GO:0005402",
+      "GO:0015370",
+      "GO:0015578"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "22212718",
+      "23451068",
+      "24573086"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: D-mannose(out) + Na+(out) = D-mannose(in) + Na+(in).",
+  "namespace": "molecular_function",
+  "label": "mannose:sodium symporter activity"
+}

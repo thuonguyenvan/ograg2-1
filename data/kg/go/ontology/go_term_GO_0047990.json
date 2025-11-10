@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047990",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047990",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-hydroxy-L-glutamate 1-carboxy-lyase (4-amino-3-hydroxybutanoate-forming)",
+      "3-hydroxy-L-glutamate 1-carboxy-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.16",
+      "4.1.1.16",
+      "4.1.1.16",
+      "4.1.1.16"
+    ],
+    "KEGG_REACTION": [
+      "R04135"
+    ],
+    "MetaCyc": [
+      "HYDROXYGLUTAMATE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "14073",
+      "14073"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-hydroxy-L-glutamate + H+ = 4-amino-3-hydroxybutanoate + CO2.",
+  "namespace": "molecular_function",
+  "label": "hydroxyglutamate decarboxylase activity"
+}

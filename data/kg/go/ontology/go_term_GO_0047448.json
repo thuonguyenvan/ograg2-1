@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047448",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047448",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-dehydro-4-deoxy-D-glucarate hydro-lyase (decarboxylating)",
+      "5-dehydro-4-deoxy-D-glucarate hydro-lyase (decarboxylating; 2,5-dioxopentanoate-forming)",
+      "5-keto-4-deoxy-glucarate dehydratase activity",
+      "D-4-deoxy-5-ketoglucarate hydro-lyase activity",
+      "deoxyketoglucarate dehydratase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.41",
+      "4.2.1.41",
+      "4.2.1.41",
+      "4.2.1.41",
+      "4.2.1.41",
+      "4.2.1.41",
+      "4.2.1.41"
+    ],
+    "KEGG_REACTION": [
+      "R02279"
+    ],
+    "MetaCyc": [
+      "4.2.1.41-RXN"
+    ],
+    "RHEA": [
+      "24608",
+      "24608"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-dehydro-4-deoxy-D-glucarate + H+ = 2,5-dioxopentanoate + CO2 + H2O.",
+  "namespace": "molecular_function",
+  "label": "5-dehydro-4-deoxyglucarate dehydratase activity"
+}

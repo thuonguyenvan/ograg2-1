@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140469",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140469",
+  "relationships": {
+    "is_a": [
+      "GO:0140467"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "EIF2AK4-mediated signaling"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of eIF2 alpha phosphorylation by amino acid starvation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "27629041"
+    ]
+  },
+  "definition": "A series of reactions in which a signal is passed on to downstream proteins within the cell via GCN2 (also known as EIF2AK4), an intracellular protein kinase that is activated by stress signals, such as amino acid starvation.",
+  "namespace": "biological_process",
+  "label": "GCN2-mediated signaling"
+}

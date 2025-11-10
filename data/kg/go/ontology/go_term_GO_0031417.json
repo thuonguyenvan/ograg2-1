@@ -1,0 +1,25 @@
+{
+  "id": "GO:0031417",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031417",
+  "relationships": {
+    "is_a": [
+      "GO:0031414"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-terminal acetyltransferase C complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "12890471"
+    ]
+  },
+  "definition": "A conserved complex that catalyzes the transfer of an acetyl group to the N-terminal residue of a protein acceptor molecule that has a Met-Ile, Met-Leu, Met-Trp, or Met-Phe N-terminus. In Saccharomyces the complex includes Mak3p, Mak10p, and Mak31p.",
+  "namespace": "cellular_component",
+  "label": "NatC complex"
+}

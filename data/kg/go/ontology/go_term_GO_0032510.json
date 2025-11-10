@@ -1,0 +1,30 @@
+{
+  "id": "GO:0032510",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032510",
+  "relationships": {
+    "is_a": [
+      "GO:0008333",
+      "GO:0032509"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "endosome to lysosome transport via MVB sorting pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "12461556",
+      "16689637"
+    ]
+  },
+  "definition": "The directed movement of substances from endosomes to lysosomes by a pathway in which molecules are sorted into multivesicular bodies, which then fuse with the lysosome.",
+  "namespace": "biological_process",
+  "label": "endosome to lysosome transport via multivesicular body sorting pathway"
+}

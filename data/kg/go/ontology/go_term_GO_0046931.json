@@ -1,0 +1,31 @@
+{
+  "id": "GO:0046931",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046931",
+  "relationships": {
+    "is_a": [
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pore biosynthesis",
+      "pore formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pore complex biogenesis",
+      "pore-forming toxin activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form a pore complex. A pore complex is a small opening in a membrane that allows the passage of liquids and/or gases.",
+  "namespace": "biological_process",
+  "label": "pore complex assembly"
+}

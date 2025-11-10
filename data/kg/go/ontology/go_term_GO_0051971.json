@@ -1,0 +1,34 @@
+{
+  "id": "GO:0051971",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051971",
+  "relationships": {
+    "is_a": [
+      "GO:0010647",
+      "GO:0031646",
+      "GO:0051969"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of conduction of nerve impulse",
+      "up regulation of transmission of nerve impulse",
+      "up-regulation of transmission of nerve impulse",
+      "upregulation of transmission of nerve impulse"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of transmission of nerve impulse",
+      "stimulation of transmission of nerve impulse"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph"
+    ]
+  },
+  "definition": "Any process that activates, maintains or increases the frequency, rate or extent of transmission of a nerve impulse, the sequential electrochemical polarization and depolarization that travels across the membrane of a neuron in response to stimulation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of transmission of nerve impulse"
+}

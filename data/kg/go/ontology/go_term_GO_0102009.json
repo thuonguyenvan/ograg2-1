@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102009",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102009",
+  "relationships": {
+    "is_a": [
+      "GO:0016805"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.4.13.9",
+      "3.4.13.9"
+    ],
+    "MetaCyc": [
+      "3.4.13.9-RXN"
+    ],
+    "RHEA": [
+      "76407"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + a dipeptide with proline at the C-terminal = L-proline + a standard alpha amino acid.",
+  "namespace": "molecular_function",
+  "label": "proline dipeptidase activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0120123",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120123",
+  "relationships": {
+    "is_a": [
+      "GO:0140535",
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "E1 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "E1 ubiquitin-activating enzyme"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "lnp",
+      "lnp",
+      "lnp"
+    ],
+    "PMID": [
+      "9545234"
+    ]
+  },
+  "definition": "A protein complex responsible for the catalysis of the reaction: E1 + ubiquitin + ATP--&gt; E1-ubiquitin + AMP + PPi, where the E1-ubiquitin linkage is a thioester bond between the C-terminal glycine of Ub and a sulfhydryl side group of an E1 cysteine residue. This is the first step in a cascade of reactions in which ubiquitin is ultimately added to a protein substrate.",
+  "namespace": "cellular_component",
+  "label": "ubiquitin activating enzyme complex"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:0099635",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099635",
+  "relationships": {
+    "is_a": [
+      "GO:0005245"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9659515"
+    ],
+    "GOC": [
+      "dos"
+    ]
+  },
+  "definition": "Positive regulation of presynaptic cytosolic calcium ion concentrations via the directed movement of calcium ions across the plasma-membrane into the cytosol via the action of voltage-gated calcium ion channels. This is the first step in synaptic transmission.",
+  "namespace": "molecular_function",
+  "label": "CACNA1D:CACNA2D2:CACNB2 (Cav1.3 channel) transports Ca2+ into the cytosol of an inner hair cell"
+}

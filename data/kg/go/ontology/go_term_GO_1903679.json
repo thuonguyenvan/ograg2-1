@@ -1,0 +1,42 @@
+{
+  "id": "GO:1903679",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903679",
+  "relationships": {
+    "is_a": [
+      "GO:1903677",
+      "GO:1904690"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of cap-independent translational initiation",
+      "up-regulation of cap-independent translational initiation",
+      "upregulation of cap-independent translational initiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of cap-independent translational initiation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "11959995"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of cap-independent translational initiation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cap-independent translational initiation"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0015884",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015884",
+  "relationships": {
+    "is_a": [
+      "GO:0006835",
+      "GO:0042886",
+      "GO:0051180",
+      "GO:0072337"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "folate transport",
+      "vitamin B9 transport",
+      "vitamin M transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The directed movement of folic acid (pteroylglutamic acid) into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore. Folic acid is widely distributed as a member of the vitamin B complex and is essential for the synthesis of purine and pyrimidines.",
+  "namespace": "biological_process",
+  "label": "folic acid transport"
+}

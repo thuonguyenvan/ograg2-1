@@ -1,0 +1,39 @@
+{
+  "id": "GO:0052681",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052681",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(2E,6E)-farnesyl-diphosphate diphosphate-lyase [(E)-alpha-bisabolene-forming] activity"
+    ],
+    "broad": [
+      "bisabolene synthase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.38",
+      "4.2.3.38"
+    ],
+    "KEGG_REACTION": [
+      "R08370",
+      "R08370"
+    ],
+    "MetaCyc": [
+      "RXN-8550"
+    ],
+    "RHEA": [
+      "25436",
+      "25436"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-trans,6-trans-farnesyl diphosphate = (E,R)-alpha-bisabolene + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "alpha-bisabolene synthase activity"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0060313",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060313",
+  "relationships": {
+    "is_a": [
+      "GO:0034104",
+      "GO:0051093",
+      "GO:0060312"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down-regulation of blood vessel remodeling",
+      "negative regulation of blood vessel remodelling"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of blood vessel remodeling"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "dph",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that decreases the rate, frequency or extent of blood vessel remodeling, the reorganization or renovation of existing blood vessels.",
+  "namespace": "biological_process",
+  "label": "negative regulation of blood vessel remodeling"
+}

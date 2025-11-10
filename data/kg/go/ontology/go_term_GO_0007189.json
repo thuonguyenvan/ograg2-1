@@ -1,0 +1,59 @@
+{
+  "id": "GO:0007189",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007189",
+  "relationships": {
+    "is_a": [
+      "GO:0007188"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G protein signaling, adenylate cyclase activating pathway",
+      "G protein signaling, adenylyl cyclase activating pathway",
+      "G protein signalling, adenylate cyclase activating pathway",
+      "G protein signalling, adenylyl cyclase activating pathway",
+      "G-protein signaling, adenylate cyclase activating pathway",
+      "G-protein signaling, adenylyl cyclase activating pathway",
+      "G-protein signalling, adenylate cyclase activating pathway",
+      "G-protein signalling, adenylyl cyclase activating pathway",
+      "GPCR signaling pathway via activation of adenylate cyclase",
+      "GPCR signaling pathway via activation of adenylate cyclase activity",
+      "adenylate cyclase-activating GPCR signaling pathway",
+      "positive regulation of adenylate cyclase activity involved in G-protein coupled receptor signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "activation of adenylate cyclase activity by G-protein signaling pathway",
+      "activation of adenylate cyclase activity involved in G-protein signaling",
+      "positive regulation of adenylate cyclase activity by G-protein signaling pathway",
+      "positive regulation of adenylate cyclase activity by G-protein signalling pathway"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-170660"
+    ],
+    "GOC": [
+      "dph",
+      "mah",
+      "signaling",
+      "tb",
+      "dph",
+      "tb",
+      "bf",
+      "signaling",
+      "signaling",
+      "bf",
+      "signaling",
+      "signaling",
+      "mah"
+    ],
+    "ISBN": [
+      "0815316194"
+    ]
+  },
+  "definition": "A G protein-coupled receptor signaling pathway in which the signal is transmitted via the activation of adenylyl cyclase activity which results in an increase in the intracellular concentration of cyclic AMP (cAMP). This pathway is negatively regulated by phosphodiesterase, which cleaves cAMP and terminates the signaling.",
+  "namespace": "biological_process",
+  "label": "Adenylate cyclase activating pathway"
+}

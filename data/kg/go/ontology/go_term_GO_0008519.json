@@ -1,0 +1,40 @@
+{
+  "id": "GO:0008519",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008519",
+  "relationships": {
+    "is_a": [
+      "GO:0015267"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "ammonia transmembrane transporter activity",
+      "ammonium transmembrane transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-9615"
+    ],
+    "Reactome": [
+      "R-HSA-444393",
+      "R-HSA-444416",
+      "R-HSA-444419",
+      "R-HSA-446277",
+      "R-HSA-446278",
+      "R-HSA-5623051"
+    ],
+    "TC": [
+      "1.A.11"
+    ],
+    "PMID": [
+      "17710640"
+    ]
+  },
+  "definition": "Enables the energy-independent facilitated diffusion of ammonium through a transmembrane aqueous pore or channel.",
+  "namespace": "molecular_function",
+  "label": "Defective RHAG does not transport NH4+ from cytosol to extracellular region (rbc)"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0045063",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045063",
+  "relationships": {
+    "is_a": [
+      "GO:0042093"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "T-helper 1 cell development"
+    ]
+  },
+  "cross_references": {
+    "CL": [
+      "0000545"
+    ],
+    "GOC": [
+      "ebc",
+      "add"
+    ]
+  },
+  "definition": "The process in which a relatively unspecialized T cell acquires the specialized features of a T-helper 1 (Th1) cell. A Th1 cell is a CD4-positive, alpha-beta T cell that has the phenotype T-bet-positive and produces interferon-gamma.",
+  "namespace": "biological_process",
+  "label": "T-helper 1 cell differentiation"
+}

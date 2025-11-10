@@ -1,0 +1,38 @@
+{
+  "id": "GO:1902807",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902807",
+  "relationships": {
+    "is_a": [
+      "GO:1901988",
+      "GO:1902806"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of cell cycle G1/S phase transition",
+      "down-regulation of cell cycle G1/S phase transition",
+      "downregulation of cell cycle G1/S phase transition"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of cell cycle G1/S phase transition"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_cell_cycle",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ]
+  },
+  "definition": "Any signaling pathway that decreases or inhibits the activity of a cell cycle cyclin-dependent protein kinase to modulate the switch from G1 phase to S phase of the cell cycle.",
+  "namespace": "biological_process",
+  "label": "negative regulation of cell cycle G1/S phase transition"
+}

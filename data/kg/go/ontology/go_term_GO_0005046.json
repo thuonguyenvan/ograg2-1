@@ -1,0 +1,25 @@
+{
+  "id": "GO:0005046",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005046",
+  "relationships": {
+    "is_a": [
+      "GO:0046923"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "KDEL receptor activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binding to a KDEL sequence, the C terminus tetrapeptide sequence Lys-Asp-Glu-Leu found in proteins that are to be retained in the endoplasmic reticulum.",
+  "namespace": "molecular_function",
+  "label": "KDEL sequence binding"
+}

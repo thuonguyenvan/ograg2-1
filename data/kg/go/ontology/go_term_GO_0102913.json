@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102913",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102913",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-8686"
+    ],
+    "RHEA": [
+      "52268",
+      "52268"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-(aminomethyl)indole + S-adenosyl-L-methionine = (1H-indol-3-yl)-N-methylmethanamine + H+ + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "3-aminomethylindole N-methyltransferase activity"
+}

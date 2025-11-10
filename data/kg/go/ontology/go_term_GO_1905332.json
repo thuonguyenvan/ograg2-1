@@ -1,0 +1,51 @@
+{
+  "id": "GO:1905332",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905332",
+  "relationships": {
+    "is_a": [
+      "GO:0051094",
+      "GO:1905330"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of epithelium morphogenesis",
+      "up regulation of epithelium morphogenesis",
+      "up regulation of morphogenesis of an epithelium",
+      "up-regulation of epithelium morphogenesis",
+      "up-regulation of morphogenesis of an epithelium",
+      "upregulation of epithelium morphogenesis",
+      "upregulation of morphogenesis of an epithelium"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of epithelium morphogenesis",
+      "activation of morphogenesis of an epithelium"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bhm",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25745997"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of morphogenesis of an epithelium.",
+  "namespace": "biological_process",
+  "label": "positive regulation of morphogenesis of an epithelium"
+}

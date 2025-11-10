@@ -1,0 +1,29 @@
+{
+  "id": "GO:0071067",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071067",
+  "relationships": {
+    "is_a": [
+      "GO:0098797",
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "ITGAV-ITGB3-ADAM23 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "10749942"
+    ],
+    "CORUM": [
+      "2364"
+    ]
+  },
+  "definition": "A protein complex that consists of an alphav-beta3 integrin complex bound to the transmembrane metallopeptidase ADAM23.",
+  "namespace": "cellular_component",
+  "label": "alphav-beta3 integrin-ADAM23 complex"
+}

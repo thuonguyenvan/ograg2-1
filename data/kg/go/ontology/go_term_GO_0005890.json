@@ -1,0 +1,28 @@
+{
+  "id": "GO:0005890",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005890",
+  "relationships": {
+    "is_a": [
+      "GO:0090533",
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sodium/potassium-exchanging ATPase complex"
+    ],
+    "broad": [
+      "sodium pump"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Sodium:potassium-exchanging ATPases are tetrameric proteins, consisting of two large alpha subunits and two smaller beta subunits. The alpha subunits bear the active site and penetrate the membrane, while the beta subunits carry oligosaccharide groups and face the cell exterior.",
+  "namespace": "cellular_component",
+  "label": "sodium:potassium-exchanging ATPase complex"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0005917",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005917",
+  "relationships": {
+    "is_a": [
+      "GO:0036056"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "nephrocyte junction"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_kidney_jan10",
+      "sart"
+    ],
+    "PMID": [
+      "18971929",
+      "8314002"
+    ]
+  },
+  "definition": "A specialized cell-cell junction found between nephrocytes of the insect kidney, which is adapted for filtration of hemolymph. The insect nephrocyte is anatomically and functionally similar to the glomerular podocyte of vertebrates.",
+  "namespace": "cellular_component",
+  "label": "nephrocyte diaphragm"
+}

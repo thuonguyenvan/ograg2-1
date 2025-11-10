@@ -1,0 +1,27 @@
+{
+  "id": "GO:0089714",
+  "uri": "http://purl.obolibrary.org/obo/GO_0089714",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.336",
+      "1.1.1.336"
+    ],
+    "RHEA": [
+      "25780"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-N-acetyl-alpha-D-mannosamine + 2 NAD+ + H2O = UDP-N-acetyl-alpha-D-mannosaminuronate + 2 NADH + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "UDP-N-acetyl-D-mannosamine dehydrogenase activity"
+}

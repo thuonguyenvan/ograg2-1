@@ -1,0 +1,35 @@
+{
+  "id": "GO:0036009",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036009",
+  "relationships": {
+    "is_a": [
+      "GO:0008170",
+      "GO:0008276",
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein glutamine N-methylase activity",
+      "protein glutamine N-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "57452",
+      "57452"
+    ],
+    "Reactome": [
+      "R-HSA-6800138"
+    ],
+    "PMID": [
+      "11847124"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-glutaminyl-[protein] + S-adenosyl-L-methionine = N(5)-methyl-L-glutaminyl-[protein] + S-adenosyl-L-homocysteine + H+.",
+  "namespace": "molecular_function",
+  "label": "N6AMT1:TRMT112 transfers CH3 group from AdoMet to ETF1 dimer"
+}

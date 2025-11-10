@@ -1,0 +1,36 @@
+{
+  "id": "GO:0002085",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002085",
+  "relationships": {
+    "is_a": [
+      "GO:0022603",
+      "GO:0030857",
+      "GO:0045995",
+      "GO:0048505"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "negative regulation of neural plate formation",
+      "repression of premature neural plate formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "16678814"
+    ]
+  },
+  "definition": "Any process that prevents the activation of neuroepithelial cell differentiation. Neuroepithelial cell differentiation is the process in which epiblast cells acquire specialized features of neuroepithelial cells.",
+  "namespace": "biological_process",
+  "label": "inhibition of neuroepithelial cell differentiation"
+}

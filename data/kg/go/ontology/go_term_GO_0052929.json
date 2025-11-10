@@ -1,0 +1,36 @@
+{
+  "id": "GO:0052929",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052929",
+  "relationships": {
+    "is_a": [
+      "GO:0070566",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP:3&apos;-CC-tRNA adenylyltransferase activity"
+    ],
+    "broad": [
+      "ATP:tRNA adenylyltransferase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R09386"
+    ],
+    "RHEA": [
+      "60012",
+      "60012"
+    ],
+    "PMID": [
+      "31936900",
+      "33095240"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a tRNA with a 3&apos; CC end + ATP = a tRNA with a 3&apos; CCA end + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "ATP:3&apos;-cytidine-cytidine-tRNA adenylyltransferase activity"
+}

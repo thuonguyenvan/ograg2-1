@@ -1,0 +1,28 @@
+{
+  "id": "GO:0032296",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032296",
+  "relationships": {
+    "is_a": [
+      "GO:0004540",
+      "GO:0016788"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "double-stranded RNA-specific RNase activity",
+      "dsRNA-specific RNase activity",
+      "dsRNA-specific ribonuclease activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of phosphodiester bonds in double-stranded RNA molecules.",
+  "namespace": "molecular_function",
+  "label": "double-stranded RNA-specific ribonuclease activity"
+}

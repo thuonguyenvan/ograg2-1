@@ -1,0 +1,35 @@
+{
+  "id": "GO:0018969",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018969",
+  "relationships": {
+    "is_a": [
+      "GO:0006082",
+      "GO:0006790",
+      "GO:0006805"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "thiocyanate metabolism",
+      "thiocyanic acid metabolic process",
+      "thiocyanic acid metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P581-PWY"
+    ],
+    "UM-BBD_pathwayID": [
+      "thc"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving thiocyanate, the anion of thiocyanic acid, a toxic cyanide derivative commonly formed as a by-product in the production of gas for fuel, coke, and substances for chemical industries.",
+  "namespace": "biological_process",
+  "label": "thiocyanate metabolic process"
+}

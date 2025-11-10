@@ -1,0 +1,38 @@
+{
+  "id": "GO:0060513",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060513",
+  "relationships": {
+    "is_a": [
+      "GO:0016331",
+      "GO:0048645",
+      "GO:0060572",
+      "GO:0060601",
+      "GO:0060740"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "primary prostate bud formation",
+      "prostate ductal budding",
+      "prostate gland formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "dph",
+      "dph",
+      "dph"
+    ],
+    "PMID": [
+      "18977204",
+      "11401393"
+    ]
+  },
+  "definition": "The morphogenetic process in which a region of the fetal urogenital sinus epithelium is specified to become the prostate, resulting in prostate bud outgrowth.",
+  "namespace": "biological_process",
+  "label": "prostatic bud formation"
+}

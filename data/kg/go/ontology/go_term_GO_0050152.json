@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050152",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050152",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "w-amidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alpha-keto acid-omega-amidase activity",
+      "omega-amidodicarboxylate amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.3",
+      "3.5.1.3",
+      "3.5.1.3",
+      "3.5.1.3"
+    ],
+    "MetaCyc": [
+      "OMEGA-AMIDASE-RXN",
+      "OMEGA-AMIDASE-RXN"
+    ],
+    "RHEA": [
+      "11716"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a monoamide of a dicarboxylic acid + H2O = a dicarboxylate + NH3.",
+  "namespace": "molecular_function",
+  "label": "omega-amidase activity"
+}

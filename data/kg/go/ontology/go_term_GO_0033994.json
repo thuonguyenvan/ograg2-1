@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033994",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033994",
+  "relationships": {
+    "is_a": [
+      "GO:0016837"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(1,4)-beta-D-glucuronan lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.2.14",
+      "4.2.2.14",
+      "4.2.2.14"
+    ],
+    "MetaCyc": [
+      "4.2.2.14-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (1-&gt;4)-beta-D-glucuronan = an oligosaccharide with 4-deoxy-beta-D-gluc-4-enuronosyl end + (1-&gt;4)-beta-D-glucuronan. This reaction is the eliminative cleavage of (1-&gt;4)-beta-D-glucuronans to give oligosaccharides with 4-deoxy-beta-D-gluc-4-enuronosyl groups at their non-reducing ends. Complete degradation of glucuronans results in the formation of tetrasaccharides.",
+  "namespace": "molecular_function",
+  "label": "glucuronan lyase activity"
+}

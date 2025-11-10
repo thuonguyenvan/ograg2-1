@@ -1,0 +1,43 @@
+{
+  "id": "GO:1990665",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990665",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(A2.p11)2 complex",
+      "(p11)2.(AnxA2)2 complex",
+      "Annexin A2-p11 complex",
+      "AnxA2.p11 complex",
+      "AnxA2:S100A10 heterotetramer"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Annexin A2 tetramer"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "bf",
+      "nc",
+      "bf"
+    ],
+    "PMID": [
+      "18799458",
+      "23483454",
+      "23483454",
+      "18799458",
+      "18799458",
+      "23483454",
+      "23483454"
+    ]
+  },
+  "definition": "A heterotetrameric protein complex comprising two Annexin A2 (AnxA2) monomers and two copies of its binding partner, S100 protein p11 (S100A10).",
+  "namespace": "cellular_component",
+  "label": "AnxA2-p11 complex"
+}

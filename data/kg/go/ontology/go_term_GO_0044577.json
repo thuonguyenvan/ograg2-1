@@ -1,0 +1,35 @@
+{
+  "id": "GO:0044577",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044577",
+  "relationships": {
+    "is_a": [
+      "GO:0006067",
+      "GO:0006113",
+      "GO:0042843"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-xylose fermentation",
+      "xylose catabolism to ethanol"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "DOI": [
+      "10.1016/0141-0229(89)90098-7"
+    ],
+    "GOC": [
+      "mengo_curators",
+      "tt"
+    ],
+    "PMID": [
+      "26927067"
+    ]
+  },
+  "definition": "The anaerobic chemical reactions and pathways resulting in the breakdown of xylose, an aldopentose, into ethanol.",
+  "namespace": "biological_process",
+  "label": "D-xylose catabolic process to ethanol"
+}

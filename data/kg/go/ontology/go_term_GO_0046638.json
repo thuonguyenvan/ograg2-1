@@ -1,0 +1,38 @@
+{
+  "id": "GO:0046638",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046638",
+  "relationships": {
+    "is_a": [
+      "GO:0045582",
+      "GO:0046635",
+      "GO:0046637"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of alpha-beta T lymphocyte differentiation",
+      "positive regulation of alpha-beta T-cell differentiation",
+      "positive regulation of alpha-beta T-lymphocyte differentiation",
+      "up regulation of alpha-beta T cell differentiation",
+      "up-regulation of alpha-beta T cell differentiation",
+      "upregulation of alpha-beta T cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of alpha-beta T cell differentiation",
+      "stimulation of alpha-beta T cell differentiation"
+    ],
+    "related": [
+      "positive regulation of alpha-beta T cell development"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of alpha-beta T cell differentiation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of alpha-beta T cell differentiation"
+}

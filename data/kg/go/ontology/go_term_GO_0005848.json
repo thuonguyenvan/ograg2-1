@@ -1,0 +1,30 @@
+{
+  "id": "GO:0005848",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005848",
+  "relationships": {
+    "is_a": [
+      "GO:0005849"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "CstF complex"
+    ],
+    "related": [
+      "cleavage stimulation factor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "10357856"
+    ]
+  },
+  "definition": "A protein complex required for mRNA cleavage but not for poly(A) addition.",
+  "namespace": "cellular_component",
+  "label": "mRNA cleavage stimulating factor complex"
+}

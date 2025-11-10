@@ -1,0 +1,39 @@
+{
+  "id": "GO:0035525",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035525",
+  "relationships": {
+    "is_a": [
+      "GO:0071159"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NF-kappa B1/RelA complex",
+      "NF-kappa B1/p65 complex",
+      "NF-kappa p50/RelA complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NF-kappa p105/RelA complex",
+      "NF-kappa p105/p65 complex"
+    ]
+  },
+  "cross_references": {
+    "GO": [
+      "add"
+    ],
+    "PMID": [
+      "20393192",
+      "9299584",
+      "9299584",
+      "9299584",
+      "9299584",
+      "9299584",
+      "9299584"
+    ]
+  },
+  "definition": "A heterodimer of NF-kappa B p50 and p65 subunits.",
+  "namespace": "cellular_component",
+  "label": "NF-kappaB p50/p65 complex"
+}

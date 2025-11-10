@@ -1,0 +1,60 @@
+{
+  "id": "GO:0008534",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008534",
+  "relationships": {
+    "is_a": [
+      "GO:0000702"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "oxidized purine base lesion DNA N-glycosylase activity"
+    ],
+    "broad": [
+      "8-oxoguanine DNA glycosylase activity",
+      "DNA glycosylase/AP-lyase activity",
+      "DNA glycosylase/beta-lyase activity",
+      "bifunctional DNA glycosylase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "2,6-diamino-4-hydroxy-5(N-methyl)formamidopyrimidine-DNA glycosylase activity",
+      "2,6-diamino-4-hydroxy-5N-formamidopyrimidine-DNA glycosylase activity",
+      "DNA glycohydrolase [2,6-diamino-4-hydroxy-5-(N-methyl)formamidopyrimide releasing]",
+      "DNA-formamidopyrimidine glycosylase activity",
+      "Fapy-DNA glycosylase activity",
+      "Fpg protein",
+      "deoxyribonucleate glycosidase activity",
+      "formamidopyrimidine-DNA glycosylase activity",
+      "purine-specific oxidized base lesion DNA N-glycosylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.2.23",
+      "3.2.2.23",
+      "3.2.2.23",
+      "3.2.2.23",
+      "3.2.2.23",
+      "3.2.2.23",
+      "3.2.2.23"
+    ],
+    "MetaCyc": [
+      "3.2.2.23-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-110229",
+      "R-HSA-110243",
+      "R-HSA-110244"
+    ],
+    "GOC": [
+      "elh"
+    ],
+    "PMID": [
+      "11554296"
+    ]
+  },
+  "definition": "Catalysis of the removal of oxidized purine bases by cleaving the N-C1&apos; glycosidic bond between the oxidized purine and the deoxyribose sugar. The reaction involves the formation of a covalent enzyme-substrate intermediate. Release of the enzyme and free base by a beta-elimination or a beta, gamma-elimination mechanism results in the cleavage of the DNA backbone 3&apos; of the apurinic (AP) site.",
+  "namespace": "molecular_function",
+  "label": "Excision of FapyG by OGG1 glycosylase"
+}

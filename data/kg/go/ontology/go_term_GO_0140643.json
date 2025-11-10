@@ -1,0 +1,47 @@
+{
+  "id": "GO:0140643",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140643",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "3-hydroxy-3-methylglutaryl coenzyme A reductase activity",
+      "HMG-CoA reductase activity",
+      "beta-hydroxy-beta-methylglutaryl CoA-reductase activity",
+      "beta-hydroxy-beta-methylglutaryl coenzyme A reductase activity",
+      "hydroxymethylglutaryl coenzyme A reductase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.88",
+      "1.1.1.88",
+      "1.1.1.88",
+      "1.1.1.88",
+      "1.1.1.88",
+      "1.1.1.88"
+    ],
+    "KEGG_REACTION": [
+      "R02081"
+    ],
+    "MetaCyc": [
+      "HYDROXYMETHYLGLUTARYL-COA-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "14833",
+      "14833"
+    ],
+    "PMID": [
+      "29224355"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-mevalonate + CoA + 2 NAD+ = 3-hydroxy-3-methylglutaryl-CoA + 2 NADH.",
+  "namespace": "molecular_function",
+  "label": "hydroxymethylglutaryl-CoA reductase (NADH) activity"
+}

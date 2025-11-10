@@ -1,0 +1,31 @@
+{
+  "id": "GO:0044727",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044727",
+  "relationships": {
+    "is_a": [
+      "GO:0044725"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "epigenetic reprograming of male pronucleus",
+      "epigenetic reprograming of paternal genome in zygote"
+    ],
+    "broad": [],
+    "narrow": [
+      "DNA demethylation of male pronucleus"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "22868271"
+    ]
+  },
+  "definition": "The global programming of epigenetic modifications in the male pronucleus of the newly fertilized zygote. The most major change in the paternal genome is DNA demethylation, which takes place before the first cell division.",
+  "namespace": "biological_process",
+  "label": "epigenetic programing of male pronucleus"
+}

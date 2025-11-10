@@ -1,0 +1,31 @@
+{
+  "id": "GO:0015881",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015881",
+  "relationships": {
+    "is_a": [
+      "GO:0015718",
+      "GO:0072337",
+      "GO:1905039"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "creatine transport"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "pr"
+    ],
+    "GO_REF": [
+      "0000069"
+    ]
+  },
+  "definition": "The directed movement of creatine across a membrane.",
+  "namespace": "biological_process",
+  "label": "creatine transmembrane transport"
+}

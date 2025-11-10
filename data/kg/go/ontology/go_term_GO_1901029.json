@@ -1,0 +1,50 @@
+{
+  "id": "GO:1901029",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901029",
+  "relationships": {
+    "is_a": [
+      "GO:0010639",
+      "GO:0035795",
+      "GO:1901028",
+      "GO:2001234"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of MOMP",
+      "down regulation of mitochondrial outer membrane permeabilization",
+      "down-regulation of MOMP",
+      "down-regulation of mitochondrial outer membrane permeabilization",
+      "downregulation of MOMP",
+      "downregulation of mitochondrial outer membrane permeabilization",
+      "negative regulation of MOMP"
+    ],
+    "broad": [
+      "negative regulation of mitochondrial outer membrane permeabilization"
+    ],
+    "narrow": [
+      "inhibition of MOMP",
+      "inhibition of mitochondrial outer membrane permeabilization"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "mtg_apoptosis",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway.",
+  "namespace": "biological_process",
+  "label": "negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway"
+}

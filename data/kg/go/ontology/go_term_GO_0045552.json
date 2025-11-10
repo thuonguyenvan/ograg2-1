@@ -1,0 +1,43 @@
+{
+  "id": "GO:0045552",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045552",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NADPH-dihydromyricetin reductase activity",
+      "cis-3,4-leucopelargonidin:NADP+ 4-oxidoreductase activity",
+      "dihydroflavonol 4-reductase activity",
+      "dihydrokaempferol 4-reductase activity",
+      "dihydromyricetin reductase activity",
+      "dihydroquercetin reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.219",
+      "1.1.1.219",
+      "1.1.1.219",
+      "1.1.1.219",
+      "1.1.1.219",
+      "1.1.1.219",
+      "1.1.1.219"
+    ],
+    "MetaCyc": [
+      "RXN-17678"
+    ],
+    "RHEA": [
+      "54444",
+      "54444"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a (2R,3S,4S)-leucoanthocyanidin + NADP+ = a (2R,3R)-dihydroflavonol + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "dihydroflavanol 4-reductase activity"
+}

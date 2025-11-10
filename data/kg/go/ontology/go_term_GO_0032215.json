@@ -1,0 +1,32 @@
+{
+  "id": "GO:0032215",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032215",
+  "relationships": {
+    "is_a": [
+      "GO:0032206",
+      "GO:0032213",
+      "GO:0090068"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of telomere maintenance via semi-conservative replication",
+      "up-regulation of telomere maintenance via semi-conservative replication",
+      "upregulation of telomere maintenance via semi-conservative replication"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of telomere maintenance via semi-conservative replication",
+      "stimulation of telomere maintenance via semi-conservative replication"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the semi-conservative replication of telomeric DNA.",
+  "namespace": "biological_process",
+  "label": "positive regulation of telomere maintenance via semi-conservative replication"
+}

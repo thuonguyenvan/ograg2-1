@@ -1,0 +1,45 @@
+{
+  "id": "GO:0016157",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016157",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NDP-glucose:D-fructose 2-alpha-D-glucosyltransferase activity",
+      "UDP-glucose-fructose glucosyltransferase activity",
+      "UDPglucose-fructose glucosyltransferase activity",
+      "sucrose synthetase activity",
+      "sucrose-UDP glucosyltransferase activity",
+      "sucrose-uridine diphosphate glucosyltransferase activity",
+      "uridine diphosphoglucose-fructose glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.13",
+      "2.4.1.13",
+      "2.4.1.13",
+      "2.4.1.13",
+      "2.4.1.13",
+      "2.4.1.13",
+      "2.4.1.13",
+      "2.4.1.13"
+    ],
+    "MetaCyc": [
+      "SUCROSE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "16241",
+      "16241"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an NDP-alpha-D-glucose + D-fructose = a ribonucleoside 5&apos;-diphosphate + H+ + sucrose. The phosphate acceptor can be UDP or ADP.",
+  "namespace": "molecular_function",
+  "label": "sucrose synthase activity"
+}

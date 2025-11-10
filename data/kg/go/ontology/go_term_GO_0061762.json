@@ -1,0 +1,32 @@
+{
+  "id": "GO:0061762",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061762",
+  "relationships": {
+    "is_a": [
+      "GO:0019722"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "stress-activated AMP-activated protein kinase signaling cascade"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "dph",
+      "pad",
+      "dph"
+    ],
+    "PMID": [
+      "23010169",
+      "24709372"
+    ]
+  },
+  "definition": "The series of molecular signals in which calmodulin-dependent protein kinase activity enabled by a CAMKK directly activates an AMPK. The cascade begins with calmodulin binding calcium which in turn binds CAMKK enabling its calmodulin-dependent protein kinase activity. The cascade ends with AMP-activated protein kinase activity.",
+  "namespace": "biological_process",
+  "label": "CAMKK-AMPK signaling cascade"
+}

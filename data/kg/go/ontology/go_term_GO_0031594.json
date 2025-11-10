@@ -1,0 +1,34 @@
+{
+  "id": "GO:0031594",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031594",
+  "relationships": {
+    "is_a": [
+      "GO:0045202"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NMJ",
+      "motor endplate"
+    ]
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1124888485",
+      "nlx_subcell_20090512"
+    ],
+    "Wikipedia": [
+      "Neuromuscular_junction"
+    ],
+    "GOC": [
+      "nln",
+      "ha"
+    ]
+  },
+  "definition": "The junction between the axon of a motor neuron and a muscle fiber. In response to the arrival of action potentials, the presynaptic button releases molecules of neurotransmitters into the synaptic cleft. These diffuse across the cleft and transmit the signal to the postsynaptic membrane of the muscle fiber, leading to a change in post-synaptic potential.",
+  "namespace": "cellular_component",
+  "label": "neuromuscular junction"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047680",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047680",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "AAA-1",
+      "AAA-2",
+      "aryl-acylamide amidohydrolase activity",
+      "brain acetylcholinesterase (is associated with AAA-2)",
+      "pseudocholinesterase (associated with arylacylamidase)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.13",
+      "3.5.1.13",
+      "3.5.1.13",
+      "3.5.1.13",
+      "3.5.1.13",
+      "3.5.1.13",
+      "3.5.1.13"
+    ],
+    "KEGG_REACTION": [
+      "R01862"
+    ],
+    "MetaCyc": [
+      "ARYL-ACYLAMIDASE-RXN"
+    ],
+    "RHEA": [
+      "20297",
+      "20297"
+    ]
+  },
+  "definition": "Catalysis of the reaction: anilide + H2O = a carboxylate + aniline + H+.",
+  "namespace": "molecular_function",
+  "label": "aryl-acylamidase activity"
+}

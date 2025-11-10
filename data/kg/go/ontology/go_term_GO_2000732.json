@@ -1,0 +1,32 @@
+{
+  "id": "GO:2000732",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000732",
+  "relationships": {
+    "is_a": [
+      "GO:0045943",
+      "GO:0060566",
+      "GO:2000730"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of RNA polymerase I transcription termination",
+      "positive regulation of transcription termination from Pol I promoter",
+      "positive regulation of transcription termination from RNA polymerase I promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of termination of RNA polymerase I transcription.",
+  "namespace": "biological_process",
+  "label": "positive regulation of termination of RNA polymerase I transcription"
+}

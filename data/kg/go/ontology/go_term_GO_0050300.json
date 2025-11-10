@@ -1,0 +1,53 @@
+{
+  "id": "GO:0050300",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050300",
+  "relationships": {
+    "is_a": [
+      "GO:0034071"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "ATP:streptomycin 6-phosphotransferase activity",
+      "SM 6-kinase activity",
+      "streptidine kinase (phosphorylating)",
+      "streptidine kinase activity",
+      "streptomycin 6-O-phosphotransferase activity",
+      "streptomycin 6-kinase (phosphorylating)",
+      "streptomycin 6-kinase activity",
+      "streptomycin 6-phosphotransferase activity"
+    ],
+    "related": [
+      "APH(6) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.72",
+      "2.7.1.72",
+      "2.7.1.72",
+      "2.7.1.72",
+      "2.7.1.72",
+      "2.7.1.72",
+      "2.7.1.72",
+      "2.7.1.72",
+      "2.7.1.72",
+      "2.7.1.72"
+    ],
+    "KEGG_REACTION": [
+      "R02225"
+    ],
+    "MetaCyc": [
+      "STREPTOMYCIN-6-KINASE-RXN"
+    ],
+    "RHEA": [
+      "22268",
+      "22268"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + streptomycin = ADP + 2 H+ + streptomycin 6-phosphate.",
+  "namespace": "molecular_function",
+  "label": "aminoglycoside 6-kinase activity"
+}

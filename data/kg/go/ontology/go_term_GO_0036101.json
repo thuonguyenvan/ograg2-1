@@ -1,0 +1,37 @@
+{
+  "id": "GO:0036101",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036101",
+  "relationships": {
+    "is_a": [
+      "GO:0036100",
+      "GO:0036102",
+      "GO:0042758",
+      "GO:1901523"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LTB4 catabolism",
+      "leukotriene B4 breakdown",
+      "leukotriene B4 catabolism",
+      "leukotriene B4 degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "yaf",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "9799565"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of leukotriene B4, a leukotriene composed of (6Z,8E,10E,14Z)-eicosatetraenoic acid having (5S)- and (12R)-hydroxy substituents.",
+  "namespace": "biological_process",
+  "label": "leukotriene B4 catabolic process"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0033508",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033508",
+  "relationships": {
+    "is_a": [
+      "GO:0006538",
+      "GO:0019605"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glutamate breakdown to butyrate",
+      "glutamate degradation to butyrate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5087",
+      "PWY-5087"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-glutamate into other compounds, including butyrate.",
+  "namespace": "biological_process",
+  "label": "L-glutamate catabolic process to butyrate"
+}

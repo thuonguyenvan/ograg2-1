@@ -1,0 +1,33 @@
+{
+  "id": "GO:0060930",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060930",
+  "relationships": {
+    "is_a": [
+      "GO:0060927"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SA node cell commitment",
+      "SAN cell commitment"
+    ],
+    "broad": [],
+    "narrow": [
+      "sinus node cell commitment"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_heart",
+      "mtg_heart",
+      "BHF",
+      "mtg_cardiac_conduct_nov11",
+      "BHF",
+      "mtg_cardiac_conduct_nov11"
+    ]
+  },
+  "definition": "The commitment of cells to sinoatrial (SA) node cell fates and their capacity to differentiate into SA node cells. SA node cells are pacemaker cells that are found in the sinoatrial node.",
+  "namespace": "biological_process",
+  "label": "sinoatrial node cell fate commitment"
+}

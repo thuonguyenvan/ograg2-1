@@ -1,0 +1,32 @@
+{
+  "id": "GO:0009055",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009055",
+  "relationships": {
+    "is_a": [
+      "GO:0003674"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "electron acceptor activity",
+      "electron donor activity"
+    ],
+    "related": [
+      "electron carrier",
+      "electron transporter activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-169260"
+    ],
+    "Wikipedia": [
+      "Electron_transfer"
+    ]
+  },
+  "definition": "A molecular function representing the directed movement of electrons from one molecular entity to another, typically mediated by electron carriers or acceptors, resulting in the transfer of energy and/or the reduction-oxidation (redox) transformation of chemical species. This activity is fundamental to various biological processes, including cellular respiration and photosynthesis, as well as numerous enzymatic reactions involved in metabolic pathways.",
+  "namespace": "molecular_function",
+  "label": "Reducing equivalents from beta-oxidation of fatty acids transfer to ETF"
+}

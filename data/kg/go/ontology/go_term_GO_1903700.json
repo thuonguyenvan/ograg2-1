@@ -1,0 +1,48 @@
+{
+  "id": "GO:1903700",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903700",
+  "relationships": {
+    "is_a": [
+      "GO:0048856"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cecum development",
+      "intestinum crassum caecum development"
+    ],
+    "broad": [],
+    "narrow": [
+      "caeca development",
+      "ceca development"
+    ],
+    "related": [
+      "blind intestine development",
+      "blindgut development",
+      "intestinum caecum development",
+      "intestinum crassum cecum development"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000094"
+    ],
+    "ISBN": [
+      "0-683-40008-8"
+    ]
+  },
+  "definition": "The process whose specific outcome is the progression of a caecum over time, from its formation to the mature structure.",
+  "namespace": "biological_process",
+  "label": "caecum development"
+}

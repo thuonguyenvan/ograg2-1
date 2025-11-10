@@ -1,0 +1,37 @@
+{
+  "id": "GO:0046917",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046917",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP:3-dephospho-CoA 5&apos;&apos;-triphosphoribosyltransferase activity",
+      "ATP:dephospho-CoA 5-triphosphoribosyl transferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2&apos;-(5&apos;&apos;-triphosphoribosyl)-3-dephospho-CoA synthase activity",
+      "CitG activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.52",
+      "2.4.2.52",
+      "2.4.2.52"
+    ],
+    "MetaCyc": [
+      "2.7.8.25-RXN"
+    ],
+    "RHEA": [
+      "15117"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + 3-dephospho-CoA = 2&apos;-(5&apos;&apos;-triphosphoribosyl)-3&apos;-dephospho-CoA + adenine.",
+  "namespace": "molecular_function",
+  "label": "triphosphoribosyl-dephospho-CoA synthase activity"
+}

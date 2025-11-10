@@ -1,0 +1,48 @@
+{
+  "id": "GO:0004306",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004306",
+  "relationships": {
+    "is_a": [
+      "GO:0070567"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CTP:ethanolamine-phosphate cytidylyltransferase activity",
+      "phosphoethanolamine cytidylyltransferase activity"
+    ],
+    "broad": [
+      "phosphorylethanolamine transferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "CTP-phosphoethanolamine cytidylyltransferase activity",
+      "CTP:phosphoethanolamine cytidylyltransferase activity",
+      "ET",
+      "ethanolamine phosphate cytidylyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.14",
+      "2.7.7.14",
+      "2.7.7.14",
+      "2.7.7.14",
+      "2.7.7.14",
+      "2.7.7.14",
+      "2.7.7.14"
+    ],
+    "MetaCyc": [
+      "2.7.7.14-RXN"
+    ],
+    "RHEA": [
+      "24592"
+    ],
+    "Reactome": [
+      "R-HSA-1483190"
+    ]
+  },
+  "definition": "Catalysis of the reaction: CTP + ethanolamine phosphate = diphosphate + CDP-ethanolamine.",
+  "namespace": "molecular_function",
+  "label": "PETA and CTP are condensed to CDP-ETA by PCY2"
+}

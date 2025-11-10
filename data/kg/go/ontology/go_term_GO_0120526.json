@@ -1,0 +1,33 @@
+{
+  "id": "GO:0120526",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120526",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.42"
+    ],
+    "KEGG_REACTION": [
+      "R11646"
+    ],
+    "MetaCyc": [
+      "RXN-18175"
+    ],
+    "RHEA": [
+      "51972",
+      "51972"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an L-polyhomomethionine + 2 O2 + 2 reduced [NADPH--hemoprotein reductase] = an (E)-omega-(methylsulfanyl)-alkanal oxime + CO2 + 2 H(+) + 3 H2O + 2 oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "homomethionine N-monooxygenase activity"
+}

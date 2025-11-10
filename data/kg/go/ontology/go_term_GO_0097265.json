@@ -1,0 +1,33 @@
+{
+  "id": "GO:0097265",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097265",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5(S)-HETE dehydrogenase activity",
+      "5-HETE dehydrogenase activity",
+      "5-hydroxy-eicosatetraenoic acid dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2161776"
+    ],
+    "GOC": [
+      "mw"
+    ],
+    "PMID": [
+      "1326548"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-HETE + NADP+ = 5-oxo-ETE + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "5S-HETE is oxidised to 5-oxoETE by 5-HEDH"
+}

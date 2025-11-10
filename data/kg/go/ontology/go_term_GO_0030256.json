@@ -1,0 +1,25 @@
+{
+  "id": "GO:0030256",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030256",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "ABC translocator complex"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "9618447"
+    ]
+  },
+  "definition": "A complex of three secretory proteins that carry out secretion in the type I secretion system: an inner membrane transport ATPase (termed ABC protein for ATP-binding cassette), which provides the energy for protein secretion; an outer membrane protein, which is exported via the sec pathway; and a membrane fusion protein, which is anchored in the inner membrane and spans the periplasmic space.",
+  "namespace": "cellular_component",
+  "label": "type I protein secretion system complex"
+}

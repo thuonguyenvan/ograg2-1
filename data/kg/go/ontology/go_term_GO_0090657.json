@@ -1,0 +1,31 @@
+{
+  "id": "GO:0090657",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090657",
+  "relationships": {
+    "is_a": [
+      "GO:0000723"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "T loop disassembly",
+      "t-loop disassembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "nc"
+    ],
+    "PMID": [
+      "22579284"
+    ]
+  },
+  "definition": "The telomere maintenance process in which telomeric loops are disassembled to permit efficient telomere replication.",
+  "namespace": "biological_process",
+  "label": "telomeric loop disassembly"
+}

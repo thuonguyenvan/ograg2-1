@@ -1,0 +1,29 @@
+{
+  "id": "GO:0035425",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035425",
+  "relationships": {
+    "is_a": [
+      "GO:0007267"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "autocrine signalling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "mah"
+    ],
+    "ISBN": [
+      "3527303782"
+    ]
+  },
+  "definition": "Signaling between cells of the same type. The signal produced by the signaling cell binds to a receptor on, and affects a cell of the same type.",
+  "namespace": "biological_process",
+  "label": "autocrine signaling"
+}

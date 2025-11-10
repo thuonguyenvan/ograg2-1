@@ -1,0 +1,25 @@
+{
+  "id": "GO:0010127",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010127",
+  "relationships": {
+    "is_a": [
+      "GO:0098754"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "mycothiol-dependent detoxification of alkylating agent"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "The chemical reactions using mycothiol to convert an alkylating agent to an S-conjugate of mycothiol. The latter is cleaved to release mercapturic acid which is excreted from the cell.",
+  "namespace": "biological_process",
+  "label": "mycothiol-dependent detoxification"
+}

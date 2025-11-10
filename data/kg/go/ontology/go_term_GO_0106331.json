@@ -1,0 +1,30 @@
+{
+  "id": "GO:0106331",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106331",
+  "relationships": {
+    "is_a": [
+      "GO:0001681"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-13181"
+    ],
+    "RHEA": [
+      "25564",
+      "25564"
+    ],
+    "PMID": [
+      "22291594"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + N-acetyl-4-O-acetylneuraminate = acetate + H+ + N-acetylneuraminate.",
+  "namespace": "molecular_function",
+  "label": "sialate 4-O-acetylesterase activity"
+}

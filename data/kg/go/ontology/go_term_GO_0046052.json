@@ -1,0 +1,30 @@
+{
+  "id": "GO:0046052",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046052",
+  "relationships": {
+    "is_a": [
+      "GO:0009210",
+      "GO:0009222",
+      "GO:0046051"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UTP breakdown",
+      "UTP catabolism",
+      "UTP degradation",
+      "UTP hydrolysis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of UTP, uridine (5&apos;-)triphosphate.",
+  "namespace": "biological_process",
+  "label": "UTP catabolic process"
+}

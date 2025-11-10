@@ -1,0 +1,41 @@
+{
+  "id": "GO:1905623",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905623",
+  "relationships": {
+    "is_a": [
+      "GO:0051094",
+      "GO:0051240",
+      "GO:2000024"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of leaf development",
+      "up-regulation of leaf development",
+      "upregulation of leaf development"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of leaf development"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "11606552"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of leaf development.",
+  "namespace": "biological_process",
+  "label": "positive regulation of leaf development"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:0015438",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015438",
+  "relationships": {
+    "is_a": [
+      "GO:0022884",
+      "GO:0140359",
+      "GO:1901505"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ABC-type teichoic-acid transporter",
+      "teichoic-acid ABC transporter"
+    ],
+    "broad": [
+      "teichoic acid transmembrane transporter activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ATP-dependent teichoic acid transmembrane transporter activity",
+      "ATPase-coupled teichoic acid transmembrane transporter activity",
+      "teichoic-acid-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.5.2.4",
+      "7.5.2.4",
+      "7.5.2.4"
+    ],
+    "MetaCyc": [
+      "3.6.3.40-RXN"
+    ],
+    "PMID": [
+      "7565096"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + teichoic acid(in) = ADP + phosphate + teichoic acid(out).",
+  "namespace": "molecular_function",
+  "label": "ABC-type teichoic acid transporter activity"
+}

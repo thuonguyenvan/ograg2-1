@@ -1,0 +1,48 @@
+{
+  "id": "GO:0033798",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033798",
+  "relationships": {
+    "is_a": [
+      "GO:0046992"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "inner ring-deiodinating pathway"
+    ],
+    "broad": [
+      "diiodothyronine 5&apos;-deiodinase activity"
+    ],
+    "narrow": [
+      "type III iodothyronine deiodinase activity"
+    ],
+    "related": [
+      "acceptor:3,3&apos;,5&apos;-triiodo-L-thyronine oxidoreductase (iodinating) activity",
+      "iodothyronine 5-deiodinase activity",
+      "iodothyronine inner ring monodeiodinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.21.99.3",
+      "1.21.99.3",
+      "1.21.99.3",
+      "1.21.99.3",
+      "1.21.99.3",
+      "1.21.99.3"
+    ],
+    "MetaCyc": [
+      "1.97.1.11-RXN"
+    ],
+    "RHEA": [
+      "18897",
+      "18897"
+    ],
+    "PMID": [
+      "20403357"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3,3&apos;,5&apos;-triiodo-L-thyronine + iodide + acceptor + H+ = L-thyroxine + acceptor-H2.",
+  "namespace": "molecular_function",
+  "label": "thyroxine 5-deiodinase activity"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0034318",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034318",
+  "relationships": {
+    "is_a": [
+      "GO:0008374"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acyl-CoA:alcohol O-acyltransferase activity",
+      "acyl-coenzymeA:alcohol O-acyltransferase activity",
+      "alcohol acyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "AEATase activity",
+      "acyl-CoA:ethanol O-acyltransferase",
+      "acyl-coenzymeA:ethanol O-acyltransferase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the transfer of an acyl group to an oxygen atom on an alcohol acceptor molecule.",
+  "namespace": "molecular_function",
+  "label": "alcohol O-acyltransferase activity"
+}

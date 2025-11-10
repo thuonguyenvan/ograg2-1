@@ -1,0 +1,31 @@
+{
+  "id": "GO:0043270",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043270",
+  "relationships": {
+    "is_a": [
+      "GO:0043269",
+      "GO:0051050"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of ion transport",
+      "up-regulation of ion transport",
+      "upregulation of ion transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of ion transport",
+      "stimulation of ion transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the directed movement of charged atoms or small charged molecules into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "positive regulation of monoatomic ion transport"
+}

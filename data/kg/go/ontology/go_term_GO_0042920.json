@@ -1,0 +1,32 @@
+{
+  "id": "GO:0042920",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042920",
+  "relationships": {
+    "is_a": [
+      "GO:0015718",
+      "GO:0015850"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-(3-hydroxyphenyl)propionic acid transport",
+      "m-hydroxyphenylpropionic acid transport"
+    ],
+    "broad": [
+      "3-hydroxyphenylpropionic acid transport"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ],
+    "PMID": [
+      "9098055"
+    ]
+  },
+  "definition": "The directed movement of 3-hydroxyphenylpropionic acid across a lipid bilayer, from one side of a membrane to the other.",
+  "namespace": "biological_process",
+  "label": "3-hydroxyphenylpropionic acid transmembrane transport"
+}

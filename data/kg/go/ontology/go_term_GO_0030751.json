@@ -1,0 +1,37 @@
+{
+  "id": "GO:0030751",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030751",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:licodione 2&apos;-O-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.65",
+      "2.1.1.65",
+      "2.1.1.65"
+    ],
+    "KEGG_REACTION": [
+      "R03623"
+    ],
+    "MetaCyc": [
+      "LICODIONE-2-O-METHYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "18521",
+      "18521"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine(1+) + licodione = 2&apos;-O-methyllicodione + S-adenosyl-L-homocysteine + H+.",
+  "namespace": "molecular_function",
+  "label": "licodione 2&apos;-O-methyltransferase activity"
+}

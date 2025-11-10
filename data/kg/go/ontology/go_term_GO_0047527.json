@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047527",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047527",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,3-dihydroxybenzoate:L-serine ligase activity",
+      "2,3-dihydroxybenzoylserine synthetase activity",
+      "N-(2,3-dihydroxybenzoyl)-serine synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.14",
+      "6.3.2.14",
+      "6.3.2.14",
+      "6.3.2.14",
+      "6.3.2.14"
+    ],
+    "MetaCyc": [
+      "ENTMULTI-RXN"
+    ],
+    "RHEA": [
+      "30571"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + 2,3-dihydroxybenzoate + L-serine = products of ATP breakdown + N-(2,3-dihydroxybenzoyl)-L-serine.",
+  "namespace": "molecular_function",
+  "label": "2,3-dihydroxybenzoate-serine ligase activity"
+}

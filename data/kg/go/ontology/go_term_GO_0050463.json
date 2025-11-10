@@ -1,0 +1,46 @@
+{
+  "id": "GO:0050463",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050463",
+  "relationships": {
+    "is_a": [
+      "GO:0008940",
+      "GO:0046857"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NAD(P)H bispecific nitrate reductase activity",
+      "NAD(P)H-nitrate reductase activity",
+      "NAD(P)H2:nitrate oxidoreductase activity",
+      "NAD(P)H:nitrate oxidoreductase activity",
+      "assimilatory NAD(P)H-nitrate reductase activity",
+      "assimilatory nitrate reductase activity",
+      "nitrate reductase (reduced nicotinamide adenine dinucleotide (phosphate)) activity",
+      "nitrate reductase NAD(P)H activity",
+      "nitrate reductase [NAD(P)H2]",
+      "nitrite:NAD(P)+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.1.2",
+      "1.7.1.2",
+      "1.7.1.2",
+      "1.7.1.2",
+      "1.7.1.2",
+      "1.7.1.2",
+      "1.7.1.2",
+      "1.7.1.2",
+      "1.7.1.2",
+      "1.7.1.2",
+      "1.7.1.2",
+      "1.7.1.2"
+    ]
+  },
+  "definition": "Catalysis of the reaction: nitrite + NAD(P)+ + H2O = nitrate + NAD(P)H + H+.",
+  "namespace": "molecular_function",
+  "label": "nitrate reductase [NAD(P)H] activity"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "GO:0043857",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043857",
+  "relationships": {
+    "is_a": [
+      "GO:0016743"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-acetylornithine transcarbamylase activity",
+      "acetylornithine transcarbamylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "AOTC",
+      "carbamoyl-phosphate:2-N-acetyl-L-ornithine carbamoyltransferase activity",
+      "carbamoyl-phosphate:N2-acetyl-L-ornithine carbamoyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.3.9",
+      "2.1.3.9",
+      "2.1.3.9",
+      "2.1.3.9"
+    ],
+    "KEGG_REACTION": [
+      "R07245"
+    ],
+    "MetaCyc": [
+      "2.1.3.9-RXN"
+    ],
+    "RHEA": [
+      "18609",
+      "18609"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(2)-acetyl-L-ornithine + carbamoyl phosphate = N(2)-acetyl-L-citrulline + H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "N-acetylornithine carbamoyltransferase activity"
+}

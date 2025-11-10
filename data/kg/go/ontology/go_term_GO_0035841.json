@@ -1,0 +1,36 @@
+{
+  "id": "GO:0035841",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035841",
+  "relationships": {
+    "is_a": [
+      "GO:0035838"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "new cell tip after activation of bipolar cell growth",
+      "post-NETO new cell end",
+      "post-NETO new cell tip",
+      "post-new end take-off new cell tip"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "expert_jd",
+      "mah",
+      "bf",
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "19431238"
+    ]
+  },
+  "definition": "A cell tip that was newly formed at the last cell division, and that has started to grow after the cell has activated bipolar cell growth (i.e. in which new end take-off, NETO, has taken place). New end take-off is when monopolar cells initiate bipolar growth.",
+  "namespace": "cellular_component",
+  "label": "new growing cell tip"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:0141007",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141007",
+  "relationships": {
+    "is_a": [
+      "GO:0141005",
+      "GO:0141194"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "siRNA-mediated retrotransposon silencing by heterochromatin formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "36570931"
+    ]
+  },
+  "definition": "A transposable element silencing mechanism in which a siRNA triggers heterochromatin assembly. Heterochromatin is a chromatin conformation that is refractory to transcription.",
+  "namespace": "biological_process",
+  "label": "transposable element silencing by siRNA-mediated heterochromatin formation"
+}

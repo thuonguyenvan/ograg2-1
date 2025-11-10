@@ -1,0 +1,34 @@
+{
+  "id": "GO:0050273",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050273",
+  "relationships": {
+    "is_a": [
+      "GO:0016790"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.2.13",
+      "3.1.2.13"
+    ],
+    "KEGG_REACTION": [
+      "R00499"
+    ],
+    "MetaCyc": [
+      "S-SUCCINYLGLUTATHIONE-HYDROLASE-RXN"
+    ],
+    "RHEA": [
+      "16713",
+      "16713"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-succinylglutathione + H2O = glutathione + H+ + succinate.",
+  "namespace": "molecular_function",
+  "label": "S-succinylglutathione hydrolase activity"
+}

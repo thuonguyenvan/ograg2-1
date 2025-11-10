@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047302",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047302",
+  "relationships": {
+    "is_a": [
+      "GO:0008483"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-4-amino-2-acetamido-2,4,6-trideoxyglucose aminotransferase activity",
+      "UDP-4-amino-2-acetamido-2,4,6-trideoxyglucose transaminase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-2-acetamido-4-amino-2,4,6-trideoxyglucose:2-oxoglutarate aminotransferase activity",
+      "uridine diphospho-4-amino-2-acetamido-2,4,6-trideoxyglucose aminotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.34",
+      "2.6.1.34",
+      "2.6.1.34"
+    ],
+    "KEGG_REACTION": [
+      "R04529"
+    ],
+    "MetaCyc": [
+      "RXN-12812"
+    ],
+    "RHEA": [
+      "31663",
+      "31663"
+    ],
+    "PMID": [
+      "16286454"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxoglutarate + UDP-2-acetamido-4-amino-2,4,6-trideoxy-D-glucose = L-glutamate + UDP-2-acetamido-4-dehydro-2,6-dideoxy-beta-D-glucose.",
+  "namespace": "molecular_function",
+  "label": "UDP-2-acetamido-4-amino-2,4,6-trideoxyglucose transaminase activity"
+}

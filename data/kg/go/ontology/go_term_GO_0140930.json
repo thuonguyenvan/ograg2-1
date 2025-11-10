@@ -1,0 +1,26 @@
+{
+  "id": "GO:0140930",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140930",
+  "relationships": {
+    "is_a": [
+      "GO:0005353",
+      "GO:0005402",
+      "GO:0015370"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "22212718",
+      "23451068"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: D-fructose(out) + Na+(out) = D-fructose(in) + Na+(in).",
+  "namespace": "molecular_function",
+  "label": "fructose:sodium symporter activity"
+}

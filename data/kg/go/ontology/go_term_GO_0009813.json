@@ -1,0 +1,38 @@
+{
+  "id": "GO:0009813",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009813",
+  "relationships": {
+    "is_a": [
+      "GO:0009058",
+      "GO:0009812"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "flavonoid anabolism",
+      "flavonoid biosynthesis",
+      "flavonoid formation",
+      "flavonoid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY1F-FLAVSYN"
+    ],
+    "Wikipedia": [
+      "Flavonoid"
+    ],
+    "GOC": [
+      "tair_curators"
+    ],
+    "ISBN": [
+      "0198547684"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of flavonoids, a group of phenolic derivatives containing a flavan skeleton.",
+  "namespace": "biological_process",
+  "label": "flavonoid biosynthetic process"
+}

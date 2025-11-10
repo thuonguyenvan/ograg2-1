@@ -1,0 +1,25 @@
+{
+  "id": "GO:0062158",
+  "uri": "http://purl.obolibrary.org/obo/GO_0062158",
+  "relationships": {
+    "is_a": [
+      "GO:0005452",
+      "GO:0015078",
+      "GO:0015108"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "14985752"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: chloride(out) + proton(in) = chloride(in) + proton(out).",
+  "namespace": "molecular_function",
+  "label": "chloride:proton antiporter activity"
+}

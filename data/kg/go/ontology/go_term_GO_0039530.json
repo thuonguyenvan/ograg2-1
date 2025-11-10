@@ -1,0 +1,39 @@
+{
+  "id": "GO:0039530",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039530",
+  "relationships": {
+    "is_a": [
+      "GO:0002753"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IFIH1 signaling pathway",
+      "MDA-5 signalling pathway",
+      "melanoma differentiation-associated gene 5 signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "MDA5 signaling pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "mah"
+    ],
+    "PMID": [
+      "19620789",
+      "33087405",
+      "17328678"
+    ],
+    "HGNC": [
+      "18873",
+      "18873"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by the binding of dsRNA from another organism to the cytoplasmic pattern recognition receptor (PRR) MDA-5 (also known as IFIH1). MDA-5 detects RNA synthesized during viral replication or shed by non-viral pathogens, and triggers a signaling pathway to protect the host against infection, for example by inducing the expression of cytokines.",
+  "namespace": "biological_process",
+  "label": "MDA-5 signaling pathway"
+}

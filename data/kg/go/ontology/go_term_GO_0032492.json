@@ -1,0 +1,28 @@
+{
+  "id": "GO:0032492",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032492",
+  "relationships": {
+    "is_a": [
+      "GO:0002240",
+      "GO:0009593",
+      "GO:0098581"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "detection of oomycetes associated molecule"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "rl"
+    ]
+  },
+  "definition": "The series of events in which a stimulus from a molecule of oomycetes origin is received and converted into a molecular signal.",
+  "namespace": "biological_process",
+  "label": "detection of molecule of oomycetes origin"
+}

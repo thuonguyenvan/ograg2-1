@@ -1,0 +1,25 @@
+{
+  "id": "GO:0160044",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160044",
+  "relationships": {
+    "is_a": [
+      "GO:0005452",
+      "GO:0008271",
+      "GO:0015108"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "17442754"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: chloride(in) + sulfate(out) = chloride(out) + sulfate(in).",
+  "namespace": "molecular_function",
+  "label": "sulfate:chloride antiporter activity"
+}

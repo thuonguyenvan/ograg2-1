@@ -1,0 +1,29 @@
+{
+  "id": "GO:0015496",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015496",
+  "relationships": {
+    "is_a": [
+      "GO:0000064",
+      "GO:0015297",
+      "GO:0015489"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "putrescine-ornithine antiporter activity",
+      "putrescine/ornithine antiporter activity",
+      "putrescine:hydrogen symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.3.2.1"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: putrescine(out) + ornithine(in) = putrescine(in) + ornithine(out).",
+  "namespace": "molecular_function",
+  "label": "putrescine:ornithine antiporter activity"
+}

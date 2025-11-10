@@ -1,0 +1,30 @@
+{
+  "id": "GO:0034549",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034549",
+  "relationships": {
+    "is_a": [
+      "GO:0016814"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R06972"
+    ],
+    "MetaCyc": [
+      "RXN-8020"
+    ],
+    "UM-BBD_reactionID": [
+      "r0827",
+      "r0827"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-cyclopropylammelide + H2O = cyclopropylamine + cyanuric acid.",
+  "namespace": "molecular_function",
+  "label": "N-cyclopropylammelide alkylamino hydrolase activity"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0060965",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060965",
+  "relationships": {
+    "is_a": [
+      "GO:0060964",
+      "GO:1900369"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of gene silencing by miRNA",
+      "negative regulation of gene silencing by microRNA"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "aruk",
+      "bc",
+      "dph",
+      "rl",
+      "tb",
+      "bf",
+      "pr"
+    ],
+    "PMID": [
+      "23985560",
+      "28379604"
+    ]
+  },
+  "definition": "A process that decreases the rate, frequency, or extent of gene silencing by a microRNA (miRNA).",
+  "namespace": "biological_process",
+  "label": "negative regulation of miRNA-mediated gene silencing"
+}

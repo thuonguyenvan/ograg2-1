@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050246",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050246",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "questin oxygenase activity",
+      "questin,NADPH:oxygen oxidoreductase (hydroxylating, anthraquinone-ring-opening)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.43",
+      "1.14.13.43",
+      "1.14.13.43"
+    ],
+    "KEGG_REACTION": [
+      "R02417"
+    ],
+    "MetaCyc": [
+      "QUESTIN-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "10836",
+      "10836"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H+ + NADPH + O2 + questin = demethylsulochrin + NADP+.",
+  "namespace": "molecular_function",
+  "label": "questin monooxygenase (NADPH) activity"
+}

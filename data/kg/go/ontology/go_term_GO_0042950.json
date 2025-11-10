@@ -1,0 +1,28 @@
+{
+  "id": "GO:0042950",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042950",
+  "relationships": {
+    "is_a": [
+      "GO:0015573",
+      "GO:0015665"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of salicin (saligenin-beta-D-glucopyranoside), a glucoside of o-hydroxybenzylalcohol, from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "salicin transmembrane transporter activity"
+}

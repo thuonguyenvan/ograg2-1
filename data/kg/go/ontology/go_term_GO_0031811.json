@@ -1,0 +1,31 @@
+{
+  "id": "GO:0031811",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031811",
+  "relationships": {
+    "is_a": [
+      "GO:0001664"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G-protein coupled nucleotide receptor binding",
+      "P2Y receptor binding",
+      "metabotropic nucleotide receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "metabotropic nucleotide receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "nln",
+      "bf"
+    ]
+  },
+  "definition": "Binding to a G protein-coupled (metabotropic) nucleotide receptor.",
+  "namespace": "molecular_function",
+  "label": "G protein-coupled nucleotide receptor binding"
+}

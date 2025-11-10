@@ -1,0 +1,35 @@
+{
+  "id": "GO:1902990",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902990",
+  "relationships": {
+    "is_a": [
+      "GO:0032201",
+      "GO:1903047"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "telomeric fork progression involved in mitotic cell cycle",
+      "telomeric replication fork progression involved in mitotic cell cycle"
+    ],
+    "related": [
+      "equal telomere replication involved in mitotic cell cycle"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000060"
+    ]
+  },
+  "definition": "Any telomere maintenance via semi-conservative replication that is involved in mitotic cell cycle.",
+  "namespace": "biological_process",
+  "label": "mitotic telomere maintenance via semi-conservative replication"
+}

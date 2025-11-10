@@ -1,0 +1,28 @@
+{
+  "id": "GO:0015825",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015825",
+  "relationships": {
+    "is_a": [
+      "GO:0015807",
+      "GO:0032329"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "L-serine import"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "jsg",
+      "mah"
+    ]
+  },
+  "definition": "The directed movement of L-serine, the L-enantiomer of 2-amino-3-hydroxypropanoic acid, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "L-serine transport"
+}

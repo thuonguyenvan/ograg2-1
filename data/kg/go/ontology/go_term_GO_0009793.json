@@ -1,0 +1,27 @@
+{
+  "id": "GO:0009793",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009793",
+  "relationships": {
+    "is_a": [
+      "GO:0003006",
+      "GO:0009790"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "embryogenesis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "The process whose specific outcome is the progression of the embryo over time, from zygote formation to the end of seed dormancy. An example of this process is found in Arabidopsis thaliana.",
+  "namespace": "biological_process",
+  "label": "embryo development ending in seed dormancy"
+}

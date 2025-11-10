@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047157",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047157",
+  "relationships": {
+    "is_a": [
+      "GO:0016416"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "acyl-protein synthase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "[myelin-proteolipid] O-palmitoyltransferase activity",
+      "myelin PLP acyltransferase activity",
+      "palmitoyl-CoA:[myelin-proteolipid] O-palmitoyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.100",
+      "2.3.1.100",
+      "2.3.1.100",
+      "2.3.1.100",
+      "2.3.1.100"
+    ],
+    "MetaCyc": [
+      "2.3.1.100-RXN"
+    ],
+    "PMID": [
+      "3818589"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [myelin proteolipid] + palmityl-CoA = [myelin proteolipid] O-palmitoylprotein + CoA.",
+  "namespace": "molecular_function",
+  "label": "myelin-proteolipid O-palmitoyltransferase activity"
+}

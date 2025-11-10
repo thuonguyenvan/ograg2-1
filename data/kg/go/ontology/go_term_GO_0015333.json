@@ -1,0 +1,33 @@
+{
+  "id": "GO:0015333",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015333",
+  "relationships": {
+    "is_a": [
+      "GO:0015295",
+      "GO:1904680"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptide:hydrogen symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-427998",
+      "R-HSA-428007"
+    ],
+    "GOC": [
+      "mtg_transport"
+    ],
+    "TC": [
+      "2.A.17.-.-"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: peptide(out) + H+(out) = peptide(in) + H+(in), up its concentration gradient. The transporter binds the solute and undergoes a series of conformational changes. Transport works equally well in either direction and is driven by hydrogen ion movement.",
+  "namespace": "molecular_function",
+  "label": "Proton-coupled histidine and di-peptide cotransport"
+}

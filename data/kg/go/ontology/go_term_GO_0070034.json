@@ -1,0 +1,29 @@
+{
+  "id": "GO:0070034",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070034",
+  "relationships": {
+    "is_a": [
+      "GO:0003723"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "TERC binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "dph"
+    ],
+    "PMID": [
+      "16884717"
+    ]
+  },
+  "definition": "Binding to the telomerase RNA template.",
+  "namespace": "molecular_function",
+  "label": "telomerase RNA binding"
+}

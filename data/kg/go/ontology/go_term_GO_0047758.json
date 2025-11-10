@@ -1,0 +1,49 @@
+{
+  "id": "GO:0047758",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047758",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016774"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP:2-methylpropanoate 1-phosphotransferase activity",
+      "ATP:2-methylpropanoate kinase activity",
+      "ATP:isobutyrate 1-phosphotransferase activity"
+    ],
+    "broad": [
+      "ATP:branched-chain-fatty-acid 1-phosphotransferase activity",
+      "branched-chain fatty acid kinase activity",
+      "branched-chain-fatty-acid kinase activity",
+      "isobutyrate kinase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.2.14",
+      "2.7.2.14",
+      "2.7.2.14",
+      "2.7.2.14",
+      "2.7.2.14",
+      "2.7.2.14"
+    ],
+    "KEGG_REACTION": [
+      "R04002",
+      "R04002"
+    ],
+    "MetaCyc": [
+      "BRANCHED-CHAIN-FATTY-ACID-KINASE-RXN"
+    ],
+    "RHEA": [
+      "24156",
+      "24156"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-methylpropanoate + ATP = 2-methylpropanoyl phosphate + ADP + H+.",
+  "namespace": "molecular_function",
+  "label": "ATP:2-methylpropanoate phosphotransferase activity"
+}

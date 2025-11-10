@@ -1,0 +1,52 @@
+{
+  "id": "GO:1904003",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904003",
+  "relationships": {
+    "is_a": [
+      "GO:0050680",
+      "GO:1904002"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of sebum secreting cell proliferation",
+      "down-regulation of sebum secreting cell proliferation",
+      "downregulation of sebum secreting cell proliferation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of sebum secreting cell proliferation"
+    ],
+    "related": [
+      "down regulation of sebocyte proliferation",
+      "down-regulation of sebocyte proliferation",
+      "downregulation of sebocyte proliferation",
+      "inhibition of sebocyte proliferation",
+      "negative regulation of sebocyte proliferation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "hjd",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "16901790"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of sebum secreting cell proliferation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of sebum secreting cell proliferation"
+}

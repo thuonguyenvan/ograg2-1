@@ -1,0 +1,28 @@
+{
+  "id": "GO:0008597",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008597",
+  "relationships": {
+    "is_a": [
+      "GO:0019888"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "calcium-dependent protein serine/threonine phosphatase, intrinsic regulator activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-139906"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binds to and modulates of the activity of the enzyme calcium-dependent protein serine/threonine phosphatase.",
+  "namespace": "molecular_function",
+  "label": "Activation of BAD by calcineurin"
+}

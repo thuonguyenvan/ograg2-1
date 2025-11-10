@@ -1,0 +1,36 @@
+{
+  "id": "GO:0099403",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099403",
+  "relationships": {
+    "is_a": [
+      "GO:0034088"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "maintenance of mitotic sister chromatin cohesion at telomere",
+      "maintenance of sister chromatin cohesion at telomere at mitosis",
+      "maintenance of telomeric mitotic sister chromatin cohesion"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "dos",
+      "rph",
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "26373281"
+    ]
+  },
+  "definition": "The process in which the association between sister chromatids of a replicated chromosome along the length of the telomeric region is maintained as chromosomes condense, attach to the spindle in a bipolar orientation, and congress to the metaphase plate during a mitotic cell cycle.",
+  "namespace": "biological_process",
+  "label": "maintenance of mitotic sister chromatid cohesion, telomeric"
+}

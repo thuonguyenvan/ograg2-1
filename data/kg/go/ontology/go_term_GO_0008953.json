@@ -1,0 +1,47 @@
+{
+  "id": "GO:0008953",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008953",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "palmitoleoyl [acyl-carrier protein]-dependent acyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alpha-acylamino-beta-lactam acylhydrolase activity",
+      "ampicillin acylase activity",
+      "benzylpenicillin acylase activity",
+      "novozym 217",
+      "penicillin acylase activity",
+      "penicillin amidohydrolase activity",
+      "semacylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.11",
+      "3.5.1.11",
+      "3.5.1.11",
+      "3.5.1.11",
+      "3.5.1.11",
+      "3.5.1.11",
+      "3.5.1.11",
+      "3.5.1.11",
+      "3.5.1.11"
+    ],
+    "MetaCyc": [
+      "PENICILLIN-AMIDASE-RXN"
+    ],
+    "RHEA": [
+      "18693"
+    ]
+  },
+  "definition": "Catalysis of the reaction: penicillin + H2O = a carboxylate + 6-aminopenicillanate.",
+  "namespace": "molecular_function",
+  "label": "penicillin amidase activity"
+}

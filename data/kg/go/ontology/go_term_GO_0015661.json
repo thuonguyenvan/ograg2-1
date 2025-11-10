@@ -1,0 +1,31 @@
+{
+  "id": "GO:0015661",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015661",
+  "relationships": {
+    "is_a": [
+      "GO:0015189",
+      "GO:0034639"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-lysine exporter activity",
+      "L-lysine, 2,6-diaminohexanoic acid efflux transmembrane transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of L-lysine from the inside of the cell to the outside of the cell across a membrane.",
+  "namespace": "molecular_function",
+  "label": "L-lysine efflux transmembrane transporter activity"
+}

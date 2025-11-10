@@ -1,0 +1,44 @@
+{
+  "id": "GO:0018530",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018530",
+  "relationships": {
+    "is_a": [
+      "GO:0019116"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "6-hydroxy-D-nicotine oxidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-6-hydroxynicotine:oxygen oxidoreductase activity",
+      "D-6-hydroxynicotine oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.3.6",
+      "1.5.3.6",
+      "1.5.3.6",
+      "1.5.3.6"
+    ],
+    "KEGG_REACTION": [
+      "R07170"
+    ],
+    "MetaCyc": [
+      "R-6-HYDROXYNICOTINE-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "10012",
+      "10012"
+    ],
+    "UM-BBD_reactionID": [
+      "r0477"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-6-hydroxynicotine + H2O + O2 = 6-hydroxypseudooxynicotine + H2O2.",
+  "namespace": "molecular_function",
+  "label": "(R)-6-hydroxynicotine oxidase activity"
+}

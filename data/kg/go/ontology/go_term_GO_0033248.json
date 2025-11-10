@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033248",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033248",
+  "relationships": {
+    "is_a": [
+      "GO:0009895",
+      "GO:0033247",
+      "GO:0034249",
+      "GO:0062014"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of penicillin breakdown",
+      "negative regulation of penicillin catabolism",
+      "negative regulation of penicillin degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the chemical reactions and pathways leading to the breakdown of any antibiotic that contains the condensed beta-lactamthiazolidine ring system.",
+  "namespace": "biological_process",
+  "label": "negative regulation of penicillin catabolic process"
+}

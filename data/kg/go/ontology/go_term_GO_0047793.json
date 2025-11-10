@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047793",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047793",
+  "relationships": {
+    "is_a": [
+      "GO:0016872"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cycloeucalenol-obtusifoliol isomerase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cycloeucalenol lyase (cyclopropane-decyclizing)",
+      "cycloeucalenol--obtusifoliol isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.5.1.9",
+      "5.5.1.9",
+      "5.5.1.9",
+      "5.5.1.9"
+    ],
+    "KEGG_REACTION": [
+      "R03775"
+    ],
+    "MetaCyc": [
+      "CYCLOEUCALENOL-CYCLOISOMERASE-RXN"
+    ],
+    "RHEA": [
+      "22800",
+      "22800"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cycloeucalenol = obtusifoliol.",
+  "namespace": "molecular_function",
+  "label": "cycloeucalenol cycloisomerase activity"
+}

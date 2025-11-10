@@ -1,0 +1,31 @@
+{
+  "id": "GO:0000272",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000272",
+  "relationships": {
+    "is_a": [
+      "GO:0005976",
+      "GO:0009057",
+      "GO:0016052"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "polysaccharide breakdown",
+      "polysaccharide catabolism",
+      "polysaccharide degradation"
+    ],
+    "broad": [],
+    "narrow": [
+      "multicellular organismal polysaccharide catabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "33139480"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a polysaccharide, a polymer of many (typically more than 10) monosaccharide residues linked glycosidically.",
+  "namespace": "biological_process",
+  "label": "polysaccharide catabolic process"
+}

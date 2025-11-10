@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102285",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102285",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.170"
+    ],
+    "MetaCyc": [
+      "RXN-12654"
+    ],
+    "RHEA": [
+      "34635",
+      "34635"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-deoxy-11-oxopentalenate + O2 + NADPH + H+ = pentalenolactone D + H2O + NADP.",
+  "namespace": "molecular_function",
+  "label": "1-deoxy-11-oxopentalenate oxygenase activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:1902976",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902976",
+  "relationships": {
+    "is_a": [
+      "GO:0071163",
+      "GO:1903046"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA replication preinitiation complex formation involved in meiotic cell cycle",
+      "pre-IC complex assembly involved in meiotic cell cycle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000060"
+    ]
+  },
+  "definition": "Any DNA replication preinitiation complex assembly that is involved in meiotic cell cycle.",
+  "namespace": "biological_process",
+  "label": "premeiotic DNA replication preinitiation complex assembly"
+}

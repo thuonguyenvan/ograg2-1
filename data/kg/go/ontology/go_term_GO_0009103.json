@@ -1,0 +1,36 @@
+{
+  "id": "GO:0009103",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009103",
+  "relationships": {
+    "is_a": [
+      "GO:0000271",
+      "GO:0008610",
+      "GO:0008653",
+      "GO:1901137"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LPS biosynthetic process",
+      "lipopolysaccharide anabolism",
+      "lipopolysaccharide biosynthesis",
+      "lipopolysaccharide formation",
+      "lipopolysaccharide synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_PATHWAY": [
+      "map00540"
+    ],
+    "GOC": [
+      "ai",
+      "mr"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of lipopolysaccharides, any of a group of related, structurally complex components of the outer membrane of Gram-negative bacteria.",
+  "namespace": "biological_process",
+  "label": "lipopolysaccharide biosynthetic process"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "GO:0004014",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004014",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "adenosyl methionine decarboxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine carboxy-lyase [(5-deoxy-5-adenosyl)(3-aminopropyl)-methylsulfonium-salt-forming]",
+      "S-adenosyl-L-methionine carboxy-lyase activity",
+      "S-adenosyl-L-methionine decarboxylase activity",
+      "S-adenosylmethionine decarboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.50",
+      "4.1.1.50",
+      "4.1.1.50",
+      "4.1.1.50",
+      "4.1.1.50",
+      "4.1.1.50"
+    ],
+    "KEGG_REACTION": [
+      "R00178"
+    ],
+    "MetaCyc": [
+      "SAMDECARB-RXN"
+    ],
+    "RHEA": [
+      "15981",
+      "15981"
+    ],
+    "Reactome": [
+      "R-HSA-351222"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + H+ = S-adenosylmethioninamine + CO2.",
+  "namespace": "molecular_function",
+  "label": "S-Adenosyl methionine &lt;=&gt; Decarboxylated-Adenosyl methionine + CO2"
+}

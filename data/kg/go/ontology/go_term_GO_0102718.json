@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102718",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102718",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.241",
+      "2.1.1.241"
+    ],
+    "MetaCyc": [
+      "RXN-6687"
+    ],
+    "RHEA": [
+      "32099"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: TRIBOA-beta-D-glucoside + S-adenosyl-L-methionine = (2R)-DIMBOA glucoside + S-adenosyl-L-homocysteine + H+.",
+  "namespace": "molecular_function",
+  "label": "TRIBOA-glucoside methyltransferase activity"
+}

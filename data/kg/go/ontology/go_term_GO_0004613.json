@@ -1,0 +1,52 @@
+{
+  "id": "GO:0004613",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004613",
+  "relationships": {
+    "is_a": [
+      "GO:0004611"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphoenolpyruvate carboxylase (GTP)"
+    ],
+    "broad": [
+      "phosphoenolpyruvic carboxykinase"
+    ],
+    "narrow": [],
+    "related": [
+      "GTP:oxaloacetate carboxy-lyase (adding GTP; phosphoenolpyruvate-forming)",
+      "GTP:oxaloacetate carboxy-lyase (transphosphorylating)",
+      "phosphoenolpyruvic carboxykinase (GTP)",
+      "phosphoenolpyruvic carboxylase (GTP)",
+      "phosphopyruvate (guanosine triphosphate) carboxykinase activity",
+      "phosphopyruvate carboxylase (GTP)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.32",
+      "4.1.1.32",
+      "4.1.1.32",
+      "4.1.1.32",
+      "4.1.1.32",
+      "4.1.1.32",
+      "4.1.1.32",
+      "4.1.1.32",
+      "4.1.1.32"
+    ],
+    "MetaCyc": [
+      "4.1.1.32-RXN"
+    ],
+    "RHEA": [
+      "10388"
+    ],
+    "Reactome": [
+      "R-HSA-372819",
+      "R-HSA-70241"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GTP + oxaloacetate = GDP + phosphoenolpyruvate + CO2.",
+  "namespace": "molecular_function",
+  "label": "PCK1 phosphorylates OA to yield PEP"
+}

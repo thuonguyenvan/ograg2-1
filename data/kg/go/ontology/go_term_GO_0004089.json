@@ -1,0 +1,63 @@
+{
+  "id": "GO:0004089",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004089",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "carbonic anhydrase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "anhydrase activity",
+      "carbonate anhydrase activity",
+      "carbonate hydro-lyase (carbon-dioxide-forming)",
+      "carbonate hydro-lyase activity",
+      "carbonic acid anhydrase activity",
+      "carbonic anhydrase A",
+      "carbonic dehydratase activity",
+      "carboxyanhydrase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.1",
+      "4.2.1.1",
+      "4.2.1.1",
+      "4.2.1.1",
+      "4.2.1.1",
+      "4.2.1.1",
+      "4.2.1.1",
+      "4.2.1.1",
+      "4.2.1.1",
+      "4.2.1.1"
+    ],
+    "MetaCyc": [
+      "RXN0-5224"
+    ],
+    "RHEA": [
+      "10748"
+    ],
+    "Reactome": [
+      "R-HSA-1237045",
+      "R-HSA-1237047",
+      "R-HSA-1237059",
+      "R-HSA-1237081",
+      "R-HSA-1475017",
+      "R-HSA-1475022",
+      "R-HSA-1475025",
+      "R-HSA-1475026",
+      "R-HSA-1475028",
+      "R-HSA-1475032",
+      "R-HSA-1475435",
+      "R-HSA-1475436"
+    ]
+  },
+  "definition": "Catalysis of the reaction: hydrogencarbonate + H+ = CO2 + H2O.",
+  "namespace": "molecular_function",
+  "label": "CA1:Zn2+,CA2:Zn2+ dehydrate HCO3- to CO2"
+}

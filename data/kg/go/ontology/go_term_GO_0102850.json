@@ -1,0 +1,29 @@
+{
+  "id": "GO:0102850",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102850",
+  "relationships": {
+    "is_a": [
+      "GO:0016717"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1-18:1-2-16:0-phosphatidylglycerol omega-6 desaturase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.19.23"
+    ],
+    "RHEA": [
+      "46376",
+      "46376"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a (9Z)-octadecenoyl-containing glycerolipid + 2 H+ + O2 + 2 reduced [2Fe-2S]-[ferredoxin] = a (9Z,12Z)-octadecadienoyl-containing glycerolipid + 2 H2O + 2 oxidized [2Fe-2S]-[ferredoxin].",
+  "namespace": "molecular_function",
+  "label": "acyl-lipid (n+3)-(Z)-desaturase (ferredoxin) activity"
+}

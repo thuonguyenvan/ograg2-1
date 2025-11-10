@@ -1,0 +1,54 @@
+{
+  "id": "GO:0050555",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050555",
+  "relationships": {
+    "is_a": [
+      "GO:0016846"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-2-hydroxypropyl-CoM 2-mercaptoethanesulfonate lyase (cyclizing; epoxyalkane-ring-forming)",
+      "(R)-[or (S)-]2-hydroxypropyl-CoM:2-mercaptoethanesulfonate lyase (epoxyalkane-ring-forming)",
+      "2-hydroxypropyl-CoM:2-mercaptoethanesulfonate lyase (epoxyalkane-ring-forming)",
+      "EaCoMT activity",
+      "coenzyme M-epoxyalkane ligase activity",
+      "epoxyalkane:2-mercaptoethanesulfonate transferase activity",
+      "epoxyalkane:CoM transferase activity",
+      "epoxyalkane:coenzyme M transferase activity",
+      "epoxyalkyl:CoM transferase activity",
+      "epoxypropane:coenzyme M transferase activity",
+      "epoxypropyl:CoM transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.4.1.23",
+      "4.4.1.23",
+      "4.4.1.23",
+      "4.4.1.23",
+      "4.4.1.23",
+      "4.4.1.23",
+      "4.4.1.23",
+      "4.4.1.23",
+      "4.4.1.23",
+      "4.4.1.23",
+      "4.4.1.23",
+      "4.4.1.23",
+      "4.4.1.23"
+    ],
+    "MetaCyc": [
+      "4.2.99.19-RXN"
+    ],
+    "UM-BBD_enzymeID": [
+      "r0851",
+      "r0858"
+    ]
+  },
+  "definition": "Catalysis of the reactions: (R)-2-hydroxypropyl-CoM = H-S-CoM + (R)-1,2-epoxypropane, and (S)-2-hydroxypropyl-CoM = H-S-CoM + (S)-1,2-epoxypropane.",
+  "namespace": "molecular_function",
+  "label": "2-hydroxypropyl-CoM lyase activity"
+}

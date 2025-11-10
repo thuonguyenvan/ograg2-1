@@ -1,0 +1,29 @@
+{
+  "id": "GO:0019377",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019377",
+  "relationships": {
+    "is_a": [
+      "GO:0006664",
+      "GO:0046466",
+      "GO:1901136"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycolipid breakdown",
+      "glycolipid catabolism",
+      "glycolipid degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of glycolipid, a class of 1,2-di-O-acylglycerols joined at oxygen 3 by a glycosidic linkage to a carbohydrate part (usually a mono-, di- or tri-saccharide).",
+  "namespace": "biological_process",
+  "label": "glycolipid catabolic process"
+}

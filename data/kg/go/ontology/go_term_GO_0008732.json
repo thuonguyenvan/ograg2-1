@@ -1,0 +1,37 @@
+{
+  "id": "GO:0008732",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008732",
+  "relationships": {
+    "is_a": [
+      "GO:0004793"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-allo-threonine acetaldehyde-lyase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "LtaA"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.49"
+    ],
+    "MetaCyc": [
+      "LTAA-RXN"
+    ],
+    "RHEA": [
+      "26209",
+      "26209"
+    ],
+    "PMID": [
+      "9228760"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-allo-threonine = glycine + acetaldehyde.",
+  "namespace": "molecular_function",
+  "label": "L-allo-threonine aldolase activity"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0033480",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033480",
+  "relationships": {
+    "is_a": [
+      "GO:0009226"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-D-galacturonate anabolism",
+      "UDP-D-galacturonate biosynthesis",
+      "UDP-D-galacturonate formation",
+      "UDP-D-galacturonate synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-4"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of UDP-D-galacturonate, a substance composed of galacturonic acid in glycosidic linkage with uridine diphosphate.",
+  "namespace": "biological_process",
+  "label": "UDP-D-galacturonate biosynthetic process"
+}

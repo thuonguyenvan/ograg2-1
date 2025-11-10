@@ -1,0 +1,28 @@
+{
+  "id": "GO:0052785",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052785",
+  "relationships": {
+    "is_a": [
+      "GO:0030245"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "endo-processive cellulase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators"
+    ],
+    "PMID": [
+      "18035374"
+    ]
+  },
+  "definition": "The breakdown into simpler components of cellulose. Catabolism is initiated by endohydrolytic attacks on the cellulose chain, and the resulting pieces are further degraded by cellulase enzymes to produce smaller and smaller fragments.",
+  "namespace": "biological_process",
+  "label": "cellulose catabolism by endo-processive cellulases"
+}

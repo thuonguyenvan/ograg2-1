@@ -1,0 +1,58 @@
+{
+  "id": "GO:1901253",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901253",
+  "relationships": {
+    "is_a": [
+      "GO:1901252",
+      "GO:1903901"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of egress of virus within host cell",
+      "down regulation of movement of virus within host cell",
+      "down regulation of viral egress",
+      "down-regulation of egress of virus within host cell",
+      "down-regulation of movement of virus within host cell",
+      "down-regulation of viral egress",
+      "downregulation of egress of virus within host cell",
+      "downregulation of movement of virus within host cell",
+      "downregulation of viral egress",
+      "inhibition of movement of virus within host cell",
+      "inhibition of viral egress",
+      "negative regulation of movement of virus within host cell",
+      "negative regulation of viral egress"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of egress of virus within host cell"
+    ],
+    "related": [
+      "negative regulation of egress of virus within host cell"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bf",
+      "jl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of intracellular transport of viral material.",
+  "namespace": "biological_process",
+  "label": "negative regulation of intracellular transport of viral material"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "GO:0004103",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004103",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:choline phosphotransferase activity",
+      "choline kinase (phosphorylating)",
+      "choline phosphokinase activity",
+      "choline-ethanolamine kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.32",
+      "2.7.1.32"
+    ],
+    "KEGG_REACTION": [
+      "R01021"
+    ],
+    "MetaCyc": [
+      "CHOLINE-KINASE-RXN"
+    ],
+    "RHEA": [
+      "12837",
+      "12837"
+    ],
+    "Reactome": [
+      "R-HSA-1483004"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + choline = ADP + choline phosphate + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "Cho is phosphorylated to PCho by CHK dimer"
+}

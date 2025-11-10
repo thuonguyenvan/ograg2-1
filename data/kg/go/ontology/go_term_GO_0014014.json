@@ -1,0 +1,30 @@
+{
+  "id": "GO:0014014",
+  "uri": "http://purl.obolibrary.org/obo/GO_0014014",
+  "relationships": {
+    "is_a": [
+      "GO:0014013",
+      "GO:0050768"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of gliogenesis",
+      "down-regulation of gliogenesis",
+      "downregulation of gliogenesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of gliogenesis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ef"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of gliogenesis, the formation of mature glia.",
+  "namespace": "biological_process",
+  "label": "negative regulation of gliogenesis"
+}

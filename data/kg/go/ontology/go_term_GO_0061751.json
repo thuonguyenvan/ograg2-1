@@ -1,0 +1,31 @@
+{
+  "id": "GO:0061751",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061751",
+  "relationships": {
+    "is_a": [
+      "GO:0004767"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "neutral SMase",
+      "neutral sphingomyelinase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "26493087"
+    ],
+    "PMID": [
+      "26493087",
+      "26493087"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + sphingomyelin = ceramide + choline phosphate + H+ in a neutral environment.",
+  "namespace": "molecular_function",
+  "label": "neutral sphingomyelin phosphodiesterase activity"
+}

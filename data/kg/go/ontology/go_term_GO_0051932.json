@@ -1,0 +1,31 @@
+{
+  "id": "GO:0051932",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051932",
+  "relationships": {
+    "is_a": [
+      "GO:0007268"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GABAergic synaptic transmission",
+      "synaptic transmission, GABA mediated",
+      "synaptic transmission, gamma-aminobutyric acid mediated",
+      "synaptic transmission, gamma-aminobutyric acid-ergic"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dos"
+    ],
+    "ISBN": [
+      "0126603030"
+    ]
+  },
+  "definition": "The vesicular release of gamma-aminobutyric acid (GABA). from a presynapse, across a chemical synapse, the subsequent activation of GABA receptors at the postsynapse of a target cell (neuron, muscle, or secretory cell) and the effects of this activation on the postsynaptic membrane potential and ionic composition of the postsynaptic cytosol. This process encompasses both spontaneous and evoked release of neurotransmitter and all parts of synaptic vesicle exocytosis. Evoked transmission starts with the arrival of an action potential at the presynapse.",
+  "namespace": "biological_process",
+  "label": "synaptic transmission, GABAergic"
+}

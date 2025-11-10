@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033565",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033565",
+  "relationships": {
+    "is_a": [
+      "GO:0036452"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Hrs/STAM complex",
+      "Vps27p-Hse1p complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rb"
+    ],
+    "PMID": [
+      "12055639",
+      "17543868"
+    ]
+  },
+  "definition": "A protein complex required for the recycling of Golgi proteins, formation of lumenal membranes and sorting of ubiquitinated proteins into those membranes. This complex includes Vps1p and Hse1p in yeast and the Hrs and STAM proteins in mammals.",
+  "namespace": "cellular_component",
+  "label": "ESCRT-0 complex"
+}

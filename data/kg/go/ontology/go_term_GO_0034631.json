@@ -1,0 +1,31 @@
+{
+  "id": "GO:0034631",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034631",
+  "relationships": {
+    "is_a": [
+      "GO:0022402",
+      "GO:0072393"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "attachment of spindle microtubules to SPB",
+      "attachment of spindle microtubules to spindle pole body",
+      "microtubule anchoring at SPB"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "17486116"
+    ]
+  },
+  "definition": "Any process in which a microtubule is maintained in a specific location in a cell by attachment to a spindle pole body. Microtubules attach to spindle pole bodies at the minus end.",
+  "namespace": "biological_process",
+  "label": "microtubule anchoring at spindle pole body"
+}

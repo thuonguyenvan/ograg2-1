@@ -1,0 +1,35 @@
+{
+  "id": "GO:0034078",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034078",
+  "relationships": {
+    "is_a": [
+      "GO:0034077",
+      "GO:0042846"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "butanediol breakdown",
+      "butanediol catabolism",
+      "butanediol degradation",
+      "butylene glycol catabolic process",
+      "butylene glycol catabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "butanediol utilization"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0911910123"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of butanediol; the biologically relevant isomer is 2,3-butanediol, CH3CH(OH)CH(OH)CH3.",
+  "namespace": "biological_process",
+  "label": "butanediol catabolic process"
+}

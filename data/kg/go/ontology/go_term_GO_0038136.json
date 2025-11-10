@@ -1,0 +1,35 @@
+{
+  "id": "GO:0038136",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038136",
+  "relationships": {
+    "is_a": [
+      "GO:0038129",
+      "GO:0038130"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ERBB3-ERBB4 signalling pathway",
+      "HER3-HER4 signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "signaling",
+      "mah"
+    ],
+    "PMID": [
+      "16460914"
+    ],
+    "PR": [
+      "000007159",
+      "000007160"
+    ]
+  },
+  "definition": "The series of molecular signals transmitted by a heterodimeric complex of the tyrosine kinase receptors ERBB3 and ERBB4. The pathway begins with binding of a ligand to either cell surface receptor, or the dimeric receptor complex, and ends with regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "ERBB3-ERBB4 signaling pathway"
+}

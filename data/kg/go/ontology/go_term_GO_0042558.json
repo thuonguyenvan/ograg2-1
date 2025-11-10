@@ -1,0 +1,33 @@
+{
+  "id": "GO:0042558",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042558",
+  "relationships": {
+    "is_a": [
+      "GO:0008152"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pteridine and derivative metabolic process",
+      "pteridine and derivative metabolism",
+      "pteridine-containing compound metabolism"
+    ],
+    "broad": [],
+    "narrow": [
+      "pterin metabolic process",
+      "pterin metabolism"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving any compound containing pteridine (pyrazino(2,3-dipyrimidine)), e.g. pteroic acid, xanthopterin and folic acid.",
+  "namespace": "biological_process",
+  "label": "pteridine-containing compound metabolic process"
+}

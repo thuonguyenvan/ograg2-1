@@ -1,0 +1,36 @@
+{
+  "id": "GO:0042299",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042299",
+  "relationships": {
+    "is_a": [
+      "GO:0031559"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "oxidosqualene:lupeol cyclase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.99.41"
+    ],
+    "MetaCyc": [
+      "RXN-111",
+      "RXN-111"
+    ],
+    "RHEA": [
+      "31383"
+    ],
+    "PMID": [
+      "9883589",
+      "18033581"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-2,3-epoxysqualene = lupeol. This reaction is the cyclization of (S)-2,3-epoxysqualene (2,3-oxidosqualene) to lupeol.",
+  "namespace": "molecular_function",
+  "label": "lupeol synthase activity"
+}

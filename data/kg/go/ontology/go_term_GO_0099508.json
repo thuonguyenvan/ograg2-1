@@ -1,0 +1,30 @@
+{
+  "id": "GO:0099508",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099508",
+  "relationships": {
+    "is_a": [
+      "GO:0005244"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "voltage gated ion channel activity involved in regulation of presynaptic membrane potential",
+      "voltage-dependent ion channel activity involved in regulation of pre-synaptic membrane potential",
+      "voltage-dependent ion channel activity involved in regulation of presynaptic membrane potential",
+      "voltage-gated ion channel activity involved in regulation of pre-synaptic membrane potential"
+    ],
+    "broad": [
+      "voltage-gated ion channel activity involved in regulation of presynaptic membrane potential"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dos"
+    ]
+  },
+  "definition": "Voltage-gated ion channel activity, occurring in the presynaptic membrane, involved in regulation of presynaptic membrane potential. This is a key step in synaptic transmission, following the arrival of an action potential at the synapse.",
+  "namespace": "molecular_function",
+  "label": "voltage-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential"
+}

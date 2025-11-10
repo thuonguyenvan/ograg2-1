@@ -1,0 +1,32 @@
+{
+  "id": "GO:0008719",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008719",
+  "relationships": {
+    "is_a": [
+      "GO:0016854"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-erythro-7,8-dihydroneopterin triphosphate 2&apos;-epimerase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.99.7"
+    ],
+    "MetaCyc": [
+      "H2NTPEPIM-RXN"
+    ],
+    "RHEA": [
+      "28346",
+      "28346"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 7,8-dihydroneopterin 3&apos;-triphosphate = 7,8-dihydromonapterin 3&apos;-triphosphate.",
+  "namespace": "molecular_function",
+  "label": "dihydroneopterin triphosphate 2&apos;-epimerase activity"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0000900",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000900",
+  "relationships": {
+    "is_a": [
+      "GO:0030371"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "translation repressor activity, mRNA regulatory element binding"
+    ],
+    "broad": [
+      "translation repressor activity, nucleic acid binding"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5690886"
+    ],
+    "GOC": [
+      "clt",
+      "vw"
+    ],
+    "PMID": [
+      "29061112",
+      "7523370"
+    ]
+  },
+  "definition": "Antagonizes the ribosome-mediated translation of mRNA into a polypeptide via direct binding (through a selective and non-covalent interaction) to nucleic acid.",
+  "namespace": "molecular_function",
+  "label": "ACO1, IREB2 bind IREs in TFRC, ALAD, FTL, FTH1 mRNAs"
+}

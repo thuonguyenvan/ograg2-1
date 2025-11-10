@@ -1,0 +1,33 @@
+{
+  "id": "GO:0052753",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052753",
+  "relationships": {
+    "is_a": [
+      "GO:0016614"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "F420-dependent propan-2-ol dehydrogenase activity",
+      "isopropanol:coenzyme F420 oxidoreductase activity"
+    ],
+    "broad": [
+      "F420-dependent secondary alcohol dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators"
+    ],
+    "PMID": [
+      "15016352",
+      "1879431",
+      "8706724"
+    ]
+  },
+  "definition": "Catalysis of the reaction: propan-2-ol + coenzyme F420 = acetone + reduced coenzyme F420.",
+  "namespace": "molecular_function",
+  "label": "propan-2-ol:coenzyme F420 oxidoreductase activity"
+}

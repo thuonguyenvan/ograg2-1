@@ -1,0 +1,70 @@
+{
+  "id": "GO:1905268",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905268",
+  "relationships": {
+    "is_a": [
+      "GO:0051129",
+      "GO:1902275"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of chromatin organisation",
+      "down regulation of chromatin organization",
+      "down regulation of establishment or maintenance of chromatin architecture",
+      "down-regulation of chromatin organisation",
+      "down-regulation of chromatin organization",
+      "down-regulation of establishment or maintenance of chromatin architecture",
+      "downregulation of chromatin organisation",
+      "downregulation of chromatin organization",
+      "downregulation of establishment or maintenance of chromatin architecture",
+      "negative regulation of chromatin assembly/disassembly",
+      "negative regulation of chromatin organisation",
+      "negative regulation of establishment or maintenance of chromatin architecture"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of chromatin assembly or disassembly",
+      "inhibition of chromatin organisation",
+      "inhibition of chromatin organization",
+      "inhibition of establishment or maintenance of chromatin architecture"
+    ],
+    "related": [
+      "down regulation of chromatin assembly or disassembly",
+      "down-regulation of chromatin assembly or disassembly",
+      "downregulation of chromatin assembly or disassembly",
+      "negative regulation of chromatin assembly or disassembly",
+      "negative regulation of chromatin modification"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "pr",
+      "vw",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "654321"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of chromatin organization.",
+  "namespace": "biological_process",
+  "label": "negative regulation of chromatin organization"
+}

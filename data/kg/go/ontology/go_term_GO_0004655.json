@@ -1,0 +1,55 @@
+{
+  "id": "GO:0004655",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004655",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "aminolevulinate dehydratase activity",
+      "delta-aminolevulinic acid dehydratase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing)",
+      "5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing; porphobilinogen-forming)",
+      "5-levulinic acid dehydratase activity",
+      "aminolevulinic dehydratase activity",
+      "delta-aminolevulinate dehydratase activity",
+      "delta-aminolevulinic acid dehydrase activity",
+      "delta-aminolevulinic dehydratase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.24",
+      "4.2.1.24",
+      "4.2.1.24",
+      "4.2.1.24",
+      "4.2.1.24",
+      "4.2.1.24",
+      "4.2.1.24",
+      "4.2.1.24",
+      "4.2.1.24"
+    ],
+    "KEGG_REACTION": [
+      "R00036"
+    ],
+    "MetaCyc": [
+      "PORPHOBILSYNTH-RXN"
+    ],
+    "RHEA": [
+      "24064",
+      "24064"
+    ],
+    "Reactome": [
+      "R-HSA-189439"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 5-aminolevulinate = 2 H2O + H+ + porphobilinogen.",
+  "namespace": "molecular_function",
+  "label": "ALAD condenses 2 dALAs to form PBG"
+}

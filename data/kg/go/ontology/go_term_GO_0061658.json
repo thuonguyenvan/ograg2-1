@@ -1,0 +1,27 @@
+{
+  "id": "GO:0061658",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061658",
+  "relationships": {
+    "is_a": [
+      "GO:0042294",
+      "GO:0061650"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "E2"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "dph"
+    ]
+  },
+  "definition": "Isoenergetic transfer of URM1 from one protein to another via the reaction X-URM1 + Y = Y-URM1 + X, where both the X-URM1 and Y-URM1 linkages are thioester bonds between the C-terminal amino acid of URM1 and a sulfhydryl side group of a cysteine residue.",
+  "namespace": "molecular_function",
+  "label": "URM1 conjugating enzyme activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0120549",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120549",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycogen debranching enzyme"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.196",
+      "3.2.1.196"
+    ],
+    "MetaCyc": [
+      "RXN0-5146"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of (1-&gt;6)-alpha-D-glucosidic linkages to branches with degrees of polymerization of three or four glucose residues in limit dextrin.",
+  "namespace": "molecular_function",
+  "label": "limit dextrin alpha-1,6-maltotetraose-hydrolase activity"
+}

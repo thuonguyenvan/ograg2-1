@@ -1,0 +1,33 @@
+{
+  "id": "GO:0032461",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032461",
+  "relationships": {
+    "is_a": [
+      "GO:0031334",
+      "GO:0032459"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of protein oligomerization",
+      "up-regulation of protein oligomerization",
+      "upregulation of protein oligomerization"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein oligomerization",
+      "stimulation of protein oligomerization"
+    ],
+    "related": [
+      "induction of protein oligomerization"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of protein oligomerization.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein oligomerization"
+}

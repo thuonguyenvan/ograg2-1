@@ -1,0 +1,28 @@
+{
+  "id": "GO:0052572",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052572",
+  "relationships": {
+    "is_a": [
+      "GO:0052200"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "response to immune response of other organism involved in symbiotic interaction"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1222499"
+    ],
+    "GOC": [
+      "mtg_pamgo_17jul06"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of detecting the immune response of the host organism. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "Latent infection - Other responses of Mtb to phagocytosis"
+}

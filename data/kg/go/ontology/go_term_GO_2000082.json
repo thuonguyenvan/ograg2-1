@@ -1,0 +1,44 @@
+{
+  "id": "GO:2000082",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000082",
+  "relationships": {
+    "is_a": [
+      "GO:0010565",
+      "GO:0030656",
+      "GO:0043255"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of L-ascorbic acid anabolism",
+      "regulation of L-ascorbic acid biosynthesis",
+      "regulation of L-ascorbic acid formation",
+      "regulation of L-ascorbic acid synthesis",
+      "regulation of ascorbate biosynthesis",
+      "regulation of ascorbate biosynthetic process",
+      "regulation of vitamin C biosynthesis",
+      "regulation of vitamin C biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "19395407"
+    ],
+    "GOC": [
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of L-ascorbic acid biosynthetic process.",
+  "namespace": "biological_process",
+  "label": "regulation of L-ascorbic acid biosynthetic process"
+}

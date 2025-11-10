@@ -1,0 +1,41 @@
+{
+  "id": "GO:0004136",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004136",
+  "relationships": {
+    "is_a": [
+      "GO:0019136"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:deoxyadenosine 5&apos;-phosphotransferase activity",
+      "deoxyadenosine kinase (phosphorylating)",
+      "purine-deoxyribonucleoside kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.76",
+      "2.7.1.76",
+      "2.7.1.76",
+      "2.7.1.76",
+      "2.7.1.76"
+    ],
+    "KEGG_REACTION": [
+      "R02089"
+    ],
+    "MetaCyc": [
+      "DEOXYADENOSINE-KINASE-RXN"
+    ],
+    "RHEA": [
+      "23452",
+      "23452"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2&apos;-deoxyadenosine + ATP = ADP + dAMP + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "deoxyadenosine kinase activity"
+}

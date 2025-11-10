@@ -1,0 +1,55 @@
+{
+  "id": "GO:0008963",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008963",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "MraY transferase activity"
+    ],
+    "related": [
+      "UDP-MurAc(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala):undecaprenyl-phosphate phospho-N-acetylmuramoyl-pentapeptide-transferase activity",
+      "UDP-MurNAc-Ala-gamma-DGlu-Lys-DAla-DAla:undecaprenylphosphate transferase activity",
+      "UDP-MurNAc-Ala-gammaDGlu-Lys-DAla-DAla:undecaprenylphosphate transferase activity",
+      "UDP-MurNAc-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala:C(55)-isoprenoid alcohol transferase activity",
+      "UDP-MurNAc-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala:C55-isoprenoid alcohol transferase activity",
+      "UDP-MurNAc-pentapeptide phosphotransferase activity",
+      "phospho-MurNAc-pentapeptide transferase activity",
+      "phospho-N-acetylmuramoyl pentapeptide translocase activity",
+      "phospho-NAc-muramoyl-pentapeptide translocase (UMP) activity",
+      "phosphoacetylmuramoylpentapeptide translocase activity",
+      "phosphoacetylmuramoylpentapeptidetransferase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-8975"
+    ],
+    "RHEA": [
+      "21920",
+      "21920"
+    ],
+    "EC": [
+      "2.7.8.13",
+      "2.7.8.13",
+      "2.7.8.13",
+      "2.7.8.13",
+      "2.7.8.13",
+      "2.7.8.13",
+      "2.7.8.13",
+      "2.7.8.13",
+      "2.7.8.13",
+      "2.7.8.13",
+      "2.7.8.13",
+      "2.7.8.13"
+    ]
+  },
+  "definition": "Catalysis of the reaction: di-trans,octa-cis-undecaprenyl phosphate + UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine = Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-di-trans,octa-cis-undecaprenyl diphosphate + UMP.",
+  "namespace": "molecular_function",
+  "label": "phospho-N-acetylmuramoyl-pentapeptide-transferase activity"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GO:0004409",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004409",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate hydro-lyase [(Z)-but-1-ene-1,2,4-tricarboxylate-forming]",
+      "2-hydroxybutane-1,2,4-tricarboxylate hydro-lyase activity",
+      "HACN activity",
+      "Lys4",
+      "LysF",
+      "cis-homoaconitase activity",
+      "homoaconitase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.36",
+      "4.2.1.36",
+      "4.2.1.36",
+      "4.2.1.36",
+      "4.2.1.36",
+      "4.2.1.36",
+      "4.2.1.36",
+      "4.2.1.36",
+      "4.2.1.36"
+    ],
+    "KEGG_REACTION": [
+      "R04371"
+    ],
+    "MetaCyc": [
+      "HOMOACONITATE-HYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "15485",
+      "15485"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (-)-homoisocitrate = cis-homoaconitate + H2O.",
+  "namespace": "molecular_function",
+  "label": "homoaconitate hydratase activity"
+}

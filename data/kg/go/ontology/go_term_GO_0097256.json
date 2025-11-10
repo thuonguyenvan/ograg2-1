@@ -1,0 +1,30 @@
+{
+  "id": "GO:0097256",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097256",
+  "relationships": {
+    "is_a": [
+      "GO:0140175"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "38351",
+      "38351"
+    ],
+    "GOC": [
+      "pde"
+    ],
+    "PMID": [
+      "10849007"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-3-phenyllactate + NAD+ = 3-phenylpyruvate + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "phenyllactate dehydrogenase (NAD+) activity"
+}

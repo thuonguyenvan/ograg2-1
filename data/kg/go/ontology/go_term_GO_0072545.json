@@ -1,0 +1,30 @@
+{
+  "id": "GO:0072545",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072545",
+  "relationships": {
+    "is_a": [
+      "GO:0016597",
+      "GO:0031406",
+      "GO:0043169"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-Tyr binding"
+    ],
+    "broad": [
+      "tyrosine binding"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Binding to L-tyrosine, 2-amino-3-(4-hydroxyphenyl)propanoic acid.",
+  "namespace": "molecular_function",
+  "label": "L-tyrosine binding"
+}

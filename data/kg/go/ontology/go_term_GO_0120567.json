@@ -1,0 +1,32 @@
+{
+  "id": "GO:0120567",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120567",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "HTMLA"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-9896"
+    ],
+    "RHEA": [
+      "79695",
+      "79695"
+    ],
+    "PMID": [
+      "38615009"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (3S)-3-hydroxy-N(6),N(6),N(6)-trimethyl-L-lysine = 4-(trimethylamino)butanal + glycine.",
+  "namespace": "molecular_function",
+  "label": "hydroxytrimethyllysine aldolase activity"
+}

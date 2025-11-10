@@ -1,0 +1,36 @@
+{
+  "id": "GO:0046827",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046827",
+  "relationships": {
+    "is_a": [
+      "GO:0046824",
+      "GO:0046825",
+      "GO:0090316"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of protein export from cell nucleus",
+      "positive regulation of protein export out of nucleus",
+      "positive regulation of protein transport from nucleus to cytoplasm",
+      "positive regulation of protein-nucleus export",
+      "up regulation of protein export from nucleus",
+      "up-regulation of protein export from nucleus",
+      "upregulation of protein export from nucleus"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein export from nucleus",
+      "stimulation of protein export from nucleus"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of directed movement of proteins from the nucleus into the cytoplasm.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein export from nucleus"
+}

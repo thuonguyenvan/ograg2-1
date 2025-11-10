@@ -1,0 +1,31 @@
+{
+  "id": "GO:1902315",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902315",
+  "relationships": {
+    "is_a": [
+      "GO:1902292"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA replication initiation involved in nuclear cell cycle DNA replication"
+    ],
+    "broad": [],
+    "narrow": [
+      "DNA endoreduplication initiation involved in nuclear cell cycle DNA replication",
+      "DNA re-replication initiation involved in nuclear cell cycle DNA replication"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_cell_cycle",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any DNA replication initiation that is involved in nuclear cell cycle DNA replication.",
+  "namespace": "biological_process",
+  "label": "nuclear cell cycle DNA replication initiation"
+}

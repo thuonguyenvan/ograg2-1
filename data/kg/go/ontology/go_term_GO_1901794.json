@@ -1,0 +1,40 @@
+{
+  "id": "GO:1901794",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901794",
+  "relationships": {
+    "is_a": [
+      "GO:0072329"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-(3-hydroxyphenyl)propanoate breakdown",
+      "3-(3-hydroxyphenyl)propanoate catabolism",
+      "3-(3-hydroxyphenyl)propanoate degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "MetaCyc": [
+      "PWY0-1277"
+    ],
+    "PMID": [
+      "10537203"
+    ],
+    "UniPathway": [
+      "UPA00835"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of 3-(3-hydroxyphenyl)propanoate.",
+  "namespace": "biological_process",
+  "label": "3-(3-hydroxyphenyl)propanoate catabolic process"
+}

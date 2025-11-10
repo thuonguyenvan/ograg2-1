@@ -1,0 +1,29 @@
+{
+  "id": "GO:0003327",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003327",
+  "relationships": {
+    "is_a": [
+      "GO:0072148"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pancreatic B cell fate commitment"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000169"
+    ],
+    "GOC": [
+      "dph",
+      "mah"
+    ]
+  },
+  "definition": "The commitment of a cell to a type B pancreatic cell fate and its capacity to differentiate into a type B pancreatic cell. A type B pancreatic cell is a cell located towards center of the islets of Langerhans that secretes insulin.",
+  "namespace": "biological_process",
+  "label": "type B pancreatic cell fate commitment"
+}

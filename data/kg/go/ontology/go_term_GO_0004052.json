@@ -1,0 +1,61 @@
+{
+  "id": "GO:0004052",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004052",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "leukotriene A4 synthase"
+    ],
+    "narrow": [],
+    "related": [
+      "12-lipoxygenase activity",
+      "12Delta-lipoxygenase activity",
+      "12S-lipoxygenase activity",
+      "C-12 lipoxygenase activity",
+      "LTA4 synthase activity",
+      "arachidonate:oxygen 12-oxidoreductase activity",
+      "delta12-lipoxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.31",
+      "1.13.11.31",
+      "1.13.11.31",
+      "1.13.11.31",
+      "1.13.11.31",
+      "1.13.11.31",
+      "1.13.11.31",
+      "1.13.11.31",
+      "1.13.11.31",
+      "1.13.11.31"
+    ],
+    "KEGG_REACTION": [
+      "R01596"
+    ],
+    "MetaCyc": [
+      "ARACHIDONATE-12-LIPOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "10428",
+      "10428"
+    ],
+    "Reactome": [
+      "R-HSA-2161948",
+      "R-HSA-2161950",
+      "R-HSA-2161964",
+      "R-HSA-9024983",
+      "R-HSA-9025957",
+      "R-HSA-9026006",
+      "R-HSA-9026007"
+    ]
+  },
+  "definition": "Catalysis of the reaction: arachidonate + O2 = (5Z,8Z,10E,12S,14Z)-12-hydroperoxyicosa-5,8,10,14-tetraenoate.",
+  "namespace": "molecular_function",
+  "label": "ALOX12:Fe2+ dehydrogenates 14(S)-Hp-DPAn-3 to 13,14-epoxy-DPAn-3"
+}

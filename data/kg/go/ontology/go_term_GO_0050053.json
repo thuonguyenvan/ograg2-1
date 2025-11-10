@@ -1,0 +1,42 @@
+{
+  "id": "GO:0050053",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050053",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "beta-2,6-fructan:D-glucose 1-fructosyltransferase activity",
+      "beta-2,6-fructosyltransferase activity",
+      "sucrose 6-fructosyl transferase activity",
+      "sucrose 6-fructosyltransferase activity",
+      "sucrose:2,6-beta-D-fructan 6-beta-D-fructosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.10",
+      "2.4.1.10",
+      "2.4.1.10",
+      "2.4.1.10",
+      "2.4.1.10",
+      "2.4.1.10",
+      "2.4.1.10"
+    ],
+    "MetaCyc": [
+      "LEVANSUCRASE-RXN",
+      "LEVANSUCRASE-RXN"
+    ],
+    "RHEA": [
+      "13653"
+    ]
+  },
+  "definition": "Catalysis of the reaction: sucrose + 2,6-beta-D-fructosyl(n) = glucose + 2,6-beta-D-fructosyl(n+1).",
+  "namespace": "molecular_function",
+  "label": "levansucrase activity"
+}

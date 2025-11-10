@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102443",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102443",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.337"
+    ],
+    "MetaCyc": [
+      "RXN-13927"
+    ],
+    "RHEA": [
+      "34555",
+      "34555"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a (2S)-2-hydroxycarboxylate + NAD+ = a 2-oxocarboxylate + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "L-2-hydroxycarboxylate dehydrogenase (NAD+) activity"
+}

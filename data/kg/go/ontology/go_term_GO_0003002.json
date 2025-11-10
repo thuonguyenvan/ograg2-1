@@ -1,0 +1,27 @@
+{
+  "id": "GO:0003002",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003002",
+  "relationships": {
+    "is_a": [
+      "GO:0007389"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pattern formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "isa_complete",
+      "dph"
+    ]
+  },
+  "definition": "The pattern specification process that results in the subdivision of an axis or axes in space to define an area or volume in which specific patterns of cell differentiation will take place or in which cells interpret a specific environment.",
+  "namespace": "biological_process",
+  "label": "regionalization"
+}

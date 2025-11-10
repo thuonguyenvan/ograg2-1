@@ -1,0 +1,33 @@
+{
+  "id": "GO:0019133",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019133",
+  "relationships": {
+    "is_a": [
+      "GO:0016713"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "choline,reduced-ferredoxin:oxygen oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.15.7",
+      "1.14.15.7",
+      "1.14.15.7"
+    ],
+    "MetaCyc": [
+      "RXN1F-357"
+    ],
+    "RHEA": [
+      "17769"
+    ]
+  },
+  "definition": "Catalysis of the reaction: choline + 2 reduced ferredoxin + O2 + 2 H+ = betaine aldehyde hydrate + 2 oxidized ferredoxin + H2O.",
+  "namespace": "molecular_function",
+  "label": "choline monooxygenase activity"
+}

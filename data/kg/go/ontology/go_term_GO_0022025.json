@@ -1,0 +1,32 @@
+{
+  "id": "GO:0022025",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022025",
+  "relationships": {
+    "is_a": [
+      "GO:0048861"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "leukemia inhibitory factor signalling pathway involved in forebrain neuron fate commitment"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid",
+      "signaling"
+    ],
+    "GO_REF": [
+      "0000021"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by the binding of leukemia inhibitory factor to its receptor on the surface of the target cell, that contributes to the commitment of a neuroblast to a neuronal fate. The neuron will reside in the forebrain.",
+  "namespace": "biological_process",
+  "label": "leukemia inhibitory factor signaling pathway involved in forebrain neuron fate commitment"
+}

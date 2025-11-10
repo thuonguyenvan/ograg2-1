@@ -1,0 +1,31 @@
+{
+  "id": "GO:1905842",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905842",
+  "relationships": {
+    "is_a": [
+      "GO:0071870",
+      "GO:1905841"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "rz"
+    ],
+    "GO_REF": [
+      "0000071"
+    ],
+    "PMID": [
+      "23721876"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an oxidopamine stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to oxidopamine"
+}

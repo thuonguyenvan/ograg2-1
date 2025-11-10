@@ -1,0 +1,36 @@
+{
+  "id": "GO:0075510",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075510",
+  "relationships": {
+    "is_a": [
+      "GO:0075509"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "viral entry into host cell via macropinocytosis"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "800",
+      "800"
+    ],
+    "GOC": [
+      "jl",
+      "sp",
+      "bf",
+      "jl"
+    ],
+    "PMID": [
+      "17077125",
+      "19404330"
+    ]
+  },
+  "definition": "Any macropinocytosis that is involved in the uptake of a virus into a host cell.",
+  "namespace": "biological_process",
+  "label": "Macropinocytosis of virus by host"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0016464",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016464",
+  "relationships": {
+    "is_a": [
+      "GO:0015450"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "AAA chloroplast protein-transporting ATPase",
+      "ATPase-coupled chloroplast protein transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "7.4.2.4",
+      "7.4.2.4"
+    ],
+    "MetaCyc": [
+      "3.6.3.52-RXN"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O = ADP + phosphate; drives the transport of proteins into the chloroplast stroma.",
+  "namespace": "molecular_function",
+  "label": "chloroplast protein-transporting ATPase activity"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0039690",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039690",
+  "relationships": {
+    "is_a": [
+      "GO:0039694"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ss(+) viral RNA replication"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "1116",
+      "1116",
+      "1116"
+    ],
+    "GOC": [
+      "bf",
+      "jl"
+    ]
+  },
+  "definition": "A viral genome replication process where the template genome is positive stranded, single stranded RNA ((+)ssRNA). Replication of the positive strand leads to dsRNA formation, which in turn is transcribed into positive single stranded RNA.",
+  "namespace": "biological_process",
+  "label": "Positive stranded RNA virus replication"
+}

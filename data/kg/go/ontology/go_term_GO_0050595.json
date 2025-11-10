@@ -1,0 +1,30 @@
+{
+  "id": "GO:0050595",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050595",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "1.14.13.74-RXN"
+    ],
+    "RHEA": [
+      "11452",
+      "11452"
+    ],
+    "PMID": [
+      "11524113"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 7-deoxyloganin + O2 + reduced [NADPH-hemoprotein reductase] = H+ + H2O + loganin + oxidized [NADPH-hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "7-deoxyloganin 7-hydroxylase activity"
+}

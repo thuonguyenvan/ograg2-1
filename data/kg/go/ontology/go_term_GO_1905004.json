@@ -1,0 +1,47 @@
+{
+  "id": "GO:1905004",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905004",
+  "relationships": {
+    "is_a": [
+      "GO:0072330",
+      "GO:0072525"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "picolinate biosynthesis",
+      "picolinate biosynthetic process",
+      "picolinic acid anabolism",
+      "picolinic acid biosynthesis",
+      "picolinic acid formation",
+      "picolinic acid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000068"
+    ],
+    "PMID": [
+      "19843166"
+    ],
+    "CHEBI": [
+      "38184",
+      "38184"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of picolinic acid.",
+  "namespace": "biological_process",
+  "label": "picolinic acid biosynthetic process"
+}

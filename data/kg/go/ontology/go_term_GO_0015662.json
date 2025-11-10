@@ -1,0 +1,31 @@
+{
+  "id": "GO:0015662",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015662",
+  "relationships": {
+    "is_a": [
+      "GO:0140358"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism",
+      "P-type ATPase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "zinc, cadmium, cobalt, nickel, lead-efflux ATPase activity"
+    ],
+    "related": [
+      "ion transmembrane transporter activity, phosphorylative mechanism"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "10322420",
+      "10600683"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O = ADP + phosphate, to directly drive the transport of ions across a membrane. The reaction is characterized by the transient formation of a high-energy aspartyl-phosphoryl-enzyme intermediate.",
+  "namespace": "molecular_function",
+  "label": "P-type ion transporter activity"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102967",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102967",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-9367"
+    ],
+    "RHEA": [
+      "32607",
+      "32607"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (6E)-8-hydroxygeraniol + NADP = (6E)-8-hydroxygeranial + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "10-hydroxygeraniol oxidoreductase activity"
+}

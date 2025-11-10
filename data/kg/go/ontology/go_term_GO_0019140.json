@@ -1,0 +1,45 @@
+{
+  "id": "GO:0019140",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019140",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "myo-inositol 3-kinase activity"
+    ],
+    "broad": [
+      "myoinositol kinase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ATP:myo-inositol 1-phosphotransferase activity",
+      "inositol 1-kinase activity",
+      "inositol-1-kinase (phosphorylating)",
+      "myo-inositol 1-kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.64",
+      "2.7.1.64",
+      "2.7.1.64",
+      "2.7.1.64",
+      "2.7.1.64",
+      "2.7.1.64",
+      "2.7.1.64"
+    ],
+    "MetaCyc": [
+      "MYO-INOSITOL-1-KINASE-RXN"
+    ],
+    "RHEA": [
+      "21804"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + myo-inositol = ADP + 1D-myo-inositol 3-phosphate.",
+  "namespace": "molecular_function",
+  "label": "inositol 3-kinase activity"
+}

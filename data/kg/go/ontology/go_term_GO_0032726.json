@@ -1,0 +1,38 @@
+{
+  "id": "GO:0032726",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032726",
+  "relationships": {
+    "is_a": [
+      "GO:0001819",
+      "GO:0032646",
+      "GO:0051247"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of HGF production",
+      "positive regulation of scatter factor production",
+      "up regulation of hepatocyte growth factor production",
+      "up-regulation of hepatocyte growth factor production",
+      "upregulation of hepatocyte growth factor production"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of hepatocyte growth factor production",
+      "positive regulation of hepatocyte growth factor biosynthetic process",
+      "stimulation of hepatocyte growth factor production"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "1838014"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of hepatocyte growth factor production.",
+  "namespace": "biological_process",
+  "label": "positive regulation of hepatocyte growth factor production"
+}

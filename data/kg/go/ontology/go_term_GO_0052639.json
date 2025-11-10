@@ -1,0 +1,40 @@
+{
+  "id": "GO:0052639",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052639",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP:glucose:2-hydroxybenzoic acid glucosyltransferase (ester-forming) activity",
+      "UDP:glucose:SA glucosyltransferase (ester-forming) activity",
+      "UDP:glucose:salicylate glucosyltransferase (ester-forming) activity",
+      "UDP:glucose:salicylic acid glucosyltransferase (ester-forming) activity"
+    ],
+    "broad": [
+      "salicylic acid glucosyltransferase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-11659",
+      "RXN-11659",
+      "RXN-11659",
+      "RXN-11659",
+      "RXN-11659",
+      "RXN-11659",
+      "RXN-11659"
+    ],
+    "RHEA": [
+      "62316",
+      "62316"
+    ]
+  },
+  "definition": "Catalysis of the reaction: salicylic acid + UDP-glucose = salicylic acid glucose ester + UDP.",
+  "namespace": "molecular_function",
+  "label": "salicylic acid glucosyltransferase (ester-forming) activity"
+}

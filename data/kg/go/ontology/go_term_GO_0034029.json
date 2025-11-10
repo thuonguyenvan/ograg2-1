@@ -1,0 +1,43 @@
+{
+  "id": "GO:0034029",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034029",
+  "relationships": {
+    "is_a": [
+      "GO:0016885"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CFI",
+      "OGC",
+      "carboxylating factor for ICDH",
+      "oxalosuccinate synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.4.1.7",
+      "6.4.1.7",
+      "6.4.1.7",
+      "6.4.1.7",
+      "6.4.1.7",
+      "6.4.1.7"
+    ],
+    "KEGG_REACTION": [
+      "R08201"
+    ],
+    "MetaCyc": [
+      "RXN-8457"
+    ],
+    "RHEA": [
+      "20425",
+      "20425"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxoglutarate + ATP + bicarbonate = ADP + 2 H+ + oxalosuccinate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "2-oxoglutarate carboxylase activity"
+}

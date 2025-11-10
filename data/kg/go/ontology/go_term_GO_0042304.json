@@ -1,0 +1,33 @@
+{
+  "id": "GO:0042304",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042304",
+  "relationships": {
+    "is_a": [
+      "GO:0019217",
+      "GO:0046890"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of fatty acid anabolism",
+      "regulation of fatty acid biosynthesis",
+      "regulation of fatty acid formation",
+      "regulation of fatty acid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-163680"
+    ],
+    "GOC": [
+      "go_curators",
+      "jl"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of fatty acids, any of the aliphatic monocarboxylic acids that can be liberated by hydrolysis from naturally occurring fats and oils.",
+  "namespace": "biological_process",
+  "label": "AMPK inhibits chREBP transcriptional activation activity"
+}

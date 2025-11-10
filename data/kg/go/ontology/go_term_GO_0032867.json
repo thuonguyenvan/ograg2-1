@@ -1,0 +1,42 @@
+{
+  "id": "GO:0032867",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032867",
+  "relationships": {
+    "is_a": [
+      "GO:0004032"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-arabinose:NADP reductase activity"
+    ],
+    "broad": [
+      "arabinose reductase activity",
+      "arabinose:NADP reductase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R01759"
+    ],
+    "MetaCyc": [
+      "RXN-8772"
+    ],
+    "RHEA": [
+      "25229",
+      "25229"
+    ],
+    "SABIO-RK": [
+      "1858"
+    ],
+    "PMID": [
+      "12724380",
+      "15184173"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-arabitol + NADP+ = L-arabinose + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "L-arabinose reductase (NADPH) activity"
+}

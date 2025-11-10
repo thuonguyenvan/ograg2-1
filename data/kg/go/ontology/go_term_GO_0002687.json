@@ -1,0 +1,34 @@
+{
+  "id": "GO:0002687",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002687",
+  "relationships": {
+    "is_a": [
+      "GO:0002684",
+      "GO:0002685",
+      "GO:0030335"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of immune cell migration",
+      "positive regulation of leucocyte migration",
+      "up regulation of leukocyte migration",
+      "up-regulation of leukocyte migration",
+      "upregulation of leukocyte migration"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of leukocyte migration",
+      "stimulation of leukocyte migration"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of leukocyte migration.",
+  "namespace": "biological_process",
+  "label": "positive regulation of leukocyte migration"
+}

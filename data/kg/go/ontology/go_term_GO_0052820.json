@@ -1,0 +1,26 @@
+{
+  "id": "GO:0052820",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052820",
+  "relationships": {
+    "is_a": [
+      "GO:0003905"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1,N(6)-ethenoadenine N-glycosylase activity",
+      "1,N6-ethenoadenine glycosylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "21960007"
+    ]
+  },
+  "definition": "Catalysis of the reaction: DNA with 1-N6-ethenoadenine + H2O = DNA with abasic site + 1-N6-ethenoadenine. This reaction is the removal of 1,N6-ethenoadenine by cleaving the N-C1&apos; glycosidic bond between the target damaged DNA base and the deoxyribose sugar.",
+  "namespace": "molecular_function",
+  "label": "DNA-1,N6-ethenoadenine N-glycosylase activity"
+}

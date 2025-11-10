@@ -1,0 +1,33 @@
+{
+  "id": "GO:0015220",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015220",
+  "relationships": {
+    "is_a": [
+      "GO:0022857"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "choline permease activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "amino acid/choline transmembrane transporter activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-429594",
+      "R-HSA-444433",
+      "R-HSA-5658483",
+      "R-HSA-6797956"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of choline from one side of a membrane to the other. Choline (2-hydroxyethyltrimethylammonium) is an amino alcohol that occurs widely in living organisms as a constituent of certain types of phospholipids and in the neurotransmitter acetylcholine.",
+  "namespace": "molecular_function",
+  "label": "SLC44A1 transports Cho from cytosol to mitochondrial matrix"
+}

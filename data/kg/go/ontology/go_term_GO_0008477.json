@@ -1,0 +1,63 @@
+{
+  "id": "GO:0008477",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008477",
+  "relationships": {
+    "is_a": [
+      "GO:0016799"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "purine nucleosidase reaction"
+    ],
+    "broad": [
+      "nucleosidase activity",
+      "nucleoside hydrolase activity"
+    ],
+    "narrow": [
+      "inosine-adenosine-guanosine preferring nucleoside hydrolase activity",
+      "nucleosidase g activity"
+    ],
+    "related": [
+      "IAG-NH activity",
+      "IAG-nucleoside hydrolase activity",
+      "N-D-ribosylpurine ribohydrolase activity",
+      "N-ribosyl purine ribohydrolase activity",
+      "purine beta-ribosidase activity",
+      "purine nucleoside hydrolase activity",
+      "purine ribonucleosidase activity",
+      "purine-nucleoside ribohydrolase activity",
+      "purine-specific nucleoside N-ribohydrolase activity",
+      "ribonucleoside hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.2.1",
+      "3.2.2.1",
+      "3.2.2.1",
+      "3.2.2.1",
+      "3.2.2.1",
+      "3.2.2.1",
+      "3.2.2.1",
+      "3.2.2.1",
+      "3.2.2.1",
+      "3.2.2.1",
+      "3.2.2.1",
+      "3.2.2.1",
+      "3.2.2.1",
+      "3.2.2.1",
+      "3.2.2.1",
+      "3.2.2.1"
+    ],
+    "MetaCyc": [
+      "PURINE-NUCLEOSIDASE-RXN"
+    ],
+    "RHEA": [
+      "23344"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a N-D-ribosylpurine + H2O = a purine + D-ribose.",
+  "namespace": "molecular_function",
+  "label": "purine nucleosidase activity"
+}

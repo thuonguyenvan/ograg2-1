@@ -1,0 +1,33 @@
+{
+  "id": "GO:0051670",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051670",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2,1-beta-D-fructan fructanohydrolase activity",
+      "endo-inulinase activity",
+      "exoinulinase activity",
+      "indoinulinase activity",
+      "inulase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.7",
+      "3.2.1.7"
+    ],
+    "MetaCyc": [
+      "3.2.1.7-RXN"
+    ]
+  },
+  "definition": "Catalysis of the endohydrolysis of 2,1-beta-D-fructosidic linkages in inulin.",
+  "namespace": "molecular_function",
+  "label": "inulinase activity"
+}

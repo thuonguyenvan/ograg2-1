@@ -1,0 +1,32 @@
+{
+  "id": "GO:0047623",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047623",
+  "relationships": {
+    "is_a": [
+      "GO:0016814",
+      "GO:0019239"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "adenine nucleotide deaminase activity",
+      "adenosine (phosphate) deaminase activity",
+      "adenosine-phosphate aminohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.4.17",
+      "3.5.4.17",
+      "3.5.4.17",
+      "3.5.4.17",
+      "3.5.4.17"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an adenosine-phosphate + H20 = an inosine phosphate + NH3. Catalyzes the deamination of AMP, ADP or ATP.",
+  "namespace": "molecular_function",
+  "label": "adenosine-phosphate deaminase activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0052656",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052656",
+  "relationships": {
+    "is_a": [
+      "GO:0004084"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-isoleucine aminotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R02199"
+    ],
+    "MetaCyc": [
+      "BRANCHED-CHAINAMINOTRANSFERILEU-RXN"
+    ],
+    "RHEA": [
+      "24801",
+      "24801"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxoglutarate + L-isoleucine = (S)-3-methyl-2-oxopentanoic acid + L-glutamic acid.",
+  "namespace": "molecular_function",
+  "label": "L-isoleucine-2-oxoglutarate transaminase activity"
+}

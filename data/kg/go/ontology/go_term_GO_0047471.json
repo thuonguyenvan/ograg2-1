@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047471",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047471",
+  "relationships": {
+    "is_a": [
+      "GO:0016866"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "maltose alpha-D-glucosylmutase activity",
+      "maltose glucosylmutase activity",
+      "trehalose synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.99.16",
+      "5.4.99.16",
+      "5.4.99.16",
+      "5.4.99.16",
+      "5.4.99.16"
+    ],
+    "MetaCyc": [
+      "5.4.99.16-RXN",
+      "5.4.99.16-RXN"
+    ],
+    "RHEA": [
+      "15145"
+    ]
+  },
+  "definition": "Catalysis of the reaction: maltose = trehalose.",
+  "namespace": "molecular_function",
+  "label": "maltose alpha-D-glucosyltransferase activity"
+}

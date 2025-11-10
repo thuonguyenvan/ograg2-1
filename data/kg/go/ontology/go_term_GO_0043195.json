@@ -1,0 +1,38 @@
+{
+  "id": "GO:0043195",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043195",
+  "relationships": {
+    "is_a": [
+      "GO:0098793"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "bouton",
+      "presynaptic bouton",
+      "synaptic bouton",
+      "terminal button"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao187426937",
+      "sao187426937"
+    ],
+    "GOC": [
+      "dph",
+      "mc",
+      "nln"
+    ],
+    "PMID": [
+      "10218156",
+      "8409967"
+    ]
+  },
+  "definition": "Terminal inflated portion of the axon, containing the specialized apparatus necessary to release neurotransmitters. The axon terminus is considered to be the whole region of thickening and the terminal bouton is a specialized region of it.",
+  "namespace": "cellular_component",
+  "label": "terminal bouton"
+}

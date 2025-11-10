@@ -1,0 +1,30 @@
+{
+  "id": "GO:0035700",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035700",
+  "relationships": {
+    "is_a": [
+      "GO:0043615",
+      "GO:0060326"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000127"
+    ],
+    "GOC": [
+      "BHF"
+    ],
+    "PMID": [
+      "12271471"
+    ]
+  },
+  "definition": "The directed movement of an astrocyte guided by a specific chemical concentration gradient. Movement may be towards a higher concentration (positive chemotaxis) or towards a lower concentration (negative chemotaxis).",
+  "namespace": "biological_process",
+  "label": "astrocyte chemotaxis"
+}

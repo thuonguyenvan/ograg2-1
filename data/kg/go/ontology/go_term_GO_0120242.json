@@ -1,0 +1,38 @@
+{
+  "id": "GO:0120242",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120242",
+  "relationships": {
+    "is_a": [
+      "GO:0120241"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "2-iminobutanoate/2-iminopropanoate deaminase"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R11098"
+    ],
+    "MetaCyc": [
+      "RXN-15123"
+    ],
+    "RHEA": [
+      "39975",
+      "39975"
+    ],
+    "Reactome": [
+      "R-HSA-9014641"
+    ],
+    "EC": [
+      "3.5.99.10"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-iminobutanoate + H2O = 2-oxobutanoate + NH4(+).",
+  "namespace": "molecular_function",
+  "label": "HRSP12 deaminates 2-iminobutanoate to 2OBUTA"
+}

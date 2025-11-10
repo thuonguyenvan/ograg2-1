@@ -1,0 +1,51 @@
+{
+  "id": "GO:0047536",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047536",
+  "relationships": {
+    "is_a": [
+      "GO:0008483"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-aminoadipate aminotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-aminoadipic aminotransferase activity",
+      "L-2-aminoadipate:2-oxoglutarate aminotransferase activity",
+      "alpha-aminoadipate aminotransferase activity",
+      "glutamate-alpha-ketoadipate transaminase activity",
+      "glutamic-ketoadipic transaminase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.39",
+      "2.6.1.39",
+      "2.6.1.39",
+      "2.6.1.39",
+      "2.6.1.39",
+      "2.6.1.39",
+      "2.6.1.39"
+    ],
+    "KEGG_REACTION": [
+      "R01939"
+    ],
+    "MetaCyc": [
+      "2-AMINOADIPATE-AMINOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "12601",
+      "12601"
+    ],
+    "Reactome": [
+      "R-HSA-508561",
+      "R-HSA-70952"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxoglutarate + L-2-aminoadipate = 2-oxoadipate + L-glutamate.",
+  "namespace": "molecular_function",
+  "label": "alpha-aminoadipate + alpha-ketoglutarate &lt;=&gt; alpha-ketoadipate + glutamate"
+}

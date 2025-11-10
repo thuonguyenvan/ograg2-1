@@ -1,0 +1,35 @@
+{
+  "id": "GO:0050964",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050964",
+  "relationships": {
+    "is_a": [
+      "GO:0050963"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "electroception, detection of electrical stimulus",
+      "electroception, sensory detection of electrical stimulus",
+      "electroception, sensory transduction",
+      "electroception, sensory transduction of electrical stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "detection of electrical stimulus during electroreception",
+      "sensory detection of electrical stimulus during electroception",
+      "sensory transduction of electrical stimulus during electroception"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dos",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The series of events that contribute to electroception in which an electrical stimulus is received and converted into a molecular signal.",
+  "namespace": "biological_process",
+  "label": "detection of electrical stimulus involved in electroception"
+}

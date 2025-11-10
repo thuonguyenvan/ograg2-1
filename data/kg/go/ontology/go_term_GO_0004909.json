@@ -1,0 +1,35 @@
+{
+  "id": "GO:0004909",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004909",
+  "relationships": {
+    "is_a": [
+      "GO:0004908"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IL-1 type I, activating binding",
+      "IL-1 type I, activating receptor",
+      "interleukin-1 activating receptor activity",
+      "interleukin-1 type I receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "interleukin-1, type I, activating binding"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "15062641",
+      "18613828"
+    ],
+    "GOC": [
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Combining with interleukin-1 to initiate a change in cell activity via signaling pathways and mediated by adaptor proteins.",
+  "namespace": "molecular_function",
+  "label": "interleukin-1, type I, activating receptor activity"
+}

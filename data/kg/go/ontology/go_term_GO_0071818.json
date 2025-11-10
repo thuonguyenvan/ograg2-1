@@ -1,0 +1,35 @@
+{
+  "id": "GO:0071818",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071818",
+  "relationships": {
+    "is_a": [
+      "GO:0072379"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "BAG6-UBL4A-TRC35 complex",
+      "Bag6 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "BAT3-TRC35-UBL4A complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bm"
+    ],
+    "PMID": [
+      "20676083",
+      "21636303",
+      "21636303",
+      "21636303",
+      "20676083"
+    ]
+  },
+  "definition": "A protein complex found in mammals that transfers tail-anchored (TA) proteins from SGTA to GET3 (ASNA1/TRC4) for targeting to the endoplasmic reticulum membrane. Also chaperones polypeptides from the endoplasmic reticulum retrotranslocation machinery to the proteasome, maintaining the solubility of substrates to improve ER-associated protein degradation (ERAD). Consists of BAG6 (BAT3) and its cofactors GET4 (TRC35) and UBL4A.",
+  "namespace": "cellular_component",
+  "label": "BAT3 complex"
+}

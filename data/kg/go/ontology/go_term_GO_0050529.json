@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050529",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050529",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PNAE activity",
+      "polyneuridine aldehyde esterase activity",
+      "polyneuridine aldehyde hydrolase (decarboxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.78",
+      "3.1.1.78",
+      "3.1.1.78",
+      "3.1.1.78",
+      "3.1.1.78"
+    ],
+    "KEGG_REACTION": [
+      "R05825"
+    ],
+    "MetaCyc": [
+      "3.1.1.78-RXN"
+    ],
+    "RHEA": [
+      "17501",
+      "17501"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + polyneuridine aldehyde = 16-epivellosimine + CO2 + methanol.",
+  "namespace": "molecular_function",
+  "label": "polyneuridine-aldehyde esterase activity"
+}

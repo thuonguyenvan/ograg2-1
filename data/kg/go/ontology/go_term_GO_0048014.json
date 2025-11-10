@@ -1,0 +1,38 @@
+{
+  "id": "GO:0048014",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048014",
+  "relationships": {
+    "is_a": [
+      "GO:0007169"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Tek receptor signaling",
+      "Tie receptor signaling pathway",
+      "Tie receptor signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "angiopoietin-Tie signaling pathway",
+      "angiopoietin/Tie signaling pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ceb",
+      "signaling",
+      "ceb"
+    ],
+    "PMID": [
+      "11283723",
+      "11566266",
+      "22951441",
+      "11566266"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by an angiopoietin binding to the Tie receptor, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "Tie signaling pathway"
+}

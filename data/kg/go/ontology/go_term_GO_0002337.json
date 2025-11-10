@@ -1,0 +1,33 @@
+{
+  "id": "GO:0002337",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002337",
+  "relationships": {
+    "is_a": [
+      "GO:0001923"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "B-1a B lymphocyte differentiation",
+      "B-1a B-cell differentiation",
+      "B-1a B-lymphocyte differentiation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "B-1a B cell development"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jal",
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "The process in which B cells acquire the specialized features of B-1a B cells. B-1a B cells are B-1 cells that express CD5 and arise from fetal liver precursors.",
+  "namespace": "biological_process",
+  "label": "B-1a B cell differentiation"
+}

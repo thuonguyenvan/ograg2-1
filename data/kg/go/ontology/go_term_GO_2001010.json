@@ -1,0 +1,30 @@
+{
+  "id": "GO:2001010",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001010",
+  "relationships": {
+    "is_a": [
+      "GO:2001007",
+      "GO:2001009"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of cell wall cellulose biosynthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "negative regulation of cellulose biosynthesis during cell wall biosynthesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of plant-type cell wall cellulose biosynthetic process.",
+  "namespace": "biological_process",
+  "label": "negative regulation of plant-type cell wall cellulose biosynthetic process"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0007596",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007596",
+  "relationships": {
+    "is_a": [
+      "GO:0007599",
+      "GO:0050817"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "blood clotting"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-109582"
+    ],
+    "Wikipedia": [
+      "Coagulation"
+    ],
+    "PMID": [
+      "30700128"
+    ]
+  },
+  "definition": "The sequential process in which the multiple coagulation factors of the blood interact, ultimately resulting in the formation of an insoluble fibrin clot; it may be divided into three stages: stage 1, the formation of intrinsic and extrinsic prothrombin converting principle; stage 2, the formation of thrombin; stage 3, the formation of stable fibrin polymers.",
+  "namespace": "biological_process",
+  "label": "Hemostasis"
+}

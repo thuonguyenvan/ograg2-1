@@ -1,0 +1,41 @@
+{
+  "id": "GO:1903763",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903763",
+  "relationships": {
+    "is_a": [
+      "GO:0005243"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "innexin channel activity involved in cell communication by electrical coupling"
+    ],
+    "broad": [],
+    "narrow": [
+      "innexin involved in cell communication by electrical coupling"
+    ],
+    "related": [
+      "connexin involved in cell communication by electrical coupling"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "mtg_cardiac_conduct_nov11",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000061"
+    ],
+    "PMID": [
+      "24587307"
+    ]
+  },
+  "definition": "Any gap junction channel activity that is involved in cell communication by electrical coupling.",
+  "namespace": "molecular_function",
+  "label": "gap junction channel activity involved in cell communication by electrical coupling"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0008294",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008294",
+  "relationships": {
+    "is_a": [
+      "GO:0004016"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "calcium- and calmodulin-responsive adenylyl cyclase activity",
+      "calcium/calmodulin-responsive adenylate cyclase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-111930",
+      "R-HSA-442715"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "1739965"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP = 3&apos;,5&apos;-cyclic AMP + diphosphate, stimulated by calcium-bound calmodulin.",
+  "namespace": "molecular_function",
+  "label": "Calmodulin-activated adenylate cyclases ADCY1 and ADCY8 generate cAMP"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0019246",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019246",
+  "relationships": {
+    "is_a": [
+      "GO:0019244"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L(+)-lactate anabolism from pyruvate",
+      "L(+)-lactate formation from pyruvate",
+      "L(+)-lactate synthesis from pyruvate",
+      "S-lactate biosynthetic process from pyruvate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5481"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of L(+)-lactate from other compounds, including pyruvate.",
+  "namespace": "biological_process",
+  "label": "L(+)-lactate biosynthetic process from pyruvate"
+}

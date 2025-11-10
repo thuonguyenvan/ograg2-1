@@ -1,0 +1,30 @@
+{
+  "id": "GO:0099128",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099128",
+  "relationships": {
+    "is_a": [
+      "GO:0098798",
+      "GO:1990221",
+      "GO:1990229"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrial ISCU complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "mitochondrial iron-sulfur cluster assembly complex"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "31101807",
+      "34660592"
+    ]
+  },
+  "definition": "A protein complex capable of forming 2Fe-2S clusters in mitochondria. In humans it consists of ISCU, NFS1, LYRM4, NDUFAB1 and FXN.",
+  "namespace": "cellular_component",
+  "label": "mitochondrial [2Fe-2S] assembly complex"
+}

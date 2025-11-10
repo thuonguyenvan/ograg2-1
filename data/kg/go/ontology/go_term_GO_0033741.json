@@ -1,0 +1,44 @@
+{
+  "id": "GO:0033741",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033741",
+  "relationships": {
+    "is_a": [
+      "GO:0016671"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "plant-type 5&apos;-adenylylsulfate reductase activity"
+    ],
+    "related": [
+      "5&apos;-adenylylsulfate reductase activity",
+      "AMP,sulfite:glutathione-disulfide oxidoreductase (adenosine-5&apos;-phosphosulfate-forming) activity",
+      "AMP,sulfite:oxidized-glutathione oxidoreductase (adenosine-5&apos;-phosphosulfate-forming) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.4.9",
+      "1.8.4.9",
+      "1.8.4.9",
+      "1.8.4.9",
+      "1.8.4.9",
+      "1.8.4.9"
+    ],
+    "KEGG_REACTION": [
+      "R05717"
+    ],
+    "MetaCyc": [
+      "1.8.4.9-RXN"
+    ],
+    "RHEA": [
+      "14141",
+      "14141"
+    ]
+  },
+  "definition": "Catalysis of the reaction: AMP + glutathione disulfide + H+ + sulfite = 5&apos;-adenylyl sulfate + 2 glutathione.",
+  "namespace": "molecular_function",
+  "label": "adenylyl-sulfate reductase (glutathione) activity"
+}

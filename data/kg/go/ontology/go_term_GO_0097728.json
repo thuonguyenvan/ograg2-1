@@ -1,0 +1,31 @@
+{
+  "id": "GO:0097728",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097728",
+  "relationships": {
+    "is_a": [
+      "GO:0031514"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "motile 9+0 cilium"
+    ],
+    "broad": [],
+    "narrow": [
+      "nodal cilium"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia"
+    ],
+    "PMID": [
+      "10330409",
+      "22118931"
+    ]
+  },
+  "definition": "A motile cilium where the axoneme has a ring of nine outer microtubule doublets but no central microtubules (and is therefore called a 9+0 axoneme).",
+  "namespace": "cellular_component",
+  "label": "9+0 motile cilium"
+}

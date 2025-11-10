@@ -1,0 +1,32 @@
+{
+  "id": "GO:0016590",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016590",
+  "relationships": {
+    "is_a": [
+      "GO:0031010"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-utilizing chromatin assembly and remodeling factor complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "krc"
+    ],
+    "PMID": [
+      "12192034",
+      "15284901",
+      "16568949",
+      "21810179"
+    ]
+  },
+  "definition": "An ISWI complex that contains an ATPase subunit of the ISWI family (SNF2H in mammals, Isw2 in S. cerevisiae), an ACF1 homolog, and generally no other subunits, though Xenopus is an exception with a third non-conserved subunit. ACF plays roles in regulation of RNA polymerase II transcription and in DNA replication and repair.",
+  "namespace": "cellular_component",
+  "label": "ACF complex"
+}

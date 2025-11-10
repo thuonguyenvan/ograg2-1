@@ -1,0 +1,34 @@
+{
+  "id": "GO:0072318",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072318",
+  "relationships": {
+    "is_a": [
+      "GO:0072319"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "clathrin-coat disassembly",
+      "clathrin-coat uncoating",
+      "clathrin-coated vesicle uncoating"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11084334",
+      "11146663",
+      "8524399"
+    ],
+    "GOC": [
+      "rb",
+      "rb",
+      "mah"
+    ]
+  },
+  "definition": "The disaggregation of a clathrin coat into its constituent components; results in stripping or removing the clathrin coat from clathrin-coated vesicles (CCV) before fusing with their targets. CVVs transport cargo from plasma membrane and trans-Golgi to the endosomal system.",
+  "namespace": "biological_process",
+  "label": "clathrin coat disassembly"
+}

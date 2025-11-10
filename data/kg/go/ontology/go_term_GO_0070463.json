@@ -1,0 +1,28 @@
+{
+  "id": "GO:0070463",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070463",
+  "relationships": {
+    "is_a": [
+      "GO:0140657"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tubulin-activated ATPase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "16906148"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + H2O = ADP + phosphate. This reaction requires the presence of a tubulin dimer to accelerate release of ADP and phosphate.",
+  "namespace": "molecular_function",
+  "label": "tubulin-dependent ATPase activity"
+}

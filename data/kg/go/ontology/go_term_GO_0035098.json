@@ -1,0 +1,40 @@
+{
+  "id": "GO:0035098",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035098",
+  "relationships": {
+    "is_a": [
+      "GO:0031519",
+      "GO:0035097"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Extra Sex Combs/Enhancer of Zeste complex",
+      "PRC2 complex",
+      "polycomb repressive complex 2"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "krc",
+      "sp",
+      "sp"
+    ],
+    "PMID": [
+      "12408863",
+      "12408864",
+      "17107999",
+      "20064375",
+      "31123059",
+      "33232890",
+      "20064375"
+    ]
+  },
+  "definition": "A multimeric protein complex that can methylate lysine-27 and lysine-9 residues of histone H3. In Drosophila the core subunits of the complex include ESC, E(Z), CAF1 (NURF-55) and SU(Z)12. In mammals the core subunits of the complex include EED, EZH2, SUZ12 and RBBP4.",
+  "namespace": "cellular_component",
+  "label": "ESC/E(Z) complex"
+}

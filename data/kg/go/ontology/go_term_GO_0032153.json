@@ -1,0 +1,34 @@
+{
+  "id": "GO:0032153",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032153",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell division plane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "imk",
+      "krc",
+      "ns"
+    ],
+    "PMID": [
+      "12101122",
+      "15380095",
+      "16983191",
+      "18165305"
+    ]
+  },
+  "definition": "The eventual plane of cell division (also known as cell cleavage or cytokinesis) in a dividing cell. In Eukaryotes, the cleavage apparatus, composed of septin structures and the actomyosin contractile ring, forms along this plane, and the mitotic, or meiotic, spindle is aligned perpendicular to the division plane. In bacteria, the cell division site is generally located at mid-cell and is the site at which the cytoskeletal structure, the Z-ring, assembles.",
+  "namespace": "cellular_component",
+  "label": "cell division site"
+}

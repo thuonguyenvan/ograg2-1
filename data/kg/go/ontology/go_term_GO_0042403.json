@@ -1,0 +1,33 @@
+{
+  "id": "GO:0042403",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042403",
+  "relationships": {
+    "is_a": [
+      "GO:0006575",
+      "GO:0018958",
+      "GO:0042445"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "thyroid hormone metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-350864"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving any of the compounds secreted by the thyroid gland, largely thyroxine and triiodothyronine.",
+  "namespace": "biological_process",
+  "label": "Regulation of thyroid hormone activity"
+}

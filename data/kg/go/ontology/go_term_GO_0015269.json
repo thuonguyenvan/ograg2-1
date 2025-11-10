@@ -1,0 +1,29 @@
+{
+  "id": "GO:0015269",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015269",
+  "relationships": {
+    "is_a": [
+      "GO:0005227",
+      "GO:0005267"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9663752",
+      "R-HSA-9667809"
+    ],
+    "GOC": [
+      "dph",
+      "mtg_transport"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of a potassium cation by a channel that opens when a calcium cation has been bound by the channel complex or one of its constituent parts.",
+  "namespace": "molecular_function",
+  "label": "KCNMA1:KCNMB1 transports potassium ions from the cytosol to the extracellular region"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0006562",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006562",
+  "relationships": {
+    "is_a": [
+      "GO:0006560",
+      "GO:0170035",
+      "GO:0170040"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "proline breakdown",
+      "proline catabolism",
+      "proline degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-70688"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-proline (pyrrolidine-2-carboxylic acid), a chiral, cyclic, nonessential alpha-amino acid found in peptide linkage in proteins.",
+  "namespace": "biological_process",
+  "label": "Proline catabolism"
+}

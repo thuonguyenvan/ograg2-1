@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990787",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990787",
+  "relationships": {
+    "is_a": [
+      "GO:0045879",
+      "GO:0051090"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of hedgehog target transcription factor"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "24311597"
+    ]
+  },
+  "definition": "Any process that decreases the activity of a transcription factor that activates transcription of Hedgehog-target genes in response to Smoothened signaling. In Drosophila, Cubitus interruptus (Ci) is the only identified transcription factor so far in the Hedgehog signaling pathway. In vertebrates members of the Gli protein family are activated by Hedgehog signaling.",
+  "namespace": "biological_process",
+  "label": "negative regulation of hh target transcription factor activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0046726",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046726",
+  "relationships": {
+    "is_a": [
+      "GO:0046719",
+      "GO:0048524"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of viral protein levels",
+      "up regulation of viral protein levels in host cell",
+      "up-regulation of viral protein levels in host cell",
+      "upregulation of viral protein levels in host cell"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of viral protein levels in host cell",
+      "stimulation of viral protein levels in host cell"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process where the infecting virus increases the levels of viral proteins in a cell.",
+  "namespace": "biological_process",
+  "label": "positive regulation by virus of viral protein levels in host cell"
+}

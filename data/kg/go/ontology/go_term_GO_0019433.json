@@ -1,0 +1,36 @@
+{
+  "id": "GO:0019433",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019433",
+  "relationships": {
+    "is_a": [
+      "GO:0006641",
+      "GO:0046464"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "triacylglycerol catabolic process",
+      "triacylglycerol catabolism",
+      "triglyceride breakdown",
+      "triglyceride catabolism",
+      "triglyceride degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "LIPAS-PWY"
+    ],
+    "Reactome": [
+      "R-HSA-163560"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a triglyceride, any triester of glycerol.",
+  "namespace": "biological_process",
+  "label": "Triglyceride catabolism"
+}

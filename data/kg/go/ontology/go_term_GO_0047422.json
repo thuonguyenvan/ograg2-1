@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047422",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047422",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acyl-D-aspartate amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.83",
+      "3.5.1.83",
+      "3.5.1.83"
+    ],
+    "KEGG_REACTION": [
+      "R02182"
+    ],
+    "MetaCyc": [
+      "3.5.1.83-RXN"
+    ],
+    "RHEA": [
+      "18285",
+      "18285"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acyl-D-aspartate + H2O = D-aspartate + a carboxylate.",
+  "namespace": "molecular_function",
+  "label": "N-acyl-D-aspartate deacylase activity"
+}

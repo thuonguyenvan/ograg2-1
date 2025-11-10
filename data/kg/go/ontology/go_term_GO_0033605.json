@@ -1,0 +1,32 @@
+{
+  "id": "GO:0033605",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033605",
+  "relationships": {
+    "is_a": [
+      "GO:0050433",
+      "GO:0051954",
+      "GO:1903532"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of catecholamine secretion",
+      "up-regulation of catecholamine secretion",
+      "upregulation of catecholamine secretion"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of catecholamine secretion",
+      "stimulation of catecholamine secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the regulated release of a catecholamine.",
+  "namespace": "biological_process",
+  "label": "positive regulation of catecholamine secretion"
+}

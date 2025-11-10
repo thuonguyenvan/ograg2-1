@@ -1,0 +1,36 @@
+{
+  "id": "GO:0033225",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033225",
+  "relationships": {
+    "is_a": [
+      "GO:0042626"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-aminoethylphosphonate-transporting ATPase activity",
+      "2-phosphonoethylamine transporting ATPase activity",
+      "ATP-dependent 2-aminoethylphosphonate transporter activity",
+      "ciliatine transportingATPase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-aminoethylphosphonate transmembrane transporter activity",
+      "2-aminoethylphosphonate transporting ATPase activity",
+      "2-phosphonoethylamine transmembrane transporter activity",
+      "ciliatine transporter activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "32775"
+    ],
+    "GOC": [
+      "mlg"
+    ]
+  },
+  "definition": "Enables the directed movement of 2-aminoethylphosphonate from one side of a membrane to the other by catalysis of the reaction: ATP + H2O + 2-aminoethylphosphonate(out) = ADP + phosphate + 2-aminoethylphosphonate(in).",
+  "namespace": "molecular_function",
+  "label": "ATPase-coupled 2-aminoethylphosphonate transporter activity"
+}

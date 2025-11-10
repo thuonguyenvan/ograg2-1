@@ -1,0 +1,43 @@
+{
+  "id": "GO:0030787",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030787",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:1D-myo-inositol 4-methyltransferase activity",
+      "S-adenosyl-L-methionine:myo-inositol 4-O-methyltransferase activity",
+      "myo-inositol 4-O-methyltransferase activity",
+      "myo-inositol 6-O-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.129",
+      "2.1.1.129",
+      "2.1.1.129",
+      "2.1.1.129",
+      "2.1.1.129",
+      "2.1.1.129"
+    ],
+    "KEGG_REACTION": [
+      "R01190"
+    ],
+    "MetaCyc": [
+      "2.1.1.129-RXN"
+    ],
+    "RHEA": [
+      "23248",
+      "23248"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine(1+) + myo-inositol = 1D-4-O-methyl-myo-inositol + S-adenosyl-L-homocysteine + H+.",
+  "namespace": "molecular_function",
+  "label": "inositol 4-methyltransferase activity"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0042324",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042324",
+  "relationships": {
+    "is_a": [
+      "GO:0071855"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hypocretin receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "hypocretin receptor ligand",
+      "orexin receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ceb"
+    ],
+    "PMID": [
+      "11988773"
+    ]
+  },
+  "definition": "Binding to an orexin receptor.",
+  "namespace": "molecular_function",
+  "label": "orexin receptor binding"
+}

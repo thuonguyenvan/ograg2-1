@@ -1,0 +1,36 @@
+{
+  "id": "GO:0018845",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018845",
+  "relationships": {
+    "is_a": [
+      "GO:0016860"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.99.1.4"
+    ],
+    "KEGG_REACTION": [
+      "R05137"
+    ],
+    "MetaCyc": [
+      "RXNN-386"
+    ],
+    "RHEA": [
+      "27401",
+      "27401"
+    ],
+    "UM-BBD_reactionID": [
+      "r0337"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-hydroxychromene-2-carboxylate = (3E)-4-(2-hydroxyphenyl)-2-oxobut-3-enoate. (3E)-4-(2-hydroxyphenyl)-2-oxobut-3-enoate is also known as trans-o-hydroxybenzylidenepyruvate.",
+  "namespace": "molecular_function",
+  "label": "2-hydroxychromene-2-carboxylate isomerase activity"
+}

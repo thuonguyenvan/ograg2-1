@@ -1,0 +1,34 @@
+{
+  "id": "GO:0047736",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047736",
+  "relationships": {
+    "is_a": [
+      "GO:0016857"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cellobiose 2-epimerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.3.11",
+      "5.1.3.11",
+      "5.1.3.11"
+    ],
+    "MetaCyc": [
+      "CELLOBIOSE-EPIMERASE-RXN",
+      "CELLOBIOSE-EPIMERASE-RXN"
+    ],
+    "RHEA": [
+      "23384"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cellobiose = D-glucosyl-D-mannose.",
+  "namespace": "molecular_function",
+  "label": "cellobiose epimerase activity"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "GO:0004641",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004641",
+  "relationships": {
+    "is_a": [
+      "GO:0016882"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-(formamido)-1-N-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming)",
+      "2-(formamido)-N1-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming)",
+      "5&apos;-aminoimidazole ribonucleotide synthetase activity",
+      "AIR synthase activity",
+      "AIR synthetase activity",
+      "AIRS activity",
+      "phosphoribosyl-aminoimidazole synthetase activity",
+      "phosphoribosylaminoimidazole synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.3.1",
+      "6.3.3.1",
+      "6.3.3.1",
+      "6.3.3.1",
+      "6.3.3.1",
+      "6.3.3.1",
+      "6.3.3.1",
+      "6.3.3.1",
+      "6.3.3.1",
+      "6.3.3.1"
+    ],
+    "KEGG_REACTION": [
+      "R04208"
+    ],
+    "MetaCyc": [
+      "AIRS-RXN"
+    ],
+    "RHEA": [
+      "23032",
+      "23032"
+    ],
+    "Reactome": [
+      "R-HSA-73810"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-(formamido)-N(1)-(5-phospho-D-ribosyl)acetamidine + ATP = 5-amino-1-(5-phospho-D-ribosyl)imidazole + ADP + 2 H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "FGAM + ATP =&gt; AIR + ADP + Pi"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0009018",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009018",
+  "relationships": {
+    "is_a": [
+      "GO:0004645"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "disaccharide glucosyltransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "sucrose glucosyltransferase activity",
+      "sucrose:phosphate alpha-D-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.7",
+      "2.4.1.7",
+      "2.4.1.7",
+      "2.4.1.7"
+    ],
+    "MetaCyc": [
+      "SUCROSE-PHOSPHORYLASE-RXN"
+    ],
+    "RHEA": [
+      "24048",
+      "24048"
+    ]
+  },
+  "definition": "Catalysis of the reaction: sucrose + phosphate = D-fructose + alpha-D-glucose 1-phosphate.",
+  "namespace": "molecular_function",
+  "label": "sucrose phosphorylase activity"
+}

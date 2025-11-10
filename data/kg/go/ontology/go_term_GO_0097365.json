@@ -1,0 +1,29 @@
+{
+  "id": "GO:0097365",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097365",
+  "relationships": {
+    "is_a": [
+      "GO:0097364"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "stretch-activated, cation-selective, calcium channel activity involved in regulation of cardiac muscle cell action potential"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mtg_cardiac_conduct_nov11"
+    ],
+    "PMID": [
+      "21290758"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of a calcium ion by a channel that opens in response to a mechanical stress in the form of stretching, and contributing to the regulation of action potential in a cardiac muscle cell.",
+  "namespace": "molecular_function",
+  "label": "stretch-activated, monoatomic cation-selective, calcium channel activity involved in regulation of cardiac muscle cell action potential"
+}

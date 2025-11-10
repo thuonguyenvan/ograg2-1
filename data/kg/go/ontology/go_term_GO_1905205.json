@@ -1,0 +1,43 @@
+{
+  "id": "GO:1905205",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905205",
+  "relationships": {
+    "is_a": [
+      "GO:0034105",
+      "GO:1905203"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of connective tissue replacement",
+      "up-regulation of connective tissue replacement",
+      "upregulation of connective tissue replacement"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of connective tissue replacement"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "TermGenie",
+      "bc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25590961"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of connective tissue replacement.",
+  "namespace": "biological_process",
+  "label": "positive regulation of connective tissue replacement"
+}

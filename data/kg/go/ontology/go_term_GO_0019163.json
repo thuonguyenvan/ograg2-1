@@ -1,0 +1,41 @@
+{
+  "id": "GO:0019163",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019163",
+  "relationships": {
+    "is_a": [
+      "GO:0008483"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pyridoxamine-phosphate aminotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pyridoxamine 5&apos;-phosphate transaminase activity",
+      "pyridoxamine 5&apos;-phosphate-alpha-ketoglutarate transaminase activity",
+      "pyridoxamine phosphate aminotransferase activity",
+      "pyridoxamine-5&apos;-phosphate:2-oxoglutarate aminotransferase (D-glutamate-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.54",
+      "2.6.1.54",
+      "2.6.1.54",
+      "2.6.1.54",
+      "2.6.1.54",
+      "2.6.1.54"
+    ],
+    "MetaCyc": [
+      "PYRDAMPTRANS-RXN"
+    ],
+    "RHEA": [
+      "15877"
+    ]
+  },
+  "definition": "Catalysis of the reaction: pyridoxamine 5&apos;-phosphate + 2-oxoglutarate = pyridoxal 5&apos;-phosphate + D-glutamate.",
+  "namespace": "molecular_function",
+  "label": "pyridoxamine-phosphate transaminase activity"
+}

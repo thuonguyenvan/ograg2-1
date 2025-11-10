@@ -1,0 +1,35 @@
+{
+  "id": "GO:1901242",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901242",
+  "relationships": {
+    "is_a": [
+      "GO:0015665",
+      "GO:0140359",
+      "GO:1901505"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATPase-coupled doxorubicin transmembrane transporter activity",
+      "doxorubicin transmembrane-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "TC": [
+      "3.A.1.105.1"
+    ],
+    "GOC": [
+      "TermGenie"
+    ],
+    "PMID": [
+      "12057006",
+      "15090538"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + doxorubicin(in) = ADP + phosphate + doxorubicin(out).",
+  "namespace": "molecular_function",
+  "label": "ABC-type doxorubicin transporter activity"
+}

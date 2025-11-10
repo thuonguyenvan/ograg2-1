@@ -1,0 +1,31 @@
+{
+  "id": "GO:0005503",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005503",
+  "relationships": {
+    "is_a": [
+      "GO:0016918"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "all-trans retinaldehyde binding",
+      "trans retinal binding",
+      "visual yellow binding"
+    ],
+    "broad": [
+      "vitamin A binding"
+    ],
+    "narrow": [],
+    "related": [
+      "xanthopsin"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "Binding to all-trans retinal, a compound that plays an important role in the visual process in most vertebrates. All-trans retinal (trans r., visual yellow) results from the bleaching of rhodopsin by light, in which the 11-cis form is converted to the all-trans form. Retinal is one of the forms of vitamin A.",
+  "namespace": "molecular_function",
+  "label": "all-trans retinal binding"
+}

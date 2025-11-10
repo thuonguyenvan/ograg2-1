@@ -1,0 +1,38 @@
+{
+  "id": "GO:0048576",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048576",
+  "relationships": {
+    "is_a": [
+      "GO:0048582",
+      "GO:0048584",
+      "GO:0048587"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of short-day photoperiodism, flowering",
+      "up-regulation of short-day photoperiodism, flowering",
+      "upregulation of short-day photoperiodism, flowering"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of short-day photoperiodism, flowering",
+      "stimulation of short-day photoperiodism, flowering"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid",
+      "pj"
+    ],
+    "ISBN": [
+      "0582015952",
+      "0697037754",
+      "0709408862"
+    ]
+  },
+  "definition": "Any process that activates, maintains or increases short-day photoperiodism, where the response associated with the photoperiodism is flowering. Flowering is defined by the switch from the vegetative to the reproductive phase.",
+  "namespace": "biological_process",
+  "label": "positive regulation of short-day photoperiodism, flowering"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "GO:0031515",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031515",
+  "relationships": {
+    "is_a": [
+      "GO:0043527"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "10779558",
+      "14739239"
+    ]
+  },
+  "definition": "A protein complex involved in the catalysis of the formation of the modified nucleotide 1-methyladenosine (m1A) in tRNA. In yeast, it is a heterotetramer of two subunits, Gcd10p and Gcd14p, while in bacteria and archaea it is a homotetramer.",
+  "namespace": "cellular_component",
+  "label": "tRNA (m1A) methyltransferase complex"
+}

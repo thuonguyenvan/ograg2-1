@@ -1,0 +1,31 @@
+{
+  "id": "GO:0051486",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051486",
+  "relationships": {
+    "is_a": [
+      "GO:0019287"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "isopentenyl diphosphate anabolism, mevalonate pathway, during terpenoid anabolism",
+      "isopentenyl diphosphate biosynthetic process, mevalonate pathway, during terpenoid biosynthetic process",
+      "isopentenyl diphosphate formation, mevalonate pathway, during terpenoid biosynthesis",
+      "isopentenyl diphosphate formation, mevalonate pathway, during terpenoid formation",
+      "isopentenyl diphosphate synthesis, mevalonate pathway, during terpenoid synthesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of isopentenyl diphosphate by the mevalonate pathway that contributes to terpenoid biosynthesis. This pathway converts acetate, in the form of acetyl-CoA, to isopentenyl diphosphate (IPP) through a series of mevalonate intermediates.",
+  "namespace": "biological_process",
+  "label": "isopentenyl diphosphate biosynthetic process, mevalonate pathway involved in terpenoid biosynthetic process"
+}

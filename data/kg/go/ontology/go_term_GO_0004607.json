@@ -1,0 +1,46 @@
+{
+  "id": "GO:0004607",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004607",
+  "relationships": {
+    "is_a": [
+      "GO:0008374"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "LCAT (lecithin-cholesterol acyltransferase)",
+      "LCAT activity",
+      "lecithin--cholesterol acyltransferase activity",
+      "lecithin:cholesterol acyltransferase activity",
+      "phosphatidylcholine:sterol O-acyltransferase activity",
+      "phospholipid--cholesterol acyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.43",
+      "2.3.1.43",
+      "2.3.1.43",
+      "2.3.1.43",
+      "2.3.1.43",
+      "2.3.1.43",
+      "2.3.1.43",
+      "2.3.1.43"
+    ],
+    "MetaCyc": [
+      "2.3.1.43-RXN"
+    ],
+    "RHEA": [
+      "21204"
+    ],
+    "Reactome": [
+      "R-HSA-264695"
+    ]
+  },
+  "definition": "Catalysis of the reaction: phosphatidylcholine + a sterol = a sterol ester + 1-acylglycerophosphocholine.",
+  "namespace": "molecular_function",
+  "label": "cholesterol + phosphatidylcholine (lecithin) =&gt; cholesterol ester + 2-lysophosphatidylcholine (lysolecithin)"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0070189",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070189",
+  "relationships": {
+    "is_a": [
+      "GO:0042180",
+      "GO:0042537",
+      "GO:0170041",
+      "GO:1901605"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "kynurenine metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "CHEBI": [
+      "28683"
+    ],
+    "GOC": [
+      "mah",
+      "rph"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving kynurenine, the amino acid 3-(2-aminobenzoyl)-alanine.",
+  "namespace": "biological_process",
+  "label": "kynurenine metabolic process"
+}

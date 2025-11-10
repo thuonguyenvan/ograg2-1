@@ -1,0 +1,32 @@
+{
+  "id": "GO:0051123",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051123",
+  "relationships": {
+    "is_a": [
+      "GO:0070897"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA polymerase II transcription PIC biosynthesis",
+      "RNA polymerase II transcription PIC formation",
+      "RNA polymerase II transcriptional preinitiation complex assembly",
+      "RNA polymerase II transcriptional preinitiation complex formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH"
+    ],
+    "PMID": [
+      "15020047",
+      "31300188"
+    ]
+  },
+  "definition": "The formation of a large multiprotein-DNA complex that self-assembles on gene promoter through the sequential recruitment of the general initiation factors that compose the preinitiation complex (PIC) (which may include TFIIA, TFIIB, TFIID, TFIIE, TFIIF, and TFIIH complexes). The PIC engages RNA polymerase II on its DNA template strand and sparks polymerization of the first few RNA nucleotides of the nascent transcript, of which 8 are base-paired with the DNA template within a DNA bubble. PIC assembly may result in a pause step, which marks the end of the PIC assembly and may be followed by promoter clearance (exact synonym: promoter escape). For RNA polymerase II PIC assembly is preceded by the formation of a nucleosome-free region that allows the transcription machinery to access the promoter DNA.",
+  "namespace": "biological_process",
+  "label": "RNA polymerase II preinitiation complex assembly"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GO:0004408",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004408",
+  "relationships": {
+    "is_a": [
+      "GO:0016846",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cytochrome c heme-lyase activity",
+      "cytochrome c synthase activity",
+      "holocytochrome c synthetase activity",
+      "holocytochrome-c apocytochrome-c-lyase (heme-forming)",
+      "holocytochrome-c apocytochrome-c-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.4.1.17",
+      "4.4.1.17",
+      "4.4.1.17",
+      "4.4.1.17",
+      "4.4.1.17",
+      "4.4.1.17",
+      "4.4.1.17"
+    ],
+    "MetaCyc": [
+      "HOLOCYTOCHROME-C-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "22648"
+    ],
+    "Reactome": [
+      "R-HSA-9866217"
+    ]
+  },
+  "definition": "Catalysis of the reaction: holocytochrome c = apocytochrome c + heme.",
+  "namespace": "molecular_function",
+  "label": "HCCS inserts heme into cytochrome c"
+}

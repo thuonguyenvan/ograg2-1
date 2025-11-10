@@ -1,0 +1,50 @@
+{
+  "id": "GO:0004855",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004855",
+  "relationships": {
+    "is_a": [
+      "GO:0016727"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "hypoxanthine-xanthine oxidase activity",
+      "xanthine oxidoreductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "Schardinger enzyme activity",
+      "schardinger enzyme",
+      "xanthine:O2 oxidoreductase activity",
+      "xanthine:oxygen oxidoreductase activity",
+      "xanthine:xanthine oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.17.3.2",
+      "1.17.3.2",
+      "1.17.3.2",
+      "1.17.3.2",
+      "1.17.3.2",
+      "1.17.3.2",
+      "1.17.3.2",
+      "1.17.3.2",
+      "1.17.3.2"
+    ],
+    "MetaCyc": [
+      "XANTHINE-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "21132"
+    ],
+    "Reactome": [
+      "R-HSA-74258",
+      "R-HSA-9748991"
+    ]
+  },
+  "definition": "Catalysis of the reaction: xanthine + H2O + O2 = urate + hydrogen peroxide.",
+  "namespace": "molecular_function",
+  "label": "XDH oxidises 6MP to 6TU"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006515",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006515",
+  "relationships": {
+    "is_a": [
+      "GO:0051603"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "degradation of misfolded or incompletely synthesized proteins",
+      "misfolded or incompletely synthesized protein breakdown",
+      "misfolded or incompletely synthesized protein catabolic process",
+      "misfolded or incompletely synthesized protein catabolism",
+      "misfolded or incompletely synthesized protein degradation",
+      "protein quality control (PQC)"
+    ],
+    "broad": [
+      "protein quality control by the ubiquitin-proteasome system"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of misfolded or attenuated proteins.",
+  "namespace": "biological_process",
+  "label": "protein quality control for misfolded or incompletely synthesized proteins"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "GO:0051388",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051388",
+  "relationships": {
+    "is_a": [
+      "GO:0009967",
+      "GO:0051386"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of NGF receptor signaling pathway",
+      "positive regulation of NGF receptor signalling pathway",
+      "positive regulation of nerve growth factor receptor signalling pathway",
+      "up regulation of nerve growth factor receptor signaling pathway",
+      "up-regulation of nerve growth factor receptor signaling pathway",
+      "upregulation of nerve growth factor receptor signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of nerve growth factor receptor signaling pathway",
+      "stimulation of nerve growth factor receptor signaling pathway"
+    ],
+    "related": [
+      "positive regulation of nerve growth factor receptor signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9024909",
+      "R-HSA-9025046",
+      "R-HSA-9026357",
+      "R-HSA-9034013",
+      "R-HSA-9034793"
+    ],
+    "GOC": [
+      "ai",
+      "jc"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the neurotrophin TRK receptor signaling pathway.",
+  "namespace": "biological_process",
+  "label": "Activated NTRK3 signals through PLCG1"
+}

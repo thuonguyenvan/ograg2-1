@@ -1,0 +1,30 @@
+{
+  "id": "GO:0005968",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005968",
+  "relationships": {
+    "is_a": [
+      "GO:1990234"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GGTase-II complex",
+      "Rab geranylgeranyltransferase complex",
+      "RabGGTase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "11886217"
+    ]
+  },
+  "definition": "An protein-containing complex which catalyzes of the transfer of a geranyl-geranyl group from geranylgeranyl pyrophosphate to a Rab protein. In mammals it is composed of an alpha and a beta subunit, and associates with an accessory protein Rep (Rab escort protein).",
+  "namespace": "cellular_component",
+  "label": "Rab-protein geranylgeranyltransferase complex"
+}

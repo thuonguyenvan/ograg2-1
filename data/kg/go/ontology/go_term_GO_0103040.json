@@ -1,0 +1,30 @@
+{
+  "id": "GO:0103040",
+  "uri": "http://purl.obolibrary.org/obo/GO_0103040",
+  "relationships": {
+    "is_a": [
+      "GO:0016901"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN0-6371",
+      "RXN0-6371"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "16864586"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + an aldose + an oxidized electron acceptor = H+ + an aldonate + a reduced electron acceptor.",
+  "namespace": "molecular_function",
+  "label": "aldose sugar dehydrogenase activity"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "GO:0071006",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071006",
+  "relationships": {
+    "is_a": [
+      "GO:0005684",
+      "GO:0071012"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "U2-type activated spliceosome",
+      "major catalytic step 1 spliceosome"
+    ],
+    "broad": [],
+    "narrow": [
+      "GT-AG catalytic step 1 spliceosome",
+      "mammalian U2-type spliceosomal complex B*",
+      "mammalian U2-type spliceosomal complex B2",
+      "yeast U2-type spliceosomal complex A1"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ab",
+      "krc",
+      "mah",
+      "krc",
+      "krc",
+      "mah",
+      "krc",
+      "mah",
+      "ab",
+      "krc",
+      "mah",
+      "krc",
+      "mah",
+      "krc",
+      "mah"
+    ],
+    "ISBN": [
+      "0879695897",
+      "0879697393",
+      "0879695897",
+      "0879697393",
+      "0879695897",
+      "0879697393",
+      "0879695897",
+      "0879697393",
+      "0879695897",
+      "0879697393"
+    ],
+    "PMID": [
+      "18322460",
+      "19239890",
+      "19239890"
+    ]
+  },
+  "definition": "A spliceosomal complex that is formed by the displacement of the U1 and U4 snRNPs from the precatalytic spliceosome; the U2, U5 and U6 snRNPs remain associated with the mRNA. This complex, sometimes called the activated spliceosome, is the catalytically active form of the spliceosome, and includes many proteins in addition to those found in the U2, and U5 and U6 snRNPs.",
+  "namespace": "cellular_component",
+  "label": "U2-type catalytic step 1 spliceosome"
+}

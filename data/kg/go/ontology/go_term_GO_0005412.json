@@ -1,0 +1,38 @@
+{
+  "id": "GO:0005412",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005412",
+  "relationships": {
+    "is_a": [
+      "GO:0005402",
+      "GO:0015370",
+      "GO:0055056"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucose:sodium symporter activity",
+      "sodium/glucose symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-22596"
+    ],
+    "Reactome": [
+      "R-HSA-189208",
+      "R-HSA-429613",
+      "R-HSA-5656356",
+      "R-HSA-5658163",
+      "R-HSA-8932955"
+    ],
+    "TC": [
+      "2.A.21.3.-"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: D-glucose(out) + Na+(out) = D-glucose(in) + Na+(in).",
+  "namespace": "molecular_function",
+  "label": "SLC5A1 cotransports Glc,Gal with Na+ from extracellular region to cytosol"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0031496",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031496",
+  "relationships": {
+    "is_a": [
+      "GO:0031494",
+      "GO:0051094",
+      "GO:2000243"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of mating type switching",
+      "up-regulation of mating type switching",
+      "upregulation of mating type switching"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of mating type switching",
+      "stimulation of mating type switching"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of mating type switching.",
+  "namespace": "biological_process",
+  "label": "positive regulation of mating type switching"
+}

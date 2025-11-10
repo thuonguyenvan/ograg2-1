@@ -1,0 +1,28 @@
+{
+  "id": "GO:0042740",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042740",
+  "relationships": {
+    "is_a": [
+      "GO:0017001",
+      "GO:0042178"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "exogenous antibiotic breakdown",
+      "exogenous antibiotic catabolism",
+      "exogenous antibiotic degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of an antibiotic that has originated externally to the cell or organism.",
+  "namespace": "biological_process",
+  "label": "exogenous antibiotic catabolic process"
+}

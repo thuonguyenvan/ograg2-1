@@ -1,0 +1,32 @@
+{
+  "id": "GO:0031401",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031401",
+  "relationships": {
+    "is_a": [
+      "GO:0031399",
+      "GO:0051247"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of protein modification",
+      "up-regulation of protein modification",
+      "upregulation of protein modification"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein modification",
+      "stimulation of protein modification"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "tb"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the covalent alteration of one or more amino acid residues within a protein.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein modification process"
+}

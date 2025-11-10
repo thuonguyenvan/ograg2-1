@@ -1,0 +1,36 @@
+{
+  "id": "GO:0033944",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033944",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "beta-D-galactofuranosidase activity",
+      "beta-D-galactofuranoside hydrolase activity",
+      "exo-beta-D-galactofuranosidase activity",
+      "exo-beta-galactofuranosidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.146",
+      "3.2.1.146",
+      "3.2.1.146",
+      "3.2.1.146",
+      "3.2.1.146",
+      "3.2.1.146"
+    ],
+    "MetaCyc": [
+      "3.2.1.146-RXN"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of terminal non-reducing beta-D-galactofuranosides, releasing galactose.",
+  "namespace": "molecular_function",
+  "label": "beta-galactofuranosidase activity"
+}

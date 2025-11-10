@@ -1,0 +1,29 @@
+{
+  "id": "GO:0080012",
+  "uri": "http://purl.obolibrary.org/obo/GO_0080012",
+  "relationships": {
+    "is_a": [
+      "GO:0008171"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N1,N5,N10-tris-(5-hydroxyferuloyl)spermidine O-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-11263",
+      "RXN-11263"
+    ],
+    "PMID": [
+      "18557837"
+    ]
+  },
+  "definition": "Catalysis of the reaction: trihydroxyferuloyl spermidine + S-adenosyl-L-methionine = dihydroxyferuloyl-sinapoyl spermidine + S-adenosyl-L-homocysteine + H+.",
+  "namespace": "molecular_function",
+  "label": "trihydroxyferuloyl spermidine O-methyltransferase activity"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "GO:0034713",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034713",
+  "relationships": {
+    "is_a": [
+      "GO:0005160"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TGF-beta type I binding",
+      "transforming growth factor beta receptor type I binding",
+      "type I TGF-beta binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "babo binding",
+      "babo ligand",
+      "baboon binding",
+      "baboon ligand",
+      "baboon receptor ligand",
+      "sax binding",
+      "sax ligand",
+      "saxophone binding",
+      "saxophone ligand",
+      "thickveins binding",
+      "thickveins ligand",
+      "tkv binding",
+      "tkv ligand"
+    ],
+    "related": [
+      "transforming growth factor beta ligand binding to type I receptor"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah"
+    ]
+  },
+  "definition": "Binding to a type I transforming growth factor beta receptor.",
+  "namespace": "molecular_function",
+  "label": "type I transforming growth factor beta receptor binding"
+}

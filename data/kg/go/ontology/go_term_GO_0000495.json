@@ -1,0 +1,29 @@
+{
+  "id": "GO:0000495",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000495",
+  "relationships": {
+    "is_a": [
+      "GO:0031126",
+      "GO:0034964"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "box H/ACA RNA 3&apos; end processing"
+    ],
+    "broad": [],
+    "narrow": [
+      "box H/ACA sRNA 3&apos;-end processing",
+      "box H/ACA snoRNA 3&apos;-end processing"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ]
+  },
+  "definition": "Any process involved in forming the mature 3&apos; end of a box H/ACA RNA molecule.",
+  "namespace": "biological_process",
+  "label": "box H/ACA sno(s)RNA 3&apos;-end processing"
+}

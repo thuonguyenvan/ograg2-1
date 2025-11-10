@@ -1,0 +1,24 @@
+{
+  "id": "GO:0000269",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000269",
+  "relationships": {
+    "is_a": [
+      "GO:0015288",
+      "GO:0019534"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ]
+  },
+  "definition": "Enables the energy independent passage of toxins, sized less than 1000 Da, across a membrane towards the outside of the cell. The transmembrane portions of porins consist exclusively of beta-strands which form a beta-barrel. They are found in the outer membranes of Gram-negative bacteria, mitochondria, plastids and possibly acid-fast Gram-positive bacteria.",
+  "namespace": "molecular_function",
+  "label": "toxin export channel activity"
+}

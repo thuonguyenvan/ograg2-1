@@ -1,0 +1,33 @@
+{
+  "id": "GO:0033964",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033964",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "glycosphingolipid ceramide deacylase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "glycosphingolipid amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.69",
+      "3.5.1.69",
+      "3.5.1.69",
+      "3.5.1.69"
+    ],
+    "MetaCyc": [
+      "3.5.1.69-RXN"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of gangliosides and neutral glycosphingolipids, releasing fatty acids to form the lyso-derivatives.",
+  "namespace": "molecular_function",
+  "label": "glycosphingolipid deacylase activity"
+}

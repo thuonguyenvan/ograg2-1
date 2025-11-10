@@ -1,0 +1,29 @@
+{
+  "id": "GO:0032807",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032807",
+  "relationships": {
+    "is_a": [
+      "GO:0070419",
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA ligase IV-XRCC4 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "16314503"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A eukaryotically conserved protein complex that contains DNA ligase IV and is involved in DNA repair by non-homologous end joining; in addition to the ligase, the complex also contains XRCC4 or a homolog, e.g. Saccharomyces Lif1p.",
+  "namespace": "cellular_component",
+  "label": "DNA ligase IV complex"
+}

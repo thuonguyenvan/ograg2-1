@@ -1,0 +1,30 @@
+{
+  "id": "GO:0044066",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044066",
+  "relationships": {
+    "is_a": [
+      "GO:0052008"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "disruption by symbiont of host cell nucleus",
+      "modification by symbiont of host nucleus",
+      "modification of host cell nucleus by symbiont",
+      "modification of host nucleus by symbiont"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "modification by symbiont of host cell nucleus"
+    ]
+  },
+  "cross_references": {
+    "MITRE": [
+      "tk"
+    ]
+  },
+  "definition": "The process in which an organism effects a change that impairs the structure or function of the host cell nucleus.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated disruption of host cell nucleus"
+}

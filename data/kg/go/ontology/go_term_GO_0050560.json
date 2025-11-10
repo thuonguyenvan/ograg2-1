@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050560",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050560",
+  "relationships": {
+    "is_a": [
+      "GO:0004812"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "aspartate-tRNAAsn ligase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-aspartate:tRNAAsx ligase (AMP-forming)",
+      "nondiscriminating aspartyl-tRNA synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.1.1.23",
+      "6.1.1.23",
+      "6.1.1.23",
+      "6.1.1.23"
+    ],
+    "MetaCyc": [
+      "6.1.1.23-RXN",
+      "6.1.1.23-RXN"
+    ],
+    "RHEA": [
+      "18349"
+    ]
+  },
+  "definition": "Catalysis of the reaction: tRNA(Asx) + L-aspartate + ATP = aspartyl-tRNA(Asx) + diphosphate + AMP.",
+  "namespace": "molecular_function",
+  "label": "aspartate-tRNA(Asn) ligase activity"
+}

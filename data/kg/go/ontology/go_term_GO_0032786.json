@@ -1,0 +1,40 @@
+{
+  "id": "GO:0032786",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032786",
+  "relationships": {
+    "is_a": [
+      "GO:0032784",
+      "GO:0045893"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of DNA-dependent transcription, elongation",
+      "positive regulation of transcription elongation, DNA-dependent"
+    ],
+    "broad": [
+      "activation of RNA elongation",
+      "positive regulation of transcription elongation",
+      "positive regulation of transcriptional elongation",
+      "stimulation of RNA elongation",
+      "up regulation of RNA elongation",
+      "up-regulation of RNA elongation",
+      "upregulation of RNA elongation"
+    ],
+    "narrow": [],
+    "related": [
+      "positive transcription elongation regulator activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "txnOH",
+      "txnOH",
+      "jh2"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of transcription elongation, the extension of an RNA molecule after transcription initiation and promoter clearance by the addition of ribonucleotides catalyzed by a DNA-dependent RNA polymerase.",
+  "namespace": "biological_process",
+  "label": "positive regulation of DNA-templated transcription, elongation"
+}

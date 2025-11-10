@@ -1,0 +1,42 @@
+{
+  "id": "GO:0018805",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018805",
+  "relationships": {
+    "is_a": [
+      "GO:0016830"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "benzylsuccinate fumarate-lyase (toluene-forming)",
+      "benzylsuccinate fumarate-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.99.11",
+      "4.1.99.11",
+      "4.1.99.11",
+      "4.1.99.11"
+    ],
+    "KEGG_REACTION": [
+      "R05598"
+    ],
+    "MetaCyc": [
+      "RXN-863"
+    ],
+    "RHEA": [
+      "10416",
+      "10416"
+    ],
+    "UM-BBD_enzymeID": [
+      "r0328"
+    ]
+  },
+  "definition": "Catalysis of the reaction: fumarate + toluene = 2-benzylsuccinate.",
+  "namespace": "molecular_function",
+  "label": "benzylsuccinate synthase activity"
+}

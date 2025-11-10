@@ -1,0 +1,46 @@
+{
+  "id": "GO:0018819",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018819",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acrylyl coenzyme A hydratase activity",
+      "lactoyl coenzyme A dehydratase activity",
+      "lactoyl-CoA hydro-lyase (acryloyl-CoA-forming)",
+      "lactoyl-CoA hydro-lyase activity",
+      "lactyl CoA dehydratase activity",
+      "lactyl-coenzyme A dehydrase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.54",
+      "4.2.1.54",
+      "4.2.1.54",
+      "4.2.1.54",
+      "4.2.1.54",
+      "4.2.1.54",
+      "4.2.1.54"
+    ],
+    "MetaCyc": [
+      "LACTOYL-COA-DEHYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "34691",
+      "34691"
+    ],
+    "UM-BBD_reactionID": [
+      "r0086"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-lactoyl-CoA = acryloyl-CoA + H2O.",
+  "namespace": "molecular_function",
+  "label": "lactoyl-CoA dehydratase activity"
+}

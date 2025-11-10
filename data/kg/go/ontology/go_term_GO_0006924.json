@@ -1,0 +1,45 @@
+{
+  "id": "GO:0006924",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006924",
+  "relationships": {
+    "is_a": [
+      "GO:0070231"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "activation-induced cell death of T lymphocytes",
+      "activation-induced cell death of T-cells",
+      "activation-induced cell death of T-lymphocytes"
+    ],
+    "broad": [
+      "AICD",
+      "activated T cell apoptosis",
+      "antigen-driven apoptosis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mtg_apoptosis",
+      "add",
+      "add",
+      "add",
+      "add",
+      "add",
+      "add"
+    ],
+    "ISBN": [
+      "0781765196"
+    ],
+    "PMID": [
+      "12414721",
+      "12752672"
+    ]
+  },
+  "definition": "A T cell apoptotic process that occurs towards the end of the expansion phase following the initial activation of mature T cells by antigen and is triggered by T cell receptor stimulation and signals transmitted via various surface-expressed members of the TNF receptor family such as Fas ligand, Fas, and TNF and the p55 and p75 TNF receptors.",
+  "namespace": "biological_process",
+  "label": "activation-induced cell death of T cells"
+}

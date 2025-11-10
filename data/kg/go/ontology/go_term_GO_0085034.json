@@ -1,0 +1,37 @@
+{
+  "id": "GO:0085034",
+  "uri": "http://purl.obolibrary.org/obo/GO_0085034",
+  "relationships": {
+    "is_a": [
+      "GO:0052029",
+      "GO:0085032"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "disruption of host I-kappaB kinase/NF-kappaB cascade",
+      "negative regulation by symbiont of host I-kappaB kinase/NF-kappaB cascade",
+      "suppression by symbiont of host I-kappaB kinase/NF-kappaB cascade"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "disruption of host canonical NF-kappaB cascade",
+      "symbiont-mediated suppression of host canonical NF-kappaB cascade"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "695"
+    ],
+    "PMID": [
+      "18250452",
+      "22442494",
+      "24648522",
+      "33567255"
+    ]
+  },
+  "definition": "A process in which a symbiont interferes with, inhibits or disrupts an NF-kappaB-mediated signaling cascade in its host organism. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host NF-kappaB cascade"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0002489",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002489",
+  "relationships": {
+    "is_a": [
+      "GO:0002488"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TAP-dependent antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway",
+      "TAP-dependent endogenous peptide antigen processing and presentation via MHC class Ib via ER pathway",
+      "endogenous peptide antigen processing and presentation via MHC class Ib via ER pathway, TAP-dependent"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "PMID": [
+      "15928678"
+    ]
+  },
+  "definition": "The process in which an antigen-presenting cell expresses a peptide antigen of endogenous origin on its cell surface in association with an MHC class Ib protein complex following intracellular transport via a TAP (transporter associated with antigen processing) pathway. The peptide is typically a fragment of a larger endogenous protein which has been degraded within the cell and is dependent on TAP transport from the cytosol to ER for association with the MHC class Ib molecule. Class Ib here refers to non-classical class I molecules, such as those of the HLA-E gene family.",
+  "namespace": "biological_process",
+  "label": "antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway, TAP-dependent"
+}

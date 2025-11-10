@@ -1,0 +1,38 @@
+{
+  "id": "GO:0010162",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010162",
+  "relationships": {
+    "is_a": [
+      "GO:0003006",
+      "GO:0022611",
+      "GO:0032501",
+      "GO:0048609"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "seed dormancy"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Seed#Seed_dormancy_and_protection"
+    ],
+    "GOC": [
+      "PO_curators",
+      "lr"
+    ],
+    "ISBN": [
+      "9781405139830"
+    ],
+    "PO_REF": [
+      "00009"
+    ]
+  },
+  "definition": "A dormancy process in which dormancy (sometimes called a dormant state) is induced, maintained or broken in a seed. Seed dormancy is a suspension of most physiological activity and growth in a seed, including the embryo contained therein, that can be reactivated. It often requires special conditions for reactivation, such as specific temperature, scarification, or leaching of inhibitors.",
+  "namespace": "biological_process",
+  "label": "seed dormancy process"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0044472",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044472",
+  "relationships": {
+    "is_a": [
+      "GO:0044560"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "envenomation resulting in modulation of calcium channel activity in another organism",
+      "envenomation resulting in modulation of calcium channel activity in other organism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "fj",
+      "jl"
+    ],
+    "PMID": [
+      "20920515"
+    ]
+  },
+  "definition": "A process in which an organism alters or subverts the activity of a calcium channel in another organism via the action of a venom.",
+  "namespace": "biological_process",
+  "label": "venom-mediated perturbation of calcium channel activity"
+}

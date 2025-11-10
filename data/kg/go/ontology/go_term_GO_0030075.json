@@ -1,0 +1,26 @@
+{
+  "id": "GO:0030075",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030075",
+  "relationships": {
+    "is_a": [
+      "GO:0009579"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "plasma membrane-derived thylakoid"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "A thylakoid that is derived from and attached to, but not necessarily continuous with, the plasma membrane, and is not enclosed in a plastid. It bears the photosynthetic pigments in photosynthetic cyanobacteria.",
+  "namespace": "cellular_component",
+  "label": "bacterial thylakoid"
+}

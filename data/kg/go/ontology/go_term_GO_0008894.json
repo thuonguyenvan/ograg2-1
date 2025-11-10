@@ -1,0 +1,47 @@
+{
+  "id": "GO:0008894",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008894",
+  "relationships": {
+    "is_a": [
+      "GO:0016462"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "guanosine-5&apos;-triphosphate,3&apos;-diphosphate pyrophosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "guanosine 5&apos;-triphosphate 3&apos;-diphosphate 5&apos;-phosphatase activity",
+      "guanosine 5&apos;-triphosphate-3&apos;-diphosphate 5&apos;-phosphohydrolase activity",
+      "guanosine pentaphosphatase activity",
+      "guanosine pentaphosphate phosphatase activity",
+      "guanosine pentaphosphate phosphohydrolase activity",
+      "guanosine-5&apos;-triphosphate,3&apos;-diphosphate 5&apos;-phosphohydrolase activity",
+      "pppGpp 5&apos;-phosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.40",
+      "3.6.1.40",
+      "3.6.1.40",
+      "3.6.1.40",
+      "3.6.1.40",
+      "3.6.1.40",
+      "3.6.1.40",
+      "3.6.1.40",
+      "3.6.1.40"
+    ],
+    "MetaCyc": [
+      "PPPGPPHYDRO-RXN"
+    ],
+    "RHEA": [
+      "13073"
+    ]
+  },
+  "definition": "Catalysis of the reaction: guanosine 5&apos;-triphosphate,3&apos;-diphosphate + H2O = guanosine 5&apos;-diphosphate,3&apos;-diphosphate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "guanosine-5&apos;-triphosphate,3&apos;-diphosphate diphosphatase activity"
+}

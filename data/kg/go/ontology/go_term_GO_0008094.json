@@ -1,0 +1,31 @@
+{
+  "id": "GO:0008094",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008094",
+  "relationships": {
+    "is_a": [
+      "GO:0140097",
+      "GO:0140657"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATPase activity, acting on DNA",
+      "ATPase, acting on DNA",
+      "DNA dependent ATPase activity",
+      "DNA-dependent ATPase activity",
+      "DNA-dependent adenosinetriphosphatase activity",
+      "adenosinetriphosphatase (DNA-dependent)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pdt"
+    ]
+  },
+  "definition": "Catalytic activity that acts to modify DNA, driven by ATP hydrolysis.",
+  "namespace": "molecular_function",
+  "label": "ATP-dependent activity, acting on DNA"
+}

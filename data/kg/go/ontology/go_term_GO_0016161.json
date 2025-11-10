@@ -1,0 +1,38 @@
+{
+  "id": "GO:0016161",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016161",
+  "relationships": {
+    "is_a": [
+      "GO:0016160"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "glycogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "4-alpha-D-glucan maltohydrolase activity",
+      "beta amylase activity",
+      "saccharogen amylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.2",
+      "3.2.1.2",
+      "3.2.1.2",
+      "3.2.1.2"
+    ],
+    "MetaCyc": [
+      "RXN-1827"
+    ],
+    "PMID": [
+      "18390594"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (1,4-alpha-D-glucosyl)(n+1) + H2O = (1,4-alpha-D-glucosyl)(n-1) + alpha-maltose. This reaction is the hydrolysis of 1,4-alpha-glucosidic linkages in polysaccharides so as to remove successive maltose units from the non-reducing ends of the chains.",
+  "namespace": "molecular_function",
+  "label": "beta-amylase activity"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0050030",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050030",
+  "relationships": {
+    "is_a": [
+      "GO:0016645"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-pipecolate:(acceptor) 1,6-oxidoreductase activity",
+      "L-pipecolate:acceptor 1,6-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.99.3",
+      "1.5.99.3",
+      "1.5.99.3",
+      "1.5.99.3"
+    ],
+    "MetaCyc": [
+      "L-PIPECOLATE-DEHYDROGENASE-RXN",
+      "L-PIPECOLATE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "19777"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-pipecolate + acceptor = delta1-piperideine-6-carboxylate + reduced acceptor. Delta1-piperideine-6-carboxylate is also known as 2,3,4,5-tetrahydropyridine-2-carboxylate.",
+  "namespace": "molecular_function",
+  "label": "L-pipecolate dehydrogenase activity"
+}

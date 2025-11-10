@@ -1,0 +1,37 @@
+{
+  "id": "GO:0002862",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002862",
+  "relationships": {
+    "is_a": [
+      "GO:0002861",
+      "GO:0050728",
+      "GO:0050777"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of inflammatory response to antigenic stimulus",
+      "down-regulation of inflammatory response to antigenic stimulus",
+      "downregulation of inflammatory response to antigenic stimulus"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of inflammatory response to antigenic stimulus"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9660821",
+      "R-HSA-9662834",
+      "R-HSA-9664323",
+      "R-HSA-9664535"
+    ],
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate, or extent of an inflammatory response to an antigenic stimulus.",
+  "namespace": "biological_process",
+  "label": "LTC4-CYSLTR mediated IL4 production"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:1902889",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902889",
+  "relationships": {
+    "is_a": [
+      "GO:0035372"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein localisation in spindle microtubule",
+      "protein localisation to spindle microtubule",
+      "protein localization in spindle microtubule"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "kmv",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000087"
+    ],
+    "PMID": [
+      "16054030"
+    ]
+  },
+  "definition": "A process in which a protein is transported to, or maintained in, a location within a spindle microtubule.",
+  "namespace": "biological_process",
+  "label": "protein localization to spindle microtubule"
+}

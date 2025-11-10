@@ -1,0 +1,35 @@
+{
+  "id": "GO:0006754",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006754",
+  "relationships": {
+    "is_a": [
+      "GO:0009152",
+      "GO:0009206",
+      "GO:0046034"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP anabolism",
+      "ATP biosynthesis",
+      "ATP formation",
+      "ATP synthesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "ATP regeneration"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of ATP, adenosine 5&apos;-triphosphate, a universally important coenzyme and enzyme regulator.",
+  "namespace": "biological_process",
+  "label": "ATP biosynthetic process"
+}

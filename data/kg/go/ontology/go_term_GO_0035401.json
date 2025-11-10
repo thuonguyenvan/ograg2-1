@@ -1,0 +1,29 @@
+{
+  "id": "GO:0035401",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035401",
+  "relationships": {
+    "is_a": [
+      "GO:0004713",
+      "GO:0140996"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H3-Y41 kinase activity",
+      "histone kinase activity (H3-Y41 specific)",
+      "histone tyrosine kinase activity (H3-Y41 specific)",
+      "histone-tyrosine kinase activity (H3-Y41 specific)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Catalysis of the reaction: histone H3-tyrosine (position 41) + ATP = histone H3-phosphotyrosine (position 41) + ADP. This reaction is the addition of a phosphate group to the tyrosine residue at position 41 of histone H3.",
+  "namespace": "molecular_function",
+  "label": "histone H3Y41 kinase activity"
+}

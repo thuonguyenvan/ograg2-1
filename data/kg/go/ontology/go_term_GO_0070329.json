@@ -1,0 +1,30 @@
+{
+  "id": "GO:0070329",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070329",
+  "relationships": {
+    "is_a": [
+      "GO:0001887",
+      "GO:0006400"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA base modification to selenouridine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jsg",
+      "mah"
+    ],
+    "PMID": [
+      "14594807"
+    ]
+  },
+  "definition": "The substitution of a selenium atom for a sulfur atom in a ribonucleotide in a tRNA molecule.",
+  "namespace": "biological_process",
+  "label": "tRNA seleno-modification"
+}

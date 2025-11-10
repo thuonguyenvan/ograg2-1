@@ -1,0 +1,37 @@
+{
+  "id": "GO:1903302",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903302",
+  "relationships": {
+    "is_a": [
+      "GO:0051338"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of ATP:pyruvate 2-O-phosphotransferase activity",
+      "regulation of phosphoenol transphosphorylase activity",
+      "regulation of phosphoenolpyruvate kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mr",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000059"
+    ],
+    "PMID": [
+      "15804508"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of pyruvate kinase activity.",
+  "namespace": "biological_process",
+  "label": "regulation of pyruvate kinase activity"
+}

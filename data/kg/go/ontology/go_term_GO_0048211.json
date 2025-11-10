@@ -1,0 +1,35 @@
+{
+  "id": "GO:0048211",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048211",
+  "relationships": {
+    "is_a": [
+      "GO:0048278"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Golgi vesicle docking with target membrane",
+      "Golgi vesicle to membrane docking",
+      "Golgi-derived vesicle docking"
+    ],
+    "broad": [],
+    "narrow": [
+      "dictyosome vesicle docking to target membrane"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid"
+    ],
+    "ISBN": [
+      "0716731363"
+    ],
+    "PMID": [
+      "10219233"
+    ]
+  },
+  "definition": "The initial attachment of a Golgi transport vesicle membrane to a target membrane, mediated by proteins protruding from the membrane of the Golgi vesicle and the target membrane.",
+  "namespace": "biological_process",
+  "label": "Golgi vesicle docking"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0006121",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006121",
+  "relationships": {
+    "is_a": [
+      "GO:0019646"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrial electron transport, succinate to coenzyme Q",
+      "oxidative phosphorylation, succinate to ubiquinone"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "complex II (succinate to ubiquinone)"
+    ]
+  },
+  "cross_references": {
+    "ISBN": [
+      "0716731363"
+    ]
+  },
+  "definition": "The transfer of electrons from succinate to ubiquinone that occurs during oxidative phosphorylation, mediated by the multisubunit enzyme known as complex II.",
+  "namespace": "biological_process",
+  "label": "mitochondrial electron transport, succinate to ubiquinone"
+}

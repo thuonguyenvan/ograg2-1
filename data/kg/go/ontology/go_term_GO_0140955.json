@@ -1,0 +1,34 @@
+{
+  "id": "GO:0140955",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140955",
+  "relationships": {
+    "is_a": [
+      "GO:0046975"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H3K36 mono/di/trimethylase activity",
+      "histone H3K36 trimethylase activity",
+      "histone lysine N-trimethyltransferase activity (H3-K36 specific)"
+    ],
+    "broad": [
+      "histone H3-K36 trimethylation",
+      "histone H3K36 trimethylation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.359"
+    ],
+    "RHEA": [
+      "60324",
+      "60324"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-lysyl36-[histone H3] + 3 S-adenosyl-L-methionine = 3 H+ + N6,N6,N6-trimethyl-L-lysyl36-[histone H3] + 3 S-adenosyl-L-homocysteine. This reaction is the successive addition of three methyl groups to the lysine residue at position 36 of histone H3, producing histone H3K36me3.",
+  "namespace": "molecular_function",
+  "label": "histone H3K36 trimethyltransferase activity"
+}

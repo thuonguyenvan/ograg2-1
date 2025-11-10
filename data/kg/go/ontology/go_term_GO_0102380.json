@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102380",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102380",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-13516"
+    ],
+    "RHEA": [
+      "61752",
+      "61752"
+    ]
+  },
+  "definition": "Catalysis of the reaction: steviolbioside + UDP-alpha-D-glucose = H+ + rebaudioside B + UDP.",
+  "namespace": "molecular_function",
+  "label": "steviolbioside glucosyltransferase activity (rebaudioside B forming)"
+}

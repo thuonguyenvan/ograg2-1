@@ -1,0 +1,42 @@
+{
+  "id": "GO:0000931",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000931",
+  "relationships": {
+    "is_a": [
+      "GO:0000930"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "gamma-TuRC"
+    ],
+    "broad": [],
+    "narrow": [
+      "gamma-tubulin large complex, centrosomal",
+      "gamma-tubulin large complex, eMTOC",
+      "gamma-tubulin large complex, equatorial microtubule organizing center",
+      "gamma-tubulin large complex, equatorial microtubule organizing centre",
+      "gamma-tubulin large complex, iMTOC",
+      "gamma-tubulin large complex, interphase microtubule organizing center",
+      "gamma-tubulin large complex, interphase microtubule organizing centre",
+      "gamma-tubulin large complex, mitotic spindle pole body",
+      "gamma-tubulin large complex, spindle pole body",
+      "gamma-tubulin ring complex, centrosomal"
+    ],
+    "related": [
+      "gamma-tubulin large complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_sensu"
+    ],
+    "PMID": [
+      "12134075",
+      "17021256"
+    ]
+  },
+  "definition": "A complex of gamma tubulin and associated proteins thought to be formed by multimerization of gamma-tubulin small complexes. An example of this structure is found in Schizosaccharomyces pombe.",
+  "namespace": "cellular_component",
+  "label": "gamma-tubulin ring complex"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GO:0004615",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004615",
+  "relationships": {
+    "is_a": [
+      "GO:0016868"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-mannose 1,6-phosphomutase activity",
+      "alpha-D-mannose 1,6-phosphomutase activity",
+      "mannose phosphomutase activity",
+      "phosphomannose mutase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.2.8",
+      "5.4.2.8",
+      "5.4.2.8",
+      "5.4.2.8",
+      "5.4.2.8",
+      "5.4.2.8"
+    ],
+    "KEGG_REACTION": [
+      "R01818"
+    ],
+    "MetaCyc": [
+      "PHOSMANMUT-RXN"
+    ],
+    "RHEA": [
+      "11140",
+      "11140"
+    ],
+    "Reactome": [
+      "R-HSA-3781926",
+      "R-HSA-446201"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-D-mannose 1-phosphate = D-mannose 6-phosphate.",
+  "namespace": "molecular_function",
+  "label": "PMM1,2 isomerise Man6P to Man1P"
+}

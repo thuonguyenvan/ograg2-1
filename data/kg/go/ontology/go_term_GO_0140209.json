@@ -1,0 +1,30 @@
+{
+  "id": "GO:0140209",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140209",
+  "relationships": {
+    "is_a": [
+      "GO:0046967",
+      "GO:0062111"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "zinc ion import across endoplasmic reticulum",
+      "zinc ion import into ER",
+      "zinc(2+) import across endoplasmic reticulum",
+      "zinc(2+) import into endoplasmic reticulum"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11886869",
+      "29529046"
+    ]
+  },
+  "definition": "The directed import of zinc(2+) from the cytosol, across the endoplasmic reticulum membrane, into the endoplasmic reticulum.",
+  "namespace": "biological_process",
+  "label": "zinc ion import into endoplasmic reticulum"
+}

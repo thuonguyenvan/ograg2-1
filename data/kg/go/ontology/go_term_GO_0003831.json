@@ -1,0 +1,69 @@
+{
+  "id": "GO:0003831",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003831",
+  "relationships": {
+    "is_a": [
+      "GO:0035250"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "thyroid galactosyltransferase activity",
+      "thyroid glycoprotein beta-galactosyltransferase"
+    ],
+    "related": [
+      "GalT activity",
+      "UDP-galactose--glycoprotein galactosyltransferase activity",
+      "UDP-galactose:N-acetyl-beta-D-glucosaminylglycopeptide beta-1,4-galactosyltransferase activity",
+      "UDPgalactose-glycoprotein galactosyltransferase activity",
+      "UDPgalactose:N-acetyl-beta-D-glucosaminylglycopeptide beta-1,4-galactosyltransferase activity",
+      "beta-N-acetyl-beta-(1,4)-galactosyltransferase activity",
+      "beta-N-acetyl-beta-1,4-galactosyltransferase activity",
+      "glycoprotein 4-beta-galactosyl-transferase activity",
+      "glycoprotein 4-beta-galactosyltransferase activity",
+      "glycoprotein beta-galactosyltransferase activity",
+      "uridine diphosphogalactose-glycoprotein galactosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.38",
+      "2.4.1.38",
+      "2.4.1.38",
+      "2.4.1.38",
+      "2.4.1.38",
+      "2.4.1.38",
+      "2.4.1.38",
+      "2.4.1.38",
+      "2.4.1.38",
+      "2.4.1.38",
+      "2.4.1.38",
+      "2.4.1.38",
+      "2.4.1.38",
+      "2.4.1.38",
+      "2.4.1.38"
+    ],
+    "MetaCyc": [
+      "2.4.1.38-RXN"
+    ],
+    "RHEA": [
+      "22932"
+    ],
+    "Reactome": [
+      "R-HSA-1912352",
+      "R-HSA-2025723",
+      "R-HSA-2046265",
+      "R-HSA-2046298",
+      "R-HSA-3656230",
+      "R-HSA-4793956",
+      "R-HSA-9035949",
+      "R-HSA-9035950",
+      "R-HSA-975919"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-galactose + N-acetyl-beta-D-glucosaminylglycopeptide = UDP + beta-D-galactosyl-(1-&gt;4)-N-acetyl-beta-D-glucosaminylglycopeptide.",
+  "namespace": "molecular_function",
+  "label": "Addition of galactose by beta 4-galactosyltransferases"
+}

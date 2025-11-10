@@ -1,0 +1,34 @@
+{
+  "id": "GO:0033939",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033939",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,2-alpha-glucuronidase activity",
+      "alpha-(1-&gt;2)-glucuronidase activity",
+      "xylan alpha-D-1,2-(4-O-methyl)glucuronohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.131",
+      "3.2.1.131",
+      "3.2.1.131",
+      "3.2.1.131",
+      "3.2.1.131"
+    ],
+    "MetaCyc": [
+      "3.2.1.131-RXN"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of alpha-D-(1-&gt;2)-(4-O-methyl)glucuronosyl links in the main chain of hardwood xylans.",
+  "namespace": "molecular_function",
+  "label": "xylan alpha-1,2-glucuronosidase activity"
+}

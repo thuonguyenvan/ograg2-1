@@ -1,0 +1,29 @@
+{
+  "id": "GO:0001681",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001681",
+  "relationships": {
+    "is_a": [
+      "GO:0008126"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acetylneuraminate acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.53",
+      "3.1.1.53"
+    ],
+    "PMID": [
+      "1991039"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acetyl-O-acetylneuraminate (free or glycosidically bound) + H2O = N-acetylneuraminate + acetate.",
+  "namespace": "molecular_function",
+  "label": "sialate O-acetylesterase activity"
+}

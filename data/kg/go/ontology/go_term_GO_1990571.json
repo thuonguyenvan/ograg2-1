@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990571",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990571",
+  "relationships": {
+    "is_a": [
+      "GO:0016344",
+      "GO:0070192",
+      "GO:0098653"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "centromere clustering during meiosis",
+      "homologous chromosome movement towards spindle pole in meiosis I prometaphase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "10366596",
+      "9009280"
+    ]
+  },
+  "definition": "The process by which centromeres/kinetochores attach to and migrate along microtubules to become localized to clusters at the spindle pole body during a meiotic prometaphase I.",
+  "namespace": "biological_process",
+  "label": "meiotic centromere clustering"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0009954",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009954",
+  "relationships": {
+    "is_a": [
+      "GO:0003002"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "proximal/distal pattern specification"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "go_curators",
+      "isa_complete"
+    ]
+  },
+  "definition": "The regionalization process in which specific areas of cell differentiation are determined along a proximal/distal axis. The proximal/distal axis is defined by a line that runs from main body (proximal end) of an organism outward (distal end).",
+  "namespace": "biological_process",
+  "label": "proximal/distal pattern formation"
+}

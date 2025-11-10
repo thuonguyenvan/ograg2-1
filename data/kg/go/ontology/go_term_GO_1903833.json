@@ -1,0 +1,42 @@
+{
+  "id": "GO:1903833",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903833",
+  "relationships": {
+    "is_a": [
+      "GO:0032109",
+      "GO:0048522",
+      "GO:1903832"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of cellular response to amino acid starvation",
+      "up-regulation of cellular response to amino acid starvation",
+      "upregulation of cellular response to amino acid starvation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of cellular response to amino acid starvation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25002487",
+      "7623840"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of cellular response to amino acid starvation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cellular response to amino acid starvation"
+}

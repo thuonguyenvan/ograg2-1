@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047487",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047487",
+  "relationships": {
+    "is_a": [
+      "GO:0016837"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "OGTE",
+      "oligogalacturonate lyase activity",
+      "unsaturated oligogalacturonate transeliminase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.2.6",
+      "4.2.2.6",
+      "4.2.2.6",
+      "4.2.2.6",
+      "4.2.2.6"
+    ],
+    "MetaCyc": [
+      "OLIGOGALACTURONIDE-LYASE-RXN",
+      "OLIGOGALACTURONIDE-LYASE-RXN"
+    ],
+    "RHEA": [
+      "20269"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-(4-deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate = 2 5-dehydro-4-deoxy-D-glucuronate.",
+  "namespace": "molecular_function",
+  "label": "oligogalacturonide lyase activity"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "GO:0016710",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016710",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "CA4H activity"
+    ],
+    "related": [
+      "cinnamate 4-hydroxylase activity",
+      "cinnamate 4-monooxygenase activity",
+      "cinnamate hydroxylase activity",
+      "cinnamic 4-hydroxylase activity",
+      "cinnamic acid 4-hydroxylase activity",
+      "cinnamic acid 4-monooxygenase activity",
+      "cinnamic acid p-hydroxylase activity",
+      "cytochrome P450 cinnamate 4-hydroxylase activity",
+      "hydroxylase, cinnamate 4-",
+      "oxygenase, cinnamate 4-mono-",
+      "t-cinnamic acid hydroxylase activity",
+      "trans-cinnamate 4-hydroxylase activity",
+      "trans-cinnamate,NADPH:oxygen oxidoreductase (4-hydroxylating)",
+      "trans-cinnamic acid 4-hydroxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.91",
+      "1.14.14.91",
+      "1.14.14.91",
+      "1.14.14.91",
+      "1.14.14.91",
+      "1.14.14.91",
+      "1.14.14.91",
+      "1.14.14.91",
+      "1.14.14.91",
+      "1.14.14.91",
+      "1.14.14.91",
+      "1.14.14.91",
+      "1.14.14.91",
+      "1.14.14.91",
+      "1.14.14.91",
+      "1.14.14.91",
+      "1.14.14.91"
+    ],
+    "MetaCyc": [
+      "TRANS-CINNAMATE-4-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "10608"
+    ]
+  },
+  "definition": "Catalysis of the reaction: trans-cinnamate + NADPH + H+ + O2 = 4-hydroxycinnamate + NADP+ + H2O.",
+  "namespace": "molecular_function",
+  "label": "trans-cinnamate 4-monooxygenase activity"
+}

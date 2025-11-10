@@ -1,0 +1,31 @@
+{
+  "id": "GO:0001930",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001930",
+  "relationships": {
+    "is_a": [
+      "GO:0001928",
+      "GO:0031334"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of exocyst assembly",
+      "up-regulation of exocyst assembly",
+      "upregulation of exocyst assembly"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of exocyst assembly",
+      "stimulation of exocyst assembly"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "hjd"
+    ]
+  },
+  "definition": "Any process that increases the rate or extent of exocyst assembly.",
+  "namespace": "biological_process",
+  "label": "positive regulation of exocyst assembly"
+}

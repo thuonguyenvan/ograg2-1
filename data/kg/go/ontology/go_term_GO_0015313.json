@@ -1,0 +1,26 @@
+{
+  "id": "GO:0015313",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015313",
+  "relationships": {
+    "is_a": [
+      "GO:0015244",
+      "GO:0045119"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fluconazole:hydrogen antiporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.1.2.17"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: H+(out) + fluconazole(in) = H+(in) + fluconazole(out).",
+  "namespace": "molecular_function",
+  "label": "fluconazole:proton antiporter activity"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0032024",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032024",
+  "relationships": {
+    "is_a": [
+      "GO:0050714",
+      "GO:0050796",
+      "GO:0090277"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of insulin secretion",
+      "up-regulation of insulin secretion",
+      "upregulation of insulin secretion"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of insulin secretion",
+      "stimulation of insulin secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-399997"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the regulated release of insulin.",
+  "namespace": "biological_process",
+  "label": "Acetylcholine regulates insulin secretion"
+}

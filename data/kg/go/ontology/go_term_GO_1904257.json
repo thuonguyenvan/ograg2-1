@@ -1,0 +1,38 @@
+{
+  "id": "GO:1904257",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904257",
+  "relationships": {
+    "is_a": [
+      "GO:0062111",
+      "GO:0140820"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytosol to Golgi apparatus zinc transport",
+      "zinc II ion import across Golgi membrane",
+      "zinc ion import across Golgi membrane",
+      "zinc ion import into Golgi apparatus",
+      "zinc(2+) import across Golgi membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "zinc ion import into Golgi membrane"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000075"
+    ],
+    "PMID": [
+      "25732056"
+    ]
+  },
+  "definition": "The directed import of zinc(2+) from the cytosol across the Golgi membrane into the Golgi lumen.",
+  "namespace": "biological_process",
+  "label": "zinc ion import into Golgi lumen"
+}

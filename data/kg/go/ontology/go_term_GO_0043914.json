@@ -1,0 +1,38 @@
+{
+  "id": "GO:0043914",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043914",
+  "relationships": {
+    "is_a": [
+      "GO:0016667"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CoA-dependent NAD(P)H sulfur oxidoreductase activity",
+      "NAD(P)H elemental sulfur oxidoreductase activity",
+      "NAD(P)H sulfur oxidoreductase activity",
+      "NAD(P)H sulphur oxidoreductase activity",
+      "NAD(P)H:sulfur oxidoreductase activity",
+      "NADPH:sulphur oxidoreductase activity",
+      "NSR",
+      "coenzyme A-dependent NAD(P)H sulfur oxidoreductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.1.18"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "17449625"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NADPH + H+ + sulfur = hydrogen sulfide + NADP+.",
+  "namespace": "molecular_function",
+  "label": "NADPH:sulfur oxidoreductase activity"
+}

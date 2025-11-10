@@ -1,0 +1,34 @@
+{
+  "id": "GO:0050966",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050966",
+  "relationships": {
+    "is_a": [
+      "GO:0050974",
+      "GO:0062149"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "perception of pain, detection of mechanical stimulus",
+      "perception of pain, sensory detection of mechanical stimulus",
+      "perception of pain, sensory transduction of mechanical stimulus",
+      "sensory detection of mechanical stimulus during perception of pain",
+      "sensory transduction of mechanical stimulus during perception of pain"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "mechanical nociception"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dos",
+      "pr"
+    ]
+  },
+  "definition": "The series of events involved in the perception of pain in which a mechanical stimulus is received and converted into a molecular signal.",
+  "namespace": "biological_process",
+  "label": "detection of mechanical stimulus involved in sensory perception of pain"
+}

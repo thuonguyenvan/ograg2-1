@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047863",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047863",
+  "relationships": {
+    "is_a": [
+      "GO:0120531"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dimethylallyl-diphosphate:isopentenyl-diphosphate dimethylallylcistransferase activity",
+      "neryl-diphosphate synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.28",
+      "2.5.1.28",
+      "2.5.1.28"
+    ],
+    "KEGG_REACTION": [
+      "R01659"
+    ],
+    "MetaCyc": [
+      "DIMETHYLALLYLCISTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "11328",
+      "11328"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dimethylallyl diphosphate + isopentenyl diphosphate = diphosphate + neryl diphosphate.",
+  "namespace": "molecular_function",
+  "label": "dimethylallylcistransferase activity"
+}

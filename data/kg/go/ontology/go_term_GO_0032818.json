@@ -1,0 +1,32 @@
+{
+  "id": "GO:0032818",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032818",
+  "relationships": {
+    "is_a": [
+      "GO:0032815",
+      "GO:0032817",
+      "GO:0050672"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of natural killer cell proliferation",
+      "down-regulation of natural killer cell proliferation",
+      "downregulation of natural killer cell proliferation",
+      "negative regulation of NK cell proliferation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of natural killer cell proliferation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of natural killer cell proliferation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of natural killer cell proliferation"
+}

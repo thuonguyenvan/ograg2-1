@@ -1,0 +1,32 @@
+{
+  "id": "GO:0039640",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039640",
+  "relationships": {
+    "is_a": [
+      "GO:0044659"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "viral exit by cytolysis via suppression of host peptidoglycan biosynthetic process",
+      "viral release by cytolysis via suppression of host peptidoglycan biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cytolysis by virus via suppression of host peptidoglycan biosynthetic process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "bm"
+    ],
+    "PMID": [
+      "28894177"
+    ]
+  },
+  "definition": "The dissemination of mature viral particles from a host cell, caused by a virus stopping, preventing, or reducing peptidoglycan biosynthesis in the host organism. Peptidoglycans are any of a class of glycoconjugates found in bacterial cell walls.",
+  "namespace": "biological_process",
+  "label": "viral release via suppression of host peptidoglycan biosynthetic process"
+}

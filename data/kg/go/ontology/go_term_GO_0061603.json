@@ -1,0 +1,30 @@
+{
+  "id": "GO:0061603",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061603",
+  "relationships": {
+    "is_a": [
+      "GO:0070568"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.77",
+      "2.7.7.77"
+    ],
+    "RHEA": [
+      "34243"
+    ],
+    "GOC": [
+      "dph"
+    ]
+  },
+  "definition": "Catalysis of the reaction GTP + molybdenum cofactor = diphosphate + guanylyl molybdenum cofactor.",
+  "namespace": "molecular_function",
+  "label": "molybdenum cofactor guanylyltransferase activity"
+}

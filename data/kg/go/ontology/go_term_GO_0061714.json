@@ -1,0 +1,29 @@
+{
+  "id": "GO:0061714",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061714",
+  "relationships": {
+    "is_a": [
+      "GO:0038024"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "folate receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8940134"
+    ],
+    "GOC": [
+      "BHF",
+      "hal"
+    ]
+  },
+  "definition": "Combining selectively with extracellular folic acid and delivering it into the cell via endocytosis.",
+  "namespace": "molecular_function",
+  "label": "FOLR2 binds FOLA"
+}

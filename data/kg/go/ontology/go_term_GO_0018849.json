@@ -1,0 +1,41 @@
+{
+  "id": "GO:0018849",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018849",
+  "relationships": {
+    "is_a": [
+      "GO:0016872"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cis,cis-muconate cycloisomerase activity",
+      "cis,cis-muconate-lactonizing enzyme",
+      "muconate cycloisomerase I activity",
+      "muconate lactonizing enzyme I activity",
+      "muconate lactonizing enzyme activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.5.1.1",
+      "5.5.1.1",
+      "5.5.1.1",
+      "5.5.1.1",
+      "5.5.1.1",
+      "5.5.1.1"
+    ],
+    "MetaCyc": [
+      "MUCONATE-CYCLOISOMERASE-RXN"
+    ],
+    "RHEA": [
+      "30031",
+      "30031"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,5-dihydro-5-oxofuran-2-acetate = cis,cis-hexadienedioate.",
+  "namespace": "molecular_function",
+  "label": "muconate cycloisomerase activity"
+}

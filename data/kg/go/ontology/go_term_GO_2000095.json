@@ -1,0 +1,38 @@
+{
+  "id": "GO:2000095",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000095",
+  "relationships": {
+    "is_a": [
+      "GO:2000050"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of PCP pathway",
+      "regulation of Wnt receptor signaling pathway, planar cell polarity pathway",
+      "regulation of Wnt receptor signalling pathway, planar cell polarity pathway",
+      "regulation of Wnt-activated signaling pathway, planar cell polarity pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of Wnt-JNK signaling pathway",
+      "regulation of Wnt-PCP signaling pathway",
+      "regulation of non-canonical Wnt signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "obol",
+      "obol",
+      "signaling",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of Wnt signaling pathway, planar cell polarity pathway.",
+  "namespace": "biological_process",
+  "label": "regulation of Wnt signaling pathway, planar cell polarity pathway"
+}

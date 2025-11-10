@@ -1,0 +1,31 @@
+{
+  "id": "GO:0045949",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045949",
+  "relationships": {
+    "is_a": [
+      "GO:0006795",
+      "GO:0010562"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of phosphorus utilization",
+      "up-regulation of phosphorus utilization",
+      "upregulation of phosphorus utilization"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of phosphorus utilization",
+      "stimulation of phosphorus utilization"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of phosphorus utilization.",
+  "namespace": "biological_process",
+  "label": "positive regulation of phosphorus utilization"
+}

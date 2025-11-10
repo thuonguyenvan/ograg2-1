@@ -1,0 +1,29 @@
+{
+  "id": "GO:0044082",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044082",
+  "relationships": {
+    "is_a": [
+      "GO:0051056",
+      "GO:0052027"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "modulation by symbiont of host small GTPase mediated signal transduction",
+      "modulation of host small GTPase mediated signal transduction by symbiont",
+      "perturbation of host small GTPase mediated signal transduction",
+      "regulation by symbiont of host small GTPase mediated signal transduction"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MITRE": [
+      "tk"
+    ]
+  },
+  "definition": "A process in which a symbiont alters or subverts a small GTPase-mediated signal transduction pathway in its host organism. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated perturbation of host small GTPase-mediated signal transduction"
+}

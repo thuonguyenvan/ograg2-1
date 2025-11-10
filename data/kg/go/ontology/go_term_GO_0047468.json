@@ -1,0 +1,32 @@
+{
+  "id": "GO:0047468",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047468",
+  "relationships": {
+    "is_a": [
+      "GO:0004614"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alpha-D-glucose 1,6-phosphomutase (glucose-cofactor)",
+      "glucose-1-phosphate phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.2.5",
+      "5.4.2.5",
+      "5.4.2.5",
+      "5.4.2.5"
+    ],
+    "MetaCyc": [
+      "RXN-16999"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glucose-1-phosphate = glucose-6-phosphate; using D-glucose as a cofactor.",
+  "namespace": "molecular_function",
+  "label": "phosphoglucomutase (glucose-cofactor) activity"
+}

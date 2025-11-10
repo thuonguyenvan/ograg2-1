@@ -1,0 +1,30 @@
+{
+  "id": "GO:0015361",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015361",
+  "relationships": {
+    "is_a": [
+      "GO:0017153"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "low affinity sodium:dicarboxylate symporter activity"
+    ],
+    "broad": [
+      "low affinity sodium:dicarboxylate cotransporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-433131"
+    ],
+    "TC": [
+      "2.A.47.1.1"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: dicarboxylate(out) + Na+(out) = dicarboxylate(in) + Na+(in). In low-affinity transport the transporter is able to bind the solute only if it is present at very high concentrations.",
+  "namespace": "molecular_function",
+  "label": "NaDC1 co-transports dicarboxylic acids and a sodium ion"
+}

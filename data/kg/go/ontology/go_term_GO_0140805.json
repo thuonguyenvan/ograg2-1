@@ -1,0 +1,28 @@
+{
+  "id": "GO:0140805",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140805",
+  "relationships": {
+    "is_a": [
+      "GO:1990404"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "58232",
+      "58232"
+    ],
+    "PMID": [
+      "32028527",
+      "33186521"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-seryl-[protein] + NAD+ = H+ + nicotinamide + O-(ADP-D-ribosyl)-L-seryl-[protein].",
+  "namespace": "molecular_function",
+  "label": "NAD+-protein-serine ADP-ribosyltransferase activity"
+}

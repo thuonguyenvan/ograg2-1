@@ -1,0 +1,30 @@
+{
+  "id": "GO:0015132",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015132",
+  "relationships": {
+    "is_a": [
+      "GO:0071714"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "prostaglandin/thromboxane transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5661188",
+      "R-HSA-879528",
+      "R-HSA-9032327"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of prostaglandins from one side of a membrane to the other. A prostaglandin is any of a group of biologically active metabolites which contain a cyclopentane ring due to the formation of a bond between two carbons of a fatty acid. They have a wide range of biological activities.",
+  "namespace": "molecular_function",
+  "label": "5-oxo-EPA, 15d-PGJ3 translocate from cytosol to extracellular region"
+}

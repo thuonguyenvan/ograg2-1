@@ -1,0 +1,31 @@
+{
+  "id": "GO:0050922",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050922",
+  "relationships": {
+    "is_a": [
+      "GO:0032102",
+      "GO:0040013",
+      "GO:0050920"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of chemotaxis",
+      "down-regulation of chemotaxis",
+      "downregulation of chemotaxis"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of chemotaxis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the directed movement of a motile cell or organism in response to a specific chemical concentration gradient.",
+  "namespace": "biological_process",
+  "label": "negative regulation of chemotaxis"
+}

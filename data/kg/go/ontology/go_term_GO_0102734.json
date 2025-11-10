@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102734",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102734",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.180",
+      "1.14.14.180"
+    ],
+    "MetaCyc": [
+      "RXN-720"
+    ]
+  },
+  "definition": "Catalysis of the reaction: castasterone + O2 + reduced [NADPH--hemoprotein reductase] = brassinolide + H+ + H2O + oxidized [NADPH--hemoprotein reductase]. Broad specificity for several brassinosteroids, including castasterone, teasterone, and typhasterol.",
+  "namespace": "molecular_function",
+  "label": "brassinolide synthase activity"
+}

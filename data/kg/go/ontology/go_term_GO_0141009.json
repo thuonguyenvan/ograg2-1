@@ -1,0 +1,28 @@
+{
+  "id": "GO:0141009",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141009",
+  "relationships": {
+    "is_a": [
+      "GO:0140991",
+      "GO:0141008"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "piRNA-mediated post-transcriptional retrotransposon silencing"
+    ],
+    "broad": [],
+    "narrow": [
+      "piRNA-mediated retrotransposon silencing by mRNA destabilization"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "22121019"
+    ]
+  },
+  "definition": "A transposable element silencing mechanism in which mRNAs transcribed from transposons are targeted for degradation by a Piwi-associated RNA (piRNA).",
+  "namespace": "biological_process",
+  "label": "transposable element silencing by piRNA-mediated mRNA destabilization"
+}

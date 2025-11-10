@@ -1,0 +1,38 @@
+{
+  "id": "GO:0070701",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070701",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mucous",
+      "mucous layer",
+      "mucus"
+    ],
+    "broad": [
+      "extracellular proteinaceous gel"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mah",
+      "mm2"
+    ],
+    "PMID": [
+      "18806221",
+      "19432394"
+    ],
+    "Wikipedia": [
+      "Mucin"
+    ]
+  },
+  "definition": "An extracellular region part that consists of a protective layer of mucus secreted by epithelial cells lining tubular organs of the body such as the colon or secreted into fluids such as saliva. Mucus is a viscous slimy secretion consisting of mucins (i.e. highly glycosylated mucin proteins) and various inorganic salts dissolved in water, with suspended epithelial cells and leukocytes.",
+  "namespace": "cellular_component",
+  "label": "mucus layer"
+}

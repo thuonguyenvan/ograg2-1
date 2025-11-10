@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006097",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006097",
+  "relationships": {
+    "is_a": [
+      "GO:0005975",
+      "GO:0046487"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glyoxylate bypass"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "GLYOXYLATE-BYPASS"
+    ],
+    "Wikipedia": [
+      "Glyoxylate_cycle"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "A modification of the TCA cycle occurring in some plants and microorganisms, in which isocitrate is cleaved to glyoxylate and succinate. Glyoxylate can then react with acetyl-CoA to form malate.",
+  "namespace": "biological_process",
+  "label": "glyoxylate cycle"
+}

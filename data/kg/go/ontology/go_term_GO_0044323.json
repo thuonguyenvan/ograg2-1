@@ -1,0 +1,31 @@
+{
+  "id": "GO:0044323",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044323",
+  "relationships": {
+    "is_a": [
+      "GO:0000978"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RARE binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "vw",
+      "yaf"
+    ],
+    "PMID": [
+      "11327309",
+      "19917671"
+    ]
+  },
+  "definition": "Binding to a retinoic acid-responsive element, a variable direct repeat of the sequence PuGGTCA spaced by five nucleotides (DR5) found in the promoters of retinoic acid-responsive genes, to which retinoic acid receptors bind.",
+  "namespace": "molecular_function",
+  "label": "retinoic acid-responsive element binding"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0032120",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032120",
+  "relationships": {
+    "is_a": [
+      "GO:0003006",
+      "GO:0010927",
+      "GO:0071709",
+      "GO:1903046"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FSM assembly",
+      "FSM biosynthesis",
+      "FSM formation",
+      "forespore membrane biosynthesis",
+      "forespore membrane formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ascospore-type prospore membrane assembly",
+      "prospore membrane biogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "clt"
+    ],
+    "PMID": [
+      "27630265"
+    ]
+  },
+  "definition": "The process in which the nascent membrane forms at the meiotic outer plaque and grows until closure occurs and forespores, or prospores, are formed.",
+  "namespace": "biological_process",
+  "label": "ascospore-type prospore membrane formation"
+}

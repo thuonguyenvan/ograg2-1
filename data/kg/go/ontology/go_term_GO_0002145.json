@@ -1,0 +1,30 @@
+{
+  "id": "GO:0002145",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002145",
+  "relationships": {
+    "is_a": [
+      "GO:0016462"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "HMP-PP diphosphatase",
+      "HMP-PP pyrophosphatase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN0-3543",
+      "RXN0-3543"
+    ],
+    "RHEA": [
+      "27914"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-amino-5-hydroxymethyl-2-methylpyrimidine pyrophosphate + H2O = hydroxymethylpyrimidine phosphate + phosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "4-amino-5-hydroxymethyl-2-methylpyrimidine diphosphatase activity"
+}

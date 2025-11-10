@@ -1,0 +1,37 @@
+{
+  "id": "GO:0030749",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030749",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:loganate 11-O-methyltransferase activity",
+      "S-adenosyl-L-methionine:loganic acid methyltransferase activity",
+      "loganate methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.50",
+      "2.1.1.50",
+      "2.1.1.50",
+      "2.1.1.50",
+      "2.1.1.50"
+    ],
+    "MetaCyc": [
+      "LOGANATE-O-METHYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "12508"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + loganate = S-adenosyl-L-homocysteine + loganin.",
+  "namespace": "molecular_function",
+  "label": "loganate O-methyltransferase activity"
+}

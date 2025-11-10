@@ -1,0 +1,33 @@
+{
+  "id": "GO:0006695",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006695",
+  "relationships": {
+    "is_a": [
+      "GO:0008203",
+      "GO:0016126",
+      "GO:1902653"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cholesterol anabolism",
+      "cholesterol biosynthesis",
+      "cholesterol formation",
+      "cholesterol synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-191273"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of cholesterol, cholest-5-en-3 beta-ol, the principal sterol of vertebrates and the precursor of many steroids, including bile acids and steroid hormones.",
+  "namespace": "biological_process",
+  "label": "Cholesterol biosynthesis"
+}

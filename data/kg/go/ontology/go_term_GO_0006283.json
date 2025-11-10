@@ -1,0 +1,41 @@
+{
+  "id": "GO:0006283",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006283",
+  "relationships": {
+    "is_a": [
+      "GO:0006289"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TC-NER",
+      "transcription-coupled NER",
+      "transcription-coupled repair"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "TCR"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6781827"
+    ],
+    "PMID": [
+      "10197977",
+      "11900249",
+      "10197977",
+      "18794354",
+      "18794354"
+    ],
+    "GOC": [
+      "mah",
+      "vw",
+      "vw"
+    ]
+  },
+  "definition": "The nucleotide-excision repair process that carries out preferential repair of DNA lesions on the actively transcribed strand of the DNA duplex. In addition, the transcription-coupled nucleotide-excision repair pathway is required for the recognition and repair of a small subset of lesions that are not recognized by the global genome nucleotide excision repair pathway.",
+  "namespace": "biological_process",
+  "label": "Transcription-Coupled Nucleotide Excision Repair (TC-NER)"
+}

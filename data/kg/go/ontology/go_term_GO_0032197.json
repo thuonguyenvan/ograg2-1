@@ -1,0 +1,48 @@
+{
+  "id": "GO:0032197",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032197",
+  "relationships": {
+    "is_a": [
+      "GO:0032196"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Class I transposition",
+      "RNA-mediated transposition",
+      "retrotransposon transposition",
+      "transposition via RNA intermediate",
+      "transposition, RNA-mediated"
+    ],
+    "broad": [],
+    "narrow": [
+      "Tf transposition",
+      "Ty element transposition",
+      "Ty1 element transposition",
+      "Ty2 element transposition",
+      "Ty3 element transposition"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Transposon##Class_I:_Retrotransposons"
+    ],
+    "ISBN": [
+      "1555812090"
+    ],
+    "PMID": [
+      "26912865",
+      "30416149",
+      "30958115",
+      "32588192"
+    ],
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "A type of transposition in which a transposable element (transposon) copies and pastes itself into a different genomic location by transcription and convertsion of the transcribed RNA back into DNA through reverse transcription.",
+  "namespace": "biological_process",
+  "label": "retrotransposition"
+}

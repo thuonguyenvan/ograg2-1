@@ -1,0 +1,52 @@
+{
+  "id": "GO:0070377",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070377",
+  "relationships": {
+    "is_a": [
+      "GO:0043409",
+      "GO:0070376"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of BMK cascade",
+      "down-regulation of BMK cascade",
+      "downregulation of BMK cascade",
+      "negative regulation of BMK cascade",
+      "negative regulation of BMK signaling pathway",
+      "negative regulation of BMK signalling pathway",
+      "negative regulation of BMK1 cascade",
+      "negative regulation of ERK5 signaling pathway",
+      "negative regulation of MAPK7 cascade"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of BMK cascade"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mah",
+      "mah",
+      "mah",
+      "signaling",
+      "mah",
+      "mah",
+      "add",
+      "add",
+      "mah"
+    ],
+    "ISBN": [
+      "0121245462",
+      "0896039986"
+    ],
+    "PMID": [
+      "16376520"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of signal transduction mediated by the ERK5 cascade.",
+  "namespace": "biological_process",
+  "label": "negative regulation of ERK5 cascade"
+}

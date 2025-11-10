@@ -1,0 +1,40 @@
+{
+  "id": "GO:0050180",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050180",
+  "relationships": {
+    "is_a": [
+      "GO:0016823"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "lactase-phlorizin hydrolase"
+    ],
+    "narrow": [],
+    "related": [
+      "2&apos;,4,4&apos;,6&apos;-tetrahydroxydehydrochalcone 1,3,5-trihydroxybenzenehydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.7.1.4",
+      "3.7.1.4",
+      "3.7.1.4",
+      "3.7.1.4"
+    ],
+    "KEGG_REACTION": [
+      "R02901"
+    ],
+    "MetaCyc": [
+      "PHLORETIN-HYDROLASE-RXN"
+    ],
+    "RHEA": [
+      "23396",
+      "23396"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + phloretin = H+ + phloretate + phloroglucinol.",
+  "namespace": "molecular_function",
+  "label": "phloretin hydrolase activity"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GO:0050188",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050188",
+  "relationships": {
+    "is_a": [
+      "GO:0016868"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PEP mutase activity",
+      "PEP phosphomutase activity",
+      "PEPPM",
+      "phosphoenolpyruvate 2,3-phosphonomutase activity",
+      "phosphoenolpyruvate phosphomutase activity",
+      "phosphoenolpyruvate-phosphonopyruvate phosphomutase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.2.9",
+      "5.4.2.9",
+      "5.4.2.9",
+      "5.4.2.9",
+      "5.4.2.9",
+      "5.4.2.9",
+      "5.4.2.9",
+      "5.4.2.9"
+    ],
+    "KEGG_REACTION": [
+      "R00661"
+    ],
+    "MetaCyc": [
+      "PHOSPHOENOLPYRUVATE-MUTASE-RXN"
+    ],
+    "RHEA": [
+      "17013",
+      "17013"
+    ]
+  },
+  "definition": "Catalysis of the reaction: phosphoenolpyruvate = 3-phosphonopyruvate.",
+  "namespace": "molecular_function",
+  "label": "phosphoenolpyruvate mutase activity"
+}

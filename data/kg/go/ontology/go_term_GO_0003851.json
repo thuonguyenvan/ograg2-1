@@ -1,0 +1,36 @@
+{
+  "id": "GO:0003851",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003851",
+  "relationships": {
+    "is_a": [
+      "GO:0035250"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-hydroxyacylsphingosine 1-beta-galactosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.47",
+      "2.4.1.47",
+      "2.4.1.47"
+    ],
+    "MetaCyc": [
+      "2.4.1.47-RXN"
+    ],
+    "RHEA": [
+      "13093"
+    ],
+    "Reactome": [
+      "R-HSA-6785933"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acylsphing-4-enine + UDP-alpha-D-galactose = a beta-D-galactosyl-(1&lt;-&gt;1&apos;)-N-acylsphing-4-enine + H+ + UDP.",
+  "namespace": "molecular_function",
+  "label": "UGT8 transfers Gal from UDP-Gal to CERA"
+}

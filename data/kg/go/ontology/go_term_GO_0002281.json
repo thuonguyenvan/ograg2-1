@@ -1,0 +1,32 @@
+{
+  "id": "GO:0002281",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002281",
+  "relationships": {
+    "is_a": [
+      "GO:0002366",
+      "GO:0042116"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "macrophage polarization involved in immune response"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "macrophage activation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "tb"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "A change in morphology and behavior of a macrophage resulting from exposure to a cytokine, chemokine, cellular ligand, or soluble factor, leading to the initiation or perpetuation of an immune response.",
+  "namespace": "biological_process",
+  "label": "macrophage activation involved in immune response"
+}

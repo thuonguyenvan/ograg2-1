@@ -1,0 +1,34 @@
+{
+  "id": "GO:0120102",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120102",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "bacterial-type flagellum export apparatus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "DOI": [
+      "10.1002/9780470015902.a0000744.pub4"
+    ],
+    "GOC": [
+      "cilia"
+    ],
+    "PMID": [
+      "10572114",
+      "12624192",
+      "24697492",
+      "25251856"
+    ]
+  },
+  "definition": "A part of the bacterial-type flagellum that is located at the cytoplasmic side of the MS ring and composed of six membrane proteins (FlhA, FlhB, FliP, FliQ, FliR, and FliO, or orthologs thereof) and three soluble proteins (FliI, FliH, and FliJ, or orthologs thereof) in the cytoplasm. It is responsible for secretion of flagellar type III protein substrates, including the proteins of the flagellar rod, hook, and filament.",
+  "namespace": "cellular_component",
+  "label": "bacterial-type flagellum secretion apparatus"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:1990048",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990048",
+  "relationships": {
+    "is_a": [
+      "GO:0008089",
+      "GO:0047496",
+      "GO:0099519"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "anterograde dense core granule trafficking",
+      "anterograde dense core granule transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "kmv"
+    ],
+    "PMID": [
+      "23358451"
+    ]
+  },
+  "definition": "The directed movement of substances in neuronal dense core vesicles along axonal microtubules towards the presynapse.",
+  "namespace": "biological_process",
+  "label": "anterograde neuronal dense core vesicle transport"
+}

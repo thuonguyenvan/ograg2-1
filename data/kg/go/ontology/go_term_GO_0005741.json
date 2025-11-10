@@ -1,0 +1,34 @@
+{
+  "id": "GO:0005741",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005741",
+  "relationships": {
+    "is_a": [
+      "GO:0031966",
+      "GO:0031968"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrion outer membrane",
+      "outer mitochondrial membrane",
+      "outer mitochondrion membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1289741256"
+    ],
+    "Wikipedia": [
+      "Outer_mitochondrial_membrane"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The outer, i.e. cytoplasm-facing, lipid bilayer of the mitochondrial envelope.",
+  "namespace": "cellular_component",
+  "label": "mitochondrial outer membrane"
+}

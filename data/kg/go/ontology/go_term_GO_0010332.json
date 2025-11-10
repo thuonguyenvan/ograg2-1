@@ -1,0 +1,26 @@
+{
+  "id": "GO:0010332",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010332",
+  "relationships": {
+    "is_a": [
+      "GO:0010212"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "response to gamma ray",
+      "response to gamma-ray photon"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "tair_curators"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a gamma radiation stimulus. Gamma radiation is a form of electromagnetic radiation (EMR) or light emission of a specific frequency produced from sub-atomic particle interaction, such as electron-positron annihilation and radioactive decay. Gamma rays are generally characterized as EMR having the highest frequency and energy, and also the shortest wavelength, within the electromagnetic radiation spectrum.",
+  "namespace": "biological_process",
+  "label": "response to gamma radiation"
+}

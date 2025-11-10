@@ -1,0 +1,41 @@
+{
+  "id": "GO:0099621",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099621",
+  "relationships": {
+    "is_a": [
+      "GO:0016763"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Ara4FN transferase activity",
+      "undecaprenyl phosphate-L-Ara4FN transferase activity",
+      "undecaprenyl-phosphate Ara4FN transferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.53"
+    ],
+    "MetaCyc": [
+      "RXN0-3521"
+    ],
+    "RHEA": [
+      "27722"
+    ],
+    "GOC": [
+      "al",
+      "dos"
+    ],
+    "PMID": [
+      "11706007",
+      "15695810"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-4-deoxy-4-formamido-beta-L-arabinopyranose + ditrans,octacis-undecaprenyl phosphate = UDP + 4-deoxy-4-formamido-alpha-L-arabinopyranosyl ditrans,octacis-undecaprenyl phosphate.",
+  "namespace": "molecular_function",
+  "label": "undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase activity"
+}

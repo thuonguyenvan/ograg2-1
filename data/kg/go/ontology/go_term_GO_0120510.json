@@ -1,0 +1,33 @@
+{
+  "id": "GO:0120510",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120510",
+  "relationships": {
+    "is_a": [
+      "GO:0098798",
+      "GO:1990229"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ISA complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "iron-sulfur assembly complex"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "25347204",
+      "29079644",
+      "33711344",
+      "34660592",
+      "34660592",
+      "34660592"
+    ]
+  },
+  "definition": "A protein complex capable of condensing two 2Fe-2S clusters into one 4Fe-4S center in mitochondria. In S. cerevisiae, it consists of Isa1 and Isa2. In humans it consists of ISCA1 and ISCA2. Additional proteins may be present.",
+  "namespace": "cellular_component",
+  "label": "mitochondrial [4Fe-4S] assembly complex"
+}

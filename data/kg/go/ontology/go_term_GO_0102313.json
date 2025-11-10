@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102313",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102313",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.108"
+    ],
+    "MetaCyc": [
+      "RXN-12980"
+    ],
+    "RHEA": [
+      "32543",
+      "32543"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: geranyl diphosphate(3-) + H2O = 1,8-cineole + diphosphoric acid.",
+  "namespace": "molecular_function",
+  "label": "1,8-cineole synthase activity"
+}

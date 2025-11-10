@@ -1,0 +1,34 @@
+{
+  "id": "GO:0050434",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050434",
+  "relationships": {
+    "is_a": [
+      "GO:0046782",
+      "GO:0048524"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of viral transcription",
+      "up-regulation of viral transcription",
+      "upregulation of viral transcription"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of viral transcription",
+      "stimulation of viral transcription"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-167246"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of viral transcription.",
+  "namespace": "biological_process",
+  "label": "Tat-mediated elongation of the HIV-1 transcript"
+}

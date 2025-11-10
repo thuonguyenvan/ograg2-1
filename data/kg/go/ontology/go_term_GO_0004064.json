@@ -1,0 +1,43 @@
+{
+  "id": "GO:0004064",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004064",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "A-esterase activity",
+      "paraoxonase activity"
+    ],
+    "narrow": [
+      "aromatic esterase",
+      "aryl-ester hydrolase"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.2",
+      "3.1.1.2",
+      "3.1.1.2",
+      "3.1.1.2",
+      "3.1.1.2",
+      "3.1.1.2"
+    ],
+    "MetaCyc": [
+      "ARYLESTERASE-RXN"
+    ],
+    "RHEA": [
+      "17309"
+    ],
+    "UM-BBD_reactionID": [
+      "r0757"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a phenyl acetate + H2O = a phenol + acetate.",
+  "namespace": "molecular_function",
+  "label": "arylesterase activity"
+}

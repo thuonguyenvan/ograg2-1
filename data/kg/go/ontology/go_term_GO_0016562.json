@@ -1,0 +1,32 @@
+{
+  "id": "GO:0016562",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016562",
+  "relationships": {
+    "is_a": [
+      "GO:0001881"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peroxisome matrix protein import, receptor recycling",
+      "protein transport into peroxisome matrix, receptor recycling",
+      "receptor recycling during peroxisome matrix protein import",
+      "receptor recycling during protein import into peroxisome matrix",
+      "receptor recycling during protein transport into peroxisome matrix"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PTS receptor recycling",
+      "peroxisome receptor recycling"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "11687502"
+    ]
+  },
+  "definition": "The process in which peroxisome targeting sequence receptors dissociates from cargo proteins and are returned to the cytosol.",
+  "namespace": "biological_process",
+  "label": "protein import into peroxisome matrix, receptor recycling"
+}

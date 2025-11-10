@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047393",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047393",
+  "relationships": {
+    "is_a": [
+      "GO:0008081"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "rac-glycerol 1:2-cyclic phosphate 2-phosphodiesterase activity",
+      "rac-glycerol-1,2-cyclic-phosphate 2-glycerophosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.4.42",
+      "3.1.4.42",
+      "3.1.4.42",
+      "3.1.4.42"
+    ],
+    "KEGG_REACTION": [
+      "R02648"
+    ],
+    "MetaCyc": [
+      "3.1.4.42-RXN"
+    ],
+    "RHEA": [
+      "16493",
+      "16493"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glycerol 1,2-cyclic phosphate + H2O = glycerol 1-phosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "glycerol-1,2-cyclic-phosphate 2-phosphodiesterase activity"
+}

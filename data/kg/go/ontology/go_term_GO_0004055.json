@@ -1,0 +1,46 @@
+{
+  "id": "GO:0004055",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004055",
+  "relationships": {
+    "is_a": [
+      "GO:0016879"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-citrulline:L-aspartate ligase (AMP-forming)",
+      "arginine succinate synthetase activity",
+      "argininosuccinate synthetase activity",
+      "argininosuccinic acid synthetase activity",
+      "arginosuccinate synthetase activity",
+      "citrulline--aspartate ligase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.4.5",
+      "6.3.4.5",
+      "6.3.4.5",
+      "6.3.4.5",
+      "6.3.4.5",
+      "6.3.4.5",
+      "6.3.4.5",
+      "6.3.4.5"
+    ],
+    "MetaCyc": [
+      "ARGSUCCINSYN-RXN"
+    ],
+    "RHEA": [
+      "10932"
+    ],
+    "Reactome": [
+      "R-HSA-70577"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + L-citrulline + L-aspartate = AMP + diphosphate + (N(omega)-L-arginino)succinate.",
+  "namespace": "molecular_function",
+  "label": "ASS1 tetramer:NMRAL1 dimer:NADPH transforms L-Asp and L-Cit to ARSUA"
+}

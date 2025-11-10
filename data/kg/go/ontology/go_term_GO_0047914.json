@@ -1,0 +1,40 @@
+{
+  "id": "GO:0047914",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047914",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "g-glutamylhistamine synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-glutamate:histamine ligase activity",
+      "gamma-GHA synthetase activity",
+      "gamma-glutaminylhistamine synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.18",
+      "6.3.2.18",
+      "6.3.2.18",
+      "6.3.2.18",
+      "6.3.2.18"
+    ],
+    "MetaCyc": [
+      "GAMMA-GLUTAMYLHISTAMINE-SYNTHASE-RXN",
+      "GAMMA-GLUTAMYLHISTAMINE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "18881"
+    ]
+  },
+  "definition": "Catalysis of the reaction: histamine + L-glutamate + ATP = N(alpha)-gamma-L-glutamylhistamine + products of ATP breakdown.",
+  "namespace": "molecular_function",
+  "label": "gamma-glutamylhistamine synthase activity"
+}

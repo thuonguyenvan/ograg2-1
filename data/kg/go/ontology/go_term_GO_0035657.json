@@ -1,0 +1,30 @@
+{
+  "id": "GO:0035657",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035657",
+  "relationships": {
+    "is_a": [
+      "GO:0034708"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "eRF1 MTase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rb"
+    ],
+    "PMID": [
+      "17008308",
+      "20400505",
+      "17008308"
+    ]
+  },
+  "definition": "A protein complex required for the methylation of a glutamine (Gln) residue in the protein release factor eRF1. In S. cerevisiae, this complex consists of at least Trm112p and Mtq2p.",
+  "namespace": "cellular_component",
+  "label": "eRF1 methyltransferase complex"
+}

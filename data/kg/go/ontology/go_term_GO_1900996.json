@@ -1,0 +1,35 @@
+{
+  "id": "GO:1900996",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900996",
+  "relationships": {
+    "is_a": [
+      "GO:0018910",
+      "GO:0120253"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "benzene breakdown",
+      "benzene catabolism",
+      "benzene degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "UniPathway": [
+      "UPA00272"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of benzene.",
+  "namespace": "biological_process",
+  "label": "benzene catabolic process"
+}

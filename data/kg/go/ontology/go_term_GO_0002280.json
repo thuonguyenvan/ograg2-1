@@ -1,0 +1,33 @@
+{
+  "id": "GO:0002280",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002280",
+  "relationships": {
+    "is_a": [
+      "GO:0002275",
+      "GO:0042117"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "monocyte activation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "tb"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "16551245"
+    ]
+  },
+  "definition": "The change in morphology and behavior of a monocyte resulting from exposure to a cytokine, chemokine, cellular ligand, or soluble factor, leading to the initiation or perpetuation of an immune response.",
+  "namespace": "biological_process",
+  "label": "monocyte activation involved in immune response"
+}

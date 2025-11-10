@@ -1,0 +1,29 @@
+{
+  "id": "GO:0016524",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016524",
+  "relationships": {
+    "is_a": [
+      "GO:0004888"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "latrophilin"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "signaling"
+    ],
+    "PMID": [
+      "10025961"
+    ]
+  },
+  "definition": "Combining with alpha-latrotoxin, a potent presynaptic neurotoxin, and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.",
+  "namespace": "molecular_function",
+  "label": "latrotoxin receptor activity"
+}

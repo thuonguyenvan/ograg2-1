@@ -1,0 +1,41 @@
+{
+  "id": "GO:1903750",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903750",
+  "relationships": {
+    "is_a": [
+      "GO:1901298",
+      "GO:1902175"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of hydrogen peroxide-induced intrinsic apoptotic signaling pathway",
+      "regulation of intrinsic apoptotic signaling pathway in response to H2O2"
+    ],
+    "broad": [
+      "regulation of hydrogen peroxide-induced apoptosis"
+    ],
+    "narrow": [],
+    "related": [
+      "regulation of H2O2-induced intrinsic apoptotic signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "18681888"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of intrinsic apoptotic signaling pathway in response to hydrogen peroxide.",
+  "namespace": "biological_process",
+  "label": "regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide"
+}

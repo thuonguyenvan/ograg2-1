@@ -1,0 +1,67 @@
+{
+  "id": "GO:0003876",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003876",
+  "relationships": {
+    "is_a": [
+      "GO:0047623"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "adenylate deaminase reaction"
+    ],
+    "broad": [],
+    "narrow": [
+      "myoadenylate deaminase activity"
+    ],
+    "related": [
+      "5-AMP deaminase activity",
+      "5-adenylate deaminase activity",
+      "5-adenylic acid deaminase activity",
+      "AMP aminase activity",
+      "AMP aminohydrolase activity",
+      "adenosine 5-monophosphate deaminase activity",
+      "adenosine 5-phosphate aminohydrolase activity",
+      "adenosine monophosphate deaminase activity",
+      "adenyl deaminase activity",
+      "adenylate aminohydrolase activity",
+      "adenylate deaminase activity",
+      "adenylate desaminase activity",
+      "adenylic acid deaminase activity",
+      "adenylic deaminase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.4.6",
+      "3.5.4.6",
+      "3.5.4.6",
+      "3.5.4.6",
+      "3.5.4.6",
+      "3.5.4.6",
+      "3.5.4.6",
+      "3.5.4.6",
+      "3.5.4.6",
+      "3.5.4.6",
+      "3.5.4.6",
+      "3.5.4.6",
+      "3.5.4.6",
+      "3.5.4.6",
+      "3.5.4.6",
+      "3.5.4.6",
+      "3.5.4.6"
+    ],
+    "MetaCyc": [
+      "AMP-DEAMINASE-RXN"
+    ],
+    "RHEA": [
+      "14777"
+    ],
+    "Reactome": [
+      "R-HSA-76590"
+    ]
+  },
+  "definition": "Catalysis of the reaction: AMP + H2O = IMP + NH3.",
+  "namespace": "molecular_function",
+  "label": "AMP + H2O =&gt; IMP + NH4+ (AMPD)"
+}

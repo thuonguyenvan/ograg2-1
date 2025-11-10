@@ -1,0 +1,40 @@
+{
+  "id": "GO:0052573",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052573",
+  "relationships": {
+    "is_a": [
+      "GO:0009225"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-D-galactopyranose metabolic process",
+      "UDP-D-galactopyranose metabolism",
+      "UDP-D-galactose metabolism",
+      "UDP-galactose metabolic process",
+      "UDP-galactose metabolism",
+      "uridine diphosphate galactose metabolic process",
+      "uridine diphosphate galactose metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ],
+    "MetaCyc": [
+      "UDP-GALACTOSE",
+      "UDP-GALACTOSE",
+      "UDP-GALACTOSE",
+      "UDP-GALACTOSE",
+      "UDP-GALACTOSE",
+      "UDP-GALACTOSE",
+      "UDP-GALACTOSE"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving UDP-D-galactose, a substance composed of D-galactose in glycosidic linkage with guanosine diphosphate.",
+  "namespace": "biological_process",
+  "label": "UDP-D-galactose metabolic process"
+}

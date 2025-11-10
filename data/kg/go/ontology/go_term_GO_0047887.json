@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047887",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047887",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016776"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "farnesyl-diphosphate kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:farnesyl-diphosphate phosphotransferase activity",
+      "farnesyl pyrophosphate kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.4.18",
+      "2.7.4.18",
+      "2.7.4.18"
+    ],
+    "KEGG_REACTION": [
+      "R02303"
+    ],
+    "MetaCyc": [
+      "FARNESYL-DIPHOSPHATE-KINASE-RXN"
+    ],
+    "RHEA": [
+      "21544",
+      "21544"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-trans,6-trans-farnesyl diphosphate + ATP = 2-trans,6-trans-farnesyl triphosphate + ADP.",
+  "namespace": "molecular_function",
+  "label": "farnesyl diphosphate kinase activity"
+}

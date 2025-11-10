@@ -1,0 +1,29 @@
+{
+  "id": "GO:0030652",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030652",
+  "relationships": {
+    "is_a": [
+      "GO:0017001",
+      "GO:0043171",
+      "GO:0043603"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptide antibiotic breakdown",
+      "peptide antibiotic catabolism",
+      "peptide antibiotic degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of peptides with antibiotic activity.",
+  "namespace": "biological_process",
+  "label": "peptide antibiotic catabolic process"
+}

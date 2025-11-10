@@ -1,0 +1,53 @@
+{
+  "id": "GO:0047939",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047939",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucuronate reductase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "D-glucuronate reductase activity"
+    ],
+    "related": [
+      "D-glucuronate dehydrogenase activity",
+      "NADP-L-gulonate dehydrogenase activity",
+      "TPN-L-gulonate dehydrogenase activity",
+      "aldehyde reductase II activity",
+      "glucuronate dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.19",
+      "1.1.1.19",
+      "1.1.1.19",
+      "1.1.1.19",
+      "1.1.1.19",
+      "1.1.1.19",
+      "1.1.1.19",
+      "1.1.1.19"
+    ],
+    "KEGG_REACTION": [
+      "R01481"
+    ],
+    "MetaCyc": [
+      "GLUCURONATE-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "14909",
+      "14909"
+    ],
+    "Reactome": [
+      "R-HSA-5661256"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-gulonate + NADP+ = D-glucuronate + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "AKR1A1 reduces D-glucuronate to L-gulonate"
+}

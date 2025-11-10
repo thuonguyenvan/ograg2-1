@@ -1,0 +1,36 @@
+{
+  "id": "GO:0009893",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009893",
+  "relationships": {
+    "is_a": [
+      "GO:0019222",
+      "GO:0048522"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of metabolism",
+      "up regulation of metabolic process",
+      "up-regulation of metabolic process",
+      "upregulation of metabolic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of metabolic process",
+      "positive regulation of multicellular organismal metabolic process",
+      "positive regulation of organismal metabolism",
+      "stimulation of metabolic process",
+      "stimulation of organismal metabolic process",
+      "up-regulation of organismal metabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways within a cell or an organism.",
+  "namespace": "biological_process",
+  "label": "positive regulation of metabolic process"
+}

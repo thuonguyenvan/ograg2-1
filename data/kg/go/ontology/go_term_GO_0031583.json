@@ -1,0 +1,34 @@
+{
+  "id": "GO:0031583",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031583",
+  "relationships": {
+    "is_a": [
+      "GO:0007186"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G-protein signalling, phospholipase D activating pathway",
+      "phospholipase D-activating G-protein coupled receptor signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "activation of phospholipase D activity by G-protein coupled receptor protein signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "signaling",
+      "signaling"
+    ],
+    "PMID": [
+      "11812783",
+      "15924269"
+    ]
+  },
+  "definition": "A G protein-coupled receptor signaling pathway in which the signal is transmitted via the activation of phospholipase D (PLD) and a subsequent increase in the intracellular concentration of phosphatidic acid (PA).",
+  "namespace": "biological_process",
+  "label": "phospholipase D-activating G protein-coupled receptor signaling pathway"
+}

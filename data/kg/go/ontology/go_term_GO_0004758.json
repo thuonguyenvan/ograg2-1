@@ -1,0 +1,44 @@
+{
+  "id": "GO:0004758",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004758",
+  "relationships": {
+    "is_a": [
+      "GO:0016454"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "serine palmitoyltransferase"
+    ],
+    "narrow": [],
+    "related": [
+      "3-oxosphinganine synthetase activity",
+      "SPT"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.50",
+      "2.3.1.50",
+      "2.3.1.50",
+      "2.3.1.50"
+    ],
+    "KEGG_REACTION": [
+      "R01281"
+    ],
+    "MetaCyc": [
+      "SERINE-C-PALMITOYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "14761",
+      "14761"
+    ],
+    "Reactome": [
+      "R-HSA-428127"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-serine + H+ + palmitoyl-CoA = 3-dehydrosphinganine + CO2 + CoA.",
+  "namespace": "molecular_function",
+  "label": "SPTLC complexes transfer acyl-CoA onto serine"
+}

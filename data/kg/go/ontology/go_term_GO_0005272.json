@@ -1,0 +1,37 @@
+{
+  "id": "GO:0005272",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005272",
+  "relationships": {
+    "is_a": [
+      "GO:0005261",
+      "GO:0015081"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2730664",
+      "R-HSA-3295580",
+      "R-HSA-9717374",
+      "R-HSA-9717382",
+      "R-HSA-9717395",
+      "R-HSA-9717396"
+    ],
+    "GOC": [
+      "BHF",
+      "mtg_transport",
+      "pr"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the energy-independent facilitated diffusion of a sodium ion through a transmembrane aqueous pore or channel.",
+  "namespace": "molecular_function",
+  "label": "SCN2A:SCN1B,2B,4B transports Na+ from the extracellular region to the cytosol"
+}

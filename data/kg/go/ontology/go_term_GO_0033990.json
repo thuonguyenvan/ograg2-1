@@ -1,0 +1,47 @@
+{
+  "id": "GO:0033990",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033990",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-N-acetyl-L-2,4-diaminobutanoate hydro-lyase (L-ectoine-forming) activity",
+      "EctC",
+      "L-ectoine synthase activity",
+      "N-acetyldiaminobutanoate dehydratase activity",
+      "N-acetyldiaminobutyrate dehydratase activity",
+      "N4-acetyl-L-2,4-diaminobutanoate hydro-lyase (L-ectoine-forming) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.108",
+      "4.2.1.108",
+      "4.2.1.108",
+      "4.2.1.108",
+      "4.2.1.108",
+      "4.2.1.108",
+      "4.2.1.108",
+      "4.2.1.108"
+    ],
+    "KEGG_REACTION": [
+      "R06979"
+    ],
+    "MetaCyc": [
+      "R103-RXN"
+    ],
+    "RHEA": [
+      "17281",
+      "17281"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(4)-acetyl-L-2,4-diaminobutyrate = ectoine + H2O.",
+  "namespace": "molecular_function",
+  "label": "ectoine synthase activity"
+}

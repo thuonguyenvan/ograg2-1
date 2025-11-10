@@ -1,0 +1,33 @@
+{
+  "id": "GO:1901252",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901252",
+  "relationships": {
+    "is_a": [
+      "GO:0043903",
+      "GO:1903900"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of movement of virus within host cell",
+      "regulation of viral egress"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of egress of virus within host cell"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bf",
+      "jl",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of egress of virus within host cell.",
+  "namespace": "biological_process",
+  "label": "regulation of intracellular transport of viral material"
+}

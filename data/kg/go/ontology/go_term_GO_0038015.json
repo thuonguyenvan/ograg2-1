@@ -1,0 +1,32 @@
+{
+  "id": "GO:0038015",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038015",
+  "relationships": {
+    "is_a": [
+      "GO:0038010",
+      "GO:0038016",
+      "GO:0046628"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of insulin receptor signalling pathway by insulin receptor internalization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "signaling",
+      "mah"
+    ],
+    "PMID": [
+      "9609114"
+    ]
+  },
+  "definition": "Any process in which internalization of an insulin receptor activates or increases the frequency, rate or extent of the insulin receptor signaling pathway. Endocytosis of activated receptors can concentrate receptors within endosomes and allow the insulin receptor to phosphorylate substrates that are spatially distinct from those accessible at the plasma membrane.",
+  "namespace": "biological_process",
+  "label": "positive regulation of insulin receptor signaling pathway by insulin receptor internalization"
+}

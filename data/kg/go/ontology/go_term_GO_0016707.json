@@ -1,0 +1,45 @@
+{
+  "id": "GO:0016707",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016707",
+  "relationships": {
+    "is_a": [
+      "GO:0016706"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "(gibberellin-20),2-oxoglutarate:oxygen oxidoreductase (3beta-hydroxylating)",
+      "(gibberrellin-20),2-oxoglutarate: oxygen oxidoreductase (3beta-hydroxylating)"
+    ],
+    "related": [
+      "gibberellin 3-beta-hydroxylase activity",
+      "gibberellin 3beta-dioxygenase activity",
+      "gibberellin 3beta-hydroxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.11.15",
+      "1.14.11.15",
+      "1.14.11.15",
+      "1.14.11.15",
+      "1.14.11.15",
+      "1.14.11.15",
+      "1.14.11.15"
+    ],
+    "MetaCyc": [
+      "RXN1F-170"
+    ],
+    "RHEA": [
+      "10104"
+    ],
+    "PMID": [
+      "32652020"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a gibberellin + 2-oxoglutarate + O2 = a 3-beta-hydroxy-gibberellin + succinate + CO2.",
+  "namespace": "molecular_function",
+  "label": "gibberellin 3-beta-dioxygenase activity"
+}

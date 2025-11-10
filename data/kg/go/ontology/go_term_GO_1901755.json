@@ -1,0 +1,53 @@
+{
+  "id": "GO:1901755",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901755",
+  "relationships": {
+    "is_a": [
+      "GO:0042368",
+      "GO:0070640",
+      "GO:0120178",
+      "GO:1902653"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "calciol anabolism",
+      "calciol biosynthesis",
+      "calciol biosynthetic process",
+      "calciol formation",
+      "calciol synthesis",
+      "cholecalciferol biosynthesis",
+      "cholecalciferol biosynthetic process",
+      "vitamin D3 anabolism",
+      "vitamin D3 biosynthesis",
+      "vitamin D3 formation",
+      "vitamin D3 synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "pr",
+      "TermGenie",
+      "TermGenie",
+      "pr",
+      "pr",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf"
+    ],
+    "Unipathway": [
+      "UPA00955"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of vitamin D3.",
+  "namespace": "biological_process",
+  "label": "vitamin D3 biosynthetic process"
+}

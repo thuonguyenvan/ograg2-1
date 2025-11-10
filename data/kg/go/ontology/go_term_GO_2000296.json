@@ -1,0 +1,45 @@
+{
+  "id": "GO:2000296",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000296",
+  "relationships": {
+    "is_a": [
+      "GO:0009895",
+      "GO:0010727",
+      "GO:2000295"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of H2O2 catabolic process",
+      "negative regulation of hydrogen peroxide breakdown",
+      "negative regulation of hydrogen peroxide catabolism",
+      "negative regulation of hydrogen peroxide degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "negative regulation of H2O2 scavenging",
+      "negative regulation of detoxification of H2O2",
+      "negative regulation of detoxification of hydrogen peroxide",
+      "negative regulation of hydrogen peroxide removal",
+      "negative regulation of hydrogen peroxide scavenging"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of hydrogen peroxide catabolic process.",
+  "namespace": "biological_process",
+  "label": "negative regulation of hydrogen peroxide catabolic process"
+}

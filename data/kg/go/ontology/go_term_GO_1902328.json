@@ -1,0 +1,33 @@
+{
+  "id": "GO:1902328",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902328",
+  "relationships": {
+    "is_a": [
+      "GO:1902292"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA replication initiation involved in bacterial-type DNA replication",
+      "DNA-dependent DNA replication initiation involved in bacterial-type DNA replication"
+    ],
+    "broad": [],
+    "narrow": [
+      "DNA endoreduplication initiation involved in bacterial-type DNA replication",
+      "DNA re-replication initiation involved in bacterial-type DNA replication"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_cell_cycle",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any DNA replication initiation that is involved in bacterial-type DNA replication.",
+  "namespace": "biological_process",
+  "label": "bacterial-type DNA replication initiation"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "GO:1904592",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904592",
+  "relationships": {
+    "is_a": [
+      "GO:0061083",
+      "GO:1903334"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of protein refolding",
+      "up-regulation of protein refolding",
+      "upregulation of protein refolding"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein refolding"
+    ],
+    "related": [
+      "activation of heat shock protein activity",
+      "positive regulation of heat shock protein activity",
+      "up regulation of heat shock protein activity",
+      "up-regulation of heat shock protein activity",
+      "upregulation of heat shock protein activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "11360998"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of protein refolding.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein refolding"
+}

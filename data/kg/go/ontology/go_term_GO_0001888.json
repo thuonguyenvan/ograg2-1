@@ -1,0 +1,47 @@
+{
+  "id": "GO:0001888",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001888",
+  "relationships": {
+    "is_a": [
+      "GO:0008375"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-N-acetyl-D-glucosamine:beta-D-glucuronosyl-(1,3)-beta-D-galactosyl-(1,3)-beta-D-galactosyl-(1,4)-beta-D-xylosyl-proteoglycan 4IV-alpha-N-acetyl-D-glucosaminyltransferase activity",
+      "UDP-N-acetyl-D-glucosamine:beta-D-glucuronosyl-(1-&gt;3)-beta-D-galactosyl-(1-&gt;3)-beta-D-galactosyl-(1-&gt;4)-beta-D-xylosyl-proteoglycan 4IV-alpha-N-acetyl-D-glucosaminyltransferase activity",
+      "alpha-1,4-N-acetylglucosaminyltransferase activity",
+      "alpha-N-acetylglucosaminyltransferase I activity",
+      "alpha1,4-N-acetylglucosaminyltransferase activity",
+      "glucuronosylgalactosyl-proteoglycan 4-alpha-N-acetylglucosaminyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.223",
+      "2.4.1.223",
+      "2.4.1.223",
+      "2.4.1.223",
+      "2.4.1.223",
+      "2.4.1.223",
+      "2.4.1.223",
+      "2.4.1.223"
+    ],
+    "MetaCyc": [
+      "2.4.1.223-RXN"
+    ],
+    "RHEA": [
+      "16221",
+      "16221"
+    ],
+    "Reactome": [
+      "R-HSA-9953259"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-O-(beta-D-GlcA-(1-&gt;3)-beta-D-Gal-(1-&gt;3)-beta-D-Gal-(1-&gt;4)-beta-D-Xyl)-L-seryl-[protein] + UDP-N-acetyl-alpha-D-glucosamine = 3-O-(alpha-D-GlcNAc-(1-&gt;4)-beta-D-GlcA-(1-&gt;3)-beta-D-Gal-(1-&gt;3)-beta-D-Gal-(1-&gt;4)-beta-D-Xyl)-L-seryl-[protein] + H+ + UDP.",
+  "namespace": "molecular_function",
+  "label": "EXTL3 dimer transfers GlcNAc to the GAG linker"
+}

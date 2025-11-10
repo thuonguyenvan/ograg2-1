@@ -1,0 +1,30 @@
+{
+  "id": "GO:0048550",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048550",
+  "relationships": {
+    "is_a": [
+      "GO:0045806",
+      "GO:0048548"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of pinocytosis",
+      "down-regulation of pinocytosis",
+      "downregulation of pinocytosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of pinocytosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of pinocytosis. Pinocytosis is the process in which cells take in liquid material from their external environment; literally &apos;cell drinking&apos;. Liquid is enclosed in vesicles, formed by invagination of the plasma membrane. These vesicles then move into the cell and pass their contents to endosomes.",
+  "namespace": "biological_process",
+  "label": "negative regulation of pinocytosis"
+}

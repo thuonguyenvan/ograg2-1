@@ -1,0 +1,31 @@
+{
+  "id": "GO:0050525",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050525",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cutin hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.74",
+      "3.1.1.74",
+      "3.1.1.74"
+    ],
+    "MetaCyc": [
+      "3.1.1.74-RXN",
+      "3.1.1.74-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cutin + H2O = cutin monomers.",
+  "namespace": "molecular_function",
+  "label": "cutinase activity"
+}

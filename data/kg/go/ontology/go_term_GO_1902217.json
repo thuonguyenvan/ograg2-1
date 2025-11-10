@@ -1,0 +1,41 @@
+{
+  "id": "GO:1902217",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902217",
+  "relationships": {
+    "is_a": [
+      "GO:0033028"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RBC apoptotic process",
+      "red blood cell apoptotic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "RBC apoptosis",
+      "erythrocyte apoptosis",
+      "red blood cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "mtg_apoptosis",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "14569084"
+    ]
+  },
+  "definition": "Any apoptotic process in an erythrocyte.",
+  "namespace": "biological_process",
+  "label": "erythrocyte apoptotic process"
+}

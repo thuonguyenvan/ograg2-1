@@ -1,0 +1,32 @@
+{
+  "id": "GO:0160205",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160205",
+  "relationships": {
+    "is_a": [
+      "GO:0016763"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "suicide thiamine thiazole synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ADP-thiazole synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.60",
+      "2.4.2.60"
+    ],
+    "RHEA": [
+      "55708",
+      "55708"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [ADP-thiazole synthase]-L-cysteine + glycine + NAD(+) = [ADP-thiazole synthase]-dehydroalanine + ADP-5-ethyl-4-methylthiazole-2-carboxylate + 2 H(+) + 3 H2O + nicotinamide.",
+  "namespace": "molecular_function",
+  "label": "cysteine-dependent adenosine diphosphate thiazole synthase activity"
+}

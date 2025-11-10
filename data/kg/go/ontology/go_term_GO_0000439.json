@@ -1,0 +1,35 @@
+{
+  "id": "GO:0000439",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000439",
+  "relationships": {
+    "is_a": [
+      "GO:0090575"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SSL2-core TFIIH complex",
+      "core TFIIH complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ew",
+      "krc"
+    ],
+    "PMID": [
+      "14500720",
+      "17215295",
+      "22308316",
+      "22572993",
+      "23028141",
+      "7813015"
+    ]
+  },
+  "definition": "The 7 subunit core of TFIIH that is a part of either the general transcription factor holo-TFIIH or the nucleotide-excision repair factor 3 complex. In S. cerevisiae/humans the complex is composed of: Ssl2/XPB, Tfb1/p62, Tfb2/p52, Ssl1/p44, Tfb4/p34, Tfb5/p8 and Rad3/XPD.",
+  "namespace": "cellular_component",
+  "label": "transcription factor TFIIH core complex"
+}

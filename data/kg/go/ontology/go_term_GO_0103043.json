@@ -1,0 +1,32 @@
+{
+  "id": "GO:0103043",
+  "uri": "http://purl.obolibrary.org/obo/GO_0103043",
+  "relationships": {
+    "is_a": [
+      "GO:0008081"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.4.55",
+      "3.1.4.55"
+    ],
+    "MetaCyc": [
+      "RXN0-6710"
+    ],
+    "RHEA": [
+      "34795"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-D-ribose 1,2-cyclic phosphate 5-phosphate + H2O = alpha-D-ribose 1,5-bisphosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "phosphoribosyl 1,2-cyclic phosphate phosphodiesterase activity"
+}

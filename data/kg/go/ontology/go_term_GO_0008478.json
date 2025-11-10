@@ -1,0 +1,53 @@
+{
+  "id": "GO:0008478",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008478",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:pyridoxal 5&apos;-phosphotransferase activity",
+      "pyridoxal 5-phosphate-kinase activity",
+      "pyridoxal kinase (phosphorylating)",
+      "pyridoxal phosphokinase activity",
+      "pyridoxamine kinase activity",
+      "pyridoxine kinase activity",
+      "vitamin B(6) kinase activity",
+      "vitamin B6 kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.35",
+      "2.7.1.35",
+      "2.7.1.35",
+      "2.7.1.35",
+      "2.7.1.35",
+      "2.7.1.35",
+      "2.7.1.35",
+      "2.7.1.35",
+      "2.7.1.35",
+      "2.7.1.35"
+    ],
+    "MetaCyc": [
+      "PYRIDOXKIN-RXN"
+    ],
+    "RHEA": [
+      "10224"
+    ],
+    "Reactome": [
+      "R-HSA-964958",
+      "R-HSA-964962",
+      "R-HSA-964970"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + pyridoxal = ADP + pyridoxal 5&apos;-phosphate.",
+  "namespace": "molecular_function",
+  "label": "2xPDXK:2xZn2+ phosphorylates PXL"
+}

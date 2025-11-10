@@ -1,0 +1,30 @@
+{
+  "id": "GO:0043905",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043905",
+  "relationships": {
+    "is_a": [
+      "GO:0052689",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Ser-tRNA(Thr) hydrolase activity",
+      "Ser-tRNAThr hydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "15240874"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of misacylated Ser-tRNA(Thr).",
+  "namespace": "molecular_function",
+  "label": "L-seryl-tRNA(Thr) hydrolase activity"
+}

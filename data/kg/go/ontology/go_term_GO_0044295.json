@@ -1,0 +1,30 @@
+{
+  "id": "GO:0044295",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044295",
+  "relationships": {
+    "is_a": [
+      "GO:0030426"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "axon growth cone"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1594955670",
+      "sao203987954",
+      "sao203987954"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The migrating motile tip of a growing nerve cell axon.",
+  "namespace": "cellular_component",
+  "label": "axonal growth cone"
+}

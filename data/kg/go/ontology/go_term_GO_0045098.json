@@ -1,0 +1,29 @@
+{
+  "id": "GO:0045098",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045098",
+  "relationships": {
+    "is_a": [
+      "GO:0005882"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "desmin",
+      "glial fibrillary acidic protein",
+      "peripherin",
+      "type III intermediate filament associated protein",
+      "vimentin"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "ISBN": [
+      "0716731363"
+    ]
+  },
+  "definition": "A type of intermediate filament, typically made up of one or more of the proteins vimentin, desmin, glial fibrillary acidic protein (GFAP), and peripherin. Unlike the keratins, the type III proteins can form both homo- and heteropolymeric IF filaments.",
+  "namespace": "cellular_component",
+  "label": "type III intermediate filament"
+}

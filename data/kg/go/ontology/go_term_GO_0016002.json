@@ -1,0 +1,29 @@
+{
+  "id": "GO:0016002",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016002",
+  "relationships": {
+    "is_a": [
+      "GO:0016667"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "assimilatory sulfite reductase activity",
+      "assimilatory-type sulfite reductase activity",
+      "hydrogen-sulfide:(acceptor) oxidoreductase activity",
+      "hydrogen-sulfide:acceptor oxidoreductase activity",
+      "sulphite reductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "Catalysis of the reaction: hydrogen sulfide + acceptor + 3 H2O = sulfite + reduced acceptor.",
+  "namespace": "molecular_function",
+  "label": "sulfite reductase activity"
+}

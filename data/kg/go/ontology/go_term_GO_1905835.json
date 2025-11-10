@@ -1,0 +1,31 @@
+{
+  "id": "GO:1905835",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905835",
+  "relationships": {
+    "is_a": [
+      "GO:1901699",
+      "GO:1901701",
+      "GO:1905834"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000071"
+    ],
+    "PMID": [
+      "22065602"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a pyrimidine ribonucleotide stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to pyrimidine ribonucleotide"
+}

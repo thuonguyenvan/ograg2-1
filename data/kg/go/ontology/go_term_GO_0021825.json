@@ -1,0 +1,30 @@
+{
+  "id": "GO:0021825",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021825",
+  "relationships": {
+    "is_a": [
+      "GO:0006929",
+      "GO:0021800"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ]
+  },
+  "definition": "The process where neuronal precursors migrate tangentially in the cerebral cortex, primarily guided through physical cell-cell interactions.",
+  "namespace": "biological_process",
+  "label": "substrate-dependent cerebral cortex tangential migration"
+}

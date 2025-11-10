@@ -1,0 +1,37 @@
+{
+  "id": "GO:1901121",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901121",
+  "relationships": {
+    "is_a": [
+      "GO:0016138",
+      "GO:0046173"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tobramycin anabolism",
+      "tobramycin biosynthesis",
+      "tobramycin formation",
+      "tobramycin synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "UniPathway": [
+      "UPA00971"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of tobramycin.",
+  "namespace": "biological_process",
+  "label": "tobramycin biosynthetic process"
+}

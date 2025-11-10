@@ -1,0 +1,27 @@
+{
+  "id": "GO:0000952",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000952",
+  "relationships": {
+    "is_a": [
+      "GO:0000948",
+      "GO:0009074"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "18281432"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving the catabolism of amino acids to produce carboxylic acids with one carbon less than the starting amino acid. In S. cerevisiae, this is known to occur for leucine, isoleucine, valine, methionine, phenylalanine, tyrosine, or tryptophan. When an aromatic family amino acid, phenylalanine, tyrosine, or tryptophan, is used as the substrate, 2-phenylethanoate, 4-hydroxyphenylethanoate, or 2-(Indol-3-yl)-ethanoate, respectively, is produced. Often referred to as the Ehrlich pathway, these reactions generally occur during fermentation to produce a variety of carboxylic acids, sometimes collectively referred to as fusel acids. Depending on the redox state of the cells, alcohol derivatives may be produced instead of carboxylic acids.",
+  "namespace": "biological_process",
+  "label": "aromatic amino acid family catabolic process to carboxylic acid via Ehrlich pathway"
+}

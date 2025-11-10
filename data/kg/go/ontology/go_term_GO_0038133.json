@@ -1,0 +1,35 @@
+{
+  "id": "GO:0038133",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038133",
+  "relationships": {
+    "is_a": [
+      "GO:0038128",
+      "GO:0038129"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ERBB2-ERBB3 signalling pathway",
+      "HER2-HER3 signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "signaling",
+      "mah"
+    ],
+    "PMID": [
+      "16460914"
+    ],
+    "PR": [
+      "000002082",
+      "000007159"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by binding of a ligand to a ERBB3 receptor on the surface of a cell, followed by transmission of the signal by a heterodimeric complex of ERBB2 and ERBB3. ERBB2, which does not bind any known ligand, is activated through formation of a heterodimer with another ligand-activated ERBB family member such as ERBB3. ERBB3 also has impaired kinase activity and relies on ERBB2 for activation and signal transmission.",
+  "namespace": "biological_process",
+  "label": "ERBB2-ERBB3 signaling pathway"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0019409",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019409",
+  "relationships": {
+    "is_a": [
+      "GO:0009060",
+      "GO:0015975",
+      "GO:0019329",
+      "GO:0071941"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "aerobic ammonia oxidation to nitrite via hydrazine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "nitrification"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "AMMOXID-PWY",
+      "AMMOXID-PWY"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The metabolic process in which ammonia (NH3) is oxidized to nitrite (NO2) in the presence of oxygen; enzymatic reactions convert ammonia to hydrazine, and hydrazine to nitrite.",
+  "namespace": "biological_process",
+  "label": "aerobic respiration, using ammonia as electron donor"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0016286",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016286",
+  "relationships": {
+    "is_a": [
+      "GO:0015269"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SK KCa channels",
+      "SK calcium-activated potassium channel activity",
+      "small conductance KCa channels"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "OMIM": [
+      "602754"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of potassium by a channel with a unit conductance of 2 to 20 picoSiemens that opens in response to stimulus by internal calcium ions. Small conductance calcium-activated potassium channels are more sensitive to calcium than are large conductance calcium-activated potassium channels. Transport by a channel involves catalysis of facilitated diffusion of a solute (by an energy-independent process) involving passage through a transmembrane aqueous pore or channel, without evidence for a carrier-mediated mechanism.",
+  "namespace": "molecular_function",
+  "label": "small conductance calcium-activated potassium channel activity"
+}

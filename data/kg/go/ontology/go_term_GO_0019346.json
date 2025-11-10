@@ -1,0 +1,36 @@
+{
+  "id": "GO:0019346",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019346",
+  "relationships": {
+    "is_a": [
+      "GO:0006534",
+      "GO:0009092",
+      "GO:0050667"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transsulphuration"
+    ],
+    "broad": [],
+    "narrow": [
+      "homocysteine-cysteine interconversion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-801",
+      "PWY-801"
+    ],
+    "Reactome": [
+      "R-HSA-1614603"
+    ],
+    "Wikipedia": [
+      "Transsulfuration_pathway"
+    ]
+  },
+  "definition": "The interconversion of homocysteine and cysteine via cystathionine. In contrast with enteric bacteria and mammals, Saccharomyces cerevisiae has two transsulfuration pathways employing two separate sets of enzymes.",
+  "namespace": "biological_process",
+  "label": "Cysteine formation from homocysteine"
+}

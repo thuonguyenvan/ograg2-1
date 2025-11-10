@@ -1,0 +1,30 @@
+{
+  "id": "GO:0098601",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098601",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "31211",
+      "31211"
+    ],
+    "Reactome": [
+      "R-HSA-2408551"
+    ],
+    "PMID": [
+      "2339986"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-selenomethionine + ATP + H2O = L-adenosylselenomethionine + phosphate + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "SeMet is converted to AdoSeMet by MAT"
+}

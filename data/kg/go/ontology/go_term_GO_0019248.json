@@ -1,0 +1,33 @@
+{
+  "id": "GO:0019248",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019248",
+  "relationships": {
+    "is_a": [
+      "GO:0019249",
+      "GO:0061727"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-lactate anabolism from methylglyoxal via (R)-lactaldehyde",
+      "D-lactate formation from methylglyoxal via (R)-lactaldehyde",
+      "D-lactate synthesis from methylglyoxal via (R)-lactaldehyde"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "MGLDLCTANA-PWY",
+      "MGLDLCTANA-PWY"
+    ],
+    "GOC": [
+      "dph",
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of D-lactate from methylglyoxal, via the intermediate (R)-lactaldehyde.",
+  "namespace": "biological_process",
+  "label": "D-lactate biosynthetic process from methylglyoxal via (R)-lactaldehyde"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "GO:0004354",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004354",
+  "relationships": {
+    "is_a": [
+      "GO:0004353"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "L-glutamate dehydrogenase",
+      "glutamic acid dehydrogenase",
+      "glutamic dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "L-glutamate:NADP+ oxidoreductase (deaminating)",
+      "L-glutamic acid dehydrogenase activity",
+      "NAD(P)-glutamate dehydrogenase activity",
+      "NAD(P)H-dependent glutamate dehydrogenase activity",
+      "dehydrogenase, glutamate (nicotinamide adenine dinucleotide (phosphate))"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.1.4",
+      "1.4.1.4",
+      "1.4.1.4",
+      "1.4.1.4",
+      "1.4.1.4",
+      "1.4.1.4",
+      "1.4.1.4",
+      "1.4.1.4",
+      "1.4.1.4",
+      "1.4.1.4"
+    ],
+    "MetaCyc": [
+      "GLUTDEHYD-RXN"
+    ],
+    "RHEA": [
+      "11612"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-glutamate + H2O + NADP+ = 2-oxoglutarate + NH3 + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "glutamate dehydrogenase (NADP+) activity"
+}

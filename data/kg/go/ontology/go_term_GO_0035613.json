@@ -1,0 +1,32 @@
+{
+  "id": "GO:0035613",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035613",
+  "relationships": {
+    "is_a": [
+      "GO:0003723"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA hairpin binding",
+      "RNA hairpin loop binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sart"
+    ],
+    "PMID": [
+      "16568238",
+      "20455544",
+      "16568238",
+      "16568238"
+    ]
+  },
+  "definition": "Binding to a stem-loop in an RNA molecule. An RNA stem-loop is a secondary RNA structure consisting of a double-stranded RNA (dsRNA) stem and a terminal loop.",
+  "namespace": "molecular_function",
+  "label": "RNA stem-loop binding"
+}

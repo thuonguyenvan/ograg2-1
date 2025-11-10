@@ -1,0 +1,27 @@
+{
+  "id": "GO:0072374",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072374",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.158",
+      "1.14.14.158"
+    ],
+    "PMID": [
+      "8837513"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-carotene + O2 + reduced [NADPH--hemoprotein reductase] = alpha-cryptoxanthin + H(+) + H2O + oxidized [NADPH--hemoprotein reductase]. Zeinoxanthin may also be used as the substrate, in which case lutein is produced.",
+  "namespace": "molecular_function",
+  "label": "carotene epsilon hydroxylase activity"
+}

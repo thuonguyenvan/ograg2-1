@@ -1,0 +1,40 @@
+{
+  "id": "GO:1905358",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905358",
+  "relationships": {
+    "is_a": [
+      "GO:0051254",
+      "GO:1905356"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of snRNA pseudouridine synthesis",
+      "up-regulation of snRNA pseudouridine synthesis",
+      "upregulation of snRNA pseudouridine synthesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of snRNA pseudouridine synthesis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "27268497"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of snRNA pseudouridine synthesis.",
+  "namespace": "biological_process",
+  "label": "positive regulation of snRNA pseudouridine synthesis"
+}

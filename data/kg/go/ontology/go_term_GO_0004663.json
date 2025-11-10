@@ -1,0 +1,40 @@
+{
+  "id": "GO:0004663",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004663",
+  "relationships": {
+    "is_a": [
+      "GO:0004661"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GGTase-II activity",
+      "GGTaseII activity",
+      "Rab-protein geranylgeranyltransferase activity",
+      "RabGGTase activity",
+      "geranylgeranyl-diphosphate,geranylgeranyl-diphosphate:protein-cysteine geranyltransferase activity",
+      "protein geranylgeranyltransferase type II activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "type II protein geranyl-geranyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.60",
+      "2.5.1.60",
+      "2.5.1.60"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "8621375"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 geranylgeranyl diphosphate + protein-cysteine = 2 S-geranylgeranyl-protein + 2 diphosphate. This reaction is the formation of two thioether linkages between the C-1 atom of the geranylgeranyl groups and two cysteine residues within the terminal sequence motifs XXCC, XCXC or CCXX. Known substrates include Ras-related GTPases of a single family and the Rab family.",
+  "namespace": "molecular_function",
+  "label": "Rab geranylgeranyltransferase activity"
+}

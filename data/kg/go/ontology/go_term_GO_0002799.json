@@ -1,0 +1,32 @@
+{
+  "id": "GO:0002799",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002799",
+  "relationships": {
+    "is_a": [
+      "GO:0002796",
+      "GO:0002797",
+      "GO:0002803"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of antibacterial peptide secretion",
+      "up-regulation of antibacterial peptide secretion",
+      "upregulation of antibacterial peptide secretion"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of antibacterial peptide secretion",
+      "stimulation of antibacterial peptide secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of antibacterial peptide secretion.",
+  "namespace": "biological_process",
+  "label": "positive regulation of antibacterial peptide secretion"
+}

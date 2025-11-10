@@ -1,0 +1,33 @@
+{
+  "id": "GO:0032603",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032603",
+  "relationships": {
+    "is_a": [
+      "GO:0032602"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ABCD-3 production",
+      "CX3CL1 production",
+      "neurotactin production"
+    ],
+    "broad": [],
+    "narrow": [
+      "fractalkine biosynthetic process",
+      "fractalkine metabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "12729461"
+    ]
+  },
+  "definition": "The appearance of fractalkine due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels.",
+  "namespace": "biological_process",
+  "label": "fractalkine production"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0062185",
+  "uri": "http://purl.obolibrary.org/obo/GO_0062185",
+  "relationships": {
+    "is_a": [
+      "GO:0004497"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "49064",
+      "49064"
+    ],
+    "PMID": [
+      "10518789"
+    ]
+  },
+  "definition": "Catalysis of the reaction:2 H+ + O2 + 2 reduced [adrenodoxin] + secalciferol = calcitetrol + H2O + 2 oxidized [adrenodoxin].",
+  "namespace": "molecular_function",
+  "label": "secalciferol 1-monooxygenase activity"
+}

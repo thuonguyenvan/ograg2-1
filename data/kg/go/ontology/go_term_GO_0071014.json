@@ -1,0 +1,38 @@
+{
+  "id": "GO:0071014",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071014",
+  "relationships": {
+    "is_a": [
+      "GO:0005681"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "mammalian spliceosomal complex I"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ab",
+      "krc",
+      "mah",
+      "krc",
+      "mah"
+    ],
+    "ISBN": [
+      "0879695897",
+      "0879695897",
+      "0879697393"
+    ],
+    "PMID": [
+      "19239890",
+      "20149226"
+    ]
+  },
+  "definition": "A spliceosomal complex that is formed following the release of the spliced product from the post-spliceosomal complex and contains the excised intron and three snRNPs, either U2 or U12, U5, and either U6 or U6atac.",
+  "namespace": "cellular_component",
+  "label": "post-mRNA release spliceosomal complex"
+}

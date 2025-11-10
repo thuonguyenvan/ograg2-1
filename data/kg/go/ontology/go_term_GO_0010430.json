@@ -1,0 +1,27 @@
+{
+  "id": "GO:0010430",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010430",
+  "relationships": {
+    "is_a": [
+      "GO:0019395"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-2724",
+      "PWY-2724"
+    ],
+    "PMID": [
+      "16404574"
+    ]
+  },
+  "definition": "A fatty acid oxidation process in which the methyl group at the end of the fatty acid molecule (the omega carbon) is first oxidized to a hydroxyl group, then to an oxo group, and finally to a carboxyl group. The long chain dicarboxylates derived from omega-oxidation then enter the beta-oxidation pathway for further degradation.",
+  "namespace": "biological_process",
+  "label": "fatty acid omega-oxidation"
+}

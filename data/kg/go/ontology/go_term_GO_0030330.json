@@ -1,0 +1,34 @@
+{
+  "id": "GO:0030330",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030330",
+  "relationships": {
+    "is_a": [
+      "GO:0042770",
+      "GO:0072331"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "p53-mediated DNA damage response"
+    ],
+    "narrow": [],
+    "related": [
+      "DNA damage response, activation of p53",
+      "TP53 signaling pathway",
+      "p53 signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mah",
+      "vk",
+      "mah",
+      "vk"
+    ]
+  },
+  "definition": "A cascade of processes induced by the cell cycle regulator phosphoprotein p53, or an equivalent protein, in response to the detection of DNA damage.",
+  "namespace": "biological_process",
+  "label": "DNA damage response, signal transduction by p53 class mediator"
+}

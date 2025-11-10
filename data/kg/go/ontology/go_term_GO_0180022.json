@@ -1,0 +1,30 @@
+{
+  "id": "GO:0180022",
+  "uri": "http://purl.obolibrary.org/obo/GO_0180022",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ASC-1 complex",
+      "RQT complex",
+      "activating signal cointegrator 1 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "12077347",
+      "28757607",
+      "32099016",
+      "12077347"
+    ]
+  },
+  "definition": "A ribosome disassembly complex which dissociates stalled ribsome subunits as part of the ribosome quality control pathway. RQT complex is composed of a RNA helicase-family protein yeast Rqt2 (human ASCC3), a ubiquitin-binding protein yeast Rqt3, (human ASCC2), and Rqt4 (human TRIP4). The human complex has an additional component protein ASCC1 and can act as a transcriptional coactivator by interacting with transcription factors such as NF-kappa B.",
+  "namespace": "cellular_component",
+  "label": "RQC-trigger complex"
+}

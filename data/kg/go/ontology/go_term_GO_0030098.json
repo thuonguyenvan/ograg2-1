@@ -1,0 +1,33 @@
+{
+  "id": "GO:0030098",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030098",
+  "relationships": {
+    "is_a": [
+      "GO:0046649",
+      "GO:1903131"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lymphocyte cell differentiation",
+      "lymphocytic blood cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "lymphocyte development"
+    ]
+  },
+  "cross_references": {
+    "CL": [
+      "0000542"
+    ],
+    "GOC": [
+      "go_curators",
+      "add"
+    ]
+  },
+  "definition": "The process in which a relatively unspecialized precursor cell acquires specialized features of a lymphocyte. A lymphocyte is a leukocyte commonly found in the blood and lymph that has the characteristics of a large nucleus, a neutral staining cytoplasm, and prominent heterochromatin.",
+  "namespace": "biological_process",
+  "label": "lymphocyte differentiation"
+}

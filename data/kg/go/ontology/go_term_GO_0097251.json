@@ -1,0 +1,35 @@
+{
+  "id": "GO:0097251",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097251",
+  "relationships": {
+    "is_a": [
+      "GO:0019370",
+      "GO:0036102",
+      "GO:0042759",
+      "GO:1901570"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LTB4 anabolism",
+      "LTB4 biosynthesis",
+      "LTB4 formation",
+      "LTB4 synthesis",
+      "leukotriene B4 anabolism",
+      "leukotriene B4 biosynthesis",
+      "leukotriene B4 formation",
+      "leukotriene B4 synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "yaf"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of leukotriene B4, a leukotriene composed of (6Z,8E,10E,14Z)-eicosatetraenoic acid having (5S)- and (12R)-hydroxy substituents.",
+  "namespace": "biological_process",
+  "label": "leukotriene B4 biosynthetic process"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0010349",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010349",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-galactose 1-dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.316"
+    ],
+    "MetaCyc": [
+      "RXN-1884"
+    ],
+    "RHEA": [
+      "31559",
+      "31559"
+    ],
+    "PMID": [
+      "12047629"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-galactose + NAD+ = L-galactono-1,4-lactone + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "L-galactose dehydrogenase activity"
+}

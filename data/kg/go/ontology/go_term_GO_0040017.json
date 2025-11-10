@@ -1,0 +1,31 @@
+{
+  "id": "GO:0040017",
+  "uri": "http://purl.obolibrary.org/obo/GO_0040017",
+  "relationships": {
+    "is_a": [
+      "GO:0040012",
+      "GO:0048518"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of locomotion",
+      "up-regulation of locomotion",
+      "upregulation of locomotion"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of locomotion",
+      "stimulation of locomotion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of locomotion of a cell or organism.",
+  "namespace": "biological_process",
+  "label": "positive regulation of locomotion"
+}

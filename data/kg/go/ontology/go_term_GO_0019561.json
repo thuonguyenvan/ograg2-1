@@ -1,0 +1,27 @@
+{
+  "id": "GO:0019561",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019561",
+  "relationships": {
+    "is_a": [
+      "GO:0006559"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "ANAPHENOXI-PWY",
+      "ANAPHENOXI-PWY"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-phenylalanine under anaerobic conditions; occurs via the intermediates phenylpyruvate and phenylacetaldehyde.",
+  "namespace": "biological_process",
+  "label": "anaerobic L-phenylalanine oxidation"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0042770",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042770",
+  "relationships": {
+    "is_a": [
+      "GO:0006974",
+      "GO:0035556"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA damage response, signal transduction",
+      "response to DNA damage stimulus by intracellular signaling cascade"
+    ],
+    "broad": [],
+    "narrow": [
+      "DNA damage induced protein phosphorylation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "A cascade of processes induced by the detection of DNA damage within a cell.",
+  "namespace": "biological_process",
+  "label": "signal transduction in response to DNA damage"
+}

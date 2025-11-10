@@ -1,0 +1,63 @@
+{
+  "id": "GO:1904959",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904959",
+  "relationships": {
+    "is_a": [
+      "GO:0010155",
+      "GO:0022898"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of NADH cytochrome c oxidase",
+      "regulation of cytochrome c oxidase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of aa3-type cytochrome c oxidase",
+      "regulation of ba3-type cytochrome c oxidase",
+      "regulation of caa3-type cytochrome c oxidase",
+      "regulation of cbb3-type cytochrome c oxidase",
+      "regulation of cytochrome a3 activity",
+      "regulation of cytochrome aa3 activity",
+      "regulation of ferrocytochrome c oxidase",
+      "regulation of ferrocytochrome-c:oxygen oxidoreductase",
+      "regulation of indophenol oxidase",
+      "regulation of indophenolase"
+    ],
+    "related": [
+      "regulation of complex IV (mitochondrial electron transport) activity",
+      "regulation of cytochrome oxidase activity",
+      "regulation of warburg&apos;s respiratory enzyme activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000059"
+    ],
+    "PMID": [
+      "26734017"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of cytochrome-c oxidase activity.",
+  "namespace": "biological_process",
+  "label": "regulation of cytochrome-c oxidase activity"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0015733",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015733",
+  "relationships": {
+    "is_a": [
+      "GO:0015718",
+      "GO:0015850",
+      "GO:1905039"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "shikimate transport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ]
+  },
+  "definition": "The process in which shikimate is transported across a lipid bilayer, from one side of a membrane to the other.",
+  "namespace": "biological_process",
+  "label": "shikimate transmembrane transport"
+}

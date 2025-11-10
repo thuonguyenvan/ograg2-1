@@ -1,0 +1,26 @@
+{
+  "id": "GO:0000330",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000330",
+  "relationships": {
+    "is_a": [
+      "GO:0005775"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lumen of vacuole with cell cycle-independent morphology"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "The volume enclosed within the vacuolar membrane of a vacuole that retains the same shape regardless of cell cycle phase. An example of this is found in Arabidopsis thaliana.",
+  "namespace": "cellular_component",
+  "label": "plant-type vacuole lumen"
+}

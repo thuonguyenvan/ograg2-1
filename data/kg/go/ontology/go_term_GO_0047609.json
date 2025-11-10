@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047609",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047609",
+  "relationships": {
+    "is_a": [
+      "GO:0016811",
+      "GO:0019213"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acetylputrescine acetylhydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.62",
+      "3.5.1.62",
+      "3.5.1.62"
+    ],
+    "KEGG_REACTION": [
+      "R01156"
+    ],
+    "MetaCyc": [
+      "ACETYLPUTRESCINE-DEACETYLASE-RXN"
+    ],
+    "RHEA": [
+      "23412",
+      "23412"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acetylputrescine + H2O = acetate + putrescine.",
+  "namespace": "molecular_function",
+  "label": "acetylputrescine deacetylase activity"
+}

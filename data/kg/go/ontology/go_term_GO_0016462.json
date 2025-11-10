@@ -1,0 +1,29 @@
+{
+  "id": "GO:0016462",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016462",
+  "relationships": {
+    "is_a": [
+      "GO:0016818"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6810472"
+    ],
+    "GOC": [
+      "curators"
+    ],
+    "https": [
+      "//en.wikipedia.org/wiki/Pyrophosphatase"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of a pyrophosphate bond (diphosphate bond) between two phosphate groups.",
+  "namespace": "molecular_function",
+  "label": "NUDT13 hydrolyses AP6A to AP4 and ADP"
+}

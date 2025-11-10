@@ -1,0 +1,33 @@
+{
+  "id": "GO:0039723",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039723",
+  "relationships": {
+    "is_a": [
+      "GO:0039537"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of TBK1 activity"
+    ],
+    "related": [
+      "inhibition of host TBK1 by virus",
+      "suppression by virus of host TBK1 activity",
+      "symbiont-mediated suppression of host TKB signaling"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "4477"
+    ],
+    "PMID": [
+      "22171259",
+      "34084167"
+    ]
+  },
+  "definition": "Any process in which a symbiont stops, prevents, or reduces a cytoplasmic pattern recognition receptor signaling pathway in a host organism by reducing the activity of a host serine/threonine kinase TBK1.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of TBK1 activity"
+}

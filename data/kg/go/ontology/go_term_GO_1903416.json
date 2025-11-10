@@ -1,0 +1,38 @@
+{
+  "id": "GO:1903416",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903416",
+  "relationships": {
+    "is_a": [
+      "GO:1901700"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cellular response to ouabain"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "mtg_cardiac_conduct_nov11",
+      "rl"
+    ],
+    "GO_REF": [
+      "0000071"
+    ],
+    "PMID": [
+      "12027881",
+      "16243970"
+    ],
+    "CHEBI": [
+      "472805"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a glycoside stimulus.",
+  "namespace": "biological_process",
+  "label": "response to glycoside"
+}

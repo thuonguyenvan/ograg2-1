@@ -1,0 +1,30 @@
+{
+  "id": "GO:0031619",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031619",
+  "relationships": {
+    "is_a": [
+      "GO:0050000"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "homologous chromosome orientation during meiosis",
+      "homologous chromosome orientation during meiosis I"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "15062096"
+    ],
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The cell cycle process in which the sister centromeres and kinetochores of one chromosome are fused and orientated so the chromosomes attach to microtubules that emanate from the same spindle pole. This process ensures that homologous l chromosomes are segregated at anaphase of meiosis I.",
+  "namespace": "biological_process",
+  "label": "homologous chromosome orientation in meiotic metaphase I"
+}

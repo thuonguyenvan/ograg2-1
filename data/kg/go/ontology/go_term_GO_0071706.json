@@ -1,0 +1,29 @@
+{
+  "id": "GO:0071706",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071706",
+  "relationships": {
+    "is_a": [
+      "GO:0001816"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TNFSF cytokine production"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "TNF superfamily production"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "add",
+      "rv"
+    ]
+  },
+  "definition": "The appearance of any member of the TNF superfamily due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels.",
+  "namespace": "biological_process",
+  "label": "tumor necrosis factor superfamily cytokine production"
+}

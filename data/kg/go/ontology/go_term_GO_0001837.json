@@ -1,0 +1,36 @@
+{
+  "id": "GO:0001837",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001837",
+  "relationships": {
+    "is_a": [
+      "GO:0048762"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "EMT",
+      "epithelial-mesenchymal transition",
+      "mesenchymal cell differentiation from epithelial cell"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9758919"
+    ],
+    "GOC": [
+      "dph",
+      "BHF",
+      "dph",
+      "rl"
+    ],
+    "PMID": [
+      "14701881"
+    ]
+  },
+  "definition": "A transition where an epithelial cell loses apical/basolateral polarity, severs intercellular adhesive junctions, degrades basement membrane components and becomes a migratory mesenchymal cell.",
+  "namespace": "biological_process",
+  "label": "Epithelial-Mesenchymal Transition (EMT) during gastrulation"
+}

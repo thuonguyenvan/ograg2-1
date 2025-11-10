@@ -1,0 +1,37 @@
+{
+  "id": "GO:0070224",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070224",
+  "relationships": {
+    "is_a": [
+      "GO:0016672"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulfide-quinone reductase activity",
+      "sulphide:quinone oxidoreductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "R17-RXN",
+      "MONOMER-12314"
+    ],
+    "RHEA": [
+      "30239",
+      "30239"
+    ],
+    "Reactome": [
+      "R-HSA-1614665"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2S (hydrogen sulfide) + a quinone = S0 (sulfane sulfur) + a hydroquinone.",
+  "namespace": "molecular_function",
+  "label": "SQR oxidizes sulfide to bound persulfide"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0045706",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045706",
+  "relationships": {
+    "is_a": [
+      "GO:0045704",
+      "GO:0051094",
+      "GO:0051240"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of salivary gland determination",
+      "up regulation of salivary gland determination",
+      "up-regulation of salivary gland determination",
+      "upregulation of salivary gland determination"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of salivary gland determination",
+      "stimulation of salivary gland determination"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "tb",
+      "tb"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of salivary gland determination.",
+  "namespace": "biological_process",
+  "label": "positive regulation of salivary gland boundary specification"
+}

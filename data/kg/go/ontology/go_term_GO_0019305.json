@@ -1,0 +1,31 @@
+{
+  "id": "GO:0019305",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019305",
+  "relationships": {
+    "is_a": [
+      "GO:0009226"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dTDP-rhamnose anabolism",
+      "dTDP-rhamnose biosynthesis",
+      "dTDP-rhamnose formation",
+      "dTDP-rhamnose synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "DTDPRHAMSYN-PWY"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of dTDP-rhamnose, a substance composed of rhamnose in glycosidic linkage with deoxyribosylthymine diphosphate.",
+  "namespace": "biological_process",
+  "label": "dTDP-rhamnose biosynthetic process"
+}

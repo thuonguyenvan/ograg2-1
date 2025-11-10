@@ -1,0 +1,42 @@
+{
+  "id": "GO:0004309",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004309",
+  "relationships": {
+    "is_a": [
+      "GO:0016462"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "metaphosphatase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "Gra-Pase activity",
+      "acid phosphoanhydride phosphohydrolase activity",
+      "exopolypase activity",
+      "polyphosphate phosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.11",
+      "3.6.1.11",
+      "3.6.1.11",
+      "3.6.1.11",
+      "3.6.1.11",
+      "3.6.1.11",
+      "3.6.1.11"
+    ],
+    "MetaCyc": [
+      "EXOPOLYPHOSPHATASE-RXN"
+    ],
+    "RHEA": [
+      "21528"
+    ]
+  },
+  "definition": "Catalysis of the reaction: polyphosphate(n) + H2O = polyphosphate(n-1) + phosphate.",
+  "namespace": "molecular_function",
+  "label": "exopolyphosphatase activity"
+}

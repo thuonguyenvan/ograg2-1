@@ -1,0 +1,34 @@
+{
+  "id": "GO:0036085",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036085",
+  "relationships": {
+    "is_a": [
+      "GO:0015783",
+      "GO:0140820"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GDP-fucose import into Golgi",
+      "GDP-fucose transport across Golgi membrane",
+      "GDP-fucose transport into Golgi lumen"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sart",
+      "bf",
+      "bf",
+      "sart"
+    ],
+    "PMID": [
+      "3458237"
+    ]
+  },
+  "definition": "The directed movement of GDP-fucose into the Golgi lumen. GDP-fucose is a substance composed of fucose in glycosidic linkage with guanosine diphosphate.",
+  "namespace": "biological_process",
+  "label": "GDP-fucose import into Golgi lumen"
+}

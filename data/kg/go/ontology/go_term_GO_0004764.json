@@ -1,0 +1,49 @@
+{
+  "id": "GO:0004764",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004764",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "DHS reductase activity",
+      "dehydroshikimic reductase activity",
+      "shikimate oxidoreductase activity",
+      "shikimate:NADP(+) oxidoreductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "5-dehydroshikimate reductase activity",
+      "5-dehydroshikimic reductase activity",
+      "shikimate:NADP(+) 5-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.25",
+      "1.1.1.25",
+      "1.1.1.25",
+      "1.1.1.25",
+      "1.1.1.25",
+      "1.1.1.25",
+      "1.1.1.25",
+      "1.1.1.25",
+      "1.1.1.25"
+    ],
+    "KEGG_REACTION": [
+      "R02413"
+    ],
+    "MetaCyc": [
+      "SHIKIMATE-5-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "17737"
+    ]
+  },
+  "definition": "Catalysis of the reaction: shikimate + NADP+ = 3-dehydroshikimate + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "shikimate 3-dehydrogenase (NADP+) activity"
+}

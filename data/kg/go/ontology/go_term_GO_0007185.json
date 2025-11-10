@@ -1,0 +1,27 @@
+{
+  "id": "GO:0007185",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007185",
+  "relationships": {
+    "is_a": [
+      "GO:0007167"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transmembrane receptor protein tyrosine phosphatase signaling pathway",
+      "transmembrane receptor protein tyrosine phosphatase signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "signaling"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by an extracellular ligand binding to a receptor on the surface of the target cell where the receptor possesses protein tyrosine phosphatase activity, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "cell surface receptor protein tyrosine phosphatase signaling pathway"
+}

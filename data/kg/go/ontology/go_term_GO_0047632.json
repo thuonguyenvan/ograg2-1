@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047632",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047632",
+  "relationships": {
+    "is_a": [
+      "GO:0016813"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "agmatine amidinohydrolase"
+    ],
+    "narrow": [],
+    "related": [
+      "agmatine iminohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.3.12",
+      "3.5.3.12",
+      "3.5.3.12",
+      "3.5.3.12"
+    ],
+    "MetaCyc": [
+      "AGMATINE-DEIMINASE-RXN",
+      "AGMATINE-DEIMINASE-RXN"
+    ],
+    "RHEA": [
+      "18037"
+    ]
+  },
+  "definition": "Catalysis of the reaction: agmatine + H2O = N-carbamoylputrescine + NH3.",
+  "namespace": "molecular_function",
+  "label": "agmatine deiminase activity"
+}

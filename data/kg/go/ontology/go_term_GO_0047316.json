@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047316",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047316",
+  "relationships": {
+    "is_a": [
+      "GO:0070548"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glutamine-phenylpyruvate aminotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-glutamine:phenylpyruvate aminotransferase activity",
+      "glutamine transaminase K activity",
+      "glutamine--phenylpyruvate aminotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.64",
+      "2.6.1.64",
+      "2.6.1.64",
+      "2.6.1.64",
+      "2.6.1.64"
+    ],
+    "KEGG_REACTION": [
+      "R01375"
+    ],
+    "MetaCyc": [
+      "2.6.1.64-RXN"
+    ],
+    "RHEA": [
+      "17593",
+      "17593"
+    ]
+  },
+  "definition": "Catalysis of the reaction: keto-phenylpyruvate + L-glutamine = 2-oxoglutaramate + L-phenylalanine.",
+  "namespace": "molecular_function",
+  "label": "glutamine-phenylpyruvate transaminase activity"
+}

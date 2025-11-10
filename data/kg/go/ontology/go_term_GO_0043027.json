@@ -1,0 +1,32 @@
+{
+  "id": "GO:0043027",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043027",
+  "relationships": {
+    "is_a": [
+      "GO:0043028"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "caspase inhibitor activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mtg_apoptosis"
+    ],
+    "PMID": [
+      "14744432"
+    ],
+    "Wikipedia": [
+      "Caspase"
+    ]
+  },
+  "definition": "Binds to and stops, prevents or reduces the activity of a cysteine-type endopeptidase involved in the apoptotic process.",
+  "namespace": "molecular_function",
+  "label": "cysteine-type endopeptidase inhibitor activity involved in apoptotic process"
+}

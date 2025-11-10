@@ -1,0 +1,44 @@
+{
+  "id": "GO:0008118",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008118",
+  "relationships": {
+    "is_a": [
+      "GO:0008373"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-acetyllactosaminide alpha-2,3-sialyltransferase"
+    ],
+    "broad": [],
+    "narrow": [
+      "neolactotetraosylceramide alpha-2,3-sialyltransferase activity"
+    ],
+    "related": [
+      "alpha2-&gt;3 sialyltransferase activity",
+      "cytidine monophosphoacetylneuraminate-beta-galactosyl(1-&gt;4)acetylglucosaminide alpha2-&gt;3-sialyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.3.6",
+      "2.4.3.6",
+      "2.4.3.6",
+      "2.4.3.6",
+      "2.4.3.6"
+    ],
+    "MetaCyc": [
+      "2.4.99.6-RXN"
+    ],
+    "RHEA": [
+      "52316",
+      "52316"
+    ],
+    "PMID": [
+      "10206952"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a beta-D-galactosyl-(1-&gt;4)-N-acetyl-beta-D-glucosaminyl derivative + CMP-N-acetyl-beta-neuraminate = an N-acetyl-alpha-neuraminyl-(2-&gt;3)-beta-D-galactosyl-(1-&gt;4)-N-acetyl-beta-D-glucosaminyl derivative + CMP + H+.",
+  "namespace": "molecular_function",
+  "label": "N-acetyllactosaminide alpha-2,3-sialyltransferase activity"
+}

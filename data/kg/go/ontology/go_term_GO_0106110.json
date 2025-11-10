@@ -1,0 +1,44 @@
+{
+  "id": "GO:0106110",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106110",
+  "relationships": {
+    "is_a": [
+      "GO:0016106",
+      "GO:0034309",
+      "GO:0042181",
+      "GO:0043386",
+      "GO:0046173",
+      "GO:0097176",
+      "GO:0120255",
+      "GO:1901503",
+      "GO:1902653"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DON biosynthetic process",
+      "deoxynivalenol biosynthetic process",
+      "vomitoxin anabolism",
+      "vomitoxin biosynthesis",
+      "vomitoxin formation",
+      "vomitoxin synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "19333439",
+      "25680507",
+      "25758923",
+      "8637056"
+    ],
+    "https": [
+      "//doi.org/10.1007/BF03356188"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of type B trichothecene vomitoxin, also known as deoxynivalenol, a poisonous substance produced by some species of fungi and predominantly occurs in grains such as wheat, barley and oats.",
+  "namespace": "biological_process",
+  "label": "vomitoxin biosynthetic process"
+}

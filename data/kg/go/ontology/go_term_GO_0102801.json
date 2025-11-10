@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102801",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102801",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.214"
+    ],
+    "MetaCyc": [
+      "RXN-8139"
+    ],
+    "RHEA": [
+      "35515",
+      "35515"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4&apos;&apos;&apos;-demalonylsalvianin + malonyl-CoA = salvianin + coenzyme A.",
+  "namespace": "molecular_function",
+  "label": "anthocyanin 5-O-glucoside-4&apos;&apos;&apos;-O-malonyltransferase activity"
+}

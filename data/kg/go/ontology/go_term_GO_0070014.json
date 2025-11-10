@@ -1,0 +1,29 @@
+{
+  "id": "GO:0070014",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070014",
+  "relationships": {
+    "is_a": [
+      "GO:0098797",
+      "GO:1902687"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "oligo-1,6-glucosidase complex"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Sucrase-isomaltase"
+    ],
+    "PMID": [
+      "3366777"
+    ]
+  },
+  "definition": "A protein complex that possesses oligo-1,6-glucosidase activity; the complex is a heterodimer located in the cell membrane, and is formed by proteolytic cleavage of a single precursor polypeptide. The two subunits have different substrate specificities.",
+  "namespace": "cellular_component",
+  "label": "sucrase-isomaltase complex"
+}

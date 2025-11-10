@@ -1,0 +1,28 @@
+{
+  "id": "GO:0020004",
+  "uri": "http://purl.obolibrary.org/obo/GO_0020004",
+  "relationships": {
+    "is_a": [
+      "GO:0031974"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "parasitophorous vacuolar space"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "symbiont-containing vacuole space"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mb"
+    ]
+  },
+  "definition": "The space between a symbiont plasma membrane and the symbiont-containing vacuole membrane.",
+  "namespace": "cellular_component",
+  "label": "symbiont-containing vacuolar space"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0106259",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106259",
+  "relationships": {
+    "is_a": [
+      "GO:0044001"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell-to-cell migration in host",
+      "symbiont-mediated dissemination across host cells"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw"
+    ],
+    "PMID": [
+      "18456802",
+      "19262673",
+      "19816653",
+      "29567712"
+    ]
+  },
+  "definition": "The directional movement of a symbiont from one host cell to another.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated cell-to-cell migration in host"
+}

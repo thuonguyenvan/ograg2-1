@@ -1,0 +1,36 @@
+{
+  "id": "GO:0043268",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043268",
+  "relationships": {
+    "is_a": [
+      "GO:0043266",
+      "GO:0043270"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of K+ transport",
+      "positive regulation of potassium transport",
+      "up regulation of potassium ion transport",
+      "up-regulation of potassium ion transport",
+      "upregulation of potassium ion transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of potassium ion transport",
+      "positive regulation of K+ conductance",
+      "positive regulation of potassium conductance",
+      "positive regulation of potassium ion conductance",
+      "stimulation of potassium ion transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the directed movement of potassium ions (K+) into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "positive regulation of potassium ion transport"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0070483",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070483",
+  "relationships": {
+    "is_a": [
+      "GO:0001666",
+      "GO:0003032"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "detection of reduced oxygen levels"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "vk"
+    ]
+  },
+  "definition": "The series of events in which a stimulus indicating lowered oxygen tension is received by a cell and converted into a molecular signal. Hypoxia, defined as a decline in O2 levels below normoxic levels of 20.8 - 20.95%, results in metabolic adaptation at both the cellular and organismal level.",
+  "namespace": "biological_process",
+  "label": "detection of hypoxia"
+}

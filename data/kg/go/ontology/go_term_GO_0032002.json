@@ -1,0 +1,26 @@
+{
+  "id": "GO:0032002",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032002",
+  "relationships": {
+    "is_a": [
+      "GO:0098802"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IL-28 receptor complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rph",
+      "add"
+    ]
+  },
+  "definition": "A protein complex that binds interleukin-28 and interleukin-29. It is composed of an alpha and a beta receptor subunit (in human IFNLR1/IL28Ralpha &amp; IL10RB) and either Interleukin-28 (IFNL2 or IFNL3) or Interleukin-29 (IFNL1).",
+  "namespace": "cellular_component",
+  "label": "interleukin-28 receptor complex"
+}

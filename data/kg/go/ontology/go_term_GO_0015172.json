@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015172",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015172",
+  "relationships": {
+    "is_a": [
+      "GO:0015171"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "acidic amino acid transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-372448"
+    ],
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of acidic amino acids from one side of a membrane to the other. Acidic amino acids have side chains with a negative charge at pH 7.3.",
+  "namespace": "molecular_function",
+  "label": "SLC25A12,13 exchange L-Glu and L-Asp"
+}

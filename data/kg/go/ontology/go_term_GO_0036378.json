@@ -1,0 +1,45 @@
+{
+  "id": "GO:0036378",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036378",
+  "relationships": {
+    "is_a": [
+      "GO:0042368",
+      "GO:0046173",
+      "GO:0070640"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "calcitriol biosynthesis from calciol",
+      "vitamin D3 activation"
+    ],
+    "broad": [
+      "1alpha,25(OH)2D3 biosynthesis",
+      "1alpha,25-dihydroxycholecalciferol biosynthesis",
+      "1alpha,25-dihydroxyvitamin D3 biosynthesis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "rl",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "17426122",
+      "20511049",
+      "20506379"
+    ],
+    "CHEBI": [
+      "17823",
+      "17823",
+      "17823"
+    ]
+  },
+  "definition": "Conversion of vitamin D3 from its largely inactive form (calciol, also called cholecalciferol) into a hormonally active form (calcitriol). Conversion requires 25-hydroxylation of calciol in the liver to form calcidiol, and subsequent 1,alpha-hydroxylation of calcidiol in the kidney to form calcitriol.",
+  "namespace": "biological_process",
+  "label": "calcitriol biosynthetic process from calciol"
+}

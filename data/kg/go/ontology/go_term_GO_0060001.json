@@ -1,0 +1,34 @@
+{
+  "id": "GO:0060001",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060001",
+  "relationships": {
+    "is_a": [
+      "GO:0000146"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "minus-end directed actin-filament motor activity",
+      "pointed-end directed actin-filament motor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "minus-end directed actin filament motor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "dph",
+      "dph",
+      "dph"
+    ],
+    "PMID": [
+      "10519557"
+    ]
+  },
+  "definition": "A motor activity that generates movement along a microfilament towards the minus end, driven by ATP hydrolysis. The minus end of an actin filament is the end that does not preferentially add actin monomers.",
+  "namespace": "molecular_function",
+  "label": "minus-end directed microfilament motor activity"
+}

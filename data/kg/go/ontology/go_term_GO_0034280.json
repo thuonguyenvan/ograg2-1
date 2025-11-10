@@ -1,0 +1,38 @@
+{
+  "id": "GO:0034280",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034280",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ent-copalyl-diphosphate diphosphate-lyase [ent-sandaracopimara-8(14),15-diene-forming] activity"
+    ],
+    "broad": [
+      "ent-pimaradiene synthase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.29"
+    ],
+    "KEGG_REACTION": [
+      "R09120",
+      "R09120"
+    ],
+    "MetaCyc": [
+      "RXN-4884"
+    ],
+    "RHEA": [
+      "25536",
+      "25536"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ent-copalyl diphosphate = ent-sandaracopimara-8(14),15-diene + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "ent-sandaracopimaradiene synthase activity"
+}

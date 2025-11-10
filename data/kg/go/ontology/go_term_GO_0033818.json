@@ -1,0 +1,49 @@
+{
+  "id": "GO:0033818",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033818",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-ketoacyl-acyl carrier protein synthase III activity",
+      "3-oxoacyl:ACP synthase III activity",
+      "FabH",
+      "KAS III",
+      "KASIII",
+      "acetyl-CoA:malonyl-acyl-carrier-protein C-acyltransferase activity",
+      "beta-ketoacyl (acyl carrier protein) synthase III activity",
+      "beta-ketoacyl-ACP synthase III activity",
+      "beta-ketoacyl-acyl carrier protein synthase III activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.180",
+      "2.3.1.180",
+      "2.3.1.180",
+      "2.3.1.180",
+      "2.3.1.180",
+      "2.3.1.180",
+      "2.3.1.180",
+      "2.3.1.180",
+      "2.3.1.180",
+      "2.3.1.180",
+      "2.3.1.180"
+    ],
+    "MetaCyc": [
+      "2.3.1.180-RXN"
+    ],
+    "RHEA": [
+      "12080"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + malonyl-[acyl-carrier protein] = acetoacyl-[acyl-carrier protein] + CoA + CO2.",
+  "namespace": "molecular_function",
+  "label": "beta-ketoacyl-acyl-carrier-protein synthase III activity"
+}

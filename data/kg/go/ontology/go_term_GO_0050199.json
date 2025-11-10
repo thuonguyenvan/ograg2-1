@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050199",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050199",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(E,E)-piperoyl-CoA:piperidine N-piperoyltransferase activity",
+      "piperidine piperoyltransferase activity",
+      "piperoyl-CoA:piperidine N-piperoyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.145",
+      "2.3.1.145",
+      "2.3.1.145",
+      "2.3.1.145",
+      "2.3.1.145"
+    ],
+    "KEGG_REACTION": [
+      "R03994"
+    ],
+    "MetaCyc": [
+      "PIPERIDINE-N-PIPEROYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "14561",
+      "14561"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (E,E)-piperoyl-CoA + piperidine = N-[(E,E)-piperoyl]piperidine + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "piperidine N-piperoyltransferase activity"
+}

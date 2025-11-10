@@ -1,0 +1,30 @@
+{
+  "id": "GO:0046115",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046115",
+  "relationships": {
+    "is_a": [
+      "GO:0008617",
+      "GO:1901069"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "guanosine breakdown",
+      "guanosine catabolism",
+      "guanosine degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "guanosine phosphorolysis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of guanine, guanine riboside, a nucleoside with a wide species distribution.",
+  "namespace": "biological_process",
+  "label": "guanosine catabolic process"
+}

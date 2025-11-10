@@ -1,0 +1,41 @@
+{
+  "id": "GO:0005332",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005332",
+  "relationships": {
+    "is_a": [
+      "GO:0005283",
+      "GO:0015185",
+      "GO:0015378",
+      "GO:0140161"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-aminobutanoate:sodium symporter activity",
+      "4-aminobutyrate:sodium symporter activity",
+      "GABA:sodium symporter activity",
+      "betaine/GABA:sodium symporter activity",
+      "gamma-aminobutyric acid:sodium symporter activity"
+    ],
+    "broad": [
+      "sodium/chloride-dependent GABA transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-444007"
+    ],
+    "TC": [
+      "2.A.22.3.2"
+    ],
+    "PMID": [
+      "7589472",
+      "7861179"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: gamma-aminobutyric acid(out) + Na+(out) + Cl-(out) = gamma-aminobutyric acid(in) + Na+(in) + Cl(in).",
+  "namespace": "molecular_function",
+  "label": "GAT1-3 mediate Na+/Cl- dependent GABA transport"
+}

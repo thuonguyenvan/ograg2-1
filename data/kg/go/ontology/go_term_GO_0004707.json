@@ -1,0 +1,78 @@
+{
+  "id": "GO:0004707",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004707",
+  "relationships": {
+    "is_a": [
+      "GO:0004674"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ERK1",
+      "mitogen activated kinase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "MAP kinase 1 activity",
+      "MAP kinase 2 activity",
+      "MBP kinase I activity",
+      "MBP kinase II activity",
+      "SAP kinase activity",
+      "SAPK",
+      "extracellular signal-regulated kinase activity",
+      "myelin basic protein kinase activity",
+      "stress-activated kinase activity",
+      "stress-activated protein kinase activity"
+    ],
+    "related": [
+      "ATP:protein phosphotransferase (MAPKK-activated) activity",
+      "ERK",
+      "ERK2",
+      "MAPK",
+      "mitogen-activated protein kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.11.24",
+      "2.7.11.24",
+      "2.7.11.24",
+      "2.7.11.24",
+      "2.7.11.24",
+      "2.7.11.24",
+      "2.7.11.24",
+      "2.7.11.24",
+      "2.7.11.24"
+    ],
+    "KEGG_REACTION": [
+      "R00162"
+    ],
+    "MetaCyc": [
+      "2.7.11.24-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-111898",
+      "R-HSA-198733",
+      "R-HSA-445079",
+      "R-HSA-5654560",
+      "R-HSA-5654562",
+      "R-HSA-5654565",
+      "R-HSA-5654566",
+      "R-HSA-73722",
+      "R-HSA-9626832",
+      "R-HSA-9825759"
+    ],
+    "GOC": [
+      "ma"
+    ],
+    "ISBN": [
+      "0198547684"
+    ],
+    "PMID": [
+      "20811974"
+    ]
+  },
+  "definition": "Catalysis of the reaction: protein + ATP = protein phosphate + ADP. This reaction is the phosphorylation of proteins. Mitogen-activated protein kinase; a family of protein kinases that perform a crucial step in relaying signals from the plasma membrane to the nucleus. They are activated by a wide range of proliferation- or differentiation-inducing signals; activation is strong with agonists such as polypeptide growth factors and tumor-promoting phorbol esters, but weak (in most cell backgrounds) by stress stimuli.",
+  "namespace": "molecular_function",
+  "label": "MAPK-dependent phosphorylation of KARS"
+}

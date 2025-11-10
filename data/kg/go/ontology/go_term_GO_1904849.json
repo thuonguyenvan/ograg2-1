@@ -1,0 +1,44 @@
+{
+  "id": "GO:1904849",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904849",
+  "relationships": {
+    "is_a": [
+      "GO:0030335",
+      "GO:0050921",
+      "GO:1904847"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of cell chemotaxis to fibroblast growth factor",
+      "up-regulation of cell chemotaxis to fibroblast growth factor",
+      "upregulation of cell chemotaxis to fibroblast growth factor"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of cell chemotaxis to fibroblast growth factor"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "TermGenie",
+      "rph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23233752"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of cell chemotaxis to fibroblast growth factor.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cell chemotaxis to fibroblast growth factor"
+}

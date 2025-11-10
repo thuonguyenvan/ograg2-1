@@ -1,0 +1,31 @@
+{
+  "id": "GO:0015139",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015139",
+  "relationships": {
+    "is_a": [
+      "GO:0005310"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-oxoglutarate transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-372480"
+    ],
+    "GOC": [
+      "ai"
+    ],
+    "ISBN": [
+      "0198547684"
+    ]
+  },
+  "definition": "Enables the transfer of alpha-ketoglutarate from one side of a membrane to the other. Alpha-ketoglutarate (or oxoglutarate) is a compound with important roles in carbohydrate and amino acid metabolism, especially in transamination reactions and as a component of the TCA cycle.",
+  "namespace": "molecular_function",
+  "label": "2-oxoglutarate [mitochondrial matrix] + 2-oxoadipate [cytosol] &lt;=&gt; 2-oxoglutarate [cytosol] + 2-oxoadipate [mitochondrial matrix]"
+}

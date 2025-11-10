@@ -1,0 +1,43 @@
+{
+  "id": "GO:0070885",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070885",
+  "relationships": {
+    "is_a": [
+      "GO:0070884",
+      "GO:0106057"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of calcineurin-NFAT signaling cascade",
+      "down-regulation of calcineurin-NFAT signaling cascade",
+      "downregulation of calcineurin-NFAT signaling cascade",
+      "negative regulation of calcineurin-NFAT signalling cascade"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of NFAT protein import into nucleus",
+      "inhibition of calcineurin-NFAT signaling cascade",
+      "negative regulation of NFAT protein import into nucleus",
+      "termination of calcineurin-NFAT signaling cascade"
+    ],
+    "related": [
+      "negative regulation of calcineurin-NFAT signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "bf",
+      "bf"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the calcineurin-NFAT signaling cascade.",
+  "namespace": "biological_process",
+  "label": "negative regulation of calcineurin-NFAT signaling cascade"
+}

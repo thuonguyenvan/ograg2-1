@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047879",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047879",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "erythronolide condensing enzyme activity",
+      "malonyl-CoA:propionyl-CoA malonyltransferase (cyclizing)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.94",
+      "2.3.1.94",
+      "2.3.1.94",
+      "2.3.1.94"
+    ],
+    "MetaCyc": [
+      "ERYTHRONOLIDE-SYNTHASE-RXN",
+      "ERYTHRONOLIDE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "23068"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 6 malonyl-CoA + propionyl-CoA = 7 CoA + 6-deoxyerythronolide B.",
+  "namespace": "molecular_function",
+  "label": "erythronolide synthase activity"
+}

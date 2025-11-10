@@ -1,0 +1,30 @@
+{
+  "id": "GO:0007601",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007601",
+  "relationships": {
+    "is_a": [
+      "GO:0050953"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sense of sight",
+      "sensory visual perception",
+      "vision"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Visual_perception"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The series of events required for an organism to receive a visual stimulus, convert it to a molecular signal, and recognize and characterize the signal. Visual stimuli are detected in the form of photons and are processed to form an image.",
+  "namespace": "biological_process",
+  "label": "visual perception"
+}

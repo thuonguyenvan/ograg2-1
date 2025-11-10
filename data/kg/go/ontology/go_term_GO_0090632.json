@@ -1,0 +1,29 @@
+{
+  "id": "GO:0090632",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090632",
+  "relationships": {
+    "is_a": [
+      "GO:0070567"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CMP-Neu5Gc synthetase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "ISBN": [
+      "978-1-60805-067-3"
+    ],
+    "PMID": [
+      "11479279",
+      "8381411"
+    ]
+  },
+  "definition": "Catalysis of the reaction: CTP + Neu5Gc = diphosphate + CMP-Neu5Gc.",
+  "namespace": "molecular_function",
+  "label": "N-glycolylneuraminic acid (Neu5Gc) cytidylyltransferase activity"
+}

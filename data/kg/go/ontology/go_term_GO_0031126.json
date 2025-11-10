@@ -1,0 +1,33 @@
+{
+  "id": "GO:0031126",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031126",
+  "relationships": {
+    "is_a": [
+      "GO:0031123",
+      "GO:0043144"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sno(s)RNA 3&apos; end processing"
+    ],
+    "broad": [],
+    "narrow": [
+      "sRNA 3&apos;-end processing",
+      "snoRNA 3&apos;-end processing"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mah"
+    ],
+    "PMID": [
+      "17284456"
+    ]
+  },
+  "definition": "Any process involved in forming the mature 3&apos; end of a snoRNA family molecule, also referred to as an sRNA in Archaea.",
+  "namespace": "biological_process",
+  "label": "sno(s)RNA 3&apos;-end processing"
+}

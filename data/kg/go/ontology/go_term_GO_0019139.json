@@ -1,0 +1,38 @@
+{
+  "id": "GO:0019139",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019139",
+  "relationships": {
+    "is_a": [
+      "GO:0016645"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "6-N-dimethylallyladenine:acceptor oxidoreductase activity",
+      "N6-dimethylallyladenine:(acceptor) oxidoreductase activity",
+      "N6-dimethylallyladenine:acceptor oxidoreductase activity",
+      "cytokinin oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.99.12",
+      "1.5.99.12",
+      "1.5.99.12",
+      "1.5.99.12",
+      "1.5.99.12"
+    ],
+    "MetaCyc": [
+      "1.5.99.12-RXN"
+    ],
+    "RHEA": [
+      "13625"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N6-dimethylallyladenine + acceptor + H2O = adenine + 3-methylbut-2-enal + reduced electron acceptor.",
+  "namespace": "molecular_function",
+  "label": "cytokinin dehydrogenase activity"
+}

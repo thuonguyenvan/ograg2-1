@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102922",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102922",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-8857"
+    ],
+    "RHEA": [
+      "42488",
+      "42488"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (3R)-3-amino-3-phenylpropanoyl-CoA + baccatin III = 3&apos;-N-debenzoyl-2&apos;-deoxytaxol + CoA.",
+  "namespace": "molecular_function",
+  "label": "phenylpropanoyltransferase activity"
+}

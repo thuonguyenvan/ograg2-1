@@ -1,0 +1,28 @@
+{
+  "id": "GO:0044548",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044548",
+  "relationships": {
+    "is_a": [
+      "GO:0005515"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "S100 binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "S100 alpha binding",
+      "S100 beta binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid"
+    ]
+  },
+  "definition": "Binding to a S100 protein. S100 is a small calcium and zinc binding protein produced in astrocytes that is implicated in Alzheimer&apos;s disease, Down Syndrome and ALS.",
+  "namespace": "molecular_function",
+  "label": "S100 protein binding"
+}

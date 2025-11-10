@@ -1,0 +1,30 @@
+{
+  "id": "GO:0002279",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002279",
+  "relationships": {
+    "is_a": [
+      "GO:0002275",
+      "GO:0045576"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "mast cell activation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "tb"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "The change in morphology and behavior of a mast cell resulting from exposure to a cytokine, chemokine, soluble factor, or to (at least in mammals) an antigen which the mast cell has specifically bound via IgE bound to Fc-epsilonRI receptors, leading to the initiation or perpetuation of an immune response.",
+  "namespace": "biological_process",
+  "label": "mast cell activation involved in immune response"
+}

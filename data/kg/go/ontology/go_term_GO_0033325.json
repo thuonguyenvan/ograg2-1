@@ -1,0 +1,32 @@
+{
+  "id": "GO:0033325",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033325",
+  "relationships": {
+    "is_a": [
+      "GO:0042425"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "choline anabolism via phosphoryl-ethanolamine",
+      "choline biosynthesis via phosphoryl-ethanolamine",
+      "choline formation via phosphoryl-ethanolamine",
+      "choline synthesis via phosphoryl-ethanolamine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-3385",
+      "PWY-3385"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of choline (2-hydroxyethyltrimethylammonium), via the intermediate phosphoryl-ethanolamine.",
+  "namespace": "biological_process",
+  "label": "choline biosynthetic process via phosphoryl-ethanolamine"
+}

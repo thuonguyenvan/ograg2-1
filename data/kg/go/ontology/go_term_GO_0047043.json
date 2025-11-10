@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047043",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047043",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3alpha-hydroxy-5beta-cholanate:NAD+ oxidoreductase activity",
+      "3alpha-hydroxycholanate dehydrogenase activity",
+      "alpha-hydroxy-cholanate dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.52",
+      "1.1.1.52",
+      "1.1.1.52",
+      "1.1.1.52",
+      "1.1.1.52"
+    ],
+    "KEGG_REACTION": [
+      "R04139"
+    ],
+    "MetaCyc": [
+      "1.1.1.52-RXN"
+    ],
+    "RHEA": [
+      "19585",
+      "19585"
+    ]
+  },
+  "definition": "Catalysis of the reaction: lithocholate + NAD+ = 3-oxo-5beta-cholanate + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "3-alpha-hydroxycholanate dehydrogenase activity"
+}

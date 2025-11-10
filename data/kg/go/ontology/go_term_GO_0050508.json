@@ -1,0 +1,46 @@
+{
+  "id": "GO:0050508",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050508",
+  "relationships": {
+    "is_a": [
+      "GO:0008375"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucuronosyl-N-acetylglucosaminyl-proteoglycan 4-a-N-acetylglucosaminyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-N-acetyl-D-glucosamine:beta-D-glucuronosyl-(1-&gt;4)-N-acetyl-alpha-D-glucosaminyl-proteoglycan 4-alpha-N-acetylglucosaminyltransferase activity",
+      "alpha-N-acetylglucosaminyltransferase II activity",
+      "glucuronyl-N-acetylglucosaminylproteoglycan alpha-1,4-N-acetylglucosaminyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.224",
+      "2.4.1.224",
+      "2.4.1.224",
+      "2.4.1.224",
+      "2.4.1.224"
+    ],
+    "MetaCyc": [
+      "2.4.1.224-RXN",
+      "2.4.1.224-RXN"
+    ],
+    "RHEA": [
+      "16213",
+      "16213"
+    ],
+    "Reactome": [
+      "R-HSA-2022851",
+      "R-HSA-3656254",
+      "R-HSA-3656261"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-O-{[(1-&gt;4)-beta-D-GlcA-(1-&gt;4)-alpha-D-GlcNAc](n)-(1-&gt;4)-beta-D-GlcA-(1-&gt;3)-beta-D-Gal-(1-&gt;3)-beta-D-Gal-(1-&gt;4)-beta-D-Xyl}-L-seryl-[protein] + UDP-N-acetyl-alpha-D-glucosamine = 3-O-{alpha-D-GlcNAc-[(1-&gt;4)-beta-D-GlcA-(1-&gt;4)-alpha-D-GlcNAc](n)-(1-&gt;4)-beta-D-GlcA-(1-&gt;3)-beta-D-Gal-(1-&gt;3)-beta-D-Gal-(1-&gt;4)-beta-D-Xyl}-L-seryl-[protein] + H+ + UDP.",
+  "namespace": "molecular_function",
+  "label": "Defective EXT1 (in EXT1:EXT2) does not transfer GlcNAc to the heparan chain"
+}

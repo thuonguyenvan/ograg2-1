@@ -1,0 +1,30 @@
+{
+  "id": "GO:0070513",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070513",
+  "relationships": {
+    "is_a": [
+      "GO:0019904"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "rl"
+    ],
+    "InterPro": [
+      "IPR000488"
+    ],
+    "Pfam": [
+      "PF00531"
+    ]
+  },
+  "definition": "Binding to a death domain of a protein. The death domain (DD) is a homotypic protein interaction module composed of a bundle of six alpha-helices. DD bind each other forming oligomers. Some DD-containing proteins are involved in the regulation of apoptosis and inflammation through their activation of caspases and NF-kappaB.",
+  "namespace": "molecular_function",
+  "label": "death domain binding"
+}

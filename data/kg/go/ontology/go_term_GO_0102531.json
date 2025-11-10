@@ -1,0 +1,29 @@
+{
+  "id": "GO:0102531",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102531",
+  "relationships": {
+    "is_a": [
+      "GO:0016791"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "ecdysone-phosphate phosphatase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-14734",
+      "RXN-14734"
+    ],
+    "PMID": [
+      "12721294"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + an ecdysteroid 22-phosphate = phosphate + an ecdysteroid. Also has activity towards other ecdysteriod phosphates including 20-hydroxyecdysone 22-phosphate (20E22P) and 2-deoxyecdysone 22-phosphate (2dE22P).",
+  "namespace": "molecular_function",
+  "label": "ecdysteroid-phosphate phosphatase activity"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:1990530",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990530",
+  "relationships": {
+    "is_a": [
+      "GO:1990531"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rb"
+    ],
+    "PMID": [
+      "15090616",
+      "22234261"
+    ]
+  },
+  "definition": "A protein complex that functions as a phospholipid-translocating P-Type ATPase. In budding yeast, this complex consists of Cdc50p and Drs2p proteins, and is involved in the trafficking of transport vesicles between the late Golgi and the early endosome.",
+  "namespace": "cellular_component",
+  "label": "Cdc50p-Drs2p complex"
+}

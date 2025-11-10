@@ -1,0 +1,39 @@
+{
+  "id": "GO:0030770",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030770",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:demethylmacrocin 2&apos;&apos;&apos;-O-methyltransferase activity",
+      "demethylmacrocin methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.102",
+      "2.1.1.102",
+      "2.1.1.102",
+      "2.1.1.102"
+    ],
+    "KEGG_REACTION": [
+      "R02859"
+    ],
+    "MetaCyc": [
+      "DEMETHYLMACROCIN-O-METHYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "17573",
+      "17573"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine(1+) + demethylmacrocin = S-adenosyl-L-homocysteine + H+ + macrocin.",
+  "namespace": "molecular_function",
+  "label": "demethylmacrocin O-methyltransferase activity"
+}

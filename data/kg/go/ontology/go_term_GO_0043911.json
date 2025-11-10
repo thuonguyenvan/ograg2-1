@@ -1,0 +1,28 @@
+{
+  "id": "GO:0043911",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043911",
+  "relationships": {
+    "is_a": [
+      "GO:0008483"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-lysine aminotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "17259313"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-lysine + 2-oxoglutarate = L-glutamate + 6-amino-2-oxohexanoate.",
+  "namespace": "molecular_function",
+  "label": "D-lysine transaminase activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0006786",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006786",
+  "relationships": {
+    "is_a": [
+      "GO:0006783"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "haem C biosynthesis",
+      "haem C biosynthetic process",
+      "heme C anabolism",
+      "heme C biosynthesis",
+      "heme C formation",
+      "heme C synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "curators"
+    ],
+    "PubChem_Compound": [
+      "122208"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of heme c, a derivative of heme found in cytochromes c, b4, and f.",
+  "namespace": "biological_process",
+  "label": "heme C biosynthetic process"
+}

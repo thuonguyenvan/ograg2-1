@@ -1,0 +1,35 @@
+{
+  "id": "GO:0006270",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006270",
+  "relationships": {
+    "is_a": [
+      "GO:0006259"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA-dependent DNA replication initiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "DNA endoreduplication initiation",
+      "DNA re-replication initiation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-68952",
+      "R-HSA-68962"
+    ],
+    "PMID": [
+      "28209641"
+    ],
+    "GOC": [
+      "vw"
+    ]
+  },
+  "definition": "The process in which DNA-dependent DNA replication is started; it begins when specific sequences, known as origins of replication, are recognized and bound by the origin recognition complex, followed by DNA unwinding.",
+  "namespace": "biological_process",
+  "label": "Activation of the pre-replicative complex"
+}

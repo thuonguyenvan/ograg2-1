@@ -1,0 +1,30 @@
+{
+  "id": "GO:0016868",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016868",
+  "relationships": {
+    "is_a": [
+      "GO:0016866"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "intramolecular transferase activity, phosphotransferases",
+      "phosphomutase activity",
+      "phosphotransferase activity, with regeneration of donors, apparently catalyzing intramolecular transfers"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.2.-"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a phosphate group from one position to another within a single molecule.",
+  "namespace": "molecular_function",
+  "label": "intramolecular phosphotransferase activity"
+}

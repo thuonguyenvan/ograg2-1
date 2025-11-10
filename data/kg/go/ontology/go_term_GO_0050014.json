@@ -1,0 +1,45 @@
+{
+  "id": "GO:0050014",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050014",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "erythrose-1-phosphate synthase activity",
+      "erythrulose-1-phosphate formaldehyde-lyase (glycerone-phosphate-forming)",
+      "erythrulose-1-phosphate formaldehyde-lyase activity",
+      "erythrulose-1-phosphate synthetase activity",
+      "phosphoketotetrose aldolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.2",
+      "4.1.2.2",
+      "4.1.2.2",
+      "4.1.2.2",
+      "4.1.2.2",
+      "4.1.2.2",
+      "4.1.2.2"
+    ],
+    "KEGG_REACTION": [
+      "R01014"
+    ],
+    "MetaCyc": [
+      "KETOTETROSE-PHOSPHATE-ALDOLASE-RXN"
+    ],
+    "RHEA": [
+      "20932",
+      "20932"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-erythrulose 1-phosphate = formaldehyde + glycerone phosphate.",
+  "namespace": "molecular_function",
+  "label": "ketotetrose-phosphate aldolase activity"
+}

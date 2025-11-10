@@ -1,0 +1,39 @@
+{
+  "id": "GO:0061763",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061763",
+  "relationships": {
+    "is_a": [
+      "GO:0006906",
+      "GO:0097212"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MVB-lysosome fusion",
+      "fusion of MVB to lysosome",
+      "fusion of multivesicular body to lysosome"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "endosome-lysosome fusion",
+      "late endosome-lysosome fusion"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "dph",
+      "pad",
+      "dph",
+      "dph",
+      "dph"
+    ],
+    "PMID": [
+      "21118109"
+    ]
+  },
+  "definition": "The organelle membrane fusion process in which the membrane of a multivesicular body fuses with a lysosome to create a hybrid organelle.",
+  "namespace": "biological_process",
+  "label": "multivesicular body-lysosome fusion"
+}

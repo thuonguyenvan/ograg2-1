@@ -1,0 +1,29 @@
+{
+  "id": "GO:0051899",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051899",
+  "relationships": {
+    "is_a": [
+      "GO:0042391"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-112308"
+    ],
+    "GOC": [
+      "dh"
+    ],
+    "Wikipedia": [
+      "Depolarization"
+    ]
+  },
+  "definition": "The process in which membrane potential decreases with respect to its steady-state potential, usually from negative potential to a more positive potential. For example, the initial depolarization during the rising phase of an action potential is in the direction from the negative steady-state resting potential towards the positive membrane potential that will be the peak of the action potential.",
+  "namespace": "biological_process",
+  "label": "Presynaptic depolarization and calcium channel opening"
+}

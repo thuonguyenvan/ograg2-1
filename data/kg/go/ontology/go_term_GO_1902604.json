@@ -1,0 +1,31 @@
+{
+  "id": "GO:1902604",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902604",
+  "relationships": {
+    "is_a": [
+      "GO:0015814",
+      "GO:0035442",
+      "GO:1905039"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-(4-aminobenzoyl)-L-glutamate transmembrane transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "pr"
+    ],
+    "GO_REF": [
+      "0000069"
+    ]
+  },
+  "definition": "The directed movement of N-(4-aminobenzoyl)-L-glutamate across a membrane.",
+  "namespace": "biological_process",
+  "label": "p-aminobenzoyl-glutamate transmembrane transport"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0070991",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070991",
+  "relationships": {
+    "is_a": [
+      "GO:0003995"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MCAD activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.3.8.7"
+    ],
+    "MetaCyc": [
+      "RXN-11734"
+    ],
+    "RHEA": [
+      "14477",
+      "14477"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a medium-chain 2,3-saturated fatty acyl-CoA + H+ + oxidized [electron-transfer flavoprotein] = a medium-chain trans-(2E)-enoyl-CoA + reduced [electron-transfer flavoprotein]. A medium-chain fatty acid has an aliphatic tail containing 6 to 12 carbons.",
+  "namespace": "molecular_function",
+  "label": "medium-chain fatty acyl-CoA dehydrogenase activity"
+}

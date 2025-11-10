@@ -1,0 +1,41 @@
+{
+  "id": "GO:0005436",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005436",
+  "relationships": {
+    "is_a": [
+      "GO:0005315",
+      "GO:0015370"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sodium/phosphate symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "sodium-dependent phosphate transmembrane transporter activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2872498",
+      "R-HSA-427605",
+      "R-HSA-427645",
+      "R-HSA-427656",
+      "R-HSA-428609",
+      "R-HSA-5625123",
+      "R-HSA-5651685",
+      "R-HSA-5651697",
+      "R-HSA-5651971",
+      "R-HSA-5687585"
+    ],
+    "TC": [
+      "2.A.1.14.6",
+      "2.A.1.14.6"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: Na+(out) + phosphate(out) = Na+(in) + phosphate(in).",
+  "namespace": "molecular_function",
+  "label": "Defective SLC34A2 does not cotransport HPO4(2-), 3Na+ from extracellular region to cytosol"
+}

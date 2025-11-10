@@ -1,0 +1,31 @@
+{
+  "id": "GO:1903110",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903110",
+  "relationships": {
+    "is_a": [
+      "GO:0000018",
+      "GO:1903516"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bhm"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24339919"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of single-strand break repair via homologous recombination.",
+  "namespace": "biological_process",
+  "label": "regulation of single-strand break repair via homologous recombination"
+}

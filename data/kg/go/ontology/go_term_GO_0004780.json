@@ -1,0 +1,44 @@
+{
+  "id": "GO:0004780",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004780",
+  "relationships": {
+    "is_a": [
+      "GO:0004779"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ADP:sulfate adenylyltransferase activity",
+      "sulphate adenylyltransferase (ADP) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ADP-sulfurylase activity",
+      "adenosine diphosphate sulfurylase activity",
+      "sulfate (adenosine diphosphate) adenylyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.5",
+      "2.7.7.5",
+      "2.7.7.5",
+      "2.7.7.5",
+      "2.7.7.5"
+    ],
+    "KEGG_REACTION": [
+      "R00530"
+    ],
+    "MetaCyc": [
+      "SULFATE-ADENYLYLTRANSFERASE-ADP-RXN"
+    ],
+    "RHEA": [
+      "16529",
+      "16529"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ADP + H+ + sulfate = 5&apos;-adenylyl sulfate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "sulfate adenylyltransferase (ADP) activity"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0061454",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061454",
+  "relationships": {
+    "is_a": [
+      "GO:0051209",
+      "GO:0061856"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "Golgi calcium ion export"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The directed movement of calcium ions (Ca2+) out of the Golgi apparatus into the cytosol.",
+  "namespace": "biological_process",
+  "label": "release of sequestered calcium ion into cytosol by Golgi"
+}

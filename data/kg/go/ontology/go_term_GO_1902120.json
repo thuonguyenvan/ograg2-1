@@ -1,0 +1,47 @@
+{
+  "id": "GO:1902120",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902120",
+  "relationships": {
+    "is_a": [
+      "GO:0045835",
+      "GO:1902119"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of meiotic spindle elongation",
+      "down regulation of spindle elongation during meiosis",
+      "down-regulation of meiotic spindle elongation",
+      "down-regulation of spindle elongation during meiosis",
+      "downregulation of meiotic spindle elongation",
+      "downregulation of spindle elongation during meiosis",
+      "inhibition of spindle elongation during meiosis",
+      "negative regulation of spindle elongation during meiosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of meiotic spindle elongation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "23370392"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of meiotic spindle elongation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of meiotic spindle elongation"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0047661",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047661",
+  "relationships": {
+    "is_a": [
+      "GO:0016855"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-amino acid racemase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.1.10",
+      "5.1.1.10",
+      "5.1.1.10"
+    ],
+    "MetaCyc": [
+      "AMINO-ACID-RACEMASE-RXN",
+      "AMINO-ACID-RACEMASE-RXN"
+    ],
+    "RHEA": [
+      "18317"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an L-amino acid = a D-amino acid.",
+  "namespace": "molecular_function",
+  "label": "amino-acid racemase activity"
+}

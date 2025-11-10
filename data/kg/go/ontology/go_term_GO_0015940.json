@@ -1,0 +1,49 @@
+{
+  "id": "GO:0015940",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015940",
+  "relationships": {
+    "is_a": [
+      "GO:0015939",
+      "GO:0042364",
+      "GO:0042398",
+      "GO:0043604",
+      "GO:0072330"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pantothenate anabolism",
+      "pantothenate biosynthesis",
+      "pantothenate formation",
+      "pantothenate synthesis",
+      "vitamin B5 biosynthesis",
+      "vitamin B5 biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "pantothenate anabolism from 2-oxypantoyl lactone",
+      "pantothenate anabolism from valine",
+      "pantothenate biosynthesis from 2-oxypantoyl lactone",
+      "pantothenate biosynthesis from valine",
+      "pantothenate biosynthetic process from 2-dehydropantolactone",
+      "pantothenate biosynthetic process from 2-oxypantoyl lactone",
+      "pantothenate biosynthetic process from valine",
+      "pantothenate formation from 2-oxypantoyl lactone",
+      "pantothenate formation from valine",
+      "pantothenate synthesis from 2-oxypantoyl lactone",
+      "pantothenate synthesis from valine"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ],
+    "ISBN": [
+      "0721662544"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of pantothenate, the anion of pantothenic acid. It is a B complex vitamin that is a constituent of coenzyme A and is distributed ubiquitously in foods.",
+  "namespace": "biological_process",
+  "label": "pantothenate biosynthetic process"
+}

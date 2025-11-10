@@ -1,0 +1,42 @@
+{
+  "id": "GO:1901051",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901051",
+  "relationships": {
+    "is_a": [
+      "GO:0009710"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "atropine anabolism",
+      "atropine biosynthesis",
+      "atropine formation",
+      "atropine synthesis",
+      "hyoscyamine biosynthetic process"
+    ],
+    "broad": [
+      "atropine metabolic process",
+      "atropine metabolism"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "2879005",
+      "33572199"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of atropine. Atropine is the racemic mixture of hyoscyamine.",
+  "namespace": "biological_process",
+  "label": "atropine biosynthetic process"
+}

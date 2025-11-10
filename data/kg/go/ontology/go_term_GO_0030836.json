@@ -1,0 +1,37 @@
+{
+  "id": "GO:0030836",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030836",
+  "relationships": {
+    "is_a": [
+      "GO:0030834",
+      "GO:0051495",
+      "GO:1901881",
+      "GO:1902905"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "actin filament destabilization",
+      "positive regulation of actin depolymerization",
+      "up regulation of actin filament depolymerization",
+      "up-regulation of actin filament depolymerization",
+      "upregulation of actin filament depolymerization"
+    ],
+    "broad": [
+      "positive regulation of actin polymerization and/or depolymerization"
+    ],
+    "narrow": [
+      "activation of actin filament depolymerization",
+      "stimulation of actin filament depolymerization"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of actin depolymerization.",
+  "namespace": "biological_process",
+  "label": "positive regulation of actin filament depolymerization"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "GO:1903312",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903312",
+  "relationships": {
+    "is_a": [
+      "GO:0051253",
+      "GO:1903311"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of mRNA metabolic process",
+      "down regulation of mRNA metabolism",
+      "down-regulation of mRNA metabolic process",
+      "down-regulation of mRNA metabolism",
+      "downregulation of mRNA metabolic process",
+      "downregulation of mRNA metabolism",
+      "negative regulation of mRNA metabolism"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of mRNA metabolic process",
+      "inhibition of mRNA metabolism"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "vw",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of mRNA metabolic process.",
+  "namespace": "biological_process",
+  "label": "negative regulation of mRNA metabolic process"
+}

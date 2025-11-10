@@ -1,0 +1,34 @@
+{
+  "id": "GO:0120300",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120300",
+  "relationships": {
+    "is_a": [
+      "GO:0016410"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "peptide lactyltransferase (CoA dependent) activity",
+      "peptide lactyltransferase activity",
+      "peptide lactyltransferase activity (CoA-dependent)"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "61996",
+      "61996"
+    ],
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "31645732"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (L-lysyl-[protein] + lactoyl-CoA = CoA + H+ + N(6)-lactoyl-L-lysyl-[protein].",
+  "namespace": "molecular_function",
+  "label": "peptide lactyltransferase (CoA-dependent) activity"
+}

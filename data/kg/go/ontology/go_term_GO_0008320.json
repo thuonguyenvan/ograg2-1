@@ -1,0 +1,49 @@
+{
+  "id": "GO:0008320",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008320",
+  "relationships": {
+    "is_a": [
+      "GO:0022884",
+      "GO:0140318"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "protein channel activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1268022",
+      "R-HSA-1299475",
+      "R-HSA-184269",
+      "R-HSA-3149434",
+      "R-HSA-5205661",
+      "R-HSA-5210943",
+      "R-HSA-5210947",
+      "R-HSA-5228406",
+      "R-HSA-5229111",
+      "R-HSA-5244404",
+      "R-HSA-5244428",
+      "R-HSA-5244506",
+      "R-HSA-5246514",
+      "R-HSA-5250616",
+      "R-HSA-5250884",
+      "R-HSA-5250972",
+      "R-HSA-5336420",
+      "R-HSA-9636375",
+      "R-HSA-9698930",
+      "R-HSA-9698933",
+      "R-HSA-9760705"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Enables the transfer of a protein from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "GspD2:GspC2:GspS2 transports LT from periplasmic to extracellular space"
+}

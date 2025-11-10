@@ -1,0 +1,59 @@
+{
+  "id": "GO:0008675",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008675",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-dehydro-3-deoxy-D-gluconate-6-phosphate D-glyceraldehyde-3-phosphate-lyase (pyruvate-forming)",
+      "2-dehydro-3-deoxy-D-gluconate-6-phosphate D-glyceraldehyde-3-phosphate-lyase activity",
+      "2-keto-3-deoxy-6-phosphogluconate aldolase activity",
+      "2-keto-3-deoxy-6-phosphogluconic aldolase activity",
+      "2-keto-3-deoxygluconate-6-P-aldolase activity",
+      "2-keto-3-deoxygluconate-6-phosphate aldolase activity",
+      "2-oxo-3-deoxy-6-phosphogluconate aldolase activity",
+      "6-phospho-2-keto-3-deoxygluconate aldolase activity",
+      "KDPG aldolase activity",
+      "KDPG-aldolase activity",
+      "ODPG aldolase activity",
+      "phospho-2-dehydro-3-deoxygluconate aldolase activity",
+      "phospho-2-keto-3-deoxygluconate aldolase activity",
+      "phospho-2-keto-3-deoxygluconic aldolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.14",
+      "4.1.2.14",
+      "4.1.2.14",
+      "4.1.2.14",
+      "4.1.2.14",
+      "4.1.2.14",
+      "4.1.2.14",
+      "4.1.2.14",
+      "4.1.2.14",
+      "4.1.2.14",
+      "4.1.2.14",
+      "4.1.2.14",
+      "4.1.2.14",
+      "4.1.2.14",
+      "4.1.2.14",
+      "4.1.2.14"
+    ],
+    "MetaCyc": [
+      "KDPGALDOL-RXN"
+    ],
+    "RHEA": [
+      "17089"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-dehydro-3-deoxy-D-gluconate 6-phosphate = pyruvate + D-glyceraldehyde 3-phosphate.",
+  "namespace": "molecular_function",
+  "label": "2-dehydro-3-deoxy-phosphogluconate aldolase activity"
+}

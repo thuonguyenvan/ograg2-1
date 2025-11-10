@@ -1,0 +1,36 @@
+{
+  "id": "GO:0022005",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022005",
+  "relationships": {
+    "is_a": [
+      "GO:0032501"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "midbrain-hindbrain boundary maturation involved in neural plate development"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid",
+      "dph",
+      "tb"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "15541513"
+    ]
+  },
+  "definition": "A developmental process occurring before the brain has been specified along the neural axis that is required for the midbrain-hindbrain boundary to attain its fully functional state. The midbrain-hindbrain domain of the embryonic brain is comprised of the mesencephalic vesicle and the first rhombencephalic vesicle at early somitogenesis stages. An organizing center at the boundary patterns the midbrain and hindbrain primordia of the neural plate.",
+  "namespace": "biological_process",
+  "label": "midbrain-hindbrain boundary maturation during neural plate development"
+}

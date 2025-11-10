@@ -1,0 +1,35 @@
+{
+  "id": "GO:0009090",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009090",
+  "relationships": {
+    "is_a": [
+      "GO:0009070",
+      "GO:0009092"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "homoserine anabolism",
+      "homoserine biosynthesis",
+      "homoserine formation",
+      "homoserine synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "HOMOSERSYN-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of homoserine, alpha-amino-gamma-hydroxybutyric acid.",
+  "namespace": "biological_process",
+  "label": "homoserine biosynthetic process"
+}

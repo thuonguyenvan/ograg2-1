@@ -1,0 +1,45 @@
+{
+  "id": "GO:0005261",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005261",
+  "relationships": {
+    "is_a": [
+      "GO:0005216",
+      "GO:0008324"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cation diffusion facilitator activity"
+    ],
+    "broad": [
+      "cation channel activity"
+    ],
+    "narrow": [
+      "non-selective cation channel activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1296043",
+      "R-HSA-2089943",
+      "R-HSA-426223",
+      "R-HSA-9706720",
+      "R-HSA-9712190",
+      "R-HSA-9754616",
+      "R-HSA-9837835"
+    ],
+    "GOC": [
+      "def",
+      "dph",
+      "mtg_transport",
+      "pr"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the energy-independent facilitated diffusion of a monoatomic cation through a transmembrane aqueous pore or channel.",
+  "namespace": "molecular_function",
+  "label": "SH pentamer transports K+"
+}

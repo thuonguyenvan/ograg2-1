@@ -1,0 +1,25 @@
+{
+  "id": "GO:0008937",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008937",
+  "relationships": {
+    "is_a": [
+      "GO:0016731"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "ferredoxin reductase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "Catalysis of the reaction: reduced ferredoxin + NAD(P)+ = oxidized ferredoxin + NAD(P)H + H+.",
+  "namespace": "molecular_function",
+  "label": "ferredoxin-[NAD(P)H] reductase activity"
+}

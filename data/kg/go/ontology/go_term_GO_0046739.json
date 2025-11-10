@@ -1,0 +1,35 @@
+{
+  "id": "GO:0046739",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046739",
+  "relationships": {
+    "is_a": [
+      "GO:0044001",
+      "GO:0046794"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "spread of virus within multicellular host",
+      "viral spread within multicellular host"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "spread of virus in multicellular host"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "jl",
+      "bf",
+      "jl"
+    ],
+    "ISBN": [
+      "0781718325"
+    ]
+  },
+  "definition": "The transport of a virus between cells in a multicellular organism. The cells can be adjacent or spatially separated (e.g. in different tissues or organs).",
+  "namespace": "biological_process",
+  "label": "transport of virus in multicellular host"
+}

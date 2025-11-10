@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140110",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140110",
+  "relationships": {
+    "is_a": [
+      "GO:0003674"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pg",
+      "txnOH-2018"
+    ],
+    "Wikipedia": [
+      "Transcription_factor"
+    ]
+  },
+  "definition": "A molecular function that controls the rate, timing and/or magnitude of gene transcription. The function of transcriptional regulators is to modulate gene expression at the transcription step so that they are expressed in the right cell at the right time and in the right amount throughout the life of the cell and the organism. Genes are transcriptional units, and include bacterial operons.",
+  "namespace": "molecular_function",
+  "label": "transcription regulator activity"
+}

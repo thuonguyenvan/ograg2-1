@@ -1,0 +1,30 @@
+{
+  "id": "GO:0098881",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098881",
+  "relationships": {
+    "is_a": [
+      "GO:0006904",
+      "GO:0090522"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "neurotransmitter receptor insertion"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "aruk",
+      "bc"
+    ],
+    "PMID": [
+      "19503082"
+    ]
+  },
+  "definition": "The exocytic fusion of neurotransmitter receptor-containing vesicles with plasma membrane, resulting in the integration of neurotransmitter receptors into the plasma membrane. This process includes tethering and docking steps that prepare vesicles for fusion.",
+  "namespace": "biological_process",
+  "label": "exocytic insertion of neurotransmitter receptor to plasma membrane"
+}

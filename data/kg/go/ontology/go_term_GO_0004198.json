@@ -1,0 +1,31 @@
+{
+  "id": "GO:0004198",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004198",
+  "relationships": {
+    "is_a": [
+      "GO:0004197"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "calpain activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8848658",
+      "R-HSA-8863012",
+      "R-HSA-9855106",
+      "R-HSA-9861485"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of nonterminal peptide bonds in a polypeptide chain by a mechanism using a cysteine residue at the enzyme active center, and requiring the presence of calcium.",
+  "namespace": "molecular_function",
+  "label": "Calpain2 (m-Calpain, CAPN2:CAPNS:Ca2+) cleaves VCL (Vinculin)"
+}

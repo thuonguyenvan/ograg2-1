@@ -1,0 +1,36 @@
+{
+  "id": "GO:0043854",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043854",
+  "relationships": {
+    "is_a": [
+      "GO:0008381"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cyclic nucleotide gated mechanosensitive ion channel activity",
+      "cyclic nucleotide regulated mechanosensitive ion channel",
+      "cyclic nucleotide-regulated mechanosensitive ion channel",
+      "small conductance mechanosensitive ion channel"
+    ],
+    "broad": [
+      "cyclic nucleotide-gated mechanosensitive ion channel activity"
+    ],
+    "narrow": [],
+    "related": [
+      "MscS",
+      "cyclic nucleotide-regulated small mechanosensitive ion channel"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "22206667"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of an monoatomic ion by a channel that opens in response to a mechanical stress and when a cyclic nucleotide has been bound by the channel complex or one of its constituent parts.",
+  "namespace": "molecular_function",
+  "label": "cyclic nucleotide-gated mechanosensitive monoatomic ion channel activity"
+}

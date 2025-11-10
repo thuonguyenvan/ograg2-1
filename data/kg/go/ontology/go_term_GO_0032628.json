@@ -1,0 +1,32 @@
+{
+  "id": "GO:0032628",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032628",
+  "relationships": {
+    "is_a": [
+      "GO:0001816"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IL-24 production"
+    ],
+    "broad": [],
+    "narrow": [
+      "MDA7 production",
+      "ST16 production",
+      "interleukin-24 biosynthetic process",
+      "interleukin-24 secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "BHF",
+      "BHF"
+    ]
+  },
+  "definition": "The appearance of interleukin-24 due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels.",
+  "namespace": "biological_process",
+  "label": "interleukin-24 production"
+}

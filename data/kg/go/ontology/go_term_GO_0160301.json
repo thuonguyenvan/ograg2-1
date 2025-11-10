@@ -1,0 +1,26 @@
+{
+  "id": "GO:0160301",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160301",
+  "relationships": {
+    "is_a": [
+      "GO:0016779"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R13520"
+    ],
+    "PMID": [
+      "25882909"
+    ]
+  },
+  "definition": "Catalysis of the reaction: guanylylpyridinol + ATP + H+ = guanylylpyridinol-AMP + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "guanylylpyridinol adenylase activity"
+}

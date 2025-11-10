@@ -1,0 +1,32 @@
+{
+  "id": "GO:0050806",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050806",
+  "relationships": {
+    "is_a": [
+      "GO:0010647",
+      "GO:0023056",
+      "GO:0050804"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of synaptic transmission",
+      "up-regulation of synaptic transmission",
+      "upregulation of synaptic transmission"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of synaptic transmission",
+      "stimulation of synaptic transmission"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of synaptic transmission, the process of communication from a neuron to a target (neuron, muscle, or secretory cell) across a synapse.",
+  "namespace": "biological_process",
+  "label": "positive regulation of synaptic transmission"
+}

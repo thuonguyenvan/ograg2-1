@@ -1,0 +1,31 @@
+{
+  "id": "GO:0005375",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005375",
+  "relationships": {
+    "is_a": [
+      "GO:0046915"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "intracellular copper ion transporter",
+      "plasma membrane copper transporter"
+    ],
+    "related": [
+      "copper uptake transmembrane transporter activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-437300"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of copper (Cu) ions from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "SLC31A1 transports Cu2+ from extracellular region to cytosol"
+}

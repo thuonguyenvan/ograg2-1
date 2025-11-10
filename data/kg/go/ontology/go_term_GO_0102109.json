@@ -1,0 +1,29 @@
+{
+  "id": "GO:0102109",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102109",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-11261"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "19077165"
+    ]
+  },
+  "definition": "Catalysis of the reaction: tricaffeoyl spermidine + 3 S-adenosyl-L-methionine = 3 H+ + triferuloyl spermidine + 3 S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "tricaffeoyl spermidine O-methyltransferase activity"
+}

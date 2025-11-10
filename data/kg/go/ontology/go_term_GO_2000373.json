@@ -1,0 +1,44 @@
+{
+  "id": "GO:2000373",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000373",
+  "relationships": {
+    "is_a": [
+      "GO:0032781",
+      "GO:0043085"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of DNA topoisomerase IV activity",
+      "positive regulation of DNA topoisomerase type II activity",
+      "positive regulation of deoxyribonucleic topoisomerase activity",
+      "positive regulation of topoisomerase II",
+      "positive regulation of type II DNA topoisomerase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of DNA topoisomerase (ATP-hydrolysing)",
+      "positive regulation of DNA topoisomerase II",
+      "positive regulation of deoxyribonucleate topoisomerase",
+      "positive regulation of topoisomerase"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of DNA topoisomerase (ATP-hydrolyzing) activity.",
+  "namespace": "biological_process",
+  "label": "positive regulation of DNA topoisomerase (ATP-hydrolyzing) activity"
+}

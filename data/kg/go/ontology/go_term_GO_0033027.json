@@ -1,0 +1,35 @@
+{
+  "id": "GO:0033027",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033027",
+  "relationships": {
+    "is_a": [
+      "GO:0002684",
+      "GO:0033025",
+      "GO:0033034",
+      "GO:2000108"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of mast cell apoptosis",
+      "up-regulation of mast cell apoptosis",
+      "upregulation of mast cell apoptosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of mast cell apoptosis",
+      "positive regulation of mast cell apoptosis",
+      "stimulation of mast cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mtg_apoptosis"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of mast cell apoptotic process.",
+  "namespace": "biological_process",
+  "label": "positive regulation of mast cell apoptotic process"
+}

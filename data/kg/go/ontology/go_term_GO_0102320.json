@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102320",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102320",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.56"
+    ],
+    "MetaCyc": [
+      "RXN-4342"
+    ],
+    "RHEA": [
+      "32895",
+      "32895"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1,8-cineole + NADPH + H+ + O2 = 2-exo-hydroxy-1,8-cineole + NADP + H2O.",
+  "namespace": "molecular_function",
+  "label": "1,8-cineole 2-exo-monooxygenase activity"
+}

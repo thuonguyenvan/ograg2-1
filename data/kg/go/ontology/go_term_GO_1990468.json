@@ -1,0 +1,26 @@
+{
+  "id": "GO:1990468",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990468",
+  "relationships": {
+    "is_a": [
+      "GO:0033100"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rb"
+    ],
+    "PMID": [
+      "25104842"
+    ]
+  },
+  "definition": "A NuA3 complex that catalyzes the acetylation of Histone H3. In S. cerevisiae, this complex consists of Eaf6p, Nto1p, Sas3p, Taf14p, Pdp3 and associates with H3K4me3 via Pdp3p.",
+  "namespace": "cellular_component",
+  "label": "NuA3b histone acetyltransferase complex"
+}

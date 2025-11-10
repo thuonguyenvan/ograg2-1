@@ -1,0 +1,40 @@
+{
+  "id": "GO:0005835",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005835",
+  "relationships": {
+    "is_a": [
+      "GO:0140535",
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FAS complex",
+      "cytosolic FAS complex",
+      "cytosolic fatty acid synthase complex",
+      "cytosolic type I FAS complex",
+      "cytosolic type I fatty acid synthase complex",
+      "fatty acid synthetase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "holo-[acyl-carrier-protein] synthase complex"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Fatty_acid_synthetase_complex"
+    ],
+    "GOC": [
+      "pde",
+      "sgd_curators"
+    ],
+    "ISBN": [
+      "0716746840"
+    ]
+  },
+  "definition": "A multienzyme complex that catalyses the synthesis of fatty acids from acetyl CoA.",
+  "namespace": "cellular_component",
+  "label": "fatty acid synthase complex"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0097342",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097342",
+  "relationships": {
+    "is_a": [
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "TNFR1 complex II",
+      "Tnfr1-CII"
+    ],
+    "related": [
+      "necrosome"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "mtg_apoptosis"
+    ],
+    "PMID": [
+      "22265414",
+      "22274400",
+      "22089168",
+      "22089168"
+    ]
+  },
+  "definition": "A protein complex whose core components are the receptor-interacting serine/threonine-protein kinases RIPK1 and RIPK3 (also called RIP1 and RIP3). Formation of the ripoptosome can induce an extrinsic apoptotic signaling pathway or a necroptotic signaling pathway. The composition of this protein complex may depend on several factors including nature of the signal, cell type and more.",
+  "namespace": "cellular_component",
+  "label": "ripoptosome"
+}

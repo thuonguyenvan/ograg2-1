@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015226",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015226",
+  "relationships": {
+    "is_a": [
+      "GO:0015651",
+      "GO:0072349"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "vitamin Bt transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-164967",
+      "R-HSA-165026",
+      "R-HSA-549297",
+      "R-HSA-5625674"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of carnitine across a membrane. Carnitine is a compound that participates in the transfer of acyl groups across the inner mitochondrial membrane.",
+  "namespace": "molecular_function",
+  "label": "Defective SLC22A5 does not cotransport CAR, Na+ from extracellular region to cytosol"
+}

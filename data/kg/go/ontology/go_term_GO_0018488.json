@@ -1,0 +1,36 @@
+{
+  "id": "GO:0018488",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018488",
+  "relationships": {
+    "is_a": [
+      "GO:0004031"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "aryl-aldehyde:oxygen oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.3.9",
+      "1.2.3.9",
+      "1.2.3.9"
+    ],
+    "MetaCyc": [
+      "ARYL-ALDEHYDE-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "18569"
+    ],
+    "UM-BBD_reactionID": [
+      "r0145"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an aromatic aldehyde + O2 + H2O = an aromatic acid + hydrogen peroxide.",
+  "namespace": "molecular_function",
+  "label": "aryl-aldehyde oxidase activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0052828",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052828",
+  "relationships": {
+    "is_a": [
+      "GO:0016312"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "43388"
+    ],
+    "Reactome": [
+      "R-HSA-1855202"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1D-myo-inositol 3,4-bisphosphate + H2O = 1D-myo-inositol 3-phosphate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "I(3,4)P2 is dephosphorylated to I3P by INPP4A/B in the cytosol"
+}

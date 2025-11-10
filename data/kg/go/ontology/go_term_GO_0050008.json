@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050008",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050008",
+  "relationships": {
+    "is_a": [
+      "GO:0016863"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "isopiperitenone D-isomerase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "isopiperitenone delta8-delta4-isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.3.11",
+      "5.3.3.11"
+    ],
+    "KEGG_REACTION": [
+      "R03782"
+    ],
+    "MetaCyc": [
+      "ISOPIPERITENONE-DELTA-ISOMERASE-RXN"
+    ],
+    "RHEA": [
+      "21516",
+      "21516"
+    ]
+  },
+  "definition": "Catalysis of the reaction: isopiperitenone = piperitenone.",
+  "namespace": "molecular_function",
+  "label": "isopiperitenone delta-isomerase activity"
+}

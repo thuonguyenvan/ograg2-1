@@ -1,0 +1,31 @@
+{
+  "id": "GO:0033373",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033373",
+  "relationships": {
+    "is_a": [
+      "GO:0033370"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mast cell protease retention"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "maintenance of protease localization in mast cell secretory granule"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mah",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "A process in which a protease is maintained in a secretory granule in a mast cell and prevented from moving elsewhere.",
+  "namespace": "biological_process",
+  "label": "maintenance of protease location in mast cell secretory granule"
+}

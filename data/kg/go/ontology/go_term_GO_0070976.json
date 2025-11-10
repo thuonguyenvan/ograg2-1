@@ -1,0 +1,29 @@
+{
+  "id": "GO:0070976",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070976",
+  "relationships": {
+    "is_a": [
+      "GO:0019904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Toll-Interleukin receptor domain binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "InterPro": [
+      "IPR000157",
+      "IPR000157"
+    ]
+  },
+  "definition": "Binding to a Toll-Interleukin receptor (TIR) domain of a protein. The TIR domain is an intracellular 200 residue domain that is found in the Toll protein, the interleukin-1 receptor (IL-1R), and MyD88; it contains three highly-conserved regions, and mediates protein-protein interactions between the Toll-like receptors (TLRs) and signal-transduction components.",
+  "namespace": "molecular_function",
+  "label": "TIR domain binding"
+}

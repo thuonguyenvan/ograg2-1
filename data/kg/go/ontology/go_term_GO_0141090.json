@@ -1,0 +1,29 @@
+{
+  "id": "GO:0141090",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141090",
+  "relationships": {
+    "is_a": [
+      "GO:0016776"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "protein serine pyrophosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "64104",
+      "64104"
+    ],
+    "PMID": [
+      "36603579"
+    ]
+  },
+  "definition": "Catalysis of the reaction: protein phospho-serine + inositol 5-triphosphate pentakisphosphate = protein diphospho-serine + inositol 5-diphosphate pentakisphosphate.",
+  "namespace": "molecular_function",
+  "label": "protein serine pyrophosphorylase activity"
+}

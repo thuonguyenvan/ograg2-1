@@ -1,0 +1,31 @@
+{
+  "id": "GO:0000766",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000766",
+  "relationships": {
+    "is_a": [
+      "GO:0022401"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "desensitization to pheromone during pheromone-induced unidirectional conjugation",
+      "negative adaptation of signalling pathway by response to pheromone involved in pheromone-induced unidirectional conjugation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "adaptation to pheromone during pheromone-induced unidirectional conjugation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "clt",
+      "mah",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "In organisms that undergo pheromone-induced unidirectional conjugation, the process involved in desensitization following exposure to pheromone stimulus that acts to down-regulate further stimulation or block initial conjugation responses.",
+  "namespace": "biological_process",
+  "label": "negative adaptation of signaling pathway by response to pheromone involved in pheromone-induced unidirectional conjugation"
+}

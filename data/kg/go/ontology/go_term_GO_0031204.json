@@ -1,0 +1,28 @@
+{
+  "id": "GO:0031204",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031204",
+  "relationships": {
+    "is_a": [
+      "GO:0065002"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "posttranslational protein membrane targeting, translocation",
+      "posttranslational protein targeting to membrane, translocation",
+      "protein translocation during posttranslational protein targeting to membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "12518317",
+      "8707814"
+    ]
+  },
+  "definition": "The process in which a protein translocates through the ER membrane posttranslationally.",
+  "namespace": "biological_process",
+  "label": "post-translational protein targeting to membrane, translocation"
+}

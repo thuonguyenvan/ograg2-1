@@ -1,0 +1,36 @@
+{
+  "id": "GO:0033977",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033977",
+  "relationships": {
+    "is_a": [
+      "GO:0019120"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "2-haloalkanoic acid dehalogenase activity",
+      "2-haloalkanoid acid halidohydrolase activity",
+      "DL-2-haloacid dehalogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "DL-DEXr"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.8.1.11"
+    ],
+    "MetaCyc": [
+      "3.8.1.11-RXN"
+    ],
+    "RHEA": [
+      "12072",
+      "12072"
+    ]
+  },
+  "definition": "Catalysis of the reactions: (S)-2-haloacid + H2O = (S)-2-hydroxyacid + halide, and (R)-2-haloacid + H2O = (R)-2-hydroxyacid + halide.",
+  "namespace": "molecular_function",
+  "label": "2-haloacid dehalogenase (configuration-retaining) activity"
+}

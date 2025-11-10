@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047816",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047816",
+  "relationships": {
+    "is_a": [
+      "GO:0045290"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-arabinose:NAD+ 1-oxidoreductase activity",
+      "NAD-pentose-dehydrogenase activity",
+      "arabinose(fucose)dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.116",
+      "1.1.1.116",
+      "1.1.1.116",
+      "1.1.1.116"
+    ],
+    "MetaCyc": [
+      "D-ARABINOSE-1-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "20457",
+      "20457"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-arabinose + NAD+ = D-arabinono-1,4-lactone + NADH.",
+  "namespace": "molecular_function",
+  "label": "D-arabinose 1-dehydrogenase (NAD+) activity"
+}

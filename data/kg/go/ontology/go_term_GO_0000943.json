@@ -1,0 +1,32 @@
+{
+  "id": "GO:0000943",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000943",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "VLP",
+      "Virus-like particle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Virus-like_particle"
+    ],
+    "GOC": [
+      "clt"
+    ],
+    "PMID": [
+      "10861903"
+    ]
+  },
+  "definition": "A complex of the retrotransposon RNA genome, reverse transcriptase, integrase, and associated molecules required for reproduction and integration of the retrotransposon into the host genome; the main structural molecule of the nucleocapsid is often a gag protein homolog.",
+  "namespace": "cellular_component",
+  "label": "retrotransposon nucleocapsid"
+}

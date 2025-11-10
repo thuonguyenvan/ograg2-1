@@ -1,0 +1,34 @@
+{
+  "id": "GO:0044292",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044292",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dendrite terminal",
+      "terminal specialization of a dendrite"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dendrite terminal specialization",
+      "terminal specialization"
+    ]
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao28175134",
+      "sao28175134",
+      "sao28175134"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "A structure at the distal end of a dendrite adapted to carry out a specific function, e.g. dendriole.",
+  "namespace": "cellular_component",
+  "label": "dendrite terminus"
+}

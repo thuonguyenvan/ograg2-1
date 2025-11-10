@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033300",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033300",
+  "relationships": {
+    "is_a": [
+      "GO:0090482"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dehydroascorbate transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dehydroascorbic acid transporter activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-198818"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Enables the transfer of dehydroascorbate, 5-(1,2-dihydroxyethyl)furan-2,3,4(5H)-trione, from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "SLC2A1,3 transports DeHA from extracellular region to cytosol"
+}

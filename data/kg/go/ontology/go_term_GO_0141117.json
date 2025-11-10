@@ -1,0 +1,30 @@
+{
+  "id": "GO:0141117",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141117",
+  "relationships": {
+    "is_a": [
+      "GO:0042784"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "suppression of complement activation by another organism by recuitement of complement control protein"
+    ],
+    "broad": [
+      "suppression of complement activation by another organism by recruitment of complement control protein"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "17513779",
+      "22540535",
+      "24129254",
+      "27304426"
+    ]
+  },
+  "definition": "A process by which a symbiont prevents the activation of host complement by binding a soluble complement control protein (CCP) of the host and recruiting it to the microbe surface. The normal role of CCPs is to prevent complement activation on &apos;self&apos; cellular targets. When soluble CCPs are recuited to the surface of a microbe, the complement fails to activate.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host complement activation by recruitment of complement control protein"
+}

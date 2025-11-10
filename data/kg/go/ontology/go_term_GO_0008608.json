@@ -1,0 +1,46 @@
+{
+  "id": "GO:0008608",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008608",
+  "relationships": {
+    "is_a": [
+      "GO:0022402"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "attachment of spindle microtubules to chromosome",
+      "kinetochore-microtubule attachment",
+      "microtubule anchoring at kinetochore",
+      "spindle chromosome attachment",
+      "spindle kinetochore attachment"
+    ],
+    "broad": [
+      "kinetochore microtubule interaction",
+      "kinetochore-microtubule interaction",
+      "microtubule and chromosome interaction",
+      "spindle-chromosome interaction"
+    ],
+    "narrow": [
+      "microtubule capture"
+    ],
+    "related": [
+      "amphotelic attachment",
+      "bipolar attachment",
+      "microtubule and kinetochore interaction"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "vw",
+      "ascb_2009",
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "10322137"
+    ]
+  },
+  "definition": "The process in which spindle microtubules become physically associated with the proteins making up the kinetochore complex.",
+  "namespace": "biological_process",
+  "label": "attachment of spindle microtubules to kinetochore"
+}

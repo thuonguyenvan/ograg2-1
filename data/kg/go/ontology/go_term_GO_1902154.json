@@ -1,0 +1,55 @@
+{
+  "id": "GO:1902154",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902154",
+  "relationships": {
+    "is_a": [
+      "GO:1902152",
+      "GO:1902153"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "activation of DNA damage checkpoint effector process",
+      "activation of response to signal involved in DNA damage checkpoint",
+      "positive regulation of DNA damage checkpoint effector process",
+      "positive regulation of response to signal involved in DNA damage checkpoint",
+      "up regulation of DNA damage checkpoint effector process",
+      "up regulation of response to DNA damage checkpoint signaling",
+      "up regulation of response to signal involved in DNA damage checkpoint",
+      "up-regulation of DNA damage checkpoint effector process",
+      "up-regulation of response to DNA damage checkpoint signaling",
+      "up-regulation of response to signal involved in DNA damage checkpoint",
+      "upregulation of DNA damage checkpoint effector process",
+      "upregulation of response to DNA damage checkpoint signaling",
+      "upregulation of response to signal involved in DNA damage checkpoint"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of response to DNA damage checkpoint signaling"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_cell_cycle",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of response to DNA damage checkpoint signaling.",
+  "namespace": "biological_process",
+  "label": "positive regulation of response to DNA damage checkpoint signaling"
+}

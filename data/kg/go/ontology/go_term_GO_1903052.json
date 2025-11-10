@@ -1,0 +1,104 @@
+{
+  "id": "GO:1903052",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903052",
+  "relationships": {
+    "is_a": [
+      "GO:0045862",
+      "GO:1903050"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of peptidolysis involved in cellular protein catabolic process",
+      "positive regulation of peptidolysis involved in cellular protein catabolism",
+      "positive regulation of proteolysis involved in cellular protein catabolic process",
+      "up regulation of peptidolysis involved in cellular protein catabolic process",
+      "up regulation of peptidolysis involved in cellular protein catabolism",
+      "up regulation of proteolysis involved in cellular protein catabolic process",
+      "up-regulation of peptidolysis involved in cellular protein catabolic process",
+      "up-regulation of peptidolysis involved in cellular protein catabolism",
+      "up-regulation of proteolysis involved in cellular protein catabolic process",
+      "upregulation of peptidolysis involved in cellular protein catabolic process",
+      "upregulation of peptidolysis involved in cellular protein catabolism",
+      "upregulation of proteolysis involved in cellular protein catabolic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of peptidolysis involved in cellular protein catabolic process",
+      "activation of peptidolysis involved in cellular protein catabolism",
+      "activation of proteolysis involved in cellular protein catabolic process"
+    ],
+    "related": [
+      "activation of peptidolysis during cellular protein catabolic process",
+      "activation of peptidolysis during cellular protein catabolism",
+      "activation of proteolysis during cellular protein catabolic process",
+      "activation of proteolysis during cellular protein catabolism",
+      "positive regulation of peptidolysis during cellular protein catabolic process",
+      "positive regulation of peptidolysis during cellular protein catabolism",
+      "positive regulation of proteolysis during cellular protein catabolic process",
+      "positive regulation of proteolysis during cellular protein catabolism",
+      "up regulation of peptidolysis during cellular protein catabolic process",
+      "up regulation of peptidolysis during cellular protein catabolism",
+      "up regulation of proteolysis during cellular protein catabolic process",
+      "up regulation of proteolysis during cellular protein catabolism",
+      "up-regulation of peptidolysis during cellular protein catabolic process",
+      "up-regulation of peptidolysis during cellular protein catabolism",
+      "up-regulation of proteolysis during cellular protein catabolic process",
+      "up-regulation of proteolysis during cellular protein catabolism",
+      "upregulation of peptidolysis during cellular protein catabolic process",
+      "upregulation of peptidolysis during cellular protein catabolism",
+      "upregulation of proteolysis during cellular protein catabolic process",
+      "upregulation of proteolysis during cellular protein catabolism"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "18307834"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of proteolysis involved in protein catabolic process.",
+  "namespace": "biological_process",
+  "label": "positive regulation of proteolysis involved in protein catabolic process"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "GO:0008893",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008893",
+  "relationships": {
+    "is_a": [
+      "GO:0016794"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "guanosine-3&apos;,5&apos;-bis(diphosphate) 3&apos;-diphosphohydrolase activity",
+      "guanosine-3&apos;,5&apos;-bis(diphosphate) 3&apos;-pyrophosphohydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(ppGpp)ase activity",
+      "PpGpp phosphohydrolase activity",
+      "PpGpp-3&apos;-pyrophosphohydrolase activity",
+      "guanosine-3&apos;,5&apos;-bis(diphosphate) 3&apos;-pyrophosphatase activity",
+      "penta-phosphate guanosine-3&apos;-diphosphohydrolase activity",
+      "penta-phosphate guanosine-3&apos;-pyrophosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.7.2",
+      "3.1.7.2",
+      "3.1.7.2",
+      "3.1.7.2",
+      "3.1.7.2",
+      "3.1.7.2",
+      "3.1.7.2"
+    ],
+    "MetaCyc": [
+      "PPGPPSYN-RXN"
+    ],
+    "RHEA": [
+      "14253",
+      "14253"
+    ]
+  },
+  "definition": "Catalysis of the reaction: guanosine 3&apos;,5&apos;-bis(diphosphate) + H2O = diphosphate + GDP + H+.",
+  "namespace": "molecular_function",
+  "label": "guanosine-3&apos;,5&apos;-bis(diphosphate) 3&apos;-diphosphatase activity"
+}

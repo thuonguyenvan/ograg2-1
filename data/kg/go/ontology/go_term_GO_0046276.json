@@ -1,0 +1,32 @@
+{
+  "id": "GO:0046276",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046276",
+  "relationships": {
+    "is_a": [
+      "GO:0019614",
+      "GO:0042537",
+      "GO:0072329"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "methylgallate breakdown",
+      "methylgallate catabolism",
+      "methylgallate degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "METHYLGALLATE-DEGRADATION-PWY"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of methylgallate, trihydroxymethylbenzoate, the anion of methylgallic acid.",
+  "namespace": "biological_process",
+  "label": "methylgallate catabolic process"
+}

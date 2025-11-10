@@ -1,0 +1,43 @@
+{
+  "id": "GO:0008828",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008828",
+  "relationships": {
+    "is_a": [
+      "GO:0047429"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-hydroxy-(d)ATP pyrophosphatase activity",
+      "2-hydroxy-(deoxy)adenosine-triphosphate pyrophosphatase activity",
+      "dATP pyrophosphohydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-hydroxy-ATP pyrophosphatase activity",
+      "2-hydroxy-adenosine triphosphate pyrophosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.56"
+    ],
+    "MetaCyc": [
+      "RXN0-384"
+    ],
+    "RHEA": [
+      "28334",
+      "28334"
+    ],
+    "GOC": [
+      "pde"
+    ],
+    "PMID": [
+      "11139615"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dATP + H2O = dAMP + H+ + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "dATP diphosphatase activity"
+}

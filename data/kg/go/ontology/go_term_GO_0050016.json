@@ -1,0 +1,40 @@
+{
+  "id": "GO:0050016",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050016",
+  "relationships": {
+    "is_a": [
+      "GO:0004497",
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "kynurenate 7,8-hydroxylase activity",
+      "kynurenate,hydrogen-donor:oxygen oxidoreductase (hydroxylating)",
+      "kynurenic acid hydroxylase activity",
+      "kynurenic hydroxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.99.2",
+      "1.14.99.2",
+      "1.14.99.2",
+      "1.14.99.2",
+      "1.14.99.2",
+      "1.14.99.2"
+    ],
+    "MetaCyc": [
+      "KYNURENINE-78-HYDROXYLASE-RXN"
+    ],
+    "RHEA": [
+      "11968"
+    ]
+  },
+  "definition": "Catalysis of the reaction: kynurenate + donor-H2 + O2 = 7,8-dihydro-7,8-dihydroxykynurenate + acceptor.",
+  "namespace": "molecular_function",
+  "label": "kynurenine 7,8-hydroxylase activity"
+}

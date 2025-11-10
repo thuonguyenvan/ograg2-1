@@ -1,0 +1,48 @@
+{
+  "id": "GO:0000917",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000917",
+  "relationships": {
+    "is_a": [
+      "GO:0090529"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "division septum formation",
+      "formation of division septum"
+    ],
+    "broad": [
+      "septation"
+    ],
+    "narrow": [
+      "division septum assembly involved in cell cycle cytokinesis",
+      "division septum assembly involved in cell cycle cytokinesis involved in mitotic cell cycle",
+      "division septum formation involved in cell cycle cytokinesis",
+      "division septum formation involved in cell cycle cytokinesis involved in mitotic cell cycle",
+      "division septum formation involved in mitotic cell cycle",
+      "formation of division septum involved in mitotic cell cycle",
+      "mitotic division septum assembly",
+      "septin assembly and septum biosynthesis involved in mitotic cell cycle",
+      "septin assembly and septum formation involved in mitotic cell cycle"
+    ],
+    "related": [
+      "septin assembly and septum biosynthesis",
+      "septin assembly and septum formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle",
+      "mah",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "The assembly and arrangement of a septum that spans the plasma membrane interface between progeny cells following cytokinesis. The progeny cells that form a division septum are not able to exchange intracellular material.",
+  "namespace": "biological_process",
+  "label": "division septum assembly"
+}

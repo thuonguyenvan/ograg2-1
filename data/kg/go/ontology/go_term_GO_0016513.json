@@ -1,0 +1,29 @@
+{
+  "id": "GO:0016513",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016513",
+  "relationships": {
+    "is_a": [
+      "GO:0090575"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CBF complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "AML1 complex",
+      "PEPB2 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "15156179",
+      "8497254"
+    ]
+  },
+  "definition": "A heterodimeric transcription factor complex that contains an alpha subunit (Runx1, Runx2 or Runx3 in human) that binds DNA and a non-DNA-binding beta subunit (CBFbeta), and binds to a consensus sequence 5&apos;-YGYGGTY-3&apos; found in several enhancers and promoters; the beta subunit enhances the DNA binding of the alpha subunit.",
+  "namespace": "cellular_component",
+  "label": "core-binding factor complex"
+}

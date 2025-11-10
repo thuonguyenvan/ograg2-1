@@ -1,0 +1,29 @@
+{
+  "id": "GO:0031555",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031555",
+  "relationships": {
+    "is_a": [
+      "GO:0010629",
+      "GO:0060566"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Attenuator_(genetics)"
+    ],
+    "PMID": [
+      "12210530",
+      "15851059",
+      "7007895"
+    ]
+  },
+  "definition": "A negative regulation of gene expression mechanism by which bacteria and archae can direct RNA polymerase to prematurely terminate transcription in response to a specific metabolic signal.",
+  "namespace": "biological_process",
+  "label": "transcriptional attenuation"
+}

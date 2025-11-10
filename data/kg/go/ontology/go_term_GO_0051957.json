@@ -1,0 +1,33 @@
+{
+  "id": "GO:0051957",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051957",
+  "relationships": {
+    "is_a": [
+      "GO:0051954",
+      "GO:0051955"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of amino acid transmembrane transport",
+      "up regulation of amino acid transport",
+      "up-regulation of amino acid transport",
+      "upregulation of amino acid transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of amino acid transport",
+      "stimulation of amino acid transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates, maintains or increases the frequency, rate or extent of the directed movement of amino acids into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "positive regulation of amino acid transport"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050346",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050346",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "trans-L-3-hydroxyproline hydro-lyase (Delta1-pyrroline 2-carboxylate-forming)",
+      "trans-L-3-hydroxyproline hydro-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.77",
+      "4.2.1.77",
+      "4.2.1.77",
+      "4.2.1.77"
+    ],
+    "KEGG_REACTION": [
+      "R04374"
+    ],
+    "MetaCyc": [
+      "TRANS-L-3-HYDROXYPROLINE-DEHYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "10320",
+      "10320"
+    ]
+  },
+  "definition": "Catalysis of the reaction: trans-L-3-hydroxyproline = 1-pyrroline-2-carboxylate + H2O + H+.",
+  "namespace": "molecular_function",
+  "label": "trans-L-3-hydroxyproline dehydratase activity"
+}

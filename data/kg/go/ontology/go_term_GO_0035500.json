@@ -1,0 +1,25 @@
+{
+  "id": "GO:0035500",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035500",
+  "relationships": {
+    "is_a": [
+      "GO:0019904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MAD homology 2 domain binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "Binding to a MH2 (MAD homology 2) protein domain. The MH2 domain is found at the carboxy-terminus of MAD related proteins such as Smads. The MH2 domain mediates interaction with a wide variety of proteins and provides specificity and selectivity to Smad function and also is critical for mediating interactions in Smad oligomers.",
+  "namespace": "molecular_function",
+  "label": "MH2 domain binding"
+}

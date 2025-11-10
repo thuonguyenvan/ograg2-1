@@ -1,0 +1,47 @@
+{
+  "id": "GO:0047447",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047447",
+  "relationships": {
+    "is_a": [
+      "GO:0016841"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "erythro-3-hydroxyaspartate dehydratase activity"
+    ],
+    "broad": [
+      "3-hydroxyaspartate dehydratase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "erythro-3-hydroxy-L(s)-aspartate hydro-lyase (deaminating) activity",
+      "erythro-3-hydroxy-Ls-aspartate ammonia-lyase (oxaloacetate-forming)",
+      "erythro-3-hydroxy-Ls-aspartate ammonia-lyase activity",
+      "erythro-3-hydroxy-Ls-aspartate hydro-lyase (deaminating)",
+      "erythro-beta-hydroxyaspartate dehydratase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.1.20",
+      "4.3.1.20",
+      "4.3.1.20",
+      "4.3.1.20",
+      "4.3.1.20",
+      "4.3.1.20",
+      "4.3.1.20",
+      "4.3.1.20"
+    ],
+    "MetaCyc": [
+      "4.3.1.20-RXN",
+      "4.3.1.20-RXN"
+    ],
+    "RHEA": [
+      "19757"
+    ]
+  },
+  "definition": "Catalysis of the reaction: erythro-3-hydroxy-L-aspartate = NH3 + oxaloacetic acid.",
+  "namespace": "molecular_function",
+  "label": "erythro-3-hydroxyaspartate ammonia-lyase activity"
+}

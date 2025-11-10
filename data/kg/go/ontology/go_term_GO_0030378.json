@@ -1,0 +1,33 @@
+{
+  "id": "GO:0030378",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030378",
+  "relationships": {
+    "is_a": [
+      "GO:0047661"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.1.18"
+    ],
+    "MetaCyc": [
+      "5.1.1.18-RXN"
+    ],
+    "RHEA": [
+      "10980",
+      "10980"
+    ],
+    "Reactome": [
+      "R-HSA-9014766"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-serine = D-serine.",
+  "namespace": "molecular_function",
+  "label": "PXLP-K56-SRR dimer isomerises L-Ser to D-Ser"
+}

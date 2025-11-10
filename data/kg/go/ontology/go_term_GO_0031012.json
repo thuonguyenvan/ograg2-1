@@ -1,0 +1,40 @@
+{
+  "id": "GO:0031012",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031012",
+  "relationships": {
+    "is_a": [
+      "GO:0030312"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "proteinaceous extracellular matrix"
+    ],
+    "broad": [],
+    "narrow": [
+      "matrisome"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "nlx_subcell_20090513"
+    ],
+    "Wikipedia": [
+      "Extracellular_matrix"
+    ],
+    "GOC": [
+      "BHF",
+      "mah",
+      "rph"
+    ],
+    "PMID": [
+      "21123617",
+      "28089324",
+      "33605520"
+    ]
+  },
+  "definition": "A structure lying external to one or more cells, which provides structural support, biochemical or biomechanical cues for cells or tissues.",
+  "namespace": "cellular_component",
+  "label": "extracellular matrix"
+}

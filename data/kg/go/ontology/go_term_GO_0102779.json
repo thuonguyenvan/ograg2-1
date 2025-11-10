@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102779",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102779",
+  "relationships": {
+    "is_a": [
+      "GO:0046993"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.21.3.8"
+    ],
+    "MetaCyc": [
+      "RXN-7855"
+    ],
+    "RHEA": [
+      "34411",
+      "34411"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cannabigerolate + O2 = cannabidiolate + hydrogen peroxide.",
+  "namespace": "molecular_function",
+  "label": "cannabidiolate synthase activity"
+}

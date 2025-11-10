@@ -1,0 +1,42 @@
+{
+  "id": "GO:1903793",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903793",
+  "relationships": {
+    "is_a": [
+      "GO:0043270",
+      "GO:0044070"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of anion transport",
+      "up-regulation of anion transport",
+      "upregulation of anion transport"
+    ],
+    "broad": [
+      "positive regulation of anion transport"
+    ],
+    "narrow": [
+      "activation of anion transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "11336802"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of anion transport.",
+  "namespace": "biological_process",
+  "label": "positive regulation of monoatomic anion transport"
+}

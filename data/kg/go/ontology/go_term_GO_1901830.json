@@ -1,0 +1,52 @@
+{
+  "id": "GO:1901830",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901830",
+  "relationships": {
+    "is_a": [
+      "GO:0016117",
+      "GO:1901806"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "zeaxanthin bis(beta-D-glucoside) anabolism",
+      "zeaxanthin bis(beta-D-glucoside) biosynthesis",
+      "zeaxanthin bis(beta-D-glucoside) formation",
+      "zeaxanthin bis(beta-D-glucoside) synthesis",
+      "zeaxanthin diglucoside anabolism",
+      "zeaxanthin diglucoside biosynthesis",
+      "zeaxanthin diglucoside formation",
+      "zeaxanthin diglucoside synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-6288",
+      "PWY-6288"
+    ],
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf"
+    ],
+    "PMID": [
+      "20075616"
+    ],
+    "UniPathway": [
+      "UPA00798"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of zeaxanthin bis(beta-D-glucoside).",
+  "namespace": "biological_process",
+  "label": "zeaxanthin bis(beta-D-glucoside) biosynthetic process"
+}

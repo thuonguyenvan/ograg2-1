@@ -1,0 +1,27 @@
+{
+  "id": "GO:0044114",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044114",
+  "relationships": {
+    "is_a": [
+      "GO:0044111"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "development of symbiont in host intercellular space",
+      "development of symbiont in host vascular tissue"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "pamgo_curators"
+    ]
+  },
+  "definition": "The progression of an organism from an initial condition to a later condition, occurring within the cells or tissues of the host organism. This may (but not necessarily) include a filamentous growth form, and also can include secretion of proteases and lipases to break down host tissue. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "development of symbiont in host"
+}

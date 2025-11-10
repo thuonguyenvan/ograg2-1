@@ -1,0 +1,38 @@
+{
+  "id": "GO:0005684",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005684",
+  "relationships": {
+    "is_a": [
+      "GO:0005681"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "major (U2-type) spliceosomal complex",
+      "major spliceosomal complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "GT-AG spliceosome"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mah",
+      "krc",
+      "mah",
+      "krc",
+      "mah",
+      "krc",
+      "mah"
+    ],
+    "PMID": [
+      "11343900"
+    ]
+  },
+  "definition": "Any spliceosomal complex that forms during the splicing of a messenger RNA primary transcript to excise an intron that has canonical consensus sequences near the 5&apos; and 3&apos; ends.",
+  "namespace": "cellular_component",
+  "label": "U2-type spliceosomal complex"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102212",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102212",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.180",
+      "3.2.1.180"
+    ],
+    "MetaCyc": [
+      "RXN-12177"
+    ],
+    "RHEA": [
+      "31647"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: beta-D-4-deoxy-Delta(4)-GlcpA-(1-&gt;3)-beta-D-GalpNAc6S + H2O = 5-dehydro-4-deoxy-D-glucuronate + N-acetyl-beta-D-galactosamine 6-sulfate.",
+  "namespace": "molecular_function",
+  "label": "unsaturated chondroitin disaccharide hydrolase activity"
+}

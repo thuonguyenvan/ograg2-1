@@ -1,0 +1,30 @@
+{
+  "id": "GO:0008504",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008504",
+  "relationships": {
+    "is_a": [
+      "GO:0022804"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-372542",
+      "R-HSA-379393",
+      "R-HSA-380586",
+      "R-HSA-380620",
+      "R-HSA-5660706"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Enables the transfer of monoamines, organic compounds that contain one amino group that is connected to an aromatic ring by an ethylene group (-CH2-CH2-), from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "Defective SLC6A3 does not cotransport DA, Na+ from extracellular region to cytosol"
+}

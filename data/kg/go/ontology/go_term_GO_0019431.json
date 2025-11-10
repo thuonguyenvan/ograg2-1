@@ -1,0 +1,29 @@
+{
+  "id": "GO:0019431",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019431",
+  "relationships": {
+    "is_a": [
+      "GO:0006067",
+      "GO:0006085",
+      "GO:0006091"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acetyl-CoA anabolism from ethanol",
+      "acetyl-CoA formation from ethanol",
+      "acetyl-CoA synthesis from ethanol"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of acetyl-CoA from ethanol via acetaldehyde.",
+  "namespace": "biological_process",
+  "label": "acetyl-CoA biosynthetic process from ethanol"
+}

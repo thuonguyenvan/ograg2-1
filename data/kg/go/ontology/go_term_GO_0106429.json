@@ -1,0 +1,29 @@
+{
+  "id": "GO:0106429",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106429",
+  "relationships": {
+    "is_a": [
+      "GO:0004022"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "11-cis-retinol dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.315"
+    ],
+    "RHEA": [
+      "55668",
+      "55668"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 11-cis-retinol--[retinol-binding protein] + NAD+ = 11-cis-retinal--[retinol-binding protein] + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "11-cis-retinol dehydrogenase (NAD+) activity"
+}

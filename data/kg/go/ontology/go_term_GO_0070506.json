@@ -1,0 +1,33 @@
+{
+  "id": "GO:0070506",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070506",
+  "relationships": {
+    "is_a": [
+      "GO:0030228"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "HDL receptor",
+      "high-density lipoprotein receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "bf",
+      "rl",
+      "rl",
+      "dph"
+    ],
+    "PMID": [
+      "9211901"
+    ]
+  },
+  "definition": "Combining with a high-density lipoprotein particle and delivering the high-density lipoprotein into the cell via endocytosis.",
+  "namespace": "molecular_function",
+  "label": "high-density lipoprotein particle receptor activity"
+}

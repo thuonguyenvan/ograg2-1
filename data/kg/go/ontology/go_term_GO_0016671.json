@@ -1,0 +1,31 @@
+{
+  "id": "GO:0016671",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016671",
+  "relationships": {
+    "is_a": [
+      "GO:0016667"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "oxidoreductase activity, acting on sulphur group of donors, disulphide as acceptor"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.4.-"
+    ],
+    "Reactome": [
+      "R-HSA-9035484"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Catalysis of an oxidation-reduction (redox) reaction in which a sulfur-containing group acts as a hydrogen or electron donor and reduces disulfide.",
+  "namespace": "molecular_function",
+  "label": "MPST and TXN2 enable the synthesis of disulfanide from CysS248-MPST"
+}

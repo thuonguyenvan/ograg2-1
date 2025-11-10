@@ -1,0 +1,33 @@
+{
+  "id": "GO:0004386",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004386",
+  "relationships": {
+    "is_a": [
+      "GO:0120545",
+      "GO:0140640",
+      "GO:0140657"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent helicase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-169461",
+      "R-HSA-169468",
+      "R-HSA-5686410",
+      "R-HSA-5690996"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + H2O = ADP + phosphate, to drive the unwinding of a DNA or RNA helix.",
+  "namespace": "molecular_function",
+  "label": "ERCC2 and ERCC3 DNA helicases form an open bubble structure in damaged DNA"
+}

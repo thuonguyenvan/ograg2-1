@@ -1,0 +1,34 @@
+{
+  "id": "GO:0051483",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051483",
+  "relationships": {
+    "is_a": [
+      "GO:0016114"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mevalonate-independent terpenoid biosynthesis",
+      "mevalonate-independent terpenoid biosynthetic process",
+      "terpenoid anabolism, mevalonate-independent",
+      "terpenoid formation, mevalonate-independent",
+      "terpenoid synthesis, mevalonate-independent"
+    ],
+    "broad": [],
+    "narrow": [
+      "mevalonate-independent terpene biosynthesis",
+      "mevalonate-independent terpene biosynthetic process",
+      "terpene biosynthesis, mevalonate-independent",
+      "terpene biosynthetic process, mevalonate-independent"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of terpenoids, independent of mevalonate. Isopentenyl diphosphate (IPP) is the fundamental unit in terpenoid biosynthesis, and in mevalonate-independent biosynthesis, it is produced from pyruvate and glyceraldehyde 3-phosphate via intermediates including 1-deoxy-D-xylulose 5-phosphate.",
+  "namespace": "biological_process",
+  "label": "terpenoid biosynthetic process, mevalonate-independent"
+}

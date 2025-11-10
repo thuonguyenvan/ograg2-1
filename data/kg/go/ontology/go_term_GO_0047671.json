@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047671",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047671",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP:anthranilate adenylyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "anthranilate adenylyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.40",
+      "6.3.2.40"
+    ],
+    "KEGG_REACTION": [
+      "R00979"
+    ],
+    "MetaCyc": [
+      "RXN-13989"
+    ],
+    "RHEA": [
+      "35091",
+      "35091"
+    ],
+    "PMID": [
+      "2995633"
+    ]
+  },
+  "definition": "Catalysis of the reaction: anthranilate + 2 ATP + L-phenylalanine + S-adenosyl-L-methionine = 2 AMP + cyclopeptine + 2 diphosphate + 2 H+ + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "cyclopeptine synthase activity"
+}

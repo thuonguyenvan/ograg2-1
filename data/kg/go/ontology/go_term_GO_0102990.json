@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102990",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102990",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.n7"
+    ],
+    "MetaCyc": [
+      "RXN-9619"
+    ],
+    "RHEA": [
+      "26325",
+      "26325"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (8Z,11Z)-5-(pentadeca-8,11,14-trien-1-yl)resorcinol + S-adenosyl-L-methionine = (8Z,11Z)-5-(pentadeca- 8,11,14-trien-1-yl)resorcinol-3-methyl ether + H+ + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "5-n-alk(en)ylresorcinol O-methyltransferase activity"
+}

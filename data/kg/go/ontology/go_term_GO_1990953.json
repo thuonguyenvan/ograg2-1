@@ -1,0 +1,31 @@
+{
+  "id": "GO:1990953",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990953",
+  "relationships": {
+    "is_a": [
+      "GO:0031503",
+      "GO:0098840"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "IMT"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "22319670",
+      "24440897",
+      "26792866"
+    ]
+  },
+  "definition": "The movement of vesicles and protein complexes carried out by molecular motors, kinesins and dynein, along the microtubule tracks within the manchette and by myosin along actin filaments.",
+  "namespace": "biological_process",
+  "label": "intramanchette transport"
+}

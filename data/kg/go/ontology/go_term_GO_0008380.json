@@ -1,0 +1,32 @@
+{
+  "id": "GO:0008380",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008380",
+  "relationships": {
+    "is_a": [
+      "GO:0006396"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pre-mRNA splicing factor activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-72172"
+    ],
+    "Wikipedia": [
+      "RNA_splicing"
+    ],
+    "GOC": [
+      "krc",
+      "mah"
+    ]
+  },
+  "definition": "The process of removing sections of the primary RNA transcript to remove sequences not present in the mature form of the RNA and joining the remaining sections to form the mature form of the RNA.",
+  "namespace": "biological_process",
+  "label": "mRNA Splicing"
+}

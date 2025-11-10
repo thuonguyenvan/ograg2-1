@@ -1,0 +1,47 @@
+{
+  "id": "GO:0051726",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051726",
+  "relationships": {
+    "is_a": [
+      "GO:0050794"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell cycle modulation",
+      "cell cycle regulation",
+      "control of cell cycle progression",
+      "modulation of cell cycle progression",
+      "regulation of cell cycle progression",
+      "regulation of progression through cell cycle"
+    ],
+    "broad": [],
+    "narrow": [
+      "arrest of mitotic cell cycle progression",
+      "cell cycle arrest",
+      "mitotic cell cycle arrest",
+      "negative regulation of cell cycle arrest",
+      "positive regulation of cell cycle arrest",
+      "regulation of cell cycle arrest"
+    ],
+    "related": [
+      "cell cycle regulator",
+      "tumor suppressor"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-156711",
+      "R-HSA-380972"
+    ],
+    "GOC": [
+      "ai",
+      "dph",
+      "tb",
+      "mah"
+    ]
+  },
+  "definition": "Any process that modulates the rate or extent of progression through the cell cycle.",
+  "namespace": "biological_process",
+  "label": "Energy dependent regulation of mTOR by LKB1-AMPK"
+}

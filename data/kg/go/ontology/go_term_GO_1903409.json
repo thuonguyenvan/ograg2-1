@@ -1,0 +1,47 @@
+{
+  "id": "GO:1903409",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903409",
+  "relationships": {
+    "is_a": [
+      "GO:0009058",
+      "GO:0072593"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "reactive oxygen species anabolism",
+      "reactive oxygen species biosynthesis",
+      "reactive oxygen species formation",
+      "reactive oxygen species synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ROS formation",
+      "ROS generation",
+      "reactive oxygen species generation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000068"
+    ],
+    "PMID": [
+      "24252804",
+      "24252804",
+      "24252804"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of reactive oxygen species, any molecules or ions formed by the incomplete one-electron reduction of oxygen.",
+  "namespace": "biological_process",
+  "label": "reactive oxygen species biosynthetic process"
+}

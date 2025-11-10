@@ -1,0 +1,28 @@
+{
+  "id": "GO:0062072",
+  "uri": "http://purl.obolibrary.org/obo/GO_0062072",
+  "relationships": {
+    "is_a": [
+      "GO:0140006"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "H3K9me3 modified histone binding"
+    ],
+    "related": [
+      "histone H3K9me2 reader activity",
+      "histone H3K9me3 reader activity"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "30110338"
+    ]
+  },
+  "definition": "A histone reader that recognizes a histone H3 trimethylated at lysine 9. In some organisms, there is only H3K9me2, not H3K9me3, but this modification is recognized by homologous readers.",
+  "namespace": "molecular_function",
+  "label": "histone H3K9me2/3 reader activity"
+}

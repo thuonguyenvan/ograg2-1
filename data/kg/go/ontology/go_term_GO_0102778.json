@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102778",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102778",
+  "relationships": {
+    "is_a": [
+      "GO:0046993"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.21.3.7"
+    ],
+    "MetaCyc": [
+      "RXN-7854"
+    ],
+    "RHEA": [
+      "34135",
+      "34135"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cannabigerolate + O2 = delta(9)-tetrahydrocannabinolic acid + hydrogen peroxide.",
+  "namespace": "molecular_function",
+  "label": "delta9-tetrahydrocannabinolate synthase activity"
+}

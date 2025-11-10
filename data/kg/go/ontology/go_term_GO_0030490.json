@@ -1,0 +1,29 @@
+{
+  "id": "GO:0030490",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030490",
+  "relationships": {
+    "is_a": [
+      "GO:0006364"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SSU-rRNA maturation"
+    ],
+    "broad": [],
+    "narrow": [
+      "processing of 20S pre-rRNA"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "curators",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process involved in the maturation of a precursor Small SubUnit (SSU) ribosomal RNA (rRNA) molecule into a mature SSU-rRNA molecule.",
+  "namespace": "biological_process",
+  "label": "maturation of SSU-rRNA"
+}

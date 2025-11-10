@@ -1,0 +1,49 @@
+{
+  "id": "GO:0000285",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000285",
+  "relationships": {
+    "is_a": [
+      "GO:0052742"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphatidylinositol-3-phosphate 5-kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:1-phosphatidyl-1D-myo-inositol-3-phosphate 5-phosphotransferase activity",
+      "phosphatidylinositol 3-phosphate 5-kinase activity",
+      "type III PIP kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.150",
+      "2.7.1.150",
+      "2.7.1.150",
+      "2.7.1.150",
+      "2.7.1.150"
+    ],
+    "KEGG_REACTION": [
+      "R05802"
+    ],
+    "MetaCyc": [
+      "2.7.1.150-RXN"
+    ],
+    "RHEA": [
+      "13609",
+      "13609"
+    ],
+    "Reactome": [
+      "R-HSA-1675910",
+      "R-HSA-1675921",
+      "R-HSA-1676134",
+      "R-HSA-1676168"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1-phosphatidyl-1D-myo-inositol 3-phosphate + ATP = a 1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate + ADP + H+.",
+  "namespace": "molecular_function",
+  "label": "PI3P is phosphorylated to PI(3,5)P2 by PIKFYVE at the early endosome membrane"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0060086",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060086",
+  "relationships": {
+    "is_a": [
+      "GO:0001659",
+      "GO:0007623"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "circadian thermoregulation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "circadian regulation of body temperature"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any homeostatic process in which an organism modulates its internal body temperature at different values with a regularity of approximately 24 hours.",
+  "namespace": "biological_process",
+  "label": "circadian temperature homeostasis"
+}

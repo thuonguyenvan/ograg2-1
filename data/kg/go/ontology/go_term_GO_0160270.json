@@ -1,0 +1,30 @@
+{
+  "id": "GO:0160270",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160270",
+  "relationships": {
+    "is_a": [
+      "GO:0008526",
+      "GO:0140343",
+      "GO:7770011"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "81667",
+      "81667"
+    ],
+    "PMID": [
+      "34249917",
+      "39106189"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol 4-phosphate)(out) + a 1,2-diacyl-sn-glycero-3-phospho-L-serine(in) = a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol 4-phosphate)(in) + a 1,2-diacyl-sn-glycero-3-phospho-L-serine(out). This reaction results in the exchange of phosphatidylserine (PS) for phosphatidylinositol-4-phosphate (PI(4)P) between membranes.",
+  "namespace": "molecular_function",
+  "label": "phosphatidylserine-phosphatidylinositol-4-phosphate exchange activity"
+}

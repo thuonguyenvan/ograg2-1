@@ -1,0 +1,33 @@
+{
+  "id": "GO:0072572",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072572",
+  "relationships": {
+    "is_a": [
+      "GO:0097367"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pADPr binding"
+    ],
+    "broad": [
+      "poly-ADP-ribose binding"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "sart",
+      "mah"
+    ],
+    "PMID": [
+      "20088964",
+      "20088964"
+    ]
+  },
+  "definition": "Binding to polymeric ADP-D-ribose, a polymer that is composed of poly-ADP-D-ribose units linked through 1,2-glycosidic bonds at the ribose ring.",
+  "namespace": "molecular_function",
+  "label": "poly-ADP-D-ribose binding"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0086021",
+  "uri": "http://purl.obolibrary.org/obo/GO_0086021",
+  "relationships": {
+    "is_a": [
+      "GO:0086064",
+      "GO:0086070"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SA node cardiac muscle cell to atrial cardiac muscle cell communication by electrical coupling",
+      "SA node cardiomyocyte to atrial cardiomyocyte communication by electrical coupling",
+      "SAN cardiomyocyte to atrial cardiomyocyte communication by electrical coupling",
+      "sinoatrial node cardiomyocyte to atrial cardiomyocyte communication by electrical coupling"
+    ],
+    "broad": [],
+    "narrow": [
+      "sinus node cardiomyocyte to atrial cardiomyocyte communication by electrical coupling"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mtg_cardiac_conduct_nov11"
+    ]
+  },
+  "definition": "The process that mediates signaling interactions between an SA node cardiomyocyte and an atrial cardiomyocyte by transfer of current between their adjacent cytoplasms via intercellular protein channels.",
+  "namespace": "biological_process",
+  "label": "SA node cell to atrial cardiac muscle cell communication by electrical coupling"
+}

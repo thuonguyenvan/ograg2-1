@@ -1,0 +1,23 @@
+{
+  "id": "GO:0090536",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090536",
+  "relationships": {
+    "is_a": [
+      "GO:0031010"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ]
+  },
+  "definition": "An ISWI complex that contains an ATPase subunit of the ISWI family (specifically SNF2H in mammals, which contain two ISWI homologs) and a Tip5 homolog. In mammals, NoRC is involved in regulation of transcription from RNAP I and RNA polymerase III promoters.",
+  "namespace": "cellular_component",
+  "label": "NoRC complex"
+}

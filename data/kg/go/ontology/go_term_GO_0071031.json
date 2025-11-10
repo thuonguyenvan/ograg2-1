@@ -1,0 +1,34 @@
+{
+  "id": "GO:0071031",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071031",
+  "relationships": {
+    "is_a": [
+      "GO:0071028"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nuclear mRNA catabolic process of mRNA with aberrant 3&apos;-ends",
+      "nuclear mRNA quality control of mRNAs with aberrant 3&apos;-ends"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dgf",
+      "krc",
+      "dgf",
+      "krc",
+      "dgf",
+      "krc"
+    ],
+    "PMID": [
+      "18644474"
+    ]
+  },
+  "definition": "The set of processes involved in identifying and degrading mRNAs with incorrectly formed 3&apos;-ends within the nucleus.",
+  "namespace": "biological_process",
+  "label": "nuclear mRNA surveillance of mRNA 3&apos;-end processing"
+}

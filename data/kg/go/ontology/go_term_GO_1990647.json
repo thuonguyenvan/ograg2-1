@@ -1,0 +1,36 @@
+{
+  "id": "GO:1990647",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990647",
+  "relationships": {
+    "is_a": [
+      "GO:0090575"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "C/EBP homodimer complex",
+      "C/EBP transcription factor complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "C/EBPalpha complex",
+      "C/EBPalpha homodimer complex",
+      "C/EBPbeta complex",
+      "C/EBPbeta homodimer complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bhm",
+      "pad"
+    ],
+    "PMID": [
+      "8657121"
+    ]
+  },
+  "definition": "A dimeric, sequence specific DNA-binding transcription factor complex regulating the expression of genes involved in immune and inflammatory responses. Exists at least as alpha and beta homodimeric forms. Binds to regulatory regions of several acute-phase and cytokines genes and probably plays a role in the regulation of acute-phase reaction, inflammation and hemopoiesis. The consensus recognition site is 5&apos;-T[TG]NNGNAA[TG]-3&apos;. Transcription factor activity is inhibited by binding of CHOP forming heterodimers with alternative transcription factor activities.",
+  "namespace": "cellular_component",
+  "label": "C/EBP complex"
+}

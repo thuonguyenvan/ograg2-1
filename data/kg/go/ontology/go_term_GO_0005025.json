@@ -1,0 +1,29 @@
+{
+  "id": "GO:0005025",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005025",
+  "relationships": {
+    "is_a": [
+      "GO:0005024"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "type I TGF-beta receptor activity",
+      "type I TGFbeta receptor activity",
+      "type I transforming growth factor beta receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "transforming growth factor beta ligand binding to type I receptor"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Combining with a complex of transforming growth factor beta and a type II TGF-beta receptor to initiate a change in cell activity; upon binding, acts as a downstream transducer of TGF-beta signals.",
+  "namespace": "molecular_function",
+  "label": "transforming growth factor beta receptor activity, type I"
+}

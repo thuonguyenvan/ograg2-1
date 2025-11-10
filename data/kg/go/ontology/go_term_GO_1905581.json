@@ -1,0 +1,52 @@
+{
+  "id": "GO:1905581",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905581",
+  "relationships": {
+    "is_a": [
+      "GO:0010986",
+      "GO:0010988"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of LDL clearance",
+      "up regulation of LDL clearance",
+      "up regulation of low-density lipoprotein particle clearance",
+      "up-regulation of LDL clearance",
+      "up-regulation of low-density lipoprotein particle clearance",
+      "upregulation of LDL clearance",
+      "upregulation of low-density lipoprotein particle clearance"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of LDL clearance",
+      "activation of low-density lipoprotein particle clearance"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22848640"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of low-density lipoprotein particle clearance.",
+  "namespace": "biological_process",
+  "label": "positive regulation of low-density lipoprotein particle clearance"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0009083",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009083",
+  "relationships": {
+    "is_a": [
+      "GO:0009063",
+      "GO:0009081",
+      "GO:0046395"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "branched chain family amino acid breakdown",
+      "branched chain family amino acid catabolic process",
+      "branched chain family amino acid catabolism",
+      "branched chain family amino acid degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-70895"
+    ],
+    "GOC": [
+      "ai",
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of amino acids containing a branched carbon skeleton, comprising isoleucine, leucine and valine.",
+  "namespace": "biological_process",
+  "label": "Branched-chain amino acid catabolism"
+}

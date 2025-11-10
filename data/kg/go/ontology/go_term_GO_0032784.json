@@ -1,0 +1,35 @@
+{
+  "id": "GO:0032784",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032784",
+  "relationships": {
+    "is_a": [
+      "GO:0006355"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of DNA-dependent transcription, elongation",
+      "regulation of DNA-templated transcription, elongation",
+      "regulation of transcription elongation, DNA-dependent"
+    ],
+    "broad": [
+      "regulation of RNA elongation",
+      "regulation of transcriptional elongation"
+    ],
+    "narrow": [],
+    "related": [
+      "transcription elongation regulator activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "txnOH",
+      "txnOH",
+      "jh2"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of transcription elongation, the extension of an RNA molecule after transcription initiation and promoter clearance by the addition of ribonucleotides catalyzed by a DNA-dependent RNA polymerase.",
+  "namespace": "biological_process",
+  "label": "regulation of DNA-templated transcription elongation"
+}

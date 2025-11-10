@@ -1,0 +1,25 @@
+{
+  "id": "GO:0015325",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015325",
+  "relationships": {
+    "is_a": [
+      "GO:0008521",
+      "GO:0015228",
+      "GO:0015297"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.1.25.1"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA(out) + CoA(in) = acetyl-CoA(in) + CoA(out).",
+  "namespace": "molecular_function",
+  "label": "acetyl-CoA:CoA antiporter activity"
+}

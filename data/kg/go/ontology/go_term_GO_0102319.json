@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102319",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102319",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.283",
+      "2.4.1.283"
+    ],
+    "MetaCyc": [
+      "RXN-13122"
+    ],
+    "RHEA": [
+      "33947"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-deoxystreptamine(2+) + UDP-N-acetyl-alpha-D-glucosamine = H+ + 2&apos;-N-acetylparomamine(2+) + UDP(3-).",
+  "namespace": "molecular_function",
+  "label": "2-deoxystreptamine N-acetyl-D-glucosaminyltransferase activity"
+}

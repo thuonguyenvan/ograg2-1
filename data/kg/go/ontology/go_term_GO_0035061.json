@@ -1,0 +1,31 @@
+{
+  "id": "GO:0035061",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035061",
+  "relationships": {
+    "is_a": [
+      "GO:0016604"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ICG"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1049471211"
+    ],
+    "GOC": [
+      "bf"
+    ],
+    "PMID": [
+      "10984439"
+    ]
+  },
+  "definition": "A class of nuclear body measuring 20-25 nm in diameter and distributed throughout the interchromatin space, linked together by thin fibrils. They are believed to be storage centers for various snRNAs, snRNPs, serine/arginine-rich proteins and RNA polymerase II. A typical mammalian cell contains 25-50 clusters of interchromatin granules. Interchromatin granule clusters do not contain the heterogeneous nuclear RNA-binding proteins (hnRNPs).",
+  "namespace": "cellular_component",
+  "label": "interchromatin granule"
+}

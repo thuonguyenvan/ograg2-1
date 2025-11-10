@@ -1,0 +1,33 @@
+{
+  "id": "GO:1905961",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905961",
+  "relationships": {
+    "is_a": [
+      "GO:0002178"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Palmitoyltransferase ERF2-SHR5 complex",
+      "Palmitoyltransferase ERF2/SHR5 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bhm"
+    ],
+    "GO_REF": [
+      "0000088"
+    ],
+    "PMID": [
+      "20851885"
+    ]
+  },
+  "definition": "A protein complex which is capable of protein-cysteine S-palmitoyltransferase activity.",
+  "namespace": "cellular_component",
+  "label": "protein-cysteine S-palmitoyltransferase complex"
+}

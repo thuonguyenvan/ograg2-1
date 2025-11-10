@@ -1,0 +1,47 @@
+{
+  "id": "GO:0004311",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004311",
+  "relationships": {
+    "is_a": [
+      "GO:0120531"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "farnesyltranstransferase activity",
+      "geranylgeranyl pyrophosphate synthase activity",
+      "geranylgeranyl pyrophosphate synthetase activity",
+      "geranylgeranyl-PP synthetase activity",
+      "geranylgeranyl-diphosphate synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "trans,trans-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.29",
+      "2.5.1.29",
+      "2.5.1.29",
+      "2.5.1.29",
+      "2.5.1.29",
+      "2.5.1.29",
+      "2.5.1.29"
+    ],
+    "KEGG_REACTION": [
+      "R02061"
+    ],
+    "MetaCyc": [
+      "FARNESYLTRANSTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "17653",
+      "17653"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2E,6E)-farnesyl diphosphate + isopentenyl diphosphate = (2E,6E,10E)-geranylgeranyl diphosphate + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "geranylgeranyl diphosphate synthase activity"
+}

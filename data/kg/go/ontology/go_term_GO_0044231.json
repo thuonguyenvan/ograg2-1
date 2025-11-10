@@ -1,0 +1,28 @@
+{
+  "id": "GO:0044231",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044231",
+  "relationships": {
+    "is_a": [
+      "GO:0033643"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "host cell pre-synaptic membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "other organism pre-synaptic membrane",
+      "other organism presynaptic membrane"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "rph"
+    ]
+  },
+  "definition": "A specialized area of membrane of the host axon terminal that faces the plasma membrane of the host neuron or muscle fiber with which the axon terminal establishes a synaptic junction; many host synaptic junctions exhibit structural presynaptic characteristics, such as conical, electron-dense internal protrusions, that distinguish it from the remainder of the axon plasma membrane.",
+  "namespace": "cellular_component",
+  "label": "host cell presynaptic membrane"
+}

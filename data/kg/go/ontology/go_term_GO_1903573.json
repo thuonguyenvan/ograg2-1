@@ -1,0 +1,73 @@
+{
+  "id": "GO:1903573",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903573",
+  "relationships": {
+    "is_a": [
+      "GO:0048523",
+      "GO:0048585",
+      "GO:1905897"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of ER stress response",
+      "down regulation of cellular response to endoplasmic reticulum stress",
+      "down regulation of response to ER stress",
+      "down regulation of response to endoplasmic reticulum stress",
+      "down-regulation of ER stress response",
+      "down-regulation of cellular response to endoplasmic reticulum stress",
+      "down-regulation of response to ER stress",
+      "down-regulation of response to endoplasmic reticulum stress",
+      "downregulation of ER stress response",
+      "downregulation of cellular response to endoplasmic reticulum stress",
+      "downregulation of response to ER stress",
+      "downregulation of response to endoplasmic reticulum stress",
+      "negative regulation of ER stress response",
+      "negative regulation of cellular response to endoplasmic reticulum stress",
+      "negative regulation of response to ER stress"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of ER stress response",
+      "inhibition of cellular response to endoplasmic reticulum stress",
+      "inhibition of response to ER stress",
+      "inhibition of response to endoplasmic reticulum stress"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "11381086"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of a response to endoplasmic reticulum stress.",
+  "namespace": "biological_process",
+  "label": "negative regulation of response to endoplasmic reticulum stress"
+}

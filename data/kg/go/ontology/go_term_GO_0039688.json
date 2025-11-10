@@ -1,0 +1,39 @@
+{
+  "id": "GO:0039688",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039688",
+  "relationships": {
+    "is_a": [
+      "GO:0039693"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dsDNA replication via RNA intermediate",
+      "viral RNA-dependent DNA replication"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RNA-dependent viral DNA replication"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "1938",
+      "1938"
+    ],
+    "GOC": [
+      "bf",
+      "jl",
+      "bf",
+      "jl",
+      "bf",
+      "jl",
+      "bf",
+      "jl"
+    ]
+  },
+  "definition": "A DNA replication process that uses viral RNA as a template for RNA-dependent DNA polymerases (e.g. reverse transcriptase) that synthesize the new strands.",
+  "namespace": "biological_process",
+  "label": "dsDNA(RT) replication/transcription"
+}

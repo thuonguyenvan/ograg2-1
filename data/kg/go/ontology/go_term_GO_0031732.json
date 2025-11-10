@@ -1,0 +1,29 @@
+{
+  "id": "GO:0031732",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031732",
+  "relationships": {
+    "is_a": [
+      "GO:0048020"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MIP-3 beta receptor binding",
+      "type 1 EBV-induced G-protein coupled receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "CCR7 chemokine receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "nln"
+    ]
+  },
+  "definition": "Binding to a CCR7 chemokine receptor.",
+  "namespace": "molecular_function",
+  "label": "CCR7 chemokine receptor binding"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "GO:0047100",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047100",
+  "relationships": {
+    "is_a": [
+      "GO:0043891"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-glyceraldehyde-3-phosphate:NADP+ oxidoreductase (phosphorylating)",
+      "NADP-dependent glyceraldehyde phosphate dehydrogenase activity",
+      "NADP-dependent glyceraldehyde-3-phosphate dehydrogenase activity",
+      "NADP-triose phosphate dehydrogenase activity",
+      "dehydrogenase, glyceraldehyde phosphate (nicotinamide adenine dinucleotide phosphate) (phosphorylating)",
+      "glyceraldehyde phosphate dehydrogenase (nicotinamide adenine dinucleotide phosphate) (phosphorylating)",
+      "triosephosphate dehydrogenase (NADP(+)) activity",
+      "triosephosphate dehydrogenase (NADP)",
+      "triosephosphate dehydrogenase (NADP+) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.13",
+      "1.2.1.13",
+      "1.2.1.13",
+      "1.2.1.13",
+      "1.2.1.13",
+      "1.2.1.13",
+      "1.2.1.13",
+      "1.2.1.13",
+      "1.2.1.13",
+      "1.2.1.13",
+      "1.2.1.13"
+    ],
+    "MetaCyc": [
+      "1.2.1.13-RXN",
+      "1.2.1.13-RXN"
+    ],
+    "RHEA": [
+      "10296"
+    ]
+  },
+  "definition": "Catalysis of the reaction: phosphate + NADP+ + glyceraldehyde-3-phosphate = NADPH + 3-phospho-D-glyceroyl-phosphate.",
+  "namespace": "molecular_function",
+  "label": "glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating) activity"
+}

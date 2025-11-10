@@ -1,0 +1,33 @@
+{
+  "id": "GO:0001800",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001800",
+  "relationships": {
+    "is_a": [
+      "GO:0001799",
+      "GO:0002893"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of type IIb hypersensitivity",
+      "down-regulation of type IIb hypersensitivity",
+      "downregulation of type IIb hypersensitivity"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of type IIb hypersensitivity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the rate of type IIb hypersensitivity, a type of inflammatory response.",
+  "namespace": "biological_process",
+  "label": "negative regulation of type IIb hypersensitivity"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047552",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047552",
+  "relationships": {
+    "is_a": [
+      "GO:0033721"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "2-ketoaldehyde dehydrogenase",
+      "alpha-ketoaldehyde dehydrogenase activity",
+      "methylglyoxal dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "2-oxoaldehyde:NADP+ 2-oxidoreductase activity",
+      "NADP-dependent alpha-ketoaldehyde dehydrogenase activity",
+      "NADP-linked alpha-ketoaldehyde dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.49",
+      "1.2.1.49",
+      "1.2.1.49",
+      "1.2.1.49",
+      "1.2.1.49",
+      "1.2.1.49",
+      "1.2.1.49"
+    ],
+    "MetaCyc": [
+      "2-OXOALDEHYDE-DEHYDROGENASE-NADP+-RXN"
+    ],
+    "RHEA": [
+      "18129",
+      "18129"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 2-oxoaldehyde + NADP+ + H2O = a 2-oxo acid + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "2-oxoaldehyde dehydrogenase (NADP+) activity"
+}

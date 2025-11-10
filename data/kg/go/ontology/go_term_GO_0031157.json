@@ -1,0 +1,32 @@
+{
+  "id": "GO:0031157",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031157",
+  "relationships": {
+    "is_a": [
+      "GO:0060176",
+      "GO:0065008"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of aggregation during fruiting body biosynthesis",
+      "regulation of aggregation during fruiting body formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mtg_sensu",
+      "pg"
+    ],
+    "PMID": [
+      "4338436"
+    ]
+  },
+  "definition": "Any process that modulates the size of the aggregate formed during sorocarp formation.",
+  "namespace": "biological_process",
+  "label": "regulation of aggregate size involved in sorocarp development"
+}

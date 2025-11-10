@@ -1,0 +1,35 @@
+{
+  "id": "GO:0071042",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071042",
+  "relationships": {
+    "is_a": [
+      "GO:0071047"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "nuclear poly(A)-dependent mRNA catabolic process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dgf",
+      "krc",
+      "vw"
+    ],
+    "PMID": [
+      "15145828",
+      "15828860",
+      "16431988",
+      "17643380",
+      "18000032",
+      "18644474"
+    ]
+  },
+  "definition": "The chemical reactions and pathways occurring in the nucleus and resulting in the breakdown of a messenger RNA (mRNA) molecule, initiated by the enzymatic addition of a sequence of adenylyl residues (polyadenylation) at the 3&apos; end the target mRNA.",
+  "namespace": "biological_process",
+  "label": "nuclear polyadenylation-dependent mRNA catabolic process"
+}

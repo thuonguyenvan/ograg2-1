@@ -1,0 +1,39 @@
+{
+  "id": "GO:0005381",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005381",
+  "relationships": {
+    "is_a": [
+      "GO:0046915"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "iron cation channel activity",
+      "iron channel activity",
+      "iron transporter activity",
+      "transmembrane iron ion permease activity",
+      "transmembrane iron permease activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "multicopper ferroxidase iron transport mediator activity",
+      "zinc, iron permease activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-435349",
+      "R-HSA-5623558",
+      "R-HSA-5655733",
+      "R-HSA-904830",
+      "R-HSA-917936"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of iron (Fe) ions from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "MCOLN1 transports Fe2+ from endosome lumen to cytosol"
+}

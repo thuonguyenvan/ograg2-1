@@ -1,0 +1,39 @@
+{
+  "id": "GO:0018645",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018645",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alkene epoxygenase activity",
+      "alkene,NADH:oxygen oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.69",
+      "1.14.13.69",
+      "1.14.13.69",
+      "1.14.13.69"
+    ],
+    "MetaCyc": [
+      "1.14.13.69-RXN"
+    ],
+    "RHEA": [
+      "11792"
+    ],
+    "UM-BBD_enzymeID": [
+      "r0856",
+      "r0857"
+    ]
+  },
+  "definition": "Catalysis of the reaction: propene + NADH + H+ + O2 = 1,2-epoxypropane + NAD+ + H2O.",
+  "namespace": "molecular_function",
+  "label": "alkene monooxygenase activity"
+}

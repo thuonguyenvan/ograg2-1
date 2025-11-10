@@ -1,0 +1,46 @@
+{
+  "id": "GO:0047013",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047013",
+  "relationships": {
+    "is_a": [
+      "GO:0033764"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "12-alpha-hydroxysteroid dehydrogenase activity",
+      "12alpha-hydroxy steroid dehydrogenase activity",
+      "12alpha-hydroxysteroid dehydrogenase activity",
+      "12alpha-hydroxysteroid:NADP+ 12-oxidoreductase activity",
+      "NAD-dependent 12alpha-hydroxysteroid dehydrogenase activity",
+      "NADP-12alpha-hydroxysteroid dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.176",
+      "1.1.1.176",
+      "1.1.1.176",
+      "1.1.1.176",
+      "1.1.1.176",
+      "1.1.1.176",
+      "1.1.1.176"
+    ],
+    "KEGG_REACTION": [
+      "R02793"
+    ],
+    "MetaCyc": [
+      "1.1.1.176-RXN"
+    ],
+    "RHEA": [
+      "14129",
+      "14129"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cholate + NADP+ = 3-alpha,7-alpha-dihydroxy-12-oxo-5-beta-cholanate + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "cholate 12-alpha dehydrogenase (NADP+) activity"
+}

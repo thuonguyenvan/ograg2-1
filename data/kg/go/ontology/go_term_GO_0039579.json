@@ -1,0 +1,30 @@
+{
+  "id": "GO:0039579",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039579",
+  "relationships": {
+    "is_a": [
+      "GO:0052170"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "suppression by virus of host ISG15-protein conjugation"
+    ],
+    "related": [
+      "suppression by virus of host ISG15 activity"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "11157743",
+      "18078692",
+      "18604270",
+      "32845033"
+    ]
+  },
+  "definition": "Any process in which a symbiont inhibits or disrupts a host ubiquitin-like protein ISG15 conjugation to a substrate. ISG15 is a ubiquitin-like protein that is conjugated to lysine residues on various target proteins. For example, some viruses escape the antiviral activity of ISG15 by using different mechanisms; the influenza B virus NS1 protein blocks the covalent linkage of ISG15 to its target proteins by directly interacting with ISG15, while the papain-like protease from the coronavirus cleaves ISG15 derivatives.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host ISG15-protein conjugation"
+}

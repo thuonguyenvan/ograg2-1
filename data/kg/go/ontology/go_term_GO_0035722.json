@@ -1,0 +1,32 @@
+{
+  "id": "GO:0035722",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035722",
+  "relationships": {
+    "is_a": [
+      "GO:0019221"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IL-12-mediated signaling pathway",
+      "interleukin-12-mediated signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-447115"
+    ],
+    "GOC": [
+      "BHF",
+      "signaling",
+      "bf",
+      "bf"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by interleukin-12 binding to its receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "Interleukin-12 family signaling"
+}

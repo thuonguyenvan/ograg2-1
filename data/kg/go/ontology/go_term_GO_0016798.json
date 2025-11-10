@@ -1,0 +1,36 @@
+{
+  "id": "GO:0016798",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016798",
+  "relationships": {
+    "is_a": [
+      "GO:0016787"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycosidase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "N-glycosylase",
+      "glycosylase"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.-.-"
+    ],
+    "Reactome": [
+      "R-HSA-1793176",
+      "R-HSA-2065233",
+      "R-HSA-5333609"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of any glycosyl bond.",
+  "namespace": "molecular_function",
+  "label": "MeSebGalNac is hydrolysed to MeSeH and bGalNac"
+}

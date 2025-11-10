@@ -1,0 +1,48 @@
+{
+  "id": "GO:0000165",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000165",
+  "relationships": {
+    "is_a": [
+      "GO:0141124"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MAP kinase cascade",
+      "MAP kinase kinase kinase cascade",
+      "MAPK signal transduction",
+      "MAPKKK cascade",
+      "mitogen-activated protein kinase cascade"
+    ],
+    "broad": [],
+    "narrow": [
+      "ERK/MAPK cascade",
+      "MAPKKK cascade during sporulation"
+    ],
+    "related": [
+      "MAPK signaling",
+      "MAPK signalling"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-169893",
+      "R-HSA-5673001"
+    ],
+    "Wikipedia": [
+      "MAPK_cascade",
+      "Mitogen-activated_protein_kinase"
+    ],
+    "PMID": [
+      "20811974",
+      "9561267"
+    ],
+    "GOC": [
+      "signaling",
+      "bf"
+    ]
+  },
+  "definition": "An intracellular protein kinase cascade containing at least a MAP kinase (MAPK). It starts with the activation of a MAP3K, and the consecutive activation of a MPK2K and a MAPK. The cascade can also contain an additional tier: the upstream MAP4K. The kinases in each tier phosphorylate and activate the kinase in the downstream tier to transmit a signal within a cell.",
+  "namespace": "biological_process",
+  "label": "RAF/MAP kinase cascade"
+}

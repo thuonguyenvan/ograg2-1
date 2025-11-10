@@ -1,0 +1,83 @@
+{
+  "id": "GO:1904513",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904513",
+  "relationships": {
+    "is_a": [
+      "GO:0032297",
+      "GO:0051447",
+      "GO:1902576",
+      "GO:1904512"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of initiation of premeiotic DNA replication",
+      "down regulation of premeiotic DNA replication initiation",
+      "down-regulation of initiation of premeiotic DNA replication",
+      "down-regulation of premeiotic DNA replication initiation",
+      "downregulation of initiation of premeiotic DNA replication",
+      "downregulation of premeiotic DNA replication initiation",
+      "negative regulation of premeiotic DNA replication initiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of initiation of premeiotic DNA replication",
+      "inhibition of premeiotic DNA replication initiation"
+    ],
+    "related": [
+      "down regulation of initiation of meiotic DNA synthesis",
+      "down regulation of initiation of premeiotic DNA synthesis",
+      "down regulation of meiotic DNA replication initiation",
+      "down-regulation of initiation of meiotic DNA synthesis",
+      "down-regulation of initiation of premeiotic DNA synthesis",
+      "down-regulation of meiotic DNA replication initiation",
+      "downregulation of initiation of meiotic DNA synthesis",
+      "downregulation of initiation of premeiotic DNA synthesis",
+      "downregulation of meiotic DNA replication initiation",
+      "inhibition of initiation of meiotic DNA synthesis",
+      "inhibition of initiation of premeiotic DNA synthesis",
+      "inhibition of meiotic DNA replication initiation",
+      "negative regulation of initiation of meiotic DNA synthesis",
+      "negative regulation of initiation of premeiotic DNA synthesis",
+      "negative regulation of meiotic DNA replication initiation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25891897"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of initiation of premeiotic DNA replication.",
+  "namespace": "biological_process",
+  "label": "negative regulation of initiation of premeiotic DNA replication"
+}

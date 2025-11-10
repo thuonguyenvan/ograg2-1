@@ -1,0 +1,33 @@
+{
+  "id": "GO:0016631",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016631",
+  "relationships": {
+    "is_a": [
+      "GO:0016628"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "enoyl-ACP reductase activity",
+      "enoyl-[acyl-carrier protein] reductase activity",
+      "enoyl-[acyl-carrier-protein] reductase activity (NAD(P)H)",
+      "enoyl-acyl carrier protein reductase"
+    ],
+    "broad": [
+      "enoyl-[acyl-carrier-protein] reductase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Enoyl-acyl_carrier_protein_reductase"
+    ],
+    "GOC": [
+      "rb"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acyl-[acyl-carrier protein] + NAD(P)+ = trans-2,3-dehydroacyl-[acyl-carrier protein] + NAD(P)H + H+.",
+  "namespace": "molecular_function",
+  "label": "enoyl-[acyl-carrier-protein] reductase [NAD(P)H] activity"
+}

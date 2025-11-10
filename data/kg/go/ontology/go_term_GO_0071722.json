@@ -1,0 +1,29 @@
+{
+  "id": "GO:0071722",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071722",
+  "relationships": {
+    "is_a": [
+      "GO:0098754"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "detoxification of arsenic"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "kmv"
+    ],
+    "PMID": [
+      "11313333",
+      "20221439"
+    ]
+  },
+  "definition": "Any process that reduces or removes the toxicity of compounds containing arsenic, including arsenates, arsenites, and arsenides. These include transport of such compounds away from sensitive areas and to compartments or complexes whose purpose is sequestration of arsenic or arsenic-containing compounds.",
+  "namespace": "biological_process",
+  "label": "detoxification of arsenic-containing substance"
+}

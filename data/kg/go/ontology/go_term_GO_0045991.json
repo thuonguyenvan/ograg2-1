@@ -1,0 +1,30 @@
+{
+  "id": "GO:0045991",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045991",
+  "relationships": {
+    "is_a": [
+      "GO:0045893",
+      "GO:0045990"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of transcription by carbon catabolites"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "10559153"
+    ]
+  },
+  "definition": "A transcription regulation process in which the presence of one carbon source leads to an increase in the frequency, rate, or extent of transcription of specific genes involved in the metabolism of other carbon sources.",
+  "namespace": "biological_process",
+  "label": "carbon catabolite activation of transcription"
+}

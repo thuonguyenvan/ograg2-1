@@ -1,0 +1,32 @@
+{
+  "id": "GO:0017121",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017121",
+  "relationships": {
+    "is_a": [
+      "GO:0007009",
+      "GO:0045332"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PL scrambling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "phospholipid scrambling"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cjm"
+    ],
+    "PMID": [
+      "20043909",
+      "20302864"
+    ]
+  },
+  "definition": "The movement of a population of phospholipid molecules from one leaflet of the plasma membrane bilayer to the opposite leaflet, resulting in loss of lipid asymmetry and surface exposure of phosphatidylserine (PS) and phosphatidylethanolamine (PE).",
+  "namespace": "biological_process",
+  "label": "plasma membrane phospholipid scrambling"
+}

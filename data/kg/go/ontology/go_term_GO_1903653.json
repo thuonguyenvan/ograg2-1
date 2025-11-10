@@ -1,0 +1,35 @@
+{
+  "id": "GO:1903653",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903653",
+  "relationships": {
+    "is_a": [
+      "GO:0044068"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "modulation by symbiont of host cell locomotion",
+      "modulation by symbiont of host cell motility",
+      "regulation by symbiont of host cell motility"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "modulation by symbiont of host cell movement"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000063"
+    ],
+    "PMID": [
+      "25049409"
+    ]
+  },
+  "definition": "A process in which a symbiont alters or subverts cell motility in its host organism. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated perturbation of host cell motility"
+}

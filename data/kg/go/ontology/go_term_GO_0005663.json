@@ -1,0 +1,28 @@
+{
+  "id": "GO:0005663",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005663",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RFC complex",
+      "activator 1 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "14614842",
+      "14646196",
+      "16172520"
+    ]
+  },
+  "definition": "A complex that loads the DNA polymerase processivity factor proliferating cell nuclear antigen (PCNA) onto DNA, thereby permitting processive DNA synthesis catalyzed by DNA polymerase. In eukaryotes the complex consists of five polypeptides.",
+  "namespace": "cellular_component",
+  "label": "DNA replication factor C complex"
+}

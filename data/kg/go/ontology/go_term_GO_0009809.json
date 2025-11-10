@@ -1,0 +1,35 @@
+{
+  "id": "GO:0009809",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009809",
+  "relationships": {
+    "is_a": [
+      "GO:0009699",
+      "GO:0009808"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lignin anabolism",
+      "lignin biosynthesis",
+      "lignin formation",
+      "lignin synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-361"
+    ],
+    "GOC": [
+      "tair_curators"
+    ],
+    "ISBN": [
+      "0198547684"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of lignins, a class of polymers formed by the dehydrogenetive radical polymerization of various phenylpropanoid monomers.",
+  "namespace": "biological_process",
+  "label": "lignin biosynthetic process"
+}

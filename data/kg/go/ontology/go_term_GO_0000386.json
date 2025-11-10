@@ -1,0 +1,36 @@
+{
+  "id": "GO:0000386",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000386",
+  "relationships": {
+    "is_a": [
+      "GO:0140098"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "3&apos;-splice site cleavage, exon ligation"
+    ],
+    "narrow": [],
+    "related": [
+      "lariat formation, 5&apos;-splice site cleavage"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9770236"
+    ],
+    "GOC": [
+      "krc"
+    ],
+    "ISBN": [
+      "0879695897"
+    ],
+    "PMID": [
+      "19239890"
+    ]
+  },
+  "definition": "Catalysis of the second transesterification reaction of spliceosomal mRNA splicing. Ligation of the two exons occurs via a transesterification reaction where the free 3&apos;-hydroxyl group of the 5&apos; exon is the nucleophile attacking the 3&apos; splice site. Non-expressed sequences are now detached from the exons. In cis splicing, the intron is in a lariat structure.",
+  "namespace": "molecular_function",
+  "label": "Formation of the Spliceosomal P complex and exon ligation"
+}

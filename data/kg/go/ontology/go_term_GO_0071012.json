@@ -1,0 +1,55 @@
+{
+  "id": "GO:0071012",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071012",
+  "relationships": {
+    "is_a": [
+      "GO:0005681",
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "activated spliceosome"
+    ],
+    "broad": [],
+    "narrow": [
+      "mammalian spliceosomal complex B*",
+      "mammalian spliceosomal complex B2",
+      "yeast spliceosomal complex A1"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ab",
+      "krc",
+      "mah",
+      "krc",
+      "ab",
+      "krc",
+      "mah",
+      "krc",
+      "mah",
+      "krc",
+      "mah"
+    ],
+    "PMID": [
+      "18322460",
+      "19239890",
+      "19239890"
+    ],
+    "ISBN": [
+      "0879695897",
+      "0879697393",
+      "0879695897",
+      "0879697393",
+      "0879695897",
+      "0879697393",
+      "0879695897",
+      "0879697393"
+    ]
+  },
+  "definition": "A spliceosomal complex that is formed by the displacement of the two snRNPs from the precatalytic spliceosome; three snRNPs including U5 remain associated with the mRNA. This complex, sometimes called the activated spliceosome, is the catalytically active form of the spliceosome, and includes many proteins in addition to those found in the associated snRNPs.",
+  "namespace": "cellular_component",
+  "label": "catalytic step 1 spliceosome"
+}

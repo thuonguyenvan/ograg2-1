@@ -1,0 +1,43 @@
+{
+  "id": "GO:0039664",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039664",
+  "relationships": {
+    "is_a": [
+      "GO:0016032"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "viral penetration via lysis of host organellar membrane"
+    ],
+    "broad": [],
+    "narrow": [
+      "viral entry into host cell via endosome membrane lysis"
+    ],
+    "related": [
+      "viral entry into host cell via lysis of host organelle membrane",
+      "viral membrane-lytic protein"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "984",
+      "984",
+      "984"
+    ],
+    "GOC": [
+      "bf",
+      "jl",
+      "bf",
+      "jl"
+    ],
+    "UniProtKB-KW": [
+      "KW-1174",
+      "KW-984",
+      "KW-1174"
+    ]
+  },
+  "definition": "The viral-induced lysis of an organelle (endosome, lysosome, or caveosome) that is involved in the uptake of a virus into a host cell. Occurs once the virus is within the organelle, and results in transfer of the viral contents from the organelle compartment into the cytoplasm.",
+  "namespace": "biological_process",
+  "label": "Viral penetration via lysis of host organellar membrane"
+}

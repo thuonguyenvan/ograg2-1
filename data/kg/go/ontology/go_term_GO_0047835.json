@@ -1,0 +1,40 @@
+{
+  "id": "GO:0047835",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047835",
+  "relationships": {
+    "is_a": [
+      "GO:0047812"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-tryptophan acetyltransferase activity",
+      "acetyl-CoA-D-tryptophan-alpha-N-acetyltransferase activity",
+      "acetyl-CoA:D-tryptophan N-acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.34",
+      "2.3.1.34",
+      "2.3.1.34",
+      "2.3.1.34"
+    ],
+    "KEGG_REACTION": [
+      "R02481"
+    ],
+    "MetaCyc": [
+      "D-TRYPTOPHAN-N-ACETYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "10060",
+      "10060"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-tryptophan + acetyl-CoA = N-acetyl-D-tryptophan + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "D-tryptophan N-acetyltransferase activity"
+}

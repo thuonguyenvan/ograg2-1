@@ -1,0 +1,32 @@
+{
+  "id": "GO:0030023",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030023",
+  "relationships": {
+    "is_a": [
+      "GO:0005201",
+      "GO:0097493"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "core extracellular matrix",
+      "core matrisome"
+    ],
+    "narrow": [],
+    "related": [
+      "elastin"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0815316194"
+    ]
+  },
+  "definition": "A component of the extracellular matrix that enables the matrix to recoil after transient stretching.",
+  "namespace": "molecular_function",
+  "label": "extracellular matrix constituent conferring elasticity"
+}

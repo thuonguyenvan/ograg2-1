@@ -1,0 +1,35 @@
+{
+  "id": "GO:0140683",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140683",
+  "relationships": {
+    "is_a": [
+      "GO:0016706",
+      "GO:0032454"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H3-di/monomethyl-lysine-9 demethylase activity"
+    ],
+    "broad": [
+      "histone H3K9me demethylase activity",
+      "histone H3K9me2 demethylase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.11.65"
+    ],
+    "RHEA": [
+      "60188"
+    ],
+    "PMID": [
+      "16603238"
+    ]
+  },
+  "definition": "Catalysis of the removal of a methyl group from a di or a monomethyl-lysine residue at position 9 of the histone H3 protein. This is a dioxygenase reaction that is dependent on Fe(II) and 2-oxoglutarate.",
+  "namespace": "molecular_function",
+  "label": "histone H3K9me/H3K9me2 demethylase activity"
+}

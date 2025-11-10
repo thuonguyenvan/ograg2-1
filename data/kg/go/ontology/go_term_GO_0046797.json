@@ -1,0 +1,37 @@
+{
+  "id": "GO:0046797",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046797",
+  "relationships": {
+    "is_a": [
+      "GO:0022607"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "capsid maturation",
+      "viral capsid maturation"
+    ],
+    "broad": [
+      "virion maturation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "UniProtKB-KW": [
+      "KW-1273",
+      "KW-0917"
+    ],
+    "GOC": [
+      "bf"
+    ],
+    "PMID": [
+      "10627558",
+      "19204733",
+      "19204733"
+    ]
+  },
+  "definition": "The refolding and structural rearrangements of individual capsid subunits to transition from the intermediate procapsid, to the more stable capsid structure.",
+  "namespace": "biological_process",
+  "label": "viral procapsid maturation"
+}

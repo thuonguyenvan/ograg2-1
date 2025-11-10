@@ -1,0 +1,46 @@
+{
+  "id": "GO:0019142",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019142",
+  "relationships": {
+    "is_a": [
+      "GO:0046912"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-hydroxyglutarate glyoxylate-lyase (CoA-propanoylating) activity",
+      "2-hydroxyglutaratic synthetase activity",
+      "2-hydroxyglutaric synthetase activity",
+      "alpha-hydroxyglutarate synthase activity",
+      "hydroxyglutarate synthase activity",
+      "propanoyl-CoA:glyoxylate C-propanoyltransferase (thioester-hydrolysing, 2-carboxyethyl-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.3.11",
+      "2.3.3.11",
+      "2.3.3.11",
+      "2.3.3.11",
+      "2.3.3.11",
+      "2.3.3.11",
+      "2.3.3.11"
+    ],
+    "KEGG_REACTION": [
+      "R00932"
+    ],
+    "MetaCyc": [
+      "HYDGLUTSYN-RXN"
+    ],
+    "RHEA": [
+      "19185",
+      "19185"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glyoxylate + H2O + propanoyl-CoA = 2-hydroxyglutarate + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "2-hydroxyglutarate synthase activity"
+}

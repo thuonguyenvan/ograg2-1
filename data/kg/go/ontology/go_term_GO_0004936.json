@@ -1,0 +1,28 @@
+{
+  "id": "GO:0004936",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004936",
+  "relationships": {
+    "is_a": [
+      "GO:0004935"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "alpha adrenoceptor"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "IUPHAR_GPCR": [
+      "1274"
+    ]
+  },
+  "definition": "Combining with epinephrine or norepinephrine to initiate a change in cell activity via activation of a G protein, with pharmacological characteristics of alpha-adrenergic receptors.",
+  "namespace": "molecular_function",
+  "label": "alpha-adrenergic receptor activity"
+}

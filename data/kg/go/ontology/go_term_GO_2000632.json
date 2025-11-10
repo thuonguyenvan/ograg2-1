@@ -1,0 +1,29 @@
+{
+  "id": "GO:2000632",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000632",
+  "relationships": {
+    "is_a": [
+      "GO:1903799",
+      "GO:2000631"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of miRNA maturation",
+      "negative regulation of pre-microRNA processing"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "sl",
+      "obol"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of pre-microRNA processing.",
+  "namespace": "biological_process",
+  "label": "negative regulation of pre-miRNA processing"
+}

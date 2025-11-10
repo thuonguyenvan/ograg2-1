@@ -1,0 +1,28 @@
+{
+  "id": "GO:0019648",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019648",
+  "relationships": {
+    "is_a": [
+      "GO:0019649",
+      "GO:0051167"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "formaldehyde assimilation via xylulose-5-phosphate cycle",
+      "formaldehyde fixation cycle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P185-PWY",
+      "P185-PWY"
+    ]
+  },
+  "definition": "The pathway in which formaldehyde is used as a carbon source in the xylulose monophosphate cycle. Methylotrophic yeasts, but not bacteria, utilize the xylulose monophosphate cycle to fix formaldehyde and convert it into metabolically useful organic compounds.",
+  "namespace": "biological_process",
+  "label": "formaldehyde assimilation via xylulose monophosphate cycle"
+}

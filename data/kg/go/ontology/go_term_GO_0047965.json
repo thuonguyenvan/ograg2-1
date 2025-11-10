@@ -1,0 +1,34 @@
+{
+  "id": "GO:0047965",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047965",
+  "relationships": {
+    "is_a": [
+      "GO:0016416",
+      "GO:0140103"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "fatty-acyl-CoA:mucus-glycoprotein fatty-acyltransferase activity",
+      "protein acyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.142",
+      "2.3.1.142",
+      "2.3.1.142",
+      "2.3.1.142"
+    ],
+    "MetaCyc": [
+      "GLYCOPROTEIN-O-FATTY-ACYLTRANSFERASE-RXN",
+      "GLYCOPROTEIN-O-FATTY-ACYLTRANSFERASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: palmitoyl-CoA + mucus glycoprotein = CoA + O-palmitoylglycoprotein.",
+  "namespace": "molecular_function",
+  "label": "glycoprotein O-fatty-acyltransferase activity"
+}

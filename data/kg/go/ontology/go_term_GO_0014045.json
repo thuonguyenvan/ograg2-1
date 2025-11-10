@@ -1,0 +1,34 @@
+{
+  "id": "GO:0014045",
+  "uri": "http://purl.obolibrary.org/obo/GO_0014045",
+  "relationships": {
+    "is_a": [
+      "GO:0060856",
+      "GO:0061028"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "establishment of endothelial BBB",
+      "establishment of endothelial blood/brain barrier"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "aruk",
+      "dgh",
+      "dph",
+      "sart"
+    ],
+    "PMID": [
+      "20080302",
+      "30280653"
+    ]
+  },
+  "definition": "Establishment of the endothelial barrier between the blood and the brain. The endothelial cells in the brain capillaries are packed tightly together preventing the passage of most molecules from the blood into the brain. Only lipid soluble molecules or those that are actively transported can pass through the blood-brain barrier.",
+  "namespace": "biological_process",
+  "label": "establishment of endothelial blood-brain barrier"
+}

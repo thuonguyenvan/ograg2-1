@@ -1,0 +1,43 @@
+{
+  "id": "GO:1904151",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904151",
+  "relationships": {
+    "is_a": [
+      "GO:0001912",
+      "GO:0002888",
+      "GO:1904149"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of microglial cell mediated cytotoxicity",
+      "up-regulation of microglial cell mediated cytotoxicity",
+      "upregulation of microglial cell mediated cytotoxicity"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of microglial cell mediated cytotoxicity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19100238"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of microglial cell mediated cytotoxicity.",
+  "namespace": "biological_process",
+  "label": "positive regulation of microglial cell mediated cytotoxicity"
+}

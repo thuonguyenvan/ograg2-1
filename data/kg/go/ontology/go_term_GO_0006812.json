@@ -1,0 +1,29 @@
+{
+  "id": "GO:0006812",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006812",
+  "relationships": {
+    "is_a": [
+      "GO:0006811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "cation transport"
+    ],
+    "narrow": [
+      "di-, tri-valent inorganic cation transport",
+      "trivalent inorganic cation transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mah"
+    ]
+  },
+  "definition": "The directed movement of a monoatomic cation, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore. Monatomic cations (also called simple cations) are positively charged ions consisting of exactly one atom.",
+  "namespace": "biological_process",
+  "label": "monoatomic cation transport"
+}

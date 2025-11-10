@@ -1,0 +1,29 @@
+{
+  "id": "GO:0034644",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034644",
+  "relationships": {
+    "is_a": [
+      "GO:0009411",
+      "GO:0071482"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to UV light stimulus",
+      "cellular response to UV radiation stimulus",
+      "cellular response to ultraviolet light stimulus",
+      "cellular response to ultraviolet radiation stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an ultraviolet radiation (UV light) stimulus. Ultraviolet radiation is electromagnetic radiation with a wavelength in the range of 10 to 380 nanometers.",
+  "namespace": "biological_process",
+  "label": "cellular response to UV"
+}

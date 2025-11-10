@@ -1,0 +1,30 @@
+{
+  "id": "GO:0080146",
+  "uri": "http://purl.obolibrary.org/obo/GO_0080146",
+  "relationships": {
+    "is_a": [
+      "GO:0016846"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "LCYSDESULF-RXN",
+      "LCYSDESULF-RXN"
+    ],
+    "RHEA": [
+      "24931"
+    ],
+    "PMID": [
+      "19955263"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-cysteine + H2O = ammonia + pyruvate + hydrogen sulfide + H+.",
+  "namespace": "molecular_function",
+  "label": "L-cysteine desulfhydrase activity"
+}

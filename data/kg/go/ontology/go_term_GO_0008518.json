@@ -1,0 +1,39 @@
+{
+  "id": "GO:0008518",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008518",
+  "relationships": {
+    "is_a": [
+      "GO:0008509",
+      "GO:0008517",
+      "GO:0015297"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "folate:anion antiporter activity"
+    ],
+    "narrow": [],
+    "related": [
+      "reduced folate carrier activity",
+      "reduced folate transmembrane transporter activity",
+      "reduced folate transporter"
+    ]
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.48",
+      "2.A.48"
+    ],
+    "GOC": [
+      "mtg_transport"
+    ],
+    "PMID": [
+      "21568705",
+      "24745983"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: Folate derivative (out) + anion (in) = folate derivative (in) + anion (out). The Reduced Folate Carrier (RCF(SLC19A1) acts by an antiport mechanism. RCF carries several folate derivatives: MTX, PMX, ratitrexed, pralatrexate, 5-methyl THF, and 5-formyl THF.",
+  "namespace": "molecular_function",
+  "label": "folate:monoatomic anion antiporter activity"
+}

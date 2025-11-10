@@ -1,0 +1,30 @@
+{
+  "id": "GO:1990854",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990854",
+  "relationships": {
+    "is_a": [
+      "GO:0016043",
+      "GO:0051685",
+      "GO:0140056",
+      "GO:1990849"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "vacuole-ER attachment",
+      "vacuole-endoplasmic reticulum attachment",
+      "vacuole-endoplasmic reticulum tethering"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "26283797"
+    ]
+  },
+  "definition": "The attachment of a lytic vacuole to the endoplasmic reticulum, which may facilitate exchange of metabolites between the organelles.",
+  "namespace": "biological_process",
+  "label": "vacuole-ER tethering"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GO:0008677",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008677",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-pantoate:NADP+ 2-oxidoreductase activity",
+      "2-ketopantoate reductase activity",
+      "2-ketopantoic acid reductase activity",
+      "2-oxopantoate reductase activity",
+      "KPA reductase activity",
+      "ketopantoate reductase activity",
+      "ketopantoic acid reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.169",
+      "1.1.1.169",
+      "1.1.1.169",
+      "1.1.1.169",
+      "1.1.1.169",
+      "1.1.1.169",
+      "1.1.1.169",
+      "1.1.1.169",
+      "1.1.1.169"
+    ],
+    "KEGG_REACTION": [
+      "R02472"
+    ],
+    "MetaCyc": [
+      "2-DEHYDROPANTOATE-REDUCT-RXN"
+    ],
+    "RHEA": [
+      "16233",
+      "16233"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-pantoate + NADP+ = 2-dehydropantoate + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "2-dehydropantoate 2-reductase activity"
+}

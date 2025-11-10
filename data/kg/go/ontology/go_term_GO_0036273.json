@@ -1,0 +1,30 @@
+{
+  "id": "GO:0036273",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036273",
+  "relationships": {
+    "is_a": [
+      "GO:1901700"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "response to HMG-CoA reductase inhibitor",
+      "response to hydroxymethylglutaryl-CoA reductase inhibitor"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "hp"
+    ],
+    "CHEBI": [
+      "35664",
+      "35664"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a statin stimulus. Statins are organooxygen compounds whose structure is related to compactin (mevastatin) and which may be used as an anticholesteremic drug due its EC:1.1.1.34/EC:1.1.1.88 (hydroxymethylglutaryl-CoA reductase) inhibitory properties.",
+  "namespace": "biological_process",
+  "label": "response to statin"
+}

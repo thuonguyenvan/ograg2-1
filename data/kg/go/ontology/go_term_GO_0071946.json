@@ -1,0 +1,29 @@
+{
+  "id": "GO:0071946",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071946",
+  "relationships": {
+    "is_a": [
+      "GO:0071170"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cis acting DNA replication termination"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw",
+      "vw"
+    ],
+    "PMID": [
+      "20850009"
+    ]
+  },
+  "definition": "A DNA replication termination process that is initiated by protein binding to a binding site on the same chromosome, but remote from the termination site, via DNA looping or chromosome kissing.",
+  "namespace": "biological_process",
+  "label": "cis-acting DNA replication termination"
+}

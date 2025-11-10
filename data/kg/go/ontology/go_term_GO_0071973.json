@@ -1,0 +1,30 @@
+{
+  "id": "GO:0071973",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071973",
+  "relationships": {
+    "is_a": [
+      "GO:0097588"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "flagellin-based flagellar cell motility"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "bacterial-type flagellar cell motility"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "krc",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Cell motility due to the motion of one or more bacterial-type flagella. A bacterial-type flagellum is a motor complex composed of an extracellular helical protein filament coupled to a rotary motor embedded in the cell envelope.",
+  "namespace": "biological_process",
+  "label": "bacterial-type flagellum-dependent cell motility"
+}

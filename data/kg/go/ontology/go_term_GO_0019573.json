@@ -1,0 +1,30 @@
+{
+  "id": "GO:0019573",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019573",
+  "relationships": {
+    "is_a": [
+      "GO:0019571",
+      "GO:0051167"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-arabinose breakdown to xylulose 5-phosphate",
+      "D-arabinose degradation to xylulose 5-phosphate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "DARABCAT-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of D-arabinose to form D-xylulose 5-phosphate. D-arabinose is converted into D-ribulose, which is phosphorylated to D-ribulose-5-phosphate, which is isomerized to give D-xylulose-5-phosphate.",
+  "namespace": "biological_process",
+  "label": "D-arabinose catabolic process to D-xylulose 5-phosphate"
+}

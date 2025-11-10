@@ -1,0 +1,37 @@
+{
+  "id": "GO:1904315",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904315",
+  "relationships": {
+    "is_a": [
+      "GO:0022824",
+      "GO:0099529"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "transmitter-gated ion channel activity involved in regulation of postsynaptic membrane potential"
+    ],
+    "narrow": [
+      "ionotropic neurotransmitter receptor activity involved in regulation of post-synaptic membrane potential",
+      "ionotropic neurotransmitter receptor activity involved in regulation of postsynaptic membrane potential"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000061"
+    ],
+    "PMID": [
+      "20200227"
+    ]
+  },
+  "definition": "Any transmitter-gated ion channel activity that is involved in regulation of postsynaptic membrane potential.",
+  "namespace": "molecular_function",
+  "label": "transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential"
+}

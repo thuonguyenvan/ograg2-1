@@ -1,0 +1,27 @@
+{
+  "id": "GO:0010478",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010478",
+  "relationships": {
+    "is_a": [
+      "GO:0022904"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_electron_transport",
+      "tb"
+    ],
+    "PMID": [
+      "17573537"
+    ]
+  },
+  "definition": "A respiratory electron flow (from NAD(P)H to plastoquinone (PQ) and O2) involving both a nonphotochemical reduction and re-oxidation of PQ pool.",
+  "namespace": "biological_process",
+  "label": "chlororespiration"
+}

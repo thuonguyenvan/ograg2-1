@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047373",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047373",
+  "relationships": {
+    "is_a": [
+      "GO:0019213",
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-(4-acetoxy-1-butynyl)-2,2&apos;-bithiophene:acetate esterase activity",
+      "5-(4-acetoxybut-1-ynyl)-2,2&apos;-bithiophene O-acetylhydrolase activity",
+      "acetoxybutynylbithiophene esterase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.54",
+      "3.1.1.54",
+      "3.1.1.54",
+      "3.1.1.54",
+      "3.1.1.54"
+    ],
+    "KEGG_REACTION": [
+      "R04490"
+    ],
+    "MetaCyc": [
+      "3.1.1.54-RXN"
+    ],
+    "RHEA": [
+      "11548",
+      "11548"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-(4-acetoxybut-1-ynyl)-2,2&apos;-bithiophene + H2O = 5-(4-hydroxy-but-1-ynyl)-2,2&apos;-bithiophene + acetate + H+.",
+  "namespace": "molecular_function",
+  "label": "acetoxybutynylbithiophene deacetylase activity"
+}

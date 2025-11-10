@@ -1,0 +1,36 @@
+{
+  "id": "GO:0061693",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061693",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.37",
+      "2.7.8.37"
+    ],
+    "MetaCyc": [
+      "RXN0-6732"
+    ],
+    "RHEA": [
+      "34679"
+    ],
+    "GOC": [
+      "dph"
+    ],
+    "PMID": [
+      "22089136"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + methylphosphonate = alpha-D-ribose 1-methylphosphonate 5-triphosphate + adenine.",
+  "namespace": "molecular_function",
+  "label": "alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase activity"
+}

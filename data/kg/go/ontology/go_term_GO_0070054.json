@@ -1,0 +1,27 @@
+{
+  "id": "GO:0070054",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070054",
+  "relationships": {
+    "is_a": [
+      "GO:0000394",
+      "GO:0006397"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cytosolic mRNA splicing"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mah"
+    ]
+  },
+  "definition": "Splicing of mRNA substrates via recognition of the folded RNA structure that brings the 5&apos; and 3&apos; splice sites into proximity and cleavage of the RNA at both the 3&apos; and 5&apos; splice sites by an endonucleolytic mechanism, followed by ligation of the exons.",
+  "namespace": "biological_process",
+  "label": "mRNA splicing, via endonucleolytic cleavage and ligation"
+}

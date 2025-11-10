@@ -1,0 +1,31 @@
+{
+  "id": "GO:1902299",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902299",
+  "relationships": {
+    "is_a": [
+      "GO:0022402",
+      "GO:0036388"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pre-RC assembly involved in cell cycle DNA replication"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pre-replication complex assembly involved in cell cycle DNA replication"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_cell_cycle",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any pre-replicative complex assembly that is involved in cell cycle DNA replication.",
+  "namespace": "biological_process",
+  "label": "pre-replicative complex assembly involved in cell cycle DNA replication"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050118",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050118",
+  "relationships": {
+    "is_a": [
+      "GO:0016811",
+      "GO:0019213"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "6-N-acetyl-LL-2,6-diaminoheptanedioate amidohydrolase activity",
+      "N-acetyl-L-diaminopimelic acid deacylase activity",
+      "N-acetyl-LL-diaminopimelate deacylase activity",
+      "N6-acetyl-LL-2,6-diaminoheptanedioate amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.47",
+      "3.5.1.47",
+      "3.5.1.47",
+      "3.5.1.47",
+      "3.5.1.47"
+    ],
+    "KEGG_REACTION": [
+      "R02733"
+    ],
+    "MetaCyc": [
+      "N-ACETYLDIAMINOPIMELATE-DEACETYLASE-RXN"
+    ],
+    "RHEA": [
+      "20405",
+      "20405"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + N-acetyl-(2S,6S)-2,6-diaminoheptanedioate = (2S,6S)-2,6-diaminoheptanedioate + acetate.",
+  "namespace": "molecular_function",
+  "label": "N-acetyldiaminopimelate deacetylase activity"
+}

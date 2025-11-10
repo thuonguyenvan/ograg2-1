@@ -1,0 +1,34 @@
+{
+  "id": "GO:0019347",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019347",
+  "relationships": {
+    "is_a": [
+      "GO:0008654",
+      "GO:0009247",
+      "GO:0016114",
+      "GO:1901293"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GDP-alpha-D-mannosylchitobiosyldiphosphodolichol anabolism",
+      "GDP-alpha-D-mannosylchitobiosyldiphosphodolichol biosynthesis",
+      "GDP-alpha-D-mannosylchitobiosyldiphosphodolichol formation",
+      "GDP-alpha-D-mannosylchitobiosyldiphosphodolichol synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of GDP-alpha-D-mannosylchitobiosyldiphosphodolichol, a substance composed of mannosylchitobiosyldiphosphodolichol in glycosidic linkage with guanosine diphosphate.",
+  "namespace": "biological_process",
+  "label": "GDP-alpha-D-mannosylchitobiosyldiphosphodolichol biosynthetic process"
+}

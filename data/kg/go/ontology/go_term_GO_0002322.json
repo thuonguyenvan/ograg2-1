@@ -1,0 +1,30 @@
+{
+  "id": "GO:0002322",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002322",
+  "relationships": {
+    "is_a": [
+      "GO:0002312",
+      "GO:0042100"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "B cell proliferation during immune response",
+      "B lymphocyte proliferation during immune response",
+      "B-cell proliferation during immune response",
+      "B-lymphocyte proliferation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jal",
+      "tb"
+    ]
+  },
+  "definition": "The expansion of a B cell population by cell division following B cell activation during an immune response.",
+  "namespace": "biological_process",
+  "label": "B cell proliferation involved in immune response"
+}

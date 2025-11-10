@@ -1,0 +1,29 @@
+{
+  "id": "GO:0005763",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005763",
+  "relationships": {
+    "is_a": [
+      "GO:0000314",
+      "GO:0098798"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrial ribosomal SSU complex",
+      "mitochondrial ribosomal small subunit complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "28S ribosomal subunit, mitochondrial"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mcc"
+    ]
+  },
+  "definition": "The smaller of the two subunits of a mitochondrial ribosome.",
+  "namespace": "cellular_component",
+  "label": "mitochondrial small ribosomal subunit"
+}

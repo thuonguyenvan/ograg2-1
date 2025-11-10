@@ -1,0 +1,30 @@
+{
+  "id": "GO:0004971",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004971",
+  "relationships": {
+    "is_a": [
+      "GO:0004970"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "AMPA receptor activity",
+      "alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "10049997",
+      "8804111"
+    ]
+  },
+  "definition": "An ionotropic glutamate receptor activity that exhibits fast gating by glutamate and acts by opening a cation channel permeable to sodium, potassium, and, in the absence of a GluR2 subunit, calcium.",
+  "namespace": "molecular_function",
+  "label": "AMPA glutamate receptor activity"
+}

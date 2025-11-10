@@ -1,0 +1,37 @@
+{
+  "id": "GO:0050315",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050315",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-(4-hydroxyphenyl)-2-(methylamino)ethanol hydro-lyase (methylamine-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.88",
+      "4.2.1.88",
+      "4.2.1.88"
+    ],
+    "KEGG_REACTION": [
+      "R03359"
+    ],
+    "MetaCyc": [
+      "SYNEPHRINE-DEHYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "32203",
+      "32203"
+    ]
+  },
+  "definition": "Catalysis of the reaction: synephrine = (4-hydroxyphenyl)acetaldehyde + methylammonium.",
+  "namespace": "molecular_function",
+  "label": "synephrine dehydratase activity"
+}

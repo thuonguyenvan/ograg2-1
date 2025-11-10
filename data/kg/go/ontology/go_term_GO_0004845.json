@@ -1,0 +1,53 @@
+{
+  "id": "GO:0004845",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004845",
+  "relationships": {
+    "is_a": [
+      "GO:0016763"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UMP diphosphorylase activity",
+      "UMP pyrophosphorylase activity",
+      "UMP:diphosphate phospho-alpha-D-ribosyltransferase activity",
+      "UMP:pyrophosphate phosphoribosyltransferase activity",
+      "UPRTase activity",
+      "uridine 5&apos;-phosphate pyrophosphorylase activity",
+      "uridine monophosphate pyrophosphorylase activity",
+      "uridylate pyrophosphorylase activity",
+      "uridylic pyrophosphorylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.9",
+      "2.4.2.9",
+      "2.4.2.9",
+      "2.4.2.9",
+      "2.4.2.9",
+      "2.4.2.9",
+      "2.4.2.9",
+      "2.4.2.9",
+      "2.4.2.9",
+      "2.4.2.9",
+      "2.4.2.9"
+    ],
+    "KEGG_REACTION": [
+      "R00966"
+    ],
+    "MetaCyc": [
+      "URACIL-PRIBOSYLTRANS-RXN"
+    ],
+    "RHEA": [
+      "13017",
+      "13017"
+    ]
+  },
+  "definition": "Catalysis of the reaction: diphosphate + UMP = 5-phospho-alpha-D-ribose 1-diphosphate + uracil.",
+  "namespace": "molecular_function",
+  "label": "uracil phosphoribosyltransferase activity"
+}

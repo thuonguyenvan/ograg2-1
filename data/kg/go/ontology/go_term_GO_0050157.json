@@ -1,0 +1,30 @@
+{
+  "id": "GO:0050157",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050157",
+  "relationships": {
+    "is_a": [
+      "GO:0047661"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.1.12",
+      "5.1.1.12"
+    ],
+    "MetaCyc": [
+      "ORNITHINE-RACEMASE-RXN"
+    ],
+    "RHEA": [
+      "11584"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-ornithine = D-ornithine.",
+  "namespace": "molecular_function",
+  "label": "ornithine racemase activity"
+}

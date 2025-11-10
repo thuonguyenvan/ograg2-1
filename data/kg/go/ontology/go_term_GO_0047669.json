@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047669",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047669",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "sucrose-1,4-alpha-glucan glucosyltransferase activity",
+      "sucrose-glucan glucosyltransferase activity",
+      "sucrose:1,4-alpha-D-glucan 4-alpha-D-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.4",
+      "2.4.1.4",
+      "2.4.1.4",
+      "2.4.1.4",
+      "2.4.1.4"
+    ],
+    "MetaCyc": [
+      "AMYLOSUCRASE-RXN",
+      "AMYLOSUCRASE-RXN"
+    ],
+    "RHEA": [
+      "24572"
+    ]
+  },
+  "definition": "Catalysis of the reaction: sucrose + 1,4-alpha-D-glucosyl(n) = D-fructose + 1,4-alpha-D-glucosyl(n+1).",
+  "namespace": "molecular_function",
+  "label": "amylosucrase activity"
+}

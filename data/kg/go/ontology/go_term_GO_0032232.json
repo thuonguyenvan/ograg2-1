@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032232",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032232",
+  "relationships": {
+    "is_a": [
+      "GO:0032231",
+      "GO:0051494",
+      "GO:1902904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of actin filament bundle formation",
+      "down-regulation of actin filament bundle formation",
+      "downregulation of actin filament bundle formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of actin filament bundle formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the assembly of actin filament bundles.",
+  "namespace": "biological_process",
+  "label": "negative regulation of actin filament bundle assembly"
+}

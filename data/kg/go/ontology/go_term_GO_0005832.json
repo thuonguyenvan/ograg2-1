@@ -1,0 +1,29 @@
+{
+  "id": "GO:0005832",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005832",
+  "relationships": {
+    "is_a": [
+      "GO:0101031"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CCT particle",
+      "TriC"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sgd_curators"
+    ],
+    "PMID": [
+      "11580267"
+    ]
+  },
+  "definition": "A multisubunit ring-shaped complex that mediates protein folding in the cytosol without a cofactor.",
+  "namespace": "cellular_component",
+  "label": "chaperonin-containing T-complex"
+}

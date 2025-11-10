@@ -1,0 +1,29 @@
+{
+  "id": "GO:0016880",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016880",
+  "relationships": {
+    "is_a": [
+      "GO:0016879"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "amide synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.1.-"
+    ],
+    "GOC": [
+      "jl",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the ligation of an acid to ammonia (NH3) or an amide via a carbon-nitrogen bond, with the concomitant hydrolysis of the diphosphate bond in ATP or a similar triphosphate.",
+  "namespace": "molecular_function",
+  "label": "acid-ammonia (or amide) ligase activity"
+}

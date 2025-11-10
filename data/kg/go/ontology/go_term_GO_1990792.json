@@ -1,0 +1,28 @@
+{
+  "id": "GO:1990792",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990792",
+  "relationships": {
+    "is_a": [
+      "GO:0071363",
+      "GO:1990790"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to ATF",
+      "cellular response to GDNF",
+      "cellular response to astrocyte-derived trophic factor"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "20877310"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a glial cell derived neurotrophic factor stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to glial cell derived neurotrophic factor"
+}

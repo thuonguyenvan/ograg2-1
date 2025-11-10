@@ -1,0 +1,26 @@
+{
+  "id": "GO:0050826",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050826",
+  "relationships": {
+    "is_a": [
+      "GO:0009409"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "antifreeze activity",
+      "ice nucleation inhibitor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a freezing stimulus, temperatures below 0 degrees Celsius.",
+  "namespace": "biological_process",
+  "label": "response to freezing"
+}

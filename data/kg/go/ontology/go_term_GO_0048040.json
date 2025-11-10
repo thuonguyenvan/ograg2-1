@@ -1,0 +1,48 @@
+{
+  "id": "GO:0048040",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048040",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-glucuronic acid decarboxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-D-glucuronate carboxy-lyase (UDP-D-xylose-forming)",
+      "UDP-D-glucuronate carboxy-lyase activity",
+      "UDPglucuronate decarboxylase activity",
+      "uridine-diphosphoglucuronate decarboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.35",
+      "4.1.1.35",
+      "4.1.1.35",
+      "4.1.1.35",
+      "4.1.1.35",
+      "4.1.1.35"
+    ],
+    "KEGG_REACTION": [
+      "R01384"
+    ],
+    "MetaCyc": [
+      "UDP-GLUCURONATE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "23916",
+      "23916"
+    ],
+    "Reactome": [
+      "R-HSA-8863761"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H+ + UDP-alpha-D-glucuronate = CO2 + UDP-alpha-D-xylose.",
+  "namespace": "molecular_function",
+  "label": "UXS1 tetramer decarboxylates UDP-glucuronate to UDP-xylose"
+}

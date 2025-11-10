@@ -1,0 +1,23 @@
+{
+  "id": "GO:0042685",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042685",
+  "relationships": {
+    "is_a": [
+      "GO:0060912"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The process in which a cell becomes capable of differentiating autonomously into a cardioblast cell in an environment that is neutral with respect to the developmental pathway; upon specification, the cell fate can be reversed. A cardioblast is a cardiac precursor cell. It is a cell that has been committed to a cardiac fate, but will undergo more cell division rather than terminally differentiating.",
+  "namespace": "biological_process",
+  "label": "cardioblast cell fate specification"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:1990125",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990125",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DiaA homotetramer"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "bf"
+    ],
+    "PMID": [
+      "17699754",
+      "17699754"
+    ]
+  },
+  "definition": "A homotetrameric protein complex consisting of a symmetrical pair of DiaA homodimers. Facilitates DnaA binding to the origin of replication during replication initiation.",
+  "namespace": "cellular_component",
+  "label": "DiaA complex"
+}

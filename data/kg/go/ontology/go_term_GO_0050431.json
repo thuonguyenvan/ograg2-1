@@ -1,0 +1,30 @@
+{
+  "id": "GO:0050431",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050431",
+  "relationships": {
+    "is_a": [
+      "GO:0019838",
+      "GO:0019955"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TGF-beta binding",
+      "TGFbeta binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "transforming growth factor beta ligand binding to type I receptor",
+      "transforming growth factor beta ligand binding to type II receptor"
+    ]
+  },
+  "cross_references": {
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Binding to TGF-beta, transforming growth factor beta, a multifunctional peptide that controls proliferation, differentiation and other functions in many cell types.",
+  "namespace": "molecular_function",
+  "label": "transforming growth factor beta binding"
+}

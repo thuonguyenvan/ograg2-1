@@ -1,0 +1,34 @@
+{
+  "id": "GO:0016860",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016860",
+  "relationships": {
+    "is_a": [
+      "GO:0016853"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "intramolecular isomerase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "intramolecular oxidoreductase activity, other intramolecular oxidoreductases"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.-.-",
+      "5.3.-.-"
+    ],
+    "Reactome": [
+      "R-HSA-109998"
+    ],
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "Catalysis of an oxidation-reduction (redox) reaction in which the hydrogen donor and acceptor are the same molecule, and no oxidized product appears.",
+  "namespace": "molecular_function",
+  "label": "Isomerization of 3-trans-decenoyl-CoA to form trans-dec-2-enoyl-CoA"
+}

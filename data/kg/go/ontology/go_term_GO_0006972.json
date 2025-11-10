@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006972",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006972",
+  "relationships": {
+    "is_a": [
+      "GO:0006970"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "HOG response",
+      "hypertonic response",
+      "response to hypertonicity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mah",
+      "yaf"
+    ],
+    "PMID": [
+      "12142009"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of detection of, or exposure to, a hyperosmotic environment, i.e. an environment with a higher concentration of solutes than the organism or cell.",
+  "namespace": "biological_process",
+  "label": "hyperosmotic response"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0075214",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075214",
+  "relationships": {
+    "is_a": [
+      "GO:0022611",
+      "GO:0048468"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "spore encystment on host"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "kmv",
+      "pamgo_curators"
+    ]
+  },
+  "definition": "The physiological, developmental and morphological changes that occur in a symbiont spore during the process of its encystment. Encystment means to enter a state of essentially suspended animation in which the spore is protected by an outer coating and remains immobile and inactive until favorable conditions for growth occur again. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "spore encystment"
+}

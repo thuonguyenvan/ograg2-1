@@ -1,0 +1,34 @@
+{
+  "id": "GO:0051264",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051264",
+  "relationships": {
+    "is_a": [
+      "GO:0016411"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MOG transacylation",
+      "acyl-CoA-independent mono-olein transacylation",
+      "mono-oleoylglycerol O-acyltransferase activity",
+      "mono-oleoylglycerol transacylase activity",
+      "monoolein transacylation",
+      "monooleoylglycerol O-acyltransferase activity",
+      "monooleoylglycerol transacylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ],
+    "PMID": [
+      "15364929"
+    ]
+  },
+  "definition": "Catalysis of the reaction: mono-olein + mono-olein = diolein + glycerol. Mono-olein, also known as mono-oleoylglycerol, is the monoglyceride formed from oleic acid, 9-octodecenoic acid; diolein is also known as dioleoylglycerol.",
+  "namespace": "molecular_function",
+  "label": "mono-olein transacylation activity"
+}

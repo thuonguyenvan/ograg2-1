@@ -1,0 +1,50 @@
+{
+  "id": "GO:1904778",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904778",
+  "relationships": {
+    "is_a": [
+      "GO:1904377",
+      "GO:1904776"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of protein localisation to cell cortex",
+      "up regulation of protein localisation to cell cortex",
+      "up regulation of protein localization to cell cortex",
+      "up-regulation of protein localisation to cell cortex",
+      "up-regulation of protein localization to cell cortex",
+      "upregulation of protein localisation to cell cortex",
+      "upregulation of protein localization to cell cortex"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein localisation to cell cortex",
+      "activation of protein localization to cell cortex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "17115027"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of protein localization to cell cortex.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein localization to cell cortex"
+}

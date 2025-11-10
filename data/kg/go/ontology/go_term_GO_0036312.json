@@ -1,0 +1,33 @@
+{
+  "id": "GO:0036312",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036312",
+  "relationships": {
+    "is_a": [
+      "GO:0043548"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PI3K regulatory subunit binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "p85 binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "20505341",
+      "10627473",
+      "20505341"
+    ]
+  },
+  "definition": "Binding to a regulatory subunit of phosphatidylinositol 3-kinase. The regulatory subunit associates with the catalytic subunit to regulate both its activity and subcellular location.",
+  "namespace": "molecular_function",
+  "label": "phosphatidylinositol 3-kinase regulatory subunit binding"
+}

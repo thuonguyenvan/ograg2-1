@@ -1,0 +1,27 @@
+{
+  "id": "GO:0005135",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005135",
+  "relationships": {
+    "is_a": [
+      "GO:0005126",
+      "GO:0070851"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "IL-3",
+      "interleukin-3 receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binding to an interleukin-3 receptor.",
+  "namespace": "molecular_function",
+  "label": "interleukin-3 receptor binding"
+}

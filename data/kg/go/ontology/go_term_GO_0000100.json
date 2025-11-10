@@ -1,0 +1,28 @@
+{
+  "id": "GO:0000100",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000100",
+  "relationships": {
+    "is_a": [
+      "GO:0072349",
+      "GO:1901682"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "S-methylmethionine permease activity"
+    ],
+    "broad": [
+      "S-methylmethionine transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of S-methylmethionine from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "S-methylmethionine transmembrane transporter activity"
+}

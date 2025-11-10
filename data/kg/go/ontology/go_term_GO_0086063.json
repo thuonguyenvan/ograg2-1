@@ -1,0 +1,30 @@
+{
+  "id": "GO:0086063",
+  "uri": "http://purl.obolibrary.org/obo/GO_0086063",
+  "relationships": {
+    "is_a": [
+      "GO:0086006"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "voltage-gated sodium channel activity involved in SA node cardiac muscle cell action potential",
+      "voltage-gated sodium channel activity involved in SAN cardiac muscle cell action potential",
+      "voltage-gated sodium channel activity involved in sinoatrial node cardiac muscle cell action potential"
+    ],
+    "broad": [],
+    "narrow": [
+      "voltage-gated sodium channel activity involved in sinus node cardiac muscle cell action potential"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mtg_cardiac_conduct_nov11"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of a sodium ion by a voltage-gated channel through the plasma membrane of an SA node cardiac muscle cell contributing to the depolarization phase of an action potential. A voltage-gated channel is a channel whose open state is dependent on the voltage across the membrane in which it is embedded.",
+  "namespace": "molecular_function",
+  "label": "voltage-gated sodium channel activity involved in SA node cell action potential"
+}

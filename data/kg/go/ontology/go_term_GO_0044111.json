@@ -1,0 +1,37 @@
+{
+  "id": "GO:0044111",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044111",
+  "relationships": {
+    "is_a": [
+      "GO:0044419"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "development on or near surface of other organism involved in symbiotic interaction"
+    ],
+    "related": [
+      "development during symbiotic interaction",
+      "development involved in symbiotic interaction",
+      "development of symbiont during interaction with host",
+      "development of symbiont involved in interaction with host",
+      "development on or near surface of other organism during symbiotic interaction"
+    ]
+  },
+  "cross_references": {
+    "GO": [
+      "jl"
+    ],
+    "GOC": [
+      "pamgo_curators",
+      "dph",
+      "dph",
+      "dph"
+    ]
+  },
+  "definition": "The progression of an organism from an initial condition to a later condition, occurring when the organism is in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "formation of structure involved in a symbiotic process"
+}

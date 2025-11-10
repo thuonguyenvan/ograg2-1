@@ -1,0 +1,43 @@
+{
+  "id": "GO:0070691",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070691",
+  "relationships": {
+    "is_a": [
+      "GO:0008024"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Bur1/Bur2 complex",
+      "Sgv1/Bur2 complex",
+      "cyclin-dependent kinase 9 (Cdk9)-cyclin T1 complex",
+      "cyclin-dependent kinase 9 (Cdk9)-cyclin T2 complex"
+    ],
+    "related": [
+      "dimeric positive transcription elongation factor complex b"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vw",
+      "mah",
+      "vw",
+      "bhm"
+    ],
+    "PMID": [
+      "16721054",
+      "19328067",
+      "16721054",
+      "19328067"
+    ],
+    "Wikipedia": [
+      "P-TEFb"
+    ]
+  },
+  "definition": "A dimeric positive transcription elongation factor complex b that comprises a cyclin-dependent kinase containing the catalytic subunit, Cdk9, and a regulatory subunit, cyclin T.",
+  "namespace": "cellular_component",
+  "label": "P-TEFb complex"
+}

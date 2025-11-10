@@ -1,0 +1,35 @@
+{
+  "id": "GO:0019090",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019090",
+  "relationships": {
+    "is_a": [
+      "GO:0051029",
+      "GO:0170037"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrial rRNA export",
+      "mitochondrial rRNA export from mitochondria",
+      "mitochondrial rRNA export out of mitochondrion",
+      "mitochondrial rRNA transport from mitochondrion",
+      "mitochondrial rRNA, mitochondrial export"
+    ],
+    "broad": [
+      "export of mitochondrial rRNA"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ],
+    "PMID": [
+      "28115039"
+    ]
+  },
+  "definition": "The process in which a rRNA, ribosomal ribonucleic acid, is transported from the mitochondrial matrix into the cytosol.",
+  "namespace": "biological_process",
+  "label": "mitochondrial rRNA export from mitochondrion"
+}

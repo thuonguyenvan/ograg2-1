@@ -1,0 +1,32 @@
+{
+  "id": "GO:0032436",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032436",
+  "relationships": {
+    "is_a": [
+      "GO:0032434",
+      "GO:1901800",
+      "GO:2000060"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of proteasomal ubiquitin-dependent protein catabolic process",
+      "up-regulation of proteasomal ubiquitin-dependent protein catabolic process",
+      "upregulation of proteasomal ubiquitin-dependent protein catabolic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of proteasomal ubiquitin-dependent protein catabolic process",
+      "stimulation of proteasomal ubiquitin-dependent protein catabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the breakdown of a protein or peptide by hydrolysis of its peptide bonds, initiated by the covalent attachment of ubiquitin, and mediated by the proteasome.",
+  "namespace": "biological_process",
+  "label": "positive regulation of proteasomal ubiquitin-dependent protein catabolic process"
+}

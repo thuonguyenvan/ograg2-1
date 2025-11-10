@@ -1,0 +1,34 @@
+{
+  "id": "GO:0000932",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000932",
+  "relationships": {
+    "is_a": [
+      "GO:0036464"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "P body",
+      "cytoplasmic mRNA processing body"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cytoplasmic foci"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "P_body"
+    ],
+    "GOC": [
+      "clt"
+    ],
+    "PMID": [
+      "12730603"
+    ]
+  },
+  "definition": "A focus in the cytoplasm where mRNAs may become inactivated by decapping or some other mechanism. Protein and RNA localized to these foci are involved in mRNA degradation, nonsense-mediated mRNA decay (NMD), translational repression, and RNA-mediated gene silencing.",
+  "namespace": "cellular_component",
+  "label": "P-body"
+}

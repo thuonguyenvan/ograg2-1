@@ -1,0 +1,37 @@
+{
+  "id": "GO:0042242",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042242",
+  "relationships": {
+    "is_a": [
+      "GO:0016884"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cobyrinate a c diamide synthase activity",
+      "cobyrinate a c-diamide synthase activity",
+      "cobyrinate a,c diamide synthase activity",
+      "cobyrinate a,c-diamide synthase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "CobB"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.5.11"
+    ],
+    "RHEA": [
+      "26289",
+      "26289"
+    ],
+    "PMID": [
+      "2172209"
+    ]
+  },
+  "definition": "Catalysis of the conversion of cobyrinic acid to cobyrinic acid a,c-diamide via the intermediate formation of cobyrinic acid c-monoamide.",
+  "namespace": "molecular_function",
+  "label": "cobyrinic acid a,c-diamide synthase activity"
+}

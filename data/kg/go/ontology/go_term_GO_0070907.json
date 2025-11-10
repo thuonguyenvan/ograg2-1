@@ -1,0 +1,32 @@
+{
+  "id": "GO:0070907",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070907",
+  "relationships": {
+    "is_a": [
+      "GO:0005290",
+      "GO:0015297",
+      "GO:0160173"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histidine-histamine antiporter activity",
+      "histidine/histamine antiporter activity"
+    ],
+    "broad": [
+      "histidine:histamine antiporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dh",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-histidine(out) + histamine(in) = L-histidine(in) + histamine(out).",
+  "namespace": "molecular_function",
+  "label": "L-histidine:histamine antiporter activity"
+}

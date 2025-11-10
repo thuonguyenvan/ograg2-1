@@ -1,0 +1,34 @@
+{
+  "id": "GO:1905055",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905055",
+  "relationships": {
+    "is_a": [
+      "GO:0015368"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "calcium ion antiporter activity involved in regulation of presynaptic cytosolic calcium levels"
+    ],
+    "broad": [
+      "calcium:cation antiporter activity involved in regulation of presynaptic cytosolic calcium ion concentration"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000061"
+    ],
+    "PMID": [
+      "22972962",
+      "23255722"
+    ]
+  },
+  "definition": "Any calcium:cation antiporter activity that is involved in regulation of presynaptic cytosolic calcium ion concentration.",
+  "namespace": "molecular_function",
+  "label": "calcium:monoatomic cation antiporter activity involved in regulation of presynaptic cytosolic calcium ion concentration"
+}

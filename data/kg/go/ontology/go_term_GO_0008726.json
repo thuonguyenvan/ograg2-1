@@ -1,0 +1,44 @@
+{
+  "id": "GO:0008726",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008726",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FMNH(2)-dependent alkanesulfonate monooxygenase activity",
+      "alkanesulphonate monooxygenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "FMNH(2)-dependent aliphatic sulfonate monooxygenase activity",
+      "FMNH2-dependent aliphatic sulfonate monooxygenase activity",
+      "SsuD",
+      "alkanesulfonate, reduced-FMN:oxygen oxidoreductase activity",
+      "sulfate starvation-induced protein 6 activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.5",
+      "1.14.14.5",
+      "1.14.14.5",
+      "1.14.14.5",
+      "1.14.14.5",
+      "1.14.14.5"
+    ],
+    "MetaCyc": [
+      "RXN0-280",
+      "RXN0-280"
+    ],
+    "RHEA": [
+      "23064"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an alkanesulfonate + O2 + FMNH2 = an aldehyde + sulfite + H2O + FMN.",
+  "namespace": "molecular_function",
+  "label": "alkanesulfonate monooxygenase activity"
+}

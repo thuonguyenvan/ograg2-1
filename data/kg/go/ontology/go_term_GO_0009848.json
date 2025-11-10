@@ -1,0 +1,36 @@
+{
+  "id": "GO:0009848",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009848",
+  "relationships": {
+    "is_a": [
+      "GO:0006568",
+      "GO:0009684"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IAA biosynthetic process via tryptophan",
+      "indoleacetic acid anabolism via tryptophan",
+      "indoleacetic acid formation via tryptophan",
+      "indoleacetic acid synthesis via tryptophan"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-581"
+    ],
+    "GOC": [
+      "lm",
+      "lr"
+    ],
+    "PMID": [
+      "10375566"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of indole-3-acetic acid that occurs through metabolism of L-tryptophan.",
+  "namespace": "biological_process",
+  "label": "indoleacetic acid biosynthetic process via tryptophan"
+}

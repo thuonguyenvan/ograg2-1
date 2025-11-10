@@ -1,0 +1,33 @@
+{
+  "id": "GO:0043143",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043143",
+  "relationships": {
+    "is_a": [
+      "GO:0006417",
+      "GO:0008104"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "establishment and maintenance of translational machinery localization",
+      "establishment and maintenance of translational protein localization",
+      "regulation of translation by machinery localisation",
+      "translational machinery localization",
+      "translational protein localization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mah",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process in which proteins and protein complexes involved in translation are transported to, or maintained in, a specific location.",
+  "namespace": "biological_process",
+  "label": "regulation of translation by machinery localization"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0016226",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016226",
+  "relationships": {
+    "is_a": [
+      "GO:0031163"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "iron-sulphur cluster assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "iron-sulfur cluster biosynthesis"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1362409",
+      "R-HSA-2564830"
+    ],
+    "GOC": [
+      "jl",
+      "mah",
+      "pde",
+      "vw"
+    ]
+  },
+  "definition": "The incorporation of iron and exogenous sulfur into a metallo-sulfur cluster.",
+  "namespace": "biological_process",
+  "label": "Cytosolic iron-sulfur cluster assembly"
+}

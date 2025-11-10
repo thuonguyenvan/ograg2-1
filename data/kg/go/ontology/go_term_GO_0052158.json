@@ -1,0 +1,31 @@
+{
+  "id": "GO:0052158",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052158",
+  "relationships": {
+    "is_a": [
+      "GO:0030682",
+      "GO:0052167"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "modulation by organism of defense response in host by specific elicitors",
+      "modulation by organism of host gene-for-gene resistance",
+      "modulation by organism of pathogen-race/host plant cultivar-specific resistance in symbiont",
+      "modulation by symbiont of host resistance gene-dependent defense response"
+    ],
+    "broad": [
+      "modulation by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_pamgo_17jul06"
+    ]
+  },
+  "definition": "Any process in which a symbiont modulates the frequency, rate or extent of the resistance gene-dependent defense response of the host organism. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated perturbation of host resistance gene-dependent defense response"
+}

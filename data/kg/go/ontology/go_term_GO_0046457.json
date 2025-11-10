@@ -1,0 +1,36 @@
+{
+  "id": "GO:0046457",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046457",
+  "relationships": {
+    "is_a": [
+      "GO:0006636",
+      "GO:0006692",
+      "GO:0046456"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "prostanoid anabolism",
+      "prostanoid biosynthesis",
+      "prostanoid formation",
+      "prostanoid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2162123"
+    ],
+    "Wikipedia": [
+      "Prostanoid#Biosynthesis"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of prostanoids, any compound based on or derived from the prostanoate structure.",
+  "namespace": "biological_process",
+  "label": "Synthesis of Prostaglandins (PG) and Thromboxanes (TX)"
+}

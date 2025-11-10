@@ -1,0 +1,28 @@
+{
+  "id": "GO:0106368",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106368",
+  "relationships": {
+    "is_a": [
+      "GO:0016776",
+      "GO:0019205"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "62132",
+      "62132"
+    ],
+    "PMID": [
+      "20497505"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 2&apos;-deoxyribonucleoside 5&apos;-phosphate + dTTP = a 2&apos;-deoxyribonucleoside 5&apos;-diphosphate + dTDP.",
+  "namespace": "molecular_function",
+  "label": "deoxynucleoside phosphate kinase activity, dTTP as phosphate donor"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "GO:0050265",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050265",
+  "relationships": {
+    "is_a": [
+      "GO:0070569",
+      "GO:0140098"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UTP:RNA uridylyltransferase activity",
+      "poly(U) polymerase activity",
+      "polynucleotide uridylyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "TUT activity",
+      "terminal uridylyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.52",
+      "2.7.7.52",
+      "2.7.7.52",
+      "2.7.7.52"
+    ],
+    "MetaCyc": [
+      "RNA-URIDYLYLTRANSFERASE-RXN",
+      "RNA-URIDYLYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "14785"
+    ],
+    "Reactome": [
+      "R-HSA-8941312"
+    ],
+    "GOC": [
+      "dph",
+      "mah",
+      "dph",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UTP + RNA(n) = diphosphate + RNA(n+1).",
+  "namespace": "molecular_function",
+  "label": "TUT4,TUT7 oligouridylate mRNA"
+}

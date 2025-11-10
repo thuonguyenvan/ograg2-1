@@ -1,0 +1,43 @@
+{
+  "id": "GO:0070675",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070675",
+  "relationships": {
+    "is_a": [
+      "GO:0016727"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "hypoxanthine-xanthine oxidase activity",
+      "xanthine oxidoreductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "Schardinger enzyme activity",
+      "hypoxanthine:O2 oxidoreductase activity",
+      "hypoxanthine:oxygen oxidoreductase activity",
+      "schardinger enzyme"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-74247"
+    ],
+    "GOC": [
+      "mah",
+      "pde"
+    ],
+    "EC": [
+      "1.17.3.2",
+      "1.17.3.2",
+      "1.17.3.2",
+      "1.17.3.2",
+      "1.17.3.2",
+      "1.17.3.2"
+    ]
+  },
+  "definition": "Catalysis of the reaction: hypoxanthine + H2O + O2 = xanthine + H2O2.",
+  "namespace": "molecular_function",
+  "label": "XDH oxidizes hypoxanthine to form xanthine"
+}

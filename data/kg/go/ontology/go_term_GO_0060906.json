@@ -1,0 +1,34 @@
+{
+  "id": "GO:0060906",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060906",
+  "relationships": {
+    "is_a": [
+      "GO:0010964",
+      "GO:0031452",
+      "GO:0060967"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of RNAi-mediated heterochromatin assembly",
+      "negative regulation of ncRNA-mediated heterochromatin formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "negative regulation of heterochromatin assembly by small RNA",
+      "negative regulation of small non-coding RNA-mediated heterochromatin formation"
+    ],
+    "related": [
+      "negative regulation of chromatin silencing by small RNA"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that decreases the frequency, rate or extent of non-coding RNA-mediated heterochromatin formation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of regulatory ncRNA-mediated heterochromatin formation"
+}

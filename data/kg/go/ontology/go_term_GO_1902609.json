@@ -1,0 +1,41 @@
+{
+  "id": "GO:1902609",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902609",
+  "relationships": {
+    "is_a": [
+      "GO:0006636",
+      "GO:0042759"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(R)-2-hydroxy-alpha-linolenic acid anabolism",
+      "(R)-2-hydroxy-alpha-linolenic acid biosynthesis",
+      "(R)-2-hydroxy-alpha-linolenic acid formation",
+      "(R)-2-hydroxy-alpha-linolenic acid synthesis"
+    ],
+    "broad": [
+      "2-hydroxy-octadecatrienoic acid biosynthesis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000068"
+    ],
+    "PMID": [
+      "24214535"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of (R)-2-hydroxy-alpha-linolenic acid.",
+  "namespace": "biological_process",
+  "label": "(R)-2-hydroxy-alpha-linolenic acid biosynthetic process"
+}

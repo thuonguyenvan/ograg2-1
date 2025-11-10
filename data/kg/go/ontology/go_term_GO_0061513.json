@@ -1,0 +1,40 @@
+{
+  "id": "GO:0061513",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061513",
+  "relationships": {
+    "is_a": [
+      "GO:0015152",
+      "GO:0015526"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucose 6-phosphate:inorganic phosphate antiporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TRANS-RXN-33"
+    ],
+    "RHEA": [
+      "71535"
+    ],
+    "Reactome": [
+      "R-HSA-198513",
+      "R-HSA-3229118",
+      "R-HSA-3257122"
+    ],
+    "GOC": [
+      "dph"
+    ],
+    "PMID": [
+      "18337460"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: glucose 6-phosphate(out) + phosphate(in) = glucose 6-phosphate(in) + phosphate(out).",
+  "namespace": "molecular_function",
+  "label": "SLC37A1, SLC37A2 exchange G6P for Pi across the ER membrane"
+}

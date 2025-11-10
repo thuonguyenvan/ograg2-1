@@ -1,0 +1,28 @@
+{
+  "id": "GO:0001072",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001072",
+  "relationships": {
+    "is_a": [
+      "GO:0140110"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA binding transcription antitermination factor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH"
+    ],
+    "PMID": [
+      "8332211"
+    ]
+  },
+  "definition": "Binds to RNA, typically within the nascent RNA transcript, to promote readthrough of a transcription termination site and thus extending the length of the RNA transcript produced. Examples of antitermination factors which bind the nascent RNA include the lambda N protein and the HIV-1 tat protein.",
+  "namespace": "molecular_function",
+  "label": "transcription antitermination factor activity, RNA binding"
+}

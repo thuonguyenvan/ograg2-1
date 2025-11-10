@@ -1,0 +1,31 @@
+{
+  "id": "GO:0102704",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102704",
+  "relationships": {
+    "is_a": [
+      "GO:0000009",
+      "GO:0120562"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.257"
+    ],
+    "MetaCyc": [
+      "RXN-5463"
+    ],
+    "RHEA": [
+      "29519",
+      "29519"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an alpha-D-Man-(1-&gt;3)-beta-D-Man-(1-&gt;4)-beta-D-GlcNAc-(1-&gt;4)-alpha-D-GlcNAc-diphospho-di-trans,poly-cis-dolichol + GDP-alpha-D-mannose = an alpha-D-Man-(1-&gt;3)-[alpha-D-Man-(1-&gt;6)]-beta-D-Man-(1-&gt;4)-beta-D-GlcNAc-(1-&gt;4)-alpha-D-GlcNAc-diphospho-di-trans,poly-cis-dolichol + GDP + H+.",
+  "namespace": "molecular_function",
+  "label": "GDP-Man:Man(2)GlcNAc(2)-PP-Dol alpha-1,6-mannosyltransferase activity"
+}

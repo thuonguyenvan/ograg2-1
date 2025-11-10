@@ -1,0 +1,33 @@
+{
+  "id": "GO:0033909",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033909",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "poly(1,2-alpha-L-fucoside-4-sulfate) glycanohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.211",
+      "3.2.1.211"
+    ],
+    "MetaCyc": [
+      "RXN-20949"
+    ],
+    "PMID": [
+      "11910806",
+      "6417453"
+    ]
+  },
+  "definition": "Catalysis of the endohydrolysis of 1,2-alpha-L-fucoside linkages in fucoidan without release of sulfate.",
+  "namespace": "molecular_function",
+  "label": "fucoidanase activity"
+}

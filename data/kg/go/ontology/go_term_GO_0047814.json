@@ -1,0 +1,40 @@
+{
+  "id": "GO:0047814",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047814",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:D-arabinose 5-phosphotransferase activity",
+      "D-arabinokinase (phosphorylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.54",
+      "2.7.1.54",
+      "2.7.1.54",
+      "2.7.1.54"
+    ],
+    "KEGG_REACTION": [
+      "R01573"
+    ],
+    "MetaCyc": [
+      "D-ARABINOKINASE-RXN"
+    ],
+    "RHEA": [
+      "24588",
+      "24588"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-arabinose + ATP = D-arabinose 5-phosphate + ADP.",
+  "namespace": "molecular_function",
+  "label": "D-arabinokinase activity"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:0042586",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042586",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PDF activity",
+      "formyl-L-methionyl peptide amidohydrolase activity",
+      "polypeptide deformylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.88",
+      "3.5.1.88",
+      "3.5.1.88",
+      "3.5.1.88",
+      "3.5.1.88"
+    ],
+    "MetaCyc": [
+      "3.5.1.88-RXN"
+    ],
+    "RHEA": [
+      "24420"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Catalysis of the reaction: formyl-L-methionyl peptide + H2O = formate + methionyl peptide.",
+  "namespace": "molecular_function",
+  "label": "peptide deformylase activity"
+}

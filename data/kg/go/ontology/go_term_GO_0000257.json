@@ -1,0 +1,47 @@
+{
+  "id": "GO:0000257",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000257",
+  "relationships": {
+    "is_a": [
+      "GO:0016815"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetonitrilase activity",
+      "benzonitrilase activity",
+      "nitrile aminohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.5.1",
+      "3.5.5.1",
+      "3.5.5.1",
+      "3.5.5.1",
+      "3.5.5.1"
+    ],
+    "KEGG_REACTION": [
+      "R00540"
+    ],
+    "MetaCyc": [
+      "3.5.5.1-RXN"
+    ],
+    "RHEA": [
+      "21724"
+    ],
+    "UM-BBD_reactionID": [
+      "r0377",
+      "r0701"
+    ],
+    "GOC": [
+      "kd"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a nitrile + H2O = a carboxylate + NH3. Acts on a wide range of aromatic nitriles including (indole-3-yl)-acetonitrile and some aliphatic nitriles, and on the corresponding acid amides.",
+  "namespace": "molecular_function",
+  "label": "nitrilase activity"
+}

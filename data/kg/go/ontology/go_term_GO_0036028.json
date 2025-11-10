@@ -1,0 +1,41 @@
+{
+  "id": "GO:0036028",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036028",
+  "relationships": {
+    "is_a": [
+      "GO:0097180"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PCI-thrombin complex",
+      "SERPINA5-thrombin complex",
+      "plasma serine protease inhibitor-thrombin complex",
+      "protein C inhibitor-F2 complex",
+      "protein C inhibitor-coagulation factor II complex",
+      "serpin A5-thrombin complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ans"
+    ],
+    "PMID": [
+      "6323392"
+    ],
+    "PR": [
+      "000014685",
+      "000014685",
+      "000014685",
+      "000007299",
+      "000007299",
+      "000014685"
+    ]
+  },
+  "definition": "A heterodimeric protein complex that contains protein C inhibitor (SERPINA5) and thrombin (F2); formation of the complex inhibits the serine protease activity of thrombin.",
+  "namespace": "cellular_component",
+  "label": "protein C inhibitor-thrombin complex"
+}

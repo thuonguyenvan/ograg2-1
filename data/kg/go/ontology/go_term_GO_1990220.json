@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990220",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990220",
+  "relationships": {
+    "is_a": [
+      "GO:0016465"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "bacterial chaperonin ATPase complex",
+      "bacterial chaperonin complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "15313620"
+    ]
+  },
+  "definition": "Bacterial chaperonin complex consisting of a heptameric 10kDa chaperonin subunit GroES and a tetradecameric (2x7) 60kDa chaperonin subunit GroEL. The 60kDa subunit possesses ATPase activity while the holo-enzyme is responsible for the correct folding of proteins.",
+  "namespace": "cellular_component",
+  "label": "GroEL-GroES complex"
+}

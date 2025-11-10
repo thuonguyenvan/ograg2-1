@@ -1,0 +1,57 @@
+{
+  "id": "GO:0033840",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033840",
+  "relationships": {
+    "is_a": [
+      "GO:0046527"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GBSS",
+      "GBSSI",
+      "GBSSII",
+      "NDP-glucose:1,4-alpha-D-glucan 4-alpha-D-glucosyltransferase activity",
+      "NDPglucose-starch glucosyltransferase activity",
+      "granule-bound starch synthase I activity",
+      "granule-bound starch synthase II activity",
+      "granule-bound starch synthase activity",
+      "starch granule-bound nucleoside diphosphate glucose-starch glucosyltransferase activity",
+      "starch synthase II activity",
+      "waxy protein"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.242",
+      "2.4.1.242",
+      "2.4.1.242",
+      "2.4.1.242",
+      "2.4.1.242",
+      "2.4.1.242",
+      "2.4.1.242",
+      "2.4.1.242",
+      "2.4.1.242",
+      "2.4.1.242",
+      "2.4.1.242",
+      "2.4.1.242",
+      "2.4.1.242"
+    ],
+    "MetaCyc": [
+      "2.4.1.242-RXN"
+    ],
+    "RHEA": [
+      "15873",
+      "15873"
+    ],
+    "PMID": [
+      "17472966"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [(1-&gt;4)-alpha-D-glucosyl](n) + an NDP-alpha-D-glucose = [(1-&gt;4)-alpha-D-glucosyl](n+1) + a ribonucleoside 5&apos;-diphosphate + H+, where NDP is ADP or UDP.",
+  "namespace": "molecular_function",
+  "label": "alpha-1,4-glucan glucosyltransferase (NDP-glucose donor) activity"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0042959",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042959",
+  "relationships": {
+    "is_a": [
+      "GO:0140359",
+      "GO:1901682"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "alkanesulphonate transporter activity"
+    ],
+    "broad": [
+      "alkanesulfonate transmembrane transporter activity"
+    ],
+    "narrow": [],
+    "related": [
+      "alkanesulfonate transporter activity"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "10506196"
+    ]
+  },
+  "definition": "Enables the transfer of an alkanesulfonate from one side of a membrane to the other according to the reaction: ATP + H2O + alkanesulfonate(out) = ADP + phosphate + alkanesulfonate(in).",
+  "namespace": "molecular_function",
+  "label": "ABC-type alkanesulfonate transporter transporter activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006606",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006606",
+  "relationships": {
+    "is_a": [
+      "GO:0006886",
+      "GO:0034504",
+      "GO:0051170",
+      "GO:0072594"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "establishment of protein localization to nucleus",
+      "protein import into cell nucleus",
+      "protein nucleus import",
+      "protein transport from cytoplasm to nucleus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mah"
+    ]
+  },
+  "definition": "The directed movement of a protein from the cytoplasm to the nucleus.",
+  "namespace": "biological_process",
+  "label": "protein import into nucleus"
+}

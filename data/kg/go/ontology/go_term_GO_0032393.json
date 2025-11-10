@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032393",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032393",
+  "relationships": {
+    "is_a": [
+      "GO:0004888",
+      "GO:0140375"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "T cell receptor activity",
+      "alpha-beta T cell receptor activity",
+      "gamma-delta T cell receptor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "Combining with an MHC class I protein complex to initiate a change in cellular activity. Class I here refers to classical class I molecules.",
+  "namespace": "molecular_function",
+  "label": "MHC class I receptor activity"
+}

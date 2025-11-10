@@ -1,0 +1,36 @@
+{
+  "id": "GO:0031148",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031148",
+  "relationships": {
+    "is_a": [
+      "GO:0031147",
+      "GO:0042181",
+      "GO:0046189",
+      "GO:1901503"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1-(3,5-dichloro-2,6-dihydroxy-4-methoxyphenyl)hexan-1-one anabolism",
+      "1-(3,5-dichloro-2,6-dihydroxy-4-methoxyphenyl)hexan-1-one biosynthesis",
+      "1-(3,5-dichloro-2,6-dihydroxy-4-methoxyphenyl)hexan-1-one biosynthetic process",
+      "1-(3,5-dichloro-2,6-dihydroxy-4-methoxyphenyl)hexan-1-one formation",
+      "1-(3,5-dichloro-2,6-dihydroxy-4-methoxyphenyl)hexan-1-one synthesis",
+      "DIF-1 biosynthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "10706822"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of 1-(3,5-dichloro-2,6-dihydroxy-4-methoxyphenyl)hexan-1-one, also known as DIF-1, differentiation-inducing factor-1. DIF-1 is a secreted chlorinated molecule that controls cell fate during development of Dictyostelium cells.",
+  "namespace": "biological_process",
+  "label": "DIF-1 biosynthetic process"
+}

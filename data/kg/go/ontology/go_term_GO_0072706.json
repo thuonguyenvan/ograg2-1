@@ -1,0 +1,29 @@
+{
+  "id": "GO:0072706",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072706",
+  "relationships": {
+    "is_a": [
+      "GO:1901700"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to SDS"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah"
+    ],
+    "CHEBI": [
+      "8984"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a sodium dodecyl sulfate (SDS) stimulus.",
+  "namespace": "biological_process",
+  "label": "response to sodium dodecyl sulfate"
+}

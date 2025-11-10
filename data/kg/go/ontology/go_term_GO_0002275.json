@@ -1,0 +1,30 @@
+{
+  "id": "GO:0002275",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002275",
+  "relationships": {
+    "is_a": [
+      "GO:0002274",
+      "GO:0002366"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "myeloid cell activation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "tb"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "A change in the morphology or behavior of a myeloid cell resulting from exposure to an activating factor such as a cellular or soluble ligand, leading to the initiation or perpetuation of an immune response.",
+  "namespace": "biological_process",
+  "label": "myeloid cell activation involved in immune response"
+}

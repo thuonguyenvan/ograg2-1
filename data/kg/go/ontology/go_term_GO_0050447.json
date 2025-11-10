@@ -1,0 +1,53 @@
+{
+  "id": "GO:0050447",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050447",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "beta-(9-cytokinin)-alanine synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-O-acetyl-L-serine:zeatin 2-amino-2-carboxyethyltransferase activity",
+      "O-acetyl-L-serine acetate-lyase (adding N(6)-substituted adenine) activity",
+      "O-acetyl-L-serine acetate-lyase (adding N6-substituted adenine)",
+      "O3-acetyl-L-serine:zeatin 2-amino-2-carboxyethyltransferase activity",
+      "beta-(9-cytokinin)alanine synthase activity",
+      "lupinate synthetase activity",
+      "lupinic acid synthase activity",
+      "lupinic acid synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.50",
+      "2.5.1.50",
+      "2.5.1.50",
+      "2.5.1.50",
+      "2.5.1.50",
+      "2.5.1.50",
+      "2.5.1.50",
+      "2.5.1.50",
+      "2.5.1.50",
+      "2.5.1.50"
+    ],
+    "KEGG_REACTION": [
+      "R03133"
+    ],
+    "MetaCyc": [
+      "BETA-9-CYTOKININ-ALANINE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "17333",
+      "17333"
+    ]
+  },
+  "definition": "Catalysis of the reaction: O-acetyl-L-serine + zeatin = L-lupinate + acetate + H+.",
+  "namespace": "molecular_function",
+  "label": "zeatin 9-aminocarboxyethyltransferase activity"
+}

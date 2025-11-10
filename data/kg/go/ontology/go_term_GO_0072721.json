@@ -1,0 +1,32 @@
+{
+  "id": "GO:0072721",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072721",
+  "relationships": {
+    "is_a": [
+      "GO:0072720",
+      "GO:1901701"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to 1,4-dithiothreitol",
+      "cellular response to DTT"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "CHEBI": [
+      "18320"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a dithiothreitol stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to dithiothreitol"
+}

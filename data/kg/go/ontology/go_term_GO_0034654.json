@@ -1,0 +1,30 @@
+{
+  "id": "GO:0034654",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034654",
+  "relationships": {
+    "is_a": [
+      "GO:0006139",
+      "GO:0009058"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nucleobase, nucleoside, nucleotide and nucleic acid anabolism",
+      "nucleobase, nucleoside, nucleotide and nucleic acid biosynthesis",
+      "nucleobase, nucleoside, nucleotide and nucleic acid formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "nucleobase, nucleoside, nucleotide and nucleic acid synthesis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of nucleobases, nucleosides, nucleotides and nucleic acids.",
+  "namespace": "biological_process",
+  "label": "nucleobase-containing compound biosynthetic process"
+}

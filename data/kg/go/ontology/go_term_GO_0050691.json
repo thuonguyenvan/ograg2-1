@@ -1,0 +1,30 @@
+{
+  "id": "GO:0050691",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050691",
+  "relationships": {
+    "is_a": [
+      "GO:0050688"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "host regulation of antiviral response",
+      "regulation by host of antiviral response"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of antiviral response by host"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "dph"
+    ]
+  },
+  "definition": "Any host process that modulates the frequency, rate, or extent of the antiviral response of a host cell or organism.",
+  "namespace": "biological_process",
+  "label": "regulation of defense response to virus by host"
+}

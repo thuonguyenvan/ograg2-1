@@ -1,0 +1,32 @@
+{
+  "id": "GO:0044272",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044272",
+  "relationships": {
+    "is_a": [
+      "GO:0006790",
+      "GO:0009058"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulfur compound anabolism",
+      "sulfur compound biosynthesis",
+      "sulfur compound formation",
+      "sulfur compound synthesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "sulfur biosynthesis",
+      "sulfur biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of compounds that contain sulfur, such as the amino acids methionine and cysteine or the tripeptide glutathione.",
+  "namespace": "biological_process",
+  "label": "sulfur compound biosynthetic process"
+}

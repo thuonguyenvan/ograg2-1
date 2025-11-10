@@ -1,0 +1,32 @@
+{
+  "id": "GO:0016863",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016863",
+  "relationships": {
+    "is_a": [
+      "GO:0016860"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "intramolecular isomerase activity, transposing C=C bonds"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.3.-",
+      "5.3.3.-"
+    ],
+    "Reactome": [
+      "R-HSA-2161563"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of an oxidation-reduction (redox) reaction in which the hydrogen donor and acceptor are the same molecule, one or more carbon-carbon double bonds in the molecule are rearranged, and no oxidized product appears.",
+  "namespace": "molecular_function",
+  "label": "PGJ2 is isomerised to delta12-PGJ2"
+}

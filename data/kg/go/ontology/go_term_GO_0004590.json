@@ -1,0 +1,74 @@
+{
+  "id": "GO:0004590",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004590",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ODCase activity",
+      "OMP decarboxylase activity",
+      "OMP-DC",
+      "OMPdcase activity",
+      "UMP synthase activity",
+      "orotate decarboxylase activity",
+      "orotate monophosphate decarboxylase activity",
+      "orotic decarboxylase activity",
+      "orotidine 5&apos;-phosphate decarboxylase activity",
+      "orotidine monophosphate decarboxylase activity",
+      "orotidine phosphate decarboxylase activity",
+      "orotidine-5&apos;-monophosphate decarboxylase activity",
+      "orotidine-5&apos;-phosphate carboxy-lyase (UMP-forming)",
+      "orotidine-5&apos;-phosphate carboxy-lyase activity",
+      "orotidylic acid decarboxylase activity",
+      "orotidylic decarboxylase activity",
+      "orotodylate decarboxylase activity",
+      "uridine 5&apos;-monophosphate synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23",
+      "4.1.1.23"
+    ],
+    "KEGG_REACTION": [
+      "R00965"
+    ],
+    "MetaCyc": [
+      "OROTPDECARB-RXN"
+    ],
+    "RHEA": [
+      "11596",
+      "11596"
+    ],
+    "Reactome": [
+      "R-HSA-73564"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H+ + orotidine 5&apos;-phosphate = CO2 + UMP.",
+  "namespace": "molecular_function",
+  "label": "UMPS dimer decarboxylates OMP to UMP"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:1903567",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903567",
+  "relationships": {
+    "is_a": [
+      "GO:1903564",
+      "GO:1904375",
+      "GO:1905475"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of protein localisation in ciliary membrane",
+      "regulation of protein localisation to ciliary membrane",
+      "regulation of protein localization in ciliary membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "cilia",
+      "krc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22072986"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of protein localization to ciliary membrane.",
+  "namespace": "biological_process",
+  "label": "regulation of protein localization to ciliary membrane"
+}

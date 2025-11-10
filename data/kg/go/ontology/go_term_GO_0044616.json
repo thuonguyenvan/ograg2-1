@@ -1,0 +1,30 @@
+{
+  "id": "GO:0044616",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044616",
+  "relationships": {
+    "is_a": [
+      "GO:0140136"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "envenomation resulting in paralysis in another organism",
+      "modulation of relaxation of muscle in other organism",
+      "regulation of relaxation of muscle in other organism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "modulation of relaxation of muscle in another organism"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "28422078",
+      "36668869"
+    ]
+  },
+  "definition": "A process in which an organism induces paralysis in another organism via the action of a venom. Paralysis is the loss of the ability to voluntarily control muscles. This can occur by blocking nerve signals at the neuromuscular junction or by directly interfering with muscle contraction.",
+  "namespace": "biological_process",
+  "label": "venom-mediated paralysis"
+}

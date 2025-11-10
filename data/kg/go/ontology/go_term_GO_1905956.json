@@ -1,0 +1,44 @@
+{
+  "id": "GO:1905956",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905956",
+  "relationships": {
+    "is_a": [
+      "GO:0051240",
+      "GO:1901509",
+      "GO:1905332"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of endothelial tube morphogenesis",
+      "up-regulation of endothelial tube morphogenesis",
+      "upregulation of endothelial tube morphogenesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of endothelial tube morphogenesis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "TermGenie",
+      "rph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25961718"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of endothelial tube morphogenesis.",
+  "namespace": "biological_process",
+  "label": "positive regulation of endothelial tube morphogenesis"
+}

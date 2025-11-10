@@ -1,0 +1,29 @@
+{
+  "id": "GO:0042978",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042978",
+  "relationships": {
+    "is_a": [
+      "GO:0008047",
+      "GO:0042979"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "L-ornithine carboxy-lyase activator activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9955574"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Binds to and increases ornithine decarboxylase activity.",
+  "namespace": "molecular_function",
+  "label": "ODC dimerizes"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:0003875",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003875",
+  "relationships": {
+    "is_a": [
+      "GO:0016799",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ADPribosylarginine hydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ADP-ribose-L-arginine cleavage enzyme activity",
+      "ADP-ribose-L-arginine cleaving enzyme activity",
+      "N(omega)-(ADP-D-ribosyl)-L-arginine ADP-ribosylhydrolase activity",
+      "nomega-(ADP-D-ribosyl)-L-arginine ADP-ribosylhydrolase activity",
+      "omega-protein-N-(ADP-D-ribosyl)-L-arginine ADP-ribosylhydrolase activity",
+      "protein ADP-ribosylarginine hydrolase activity",
+      "protein-nomega-(ADP-D-ribosyl)-L-arginine ADP-ribosylhydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.2.19",
+      "3.2.2.19",
+      "3.2.2.19",
+      "3.2.2.19",
+      "3.2.2.19",
+      "3.2.2.19",
+      "3.2.2.19",
+      "3.2.2.19",
+      "3.2.2.19"
+    ]
+  },
+  "definition": "Catalysis of the reactions: H2O + N(omega)-(ADP-D-ribosyl)-L-arginyl-[protein] = ADP-D-ribose + L-arginyl-[protein], and H2O + N(omega)-(ADP-D-ribosyl)-L-arginine = ADP-D-ribose + L-arginine.",
+  "namespace": "molecular_function",
+  "label": "ADP-ribosylarginine hydrolase activity"
+}

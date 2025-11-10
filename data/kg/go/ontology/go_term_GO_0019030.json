@@ -1,0 +1,35 @@
+{
+  "id": "GO:0019030",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019030",
+  "relationships": {
+    "is_a": [
+      "GO:0019028"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "quasispherical viral capsid"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bm"
+    ],
+    "ISBN": [
+      "0198506732",
+      "071673706X"
+    ],
+    "VZ": [
+      "885"
+    ],
+    "Wikipedia": [
+      "Capsid"
+    ]
+  },
+  "definition": "The protein coat that surrounds the infective nucleic acid in some virus particles; the subunits are arranged to form an icosahedron, a solid with 20 faces and 12 vertices. Icosahedral capsids have 12 pentamers plus 10(T-1) hexamers, where T is the triangulation number. Tobacco satellite necrosis virus has such a capsid structure.",
+  "namespace": "cellular_component",
+  "label": "icosahedral viral capsid"
+}

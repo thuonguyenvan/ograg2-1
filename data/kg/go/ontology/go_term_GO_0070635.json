@@ -1,0 +1,34 @@
+{
+  "id": "GO:0070635",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070635",
+  "relationships": {
+    "is_a": [
+      "GO:0016799"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-ribosylnicotinamide hydrolase activity",
+      "nicotinamide ribonucleoside hydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-8441",
+      "RXN-8441"
+    ],
+    "PMID": [
+      "19001417"
+    ],
+    "CHEBI": [
+      "15927",
+      "15927"
+    ]
+  },
+  "definition": "Catalysis of the reaction: nicotinamide riboside + H2O = nicotinamide + D-ribose.",
+  "namespace": "molecular_function",
+  "label": "nicotinamide riboside hydrolase activity"
+}

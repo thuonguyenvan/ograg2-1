@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047478",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047478",
+  "relationships": {
+    "is_a": [
+      "GO:0016880"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-aspartate:ammonia ligase (ADP-forming)",
+      "asparagine synthetase (ADP-forming) activity",
+      "asparagine synthetase (adenosine diphosphate-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.1.4",
+      "6.3.1.4",
+      "6.3.1.4",
+      "6.3.1.4",
+      "6.3.1.4"
+    ],
+    "KEGG_REACTION": [
+      "R00482"
+    ],
+    "MetaCyc": [
+      "6.3.1.4-RXN"
+    ],
+    "RHEA": [
+      "14197",
+      "14197"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-aspartate + ATP + NH4 = L-asparagine + ADP + 2 H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "aspartate-ammonia ligase (ADP-forming) activity"
+}

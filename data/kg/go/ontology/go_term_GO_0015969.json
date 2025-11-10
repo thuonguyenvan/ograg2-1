@@ -1,0 +1,31 @@
+{
+  "id": "GO:0015969",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015969",
+  "relationships": {
+    "is_a": [
+      "GO:0009150",
+      "GO:0034035"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "guanosine tetraphosphate (5&apos;-ppGpp-3&apos;) metabolic process",
+      "guanosine tetraphosphate (5&apos;-ppGpp-3&apos;) metabolism",
+      "guanosine tetraphosphate metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PPGPPMET-PWY"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving guanine tetraphosphate (5&apos;-ppGpp-3&apos;), a derivative of guanine riboside with four phosphates.",
+  "namespace": "biological_process",
+  "label": "guanosine tetraphosphate metabolic process"
+}

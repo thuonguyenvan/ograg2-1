@@ -1,0 +1,47 @@
+{
+  "id": "GO:0050144",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050144",
+  "relationships": {
+    "is_a": [
+      "GO:0016763"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "deoxyribose transferase activity",
+      "nucleoside deoxyribosyltransferase I (purine nucleoside:purine deoxyribosyltransferase: strictly specific for transfer between purine bases)",
+      "nucleoside deoxyribosyltransferase II [purine(pyrimidine) nucleoside:purine(pyrimidine) deoxyribosyltransferase]",
+      "nucleoside trans-N-deoxyribosylase activity",
+      "nucleoside:purine(pyrimidine) deoxy-D-ribosyltransferase activity",
+      "purine(pyrimidine) nucleoside:purine(pyrimidine) deoxyribosyl transferase activity",
+      "trans-N-deoxyribosylase activity",
+      "trans-N-glycosidase activity",
+      "trans-deoxyribosylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.6",
+      "2.4.2.6",
+      "2.4.2.6",
+      "2.4.2.6",
+      "2.4.2.6",
+      "2.4.2.6",
+      "2.4.2.6",
+      "2.4.2.6",
+      "2.4.2.6",
+      "2.4.2.6",
+      "2.4.2.6"
+    ],
+    "MetaCyc": [
+      "NUCLEOSIDE-DEOXYRIBOSYLTRANSFERASE-RXN",
+      "NUCLEOSIDE-DEOXYRIBOSYLTRANSFERASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-deoxy-D-ribosyl-base1 + base2 = 2-deoxy-D-ribosyl-base2 + base1.",
+  "namespace": "molecular_function",
+  "label": "nucleoside deoxyribosyltransferase activity"
+}

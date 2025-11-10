@@ -1,0 +1,33 @@
+{
+  "id": "GO:0047132",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047132",
+  "relationships": {
+    "is_a": [
+      "GO:0016647"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dihydrobenzophenanthridine:oxygen oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.3.12",
+      "1.5.3.12",
+      "1.5.3.12"
+    ],
+    "MetaCyc": [
+      "1.5.3.12-RXN"
+    ],
+    "RHEA": [
+      "16621"
+    ]
+  },
+  "definition": "Catalysis of the reaction: O2 + dihydrosanguinarine = H2O2 + sanguinarine.",
+  "namespace": "molecular_function",
+  "label": "dihydrobenzophenanthridine oxidase activity"
+}

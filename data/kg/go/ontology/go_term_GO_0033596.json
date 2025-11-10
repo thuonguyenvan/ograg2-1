@@ -1,0 +1,28 @@
+{
+  "id": "GO:0033596",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033596",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tuberin-hamartin complex",
+      "tuberous sclerosis complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "10585443",
+      "17121544",
+      "9580671"
+    ]
+  },
+  "definition": "A protein complex consisting of at least tumerin and hamartin; its formation may regulate hamartin homomultimer formation. The complex acts as a GTPase activating protein (GAP) for the small GTPase (Rheb), and inhibits the TOR signaling pathway.",
+  "namespace": "cellular_component",
+  "label": "TSC1-TSC2 complex"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102423",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102423",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-13818"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "18248594",
+      "19561332"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (+)-sesaminol + UDP-alpha-D-glucose = (+)-sesaminol 2-O-beta-D-glucoside + UDP + H+.",
+  "namespace": "molecular_function",
+  "label": "(+)-sesaminol 2-O-glucosyltransferase activity"
+}

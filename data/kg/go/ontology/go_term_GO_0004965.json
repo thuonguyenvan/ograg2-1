@@ -1,0 +1,42 @@
+{
+  "id": "GO:0004965",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004965",
+  "relationships": {
+    "is_a": [
+      "GO:0004930",
+      "GO:0016917"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G-protein coupled GABA receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GABA-B receptor activity",
+      "metabotropic GABA receptor"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1013012",
+      "R-HSA-1013013"
+    ],
+    "GOC": [
+      "ai",
+      "bf",
+      "bf"
+    ],
+    "IUPHAR_RECEPTOR": [
+      "1276"
+    ],
+    "Wikipedia": [
+      "GABAB_receptor",
+      "GABAB_receptor"
+    ]
+  },
+  "definition": "Combining with the amino acid gamma-aminobutyric acid (GABA, 4-aminobutyrate) and transmitting the signal across the membrane by activating an associated G-protein; promotes the exchange of GDP for GTP on the alpha subunit of a heterotrimeric G-protein complex.",
+  "namespace": "molecular_function",
+  "label": "Association of GABA B receptor with G protein beta-gamma subunits"
+}

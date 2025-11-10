@@ -1,0 +1,31 @@
+{
+  "id": "GO:0051245",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051245",
+  "relationships": {
+    "is_a": [
+      "GO:0010185",
+      "GO:0031348"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of cellular defense response",
+      "down-regulation of cellular defense response",
+      "downregulation of cellular defense response",
+      "negative regulation of cellular defence response"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of cellular defense response"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the rate of the cellular defense response.",
+  "namespace": "biological_process",
+  "label": "negative regulation of cellular defense response"
+}

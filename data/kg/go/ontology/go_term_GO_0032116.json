@@ -1,0 +1,32 @@
+{
+  "id": "GO:0032116",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032116",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "SCC2/SCC4 loading complex",
+      "cohesin loading complex"
+    ],
+    "related": [
+      "chromatin loading complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "curators",
+      "vw"
+    ],
+    "PMID": [
+      "10882066"
+    ]
+  },
+  "definition": "A protein complex required for the loading of a structural maintenance of chromosome (SMC) complex, such as cohesin, condensin or SMC5/SMC6, onto DNA. Appears to be eukaryotically conserved.",
+  "namespace": "cellular_component",
+  "label": "SMC loading complex"
+}

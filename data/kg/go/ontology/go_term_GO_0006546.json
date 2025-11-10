@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006546",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006546",
+  "relationships": {
+    "is_a": [
+      "GO:0006544",
+      "GO:0170040",
+      "GO:1901606"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycine breakdown",
+      "glycine catabolism",
+      "glycine degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6783984"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of glycine, aminoethanoic acid.",
+  "namespace": "biological_process",
+  "label": "Glycine degradation"
+}

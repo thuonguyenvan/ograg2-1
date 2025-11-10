@@ -1,0 +1,42 @@
+{
+  "id": "GO:0052732",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052732",
+  "relationships": {
+    "is_a": [
+      "GO:0016791"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3X11A",
+      "PHOSPHO1",
+      "phosphoethanolamine phosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R06870"
+    ],
+    "MetaCyc": [
+      "RXN-7948"
+    ],
+    "RHEA": [
+      "16089",
+      "16089"
+    ],
+    "Reactome": [
+      "R-HSA-1483096"
+    ],
+    "EC": [
+      "3.1.3.75",
+      "3.1.3.75",
+      "3.1.3.75"
+    ]
+  },
+  "definition": "Catalysis of the reaction: phosphoethanolamine + H2O = ethanolamine + phosphate.",
+  "namespace": "molecular_function",
+  "label": "PETA is dephosphorylated to ETA by PHOSPHO1"
+}

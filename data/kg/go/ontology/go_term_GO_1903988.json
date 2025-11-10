@@ -1,0 +1,39 @@
+{
+  "id": "GO:1903988",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903988",
+  "relationships": {
+    "is_a": [
+      "GO:0034755",
+      "GO:0140115"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "ferrous iron export",
+      "ferrous iron export across plasma membrane"
+    ],
+    "related": [
+      "iron cation export",
+      "iron(2+) export"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "kom",
+      "rl"
+    ],
+    "GO_REF": [
+      "0000074"
+    ],
+    "PMID": [
+      "15514116"
+    ]
+  },
+  "definition": "The directed movement of iron ions from inside of a cell, across the plasma membrane and into the extracellular region.",
+  "namespace": "biological_process",
+  "label": "iron ion export across plasma membrane"
+}

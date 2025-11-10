@@ -1,0 +1,55 @@
+{
+  "id": "GO:0071008",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071008",
+  "relationships": {
+    "is_a": [
+      "GO:0005684",
+      "GO:0071014"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "U2/U5/U6 snRNP complex",
+      "U2/U5/U6 tri-snRNP complex",
+      "major post-mRNA release spliceosomal complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "GT-AG post-mRNA release spliceosomal complex",
+      "mammalian U2-type spliceosomal complex I"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ab",
+      "krc",
+      "mah",
+      "mah",
+      "mah",
+      "krc",
+      "mah",
+      "krc",
+      "mah",
+      "krc",
+      "mah"
+    ],
+    "ISBN": [
+      "0879695897",
+      "0879697393",
+      "0879695897",
+      "0879697393"
+    ],
+    "PMID": [
+      "19239890",
+      "12374752",
+      "20400941",
+      "24442611",
+      "12374752",
+      "20400941"
+    ]
+  },
+  "definition": "A spliceosomal complex that is formed following the release of the spliced product from the post-spliceosomal complex and contains the excised intron and the U2, U5 and U6 snRNPs.",
+  "namespace": "cellular_component",
+  "label": "U2-type post-mRNA release spliceosomal complex"
+}

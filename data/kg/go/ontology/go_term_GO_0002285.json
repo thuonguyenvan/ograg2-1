@@ -1,0 +1,30 @@
+{
+  "id": "GO:0002285",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002285",
+  "relationships": {
+    "is_a": [
+      "GO:0002366",
+      "GO:0046649"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "lymphocyte activation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "tb"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "A change in morphology and behavior of a lymphocyte resulting from exposure to a specific antigen, mitogen, cytokine, chemokine, cellular ligand, or soluble factor, leading to the initiation or perpetuation of an immune response.",
+  "namespace": "biological_process",
+  "label": "lymphocyte activation involved in immune response"
+}

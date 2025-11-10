@@ -1,0 +1,62 @@
+{
+  "id": "GO:0030060",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030060",
+  "relationships": {
+    "is_a": [
+      "GO:0016615",
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NAD-L-malate dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(S)-malate:NAD+ oxidoreductase activity",
+      "L-malate-NAD+ oxidoreductase activity",
+      "MDH",
+      "NAD-dependent malate dehydrogenase activity",
+      "NAD-dependent malic dehydrogenase activity",
+      "NAD-linked malate dehydrogenase activity",
+      "NAD-malate dehydrogenase activity",
+      "NAD-malic dehydrogenase activity",
+      "NAD-specific malate dehydrogenase activity",
+      "malate (NAD) dehydrogenase activity",
+      "malic acid dehydrogenase activity",
+      "malic dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.37",
+      "1.1.1.37",
+      "1.1.1.37",
+      "1.1.1.37",
+      "1.1.1.37",
+      "1.1.1.37",
+      "1.1.1.37",
+      "1.1.1.37",
+      "1.1.1.37",
+      "1.1.1.37",
+      "1.1.1.37",
+      "1.1.1.37",
+      "1.1.1.37"
+    ],
+    "MetaCyc": [
+      "MALATE-DEH-RXN"
+    ],
+    "RHEA": [
+      "21432",
+      "21432"
+    ],
+    "Reactome": [
+      "R-HSA-70979",
+      "R-HSA-9856871"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-malate + NAD+ = oxaloacetate + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "MDH1 reduces OA"
+}

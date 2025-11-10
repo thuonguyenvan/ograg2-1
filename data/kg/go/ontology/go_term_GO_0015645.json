@@ -1,0 +1,30 @@
+{
+  "id": "GO:0015645",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015645",
+  "relationships": {
+    "is_a": [
+      "GO:0016878",
+      "GO:0140657"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fatty-acid ligase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "fatty acid CoA ligase activity",
+      "fatty acyl-coenzyme A synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cjk",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the ligation of a fatty acid to an acceptor, coupled to the hydrolysis of ATP.",
+  "namespace": "molecular_function",
+  "label": "fatty acid ligase activity"
+}

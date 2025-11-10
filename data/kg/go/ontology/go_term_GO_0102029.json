@@ -1,0 +1,37 @@
+{
+  "id": "GO:0102029",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102029",
+  "relationships": {
+    "is_a": [
+      "GO:0047809",
+      "GO:1990464"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "D-lactate dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.5.12"
+    ],
+    "MetaCyc": [
+      "DLACTDEHYDROGFAD-RXN"
+    ],
+    "RHEA": [
+      "51468",
+      "51468"
+    ],
+    "PMID": [
+      "10944213",
+      "4575624"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-lactate + an ubiquinone = pyruvate + an ubiquinol.",
+  "namespace": "molecular_function",
+  "label": "D-lactate dehydrogenase (quinone) activity"
+}

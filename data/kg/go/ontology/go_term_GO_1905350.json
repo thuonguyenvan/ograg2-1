@@ -1,0 +1,65 @@
+{
+  "id": "GO:1905350",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905350",
+  "relationships": {
+    "is_a": [
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Y-shaped link formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Y-link assembly",
+      "Y-link formation",
+      "Y-link structure assembly",
+      "Y-link structure formation",
+      "Y-shaped assemblage assembly",
+      "Y-shaped assemblage formation",
+      "Y-shaped fiber assembly",
+      "Y-shaped fiber formation",
+      "Y-shaped fibre assembly",
+      "Y-shaped fibre formation",
+      "Y-shaped linker assembly",
+      "Y-shaped linker formation",
+      "membrane-microtubule complex assembly",
+      "membrane-microtubule complex formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "cilia",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000079"
+    ],
+    "PMID": [
+      "23728985",
+      "24664739",
+      "26595381",
+      "4554367"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form a Y-shaped link. Two distinct protein complexes are known to be involved in proper linker assembly: the MKS complex and the NPHP complex. Improper assembly of Y-shaped links may cause malfunctioning of the transition zone as a molecular gate.",
+  "namespace": "biological_process",
+  "label": "Y-shaped link assembly"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0033585",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033585",
+  "relationships": {
+    "is_a": [
+      "GO:0009094",
+      "GO:0046417"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-phenylalanine anabolism from chorismate via phenylpyruvate",
+      "L-phenylalanine biosynthesis from chorismate via phenylpyruvate",
+      "L-phenylalanine formation from chorismate via phenylpyruvate",
+      "L-phenylalanine synthesis from chorismate via phenylpyruvate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PHESYN"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of L-phenylalanine from other compounds, including chorismate, via the intermediate phenylpyruvate.",
+  "namespace": "biological_process",
+  "label": "L-phenylalanine biosynthetic process from chorismate via phenylpyruvate"
+}

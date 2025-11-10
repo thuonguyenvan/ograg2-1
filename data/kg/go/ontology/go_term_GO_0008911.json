@@ -1,0 +1,37 @@
+{
+  "id": "GO:0008911",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008911",
+  "relationships": {
+    "is_a": [
+      "GO:0004029"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(S)-lactaldehyde:NAD+ oxidoreductase activity",
+      "L-lactaldehyde:NAD oxidoreductase activity",
+      "nicotinamide adenine dinucleotide (NAD)-linked dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.22",
+      "1.2.1.22",
+      "1.2.1.22",
+      "1.2.1.22"
+    ],
+    "MetaCyc": [
+      "LACTALDDEHYDROG-RXN"
+    ],
+    "RHEA": [
+      "14277",
+      "14277"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-lactaldehyde + NAD+ + H2O = (S)-lactate + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "lactaldehyde dehydrogenase (NAD+) activity"
+}

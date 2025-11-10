@@ -1,0 +1,28 @@
+{
+  "id": "GO:0022886",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022886",
+  "relationships": {
+    "is_a": [
+      "GO:0015267"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "ionophore activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables transport of a solute across a membrane. This kind of transporter interacts much more weakly with the solute than the carrier does. It is an aqueous pore that extends across the membrane. It may change from closed to open and back. It transports faster than a carrier. It is always passive.",
+  "namespace": "molecular_function",
+  "label": "channel-forming ionophore activity"
+}

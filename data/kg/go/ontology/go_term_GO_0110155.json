@@ -1,0 +1,28 @@
+{
+  "id": "GO:0110155",
+  "uri": "http://purl.obolibrary.org/obo/GO_0110155",
+  "relationships": {
+    "is_a": [
+      "GO:0110154"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "25533955",
+      "28283058",
+      "31101919"
+    ]
+  },
+  "definition": "Cleavage of the 5&apos;-NAD-cap of an RNA. The NAD-cap is present at the 5&apos;-end of some RNAs in both bacetria and eukaryotes. While it promotes RNA stability in bacteria, it promotes RNA decay in eukaryotes.",
+  "namespace": "biological_process",
+  "label": "NAD-cap decapping"
+}

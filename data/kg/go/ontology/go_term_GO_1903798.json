@@ -1,0 +1,55 @@
+{
+  "id": "GO:1903798",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903798",
+  "relationships": {
+    "is_a": [
+      "GO:0070920"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of gene silencing by miRNA, production of miRNAs",
+      "regulation of microRNA-mediated gene silencing, production of microRNAs"
+    ],
+    "broad": [
+      "regulation of microRNA processing"
+    ],
+    "narrow": [
+      "regulation of miRNA maturation"
+    ],
+    "related": [
+      "regulation of miRNA biogenesis",
+      "regulation of microRNA biogenesis",
+      "regulation of microRNA biosynthesis",
+      "regulation of microRNA biosynthetic process",
+      "regulation of microRNA metabolic process",
+      "regulation of microRNA metabolism"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "TermGenie",
+      "rph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22269326"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of microRNA processing.",
+  "namespace": "biological_process",
+  "label": "regulation of miRNA processing"
+}

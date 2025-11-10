@@ -1,0 +1,32 @@
+{
+  "id": "GO:1990002",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990002",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "methylglyoxal reductase (NADPH-dependent, acetol producing)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN0-4281"
+    ],
+    "RHEA": [
+      "27986",
+      "27986"
+    ],
+    "PMID": [
+      "16077126"
+    ]
+  },
+  "definition": "Catalysis of the reaction: hydroxyacetone + NADP+ = H+ + methylglyoxal + NADPH.",
+  "namespace": "molecular_function",
+  "label": "methylglyoxal reductase (NADPH) (acetol producing) activity"
+}

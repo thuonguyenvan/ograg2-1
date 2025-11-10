@@ -1,0 +1,81 @@
+{
+  "id": "GO:1902584",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902584",
+  "relationships": {
+    "is_a": [
+      "GO:0048584",
+      "GO:2000070"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of response to dehydration",
+      "positive regulation of response to drought",
+      "positive regulation of response to thirst",
+      "up regulation of response to dehydration",
+      "up regulation of response to drought",
+      "up regulation of response to thirst",
+      "up regulation of response to water deprivation",
+      "up-regulation of response to dehydration",
+      "up-regulation of response to drought",
+      "up-regulation of response to thirst",
+      "up-regulation of response to water deprivation",
+      "upregulation of response to dehydration",
+      "upregulation of response to drought",
+      "upregulation of response to thirst",
+      "upregulation of response to water deprivation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of response to dehydration",
+      "activation of response to drought",
+      "activation of response to thirst",
+      "activation of response to water deprivation"
+    ],
+    "related": [
+      "activation of drought tolerance",
+      "positive regulation of drought tolerance",
+      "up regulation of drought tolerance",
+      "up-regulation of drought tolerance",
+      "upregulation of drought tolerance"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24198318"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of response to water deprivation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of response to water deprivation"
+}

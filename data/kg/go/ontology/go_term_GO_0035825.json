@@ -1,0 +1,39 @@
+{
+  "id": "GO:0035825",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035825",
+  "relationships": {
+    "is_a": [
+      "GO:0006310"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "interchromosomal DNA recombination",
+      "interstrand DNA recombination"
+    ],
+    "broad": [],
+    "narrow": [
+      "reciprocal DNA recombination"
+    ],
+    "related": [
+      "chromosomal crossover"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Chromosomal_crossover",
+      "Chromosomal_crossover"
+    ],
+    "GOC": [
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "11139492",
+      "17304215"
+    ]
+  },
+  "definition": "A DNA recombination process that results in the exchange of an equal amount of genetic material between highly homologous DNA molecules.",
+  "namespace": "biological_process",
+  "label": "homologous recombination"
+}

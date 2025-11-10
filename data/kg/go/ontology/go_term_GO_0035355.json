@@ -1,0 +1,35 @@
+{
+  "id": "GO:0035355",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035355",
+  "relationships": {
+    "is_a": [
+      "GO:0098802"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TLR2-TLR6 protein complex",
+      "TLR2:TLR6 heterodimer",
+      "TLR6:TLR2 complex",
+      "toll-like receptor TLR6:TLR2 heterodimeric complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "signaling",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "19931471",
+      "21481769"
+    ]
+  },
+  "definition": "A heterodimeric protein complex containing Toll-like receptor 2 (TLR2) and Toll-like receptor 6 (TLR6).",
+  "namespace": "cellular_component",
+  "label": "Toll-like receptor 2-Toll-like receptor 6 protein complex"
+}

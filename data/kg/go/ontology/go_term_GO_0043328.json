@@ -1,0 +1,42 @@
+{
+  "id": "GO:0043328",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043328",
+  "relationships": {
+    "is_a": [
+      "GO:0006886",
+      "GO:0032511",
+      "GO:0072665",
+      "GO:0072666"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein targeting to vacuole during ubiquitin-dependent protein breakdown via the MVB pathway",
+      "protein targeting to vacuole during ubiquitin-dependent protein degradation via the MVB pathway",
+      "protein vacuolar targeting during ubiquitin-dependent protein catabolic process via the MVB pathway",
+      "protein vacuolar targeting during ubiquitin-dependent protein catabolism via the MVB pathway",
+      "protein-vacuolar targeting during ubiquitin-dependent protein breakdown via the MVB pathway",
+      "protein-vacuolar targeting during ubiquitin-dependent protein degradation via the MVB pathway",
+      "protein-vacuole targeting during ubiquitin-dependent protein catabolic process via the MVB pathway",
+      "protein-vacuole targeting during ubiquitin-dependent protein catabolism via the MVB pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "protein targeting to vacuole during ubiquitin-dependent protein catabolic process via the MVB pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "11511343"
+    ]
+  },
+  "definition": "The process of directing proteins towards the vacuole that contributes to protein catabolism via the multivesicular body (MVB) pathway.",
+  "namespace": "biological_process",
+  "label": "protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway"
+}

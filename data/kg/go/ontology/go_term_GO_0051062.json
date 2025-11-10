@@ -1,0 +1,29 @@
+{
+  "id": "GO:0051062",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051062",
+  "relationships": {
+    "is_a": [
+      "GO:0004748"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP reduction"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "UDPREDUCT-RXN",
+      "UDPREDUCT-RXN"
+    ],
+    "RHEA": [
+      "28026"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dUDP + thioredoxin disulfide + H2O = UDP + thioredoxin.",
+  "namespace": "molecular_function",
+  "label": "UDP reductase activity"
+}

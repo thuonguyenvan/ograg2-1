@@ -1,0 +1,28 @@
+{
+  "id": "GO:0016829",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016829",
+  "relationships": {
+    "is_a": [
+      "GO:0003824"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.-.-.-",
+      "4.-.-.-"
+    ],
+    "Reactome": [
+      "R-HSA-5696408",
+      "R-HSA-6782895"
+    ]
+  },
+  "definition": "Catalysis of the cleavage of C-C, C-O, C-N and other bonds by other means than by hydrolysis or oxidation, or conversely adding a group to a double bond. They differ from other enzymes in that two substrates are involved in one reaction direction, but only one in the other direction. When acting on the single substrate, a molecule is eliminated and this generates either a new double bond or a new ring.",
+  "namespace": "molecular_function",
+  "label": "TYW1:FMN:4Fe-4S  transforms 1-methylguanosine yielding yW-187 (4-demethylwyosine) at nucleotide 37 of tRNA(Phe)"
+}

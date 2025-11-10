@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047874",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047874",
+  "relationships": {
+    "is_a": [
+      "GO:0120556"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dolichol diphosphatase activity",
+      "dolichyl diphosphate phosphohydrolase activity",
+      "dolichyl pyrophosphatase activity",
+      "dolichyl-diphosphate phosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.43",
+      "3.6.1.43",
+      "3.6.1.43",
+      "3.6.1.43",
+      "3.6.1.43"
+    ],
+    "MetaCyc": [
+      "DOLICHYLDIPHOSPHATASE-RXN"
+    ],
+    "RHEA": [
+      "14385",
+      "14385"
+    ],
+    "Reactome": [
+      "R-HSA-446200"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a di-trans,poly-cis-dolichyl diphosphate + H2O = a di-trans,poly-cis-dolichyl phosphate + phosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "DOLPP1 dephosphorylates DOLDP to DOLP"
+}

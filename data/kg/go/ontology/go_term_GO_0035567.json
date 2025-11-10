@@ -1,0 +1,36 @@
+{
+  "id": "GO:0035567",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035567",
+  "relationships": {
+    "is_a": [
+      "GO:0016055"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "beta-catenin-independent Wnt receptor signaling pathway",
+      "non-canonical Wnt receptor signaling pathway",
+      "non-canonical Wnt receptor signalling pathway",
+      "non-canonical Wnt-activated signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-3858494"
+    ],
+    "PMID": [
+      "37804416"
+    ],
+    "GOC": [
+      "signaling",
+      "mah",
+      "signaling"
+    ]
+  },
+  "definition": "A type of Wnt signaling pathway in which Wnt binding to its receptor on the surface of a target cell results in the by propagation of the molecular signals via effectors other than beta-catenin.",
+  "namespace": "biological_process",
+  "label": "Beta-catenin independent WNT signaling"
+}

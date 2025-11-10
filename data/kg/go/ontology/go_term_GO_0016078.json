@@ -1,0 +1,32 @@
+{
+  "id": "GO:0016078",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016078",
+  "relationships": {
+    "is_a": [
+      "GO:0006399",
+      "GO:0006401"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA breakdown",
+      "tRNA catabolic process",
+      "tRNA catabolism",
+      "tRNA degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9708296"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of tRNA, transfer RNA, a class of relatively small RNA molecules responsible for mediating the insertion of amino acids into the sequence of nascent polypeptide chains during protein synthesis.",
+  "namespace": "biological_process",
+  "label": "tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis"
+}

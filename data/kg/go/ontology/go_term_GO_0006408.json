@@ -1,0 +1,29 @@
+{
+  "id": "GO:0006408",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006408",
+  "relationships": {
+    "is_a": [
+      "GO:0006405",
+      "GO:0051030"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "snRNA export from cell nucleus",
+      "snRNA export out of nucleus",
+      "snRNA transport from nucleus to cytoplasm",
+      "snRNA-nucleus export"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ma"
+    ]
+  },
+  "definition": "The directed movement of snRNA from the nucleus to the cytoplasm.",
+  "namespace": "biological_process",
+  "label": "snRNA export from nucleus"
+}

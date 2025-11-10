@@ -1,0 +1,42 @@
+{
+  "id": "GO:0043791",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043791",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DMA methyltransferase 1",
+      "DMAMT 1",
+      "dimethylamine:corrinoid methyltransferase activity"
+    ],
+    "broad": [
+      "MT1"
+    ],
+    "narrow": [
+      "dimethylamine-specific methylcobalamin:coenzyme M methyltransferase activity"
+    ],
+    "related": [
+      "mtbB1"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.249"
+    ],
+    "MetaCyc": [
+      "RXN-8100"
+    ],
+    "RHEA": [
+      "41175"
+    ],
+    "PMID": [
+      "9874228"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dimethylamine + a dimethylamine corrinoid protein = a methylated dimethylamine corrinoid protein + methylamine.",
+  "namespace": "molecular_function",
+  "label": "dimethylamine methyltransferase activity"
+}

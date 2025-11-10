@@ -1,0 +1,28 @@
+{
+  "id": "GO:0070043",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070043",
+  "relationships": {
+    "is_a": [
+      "GO:0008170",
+      "GO:0016435"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6790982"
+    ],
+    "GOC": [
+      "imk",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + rRNA = S-adenosyl-L-homocysteine + rRNA containing N7-methylguanine.",
+  "namespace": "molecular_function",
+  "label": "WBSCR22:TRMT112 methylates guanosine-1639 of 18S rRNA yielding 7-methylguanosine-1639"
+}

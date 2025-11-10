@@ -1,0 +1,46 @@
+{
+  "id": "GO:0035278",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035278",
+  "relationships": {
+    "is_a": [
+      "GO:0017148",
+      "GO:0035195"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of translation involved in gene silencing by miRNA",
+      "down-regulation of translation involved in gene silencing by miRNA",
+      "downregulation of translation involved in gene silencing by miRNA",
+      "gene silencing by miRNA, negative regulation of translation",
+      "miRNA mediated inhibition of translation",
+      "negative regulation of translation involved in gene silencing by microRNA"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of translation involved in gene silencing by miRNA"
+    ],
+    "related": [
+      "miRNA-mediated gene silencing, negative regulation of translation"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "14744438",
+      "15196554"
+    ],
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "pr",
+      "mah",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "An RNA interference pathway in which microRNAs (miRNAs) block the translation of target mRNAs into proteins. Once incorporated into a RNA-induced silencing complex (RISC), a miRNA will typically mediate repression of translation if the miRNA imperfectly base-pairs with the 3&apos; untranslated regions of target mRNAs.",
+  "namespace": "biological_process",
+  "label": "miRNA-mediated gene silencing by inhibition of translation"
+}

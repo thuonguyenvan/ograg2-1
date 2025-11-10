@@ -1,0 +1,51 @@
+{
+  "id": "GO:0004667",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004667",
+  "relationships": {
+    "is_a": [
+      "GO:0016860"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(5,13)-(15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate D-isomerase activity",
+      "PGD2 synthase activity",
+      "PGH-PGD isomerase activity",
+      "prostaglandin D2 synthase activity",
+      "prostaglandin-H2 D-isomerase activity",
+      "prostaglandin-R-prostaglandin D isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.99.2",
+      "5.3.99.2",
+      "5.3.99.2",
+      "5.3.99.2",
+      "5.3.99.2",
+      "5.3.99.2",
+      "5.3.99.2",
+      "5.3.99.2"
+    ],
+    "KEGG_REACTION": [
+      "R02266"
+    ],
+    "MetaCyc": [
+      "PROSTAGLANDIN-D-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "10600",
+      "10600"
+    ],
+    "Reactome": [
+      "R-HSA-2161620",
+      "R-HSA-2161701"
+    ]
+  },
+  "definition": "Catalysis of the reaction: prostaglandin H(2) = prostaglandin D(2).",
+  "namespace": "molecular_function",
+  "label": "PGH2 is isomerised to PGD2 by HPGDS"
+}

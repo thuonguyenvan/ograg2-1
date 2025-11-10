@@ -1,0 +1,35 @@
+{
+  "id": "GO:0062205",
+  "uri": "http://purl.obolibrary.org/obo/GO_0062205",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "multiradiene synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.131"
+    ],
+    "MetaCyc": [
+      "RXN-13338"
+    ],
+    "RHEA": [
+      "33983",
+      "33983"
+    ],
+    "PMID": [
+      "24990389"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (+)-copalyl diphosphate = diphosphate + miltiradiene.",
+  "namespace": "molecular_function",
+  "label": "miltiradiene synthase activity"
+}

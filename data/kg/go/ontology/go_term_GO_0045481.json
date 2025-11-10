@@ -1,0 +1,37 @@
+{
+  "id": "GO:0045481",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045481",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "6-endo-hydroxycineole:NAD+ 6-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.241",
+      "1.1.1.241",
+      "1.1.1.241"
+    ],
+    "KEGG_REACTION": [
+      "R02994"
+    ],
+    "MetaCyc": [
+      "6-ENDO-HYDROXYCINEOLE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "11736",
+      "11736"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 6-endo-hydroxycineole + NAD+ = 6-oxocineole + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "6-endo-hydroxycineole dehydrogenase activity"
+}

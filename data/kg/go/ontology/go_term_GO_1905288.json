@@ -1,0 +1,44 @@
+{
+  "id": "GO:1905288",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905288",
+  "relationships": {
+    "is_a": [
+      "GO:0034390"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "VSMC apoptotic process",
+      "vascular smooth muscle cell apoptotic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "VSMC apoptosis",
+      "vascular associated smooth muscle cell apoptosis",
+      "vascular smooth muscle cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "TermGenie",
+      "rph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000085"
+    ],
+    "PMID": [
+      "26493107"
+    ]
+  },
+  "definition": "Any apoptotic process in a vascular associated smooth muscle cell.",
+  "namespace": "biological_process",
+  "label": "vascular associated smooth muscle cell apoptotic process"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GO:0004616",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004616",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "6-phosphogluconic dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "6-phospho-D-gluconate dehydrogenase activity",
+      "6-phospho-D-gluconate:NADP+ 2-oxidoreductase (decarboxylating)",
+      "6-phosphogluconate dehydrogenase (decarboxylating)",
+      "6-phosphogluconic carboxylase activity",
+      "6PGD activity",
+      "phosphogluconic acid dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.44",
+      "1.1.1.44",
+      "1.1.1.44",
+      "1.1.1.44",
+      "1.1.1.44",
+      "1.1.1.44",
+      "1.1.1.44",
+      "1.1.1.44",
+      "1.1.1.44"
+    ],
+    "MetaCyc": [
+      "RXN-9952"
+    ],
+    "RHEA": [
+      "10116"
+    ],
+    "Reactome": [
+      "R-HSA-71299"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 6-phospho-D-gluconate + NADP+ = D-ribulose 5-phosphate + CO2 + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "PGD decarboxylates 6-phospho-D-gluconate"
+}

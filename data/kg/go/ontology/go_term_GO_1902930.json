@@ -1,0 +1,42 @@
+{
+  "id": "GO:1902930",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902930",
+  "relationships": {
+    "is_a": [
+      "GO:0009889",
+      "GO:0062012"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of alcohol anabolism",
+      "regulation of alcohol biosynthesis",
+      "regulation of alcohol formation",
+      "regulation of alcohol synthesis"
+    ],
+    "broad": [
+      "regulation of solventogenesis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mengo_curators",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23332010"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of alcohol biosynthetic process.",
+  "namespace": "biological_process",
+  "label": "regulation of alcohol biosynthetic process"
+}

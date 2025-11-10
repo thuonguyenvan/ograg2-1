@@ -1,0 +1,34 @@
+{
+  "id": "GO:0038039",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038039",
+  "relationships": {
+    "is_a": [
+      "GO:0038037"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G-protein coupled receptor heterodimer",
+      "G-protein coupled receptor heterodimeric complex",
+      "GPCR heterodimer"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "al",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "16109836",
+      "20150590",
+      "20150590"
+    ]
+  },
+  "definition": "A protein complex that contains two G protein-coupled receptors (GPCRs) of different subtypes. Formation of a GPCR heterodimer may alter the functional property of the GPCR.",
+  "namespace": "cellular_component",
+  "label": "G protein-coupled receptor heterodimeric complex"
+}

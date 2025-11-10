@@ -1,0 +1,29 @@
+{
+  "id": "GO:0030677",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030677",
+  "relationships": {
+    "is_a": [
+      "GO:1902555",
+      "GO:1990904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNase P complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "12045094"
+    ]
+  },
+  "definition": "A ribonucleoprotein complex that catalyzes cleavage of the leader sequence of precursor tRNAs (pre-tRNAs), generating the mature 5&apos; end of tRNAs.",
+  "namespace": "cellular_component",
+  "label": "ribonuclease P complex"
+}

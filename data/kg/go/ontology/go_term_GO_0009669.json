@@ -1,0 +1,34 @@
+{
+  "id": "GO:0009669",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009669",
+  "relationships": {
+    "is_a": [
+      "GO:0005402",
+      "GO:0008515"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sucrose:monovalent cation symporter activity"
+    ],
+    "broad": [
+      "sucrose:cation symporter activity"
+    ],
+    "narrow": [],
+    "related": [
+      "sucrose permease activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jy"
+    ],
+    "TC": [
+      "2.A.2.-.-",
+      "2.A.2.4.1"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: sucrose(out) + monovalent cation(out) = sucrose(in) + monovalent cation(in).",
+  "namespace": "molecular_function",
+  "label": "sucrose:monoatomic cation symporter activity"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "GO:0016712",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016712",
+  "relationships": {
+    "is_a": [
+      "GO:0004497",
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "aryl hydrocarbon hydroxylase activity",
+      "aryl-4-monooxygenase activity",
+      "cytochrome P450 CYP19",
+      "cytochrome p450 activity",
+      "flavoprotein monooxygenase activity",
+      "flavoprotein-linked monooxygenase activity",
+      "microsomal P-450",
+      "microsomal monooxygenase activity",
+      "microsomal p450 activity",
+      "unspecific monooxygenase activity",
+      "xenobiotic monooxygenase activity"
+    ],
+    "related": [
+      "substrate,reduced-flavoprotein:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.-",
+      "1.14.14.-",
+      "1.14.14.1",
+      "1.14.14.1",
+      "1.14.14.1",
+      "1.14.14.1",
+      "1.14.14.1",
+      "1.14.14.1",
+      "1.14.14.1",
+      "1.14.14.1",
+      "1.14.14.1",
+      "1.14.14.1"
+    ],
+    "Reactome": [
+      "R-HSA-194678",
+      "R-HSA-211966"
+    ]
+  },
+  "definition": "Catalysis of an oxidation-reduction (redox) reaction in which hydrogen or electrons are transferred from reduced flavin or flavoprotein and one other donor, and one atom of oxygen is incorporated into one donor.",
+  "namespace": "molecular_function",
+  "label": "CYP2D6 4-hydroxylates debrisoquine"
+}

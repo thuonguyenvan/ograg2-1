@@ -1,0 +1,97 @@
+{
+  "id": "GO:1903898",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903898",
+  "relationships": {
+    "is_a": [
+      "GO:1900102",
+      "GO:1903897"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of PERK branch of UPR",
+      "down regulation of PERK-mediated unfolded protein response",
+      "down regulation of PKR-like ER kinase signal transduction",
+      "down regulation of UPR signaling by PERK stress sensor",
+      "down regulation of endoplasmic reticulum unfolded protein response; PERK signaling",
+      "down-regulation of PERK branch of UPR",
+      "down-regulation of PERK-mediated unfolded protein response",
+      "down-regulation of PKR-like ER kinase signal transduction",
+      "down-regulation of UPR signaling by PERK stress sensor",
+      "down-regulation of endoplasmic reticulum unfolded protein response; PERK signaling",
+      "downregulation of PERK branch of UPR",
+      "downregulation of PERK-mediated unfolded protein response",
+      "downregulation of PKR-like ER kinase signal transduction",
+      "downregulation of UPR signaling by PERK stress sensor",
+      "downregulation of endoplasmic reticulum unfolded protein response; PERK signaling",
+      "negative regulation of PERK branch of UPR",
+      "negative regulation of PKR-like ER kinase signal transduction",
+      "negative regulation of UPR signaling by PERK stress sensor",
+      "negative regulation of endoplasmic reticulum unfolded protein response; PERK signaling"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of PERK branch of UPR",
+      "inhibition of PERK-mediated unfolded protein response",
+      "inhibition of PKR-like ER kinase signal transduction",
+      "inhibition of UPR signaling by PERK stress sensor",
+      "inhibition of endoplasmic reticulum unfolded protein response; PERK signaling"
+    ],
+    "related": [
+      "down regulation of PERK signaling in response to endoplasmic reticulum stress",
+      "down-regulation of PERK signaling in response to endoplasmic reticulum stress",
+      "downregulation of PERK signaling in response to endoplasmic reticulum stress",
+      "inhibition of PERK signaling in response to endoplasmic reticulum stress",
+      "negative regulation of EIF2AK3-mediated unfolded protein response",
+      "negative regulation of PERK signaling in response to endoplasmic reticulum stress"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22013210"
+    ],
+    "HGNC": [
+      "3255"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of the PERK-mediated unfolded protein response.",
+  "namespace": "biological_process",
+  "label": "negative regulation of PERK-mediated unfolded protein response"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0030149",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030149",
+  "relationships": {
+    "is_a": [
+      "GO:0006665",
+      "GO:0046466"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sphingolipid breakdown",
+      "sphingolipid catabolism",
+      "sphingolipid degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9845614"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of sphingolipids, any of a class of lipids containing the long-chain amine diol sphingosine or a closely related base (a sphingoid).",
+  "namespace": "biological_process",
+  "label": "Sphingolipid catabolism"
+}

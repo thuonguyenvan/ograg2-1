@@ -1,0 +1,34 @@
+{
+  "id": "GO:0098932",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098932",
+  "relationships": {
+    "is_a": [
+      "GO:0052009"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "catabolism of host cell wall peptidoglycan by virus",
+      "degradation of host cell wall peptidoglycan by virus",
+      "degradation of host peptidoglycans during virus entry",
+      "disassembly by virus of host cell wall peptidoglycan",
+      "disruption by virus of host cell wall peptidoglycan during virus entry"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "3940",
+      "3940",
+      "3940"
+    ],
+    "GOC": [
+      "dos"
+    ]
+  },
+  "definition": "The disruption by a symbiont of host cell wall peptidoglycans to allow entry into the host cell.",
+  "namespace": "biological_process",
+  "label": "symbiont entry into host cell via disruption of host cell wall peptidoglycan"
+}

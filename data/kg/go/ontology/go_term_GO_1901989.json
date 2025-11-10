@@ -1,0 +1,48 @@
+{
+  "id": "GO:1901989",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901989",
+  "relationships": {
+    "is_a": [
+      "GO:0090068",
+      "GO:1901987"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "activation of cell cycle transition",
+      "positive regulation of cell cycle transition",
+      "up regulation of cell cycle phase transition",
+      "up regulation of cell cycle transition",
+      "up-regulation of cell cycle phase transition",
+      "up-regulation of cell cycle transition",
+      "upregulation of cell cycle phase transition",
+      "upregulation of cell cycle transition"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of cell cycle phase transition"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_cell_cycle",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "22841721"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of cell cycle phase transition.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cell cycle phase transition"
+}

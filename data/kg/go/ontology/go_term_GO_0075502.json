@@ -1,0 +1,31 @@
+{
+  "id": "GO:0075502",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075502",
+  "relationships": {
+    "is_a": [
+      "GO:0039665"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "viral entry into host cell via caveolae-mediated endocytosis followed by endosome membrane",
+      "viral entry into host cell via clathrin-mediated endocytosis followed by endosome membrane permeabilization"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "jl",
+      "bf",
+      "jl",
+      "bf",
+      "jl"
+    ]
+  },
+  "definition": "Induction of endosome membrane permeabilization triggered by an interaction between the host membrane and a membrane-penetration protein associated with the capsid. Occurs after internalization of the virus through the endosomal pathway, and results in delivery of the virus contents into the host cell cytoplasm.",
+  "namespace": "biological_process",
+  "label": "endosome membrane permeabilization involved in viral entry into host cell"
+}

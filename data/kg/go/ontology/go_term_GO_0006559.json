@@ -1,0 +1,33 @@
+{
+  "id": "GO:0006559",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006559",
+  "relationships": {
+    "is_a": [
+      "GO:0006558",
+      "GO:0009074",
+      "GO:0170035",
+      "GO:0170040"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-phenylalanine breakdown",
+      "L-phenylalanine catabolism",
+      "L-phenylalanine degradation"
+    ],
+    "broad": [
+      "phenylalanine catabolic process",
+      "phenylalanine catabolism"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-phenylalanine, 2-amino-3-phenylpropanoic acid.",
+  "namespace": "biological_process",
+  "label": "L-phenylalanine catabolic process"
+}

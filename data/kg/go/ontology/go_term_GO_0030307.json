@@ -1,0 +1,32 @@
+{
+  "id": "GO:0030307",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030307",
+  "relationships": {
+    "is_a": [
+      "GO:0001558",
+      "GO:0045927",
+      "GO:0048522"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of cell growth",
+      "up-regulation of cell growth",
+      "upregulation of cell growth"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of cell growth",
+      "stimulation of cell growth"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, extent or direction of cell growth.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cell growth"
+}

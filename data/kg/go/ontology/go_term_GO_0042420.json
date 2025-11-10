@@ -1,0 +1,35 @@
+{
+  "id": "GO:0042420",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042420",
+  "relationships": {
+    "is_a": [
+      "GO:0042417",
+      "GO:0042424"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dopamine breakdown",
+      "dopamine catabolism",
+      "dopamine degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-379397",
+      "R-HSA-379398"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of dopamine, a catecholamine neurotransmitter and a metabolic precursor of noradrenaline and adrenaline.",
+  "namespace": "biological_process",
+  "label": "Enzymatic degradation of Dopamine by monoamine oxidase"
+}

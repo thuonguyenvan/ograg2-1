@@ -1,0 +1,32 @@
+{
+  "id": "GO:0042816",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042816",
+  "relationships": {
+    "is_a": [
+      "GO:0072524"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "vitamin B6 metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-964975"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "30037155",
+      "30671974"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving any of the vitamin B6 compounds: pyridoxal, pyridoxamine and pyridoxine and the active form, pyridoxal phosphate.",
+  "namespace": "biological_process",
+  "label": "Vitamin B6 activation to pyridoxal phosphate"
+}

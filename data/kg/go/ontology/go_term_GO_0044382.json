@@ -1,0 +1,28 @@
+{
+  "id": "GO:0044382",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044382",
+  "relationships": {
+    "is_a": [
+      "GO:0031503",
+      "GO:0097355"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CLRC ubiquitin ligase complex localisation to heterochromatin",
+      "CLRC ubiquitin ligase complex localization to heterochromatin"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mah"
+    ]
+  },
+  "definition": "The process by which a CLRC complex is transported to, or maintained in, heterochromatin. CLRC complex is an active cullin-dependent E3 ubiquitin ligase complex essential for heterochromatin assembly by RNAi and histone H3K9 methylation.",
+  "namespace": "biological_process",
+  "label": "CLRC complex localization to heterochromatin"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "GO:1904189",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904189",
+  "relationships": {
+    "is_a": [
+      "GO:0048518",
+      "GO:1904187"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of viral transformation",
+      "positive regulation of viral transformation of host cell",
+      "up regulation of transformation of host cell by virus",
+      "up regulation of viral transformation",
+      "up regulation of viral transformation of host cell",
+      "up-regulation of transformation of host cell by virus",
+      "up-regulation of viral transformation",
+      "up-regulation of viral transformation of host cell",
+      "upregulation of transformation of host cell by virus",
+      "upregulation of viral transformation",
+      "upregulation of viral transformation of host cell"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of transformation of host cell by virus",
+      "activation of viral transformation",
+      "activation of viral transformation of host cell"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "12200142"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of transformation of host cell by virus.",
+  "namespace": "biological_process",
+  "label": "positive regulation of transformation of host cell by virus"
+}

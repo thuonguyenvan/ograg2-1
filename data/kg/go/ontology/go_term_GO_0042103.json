@@ -1,0 +1,35 @@
+{
+  "id": "GO:0042103",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042103",
+  "relationships": {
+    "is_a": [
+      "GO:0042102",
+      "GO:0046013"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of T lymphocyte homeostatic proliferation",
+      "positive regulation of T-cell homeostatic proliferation",
+      "positive regulation of T-lymphocyte homeostatic proliferation",
+      "positive regulation of resting T cell proliferation",
+      "up regulation of T cell homeostatic proliferation",
+      "up-regulation of T cell homeostatic proliferation",
+      "upregulation of T cell homeostatic proliferation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of T cell homeostatic proliferation",
+      "stimulation of T cell homeostatic proliferation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process that activates or increases the rate or extent of resting T cell proliferation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of T cell homeostatic proliferation"
+}

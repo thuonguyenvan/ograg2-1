@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047345",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047345",
+  "relationships": {
+    "is_a": [
+      "GO:0070566"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ADP:ribose-5-phosphate adenylyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ADP ribose phosphorylase activity",
+      "ADP-ribose phosphorylase activity",
+      "ADP:D-ribose-5-phosphate adenylyltransferase activity",
+      "adenosine diphosphoribose phosphorylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.35",
+      "2.7.7.35",
+      "2.7.7.35",
+      "2.7.7.35",
+      "2.7.7.35",
+      "2.7.7.35"
+    ],
+    "KEGG_REACTION": [
+      "R01052"
+    ],
+    "MetaCyc": [
+      "2.7.7.35-RXN"
+    ],
+    "RHEA": [
+      "14529",
+      "14529"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-ribose 5-phosphate + ADP + H+ = ADP-ribose + phosphate.",
+  "namespace": "molecular_function",
+  "label": "ribose-5-phosphate adenylyltransferase activity"
+}

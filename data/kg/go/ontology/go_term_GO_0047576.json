@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047576",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047576",
+  "relationships": {
+    "is_a": [
+      "GO:0019120"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-chlorobenzoate chlorohydrolase activity",
+      "halobenzoate dehalogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.8.1.6",
+      "3.8.1.6",
+      "3.8.1.6"
+    ],
+    "KEGG_REACTION": [
+      "R01307"
+    ],
+    "MetaCyc": [
+      "4-CHLOROBENZOATE-DEHALOGENASE-RXN"
+    ],
+    "RHEA": [
+      "23440",
+      "23440"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-chlorobenzoate + H2O = 4-hydroxybenzoate + chloride + H+.",
+  "namespace": "molecular_function",
+  "label": "4-chlorobenzoate dehalogenase activity"
+}

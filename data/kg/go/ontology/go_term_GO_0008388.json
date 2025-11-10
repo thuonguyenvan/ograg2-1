@@ -1,0 +1,30 @@
+{
+  "id": "GO:0008388",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008388",
+  "relationships": {
+    "is_a": [
+      "GO:0008395",
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "cytochrome P450 CYP2A4"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "83179",
+      "83179"
+    ],
+    "PMID": [
+      "2703500"
+    ]
+  },
+  "definition": "Catalysis of the reaction: reduced [NADPH-hemoprotein reductase] + O2 + a steroid = oxidized [NADPH-hemoprotein reductase] + H2O + H+ + 15alpha-hydroxy steroid.",
+  "namespace": "molecular_function",
+  "label": "steroid 15-alpha-hydroxylase activity"
+}

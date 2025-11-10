@@ -1,0 +1,29 @@
+{
+  "id": "GO:0070124",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070124",
+  "relationships": {
+    "is_a": [
+      "GO:0006413"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrial translation initiation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5368286"
+    ],
+    "GOC": [
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "The process preceding formation of the peptide bond between the first two amino acids of a protein in a mitochondrion. This includes the formation of a complex of the ribosome, mRNA, and an initiation complex that contains the first aminoacyl-tRNA.",
+  "namespace": "biological_process",
+  "label": "Mitochondrial translation initiation"
+}

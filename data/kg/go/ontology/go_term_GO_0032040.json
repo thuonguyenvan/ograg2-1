@@ -1,0 +1,34 @@
+{
+  "id": "GO:0032040",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032040",
+  "relationships": {
+    "is_a": [
+      "GO:0030684",
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SSU processome",
+      "small subunit processome"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "vw"
+    ],
+    "PMID": [
+      "12068309",
+      "12957375",
+      "15120992",
+      "15590835"
+    ]
+  },
+  "definition": "A large ribonucleoprotein complex that is an early preribosomal complex. In S. cerevisiae, it has a size of 80S and consists of the 35S pre-rRNA, early-associating ribosomal proteins most of which are part of the small ribosomal subunit, the U3 snoRNA and associated proteins.",
+  "namespace": "cellular_component",
+  "label": "small-subunit processome"
+}

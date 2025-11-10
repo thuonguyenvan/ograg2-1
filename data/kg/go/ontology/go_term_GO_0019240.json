@@ -1,0 +1,33 @@
+{
+  "id": "GO:0019240",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019240",
+  "relationships": {
+    "is_a": [
+      "GO:0000052",
+      "GO:0170043",
+      "GO:1901607"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "citrulline anabolism",
+      "citrulline biosynthesis",
+      "citrulline formation",
+      "citrulline synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "CITRULBIO-PWY"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of citrulline, N5-carbamoyl-L-ornithine, an alpha amino acid not found in proteins.",
+  "namespace": "biological_process",
+  "label": "citrulline biosynthetic process"
+}

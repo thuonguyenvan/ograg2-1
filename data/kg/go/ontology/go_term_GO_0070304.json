@@ -1,0 +1,41 @@
+{
+  "id": "GO:0070304",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070304",
+  "relationships": {
+    "is_a": [
+      "GO:0070302",
+      "GO:1902533"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of SAPK signaling pathway",
+      "positive regulation of stress-activated protein kinase signaling pathway",
+      "positive regulation of stress-activated protein kinase signalling pathway",
+      "up regulation of stress-activated protein kinase signaling pathway",
+      "up-regulation of stress-activated protein kinase signaling pathway",
+      "upregulation of stress-activated protein kinase signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of stress-activated protein kinase signaling pathway",
+      "stimulation of stress-activated protein kinase signaling pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of signaling via the stress-activated protein kinase signaling cascade.",
+  "namespace": "biological_process",
+  "label": "positive regulation of stress-activated protein kinase signaling cascade"
+}

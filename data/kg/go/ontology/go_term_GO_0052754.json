@@ -1,0 +1,30 @@
+{
+  "id": "GO:0052754",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052754",
+  "relationships": {
+    "is_a": [
+      "GO:0070568"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GTP:coenzyme F420 guanylyltransferase activity",
+      "coenzyme F390-G synthetase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-18273",
+      "RXN-18273"
+    ],
+    "GOC": [
+      "mengo_curators"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GTP + factor gamma-F420-2 + H+ = coenzyme F390-G + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "GTP:coenzyme F420 guanyltransferase activity"
+}

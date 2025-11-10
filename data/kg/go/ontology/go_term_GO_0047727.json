@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047727",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047727",
+  "relationships": {
+    "is_a": [
+      "GO:0016866"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-methylpropanoyl-CoA CoA-carbonylmutase activity",
+      "butyryl-CoA:isobutyryl-CoA mutase activity",
+      "isobutyryl coenzyme A mutase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.99.13",
+      "5.4.99.13",
+      "5.4.99.13",
+      "5.4.99.13",
+      "5.4.99.13"
+    ],
+    "KEGG_REACTION": [
+      "R01181"
+    ],
+    "MetaCyc": [
+      "ISOBUTYRYL-COA-MUTASE-RXN"
+    ],
+    "RHEA": [
+      "13141",
+      "13141"
+    ]
+  },
+  "definition": "Catalysis of the reaction: isobutyryl-CoA = butanoyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "isobutyryl-CoA mutase activity"
+}

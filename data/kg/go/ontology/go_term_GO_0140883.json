@@ -1,0 +1,29 @@
+{
+  "id": "GO:0140883",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140883",
+  "relationships": {
+    "is_a": [
+      "GO:0039520"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "activation of host reticulophagy by virus"
+    ],
+    "broad": [
+      "positive regulation by virus of host reticulophagy"
+    ],
+    "narrow": [
+      "induction by virus of host reticulophagy"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "35239449"
+    ]
+  },
+  "definition": "A process in which a symbiont initiates, promotes, or enhances the normal execution of host reticulophagy, leading to an increase in the frequency, rate or extent of reticulophagy in the host cell. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated activation of host reticulophagy"
+}

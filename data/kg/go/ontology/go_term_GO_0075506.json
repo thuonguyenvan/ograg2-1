@@ -1,0 +1,31 @@
+{
+  "id": "GO:0075506",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075506",
+  "relationships": {
+    "is_a": [
+      "GO:0075732"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "entry of viral genome into host nucleus via cellular importin transport through the nuclear pore complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "22929056"
+    ],
+    "VZ": [
+      "989"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Viral penetration into the host nucleus where the viral genome passes through the nuclear pore complex (NPC) using the cellular importin transport machinery.",
+  "namespace": "biological_process",
+  "label": "entry of viral genome into host nucleus through nuclear pore complex via importin"
+}

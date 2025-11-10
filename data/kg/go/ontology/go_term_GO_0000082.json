@@ -1,0 +1,27 @@
+{
+  "id": "GO:0000082",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000082",
+  "relationships": {
+    "is_a": [
+      "GO:0044772",
+      "GO:0044843"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-69206"
+    ],
+    "GOC": [
+      "mtg_cell_cycle"
+    ]
+  },
+  "definition": "The mitotic cell cycle transition by which a cell in G1 commits to S phase. The process begins with the build up of G1 cyclin-dependent kinase (G1 CDK), resulting in the activation of transcription of G1 cyclins. The process ends with the positive feedback of the G1 cyclins on the G1 CDK which commits the cell to S phase, in which DNA replication is initiated.",
+  "namespace": "biological_process",
+  "label": "G1/S Transition"
+}

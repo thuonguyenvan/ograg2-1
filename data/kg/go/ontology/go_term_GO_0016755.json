@@ -1,0 +1,28 @@
+{
+  "id": "GO:0016755",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016755",
+  "relationships": {
+    "is_a": [
+      "GO:0016746"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transferase activity, transferring amino-acyl groups"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.2.-"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Catalysis of the transfer of an amino-acyl group from one compound (donor) to another (acceptor).",
+  "namespace": "molecular_function",
+  "label": "aminoacyltransferase activity"
+}

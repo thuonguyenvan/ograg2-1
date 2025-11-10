@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047014",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047014",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-glycerol 3-phosphate:NADP oxidoreductase activity",
+      "NADPH-dependent glycerin-3-phosphate dehydrogenase activity",
+      "glycerin-3-phosphate dehydrogenase activity",
+      "glycerol phosphate (nicotinamide adenine dinucleotide phosphate) dehydrogenase activity",
+      "sn-glycerol-3-phosphate:NADP+ 1-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.177",
+      "1.1.1.177",
+      "1.1.1.177",
+      "1.1.1.177",
+      "1.1.1.177",
+      "1.1.1.177"
+    ],
+    "KEGG_REACTION": [
+      "R00845"
+    ],
+    "MetaCyc": [
+      "1.1.1.177-RXN"
+    ],
+    "RHEA": [
+      "19773",
+      "19773"
+    ]
+  },
+  "definition": "Catalysis of the reaction: sn-glycerol 3-phosphate + NADP+ = D-glyceraldehyde 3-phosphate + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "glycerol-3-phosphate 1-dehydrogenase (NADP+) activity"
+}

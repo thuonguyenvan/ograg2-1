@@ -1,0 +1,31 @@
+{
+  "id": "GO:0061665",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061665",
+  "relationships": {
+    "is_a": [
+      "GO:0019789",
+      "GO:0061659"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "E3"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9834809",
+      "R-HSA-9842868"
+    ],
+    "GOC": [
+      "dph",
+      "dph"
+    ]
+  },
+  "definition": "Catalysis of the transfer of SUMO to a substrate protein via the reaction X-SUMO + S = X + S-SUMO, where X is either an E2 or E3 enzyme, the X-SUMO linkage is a thioester bond, and the S-SUMO linkage is an isopeptide bond between the C-terminal amino acid of SUMO and the epsilon-amino group of lysine residues in the substrate.",
+  "namespace": "molecular_function",
+  "label": "TRIM28 in TRIM28:KRAB-ZFP:retroelement chromatin autoSUMOylates with SUMO2"
+}

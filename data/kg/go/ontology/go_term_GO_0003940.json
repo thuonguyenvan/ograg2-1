@@ -1,0 +1,43 @@
+{
+  "id": "GO:0003940",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003940",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alpha-L-iduronidase activity",
+      "glycosaminoglycan alpha-L-iduronohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.76",
+      "3.2.1.76",
+      "3.2.1.76",
+      "3.2.1.76"
+    ],
+    "MetaCyc": [
+      "3.2.1.76-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-1678716",
+      "R-HSA-1793186",
+      "R-HSA-2090037",
+      "R-HSA-2206299",
+      "R-HSA-9036037",
+      "R-HSA-9036041"
+    ],
+    "PMID": [
+      "35011691"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of alpha-L-iduronosidic linkages in dermatan sulfate. Can also hydrolyze alpha-L-iduronosidic linkages in heparan sulfate.",
+  "namespace": "molecular_function",
+  "label": "Defective IDUA does not hydrolyse the unsulfated alpha-L-iduronosidic link in DS"
+}

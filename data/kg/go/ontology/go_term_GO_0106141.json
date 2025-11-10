@@ -1,0 +1,30 @@
+{
+  "id": "GO:0106141",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106141",
+  "relationships": {
+    "is_a": [
+      "GO:0004659"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.129"
+    ],
+    "RHEA": [
+      "37743",
+      "37743"
+    ],
+    "PMID": [
+      "26083743"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dimethylallyl phosphate + FMNH2 = phosphate + prenyl-FMNH2.",
+  "namespace": "molecular_function",
+  "label": "flavin prenyltransferase activity"
+}

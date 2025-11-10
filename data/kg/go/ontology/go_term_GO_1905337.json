@@ -1,0 +1,42 @@
+{
+  "id": "GO:1905337",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905337",
+  "relationships": {
+    "is_a": [
+      "GO:0016239",
+      "GO:1905335"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of aggrephagy",
+      "up-regulation of aggrephagy",
+      "upregulation of aggrephagy"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of aggrephagy"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "pad",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25686248"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of aggrephagy.",
+  "namespace": "biological_process",
+  "label": "positive regulation of aggrephagy"
+}

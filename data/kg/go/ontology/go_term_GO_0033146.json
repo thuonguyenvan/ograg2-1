@@ -1,0 +1,31 @@
+{
+  "id": "GO:0033146",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033146",
+  "relationships": {
+    "is_a": [
+      "GO:0033143"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of estrogen receptor signalling pathway"
+    ],
+    "broad": [
+      "regulation of estrogen receptor signaling pathway"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8931987"
+    ],
+    "GOC": [
+      "mah",
+      "bf"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of the activity of an intracellular estrogen receptor signaling pathway.",
+  "namespace": "biological_process",
+  "label": "RUNX1 regulates estrogen receptor mediated transcription"
+}

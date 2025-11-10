@@ -1,0 +1,29 @@
+{
+  "id": "GO:0009554",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009554",
+  "relationships": {
+    "is_a": [
+      "GO:0048236"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "megaspore development",
+      "megaspore mother cell meiosis",
+      "meiosis of the megasporocyte",
+      "meiotic division of the megasporocyte"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_plant",
+      "tb"
+    ]
+  },
+  "definition": "The process in which the megasporocyte undergoes meiosis, giving rise to four haploid megaspores in the nucellus.",
+  "namespace": "biological_process",
+  "label": "megasporogenesis"
+}

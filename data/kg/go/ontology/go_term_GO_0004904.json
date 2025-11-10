@@ -1,0 +1,30 @@
+{
+  "id": "GO:0004904",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004904",
+  "relationships": {
+    "is_a": [
+      "GO:0004896"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IFN receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "signaling",
+      "mah"
+    ],
+    "PMID": [
+      "9607096"
+    ]
+  },
+  "definition": "Combining with an interferon and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.",
+  "namespace": "molecular_function",
+  "label": "interferon receptor activity"
+}

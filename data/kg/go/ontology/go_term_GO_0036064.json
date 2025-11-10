@@ -1,0 +1,39 @@
+{
+  "id": "GO:0036064",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036064",
+  "relationships": {
+    "is_a": [
+      "GO:0005815"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cilial basal body",
+      "cilium basal body",
+      "kinetosome",
+      "microtubule basal body"
+    ],
+    "broad": [
+      "basal body"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao11978067"
+    ],
+    "GOC": [
+      "cilia",
+      "clt",
+      "bf"
+    ],
+    "PMID": [
+      "21750193",
+      "11125699"
+    ]
+  },
+  "definition": "A membrane-tethered, short cylindrical array of microtubules and associated proteins found at the base of a eukaryotic cilium (also called flagellum) that is similar in structure to a centriole and derives from it. The cilium basal body is the site of assembly and remodeling of the cilium and serves as a nucleation site for axoneme growth. As well as anchoring the cilium, it is thought to provide a selective gateway regulating the entry of ciliary proteins and vesicles by intraflagellar transport.",
+  "namespace": "cellular_component",
+  "label": "ciliary basal body"
+}

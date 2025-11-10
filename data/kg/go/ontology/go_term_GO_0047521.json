@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047521",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047521",
+  "relationships": {
+    "is_a": [
+      "GO:0033764"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "12beta-hydroxy steroid (nicotinamide adenine dinucleotide phosphate) dehydrogenase activity",
+      "12beta-hydroxysteroid dehydrogenase activity",
+      "12beta-hydroxysteroid:NADP+ 12-oxidoreductase activity",
+      "3alpha,7alpha,12beta-trihydroxy-5beta-cholanate dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.238",
+      "1.1.1.238",
+      "1.1.1.238",
+      "1.1.1.238",
+      "1.1.1.238"
+    ],
+    "KEGG_REACTION": [
+      "R03495"
+    ],
+    "MetaCyc": [
+      "12-BETA-HYDROXYSTEROID-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "21424",
+      "21424"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-alpha,7-alpha,12-beta-trihydroxy-5-beta-cholanate + NADP+ = 3-alpha,7-alpha-dihydroxy-12-oxo-5-beta-cholanate + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "12-beta-hydroxysteroid dehydrogenase (NADP+) activity"
+}

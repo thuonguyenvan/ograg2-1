@@ -1,0 +1,30 @@
+{
+  "id": "GO:0051625",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051625",
+  "relationships": {
+    "is_a": [
+      "GO:0006810"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "adrenaline reuptake",
+      "adrenaline uptake",
+      "epinephrine import",
+      "epinephrine reuptake"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The directed movement of epinephrine into a cell, typically presynaptic neurons or glial cells. Epinephrine is a hormone produced by the medulla of the adrenal glands that increases heart activity, improves the power and prolongs the action of muscles, and increases the rate and depth of breathing. It is synthesized by the methylation of norepinephrine.",
+  "namespace": "biological_process",
+  "label": "epinephrine uptake"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GO:0004796",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004796",
+  "relationships": {
+    "is_a": [
+      "GO:0016860"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "cytochrome P450 CYP5"
+    ],
+    "related": [
+      "(5Z,13E)-(15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate isomerase activity",
+      "(5Z,13E)-(15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate thromboxane-A2-isomerase activity",
+      "thromboxane synthase activity",
+      "thromboxane synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.99.5",
+      "5.3.99.5",
+      "5.3.99.5",
+      "5.3.99.5",
+      "5.3.99.5",
+      "5.3.99.5"
+    ],
+    "KEGG_REACTION": [
+      "R02268"
+    ],
+    "MetaCyc": [
+      "THROMBOXANE-A-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "17137",
+      "17137"
+    ],
+    "Reactome": [
+      "R-HSA-5603275",
+      "R-HSA-76500"
+    ]
+  },
+  "definition": "Catalysis of the reaction: prostaglandin H(2) = thromboxane A(2).",
+  "namespace": "molecular_function",
+  "label": "TBXAS1 isomerises PGH2 to TXA2"
+}

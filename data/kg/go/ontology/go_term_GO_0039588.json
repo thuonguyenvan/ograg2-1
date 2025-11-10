@@ -1,0 +1,26 @@
+{
+  "id": "GO:0039588",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039588",
+  "relationships": {
+    "is_a": [
+      "GO:0039504"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "suppression by virus of host antigen processing and presentation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "815",
+      "815"
+    ]
+  },
+  "definition": "A process by which a symbiont inhibits or disrupts the normal processing and presentation of a peptide antigen on its cell surface in association with an MHC protein complex.",
+  "namespace": "biological_process",
+  "label": "Inhibition of host proteasome antigen processing by virus"
+}

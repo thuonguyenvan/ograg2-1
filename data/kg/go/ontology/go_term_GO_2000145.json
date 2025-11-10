@@ -1,0 +1,35 @@
+{
+  "id": "GO:2000145",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000145",
+  "relationships": {
+    "is_a": [
+      "GO:0040012",
+      "GO:0050794"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of cell locomotion",
+      "regulation of movement of a cell"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of cell movement"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6785631"
+    ],
+    "GOC": [
+      "mah",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of cell motility.",
+  "namespace": "biological_process",
+  "label": "ERBB2 Regulates Cell Motility"
+}

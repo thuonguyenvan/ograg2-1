@@ -1,0 +1,39 @@
+{
+  "id": "GO:0004447",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004447",
+  "relationships": {
+    "is_a": [
+      "GO:0140905"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "TPO activity",
+      "iodinase activity",
+      "thyroid peroxidase activity",
+      "thyroperoxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.11.1.8",
+      "1.11.1.8",
+      "1.11.1.8",
+      "1.11.1.8",
+      "1.11.1.8"
+    ],
+    "MetaCyc": [
+      "IODIDE-PEROXIDASE-RXN"
+    ],
+    "RHEA": [
+      "23336",
+      "23336"
+    ]
+  },
+  "definition": "Catalysis of the reaction: iodide + H2O2 = iodine + 2 H2O.",
+  "namespace": "molecular_function",
+  "label": "iodide peroxidase activity"
+}

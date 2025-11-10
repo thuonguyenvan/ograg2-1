@@ -1,0 +1,32 @@
+{
+  "id": "GO:0042809",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042809",
+  "relationships": {
+    "is_a": [
+      "GO:0016922"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "VDR binding"
+    ],
+    "broad": [
+      "vitamin D receptor binding"
+    ],
+    "narrow": [
+      "calciferol receptor binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "12637589"
+    ]
+  },
+  "definition": "Binding to a nuclear vitamin D receptor, a nuclear receptor that mediates the action of vitamin D by binding DNA and controlling the transcription of hormone-sensitive genes.",
+  "namespace": "molecular_function",
+  "label": "nuclear vitamin D receptor binding"
+}

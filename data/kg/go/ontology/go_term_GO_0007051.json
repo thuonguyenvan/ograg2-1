@@ -1,0 +1,31 @@
+{
+  "id": "GO:0007051",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007051",
+  "relationships": {
+    "is_a": [
+      "GO:0000226",
+      "GO:0022402"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "spindle organisation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "spindle organization and biogenesis",
+      "spindle stabilization"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of the spindle, the array of microtubules and associated molecules that forms between opposite poles of a eukaryotic cell during DNA segregation and serves to move the duplicated chromosomes apart.",
+  "namespace": "biological_process",
+  "label": "spindle organization"
+}

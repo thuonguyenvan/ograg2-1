@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102671",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102671",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.270",
+      "2.1.1.270"
+    ],
+    "MetaCyc": [
+      "RXN-4002"
+    ],
+    "RHEA": [
+      "35471"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (+)-6a-hydroxymaackiain + S-adenosyl-L-methionine = H+ + (+)-pisatin + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "6a-hydroxymaackiain-3-O-methyltransferase activity"
+}

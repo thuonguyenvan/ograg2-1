@@ -1,0 +1,29 @@
+{
+  "id": "GO:0019280",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019280",
+  "relationships": {
+    "is_a": [
+      "GO:0009092",
+      "GO:0071265",
+      "GO:0170041"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "HSERMETANA-PWY",
+      "HSERMETANA-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of methionine from L-homoserine, via the intermediate O-acetyl-L-homoserine using sulfur from hydrogen sulfide assimilation.",
+  "namespace": "biological_process",
+  "label": "L-methionine biosynthetic process from L-homoserine via O-acetyl-L-homoserine"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047205",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047205",
+  "relationships": {
+    "is_a": [
+      "GO:0050737"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "feruloyl-CoA:quinate O-(hydroxycinnamoyl)transferase activity",
+      "hydroxycinnamoyl coenzyme A-quinate transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.99",
+      "2.3.1.99",
+      "2.3.1.99",
+      "2.3.1.99"
+    ],
+    "MetaCyc": [
+      "2.3.1.99-RXN",
+      "2.3.1.99-RXN"
+    ],
+    "RHEA": [
+      "15021"
+    ]
+  },
+  "definition": "Catalysis of the reaction: feruloyl-CoA + quinate = O-feruloylquinate + CoA.",
+  "namespace": "molecular_function",
+  "label": "quinate O-hydroxycinnamoyltransferase activity"
+}

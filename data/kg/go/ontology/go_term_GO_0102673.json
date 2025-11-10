@@ -1,0 +1,29 @@
+{
+  "id": "GO:0102673",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102673",
+  "relationships": {
+    "is_a": [
+      "GO:0004029"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fatty aldehyde dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-4142"
+    ],
+    "RHEA": [
+      "49832",
+      "49832"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a fatty aldehyde + H2O + NAD+ = a fatty acid + 2 H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "fatty aldehyde dehydrogenase (NAD+) activity"
+}

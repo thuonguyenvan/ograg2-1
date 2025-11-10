@@ -1,0 +1,35 @@
+{
+  "id": "GO:0004075",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004075",
+  "relationships": {
+    "is_a": [
+      "GO:0016879"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "biotin carboxylase (component of acetyl CoA carboxylase) activity",
+      "biotin-carboxyl-carrier-protein:carbon-dioxide ligase (ADP-forming) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.4.14",
+      "6.3.4.14",
+      "6.3.4.14",
+      "6.3.4.14"
+    ],
+    "MetaCyc": [
+      "BIOTIN-CARBOXYL-RXN"
+    ],
+    "RHEA": [
+      "13501"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + biotin-carboxyl-carrier protein + CO2 = ADP + phosphate + carboxybiotin-carboxyl-carrier protein.",
+  "namespace": "molecular_function",
+  "label": "biotin carboxylase activity"
+}

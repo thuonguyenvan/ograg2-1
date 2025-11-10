@@ -1,0 +1,39 @@
+{
+  "id": "GO:0090443",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090443",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SIN inhibitory phosphatase (SIP) complex",
+      "SIN inhibitory phosphatase complex",
+      "SIP complex",
+      "striatin interacting phosphatase and kinase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "FAR complex",
+      "STRIPAK signalling complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "vw",
+      "vw",
+      "vw",
+      "vw"
+    ],
+    "PMID": [
+      "21561862",
+      "22119525",
+      "22119525"
+    ]
+  },
+  "definition": "A conserved protein phosphatase type 2A complex which contains a protein phosphatase type 2A, a protein phosphatase regulatory subunit, a striatin, an FHA domain protein and other subunits (at least six proteins). In fission yeast this complex negatively regulate the septation initiation network at the spindle pole body.",
+  "namespace": "cellular_component",
+  "label": "FAR/SIN/STRIPAK complex"
+}

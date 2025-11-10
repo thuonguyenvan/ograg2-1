@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140809",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140809",
+  "relationships": {
+    "is_a": [
+      "GO:0140794"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "H4-R3 citrullination",
+      "histone H4-R3 arginine deiminase activity",
+      "histone-arginine deiminase activity (H4-R3 specific)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "16567635"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + histone H4 L-arginyl (position 3)= histone H4 L-citrullyl (position 3) + NH4+, resulting in histone H4 citrullination at position 3.",
+  "namespace": "molecular_function",
+  "label": "histone H4R3 arginine deiminase activity"
+}

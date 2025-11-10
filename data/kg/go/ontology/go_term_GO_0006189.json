@@ -1,0 +1,34 @@
+{
+  "id": "GO:0006189",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006189",
+  "relationships": {
+    "is_a": [
+      "GO:0006188"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "&apos;de novo&apos; IMP anabolism",
+      "&apos;de novo&apos; IMP biosynthesis",
+      "&apos;de novo&apos; IMP formation",
+      "&apos;de novo&apos; IMP synthesis"
+    ],
+    "broad": [
+      "&apos;de novo&apos; purine biosynthesis",
+      "&apos;de novo&apos; purine biosynthetic process"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0716720094"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of IMP, inosine monophosphate, by the stepwise assembly of a purine ring on ribose 5-phosphate.",
+  "namespace": "biological_process",
+  "label": "&apos;de novo&apos; IMP biosynthetic process"
+}

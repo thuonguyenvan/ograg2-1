@@ -1,0 +1,32 @@
+{
+  "id": "GO:0007079",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007079",
+  "relationships": {
+    "is_a": [
+      "GO:0051305",
+      "GO:1903047"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chromosome migration to spindle pole during mitosis",
+      "chromosome movement towards spindle pole during mitosis",
+      "mitotic chromosome movement to spindle pole",
+      "mitotic sister chromosome movement towards spindle pole",
+      "sister chromosome movement towards spindle pole during mitosis"
+    ],
+    "broad": [
+      "mitotic chromosome movement"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The cell cycle process in which the directed movement of chromosomes from the center of the spindle towards the spindle poles occurs. This mediates by the shortening of microtubules attached to the chromosomes, during mitosis.",
+  "namespace": "biological_process",
+  "label": "mitotic chromosome movement towards spindle pole"
+}

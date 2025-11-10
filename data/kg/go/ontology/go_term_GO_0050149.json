@@ -1,0 +1,42 @@
+{
+  "id": "GO:0050149",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050149",
+  "relationships": {
+    "is_a": [
+      "GO:0016682"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-aminophenol:O2 oxidoreductase activity",
+      "2-aminophenol:oxygen oxidoreductase activity",
+      "GriF",
+      "isophenoxazine synthase activity",
+      "o-aminophenol:O2 oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.10.3.4",
+      "1.10.3.4",
+      "1.10.3.4",
+      "1.10.3.4",
+      "1.10.3.4",
+      "1.10.3.4",
+      "1.10.3.4"
+    ],
+    "MetaCyc": [
+      "O-AMINOPHENOL-OXIDASE-RXN",
+      "O-AMINOPHENOL-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "40963"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 2-aminophenol + 3 O2 = 2 isophenoxazine + 6 H2O.",
+  "namespace": "molecular_function",
+  "label": "o-aminophenol oxidase activity"
+}

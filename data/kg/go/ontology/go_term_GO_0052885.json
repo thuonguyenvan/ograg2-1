@@ -1,0 +1,44 @@
+{
+  "id": "GO:0052885",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052885",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "all-trans-retinol isomerase:hydrolase activity",
+      "retinoid isomerohydrolase activity",
+      "retinol isomerase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "all-trans-retinyl ester acylhydrolase, 11-cis retinol forming activity",
+      "all-trans-retinylester 11-cis isomerohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R08388"
+    ],
+    "MetaCyc": [
+      "RXN-12550"
+    ],
+    "RHEA": [
+      "31771",
+      "31771"
+    ],
+    "EC": [
+      "3.1.1.64",
+      "3.1.1.64",
+      "3.1.1.64",
+      "3.1.1.64",
+      "3.1.1.64"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + all-trans-retinyl ester = 11-cis-retinol + fatty acid.",
+  "namespace": "molecular_function",
+  "label": "all-trans-retinyl-ester hydrolase, 11-cis retinol forming activity"
+}

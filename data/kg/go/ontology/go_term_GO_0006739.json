@@ -1,0 +1,45 @@
+{
+  "id": "GO:0006739",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006739",
+  "relationships": {
+    "is_a": [
+      "GO:0006163",
+      "GO:0046496"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NADP (oxidized) metabolic process",
+      "NADP (oxidized) metabolism",
+      "NADP (reduced) metabolic process",
+      "NADP (reduced) metabolism",
+      "NADP metabolic process",
+      "NADP metabolism",
+      "NADPH metabolic process",
+      "NADPH metabolism",
+      "nicotinamide adenine dinucleotide phosphate metabolic process",
+      "nicotinamide adenine dinucleotide phosphate metabolism",
+      "oxidized NADP metabolic process",
+      "oxidized NADP metabolism",
+      "oxidized nicotinamide adenine dinucleotide phosphate metabolic process",
+      "oxidized nicotinamide adenine dinucleotide phosphate metabolism",
+      "reduced NADP metabolic process",
+      "reduced NADP metabolism",
+      "reduced nicotinamide adenine dinucleotide phosphate metabolic process",
+      "reduced nicotinamide adenine dinucleotide phosphate metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NAD phosphorylation and dephosphorylation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving nicotinamide adenine dinucleotide phosphate (NADP+), a coenzyme that interconverts with its reduced form, NADPH, in many redox and biosynthetic reactions.",
+  "namespace": "biological_process",
+  "label": "NADP+ metabolic process"
+}

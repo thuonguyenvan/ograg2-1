@@ -1,0 +1,30 @@
+{
+  "id": "GO:0044377",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044377",
+  "relationships": {
+    "is_a": [
+      "GO:0000978",
+      "GO:0044374"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RNA polymerase II core promoter proximal region sequence-specific DNA binding, bending",
+      "RNA polymerase II promoter proximal region sequence-specific DNA binding, bending",
+      "RNA polymerase II proximal promoter region sequence-specific DNA binding, bending",
+      "RNA polymerase II proximal promoter sequence-specific DNA binding, bending"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "pg"
+    ]
+  },
+  "definition": "Binding to a specific upstream regulatory DNA sequence (transcription factor recognition sequence or binding site) located in cis relative to the transcription start site (i.e., on the same strand of DNA) of a gene transcribed by RNA polymerase II, and distorting the original structure of DNA, typically a straight helix, into a bend, or increasing the bend if the original structure was intrinsically bent due to its sequence.",
+  "namespace": "molecular_function",
+  "label": "RNA polymerase II cis-regulatory region sequence-specific DNA binding, bending"
+}

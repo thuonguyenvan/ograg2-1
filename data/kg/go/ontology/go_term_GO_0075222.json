@@ -1,0 +1,29 @@
+{
+  "id": "GO:0075222",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075222",
+  "relationships": {
+    "is_a": [
+      "GO:0043582"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "germination of symbiont sporangium on or near host",
+      "sporangium germination on or near host",
+      "symbiont sporangium germination on or near host"
+    ],
+    "broad": [],
+    "narrow": [
+      "direct germination on or near host"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pamgo_curators"
+    ]
+  },
+  "definition": "The physiological, developmental and morphological changes that occur in a symbiont sporangium following release from dormancy up to the earliest signs of growth. A sporangium is a structure producing and containing spores.",
+  "namespace": "biological_process",
+  "label": "sporangium germination"
+}

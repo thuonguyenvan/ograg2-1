@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102933",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102933",
+  "relationships": {
+    "is_a": [
+      "GO:0008483"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.102"
+    ],
+    "MetaCyc": [
+      "RXN-8953"
+    ],
+    "RHEA": [
+      "36779",
+      "36779"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GDP-4-amino-4,6-dideoxy-alpha-D-mannose + 2-oxoglutarate = GDP-4-dehydro-6-deoxy-alpha-D-mannose + L-glutamate.",
+  "namespace": "molecular_function",
+  "label": "GDP-4-dehydro-6-deoxy-D-mannose-4-aminotransferase activity"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:0180033",
+  "uri": "http://purl.obolibrary.org/obo/GO_0180033",
+  "relationships": {
+    "is_a": [
+      "GO:0141051",
+      "GO:0141221"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "histone H4K48 deacetylase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "37459529"
+    ]
+  },
+  "definition": "Catalysis of the reaction: histone H4 N6-acetyl-L-lysine (position 8) + H2O = histone H4 L-lysine (position 8) + acetate. This reaction represents the removal of an acetyl group from lysine at position 8 of the histone H4 protein.",
+  "namespace": "molecular_function",
+  "label": "histone H4K8 deacetylase activity, hydrolytic mechanism"
+}

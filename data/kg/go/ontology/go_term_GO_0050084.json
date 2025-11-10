@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050084",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050084",
+  "relationships": {
+    "is_a": [
+      "GO:0016791"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-mannitol-1-phosphate phosphohydrolase activity",
+      "mannitol-1-phosphate phosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.3.22",
+      "3.1.3.22",
+      "3.1.3.22",
+      "3.1.3.22"
+    ],
+    "KEGG_REACTION": [
+      "R02167"
+    ],
+    "MetaCyc": [
+      "MANNITOL-1-PHOSPHATASE-RXN"
+    ],
+    "RHEA": [
+      "19537",
+      "19537"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-mannitol 1-phosphate + H2O = D-mannitol + 2 H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "mannitol-1-phosphatase activity"
+}

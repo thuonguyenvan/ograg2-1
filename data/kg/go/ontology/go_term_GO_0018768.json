@@ -1,0 +1,33 @@
+{
+  "id": "GO:0018768",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018768",
+  "relationships": {
+    "is_a": [
+      "GO:0016823"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.7.1.13"
+    ],
+    "MetaCyc": [
+      "RXN-11543"
+    ],
+    "RHEA": [
+      "27870",
+      "27870"
+    ],
+    "UM-BBD_reactionID": [
+      "r0458"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2E,4E)-6-(2-aminophenyl)-2-hydroxy-6-oxohexa-2,4-dienoate + H2O = (2E)-2-hydroxypenta-2,4-dienoate + anthranilate + H+.",
+  "namespace": "molecular_function",
+  "label": "2-hydroxy-6-oxo-6-(2&apos;-aminophenyl)hexa-2,4-dienoate hydrolase activity"
+}

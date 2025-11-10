@@ -1,0 +1,32 @@
+{
+  "id": "GO:0007166",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007166",
+  "relationships": {
+    "is_a": [
+      "GO:0007165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell surface receptor linked signal transduction",
+      "cell surface receptor linked signaling pathway",
+      "cell surface receptor linked signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-73887"
+    ],
+    "GOC": [
+      "signaling",
+      "bf",
+      "mah"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by an extracellular ligand binding to a receptor located on the cell surface. The pathway ends with regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "Death Receptor Signaling"
+}

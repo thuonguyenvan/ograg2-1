@@ -1,0 +1,28 @@
+{
+  "id": "GO:0043137",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043137",
+  "relationships": {
+    "is_a": [
+      "GO:0006401"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Okazaki initiator RNA removal"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "12424238"
+    ]
+  },
+  "definition": "Removal of the Okazaki RNA primer from the lagging strand of replicating DNA, by a combination of the actions of DNA polymerase, DNA helicase and an endonuclease.",
+  "namespace": "biological_process",
+  "label": "DNA replication, removal of RNA primer"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0016104",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016104",
+  "relationships": {
+    "is_a": [
+      "GO:0006722",
+      "GO:0016114"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "triterpenoid anabolism",
+      "triterpenoid biosynthesis",
+      "triterpenoid formation",
+      "triterpenoid synthesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "triterpene biosynthesis",
+      "triterpene biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of triterpenoid compounds, terpenoids with six isoprene units.",
+  "namespace": "biological_process",
+  "label": "triterpenoid biosynthetic process"
+}

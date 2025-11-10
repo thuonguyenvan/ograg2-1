@@ -1,0 +1,27 @@
+{
+  "id": "GO:0043330",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043330",
+  "relationships": {
+    "is_a": [
+      "GO:0043331"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to exogenous double-stranded RNA"
+    ],
+    "broad": [],
+    "narrow": [
+      "response to viral dsRNA"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an exogenous double-stranded RNA stimulus.",
+  "namespace": "biological_process",
+  "label": "response to exogenous dsRNA"
+}

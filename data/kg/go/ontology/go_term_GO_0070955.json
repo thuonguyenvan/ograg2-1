@@ -1,0 +1,39 @@
+{
+  "id": "GO:0070955",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070955",
+  "relationships": {
+    "is_a": [
+      "GO:0002832",
+      "GO:0031348",
+      "GO:0032102",
+      "GO:0051711",
+      "GO:0070949",
+      "GO:0070954"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of neutrophil mediated killing of symbiont cell",
+      "down-regulation of neutrophil mediated killing of symbiont cell",
+      "downregulation of neutrophil mediated killing of symbiont cell"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of neutrophil mediated killing of symbiont cell"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that decreases the frequency, rate or extent of the directed killing of a symbiont target cell by a neutrophil.",
+  "namespace": "biological_process",
+  "label": "negative regulation of neutrophil mediated killing of symbiont cell"
+}

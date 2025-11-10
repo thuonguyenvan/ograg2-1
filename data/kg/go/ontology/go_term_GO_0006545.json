@@ -1,0 +1,33 @@
+{
+  "id": "GO:0006545",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006545",
+  "relationships": {
+    "is_a": [
+      "GO:0006544",
+      "GO:0009070",
+      "GO:0170038"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycine anabolism",
+      "glycine biosynthesis",
+      "glycine formation",
+      "glycine synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "GLYCINE-SYN2-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of glycine, aminoethanoic acid.",
+  "namespace": "biological_process",
+  "label": "glycine biosynthetic process"
+}

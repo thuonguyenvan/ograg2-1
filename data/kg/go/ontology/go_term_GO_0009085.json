@@ -1,0 +1,32 @@
+{
+  "id": "GO:0009085",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009085",
+  "relationships": {
+    "is_a": [
+      "GO:0006553",
+      "GO:0009067"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lysine anabolism",
+      "lysine biosynthesis",
+      "lysine formation",
+      "lysine synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "LYSINE-SYN"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of lysine, 2,6-diaminohexanoic acid.",
+  "namespace": "biological_process",
+  "label": "lysine biosynthetic process"
+}

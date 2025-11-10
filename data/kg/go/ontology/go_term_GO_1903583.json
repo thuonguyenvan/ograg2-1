@@ -1,0 +1,42 @@
+{
+  "id": "GO:1903583",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903583",
+  "relationships": {
+    "is_a": [
+      "GO:0002888",
+      "GO:0043302",
+      "GO:0050778",
+      "GO:1903581"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of basophil degranulation",
+      "up-regulation of basophil degranulation",
+      "upregulation of basophil degranulation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of basophil degranulation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "10880837"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of basophil degranulation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of basophil degranulation"
+}

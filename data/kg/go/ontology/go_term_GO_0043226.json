@@ -1,0 +1,29 @@
+{
+  "id": "GO:0043226",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043226",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1539965131"
+    ],
+    "Wikipedia": [
+      "Organelle"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Organized structure of distinctive morphology and function. Includes the nucleus, mitochondria, plastids, vacuoles, vesicles, ribosomes and the cytoskeleton, and prokaryotic structures such as anammoxosomes and pirellulosomes. Excludes the plasma membrane.",
+  "namespace": "cellular_component",
+  "label": "organelle"
+}

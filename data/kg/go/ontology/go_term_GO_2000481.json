@@ -1,0 +1,48 @@
+{
+  "id": "GO:2000481",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000481",
+  "relationships": {
+    "is_a": [
+      "GO:0071902",
+      "GO:2000479"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of 3&apos;,5&apos; cAMP-dependent protein kinase activity",
+      "positive regulation of 3&apos;,5&apos;-cAMP-dependent protein kinase activity",
+      "positive regulation of ATP:protein phosphotransferase (cAMP-dependent) activity",
+      "positive regulation of adenosine 3&apos;,5&apos;-cyclophosphate-dependent protein kinase activity",
+      "positive regulation of cAMP-dependent protein kinase, intrinsic catalyst activity",
+      "positive regulation of cyclic AMP-dependent protein kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of AMPK",
+      "positive regulation of PKA",
+      "positive regulation of PKA C",
+      "positive regulation of STK22",
+      "positive regulation of protein kinase A activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of cAMP-dependent protein kinase activity.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cAMP-dependent protein kinase activity"
+}

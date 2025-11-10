@@ -1,0 +1,34 @@
+{
+  "id": "GO:0120319",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120319",
+  "relationships": {
+    "is_a": [
+      "GO:0120502"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cytochrome P450 fatty acid omega-1 hydroxylase activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "60936",
+      "60936"
+    ],
+    "GOC": [
+      "nhn"
+    ],
+    "PMID": [
+      "18577768",
+      "22772592",
+      "24242247"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an (omega-1)-ethyl long-chain fatty acid + O2 + reduced [NADPH-hemoprotein reductase] = an (omega-1)-hydroxy-long-chain fatty acid + H+ + H2O + oxidized [NADPH-hemoprotein reductase. A long-chain fatty acid has an aliphatic tail containing 13 to 22 carbons.",
+  "namespace": "molecular_function",
+  "label": "long-chain fatty acid omega-1 hydroxylase activity"
+}

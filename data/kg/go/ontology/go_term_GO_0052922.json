@@ -1,0 +1,42 @@
+{
+  "id": "GO:0052922",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052922",
+  "relationships": {
+    "is_a": [
+      "GO:0120531"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "(all-E) hexaprenyl diphosphate synthase activity",
+      "(all-trans)-hexaprenyl-diphosphate synthase activity",
+      "hexaprenyl diphosphate synthase activity",
+      "hexaprenyl pyrophosphate synthetase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.82",
+      "2.5.1.82",
+      "2.5.1.82",
+      "2.5.1.82",
+      "2.5.1.82"
+    ],
+    "KEGG_REACTION": [
+      "R09246"
+    ],
+    "MetaCyc": [
+      "RXN-11485"
+    ],
+    "RHEA": [
+      "27555",
+      "27555"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 isopentenyl diphosphate + (2E,6E,10E)-geranylgeranyl diphosphate = all-trans-hexaprenyl diphosphate + 2 diphosphate.",
+  "namespace": "molecular_function",
+  "label": "hexaprenyl diphosphate synthase (geranylgeranyl-diphosphate specific) activity"
+}

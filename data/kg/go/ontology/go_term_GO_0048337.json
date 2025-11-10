@@ -1,0 +1,32 @@
+{
+  "id": "GO:0048337",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048337",
+  "relationships": {
+    "is_a": [
+      "GO:0042660",
+      "GO:0042661",
+      "GO:1905772"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of mesodermal cell fate specification",
+      "up-regulation of mesodermal cell fate specification",
+      "upregulation of mesodermal cell fate specification"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of mesodermal cell fate specification",
+      "stimulation of mesodermal cell fate specification"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dgh"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of mesoderm cell fate specification.",
+  "namespace": "biological_process",
+  "label": "positive regulation of mesodermal cell fate specification"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050042",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050042",
+  "relationships": {
+    "is_a": [
+      "GO:0016614"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(S)-lactate:oxaloacetate oxidoreductase activity",
+      "malate-lactate transhydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.99.7",
+      "1.1.99.7",
+      "1.1.99.7",
+      "1.1.99.7"
+    ],
+    "KEGG_REACTION": [
+      "R01447"
+    ],
+    "MetaCyc": [
+      "LACTATE-MALATE-TRANSHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "10984",
+      "10984"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-lactate + oxaloacetate = malate + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "lactate-malate transhydrogenase activity"
+}

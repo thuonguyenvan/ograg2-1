@@ -1,0 +1,33 @@
+{
+  "id": "GO:0046601",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046601",
+  "relationships": {
+    "is_a": [
+      "GO:0046599",
+      "GO:0051495",
+      "GO:0090068",
+      "GO:1902117"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of centriole replication",
+      "up-regulation of centriole replication",
+      "upregulation of centriole replication"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of centriole replication",
+      "stimulation of centriole replication"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of centriole replication.",
+  "namespace": "biological_process",
+  "label": "positive regulation of centriole replication"
+}

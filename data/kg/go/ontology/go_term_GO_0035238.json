@@ -1,0 +1,30 @@
+{
+  "id": "GO:0035238",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035238",
+  "relationships": {
+    "is_a": [
+      "GO:0006776",
+      "GO:0016102",
+      "GO:0042362"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "vitamin A anabolism",
+      "vitamin A biosynthesis",
+      "vitamin A formation",
+      "vitamin A synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11158606"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of any of the vitamin A compounds, retinol, retinal (retinaldehyde) and retinoic acid. Animals cannot synthesize vitamin A de novo, but form it through oxidative cleavage of carotenoids.",
+  "namespace": "biological_process",
+  "label": "vitamin A biosynthetic process"
+}

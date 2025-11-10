@@ -1,0 +1,31 @@
+{
+  "id": "GO:0015151",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015151",
+  "relationships": {
+    "is_a": [
+      "GO:0042947"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0198506732",
+      "0815340729"
+    ],
+    "PMID": [
+      "28510148"
+    ]
+  },
+  "definition": "Enables the transfer of alpha-glucosides from one side of a membrane to the other. Alpha-glucosides are glycosides in which the sugar group is a glucose residue, and the anomeric carbon of the bond is in an alpha configuration.",
+  "namespace": "molecular_function",
+  "label": "alpha-glucoside transmembrane transporter activity"
+}

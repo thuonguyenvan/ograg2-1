@@ -1,0 +1,39 @@
+{
+  "id": "GO:0042423",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042423",
+  "relationships": {
+    "is_a": [
+      "GO:0006584",
+      "GO:0009713",
+      "GO:0042401"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "catecholamine anabolism",
+      "catecholamine biosynthesis",
+      "catecholamine formation",
+      "catecholamine synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-209905"
+    ],
+    "Wikipedia": [
+      "Catecholamines"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of any of a group of physiologically important biogenic amines that possess a catechol (3,4-dihydroxyphenyl) nucleus and are derivatives of 3,4-dihydroxyphenylethylamine.",
+  "namespace": "biological_process",
+  "label": "Catecholamine biosynthesis"
+}

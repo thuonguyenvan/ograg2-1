@@ -1,0 +1,37 @@
+{
+  "id": "GO:0052811",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052811",
+  "relationships": {
+    "is_a": [
+      "GO:0052742"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphatidylinositol 3-phosphate 4-kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-10957"
+    ],
+    "RHEA": [
+      "63688",
+      "63688"
+    ],
+    "Reactome": [
+      "R-HSA-1676145"
+    ],
+    "PMID": [
+      "9211928",
+      "9367159",
+      "9660759"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1-phosphatidyl-1D-myo-inositol 3-phosphate + ATP = a 1-phosphatidyl-1D-myo-inositol 3,4-bisphosphate + ADP + H+.",
+  "namespace": "molecular_function",
+  "label": "PI3P is phosphorylated to PI(3,4)P2 by PIP4K2/5K1 at the plasma membrane"
+}

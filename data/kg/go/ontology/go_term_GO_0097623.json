@@ -1,0 +1,34 @@
+{
+  "id": "GO:0097623",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097623",
+  "relationships": {
+    "is_a": [
+      "GO:0071805",
+      "GO:0140115"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "potassium export across plasma membrane",
+      "potassium ion export from cell"
+    ],
+    "broad": [
+      "potassium export",
+      "potassium ion export"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw",
+      "mah"
+    ],
+    "PMID": [
+      "11932440"
+    ]
+  },
+  "definition": "The directed movement of potassium ions from inside of a cell, across the plasma membrane and into the extracellular region.",
+  "namespace": "biological_process",
+  "label": "potassium ion export across plasma membrane"
+}

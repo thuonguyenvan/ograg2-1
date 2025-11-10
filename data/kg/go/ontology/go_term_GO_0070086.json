@@ -1,0 +1,33 @@
+{
+  "id": "GO:0070086",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070086",
+  "relationships": {
+    "is_a": [
+      "GO:0006897",
+      "GO:0015031",
+      "GO:0033365",
+      "GO:0072594"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ubiquitin-mediated endocytosis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jp",
+      "mah",
+      "jp"
+    ],
+    "PMID": [
+      "9409540"
+    ]
+  },
+  "definition": "Endocytosis of a protein that requires the substrate to be modified by ubiquitination. Several plasma membrane proteins, including cell surface permeases and some receptors, are targeted for internalization by endocytosis, and are thereafter delivered to the vacuole or lysosome, where they are degraded.",
+  "namespace": "biological_process",
+  "label": "ubiquitin-dependent endocytosis"
+}

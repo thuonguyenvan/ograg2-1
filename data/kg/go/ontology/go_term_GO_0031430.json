@@ -1,0 +1,37 @@
+{
+  "id": "GO:0031430",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031430",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "M disc",
+      "mesophragma"
+    ],
+    "broad": [
+      "midline"
+    ],
+    "narrow": [
+      "M line"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Sarcomere#bands"
+    ],
+    "GOC": [
+      "mtg_muscle"
+    ],
+    "ISBN": [
+      "0198506732",
+      "0815316194"
+    ]
+  },
+  "definition": "The midline of aligned thick filaments in a sarcomere; location of specific proteins that link thick filaments. Depending on muscle type the M band consists of different numbers of M lines.",
+  "namespace": "cellular_component",
+  "label": "M band"
+}

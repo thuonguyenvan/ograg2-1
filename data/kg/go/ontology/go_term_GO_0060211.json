@@ -1,0 +1,28 @@
+{
+  "id": "GO:0060211",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060211",
+  "relationships": {
+    "is_a": [
+      "GO:0061013"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of 3&apos; to 5&apos; mRNA deadenylation",
+      "regulation of mRNA deadenylation",
+      "regulation of nuclear mRNA poly(A) tail shortening"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of poly(A) tail shortening of a nuclear-transcribed mRNA. Poly(A) tail shortening is the decrease in length of the poly(A) tail of an mRNA from full length to an oligo(A) length.",
+  "namespace": "biological_process",
+  "label": "regulation of nuclear-transcribed mRNA poly(A) tail shortening"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:1990130",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990130",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IML1 complex",
+      "SEACIT complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "rb"
+    ],
+    "PMID": [
+      "21900499",
+      "23723238",
+      "23974112",
+      "25934700",
+      "28199306",
+      "29199950"
+    ]
+  },
+  "definition": "A GTPase-activating protein (GAP) complex that regulates TORC1 signaling by interacting with the Rag GTPase. In human, the GATOR1 complex consists of DEPDC5, NPRL2, and NPRL3. In S. cerevisiae, this complex is referred to as SEACIT and contains the Iml1p, Npr2p, and Npr3p proteins.",
+  "namespace": "cellular_component",
+  "label": "GATOR1 complex"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "GO:0007005",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007005",
+  "relationships": {
+    "is_a": [
+      "GO:0006996"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondria organization",
+      "mitochondrial biogenesis",
+      "mitochondrial organization",
+      "mitochondrion biogenesis",
+      "mitochondrion organisation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "mitochondrion morphogenesis",
+      "mitochondrion organization and biogenesis"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1592230"
+    ],
+    "GOC": [
+      "dph",
+      "jl",
+      "mah",
+      "sgd_curators",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "9786946"
+    ]
+  },
+  "definition": "A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of a mitochondrion; includes mitochondrial morphogenesis and distribution, and replication of the mitochondrial genome as well as synthesis of new mitochondrial components.",
+  "namespace": "biological_process",
+  "label": "Mitochondrial biogenesis"
+}

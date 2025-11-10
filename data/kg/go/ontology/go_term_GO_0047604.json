@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047604",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047604",
+  "relationships": {
+    "is_a": [
+      "GO:0016856"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetylmethylcarbinol racemase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.2.4",
+      "5.1.2.4",
+      "5.1.2.4"
+    ],
+    "KEGG_REACTION": [
+      "R02949"
+    ],
+    "MetaCyc": [
+      "ACETOIN-RACEMASE-RXN"
+    ],
+    "RHEA": [
+      "12092",
+      "12092"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-acetoin = (R)-acetoin.",
+  "namespace": "molecular_function",
+  "label": "acetoin racemase activity"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047575",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047575",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-carboxymonolactone carboxy-lyase activity",
+      "4-carboxymuconolactone carboxy-lyase (4,5-dihydro-5-oxofuran-2-acetate-forming)",
+      "4-carboxymuconolactone carboxy-lyase activity",
+      "gamma-4-carboxymuconolactone decarboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.44",
+      "4.1.1.44",
+      "4.1.1.44",
+      "4.1.1.44",
+      "4.1.1.44",
+      "4.1.1.44"
+    ],
+    "KEGG_REACTION": [
+      "R03470"
+    ],
+    "MetaCyc": [
+      "4-CARBOXYMUCONOLACTONE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "23348",
+      "23348"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-2-(carboxymethyl)-5-oxo-2,5-dihydro-2-furoate + H+ = 5-oxo-4,5-dihydro-2-furylacetate + CO2.",
+  "namespace": "molecular_function",
+  "label": "4-carboxymuconolactone decarboxylase activity"
+}

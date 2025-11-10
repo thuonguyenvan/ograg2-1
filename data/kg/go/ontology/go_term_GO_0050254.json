@@ -1,0 +1,48 @@
+{
+  "id": "GO:0050254",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050254",
+  "relationships": {
+    "is_a": [
+      "GO:0004703"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "rhodopsin kinase (phosphorylating) activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "GPCR kinase 1 activity",
+      "cone opsin kinase activity"
+    ],
+    "related": [
+      "opsin kinase (phosphorylating) activity",
+      "opsin kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.11.14",
+      "2.7.11.14",
+      "2.7.11.14",
+      "2.7.11.14",
+      "2.7.11.14",
+      "2.7.11.14"
+    ],
+    "MetaCyc": [
+      "2.7.11.14-RXN"
+    ],
+    "RHEA": [
+      "23356"
+    ],
+    "Reactome": [
+      "R-HSA-2581474"
+    ],
+    "PMID": [
+      "14654303"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + rhodopsin = ADP + phosphorhodopsin.",
+  "namespace": "molecular_function",
+  "label": "GRK1,4,7 phosphorylate MII to p-MII"
+}

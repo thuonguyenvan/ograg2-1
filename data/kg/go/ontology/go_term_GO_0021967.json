@@ -1,0 +1,35 @@
+{
+  "id": "GO:0021967",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021967",
+  "relationships": {
+    "is_a": [
+      "GO:0007411"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "corticospinal neuron axon pathfinding through the cerebral cortex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid",
+      "mah"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "9878731"
+    ]
+  },
+  "definition": "The process in which the migration of an axon growth cone of a pyramidal cell that is part of the corticospinal tract is directed from its cell body in layer V through the cerebral cortex in response to a combination of attractive and repulsive cues.",
+  "namespace": "biological_process",
+  "label": "corticospinal neuron axon guidance through the cerebral cortex"
+}

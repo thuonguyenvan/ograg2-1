@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050557",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050557",
+  "relationships": {
+    "is_a": [
+      "GO:0016810"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "deacetylipecoside dopamine-lyase (secologanin-forming)",
+      "deacetylipecoside dopamine-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.99.16",
+      "3.5.99.16",
+      "3.5.99.16"
+    ],
+    "KEGG_REACTION": [
+      "R05749"
+    ],
+    "MetaCyc": [
+      "4.3.3.4-RXN"
+    ],
+    "RHEA": [
+      "12296",
+      "12296"
+    ]
+  },
+  "definition": "Catalysis of the reaction: deacetylipecoside + H2O = dopamine + secologanin.",
+  "namespace": "molecular_function",
+  "label": "deacetylipecoside synthase activity"
+}

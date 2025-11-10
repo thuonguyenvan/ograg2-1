@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047175",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047175",
+  "relationships": {
+    "is_a": [
+      "GO:0008374"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acyl-ACP:lyso-MGDG acyltransferase activity",
+      "acyl-acyl-carrier protein: lysomonogalactosyldiacylglycerol acyltransferase activity",
+      "acyl-acyl-carrier-protein:D-galactosylacylglycerol O-acyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.141",
+      "2.3.1.141",
+      "2.3.1.141",
+      "2.3.1.141",
+      "2.3.1.141"
+    ],
+    "MetaCyc": [
+      "2.3.1.141-RXN",
+      "2.3.1.141-RXN"
+    ],
+    "RHEA": [
+      "17057"
+    ]
+  },
+  "definition": "Catalysis of the reaction: sn-3-D-galactosyl-sn-2-acylglycerol + acyl-[acyl-carrier protein] = D-galactosyldiacylglycerol + [acyl-carrier protein].",
+  "namespace": "molecular_function",
+  "label": "galactosylacylglycerol O-acyltransferase activity"
+}

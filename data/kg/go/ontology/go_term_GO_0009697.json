@@ -1,0 +1,34 @@
+{
+  "id": "GO:0009697",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009697",
+  "relationships": {
+    "is_a": [
+      "GO:0009696",
+      "GO:0046189",
+      "GO:0072330"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "salicylate biosynthetic process",
+      "salicylic acid anabolism",
+      "salicylic acid biosynthesis",
+      "salicylic acid formation",
+      "salicylic acid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-981"
+    ],
+    "ISBN": [
+      "0943088399"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of salicylic acid (2-hydroxybenzoic acid), a derivative of benzoic acid.",
+  "namespace": "biological_process",
+  "label": "salicylic acid biosynthetic process"
+}

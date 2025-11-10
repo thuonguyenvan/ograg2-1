@@ -1,0 +1,53 @@
+{
+  "id": "GO:0047154",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047154",
+  "relationships": {
+    "is_a": [
+      "GO:0016743"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "methylmalonyl-CoA carboxyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(S)-2-methyl-3-oxopropanoyl-CoA:pyruvate",
+      "(S)-2-methyl-3-oxopropanoyl-CoA:pyruvate carboxyltransferase activity",
+      "(S)-methylmalonyl-CoA:pyruvate carboxyltransferase activity",
+      "(S)-methylmalonyl-CoA:pyruvate carboxytransferase activity",
+      "methylmalonyl coenzyme A carboxyltransferase activity",
+      "methylmalonyl-CoA transcarboxylase activity",
+      "oxalacetic transcarboxylase activity",
+      "transcarboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.3.1",
+      "2.1.3.1",
+      "2.1.3.1",
+      "2.1.3.1",
+      "2.1.3.1",
+      "2.1.3.1",
+      "2.1.3.1",
+      "2.1.3.1",
+      "2.1.3.1",
+      "2.1.3.1"
+    ],
+    "MetaCyc": [
+      "2.1.3.1-RXN",
+      "2.1.3.1-RXN"
+    ],
+    "RHEA": [
+      "20764"
+    ],
+    "UM-BBD_reactionID": [
+      "r0923"
+    ]
+  },
+  "definition": "Catalysis of the reaction: pyruvate + D-methylmalonyl-CoA = oxaloacetic acid + propionyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "methylmalonyl-CoA carboxytransferase activity"
+}

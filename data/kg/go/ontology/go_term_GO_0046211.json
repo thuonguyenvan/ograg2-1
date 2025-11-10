@@ -1,0 +1,32 @@
+{
+  "id": "GO:0046211",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046211",
+  "relationships": {
+    "is_a": [
+      "GO:0016099",
+      "GO:0042181"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(+)-camphor anabolism",
+      "(+)-camphor biosynthesis",
+      "(+)-camphor formation",
+      "(+)-camphor synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ],
+    "PMID": [
+      "42357"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of (+)-camphor, a bicyclic monoterpene ketone. Consists of the three reactions: (2E)-geranyl diphosphate = (2S,4R)-bornyl diphosphate, which is converted to (1R,2S,4R)-borneol + diphosphate, and then to (1R,4R)-camphor.",
+  "namespace": "biological_process",
+  "label": "(+)-camphor biosynthetic process"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0032058",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032058",
+  "relationships": {
+    "is_a": [
+      "GO:0045948"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of translation initiation in response to stress",
+      "up-regulation of translation initiation in response to stress",
+      "upregulation of translation initiation in response to stress"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of translation initiation in response to stress",
+      "stimulation of translation initiation in response to stress"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of translation initiation as a result of a stimulus indicating the organism is under stress.",
+  "namespace": "biological_process",
+  "label": "positive regulation of translational initiation in response to stress"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:0022857",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022857",
+  "relationships": {
+    "is_a": [
+      "GO:0005215"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "substrate-specific transmembrane transporter activity",
+      "substrate-specific transporter activity",
+      "uptake permease activity",
+      "uptake transmembrane transporter activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1236947",
+      "R-HSA-429036",
+      "R-HSA-434650",
+      "R-HSA-5638209",
+      "R-HSA-5671707",
+      "R-HSA-6784434",
+      "R-HSA-6784436",
+      "R-HSA-8954513"
+    ],
+    "GOC": [
+      "jid",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of a substance, usually a specific substance or a group of related substances, from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "NAASP translocates from mitochondrial matrix to cytosol"
+}

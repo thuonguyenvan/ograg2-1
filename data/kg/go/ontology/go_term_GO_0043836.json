@@ -1,0 +1,29 @@
+{
+  "id": "GO:0043836",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043836",
+  "relationships": {
+    "is_a": [
+      "GO:0016812"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "xanthinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "R127-RXN",
+      "R127-RXN"
+    ],
+    "PMID": [
+      "13278326"
+    ]
+  },
+  "definition": "Catalysis of the reaction: xanthine + H2O = 4-ureido-5-imidazole carboxylate.",
+  "namespace": "molecular_function",
+  "label": "xanthine hydrolase activity"
+}

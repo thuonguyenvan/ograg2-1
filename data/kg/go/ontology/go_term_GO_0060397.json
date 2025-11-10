@@ -1,0 +1,33 @@
+{
+  "id": "GO:0060397",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060397",
+  "relationships": {
+    "is_a": [
+      "GO:0060396"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "JAK-STAT cascade involved in growth hormone signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-982772"
+    ],
+    "GOC": [
+      "BHF",
+      "dph",
+      "dph"
+    ],
+    "PMID": [
+      "11445442"
+    ]
+  },
+  "definition": "The process in which STAT proteins (Signal Transducers and Activators of Transcription) are activated by members of the JAK (janus activated kinase) family of tyrosine kinases, following the binding of physiological ligands to the growth hormone receptor. Once activated, STATs dimerize and translocate to the nucleus and modulate the expression of target genes.",
+  "namespace": "biological_process",
+  "label": "Growth hormone receptor signaling"
+}

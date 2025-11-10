@@ -1,0 +1,62 @@
+{
+  "id": "GO:0016308",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016308",
+  "relationships": {
+    "is_a": [
+      "GO:0052742"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PIP5K"
+    ],
+    "broad": [
+      "1-phosphatidylinositol-4-phosphate kinase activity",
+      "PIP kinase activity",
+      "diphosphoinositide kinase activity",
+      "phosphatidylinositol 4-phosphate kinase activity"
+    ],
+    "narrow": [
+      "1-phosphatidylinositol-4-phosphate kinase, class IA",
+      "1-phosphatidylinositol-4-phosphate kinase, class IB",
+      "type I PIP kinase activity"
+    ],
+    "related": [
+      "ATP:1-phosphatidyl-1D-myo-inositol-4-phosphate 5-phosphotransferase activity",
+      "PI(4)5K",
+      "PtdIns(4)P-5-kinase activity",
+      "phosphatidylinositol-4-phosphate 5-kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.68",
+      "2.7.1.68",
+      "2.7.1.68",
+      "2.7.1.68",
+      "2.7.1.68",
+      "2.7.1.68",
+      "2.7.1.68",
+      "2.7.1.68",
+      "2.7.1.68"
+    ],
+    "KEGG_REACTION": [
+      "R03469"
+    ],
+    "MetaCyc": [
+      "2.7.1.68-RXN"
+    ],
+    "RHEA": [
+      "14425",
+      "14425"
+    ],
+    "Reactome": [
+      "R-HSA-1676082",
+      "R-HSA-3772436",
+      "R-HSA-8868066"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1-phosphatidyl-1D-myo-inositol 4-phosphate + ATP = a 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate + ADP + H+.",
+  "namespace": "molecular_function",
+  "label": "PIP5K1C phosphorylates PI(4)P to PI(4,5)P2"
+}

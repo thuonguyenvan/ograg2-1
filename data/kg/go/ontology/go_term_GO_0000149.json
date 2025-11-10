@@ -1,0 +1,44 @@
+{
+  "id": "GO:0000149",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000149",
+  "relationships": {
+    "is_a": [
+      "GO:0005515"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SNAP receptor binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-210426",
+      "R-HSA-210430",
+      "R-HSA-265166",
+      "R-HSA-372505",
+      "R-HSA-372529",
+      "R-HSA-374899",
+      "R-HSA-374922",
+      "R-HSA-376357",
+      "R-HSA-376364",
+      "R-HSA-376369",
+      "R-HSA-380574",
+      "R-HSA-380869",
+      "R-HSA-380901",
+      "R-HSA-380905",
+      "R-HSA-888589",
+      "R-HSA-9023173",
+      "R-HSA-917744"
+    ],
+    "PMID": [
+      "12642621"
+    ]
+  },
+  "definition": "Binding to a SNARE (soluble N-ethylmaleimide-sensitive factor attached protein receptor) protein.",
+  "namespace": "molecular_function",
+  "label": "GABA loaded synaptic vesicle Docking and Priming"
+}

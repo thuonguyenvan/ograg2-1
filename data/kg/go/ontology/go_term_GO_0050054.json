@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050054",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050054",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lignostilbene ab-dioxygenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,2-bis(4-hydroxy-3-methoxyphenyl)ethylene:oxygen oxidoreductase (alphabeta-bond-cleaving)",
+      "lignostilbene alphabeta-dioxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.43",
+      "1.13.11.43",
+      "1.13.11.43",
+      "1.13.11.43"
+    ],
+    "KEGG_REACTION": [
+      "R00043"
+    ],
+    "MetaCyc": [
+      "LIGNOSTILBENE-ALPHA-BETA-DIOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "21340",
+      "21340"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1,2-bis(4-hydroxy-3-methoxyphenyl)ethylene + O2 = 2 vanillin.",
+  "namespace": "molecular_function",
+  "label": "lignostilbene alpha beta-dioxygenase activity"
+}

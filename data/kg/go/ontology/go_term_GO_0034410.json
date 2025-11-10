@@ -1,0 +1,30 @@
+{
+  "id": "GO:0034410",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034410",
+  "relationships": {
+    "is_a": [
+      "GO:0034406",
+      "GO:0051274",
+      "GO:0070592"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell wall beta-glucan anabolism",
+      "cell wall beta-glucan biosynthesis",
+      "cell wall beta-glucan formation",
+      "cell wall beta-glucan synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of beta-glucans, compounds composed of glucose residues linked by beta-D-glucosidic bonds, found in the walls of cells.",
+  "namespace": "biological_process",
+  "label": "cell wall beta-glucan biosynthetic process"
+}

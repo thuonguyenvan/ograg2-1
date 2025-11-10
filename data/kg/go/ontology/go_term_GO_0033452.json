@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033452",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033452",
+  "relationships": {
+    "is_a": [
+      "GO:0030533"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GTG codon-amino acid adaptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "valine tRNA"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "hjd",
+      "hjd",
+      "mah"
+    ]
+  },
+  "definition": "A triplet codon-amino acid adaptor activity that recognizes a GUG codon.",
+  "namespace": "molecular_function",
+  "label": "GUG codon-amino acid adaptor activity"
+}

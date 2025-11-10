@@ -1,0 +1,52 @@
+{
+  "id": "GO:0046556",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046556",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "polysaccharide alpha-L-arabinofuranosidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-arabinosidase activity",
+      "alpha-L-arabinanase activity",
+      "alpha-L-arabinofuranoside arabinofuranohydrolase activity",
+      "alpha-L-arabinofuranoside hydrolase activity",
+      "alpha-L-arabinosidase activity",
+      "alpha-N-arabinofuranosidase activity",
+      "alpha-arabinofuranosidase activity",
+      "alpha-arabinosidase activity",
+      "arabinofuranosidase activity",
+      "arabinosidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.55",
+      "3.2.1.55",
+      "3.2.1.55",
+      "3.2.1.55",
+      "3.2.1.55",
+      "3.2.1.55",
+      "3.2.1.55",
+      "3.2.1.55",
+      "3.2.1.55",
+      "3.2.1.55",
+      "3.2.1.55"
+    ],
+    "MetaCyc": [
+      "3.2.1.55-RXN"
+    ],
+    "GOC": [
+      "mf"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of terminal non-reducing alpha-L-arabinofuranoside residues in alpha-L-arabinosides.",
+  "namespace": "molecular_function",
+  "label": "alpha-L-arabinofuranosidase activity"
+}

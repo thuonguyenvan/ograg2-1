@@ -1,0 +1,32 @@
+{
+  "id": "GO:0106228",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106228",
+  "relationships": {
+    "is_a": [
+      "GO:0016410"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "18009"
+    ],
+    "Reactome": [
+      "R-HSA-9858590"
+    ],
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "31542297"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glutaryl-CoA + L-lysyl-[protein] = CoA + H+ + N6-glutaryl-L-lysyl-[protein].",
+  "namespace": "molecular_function",
+  "label": "DLST transfers glutaryl to CoA"
+}

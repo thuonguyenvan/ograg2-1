@@ -1,0 +1,26 @@
+{
+  "id": "GO:0140828",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140828",
+  "relationships": {
+    "is_a": [
+      "GO:0015297",
+      "GO:0046873"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "solute:metal cation antiporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pg"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: solute(out) + Na+(in) = solute(in) + Na+(out).",
+  "namespace": "molecular_function",
+  "label": "metal cation:monoatomic cation antiporter activity"
+}

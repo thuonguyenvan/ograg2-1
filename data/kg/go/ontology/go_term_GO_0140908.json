@@ -1,0 +1,28 @@
+{
+  "id": "GO:0140908",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140908",
+  "relationships": {
+    "is_a": [
+      "GO:0010484"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H3-K122 acetyltransferase activity",
+      "histone acetylase activity (H3-K122 specific)",
+      "histone acetyltransferase activity (H3-K122 specific)",
+      "histone lysine N-acetyltransferase activity (H3-K122 specific)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "23415232"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + histone H3 L-lysine (position 122) = CoA + histone H3 N6-acetyl-L-lysine (position 122).",
+  "namespace": "molecular_function",
+  "label": "histone H3K122 acetyltransferase activity"
+}

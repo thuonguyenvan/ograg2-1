@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050182",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050182",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "butanoyl-CoA:phosphate butanoyltransferase activity",
+      "phosphotransbutyrylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.19",
+      "2.3.1.19",
+      "2.3.1.19",
+      "2.3.1.19"
+    ],
+    "KEGG_REACTION": [
+      "R01174"
+    ],
+    "MetaCyc": [
+      "PHOSPHATE-BUTYRYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "20892",
+      "20892"
+    ]
+  },
+  "definition": "Catalysis of the reaction: butanoyl-CoA + phosphate = butanoyl phosphate + CoA.",
+  "namespace": "molecular_function",
+  "label": "phosphate butyryltransferase activity"
+}

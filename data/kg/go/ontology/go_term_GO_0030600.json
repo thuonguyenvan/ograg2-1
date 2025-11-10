@@ -1,0 +1,48 @@
+{
+  "id": "GO:0030600",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030600",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cinnamoyl ester hydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-hydroxy-3-methoxycinnamoyl-sugar hydrolase activity",
+      "FAE-I",
+      "FAE-II",
+      "FAE-III",
+      "FAEA",
+      "cinnAE",
+      "ferulic acid esterase activity",
+      "hemicellulase accessory",
+      "hydroxycinnamoyl esterase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.73",
+      "3.1.1.73",
+      "3.1.1.73",
+      "3.1.1.73",
+      "3.1.1.73",
+      "3.1.1.73",
+      "3.1.1.73",
+      "3.1.1.73",
+      "3.1.1.73",
+      "3.1.1.73",
+      "3.1.1.73"
+    ],
+    "MetaCyc": [
+      "3.1.1.73-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: feruloyl-polysaccharide + H2O = ferulate + polysaccharide.",
+  "namespace": "molecular_function",
+  "label": "feruloyl esterase activity"
+}

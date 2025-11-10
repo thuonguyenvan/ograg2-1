@@ -1,0 +1,31 @@
+{
+  "id": "GO:0009361",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009361",
+  "relationships": {
+    "is_a": [
+      "GO:0042709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "succinyl-CoA synthetase, ADP-forming"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "9874242"
+    ],
+    "CORUM": [
+      "394"
+    ]
+  },
+  "definition": "A heterodimeric enzyme complex, composed of an alpha and beta chain, most usually found in (but not limited to) bacteria. Functions in the TCA cycle, hydrolyzing succinyl-CoA into succinate and CoA, thereby forming ATP.",
+  "namespace": "cellular_component",
+  "label": "succinate-CoA ligase complex (ADP-forming)"
+}

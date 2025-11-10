@@ -1,0 +1,32 @@
+{
+  "id": "GO:0033965",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033965",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "aculeacin A acylase activity",
+      "aculeacin-A amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.70",
+      "3.5.1.70",
+      "3.5.1.70",
+      "3.5.1.70"
+    ],
+    "MetaCyc": [
+      "3.5.1.70-RXN"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of the amide bond in aculeacin A and related neutral lipopeptide antibiotics, releasing the long-chain fatty acid side-chain.",
+  "namespace": "molecular_function",
+  "label": "aculeacin-A deacylase activity"
+}

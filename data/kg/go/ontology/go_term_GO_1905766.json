@@ -1,0 +1,53 @@
+{
+  "id": "GO:1905766",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905766",
+  "relationships": {
+    "is_a": [
+      "GO:1904507",
+      "GO:1905764"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of protection from NHEJ-mediated telomere fusion",
+      "up regulation of protection from NHEJ-mediated telomere fusion",
+      "up regulation of protection from non-homologous end joining at telomere",
+      "up-regulation of protection from NHEJ-mediated telomere fusion",
+      "up-regulation of protection from non-homologous end joining at telomere",
+      "upregulation of protection from NHEJ-mediated telomere fusion",
+      "upregulation of protection from non-homologous end joining at telomere"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protection from NHEJ-mediated telomere fusion",
+      "activation of protection from non-homologous end joining at telomere"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "TermGenie",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "14690602"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of protection from non-homologous end joining at telomere.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protection from non-homologous end joining at telomere"
+}

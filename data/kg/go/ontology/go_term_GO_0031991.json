@@ -1,0 +1,36 @@
+{
+  "id": "GO:0031991",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031991",
+  "relationships": {
+    "is_a": [
+      "GO:0032506",
+      "GO:0032954"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of actomyosin contractile ring constriction",
+      "regulation of contractile ring contraction involved in cell cycle cytokinesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of contractile ring contraction involved in cytokinesis during cell cycle"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mah",
+      "tb",
+      "vw",
+      "mah",
+      "vw",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of contraction of the actomyosin ring involved in cytokinesis that takes place as part of a cell cycle.",
+  "namespace": "biological_process",
+  "label": "regulation of actomyosin contractile ring contraction"
+}

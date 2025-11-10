@@ -1,0 +1,43 @@
+{
+  "id": "GO:1905518",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905518",
+  "relationships": {
+    "is_a": [
+      "GO:0051128"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of pre-synaptic active zone assembly",
+      "regulation of pre-synaptic active zone formation",
+      "regulation of presynaptic active zone formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of pre-synaptic active zone component assembly",
+      "regulation of pre-synaptic active zone component formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "15797875"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of presynaptic active zone assembly.",
+  "namespace": "biological_process",
+  "label": "regulation of presynaptic active zone assembly"
+}

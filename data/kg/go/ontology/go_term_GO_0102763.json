@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102763",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102763",
+  "relationships": {
+    "is_a": [
+      "GO:0016776"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-7763"
+    ],
+    "RHEA": [
+      "38099",
+      "38099"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a ribonucleoside 5&apos;-triphosphate + phytyl phosphate = a ribonucleoside 5&apos;-diphosphate + phytyl diphosphate.",
+  "namespace": "molecular_function",
+  "label": "phytyl-P kinase activity"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0015599",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015599",
+  "relationships": {
+    "is_a": [
+      "GO:0015186",
+      "GO:0015426",
+      "GO:0033284"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "ATPase-coupled glutamine transmembrane transporter activity",
+      "glutamine porter activity"
+    ],
+    "narrow": [],
+    "related": [
+      "glutamine-importing ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "ABC-12-RXN"
+    ],
+    "RHEA": [
+      "29895",
+      "29895"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: L-glutamine(out) + ATP + H2O = L-glutamine(in) + ADP + phosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "ATPase-coupled L-glutamine transmembrane transporter activity"
+}

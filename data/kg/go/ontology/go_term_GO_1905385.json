@@ -1,0 +1,82 @@
+{
+  "id": "GO:1905385",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905385",
+  "relationships": {
+    "is_a": [
+      "GO:1903828",
+      "GO:1905384"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of protein localisation in presynapse",
+      "down regulation of protein localisation to presynapse",
+      "down regulation of protein localization in presynapse",
+      "down regulation of protein localization to presynapse",
+      "down regulation of recruitment of presynaptic proteins",
+      "down-regulation of protein localisation in presynapse",
+      "down-regulation of protein localisation to presynapse",
+      "down-regulation of protein localization in presynapse",
+      "down-regulation of protein localization to presynapse",
+      "down-regulation of recruitment of presynaptic proteins",
+      "downregulation of protein localisation in presynapse",
+      "downregulation of protein localisation to presynapse",
+      "downregulation of protein localization in presynapse",
+      "downregulation of protein localization to presynapse",
+      "downregulation of recruitment of presynaptic proteins",
+      "negative regulation of protein localisation in presynapse",
+      "negative regulation of protein localisation to presynapse",
+      "negative regulation of protein localization in presynapse",
+      "negative regulation of recruitment of presynaptic proteins"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of protein localisation in presynapse",
+      "inhibition of protein localisation to presynapse",
+      "inhibition of protein localization in presynapse",
+      "inhibition of protein localization to presynapse",
+      "inhibition of recruitment of presynaptic proteins"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24449494"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of protein localization to presynapse.",
+  "namespace": "biological_process",
+  "label": "negative regulation of protein localization to presynapse"
+}

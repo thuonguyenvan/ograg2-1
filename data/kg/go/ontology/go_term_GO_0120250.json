@@ -1,0 +1,32 @@
+{
+  "id": "GO:0120250",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120250",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "omega-hydroxylase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "39023",
+      "39023"
+    ],
+    "GOC": [
+      "krc"
+    ],
+    "EC": [
+      "1.14.15.3"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an omega-methyl fatty acid + O2 + reduced [NADPH--hemoprotein reductase] = an omega-hydroxy fatty acid + H+ + H2O + oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "fatty acid omega-hydroxylase activity"
+}

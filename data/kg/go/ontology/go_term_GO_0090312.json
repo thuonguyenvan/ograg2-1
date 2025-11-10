@@ -1,0 +1,30 @@
+{
+  "id": "GO:0090312",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090312",
+  "relationships": {
+    "is_a": [
+      "GO:0031401",
+      "GO:0090311"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of protein amino acid deacetylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ecd",
+      "bf"
+    ],
+    "PMID": [
+      "20027304"
+    ]
+  },
+  "definition": "Any process that increases the rate, frequency, or extent of protein deacetylation, the removal of an acetyl group from a protein amino acid. An acetyl group is CH3CO-, derived from acetic [ethanoic] acid.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein deacetylation"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0071635",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071635",
+  "relationships": {
+    "is_a": [
+      "GO:0001818",
+      "GO:0071634"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of TGF-B production",
+      "negative regulation of TGF-beta production",
+      "negative regulation of TGFB production",
+      "negative regulation of TGFbeta production",
+      "negative regulation of transforming growth factor-beta production"
+    ],
+    "broad": [],
+    "narrow": [
+      "negative regulation of transforming growth factor-beta secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "obol",
+      "bf"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate, or extent of production of transforming growth factor-beta.",
+  "namespace": "biological_process",
+  "label": "negative regulation of transforming growth factor beta production"
+}

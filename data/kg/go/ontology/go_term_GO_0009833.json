@@ -1,0 +1,33 @@
+{
+  "id": "GO:0009833",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009833",
+  "relationships": {
+    "is_a": [
+      "GO:0009832",
+      "GO:1903047"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellulose and pectin-containing primary cell wall biogenesis",
+      "primary cell wall biogenesis"
+    ],
+    "broad": [
+      "primary cell wall anabolism",
+      "primary cell wall biosynthetic process",
+      "primary cell wall formation",
+      "primary cell wall synthesis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "lr",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "A cellular process that results in the biosynthesis of constituent macromolecules, assembly, and arrangement of constituent parts of cellulose and pectin-containing cell walls that form adjacent to the middle lamella following cell division and during cell expansion. An example of this is found in Arabidopsis thaliana.",
+  "namespace": "biological_process",
+  "label": "plant-type primary cell wall biogenesis"
+}

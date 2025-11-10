@@ -1,0 +1,38 @@
+{
+  "id": "GO:0038137",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038137",
+  "relationships": {
+    "is_a": [
+      "GO:0007173",
+      "GO:0038130"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ERBB1-ERBB4 signaling pathway",
+      "ERBB4-EGFR signalling pathway",
+      "HER1-HER4 signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "signaling",
+      "mah"
+    ],
+    "PMID": [
+      "16460914"
+    ],
+    "PR": [
+      "000006933",
+      "000007160",
+      "000006933",
+      "000007160"
+    ]
+  },
+  "definition": "The series of molecular signals transmitted by a heterodimeric complex of the tyrosine kinase receptors EGFR (epidermal growth factor receptor/ERBB1) and ERBB4. The pathway begins with binding of a ligand to either cell surface receptor, or the dimeric receptor complex, and ends with regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "ERBB4-EGFR signaling pathway"
+}

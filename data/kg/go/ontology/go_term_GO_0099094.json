@@ -1,0 +1,29 @@
+{
+  "id": "GO:0099094",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099094",
+  "relationships": {
+    "is_a": [
+      "GO:0005261",
+      "GO:0015276"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "ligand-gated cation channel activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of an inorganic cation by a channel that opens when a specific ligand has been bound by the channel complex or one of its constituent parts.",
+  "namespace": "molecular_function",
+  "label": "ligand-gated monoatomic cation channel activity"
+}

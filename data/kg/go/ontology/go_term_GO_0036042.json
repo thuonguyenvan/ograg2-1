@@ -1,0 +1,26 @@
+{
+  "id": "GO:0036042",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036042",
+  "relationships": {
+    "is_a": [
+      "GO:0000062"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "long-chain fatty acyl-coenyme A binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "pm"
+    ]
+  },
+  "definition": "Binding to a long-chain fatty acyl-CoA, any derivative of coenzyme A in which the sulfhydryl group is in a thioester linkage with a long-chain fatty-acyl group. A long-chain fatty acid has an aliphatic tail containing 13 to 22 carbons.",
+  "namespace": "molecular_function",
+  "label": "long-chain fatty acyl-CoA binding"
+}

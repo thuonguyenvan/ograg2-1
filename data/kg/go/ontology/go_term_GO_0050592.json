@@ -1,0 +1,50 @@
+{
+  "id": "GO:0050592",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050592",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "CYP71E1 activity",
+      "cytochrome P450-II-dependent monooxygenase activity"
+    ],
+    "related": [
+      "(Z)-4-hydroxyphenylacetaldehyde oxime,NADPH:oxygen oxidoreductase activity",
+      "4-hydroxybenzeneacetaldehyde oxime monooxygenase activity",
+      "4-hydroxyphenylacetaldehyde oxime,NADPH:oxygen oxidoreductase activity",
+      "NADPH-cytochrome P450 reductase (CYP71E1)",
+      "cytochrome P450II-dependent monooxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.37",
+      "1.14.14.37",
+      "1.14.14.37",
+      "1.14.14.37",
+      "1.14.14.37",
+      "1.14.14.37",
+      "1.14.14.37",
+      "1.14.14.37",
+      "1.14.14.37"
+    ],
+    "KEGG_REACTION": [
+      "R05728"
+    ],
+    "MetaCyc": [
+      "1.14.13.68-RXN"
+    ],
+    "RHEA": [
+      "18401",
+      "18401"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (Z)-(4-hydroxyphenyl)acetaldehyde oxime + H+ + NADPH + O2 = (S)-4-hydroxymandelonitrile + 2 H2O + NADP+.",
+  "namespace": "molecular_function",
+  "label": "4-hydroxyphenylacetaldehyde oxime monooxygenase activity"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047866",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047866",
+  "relationships": {
+    "is_a": [
+      "GO:0016647"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N,N-dimethylglycine:oxygen oxidoreductase (demethylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.3.10",
+      "1.5.3.10",
+      "1.5.3.10"
+    ],
+    "KEGG_REACTION": [
+      "R01564"
+    ],
+    "MetaCyc": [
+      "DIMETHYLGLYCINE-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "17077",
+      "17077"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N,N-dimethylglycine + H2O + O2 = formaldehyde + H2O2 + sarcosine.",
+  "namespace": "molecular_function",
+  "label": "dimethylglycine oxidase activity"
+}

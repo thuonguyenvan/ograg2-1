@@ -1,0 +1,31 @@
+{
+  "id": "GO:0052626",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052626",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "benzoyl amino acid synthetase activity"
+    ],
+    "broad": [
+      "benzoate amino acid synthetase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-10886",
+      "RXN-10886"
+    ],
+    "PMID": [
+      "19189963"
+    ]
+  },
+  "definition": "Catalysis of the reaction: benzoate + L-glutamate + ATP = N-benzoyl-L-glutamate + AMP + diphosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "N-benzoyl-L-glutamate synthetase activity"
+}

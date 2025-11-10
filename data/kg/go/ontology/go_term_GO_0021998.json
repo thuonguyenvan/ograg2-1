@@ -1,0 +1,32 @@
+{
+  "id": "GO:0021998",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021998",
+  "relationships": {
+    "is_a": [
+      "GO:0060897"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "neural plate mediolateral pattern formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid",
+      "dph"
+    ],
+    "GO_REF": [
+      "0000021"
+    ]
+  },
+  "definition": "The process that regulates the coordinated growth and differentiation that establishes the non-random mediolateral spatial arrangement of the neural plate.",
+  "namespace": "biological_process",
+  "label": "neural plate mediolateral regionalization"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0039592",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039592",
+  "relationships": {
+    "is_a": [
+      "GO:0044071"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "host G2/M cell cycle arrest by virus",
+      "perturbation by virus of G2/M transition of host mitotic cell cycle",
+      "suppression by virus of G2/M transition of host mitotic cell cycle"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "876",
+      "876"
+    ],
+    "PMID": [
+      "10946289",
+      "12208959",
+      "9882364"
+    ]
+  },
+  "definition": "A process in which a symbiont interferes with the progression of the host mitotic cell cycle from G2 phase to M phase, leading to arrest in G2 phase. The arrest in G2/M allows some viruses to replicate their genome before cells enter mitosis. Alternatively, it can inhibit the antiviral immune response by preventing the clonal expansion of infected lymphocytes.",
+  "namespace": "biological_process",
+  "label": "Host G2/M cell cycle arrest by virus"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0042076",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042076",
+  "relationships": {
+    "is_a": [
+      "GO:0009101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphoglycosylation",
+      "protein amino acid phosphate-linked glycosylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "7499424"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "The glycosylation of peptidyl-amino acids through a phosphoester bond forming, for example, GlcNAc-alpha-1-P-Ser residues.",
+  "namespace": "biological_process",
+  "label": "protein phosphate-linked glycosylation"
+}

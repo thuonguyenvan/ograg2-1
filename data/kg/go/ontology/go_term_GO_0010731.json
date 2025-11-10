@@ -1,0 +1,29 @@
+{
+  "id": "GO:0010731",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010731",
+  "relationships": {
+    "is_a": [
+      "GO:0036211"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein amino acid glutathionylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "dph",
+      "rl",
+      "tb",
+      "bf"
+    ]
+  },
+  "definition": "The protein modification process in which a glutathione molecule is added to a protein amino acid through a disulfide linkage.",
+  "namespace": "biological_process",
+  "label": "protein glutathionylation"
+}

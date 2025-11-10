@@ -1,0 +1,30 @@
+{
+  "id": "GO:0019075",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019075",
+  "relationships": {
+    "is_a": [
+      "GO:0016032"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "viral maturation"
+    ],
+    "broad": [],
+    "narrow": [
+      "bacteriophage maturation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "ISBN": [
+      "0781718325"
+    ],
+    "PMID": [
+      "22308333"
+    ]
+  },
+  "definition": "The refolding and structural rearrangements of virion parts to transition from the intermediate virion to the more mature virion. Maturation usually involves proteolysis events and changes in the folding of the virion proteins. Can occur inside the host cell or after release.",
+  "namespace": "biological_process",
+  "label": "virus maturation"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GO:0050088",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050088",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "6-phosphomannose reductase activity",
+      "D-mannitol-1-phosphate:NADP+ 6-oxidoreductase activity",
+      "NADP-dependent mannose-6-P:mannitol-1-P oxidoreductase activity",
+      "NADPH-dependent M6P reductase activity",
+      "NADPH-dependent mannose 6-phosphate reductase activity",
+      "NADPH-mannose-6-P reductase activity",
+      "mannose-6-phosphate reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.224",
+      "1.1.1.224",
+      "1.1.1.224",
+      "1.1.1.224",
+      "1.1.1.224",
+      "1.1.1.224",
+      "1.1.1.224",
+      "1.1.1.224",
+      "1.1.1.224"
+    ],
+    "KEGG_REACTION": [
+      "R01817"
+    ],
+    "MetaCyc": [
+      "MANNOSE-6-PHOSPHATE-6-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "14925",
+      "14925"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-mannitol 1-phosphate + NADP+ = D-mannose 6-phosphate + 3 H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "mannose-6-phosphate 6-reductase activity"
+}

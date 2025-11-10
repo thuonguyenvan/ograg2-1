@@ -1,0 +1,46 @@
+{
+  "id": "GO:0010308",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010308",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "2-hydroxy-3-keto-5-thiomethylpent-1-ene dioxygenase activity",
+      "acireductone dioxygenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "1,2-dihydroxy-5-(methylthio)pent-1-en-3-one:oxygen oxidoreductase (formate- and CO-forming)",
+      "ARD activity",
+      "E-2 activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.53",
+      "1.13.11.53",
+      "1.13.11.53",
+      "1.13.11.53",
+      "1.13.11.53",
+      "1.13.11.53",
+      "1.13.11.53"
+    ],
+    "KEGG_REACTION": [
+      "R07363"
+    ],
+    "MetaCyc": [
+      "R146-RXN"
+    ],
+    "RHEA": [
+      "14161",
+      "14161"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1,2-dihydroxy-5-(methylthio)pent-1-en-3-one + O2 = 3-(methylthio)propanoate + CO + formate.",
+  "namespace": "molecular_function",
+  "label": "acireductone dioxygenase (Ni2+-requiring) activity"
+}

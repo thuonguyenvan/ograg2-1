@@ -1,0 +1,30 @@
+{
+  "id": "GO:0001666",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001666",
+  "relationships": {
+    "is_a": [
+      "GO:0006950",
+      "GO:0036293"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to hypoxic stress",
+      "response to lowered oxygen tension"
+    ],
+    "broad": [],
+    "narrow": [
+      "response to intermittent hypoxia",
+      "response to sustained hypoxia"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "hjd"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus indicating lowered oxygen tension. Hypoxia, defined as a decline in O2 levels below normoxic levels of 20.8 - 20.95%, results in metabolic adaptation at both the cellular and organismal level.",
+  "namespace": "biological_process",
+  "label": "response to hypoxia"
+}

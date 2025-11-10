@@ -1,0 +1,24 @@
+{
+  "id": "GO:0070006",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070006",
+  "relationships": {
+    "is_a": [
+      "GO:0004177",
+      "GO:0008235"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "https": [
+      "//www.ebi.ac.uk/merops/about/glossary.shtml#AMINOPEPTIDASE"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of a single N-terminal amino acid residue from a polypeptide chain by a mechanism in which water acts as a nucleophile, one or two metal ions hold the water molecule in place, and charged amino acid side chains are ligands for the metal ions.",
+  "namespace": "molecular_function",
+  "label": "metalloaminopeptidase activity"
+}

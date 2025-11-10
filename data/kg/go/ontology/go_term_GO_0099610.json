@@ -1,0 +1,29 @@
+{
+  "id": "GO:0099610",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099610",
+  "relationships": {
+    "is_a": [
+      "GO:0001508"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "action potential firing",
+      "action potential triggering"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "ISBN": [
+      "978-0071390118"
+    ],
+    "PMID": [
+      "19439602"
+    ]
+  },
+  "definition": "The initiating cycle of an action potential. In vertebrate neurons this typically occurs at an axon hillock. Not all initiated axon potentials propagate.",
+  "namespace": "biological_process",
+  "label": "action potential initiation"
+}

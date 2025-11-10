@@ -1,0 +1,42 @@
+{
+  "id": "GO:0008899",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008899",
+  "relationships": {
+    "is_a": [
+      "GO:0016750"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "homoserine O-transsuccinylase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "homoserine succinyltransferase activity",
+      "succinyl-CoA:L-homoserine O-succinyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.46",
+      "2.3.1.46",
+      "2.3.1.46",
+      "2.3.1.46",
+      "2.3.1.46"
+    ],
+    "KEGG_REACTION": [
+      "R01777"
+    ],
+    "MetaCyc": [
+      "HOMSUCTRAN-RXN"
+    ],
+    "RHEA": [
+      "22008",
+      "22008"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-homoserine + succinyl-CoA = O-succinyl-L-homoserine + CoA.",
+  "namespace": "molecular_function",
+  "label": "homoserine O-succinyltransferase activity"
+}

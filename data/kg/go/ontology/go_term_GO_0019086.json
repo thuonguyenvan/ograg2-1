@@ -1,0 +1,27 @@
+{
+  "id": "GO:0019086",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019086",
+  "relationships": {
+    "is_a": [
+      "GO:0019083"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "late viral mRNA transcription"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "jh2",
+      "jl"
+    ]
+  },
+  "definition": "The transcription of the final group of viral genes of the viral life cycle, following middle transcription, or where middle transcription doesn&apos;t occur, following early transcription. Involves the transcription of genes encoding structural proteins.",
+  "namespace": "biological_process",
+  "label": "late viral transcription"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:1903419",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903419",
+  "relationships": {
+    "is_a": [
+      "GO:0072697",
+      "GO:1903420"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein localisation in cortical endoplasmic reticulum",
+      "protein localisation to cortical endoplasmic reticulum",
+      "protein localization in cortical endoplasmic reticulum",
+      "protein localization to cortical ER"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000087"
+    ],
+    "PMID": [
+      "25103238"
+    ]
+  },
+  "definition": "A process in which a protein is transported to, or maintained in, a location within a cortical endoplasmic reticulum.",
+  "namespace": "biological_process",
+  "label": "protein localization to cortical endoplasmic reticulum"
+}

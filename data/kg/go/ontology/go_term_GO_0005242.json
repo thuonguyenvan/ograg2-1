@@ -1,0 +1,41 @@
+{
+  "id": "GO:0005242",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005242",
+  "relationships": {
+    "is_a": [
+      "GO:0005249",
+      "GO:0099094"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Kir channel activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1296045",
+      "R-HSA-1296046",
+      "R-HSA-1369017",
+      "R-HSA-5678261",
+      "R-HSA-5678418",
+      "R-HSA-9729870",
+      "R-HSA-9730521",
+      "R-HSA-9731072"
+    ],
+    "GOC": [
+      "cb",
+      "mah",
+      "cb"
+    ],
+    "PMID": [
+      "14977398"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of a potassium ion by an inwardly-rectifying voltage-gated channel. An inwardly rectifying current-voltage relation is one where at any given driving force the inward flow of K+ ions exceeds the outward flow for the opposite driving force. The inward-rectification is due to a voltage-dependent block of the channel pore by a specific ligand or ligands, and as a result the macroscopic conductance depends on the difference between membrane voltage and the K+ equilibrium potential rather than on membrane voltage itself.",
+  "namespace": "molecular_function",
+  "label": "SARS-CoV-1 3a tetramer induces potassium efflux"
+}

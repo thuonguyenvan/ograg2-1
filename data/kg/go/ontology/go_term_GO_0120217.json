@@ -1,0 +1,36 @@
+{
+  "id": "GO:0120217",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120217",
+  "relationships": {
+    "is_a": [
+      "GO:0009330"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "topoisomerase II complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "krc",
+      "bhm",
+      "krc"
+    ],
+    "PMID": [
+      "1657531",
+      "20675723"
+    ],
+    "Wikipedia": [
+      "DNA_gyrase",
+      "DNA_gyrase"
+    ]
+  },
+  "definition": "A bacterial type IIA topoisomerase that is unique in its function of introducing negative supercoils into DNA at the expense of ATP hydrolysis and is also capable of relaxing positive supercoils, an activity shared with topoisomerase IV. Typically, it is composed of two copies each of an A subunit (GyrA) and a B subunit (GyrB).",
+  "namespace": "cellular_component",
+  "label": "DNA gyrase complex"
+}

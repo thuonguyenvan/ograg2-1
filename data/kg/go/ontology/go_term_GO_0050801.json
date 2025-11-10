@@ -1,0 +1,29 @@
+{
+  "id": "GO:0050801",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050801",
+  "relationships": {
+    "is_a": [
+      "GO:0048878"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "ion homeostasis"
+    ],
+    "narrow": [],
+    "related": [
+      "electrolyte homeostasis",
+      "negative regulation of crystal formation",
+      "regulation of ion homeostasis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process involved in the maintenance of an internal steady state of monoatomic ions within an organism or cell. Monatomic ions (also called simple ions) are ions consisting of exactly one atom.",
+  "namespace": "biological_process",
+  "label": "monoatomic ion homeostasis"
+}

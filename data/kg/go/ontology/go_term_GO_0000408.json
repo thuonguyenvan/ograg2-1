@@ -1,0 +1,41 @@
+{
+  "id": "GO:0000408",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000408",
+  "relationships": {
+    "is_a": [
+      "GO:1990234"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "KEOPS/EKC complex",
+      "endopeptidase-like kinase chromatin-associated protein complex",
+      "kinase, putative endopeptidase and other proteins of small size protein complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "TCTC",
+      "threonyl-carbamoly transferase complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "elh",
+      "vw"
+    ],
+    "PMID": [
+      "16564010",
+      "16874308",
+      "21183954",
+      "23945934",
+      "21183954",
+      "23945934",
+      "25629598",
+      "25629598"
+    ]
+  },
+  "definition": "A protein complex involved in t6A tRNA modification. For example, in Saccharomyces cerevisiae the complex contains Bud32p, Kae1p, Gon7p, Cgi121p, and Pcc1p.",
+  "namespace": "cellular_component",
+  "label": "EKC/KEOPS complex"
+}

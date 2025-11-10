@@ -1,0 +1,33 @@
+{
+  "id": "GO:0090522",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090522",
+  "relationships": {
+    "is_a": [
+      "GO:0099022",
+      "GO:0140029"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "vesicle tethering to plasma membrane"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rn"
+    ],
+    "PMID": [
+      "10559876",
+      "17052174",
+      "17488620",
+      "22420621",
+      "27243008"
+    ]
+  },
+  "definition": "The initial, indirect interaction between a secretory vesicle membrane and a site of exocytosis in the plasma membrane. This interaction is mediated by tethering factors (or complexes), which interact with both membranes. Interaction can occur via direct binding to membrane phospholipids or membrane proteins, or via binding to vesicle coat proteins. This process is distinct from and prior to docking and fusion.",
+  "namespace": "biological_process",
+  "label": "vesicle tethering involved in exocytosis"
+}

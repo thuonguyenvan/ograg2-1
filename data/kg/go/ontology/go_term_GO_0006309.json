@@ -1,0 +1,48 @@
+{
+  "id": "GO:0006309",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006309",
+  "relationships": {
+    "is_a": [
+      "GO:0006308"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA catabolic process during apoptosis",
+      "DNA catabolism during apoptosis",
+      "DNA fragmentation involved in apoptotic nuclear change",
+      "endonucleolytic DNA catabolic process involved in apoptosis"
+    ],
+    "broad": [
+      "DNA fragmentation",
+      "chromatinolysis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-140342"
+    ],
+    "GOC": [
+      "dph",
+      "mah",
+      "mtg_apoptosis",
+      "tb",
+      "mtg_apoptosis",
+      "cjm",
+      "dph",
+      "tb"
+    ],
+    "ISBN": [
+      "0721639976"
+    ],
+    "PMID": [
+      "15723341",
+      "23379520"
+    ]
+  },
+  "definition": "The cleavage of DNA during apoptosis, which usually occurs in two stages: cleavage into fragments of about 50 kbp followed by cleavage between nucleosomes to yield 200 bp fragments.",
+  "namespace": "biological_process",
+  "label": "Apoptosis induced DNA fragmentation"
+}

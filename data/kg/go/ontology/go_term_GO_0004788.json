@@ -1,0 +1,50 @@
+{
+  "id": "GO:0004788",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004788",
+  "relationships": {
+    "is_a": [
+      "GO:0016778"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "thiamin diphosphokinase activity",
+      "thiamin pyrophosphokinase activity",
+      "thiamine pyrophosphokinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:thiamin pyrophosphotransferase activity",
+      "ATP:thiamine diphosphotransferase activity",
+      "TPTase activity",
+      "thiamin pyrophosphotransferase activity",
+      "thiamin:ATP pyrophosphotransferase activity",
+      "thiaminokinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.6.2",
+      "2.7.6.2",
+      "2.7.6.2",
+      "2.7.6.2",
+      "2.7.6.2",
+      "2.7.6.2",
+      "2.7.6.2"
+    ],
+    "MetaCyc": [
+      "THIAMIN-PYROPHOSPHOKINASE-RXN"
+    ],
+    "RHEA": [
+      "11576",
+      "11576"
+    ],
+    "Reactome": [
+      "R-HSA-196761"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + thiamine = AMP + thiamine diphosphate.",
+  "namespace": "molecular_function",
+  "label": "2xTPK1:Mg2+ phosphorylates THMN"
+}

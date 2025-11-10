@@ -1,0 +1,31 @@
+{
+  "id": "GO:0052664",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052664",
+  "relationships": {
+    "is_a": [
+      "GO:0016663"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NAO activity",
+      "nitroalkane reductase activity",
+      "nitroalkane:oxygen oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.3.1",
+      "1.7.3.1",
+      "1.7.3.1",
+      "1.7.3.1",
+      "1.7.3.1"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a primary nitroalkane + H2O + O2 = an aldehyde + H+ + H2O2 + nitrite; also converts secondary nitroalkanes to a ketone.",
+  "namespace": "molecular_function",
+  "label": "nitroalkane oxidase activity"
+}

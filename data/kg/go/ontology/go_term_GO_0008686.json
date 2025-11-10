@@ -1,0 +1,34 @@
+{
+  "id": "GO:0008686",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008686",
+  "relationships": {
+    "is_a": [
+      "GO:0016830"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.99.12",
+      "4.1.99.12"
+    ],
+    "KEGG_REACTION": [
+      "R07281"
+    ],
+    "MetaCyc": [
+      "DIOHBUTANONEPSYN-RXN"
+    ],
+    "RHEA": [
+      "18457",
+      "18457"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-ribulose 5-phosphate = (2S)-2-hydroxy-3-oxobutyl phosphate + formate + H+.",
+  "namespace": "molecular_function",
+  "label": "3,4-dihydroxy-2-butanone-4-phosphate synthase activity"
+}

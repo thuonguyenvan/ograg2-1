@@ -1,0 +1,41 @@
+{
+  "id": "GO:0035244",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035244",
+  "relationships": {
+    "is_a": [
+      "GO:0008169",
+      "GO:0008276",
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptidyl arginine C-methyltransferase activity",
+      "peptidyl-arginine C-methylase activity",
+      "peptidyl-arginine C-methyltransferase activity",
+      "protein-arginine C-methylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.379"
+    ],
+    "RHEA": [
+      "66028",
+      "66028"
+    ],
+    "GOC": [
+      "bf"
+    ],
+    "PMID": [
+      "29743535",
+      "33162960"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a methyl group to the carbon atom of an arginine residue in a protein. This modification has been detected in anaerobic bacteria.",
+  "namespace": "molecular_function",
+  "label": "protein-arginine C-methyltransferase activity"
+}

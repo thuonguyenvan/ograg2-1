@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050285",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050285",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "aromatic choline esterase activity",
+      "sinapoylcholine sinapohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.49",
+      "3.1.1.49",
+      "3.1.1.49",
+      "3.1.1.49"
+    ],
+    "KEGG_REACTION": [
+      "R02381"
+    ],
+    "MetaCyc": [
+      "SINAPINE-ESTERASE-RXN"
+    ],
+    "RHEA": [
+      "10016",
+      "10016"
+    ]
+  },
+  "definition": "Catalysis of the reaction: O-sinapoylcholine + H2O = choline + H+ + sinapate.",
+  "namespace": "molecular_function",
+  "label": "sinapine esterase activity"
+}

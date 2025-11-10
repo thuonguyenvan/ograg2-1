@@ -1,0 +1,27 @@
+{
+  "id": "GO:0141011",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141011",
+  "relationships": {
+    "is_a": [
+      "GO:0141008"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "siRNA-mediated post-transcriptional retrotransposon silencing"
+    ],
+    "broad": [],
+    "narrow": [
+      "siRNA-mediated retrotransposon silencing by mRNA destabilization"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "36570931"
+    ]
+  },
+  "definition": "A transposable element silencing mechanism in which mRNAs transcribed from transposons are targeted for degradation by a siRNA.",
+  "namespace": "biological_process",
+  "label": "transposable element silencing by siRNA-mediated mRNA destabilization"
+}

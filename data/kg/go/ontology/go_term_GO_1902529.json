@@ -1,0 +1,47 @@
+{
+  "id": "GO:1902529",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902529",
+  "relationships": {
+    "is_a": [
+      "GO:1902528",
+      "GO:1902915"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of protein linear polyubiquitination",
+      "down-regulation of protein linear polyubiquitination",
+      "downregulation of protein linear polyubiquitination"
+    ],
+    "broad": [],
+    "narrow": [
+      "down regulation of M1 linkage",
+      "down-regulation of M1 linkage",
+      "downregulation of M1 linkage",
+      "inhibition of M1 linkage",
+      "inhibition of protein linear polyubiquitination",
+      "negative regulation of M1 linkage"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "21931591"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of protein linear polyubiquitination.",
+  "namespace": "biological_process",
+  "label": "negative regulation of protein linear polyubiquitination"
+}

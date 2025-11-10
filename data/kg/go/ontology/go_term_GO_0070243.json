@@ -1,0 +1,32 @@
+{
+  "id": "GO:0070243",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070243",
+  "relationships": {
+    "is_a": [
+      "GO:0070232"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "regulation of thymocyte apoptosis"
+    ],
+    "related": [
+      "regulation of immature T cell apoptosis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mtg_apoptosis",
+      "add"
+    ],
+    "ISBN": [
+      "0781765196"
+    ]
+  },
+  "definition": "Any process that modulates the occurrence or rate of thymocyte death by apoptotic process.",
+  "namespace": "biological_process",
+  "label": "regulation of thymocyte apoptotic process"
+}

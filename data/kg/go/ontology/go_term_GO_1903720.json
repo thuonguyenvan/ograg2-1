@@ -1,0 +1,50 @@
+{
+  "id": "GO:1903720",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903720",
+  "relationships": {
+    "is_a": [
+      "GO:0001933",
+      "GO:1903719"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of IKB phosphorylation",
+      "negative regulation of IkappaB phosphorylation",
+      "negative regulation of inhibitor of NF-kappaB phosphorylation",
+      "negative regulation of inhibitor of kappaB phosphorylation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of I-kappaB phosphorylation",
+      "inhibition of IKB phosphorylation",
+      "inhibition of IkappaB phosphorylation",
+      "inhibition of inhibitor of NF-kappaB phosphorylation",
+      "inhibition of inhibitor of kappaB phosphorylation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23675531"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of I-kappaB phosphorylation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of I-kappaB phosphorylation"
+}

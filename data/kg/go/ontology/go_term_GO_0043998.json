@@ -1,0 +1,27 @@
+{
+  "id": "GO:0043998",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043998",
+  "relationships": {
+    "is_a": [
+      "GO:0004402"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "H2A histone acetylase activity",
+      "H2A histone acetyltransferase activity",
+      "H2A histone lysine N-acetyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "19056256"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + histone H2A L-lysine = CoA + histone H2A N6-acetyl-L-lysine.",
+  "namespace": "molecular_function",
+  "label": "histone H2A acetyltransferase activity"
+}

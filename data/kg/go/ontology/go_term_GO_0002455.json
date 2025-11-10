@@ -1,0 +1,36 @@
+{
+  "id": "GO:0002455",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002455",
+  "relationships": {
+    "is_a": [
+      "GO:0006959",
+      "GO:0016064"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "circulating antibody mediated immune response",
+      "circulating immunoglobulin mediated immune response",
+      "humoral immune response mediated by circulating antibody"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "humoral defence mechanism"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "GO_REF": [
+      "0000022"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "An immune response dependent upon secreted immunoglobulin. An example of this process is found in Mus musculus.",
+  "namespace": "biological_process",
+  "label": "humoral immune response mediated by circulating immunoglobulin"
+}

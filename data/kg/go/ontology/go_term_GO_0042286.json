@@ -1,0 +1,38 @@
+{
+  "id": "GO:0042286",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042286",
+  "relationships": {
+    "is_a": [
+      "GO:0016869"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(S)-4-amino-5-oxopentanoate 4,5-aminomutase activity",
+      "glutamate-1-semialdehyde aminotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.3.8",
+      "5.4.3.8",
+      "5.4.3.8"
+    ],
+    "KEGG_REACTION": [
+      "R02272"
+    ],
+    "MetaCyc": [
+      "GSAAMINOTRANS-RXN"
+    ],
+    "RHEA": [
+      "14265",
+      "14265"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-4-amino-5-oxopentanoate = 5-aminolevulinate.",
+  "namespace": "molecular_function",
+  "label": "glutamate-1-semialdehyde 2,1-aminomutase activity"
+}

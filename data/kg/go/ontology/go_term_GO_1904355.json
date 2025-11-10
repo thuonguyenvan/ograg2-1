@@ -1,0 +1,53 @@
+{
+  "id": "GO:1904355",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904355",
+  "relationships": {
+    "is_a": [
+      "GO:0032206",
+      "GO:1904353"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of telomere end protection",
+      "up regulation of telomere capping",
+      "up regulation of telomere end protection",
+      "up-regulation of telomere capping",
+      "up-regulation of telomere end protection",
+      "upregulation of telomere capping",
+      "upregulation of telomere end protection"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of telomere capping",
+      "activation of telomere end protection"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "TermGenie",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23959892"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of telomere capping.",
+  "namespace": "biological_process",
+  "label": "positive regulation of telomere capping"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:1904326",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904326",
+  "relationships": {
+    "is_a": [
+      "GO:0010840",
+      "GO:0042754",
+      "GO:0048521"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of circadian sleep/wake cycle, wakefulness",
+      "down-regulation of circadian sleep/wake cycle, wakefulness",
+      "downregulation of circadian sleep/wake cycle, wakefulness"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of circadian sleep/wake cycle, wakefulness"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "10923657"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of circadian sleep/wake cycle, wakefulness.",
+  "namespace": "biological_process",
+  "label": "negative regulation of circadian sleep/wake cycle, wakefulness"
+}

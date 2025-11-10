@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050234",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050234",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-serine hydro-lyase (adding pyrazole)",
+      "L-serine hydro-lyase [adding pyrazole; 3-(pyrazol-1-yl)-L-alanine-forming]",
+      "beta-pyrazolylalaninase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.50",
+      "4.2.1.50",
+      "4.2.1.50",
+      "4.2.1.50",
+      "4.2.1.50"
+    ],
+    "KEGG_REACTION": [
+      "R02378"
+    ],
+    "MetaCyc": [
+      "PYRAZOLYLALANINE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "24512",
+      "24512"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-serine + pyrazole = 3-(pyrazol-1-yl)-L-alanine + H2O.",
+  "namespace": "molecular_function",
+  "label": "pyrazolylalanine synthase activity"
+}

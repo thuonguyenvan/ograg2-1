@@ -1,0 +1,29 @@
+{
+  "id": "GO:0008271",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008271",
+  "relationships": {
+    "is_a": [
+      "GO:0015116",
+      "GO:0015291"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "secondary active sulphate transmembrane transporter activity",
+      "sulphate porter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "sulfate porter activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ]
+  },
+  "definition": "Enables the secondary active transfer of sulfate from one side of a membrane to the other. Secondary active transport is the transfer of a solute across a membrane, up its concentration gradient. The transporter binds the solute and undergoes a series of conformational changes. Transport works equally well in either direction and is driven by a chemiosmotic source of energy. Secondary active transporters include symporters and antiporters.",
+  "namespace": "molecular_function",
+  "label": "secondary active sulfate transmembrane transporter activity"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047618",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047618",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acylagmatine amidohydrolase activity",
+      "acylagmatine deacylase activity",
+      "benzoylagmatine amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.40",
+      "3.5.1.40",
+      "3.5.1.40",
+      "3.5.1.40",
+      "3.5.1.40"
+    ],
+    "KEGG_REACTION": [
+      "R01425"
+    ],
+    "MetaCyc": [
+      "ACYLAGMATINE-AMIDASE-RXN"
+    ],
+    "RHEA": [
+      "15065",
+      "15065"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(4)-benzoylagmatine + H2O = agmatine + benzoate.",
+  "namespace": "molecular_function",
+  "label": "acylagmatine amidase activity"
+}

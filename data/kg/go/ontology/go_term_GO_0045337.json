@@ -1,0 +1,33 @@
+{
+  "id": "GO:0045337",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045337",
+  "relationships": {
+    "is_a": [
+      "GO:0008654",
+      "GO:0016114",
+      "GO:0045338"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "farnesyl diphosphate anabolism",
+      "farnesyl diphosphate biosynthesis",
+      "farnesyl diphosphate formation",
+      "farnesyl diphosphate synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5123"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of farnesyl diphosphate.",
+  "namespace": "biological_process",
+  "label": "farnesyl diphosphate biosynthetic process"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0103111",
+  "uri": "http://purl.obolibrary.org/obo/GO_0103111",
+  "relationships": {
+    "is_a": [
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-glucosamine PTS permease activity",
+      "N-acetyl-D-glucosamine PTS permease activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.193",
+      "2.7.1.193"
+    ],
+    "RHEA": [
+      "49240",
+      "49240"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(pros)-phospho-L-histidyl-[protein] + N-acetyl-D-glucosamine(out) = L-histidyl-[protein] + N-acetyl-D-glucosamine 6-phosphate(in).",
+  "namespace": "molecular_function",
+  "label": "protein-N(pi)-phosphohistidine--N-acetyl-D-glucosamine phosphotransferase activity"
+}

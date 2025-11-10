@@ -1,0 +1,49 @@
+{
+  "id": "GO:0033982",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033982",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-dehydro-L-gulonate-6-phosphate carboxy-lyase (L-xylulose-5-phosphate-forming) activity",
+      "3-dehydro-L-gulonate-6-phosphate carboxy-lyase activity",
+      "3-keto-L-gulonate 6-phosphate decarboxylase activity",
+      "KGPDC",
+      "SgaH",
+      "SgbH",
+      "UlaD"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.85",
+      "4.1.1.85",
+      "4.1.1.85",
+      "4.1.1.85",
+      "4.1.1.85",
+      "4.1.1.85",
+      "4.1.1.85",
+      "4.1.1.85",
+      "4.1.1.85"
+    ],
+    "KEGG_REACTION": [
+      "R07125"
+    ],
+    "MetaCyc": [
+      "RXN0-705"
+    ],
+    "RHEA": [
+      "14353",
+      "14353"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-dehydro-L-gulonate 6-phosphate + H+ = L-xylulose 5-phosphate + CO2.",
+  "namespace": "molecular_function",
+  "label": "3-dehydro-L-gulonate-6-phosphate decarboxylase activity"
+}

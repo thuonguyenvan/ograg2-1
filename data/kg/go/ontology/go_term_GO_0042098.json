@@ -1,0 +1,28 @@
+{
+  "id": "GO:0042098",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042098",
+  "relationships": {
+    "is_a": [
+      "GO:0042110",
+      "GO:0046651"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "T lymphocyte proliferation",
+      "T-cell proliferation",
+      "T-lymphocyte proliferation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The expansion of a T cell population by cell division. Follows T cell activation.",
+  "namespace": "biological_process",
+  "label": "T cell proliferation"
+}

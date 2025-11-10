@@ -1,0 +1,35 @@
+{
+  "id": "GO:1905720",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905720",
+  "relationships": {
+    "is_a": [
+      "GO:0097427"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "microtubule bundle of cytoplasm",
+      "microtubule fascicle of cytoplasm"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000064"
+    ],
+    "PMID": [
+      "11007487",
+      "26124291"
+    ]
+  },
+  "definition": "Any microtubule bundle that is part of a cytoplasm.",
+  "namespace": "cellular_component",
+  "label": "cytoplasmic microtubule bundle"
+}

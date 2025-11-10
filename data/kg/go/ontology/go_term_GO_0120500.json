@@ -1,0 +1,28 @@
+{
+  "id": "GO:0120500",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120500",
+  "relationships": {
+    "is_a": [
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "APPBP1-UBA3 complex",
+      "NAE",
+      "NEDD8 activating enzyme"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "12740388",
+      "21931660"
+    ]
+  },
+  "definition": "A heterodimeric E1 complex that activates the ubiquitin-like protein NEDD8. In humans the subunits are NAE1 (also known as APPBP1) and UBA3.",
+  "namespace": "cellular_component",
+  "label": "NAE1-UBA3 complex"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:0019574",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019574",
+  "relationships": {
+    "is_a": [
+      "GO:0005987",
+      "GO:0006006",
+      "GO:0006796",
+      "GO:0019637",
+      "GO:1901135"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sucrose breakdown, using glucoside 3-dehydrogenase",
+      "sucrose catabolic process to D-glucose",
+      "sucrose catabolic process, using glucoside 3-dehydrogenase",
+      "sucrose catabolism, using glucoside 3-dehydrogenase",
+      "sucrose degradation, using glucoside 3-dehydrogenase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "SUCROSEUTIL2-PWY",
+      "SUCROSEUTIL2-PWY",
+      "SUCROSEUTIL2-PWY",
+      "SUCROSEUTIL2-PWY"
+    ],
+    "GOC": [
+      "bf",
+      "dgf",
+      "bf",
+      "bf"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of sucrose, which proceeds via the conversion of sucrose to 3&apos;-ketosucrose. 3&apos;-ketosucrose is hydrolyzed to 3-ketoglucose and fructose, and the 3-ketoglucose is then be converted to glucose.",
+  "namespace": "biological_process",
+  "label": "sucrose catabolic process via 3&apos;-ketosucrose"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0070678",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070678",
+  "relationships": {
+    "is_a": [
+      "GO:0005515"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "unprocessed protein binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "imk",
+      "mah",
+      "imk"
+    ],
+    "PMID": [
+      "12914940"
+    ]
+  },
+  "definition": "Binding to a preprotein, the unprocessed form of a protein destined to undergo co- or post-translational processing.",
+  "namespace": "molecular_function",
+  "label": "preprotein binding"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0046004",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046004",
+  "relationships": {
+    "is_a": [
+      "GO:0007348",
+      "GO:0045977"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of progression through syncytial blastoderm mitotic cell cycle",
+      "positive regulation of syncytial blastoderm cell cycle progression",
+      "up regulation of progression through syncytial blastoderm mitotic cell cycle",
+      "up-regulation of progression through syncytial blastoderm mitotic cell cycle",
+      "upregulation of progression through syncytial blastoderm mitotic cell cycle"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of progression through syncytial blastoderm mitotic cell cycle",
+      "stimulation of progression through syncytial blastoderm mitotic cell cycle"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "go_curators",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that activates or increases the rate or extent of progression through the syncytial blastoderm mitotic cell cycle.",
+  "namespace": "biological_process",
+  "label": "positive regulation of syncytial blastoderm mitotic cell cycle"
+}

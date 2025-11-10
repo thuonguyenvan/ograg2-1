@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050504",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050504",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GDP-mannose:3-phosphoglycerate 3-alpha-D-mannosyltransferase activity",
+      "MPG synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.217",
+      "2.4.1.217",
+      "2.4.1.217",
+      "2.4.1.217"
+    ],
+    "KEGG_REACTION": [
+      "R05768"
+    ],
+    "MetaCyc": [
+      "2.4.1.217-RXN"
+    ],
+    "RHEA": [
+      "13537",
+      "13537"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-phospho-D-glycerate + GDP-alpha-D-mannose = 2-(alpha-D-mannosyl)-3-phosphoglycerate + GDP + H+.",
+  "namespace": "molecular_function",
+  "label": "mannosyl-3-phosphoglycerate synthase activity"
+}

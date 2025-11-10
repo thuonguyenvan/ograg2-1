@@ -1,0 +1,30 @@
+{
+  "id": "GO:1990532",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990532",
+  "relationships": {
+    "is_a": [
+      "GO:0097501"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to nickel ion stress",
+      "response to nickel toxicity",
+      "stress response to nickel"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "kmv"
+    ],
+    "PMID": [
+      "25330323"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a disturbance in organismal or cellular homeostasis caused by a nickel ion stimulus.",
+  "namespace": "biological_process",
+  "label": "stress response to nickel ion"
+}

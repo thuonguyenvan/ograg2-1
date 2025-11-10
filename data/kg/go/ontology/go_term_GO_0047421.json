@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047421",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047421",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acyl-D-glutamate amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.82",
+      "3.5.1.82",
+      "3.5.1.82"
+    ],
+    "KEGG_REACTION": [
+      "R01581"
+    ],
+    "MetaCyc": [
+      "3.5.1.82-RXN"
+    ],
+    "RHEA": [
+      "12833",
+      "12833"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acyl-D-glutamate + H2O = D-glutamate + a carboxylate.",
+  "namespace": "molecular_function",
+  "label": "N-acyl-D-glutamate deacylase activity"
+}

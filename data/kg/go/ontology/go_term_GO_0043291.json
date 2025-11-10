@@ -1,0 +1,26 @@
+{
+  "id": "GO:0043291",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043291",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "regulator of the (H+)-ATPase of the vacuolar and endosomal membranes"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11283612",
+      "11844802"
+    ]
+  },
+  "definition": "A multisubunit complex that in Saccharomyces is composed of three subunits, Rav1p, Rav2p and Skp1p. Acts transiently to catalyze assembly of cytoplasmic V1, with membrane embedded V0 to form the V-ATPase holoenzyme.",
+  "namespace": "cellular_component",
+  "label": "RAVE complex"
+}

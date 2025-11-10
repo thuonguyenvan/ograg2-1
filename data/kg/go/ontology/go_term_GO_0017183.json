@@ -1,0 +1,37 @@
+{
+  "id": "GO:0017183",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017183",
+  "relationships": {
+    "is_a": [
+      "GO:0018202"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptidyl-diphthamide anabolism from peptidyl-histidine",
+      "peptidyl-diphthamide biosynthetic process from peptidyl-histidine",
+      "peptidyl-diphthamide formation from peptidyl-histidine",
+      "peptidyl-diphthamide synthesis from peptidyl-histidine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RESID": [
+      "AA0040"
+    ],
+    "Reactome": [
+      "R-HSA-5358493"
+    ],
+    "GOC": [
+      "pde"
+    ],
+    "PMID": [
+      "20559380"
+    ]
+  },
+  "definition": "The modification of peptidyl-histidine to 2&apos;-(3-carboxamido-3-(trimethylammonio)propyl)-L-histidine, known as diphthamide, found in translation elongation factor EF-2. The process occurs in eukaryotes and archaea but not eubacteria.",
+  "namespace": "biological_process",
+  "label": "Synthesis of diphthamide-EEF2"
+}

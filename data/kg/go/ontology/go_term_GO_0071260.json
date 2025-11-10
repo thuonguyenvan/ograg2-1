@@ -1,0 +1,31 @@
+{
+  "id": "GO:0071260",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071260",
+  "relationships": {
+    "is_a": [
+      "GO:0009612",
+      "GO:0071214",
+      "GO:0071496"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular mechanical stimulus response"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9855142"
+    ],
+    "GOC": [
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a mechanical stimulus.",
+  "namespace": "biological_process",
+  "label": "Cellular responses to mechanical stimuli"
+}

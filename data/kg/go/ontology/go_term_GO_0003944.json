@@ -1,0 +1,44 @@
+{
+  "id": "GO:0003944",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003944",
+  "relationships": {
+    "is_a": [
+      "GO:0015929"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "lysosomal alpha-N-acetylglucosaminidase activity"
+    ],
+    "related": [
+      "2-acetamido-2-deoxy-alpha-D-glucose 1-phosphodiester acetamidodeoxyglucohydrolase activity",
+      "alpha-N-acetyl-D-glucosamine-1-phosphodiester N-acetylglucosaminidase activity",
+      "alpha-N-acetylglucosaminyl phosphodiesterase activity",
+      "glycoprotein-N-acetyl-D-glucosaminyl-phospho-D-mannose N-acetyl-D-glucosaminylphosphohydrolase activity",
+      "phosphodiester glycosidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.4.45",
+      "3.1.4.45",
+      "3.1.4.45",
+      "3.1.4.45",
+      "3.1.4.45",
+      "3.1.4.45",
+      "3.1.4.45",
+      "3.1.4.45"
+    ],
+    "MetaCyc": [
+      "3.1.4.45-RXN"
+    ],
+    "RHEA": [
+      "24372"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glycoprotein N-acetyl-D-glucosaminyl-phospho-D-mannose + H2O = N-acetyl-D-glucosamine + glycoprotein phospho-D-mannose.",
+  "namespace": "molecular_function",
+  "label": "N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase activity"
+}

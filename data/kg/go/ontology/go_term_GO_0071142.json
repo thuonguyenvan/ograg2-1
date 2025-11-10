@@ -1,0 +1,39 @@
+{
+  "id": "GO:0071142",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071142",
+  "relationships": {
+    "is_a": [
+      "GO:0071141"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "SMAD1 homotrimer complex",
+      "SMAD1 protein complex",
+      "SMAD2 homotrimer complex",
+      "SMAD2 protein complex",
+      "SMAD3 homotrimer complex",
+      "SMAD3 protein complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "mah"
+    ],
+    "PMID": [
+      "11779505",
+      "16322555",
+      "9670020"
+    ],
+    "CORUM": [
+      "3003"
+    ]
+  },
+  "definition": "A protein complex composed of a single type of SMAD family proteins. In the absence of Smad4, phosphorylation of R-SMADs results in their homotrimerization. However, these complexes do not appear to import into the nucleus and are assumed to be transcriptionally inactive.",
+  "namespace": "cellular_component",
+  "label": "homomeric SMAD protein complex"
+}

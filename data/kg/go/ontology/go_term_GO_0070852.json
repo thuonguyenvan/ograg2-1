@@ -1,0 +1,30 @@
+{
+  "id": "GO:0070852",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070852",
+  "relationships": {
+    "is_a": [
+      "GO:0043005"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell body fibre"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "primary neurite"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dos",
+      "mah",
+      "dos",
+      "mah"
+    ]
+  },
+  "definition": "A neuron projection that is found in unipolar neurons and corresponds to the region between the cell body and the point at which the single projection branches.",
+  "namespace": "cellular_component",
+  "label": "cell body fiber"
+}

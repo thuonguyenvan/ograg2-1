@@ -1,0 +1,38 @@
+{
+  "id": "GO:0019261",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019261",
+  "relationships": {
+    "is_a": [
+      "GO:0009056",
+      "GO:0042537",
+      "GO:0090345"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1,4-dichlorobenzene breakdown",
+      "1,4-dichlorobenzene catabolism",
+      "1,4-dichlorobenzene degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "14DICHLORBENZDEG-PWY"
+    ],
+    "UM-BBD_pathwayID": [
+      "dcz"
+    ],
+    "GOC": [
+      "ai"
+    ],
+    "PMID": [
+      "9148781"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of 1,4-dichlorobenzene (p-dichlorobenzene or paramoth), a derivative of benzene with two chlorine atoms attached at opposite positions on the ring.",
+  "namespace": "biological_process",
+  "label": "1,4-dichlorobenzene catabolic process"
+}

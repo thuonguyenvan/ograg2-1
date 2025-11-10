@@ -1,0 +1,35 @@
+{
+  "id": "GO:0015948",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015948",
+  "relationships": {
+    "is_a": [
+      "GO:0009061",
+      "GO:0015947",
+      "GO:0015975",
+      "GO:0043447"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "methane biosynthesis",
+      "methane biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "UM-BBD_pathwayID": [
+      "meth"
+    ],
+    "Wikipedia": [
+      "Methanogenesis"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of methane, a colorless, odorless, flammable gas with the formula CH4. It is the simplest of the alkanes.",
+  "namespace": "biological_process",
+  "label": "methanogenesis"
+}

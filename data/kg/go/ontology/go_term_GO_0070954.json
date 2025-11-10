@@ -1,0 +1,38 @@
+{
+  "id": "GO:0070954",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070954",
+  "relationships": {
+    "is_a": [
+      "GO:0001911",
+      "GO:0002887",
+      "GO:0070948"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of neutrophil mediated cytotoxicity",
+      "down-regulation of neutrophil mediated cytotoxicity",
+      "downregulation of neutrophil mediated cytotoxicity",
+      "negative regulation of neutrophil mediated cell killing"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of neutrophil mediated cytotoxicity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "add",
+      "mah"
+    ]
+  },
+  "definition": "Any process that decreases the frequency, rate or extent of the directed killing of a target cell by a neutrophil.",
+  "namespace": "biological_process",
+  "label": "negative regulation of neutrophil mediated cytotoxicity"
+}

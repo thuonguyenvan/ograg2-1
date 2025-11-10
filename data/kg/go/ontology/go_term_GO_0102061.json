@@ -1,0 +1,39 @@
+{
+  "id": "GO:0102061",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102061",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(+)-endo-beta-bergamotene synthase ((2Z,6Z)-farnesyl diphosphate cyclizing)",
+      "(2Z,6Z)-farnesyl diphosphate = (+)-endo-beta-bergamotene",
+      "endo-beta-bergamontene synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.53",
+      "4.2.3.53",
+      "4.2.3.53"
+    ],
+    "MetaCyc": [
+      "RXN-10483"
+    ],
+    "RHEA": [
+      "30467",
+      "30467"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-cis,6-cis-farnesyl diphosphate = (+)-endo-beta-bergamotene + diphosphoric acid.",
+  "namespace": "molecular_function",
+  "label": "endo-beta-bergamotene synthase activity"
+}

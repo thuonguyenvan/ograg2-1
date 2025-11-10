@@ -1,0 +1,29 @@
+{
+  "id": "GO:0051758",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051758",
+  "relationships": {
+    "is_a": [
+      "GO:0016344"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "meiosis I, homologous chromosome movement towards spindle pole"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "homologous chromosome movement towards spindle pole during meiosis I"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The directed movement of homologous chromosomes from the center of the spindle towards the spindle poles, mediated by the shortening of microtubules attached to the chromosomes, during meiosis I anaphase.",
+  "namespace": "biological_process",
+  "label": "homologous chromosome movement towards spindle pole in meiosis I anaphase"
+}

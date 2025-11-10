@@ -1,0 +1,27 @@
+{
+  "id": "GO:0008754",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008754",
+  "relationships": {
+    "is_a": [
+      "GO:0016757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.99.26",
+      "2.4.99.26"
+    ],
+    "MetaCyc": [
+      "RXN-13611"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a lipid-linked O antigen + a lipid A-core oligosaccharide = a lipopolysaccharide + a polyisoprenyl diphosphate.",
+  "namespace": "molecular_function",
+  "label": "O-antigen ligase activity"
+}

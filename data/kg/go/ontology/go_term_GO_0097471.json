@@ -1,0 +1,29 @@
+{
+  "id": "GO:0097471",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097471",
+  "relationships": {
+    "is_a": [
+      "GO:0032279"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cerebellar mossy fiber to granule cell synapse"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "nlx_subcell_091021",
+      "nlx_subcell_091021"
+    ],
+    "Wikipedia": [
+      "Mossy_fiber_(cerebellum)"
+    ]
+  },
+  "definition": "A synapse of a mossy fiber onto the dendrite of a granule cell; each mossy fiber can have up to 50 rosettes.",
+  "namespace": "cellular_component",
+  "label": "mossy fiber rosette"
+}

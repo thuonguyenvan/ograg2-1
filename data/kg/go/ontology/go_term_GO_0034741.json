@@ -1,0 +1,26 @@
+{
+  "id": "GO:0034741",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034741",
+  "relationships": {
+    "is_a": [
+      "GO:0140535",
+      "GO:1905360"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "60S APC complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "17126424"
+    ]
+  },
+  "definition": "A protein complex that contains the tumor suppressor protein adenomatous polyposis coli (APC), alpha-tubulin, gamma-tubulin, and the Rac1 and Cdc42 effector IQGAP1; may play a role in cytoskeleton organization.",
+  "namespace": "cellular_component",
+  "label": "APC-tubulin-IQGAP1 complex"
+}

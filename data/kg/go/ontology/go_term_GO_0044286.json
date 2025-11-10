@@ -1,0 +1,36 @@
+{
+  "id": "GO:0044286",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044286",
+  "relationships": {
+    "is_a": [
+      "GO:0044291"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ball and socket contact"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1943947957",
+      "sao1943947957"
+    ],
+    "GOC": [
+      "tfm",
+      "tfm"
+    ],
+    "PMID": [
+      "12883993",
+      "16166562",
+      "17591898",
+      "17591898"
+    ]
+  },
+  "definition": "A cell-cell contact zone that consists of membrane invaginations extending from either cell, which contain tight-, gap-, and adherens junctions. Peg and socket contacts form between endothelial cells and pericytes, and between lens fiber cells.",
+  "namespace": "cellular_component",
+  "label": "peg and socket contact"
+}

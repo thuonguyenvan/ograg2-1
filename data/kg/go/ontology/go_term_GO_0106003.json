@@ -1,0 +1,53 @@
+{
+  "id": "GO:0106003",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106003",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Abeta complex",
+      "amyloid beta complex",
+      "beta amyloid complex",
+      "beta-amyloid complex",
+      "betaA complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "ADDL complex",
+      "Abeta-derived diffusible ligand complex",
+      "amyloid beta dimer",
+      "amyloid beta heterodimer",
+      "amyloid beta heterooligomer",
+      "amyloid beta heterotrimer",
+      "amyloid beta homodimer",
+      "amyloid beta homooligomer",
+      "amyloid beta homotrimer",
+      "amyloid beta oligomer",
+      "amyloid beta trimer",
+      "amyloid-beta protein 40 complex",
+      "amyloid-beta protein 40/42 complex",
+      "amyloid-beta protein 42 complex",
+      "heterodimer of amyloid beta protein",
+      "heterooligomer of amyloid beta protein",
+      "heterotrimer of amyloid beta protein",
+      "homodimer of amyloid beta protein",
+      "homooligomer of amyloid beta protein",
+      "homotrimer of amyloid beta protein"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "18568035"
+    ]
+  },
+  "definition": "Protein complex involved in modulation of signaling and synaptic function in the brain, predominantly in the cerebral cortex and hippocampus. Forms dimers and multimers of amyloid beta peptide 40 and peptide 42 (proteolytic cleavage products of amyloid beta A4 protein, also known as amyloid beta precursor protein). Mostly found in the extracellular space with a proportion occurring as membrane-bound species. Influences synaptic plasticity through various receptors, mediates dendritic spine loss leading to decreased synapse density, inhibits long-term potentiation (LTP) and enhances long-term depression (LTD). Soluble multimeric form is the main pathogenic species linked to Alzheimer&apos;s disease.",
+  "namespace": "cellular_component",
+  "label": "amyloid-beta complex"
+}

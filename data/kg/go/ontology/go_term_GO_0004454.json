@@ -1,0 +1,43 @@
+{
+  "id": "GO:0004454",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004454",
+  "relationships": {
+    "is_a": [
+      "GO:0016773",
+      "GO:0019200"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "hepatic fructokinase activity"
+    ],
+    "related": [
+      "ATP:D-fructose 1-phosphotransferase activity",
+      "ketohexokinase (phosphorylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.3",
+      "2.7.1.3",
+      "2.7.1.3",
+      "2.7.1.3",
+      "2.7.1.3"
+    ],
+    "MetaCyc": [
+      "KETOHEXOKINASE-RXN"
+    ],
+    "RHEA": [
+      "18145"
+    ],
+    "Reactome": [
+      "R-HSA-5656459",
+      "R-HSA-70333"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + D-fructose = ADP + D-fructose 1-phosphate.",
+  "namespace": "molecular_function",
+  "label": "KHK dimer phosphorylates Fru to Fru 1-P"
+}

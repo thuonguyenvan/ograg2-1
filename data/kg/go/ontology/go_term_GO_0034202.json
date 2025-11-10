@@ -1,0 +1,40 @@
+{
+  "id": "GO:0034202",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034202",
+  "relationships": {
+    "is_a": [
+      "GO:0140328"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycolipid floppase activity (cytosolic to exoplasmic leaflet)"
+    ],
+    "broad": [
+      "ATP-dependent intramembrane glycolipid transporter activity",
+      "ATPase-coupled intramembrane glycolipid transporter activity",
+      "glycolipid-translocating activity"
+    ],
+    "narrow": [
+      "M5GN2-PP-Dol flippase activity",
+      "Man(5)GlcNAc(2)-PP-dolichol translocator",
+      "Man5GlcNac2-PP-Dol ER flippase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-446212",
+      "R-HSA-4570573"
+    ],
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "11807558"
+    ]
+  },
+  "definition": "Catalysis of the movement of a glycolipid from the cytosolic to the exoplasmic leaflet of a membrane, using energy from the hydrolysis of ATP.",
+  "namespace": "molecular_function",
+  "label": "Defective RFT1 does not flip the N-glycan precursor"
+}

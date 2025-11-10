@@ -1,0 +1,53 @@
+{
+  "id": "GO:0004826",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004826",
+  "relationships": {
+    "is_a": [
+      "GO:0004812"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phenylalanyl-tRNA synthetase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-phenylalanine:tRNAPhe ligase (AMP-forming) activity",
+      "L-phenylalanyl-tRNA synthetase activity",
+      "phenylalanine translase activity",
+      "phenylalanine-tRNA synthetase activity",
+      "phenylalanyl-tRNA ligase activity",
+      "phenylalanyl-transfer RNA ligase activity",
+      "phenylalanyl-transfer RNA synthetase activity",
+      "phenylalanyl-transfer ribonucleate synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.1.1.20",
+      "6.1.1.20",
+      "6.1.1.20",
+      "6.1.1.20",
+      "6.1.1.20",
+      "6.1.1.20",
+      "6.1.1.20",
+      "6.1.1.20",
+      "6.1.1.20",
+      "6.1.1.20"
+    ],
+    "MetaCyc": [
+      "PHENYLALANINE--TRNA-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "19413"
+    ],
+    "Reactome": [
+      "R-HSA-379848",
+      "R-HSA-380203"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + L-phenylalanine + tRNA(Phe) = AMP + diphosphate + L-phenylalanyl-tRNA(Phe).",
+  "namespace": "molecular_function",
+  "label": "phenylalanine + tRNA(Phe) + ATP =&gt; Phe-tRNA(Phe) + AMP + pyrophosphate"
+}

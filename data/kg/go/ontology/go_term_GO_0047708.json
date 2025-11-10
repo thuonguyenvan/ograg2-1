@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047708",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047708",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "amidohydrolase biotinidase activity",
+      "biotin-amide amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.12",
+      "3.5.1.12",
+      "3.5.1.12",
+      "3.5.1.12"
+    ],
+    "MetaCyc": [
+      "BIOTINIDASE-RXN",
+      "BIOTINIDASE-RXN"
+    ],
+    "RHEA": [
+      "13081"
+    ],
+    "Reactome": [
+      "R-HSA-3076905",
+      "R-HSA-3325540",
+      "R-HSA-4167509",
+      "R-HSA-4225086"
+    ]
+  },
+  "definition": "Catalysis of the reaction: biotin amide + H2O = biotin + NH3.",
+  "namespace": "molecular_function",
+  "label": "Defective mitochondrial BTD does not hydrolyse BCTN"
+}

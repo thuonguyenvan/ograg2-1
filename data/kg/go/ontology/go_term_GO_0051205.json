@@ -1,0 +1,29 @@
+{
+  "id": "GO:0051205",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051205",
+  "relationships": {
+    "is_a": [
+      "GO:0090150"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "integral membrane protein localization",
+      "integral membrane protein positioning",
+      "membrane protein localization",
+      "membrane protein positioning",
+      "protein-membrane insertion"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The process that results in the incorporation of a protein into a biological membrane. Incorporation in this context means having some part or covalently attached group that is inserted into the the hydrophobic region of one or both bilayers.",
+  "namespace": "biological_process",
+  "label": "protein insertion into membrane"
+}

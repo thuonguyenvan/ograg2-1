@@ -1,0 +1,91 @@
+{
+  "id": "GO:0046934",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046934",
+  "relationships": {
+    "is_a": [
+      "GO:0052742"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphatidylinositol-4,5-bisphosphate 3-kinase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "phosphatidylinositol 3-kinase activity, class I",
+      "phosphatidylinositol 3-kinase activity, class II",
+      "phosphatidylinositol 3-kinase, class I, catalyst activity",
+      "type I phosphoinositide 3-kinase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.153",
+      "2.7.1.153",
+      "2.7.1.153"
+    ],
+    "KEGG_REACTION": [
+      "R04545"
+    ],
+    "MetaCyc": [
+      "2.7.1.153-RXN"
+    ],
+    "RHEA": [
+      "21292",
+      "21292"
+    ],
+    "Reactome": [
+      "R-HSA-1226014",
+      "R-HSA-1250370",
+      "R-HSA-1250462",
+      "R-HSA-1306957",
+      "R-HSA-1306979",
+      "R-HSA-1676048",
+      "R-HSA-177939",
+      "R-HSA-1839091",
+      "R-HSA-1839107",
+      "R-HSA-186800",
+      "R-HSA-198266",
+      "R-HSA-201510",
+      "R-HSA-202365",
+      "R-HSA-2029271",
+      "R-HSA-2076220",
+      "R-HSA-2316434",
+      "R-HSA-2394007",
+      "R-HSA-2424480",
+      "R-HSA-2730870",
+      "R-HSA-389158",
+      "R-HSA-392300",
+      "R-HSA-437162",
+      "R-HSA-5218819",
+      "R-HSA-5637801",
+      "R-HSA-5654690",
+      "R-HSA-5654692",
+      "R-HSA-5654697",
+      "R-HSA-5654701",
+      "R-HSA-5654705",
+      "R-HSA-5654709",
+      "R-HSA-5654714",
+      "R-HSA-5654717",
+      "R-HSA-5655235",
+      "R-HSA-5655289",
+      "R-HSA-5655290",
+      "R-HSA-5655323",
+      "R-HSA-8852019",
+      "R-HSA-9021627",
+      "R-HSA-9028519",
+      "R-HSA-9603445",
+      "R-HSA-9664664",
+      "R-HSA-9664940",
+      "R-HSA-9665407",
+      "R-HSA-9672162",
+      "R-HSA-9672177",
+      "R-HSA-9712084",
+      "R-HSA-9860816"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate + ATP = a 1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate + ADP + H+.",
+  "namespace": "molecular_function",
+  "label": "Phospho-PI3K in p-Y713-PECAM1:CDH5:PIK3CA,B,D:p-Y464-PIK3R2:p-Y801,Y1054,Y1175-KDR:p-Y1063,Y1230-FLT4:CTNNB1 phosphorylates phosphoinositol-4,5-bisphosphate to yield phosphoinositol-3,4,5-trisphosphate"
+}

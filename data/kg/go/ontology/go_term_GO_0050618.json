@@ -1,0 +1,36 @@
+{
+  "id": "GO:0050618",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050618",
+  "relationships": {
+    "is_a": [
+      "GO:0016636"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(3Z)-phycoerythrobilin:ferredoxin oxidoreductase activity",
+      "PebB"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.3.7.3",
+      "1.3.7.3",
+      "1.3.7.3",
+      "1.3.7.3"
+    ],
+    "MetaCyc": [
+      "1.3.7.3-RXN",
+      "1.3.7.3-RXN"
+    ],
+    "RHEA": [
+      "22092"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (3Z)-phycoerythrobilin + oxidized ferredoxin = 15,16-dihydrobiliverdin + reduced ferredoxin.",
+  "namespace": "molecular_function",
+  "label": "phycoerythrobilin:ferredoxin oxidoreductase activity"
+}

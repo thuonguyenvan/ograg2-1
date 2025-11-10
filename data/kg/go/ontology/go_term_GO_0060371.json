@@ -1,0 +1,36 @@
+{
+  "id": "GO:0060371",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060371",
+  "relationships": {
+    "is_a": [
+      "GO:0003254"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of atrial cardiac muscle cell depolarization",
+      "regulation of atrial cardiomyocyte membrane depolarization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "atrial depolarization",
+      "electrocardiogram PR interval"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the establishment or extent of a membrane potential in the depolarizing direction away from the resting potential in an atrial cardiomyocyte.",
+  "namespace": "biological_process",
+  "label": "regulation of atrial cardiac muscle cell membrane depolarization"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0120568",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120568",
+  "relationships": {
+    "is_a": [
+      "GO:0016616",
+      "GO:0051990"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "2-oxoglutarate reductase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.399",
+      "1.1.1.399"
+    ],
+    "MetaCyc": [
+      "KETOGLUTREDUCT-RXN"
+    ],
+    "RHEA": [
+      "49612",
+      "49612"
+    ],
+    "PMID": [
+      "26774271"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-2-hydroxyglutarate + NAD+ = 2-oxoglutarate + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "(R)-2-hydroxyglutarate (NAD+) dehydrogenase activity"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "GO:0004637",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004637",
+  "relationships": {
+    "is_a": [
+      "GO:0016879"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-amino-N-ribosylacetamide 5&apos;-phosphate kinosynthase activity",
+      "5&apos;-phosphoribosylglycinamide synthetase activity",
+      "5-phospho-D-ribosylamine:glycine ligase (ADP-forming)",
+      "GAR",
+      "GAR synthetase activity",
+      "GARS activity",
+      "glycinamide ribonucleotide synthetase activity",
+      "glycineamide ribonucleotide synthetase activity",
+      "phosphoribosylglycinamide synthetase activity",
+      "phosphoribosylglycineamide synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.4.13",
+      "6.3.4.13",
+      "6.3.4.13",
+      "6.3.4.13",
+      "6.3.4.13",
+      "6.3.4.13",
+      "6.3.4.13",
+      "6.3.4.13",
+      "6.3.4.13",
+      "6.3.4.13",
+      "6.3.4.13",
+      "6.3.4.13"
+    ],
+    "KEGG_REACTION": [
+      "R04144"
+    ],
+    "MetaCyc": [
+      "GLYRIBONUCSYN-RXN"
+    ],
+    "RHEA": [
+      "17453",
+      "17453"
+    ],
+    "Reactome": [
+      "R-HSA-73814"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-phospho-D-ribosylamine + ATP + glycine = N(1)-(5-phospho-D-ribosyl)glycinamide + ADP + 2 H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "5-Phosphoribosylamine + Glycine + ATP =&gt; GAR + ADP + Pi"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0045039",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045039",
+  "relationships": {
+    "is_a": [
+      "GO:0007007",
+      "GO:0051204"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrial inner membrane protein import",
+      "protein import into mitochondrial inner membrane",
+      "protein transport into mitochondrial inner membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mcc",
+      "vw"
+    ],
+    "PMID": [
+      "18672008"
+    ]
+  },
+  "definition": "The processes mediating the insertion of proteins into the mitochondrial inner membrane. Mitochondrial inner membrane proteins can get inserted from the cytosol, by crossing the outer membrane and being guided by an inner membrane translocase complex into their final destination in the inner membrane. Some proteins present in the intermembrane space can get inserted into the inner mitochondrial membrane. Finally, some proteins are inserted into the inner membrane from the matrix side of the membrane.",
+  "namespace": "biological_process",
+  "label": "protein insertion into mitochondrial inner membrane"
+}

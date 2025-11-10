@@ -1,0 +1,39 @@
+{
+  "id": "GO:1904331",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904331",
+  "relationships": {
+    "is_a": [
+      "GO:0080135",
+      "GO:2000278"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of mutagenic PRR"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of error-prone postreplication DNA repair",
+      "regulation of mutagenic postreplication DNA repair"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "kmv",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22761594"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of error-prone translesion synthesis.",
+  "namespace": "biological_process",
+  "label": "regulation of error-prone translesion synthesis"
+}

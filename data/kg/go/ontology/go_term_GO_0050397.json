@@ -1,0 +1,40 @@
+{
+  "id": "GO:0050397",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050397",
+  "relationships": {
+    "is_a": [
+      "GO:0016703",
+      "GO:0045289"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "luciferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "Watasenia-luciferin:oxygen 2-oxidoreductase (decarboxylating)",
+      "Watasenia-type luciferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.12.8",
+      "1.13.12.8",
+      "1.13.12.8",
+      "1.13.12.8",
+      "1.13.12.8"
+    ],
+    "MetaCyc": [
+      "WATASEMIA-LUCIFERIN-2-MONOOXYGENASE-RXN",
+      "WATASEMIA-LUCIFERIN-2-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "18057"
+    ]
+  },
+  "definition": "Catalysis of the reaction: Watasenia luciferin + O2 = oxidized Watasenia luciferin + CO2 + light.",
+  "namespace": "molecular_function",
+  "label": "Watasenia-luciferin 2-monooxygenase activity"
+}

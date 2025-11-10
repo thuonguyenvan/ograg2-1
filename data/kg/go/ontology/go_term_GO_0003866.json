@@ -1,0 +1,43 @@
+{
+  "id": "GO:0003866",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003866",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-enol-pyruvoylshikimate-5-phosphate synthase activity",
+      "5-enolpyruvylshikimate-3-phosphate synthase activity",
+      "EPSP synthase activity",
+      "phosphoenolpyruvate:3-phosphoshikimate 5-O-(1-carboxyvinyl)-transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.19",
+      "2.5.1.19",
+      "2.5.1.19",
+      "2.5.1.19",
+      "2.5.1.19",
+      "2.5.1.19"
+    ],
+    "KEGG_REACTION": [
+      "R03460"
+    ],
+    "MetaCyc": [
+      "2.5.1.19-RXN"
+    ],
+    "RHEA": [
+      "21256",
+      "21256"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-phosphoshikimate + phosphoenolpyruvate = 5-O-(1-carboxyvinyl)-3-phosphoshikimate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "3-phosphoshikimate 1-carboxyvinyltransferase activity"
+}

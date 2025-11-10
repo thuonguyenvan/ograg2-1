@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047928",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047928",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "gibberellin b-glucosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose:gibberellin 2-O-beta-D-glucosyltransferase activity",
+      "UDPglucose:gibberellin 2-O-beta-D-glucosyltransferase activity",
+      "uridine diphosphoglucose-gibberellate 3-O-glucosyltransferase activity",
+      "uridine diphosphoglucose-gibberellate 7-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.176",
+      "2.4.1.176",
+      "2.4.1.176",
+      "2.4.1.176",
+      "2.4.1.176",
+      "2.4.1.176"
+    ],
+    "MetaCyc": [
+      "GIBBERELLIN-BETA-GLUCOSYLTRANSFERASE-RXN",
+      "GIBBERELLIN-BETA-GLUCOSYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "20025"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-glucose + gibberellin = UDP + gibberellin 2-O-beta-D-glucoside.",
+  "namespace": "molecular_function",
+  "label": "gibberellin beta-D-glucosyltransferase activity"
+}

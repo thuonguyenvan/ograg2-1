@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050032",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050032",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-rhamnonate hydro-lyase (2-dehydro-3-deoxy-L-rhamnonate-forming)",
+      "L-rhamnonate hydro-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.90",
+      "4.2.1.90",
+      "4.2.1.90",
+      "4.2.1.90"
+    ],
+    "KEGG_REACTION": [
+      "R03774"
+    ],
+    "MetaCyc": [
+      "L-RHAMNONATE-DEHYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "23080",
+      "23080"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-rhamnonate = 2-dehydro-3-deoxy-L-rhamnonate + H2O.",
+  "namespace": "molecular_function",
+  "label": "L-rhamnonate dehydratase activity"
+}

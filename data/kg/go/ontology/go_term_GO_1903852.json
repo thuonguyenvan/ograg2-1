@@ -1,0 +1,42 @@
+{
+  "id": "GO:1903852",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903852",
+  "relationships": {
+    "is_a": [
+      "GO:0010638",
+      "GO:1903850"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of cristae formation",
+      "up-regulation of cristae formation",
+      "upregulation of cristae formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of cristae formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "pad",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19279012"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of cristae formation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cristae formation"
+}

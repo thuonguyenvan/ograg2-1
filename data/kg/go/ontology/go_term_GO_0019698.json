@@ -1,0 +1,34 @@
+{
+  "id": "GO:0019698",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019698",
+  "relationships": {
+    "is_a": [
+      "GO:0046365",
+      "GO:0046396",
+      "GO:0046397"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-galacturonate breakdown",
+      "D-galacturonate catabolism",
+      "D-galacturonate degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "GALACTUROCAT-PWY"
+    ],
+    "GOC": [
+      "ai",
+      "jsg",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of D-galacturonate, the D-enantiomer of galacturonate, the anion of galacturonic acid.",
+  "namespace": "biological_process",
+  "label": "D-galacturonate catabolic process"
+}

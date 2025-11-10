@@ -1,0 +1,31 @@
+{
+  "id": "GO:0071051",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071051",
+  "relationships": {
+    "is_a": [
+      "GO:0031126"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "polyadenylation-dependent snoRNA 3&apos;-end processing"
+    ],
+    "broad": [],
+    "narrow": [
+      "sno(s)RNA polyadenylation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dgf",
+      "krc"
+    ],
+    "PMID": [
+      "18951092"
+    ]
+  },
+  "definition": "Any process involved in forming the mature 3&apos; end of a snoRNA molecule linked to prior polyadenylation of the 3&apos;-end of the precursor snoRNA.",
+  "namespace": "biological_process",
+  "label": "poly(A)-dependent snoRNA 3&apos;-end processing"
+}

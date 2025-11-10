@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102211",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102211",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.172",
+      "3.2.1.172"
+    ],
+    "MetaCyc": [
+      "RXN-12174"
+    ],
+    "RHEA": [
+      "30927"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-O-(4-deoxy-beta-L-threo-hex-4-enopyranuronosyl)-alpha-L-rhamnopyranose(1-) + H2O = (4S,5S)-4,5-dihydroxy-2,6-dioxohexanoate + alpha-L-rhamnopyranose.",
+  "namespace": "molecular_function",
+  "label": "unsaturated rhamnogalacturonyl hydrolase activity"
+}

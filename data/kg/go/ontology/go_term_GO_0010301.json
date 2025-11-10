@@ -1,0 +1,43 @@
+{
+  "id": "GO:0010301",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010301",
+  "relationships": {
+    "is_a": [
+      "GO:0004022"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "xanthoxin dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ABA2",
+      "xanthoxin oxidase activity",
+      "xanthoxin:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.288",
+      "1.1.1.288",
+      "1.1.1.288",
+      "1.1.1.288",
+      "1.1.1.288"
+    ],
+    "KEGG_REACTION": [
+      "R06954"
+    ],
+    "MetaCyc": [
+      "1.1.1.288-RXN"
+    ],
+    "RHEA": [
+      "12548",
+      "12548"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD+ + xanthoxin = (+)-abscisic aldehyde + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "xanthoxin dehydrogenase (NAD+) activity"
+}

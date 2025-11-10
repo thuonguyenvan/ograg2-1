@@ -1,0 +1,34 @@
+{
+  "id": "GO:0043107",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043107",
+  "relationships": {
+    "is_a": [
+      "GO:0048870"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TFP-dependent motility",
+      "TFP-dependent movement",
+      "type 4 pilus-dependent motility",
+      "type four pilus-dependent motility"
+    ],
+    "broad": [],
+    "narrow": [
+      "social gliding motility",
+      "twitching motility"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ],
+    "PMID": [
+      "12704238"
+    ]
+  },
+  "definition": "Any process involved in the controlled movement of a bacterial cell which is dependent on the presence of type IV pili. Includes social gliding motility and twitching motility.",
+  "namespace": "biological_process",
+  "label": "type IV pilus-dependent motility"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0051942",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051942",
+  "relationships": {
+    "is_a": [
+      "GO:0051581",
+      "GO:0051941",
+      "GO:0051956"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of amino acid neurotransmitter reuptake",
+      "negative regulation of amino acid neurotransmitter uptake"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "down regulation of amino acid uptake during transmission of nerve impulse",
+      "down-regulation of amino acid uptake during transmission of nerve impulse",
+      "downregulation of amino acid uptake during transmission of nerve impulse",
+      "inhibition of amino acid uptake during transmission of nerve impulse",
+      "negative regulation of amino acid uptake during transmission of nerve impulse"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the directed movement of amino acid neurotransmitters into a neuron or glial cell.",
+  "namespace": "biological_process",
+  "label": "negative regulation of amino acid uptake involved in synaptic transmission"
+}

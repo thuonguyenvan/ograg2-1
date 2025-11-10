@@ -1,0 +1,41 @@
+{
+  "id": "GO:0008909",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008909",
+  "relationships": {
+    "is_a": [
+      "GO:0050486"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "isochorismate mutase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "isochorismate hydroxymutase activity",
+      "isochorismate synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.4.2",
+      "5.4.4.2",
+      "5.4.4.2",
+      "5.4.4.2"
+    ],
+    "KEGG_REACTION": [
+      "R01717"
+    ],
+    "MetaCyc": [
+      "ISOCHORSYN-RXN"
+    ],
+    "RHEA": [
+      "18985",
+      "18985"
+    ]
+  },
+  "definition": "Catalysis of the reaction: chorismate = isochorismate.",
+  "namespace": "molecular_function",
+  "label": "isochorismate synthase activity"
+}

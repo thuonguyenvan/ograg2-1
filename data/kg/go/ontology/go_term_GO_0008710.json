@@ -1,0 +1,51 @@
+{
+  "id": "GO:0008710",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008710",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "6-carboxyhexanoyl-CoA:L-alanine C-carboxyhexanoyltransferase (decarboxylating)",
+      "7-KAP synthetase activity",
+      "7-keto-8-amino-pelargonic acid synthetase activity",
+      "7-keto-8-aminopelargonic acid synthetase activity",
+      "7-keto-8-aminopelargonic synthetase activity",
+      "8-amino-7-ketopelargonate synthase activity",
+      "8-amino-7-oxopelargonate synthase activity",
+      "AONS activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.47",
+      "2.3.1.47",
+      "2.3.1.47",
+      "2.3.1.47",
+      "2.3.1.47",
+      "2.3.1.47",
+      "2.3.1.47",
+      "2.3.1.47",
+      "2.3.1.47",
+      "2.3.1.47"
+    ],
+    "KEGG_REACTION": [
+      "R03210"
+    ],
+    "MetaCyc": [
+      "7KAPSYN-RXN"
+    ],
+    "RHEA": [
+      "20712",
+      "20712"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-alanine + H+ + pimelyl-CoA = 8-amino-7-oxononanoate + CO2 + CoA.",
+  "namespace": "molecular_function",
+  "label": "8-amino-7-oxononanoate synthase activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0021711",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021711",
+  "relationships": {
+    "is_a": [
+      "GO:0021533",
+      "GO:0021953"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "15157725"
+    ]
+  },
+  "definition": "The process in which neuroblasts acquire specialized structural and/or functional features that characterize the mature unipolar brush cell in the cerebellum. Differentiation includes the processes involved in commitment of a neuroblast to a unipolar brush cell fate. A unipolar brush cell is a glutamatergic interneuron found in the cerebellar cortex.",
+  "namespace": "biological_process",
+  "label": "cerebellar unipolar brush cell differentiation"
+}

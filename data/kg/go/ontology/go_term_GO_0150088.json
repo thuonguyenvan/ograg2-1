@@ -1,0 +1,47 @@
+{
+  "id": "GO:0150088",
+  "uri": "http://purl.obolibrary.org/obo/GO_0150088",
+  "relationships": {
+    "is_a": [
+      "GO:0150086"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MSB2",
+      "type 2 multi-synapse bouton",
+      "type 2 multi-synaptic bouton",
+      "type 2 multiple spine synapse bouton",
+      "type 2 multiple-synapse bouton",
+      "type 2 multisynapse bouton",
+      "type 2 multisynaptic bouton"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "aruk",
+      "bc"
+    ],
+    "PMID": [
+      "10586883",
+      "11248111",
+      "22028887",
+      "24487234",
+      "7482800",
+      "8366344",
+      "24487234",
+      "24487234",
+      "24487234",
+      "24487234",
+      "24487234",
+      "24487234",
+      "24487234"
+    ]
+  },
+  "definition": "A single axon terminal bouton making contact onto two or more dendritic spines protruding from multiple dendrites.",
+  "namespace": "cellular_component",
+  "label": "multiple synapse bouton, contacting multiple dendrites"
+}

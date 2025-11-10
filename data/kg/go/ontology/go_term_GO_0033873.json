@@ -1,0 +1,39 @@
+{
+  "id": "GO:0033873",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033873",
+  "relationships": {
+    "is_a": [
+      "GO:0008146"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3&apos;-phosphoadenylyl-sulfate:5alpha-cholan-3alpha,7alpha,12alpha,24-tetrol sulfotransferase activity",
+      "PZ-SULT"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.31",
+      "2.8.2.31",
+      "2.8.2.31",
+      "2.8.2.31"
+    ],
+    "KEGG_REACTION": [
+      "R07797"
+    ],
+    "MetaCyc": [
+      "2.8.2.31-RXN"
+    ],
+    "RHEA": [
+      "16997",
+      "16997"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;-phospho-5&apos;-adenylyl sulfate + 5alpha-cholane-3alpha,7alpha,12alpha,24-tetrol = 3alpha,7alpha,12alpha-trihydroxy-5alpha-cholan-24-yl sulfate + adenosine 3&apos;,5&apos;-diphosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "petromyzonol sulfotransferase activity"
+}

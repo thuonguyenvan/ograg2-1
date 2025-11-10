@@ -1,0 +1,35 @@
+{
+  "id": "GO:0036481",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036481",
+  "relationships": {
+    "is_a": [
+      "GO:0008631"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hydrogen peroxide-induced intrinsic apoptotic signaling pathway",
+      "intrinsic apoptotic signaling pathway in response to H2O2"
+    ],
+    "broad": [
+      "hydrogen peroxide-induced apoptosis"
+    ],
+    "narrow": [],
+    "related": [
+      "H2O2-induced intrinsic apoptotic signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf",
+      "bf",
+      "bf",
+      "bf",
+      "bf"
+    ]
+  },
+  "definition": "The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a cell. The pathway is induced in response to hydrogen peroxide (H2O2).",
+  "namespace": "biological_process",
+  "label": "intrinsic apoptotic signaling pathway in response to hydrogen peroxide"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:0045953",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045953",
+  "relationships": {
+    "is_a": [
+      "GO:0001911",
+      "GO:0002716",
+      "GO:0042269"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of natural killer cell mediated cytotoxicity",
+      "down-regulation of natural killer cell mediated cytotoxicity",
+      "downregulation of natural killer cell mediated cytotoxicity",
+      "negative regulation of NK cell mediated cell death",
+      "negative regulation of NK cell mediated cell killing",
+      "negative regulation of NK cell mediated cytotoxicity",
+      "negative regulation of natural killer cell mediated cell death",
+      "negative regulation of natural killer cell mediated cell killing"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of natural killer cell mediated cytotoxicity"
+    ],
+    "related": [
+      "negative regulation of NK cell mediated cytolysis",
+      "negative regulation of natural killer cell mediated cytolysis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the rate of natural killer mediated cytotoxicity.",
+  "namespace": "biological_process",
+  "label": "negative regulation of natural killer cell mediated cytotoxicity"
+}

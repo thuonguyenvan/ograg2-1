@@ -1,0 +1,45 @@
+{
+  "id": "GO:0050357",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050357",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "atropinase activity",
+      "atropine acylhydrolase activity",
+      "atropine esterase activity",
+      "atropinesterase activity",
+      "tropine esterase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.10",
+      "3.1.1.10",
+      "3.1.1.10",
+      "3.1.1.10",
+      "3.1.1.10",
+      "3.1.1.10",
+      "3.1.1.10"
+    ],
+    "KEGG_REACTION": [
+      "R03563"
+    ],
+    "MetaCyc": [
+      "TROPINESTERASE-RXN"
+    ],
+    "RHEA": [
+      "23304",
+      "23304"
+    ]
+  },
+  "definition": "Catalysis of the reaction: atropine + H2O = H+ + tropate + tropine.",
+  "namespace": "molecular_function",
+  "label": "tropinesterase activity"
+}

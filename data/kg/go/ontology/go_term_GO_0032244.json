@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032244",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032244",
+  "relationships": {
+    "is_a": [
+      "GO:0032241",
+      "GO:0032242"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of nucleoside transport",
+      "up-regulation of nucleoside transport",
+      "upregulation of nucleoside transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of nucleoside transport",
+      "stimulation of nucleoside transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the directed movement of a nucleoside into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "positive regulation of nucleoside transport"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0031929",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031929",
+  "relationships": {
+    "is_a": [
+      "GO:0035556"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TOR signal transduction",
+      "TOR signaling pathway",
+      "TOR signalling pathway",
+      "target of rapamycin signaling pathway",
+      "target of rapamycin signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "TOR signaling cascade"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "12372295"
+    ],
+    "GOC": [
+      "signaling",
+      "signaling"
+    ]
+  },
+  "definition": "The series of molecular signals mediated by TOR (Target of rapamycin) proteins, members of the phosphoinositide (PI) 3-kinase related kinase (PIKK) family that act as serine/threonine kinases in response to nutrient availability or growth factors.",
+  "namespace": "biological_process",
+  "label": "TOR signaling"
+}

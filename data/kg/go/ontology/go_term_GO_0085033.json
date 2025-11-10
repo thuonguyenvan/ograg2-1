@@ -1,0 +1,46 @@
+{
+  "id": "GO:0085033",
+  "uri": "http://purl.obolibrary.org/obo/GO_0085033",
+  "relationships": {
+    "is_a": [
+      "GO:0052028",
+      "GO:0085032"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "activation by symbiont of host I-kappaB kinase/NF-kappaB cascade",
+      "induction by symbiont of host I-kappaB kinase/NF-kappaB cascade",
+      "induction of host I-kappaB kinase/NF-kappaB cascade",
+      "induction of host canonical NF-kappaB signal transduction",
+      "positive regulation by symbiont of host I-kappaB kinase/NF-kappaB cascade",
+      "positive regulation by symbiont of host NF-kappaB-mediated signal transduction pathway",
+      "stimulation by symbiont of host I-kappaB kinase/NF-kappaB cascade",
+      "symbiont-mediated activation of host NF-kappaB signal transduction",
+      "up regulation by symbiont of host I-kappaB kinase/NF-kappaB cascade",
+      "up-regulation by symbiont of host I-kappaB kinase/NF-kappaB cascade",
+      "upregulation by symbiont of host I-kappaB kinase/NF-kappaB cascade"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "symbiont-mediated activation of host canonical NF-kappaB signal transduction"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "841"
+    ],
+    "PMID": [
+      "11907233",
+      "17490702",
+      "21098302",
+      "21199955",
+      "31311877",
+      "7845680"
+    ]
+  },
+  "definition": "A process that initiates, promotes, or enhances a host NF-kappaB-mediated signaling cascade. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated activation of host NF-kappaB cascade"
+}

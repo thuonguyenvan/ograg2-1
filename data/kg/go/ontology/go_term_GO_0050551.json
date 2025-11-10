@@ -1,0 +1,36 @@
+{
+  "id": "GO:0050551",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050551",
+  "relationships": {
+    "is_a": [
+      "GO:0010333"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "geranyl-diphosphate diphosphate-lyase (myrcene-forming) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.15",
+      "4.2.3.15"
+    ],
+    "KEGG_REACTION": [
+      "R02009"
+    ],
+    "MetaCyc": [
+      "RXN-5110"
+    ],
+    "RHEA": [
+      "16965",
+      "16965"
+    ]
+  },
+  "definition": "Catalysis of the reaction: geranyl diphosphate = diphosphate + myrcene.",
+  "namespace": "molecular_function",
+  "label": "myrcene synthase activity"
+}

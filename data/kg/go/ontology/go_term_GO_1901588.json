@@ -1,0 +1,32 @@
+{
+  "id": "GO:1901588",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901588",
+  "relationships": {
+    "is_a": [
+      "GO:0005874"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "microtubule of dendrite",
+      "microtubulus of dendrite"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao110773650",
+      "sao110773650"
+    ],
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any microtubule in a dendrite, a neuron projection.",
+  "namespace": "cellular_component",
+  "label": "dendritic microtubule"
+}

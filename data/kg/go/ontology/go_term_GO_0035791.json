@@ -1,0 +1,37 @@
+{
+  "id": "GO:0035791",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035791",
+  "relationships": {
+    "is_a": [
+      "GO:0048008"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PDGF receptor-beta signaling pathway",
+      "PDGFR-beta signaling pathway",
+      "betaPDGF receptor signaling pathway",
+      "platelet-derived growth factor receptor-beta signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "signaling",
+      "yaf",
+      "bf",
+      "bf",
+      "mah"
+    ],
+    "PMID": [
+      "10372961",
+      "10372961"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by the binding of a ligand to a beta-type platelet-derived growth factor receptor (PDGFbeta) on the surface of a signal-receiving cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "platelet-derived growth factor receptor-beta signaling pathway"
+}

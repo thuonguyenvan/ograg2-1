@@ -1,0 +1,31 @@
+{
+  "id": "GO:0097746",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097746",
+  "relationships": {
+    "is_a": [
+      "GO:0003018",
+      "GO:0035296"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "blood vessel diameter homeostasis",
+      "regulation of blood vessel diameter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of blood vessel size",
+      "regulation of vasodilatation",
+      "regulation of vasodilation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "pr"
+    ]
+  },
+  "definition": "Any process that modulates the diameter of blood vessels.",
+  "namespace": "biological_process",
+  "label": "blood vessel diameter maintenance"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0036106",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036106",
+  "relationships": {
+    "is_a": [
+      "GO:0033328"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "class 2 mPTS binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PEX19-independent mPTS binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "pm"
+    ],
+    "PMID": [
+      "14709540",
+      "17020786",
+      "14709540",
+      "14709540"
+    ]
+  },
+  "definition": "Binding to a class II peroxisomal membrane targeting sequence, any of several sequences of amino acids within a protein that can act as a signal for the localization of the protein into the peroxisome membrane in a PEX19-independent manner.",
+  "namespace": "molecular_function",
+  "label": "peroxisome membrane class-2 targeting sequence binding"
+}

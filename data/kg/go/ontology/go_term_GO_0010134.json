@@ -1,0 +1,26 @@
+{
+  "id": "GO:0010134",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010134",
+  "relationships": {
+    "is_a": [
+      "GO:0000103"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulphate assimilation via adenylyl sulphate reduction"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "SULFMETII-PWY",
+      "SULFMETII-PWY"
+    ]
+  },
+  "definition": "The pathway by which inorganic sulfate is activated, reduced and incorporated into sulfated compounds, where the activated sulfate, adenylyl-sulfate, is reduced to sulfite by the activity of adenylyl-sulfate reductase.",
+  "namespace": "biological_process",
+  "label": "sulfate assimilation via adenylyl sulfate reduction"
+}

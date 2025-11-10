@@ -1,0 +1,48 @@
+{
+  "id": "GO:0047392",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047392",
+  "relationships": {
+    "is_a": [
+      "GO:0008081"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CMP-N-acetylneuraminate hydrolase activity",
+      "CMP-N-acylneuraminate N-acylneuraminohydrolase activity",
+      "CMP-N-acylneuraminic acid hydrolase activity",
+      "CMP-sialate hydrolase activity",
+      "CMP-sialic acid hydrolase activity",
+      "cytidine monophosphate-N-acetylneuraminic acid hydrolase activity",
+      "cytidine monophosphosialate hydrolase activity",
+      "cytidine monophosphosialic hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.4.40",
+      "3.1.4.40",
+      "3.1.4.40",
+      "3.1.4.40",
+      "3.1.4.40",
+      "3.1.4.40",
+      "3.1.4.40",
+      "3.1.4.40",
+      "3.1.4.40",
+      "3.1.4.40"
+    ],
+    "MetaCyc": [
+      "3.1.4.40-RXN",
+      "3.1.4.40-RXN"
+    ],
+    "RHEA": [
+      "20185"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + CMP-N-acylneuraminate = N-acylneuraminate + CMP.",
+  "namespace": "molecular_function",
+  "label": "CMP-N-acylneuraminate phosphodiesterase activity"
+}

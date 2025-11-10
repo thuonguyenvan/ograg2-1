@@ -1,0 +1,31 @@
+{
+  "id": "GO:0000375",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000375",
+  "relationships": {
+    "is_a": [
+      "GO:0008380"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RNA splicing factor activity, transesterification mechanism",
+      "pre-mRNA splicing factor activity",
+      "spliceosomal catalysis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "krc",
+      "mah",
+      "krc",
+      "mah"
+    ]
+  },
+  "definition": "Splicing of RNA via a series of two transesterification reactions.",
+  "namespace": "biological_process",
+  "label": "RNA splicing, via transesterification reactions"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0006769",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006769",
+  "relationships": {
+    "is_a": [
+      "GO:0009820",
+      "GO:0043603",
+      "GO:0072524"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nicotinamide metabolism"
+    ],
+    "broad": [
+      "vitamin B3 metabolic process",
+      "vitamin B3 metabolism"
+    ],
+    "narrow": [],
+    "related": [
+      "niacin metabolic process",
+      "niacin metabolism"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5083"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving nicotinamide, pyridine-3-carboxamide, the amide of nicotinic acid. It is a member of the B complex of vitamins and occurs widely in living organisms.",
+  "namespace": "biological_process",
+  "label": "nicotinamide metabolic process"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:2001043",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001043",
+  "relationships": {
+    "is_a": [
+      "GO:0010590",
+      "GO:0048522"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of cell separation after cytokinesis",
+      "positive regulation of cytokinetic cell separation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle",
+      "obol"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the process of physically separating the septal cell wall material by enzymatic digestion, that occurs after daughter cells are separated by cytokinesis.",
+  "namespace": "biological_process",
+  "label": "positive regulation of septum digestion after cytokinesis"
+}

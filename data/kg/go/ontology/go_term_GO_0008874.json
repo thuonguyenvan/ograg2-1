@@ -1,0 +1,38 @@
+{
+  "id": "GO:0008874",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008874",
+  "relationships": {
+    "is_a": [
+      "GO:0008875"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-keto-D-gluconate 5-reductase activity",
+      "5-keto-D-gluconate reductase",
+      "5-ketogluconate 5-reductase activity",
+      "5-ketogluconate reductase activity",
+      "D-gluconate:NAD(P)+ 5-oxidoreductase"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.69",
+      "1.1.1.69",
+      "1.1.1.69",
+      "1.1.1.69",
+      "1.1.1.69",
+      "1.1.1.69",
+      "1.1.1.69"
+    ],
+    "MetaCyc": [
+      "GLUCONATE-5-DEHYDROGENASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-gluconate + NADP+ = 5-dehydro-D-gluconate + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "gluconate 5-dehydrogenase activity"
+}

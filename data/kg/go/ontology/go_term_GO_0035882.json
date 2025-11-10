@@ -1,0 +1,41 @@
+{
+  "id": "GO:0035882",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035882",
+  "relationships": {
+    "is_a": [
+      "GO:0007624"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DMP",
+      "defecation cycle",
+      "defecation motor program"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "defecation behavior"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "kmv",
+      "kmv"
+    ],
+    "PMID": [
+      "7479775",
+      "8158250",
+      "9066270",
+      "9066270",
+      "8158250",
+      "9066270",
+      "7479775",
+      "9066270"
+    ]
+  },
+  "definition": "The rhythmic process of defecation that consists of an intestinal oscillator which regulates calcium waves. These waves in turn control a stereotypical, three-part pattern of muscle contractions. In some organisms, defecation can recur with a regularity more frequent than every 24 hours. For example, in a well-fed Caenorhabditis elegans, the defecation motor program occurs approximately every 45 seconds, and is temperature- and touch-compensated.",
+  "namespace": "biological_process",
+  "label": "defecation rhythm"
+}

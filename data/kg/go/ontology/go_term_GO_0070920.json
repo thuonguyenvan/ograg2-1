@@ -1,0 +1,31 @@
+{
+  "id": "GO:0070920",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070920",
+  "relationships": {
+    "is_a": [
+      "GO:0060966",
+      "GO:0080090"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of gene silencing by RNA, production of guide RNA",
+      "regulation of gene silencing by RNA, production of small RNA"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of production of small RNA involved in gene silencing by RNA"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of regulatory non-coding RNA processing.",
+  "namespace": "biological_process",
+  "label": "regulation of regulatory ncRNA processing"
+}

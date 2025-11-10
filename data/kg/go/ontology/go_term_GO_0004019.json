@@ -1,0 +1,48 @@
+{
+  "id": "GO:0004019",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004019",
+  "relationships": {
+    "is_a": [
+      "GO:0016879"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "IMP--aspartate ligase activity",
+      "IMP:L-aspartate ligase (GDP-forming)",
+      "adenylosuccinate synthetase activity",
+      "succino-AMP synthetase activity",
+      "succinoadenylic kinosynthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.4.4",
+      "6.3.4.4",
+      "6.3.4.4",
+      "6.3.4.4",
+      "6.3.4.4",
+      "6.3.4.4",
+      "6.3.4.4"
+    ],
+    "KEGG_REACTION": [
+      "R01135"
+    ],
+    "MetaCyc": [
+      "ADENYLOSUCCINATE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "15753",
+      "15753"
+    ],
+    "Reactome": [
+      "R-HSA-111524"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-aspartate + GTP + IMP = N(6)-(1,2-dicarboxyethyl)-AMP + GDP + 3 H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "IMP + L-Aspartate + GTP =&gt; Adenylosuccinate + GDP + Pi [ADSS]"
+}

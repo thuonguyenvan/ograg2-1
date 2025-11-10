@@ -1,0 +1,31 @@
+{
+  "id": "GO:0000136",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000136",
+  "relationships": {
+    "is_a": [
+      "GO:0031501",
+      "GO:0098796"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "alpha-1,6-mannosyltransferase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mcc"
+    ],
+    "PMID": [
+      "10037752",
+      "11095735",
+      "18083825"
+    ]
+  },
+  "definition": "A protein complex with alpha-(1-&gt;6)-mannosyltransferase activity, located in the cis Golgi membrane; adds mannan to N-linked glycans on proteins.",
+  "namespace": "cellular_component",
+  "label": "mannan polymerase complex"
+}

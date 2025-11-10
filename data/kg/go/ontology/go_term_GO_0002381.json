@@ -1,0 +1,41 @@
+{
+  "id": "GO:0002381",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002381",
+  "relationships": {
+    "is_a": [
+      "GO:0002377"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "immunoglobulin production involved in immunoglobulin mediated immune response"
+    ],
+    "broad": [],
+    "narrow": [
+      "immunoglobulin biosynthetic process involved in immune response",
+      "immunoglobulin secretion involved in immune response"
+    ],
+    "related": [
+      "antibody production during immune response",
+      "antibody secretion during immune response",
+      "immunoglobulin production during immune response",
+      "immunoglobulin production involved in immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "dph",
+      "dph"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "9185563"
+    ]
+  },
+  "definition": "The appearance of immunoglobulin due to biosynthesis or secretion following a cellular stimulus during an immune response, resulting in an increase in its intracellular or extracellular levels.",
+  "namespace": "biological_process",
+  "label": "immunoglobulin production involved in immunoglobulin-mediated immune response"
+}

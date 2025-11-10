@@ -1,0 +1,39 @@
+{
+  "id": "GO:0004748",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004748",
+  "relationships": {
+    "is_a": [
+      "GO:0061731"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2&apos;-deoxyribonucleoside-diphosphate:oxidized-thioredoxin 2&apos;-oxidoreductase activity",
+      "2&apos;-deoxyribonucleoside-diphosphate:thioredoxin-disulfide 2&apos;-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.17.4.1",
+      "1.17.4.1",
+      "1.17.4.1",
+      "1.17.4.1"
+    ],
+    "MetaCyc": [
+      "RIBONUCLEOSIDE-DIP-REDUCTI-RXN"
+    ],
+    "RHEA": [
+      "23252"
+    ],
+    "Reactome": [
+      "R-HSA-111751",
+      "R-HSA-111804"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2&apos;-deoxyribonucleoside diphosphate + thioredoxin disulfide + H2O = ribonucleoside diphosphate + thioredoxin. Thioredoxin disulfide is the oxidized form of thioredoxin.",
+  "namespace": "molecular_function",
+  "label": "RNR (M1M2B) reduces nucleotide diphosphates to deoxynucleotide diphosphates (thioredoxin)"
+}

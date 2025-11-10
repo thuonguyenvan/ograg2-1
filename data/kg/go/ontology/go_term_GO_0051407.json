@@ -1,0 +1,29 @@
+{
+  "id": "GO:0051407",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051407",
+  "relationships": {
+    "is_a": [
+      "GO:0015315",
+      "GO:0015605",
+      "GO:0015665",
+      "GO:1901505"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dihydroxyacetone-phosphate:inorganic phosphate antiporter activity",
+      "glycerone phosphate:inorganic phosphate antiporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: glycerone phosphate(out) + phosphate(in) = glycerone phosphate(in) + phosphate(out).",
+  "namespace": "molecular_function",
+  "label": "glycerone phosphate:phosphate antiporter activity"
+}

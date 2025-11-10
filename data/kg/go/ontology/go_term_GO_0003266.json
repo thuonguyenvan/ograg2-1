@@ -1,0 +1,32 @@
+{
+  "id": "GO:0003266",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003266",
+  "relationships": {
+    "is_a": [
+      "GO:0003264"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of SHF cardioblast proliferation",
+      "regulation of second heart field cardioblast proliferation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_heart",
+      "rl",
+      "rl",
+      "dph"
+    ],
+    "PMID": [
+      "17276708"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of cardioblast proliferation in the second heart field. A cardioblast is a cardiac precursor cell. It is a cell that has been committed to a cardiac fate, but will undergo more cell division rather than terminally differentiating. The secondary heart field is the region of the heart that will form the majority of the mesodermal component of the right ventricle, the arterial pole (outflow tract) and the venous pole (inflow tract).",
+  "namespace": "biological_process",
+  "label": "regulation of secondary heart field cardioblast proliferation"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0038199",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038199",
+  "relationships": {
+    "is_a": [
+      "GO:0038023"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "C2H4 receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ethylene response sensor"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "signaling"
+    ],
+    "PMID": [
+      "22467798",
+      "24012247",
+      "24012247",
+      "22467798"
+    ]
+  },
+  "definition": "Combining with ethylene and transmitting the signal in the cell to initiate a change in cell activity.",
+  "namespace": "molecular_function",
+  "label": "ethylene receptor activity"
+}

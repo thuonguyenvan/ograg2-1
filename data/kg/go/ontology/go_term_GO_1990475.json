@@ -1,0 +1,28 @@
+{
+  "id": "GO:1990475",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990475",
+  "relationships": {
+    "is_a": [
+      "GO:0008021"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "recycling pool of synaptic vesicles"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pad"
+    ],
+    "PMID": [
+      "22745285"
+    ]
+  },
+  "definition": "A synaptic vesicle belonging to the pool that repopulate vacancies within the readily releasable pool (RRP) of synaptic vesicles, and require more significant stimuli than the RRP in order to release neurotransmitter; about 10-15% of the total number of synaptic vesicles at a resting terminal bouton are in this state.",
+  "namespace": "cellular_component",
+  "label": "synaptic vesicle, recycling pool"
+}

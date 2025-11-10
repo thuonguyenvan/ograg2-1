@@ -1,0 +1,35 @@
+{
+  "id": "GO:0009891",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009891",
+  "relationships": {
+    "is_a": [
+      "GO:0009889",
+      "GO:0009893"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of anabolism",
+      "positive regulation of biosynthesis",
+      "positive regulation of formation",
+      "positive regulation of synthesis",
+      "up regulation of biosynthetic process",
+      "up-regulation of biosynthetic process",
+      "upregulation of biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of biosynthetic process",
+      "stimulation of biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of substances.",
+  "namespace": "biological_process",
+  "label": "positive regulation of biosynthetic process"
+}

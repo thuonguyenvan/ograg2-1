@@ -1,0 +1,36 @@
+{
+  "id": "GO:0052587",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052587",
+  "relationships": {
+    "is_a": [
+      "GO:0019152"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-acetoin dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.303",
+      "1.1.1.303"
+    ],
+    "KEGG_REACTION": [
+      "R02855"
+    ],
+    "MetaCyc": [
+      "RXN-11036"
+    ],
+    "RHEA": [
+      "22900",
+      "22900"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-acetoin + NAD+ = diacetyl + H+ + NADH. This reaction is catalyzed in the reverse direction.",
+  "namespace": "molecular_function",
+  "label": "diacetyl reductase ((R)-acetoin forming) (NAD+) activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0103033",
+  "uri": "http://purl.obolibrary.org/obo/GO_0103033",
+  "relationships": {
+    "is_a": [
+      "GO:0016867"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN0-5363"
+    ],
+    "EC": [
+      "5.4.1.-"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-lactose = beta-(1-&gt;6)-galactobiose.",
+  "namespace": "molecular_function",
+  "label": "beta-galactosidase activity (lactose isomerization)"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0050002",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050002",
+  "relationships": {
+    "is_a": [
+      "GO:0050485"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-aminopentanoate:[PrdC protein] oxidoreductase (cyclizing) activity",
+      "D-proline reductase (dithiol) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.21.4.1",
+      "1.21.4.1",
+      "1.21.4.1",
+      "1.21.4.1"
+    ],
+    "MetaCyc": [
+      "1.21.4.1-RXN"
+    ],
+    "RHEA": [
+      "12737"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-aminopentanoate + [PrdC protein]-Se-L-selenocysteinyl-S-L-cysteine = [PrdC protein]-L-selenocysteine/L-cysteine + D-proline.",
+  "namespace": "molecular_function",
+  "label": "D-proline reductase activity"
+}

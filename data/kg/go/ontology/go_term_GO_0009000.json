@@ -1,0 +1,40 @@
+{
+  "id": "GO:0009000",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009000",
+  "relationships": {
+    "is_a": [
+      "GO:0016846"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-selenocysteine selenide-lyase (L-alanine-forming)",
+      "selenocysteine beta-lyase activity",
+      "selenocysteine reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.4.1.16",
+      "4.4.1.16",
+      "4.4.1.16",
+      "4.4.1.16",
+      "4.4.1.16"
+    ],
+    "MetaCyc": [
+      "SELENOCYSTEINE-LYASE-RXN"
+    ],
+    "RHEA": [
+      "11632"
+    ],
+    "Reactome": [
+      "R-HSA-2408524"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-selenocysteine + reduced acceptor = hydrogen selenide + L-alanine + acceptor.",
+  "namespace": "molecular_function",
+  "label": "Sec is reduced to H2Se by PXLP-K259-SCLY dimer"
+}

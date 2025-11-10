@@ -1,0 +1,32 @@
+{
+  "id": "GO:1990664",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990664",
+  "relationships": {
+    "is_a": [
+      "GO:0090575"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Nkx-2.5 homodimer complex"
+    ],
+    "related": [
+      "NKX.2-5 homodimer complex",
+      "NKX2.5 complex",
+      "NKX2E homodimer complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ame"
+    ],
+    "PMID": [
+      "22849347"
+    ]
+  },
+  "definition": "A transcription factor complex formed by two or more subunits of Nkx-2.5. Nkx-2.5 is an evolutionary conserved transcription factor important for the specification and differentiation of cardiomyocytes during heart development. It is also required for spleen development. It binds DNA either as a monomer, or a homodimer, or a heterodimer complex to activate or inhibit expression of genes.",
+  "namespace": "cellular_component",
+  "label": "Nkx-2.5 complex"
+}

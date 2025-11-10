@@ -1,0 +1,35 @@
+{
+  "id": "GO:1990931",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990931",
+  "relationships": {
+    "is_a": [
+      "GO:0035515"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mRNA N(6)-methyladenine demethylase",
+      "mRNA N(6)-methyladenosine dioxygenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RNA N6-methyladenosine dioxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.11.53"
+    ],
+    "RHEA": [
+      "49520"
+    ],
+    "PMID": [
+      "22002720",
+      "26458103"
+    ]
+  },
+  "definition": "Catalysis of the oxidative demethylation of N6-methyladenosine RNA, with concomitant decarboxylation of 2-oxoglutarate and releases oxidized methyl group on N6-methyladenosine as formaldehyde.",
+  "namespace": "molecular_function",
+  "label": "mRNA N6-methyladenosine dioxygenase activity"
+}

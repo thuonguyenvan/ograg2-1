@@ -1,0 +1,42 @@
+{
+  "id": "GO:0009044",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009044",
+  "relationships": {
+    "is_a": [
+      "GO:0097599"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,4-beta-D-xylan xylohydrolase activity",
+      "beta-D-xylopyranosidase activity",
+      "beta-xylosidase activity",
+      "exo-1,4-beta-D-xylosidase activity",
+      "exo-1,4-beta-xylosidase activity",
+      "exo-1,4-xylosidase activity",
+      "xylobiase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.37",
+      "3.2.1.37",
+      "3.2.1.37",
+      "3.2.1.37",
+      "3.2.1.37",
+      "3.2.1.37",
+      "3.2.1.37",
+      "3.2.1.37",
+      "3.2.1.37"
+    ],
+    "MetaCyc": [
+      "3.2.1.37-RXN"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of (1-&gt;4)-beta-D-xylans so as to remove successive D-xylose residues from the non-reducing termini.",
+  "namespace": "molecular_function",
+  "label": "xylan 1,4-beta-xylosidase activity"
+}

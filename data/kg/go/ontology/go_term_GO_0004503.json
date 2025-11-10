@@ -1,0 +1,69 @@
+{
+  "id": "GO:0004503",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004503",
+  "relationships": {
+    "is_a": [
+      "GO:0016716"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-tyrosine monooxygenase activity",
+      "monophenol monooxygenase activity",
+      "monophenol oxygenase"
+    ],
+    "broad": [
+      "phenol oxidase activity",
+      "phenolase activity",
+      "pyrocatechol oxidase"
+    ],
+    "narrow": [],
+    "related": [
+      "N-acetyl-6-hydroxytryptophan oxidase activity",
+      "catecholase",
+      "chlorogenic acid oxidase activity",
+      "chlorogenic oxidase activity",
+      "cresolase activity",
+      "dopa oxidase",
+      "monophenol monooxidase activity",
+      "monophenol oxidase activity",
+      "monophenolase activity",
+      "o-diphenol oxidase activity",
+      "o-diphenol oxidoreductase",
+      "o-diphenol:O2 oxidoreductase activity",
+      "prophenol oxidase activity",
+      "prophenoloxidase activity",
+      "tyrosine-dopa oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.18.1",
+      "1.14.18.1",
+      "1.14.18.1",
+      "1.14.18.1",
+      "1.14.18.1",
+      "1.14.18.1",
+      "1.14.18.1",
+      "1.14.18.1",
+      "1.14.18.1"
+    ],
+    "MetaCyc": [
+      "MONOPHENOL-MONOOXYGENASE-RXN"
+    ],
+    "PMID": [
+      "4965136",
+      "2494997"
+    ],
+    "RHEA": [
+      "18117"
+    ],
+    "GOC": [
+      "bf",
+      "sart"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-tyrosine + O2 = L-DOPAquinone + H2O. This reaction can use both monophenols (such as tyrosine) and catechols (o-diphenols) as substrates.",
+  "namespace": "molecular_function",
+  "label": "tyrosinase activity"
+}

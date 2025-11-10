@@ -1,0 +1,28 @@
+{
+  "id": "GO:0061345",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061345",
+  "relationships": {
+    "is_a": [
+      "GO:0060071",
+      "GO:0061341"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mtg_heart"
+    ],
+    "PMID": [
+      "16860783"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by binding of a Wnt protein to a frizzled family receptor on the surface of the target cell, followed by propagation of the signal via effectors other than beta-catenin and contributing to a cardioblast being committed to a cardiac muscle cell fate.",
+  "namespace": "biological_process",
+  "label": "planar cell polarity pathway involved in cardiac muscle cell fate commitment"
+}

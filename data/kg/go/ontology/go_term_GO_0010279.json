@@ -1,0 +1,31 @@
+{
+  "id": "GO:0010279",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010279",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IAA amido synthetase activity",
+      "IAA amino acid conjugate synthetase activity",
+      "IAA amino acid synthetase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "15659623"
+    ],
+    "GOC": [
+      "kad",
+      "kad"
+    ]
+  },
+  "definition": "Catalysis of the reaction: indole-3-acetic acid + an amino acid = an indole-3-acetic acid amide conjugate.",
+  "namespace": "molecular_function",
+  "label": "indole-3-acetic acid amido synthetase activity"
+}

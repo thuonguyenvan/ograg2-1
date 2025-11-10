@@ -1,0 +1,32 @@
+{
+  "id": "GO:0019380",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019380",
+  "relationships": {
+    "is_a": [
+      "GO:0042178",
+      "GO:0042537",
+      "GO:0072329"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-phenylpropionate breakdown",
+      "3-phenylpropionate catabolism",
+      "3-phenylpropionate degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P281-PWY"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of 3-phenylpropionate, the anion of phenylpropanoic acid.",
+  "namespace": "biological_process",
+  "label": "3-phenylpropionate catabolic process"
+}

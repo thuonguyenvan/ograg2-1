@@ -1,0 +1,37 @@
+{
+  "id": "GO:0120512",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120512",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CYP15C1 activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.128",
+      "1.14.14.128"
+    ],
+    "MetaCyc": [
+      "RXN-11770"
+    ],
+    "RHEA": [
+      "43724",
+      "43724"
+    ],
+    "PMID": [
+      "22412378",
+      "38741075"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2E,6E)-farnesoate + O2 + reduced [NADPH--hemoprotein reductase] = H+ + H2O + juvenile hormone III carboxylate + oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "farnesoate epoxidase activity"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:0047185",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047185",
+  "relationships": {
+    "is_a": [
+      "GO:0016413"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "sialate O-acetyltransferase"
+    ],
+    "narrow": [],
+    "related": [
+      "acetyl-CoA:N-acetylneuraminate 4-O-acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.44",
+      "2.3.1.44",
+      "2.3.1.44",
+      "2.3.1.44"
+    ],
+    "KEGG_REACTION": [
+      "R01806"
+    ],
+    "MetaCyc": [
+      "2.3.1.44-RXN"
+    ],
+    "RHEA": [
+      "18305",
+      "18305"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acetylneuraminate + acetyl-CoA = N-acetyl-4-O-acetylneuraminate + CoA.",
+  "namespace": "molecular_function",
+  "label": "N-acetylneuraminate 4-O-acetyltransferase activity"
+}

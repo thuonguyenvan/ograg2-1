@@ -1,0 +1,35 @@
+{
+  "id": "GO:0030341",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030341",
+  "relationships": {
+    "is_a": [
+      "GO:0016837"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chondroitin lyase activity"
+    ],
+    "broad": [
+      "chondroitinase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ChnAC",
+      "chondroitin AC eliminase activity",
+      "chondroitin sulfate lyase activity",
+      "chondroitinase AC"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.2.5",
+      "4.2.2.5",
+      "4.2.2.5",
+      "4.2.2.5"
+    ]
+  },
+  "definition": "Catalysis of the eliminative degradation of polysaccharides containing 1,4-beta-D-hexosaminyl and 1,3-beta-D-glucuronosyl linkages to disaccharides containing 4-deoxy-beta-D-gluc-4-enuronosyl groups.",
+  "namespace": "molecular_function",
+  "label": "chondroitin AC lyase activity"
+}

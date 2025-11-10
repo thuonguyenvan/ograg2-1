@@ -1,0 +1,47 @@
+{
+  "id": "GO:0008955",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008955",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "penicillin binding protein (3 or 1B) activity"
+    ],
+    "related": [
+      "PG-II activity",
+      "bactoprenyldiphospho-N-acetylmuramoyl-(N-acetyl-D-glucosaminyl)-pentapeptide:peptidoglycan N-acetylmuramoyl-N-acetyl-D-glucosaminyltransferase activity",
+      "peptidoglycan TGase activity",
+      "peptidoglycan transglycosylase activity",
+      "undecaprenyldiphospho-N-acetyl-D-glucosaminyl-(1-&gt;4)-(N-acetyl-D-muramoylpentapeptide):undecaprenyldiphospho-(N-acetyl-D-glucosaminyl-(1-&gt;4)-N-acetyl-D-muramoylpentapeptide) disaccharidetransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.99.28",
+      "2.4.99.28",
+      "2.4.99.28",
+      "2.4.99.28",
+      "2.4.99.28",
+      "2.4.99.28",
+      "2.4.99.28"
+    ],
+    "MetaCyc": [
+      "RXN-14712"
+    ],
+    "RHEA": [
+      "23708",
+      "23708"
+    ],
+    "Reactome": [
+      "R-HSA-9911463"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [GlcNAc-(1-&gt;4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)](n)-di-trans,octa-cis-undecaprenyl diphosphate + beta-D-GlcNAc-(1-&gt;4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-di-trans,octa-cis-undecaprenyl diphosphate = [GlcNAc-(1-&gt;4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)](n+1)-di-trans-octa-cis-undecaprenyl diphosphate + di-trans,octa-cis-undecaprenyl diphosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "MrcB elongates peptidoglycan"
+}

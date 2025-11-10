@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033551",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033551",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Pcs1/Mde4 complex",
+      "monopolin subcomplex Csm1/Lrs4"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "rb"
+    ],
+    "PMID": [
+      "17627824"
+    ]
+  },
+  "definition": "A protein complex required for clamping microtubule binding sites, ensuring orientation of sister kinetochores to the same pole (mono-orientation) during meiosis I. In the yeast S. cerevisiae this complex consists of Csm1p, Lrs4p, Hrr25p and Mam1p; in S. pombe Psc1 and Mde4 have been identified as subunits.",
+  "namespace": "cellular_component",
+  "label": "monopolin complex"
+}

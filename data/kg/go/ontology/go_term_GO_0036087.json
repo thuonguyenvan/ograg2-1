@@ -1,0 +1,33 @@
+{
+  "id": "GO:0036087",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036087",
+  "relationships": {
+    "is_a": [
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glutathione synthetase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "al"
+    ],
+    "PMID": [
+      "12734194",
+      "14990577",
+      "1958212",
+      "12734194",
+      "14990577",
+      "1958212"
+    ]
+  },
+  "definition": "A protein complex composed of two or more polypeptide subunits, and which possesses glutathione synthase activity (catalysis of the reaction: L-gamma-glutamyl-L-cysteine + ATP + glycine = ADP + glutathione + 2 H+ + phosphate). In eukaryotes, the complex is homodimeric, in E. coli glutathione synthase exists as a tetramer, and in S. pombe the complex exists as a homodimer or a heterotetramer.",
+  "namespace": "cellular_component",
+  "label": "glutathione synthase complex"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0038182",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038182",
+  "relationships": {
+    "is_a": [
+      "GO:0004930"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G-protein coupled bile acid receptor activity"
+    ],
+    "broad": [
+      "cell surface bile acid receptor",
+      "lithocholic acid receptor activity",
+      "membrane bile acid receptor activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "G_protein-coupled_bile_acid_receptor"
+    ],
+    "PMID": [
+      "12524422",
+      "32480317",
+      "35415765",
+      "36409000",
+      "12419312"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Combining with an extracellular bile acid and transmitting the signal across the membrane by activating an associated G-protein; promotes the exchange of GDP for GTP on the alpha subunit of a heterotrimeric G-protein complex.",
+  "namespace": "molecular_function",
+  "label": "G protein-coupled bile acid receptor activity"
+}

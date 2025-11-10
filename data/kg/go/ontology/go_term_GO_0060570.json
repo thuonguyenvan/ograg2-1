@@ -1,0 +1,27 @@
+{
+  "id": "GO:0060570",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060570",
+  "relationships": {
+    "is_a": [
+      "GO:0010955",
+      "GO:0032351",
+      "GO:0034249",
+      "GO:0060568"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that decreases the rate, frequency or extent of peptide hormone processing. Peptide hormone processing is the generation of a mature peptide hormone by posttranslational processing of a prohormone.",
+  "namespace": "biological_process",
+  "label": "negative regulation of peptide hormone processing"
+}

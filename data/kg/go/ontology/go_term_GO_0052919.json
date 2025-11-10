@@ -1,0 +1,31 @@
+{
+  "id": "GO:0052919",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052919",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "(R)-HNL activity",
+      "(R)-hydroxynitrile lyase activity",
+      "(R)-oxynitrilase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.46",
+      "4.1.2.46",
+      "4.1.2.46",
+      "4.1.2.46",
+      "4.1.2.46"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an aliphatic (R)-hydroxynitrile = an aliphatic aldehyde or ketone + hydrogen cyanide.",
+  "namespace": "molecular_function",
+  "label": "aliphatic (R)-hydroxynitrile lyase activity"
+}

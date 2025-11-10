@@ -1,0 +1,29 @@
+{
+  "id": "GO:0052597",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052597",
+  "relationships": {
+    "is_a": [
+      "GO:0016641"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "diamine:oxygen oxidoreductase (deaminating) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-9599",
+      "RXN-9599"
+    ],
+    "EC": [
+      "1.4.3.22"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a diamine + H2O + O2 = a monoamine + NH4+ + H2O2.",
+  "namespace": "molecular_function",
+  "label": "diamine oxidase activity"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "GO:1990270",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990270",
+  "relationships": {
+    "is_a": [
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PDGF receptor-ligand complex"
+    ],
+    "broad": [
+      "PDGF complex",
+      "receptor-ligand complex"
+    ],
+    "narrow": [
+      "PDGF-AA-receptor alpha complex",
+      "PDGF-AB-receptor alpha complex",
+      "PDGF-AB-receptor beta complex",
+      "PDGF-BB-receptor alpha complex",
+      "PDGF-BB-receptor alpha-beta complex",
+      "PDGF-BB-receptor beta complex",
+      "PDGF-CC-receptor alpha complex",
+      "PDGF-CC-receptor alpha-beta complex",
+      "PDGF-CC-receptor beta complex",
+      "PDGF-DD-receptor alpha-beta complex",
+      "PDGF-DD-receptor beta complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "11331882"
+    ]
+  },
+  "definition": "A tetrameric protein complex consisting of two platelet-derived growth factor (PDGF) receptor subunits and two PDGF ligand subunits. Binding of the PDGF ligand dimer to the PDGF receptor in the plasma membrane induces receptor dimerization and activation. PDGFs are involved in a wide variety of signaling processes and are found in all vertebrates. At least two different receptor chains (A and B) and four types of ligand chains (A, B, C, and D) are known forming a wide variety of combinations of receptor-ligand complexes.",
+  "namespace": "cellular_component",
+  "label": "platelet-derived growth factor receptor-ligand complex"
+}

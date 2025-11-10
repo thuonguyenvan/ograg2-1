@@ -1,0 +1,36 @@
+{
+  "id": "GO:0099404",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099404",
+  "relationships": {
+    "is_a": [
+      "GO:0007064"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitotic sister chromatid cohesion at telomere",
+      "sister chromatid cohesion at telomere at mitosis",
+      "telomeric mitotic sister chromatin cohesion"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "mah",
+      "rph",
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "26373281"
+    ]
+  },
+  "definition": "The cell cycle process in which telomeres of sister chromatids are joined during mitosis.",
+  "namespace": "biological_process",
+  "label": "mitotic sister chromatid cohesion, telomeric"
+}

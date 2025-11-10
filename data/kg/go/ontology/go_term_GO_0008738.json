@@ -1,0 +1,43 @@
+{
+  "id": "GO:0008738",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008738",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-fuculose 1-phosphate aldolase activity",
+      "L-fuculose-1-phosphate S-lactaldehyde-lyase (glycerone-phosphate-forming)",
+      "L-fuculose-1-phosphate lactaldehyde-lyase activity",
+      "fuculose aldolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.17",
+      "4.1.2.17",
+      "4.1.2.17",
+      "4.1.2.17",
+      "4.1.2.17",
+      "4.1.2.17"
+    ],
+    "KEGG_REACTION": [
+      "R02262"
+    ],
+    "MetaCyc": [
+      "FUCPALDOL-RXN"
+    ],
+    "RHEA": [
+      "12933",
+      "12933"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-fuculose 1-phosphate = (S)-lactaldehyde + glycerone phosphate.",
+  "namespace": "molecular_function",
+  "label": "L-fuculose-phosphate aldolase activity"
+}

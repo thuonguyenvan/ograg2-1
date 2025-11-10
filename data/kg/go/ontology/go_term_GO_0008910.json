@@ -1,0 +1,48 @@
+{
+  "id": "GO:0008910",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008910",
+  "relationships": {
+    "is_a": [
+      "GO:0034071"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "APH(3&apos;) activity",
+      "aminoglycoside 3&apos;-phosphotransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ATP:kanamycin 3&apos;-O-phosphotransferase activity",
+      "kanamycin kinase (phosphorylating)",
+      "neomycin phosphotransferase activity",
+      "neomycin-kanamycin phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.95",
+      "2.7.1.95",
+      "2.7.1.95",
+      "2.7.1.95",
+      "2.7.1.95",
+      "2.7.1.95",
+      "2.7.1.95",
+      "2.7.1.95"
+    ],
+    "KEGG_REACTION": [
+      "R01888"
+    ],
+    "MetaCyc": [
+      "KANAMYCIN-KINASE-RXN"
+    ],
+    "RHEA": [
+      "24256",
+      "24256"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + kanamycin = ADP + 2 H+ + kanamycin 3&apos;-phosphate.",
+  "namespace": "molecular_function",
+  "label": "kanamycin kinase activity"
+}

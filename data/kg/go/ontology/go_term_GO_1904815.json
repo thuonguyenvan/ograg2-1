@@ -1,0 +1,63 @@
+{
+  "id": "GO:1904815",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904815",
+  "relationships": {
+    "is_a": [
+      "GO:1903828",
+      "GO:1904814"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of protein localisation to chromosome, telomeric region",
+      "down regulation of protein localization to chromosome, telomeric region",
+      "down regulation of protein localization to telomere",
+      "down-regulation of protein localisation to chromosome, telomeric region",
+      "down-regulation of protein localization to chromosome, telomeric region",
+      "down-regulation of protein localization to telomere",
+      "downregulation of protein localisation to chromosome, telomeric region",
+      "downregulation of protein localization to chromosome, telomeric region",
+      "downregulation of protein localization to telomere",
+      "negative regulation of protein localisation to chromosome, telomeric region",
+      "negative regulation of protein localization to telomere"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of protein localisation to chromosome, telomeric region",
+      "inhibition of protein localization to chromosome, telomeric region",
+      "inhibition of protein localization to telomere"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "TermGenie",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19487455"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of protein localization to chromosome, telomeric region.",
+  "namespace": "biological_process",
+  "label": "negative regulation of protein localization to chromosome, telomeric region"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "GO:0009907",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009907",
+  "relationships": {
+    "is_a": [
+      "GO:0009648",
+      "GO:0010114"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mtg_far_red"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a red light photoperiod stimulus. Red light is electromagnetic radiation of wavelength of 580-700nm.",
+  "namespace": "biological_process",
+  "label": "response to photoperiod, red light"
+}

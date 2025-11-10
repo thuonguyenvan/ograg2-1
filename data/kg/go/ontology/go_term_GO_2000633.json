@@ -1,0 +1,29 @@
+{
+  "id": "GO:2000633",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000633",
+  "relationships": {
+    "is_a": [
+      "GO:1903800",
+      "GO:2000631"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of miRNA maturation",
+      "positive regulation of pre-microRNA processing"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "sl",
+      "obol"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of pre-microRNA processing.",
+  "namespace": "biological_process",
+  "label": "positive regulation of pre-miRNA processing"
+}

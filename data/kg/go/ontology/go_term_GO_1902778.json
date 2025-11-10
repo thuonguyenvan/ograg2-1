@@ -1,0 +1,33 @@
+{
+  "id": "GO:1902778",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902778",
+  "relationships": {
+    "is_a": [
+      "GO:0042221"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "process resulting in tolerance to alkane"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mengo_curators"
+    ],
+    "GO_REF": [
+      "0000071"
+    ],
+    "PMID": [
+      "22958739",
+      "23826995"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an alkane stimulus.",
+  "namespace": "biological_process",
+  "label": "response to alkane"
+}

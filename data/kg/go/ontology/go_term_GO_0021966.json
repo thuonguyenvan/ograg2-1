@@ -1,0 +1,35 @@
+{
+  "id": "GO:0021966",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021966",
+  "relationships": {
+    "is_a": [
+      "GO:0007411"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "corticospinal neuron axon pathfinding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid",
+      "mah"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "9878731"
+    ]
+  },
+  "definition": "The process in which the migration of an axon growth cone of a neuron that is part of the corticospinal tract is directed from the cerebral cortex layer V to the spinal cord dorsal funiculus in response to a combination of attractive and repulsive cues.",
+  "namespace": "biological_process",
+  "label": "corticospinal neuron axon guidance"
+}

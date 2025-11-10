@@ -1,0 +1,32 @@
+{
+  "id": "GO:0005275",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005275",
+  "relationships": {
+    "is_a": [
+      "GO:0022857"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "amine/polyamine transmembrane transporter activity",
+      "amino acid-polyamine transmembrane transporter activity"
+    ],
+    "broad": [
+      "amine/amide/polyamine channel activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0198506732",
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of amines, including polyamines, from one side of a membrane to the other. Amines are organic compounds that are weakly basic in character and contain an amino (-NH2) or substituted amino group.",
+  "namespace": "molecular_function",
+  "label": "amine transmembrane transporter activity"
+}

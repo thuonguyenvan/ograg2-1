@@ -1,0 +1,30 @@
+{
+  "id": "GO:0019621",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019621",
+  "relationships": {
+    "is_a": [
+      "GO:0006602",
+      "GO:0015942"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "creatinine breakdown to formate",
+      "creatinine degradation to formate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "CRNFORCAT-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of creatinine into other compounds, including formate.",
+  "namespace": "biological_process",
+  "label": "creatinine catabolic process to formate"
+}

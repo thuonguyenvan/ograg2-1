@@ -1,0 +1,36 @@
+{
+  "id": "GO:0017089",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017089",
+  "relationships": {
+    "is_a": [
+      "GO:0120013"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycolipid carrier activity"
+    ],
+    "broad": [
+      "glycolipid transporter activity"
+    ],
+    "narrow": [
+      "intermembrane glycolipid transfer activity",
+      "intermembrane glycolipid transporter activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5340320",
+      "R-HSA-9697077",
+      "R-HSA-9844955",
+      "R-HSA-9845055"
+    ],
+    "PMID": [
+      "30337668"
+    ]
+  },
+  "definition": "Removes a glycolipid from a membrane or a monolayer lipid particle, transports it through the aqueous phase while protected in a hydrophobic pocket, and brings it to an acceptor membrane or lipid particle. A glycolipid is a compound usually containing 1-4 linked monosaccharide residues joined by a glycosyl linkage to a lipid.",
+  "namespace": "molecular_function",
+  "label": "PLEKHA8 catalyzes transport of GlcCer to plasma membrane"
+}

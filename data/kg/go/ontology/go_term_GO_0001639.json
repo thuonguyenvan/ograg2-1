@@ -1,0 +1,33 @@
+{
+  "id": "GO:0001639",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001639",
+  "relationships": {
+    "is_a": [
+      "GO:0098988"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PLC activating G-protein coupled glutamate receptor activity",
+      "PLC activating metabotropic glutamate receptor activity",
+      "phospholipase C activating metabotropic glutamate receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Group I metabotropic glutamate receptor",
+      "group I metabotropic glutamate receptor activity"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "9016303"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "A G protein-coupled receptor that binds glutamate and is linked to the inositol 1,4,5-trisphosphate/calcium signaling system.",
+  "namespace": "molecular_function",
+  "label": "PLC activating G protein-coupled glutamate receptor activity"
+}

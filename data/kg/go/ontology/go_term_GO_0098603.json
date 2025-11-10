@@ -1,0 +1,26 @@
+{
+  "id": "GO:0098603",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098603",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2408544"
+    ],
+    "PMID": [
+      "1711890"
+    ]
+  },
+  "definition": "Catalysis of the reaction: R + Se-Adenosylselenomethionine = CH3-R + Se-Adenosyl-L-selenohomocysteine.",
+  "namespace": "molecular_function",
+  "label": "AdoSeMet is converted to AdeSeHCys by MetTrans(1)"
+}

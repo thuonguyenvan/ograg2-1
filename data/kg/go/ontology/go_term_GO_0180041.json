@@ -1,0 +1,34 @@
+{
+  "id": "GO:0180041",
+  "uri": "http://purl.obolibrary.org/obo/GO_0180041",
+  "relationships": {
+    "is_a": [
+      "GO:0004376",
+      "GO:0051751"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GPI-MT-I activity",
+      "glycosylphosphatidylinositol-mannosyltransferase I activity"
+    ],
+    "broad": [
+      "glycolipid 1,4-alpha-mannosyltransferase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "60500",
+      "60500"
+    ],
+    "PMID": [
+      "11226175",
+      "15635094"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 2-acyl-6-alpha-D-glucosaminyl-1-(1-radyl,2-acyl-sn-glycero-3-phospho)-1D-myo-inositol + a di-trans,poly-cis-dolichyl beta-D-mannosyl phosphate = a 2-acyl-6-(alpha-D-mannosyl-(1-&gt;4)-alpha-D-glucosaminyl)-1-(1-radyl,2-acyl-sn-glycero-3-phospho)-1D-myo-inositol + a di-trans,poly-cis-dolichyl phosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "dol-P-Man:GlcN-acyl-PI alpha-1,4-mannosyltransferase activity"
+}

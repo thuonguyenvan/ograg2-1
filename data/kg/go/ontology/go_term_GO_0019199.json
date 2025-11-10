@@ -1,0 +1,28 @@
+{
+  "id": "GO:0019199",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019199",
+  "relationships": {
+    "is_a": [
+      "GO:0004672",
+      "GO:0004888"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8983059",
+      "R-HSA-8983063"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Combining with a signal and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity by catalysis of the reaction: a protein + ATP = a phosphoprotein + ADP.",
+  "namespace": "molecular_function",
+  "label": "JAK3 in IL7:p-Y449-IL7R:JAK1:IL2RG:JAK3 is phosphorylated"
+}

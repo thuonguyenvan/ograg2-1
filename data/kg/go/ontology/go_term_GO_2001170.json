@@ -1,0 +1,37 @@
+{
+  "id": "GO:2001170",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001170",
+  "relationships": {
+    "is_a": [
+      "GO:1900372",
+      "GO:1903579",
+      "GO:2001169"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of ATP anabolism",
+      "negative regulation of ATP biosynthesis",
+      "negative regulation of ATP formation",
+      "negative regulation of ATP synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "negative regulation of ATP regeneration"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of ATP biosynthetic process.",
+  "namespace": "biological_process",
+  "label": "negative regulation of ATP biosynthetic process"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0043592",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043592",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "epispore",
+      "exospore",
+      "perispore"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mlg"
+    ]
+  },
+  "definition": "The outermost layer of a bacterial endospore, which is loosely attached and located outside of the endospore coat. It is generally composed of protein, carbohydrate, and perhaps lipid.",
+  "namespace": "cellular_component",
+  "label": "exosporium"
+}

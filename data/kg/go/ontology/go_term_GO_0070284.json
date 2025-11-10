@@ -1,0 +1,37 @@
+{
+  "id": "GO:0070284",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070284",
+  "relationships": {
+    "is_a": [
+      "GO:0016830"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-amino-5-hydroxymethyl-2-methylpyrimidine phosphate synthase activity",
+      "HMP-P synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ThiC"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.99.17"
+    ],
+    "RHEA": [
+      "24840",
+      "24840"
+    ],
+    "PMID": [
+      "18953358",
+      "18953358",
+      "18953358"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-amino-1-(5-phospho-beta-D-ribosyl)imidazole + S-adenosyl-L-methionine = 4-amino-2-methyl-5-(phosphooxymethyl)pyrimidine + CO + 5&apos;-deoxyadenosine + formate + L-methionine + 3 H+.",
+  "namespace": "molecular_function",
+  "label": "phosphomethylpyrimidine synthase activity"
+}

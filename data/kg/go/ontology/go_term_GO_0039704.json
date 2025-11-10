@@ -1,0 +1,31 @@
+{
+  "id": "GO:0039704",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039704",
+  "relationships": {
+    "is_a": [
+      "GO:0019081"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ribosomal shunt initiation pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "608",
+      "608"
+    ],
+    "PMID": [
+      "15827182",
+      "18195037",
+      "18195037"
+    ]
+  },
+  "definition": "A viral translation initiation mechanism where ribosomes are loaded onto viral mRNA at the 5&apos;-cap structure and start scanning for a short distance before by-passing the large internal leader region and initiating at a downstream start site.",
+  "namespace": "biological_process",
+  "label": "Ribosomal shunt"
+}

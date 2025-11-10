@@ -1,0 +1,33 @@
+{
+  "id": "GO:1905360",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905360",
+  "relationships": {
+    "is_a": [
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "HRAS-SOS1 complex",
+      "RASH-SOS1 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bhm"
+    ],
+    "GO_REF": [
+      "0000088"
+    ],
+    "PMID": [
+      "9178006"
+    ]
+  },
+  "definition": "A protein complex which is capable of GTPase activity.",
+  "namespace": "cellular_component",
+  "label": "GTPase complex"
+}

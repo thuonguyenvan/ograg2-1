@@ -1,0 +1,52 @@
+{
+  "id": "GO:0004781",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004781",
+  "relationships": {
+    "is_a": [
+      "GO:0004779"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP:sulfate adenylyltransferase activity",
+      "sulphate adenylyltransferase (ATP) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP sulfurylase activity",
+      "ATP-sulfurylase activity",
+      "adenosine-5&apos;-triphosphate sulfurylase activity",
+      "adenosinetriphosphate sulfurylase activity",
+      "adenylylsulfate pyrophosphorylase activity",
+      "sulfate adenylate transferase activity",
+      "sulfurylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.4",
+      "2.7.7.4",
+      "2.7.7.4",
+      "2.7.7.4",
+      "2.7.7.4",
+      "2.7.7.4",
+      "2.7.7.4",
+      "2.7.7.4",
+      "2.7.7.4"
+    ],
+    "MetaCyc": [
+      "SULFATE-ADENYLYLTRANS-RXN"
+    ],
+    "RHEA": [
+      "18133"
+    ],
+    "Reactome": [
+      "R-HSA-174392",
+      "R-HSA-3560794"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + H+ + sulfate = adenosine 5&apos;-phosphosulfate + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "Defective PAPSS2 does not transfer SO4(2-) group to ATP to form APS"
+}

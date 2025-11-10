@@ -1,0 +1,27 @@
+{
+  "id": "GO:0033281",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033281",
+  "relationships": {
+    "is_a": [
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "TAT protein secretion complex",
+      "TAT protein translocation system complex",
+      "Twin-arginine translocation complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pamgo_curators"
+    ]
+  },
+  "definition": "A complex of three proteins integral to the cytoplasmic membrane of bacteria and membranes of organelles derived from bacteria (chloroplasts and mitochondria) involved in membrane transport of folded proteins.",
+  "namespace": "cellular_component",
+  "label": "TAT protein transport complex"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0033867",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033867",
+  "relationships": {
+    "is_a": [
+      "GO:0004674"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:Fas-activated serine/threonine protein phosphotransferase activity",
+      "FAST",
+      "FASTK",
+      "STK10"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.11.8",
+      "2.7.11.8",
+      "2.7.11.8",
+      "2.7.11.8",
+      "2.7.11.8",
+      "2.7.11.8"
+    ],
+    "MetaCyc": [
+      "2.7.11.8-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + Fas-activated serine/threonine protein = ADP + Fas-activated serine/threonine phosphoprotein.",
+  "namespace": "molecular_function",
+  "label": "Fas-activated serine/threonine kinase activity"
+}

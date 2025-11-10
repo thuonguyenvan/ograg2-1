@@ -1,0 +1,34 @@
+{
+  "id": "GO:0046475",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046475",
+  "relationships": {
+    "is_a": [
+      "GO:0006650",
+      "GO:0009395",
+      "GO:0046503"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycerophospholipid breakdown",
+      "glycerophospholipid catabolism",
+      "glycerophospholipid degradation",
+      "phosphoglyceride catabolic process",
+      "phosphoglyceride catabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6814848"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of glycerophospholipids, any derivative of glycerophosphate that contains at least one O-acyl, O-alkyl, or O-alkenyl group attached to the glycerol residue.",
+  "namespace": "biological_process",
+  "label": "Glycerophospholipid catabolism"
+}

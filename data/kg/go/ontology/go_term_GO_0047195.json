@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047195",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047195",
+  "relationships": {
+    "is_a": [
+      "GO:0008374"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,2-diacyl-sn-glycerol:sterol O-acyltransferase activity",
+      "1,2-diacyl-sn-glycerol:sterol acyl transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.73",
+      "2.3.1.73",
+      "2.3.1.73",
+      "2.3.1.73"
+    ],
+    "MetaCyc": [
+      "2.3.1.73-RXN",
+      "2.3.1.73-RXN"
+    ],
+    "RHEA": [
+      "13301"
+    ]
+  },
+  "definition": "Catalysis of the reaction: sterol + 1,2-diacylglycerol = sterol ester + acylglycerol.",
+  "namespace": "molecular_function",
+  "label": "diacylglycerol-sterol O-acyltransferase activity"
+}

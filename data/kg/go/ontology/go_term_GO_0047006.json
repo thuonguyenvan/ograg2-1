@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047006",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047006",
+  "relationships": {
+    "is_a": [
+      "GO:0033764"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "17-alpha,20-alpha-dihydroxypregn-4-en-3-one dehydrogenase activity"
+    ],
+    "broad": [
+      "20alpha-hydroxy steroid dehydrogenase activity",
+      "20alpha-hydroxysteroid dehydrogenase",
+      "20alpha-hydroxysteroid:NAD(P)+ 20-oxidoreductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "20alpha-HSD",
+      "20alpha-HSDH"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.149",
+      "1.1.1.149",
+      "1.1.1.149",
+      "1.1.1.149",
+      "1.1.1.149",
+      "1.1.1.149",
+      "1.1.1.149"
+    ],
+    "MetaCyc": [
+      "1.1.1.149-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD(P)+ + 17-alpha,20-alpha-dihydroxypregn-4-en-3-one = NAD(P)H + H+ + 17-alpha-hydroxyprogesterone.",
+  "namespace": "molecular_function",
+  "label": "17-alpha,20-alpha-dihydroxypregn-4-en-3-one dehydrogenase [NAD(P)+] activity"
+}

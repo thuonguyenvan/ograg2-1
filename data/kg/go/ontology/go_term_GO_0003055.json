@@ -1,0 +1,29 @@
+{
+  "id": "GO:0003055",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003055",
+  "relationships": {
+    "is_a": [
+      "GO:0003053"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SCN regulation of heart rate",
+      "master pacemaker clock regulation of heart rate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "circadian regulation of heart contraction rate by the suprachiasmatic nucleus"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cardio",
+      "rl"
+    ]
+  },
+  "definition": "The process in which the suprachiasmatic nucleus modulates heart rate at different values with a regularity of approximately 24 hours.",
+  "namespace": "biological_process",
+  "label": "circadian regulation of heart rate by the suprachiasmatic nucleus"
+}

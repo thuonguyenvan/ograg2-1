@@ -1,0 +1,35 @@
+{
+  "id": "GO:1901273",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901273",
+  "relationships": {
+    "is_a": [
+      "GO:0046365",
+      "GO:0072329"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-dehydro-3-deoxy-D-gluconic acid breakdown",
+      "2-dehydro-3-deoxy-D-gluconic acid catabolism",
+      "2-dehydro-3-deoxy-D-gluconic acid degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "UniPathway": [
+      "UPA00856"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of 2-dehydro-3-deoxy-D-gluconic acid.",
+  "namespace": "biological_process",
+  "label": "2-dehydro-3-deoxy-D-gluconic acid catabolic process"
+}

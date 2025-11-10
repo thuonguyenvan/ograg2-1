@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050553",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050553",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "geranylgeranyl-diphosphate diphosphate-lyase (cyclizing, taxa-4,11-diene-forming)",
+      "geranylgeranyl-diphosphate diphosphate-lyase (cyclizing, taxadiene-forming)",
+      "taxa-4(5),11(12)-diene synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.17",
+      "4.2.3.17",
+      "4.2.3.17",
+      "4.2.3.17",
+      "4.2.3.17"
+    ],
+    "KEGG_REACTION": [
+      "R06305"
+    ],
+    "MetaCyc": [
+      "4.2.3.17-RXN"
+    ],
+    "RHEA": [
+      "20912",
+      "20912"
+    ]
+  },
+  "definition": "Catalysis of the reaction: all-trans-geranylgeranyl diphosphate = diphosphate + taxa-4,11-diene.",
+  "namespace": "molecular_function",
+  "label": "taxadiene synthase activity"
+}

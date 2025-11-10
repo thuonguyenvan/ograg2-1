@@ -1,0 +1,30 @@
+{
+  "id": "GO:0043418",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043418",
+  "relationships": {
+    "is_a": [
+      "GO:0000098",
+      "GO:0050667",
+      "GO:0170044",
+      "GO:1901606"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "homocysteine breakdown",
+      "homocysteine catabolism",
+      "homocysteine degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of homocysteine, the amino acid alpha-amino-gamma-mercaptobutanoic acid.",
+  "namespace": "biological_process",
+  "label": "homocysteine catabolic process"
+}

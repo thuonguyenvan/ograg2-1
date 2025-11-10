@@ -1,0 +1,34 @@
+{
+  "id": "GO:0042168",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042168",
+  "relationships": {
+    "is_a": [
+      "GO:0006778",
+      "GO:0042440"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "haem metabolic process",
+      "haem metabolism",
+      "heme metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9707616"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0124325653"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving heme, any compound of iron complexed in a porphyrin (tetrapyrrole) ring.",
+  "namespace": "biological_process",
+  "label": "Heme signaling"
+}

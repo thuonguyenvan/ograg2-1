@@ -1,0 +1,33 @@
+{
+  "id": "GO:0030786",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030786",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:(RS)-norcoclaurine 6-O-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.128",
+      "2.1.1.128",
+      "2.1.1.128"
+    ],
+    "MetaCyc": [
+      "2.1.1.128-RXN"
+    ],
+    "RHEA": [
+      "19941"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + (RS)-norcoclaurine = S-adenosyl-L-homocysteine + (RS)-coclaurine.",
+  "namespace": "molecular_function",
+  "label": "(RS)-norcoclaurine 6-O-methyltransferase activity"
+}

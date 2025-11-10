@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047592",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047592",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-pyridoxate oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.241",
+      "1.14.13.241"
+    ],
+    "KEGG_REACTION": [
+      "R04570"
+    ],
+    "MetaCyc": [
+      "5-PYRIDOXATE-DIOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "11152",
+      "11152"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-pyridoxate + NADPH + O2 = 2-(acetamidomethylene)-3-(hydroxymethyl)succinate) + NADP+.",
+  "namespace": "molecular_function",
+  "label": "5-pyridoxate dioxygenase activity"
+}

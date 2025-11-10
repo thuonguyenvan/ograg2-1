@@ -1,0 +1,36 @@
+{
+  "id": "GO:0005052",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005052",
+  "relationships": {
+    "is_a": [
+      "GO:0000268"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PTS1 binding",
+      "peroxisomal targeting signal 1 (PTS1) binding",
+      "peroxisome targeting signal-1 binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "PEX5",
+      "PTS1 receptor",
+      "peroxisome targeting signal-1 receptor"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "11687502",
+      "14709540",
+      "14709540"
+    ]
+  },
+  "definition": "Binding to a type 1 peroxisome targeting signal, a tripeptide with the consensus sequence (S/A/C)-(K/R/H)-L.",
+  "namespace": "molecular_function",
+  "label": "peroxisome matrix targeting signal-1 binding"
+}

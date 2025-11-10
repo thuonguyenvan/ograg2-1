@@ -1,0 +1,33 @@
+{
+  "id": "GO:0019255",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019255",
+  "relationships": {
+    "is_a": [
+      "GO:0006796",
+      "GO:0019637",
+      "GO:1901135"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucose 1-phosphate metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glucose 1-phosphate utilization"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "GLUCOSE1PMETAB-PWY"
+    ],
+    "GOC": [
+      "ai",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving glucose 1-phosphate, a monophosphorylated derivative of glucose with the phosphate group attached to C-1.",
+  "namespace": "biological_process",
+  "label": "glucose 1-phosphate metabolic process"
+}

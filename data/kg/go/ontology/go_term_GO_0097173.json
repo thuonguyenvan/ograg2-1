@@ -1,0 +1,41 @@
+{
+  "id": "GO:0097173",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097173",
+  "relationships": {
+    "is_a": [
+      "GO:0046395",
+      "GO:0097172"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-acetylmuramate breakdown",
+      "N-acetylmuramate catabolic process",
+      "N-acetylmuramate catabolism",
+      "N-acetylmuramate degradation",
+      "N-acetylmuramic acid breakdown",
+      "N-acetylmuramic acid catabolism",
+      "N-acetylmuramic acid degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "yaf"
+    ],
+    "PubChem_Compound": [
+      "5462244",
+      "5462244",
+      "5462244",
+      "5462244",
+      "5462244",
+      "5462244",
+      "5462244"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of N-acetylmuramic acid (MurNAc), a monosaccharide derivative of N-acetylglucosamine.",
+  "namespace": "biological_process",
+  "label": "N-acetylmuramic acid catabolic process"
+}

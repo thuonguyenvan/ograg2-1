@@ -1,0 +1,31 @@
+{
+  "id": "GO:0097682",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097682",
+  "relationships": {
+    "is_a": [
+      "GO:0005217",
+      "GO:0099094"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "intracellular phosphatidylinositol-3,5-bisphosphate-sensitive monatomic cation channel activity"
+    ],
+    "broad": [
+      "intracellular phosphatidylinositol-3,5-bisphosphate-sensitive cation channel activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ha"
+    ],
+    "PMID": [
+      "24375408"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of cations by a channel that opens when phosphatidylinositol-3,5-bisphosphate has been bound by the channel complex or one of its constituent parts.",
+  "namespace": "molecular_function",
+  "label": "intracellularly phosphatidylinositol-3,5-bisphosphate-gated monatomic cation channel activity"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0036219",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036219",
+  "relationships": {
+    "is_a": [
+      "GO:0047429"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GTP diphosphohydrolase (diphosphate-forming); guanosine 5&apos;-triphosphate pyrophosphohydrolase",
+      "GTP diphosphohydrolase activity",
+      "GTP pyrophosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R00426",
+      "R00426"
+    ],
+    "RHEA": [
+      "29391",
+      "29391"
+    ],
+    "GOC": [
+      "dgf",
+      "bf"
+    ],
+    "PMID": [
+      "22531138"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GTP + H2O = GMP + H+ + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "GTP diphosphatase activity"
+}

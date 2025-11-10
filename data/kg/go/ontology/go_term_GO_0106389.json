@@ -1,0 +1,32 @@
+{
+  "id": "GO:0106389",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106389",
+  "relationships": {
+    "is_a": [
+      "GO:0016301"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "EcKinase"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-14755"
+    ],
+    "RHEA": [
+      "67972",
+      "67972"
+    ],
+    "PMID": [
+      "16899460"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an ecdysteroid + ATP = an ecdysteroid 22-phosphate + ADP + H+.",
+  "namespace": "molecular_function",
+  "label": "ecdysteroid 22-kinase activity"
+}

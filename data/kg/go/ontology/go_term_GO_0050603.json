@@ -1,0 +1,47 @@
+{
+  "id": "GO:0050603",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050603",
+  "relationships": {
+    "is_a": [
+      "GO:0004497",
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "thiophene-2-carbonyl-CoA, hydrogen-donor:oxygen oxidoreductase activity",
+      "thiophene-2-carboxyl-CoA dehydrogenase activity",
+      "thiophene-2-carboxyl-CoA hydroxylase activity",
+      "thiophene-2-carboxyl-CoA monooxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.99.35",
+      "1.14.99.35",
+      "1.14.99.35",
+      "1.14.99.35",
+      "1.14.99.35",
+      "1.14.99.35"
+    ],
+    "KEGG_REACTION": [
+      "R05742"
+    ],
+    "MetaCyc": [
+      "1.14.99.35-RXN"
+    ],
+    "RHEA": [
+      "18929",
+      "18929"
+    ],
+    "UM-BBD_reactionID": [
+      "r1235"
+    ]
+  },
+  "definition": "Catalysis of the reaction: AH(2) + O2 + thiophene-2-carbonyl-CoA = 5-hydroxythiophene-2-carbonyl-CoA + A + H2O + H+.",
+  "namespace": "molecular_function",
+  "label": "thiophene-2-carbonyl-CoA monooxygenase activity"
+}

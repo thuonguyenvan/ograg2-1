@@ -1,0 +1,38 @@
+{
+  "id": "GO:0160182",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160182",
+  "relationships": {
+    "is_a": [
+      "GO:0008940"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dissimilatory nitrate reductase",
+      "dissimilatory nitrate reductase activity",
+      "nitrate reductase A activity",
+      "nitrate reductase Z activity",
+      "quinol-nitrate oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.5.1",
+      "1.7.5.1",
+      "1.7.5.1",
+      "1.7.5.1",
+      "1.7.5.1",
+      "1.7.5.1"
+    ],
+    "RHEA": [
+      "56144",
+      "56144"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a quinol + nitrate = a quinone + H2O + nitrite.",
+  "namespace": "molecular_function",
+  "label": "nitrate reductase (quinone) activity"
+}

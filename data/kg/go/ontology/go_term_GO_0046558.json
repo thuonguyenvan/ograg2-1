@@ -1,0 +1,36 @@
+{
+  "id": "GO:0046558",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046558",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,5-alpha-L-arabinan 1,5-alpha-L-arabinanohydrolase activity",
+      "endo-1,5-alpha-L-arabinanase activity",
+      "endo-alpha-1,5-arabanase activity",
+      "endo-arabanase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.99",
+      "3.2.1.99",
+      "3.2.1.99",
+      "3.2.1.99",
+      "3.2.1.99",
+      "3.2.1.99"
+    ],
+    "MetaCyc": [
+      "3.2.1.99-RXN"
+    ]
+  },
+  "definition": "Catalysis of the endohydrolysis of (1-&gt;5)-alpha-arabinofuranosidic linkages in (1-&gt;5) arabinans.",
+  "namespace": "molecular_function",
+  "label": "arabinan endo-1,5-alpha-L-arabinosidase activity"
+}

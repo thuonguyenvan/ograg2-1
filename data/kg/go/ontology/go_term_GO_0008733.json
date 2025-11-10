@@ -1,0 +1,39 @@
+{
+  "id": "GO:0008733",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008733",
+  "relationships": {
+    "is_a": [
+      "GO:0016861"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-arabinose aldose-ketose-isomerase activity",
+      "L-arabinose ketol-isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.1.4",
+      "5.3.1.4",
+      "5.3.1.4",
+      "5.3.1.4"
+    ],
+    "KEGG_REACTION": [
+      "R01761"
+    ],
+    "MetaCyc": [
+      "ARABISOM-RXN"
+    ],
+    "RHEA": [
+      "14821",
+      "14821"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-arabinose = L-ribulose.",
+  "namespace": "molecular_function",
+  "label": "L-arabinose isomerase activity"
+}

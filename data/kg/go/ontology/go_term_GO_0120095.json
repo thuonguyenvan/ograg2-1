@@ -1,0 +1,28 @@
+{
+  "id": "GO:0120095",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120095",
+  "relationships": {
+    "is_a": [
+      "GO:0044232"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "vacuole-IM contact site",
+      "vacuole-phagophore contact site"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "VICS"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "23549786"
+    ]
+  },
+  "definition": "An organelle membrane contact site formed at the junction of the vacuolar membrane and the isolation membrane or phagophore in response to starvation or other stresses, leading to the formation of the autophagosome.",
+  "namespace": "cellular_component",
+  "label": "vacuole-isolation membrane contact site"
+}

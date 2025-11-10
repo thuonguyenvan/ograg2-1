@@ -1,0 +1,43 @@
+{
+  "id": "GO:0043887",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043887",
+  "relationships": {
+    "is_a": [
+      "GO:0015370",
+      "GO:0015487"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Na+ (Li+)/melibiose symporter activity",
+      "Na+-melibiose symporter activity",
+      "Na+/melibiose symporter activity",
+      "Na+:melibiose symporter activity",
+      "melibiose-Na+ symporter activity",
+      "melibiose-sodium symporter activity",
+      "melibiose/Na+ symporter activity",
+      "melibiose/sodium symporter activity",
+      "melibiose:Na+ symporter activity",
+      "sodium-melibiose symporter activity",
+      "sodium/melibiose symporter activity",
+      "sodium:melibiose symporter activity"
+    ],
+    "broad": [
+      "melibiose permease"
+    ],
+    "narrow": [],
+    "related": [
+      "MelB",
+      "melibiose carrier protein",
+      "thiomethylgalactoside permease II"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "1970646"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: melibiose(out) + Na+(out) = melibiose(in) + Na+(in).",
+  "namespace": "molecular_function",
+  "label": "melibiose:sodium symporter activity"
+}

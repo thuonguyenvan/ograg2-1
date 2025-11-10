@@ -1,0 +1,28 @@
+{
+  "id": "GO:0043171",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043171",
+  "relationships": {
+    "is_a": [
+      "GO:0006518",
+      "GO:0009056"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptide breakdown",
+      "peptide catabolism",
+      "peptide degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of peptides, compounds of 2 or more (but usually less than 100) amino acids where the alpha carboxyl group of one is bound to the alpha amino group of another.",
+  "namespace": "biological_process",
+  "label": "peptide catabolic process"
+}

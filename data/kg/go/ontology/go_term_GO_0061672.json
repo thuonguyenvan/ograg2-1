@@ -1,0 +1,33 @@
+{
+  "id": "GO:0061672",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061672",
+  "relationships": {
+    "is_a": [
+      "GO:1905368"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "gamma-glutamyltranspeptidase complex",
+      "glutathionase complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "glutamine amidotransferase II complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "dph",
+      "dph"
+    ],
+    "PMID": [
+      "22277648"
+    ]
+  },
+  "definition": "Enzyme complex that in S. cerevisiae has components Dug2/Dug3 and is able to catalyze the cleavage of glutathione into glutamate and Cys-Gly.",
+  "namespace": "cellular_component",
+  "label": "glutathione hydrolase complex"
+}

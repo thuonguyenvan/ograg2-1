@@ -1,0 +1,42 @@
+{
+  "id": "GO:0070376",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070376",
+  "relationships": {
+    "is_a": [
+      "GO:0043408"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of BMK cascade",
+      "regulation of BMK signaling pathway",
+      "regulation of BMK signalling pathway",
+      "regulation of BMK1 cascade",
+      "regulation of ERK5 signaling pathway",
+      "regulation of MAPK7 cascade"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "signaling",
+      "mah",
+      "mah",
+      "add",
+      "add"
+    ],
+    "ISBN": [
+      "0121245462",
+      "0896039986"
+    ],
+    "PMID": [
+      "16376520"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of signal transduction mediated by the ERK5 cascade.",
+  "namespace": "biological_process",
+  "label": "regulation of ERK5 cascade"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0032999",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032999",
+  "relationships": {
+    "is_a": [
+      "GO:0032997"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FcaRI complex"
+    ],
+    "broad": [
+      "IgA receptor complex",
+      "immunoglobulin A receptor complex"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "12524384"
+    ]
+  },
+  "definition": "A protein complex composed of an Fc-alpha R alpha chain and an Fc-epsilon RI gamma chain dimer with or without additional signaling components. The complex functions primarily as an activating receptor for IgA.",
+  "namespace": "cellular_component",
+  "label": "Fc-alpha receptor I complex"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047518",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047518",
+  "relationships": {
+    "is_a": [
+      "GO:0016799"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-methyladenosine hydrolase activity",
+      "1-methyladenosine ribohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.2.13",
+      "3.2.2.13",
+      "3.2.2.13",
+      "3.2.2.13"
+    ],
+    "KEGG_REACTION": [
+      "R03885"
+    ],
+    "MetaCyc": [
+      "1-METHYLADENOSINE-NUCLEOSIDASE-RXN"
+    ],
+    "RHEA": [
+      "12865",
+      "12865"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-methyladenosine + H2O = 1-methyladenine + ribofuranose.",
+  "namespace": "molecular_function",
+  "label": "1-methyladenosine nucleosidase activity"
+}

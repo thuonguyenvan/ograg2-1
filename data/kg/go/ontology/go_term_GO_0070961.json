@@ -1,0 +1,41 @@
+{
+  "id": "GO:0070961",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070961",
+  "relationships": {
+    "is_a": [
+      "GO:0002833",
+      "GO:0031349",
+      "GO:0032103",
+      "GO:0051712",
+      "GO:0070949",
+      "GO:0070960"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of neutrophil mediated killing of symbiont cell",
+      "up-regulation of neutrophil mediated killing of symbiont cell",
+      "upregulation of neutrophil mediated killing of symbiont cell"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of neutrophil mediated killing of symbiont cell",
+      "stimulation of neutrophil mediated killing of symbiont cell"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that increases the frequency, rate or extent of the directed killing of a symbiont target cell by a neutrophil.",
+  "namespace": "biological_process",
+  "label": "positive regulation of neutrophil mediated killing of symbiont cell"
+}

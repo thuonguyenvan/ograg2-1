@@ -1,0 +1,25 @@
+{
+  "id": "GO:0019820",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019820",
+  "relationships": {
+    "is_a": [
+      "GO:0005777"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "peroxisome vesicle"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "10629216"
+    ]
+  },
+  "definition": "A subform of peroxisome that corresponds to an intermediate in a peroxisome assembly pathway, which operates by conversion of peroxisomal subforms in the direction P1, P2 -&gt; P3 -&gt; P4 -&gt; P5 -&gt; P6. P2 peroxisomes are distinguished from the other subforms on the bases of buoyant density and protein content; they are the least dense of the subforms observed.",
+  "namespace": "cellular_component",
+  "label": "P2 peroxisome"
+}

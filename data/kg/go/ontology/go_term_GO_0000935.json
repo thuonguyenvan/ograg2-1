@@ -1,0 +1,30 @@
+{
+  "id": "GO:0000935",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000935",
+  "relationships": {
+    "is_a": [
+      "GO:0030428"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "complete septum"
+    ],
+    "broad": [
+      "septum surface"
+    ],
+    "narrow": [],
+    "related": [
+      "cell septum surface"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "clt",
+      "vw"
+    ]
+  },
+  "definition": "A cell septum which forms as part of the division site and functions in the compartmentalization of a cell into two daughter cells at division. A division septum spans a cell and does not allow exchange of organelles or cytoplasm between compartments.",
+  "namespace": "cellular_component",
+  "label": "division septum"
+}

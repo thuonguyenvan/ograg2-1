@@ -1,0 +1,62 @@
+{
+  "id": "GO:0004639",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004639",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-((N-succinylamino)carbonyl)-5-aminoimidazole ribonucleotide synthetase activity",
+      "4-(N-succinocarboxamide)-5-aminoimidazole synthetase activity",
+      "4-[(N-succinylamino)carbonyl]-5-aminoimidazole ribonucleotide synthetase activity",
+      "5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate:L-aspartate ligase (ADP-forming)",
+      "5-aminoimidazole-4-N-succinocarboxamide ribonucleotide synthetase activity",
+      "PurC",
+      "SAICAR synthase activity",
+      "SAICAR synthetase activity",
+      "SAICARs activity",
+      "phosphoribosylaminoimidazole-succinocarboxamide synthase activity",
+      "phosphoribosylaminoimidazole-succinocarboxamide synthetase activity",
+      "phosphoribosylaminoimidazolesuccinocarboxamide synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.6",
+      "6.3.2.6",
+      "6.3.2.6",
+      "6.3.2.6",
+      "6.3.2.6",
+      "6.3.2.6",
+      "6.3.2.6",
+      "6.3.2.6",
+      "6.3.2.6",
+      "6.3.2.6",
+      "6.3.2.6",
+      "6.3.2.6",
+      "6.3.2.6",
+      "6.3.2.6"
+    ],
+    "KEGG_REACTION": [
+      "R04591"
+    ],
+    "MetaCyc": [
+      "SAICARSYN-RXN"
+    ],
+    "RHEA": [
+      "22628",
+      "22628"
+    ],
+    "Reactome": [
+      "R-HSA-73805"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate + L-aspartate + ATP = (2S)-2-[5-amino-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamido]succinate + ADP + 2 H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "CAIR + Aspartate + ATP =&gt; SAICAR + ADP + Pi"
+}

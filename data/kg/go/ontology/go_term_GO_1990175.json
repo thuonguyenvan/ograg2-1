@@ -1,0 +1,27 @@
+{
+  "id": "GO:1990175",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990175",
+  "relationships": {
+    "is_a": [
+      "GO:0019904"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "hjd"
+    ],
+    "PMID": [
+      "11911876",
+      "21115825"
+    ]
+  },
+  "definition": "Binding to an EH domain of a protein. The EH stand for Eps15 homology. This was originally identified as a motif present in three copies at the NH2-termini of Eps15 and of the related molecule Eps15R.",
+  "namespace": "molecular_function",
+  "label": "EH domain binding"
+}

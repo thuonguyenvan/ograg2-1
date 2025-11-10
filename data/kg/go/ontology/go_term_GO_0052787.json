@@ -1,0 +1,31 @@
+{
+  "id": "GO:0052787",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052787",
+  "relationships": {
+    "is_a": [
+      "GO:0000272"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "alpha-amylase-mediated polysaccharide catabolism, producing maltopentaose"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "maltopentaose-forming alpha-amylase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators"
+    ],
+    "PMID": [
+      "7511484",
+      "9406414"
+    ]
+  },
+  "definition": "The breakdown of large alpha-linked polysaccharides by hydrolysis of (1-&gt;4)-alpha-D-glucosidic linkages to yield maltopentaose.",
+  "namespace": "biological_process",
+  "label": "alpha-linked polysaccharide catabolism to maltopentaose"
+}

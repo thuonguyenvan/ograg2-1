@@ -1,0 +1,32 @@
+{
+  "id": "GO:0072479",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072479",
+  "relationships": {
+    "is_a": [
+      "GO:0072476",
+      "GO:0072485"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitotic cell cycle spindle assembly checkpoint effector process",
+      "response to signal involved in mitotic cell cycle spindle assembly checkpoint"
+    ],
+    "broad": [],
+    "narrow": [
+      "response to Dma1-dependent checkpoint signaling",
+      "response to Dma1-dependent checkpoint signalling"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A process that occurs in response to signals generated as a result of mitotic cell cycle spindle assembly checkpoint signaling.",
+  "namespace": "biological_process",
+  "label": "response to mitotic cell cycle spindle assembly checkpoint signaling"
+}

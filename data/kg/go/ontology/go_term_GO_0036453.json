@@ -1,0 +1,32 @@
+{
+  "id": "GO:0036453",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036453",
+  "relationships": {
+    "is_a": [
+      "GO:0035194"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transitive RNAi"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pf"
+    ],
+    "PMID": [
+      "11719187",
+      "12554873",
+      "23724097",
+      "24369430",
+      "12554873"
+    ]
+  },
+  "definition": "An RNA interference where the silencing signal spreads along the target mRNA in a 5&apos; or 3&apos; direction, outside of the initial target sequence.",
+  "namespace": "biological_process",
+  "label": "transitive RNA interference"
+}

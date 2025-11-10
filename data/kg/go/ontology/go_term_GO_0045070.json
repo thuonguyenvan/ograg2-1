@@ -1,0 +1,31 @@
+{
+  "id": "GO:0045070",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045070",
+  "relationships": {
+    "is_a": [
+      "GO:0045069",
+      "GO:0048524"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of viral genome replication",
+      "up-regulation of viral genome replication",
+      "upregulation of viral genome replication"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of viral genome replication",
+      "stimulation of viral genome replication"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of viral genome replication.",
+  "namespace": "biological_process",
+  "label": "positive regulation of viral genome replication"
+}

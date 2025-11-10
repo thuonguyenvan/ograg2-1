@@ -1,0 +1,32 @@
+{
+  "id": "GO:0031245",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031245",
+  "relationships": {
+    "is_a": [
+      "GO:0031244"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "extrinsic to internal side of cell outer membrane",
+      "extrinsic to internal side of outer membrane",
+      "extrinsic to periplasmic side of cell outer membrane"
+    ],
+    "broad": [],
+    "narrow": [
+      "extrinsic to internal leaflet of cell outer membrane"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dos",
+      "mah",
+      "mtg_sensu",
+      "ab"
+    ]
+  },
+  "definition": "The component of the cell outer membrane consisting of gene products and protein complexes that are loosely bound to periplasmic surface, but not integrated into the hydrophobic region.",
+  "namespace": "cellular_component",
+  "label": "extrinsic component of periplasmic side of cell outer membrane"
+}

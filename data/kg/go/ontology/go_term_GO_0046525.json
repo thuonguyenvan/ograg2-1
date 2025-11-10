@@ -1,0 +1,50 @@
+{
+  "id": "GO:0046525",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046525",
+  "relationships": {
+    "is_a": [
+      "GO:0035250",
+      "GO:0140103"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-galactose:xylose galactosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-D-galactose:D-xylose galactosyltransferase activity",
+      "UDP-D-galactose:xylose galactosyltransferase activity",
+      "UDP-galactose:O-beta-D-xylosylprotein 4-beta-D-galactosyltransferase activity",
+      "UDPgalactose:O-beta-D-xylosylprotein 4-beta-D-galactosyltransferase activity",
+      "galactosyltransferase I activity",
+      "uridine diphosphogalactose-xylose galactosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.133",
+      "2.4.1.133",
+      "2.4.1.133",
+      "2.4.1.133",
+      "2.4.1.133",
+      "2.4.1.133",
+      "2.4.1.133",
+      "2.4.1.133"
+    ],
+    "MetaCyc": [
+      "2.4.1.133-RXN"
+    ],
+    "RHEA": [
+      "15297"
+    ],
+    "Reactome": [
+      "R-HSA-1889981",
+      "R-HSA-3560804"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-galactose + O-beta-D-xylosylprotein = UDP + 4-beta-D-galactosyl-O-beta-D-xylosylprotein.",
+  "namespace": "molecular_function",
+  "label": "Defective B4GALT7 does not transfer Gal to xylosyl-unit of the tetrasaccharide linker"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0019886",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019886",
+  "relationships": {
+    "is_a": [
+      "GO:0002478",
+      "GO:0002495"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "exogenous peptide antigen processing and presentation via MHC class II"
+    ],
+    "broad": [
+      "antigen presentation, exogenous antigen via MHC class II",
+      "antigen presentation, exogenous peptide antigen",
+      "antigen processing, exogenous antigen via major histocompatibility complex class II"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2132295"
+    ],
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "15771591"
+    ]
+  },
+  "definition": "The process in which an antigen-presenting cell expresses a peptide antigen of exogenous origin on its cell surface in association with an MHC class II protein complex. The peptide antigen is typically, but not always, processed from a whole protein.",
+  "namespace": "biological_process",
+  "label": "MHC class II antigen presentation"
+}

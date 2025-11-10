@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047900",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047900",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016774"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:formate phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.2.6",
+      "2.7.2.6",
+      "2.7.2.6"
+    ],
+    "KEGG_REACTION": [
+      "R00518"
+    ],
+    "MetaCyc": [
+      "FORMATE-KINASE-RXN"
+    ],
+    "RHEA": [
+      "16009",
+      "16009"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + formate = ADP + formyl phosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "formate kinase activity"
+}

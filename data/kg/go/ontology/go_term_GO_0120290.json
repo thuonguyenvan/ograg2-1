@@ -1,0 +1,29 @@
+{
+  "id": "GO:0120290",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120290",
+  "relationships": {
+    "is_a": [
+      "GO:0051641"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "stalled replication fork localization to nuclear periphery involved in replication fork processing"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mah"
+    ],
+    "PMID": [
+      "33159083"
+    ]
+  },
+  "definition": "A cellular localization process where a DNA replication fork that has stalled is signaled to relocate and anchor to the nuclear periphery for the time necessary to complete recombination-dependent replication.",
+  "namespace": "biological_process",
+  "label": "stalled replication fork localization to nuclear periphery"
+}

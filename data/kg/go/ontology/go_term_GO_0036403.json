@@ -1,0 +1,38 @@
+{
+  "id": "GO:0036403",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036403",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "8(S)-lipoxygenase activity",
+      "8-lipoxygenase (S-type)"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R07053",
+      "R07053"
+    ],
+    "RHEA": [
+      "38675",
+      "38675"
+    ],
+    "GOC": [
+      "lb",
+      "bf"
+    ],
+    "PMID": [
+      "10625675"
+    ]
+  },
+  "definition": "Catalysis of the reaction: arachidonate + O2 = (5Z,8S,9E,11Z,14Z)-8-hydroperoxyicosa-5,9,11,14-tetraenoate.",
+  "namespace": "molecular_function",
+  "label": "arachidonate 8(S)-lipoxygenase activity"
+}

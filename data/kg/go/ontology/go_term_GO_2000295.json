@@ -1,0 +1,44 @@
+{
+  "id": "GO:2000295",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000295",
+  "relationships": {
+    "is_a": [
+      "GO:0009894",
+      "GO:0010310"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of H2O2 catabolic process",
+      "regulation of hydrogen peroxide breakdown",
+      "regulation of hydrogen peroxide catabolism",
+      "regulation of hydrogen peroxide degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of H2O2 scavenging",
+      "regulation of detoxification of H2O2",
+      "regulation of detoxification of hydrogen peroxide",
+      "regulation of hydrogen peroxide removal",
+      "regulation of hydrogen peroxide scavenging"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of hydrogen peroxide catabolic process.",
+  "namespace": "biological_process",
+  "label": "regulation of hydrogen peroxide catabolic process"
+}

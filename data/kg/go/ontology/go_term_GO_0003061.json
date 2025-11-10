@@ -1,0 +1,33 @@
+{
+  "id": "GO:0003061",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003061",
+  "relationships": {
+    "is_a": [
+      "GO:0003099"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "increased force of heart contraction by norepinephrine",
+      "noradrenaline cardiac inotropy",
+      "noradrenaline regulation of the strength of heart muscle contraction",
+      "norepinephrine cardiac inotropy"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "increased force of heart contraction by adrenaline",
+      "positive regulation of heart contraction by adrenaline",
+      "positive regulation of heart contraction by norepinephrine"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cardio",
+      "rl"
+    ]
+  },
+  "definition": "The process in which the secretion of norepinephrine into the bloodstream or released from nerve endings modulates the force of heart musclecontraction.",
+  "namespace": "biological_process",
+  "label": "positive regulation of the force of heart contraction by norepinephrine"
+}

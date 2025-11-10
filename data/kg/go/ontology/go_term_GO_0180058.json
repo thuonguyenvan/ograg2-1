@@ -1,0 +1,27 @@
+{
+  "id": "GO:0180058",
+  "uri": "http://purl.obolibrary.org/obo/GO_0180058",
+  "relationships": {
+    "is_a": [
+      "GO:0009101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein N-linked glycosylation via asparagine, co-translational",
+      "protein N-linked glycosylation via asparagine, cotranslational",
+      "protein cotranslational transfer of dolichol-linked oligosaccharide"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "19167329"
+    ]
+  },
+  "definition": "A N-linked protein glycosylation process in which the preassembled dolichol-linked oligosaccharide precursor is transfered post-translationally to an asparagine residue within the motif Asn-X-Ser/Thr of the target protein. This is mediated by the OSTA complex.",
+  "namespace": "biological_process",
+  "label": "protein co-translational transfer of dolichol-linked oligosaccharide"
+}

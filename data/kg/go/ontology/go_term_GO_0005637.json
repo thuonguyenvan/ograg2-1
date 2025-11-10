@@ -1,0 +1,37 @@
+{
+  "id": "GO:0005637",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005637",
+  "relationships": {
+    "is_a": [
+      "GO:0019866",
+      "GO:0031965"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "inner nuclear membrane",
+      "nucleus inner membrane"
+    ],
+    "broad": [
+      "inner envelope"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1612527463"
+    ],
+    "GOC": [
+      "ma",
+      "kmv",
+      "vw"
+    ],
+    "PMID": [
+      "21411627"
+    ]
+  },
+  "definition": "The inner, i.e. lumen-facing, lipid bilayer of the nuclear envelope.",
+  "namespace": "cellular_component",
+  "label": "nuclear inner membrane"
+}

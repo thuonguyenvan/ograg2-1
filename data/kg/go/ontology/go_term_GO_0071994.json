@@ -1,0 +1,35 @@
+{
+  "id": "GO:0071994",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071994",
+  "relationships": {
+    "is_a": [
+      "GO:0055085",
+      "GO:0071993"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phytochelatin membrane transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cadystin transmembrane transport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vw"
+    ],
+    "ISBN": [
+      "0198506732"
+    ],
+    "Wikipedia": [
+      "Phytochelatin#History"
+    ]
+  },
+  "definition": "The process in which a phytochelatin is transported across a membrane. Phytochelatins are a group of peptides that bind metals (Cd, Zn, Cu, Pb, Hg) in thiolate coordination complexes.",
+  "namespace": "biological_process",
+  "label": "phytochelatin transmembrane transport"
+}

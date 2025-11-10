@@ -1,0 +1,32 @@
+{
+  "id": "GO:0007231",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007231",
+  "relationships": {
+    "is_a": [
+      "GO:0035556",
+      "GO:0071470"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "osmolarity sensing",
+      "osmolarity sensing signaling pathway",
+      "osmolarity sensing signalling pathway",
+      "osmosensory signal transduction",
+      "osmosensory signalling pathway",
+      "signal transduction during osmotic stress"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "signaling"
+    ]
+  },
+  "definition": "The series of molecular signals initiated in response to osmotic change.",
+  "namespace": "biological_process",
+  "label": "osmosensory signaling pathway"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0005728",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005728",
+  "relationships": {
+    "is_a": [
+      "GO:0005727"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "extrachromosomal ribosomal DNA circle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "12044934"
+    ]
+  },
+  "definition": "Circular DNA molecules encoding ribosomal RNA that are replicated independently of chromosomal replication. These molecules originate in the chromosome but are excised and circularized, often by intramolecular homologous recombination between direct tandem repeats.",
+  "namespace": "cellular_component",
+  "label": "extrachromosomal rDNA circle"
+}

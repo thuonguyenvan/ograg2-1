@@ -1,0 +1,35 @@
+{
+  "id": "GO:0033490",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033490",
+  "relationships": {
+    "is_a": [
+      "GO:0006695"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cholesterol anabolism via lathosterol",
+      "cholesterol biosynthesis via lathosterol",
+      "cholesterol formation via lathosterol",
+      "cholesterol synthesis via lathosterol"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY66-341",
+      "PWY66-341"
+    ],
+    "Reactome": [
+      "R-HSA-6807062"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of cholesterol, cholest-5-en-3 beta-ol, via the intermediate lathosterol.",
+  "namespace": "biological_process",
+  "label": "Cholesterol biosynthesis via lathosterol"
+}

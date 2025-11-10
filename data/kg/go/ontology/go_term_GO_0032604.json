@@ -1,0 +1,33 @@
+{
+  "id": "GO:0032604",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032604",
+  "relationships": {
+    "is_a": [
+      "GO:0001816",
+      "GO:0019538"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GM-CSF production",
+      "granulocyte macrophage colony stimulating factor production"
+    ],
+    "broad": [],
+    "narrow": [
+      "granulocyte macrophage colony-stimulating factor biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vk"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The appearance of granulocyte macrophage colony-stimulating factor due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels.",
+  "namespace": "biological_process",
+  "label": "granulocyte macrophage colony-stimulating factor production"
+}

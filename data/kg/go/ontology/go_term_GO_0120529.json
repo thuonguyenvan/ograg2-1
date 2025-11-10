@@ -1,0 +1,33 @@
+{
+  "id": "GO:0120529",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120529",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.331"
+    ],
+    "KEGG_REACTION": [
+      "R10129"
+    ],
+    "MetaCyc": [
+      "RXN-13433"
+    ],
+    "RHEA": [
+      "33887",
+      "33887"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (-)-secoisolariciresinol + 2 NAD+ = (-)-matairesinol + 2 H(+) + 2 NADH.",
+  "namespace": "molecular_function",
+  "label": "secoisolariciresinol dehydrogenase activity"
+}

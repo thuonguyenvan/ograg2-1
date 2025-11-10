@@ -1,0 +1,31 @@
+{
+  "id": "GO:0039580",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039580",
+  "relationships": {
+    "is_a": [
+      "GO:0052029",
+      "GO:0141154"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "suppression by virus of host EIF2AK2 activity",
+      "suppression by virus of host PKR activity",
+      "suppression by virus of host PKR signaling"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "554"
+    ],
+    "PMID": [
+      "15207627"
+    ]
+  },
+  "definition": "A process in which a symbiont inhibits or disrupts host PKR (Protein Kinase regulated by RNA) signaling. PKR phosphorylates host targets such as the translation initiation factor eIF2alpha that inhibits protein synthesis as an antimicrobial response. Inhibition of host PKR signaling maintains the host ability to translate mRNA. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host PKR/eIFalpha signaling"
+}

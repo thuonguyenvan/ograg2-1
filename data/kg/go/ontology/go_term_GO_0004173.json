@@ -1,0 +1,41 @@
+{
+  "id": "GO:0004173",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004173",
+  "relationships": {
+    "is_a": [
+      "GO:0008374"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acyl-CoA:ecdysone acyltransferase activity",
+      "fatty acyl-CoA:ecdysone acyltransferase activity",
+      "palmitoyl-CoA:ecdysone palmitoyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.139",
+      "2.3.1.139",
+      "2.3.1.139",
+      "2.3.1.139",
+      "2.3.1.139"
+    ],
+    "KEGG_REACTION": [
+      "R02375"
+    ],
+    "MetaCyc": [
+      "ECDYSONE-O-ACYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "15217",
+      "15217"
+    ]
+  },
+  "definition": "Catalysis of the reaction: Ecdysone + palmitoyl-CoA = CoA + ecdysone palmitate.",
+  "namespace": "molecular_function",
+  "label": "ecdysone O-acyltransferase activity"
+}

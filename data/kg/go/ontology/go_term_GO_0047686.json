@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047686",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047686",
+  "relationships": {
+    "is_a": [
+      "GO:0008146"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "arylsulphate sulphotransferase activity"
+    ],
+    "broad": [
+      "arylsulfotransferase"
+    ],
+    "narrow": [],
+    "related": [
+      "ASST",
+      "arylsulfate-phenol sulfotransferase activity",
+      "arylsulfate:phenol sulfotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.22",
+      "2.8.2.22",
+      "2.8.2.22",
+      "2.8.2.22",
+      "2.8.2.22",
+      "2.8.2.22"
+    ],
+    "MetaCyc": [
+      "ARYLSULFATE-SULFOTRANSFERASE-RXN",
+      "ARYLSULFATE-SULFOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "51072"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an aryl sulfate + a phenol = a phenol + an aryl sulfate.",
+  "namespace": "molecular_function",
+  "label": "arylsulfate sulfotransferase activity"
+}

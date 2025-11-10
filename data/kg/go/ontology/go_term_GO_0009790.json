@@ -1,0 +1,36 @@
+{
+  "id": "GO:0009790",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009790",
+  "relationships": {
+    "is_a": [
+      "GO:0007275"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "embryogenesis",
+      "embryonal development"
+    ],
+    "broad": [
+      "embryogenesis and morphogenesis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5619507"
+    ],
+    "Wikipedia": [
+      "Embryogenesis"
+    ],
+    "GOC": [
+      "go_curators",
+      "isa_complete",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "The process whose specific outcome is the progression of an embryo from its formation until the end of its embryonic life stage. The end of the embryonic stage is organism-specific. For example, for mammals, the process would begin with zygote formation and end with birth. For insects, the process would begin at zygote formation and end with larval hatching. For plant zygotic embryos, this would be from zygote formation to the end of seed dormancy. For plant vegetative embryos, this would be from the initial determination of the cell or group of cells to form an embryo until the point when the embryo becomes independent of the parent plant.",
+  "namespace": "biological_process",
+  "label": "Activation of HOX genes during differentiation"
+}

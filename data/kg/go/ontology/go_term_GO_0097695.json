@@ -1,0 +1,32 @@
+{
+  "id": "GO:0097695",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097695",
+  "relationships": {
+    "is_a": [
+      "GO:0051234"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "establishment of macromolecular complex localisation to telomere"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "establishment of macromolecular complex localization to telomere"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "rph"
+    ],
+    "PMID": [
+      "26586433"
+    ]
+  },
+  "definition": "The directed movement of a protein-containing macromolecular complex to a specific location in the telomeric region of a chromosome.",
+  "namespace": "biological_process",
+  "label": "establishment of protein-containing complex localization to telomere"
+}

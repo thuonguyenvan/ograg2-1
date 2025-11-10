@@ -1,0 +1,29 @@
+{
+  "id": "GO:0090513",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090513",
+  "relationships": {
+    "is_a": [
+      "GO:0034490",
+      "GO:0089709",
+      "GO:1902024"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "histidine transmembrane import into vacuole",
+      "vacuolar histidine import"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "al",
+      "tb"
+    ]
+  },
+  "definition": "The directed movement of L-histidine into the vacuole across the vacuolar membrane.",
+  "namespace": "biological_process",
+  "label": "L-histidine transmembrane import into vacuole"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0032824",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032824",
+  "relationships": {
+    "is_a": [
+      "GO:0032815",
+      "GO:0032823",
+      "GO:0045620"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of natural killer cell differentiation",
+      "down-regulation of natural killer cell differentiation",
+      "downregulation of natural killer cell differentiation",
+      "negative regulation of NK cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of natural killer cell differentiation"
+    ],
+    "related": [
+      "negative regulation of natural killer cell development"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "add"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of natural killer cell differentiation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of natural killer cell differentiation"
+}

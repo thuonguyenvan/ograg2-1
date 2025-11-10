@@ -1,0 +1,31 @@
+{
+  "id": "GO:0019589",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019589",
+  "relationships": {
+    "is_a": [
+      "GO:0019588",
+      "GO:0042844"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycerol fermentation to 1,3-propanediol",
+      "glycerol fermentation to propane-1,3-diol"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "GOLPDLCAT-PWY",
+      "GOLPDLCAT-PWY"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The anaerobic chemical reactions and pathways resulting in the breakdown of glycerol into propane-1,3-diol and water.",
+  "namespace": "biological_process",
+  "label": "anaerobic glycerol catabolic process to propane-1,3-diol"
+}

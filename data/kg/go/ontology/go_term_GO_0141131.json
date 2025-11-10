@@ -1,0 +1,30 @@
+{
+  "id": "GO:0141131",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141131",
+  "relationships": {
+    "is_a": [
+      "GO:0016706",
+      "GO:0035514"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA N(6)-methyladenine demethylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.11.51"
+    ],
+    "RHEA": [
+      "49524",
+      "49524"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxoglutarate + an N6-methyl-2&apos;-deoxyadenosine in DNA + O2 = a 2&apos;-deoxyadenosine in DNA + CO2 + formaldehyde + succinate.",
+  "namespace": "molecular_function",
+  "label": "DNA N6-methyladenine demethylase activity"
+}

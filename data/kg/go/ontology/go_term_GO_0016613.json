@@ -1,0 +1,25 @@
+{
+  "id": "GO:0016613",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016613",
+  "relationships": {
+    "is_a": [
+      "GO:0016610"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "vanadium-iron nitrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "3474027"
+    ]
+  },
+  "definition": "An enzyme complex containing a vanadium-iron cluster found in some species, such as Azotobacter vinelandii. It is composed of two proteins, dinitrogenase and nitrogenase reductase; dinitrogenase, the vanadium-iron protein, is tetrameric with an alpha2-beta2 structure, and nitrogenase reductase is a homodimer.",
+  "namespace": "cellular_component",
+  "label": "vanadium-iron nitrogenase complex"
+}

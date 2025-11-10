@@ -1,0 +1,55 @@
+{
+  "id": "GO:0004043",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004043",
+  "relationships": {
+    "is_a": [
+      "GO:0004030"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-aminoadipate-semialdehyde dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-aminoadipate semialdehyde dehydrogenase activity",
+      "2-aminoadipic semialdehyde dehydrogenase activity",
+      "AAR",
+      "L-2-aminoadipate-6-semialdehyde:NAD(P)+ 6-oxidoreductase",
+      "L-alpha-aminoadipate delta-semialdehyde oxidoreductase activity",
+      "L-alpha-aminoadipate delta-semialdehyde:NAD oxidoreductase activity",
+      "L-alpha-aminoadipate delta-semialdehyde:nicotinamide adenine dinucleotide oxidoreductase activity",
+      "alpha-aminoadipate reductase activity",
+      "alpha-aminoadipate-semialdehyde dehydrogenase activity",
+      "aminoadipate semialdehyde dehydrogenase activity",
+      "aminoadipate-semialdehyde dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.31",
+      "1.2.1.31",
+      "1.2.1.31",
+      "1.2.1.31",
+      "1.2.1.31",
+      "1.2.1.31",
+      "1.2.1.31",
+      "1.2.1.31",
+      "1.2.1.31",
+      "1.2.1.31",
+      "1.2.1.31",
+      "1.2.1.31",
+      "1.2.1.31"
+    ],
+    "MetaCyc": [
+      "1.2.1.31-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-70941"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-2-amino-6-oxohexanoate + NAD(P)+ + H2O = L-2-aminoadipate + NAD(P)H + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "alpha-aminoadipoate semialdehyde + NAD+ =&gt; alpha-aminoadipate + NADH + H+"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0070106",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070106",
+  "relationships": {
+    "is_a": [
+      "GO:0019221"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IL-27-mediated signaling pathway",
+      "IL27RA/IL6ST signaling pathway",
+      "interleukin-27-mediated signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9020956"
+    ],
+    "GOC": [
+      "BHF",
+      "add",
+      "mah",
+      "signaling",
+      "mah",
+      "add",
+      "mah"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by interleukin-27 binding to a receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "Interleukin-27 signaling"
+}

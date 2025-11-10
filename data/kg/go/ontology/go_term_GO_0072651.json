@@ -1,0 +1,36 @@
+{
+  "id": "GO:0072651",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072651",
+  "relationships": {
+    "is_a": [
+      "GO:0032606"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IFN-tau production",
+      "IFN-tau secretion",
+      "IFNT production"
+    ],
+    "broad": [],
+    "narrow": [
+      "interferon-tau secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "mah",
+      "mah",
+      "BHF"
+    ],
+    "PMID": [
+      "15546383"
+    ]
+  },
+  "definition": "The appearance of interferon-tau due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels.",
+  "namespace": "biological_process",
+  "label": "interferon-tau production"
+}

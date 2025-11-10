@@ -1,0 +1,42 @@
+{
+  "id": "GO:0004340",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004340",
+  "relationships": {
+    "is_a": [
+      "GO:0004396"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:D-glucose 6-phosphotransferase activity",
+      "glucokinase (phosphorylating)",
+      "glucose kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.2",
+      "2.7.1.2",
+      "2.7.1.2",
+      "2.7.1.2",
+      "2.7.1.2"
+    ],
+    "MetaCyc": [
+      "GLUCOKIN-RXN"
+    ],
+    "RHEA": [
+      "17825"
+    ],
+    "Reactome": [
+      "R-HSA-5621888",
+      "R-HSA-5621918",
+      "R-HSA-70420"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + D-glucose = ADP + D-glucose-6-phosphate.",
+  "namespace": "molecular_function",
+  "label": "HK1,2,3,GCK,HKDC1 phosphorylate Glc to form G6P"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:1902017",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902017",
+  "relationships": {
+    "is_a": [
+      "GO:0120032",
+      "GO:1902115"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of ciliogenesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of cilium biogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "cilia",
+      "dph",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "17719545"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of cilium assembly.",
+  "namespace": "biological_process",
+  "label": "regulation of cilium assembly"
+}

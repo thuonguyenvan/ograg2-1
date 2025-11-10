@@ -1,0 +1,30 @@
+{
+  "id": "GO:0015186",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015186",
+  "relationships": {
+    "is_a": [
+      "GO:0015175",
+      "GO:0015179"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "asparagine/glutamine permease activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of L-glutamine from one side of a membrane to the other. L-glutamine is 2-amino-4-carbamoylbutanoic acid.",
+  "namespace": "molecular_function",
+  "label": "L-glutamine transmembrane transporter activity"
+}

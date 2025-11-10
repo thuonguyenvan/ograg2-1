@@ -1,0 +1,33 @@
+{
+  "id": "GO:0038190",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038190",
+  "relationships": {
+    "is_a": [
+      "GO:0038084",
+      "GO:0038189"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "VEGF-Npn-1 signaling",
+      "vascular endothelial growth factor-activated neuropilin signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "rl",
+      "bf"
+    ],
+    "PMID": [
+      "12852851",
+      "12852851"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by vascular endothelial growth factor (VEGF) binding to a neuropilin protein on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "VEGF-activated neuropilin signaling pathway"
+}

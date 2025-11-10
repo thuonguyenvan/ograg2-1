@@ -1,0 +1,50 @@
+{
+  "id": "GO:0018860",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018860",
+  "relationships": {
+    "is_a": [
+      "GO:0016405",
+      "GO:0016878"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "anthranilate--CoA ligase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-aminobenzoate coenzyme A ligase activity",
+      "2-aminobenzoate-CoA ligase activity",
+      "2-aminobenzoate-coenzyme A ligase activity",
+      "anthranilate:CoA ligase (AMP-forming)",
+      "anthraniloyl coenzyme A synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.2.1.32",
+      "6.2.1.32",
+      "6.2.1.32",
+      "6.2.1.32",
+      "6.2.1.32",
+      "6.2.1.32",
+      "6.2.1.32"
+    ],
+    "KEGG_REACTION": [
+      "R00982"
+    ],
+    "MetaCyc": [
+      "AMINOBENZCOALIG-RXN"
+    ],
+    "RHEA": [
+      "10828"
+    ],
+    "UM-BBD_reactionID": [
+      "r0341"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + anthranilate + CoA = AMP + diphosphate + anthranilyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "anthranilate-CoA ligase activity"
+}

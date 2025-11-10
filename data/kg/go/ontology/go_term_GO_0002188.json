@@ -1,0 +1,24 @@
+{
+  "id": "GO:0002188",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002188",
+  "relationships": {
+    "is_a": [
+      "GO:0002183"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "18056426",
+      "18765792"
+    ]
+  },
+  "definition": "A gene-specific translational control mechanism where the small ribosomal subunit remains attached to the mRNA following termination of translation, then resumes scanning on the same mRNA molecule and initiates again at a downstream start site. Reinitiation depends on de novo recruitment of the ternary complex that is required to recognize the next AUG codon.",
+  "namespace": "biological_process",
+  "label": "translation reinitiation"
+}

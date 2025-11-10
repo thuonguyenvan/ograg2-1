@@ -1,0 +1,37 @@
+{
+  "id": "GO:0004526",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004526",
+  "relationships": {
+    "is_a": [
+      "GO:0004549",
+      "GO:0016891"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNase P",
+      "tRNA 5&apos; leader endonuclease activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.26.5",
+      "3.1.26.5"
+    ],
+    "MetaCyc": [
+      "3.1.26.5-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-5696810"
+    ],
+    "Wikipedia": [
+      "RNase_P"
+    ]
+  },
+  "definition": "Catalysis of the endonucleolytic cleavage of RNA, removing 5&apos; extra nucleotides from tRNA precursor.",
+  "namespace": "molecular_function",
+  "label": "RNase P cleaves the 5&apos; end of pre-tRNA"
+}

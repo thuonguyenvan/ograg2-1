@@ -1,0 +1,32 @@
+{
+  "id": "GO:0072729",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072729",
+  "relationships": {
+    "is_a": [
+      "GO:0070887",
+      "GO:0072728"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to crystal violet",
+      "cellular response to {4-[Bis-(4-dimethylamino-phenyl)-methylene]-cyclohexa-2,5-dienylidene}-dimethyl-ammonium chloride"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "CHEBI": [
+      "198346"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a Gentian violet stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to Gentian violet"
+}

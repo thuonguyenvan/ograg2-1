@@ -1,0 +1,30 @@
+{
+  "id": "GO:0071454",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071454",
+  "relationships": {
+    "is_a": [
+      "GO:0033554",
+      "GO:0034059",
+      "GO:0036294"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to anaerobic conditions",
+      "cellular response to anoxic stress"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "elh",
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus indicating a decline in oxygen levels to trace amounts, &lt;0.1%.",
+  "namespace": "biological_process",
+  "label": "cellular response to anoxia"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0000712",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000712",
+  "relationships": {
+    "is_a": [
+      "GO:0061982"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "resolution of meiotic joint molecules as recombinants"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "elh",
+      "elh",
+      "mah"
+    ],
+    "PMID": [
+      "11733053"
+    ]
+  },
+  "definition": "The cleavage and rejoining of intermediates, such as Holliday junctions, formed during meiotic recombination to produce two intact molecules in which genetic material has been exchanged.",
+  "namespace": "biological_process",
+  "label": "resolution of meiotic recombination intermediates"
+}

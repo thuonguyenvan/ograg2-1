@@ -1,0 +1,54 @@
+{
+  "id": "GO:1902657",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902657",
+  "relationships": {
+    "is_a": [
+      "GO:0072657"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein localisation in prospore membrane",
+      "protein localisation to prospore membrane",
+      "protein localization in prospore membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "establishment of protein localisation in prospore membrane",
+      "establishment of protein localisation to prospore membrane",
+      "establishment of protein localization in prospore membrane",
+      "establishment of protein localization to prospore membrane",
+      "protein targeting to FSM",
+      "protein targeting to ascospore-type prospore membrane",
+      "protein targeting to forespore membrane",
+      "protein targeting to prospore membrane",
+      "protein-prospore membrane targeting"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "GO_REF": [
+      "0000087"
+    ],
+    "PMID": [
+      "24036347"
+    ]
+  },
+  "definition": "A process in which a protein is transported to, or maintained in, a location within a prospore membrane.",
+  "namespace": "biological_process",
+  "label": "protein localization to prospore membrane"
+}

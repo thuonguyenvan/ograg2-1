@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047408",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047408",
+  "relationships": {
+    "is_a": [
+      "GO:0016803"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-(1-alkenyl)-sn-glycero-3-phosphocholine aldehydohydrolase activity",
+      "lysoplasmalogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.3.2.2",
+      "3.3.2.2",
+      "3.3.2.2",
+      "3.3.2.2"
+    ],
+    "MetaCyc": [
+      "3.3.2.2-RXN",
+      "3.3.2.2-RXN"
+    ],
+    "RHEA": [
+      "22544"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + 1-(1-alkenyl)-sn-glycero-3-phosphocholine = L-1-glycero-3-phosphocholine + an aldehyde.",
+  "namespace": "molecular_function",
+  "label": "alkenylglycerophosphocholine hydrolase activity"
+}

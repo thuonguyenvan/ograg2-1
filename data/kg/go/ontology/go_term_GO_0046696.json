@@ -1,0 +1,27 @@
+{
+  "id": "GO:0046696",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046696",
+  "relationships": {
+    "is_a": [
+      "GO:0043235",
+      "GO:0098796"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LPS receptor complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11706042",
+      "9665271"
+    ]
+  },
+  "definition": "A multiprotein complex that consists of at least three proteins, CD14, TLR4, and MD-2, each of which is glycosylated and which functions as a lipopolysaccharide (LPS) receptor that primes the innate immune response against bacterial pathogens.",
+  "namespace": "cellular_component",
+  "label": "lipopolysaccharide receptor complex"
+}

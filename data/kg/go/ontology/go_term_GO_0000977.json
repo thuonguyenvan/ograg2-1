@@ -1,0 +1,25 @@
+{
+  "id": "GO:0000977",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000977",
+  "relationships": {
+    "is_a": [
+      "GO:0000976"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RNA polymerase II regulatory region DNA binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH"
+    ]
+  },
+  "definition": "Binding to a specific sequence of DNA that is part of a regulatory region that controls the transcription of a gene or cistron by RNA polymerase II.",
+  "namespace": "molecular_function",
+  "label": "RNA polymerase II transcription regulatory region sequence-specific DNA binding"
+}

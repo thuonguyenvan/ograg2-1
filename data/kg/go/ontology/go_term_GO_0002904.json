@@ -1,0 +1,33 @@
+{
+  "id": "GO:0002904",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002904",
+  "relationships": {
+    "is_a": [
+      "GO:0002902",
+      "GO:0070230"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of B cell apoptosis",
+      "up-regulation of B cell apoptosis",
+      "upregulation of B cell apoptosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of B cell apoptosis",
+      "positive regulation of B cell apoptosis",
+      "stimulation of B cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mtg_apoptosis"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of B cell apoptotic process.",
+  "namespace": "biological_process",
+  "label": "positive regulation of B cell apoptotic process"
+}

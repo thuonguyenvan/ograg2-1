@@ -1,0 +1,41 @@
+{
+  "id": "GO:0043514",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043514",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IL-12 complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "IL12A",
+      "IL12B",
+      "p35",
+      "p40"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "ebc",
+      "mah",
+      "mah",
+      "add",
+      "add",
+      "add",
+      "add"
+    ],
+    "PMID": [
+      "12948519",
+      "1381512"
+    ]
+  },
+  "definition": "A protein complex that is composed of an interleukin-12 alpha (p35, product of the IL12A gene) and an interleukin-12 beta subunit (p40, product of the IL12B gene) and is secreted into the extracellular space.",
+  "namespace": "cellular_component",
+  "label": "interleukin-12 complex"
+}

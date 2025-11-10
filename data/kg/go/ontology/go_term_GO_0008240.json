@@ -1,0 +1,29 @@
+{
+  "id": "GO:0008240",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008240",
+  "relationships": {
+    "is_a": [
+      "GO:0070008"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.4.14.10"
+    ],
+    "MetaCyc": [
+      "3.4.14.10-RXN"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the release of an N-terminal tripeptide from a polypeptide.",
+  "namespace": "molecular_function",
+  "label": "tripeptidyl-peptidase activity"
+}

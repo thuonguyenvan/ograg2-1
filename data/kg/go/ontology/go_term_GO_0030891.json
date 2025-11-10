@@ -1,0 +1,30 @@
+{
+  "id": "GO:0030891",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030891",
+  "relationships": {
+    "is_a": [
+      "GO:0000153"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "VHL complex",
+      "pVHL-elongin C-elongin B complex",
+      "von Hippel-Lindau tumor suppressor complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "11865071"
+    ]
+  },
+  "definition": "A protein complex that possesses ubiquitin ligase activity; the complex is usually pentameric; for example, in mammals the subunits are pVHL, elongin B, elongin C, cullin-2 (Cul2), and Rbx1.",
+  "namespace": "cellular_component",
+  "label": "VCB complex"
+}

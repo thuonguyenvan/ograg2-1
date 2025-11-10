@@ -1,0 +1,34 @@
+{
+  "id": "GO:0001811",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001811",
+  "relationships": {
+    "is_a": [
+      "GO:0001810",
+      "GO:0002884",
+      "GO:0002890"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of type I hypersensitivity",
+      "down-regulation of type I hypersensitivity",
+      "downregulation of type I hypersensitivity"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of type I hypersensitivity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the rate of type I hypersensitivity, a type of inflammatory response.",
+  "namespace": "biological_process",
+  "label": "negative regulation of type I hypersensitivity"
+}

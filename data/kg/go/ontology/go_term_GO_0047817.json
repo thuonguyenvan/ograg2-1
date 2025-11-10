@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047817",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047817",
+  "relationships": {
+    "is_a": [
+      "GO:0016813"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-arginine amidinohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.3.10",
+      "3.5.3.10",
+      "3.5.3.10"
+    ],
+    "KEGG_REACTION": [
+      "R02458"
+    ],
+    "MetaCyc": [
+      "D-ARGINASE-RXN"
+    ],
+    "RHEA": [
+      "12901",
+      "12901"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-arginine + H2O = D-ornithine + urea.",
+  "namespace": "molecular_function",
+  "label": "D-arginase activity"
+}

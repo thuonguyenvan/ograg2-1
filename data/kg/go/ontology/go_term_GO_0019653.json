@@ -1,0 +1,32 @@
+{
+  "id": "GO:0019653",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019653",
+  "relationships": {
+    "is_a": [
+      "GO:0006113",
+      "GO:0006145"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "anaerobic purine base catabolic process",
+      "anaerobic purine base catabolism",
+      "purine base fermentation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "anaerobic purine catabolic process",
+      "purine fermentation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "go_curators"
+    ]
+  },
+  "definition": "The anaerobic chemical reactions and pathways resulting in the breakdown of purine nucleobases, yielding energy in the form of ATP.",
+  "namespace": "biological_process",
+  "label": "anaerobic purine nucleobase catabolic process"
+}

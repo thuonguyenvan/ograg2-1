@@ -1,0 +1,41 @@
+{
+  "id": "GO:1901096",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901096",
+  "relationships": {
+    "is_a": [
+      "GO:0016241",
+      "GO:0033043",
+      "GO:0043244"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of autophagic vacuole fusion",
+      "regulation of autophagosome fusion"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of amphisome-lysosome fusion",
+      "regulation of autolysosome formation",
+      "regulation of fusion of autophagosome with lysosome"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "autophagy",
+      "autophagy",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "10436019",
+      "21383079"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of autophagosome maturation.",
+  "namespace": "biological_process",
+  "label": "regulation of autophagosome maturation"
+}

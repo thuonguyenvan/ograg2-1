@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047549",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047549",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "nitrophenol oxygenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "2-nitrophenol oxygenase activity",
+      "2-nitrophenol,NADPH:oxygen 2-oxidoreductase (2-hydroxylating, nitrite-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.31",
+      "1.14.13.31",
+      "1.14.13.31",
+      "1.14.13.31",
+      "1.14.13.31"
+    ],
+    "KEGG_REACTION": [
+      "R00828"
+    ],
+    "MetaCyc": [
+      "2-NITROPHENOL-2-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "19457",
+      "19457"
+    ],
+    "UM-BBD_reactionID": [
+      "r1494"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-nitrophenol + 2 H+ + 2 NADPH + O2 = catechol + H2O + 2 NADP+ + nitrite.",
+  "namespace": "molecular_function",
+  "label": "2-nitrophenol 2-monooxygenase activity"
+}

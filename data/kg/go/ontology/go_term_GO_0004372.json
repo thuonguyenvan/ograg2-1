@@ -1,0 +1,47 @@
+{
+  "id": "GO:0004372",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004372",
+  "relationships": {
+    "is_a": [
+      "GO:0016742"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5,10-methylenetetrahydrofolate:glycine hydroxymethyltransferase activity",
+      "L-serine hydroxymethyltransferase activity",
+      "allothreonine aldolase activity",
+      "serine aldolase activity",
+      "serine hydroxymethylase activity",
+      "serine hydroxymethyltransferase activity",
+      "serine transhydroxymethylase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "GLYOHMETRANS-RXN"
+    ],
+    "RHEA": [
+      "15481",
+      "15481"
+    ],
+    "Reactome": [
+      "R-HSA-5694137"
+    ],
+    "EC": [
+      "2.1.2.1",
+      "2.1.2.1",
+      "2.1.2.1",
+      "2.1.2.1",
+      "2.1.2.1",
+      "2.1.2.1",
+      "2.1.2.1"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (6R)-5,10-methylene-5,6,7,8-tetrahydrofolate + glycine + H2O = (6S)-5,6,7,8-tetrahydrofolate + L-serine.",
+  "namespace": "molecular_function",
+  "label": "PXLP-K280-SHMT2 tetramer transfers CH2OH group to Gly to form L-Ser"
+}

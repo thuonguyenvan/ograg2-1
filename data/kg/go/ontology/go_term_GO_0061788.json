@@ -1,0 +1,33 @@
+{
+  "id": "GO:0061788",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061788",
+  "relationships": {
+    "is_a": [
+      "GO:0019904"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "Epidermal growth factor domain binding"
+    ],
+    "narrow": [],
+    "related": [
+      "Epidermal Growth Factor repeat binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "25700513",
+      "dph",
+      "dph",
+      "dph"
+    ],
+    "PMID": [
+      "25155514"
+    ]
+  },
+  "definition": "Binding to Epidermal Growth Factor (EGF) repeats.",
+  "namespace": "molecular_function",
+  "label": "EGF repeat binding"
+}

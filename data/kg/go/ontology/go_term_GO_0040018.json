@@ -1,0 +1,34 @@
+{
+  "id": "GO:0040018",
+  "uri": "http://purl.obolibrary.org/obo/GO_0040018",
+  "relationships": {
+    "is_a": [
+      "GO:0040014",
+      "GO:0048639",
+      "GO:0051240"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of body growth",
+      "positive regulation of body size"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "go_curators",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of growth of an organism to reach its usual body size.",
+  "namespace": "biological_process",
+  "label": "positive regulation of multicellular organism growth"
+}

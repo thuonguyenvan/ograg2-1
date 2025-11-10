@@ -1,0 +1,31 @@
+{
+  "id": "GO:0030533",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030533",
+  "relationships": {
+    "is_a": [
+      "GO:0003729",
+      "GO:0060090"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "tRNA",
+      "transfer RNA"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "hjd",
+      "mtg_MIT_16mar07"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The codon binding activity of a tRNA that positions an activated amino acid, mediating its insertion at the correct point in the sequence of a nascent polypeptide chain during protein synthesis.",
+  "namespace": "molecular_function",
+  "label": "triplet codon-amino acid adaptor activity"
+}

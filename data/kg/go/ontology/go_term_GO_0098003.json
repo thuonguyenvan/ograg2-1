@@ -1,0 +1,34 @@
+{
+  "id": "GO:0098003",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098003",
+  "relationships": {
+    "is_a": [
+      "GO:0016032"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "virus tail assembly"
+    ],
+    "broad": [],
+    "narrow": [
+      "bacteriophage tail assembly"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "3955",
+      "3955"
+    ],
+    "GOC": [
+      "bm",
+      "bf",
+      "jl",
+      "bm"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form a virus tail.",
+  "namespace": "biological_process",
+  "label": "Viral tail assembly"
+}

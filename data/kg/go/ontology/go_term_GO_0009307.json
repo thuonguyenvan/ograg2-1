@@ -1,0 +1,29 @@
+{
+  "id": "GO:0009307",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009307",
+  "relationships": {
+    "is_a": [
+      "GO:0006304",
+      "GO:0044355"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "DNA restriction"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "UniProtKB-KW": [
+      "KW-0680"
+    ]
+  },
+  "definition": "A defense process found in many bacteria and archaea that protects the organism from invading foreign DNA by cleaving it with a restriction endonuclease. The organism&apos;s own DNA is protected by methylation of a specific nucleotide, which occurs immediately following replication, in the same target site as the restriction enzyme.",
+  "namespace": "biological_process",
+  "label": "DNA restriction-modification system"
+}

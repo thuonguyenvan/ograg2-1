@@ -1,0 +1,32 @@
+{
+  "id": "GO:0009807",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009807",
+  "relationships": {
+    "is_a": [
+      "GO:0009699",
+      "GO:0009806"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lignan anabolism",
+      "lignan biosynthesis",
+      "lignan formation",
+      "lignan synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "10074466"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of lignans, any member of a class of plant metabolites related to lignins. Lignans are usually found as phenylpropanoid dimers in which the phenylpropanoid units are linked tail to tail and thus having a 2,3 dibenzylbutane skeleton, but higher oligomers can also exist.",
+  "namespace": "biological_process",
+  "label": "lignan biosynthetic process"
+}

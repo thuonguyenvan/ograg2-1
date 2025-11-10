@@ -1,0 +1,32 @@
+{
+  "id": "GO:0050714",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050714",
+  "relationships": {
+    "is_a": [
+      "GO:0050708",
+      "GO:0051222",
+      "GO:1903532"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of protein secretion",
+      "up-regulation of protein secretion",
+      "upregulation of protein secretion"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein secretion",
+      "stimulation of protein secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the controlled release of a protein from a cell.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein secretion"
+}

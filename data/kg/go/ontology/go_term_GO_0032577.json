@@ -1,0 +1,26 @@
+{
+  "id": "GO:0032577",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032577",
+  "relationships": {
+    "is_a": [
+      "GO:0032576"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphatidylcholine:cardiolipin linoleoyltransferase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cb",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a linoleoyl ((9Z,12Z)-octadeca-9,12-dienoyl) group from phosphatidylcholine to an oxygen atom on a cardiolipin molecule.",
+  "namespace": "molecular_function",
+  "label": "phosphatidylcholine:cardiolipin O-linoleoyltransferase activity"
+}

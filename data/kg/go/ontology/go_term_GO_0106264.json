@@ -1,0 +1,30 @@
+{
+  "id": "GO:0106264",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106264",
+  "relationships": {
+    "is_a": [
+      "GO:0004672"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "64020",
+      "64020"
+    ],
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "32322062"
+    ]
+  },
+  "definition": "Catalysis of the reactions: GTP + L-seryl-[protein] = GDP + H+ + O-phospho-L-seryl-[protein].",
+  "namespace": "molecular_function",
+  "label": "protein serine kinase activity (using GTP as donor)"
+}

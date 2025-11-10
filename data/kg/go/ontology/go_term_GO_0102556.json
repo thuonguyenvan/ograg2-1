@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102556",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102556",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.120",
+      "1.14.14.120"
+    ],
+    "MetaCyc": [
+      "RXN-14975"
+    ],
+    "RHEA": [
+      "38579"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dammarenediol-II + NADPH + H+ + O2 = (20S)-protopanaxadiol + NADP + H2O.",
+  "namespace": "molecular_function",
+  "label": "dammarenediol 12-hydroxylase activity"
+}

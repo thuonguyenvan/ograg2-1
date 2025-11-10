@@ -1,0 +1,30 @@
+{
+  "id": "GO:0046898",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046898",
+  "relationships": {
+    "is_a": [
+      "GO:0097305",
+      "GO:1901654",
+      "GO:1901698"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to actidione"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ef"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a cycloheximide stimulus. Cycloheximide (actidione) is an antibiotic produced by some Streptomyces species which interferes with protein synthesis in eukaryotes.",
+  "namespace": "biological_process",
+  "label": "response to cycloheximide"
+}

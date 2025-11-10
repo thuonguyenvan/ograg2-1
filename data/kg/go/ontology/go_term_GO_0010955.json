@@ -1,0 +1,30 @@
+{
+  "id": "GO:0010955",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010955",
+  "relationships": {
+    "is_a": [
+      "GO:0045861",
+      "GO:0070613",
+      "GO:1903318"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of protein maturation by peptide bond cleavage"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mah",
+      "tb",
+      "bf"
+    ]
+  },
+  "definition": "Any process that decreases the rate, frequency or extent of protein maturation by peptide bond cleavage.",
+  "namespace": "biological_process",
+  "label": "negative regulation of protein processing"
+}

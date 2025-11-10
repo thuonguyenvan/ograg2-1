@@ -1,0 +1,46 @@
+{
+  "id": "GO:0030753",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030753",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "xanthotoxol O-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:8-hydroxyfuranocoumarin 8-O-methyltransferase activity",
+      "S-adenosyl-L-methionine:8-hydroxyfurocoumarin 8-O-methyltransferase activity",
+      "S-adenosyl-L-methionine:xanthotoxol O-methyltransferase activity",
+      "XMT activity",
+      "furanocoumarin 8-O-methyl-transferase activity",
+      "furanocoumarin 8-methyltransferase activity",
+      "xanthotoxol 8-O-methyltransferase activity",
+      "xanthotoxol methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.70",
+      "2.1.1.70",
+      "2.1.1.70",
+      "2.1.1.70",
+      "2.1.1.70",
+      "2.1.1.70",
+      "2.1.1.70",
+      "2.1.1.70",
+      "2.1.1.70",
+      "2.1.1.70"
+    ],
+    "KEGG_REACTION": [
+      "R02982"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + xanthotoxol = S-adenosyl-L-homocysteine + xanthotoxin. Xanthotoxol is also known as 8-hydroxyfuranocoumarin and xanthotoxin as 8-methoxyfuranocoumarin.",
+  "namespace": "molecular_function",
+  "label": "8-hydroxyfuranocoumarin 8-O-methyltransferase activity"
+}

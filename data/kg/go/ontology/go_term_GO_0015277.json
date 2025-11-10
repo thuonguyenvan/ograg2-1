@@ -1,0 +1,29 @@
+{
+  "id": "GO:0015277",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015277",
+  "relationships": {
+    "is_a": [
+      "GO:0004970",
+      "GO:0005267",
+      "GO:0015280"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "10049997",
+      "8804111"
+    ]
+  },
+  "definition": "An ionotropic glutamate receptor activity that exhibits fast gating by glutamate, acts by opening a cation channel permeable to sodium and potassium, and for which kainate is an agonist.",
+  "namespace": "molecular_function",
+  "label": "kainate selective glutamate receptor activity"
+}

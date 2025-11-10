@@ -1,0 +1,27 @@
+{
+  "id": "GO:0042771",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042771",
+  "relationships": {
+    "is_a": [
+      "GO:0008630",
+      "GO:0072332"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "DNA damage response, signal transduction by p53 class mediator resulting in induction of apoptosis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mtg_apoptosis"
+    ]
+  },
+  "definition": "The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a cell. The pathway is induced by the cell cycle regulator phosphoprotein p53, or an equivalent protein, in response to the detection of DNA damage, and ends when the execution phase of apoptosis is triggered.",
+  "namespace": "biological_process",
+  "label": "intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator"
+}

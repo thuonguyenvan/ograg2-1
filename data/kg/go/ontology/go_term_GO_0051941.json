@@ -1,0 +1,31 @@
+{
+  "id": "GO:0051941",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051941",
+  "relationships": {
+    "is_a": [
+      "GO:0051580",
+      "GO:0051955"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of amino acid neurotransmitter reuptake",
+      "regulation of amino acid neurotransmitter uptake"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of amino acid uptake during transmission of nerve impulse"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of the directed movement of amino acid neurotransmitters into a neuron or glial cell.",
+  "namespace": "biological_process",
+  "label": "regulation of amino acid uptake involved in synaptic transmission"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033421",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033421",
+  "relationships": {
+    "is_a": [
+      "GO:0030533"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CCT codon-amino acid adaptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "proline tRNA"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "hjd",
+      "hjd",
+      "mah"
+    ]
+  },
+  "definition": "A triplet codon-amino acid adaptor activity that recognizes a CCU codon.",
+  "namespace": "molecular_function",
+  "label": "CCU codon-amino acid adaptor activity"
+}

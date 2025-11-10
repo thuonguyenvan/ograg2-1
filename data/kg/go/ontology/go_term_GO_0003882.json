@@ -1,0 +1,59 @@
+{
+  "id": "GO:0003882",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003882",
+  "relationships": {
+    "is_a": [
+      "GO:0017169"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "serine exchange enzyme"
+    ],
+    "narrow": [],
+    "related": [
+      "CDP-diacylglycerol-L-serine O-phosphatidyltransferase activity",
+      "CDP-diacylglycerol:L-serine 3-O-phosphatidyltransferase activity",
+      "CDP-diglyceride-L-serine phosphatidyltransferase activity",
+      "CDP-diglyceride:serine phosphatidyltransferase activity",
+      "CDP-diglycerine-serine O-phosphatidyltransferase activity",
+      "CDPdiacylglycerol-serine O-phosphatidyltransferase activity",
+      "CDPdiglyceride-serine O-phosphatidyltransferase activity",
+      "PS synthase activity",
+      "cytidine 5&apos;-diphospho-1,2-diacyl-sn-glycerol (CDPdiglyceride):L-serine O-phosphatidyltransferase activity",
+      "cytidine 5&apos;-diphospho-1,2-diacyl-sn-glycerol:L-serine O-phosphatidyltransferase activity",
+      "cytidine diphosphoglyceride-serine O-phosphatidyltransferase activity",
+      "phosphatidylserine synthase activity",
+      "phosphatidylserine synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.8",
+      "2.7.8.8",
+      "2.7.8.8",
+      "2.7.8.8",
+      "2.7.8.8",
+      "2.7.8.8",
+      "2.7.8.8",
+      "2.7.8.8",
+      "2.7.8.8",
+      "2.7.8.8",
+      "2.7.8.8",
+      "2.7.8.8",
+      "2.7.8.8",
+      "2.7.8.8",
+      "2.7.8.8"
+    ],
+    "MetaCyc": [
+      "PHOSPHASERSYN-RXN"
+    ],
+    "RHEA": [
+      "16913"
+    ]
+  },
+  "definition": "Catalysis of the reaction: CDP-diacylglycerol + L-serine = CMP + O-sn-phosphatidyl-L-serine.",
+  "namespace": "molecular_function",
+  "label": "CDP-diacylglycerol-serine O-phosphatidyltransferase activity"
+}

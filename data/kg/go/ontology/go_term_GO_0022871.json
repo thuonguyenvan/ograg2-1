@@ -1,0 +1,38 @@
+{
+  "id": "GO:0022871",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022871",
+  "relationships": {
+    "is_a": [
+      "GO:0008982",
+      "GO:0055056"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sorbose PTS transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.206"
+    ],
+    "MetaCyc": [
+      "RXN-15094"
+    ],
+    "GOC": [
+      "mtg_transport"
+    ],
+    "PMID": [
+      "10613875"
+    ],
+    "RHEA": [
+      "49296"
+    ]
+  },
+  "definition": "Catalysis of the PEP-dependent, phosphoryl transfer-driven transport of substances across a membrane. The transport happens by catalysis of the reaction: protein N-phosphohistidine + sorbose(out) = protein histidine + sorbose phosphate(in). This differs from primary and secondary active transport in that the solute is modified during transport.",
+  "namespace": "molecular_function",
+  "label": "protein-N(PI)-phosphohistidine-sorbose phosphotransferase system transporter activity"
+}

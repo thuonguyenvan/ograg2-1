@@ -1,0 +1,30 @@
+{
+  "id": "GO:1990406",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990406",
+  "relationships": {
+    "is_a": [
+      "GO:1903439"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CGRP-R complex",
+      "Calcitonin-gene-related peptide receptor complex",
+      "calcitonin gene-related polypeptide receptor complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "20826335"
+    ]
+  },
+  "definition": "A transmembrane, G protein-coupled signaling receptor complex recognized by calcitonin gene-related peptides (CGRP).",
+  "namespace": "cellular_component",
+  "label": "CGRP receptor complex"
+}

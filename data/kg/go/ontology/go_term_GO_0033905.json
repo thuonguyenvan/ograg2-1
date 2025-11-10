@@ -1,0 +1,45 @@
+{
+  "id": "GO:0033905",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033905",
+  "relationships": {
+    "is_a": [
+      "GO:0097599"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "xylanase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "1,3-beta-D-xylan xylanohydrolase activity",
+      "1,3-beta-xylanase activity",
+      "1,3-xylanase activity",
+      "beta-1,3-xylanase activity",
+      "endo-1,3-beta-xylanase activity",
+      "endo-1,3-xylanase activity",
+      "endo-beta-1,3-xylanase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.32",
+      "3.2.1.32",
+      "3.2.1.32",
+      "3.2.1.32",
+      "3.2.1.32",
+      "3.2.1.32",
+      "3.2.1.32",
+      "3.2.1.32",
+      "3.2.1.32",
+      "3.2.1.32"
+    ],
+    "MetaCyc": [
+      "3.2.1.32-RXN"
+    ]
+  },
+  "definition": "Catalysis of the random hydrolysis of (1-&gt;3)-beta-D-glycosidic linkages in (1-&gt;3)-beta-D-xylans.",
+  "namespace": "molecular_function",
+  "label": "xylan endo-1,3-beta-xylosidase activity"
+}

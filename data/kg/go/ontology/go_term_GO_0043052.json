@@ -1,0 +1,32 @@
+{
+  "id": "GO:0043052",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043052",
+  "relationships": {
+    "is_a": [
+      "GO:0009266",
+      "GO:0042330"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "taxis in response to temperature stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Thermotaxis"
+    ],
+    "GOC": [
+      "cab1"
+    ],
+    "WB_REF": [
+      "cgc467"
+    ]
+  },
+  "definition": "The directed movement of a motile cell or organism in response to a temperature gradient. Movement may be towards either a higher or lower temperature.",
+  "namespace": "biological_process",
+  "label": "thermotaxis"
+}

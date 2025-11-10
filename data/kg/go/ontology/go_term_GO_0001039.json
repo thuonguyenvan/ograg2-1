@@ -1,0 +1,28 @@
+{
+  "id": "GO:0001039",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001039",
+  "relationships": {
+    "is_a": [
+      "GO:0000992"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RNA polymerase III hybrid type promoter DNA binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH"
+    ],
+    "PMID": [
+      "12381659"
+    ]
+  },
+  "definition": "Binding to a sequence of DNA that is a part of a hybrid type promoter that controls transcription by RNA polymerase III (Pol III). A hybrid Pol III promoter contains both regulatory elements both upstream and downstream of the transcription initiation site. An example gene with such a promoter is the S. cerevisiae U6 gene.",
+  "namespace": "molecular_function",
+  "label": "RNA polymerase III hybrid type promoter sequence-specific DNA binding"
+}

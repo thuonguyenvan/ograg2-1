@@ -1,0 +1,30 @@
+{
+  "id": "GO:1990566",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990566",
+  "relationships": {
+    "is_a": [
+      "GO:1902937"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GIRK1-GIRK4 G protein-coupled atrial inward rectifier potassium channel complex",
+      "Kir3.1-Kir3.4 G protein-coupled atrial inward rectifier potassium channel complex",
+      "muscarinic potassium channel complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ame"
+    ],
+    "PMID": [
+      "9765280"
+    ]
+  },
+  "definition": "An inward rectifier potassium channel complex expressed in cardiac muscle, specifically the sinoatrial node and atria, where it controls the heart rate, via regulation by G protein-coupled receptor signaling. In mammals it is composed of GIRK1 (or Kir3.1) and GIRK4 (or Kir3.4) subunits.",
+  "namespace": "cellular_component",
+  "label": "I(KACh) inward rectifier potassium channel complex"
+}

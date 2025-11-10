@@ -1,0 +1,26 @@
+{
+  "id": "GO:0103004",
+  "uri": "http://purl.obolibrary.org/obo/GO_0103004",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-9805"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H+ + 9,10-epoxystearate + O2 + NADPH = 9,10-epoxy-18-hydroxystearate + H2O + NADP.",
+  "namespace": "molecular_function",
+  "label": "9,10-epoxystearate hydroxylase activity"
+}

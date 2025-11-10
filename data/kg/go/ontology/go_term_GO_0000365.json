@@ -1,0 +1,34 @@
+{
+  "id": "GO:0000365",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000365",
+  "relationships": {
+    "is_a": [
+      "GO:0000398"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nuclear mRNA trans splicing, via spliceosome"
+    ],
+    "broad": [],
+    "narrow": [
+      "nuclear mRNA trans splicing, via U2-type spliceosome"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "vw"
+    ],
+    "ISBN": [
+      "0879695897"
+    ],
+    "PMID": [
+      "18458335"
+    ]
+  },
+  "definition": "The joining together of exons from two different primary transcripts of messenger RNA (mRNA) via a spliceosomal mechanism, so that mRNA consisting only of the joined exons is produced.",
+  "namespace": "biological_process",
+  "label": "mRNA trans splicing, via spliceosome"
+}

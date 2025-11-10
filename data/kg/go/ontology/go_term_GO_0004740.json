@@ -1,0 +1,44 @@
+{
+  "id": "GO:0004740",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004740",
+  "relationships": {
+    "is_a": [
+      "GO:0004674"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PDH kinase activity",
+      "PDHK",
+      "PDK",
+      "pyruvate dehydrogenase kinase (phosphorylating) activity",
+      "pyruvate dehydrogenase kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.11.2",
+      "2.7.11.2",
+      "2.7.11.2",
+      "2.7.11.2",
+      "2.7.11.2",
+      "2.7.11.2"
+    ],
+    "MetaCyc": [
+      "2.7.11.2-RXN"
+    ],
+    "RHEA": [
+      "23052",
+      "23052"
+    ],
+    "Reactome": [
+      "R-HSA-203946"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + L-seryl-[pyruvate dehydrogenase E1 alpha subunit] = ADP + H+ + O-phospho-L-seryl-[pyruvate dehydrogenase E1 alpha subunit].",
+  "namespace": "molecular_function",
+  "label": "PDK isozymes phosphorylate PDHC subunit E1"
+}

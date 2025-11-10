@@ -1,0 +1,40 @@
+{
+  "id": "GO:0008998",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008998",
+  "relationships": {
+    "is_a": [
+      "GO:0016728"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ribonucleoside-triphosphate reductase activity"
+    ],
+    "broad": [
+      "ribonucleotide reductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "2&apos;-deoxyribonucleoside-triphosphate:oxidized-thioredoxin 2&apos;-oxidoreductase activity",
+      "2&apos;-deoxyribonucleoside-triphosphate:thioredoxin-disulfide 2&apos;-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.17.4.2",
+      "1.17.4.2",
+      "1.17.4.2",
+      "1.17.4.2"
+    ],
+    "MetaCyc": [
+      "1.17.4.2-RXN"
+    ],
+    "RHEA": [
+      "12701",
+      "12701"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [thioredoxin]-disulfide + a 2&apos;-deoxyribonucleoside 5&apos;-triphosphate + H2O = [thioredoxin]-dithiol + a ribonucleoside 5&apos;-triphosphate.",
+  "namespace": "molecular_function",
+  "label": "ribonucleoside-triphosphate reductase (thioredoxin) activity"
+}

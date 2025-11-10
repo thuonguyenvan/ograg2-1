@@ -1,0 +1,42 @@
+{
+  "id": "GO:1903676",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903676",
+  "relationships": {
+    "is_a": [
+      "GO:1903674",
+      "GO:1904690"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of cap-dependent translational initiation",
+      "up-regulation of cap-dependent translational initiation",
+      "upregulation of cap-dependent translational initiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of cap-dependent translational initiation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "11959995"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of cap-dependent translational initiation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cap-dependent translational initiation"
+}

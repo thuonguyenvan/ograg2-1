@@ -1,0 +1,41 @@
+{
+  "id": "GO:1904302",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904302",
+  "relationships": {
+    "is_a": [
+      "GO:0051241",
+      "GO:1904301",
+      "GO:2000242"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of maternal process involved in parturition",
+      "down-regulation of maternal process involved in parturition",
+      "downregulation of maternal process involved in parturition"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of maternal process involved in parturition"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "1849751"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of maternal process involved in parturition.",
+  "namespace": "biological_process",
+  "label": "negative regulation of maternal process involved in parturition"
+}

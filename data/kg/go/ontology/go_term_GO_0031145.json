@@ -1,0 +1,47 @@
+{
+  "id": "GO:0031145",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031145",
+  "relationships": {
+    "is_a": [
+      "GO:0043161"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "APC-dependent proteasomal ubiquitin-dependent protein catabolic process",
+      "APC-dependent proteasomal ubiquitin-dependent protein catabolism",
+      "anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein breakdown",
+      "anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process",
+      "anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolism",
+      "anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein degradation"
+    ],
+    "broad": [],
+    "narrow": [
+      "cyclin breakdown",
+      "cyclin catabolic process",
+      "cyclin catabolism",
+      "cyclin degradation",
+      "degradation of cyclin",
+      "negative regulation of cyclin-dependent protein serine/threonine kinase by cyclin degradation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-174048",
+      "R-HSA-174143",
+      "R-HSA-174154",
+      "R-HSA-174184"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "15380083",
+      "15840442"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a protein or peptide by hydrolysis of its peptide bonds, initiated by the covalent attachment of ubiquitin, with ubiquitin-protein ligation catalyzed by the anaphase-promoting complex, and mediated by the proteasome.",
+  "namespace": "biological_process",
+  "label": "Cdc20:Phospho-APC/C mediated degradation of Cyclin A"
+}

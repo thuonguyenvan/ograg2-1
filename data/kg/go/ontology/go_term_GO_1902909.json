@@ -1,0 +1,42 @@
+{
+  "id": "GO:1902909",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902909",
+  "relationships": {
+    "is_a": [
+      "GO:0048523",
+      "GO:0051051",
+      "GO:1902908"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of melanosome transport",
+      "down-regulation of melanosome transport",
+      "downregulation of melanosome transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of melanosome transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "als",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23334344"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of melanosome transport.",
+  "namespace": "biological_process",
+  "label": "negative regulation of melanosome transport"
+}

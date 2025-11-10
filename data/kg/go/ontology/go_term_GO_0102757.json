@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102757",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102757",
+  "relationships": {
+    "is_a": [
+      "GO:0016791"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-7703"
+    ],
+    "RHEA": [
+      "60664",
+      "60664"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NADPH + H2O = NADH + hydrogenphosphate.",
+  "namespace": "molecular_function",
+  "label": "NADPH phosphatase activity"
+}

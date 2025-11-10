@@ -1,0 +1,43 @@
+{
+  "id": "GO:0030729",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030729",
+  "relationships": {
+    "is_a": [
+      "GO:0016405",
+      "GO:0016878"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acetoacetyl-CoA synthetase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetoacetate:CoA ligase (AMP-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.2.1.16",
+      "6.2.1.16",
+      "6.2.1.16"
+    ],
+    "KEGG_REACTION": [
+      "R01357"
+    ],
+    "MetaCyc": [
+      "ACETOACETATE--COA-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "16117",
+      "16117"
+    ],
+    "Reactome": [
+      "R-HSA-5694494"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetoacetate + ATP + CoA = acetoacetyl-CoA + AMP + diphosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "AACS ligates CoA-SH to ACA, forming ACA-CoA"
+}

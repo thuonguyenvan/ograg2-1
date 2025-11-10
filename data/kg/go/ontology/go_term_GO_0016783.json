@@ -1,0 +1,38 @@
+{
+  "id": "GO:0016783",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016783",
+  "relationships": {
+    "is_a": [
+      "GO:0016782"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulphurtransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.1.-",
+      "2.8.1.-"
+    ],
+    "Reactome": [
+      "R-HSA-1614618",
+      "R-HSA-6782264",
+      "R-HSA-9012721",
+      "R-HSA-9013471",
+      "R-HSA-9013533",
+      "R-HSA-9034756",
+      "R-HSA-947538"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Catalysis of the transfer of sulfur atoms from one compound (donor) to another (acceptor).",
+  "namespace": "molecular_function",
+  "label": "Transfer of sulfur from MOCS3-S-S onto MOCS2A"
+}

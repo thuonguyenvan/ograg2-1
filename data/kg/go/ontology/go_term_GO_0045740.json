@@ -1,0 +1,34 @@
+{
+  "id": "GO:0045740",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045740",
+  "relationships": {
+    "is_a": [
+      "GO:0006275",
+      "GO:0051054"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of DNA replication",
+      "up-regulation of DNA replication",
+      "upregulation of DNA replication"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of DNA replication",
+      "stimulation of DNA replication"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-69656"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of DNA replication.",
+  "namespace": "biological_process",
+  "label": "Cyclin A:Cdk2-associated events at S phase entry"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "GO:1901070",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901070",
+  "relationships": {
+    "is_a": [
+      "GO:0046129"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "guanosine-containing compound anabolism",
+      "guanosine-containing compound biosynthesis",
+      "guanosine-containing compound formation",
+      "guanosine-containing compound synthesis",
+      "guanosines anabolism",
+      "guanosines biosynthesis",
+      "guanosines biosynthetic process",
+      "guanosines formation",
+      "guanosines synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bf",
+      "bf",
+      "bf",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "CHEBI": [
+      "24458"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of guanosine-containing compounds (guanosines).",
+  "namespace": "biological_process",
+  "label": "guanosine-containing compound biosynthetic process"
+}

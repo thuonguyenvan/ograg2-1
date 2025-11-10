@@ -1,0 +1,49 @@
+{
+  "id": "GO:0004144",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004144",
+  "relationships": {
+    "is_a": [
+      "GO:0016411"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,2-diacylglycerol acyltransferase activity",
+      "acyl-CoA:1,2-diacylglycerol O-acyltransferase activity",
+      "diacylglycerol acyltransferase activity",
+      "diglyceride O-acyltransferase activity",
+      "diglyceride acyltransferase activity",
+      "palmitoyl-CoA-sn-1,2-diacylglycerol acyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.20",
+      "2.3.1.20",
+      "2.3.1.20",
+      "2.3.1.20",
+      "2.3.1.20",
+      "2.3.1.20",
+      "2.3.1.20",
+      "2.3.1.20"
+    ],
+    "MetaCyc": [
+      "DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "10868"
+    ],
+    "Reactome": [
+      "R-HSA-1482889",
+      "R-HSA-549192",
+      "R-HSA-75900",
+      "R-HSA-8848580"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acyl-CoA + 1,2-diacylglycerol = CoA + triacylglycerol.",
+  "namespace": "molecular_function",
+  "label": "DGAT2L6,L7P transfer acyl group from acyl-CoA to DAG, forming TAG"
+}

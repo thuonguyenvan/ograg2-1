@@ -1,0 +1,41 @@
+{
+  "id": "GO:0031789",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031789",
+  "relationships": {
+    "is_a": [
+      "GO:0001664"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G-protein coupled acetylcholine receptor binding",
+      "muscarinic acetylcholine receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "M1 muscarinic acetylcholine receptor binding",
+      "M1 muscarinic acetylcholine receptor ligand",
+      "M2 muscarinic acetylcholine receptor binding",
+      "M2 muscarinic acetylcholine receptor ligand",
+      "M3 muscarinic acetylcholine receptor binding",
+      "M3 muscarinic acetylcholine receptor ligand",
+      "M4 muscarinic acetylcholine receptor binding",
+      "M4 muscarinic acetylcholine receptor ligand",
+      "M5 muscarinic acetylcholine receptor binding",
+      "M5 muscarinic acetylcholine receptor ligand",
+      "muscarinic acetylcholine receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "mah",
+      "nln",
+      "bf"
+    ]
+  },
+  "definition": "Binding to a G protein-coupled acetylcholine receptor.",
+  "namespace": "molecular_function",
+  "label": "G protein-coupled acetylcholine receptor binding"
+}

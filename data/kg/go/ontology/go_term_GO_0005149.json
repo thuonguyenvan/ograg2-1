@@ -1,0 +1,27 @@
+{
+  "id": "GO:0005149",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005149",
+  "relationships": {
+    "is_a": [
+      "GO:0005126",
+      "GO:0070851"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "IL-1",
+      "interleukin-1 receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Binding to an interleukin-1 receptor.",
+  "namespace": "molecular_function",
+  "label": "interleukin-1 receptor binding"
+}

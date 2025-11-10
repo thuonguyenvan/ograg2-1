@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102064",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102064",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.94",
+      "4.2.3.94"
+    ],
+    "MetaCyc": [
+      "RXN-10599"
+    ],
+    "RHEA": [
+      "32031"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-trans,6-trans-farnesyl diphosphate = gamma-curcumene + diphosphoric acid.",
+  "namespace": "molecular_function",
+  "label": "gamma-curcumene synthase activity"
+}

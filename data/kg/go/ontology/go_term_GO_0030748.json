@@ -1,0 +1,39 @@
+{
+  "id": "GO:0030748",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030748",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "arylamine N-methyltransferase activity",
+      "nicotine N-methyltransferase activity",
+      "tryptamine N-methyltransferase activity",
+      "tryptamine methyltransferase"
+    ],
+    "related": [
+      "S-adenosyl-L-methionine:amine N-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.49",
+      "2.1.1.49",
+      "2.1.1.49",
+      "2.1.1.49",
+      "2.1.1.49",
+      "2.1.1.49",
+      "2.1.1.49"
+    ],
+    "MetaCyc": [
+      "AMINE-N-METHYLTRANSFERASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + an amine = S-adenosyl-L-homocysteine + a methylated amine. Acts on primary, secondary and tertiary amines.",
+  "namespace": "molecular_function",
+  "label": "amine N-methyltransferase activity"
+}

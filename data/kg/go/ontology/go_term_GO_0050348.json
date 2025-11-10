@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050348",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050348",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alpha,alpha&apos;-trehalose 6-monomycolate:alpha,alpha&apos;-trehalose mycolyltransferase activity",
+      "alpha,alpha&apos;-trehalose-6-mycolate:alpha,alpha&apos;-trehalose-6-mycolate 6&apos;-mycolyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.122",
+      "2.3.1.122",
+      "2.3.1.122",
+      "2.3.1.122"
+    ],
+    "KEGG_REACTION": [
+      "R07248"
+    ],
+    "MetaCyc": [
+      "RXN1G-874"
+    ],
+    "RHEA": [
+      "23472",
+      "23472"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 alpha,alpha&apos;-trehalose 6-mycolate = alpha,alpha&apos;-trehalose 6,6&apos;-bismycolate + alpha,alpha-trehalose.",
+  "namespace": "molecular_function",
+  "label": "trehalose O-mycolyltransferase activity"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0038123",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038123",
+  "relationships": {
+    "is_a": [
+      "GO:0002224"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TLR2:TLR1 signaling pathway",
+      "toll-like receptor TLR1:TLR2 signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-168179"
+    ],
+    "GOC": [
+      "nhn",
+      "signaling",
+      "bf",
+      "mah"
+    ],
+    "PMID": [
+      "17318230"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by a ligand binding of a heterodimeric TLR1:TLR2 complex, followed by transmission of the signal by the activated receptor, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "Toll Like Receptor TLR1:TLR2 Cascade"
+}

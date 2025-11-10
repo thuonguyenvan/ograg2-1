@@ -1,0 +1,31 @@
+{
+  "id": "GO:0010062",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010062",
+  "relationships": {
+    "is_a": [
+      "GO:0009996",
+      "GO:0010061",
+      "GO:1903889"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of trichoblast fate",
+      "down-regulation of trichoblast fate",
+      "downregulation of trichoblast fate"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of trichoblast fate"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "tb"
+    ]
+  },
+  "definition": "Any process that suppresses trichoblast fate specification.",
+  "namespace": "biological_process",
+  "label": "negative regulation of trichoblast fate specification"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0033712",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033712",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,5-anhydro-D-mannitol:NADP+ oxidoreductase activity",
+      "AFR"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.292",
+      "1.1.1.292",
+      "1.1.1.292",
+      "1.1.1.292"
+    ],
+    "KEGG_REACTION": [
+      "R08194"
+    ],
+    "MetaCyc": [
+      "1.1.1.292-RXN"
+    ],
+    "RHEA": [
+      "24208",
+      "24208"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1,5-anhydro-D-mannitol + NADP+ = 1,5-anhydro-D-fructose + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "1,5-anhydro-D-fructose reductase (1,5-anhydro-D-mannitol-forming) activity"
+}

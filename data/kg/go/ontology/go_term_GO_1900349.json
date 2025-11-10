@@ -1,0 +1,37 @@
+{
+  "id": "GO:1900349",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900349",
+  "relationships": {
+    "is_a": [
+      "GO:0033239",
+      "GO:1900348",
+      "GO:1901578",
+      "GO:1901856"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of methane biosynthetic process from methylamine",
+      "down-regulation of methane biosynthetic process from methylamine",
+      "downregulation of methane biosynthetic process from methylamine"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of methane biosynthetic process from methylamine"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mengo_curators",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of methane biosynthetic process from methylamine.",
+  "namespace": "biological_process",
+  "label": "negative regulation of methane biosynthetic process from methylamine"
+}

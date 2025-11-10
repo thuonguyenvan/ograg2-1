@@ -1,0 +1,37 @@
+{
+  "id": "GO:0051300",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051300",
+  "relationships": {
+    "is_a": [
+      "GO:0022402",
+      "GO:0031023"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SPB organization",
+      "spindle pole body organisation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "SPB maturation",
+      "spindle pole body maturation",
+      "spindle pole body organization and biogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "jl",
+      "mah",
+      "vw",
+      "vw",
+      "mah"
+    ]
+  },
+  "definition": "A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of the spindle pole body (SPB). The SPB is the microtubule organizing center in fungi, and is functionally homologous to the animal cell centrosome.",
+  "namespace": "biological_process",
+  "label": "spindle pole body organization"
+}

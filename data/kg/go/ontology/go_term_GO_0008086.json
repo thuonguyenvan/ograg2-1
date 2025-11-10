@@ -1,0 +1,27 @@
+{
+  "id": "GO:0008086",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008086",
+  "relationships": {
+    "is_a": [
+      "GO:0005245",
+      "GO:0010461"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "light-activated voltage gated calcium channel activity",
+      "light-activated voltage-dependent calcium channel activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of a calcium ion by a voltage-gated channel that is activated in response to light. A voltage-gated channel is a channel whose open state is dependent on the voltage across the membrane in which it is embedded.",
+  "namespace": "molecular_function",
+  "label": "light-activated voltage-gated calcium channel activity"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0044079",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044079",
+  "relationships": {
+    "is_a": [
+      "GO:0044068"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "modification by symbiont of host neurotransmitter secretion",
+      "modulation by symbiont of host neurotransmitter secretion",
+      "modulation of host neurotransmitter secretion by symbiont",
+      "regulation by symbiont of host neurotransmitter secretion"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MITRE": [
+      "tk"
+    ]
+  },
+  "definition": "A process in which a symbiont alters or subverts the regulated release of a neurotransmitter from a cell in its host organism.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated perturbation of host neurotransmitter secretion"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0043812",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043812",
+  "relationships": {
+    "is_a": [
+      "GO:0034596",
+      "GO:0052744"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphatidylinositol 4-phosphate phosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-10961"
+    ],
+    "RHEA": [
+      "55652",
+      "55652"
+    ],
+    "PMID": [
+      "10224048"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol 4-phosphate) + H2O = a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol) + phosphate.",
+  "namespace": "molecular_function",
+  "label": "phosphatidylinositol-4-phosphate phosphatase activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102318",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102318",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.284",
+      "2.4.1.284"
+    ],
+    "MetaCyc": [
+      "RXN-13121"
+    ],
+    "RHEA": [
+      "34063"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-deoxystreptamine + UDP-alpha-D-glucose = 2&apos;-deamino-2&apos;-hydroxyparomamine + UDP(3-) + H+.",
+  "namespace": "molecular_function",
+  "label": "2-deoxystreptamine glucosyltransferase activity"
+}

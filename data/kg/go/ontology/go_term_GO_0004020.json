@@ -1,0 +1,57 @@
+{
+  "id": "GO:0004020",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004020",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "adenosine-5&apos;-phosphosulfate 3&apos;-phosphotransferase activity",
+      "adenosine-5&apos;-phosphosulphate 3&apos;-phosphotransferase activity",
+      "adenylyl-sulfate kinase activity",
+      "adenylyl-sulphate kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5&apos;-phosphoadenosine sulfate kinase activity",
+      "APS kinase activity",
+      "ATP:adenylyl-sulfate 3&apos;-phosphotransferase activity",
+      "adenosine 5&apos;-phosphosulfate kinase activity",
+      "adenosine phosphosulfate kinase activity",
+      "adenosine phosphosulfokinase activity",
+      "adenosine-5&apos;-phosphosulfate-3&apos;-phosphokinase activity",
+      "adenylylsulfate kinase (phosphorylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.25",
+      "2.7.1.25",
+      "2.7.1.25",
+      "2.7.1.25",
+      "2.7.1.25",
+      "2.7.1.25",
+      "2.7.1.25",
+      "2.7.1.25",
+      "2.7.1.25",
+      "2.7.1.25"
+    ],
+    "MetaCyc": [
+      "ADENYLYLSULFKIN-RXN"
+    ],
+    "RHEA": [
+      "24152"
+    ],
+    "Reactome": [
+      "R-HSA-174389",
+      "R-HSA-3560785"
+    ]
+  },
+  "definition": "Catalysis of the reaction: adenosine 5&apos;-phosphosulfate + ATP = 3&apos;-phosphoadenylyl sulfate + ADP + H+.",
+  "namespace": "molecular_function",
+  "label": "Defective PAPSS2 does not transfer PO4(2-) group from ATP to APS to form PAPS"
+}

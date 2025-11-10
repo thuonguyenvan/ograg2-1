@@ -1,0 +1,40 @@
+{
+  "id": "GO:1904064",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904064",
+  "relationships": {
+    "is_a": [
+      "GO:0034767",
+      "GO:1904062"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of cation transmembrane transport",
+      "up-regulation of cation transmembrane transport",
+      "upregulation of cation transmembrane transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of cation transmembrane transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "15304482"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of cation transmembrane transport.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cation transmembrane transport"
+}

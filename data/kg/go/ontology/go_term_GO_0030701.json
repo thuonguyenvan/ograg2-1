@@ -1,0 +1,42 @@
+{
+  "id": "GO:0030701",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030701",
+  "relationships": {
+    "is_a": [
+      "GO:0016763"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NAD-dinitrogen-reductase ADP-D-ribosyltransferase activity"
+    ],
+    "broad": [
+      "ADP-ribosyltransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "NAD+:[dinitrogen reductase] (ADP-D-ribosyl)transferase activity",
+      "NAD--azoferredoxin (ADP-ribose)transferase activity",
+      "NAD-azoferredoxin (ADPribose)transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.37",
+      "2.4.2.37",
+      "2.4.2.37",
+      "2.4.2.37",
+      "2.4.2.37",
+      "2.4.2.37"
+    ],
+    "MetaCyc": [
+      "2.4.2.37-RXN"
+    ],
+    "RHEA": [
+      "18077"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD+ + [dinitrogen reductase] = nicotinamide + ADP-D-ribosyl-[dinitrogen reductase].",
+  "namespace": "molecular_function",
+  "label": "NAD+-dinitrogen-reductase ADP-D-ribosyltransferase activity"
+}

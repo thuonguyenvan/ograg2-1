@@ -1,0 +1,46 @@
+{
+  "id": "GO:0070375",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070375",
+  "relationships": {
+    "is_a": [
+      "GO:0000165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "BMK cascade",
+      "BMK signaling pathway",
+      "BMK signalling pathway",
+      "BMK1 cascade",
+      "ERK5 signaling pathway",
+      "MAPK7 cascade",
+      "big MAP kinase signaling cascade",
+      "extracellular signal-regulated kinase 5 cascade"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "16376520",
+      "16880823",
+      "20811974",
+      "23125017",
+      "28903453",
+      "20811974",
+      "16376520",
+      "20811974",
+      "20811974"
+    ],
+    "GOC": [
+      "mah",
+      "mah",
+      "add",
+      "add"
+    ]
+  },
+  "definition": "A MAPK cascade containing at least the ERK5 MAP kinase (MAPK7; also called BMK1). It starts with the activation of a MAP3K, and the consecutive activation of a MPK2K and of ERK5. The cascade can also contain an additional tier: the upstream MAP4K. The kinases in each tier phosphorylate and activate the kinases in the downstream tier. The ERK5 cascade is activated by stress, mitogens, and by G protein-coupled receptors, and results in cellular responses such as cell growth, cell differentiation and development.",
+  "namespace": "biological_process",
+  "label": "ERK5 cascade"
+}

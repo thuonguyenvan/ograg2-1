@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047890",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047890",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "flavonone 4-reductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(2S)-flavan-4-ol:NADP+ 4-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.234",
+      "1.1.1.234",
+      "1.1.1.234"
+    ],
+    "MetaCyc": [
+      "FLAVANONE-4-REDUCTASE-RXN",
+      "FLAVANONE-4-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "11228"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2S)-flavan-4-ol + NADP+ = (2S)-flavanone + NADPH.",
+  "namespace": "molecular_function",
+  "label": "flavanone 4-reductase activity"
+}

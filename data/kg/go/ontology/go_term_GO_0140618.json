@@ -1,0 +1,39 @@
+{
+  "id": "GO:0140618",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140618",
+  "relationships": {
+    "is_a": [
+      "GO:0000293",
+      "GO:0016723"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NADH:Fe(3+) oxidoreductase activity",
+      "NADH:Fe3+ oxidoreductase activity"
+    ],
+    "broad": [
+      "ferric chelate reductase activity",
+      "iron chelate reductase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.16.1.7",
+      "1.16.1.7",
+      "1.16.1.7"
+    ],
+    "MetaCyc": [
+      "FERRIC-CHELATE-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "15061",
+      "15061"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 a Fe(II)-siderophore + NAD+ + H+ = 2 a Fe(III)-siderophore + NADH.",
+  "namespace": "molecular_function",
+  "label": "ferric-chelate reductase (NADH) activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0009366",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009366",
+  "relationships": {
+    "is_a": [
+      "GO:0140535",
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "enterochelin synthetase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "ENTMULTI-CPLX"
+    ],
+    "PMID": [
+      "9485415"
+    ]
+  },
+  "definition": "A multienzyme complex usually composed of four proteins, EntB, EntD, EntE and EntF. Plays a role in the enterobactin biosynthesis pathway.",
+  "namespace": "cellular_component",
+  "label": "enterobactin synthetase complex"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "GO:1900753",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900753",
+  "relationships": {
+    "is_a": [
+      "GO:0015695",
+      "GO:0015850",
+      "GO:0071705",
+      "GO:1901656"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(1S,3S)-3,5,12-trihydroxy-3-(hydroxyacetyl)-10-methoxy-6,11-dioxo-1,2,3,4,6,11-hexahydrotetracen-1-yl 3-amino-2,3,6-trideoxy-alpha-L-lyxo-hexopyranoside transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(1S,3S)-3-glycoloyl-3,5,12-trihydroxy-10-methoxy-6,11-dioxo-1,2,3,4,6,11-hexahydrotetracen-1-yl 3-amino-2,3,6-trideoxy-alpha-L-lyxo-hexopyranoside transport",
+      "(8S-cis)-10-((3-amino-2,3,6-trideoxy-alpha-L-lyxo-hexopyranosyl)oxy)-7,8,9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroxyacetyl)-1-methoxy-5,12-naphthacenedione transport",
+      "14-hydroxydaunomycin transport",
+      "14-hydroxydaunorubicine transport",
+      "Adriamycin transport",
+      "doxorubicine transport",
+      "doxorubicinum transport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "12057006",
+      "15090538",
+      "19063901",
+      "19651502",
+      "9651400"
+    ]
+  },
+  "definition": "The directed movement of a doxorubicin into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "doxorubicin transport"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0010276",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010276",
+  "relationships": {
+    "is_a": [
+      "GO:0016301"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.182"
+    ],
+    "MetaCyc": [
+      "RXN-7683"
+    ],
+    "RHEA": [
+      "38055",
+      "38055"
+    ]
+  },
+  "definition": "Catalysis of the reaction: phytol + CTP = phytyl monophosphate + CDP + H+.",
+  "namespace": "molecular_function",
+  "label": "phytol kinase activity"
+}

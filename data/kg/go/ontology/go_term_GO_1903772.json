@@ -1,0 +1,36 @@
+{
+  "id": "GO:1903772",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903772",
+  "relationships": {
+    "is_a": [
+      "GO:0050792"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "regulation of host-assisted viral budding"
+    ],
+    "narrow": [],
+    "related": [
+      "regulation of viral budding through the ESCRT machinery"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "als",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24878737"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of viral budding via host ESCRT complex.",
+  "namespace": "biological_process",
+  "label": "regulation of viral budding via host ESCRT complex"
+}

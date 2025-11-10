@@ -1,0 +1,36 @@
+{
+  "id": "GO:0018744",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018744",
+  "relationships": {
+    "is_a": [
+      "GO:0004301"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "limonene oxide hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.3.2.8",
+      "3.3.2.8",
+      "3.3.2.8"
+    ],
+    "MetaCyc": [
+      "3.3.2.8-RXN"
+    ],
+    "RHEA": [
+      "10700"
+    ],
+    "UM-BBD_reactionID": [
+      "r0734"
+    ]
+  },
+  "definition": "Catalysis of the reaction: limonene-1,2-epoxide + H2O = limonene-1,2-diol. Other substrates include alicyclic and 1-methyl-substituted epoxides, such as 1-methylcyclohexene oxide, indene oxide and cyclohexene oxide.",
+  "namespace": "molecular_function",
+  "label": "limonene-1,2-epoxide hydrolase activity"
+}

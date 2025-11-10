@@ -1,0 +1,32 @@
+{
+  "id": "GO:0000432",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000432",
+  "relationships": {
+    "is_a": [
+      "GO:0000430",
+      "GO:0000436",
+      "GO:0046016"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of transcription from RNA polymerase II promoter by glucose",
+      "up-regulation of transcription from RNA polymerase II promoter by glucose",
+      "upregulation of transcription from RNA polymerase II promoter by glucose"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of transcription from RNA polymerase II promoter by glucose",
+      "stimulation of transcription from RNA polymerase II promoter by glucose"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ]
+  },
+  "definition": "Any process involving glucose that activates or increases the rate of transcription from an RNA polymerase II promoter.",
+  "namespace": "biological_process",
+  "label": "positive regulation of transcription from RNA polymerase II promoter by glucose"
+}

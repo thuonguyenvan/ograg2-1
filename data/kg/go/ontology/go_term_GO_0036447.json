@@ -1,0 +1,29 @@
+{
+  "id": "GO:0036447",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036447",
+  "relationships": {
+    "is_a": [
+      "GO:0062197"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cellular response to presence of non-metabolizable sugars"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "am",
+      "am"
+    ],
+    "PMID": [
+      "17383224"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of the accumulation of sugar-phosphate.",
+  "namespace": "biological_process",
+  "label": "cellular response to sugar-phosphate stress"
+}

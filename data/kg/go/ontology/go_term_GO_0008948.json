@@ -1,0 +1,47 @@
+{
+  "id": "GO:0008948",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008948",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "oxalacetic acid decarboxylase activity",
+      "oxaloacetate carboxy-lyase (pyruvate-forming)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "oxalate beta-decarboxylase activity",
+      "oxaloacetate beta-decarboxylase activity",
+      "oxaloacetate carboxy-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.112",
+      "4.1.1.112",
+      "4.1.1.112",
+      "4.1.1.112"
+    ],
+    "KEGG_REACTION": [
+      "R00217"
+    ],
+    "MetaCyc": [
+      "OXALODECARB-RXN"
+    ],
+    "RHEA": [
+      "15641",
+      "15641"
+    ],
+    "Reactome": [
+      "R-HSA-9012016",
+      "R-HSA-9861660"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H+ + oxaloacetate = CO2 + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "ME1 tetramer decarboxylates OA to PYR"
+}

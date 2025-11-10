@@ -1,0 +1,39 @@
+{
+  "id": "GO:0071550",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071550",
+  "relationships": {
+    "is_a": [
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DD-mediated complex assembly",
+      "DISC assembly",
+      "DISC formation",
+      "death domain-mediated complex assembly",
+      "death domain-mediated complex assembly involved in extrinsic apoptotic pathway",
+      "death-inducing signaling complex formation",
+      "death-inducing signalling complex assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5357786"
+    ],
+    "GOC": [
+      "amm",
+      "mtg_apoptosis",
+      "mah"
+    ],
+    "InterPro": [
+      "IPR000488"
+    ]
+  },
+  "definition": "A process of protein complex assembly in which the arrangement and bonding together of the set of components that form the protein complex is mediated by a death domain (DD) interaction, as part of the extrinsic apoptotic signaling pathway.",
+  "namespace": "biological_process",
+  "label": "TNFR1-induced proapoptotic signaling"
+}

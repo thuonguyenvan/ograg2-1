@@ -1,0 +1,37 @@
+{
+  "id": "GO:0015030",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015030",
+  "relationships": {
+    "is_a": [
+      "GO:0140168"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "coiled body"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Gemini of coiled bodies",
+      "Gems"
+    ]
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "nlx_subcell_090901",
+      "nlx_subcell_090901"
+    ],
+    "Wikipedia": [
+      "Cajal_body"
+    ],
+    "PMID": [
+      "10944589",
+      "11031238",
+      "7559785"
+    ]
+  },
+  "definition": "A class of nuclear body, first seen after silver staining by Ramon y Cajal in 1903, enriched in small nuclear ribonucleoproteins, and certain general RNA polymerase II transcription factors; ultrastructurally, they appear as a tangle of coiled, electron-dense threads roughly 0.5 micrometers in diameter; involved in aspects of snRNP biogenesis; the protein coilin serves as a marker for Cajal bodies. Some argue that Cajal bodies are the sites for preassembly of transcriptosomes, unitary particles involved in transcription and processing of RNA.",
+  "namespace": "cellular_component",
+  "label": "Cajal body"
+}

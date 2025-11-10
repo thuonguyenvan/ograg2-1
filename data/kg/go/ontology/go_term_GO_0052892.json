@@ -1,0 +1,30 @@
+{
+  "id": "GO:0052892",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052892",
+  "relationships": {
+    "is_a": [
+      "GO:0047606"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R09359"
+    ],
+    "MetaCyc": [
+      "RXN-11732"
+    ],
+    "RHEA": [
+      "54660",
+      "54660"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an aromatic (S)-hydroxynitrile = an aromatic aldehyde + cyanide.",
+  "namespace": "molecular_function",
+  "label": "aromatic (S)-hydroxynitrile lyase activity"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "GO:0015426",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015426",
+  "relationships": {
+    "is_a": [
+      "GO:0015424"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent polar amino acid-transporter activity",
+      "polar amino acid uptake transporter activity",
+      "polar amino acid-importing ATPase activity",
+      "polar-amino acid-importing ATPase activity",
+      "polar-amino acid-transporting ATPase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "histidine permease activity",
+      "polar-amino acid ABC transporter"
+    ],
+    "related": [
+      "cystine/diaminopimelate porter activity",
+      "glutamate/aspartate porter activity",
+      "histidine/arginine/lysine/ornithine porter activity",
+      "polar-amino-acid-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.4.2.1",
+      "7.4.2.1",
+      "7.4.2.1",
+      "7.4.2.1"
+    ],
+    "MetaCyc": [
+      "3.6.3.21-RXN"
+    ],
+    "RHEA": [
+      "14673"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + polar amino acid(out) = ADP + phosphate + polar amino acid(in).",
+  "namespace": "molecular_function",
+  "label": "ATPase-coupled polar amino acid-transporter activity"
+}

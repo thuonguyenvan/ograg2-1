@@ -1,0 +1,29 @@
+{
+  "id": "GO:0141074",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141074",
+  "relationships": {
+    "is_a": [
+      "GO:0039537"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "disruption of host cGAS-STING signal transduction",
+      "disruption of host cGAS-STING signaling",
+      "suppression of host cGAS-STING"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "26405230",
+      "27234299",
+      "29018427"
+    ]
+  },
+  "definition": "A process in which a virus interferes with, inhibits or disrupt a cGAS/STING signal transduction in the host organism. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host cGAS-STING signal transduction"
+}

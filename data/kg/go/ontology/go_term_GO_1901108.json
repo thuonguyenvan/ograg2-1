@@ -1,0 +1,35 @@
+{
+  "id": "GO:1901108",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901108",
+  "relationships": {
+    "is_a": [
+      "GO:0030640",
+      "GO:0042182"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "granaticin breakdown",
+      "granaticin catabolism",
+      "granaticin degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "UniPathway": [
+      "UPA00175"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of granaticin.",
+  "namespace": "biological_process",
+  "label": "granaticin catabolic process"
+}

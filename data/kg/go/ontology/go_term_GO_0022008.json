@@ -1,0 +1,39 @@
+{
+  "id": "GO:0022008",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022008",
+  "relationships": {
+    "is_a": [
+      "GO:0030154"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nervous system cell generation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "neural cell differentiation"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Neurogenesis"
+    ],
+    "GOC": [
+      "cls",
+      "curators",
+      "dgh",
+      "dph",
+      "jid",
+      "BHF",
+      "dph"
+    ],
+    "GO_REF": [
+      "0000021"
+    ]
+  },
+  "definition": "Generation of cells within the nervous system.",
+  "namespace": "biological_process",
+  "label": "neurogenesis"
+}

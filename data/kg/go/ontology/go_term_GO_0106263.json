@@ -1,0 +1,30 @@
+{
+  "id": "GO:0106263",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106263",
+  "relationships": {
+    "is_a": [
+      "GO:0008374"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.n6"
+    ],
+    "RHEA": [
+      "33191",
+      "33191"
+    ],
+    "PMID": [
+      "18287005"
+    ]
+  },
+  "definition": "Catalysis of the reaction:a 1-acyl-sn-glycero-3-phospho-L-serine + an acyl-CoA = a 1,2-diacyl-sn-glycero-3-phospho-L-serine + CoA.",
+  "namespace": "molecular_function",
+  "label": "1-acylglycerophosphoserine O-acyltransferase activity"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0160197",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160197",
+  "relationships": {
+    "is_a": [
+      "GO:0016628"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dolichal reductase [NAD(P)+] activity"
+    ],
+    "broad": [
+      "dolichal reductase [NAD(P)H] activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-24568"
+    ],
+    "RHEA": [
+      "80731",
+      "80731"
+    ],
+    "PMID": [
+      "38821050"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a di-trans,poly-cis-dolichol + NADP+ = a di-trans,poly-cis-dolichal + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "dolichal reductase (NADPH) activity"
+}

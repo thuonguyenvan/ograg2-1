@@ -1,0 +1,29 @@
+{
+  "id": "GO:0015520",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015520",
+  "relationships": {
+    "is_a": [
+      "GO:0008493",
+      "GO:0015078",
+      "GO:0015297"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tetracyclin:hydrogen antiporter activity",
+      "tetracyclin:proton antiporter activity",
+      "tetracycline:hydrogen antiporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.1.2.4"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: H+(out) + tetracycline(in) = H+(in) + tetracycline(out).",
+  "namespace": "molecular_function",
+  "label": "tetracycline:proton antiporter activity"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "GO:0004686",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004686",
+  "relationships": {
+    "is_a": [
+      "GO:0004683"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "eEF-2 kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:elongation factor 2 phosphotransferase activity",
+      "Ca/CaM-kinase III activity",
+      "CaM kinase III activity",
+      "EF2K",
+      "STK19",
+      "calmodulin-dependent protein kinase III activity",
+      "eEF2 kinase activity",
+      "eEF2K",
+      "elongation factor 2 kinase activity",
+      "eukaryotic elongation factor 2 kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.11.20",
+      "2.7.11.20",
+      "2.7.11.20",
+      "2.7.11.20",
+      "2.7.11.20",
+      "2.7.11.20",
+      "2.7.11.20",
+      "2.7.11.20",
+      "2.7.11.20",
+      "2.7.11.20",
+      "2.7.11.20",
+      "2.7.11.20"
+    ],
+    "MetaCyc": [
+      "2.7.11.20-RXN",
+      "2.7.11.20-RXN"
+    ],
+    "RHEA": [
+      "21436"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + [elongation factor 2] = ADP + [elongation factor 2] phosphate.",
+  "namespace": "molecular_function",
+  "label": "elongation factor-2 kinase activity"
+}

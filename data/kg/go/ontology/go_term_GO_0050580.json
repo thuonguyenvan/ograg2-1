@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050580",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050580",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,5-diketo-D-gluconate reductase activity",
+      "2-dehydro-D-gluconate:NADP+ 2-oxidoreductase activity",
+      "YqhE reductase"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.274",
+      "1.1.1.274",
+      "1.1.1.274",
+      "1.1.1.274",
+      "1.1.1.274"
+    ],
+    "MetaCyc": [
+      "1.1.1.274-RXN",
+      "1.1.1.274-RXN"
+    ],
+    "RHEA": [
+      "23828"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-dehydro-D-gluconate + NADP+ = 2,5-didehydro-D-gluconate + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "2,5-didehydrogluconate reductase activity"
+}

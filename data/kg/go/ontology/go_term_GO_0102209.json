@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102209",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102209",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.88",
+      "3.1.1.88"
+    ],
+    "MetaCyc": [
+      "RXN-12167"
+    ],
+    "RHEA": [
+      "30283"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (-)-trans-permethrin + H2O = H+ + (3-phenoxyphenyl)methanol + (1S,3R)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate.",
+  "namespace": "molecular_function",
+  "label": "trans-permethrin hydrolase activity"
+}

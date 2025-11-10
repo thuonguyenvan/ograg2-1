@@ -1,0 +1,30 @@
+{
+  "id": "GO:0070819",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070819",
+  "relationships": {
+    "is_a": [
+      "GO:0016635",
+      "GO:0070818"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protoporphyrinogen-IX:menaquinone oxidoreductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "19583219"
+    ]
+  },
+  "definition": "Catalysis of the reaction: protoporphyrinogen IX + menaquinone = protoporphyrin IX + reduced menaquinone.",
+  "namespace": "molecular_function",
+  "label": "menaquinone-dependent protoporphyrinogen oxidase activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0044399",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044399",
+  "relationships": {
+    "is_a": [
+      "GO:0042710",
+      "GO:0044403"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "multi-species biofilm formation in or on host organism",
+      "multi-species biofilm formation on inanimate substrate",
+      "multi-species submerged biofilm formation"
+    ],
+    "related": [
+      "multi-species surface biofilm formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cc",
+      "di",
+      "tb"
+    ]
+  },
+  "definition": "A process in which planktonically growing microorganisms of different species grow at a liquid-air interface or on a solid substrate under the flow of a liquid and produce extracellular polymers that facilitate matrix formation, resulting in a change in the organisms&apos; growth rate and gene transcription.",
+  "namespace": "biological_process",
+  "label": "multi-species biofilm formation"
+}

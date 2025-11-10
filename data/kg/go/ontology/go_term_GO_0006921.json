@@ -1,0 +1,31 @@
+{
+  "id": "GO:0006921",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006921",
+  "relationships": {
+    "is_a": [
+      "GO:0022411"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "cellular component disassembly involved in apoptotic process",
+      "disassembly of cell structures"
+    ],
+    "narrow": [
+      "cellular component disassembly involved in apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mah",
+      "mtg_apoptosis",
+      "tb"
+    ]
+  },
+  "definition": "The breakdown of structures such as organelles, proteins, or other macromolecular structures during apoptosis.",
+  "namespace": "biological_process",
+  "label": "cellular component disassembly involved in execution phase of apoptosis"
+}

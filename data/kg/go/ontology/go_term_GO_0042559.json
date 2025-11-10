@@ -1,0 +1,37 @@
+{
+  "id": "GO:0042559",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042559",
+  "relationships": {
+    "is_a": [
+      "GO:0009058",
+      "GO:0042558"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pteridine and derivative biosynthesis",
+      "pteridine and derivative biosynthetic process",
+      "pteridine-containing compound anabolism",
+      "pteridine-containing compound biosynthesis",
+      "pteridine-containing compound formation",
+      "pteridine-containing compound synthesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "pterin biosynthesis",
+      "pterin biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of any compound containing pteridine (pyrazino(2,3-dipyrimidine)), e.g. pteroic acid, xanthopterin and folic acid.",
+  "namespace": "biological_process",
+  "label": "pteridine-containing compound biosynthetic process"
+}

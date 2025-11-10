@@ -1,0 +1,40 @@
+{
+  "id": "GO:0047173",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047173",
+  "relationships": {
+    "is_a": [
+      "GO:0008374"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "lecithin--retinol acyltransferase activity",
+      "phosphatidylcholine:retinol-(cellular-retinol-binding-protein) O-acyltransferase activity",
+      "phosphatidylcholine:retinol-[cellular-retinol-binding-protein] O-acyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.135",
+      "2.3.1.135",
+      "2.3.1.135",
+      "2.3.1.135"
+    ],
+    "MetaCyc": [
+      "2.3.1.135-RXN"
+    ],
+    "RHEA": [
+      "17469",
+      "17469"
+    ],
+    "Reactome": [
+      "R-HSA-975608"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1,2-diacyl-sn-glycero-3-phosphocholine + all-trans-retinol--[retinol-binding protein] = a 2-acyl-sn-glycero-3-phosphocholine + an all-trans-retinyl ester + apo--[retinol-binding protein]. Recognizes the substrate both in free form and when bound to cellular-retinol-binding-protein, but has higher affinity for the bound form.",
+  "namespace": "molecular_function",
+  "label": "LRAT esterifies RBP2:atROL and FACYLs to atREs"
+}

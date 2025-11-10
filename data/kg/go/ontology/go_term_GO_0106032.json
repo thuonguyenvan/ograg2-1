@@ -1,0 +1,28 @@
+{
+  "id": "GO:0106032",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106032",
+  "relationships": {
+    "is_a": [
+      "GO:0009982",
+      "GO:0140098"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "51124",
+      "51124"
+    ],
+    "PMID": [
+      "28432181"
+    ]
+  },
+  "definition": "Catalysis of the reaction: uridine in snRNA = pseudouridine in snRNA. Conversion of uridine in an snRNA molecule to pseudouridine by rotation of the C1&apos;-N-1 glycosidic bond of uridine in RNA to a C1&apos;-C5.",
+  "namespace": "molecular_function",
+  "label": "snRNA pseudouridine synthase activity"
+}

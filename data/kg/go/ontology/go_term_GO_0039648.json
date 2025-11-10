@@ -1,0 +1,31 @@
+{
+  "id": "GO:0039648",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039648",
+  "relationships": {
+    "is_a": [
+      "GO:0044068"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "modulation by symbiont of host protein ubiquitination"
+    ],
+    "broad": [],
+    "narrow": [
+      "modulation of host ubiquitin pathway by virus",
+      "symbiont-mediated perturbation of host protein SUMOlyation",
+      "symbiont-mediated perturbation of host protein ubiquitination"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "25166298",
+      "26483404",
+      "26712804"
+    ]
+  },
+  "definition": "A process by which a symbiont alters ubiquitin-like protein modification of target proteins of either host or symbiont proteins. This includes ubiquitination, SUMOylation, NEDDylation, and ISG15ylation. The ubiquitination status of a protein  affects whether it is targeted to the proteasome for degradation. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated perturbation of host ubiquitin-like protein modification"
+}

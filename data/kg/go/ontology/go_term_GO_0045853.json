@@ -1,0 +1,32 @@
+{
+  "id": "GO:0045853",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045853",
+  "relationships": {
+    "is_a": [
+      "GO:0008359",
+      "GO:1904581"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of bicoid mRNA localization",
+      "down-regulation of bicoid mRNA localization",
+      "downregulation of bicoid mRNA localization",
+      "negative regulation of bicoid mRNA localisation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of bicoid mRNA localization"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the process in which bicoid mRNA is transported to, or maintained in, a specific location.",
+  "namespace": "biological_process",
+  "label": "negative regulation of bicoid mRNA localization"
+}

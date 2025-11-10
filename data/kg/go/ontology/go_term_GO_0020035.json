@@ -1,0 +1,34 @@
+{
+  "id": "GO:0020035",
+  "uri": "http://purl.obolibrary.org/obo/GO_0020035",
+  "relationships": {
+    "is_a": [
+      "GO:0044650"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytoadherence to microvasculature, mediated by symbiont protein"
+    ],
+    "broad": [
+      "symbiont-protein-mediated cytoadherence to microvasculature"
+    ],
+    "narrow": [
+      "cytoadherence to microvasculature, mediated by parasite protein",
+      "heterophilic cell adhesion involved in cytoadherence to microvasculature, mediated by parasite protein",
+      "parasite-protein-mediated cytoadherence to microvasculature"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mb"
+    ],
+    "PMID": [
+      "10362584"
+    ]
+  },
+  "definition": "The adherence of symbiont-infected erythrocytes to microvascular endothelium via symbiont proteins embedded in the membrane of the erythrocyte.",
+  "namespace": "biological_process",
+  "label": "adhesion of symbiont to microvasculature"
+}

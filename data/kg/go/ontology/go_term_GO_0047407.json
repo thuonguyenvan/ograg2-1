@@ -1,0 +1,46 @@
+{
+  "id": "GO:0047407",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047407",
+  "relationships": {
+    "is_a": [
+      "GO:0016799"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ADP-D-ribosyl-dinitrogen reductase ADP-ribosylhydrolase activity",
+      "ADP-ribosyl glycohydrolase activity",
+      "ADP-ribosyl-dinitrogen reductase hydrolase activity",
+      "azoferredoxin glycosidase activity",
+      "azoferredoxin-activating enzymes",
+      "dinitrogenase reductase activating glycohydrolase activity",
+      "dinitrogenase reductase-activating glycohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.2.24",
+      "3.2.2.24",
+      "3.2.2.24",
+      "3.2.2.24",
+      "3.2.2.24",
+      "3.2.2.24",
+      "3.2.2.24",
+      "3.2.2.24",
+      "3.2.2.24"
+    ],
+    "MetaCyc": [
+      "3.2.2.24-RXN",
+      "3.2.2.24-RXN"
+    ],
+    "RHEA": [
+      "14493"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ADP-ribosyl-[dinitrogen reductase] = adenosine diphosphate ribose + [dinitrogen reductase].",
+  "namespace": "molecular_function",
+  "label": "ADP-ribosyl-[dinitrogen reductase] hydrolase activity"
+}

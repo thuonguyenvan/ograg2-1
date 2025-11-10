@@ -1,0 +1,66 @@
+{
+  "id": "GO:0004563",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004563",
+  "relationships": {
+    "is_a": [
+      "GO:0015929"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acetyl-beta-D-hexosaminidase activity",
+      "N-acetyl-beta-glucosaminidase activity",
+      "N-acetyl-beta-hexosaminidase activity",
+      "N-acetylhexosaminidase activity",
+      "beta-D-N-acetylhexosaminidase activity",
+      "beta-D-hexosaminidase activity",
+      "beta-N-acetyl-D-hexosaminidase activity",
+      "beta-N-acetyl-D-hexosaminide N-acetylhexosaminohydrolase activity",
+      "beta-acetylaminodeoxyhexosidase activity",
+      "beta-acetylhexosaminidinase activity",
+      "beta-hexosaminidase activity",
+      "hexosaminidase A"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.52",
+      "3.2.1.52",
+      "3.2.1.52",
+      "3.2.1.52",
+      "3.2.1.52",
+      "3.2.1.52",
+      "3.2.1.52",
+      "3.2.1.52",
+      "3.2.1.52",
+      "3.2.1.52",
+      "3.2.1.52",
+      "3.2.1.52",
+      "3.2.1.52",
+      "3.2.1.52"
+    ],
+    "MetaCyc": [
+      "3.2.1.52-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-1605595",
+      "R-HSA-1605632",
+      "R-HSA-1638053",
+      "R-HSA-2105001",
+      "R-HSA-2162225",
+      "R-HSA-9035976",
+      "R-HSA-9035982",
+      "R-HSA-9638075",
+      "R-HSA-9638076",
+      "R-HSA-9638078",
+      "R-HSA-9840833",
+      "R-HSA-9840884"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of terminal non-reducing N-acetyl-D-hexosamine residues in N-acetyl-beta-D-hexosaminides.",
+  "namespace": "molecular_function",
+  "label": "bHEXA,bHEXS hydrolyze GM2A:SM2"
+}

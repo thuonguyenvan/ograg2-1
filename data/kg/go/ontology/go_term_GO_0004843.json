@@ -1,0 +1,121 @@
+{
+  "id": "GO:0004843",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004843",
+  "relationships": {
+    "is_a": [
+      "GO:0008234",
+      "GO:0101005"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "thiol-dependent deubiquitinase",
+      "thiol-dependent ubiquitin-specific protease activity",
+      "thiol-dependent ubiquitinyl hydrolase activity"
+    ],
+    "broad": [
+      "deubiquitinase",
+      "deubiquitinase activity",
+      "deubiquitinating enzyme",
+      "deubiquitylase",
+      "ubiquitin hydrolase activity",
+      "ubiquitin-specific protease activity",
+      "ubiquitinyl hydrolase activity"
+    ],
+    "narrow": [
+      "UBP",
+      "UCH2",
+      "ubiquitinyl hydrolase 1 activity"
+    ],
+    "related": [
+      "ubiquitin C-terminal hydrolase"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.4.19.12",
+      "3.4.19.12"
+    ],
+    "Reactome": [
+      "R-HSA-1358795",
+      "R-HSA-2179291",
+      "R-HSA-3215295",
+      "R-HSA-3215310",
+      "R-HSA-3640872",
+      "R-HSA-4641236",
+      "R-HSA-5653770",
+      "R-HSA-5655466",
+      "R-HSA-5688797",
+      "R-HSA-5688837",
+      "R-HSA-5689950",
+      "R-HSA-5689972",
+      "R-HSA-5689973",
+      "R-HSA-5690080",
+      "R-HSA-5690152",
+      "R-HSA-5690157",
+      "R-HSA-5690159",
+      "R-HSA-5690196",
+      "R-HSA-5690319",
+      "R-HSA-5690759",
+      "R-HSA-5690790",
+      "R-HSA-5691381",
+      "R-HSA-5696465",
+      "R-HSA-5696534",
+      "R-HSA-5696564",
+      "R-HSA-5696600",
+      "R-HSA-5696605",
+      "R-HSA-5696627",
+      "R-HSA-5696872",
+      "R-HSA-5696914",
+      "R-HSA-5696945",
+      "R-HSA-5696947",
+      "R-HSA-5696958",
+      "R-HSA-5696960",
+      "R-HSA-5696968",
+      "R-HSA-5696997",
+      "R-HSA-5697009",
+      "R-HSA-6781764",
+      "R-HSA-6781779",
+      "R-HSA-6781814",
+      "R-HSA-6781897",
+      "R-HSA-6782069",
+      "R-HSA-6782106",
+      "R-HSA-6782628",
+      "R-HSA-6782820",
+      "R-HSA-6783177",
+      "R-HSA-6786171",
+      "R-HSA-6807118",
+      "R-HSA-6807206",
+      "R-HSA-870437",
+      "R-HSA-8853503",
+      "R-HSA-8853514",
+      "R-HSA-8853515",
+      "R-HSA-8853529",
+      "R-HSA-8862184",
+      "R-HSA-8865182",
+      "R-HSA-8869456",
+      "R-HSA-8873946",
+      "R-HSA-8875443",
+      "R-HSA-8986083",
+      "R-HSA-9033478",
+      "R-HSA-9033491",
+      "R-HSA-9653514"
+    ],
+    "GOC": [
+      "jh2",
+      "vw",
+      "bf",
+      "vw",
+      "rl"
+    ],
+    "PMID": [
+      "30783221",
+      "19261746",
+      "19188440",
+      "15657442"
+    ]
+  },
+  "definition": "An thiol-dependent isopeptidase activity that cleaves ubiquitin from a target protein to which it is conjugated.",
+  "namespace": "molecular_function",
+  "label": "USP17L2 deubiquitinates RCE1"
+}

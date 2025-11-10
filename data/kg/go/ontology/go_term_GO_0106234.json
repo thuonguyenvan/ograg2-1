@@ -1,0 +1,27 @@
+{
+  "id": "GO:0106234",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106234",
+  "relationships": {
+    "is_a": [
+      "GO:0098796"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "am"
+    ],
+    "PMID": [
+      "25267629",
+      "27282389"
+    ]
+  },
+  "definition": "Any protein complex that is part of the bacterial outer membrane. An example In E.coli, is RcsF associated with any one of several outer membrane beta-barrel proteins (OMPs), such as OmpA, OmpF, or OmpcC.",
+  "namespace": "cellular_component",
+  "label": "outer membrane protein complex"
+}

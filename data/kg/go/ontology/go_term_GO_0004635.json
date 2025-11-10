@@ -1,0 +1,41 @@
+{
+  "id": "GO:0004635",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004635",
+  "relationships": {
+    "is_a": [
+      "GO:0019238"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-(5-phospho-D-ribosyl)-AMP 1,6-hydrolase activity",
+      "PRAMP-cyclohydrolase activity",
+      "phosphoribosyladenosine monophosphate cyclohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.4.19",
+      "3.5.4.19",
+      "3.5.4.19",
+      "3.5.4.19",
+      "3.5.4.19"
+    ],
+    "KEGG_REACTION": [
+      "R04037"
+    ],
+    "MetaCyc": [
+      "HISTCYCLOHYD-RXN"
+    ],
+    "RHEA": [
+      "20049",
+      "20049"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-(5-phosphonatoribosyl)-5&apos;-AMP + H2O = 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide.",
+  "namespace": "molecular_function",
+  "label": "phosphoribosyl-AMP cyclohydrolase activity"
+}

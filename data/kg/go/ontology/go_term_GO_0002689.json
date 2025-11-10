@@ -1,0 +1,33 @@
+{
+  "id": "GO:0002689",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002689",
+  "relationships": {
+    "is_a": [
+      "GO:0002686",
+      "GO:0002688",
+      "GO:0050922"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of leukocyte chemotaxis",
+      "down-regulation of leukocyte chemotaxis",
+      "downregulation of leukocyte chemotaxis",
+      "negative regulation of immune cell chemotaxis",
+      "negative regulation of leucocyte chemotaxis"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of leukocyte chemotaxis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate, or extent of leukocyte chemotaxis.",
+  "namespace": "biological_process",
+  "label": "negative regulation of leukocyte chemotaxis"
+}

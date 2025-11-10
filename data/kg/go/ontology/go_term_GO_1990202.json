@@ -1,0 +1,39 @@
+{
+  "id": "GO:1990202",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990202",
+  "relationships": {
+    "is_a": [
+      "GO:1990204"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FMN reductase complex, NAD(P)H-dependent"
+    ],
+    "broad": [
+      "flavin oxidoreductase complex, NAD(P)H-dependent"
+    ],
+    "narrow": [
+      "SsuE complex"
+    ],
+    "related": [
+      "FMN oxidoreductase complex, NAD(P)H-dependent"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "bhm",
+      "bhm",
+      "bhm",
+      "bhm"
+    ],
+    "PMID": [
+      "10480865",
+      "16997955"
+    ]
+  },
+  "definition": "A protein complex capable of FMN reductase activity. Reduces FMN to FMNH2 in a NAD(P)H-dependent manner. In E.coli, consists of a SsuE dimer.",
+  "namespace": "cellular_component",
+  "label": "FMN reductase complex"
+}

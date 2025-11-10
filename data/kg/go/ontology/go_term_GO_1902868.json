@@ -1,0 +1,63 @@
+{
+  "id": "GO:1902868",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902868",
+  "relationships": {
+    "is_a": [
+      "GO:0051094",
+      "GO:0051240",
+      "GO:1902866"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of retina development in camera-style eye",
+      "up regulation of retina development in camera-style eye",
+      "up regulation of retina development in camera-type eye",
+      "up-regulation of retina development in camera-style eye",
+      "up-regulation of retina development in camera-type eye",
+      "upregulation of retina development in camera-style eye",
+      "upregulation of retina development in camera-type eye"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of retina development in camera-style eye",
+      "activation of retina development in camera-type eye"
+    ],
+    "related": [
+      "activation of retinal development",
+      "positive regulation of retinal development",
+      "up regulation of retinal development",
+      "up-regulation of retinal development",
+      "upregulation of retinal development"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mr",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "16872597"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of retina development in camera-type eye.",
+  "namespace": "biological_process",
+  "label": "positive regulation of retina development in camera-type eye"
+}

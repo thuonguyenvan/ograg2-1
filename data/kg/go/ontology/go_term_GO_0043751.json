@@ -1,0 +1,27 @@
+{
+  "id": "GO:0043751",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043751",
+  "relationships": {
+    "is_a": [
+      "GO:0016776"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PAP"
+    ],
+    "broad": [
+      "PPT"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11237733"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (polyphosphate)n + AMP = (polyphosphate)n-1 + ADP.",
+  "namespace": "molecular_function",
+  "label": "polyphosphate:AMP phosphotransferase activity"
+}

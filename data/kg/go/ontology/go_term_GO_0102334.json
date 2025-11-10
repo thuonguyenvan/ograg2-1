@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102334",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102334",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.36",
+      "2.7.8.36"
+    ],
+    "MetaCyc": [
+      "RXN-13269"
+    ],
+    "RHEA": [
+      "34515"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ditrans,polycis-undecaprenyl phosphate + UDP-N,N&apos;-diacetylbacillosamine = N,N&apos;-diacetyl-alpha-D-bacillosaminyl-diphospho-tri-trans,hepta-cis-undecaprenol + UMP.",
+  "namespace": "molecular_function",
+  "label": "N,N&apos;-diacetylbacilliosaminyl-1-phosphate transferase activity"
+}

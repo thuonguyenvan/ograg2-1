@@ -1,0 +1,48 @@
+{
+  "id": "GO:0004483",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004483",
+  "relationships": {
+    "is_a": [
+      "GO:0008171",
+      "GO:0008173"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:mRNA (nucleoside-2&apos;-O-)-methyltransferase activity",
+      "mRNA (adenosine-2&apos;-O-)-methyltransferase activity",
+      "mRNA (nucleoside-2&apos;-O-)-methyltransferase activity",
+      "messenger RNA (nucleoside-2&apos;-)-methyltransferase activity",
+      "messenger ribonucleate nucleoside 2&apos;-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.57",
+      "2.1.1.57",
+      "2.1.1.57",
+      "2.1.1.57",
+      "2.1.1.57",
+      "2.1.1.57",
+      "2.1.1.57"
+    ],
+    "MetaCyc": [
+      "2.1.1.57-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-9684030",
+      "R-HSA-9684032",
+      "R-HSA-9684033",
+      "R-HSA-9694499",
+      "R-HSA-9694521",
+      "R-HSA-9694721",
+      "R-HSA-9834003"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 5&apos;-end (N(7)-methyl 5&apos;-triphosphoguanosine)-ribonucleoside in mRNA or snRNA + S-adenosyl-L-methionine = a 5&apos;-end (N(7)-methyl 5&apos;-triphosphoguanosine)-(2&apos;-O-methyl-ribonucleoside) in mRNA or snRNA + S-adenosyl-L-homocysteine + H+. This activity catalyzes the methylation of the ribose on the first transcribed nucleotide of mRNAs and snRNAs.",
+  "namespace": "molecular_function",
+  "label": "L protein acts as a cap 2&apos;-O-methyltransferase to modify RSV mRNAs"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0019486",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019486",
+  "relationships": {
+    "is_a": [
+      "GO:0019484"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "beta-alanine breakdown to mevalonate semialdehyde, by transamination",
+      "beta-alanine degradation to mevalonate semialdehyde, by transamination"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "BETA-ALA-DEGRADATION-I-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of beta-alanine into other compounds, including mevalonate semialdehyde, by transamination.",
+  "namespace": "biological_process",
+  "label": "beta-alanine catabolic process to mevalonate semialdehyde, by transamination"
+}

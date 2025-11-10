@@ -1,0 +1,33 @@
+{
+  "id": "GO:0044523",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044523",
+  "relationships": {
+    "is_a": [
+      "GO:0140138"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "envenomation resulting in damage of muscle extracellular matrix causing muscle necrosis in other organism",
+      "envenomation resulting in damage of muscle extracellular matrix in another organism",
+      "envenomation resulting in damage of muscle extracellular matrix in other organism"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "fj",
+      "jl"
+    ],
+    "PMID": [
+      "20398688",
+      "21150580",
+      "33460638"
+    ]
+  },
+  "definition": "A process that begins with venom being forced into an organism by the bite or sting of another organism, damaging the extracellular matrix of a cell.",
+  "namespace": "biological_process",
+  "label": "venom-mediated disruption of extracellular matrix in another organism"
+}

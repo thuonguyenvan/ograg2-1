@@ -1,0 +1,51 @@
+{
+  "id": "GO:0003938",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003938",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "IMP oxidoreductase activity",
+      "IMP:NAD+ oxidoreductase activity",
+      "inosinate dehydrogenase activity",
+      "inosine 5&apos;-monophosphate dehydrogenase activity",
+      "inosine monophosphate dehydrogenase activity",
+      "inosine monophosphate oxidoreductase activity",
+      "inosine-5&apos;-phosphate dehydrogenase activity",
+      "inosinic acid dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.205",
+      "1.1.1.205",
+      "1.1.1.205",
+      "1.1.1.205",
+      "1.1.1.205",
+      "1.1.1.205",
+      "1.1.1.205",
+      "1.1.1.205",
+      "1.1.1.205",
+      "1.1.1.205"
+    ],
+    "MetaCyc": [
+      "IMP-DEHYDROG-RXN"
+    ],
+    "RHEA": [
+      "11708"
+    ],
+    "Reactome": [
+      "R-HSA-73794",
+      "R-HSA-9748945"
+    ]
+  },
+  "definition": "Catalysis of the reaction: inosine 5&apos;-phosphate + NAD+ + H2O = xanthosine 5&apos;-phosphate + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "IMPDH tetramers dehydrogenate 6TIMP to 6TXMP"
+}

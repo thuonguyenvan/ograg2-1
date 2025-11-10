@@ -1,0 +1,28 @@
+{
+  "id": "GO:0050833",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050833",
+  "relationships": {
+    "is_a": [
+      "GO:0008028"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "monocarboxylate (lactate, pyruvate, mevalonate) uptake/efflux porter activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-372342"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of pyruvate, 2-oxopropanoate, from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "MPC1:MPC2 imports PYR, H+ to mitochondrial matrix"
+}

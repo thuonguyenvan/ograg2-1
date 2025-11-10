@@ -1,0 +1,46 @@
+{
+  "id": "GO:0018621",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018621",
+  "relationships": {
+    "is_a": [
+      "GO:0016708"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-sulphobenzoate 3,4-dioxygenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-sulfobenzoate 3,4-dioxygenase system",
+      "4-sulfobenzoate dioxygenase activity",
+      "4-sulfobenzoate,NADH:oxygen oxidoreductase (3,4-hydroxylating, sulfite-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.12.8",
+      "1.14.12.8",
+      "1.14.12.8",
+      "1.14.12.8",
+      "1.14.12.8"
+    ],
+    "KEGG_REACTION": [
+      "R01636"
+    ],
+    "MetaCyc": [
+      "4-SULFOBENZOATE-34-DIOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "13937",
+      "13937"
+    ],
+    "UM-BBD_reactionID": [
+      "r0293"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-sulfobenzoate + H+ + NADH + O2 = 3,4-dihydroxybenzoate + NAD+ + sulfite.",
+  "namespace": "molecular_function",
+  "label": "4-sulfobenzoate 3,4-dioxygenase activity"
+}

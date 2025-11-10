@@ -1,0 +1,29 @@
+{
+  "id": "GO:0065007",
+  "uri": "http://purl.obolibrary.org/obo/GO_0065007",
+  "relationships": {
+    "is_a": [
+      "GO:0008150"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "regulation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "isa_complete",
+      "mah",
+      "pr",
+      "vw"
+    ]
+  },
+  "definition": "Any process that modulates a measurable attribute of any biological process, quality or function.",
+  "namespace": "biological_process",
+  "label": "biological regulation"
+}

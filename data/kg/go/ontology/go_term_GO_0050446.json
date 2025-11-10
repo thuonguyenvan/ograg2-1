@@ -1,0 +1,78 @@
+{
+  "id": "GO:0050446",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050446",
+  "relationships": {
+    "is_a": [
+      "GO:0046857"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "NADPH-dependent azoreductase activity",
+      "azo reductase activity",
+      "azo-dye reductase activity",
+      "azoreductase activity"
+    ],
+    "narrow": [
+      "NC-reductase activity",
+      "New coccine (NC)-reductase activity",
+      "methyl red azoreductase activity",
+      "orange I azoreductase activity",
+      "orange II azoreductase activity"
+    ],
+    "related": [
+      "N,N-dimethyl-1,4-phenylenediamine, aniline:NADP+ oxidoreductase activity",
+      "N,N-dimethyl-4-phenylazoaniline azoreductase activity",
+      "NAD(P)H:1-(4&apos;-sulfophenylazo)-2-naphthol oxidoreductase activity",
+      "NADPH2-dependent azoreductase activity",
+      "NADPH2:4-(dimethylamino)azobenzene oxidoreductase activity",
+      "NADPH:4-(dimethylamino)azobenzene oxidoreductase activity",
+      "dibromopropylaminophenylazobenzoic azoreductase activity",
+      "dimethylaminobenzene reductase activity",
+      "new coccine (NC)-reductase",
+      "nicotinamide adenine dinucleotide (phosphate) azoreductase activity",
+      "p-aminoazobenzene reductase activity",
+      "p-dimethylaminoazobenzene azoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6",
+      "1.7.1.6"
+    ],
+    "MetaCyc": [
+      "AZOBENZENE-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "16269",
+      "16269"
+    ],
+    "UM-BBD_reactionID": [
+      "r0808"
+    ]
+  },
+  "definition": "Catalysis of the reaction: aniline + N,N-dimethyl-1,4-phenylenediamine + 2 NADP+ = 4-(dimethylamino)azobenzene + 2 H+ + 2 NADPH.",
+  "namespace": "molecular_function",
+  "label": "azobenzene reductase (NADP+) activity"
+}

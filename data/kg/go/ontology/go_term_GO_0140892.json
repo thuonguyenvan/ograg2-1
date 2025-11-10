@@ -1,0 +1,33 @@
+{
+  "id": "GO:0140892",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140892",
+  "relationships": {
+    "is_a": [
+      "GO:0015081",
+      "GO:0140828",
+      "GO:0140900"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sodium,hydrogencarbonate:chloride antiporter activity",
+      "sodium-dependent chloride/bicarbonate exchanger activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.31.2.4"
+    ],
+    "PMID": [
+      "18577713",
+      "20389022",
+      "8189393"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction chloride(in) + 2 hydrogencarbonate(out) + Na+(out) = chloride(out) + 2 hydrogencarbonate(in) + Na+(in).",
+  "namespace": "molecular_function",
+  "label": "sodium,bicarbonate:chloride antiporter activity"
+}

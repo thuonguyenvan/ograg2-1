@@ -1,0 +1,32 @@
+{
+  "id": "GO:0045252",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045252",
+  "relationships": {
+    "is_a": [
+      "GO:0045239",
+      "GO:0045240",
+      "GO:1990234"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "KGDHC",
+      "alpha-ketoglutarate dehydrogenase complex",
+      "dihydrolipoamide S-succinyltransferase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Oxoglutarate_dehydrogenase_complex"
+    ],
+    "PMID": [
+      "10672230"
+    ]
+  },
+  "definition": "A multi-enzyme complex that catalyzes the oxidative decarboxylation of alpha-ketoglutarate (also known as 2-oxoglutarate) to form succinyl-CoA. The complex comprises multiple copies of three enzymes referred to as E1, E2 and E3: oxoglutarate dehydrogenase (lipoamide) (E1), dihydrolipoamide S-succinyltransferase (E2) and dihydrolipoamide dehydrogenase (E3). Additional proteins may also be present.",
+  "namespace": "cellular_component",
+  "label": "oxoglutarate dehydrogenase complex"
+}

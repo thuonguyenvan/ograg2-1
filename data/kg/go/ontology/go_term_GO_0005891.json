@@ -1,0 +1,28 @@
+{
+  "id": "GO:0005891",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005891",
+  "relationships": {
+    "is_a": [
+      "GO:0034704",
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "voltage gated calcium channel complex",
+      "voltage-dependent calcium channel complex",
+      "voltage-sensitive calcium channel complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A protein complex that forms a transmembrane channel through which calcium ions may pass in response to changes in membrane potential.",
+  "namespace": "cellular_component",
+  "label": "voltage-gated calcium channel complex"
+}

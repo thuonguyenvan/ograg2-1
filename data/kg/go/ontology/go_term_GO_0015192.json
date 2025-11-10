@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015192",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015192",
+  "relationships": {
+    "is_a": [
+      "GO:0015173",
+      "GO:0015179"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-phenylalanine permease activity"
+    ],
+    "broad": [
+      "L-phenylalanine transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of L-phenylalanine from one side of a membrane to the other. L-phenylalanine is 2-amino-3-phenylpropanoic acid.",
+  "namespace": "molecular_function",
+  "label": "L-phenylalanine transmembrane transporter activity"
+}

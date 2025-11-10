@@ -1,0 +1,32 @@
+{
+  "id": "GO:1904949",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904949",
+  "relationships": {
+    "is_a": [
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "VPS4 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bhm"
+    ],
+    "GO_REF": [
+      "0000088"
+    ],
+    "PMID": [
+      "9606181"
+    ]
+  },
+  "definition": "A protein complex which is capable of ATPase activity.",
+  "namespace": "cellular_component",
+  "label": "ATPase complex"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0070956",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070956",
+  "relationships": {
+    "is_a": [
+      "GO:0070950",
+      "GO:0070955"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of neutrophil mediated killing of bacterium",
+      "down-regulation of neutrophil mediated killing of bacterium",
+      "downregulation of neutrophil mediated killing of bacterium"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of neutrophil mediated killing of bacterium"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that decreases the frequency, rate or extent of the directed killing of a bacterium by a neutrophil.",
+  "namespace": "biological_process",
+  "label": "negative regulation of neutrophil mediated killing of bacterium"
+}

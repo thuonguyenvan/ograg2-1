@@ -1,0 +1,32 @@
+{
+  "id": "GO:0031410",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031410",
+  "relationships": {
+    "is_a": [
+      "GO:0097708"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cytoplasmic membrane bounded vesicle",
+      "cytoplasmic membrane-enclosed vesicle",
+      "cytoplasmic, membrane-bounded vesicle"
+    ]
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao180601769"
+    ],
+    "GOC": [
+      "ai",
+      "mah",
+      "vesicles"
+    ]
+  },
+  "definition": "A vesicle found in the cytoplasm of a cell.",
+  "namespace": "cellular_component",
+  "label": "cytoplasmic vesicle"
+}

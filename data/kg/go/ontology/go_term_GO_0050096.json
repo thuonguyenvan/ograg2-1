@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050096",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050096",
+  "relationships": {
+    "is_a": [
+      "GO:0016841"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-methylaspartase activity",
+      "L-threo-3-methylaspartate ammonia-lyase (mesaconate-forming)",
+      "L-threo-3-methylaspartate ammonia-lyase activity",
+      "beta-methylaspartase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.1.2",
+      "4.3.1.2",
+      "4.3.1.2",
+      "4.3.1.2",
+      "4.3.1.2",
+      "4.3.1.2"
+    ],
+    "KEGG_REACTION": [
+      "R03696"
+    ],
+    "MetaCyc": [
+      "METHYLASPARTATE-AMMONIA-LYASE-RXN"
+    ],
+    "RHEA": [
+      "12829",
+      "12829"
+    ]
+  },
+  "definition": "Catalysis of the reaction: threo-3-methyl-L-aspartate = mesaconate + NH4.",
+  "namespace": "molecular_function",
+  "label": "methylaspartate ammonia-lyase activity"
+}

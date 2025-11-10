@@ -1,0 +1,36 @@
+{
+  "id": "GO:0036382",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036382",
+  "relationships": {
+    "is_a": [
+      "GO:0016646"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.36"
+    ],
+    "KEGG_REACTION": [
+      "R09662"
+    ],
+    "MetaCyc": [
+      "RXN-12446"
+    ],
+    "RHEA": [
+      "31303",
+      "31303"
+    ],
+    "GOC": [
+      "rs"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a reduced flavin + NAD+ = an oxidized flavin + 2 H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "flavin reductase (NADH) activity"
+}

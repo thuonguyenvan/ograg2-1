@@ -1,0 +1,23 @@
+{
+  "id": "GO:0001519",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001519",
+  "relationships": {
+    "is_a": [
+      "GO:0031179"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11028916"
+    ]
+  },
+  "definition": "The posttranslational conversion of C-terminal glycine-extended peptides to C-terminal alpha-amidated peptides. Occurs to over half of all peptide hormones to give bioactive peptides. This is a two step process catalyzed by a peptidyl-glycine alpha-hydroxylating monooxygenase and a peptidyl-alpha-hydroxyglycine alpha-amidating lyase. In some organisms, this process is catalyzed by two separate enzymes, whereas in higher organisms, one polypeptide catalyzes both reactions.",
+  "namespace": "biological_process",
+  "label": "peptide amidation"
+}

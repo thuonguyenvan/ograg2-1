@@ -1,0 +1,29 @@
+{
+  "id": "GO:0033269",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033269",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "internode"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao206157942"
+    ],
+    "GOC": [
+      "mah",
+      "mh"
+    ]
+  },
+  "definition": "An axon part that is located between the nodes of Ranvier and surrounded by compact myelin sheath.",
+  "namespace": "cellular_component",
+  "label": "internode region of axon"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "GO:0008904",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008904",
+  "relationships": {
+    "is_a": [
+      "GO:0034071"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "destomic acid ring 7&apos;&apos;-O-phosphotransferase activity"
+    ],
+    "broad": [
+      "hygromycin B kinase activity",
+      "hygromycin B phosphotransferase activity",
+      "hygromycin-B kinase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "APH(7&apos;&apos;) activity",
+      "ATP:hygromycin-B 7&apos;&apos;-O-phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.119",
+      "2.7.1.119",
+      "2.7.1.119",
+      "2.7.1.119",
+      "2.7.1.119"
+    ],
+    "KEGG_REACTION": [
+      "R03770"
+    ],
+    "MetaCyc": [
+      "HYGROMYCIN-B-KINASE-RXN"
+    ],
+    "RHEA": [
+      "23388",
+      "23388"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + hygromycin B = 7&apos;&apos;-O-phosphohygromycin B + ADP + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "hygromycin-B 7&apos;&apos;-O-phosphotransferase activity"
+}

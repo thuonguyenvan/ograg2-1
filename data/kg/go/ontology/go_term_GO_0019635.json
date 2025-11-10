@@ -1,0 +1,35 @@
+{
+  "id": "GO:0019635",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019635",
+  "relationships": {
+    "is_a": [
+      "GO:0006793",
+      "GO:1901161"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-aminoethylphosphonate breakdown",
+      "2-aminoethylphosphonate catabolism",
+      "2-aminoethylphosphonate degradation",
+      "2-phosphonoethylamine catabolic process",
+      "2-phosphonoethylamine catabolism",
+      "ciliatine catabolic process",
+      "ciliatine catabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PHOSPHONOTASE-PWY"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of 2-aminoethylphosphonate, also known as ciliatine.",
+  "namespace": "biological_process",
+  "label": "2-aminoethylphosphonate catabolic process"
+}

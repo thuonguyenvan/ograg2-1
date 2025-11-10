@@ -1,0 +1,37 @@
+{
+  "id": "GO:0017042",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017042",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cerebrosidase activity",
+      "glycosyl ceramide glycosylhydrolase activity",
+      "glycosyl-N-acylsphingosine glycohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "GLYCOSYLCERAMIDASE-RXN"
+    ],
+    "EC": [
+      "3.2.1.62",
+      "3.2.1.62",
+      "3.2.1.62",
+      "3.2.1.62"
+    ],
+    "PMID": [
+      "10692580",
+      "9762914"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glycosyl-N-acylsphingosine + H2O = a sugar + N-acylsphingosine.",
+  "namespace": "molecular_function",
+  "label": "glycosylceramidase activity"
+}

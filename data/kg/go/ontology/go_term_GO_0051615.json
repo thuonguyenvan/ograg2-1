@@ -1,0 +1,28 @@
+{
+  "id": "GO:0051615",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051615",
+  "relationships": {
+    "is_a": [
+      "GO:0001504",
+      "GO:0051608"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histamine import"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The directed movement of histamine into a cell, typically presynaptic neurons or glial cells. Histamine is a physiologically active amine, found in plant and animal tissue and released from mast cells as part of an allergic reaction in humans.",
+  "namespace": "biological_process",
+  "label": "histamine uptake"
+}

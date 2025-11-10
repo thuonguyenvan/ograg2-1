@@ -1,0 +1,44 @@
+{
+  "id": "GO:0031932",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031932",
+  "relationships": {
+    "is_a": [
+      "GO:0038201"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TOR complex 2",
+      "TORC 2 complex",
+      "TORC2",
+      "rapamycin and nutrient-insensitive TOR complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "mTORC2"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "MTORC1"
+    ],
+    "GOC": [
+      "bf",
+      "jh"
+    ],
+    "PMID": [
+      "14736892",
+      "15780592",
+      "16469695",
+      "21548787",
+      "21548787",
+      "21548787",
+      "20496258",
+      "21548787"
+    ]
+  },
+  "definition": "A protein complex that contains at least TOR (target of rapamycin) and Rictor (rapamycin-insensitive companion of TOR), or orthologs of, in complex with other signaling components. Mediates the phosphorylation and activation of PKB (also called AKT). In Saccharomyces, the complex contains Avo1p, Avo2p, Tsc11p, Lst8p, Bit61p, Slm1p, Slm2p, and Tor2p.",
+  "namespace": "cellular_component",
+  "label": "TORC2 complex"
+}

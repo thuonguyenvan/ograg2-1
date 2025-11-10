@@ -1,0 +1,43 @@
+{
+  "id": "GO:0036026",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036026",
+  "relationships": {
+    "is_a": [
+      "GO:0097180"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PCI-PLAT complex",
+      "SERPINA5-PLAT complex",
+      "plasma serine protease inhibitor-PLAT complex",
+      "protein C inhibitor-tPA complex",
+      "protein C inhibitor-tissue-type plasminogen activator complex",
+      "serpin A5-PLAT complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ans"
+    ],
+    "PMID": [
+      "10340997",
+      "10340997",
+      "10340997"
+    ],
+    "PR": [
+      "000014685",
+      "000014685",
+      "000014685",
+      "000012825",
+      "000012825",
+      "000014685"
+    ]
+  },
+  "definition": "A heterodimeric protein complex that contains protein C inhibitor (SERPINA5) and tissue-type plasminogen activator (PLAT); formation of the complex inhibits the serine protease activity of tissue-type plasminogen activator.",
+  "namespace": "cellular_component",
+  "label": "protein C inhibitor-PLAT complex"
+}

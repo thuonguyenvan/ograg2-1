@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047272",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047272",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose:phosphopolyprenol D-glucosyltransferase activity",
+      "UDPglucose:phosphopolyprenol D-glucosyltransferase activity",
+      "UDPglucose:polyprenol monophosphate glucosyltransferase activity",
+      "uridine diphosphoglucose-polyprenol monophosphate glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.78",
+      "2.4.1.78",
+      "2.4.1.78",
+      "2.4.1.78",
+      "2.4.1.78",
+      "2.4.1.78"
+    ],
+    "MetaCyc": [
+      "2.4.1.78-RXN",
+      "2.4.1.78-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: polyprenyl phosphate + UDP-D-glucose = polyprenylphosphate-glucose + UDP.",
+  "namespace": "molecular_function",
+  "label": "phosphopolyprenol glucosyltransferase activity"
+}

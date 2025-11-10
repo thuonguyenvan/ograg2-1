@@ -1,0 +1,35 @@
+{
+  "id": "GO:0008873",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008873",
+  "relationships": {
+    "is_a": [
+      "GO:0008875"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-keto-D-gluconate reductase activity",
+      "2-ketogluconate reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.215",
+      "1.1.1.215",
+      "1.1.1.215",
+      "1.1.1.215"
+    ],
+    "MetaCyc": [
+      "1.1.1.215-RXN"
+    ],
+    "RHEA": [
+      "16653"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-gluconate + NADP+ = 2-dehydro-D-gluconate + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "gluconate 2-dehydrogenase activity"
+}

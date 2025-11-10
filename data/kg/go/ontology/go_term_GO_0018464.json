@@ -1,0 +1,40 @@
+{
+  "id": "GO:0018464",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018464",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-hydroxypimeloyl-CoA:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.259",
+      "1.1.1.259",
+      "1.1.1.259"
+    ],
+    "KEGG_REACTION": [
+      "R05305"
+    ],
+    "MetaCyc": [
+      "1.1.1.259-RXN"
+    ],
+    "RHEA": [
+      "11168",
+      "11168"
+    ],
+    "UM-BBD_reactionID": [
+      "r0196"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-hydroxypimelyl-CoA + NAD+ = 3-oxopimelyl-CoA + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "3-hydroxypimeloyl-CoA dehydrogenase activity"
+}

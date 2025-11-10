@@ -1,0 +1,45 @@
+{
+  "id": "GO:0018578",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018578",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "protocatechuate oxygenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "protocatechuate:oxygen 3,4-oxidoreductase (decyclizing)",
+      "protocatechuic 3,4-dioxygenase activity",
+      "protocatechuic 3,4-oxygenase activity",
+      "protocatechuic acid oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.3",
+      "1.13.11.3",
+      "1.13.11.3",
+      "1.13.11.3",
+      "1.13.11.3",
+      "1.13.11.3",
+      "1.13.11.3"
+    ],
+    "MetaCyc": [
+      "PROTOCATECHUATE-34-DIOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "10084"
+    ],
+    "UM-BBD_reactionID": [
+      "r0143"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3,4-dihydroxybenzoate + O2 = 3-carboxy-cis,cis-muconate.",
+  "namespace": "molecular_function",
+  "label": "protocatechuate 3,4-dioxygenase activity"
+}

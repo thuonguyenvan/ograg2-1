@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047502",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047502",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(+)-cis-sabinol dehydrogenase activity",
+      "(+)-cis-sabinol:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.228",
+      "1.1.1.228",
+      "1.1.1.228",
+      "1.1.1.228"
+    ],
+    "KEGG_REACTION": [
+      "R03745"
+    ],
+    "MetaCyc": [
+      "+-SABINOL-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "18329",
+      "18329"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (+)-cis-sabinol + NAD+ = (1S,5S)-sabinone + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "(+)-sabinol dehydrogenase activity"
+}

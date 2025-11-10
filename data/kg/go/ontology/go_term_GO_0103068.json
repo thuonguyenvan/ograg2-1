@@ -1,0 +1,33 @@
+{
+  "id": "GO:0103068",
+  "uri": "http://purl.obolibrary.org/obo/GO_0103068",
+  "relationships": {
+    "is_a": [
+      "GO:0016755"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.2.2"
+    ],
+    "MetaCyc": [
+      "RXN66-336"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "1676842",
+      "9139674"
+    ]
+  },
+  "definition": "Catalysis of the reaction: leukotriene C4 + a standard alpha amino acid = leukotriene D4 + an (gamma-L-glutamyl)-L-amino acid.",
+  "namespace": "molecular_function",
+  "label": "leukotriene C4 gamma-glutamyl transferase activity"
+}

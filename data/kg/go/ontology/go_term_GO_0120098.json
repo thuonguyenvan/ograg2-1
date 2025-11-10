@@ -1,0 +1,29 @@
+{
+  "id": "GO:0120098",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120098",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "krc"
+    ],
+    "PMID": [
+      "18620859",
+      "21289083",
+      "25047614"
+    ]
+  },
+  "definition": "A cellular structure that is the site of a developing centriole, which will become a microtubule organizing center. During the canonical pathway of centriole duplication that occurs during the cell division cycle, procentrioles grow at the proximal ends of both mother and daughter centrioles. In the newly divided cells, the original mother and daughter centrioles become mother centrioles while the procentrioles become the new daughter centrioles. Procentrioles can also arise from de novo pathways that occur in multiciliated cells. In ciliated epithelial cells, numerous procentrioles arise form electron dense material referred to as fibrous granules and deuterosomes. The pathway of procentriole formation in multiciliated protists appears to be similar to that in mammalian multiciliated epithelium. In sperm of primitive land plants, multiple procentrioles are formed from a blepharoplast giving rise to multicilated sperm cells.",
+  "namespace": "cellular_component",
+  "label": "procentriole"
+}

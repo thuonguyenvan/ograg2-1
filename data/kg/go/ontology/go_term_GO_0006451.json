@@ -1,0 +1,29 @@
+{
+  "id": "GO:0006451",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006451",
+  "relationships": {
+    "is_a": [
+      "GO:0006414",
+      "GO:0006417"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "natural nonsense suppression"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jsg"
+    ],
+    "PMID": [
+      "11179232"
+    ]
+  },
+  "definition": "The continuation of translation beyond a stop codon by the use of a special tRNA that recognizes the UAG and UGA codons as modified amino acids, rather than as termination codons.",
+  "namespace": "biological_process",
+  "label": "translational readthrough"
+}

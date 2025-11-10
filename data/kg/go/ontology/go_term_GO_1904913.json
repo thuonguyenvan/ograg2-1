@@ -1,0 +1,37 @@
+{
+  "id": "GO:1904913",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904913",
+  "relationships": {
+    "is_a": [
+      "GO:0032879"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of establishment of macromolecular complex localisation to telomere"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of establishment of macromolecular complex localization to telomere"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "TermGenie",
+      "rph",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "26586433"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of establishment of the localization of a protein-containing macromolecular complex to a telomere.",
+  "namespace": "biological_process",
+  "label": "regulation of establishment of protein-containing complex localization to telomere"
+}

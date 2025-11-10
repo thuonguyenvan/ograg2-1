@@ -1,0 +1,29 @@
+{
+  "id": "GO:0120533",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120533",
+  "relationships": {
+    "is_a": [
+      "GO:0016620"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "GAPN activity",
+      "non-phosphorylating glyceraldehyde-3-phosphate dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.90",
+      "1.2.1.90",
+      "1.2.1.90",
+      "1.2.1.90"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-glyceraldehyde 3-phosphate + NAD(P)+ + H2O = (2R)-3-phosphoglycerate + NAD(P)H + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+] (non-phosphorylating) activity"
+}

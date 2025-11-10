@@ -1,0 +1,44 @@
+{
+  "id": "GO:0034022",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034022",
+  "relationships": {
+    "is_a": [
+      "GO:0050486"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-(hydroxyamino)phenol hydroxymutase activity",
+      "3-hydroxylaminophenol mutase activity",
+      "3HAP mutase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.4.3",
+      "5.4.4.3",
+      "5.4.4.3",
+      "5.4.4.3",
+      "5.4.4.3"
+    ],
+    "KEGG_REACTION": [
+      "R06988"
+    ],
+    "MetaCyc": [
+      "5.4.4.3-RXN"
+    ],
+    "RHEA": [
+      "20577",
+      "20577"
+    ],
+    "UM-BBD_enzymeID": [
+      "r1496"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-hydroxyaminophenol = aminohydroquinone.",
+  "namespace": "molecular_function",
+  "label": "3-(hydroxyamino)phenol mutase activity"
+}

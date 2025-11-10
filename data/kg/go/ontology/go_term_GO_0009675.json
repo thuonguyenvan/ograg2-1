@@ -1,0 +1,27 @@
+{
+  "id": "GO:0009675",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009675",
+  "relationships": {
+    "is_a": [
+      "GO:0008512"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "high affinity sulfate:hydrogen symporter activity",
+      "high affinity sulfate:proton symporter activity",
+      "high affinity sulphate:hydrogen symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: sulfate(out) + H+(out) = sulfate(in) + H+(in). In high-affinity transport the transporter is able to bind the solute even if it is only present at very low concentrations.",
+  "namespace": "molecular_function",
+  "label": "high-affinity sulfate:proton symporter activity"
+}

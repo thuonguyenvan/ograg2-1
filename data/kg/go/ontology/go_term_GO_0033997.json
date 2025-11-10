@@ -1,0 +1,38 @@
+{
+  "id": "GO:0033997",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033997",
+  "relationships": {
+    "is_a": [
+      "GO:0016837"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,1-beta-D-fructan lyase (alpha-D-fructofuranose-beta-D-fructofuranose-1,2&apos;:2,1&apos;-dianhydride-forming) activity",
+      "inulin D-fructosyl-D-fructosyltransferase (1,2&apos;:1&apos;,2-dianhydride-forming) activity",
+      "inulin D-fructosyl-D-fructosyltransferase (forming alpha-D-fructofuranose beta-D-fructofuranose 1,2&apos;:1&apos;,2-dianhydride) activity",
+      "inulin fructotransferase (DFA-I-producing) activity",
+      "inulin fructotransferase (depolymerizing, difructofuranose-1,2&apos;:2&apos;,1-dianhydride-forming) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.2.17",
+      "4.2.2.17",
+      "4.2.2.17",
+      "4.2.2.17",
+      "4.2.2.17",
+      "4.2.2.17",
+      "4.2.2.17"
+    ],
+    "MetaCyc": [
+      "4.2.2.17-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [(2-&gt;1)-beta-D-fructosyl](n) = [(2-&gt;1)-beta-D-fructosyl](n-1) + alpha-D-fructofuranose-beta-D-fructofuranose 1,2&apos;:1,2&apos;-dianhydride. This reaction is the production of alpha-D-fructofuranose beta-D-fructofuranose 1,2&apos;:2,1&apos;-dianhydride (DFA I) by successively eliminating the diminishing (2-&gt;1)-beta-D-fructan (inulin) chain from the terminal D-fructosyl-D-fructosyl disaccharide.",
+  "namespace": "molecular_function",
+  "label": "inulin fructotransferase (DFA-I-forming) activity"
+}

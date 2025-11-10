@@ -1,0 +1,30 @@
+{
+  "id": "GO:0051777",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051777",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ent-kaurenoate oxidase activity",
+      "ent-kaurenoic acid oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.107"
+    ],
+    "RHEA": [
+      "33219",
+      "33219"
+    ]
+  },
+  "definition": "Catalysis of the reaction:ent-kaur-16-en-19-oate + 3 O2 + 3 reduced [NADPH--hemoprotein reductase] = gibberellin A12 + 4 H+ + 4 H2O + 3 oxidized [NADPH--hemoprotein reductase]. Catalyzes three successive oxidations of ent-kaurenoic acid.",
+  "namespace": "molecular_function",
+  "label": "ent-kaurenoic acid monooxygenase activity"
+}

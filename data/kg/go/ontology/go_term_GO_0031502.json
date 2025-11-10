@@ -1,0 +1,33 @@
+{
+  "id": "GO:0031502",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031502",
+  "relationships": {
+    "is_a": [
+      "GO:0031501",
+      "GO:0098796",
+      "GO:0140534"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein O-mannosyltransferase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PMT family mannosyltransferase complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "pr"
+    ],
+    "PMID": [
+      "15948957"
+    ]
+  },
+  "definition": "A complex that possesses dolichyl-phosphate-mannose-protein mannosyltransferase activity; usually includes members of the PMT1 and PMT2 protein subfamilies.",
+  "namespace": "cellular_component",
+  "label": "dolichyl-phosphate-mannose-protein mannosyltransferase complex"
+}

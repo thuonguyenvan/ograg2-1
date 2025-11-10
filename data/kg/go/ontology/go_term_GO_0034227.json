@@ -1,0 +1,30 @@
+{
+  "id": "GO:0034227",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034227",
+  "relationships": {
+    "is_a": [
+      "GO:0006400"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA thiolation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mcc"
+    ],
+    "PMID": [
+      "12549933",
+      "14722066",
+      "24774365"
+    ]
+  },
+  "definition": "The addition a sulfur atom to a nucleotide in a tRNA molecule.",
+  "namespace": "biological_process",
+  "label": "tRNA thio-modification"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0021526",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021526",
+  "relationships": {
+    "is_a": [
+      "GO:0021515",
+      "GO:0030182"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "11262869"
+    ]
+  },
+  "definition": "The process in which differentiating motor neurons in the neural tube acquire the specialized structural and/or functional features of medial motor column neurons. Medial motor column neurons are generated at all rostrocaudal levels and send axons to the axial muscles (medial group) and to the body wall muscles (lateral group). Differentiation includes the processes involved in commitment of a cell to a specific fate.",
+  "namespace": "biological_process",
+  "label": "medial motor column neuron differentiation"
+}

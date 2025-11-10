@@ -1,0 +1,27 @@
+{
+  "id": "GO:0061653",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061653",
+  "relationships": {
+    "is_a": [
+      "GO:0042296",
+      "GO:0061650"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "E2"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "dph"
+    ]
+  },
+  "definition": "Isoenergetic transfer of ISG15 from one protein to another via the reaction X-ISG15 + Y = Y-ISG15 + X, where both the X-ISG15 and Y-ISG15 linkages are thioester bonds between the C-terminal amino acid of ISG15 and a sulfhydryl side group of a cysteine residue.",
+  "namespace": "molecular_function",
+  "label": "ISG15 conjugating enzyme activity"
+}

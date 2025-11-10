@@ -1,0 +1,36 @@
+{
+  "id": "GO:0036465",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036465",
+  "relationships": {
+    "is_a": [
+      "GO:0006810",
+      "GO:0051649"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "kiss-and-run synaptic vesicle recycling",
+      "kiss-and-stay synaptic vesicle recycling"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf",
+      "pad"
+    ],
+    "PMID": [
+      "15217342",
+      "22026965",
+      "23245563",
+      "15217342",
+      "15217342"
+    ]
+  },
+  "definition": "The trafficking of synaptic vesicles from the pre-synaptic membrane so the vesicle can dock and prime for another round of exocytosis and neurotransmitter release. Recycling occurs after synaptic vesicle exocytosis, and is necessary to replenish presynaptic vesicle pools, sustain transmitter release and preserve the structural integrity of the presynaptic membrane. Recycling can occur following transient fusion with the presynaptic membrane (kiss and run), or via endocytosis of presynaptic membrane.",
+  "namespace": "biological_process",
+  "label": "synaptic vesicle recycling"
+}

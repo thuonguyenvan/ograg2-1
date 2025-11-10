@@ -1,0 +1,28 @@
+{
+  "id": "GO:0140791",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140791",
+  "relationships": {
+    "is_a": [
+      "GO:0140789"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H2-S140 serine phosphatase activity",
+      "histone serine phosphatase activity (H2-S140 specific)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "histone H2S140 phosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "18614045"
+    ]
+  },
+  "definition": "Catalysis of the reaction: histone H2AX serine phosphate (position 139) + H2O = histone H2AX serine (position 139) + phosphate.",
+  "namespace": "molecular_function",
+  "label": "histone H2AXS139 phosphatase activity"
+}

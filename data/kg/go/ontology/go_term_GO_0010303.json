@@ -1,0 +1,34 @@
+{
+  "id": "GO:0010303",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010303",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "R-enzyme",
+      "amylopectin-1,6-glucosidase activity",
+      "dextrin alpha-1,6-glucanohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.142",
+      "3.2.1.142",
+      "3.2.1.142",
+      "3.2.1.142",
+      "3.2.1.142"
+    ],
+    "MetaCyc": [
+      "3.2.1.142-RXN"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of (1,6)-alpha-D-glucosidic linkages in alpha- and beta-limit dextrins of amylopectin and glycogen, and in amylopectin and pullulan.",
+  "namespace": "molecular_function",
+  "label": "limit dextrinase activity"
+}

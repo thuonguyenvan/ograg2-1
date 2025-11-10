@@ -1,0 +1,43 @@
+{
+  "id": "GO:0008935",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008935",
+  "relationships": {
+    "is_a": [
+      "GO:0016833"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "DHNA synthetase activity",
+      "O-succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase (cyclizing) activity",
+      "dihydroxynaphthoate synthase activity",
+      "dihydroxynaphthoic acid synthetase activity",
+      "naphthoate synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.3.36",
+      "4.1.3.36",
+      "4.1.3.36",
+      "4.1.3.36",
+      "4.1.3.36"
+    ],
+    "KEGG_REACTION": [
+      "R04150"
+    ],
+    "MetaCyc": [
+      "NAPHTHOATE-SYN-RXN"
+    ],
+    "RHEA": [
+      "26562",
+      "26562"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-succinylbenzoyl-CoA + H+ = 1,4-dihydroxy-2-naphthoyl-CoA + H2O.",
+  "namespace": "molecular_function",
+  "label": "1,4-dihydroxy-2-naphthoyl-CoA synthase activity"
+}

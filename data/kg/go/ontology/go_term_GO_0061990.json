@@ -1,0 +1,33 @@
+{
+  "id": "GO:0061990",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061990",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.207"
+    ],
+    "MetaCyc": [
+      "RXN-13613"
+    ],
+    "RHEA": [
+      "42264",
+      "42264"
+    ],
+    "PMID": [
+      "22753057"
+    ]
+  },
+  "definition": "Catalysis of the reaction: octanoyl-CoA + H+ + malonyl-[ACP] = 3-oxodecanoyl-[ACP] + CO2 + CoA.",
+  "namespace": "molecular_function",
+  "label": "beta-ketodecanoyl-[acyl-carrier-protein] synthase activity"
+}

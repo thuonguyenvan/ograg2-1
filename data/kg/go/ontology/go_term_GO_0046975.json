@@ -1,0 +1,31 @@
+{
+  "id": "GO:0046975",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046975",
+  "relationships": {
+    "is_a": [
+      "GO:0016279",
+      "GO:0140938"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H3K36 methylase activity",
+      "histone lysine N-methyltransferase activity (H3-K36 specific)",
+      "histone methylase activity (H3-K36 specific)",
+      "histone methyltransferase activity (H3-K36 specific)",
+      "histone-H3K36 methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + histone H3 L-lysine (position 36) = S-adenosyl-L-homocysteine + histone H3 N6-methyl-L-lysine (position 36). This reaction is the addition of a methyl group to the lysine residue at position 36 of the histone H3 protein.",
+  "namespace": "molecular_function",
+  "label": "histone H3K36 methyltransferase activity"
+}

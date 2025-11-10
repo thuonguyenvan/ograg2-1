@@ -1,0 +1,38 @@
+{
+  "id": "GO:0030342",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030342",
+  "relationships": {
+    "is_a": [
+      "GO:0070576"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1,25-(OH)2D3 24-hydroxylase activity",
+      "calcitriol 24-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "24964"
+    ],
+    "Reactome": [
+      "R-HSA-209765",
+      "R-HSA-211950",
+      "R-HSA-5602004"
+    ],
+    "PMID": [
+      "8506296",
+      "8506296"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the hydroxylation of C-24 of 1-alpha,25-hydroxycholecalciferol (25-hydroxyvitamin D3; calcitriol).",
+  "namespace": "molecular_function",
+  "label": "Defective CYP24A1 does not 24-hydroxylate CALTOL"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0046964",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046964",
+  "relationships": {
+    "is_a": [
+      "GO:0000295",
+      "GO:0005346",
+      "GO:1901682"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3&apos;-phosphoadenosine 5&apos;-phosphosulphate transporter activity",
+      "PAPS transporter activity",
+      "adenosine 3&apos;-phosphate 5&apos;-phosphosulfate transmembrane transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-741449"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Enables the transfer of 3&apos;-phosphoadenosine 5&apos;-phosphosulfate, a naturally occurring mixed anhydride synthesized from adenosine 5&apos;-phosphosulfate, from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "SLC35B2,3 exchange cytosolic PAPS with Golgi PAP"
+}

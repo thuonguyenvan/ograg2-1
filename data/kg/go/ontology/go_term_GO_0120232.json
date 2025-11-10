@@ -1,0 +1,40 @@
+{
+  "id": "GO:0120232",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120232",
+  "relationships": {
+    "is_a": [
+      "GO:0009156",
+      "GO:0009260",
+      "GO:0042727"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "prenyl-FMNH2 anabolism",
+      "prenyl-FMNH2 biosynthesis",
+      "prenyl-FMNH2 formation",
+      "prenyl-FMNH2 synthesis",
+      "prenylated FMNH2 anabolism",
+      "prenylated FMNH2 biosynthesis",
+      "prenylated FMNH2 biosynthetic process",
+      "prenylated FMNH2 formation",
+      "prenylated FMNH2 synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "25647642",
+      "26083743",
+      "26083754"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in prenyl-FMNH2, an essential cofactor for the decarboxylase enzymes UbiD and Fdc1.",
+  "namespace": "biological_process",
+  "label": "prenyl-FMNH2 biosynthetic process"
+}

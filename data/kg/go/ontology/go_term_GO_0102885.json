@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102885",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102885",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.95",
+      "4.2.3.95"
+    ],
+    "MetaCyc": [
+      "RXN-8426"
+    ],
+    "RHEA": [
+      "32027"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-trans,6-trans-farnesyl diphosphate = (-)-alpha-cuprenene + diphosphoric acid.",
+  "namespace": "molecular_function",
+  "label": "alpha-cuprenene synthase activity"
+}

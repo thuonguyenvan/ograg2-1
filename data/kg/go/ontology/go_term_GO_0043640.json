@@ -1,0 +1,30 @@
+{
+  "id": "GO:0043640",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043640",
+  "relationships": {
+    "is_a": [
+      "GO:0043639"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "benzoate breakdown via hydroxylation",
+      "benzoate degradation via hydroxylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-2503",
+      "PWY-2503"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of benzoate, by its hydroxylation to cis-1,2-dihydroxybenzoate followed by dehydrogenation to catechol.",
+  "namespace": "biological_process",
+  "label": "benzoate catabolic process via hydroxylation"
+}

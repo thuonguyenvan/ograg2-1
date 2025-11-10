@@ -1,0 +1,27 @@
+{
+  "id": "GO:0016882",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016882",
+  "relationships": {
+    "is_a": [
+      "GO:0016879"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.3.-"
+    ],
+    "GOC": [
+      "jl",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the joining of two groups within a single molecule via a carbon-nitrogen bond, forming heterocyclic ring, with the concomitant hydrolysis of the diphosphate bond in ATP or a similar triphosphate.",
+  "namespace": "molecular_function",
+  "label": "cyclo-ligase activity"
+}

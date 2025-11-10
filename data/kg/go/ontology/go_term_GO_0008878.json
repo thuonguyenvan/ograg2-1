@@ -1,0 +1,59 @@
+{
+  "id": "GO:0008878",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008878",
+  "relationships": {
+    "is_a": [
+      "GO:0070566"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ADGase activity",
+      "ADPG pyrophosphorylase activity",
+      "ATP:alpha-glucose-1-phosphate adenylyl transferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ADP glucose pyrophosphorylase activity",
+      "ADP-glucose diphosphorylase activity",
+      "ADP-glucose pyrophosphorylase activity",
+      "ADP-glucose synthase activity",
+      "ADP-glucose synthetase activity",
+      "ADP:alpha-D-glucose-1-phosphate adenylyltransferase activity",
+      "ATP:alpha-D-glucose-1-phosphate adenylyltransferase activity",
+      "adenosine diphosphate glucose pyrophosphorylase activity",
+      "adenosine diphosphoglucose pyrophosphorylase activity",
+      "glucose 1-phosphate adenylyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.27",
+      "2.7.7.27",
+      "2.7.7.27",
+      "2.7.7.27",
+      "2.7.7.27",
+      "2.7.7.27",
+      "2.7.7.27",
+      "2.7.7.27",
+      "2.7.7.27",
+      "2.7.7.27",
+      "2.7.7.27",
+      "2.7.7.27"
+    ],
+    "KEGG_REACTION": [
+      "R00948"
+    ],
+    "MetaCyc": [
+      "GLUC1PADENYLTRANS-RXN"
+    ],
+    "RHEA": [
+      "12120",
+      "12120"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-D-glucose 1-phosphate + ATP = ADP-glucose + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "glucose-1-phosphate adenylyltransferase activity"
+}

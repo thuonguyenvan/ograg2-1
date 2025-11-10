@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032109",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032109",
+  "relationships": {
+    "is_a": [
+      "GO:0032107",
+      "GO:0048584"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of response to nutrient levels",
+      "up-regulation of response to nutrient levels",
+      "upregulation of response to nutrient levels"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of response to nutrient levels",
+      "stimulation of response to nutrient levels"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of a response to nutrient levels.",
+  "namespace": "biological_process",
+  "label": "positive regulation of response to nutrient levels"
+}

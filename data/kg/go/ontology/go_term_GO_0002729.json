@@ -1,0 +1,33 @@
+{
+  "id": "GO:0002729",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002729",
+  "relationships": {
+    "is_a": [
+      "GO:0002717",
+      "GO:0002720",
+      "GO:0002727"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of NK cell cytokine production",
+      "up regulation of natural killer cell cytokine production",
+      "up-regulation of natural killer cell cytokine production",
+      "upregulation of natural killer cell cytokine production"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of natural killer cell cytokine production",
+      "stimulation of natural killer cell cytokine production"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of natural killer cell cytokine production.",
+  "namespace": "biological_process",
+  "label": "positive regulation of natural killer cell cytokine production"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0099073",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099073",
+  "relationships": {
+    "is_a": [
+      "GO:0031410"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MDV"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL-UCL",
+      "bc",
+      "pad"
+    ],
+    "PMID": [
+      "18207745",
+      "20619655",
+      "22226745",
+      "23300790",
+      "26618722"
+    ]
+  },
+  "definition": "A vesicle derived via budding from a mitochondrion. These vesicles often contain inner membrane and, much more rarely, cristae.",
+  "namespace": "cellular_component",
+  "label": "mitochondrion-derived vesicle"
+}

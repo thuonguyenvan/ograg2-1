@@ -1,0 +1,33 @@
+{
+  "id": "GO:0000938",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000938",
+  "relationships": {
+    "is_a": [
+      "GO:0099023"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Golgi associated retrograde protein complex",
+      "VFT tethering complex",
+      "Vps fifty three tethering complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "clt",
+      "rn"
+    ],
+    "PMID": [
+      "10637310",
+      "12077354",
+      "12446664"
+    ]
+  },
+  "definition": "A quatrefoil tethering complex required for retrograde traffic from the early endosome back to the late Golgi and biogenesis of cytoplasmic vesicles.",
+  "namespace": "cellular_component",
+  "label": "GARP complex"
+}

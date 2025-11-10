@@ -1,0 +1,33 @@
+{
+  "id": "GO:0002385",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002385",
+  "relationships": {
+    "is_a": [
+      "GO:0002251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "immune response in MALT",
+      "immune response in mucosal-associated lymphoid tissue",
+      "immune response in urogenital tract"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jal"
+    ],
+    "GO_REF": [
+      "0000022"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "An immune response taking place in mucosal tissues, including those of the intestinal tract, nasal and upper respiratory tract, and genital tract.",
+  "namespace": "biological_process",
+  "label": "mucosal immune response"
+}

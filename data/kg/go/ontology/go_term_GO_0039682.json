@@ -1,0 +1,30 @@
+{
+  "id": "GO:0039682",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039682",
+  "relationships": {
+    "is_a": [
+      "GO:0039687"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "jl"
+    ],
+    "VZ": [
+      "915"
+    ],
+    "Wikipedia": [
+      "Rolling_circle_replication"
+    ]
+  },
+  "definition": "A process of unidirectional viral DNA replication that takes place on a circular DNA to rapidly produce numerous copies of the viral genome. Involves creating a nick in one strand of the circular DNA molecule at the origin of replication. DNA is then synthesized by DNA polymerase. Using the non-nicked strand as a template, replication proceeds around the circular DNA molecule, displacing the nicked strand as single-stranded DNA.",
+  "namespace": "biological_process",
+  "label": "rolling circle viral DNA replication"
+}

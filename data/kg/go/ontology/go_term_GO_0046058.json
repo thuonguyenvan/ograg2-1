@@ -1,0 +1,36 @@
+{
+  "id": "GO:0046058",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046058",
+  "relationships": {
+    "is_a": [
+      "GO:0009150",
+      "GO:0052652"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3&apos;,5&apos; cAMP metabolic process",
+      "3&apos;,5&apos; cAMP metabolism",
+      "3&apos;,5&apos;-cAMP metabolic process",
+      "3&apos;,5&apos;-cAMP metabolism",
+      "adenosine 3&apos;,5&apos;-cyclophosphate metabolic process",
+      "adenosine 3&apos;,5&apos;-cyclophosphate metabolism",
+      "cAMP metabolism",
+      "cyclic AMP metabolic process",
+      "cyclic AMP metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cAMP generating peptide activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving the nucleotide cAMP (cyclic AMP, adenosine 3&apos;,5&apos;-cyclophosphate).",
+  "namespace": "biological_process",
+  "label": "cAMP metabolic process"
+}

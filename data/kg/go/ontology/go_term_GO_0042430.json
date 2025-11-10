@@ -1,0 +1,33 @@
+{
+  "id": "GO:0042430",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042430",
+  "relationships": {
+    "is_a": [
+      "GO:0008152"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "indole and derivative metabolic process",
+      "indole and derivative metabolism",
+      "indole-containing compound metabolism",
+      "ketole metabolic process",
+      "ketole metabolism"
+    ],
+    "broad": [],
+    "narrow": [
+      "indole derivative metabolic process",
+      "indole derivative metabolism"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving compounds that contain an indole (2,3-benzopyrrole) skeleton.",
+  "namespace": "biological_process",
+  "label": "indole-containing compound metabolic process"
+}

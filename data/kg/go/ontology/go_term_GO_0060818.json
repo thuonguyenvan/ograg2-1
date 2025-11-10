@@ -1,0 +1,35 @@
+{
+  "id": "GO:0060818",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060818",
+  "relationships": {
+    "is_a": [
+      "GO:0009048",
+      "GO:0071514"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "iXCI",
+      "inactivation of paternal X chromosome by genetic imprinting"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "sdb_2009",
+      "tb"
+    ],
+    "PMID": [
+      "11743158",
+      "16789828",
+      "18425126",
+      "23578369"
+    ]
+  },
+  "definition": "Compensating for the two-fold variation in X-chromosome:autosome ratios between sexes by a global inactivation of all, or most of, the genes on the paternal X-chromosome in the XX sex by genomic imprinting.",
+  "namespace": "biological_process",
+  "label": "inactivation of paternal X chromosome by genomic imprinting"
+}

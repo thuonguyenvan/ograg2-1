@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032273",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032273",
+  "relationships": {
+    "is_a": [
+      "GO:0031334",
+      "GO:0032271"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of protein polymerization",
+      "up-regulation of protein polymerization",
+      "upregulation of protein polymerization"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein polymerization",
+      "stimulation of protein polymerization"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the process of creating protein polymers.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein polymerization"
+}

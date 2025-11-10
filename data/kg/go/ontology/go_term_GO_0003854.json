@@ -1,0 +1,66 @@
+{
+  "id": "GO:0003854",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003854",
+  "relationships": {
+    "is_a": [
+      "GO:0033764"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-beta-hydroxy-D5-steroid dehydrogenase activity"
+    ],
+    "broad": [
+      "3beta-hydroxy-delta5-C27-steroid oxidoreductase",
+      "progesterone reductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "3-beta-hydroxy-5-ene steroid dehydrogenase activity",
+      "3beta-HSDH",
+      "3beta-hydroxy steroid dehydrogenase/isomerase activity",
+      "3beta-hydroxy-5-ene steroid dehydrogenase activity",
+      "3beta-hydroxy-5-ene-steroid dehydrogenase activity",
+      "3beta-hydroxy-5-ene-steroid oxidoreductase activity",
+      "3beta-hydroxy-delta5-C27-steroid dehydrogenase/isomerase activity",
+      "3beta-hydroxy-delta5-steroid dehydrogenase activity",
+      "3beta-hydroxy-delta5-steroid:NAD+ 3-oxidoreductase activity",
+      "5-ene-3-beta-hydroxysteroid dehydrogenase activity",
+      "delta5-3beta-hydroxysteroid dehydrogenase activity",
+      "steroid-delta5-3beta-ol dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.145",
+      "1.1.1.145",
+      "1.1.1.145",
+      "1.1.1.145",
+      "1.1.1.145",
+      "1.1.1.145",
+      "1.1.1.145",
+      "1.1.1.145",
+      "1.1.1.145",
+      "1.1.1.145",
+      "1.1.1.145",
+      "1.1.1.145",
+      "1.1.1.145",
+      "1.1.1.145",
+      "1.1.1.145",
+      "1.1.1.145"
+    ],
+    "MetaCyc": [
+      "1.1.1.145-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-192097",
+      "R-HSA-193789",
+      "R-HSA-193816",
+      "R-HSA-196350",
+      "R-HSA-196372"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 3-beta-hydroxy-Delta(5)-steroid + NAD+ = a 3-oxo-Delta(5)-steroid + NADH + H+. Also acts on on 3-beta-hydroxypregn-5-en-20-one to form progesterone.",
+  "namespace": "molecular_function",
+  "label": "17-Hydroxypregnenolone is dehydrogenated to form pregn-5-ene-3,20-dione-17-ol"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0042332",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042332",
+  "relationships": {
+    "is_a": [
+      "GO:0009629",
+      "GO:0042330"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "geotactic behavior",
+      "geotactic behaviour",
+      "geotaxis",
+      "gravitactic behavior",
+      "gravitactic behaviour",
+      "taxis in response to gravitational stimulus",
+      "taxis in response to gravity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid",
+      "jl"
+    ]
+  },
+  "definition": "The directed movement of a motile cell or organism in response to gravity.",
+  "namespace": "biological_process",
+  "label": "gravitaxis"
+}

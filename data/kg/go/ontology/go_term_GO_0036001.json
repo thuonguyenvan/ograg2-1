@@ -1,0 +1,42 @@
+{
+  "id": "GO:0036001",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036001",
+  "relationships": {
+    "is_a": [
+      "GO:0042823"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "&apos;de novo&apos; PLP biosynthesis",
+      "&apos;de novo&apos; pyridoxal 5&apos;-phosphate anabolism",
+      "&apos;de novo&apos; pyridoxal 5&apos;-phosphate biosynthesis",
+      "&apos;de novo&apos; pyridoxal 5&apos;-phosphate formation",
+      "&apos;de novo&apos; pyridoxal 5&apos;-phosphate synthesis"
+    ],
+    "broad": [
+      "&apos;de novo&apos; pyridoxal phosphate biosynthetic process"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PYRIDOXSYN-PWY",
+      "PYRIDOXSYN-PWY",
+      "PYRIDOXSYN-PWY"
+    ],
+    "GOC": [
+      "bf",
+      "yaf",
+      "bf",
+      "bf",
+      "bf",
+      "bf",
+      "bf"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of pyridoxal 5&apos;-phosphate, the active form of vitamin B6, from simpler components.",
+  "namespace": "biological_process",
+  "label": "&apos;de novo&apos; pyridoxal 5&apos;-phosphate biosynthetic process"
+}

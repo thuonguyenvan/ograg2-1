@@ -1,0 +1,35 @@
+{
+  "id": "GO:0019398",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019398",
+  "relationships": {
+    "is_a": [
+      "GO:0042195"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "gallate breakdown via 4-carboxy-2-hydroxhexa-2,3-dienedioate",
+      "gallate degradation via 4-carboxy-2-hydroxhexa-2,3-dienedioate",
+      "gallic acid catabolic process via 4-carboxy-2-hydroxhexa-2,3-dienedioate",
+      "gallic acid catabolism via 4-carboxy-2-hydroxhexa-2,3-dienedioate"
+    ],
+    "broad": [
+      "gallate catabolic process via 4-carboxy-2-hydroxhexa-2,3-dienedioate"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "GALLATE-DEGRADATION-II-PWY"
+    ],
+    "GOC": [
+      "bf",
+      "jl",
+      "bf"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of gallate, the anion of gallic acid, where the first step is the conversion of gallate to (1E)-4-oxobut-1-ene-1,2,4-tricarboxylate catalyzed by gallate dioxygenase.",
+  "namespace": "biological_process",
+  "label": "gallate catabolic process via gallate dioxygenase activity"
+}

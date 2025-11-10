@@ -1,0 +1,91 @@
+{
+  "id": "GO:1904972",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904972",
+  "relationships": {
+    "is_a": [
+      "GO:0048525",
+      "GO:1904971"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of viral protein anabolism",
+      "down regulation of viral protein biosynthesis",
+      "down regulation of viral protein biosynthetic process",
+      "down regulation of viral protein formation",
+      "down regulation of viral protein synthesis",
+      "down regulation of viral translation",
+      "down-regulation of viral protein anabolism",
+      "down-regulation of viral protein biosynthesis",
+      "down-regulation of viral protein biosynthetic process",
+      "down-regulation of viral protein formation",
+      "down-regulation of viral protein synthesis",
+      "down-regulation of viral translation",
+      "downregulation of viral protein anabolism",
+      "downregulation of viral protein biosynthesis",
+      "downregulation of viral protein biosynthetic process",
+      "downregulation of viral protein formation",
+      "downregulation of viral protein synthesis",
+      "downregulation of viral translation",
+      "negative regulation of viral protein anabolism",
+      "negative regulation of viral protein biosynthesis",
+      "negative regulation of viral protein biosynthetic process",
+      "negative regulation of viral protein formation",
+      "negative regulation of viral protein synthesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of viral protein anabolism",
+      "inhibition of viral protein biosynthesis",
+      "inhibition of viral protein biosynthetic process",
+      "inhibition of viral protein formation",
+      "inhibition of viral protein synthesis",
+      "inhibition of viral translation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bhm",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19666601"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of viral translation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of viral translation"
+}

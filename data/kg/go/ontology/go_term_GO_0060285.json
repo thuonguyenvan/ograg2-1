@@ -1,0 +1,33 @@
+{
+  "id": "GO:0060285",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060285",
+  "relationships": {
+    "is_a": [
+      "GO:0001539"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cilium cell motility",
+      "microtubule-based flagellar cell motility"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ciliary cell motility"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "dgh",
+      "dph",
+      "krc",
+      "mlg",
+      "mtg_cambridge_2013"
+    ]
+  },
+  "definition": "Cell motility due to the motion of one or more eukaryotic cilia. A eukaryotic cilium is a specialized organelle that consists of a filiform extrusion of the cell surface. Each cilium is bounded by an extrusion of the cytoplasmic (plasma) membrane, and contains a regular longitudinal array of microtubules, anchored basally in a centriole.",
+  "namespace": "biological_process",
+  "label": "cilium-dependent cell motility"
+}

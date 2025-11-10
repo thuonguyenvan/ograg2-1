@@ -1,0 +1,29 @@
+{
+  "id": "GO:0010352",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010352",
+  "relationships": {
+    "is_a": [
+      "GO:0090452",
+      "GO:0140115"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lithium export"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "lithium ion efflux",
+      "lithium ion export"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "17270011"
+    ]
+  },
+  "definition": "The directed movement of lithium ion out of a cell or organelle.",
+  "namespace": "biological_process",
+  "label": "lithium ion export across the plasma membrane"
+}

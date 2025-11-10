@@ -1,0 +1,27 @@
+{
+  "id": "GO:1990837",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990837",
+  "relationships": {
+    "is_a": [
+      "GO:0003690",
+      "GO:0043565"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sequence-specific dsDNA binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dos",
+      "sl"
+    ]
+  },
+  "definition": "Binding to double-stranded DNA of a specific nucleotide composition, e.g. GC-rich DNA binding, or with a specific sequence motif or type of DNA, e.g. promotor binding or rDNA binding.",
+  "namespace": "molecular_function",
+  "label": "sequence-specific double-stranded DNA binding"
+}

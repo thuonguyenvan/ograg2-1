@@ -1,0 +1,30 @@
+{
+  "id": "GO:0010828",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010828",
+  "relationships": {
+    "is_a": [
+      "GO:0010827",
+      "GO:0034764"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of glucose transmembrane transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of glucose transport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that increases the frequency, rate or extent of glucose transport across a membrane. Glucose transport is the directed movement of the hexose monosaccharide glucose into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "positive regulation of D-glucose transmembrane transport"
+}

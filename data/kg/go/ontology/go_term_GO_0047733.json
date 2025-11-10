@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047733",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047733",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CDP-glucose 4,6-hydro-lyase (CDP-4-dehydro-6-deoxy-D-glucose-forming)",
+      "CDP-glucose 4,6-hydro-lyase activity",
+      "CDPglucose 4,6-dehydratase activity",
+      "CDPglucose 4,6-hydro-lyase activity",
+      "cytidine diphosphoglucose oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.45",
+      "4.2.1.45",
+      "4.2.1.45",
+      "4.2.1.45",
+      "4.2.1.45",
+      "4.2.1.45",
+      "4.2.1.45"
+    ],
+    "KEGG_REACTION": [
+      "R02426"
+    ],
+    "MetaCyc": [
+      "CDP-GLUCOSE-46-DEHYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "17153",
+      "17153"
+    ]
+  },
+  "definition": "Catalysis of the reaction: CDP-D-glucose = CDP-4-dehydro-6-deoxy-D-glucose + H2O.",
+  "namespace": "molecular_function",
+  "label": "CDP-glucose 4,6-dehydratase activity"
+}

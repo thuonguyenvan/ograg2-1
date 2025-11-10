@@ -1,0 +1,33 @@
+{
+  "id": "GO:0019487",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019487",
+  "relationships": {
+    "is_a": [
+      "GO:0042178",
+      "GO:0043454"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "anaerobic acetylene breakdown",
+      "anaerobic acetylene catabolism",
+      "anaerobic acetylene degradation",
+      "anaerobic ethyne catabolic process",
+      "anaerobic ethyne catabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P161-PWY"
+    ],
+    "ISBN": [
+      "0721662544"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving acetylene, a colorless, volatile, explosive gas, that occur in the absence of oxygen.",
+  "namespace": "biological_process",
+  "label": "anaerobic acetylene catabolic process"
+}

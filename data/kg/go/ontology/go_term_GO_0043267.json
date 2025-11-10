@@ -1,0 +1,37 @@
+{
+  "id": "GO:0043267",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043267",
+  "relationships": {
+    "is_a": [
+      "GO:0043266",
+      "GO:0043271"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of potassium ion transport",
+      "down-regulation of potassium ion transport",
+      "downregulation of potassium ion transport",
+      "negative regulation of K+ transport",
+      "negative regulation of potassium transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of potassium ion transport",
+      "negative regulation of potassium ion conductance",
+      "regulation of K+ conductance",
+      "regulation of potassium conductance"
+    ],
+    "related": [
+      "transmembrane conductance regulator activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the directed movement of potassium ions (K+) into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "negative regulation of potassium ion transport"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:1905423",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905423",
+  "relationships": {
+    "is_a": [
+      "GO:0051094",
+      "GO:0051240",
+      "GO:1905421"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of plant organ morphogenesis",
+      "up-regulation of plant organ morphogenesis",
+      "upregulation of plant organ morphogenesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of plant organ morphogenesis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "tb",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of plant organ morphogenesis.",
+  "namespace": "biological_process",
+  "label": "positive regulation of plant organ morphogenesis"
+}

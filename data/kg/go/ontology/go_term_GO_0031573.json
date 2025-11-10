@@ -1,0 +1,29 @@
+{
+  "id": "GO:0031573",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031573",
+  "relationships": {
+    "is_a": [
+      "GO:0044773"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "intra-S DNA damage checkpoint",
+      "mitotic intra-S DNA damage checkpoint",
+      "signal transduction involved in intra-S DNA damage checkpoint"
+    ],
+    "broad": [
+      "S-phase checkpoint"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw"
+    ]
+  },
+  "definition": "A mitotic cell cycle checkpoint that slows DNA synthesis in response to DNA damage by the prevention of new origin firing and the stabilization of slow replication fork progression.",
+  "namespace": "biological_process",
+  "label": "mitotic intra-S DNA damage checkpoint signaling"
+}

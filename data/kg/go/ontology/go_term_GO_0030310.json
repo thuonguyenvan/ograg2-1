@@ -1,0 +1,31 @@
+{
+  "id": "GO:0030310",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030310",
+  "relationships": {
+    "is_a": [
+      "GO:0006026",
+      "GO:0030309"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "poly-N-acetyllactosamine breakdown",
+      "poly-N-acetyllactosamine catabolism",
+      "poly-N-acetyllactosamine degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "9405606"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of poly-N-acetyllactosamine, a carbohydrate composed of N-acetyllactosamine repeats (Gal-beta-1,4-GlcNAc-beta-1,3)n.",
+  "namespace": "biological_process",
+  "label": "poly-N-acetyllactosamine catabolic process"
+}

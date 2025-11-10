@@ -1,0 +1,30 @@
+{
+  "id": "GO:0140987",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140987",
+  "relationships": {
+    "is_a": [
+      "GO:0005347",
+      "GO:0015315"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP:inorganic phosphate antiporter activity",
+      "inorganic phosphate:ATP antiporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "65840"
+    ],
+    "PMID": [
+      "15123600"
+    ]
+  },
+  "definition": "Enables the transfer of ATP from one side of a membrane to the other according to the reaction: ATP(out) + phosphate(in) = ATP(in) + phosphate(out).",
+  "namespace": "molecular_function",
+  "label": "ATP:phosphate antiporter activity"
+}

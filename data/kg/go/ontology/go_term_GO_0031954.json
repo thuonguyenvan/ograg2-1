@@ -1,0 +1,33 @@
+{
+  "id": "GO:0031954",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031954",
+  "relationships": {
+    "is_a": [
+      "GO:0001934",
+      "GO:0031952"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of protein amino acid autophosphorylation",
+      "up regulation of protein amino acid autophosphorylation",
+      "up-regulation of protein amino acid autophosphorylation",
+      "upregulation of protein amino acid autophosphorylation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein amino acid autophosphorylation",
+      "stimulation of protein amino acid autophosphorylation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "bf"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the phosphorylation by a protein of one or more of its own residues.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein autophosphorylation"
+}

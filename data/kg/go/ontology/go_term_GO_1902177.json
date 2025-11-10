@@ -1,0 +1,41 @@
+{
+  "id": "GO:1902177",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902177",
+  "relationships": {
+    "is_a": [
+      "GO:1902175",
+      "GO:2001244"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of intrinsic apoptotic signaling pathway in response to oxidative stress",
+      "up regulation of intrinsic apoptotic signaling pathway in response to oxidative stress",
+      "up-regulation of intrinsic apoptotic signaling pathway in response to oxidative stress",
+      "upregulation of intrinsic apoptotic signaling pathway in response to oxidative stress"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of intrinsic apoptotic signaling pathway in response to oxidative stress"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "mtg_apoptosis",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "11672522"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of an oxidative stress-induced intrinsic apoptotic signaling pathway.",
+  "namespace": "biological_process",
+  "label": "positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway"
+}

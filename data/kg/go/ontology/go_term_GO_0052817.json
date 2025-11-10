@@ -1,0 +1,29 @@
+{
+  "id": "GO:0052817",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052817",
+  "relationships": {
+    "is_a": [
+      "GO:0047617"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "very long-chain acyl coenzyme A hydrolase activity",
+      "very long-chain acyl-thioester hydrolase activity",
+      "very long-chain hydrolase activity",
+      "very long-chain-acyl-CoA hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "67072",
+      "67072"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a very long-chain fatty acyl-CoA + H2O = a very long-chain fatty acid + CoA + H+. A very long-chain fatty acid has an aliphatic tail containing more than 22 carbons.",
+  "namespace": "molecular_function",
+  "label": "very long-chain fatty acyl-CoA hydrolase activity"
+}

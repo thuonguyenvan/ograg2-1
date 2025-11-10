@@ -1,0 +1,29 @@
+{
+  "id": "GO:0072738",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072738",
+  "relationships": {
+    "is_a": [
+      "GO:0072737",
+      "GO:1901699"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to N,N,N&apos;,N&apos;-tetramethyldiazene-1,2-dicarboxamide"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "CHEBI": [
+      "48958"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a diamide (N,N,N&apos;,N&apos;-tetramethyldiazene-1,2-dicarboxamide) stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to diamide"
+}

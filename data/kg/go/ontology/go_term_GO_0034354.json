@@ -1,0 +1,33 @@
+{
+  "id": "GO:0034354",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034354",
+  "relationships": {
+    "is_a": [
+      "GO:0006568",
+      "GO:0009435"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "&apos;de novo&apos; NAD biosynthetic process from L-tryptophan"
+    ],
+    "broad": [
+      "&apos;de novo&apos; NAD biosynthetic process from tryptophan"
+    ],
+    "narrow": [],
+    "related": [
+      "de novo NAD biosynthetic process from tryptophan"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "NADSYN-PWY"
+    ],
+    "PMID": [
+      "17161604"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of nicotinamide adenine dinucleotide (NAD+), beginning with the catabolism of L-tryptophan into the precursor quinolinate. NAD+ is a coenzyme that interconverts with its reduced form, NADH, in many redox and catabolic reactions.",
+  "namespace": "biological_process",
+  "label": "&apos;de novo&apos; NAD+ biosynthetic process from L-tryptophan"
+}

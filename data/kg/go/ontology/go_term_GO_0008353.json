@@ -1,0 +1,53 @@
+{
+  "id": "GO:0008353",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008353",
+  "relationships": {
+    "is_a": [
+      "GO:0004674",
+      "GO:0140994"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA polymerase II carboxy-terminal domain kinase activity"
+    ],
+    "broad": [
+      "RNA polymerase subunit kinase activity",
+      "RNA-polymerase-subunit kinase activity",
+      "[RNA-polymerase]-subunit kinase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "CTD kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.11.23",
+      "2.7.11.23",
+      "2.7.11.23",
+      "2.7.11.23",
+      "2.7.11.23"
+    ],
+    "MetaCyc": [
+      "RNA-POLYMERASE-SUBUNIT-KINASE-RXN"
+    ],
+    "RHEA": [
+      "10216"
+    ],
+    "Reactome": [
+      "R-HSA-167191",
+      "R-HSA-170704",
+      "R-HSA-170706"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "28248323"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + RNA polymerase II large subunit CTD heptapeptide repeat (consensus YSPTSPS) = ADP + H+ + phosphorylated RNA polymerase II.",
+  "namespace": "molecular_function",
+  "label": "Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex"
+}

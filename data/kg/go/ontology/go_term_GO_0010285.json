@@ -1,0 +1,44 @@
+{
+  "id": "GO:0010285",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010285",
+  "relationships": {
+    "is_a": [
+      "GO:0008483"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LL-2,6-diaminoheptanedioate:2-oxoglutarate aminotransferase activity",
+      "LL-diaminopimelate aminotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "LL-DAP aminotransferase activity",
+      "LL-DAP-AT activity",
+      "LL-diaminopimelate transaminase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.83",
+      "2.6.1.83",
+      "2.6.1.83",
+      "2.6.1.83",
+      "2.6.1.83"
+    ],
+    "KEGG_REACTION": [
+      "R07613"
+    ],
+    "MetaCyc": [
+      "RXN-7737"
+    ],
+    "RHEA": [
+      "23988",
+      "23988"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxoglutarate + LL-2,6-diaminopimelate = (S)-2,3,4,5-tetrahydrodipicolinate + L-glutamate + H2O + H+.",
+  "namespace": "molecular_function",
+  "label": "L,L-diaminopimelate aminotransferase activity"
+}

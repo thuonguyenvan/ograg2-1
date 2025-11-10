@@ -1,0 +1,29 @@
+{
+  "id": "GO:0009165",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009165",
+  "relationships": {
+    "is_a": [
+      "GO:0009117",
+      "GO:1901293"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nucleotide anabolism",
+      "nucleotide biosynthesis",
+      "nucleotide formation",
+      "nucleotide synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of nucleotides, any nucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the glycose moiety; may be mono-, di- or triphosphate; this definition includes cyclic-nucleotides (nucleoside cyclic phosphates).",
+  "namespace": "biological_process",
+  "label": "nucleotide biosynthetic process"
+}

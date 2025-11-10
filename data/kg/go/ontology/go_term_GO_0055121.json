@@ -1,0 +1,28 @@
+{
+  "id": "GO:0055121",
+  "uri": "http://purl.obolibrary.org/obo/GO_0055121",
+  "relationships": {
+    "is_a": [
+      "GO:0009637",
+      "GO:0009644"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "response to high fluence blue light"
+    ],
+    "narrow": [],
+    "related": [
+      "response to high fluence blue light by bhf system"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_far_red"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of the detection of a high fluence blue light stimulus by the blue high-fluence system. Blue light is electromagnetic radiation with a wavelength of between 440 and 500nm. The blue high-fluence system responds to blue light at levels between 100 and 1000 micromols/m2.",
+  "namespace": "biological_process",
+  "label": "response to high fluence blue light stimulus by blue high-fluence system"
+}

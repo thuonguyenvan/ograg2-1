@@ -1,0 +1,27 @@
+{
+  "id": "GO:0000101",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000101",
+  "relationships": {
+    "is_a": [
+      "GO:0046942",
+      "GO:0071705",
+      "GO:0072348"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulphur amino acid transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The directed movement of amino acids containing sulfur (cystine, methionine and their derivatives) into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "sulfur amino acid transport"
+}

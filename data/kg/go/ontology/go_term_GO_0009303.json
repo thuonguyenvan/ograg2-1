@@ -1,0 +1,31 @@
+{
+  "id": "GO:0009303",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009303",
+  "relationships": {
+    "is_a": [
+      "GO:0006351",
+      "GO:0016072"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "rRNA biosynthesis",
+      "rRNA biosynthetic process",
+      "rRNA synthesis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The synthesis of ribosomal RNA (rRNA), any RNA that forms part of the ribosomal structure, from a DNA template.",
+  "namespace": "biological_process",
+  "label": "rRNA transcription"
+}

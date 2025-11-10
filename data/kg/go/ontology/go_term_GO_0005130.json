@@ -1,0 +1,31 @@
+{
+  "id": "GO:0005130",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005130",
+  "relationships": {
+    "is_a": [
+      "GO:0005126",
+      "GO:0070851"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G-CSF receptor ligand",
+      "GC-SF receptor ligand",
+      "granulocyte colony stimulating factor receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "granulocyte colony-stimulating factor",
+      "granulocyte colony-stimulating factor receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binding to a granulocyte colony-stimulating factor receptor.",
+  "namespace": "molecular_function",
+  "label": "granulocyte colony-stimulating factor receptor binding"
+}

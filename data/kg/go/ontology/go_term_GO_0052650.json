@@ -1,0 +1,59 @@
+{
+  "id": "GO:0052650",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052650",
+  "relationships": {
+    "is_a": [
+      "GO:0008106"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NADP-retinol dehydrogenase activity"
+    ],
+    "broad": [
+      "all-trans retinal reductase activity",
+      "all-trans-retinol dehydrogenase activity",
+      "retinol dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "NADP(H)-dependent retinol dehydrogenase/reductase activity",
+      "retinol dehydrogenase [NADP+] activity",
+      "retinol:NADP+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.300",
+      "1.1.1.300",
+      "1.1.1.300",
+      "1.1.1.300",
+      "1.1.1.300",
+      "1.1.1.300"
+    ],
+    "KEGG_REACTION": [
+      "R08379"
+    ],
+    "MetaCyc": [
+      "RXN-10841"
+    ],
+    "RHEA": [
+      "25033",
+      "25033"
+    ],
+    "Reactome": [
+      "R-HSA-2464803",
+      "R-HSA-2464822",
+      "R-HSA-2465921",
+      "R-HSA-2465940",
+      "R-HSA-2466861",
+      "R-HSA-5419165",
+      "R-HSA-5615668",
+      "R-HSA-5623643",
+      "R-HSA-74872"
+    ]
+  },
+  "definition": "Catalysis of the reaction: all-trans-retinol + NADP+ = all-trans-retinal + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "RDH10,11 oxidise 11cROL to 11cRAL"
+}

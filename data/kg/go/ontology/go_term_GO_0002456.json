@@ -1,0 +1,37 @@
+{
+  "id": "GO:0002456",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002456",
+  "relationships": {
+    "is_a": [
+      "GO:0002449",
+      "GO:0002460"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "T lymphocyte mediated immunity",
+      "T-cell mediated immunity",
+      "T-lymphocyte mediated immunity"
+    ],
+    "broad": [
+      "cell-mediated immunity",
+      "cellular immune response"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "GO_REF": [
+      "0000022"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "Any process involved in the carrying out of an immune response by a T cell.",
+  "namespace": "biological_process",
+  "label": "T cell mediated immunity"
+}

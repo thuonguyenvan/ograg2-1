@@ -1,0 +1,34 @@
+{
+  "id": "GO:1990442",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990442",
+  "relationships": {
+    "is_a": [
+      "GO:0071500",
+      "GO:0097193"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nitrosative stress-induced intrinsic apoptotic signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "nitrosative stress-induced apoptosis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "23985028",
+      "23985028"
+    ]
+  },
+  "definition": "The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a cell. The pathway is induced in response to nitrosative stress; a state often resulting from exposure to high levels of nitric oxide (NO) or the highly reactive oxidant peroxynitrite, which is produced following interaction of NO with superoxide anions.",
+  "namespace": "biological_process",
+  "label": "intrinsic apoptotic signaling pathway in response to nitrosative stress"
+}

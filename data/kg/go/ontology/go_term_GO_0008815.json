@@ -1,0 +1,54 @@
+{
+  "id": "GO:0008815",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008815",
+  "relationships": {
+    "is_a": [
+      "GO:0016833"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "citrate lyase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "citrate lyase"
+    ],
+    "related": [
+      "citrase activity",
+      "citratase activity",
+      "citrate aldolase activity",
+      "citrate oxaloacetate-lyase [(pro-3S)-CH2COO--&gt;acetate]",
+      "citrate oxaloacetate-lyase activity",
+      "citric aldolase activity",
+      "citridesmolase activity",
+      "citritase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.3.6",
+      "4.1.3.6",
+      "4.1.3.6",
+      "4.1.3.6",
+      "4.1.3.6",
+      "4.1.3.6",
+      "4.1.3.6",
+      "4.1.3.6",
+      "4.1.3.6"
+    ],
+    "KEGG_REACTION": [
+      "R00362"
+    ],
+    "MetaCyc": [
+      "CITLY-RXN"
+    ],
+    "RHEA": [
+      "10760",
+      "10760"
+    ]
+  },
+  "definition": "Catalysis of the reaction: citrate = acetate + oxaloacetate.",
+  "namespace": "molecular_function",
+  "label": "citrate (pro-3S)-lyase activity"
+}

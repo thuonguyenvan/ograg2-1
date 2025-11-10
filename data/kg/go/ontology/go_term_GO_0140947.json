@@ -1,0 +1,33 @@
+{
+  "id": "GO:0140947",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140947",
+  "relationships": {
+    "is_a": [
+      "GO:0046974"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H3K9me2 methylase activity",
+      "histone dimethyl-lysine(H3K9) N-methyltransferase activity (H3-K9 specific)"
+    ],
+    "broad": [
+      "histone H3-K9 trimethylation",
+      "histone H3K9 trimethylation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.366"
+    ],
+    "RHEA": [
+      "60288",
+      "60288"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N6,N6-dimethyl-L-lysyl9-[histone H3] + S-adenosyl-L-methionine = H+ + N6,N6,N6-trimethyl-L-lysyl9-[histone H3] + S-adenosyl-L-homocysteine. This reaction is the addition of a single methyl group to the dimethylated lysine residue at position 9 of histone H3, producing histone H3K9me3.",
+  "namespace": "molecular_function",
+  "label": "histone H3K9me2 methyltransferase activity"
+}

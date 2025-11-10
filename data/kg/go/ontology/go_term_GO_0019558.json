@@ -1,0 +1,35 @@
+{
+  "id": "GO:0019558",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019558",
+  "relationships": {
+    "is_a": [
+      "GO:0006103",
+      "GO:0006548"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histidine breakdown to 2-oxoglutarate",
+      "histidine catabolic process to 2-ketoglutarate",
+      "histidine catabolic process to alpha-ketoglutarate",
+      "histidine catabolic process to alpha-oxoglutarate",
+      "histidine catabolism to 2-ketoglutarate",
+      "histidine catabolism to alpha-ketoglutarate",
+      "histidine catabolism to alpha-oxoglutarate",
+      "histidine degradation to 2-oxoglutarate"
+    ],
+    "broad": [
+      "histidine catabolic process to 2-oxoglutarate"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-histidine into other compounds, including 2-oxoglutarate.",
+  "namespace": "biological_process",
+  "label": "L-histidine catabolic process to 2-oxoglutarate"
+}

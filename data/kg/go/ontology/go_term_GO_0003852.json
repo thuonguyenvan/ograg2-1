@@ -1,0 +1,50 @@
+{
+  "id": "GO:0003852",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003852",
+  "relationships": {
+    "is_a": [
+      "GO:0046912"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-carboxy-3-hydroxy-4-methylpentanoate 3-methyl-2-oxobutanoate-lyase (CoA-acetylating) activity",
+      "acetyl-CoA:3-methyl-2-oxobutanoate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)",
+      "alpha-IPM synthetase activity",
+      "alpha-isopropylmalate synthase activity",
+      "alpha-isopropylmalate synthetase activity",
+      "alpha-isopropylmalic synthetase activity",
+      "isopropylmalate synthase activity",
+      "isopropylmalate synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.3.13",
+      "2.3.3.13",
+      "2.3.3.13",
+      "2.3.3.13",
+      "2.3.3.13",
+      "2.3.3.13",
+      "2.3.3.13",
+      "2.3.3.13",
+      "2.3.3.13"
+    ],
+    "KEGG_REACTION": [
+      "R01213"
+    ],
+    "MetaCyc": [
+      "2-ISOPROPYLMALATESYN-RXN"
+    ],
+    "RHEA": [
+      "21524",
+      "21524"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-methyl-2-oxobutanoate + acetyl-CoA + H2O = (2S)-2-isopropylmalate + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "2-isopropylmalate synthase activity"
+}

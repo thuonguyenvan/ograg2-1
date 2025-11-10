@@ -1,0 +1,60 @@
+{
+  "id": "GO:0004550",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004550",
+  "relationships": {
+    "is_a": [
+      "GO:0016776",
+      "GO:0019205"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nucleoside-diphosphate kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:nucleoside-diphosphate phosphotransferase activity",
+      "NDK activity",
+      "UDP kinase activity",
+      "nucleoside 5&apos;-diphosphate kinase activity",
+      "nucleoside 5&apos;-diphosphate phosphotransferase activity",
+      "nucleoside diphosphate (UDP) kinase activity",
+      "nucleoside diphosphokinase activity",
+      "nucleotide phosphate kinase activity",
+      "uridine diphosphate kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.4.6",
+      "2.7.4.6",
+      "2.7.4.6",
+      "2.7.4.6",
+      "2.7.4.6",
+      "2.7.4.6",
+      "2.7.4.6",
+      "2.7.4.6",
+      "2.7.4.6",
+      "2.7.4.6",
+      "2.7.4.6"
+    ],
+    "MetaCyc": [
+      "NUCLEOSIDE-DIP-KIN-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-2162096",
+      "R-HSA-482619",
+      "R-HSA-482621",
+      "R-HSA-482804",
+      "R-HSA-482812",
+      "R-HSA-6806877",
+      "R-HSA-9748969",
+      "R-HSA-9748999",
+      "R-HSA-9755013"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + nucleoside diphosphate = ADP + nucleoside triphosphate.",
+  "namespace": "molecular_function",
+  "label": "NME1,2 hexamers phosphorylate RBV-DP"
+}

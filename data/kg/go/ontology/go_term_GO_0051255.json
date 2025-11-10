@@ -1,0 +1,32 @@
+{
+  "id": "GO:0051255",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051255",
+  "relationships": {
+    "is_a": [
+      "GO:0007017",
+      "GO:0022402",
+      "GO:0022607"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "spindle midzone biogenesis",
+      "spindle midzone biosynthesis",
+      "spindle midzone formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ],
+    "PMID": [
+      "15296749"
+    ]
+  },
+  "definition": "The cell cycle process in which aggregation, arrangement and bonding together of a set of components to form the spindle midzone. The spindle midzone is the area in the center of the spindle where the spindle microtubules from opposite poles overlap.",
+  "namespace": "biological_process",
+  "label": "spindle midzone assembly"
+}

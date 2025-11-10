@@ -1,0 +1,42 @@
+{
+  "id": "GO:0008412",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008412",
+  "relationships": {
+    "is_a": [
+      "GO:0004659"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-HB polyprenyltransferase activity",
+      "PHB polyprenyl diphosphate transferase activity",
+      "para-hydroxybenzoate transferase activity",
+      "para-hydroxybenzoate-polyprenyl diphosphate transferase activity",
+      "para-hydroxybenzoate:polyprenyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "4-hydroxybenzoate nonaprenyltransferase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.39",
+      "2.5.1.39"
+    ],
+    "MetaCyc": [
+      "RXN-11368"
+    ],
+    "RHEA": [
+      "44504",
+      "44504"
+    ],
+    "Reactome": [
+      "R-HSA-2162192"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-hydroxybenzoate + an all-trans-polyprenyl diphosphate = a 4-hydroxy-3-all-trans-polyprenylbenzoate + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "COQ2 ligates all-E-10PrP2 to PHB"
+}

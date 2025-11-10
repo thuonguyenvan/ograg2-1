@@ -1,0 +1,35 @@
+{
+  "id": "GO:0120103",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120103",
+  "relationships": {
+    "is_a": [
+      "GO:0140535"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "subdistal appendage of basal body",
+      "subdistal appendage of centriole",
+      "subdistal appendage of mother centriole"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "krc",
+      "krc",
+      "krc"
+    ],
+    "PMID": [
+      "23213374",
+      "27818179",
+      "28422092"
+    ]
+  },
+  "definition": "A protein complex which assembles on the mother centriole during cilium formation, adjacent and proximal to a centriolar distal appendage. In human, it contains ODF2, CNTRL, NIN, CCDC120c and CCDC68.",
+  "namespace": "cellular_component",
+  "label": "centriolar subdistal appendage"
+}

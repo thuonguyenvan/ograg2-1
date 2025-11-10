@@ -1,0 +1,50 @@
+{
+  "id": "GO:1904100",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904100",
+  "relationships": {
+    "is_a": [
+      "GO:0010560",
+      "GO:1904098"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of protein amino acid O-linked glycosylation",
+      "up regulation of protein O-linked glycosylation",
+      "up regulation of protein amino acid O-linked glycosylation",
+      "up-regulation of protein O-linked glycosylation",
+      "up-regulation of protein amino acid O-linked glycosylation",
+      "upregulation of protein O-linked glycosylation",
+      "upregulation of protein amino acid O-linked glycosylation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein O-linked glycosylation",
+      "activation of protein amino acid O-linked glycosylation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24509081"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of protein O-linked glycosylation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein O-linked glycosylation"
+}

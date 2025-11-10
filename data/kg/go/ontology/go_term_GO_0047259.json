@@ -1,0 +1,35 @@
+{
+  "id": "GO:0047259",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047259",
+  "relationships": {
+    "is_a": [
+      "GO:0019187"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GDP-mannose:glucomannan 1,4-beta-D-mannosyltransferase activity",
+      "glucomannan 4-b-mannosyltransferase activity",
+      "glucomannan-synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GDP-man-beta-mannan mannosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.32",
+      "2.4.1.32",
+      "2.4.1.32"
+    ],
+    "MetaCyc": [
+      "2.4.1.32-RXN",
+      "2.4.1.32-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glucomannan(n) + GDP-mannose = glucomannan(n+1) + GDP.",
+  "namespace": "molecular_function",
+  "label": "glucomannan 4-beta-mannosyltransferase activity"
+}

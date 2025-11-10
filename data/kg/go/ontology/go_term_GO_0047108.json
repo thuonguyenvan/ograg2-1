@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047108",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047108",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(R)-3-hydroxyacid ester dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-oxo ester (R)-reductase activity",
+      "ethyl-(R)-3-hydroxyhexanoate:NADP+ 3-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.279",
+      "1.1.1.279",
+      "1.1.1.279",
+      "1.1.1.279"
+    ],
+    "KEGG_REACTION": [
+      "R04105"
+    ],
+    "MetaCyc": [
+      "1.2.1.55-RXN"
+    ],
+    "RHEA": [
+      "24352",
+      "24352"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ethyl (R)-3-hydroxyhexanoate + NADP+ = ethyl 3-oxohexanoate + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "(R)-3-hydroxyacid-ester dehydrogenase activity"
+}

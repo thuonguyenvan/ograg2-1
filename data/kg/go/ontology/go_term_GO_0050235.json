@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050235",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050235",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pyridoxal dehydrogenase activity",
+      "pyridoxal:NAD+ 4-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.107",
+      "1.1.1.107",
+      "1.1.1.107",
+      "1.1.1.107"
+    ],
+    "KEGG_REACTION": [
+      "R01707"
+    ],
+    "MetaCyc": [
+      "PYRIDOXAL-4-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "21336",
+      "21336"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD+ + pyridoxal = 4-pyridoxolactone + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "pyridoxal 4-dehydrogenase activity"
+}

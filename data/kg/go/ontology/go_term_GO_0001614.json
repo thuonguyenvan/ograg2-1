@@ -1,0 +1,35 @@
+{
+  "id": "GO:0001614",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001614",
+  "relationships": {
+    "is_a": [
+      "GO:0016502"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "purinoceptor",
+      "purinoreceptor"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "P2 receptor",
+      "purinergic receptor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "signaling"
+    ],
+    "PMID": [
+      "9755289",
+      "9755289",
+      "9755289"
+    ]
+  },
+  "definition": "Combining with a purine nucleotide and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.",
+  "namespace": "molecular_function",
+  "label": "purinergic nucleotide receptor activity"
+}

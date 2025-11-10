@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033707",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033707",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2&apos;-deoxymugineic acid:NAD(P)+ 3&apos;&apos;-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.285",
+      "1.1.1.285",
+      "1.1.1.285"
+    ],
+    "MetaCyc": [
+      "1.1.1.285-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2&apos;-deoxymugineic acid + NAD(P)+ = 3&apos;&apos;-deamino-3&apos;&apos;-oxonicotianamine + NAD(P)H + H+.",
+  "namespace": "molecular_function",
+  "label": "3&apos;&apos;-deamino-3&apos;&apos;-oxonicotianamine reductase activity"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "GO:0004719",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004719",
+  "relationships": {
+    "is_a": [
+      "GO:0008757",
+      "GO:0051998"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-aspartyl/L-isoaspartyl methyltransferase activity",
+      "L-aspartyl/L-isoaspartyl protein methyltransferase activity",
+      "L-isoaspartyl protein carboxyl methyltransferase activity",
+      "L-isoaspartyl/D-aspartyl protein carboxyl methyltransferase activity",
+      "S-adenosyl-L-methionine:protein-L-isoaspartate O-methyltransferase activity",
+      "protein (D-aspartate) methyltransferase activity",
+      "protein D-aspartate methyltransferase activity",
+      "protein L-isoaspartate methyltransferase activity",
+      "protein L-isoaspartyl methyltransferase activity",
+      "protein O-methyltransferase (L-isoaspartate)",
+      "protein beta-aspartate O-methyltransferase activity",
+      "protein-L-isoaspartate O-methyltransferase activity",
+      "protein-L-isoaspartate(D-aspartate) O-methyltransferase activity",
+      "protein-beta-aspartate O-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.77",
+      "2.1.1.77",
+      "2.1.1.77",
+      "2.1.1.77",
+      "2.1.1.77",
+      "2.1.1.77",
+      "2.1.1.77",
+      "2.1.1.77",
+      "2.1.1.77",
+      "2.1.1.77",
+      "2.1.1.77",
+      "2.1.1.77",
+      "2.1.1.77",
+      "2.1.1.77",
+      "2.1.1.77",
+      "2.1.1.77"
+    ],
+    "MetaCyc": [
+      "2.1.1.77-RXN"
+    ],
+    "RHEA": [
+      "12705"
+    ],
+    "Reactome": [
+      "R-HSA-5676966"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + protein L-beta-aspartate = S-adenosyl-L-homocysteine + protein L-beta-aspartate methyl ester.",
+  "namespace": "molecular_function",
+  "label": "PCMT1 transfers CH3 from AdoMet to isoAsp to form MetAsp"
+}

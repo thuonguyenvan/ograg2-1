@@ -1,0 +1,45 @@
+{
+  "id": "GO:0050139",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050139",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "nicotinate glucosyltransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "UDP-glucose:nicotinate N-glucosyltransferase activity",
+      "UDP-glucose:nicotinic acid-N-glucosyltransferase activity",
+      "UDPglucose:nicotinate N-glucosyltransferase activity",
+      "uridine diphosphoglucose-nicotinate N-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.196",
+      "2.4.1.196",
+      "2.4.1.196",
+      "2.4.1.196",
+      "2.4.1.196",
+      "2.4.1.196"
+    ],
+    "KEGG_REACTION": [
+      "R01722"
+    ],
+    "MetaCyc": [
+      "NICOTINATE-GLUCOSYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "19437",
+      "19437"
+    ]
+  },
+  "definition": "Catalysis of the reaction: nicotinate + UDP-D-glucose = N-(beta-D-glucosyl)nicotinate + UDP.",
+  "namespace": "molecular_function",
+  "label": "nicotinate-N-glucosyltransferase activity"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "GO:1903188",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903188",
+  "relationships": {
+    "is_a": [
+      "GO:0051130",
+      "GO:0051240",
+      "GO:1903186"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of yolk production",
+      "up regulation of vitellogenesis",
+      "up regulation of yolk production",
+      "up-regulation of vitellogenesis",
+      "up-regulation of yolk production",
+      "upregulation of vitellogenesis",
+      "upregulation of yolk production"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of vitellogenesis",
+      "activation of yolk production"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mr",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19467235"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of vitellogenesis.",
+  "namespace": "biological_process",
+  "label": "positive regulation of vitellogenesis"
+}

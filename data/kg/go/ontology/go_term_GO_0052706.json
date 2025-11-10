@@ -1,0 +1,43 @@
+{
+  "id": "GO:0052706",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052706",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "S-adenosyl-L-methionine:L-histidine Nalpha-methyltransferase activity",
+      "S-adenosyl-L-methionine:L-histidine alpha-N-methyltransferase activity",
+      "histidine N-methyltransferase activity",
+      "histidine methyltransferase activity",
+      "histidine-alpha-N-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.44",
+      "2.1.1.44",
+      "2.1.1.44",
+      "2.1.1.44",
+      "2.1.1.44"
+    ],
+    "KEGG_REACTION": [
+      "R01169"
+    ],
+    "MetaCyc": [
+      "RXN-14431"
+    ],
+    "RHEA": [
+      "38471",
+      "38471"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-histidine + 3 S-adenosyl-L-methionine &lt;=&gt; 3 H(+) + hercynine + 3 S-adenosyl-L-homocysteine. This reaction is the addition of three methyl groups to L-histidine to form N-alpha,N-alpha,N-alpha-trimethyl-L-histidine (also known as hercynine).",
+  "namespace": "molecular_function",
+  "label": "L-histidine N(alpha)-methyltransferase activity"
+}

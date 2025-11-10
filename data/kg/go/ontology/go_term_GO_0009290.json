@@ -1,0 +1,30 @@
+{
+  "id": "GO:0009290",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009290",
+  "relationships": {
+    "is_a": [
+      "GO:0051027",
+      "GO:0098657"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "DNA import into cell",
+      "cellular DNA uptake"
+    ],
+    "narrow": [],
+    "related": [
+      "DNA transport into cell during transformation",
+      "cellular DNA import during transformation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The directed movement of DNA into a cell that contributes to the process of transformation, the uptake of foreign genetic material into a cell.",
+  "namespace": "biological_process",
+  "label": "DNA import into cell involved in transformation"
+}

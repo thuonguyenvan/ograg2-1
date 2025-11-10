@@ -1,0 +1,38 @@
+{
+  "id": "GO:0070479",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070479",
+  "relationships": {
+    "is_a": [
+      "GO:0000184"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5&apos;-3&apos; NMD",
+      "5&apos;-3&apos; nonsense-mediated decay",
+      "5&apos;-3&apos; nonsense-mediated mRNA decay",
+      "nuclear-transcribed mRNA breakdown, 5&apos;-3&apos; exonucleolytic nonsense-mediated decay",
+      "nuclear-transcribed mRNA catabolism, 5&apos;-3&apos; exonucleolytic nonsense-mediated decay",
+      "nuclear-transcribed mRNA degradation, 5&apos;-3&apos; exonucleolytic nonsense-mediated decay"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "18554525"
+    ],
+    "GOC": [
+      "jp",
+      "jp",
+      "jp",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of the nuclear-transcribed mRNA transcript body of an mRNA in which an amino-acid codon has changed to a nonsense codon; occurs when the 5&apos; end is not protected by a 5&apos;-cap; degradation proceeds in the 5&apos; to 3&apos; direction.",
+  "namespace": "biological_process",
+  "label": "nuclear-transcribed mRNA catabolic process, 5&apos;-3&apos; exonucleolytic nonsense-mediated decay"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032251",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032251",
+  "relationships": {
+    "is_a": [
+      "GO:0032248",
+      "GO:0032249"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of adenosine transport",
+      "up-regulation of adenosine transport",
+      "upregulation of adenosine transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of adenosine transport",
+      "stimulation of adenosine transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the directed movement of adenosine into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "positive regulation of adenosine transport"
+}

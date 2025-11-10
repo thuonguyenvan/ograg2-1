@@ -1,0 +1,26 @@
+{
+  "id": "GO:0034977",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034977",
+  "relationships": {
+    "is_a": [
+      "GO:0140535",
+      "GO:1902554"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ABIN2-NFKB1-TPL-1 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "15169888"
+    ]
+  },
+  "definition": "A protein complex that contains the precursor form of NF-kappaB (p105), the NF-kappaB inhibitor ABIN-2, and the kinase TPL-2 (MAP3K8); the complex stabilizes TPL-2 and is involved in signaling in lipopolysaccharide (LPS)-stimulated macrophages.",
+  "namespace": "cellular_component",
+  "label": "ABIN2-NFKB1-MAP3K8 complex"
+}

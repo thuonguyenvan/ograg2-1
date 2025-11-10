@@ -1,0 +1,47 @@
+{
+  "id": "GO:0015433",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015433",
+  "relationships": {
+    "is_a": [
+      "GO:0015440"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent peptide antigen transmembrane transporter activity",
+      "major histocompatibility peptide transporter activity",
+      "peptide antigen-transporting ATPase activity"
+    ],
+    "broad": [
+      "peptide antigen transporter activity"
+    ],
+    "narrow": [
+      "peptide antigen ABC transporter"
+    ],
+    "related": [
+      "ATPase-coupled peptide antigen transmembrane transporter activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.4.2.14"
+    ],
+    "MetaCyc": [
+      "3.6.3.43-RXN"
+    ],
+    "RHEA": [
+      "65972"
+    ],
+    "Reactome": [
+      "R-HSA-1236949",
+      "R-HSA-983144"
+    ],
+    "TC": [
+      "3.A.1.209.1",
+      "3.A.1.209.1"
+    ]
+  },
+  "definition": "Catalysis of the reaction: peptide antigen(in) + ATP = peptide antigen(out) + ADP + phosphate.",
+  "namespace": "molecular_function",
+  "label": "Transport of Antigen peptide in to ER"
+}

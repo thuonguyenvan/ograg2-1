@@ -1,0 +1,45 @@
+{
+  "id": "GO:0008908",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008908",
+  "relationships": {
+    "is_a": [
+      "GO:0004463"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,3 dihydro-2,3 dihydroxybenzoate synthase activity",
+      "2,3-dihydro-2,3-dihydroxybenzoate synthase activity",
+      "2,3-dihydroxy-2,3-dihydrobenzoate synthase activity",
+      "2,3-dihydroxy-2,3-dihydrobenzoic synthase activity",
+      "isochorismate pyruvate-hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.3.2.1",
+      "3.3.2.1",
+      "3.3.2.1",
+      "3.3.2.1",
+      "3.3.2.1",
+      "3.3.2.1",
+      "3.3.2.1"
+    ],
+    "KEGG_REACTION": [
+      "R03037"
+    ],
+    "MetaCyc": [
+      "ISOCHORMAT-RXN"
+    ],
+    "RHEA": [
+      "11112",
+      "11112"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + isochorismate = 2,3-dihydroxy-2,3-dihydrobenzoate + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "isochorismatase activity"
+}

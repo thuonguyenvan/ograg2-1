@@ -1,0 +1,52 @@
+{
+  "id": "GO:1902876",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902876",
+  "relationships": {
+    "is_a": [
+      "GO:0051241",
+      "GO:1902875"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of embryonic pattern specification",
+      "down-regulation of embryonic pattern specification",
+      "downregulation of embryonic pattern specification"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of embryonic pattern specification"
+    ],
+    "related": [
+      "down regulation of ventral/lateral system",
+      "down-regulation of ventral/lateral system",
+      "downregulation of ventral/lateral system",
+      "inhibition of ventral/lateral system",
+      "negative regulation of ventral/lateral system"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mr",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "16872597"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of embryonic pattern specification.",
+  "namespace": "biological_process",
+  "label": "negative regulation of embryonic pattern specification"
+}

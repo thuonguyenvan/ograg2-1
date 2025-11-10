@@ -1,0 +1,33 @@
+{
+  "id": "GO:0032714",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032714",
+  "relationships": {
+    "is_a": [
+      "GO:0001818",
+      "GO:0032674"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of interleukin-5 production",
+      "down-regulation of interleukin-5 production",
+      "downregulation of interleukin-5 production",
+      "negative regulation of IL-5 production"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of interleukin-5 production",
+      "negative regulation of interleukin-5 biosynthetic process",
+      "negative regulation of interleukin-5 secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate, or extent of interleukin-5 production.",
+  "namespace": "biological_process",
+  "label": "negative regulation of interleukin-5 production"
+}

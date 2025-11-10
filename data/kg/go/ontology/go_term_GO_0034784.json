@@ -1,0 +1,30 @@
+{
+  "id": "GO:0034784",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034784",
+  "relationships": {
+    "is_a": [
+      "GO:0016866"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-18585"
+    ],
+    "RHEA": [
+      "52620",
+      "52620"
+    ],
+    "UM-BBD_reactionID": [
+      "r1033"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-methylbutanoyl-CoA = 2,2-dimethylpropanoyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "pivalyl-CoA mutase activity"
+}

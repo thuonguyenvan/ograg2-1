@@ -1,0 +1,27 @@
+{
+  "id": "GO:0110001",
+  "uri": "http://purl.obolibrary.org/obo/GO_0110001",
+  "relationships": {
+    "is_a": [
+      "GO:0017053"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "16109374",
+      "25093388"
+    ]
+  },
+  "definition": "A bacterial protein complex that neutralises its own toxin by complexing the toxin with the antitoxin. The antitoxin can be either a protein or an RNA. The neutralising toxin-antitoxin complex also acts as a transcriptional repressor of the toxin-antitoxin operon.",
+  "namespace": "cellular_component",
+  "label": "toxin-antitoxin complex"
+}

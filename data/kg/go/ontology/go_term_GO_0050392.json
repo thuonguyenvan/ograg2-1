@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050392",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050392",
+  "relationships": {
+    "is_a": [
+      "GO:0008422"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "vicianin b-glucosidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-vicianin beta-D-glucohydrolase activity",
+      "vicianin hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.119",
+      "3.2.1.119",
+      "3.2.1.119",
+      "3.2.1.119"
+    ],
+    "KEGG_REACTION": [
+      "R03642"
+    ],
+    "MetaCyc": [
+      "VICIANIN-BETA-GLUCOSIDASE-RXN"
+    ],
+    "RHEA": [
+      "14041",
+      "14041"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-vicianin + H2O = mandelonitrile + vicianose.",
+  "namespace": "molecular_function",
+  "label": "vicianin beta-glucosidase activity"
+}

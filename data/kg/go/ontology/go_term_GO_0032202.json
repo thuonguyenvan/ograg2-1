@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032202",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032202",
+  "relationships": {
+    "is_a": [
+      "GO:0022607",
+      "GO:0032200"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "telomere formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "ns"
+    ],
+    "PMID": [
+      "11902675",
+      "8622671"
+    ]
+  },
+  "definition": "A cellular process that results in the aggregation, arrangement and bonding together of a set of components to form a telomere at a non-telomeric double-stranded DNA end. A telomere is a terminal region of a linear chromosome that includes telomeric DNA repeats and associated proteins.",
+  "namespace": "biological_process",
+  "label": "telomere assembly"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0065002",
+  "uri": "http://purl.obolibrary.org/obo/GO_0065002",
+  "relationships": {
+    "is_a": [
+      "GO:0006886",
+      "GO:0071806"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "intracellular membrane translocation of a protein",
+      "intracellular protein membrane transport",
+      "intracellular protein transport across a membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "isa_complete"
+    ]
+  },
+  "definition": "The directed movement of proteins in a cell, from one side of a membrane to another by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "intracellular protein transmembrane transport"
+}

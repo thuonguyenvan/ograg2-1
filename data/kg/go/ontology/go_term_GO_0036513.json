@@ -1,0 +1,40 @@
+{
+  "id": "GO:0036513",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036513",
+  "relationships": {
+    "is_a": [
+      "GO:0098796",
+      "GO:0140534"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Derlin-1 complex",
+      "Derlin-1 protein dislocation complex",
+      "Derlin-1 retro-translocation complex",
+      "Derlin-1 retrotranslocon",
+      "ERAD protein dislocation complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "15215856",
+      "16186510",
+      "18555783",
+      "18555783",
+      "18555783"
+    ]
+  },
+  "definition": "A protein complex that functions in the retrotranslocation step of ERAD (ER-associated protein degradation), and includes at its core Derlin-1 oligomers forming a retrotranslocation channel.",
+  "namespace": "cellular_component",
+  "label": "Derlin-1 retrotranslocation complex"
+}

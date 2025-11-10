@@ -1,0 +1,33 @@
+{
+  "id": "GO:1990231",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990231",
+  "relationships": {
+    "is_a": [
+      "GO:0098796"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "stimulator of interferon genes complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "bhm"
+    ],
+    "PMID": [
+      "22705373",
+      "23706668",
+      "23910378",
+      "22705373",
+      "23910378"
+    ]
+  },
+  "definition": "A protein dimer containing two STING monomers. It binds cyclic purine di-nucleotides. Activation of the sting complex by 2&apos;,5&apos;-3&apos;-5&apos;-cyclic GMP-AMP activates nuclear transcription factor kB (NF-kB) and interferon regulatory factor 3 (IRF3) which then induce transcription of the genes encoding type I IFN and cytokines active in the innate immune response.",
+  "namespace": "cellular_component",
+  "label": "STING complex"
+}

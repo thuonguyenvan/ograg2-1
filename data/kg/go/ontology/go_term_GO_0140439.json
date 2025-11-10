@@ -1,0 +1,29 @@
+{
+  "id": "GO:0140439",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140439",
+  "relationships": {
+    "is_a": [
+      "GO:0019707"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "59740",
+      "59740"
+    ],
+    "PMID": [
+      "12681491",
+      "22247542",
+      "22968831"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a stearoyl (systematic name, octadecanoyl) group to a sulfur atom on the cysteine of a protein molecule, in the reaction: octadecanoyl-CoA + L-cysteinyl-[protein] = CoA + S-octadecanoyl-L-cysteinyl-[protein].",
+  "namespace": "molecular_function",
+  "label": "protein-cysteine S-stearoyltransferase activity"
+}

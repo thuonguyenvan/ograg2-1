@@ -1,0 +1,28 @@
+{
+  "id": "GO:0061784",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061784",
+  "relationships": {
+    "is_a": [
+      "GO:0015929",
+      "GO:0061783"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "jh"
+    ],
+    "PMID": [
+      "22748813"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of (1-&gt;4)-beta linkages of N-acetyl-D-glucosamine (GlcNAc) from peptidoglycan.",
+  "namespace": "molecular_function",
+  "label": "peptidoglycan N-acetylglucosaminidase activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0017119",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017119",
+  "relationships": {
+    "is_a": [
+      "GO:0099023"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "COG complex",
+      "conserved oligomeric Golgi complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "Sec34/35 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "11980916",
+      "20972446",
+      "9792665"
+    ]
+  },
+  "definition": "A multisubunit tethering complex of the CATCHR family (complexes associated with tethering containing helical rods) that has a role in tethering vesicles to the Golgi prior to fusion. Composed of 8 subunits COG1-8.",
+  "namespace": "cellular_component",
+  "label": "Golgi transport complex"
+}

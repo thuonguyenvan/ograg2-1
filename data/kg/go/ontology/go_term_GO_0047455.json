@@ -1,0 +1,49 @@
+{
+  "id": "GO:0047455",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047455",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hydroxyprogesterone dehydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "16-alpha-dehydroxylase activity",
+      "16-alpha-hydroxyprogesterone dehydroxylase activity",
+      "16-dehydroprogesterone hydratase activity",
+      "16alpha-dehydroxylase activity",
+      "16alpha-hydroxyprogesterone dehydratase activity",
+      "16alpha-hydroxyprogesterone dehydroxylase activity",
+      "16alpha-hydroxyprogesterone hydro-lyase (16,17-didehydroprogesterone-forming)",
+      "16alpha-hydroxyprogesterone hydro-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.98",
+      "4.2.1.98",
+      "4.2.1.98",
+      "4.2.1.98",
+      "4.2.1.98",
+      "4.2.1.98",
+      "4.2.1.98",
+      "4.2.1.98",
+      "4.2.1.98"
+    ],
+    "MetaCyc": [
+      "4.2.1.98-RXN",
+      "4.2.1.98-RXN"
+    ],
+    "RHEA": [
+      "12584"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 16-alpha-hydroxyprogesterone = H2O + 16-dehydroprogesterone.",
+  "namespace": "molecular_function",
+  "label": "16-alpha-hydroxyprogesterone dehydratase activity"
+}

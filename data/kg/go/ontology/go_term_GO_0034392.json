@@ -1,0 +1,34 @@
+{
+  "id": "GO:0034392",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034392",
+  "relationships": {
+    "is_a": [
+      "GO:0010656",
+      "GO:0034391"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of smooth muscle cell apoptosis",
+      "down-regulation of smooth muscle cell apoptosis",
+      "downregulation of smooth muscle cell apoptosis",
+      "negative regulation of SMC apoptosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of smooth muscle cell apoptosis",
+      "negative regulation of smooth muscle cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mtg_apoptosis",
+      "rl"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate, or extent of smooth muscle cell apoptotic process.",
+  "namespace": "biological_process",
+  "label": "negative regulation of smooth muscle cell apoptotic process"
+}

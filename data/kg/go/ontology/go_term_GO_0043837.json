@@ -1,0 +1,34 @@
+{
+  "id": "GO:0043837",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043837",
+  "relationships": {
+    "is_a": [
+      "GO:0016639"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "valine dehydrogenase (NAD) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ValDH"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.1.23"
+    ],
+    "RHEA": [
+      "30763"
+    ],
+    "PMID": [
+      "10612726",
+      "2803248"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-valine + H2O + NAD+ = 3-methyl-2-oxobutanoate + NH3 + NADH.",
+  "namespace": "molecular_function",
+  "label": "valine dehydrogenase (NAD+) activity"
+}

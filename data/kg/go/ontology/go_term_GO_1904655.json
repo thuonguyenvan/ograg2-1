@@ -1,0 +1,61 @@
+{
+  "id": "GO:1904655",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904655",
+  "relationships": {
+    "is_a": [
+      "GO:0051094",
+      "GO:0051240",
+      "GO:1904653"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of alveolarization",
+      "positive regulation of alveologenesis",
+      "up regulation of alveolarization",
+      "up regulation of alveologenesis",
+      "up regulation of lung alveolus development",
+      "up-regulation of alveolarization",
+      "up-regulation of alveologenesis",
+      "up-regulation of lung alveolus development",
+      "upregulation of alveolarization",
+      "upregulation of alveologenesis",
+      "upregulation of lung alveolus development"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of alveolarization",
+      "activation of alveologenesis",
+      "activation of lung alveolus development"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23962064"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of lung alveolus development.",
+  "namespace": "biological_process",
+  "label": "positive regulation of lung alveolus development"
+}

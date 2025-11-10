@@ -1,0 +1,26 @@
+{
+  "id": "GO:0042539",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042539",
+  "relationships": {
+    "is_a": [
+      "GO:0006971",
+      "GO:0009651"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to hypotonic salt stress"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of detection of, or exposure to, a decrease in the concentration of salt (particularly but not exclusively sodium and chloride ions) in the environment.",
+  "namespace": "biological_process",
+  "label": "hypotonic salinity response"
+}

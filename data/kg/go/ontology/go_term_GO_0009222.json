@@ -1,0 +1,32 @@
+{
+  "id": "GO:0009222",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009222",
+  "relationships": {
+    "is_a": [
+      "GO:0006244",
+      "GO:0009218",
+      "GO:0009261"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pyrimidine ribonucleotide breakdown",
+      "pyrimidine ribonucleotide catabolism",
+      "pyrimidine ribonucleotide degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a pyrimidine ribonucleotide, a compound consisting of nucleoside (a pyrimidine base linked to a ribose sugar) esterified with a phosphate group at either the 3&apos; or 5&apos;-hydroxyl group of the sugar.",
+  "namespace": "biological_process",
+  "label": "pyrimidine ribonucleotide catabolic process"
+}

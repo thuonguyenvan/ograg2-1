@@ -1,0 +1,31 @@
+{
+  "id": "GO:0035153",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035153",
+  "relationships": {
+    "is_a": [
+      "GO:0001708"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tracheal epithelial cell type specification"
+    ],
+    "broad": [
+      "tracheal cell type specification"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_sensu"
+    ],
+    "PMID": [
+      "10684581",
+      "11063940"
+    ]
+  },
+  "definition": "Allocation of epithelial cells within each migrating branch in an open tracheal system to distinct tracheal cell fates. During the migration phase each branch forms a well-defined number of cell types (including fusion cells, terminal cells and branch cells) at precise positions.",
+  "namespace": "biological_process",
+  "label": "epithelial cell type specification, open tracheal system"
+}

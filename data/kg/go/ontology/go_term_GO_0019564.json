@@ -1,0 +1,35 @@
+{
+  "id": "GO:0019564",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019564",
+  "relationships": {
+    "is_a": [
+      "GO:0019563"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "aerobic glycerol breakdown",
+      "aerobic glycerol catabolism",
+      "aerobic glycerol degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "aerobic glycerol fermentation"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY0-381"
+    ],
+    "GOC": [
+      "ai"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of glycerol, 1,2,3-propanetriol, in the presence of oxygen.",
+  "namespace": "biological_process",
+  "label": "aerobic glycerol catabolic process"
+}

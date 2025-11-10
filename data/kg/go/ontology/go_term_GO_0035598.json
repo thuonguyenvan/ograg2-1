@@ -1,0 +1,42 @@
+{
+  "id": "GO:0035598",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035598",
+  "relationships": {
+    "is_a": [
+      "GO:0035596",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N6-threonylcarbomyladenosine methylthiotransferase activity",
+      "t6A methylthiotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.4.5"
+    ],
+    "MetaCyc": [
+      "RXN-14531"
+    ],
+    "RHEA": [
+      "37075",
+      "37075"
+    ],
+    "Reactome": [
+      "R-HSA-6786571"
+    ],
+    "PMID": [
+      "20472640",
+      "20584901",
+      "20472640"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(6)-L-threonylcarbamoyladenosine(37) in tRNA + [sulfur carrier]-SH + AH2 + 2 S-adenosyl-L-methionine = 2-methylsulfanyl-N(6)-L-threonylcarbamoyladenosine(37) in tRNA + [sulfur carrier]-H + 5&apos;-deoxyadenosine + L-methionine + A + S-adenosyl-L-homocysteine + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "CDKAL1:4Fe-4S methylthiolates N6-threonylcarbamoyladenosine-37 in tRNA yielding 2-methylthio-N6-threonylcarbamoyladenosine-37"
+}

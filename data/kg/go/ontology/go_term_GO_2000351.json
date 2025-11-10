@@ -1,0 +1,37 @@
+{
+  "id": "GO:2000351",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000351",
+  "relationships": {
+    "is_a": [
+      "GO:0042981"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of apoptosis of endothelial cells",
+      "regulation of endothelial cell programmed cell death by apoptosis",
+      "regulation of killing of endothelial cells",
+      "regulation of programmed cell death of endothelial cells by apoptosis",
+      "regulation of programmed cell death, endothelial cells"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of endothelial cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mtg_apoptosis",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of endothelial cell apoptotic process.",
+  "namespace": "biological_process",
+  "label": "regulation of endothelial cell apoptotic process"
+}

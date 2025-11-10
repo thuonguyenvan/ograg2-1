@@ -1,0 +1,49 @@
+{
+  "id": "GO:0004058",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004058",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "5-hydroxytryptophan decarboxylase activity",
+      "DOPA decarboxylase activity",
+      "L-DOPA decarboxylase activity",
+      "aromatic-L-amino-acid carboxy-lyase (tryptamine-forming)",
+      "hydroxytryptophan decarboxylase activity",
+      "tryptophan decarboxylase activity"
+    ],
+    "related": [
+      "aromatic amino acid decarboxylase activity",
+      "aromatic-L-amino-acid carboxy-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.28",
+      "4.1.1.28",
+      "4.1.1.28",
+      "4.1.1.28",
+      "4.1.1.28",
+      "4.1.1.28",
+      "4.1.1.28",
+      "4.1.1.28",
+      "4.1.1.28",
+      "4.1.1.28"
+    ],
+    "MetaCyc": [
+      "AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-209859",
+      "R-HSA-209924"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-amino acid + H+ = R-H + CO2.",
+  "namespace": "molecular_function",
+  "label": "Dopa is decarboxylated to dopamine"
+}

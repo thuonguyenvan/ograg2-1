@@ -1,0 +1,39 @@
+{
+  "id": "GO:1901866",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901866",
+  "relationships": {
+    "is_a": [
+      "GO:0016123"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "capsorubin anabolism",
+      "capsorubin biosynthesis",
+      "capsorubin formation",
+      "capsorubin synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "MetaCyc": [
+      "PWY-5174"
+    ],
+    "UniPathway": [
+      "UPA00807"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of capsorubin.",
+  "namespace": "biological_process",
+  "label": "capsorubin biosynthetic process"
+}

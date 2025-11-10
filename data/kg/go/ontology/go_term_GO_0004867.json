@@ -1,0 +1,34 @@
+{
+  "id": "GO:0004867",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004867",
+  "relationships": {
+    "is_a": [
+      "GO:0004866"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "serine protease inhibitor activity",
+      "serine proteinase inhibitor activity",
+      "serpin activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-158795",
+      "R-HSA-158800",
+      "R-HSA-158893",
+      "R-HSA-159001",
+      "R-HSA-159005"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binds to and stops, prevents or reduces the activity of a serine-type endopeptidase.",
+  "namespace": "molecular_function",
+  "label": "urokinase plasminogen activator (two-chain):uPAR + plasminogen activator inhibitor 1 (PAI-1) -&gt; PAI-1:urokinase plasminogen activator (two-chain):uPAR"
+}

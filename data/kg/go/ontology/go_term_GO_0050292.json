@@ -1,0 +1,45 @@
+{
+  "id": "GO:0050292",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050292",
+  "relationships": {
+    "is_a": [
+      "GO:0008395",
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "steroid 9a-monooxygenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "steroid 9-alpha-hydroxylase activity",
+      "steroid 9alpha-hydroxylase activity",
+      "steroid 9alpha-monooxygenase activity",
+      "steroid,hydrogen-donor:oxygen oxidoreductase (9-epoxidizing)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.99.24",
+      "1.14.99.24",
+      "1.14.99.24",
+      "1.14.99.24",
+      "1.14.99.24"
+    ],
+    "KEGG_REACTION": [
+      "R04392"
+    ],
+    "MetaCyc": [
+      "STEROID-9-ALPHA-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "19557",
+      "19557"
+    ]
+  },
+  "definition": "Catalysis of the reaction: AH2 + O2 + pregna-4,9(11)-diene-3,20-dione = 9,11alpha-epoxypregn-4-ene-3,20-dione + A + H2O.",
+  "namespace": "molecular_function",
+  "label": "steroid 9-alpha-monooxygenase activity"
+}

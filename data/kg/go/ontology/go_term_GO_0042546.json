@@ -1,0 +1,31 @@
+{
+  "id": "GO:0042546",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042546",
+  "relationships": {
+    "is_a": [
+      "GO:0044085",
+      "GO:0071554"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "cell wall assembly"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mah",
+      "mtg_sensu"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "A cellular process that results in the biosynthesis of constituent macromolecules, assembly, and arrangement of constituent parts of a cell wall. Includes biosynthesis of constituent macromolecules, such as proteins and polysaccharides, and those macromolecular modifications that are involved in synthesis or assembly of the cellular component. A cell wall is the rigid or semi-rigid envelope lying outside the cell membrane of plant, fungal and most prokaryotic cells, maintaining their shape and protecting them from osmotic lysis.",
+  "namespace": "biological_process",
+  "label": "cell wall biogenesis"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:0033415",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033415",
+  "relationships": {
+    "is_a": [
+      "GO:0030533"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TGA codon-amino acid adaptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "hjd"
+    ]
+  },
+  "definition": "A triplet codon-amino acid adaptor activity that recognizes a UGA codon.",
+  "namespace": "molecular_function",
+  "label": "UGA codon-amino acid adaptor activity"
+}

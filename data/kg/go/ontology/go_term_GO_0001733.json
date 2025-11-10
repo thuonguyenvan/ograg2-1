@@ -1,0 +1,55 @@
+{
+  "id": "GO:0001733",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001733",
+  "relationships": {
+    "is_a": [
+      "GO:0050694"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cerebroside sulfotransferase activity",
+      "galactosylceramide sulphotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3&apos;-phosphoadenosine-5&apos;-phosphosulfate-cerebroside sulfotransferase activity",
+      "3&apos;-phosphoadenylyl-sulfate:galactosylceramide 3&apos;-sulfotransferase activity",
+      "GSase",
+      "galactocerebroside sulfotransferase activity",
+      "galactolipid sulfotransferase activity",
+      "glycolipid sulfotransferase activity",
+      "glycosphingolipid sulfotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.11",
+      "2.8.2.11",
+      "2.8.2.11",
+      "2.8.2.11",
+      "2.8.2.11",
+      "2.8.2.11",
+      "2.8.2.11",
+      "2.8.2.11",
+      "2.8.2.11"
+    ],
+    "MetaCyc": [
+      "GALACTOSYLCERAMIDE-SULFOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "20613",
+      "20613"
+    ],
+    "Reactome": [
+      "R-HSA-9844587"
+    ],
+    "PMID": [
+      "10727929"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;-phosphoadenosine 5&apos;-phosphosulfate + a galactosylceramide = adenosine 3&apos;,5&apos;-bisphosphate + a galactosylceramidesulfate.",
+  "namespace": "molecular_function",
+  "label": "GAL3ST1 transfers sulfate to GalCer,LacCer"
+}

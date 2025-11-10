@@ -1,0 +1,35 @@
+{
+  "id": "GO:0033834",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033834",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "F3GalTase activity",
+      "UDP-galactose:kaempferol 3-O-beta-D-galactosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.234",
+      "2.4.1.234",
+      "2.4.1.234"
+    ],
+    "MetaCyc": [
+      "2.4.1.234-RXN"
+    ],
+    "RHEA": [
+      "15709",
+      "15709"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-galactose + kaempferol = UDP + kaempferol 3-O-beta-D-galactoside.",
+  "namespace": "molecular_function",
+  "label": "kaempferol 3-O-galactosyltransferase activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102527",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102527",
+  "relationships": {
+    "is_a": [
+      "GO:0016880"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.1.15",
+      "6.3.1.15"
+    ],
+    "MetaCyc": [
+      "RXN-14547"
+    ],
+    "RHEA": [
+      "36699"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-amino-4,7-dihydroxycoumarin + 3-dimethylallyl-4-hydroxybenzoate + ATP(4-) = H+ + 8-desmethylnovobiocic acid(1-) + AMP(2-) + diphosphoric acid.",
+  "namespace": "molecular_function",
+  "label": "8-demethylnovobiocate synthase activity"
+}

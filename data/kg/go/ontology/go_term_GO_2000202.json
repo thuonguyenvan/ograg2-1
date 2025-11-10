@@ -1,0 +1,37 @@
+{
+  "id": "GO:2000202",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000202",
+  "relationships": {
+    "is_a": [
+      "GO:0046824",
+      "GO:2000199",
+      "GO:2000200"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of ribosomal subunit export from cell nucleus",
+      "positive regulation of ribosomal subunit export out of nucleus",
+      "positive regulation of ribosomal subunit transport from nucleus to cytoplasm",
+      "positive regulation of ribosomal subunit-nucleus export"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of ribosome export from nucleus"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of ribosomal subunit export from nucleus.",
+  "namespace": "biological_process",
+  "label": "positive regulation of ribosomal subunit export from nucleus"
+}

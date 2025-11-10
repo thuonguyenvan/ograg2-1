@@ -1,0 +1,41 @@
+{
+  "id": "GO:0003836",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003836",
+  "relationships": {
+    "is_a": [
+      "GO:0008373"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.3.4",
+      "2.4.3.4"
+    ],
+    "MetaCyc": [
+      "2.4.99.4-RXN"
+    ],
+    "RHEA": [
+      "21616"
+    ],
+    "Reactome": [
+      "R-HSA-1022129",
+      "R-HSA-1912378",
+      "R-HSA-2046285",
+      "R-HSA-3656258",
+      "R-HSA-4084984",
+      "R-HSA-9603987",
+      "R-HSA-9605600",
+      "R-HSA-9844860",
+      "R-HSA-9845538"
+    ]
+  },
+  "definition": "Catalysis of the reaction: CMP-N-acetylneuraminate + beta-D-galactosyl-(1-&gt;3)-N-acetyl-alpha-D-galactosaminyl-R = CMP + alpha-N-acetylneuraminyl-(2-&gt;3)-beta-D-galactosyl-(1-&gt;3)-N-acetyl-alpha-D-galactosaminyl-R.",
+  "namespace": "molecular_function",
+  "label": "ST3GAL2,3 transfer Neu5Ac to gangliosides"
+}

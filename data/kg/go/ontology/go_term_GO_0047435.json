@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047435",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047435",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-oxo-5-guanidinopentanoate carboxy-lyase (4-guanidinobutanal-forming)",
+      "2-oxo-5-guanidinopentanoate carboxy-lyase activity",
+      "2-oxo-5-guanidinopentanoate decarboxylase activity",
+      "2-oxo-5-guanidinovalerate alpha-ketoarginine decarboxylase activity",
+      "alpha-ketoarginine decarboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.75",
+      "4.1.1.75",
+      "4.1.1.75",
+      "4.1.1.75",
+      "4.1.1.75",
+      "4.1.1.75",
+      "4.1.1.75"
+    ],
+    "KEGG_REACTION": [
+      "R03178"
+    ],
+    "MetaCyc": [
+      "4.1.1.75-RXN"
+    ],
+    "RHEA": [
+      "11340",
+      "11340"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-guanidino-2-oxopentanoate + H+ = 4-guanidinobutanal + CO2.",
+  "namespace": "molecular_function",
+  "label": "5-guanidino-2-oxopentanoate decarboxylase activity"
+}

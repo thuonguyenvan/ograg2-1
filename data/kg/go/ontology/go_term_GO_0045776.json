@@ -1,0 +1,30 @@
+{
+  "id": "GO:0045776",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045776",
+  "relationships": {
+    "is_a": [
+      "GO:0008217"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of blood pressure",
+      "down-regulation of blood pressure",
+      "downregulation of blood pressure"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of blood pressure"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mtg_cardio"
+    ]
+  },
+  "definition": "Any process in which the force of blood traveling through the circulatory system is decreased.",
+  "namespace": "biological_process",
+  "label": "negative regulation of blood pressure"
+}

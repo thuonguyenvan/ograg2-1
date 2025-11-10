@@ -1,0 +1,43 @@
+{
+  "id": "GO:1903553",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903553",
+  "relationships": {
+    "is_a": [
+      "GO:1902117",
+      "GO:1903551"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of extracellular vesicular exosome assembly",
+      "up-regulation of extracellular vesicular exosome assembly",
+      "upregulation of extracellular vesicular exosome assembly"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of extracellular vesicular exosome assembly"
+    ],
+    "related": [
+      "positive regulation of extracellular vesicular exosome assembly"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "vesicles"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24105262"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of extracellular vesicular exosome assembly.",
+  "namespace": "biological_process",
+  "label": "positive regulation of extracellular exosome assembly"
+}

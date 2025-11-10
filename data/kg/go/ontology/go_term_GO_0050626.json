@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050626",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050626",
+  "relationships": {
+    "is_a": [
+      "GO:0016662"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "TMAO reductase activity",
+      "TOR activity",
+      "trimethylamine:cytochrome c oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.2.3",
+      "1.7.2.3",
+      "1.7.2.3",
+      "1.7.2.3",
+      "1.7.2.3"
+    ],
+    "MetaCyc": [
+      "1.7.2.3-RXN",
+      "1.7.2.3-RXN"
+    ],
+    "RHEA": [
+      "24236"
+    ],
+    "Wikipedia": [
+      "Trimethylamine_N-oxide_reductase"
+    ]
+  },
+  "definition": "Catalysis of the reaction: trimethylamine + 2 (ferricytochrome c)-subunit + H2O = trimethylamine-N-oxide + 2 (ferrocytochrome c)-subunit + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "trimethylamine-N-oxide reductase (cytochrome c) activity"
+}

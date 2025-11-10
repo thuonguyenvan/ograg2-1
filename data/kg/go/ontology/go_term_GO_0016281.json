@@ -1,0 +1,32 @@
+{
+  "id": "GO:0016281",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016281",
+  "relationships": {
+    "is_a": [
+      "GO:0034518"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytoplasmic cap-binding complex",
+      "eIF-4F"
+    ],
+    "broad": [
+      "eukaryotic translation initiation factor 4 complex"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "hb"
+    ],
+    "PMID": [
+      "32883864",
+      "8449919"
+    ]
+  },
+  "definition": "The eukaryotic translation initiation factor 4F complex is composed of eIF4E, eIF4A and eIF4G; it is involved in the recognition of the mRNA cap, ATP-dependent unwinding of the 5&apos;-terminal secondary structure and recruitment of the mRNA to the ribosome.",
+  "namespace": "cellular_component",
+  "label": "eukaryotic translation initiation factor 4F complex"
+}

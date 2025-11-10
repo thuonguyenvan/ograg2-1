@@ -1,0 +1,33 @@
+{
+  "id": "GO:0033526",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033526",
+  "relationships": {
+    "is_a": [
+      "GO:0006536",
+      "GO:0033014"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tetrapyrrole anabolism from glutamate",
+      "tetrapyrrole biosynthesis from glutamate",
+      "tetrapyrrole formation from glutamate",
+      "tetrapyrrole synthesis from glutamate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5188",
+      "PWY-5188"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways leading to the formation of tetrapyrroles, natural pigments containing four pyrrole rings joined by one-carbon units linking position 2 of one pyrrole ring to position 5 of the next, from other compounds, including L-glutamate.",
+  "namespace": "biological_process",
+  "label": "tetrapyrrole biosynthetic process from glutamate"
+}

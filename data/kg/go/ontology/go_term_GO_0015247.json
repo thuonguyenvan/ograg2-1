@@ -1,0 +1,27 @@
+{
+  "id": "GO:0015247",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015247",
+  "relationships": {
+    "is_a": [
+      "GO:0005548",
+      "GO:0140327"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "aminophospholipid transmembrane transporter activity",
+      "aminophospholipid transporter activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "pg"
+    ]
+  },
+  "definition": "Enables the transfer of aminophospholipids from the exoplasmic to the cytosolic leaflet of a membrane, using energy from the hydrolysis of ATP. Aminophospholipids contain phosphoric acid as a mono- or diester and an amino (NH2) group.",
+  "namespace": "molecular_function",
+  "label": "aminophospholipid flippase activity"
+}

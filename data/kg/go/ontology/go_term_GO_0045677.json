@@ -1,0 +1,35 @@
+{
+  "id": "GO:0045677",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045677",
+  "relationships": {
+    "is_a": [
+      "GO:0045676",
+      "GO:0110118"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of R7 differentiation",
+      "down-regulation of R7 differentiation",
+      "downregulation of R7 differentiation",
+      "negative regulation of R7 differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of R7 differentiation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "go_curators",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of R7cell differentiation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of R7 cell differentiation"
+}

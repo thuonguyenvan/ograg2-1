@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050272",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050272",
+  "relationships": {
+    "is_a": [
+      "GO:0016848"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-chloro-L-alanine chloride-lyase (adding thioglycolate)",
+      "3-chloro-L-alanine chloride-lyase (adding thioglycolate; S-carboxymethyl-L-cysteine-forming)",
+      "S-carboxymethyl-L-cysteine synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.5.1.5",
+      "4.5.1.5",
+      "4.5.1.5",
+      "4.5.1.5",
+      "4.5.1.5"
+    ],
+    "KEGG_REACTION": [
+      "R04003"
+    ],
+    "MetaCyc": [
+      "S-CARBOXYMETHYLCYSTEINE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "22868",
+      "22868"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-chloro-L-alanine + thioglycolate = S-carboxymethyl-L-cysteine + chloride + H+.",
+  "namespace": "molecular_function",
+  "label": "S-carboxymethylcysteine synthase activity"
+}

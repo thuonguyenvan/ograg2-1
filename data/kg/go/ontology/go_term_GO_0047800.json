@@ -1,0 +1,46 @@
+{
+  "id": "GO:0047800",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047800",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-aminoethanethiol:oxygen oxidoreductase activity",
+      "cysteamine oxygenase activity",
+      "cysteamine:oxygen oxidoreductase activity",
+      "persulfurase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.19",
+      "1.13.11.19",
+      "1.13.11.19",
+      "1.13.11.19",
+      "1.13.11.19",
+      "1.13.11.19"
+    ],
+    "KEGG_REACTION": [
+      "R02467"
+    ],
+    "MetaCyc": [
+      "CYSTEAMINE-DIOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "14409",
+      "14409"
+    ],
+    "Reactome": [
+      "R-HSA-6814153"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cysteamine + O2 = H+ + hypotaurine.",
+  "namespace": "molecular_function",
+  "label": "ADO oxidises 2AET to HTAU"
+}

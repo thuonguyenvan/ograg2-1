@@ -1,0 +1,38 @@
+{
+  "id": "GO:0036108",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036108",
+  "relationships": {
+    "is_a": [
+      "GO:0008654",
+      "GO:0009247",
+      "GO:0016114"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate anabolism",
+      "4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate biosynthesis",
+      "4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate formation",
+      "4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate synthesis",
+      "undecaprenyl phosphate alpha-L-Ara4N biosynthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "yaf",
+      "bf",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "15695810"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of 4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate, a precursor of 4-amino-4-deoxy-L-arabinose (L-Ara4N).",
+  "namespace": "biological_process",
+  "label": "4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate biosynthetic process"
+}

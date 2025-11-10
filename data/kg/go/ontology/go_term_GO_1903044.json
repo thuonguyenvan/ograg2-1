@@ -1,0 +1,37 @@
+{
+  "id": "GO:1903044",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903044",
+  "relationships": {
+    "is_a": [
+      "GO:0072657"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein localisation in membrane raft",
+      "protein localisation to membrane raft",
+      "protein localization in membrane raft"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000087"
+    ],
+    "PMID": [
+      "19414744"
+    ]
+  },
+  "definition": "A process in which a protein is transported to, or maintained in, a location within a membrane raft.",
+  "namespace": "biological_process",
+  "label": "protein localization to membrane raft"
+}

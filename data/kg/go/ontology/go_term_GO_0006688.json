@@ -1,0 +1,34 @@
+{
+  "id": "GO:0006688",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006688",
+  "relationships": {
+    "is_a": [
+      "GO:0006687",
+      "GO:0009247",
+      "GO:0030148"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycosphingolipid anabolism",
+      "glycosphingolipid biosynthesis",
+      "glycosphingolipid formation",
+      "glycosphingolipid synthesis",
+      "glycosylceramide biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9840309"
+    ],
+    "PMID": [
+      "35536927"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of a glycosphingolipid, a compound composed of a ceramide backbone covalently linked to at least one carbohydrate moiety.",
+  "namespace": "biological_process",
+  "label": "Glycosphingolipid biosynthesis"
+}

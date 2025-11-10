@@ -1,0 +1,50 @@
+{
+  "id": "GO:0000915",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000915",
+  "relationships": {
+    "is_a": [
+      "GO:0000912",
+      "GO:0044837"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "contractile ring assembly",
+      "cytokinesis, actomyosin contractile ring assembly"
+    ],
+    "broad": [],
+    "narrow": [
+      "constriction ring assembly"
+    ],
+    "related": [
+      "cytokinesis, actomyosin contractile ring formation",
+      "cytokinesis, actomyosin ring biosynthesis",
+      "cytokinesis, actomyosin ring formation",
+      "cytokinesis, contractile ring assembly",
+      "myosin filament organisation involved in cytokinetic actomyosin contractile ring assembly",
+      "myosin filament organization involved in cytokinetic actomyosin contractile ring assembly",
+      "myosin filament organization of constriction ring assembly",
+      "myosin filament organization of contractile ring assembly"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "clt",
+      "dph",
+      "tb",
+      "ascb_2009",
+      "dph",
+      "tb",
+      "ascb_2009",
+      "dph",
+      "tb",
+      "mah",
+      "mah",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "The process of assembly of a ring composed of actin, myosin, and associated proteins that will function in cytokinesis.",
+  "namespace": "biological_process",
+  "label": "actomyosin contractile ring assembly"
+}

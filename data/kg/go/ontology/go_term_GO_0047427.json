@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047427",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047427",
+  "relationships": {
+    "is_a": [
+      "GO:0000257"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-cyano-L-alanine aminohydrolase activity",
+      "beta-cyanoalanine nitrilase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.5.4",
+      "3.5.5.4",
+      "3.5.5.4"
+    ],
+    "KEGG_REACTION": [
+      "R00486"
+    ],
+    "MetaCyc": [
+      "3.5.5.4-RXN"
+    ],
+    "RHEA": [
+      "11188",
+      "11188"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-cyano-L-alanine + 2 H2O + H+ = L-aspartate + NH4.",
+  "namespace": "molecular_function",
+  "label": "cyanoalanine nitrilase activity"
+}

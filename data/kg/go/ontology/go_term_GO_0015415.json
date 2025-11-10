@@ -1,0 +1,44 @@
+{
+  "id": "GO:0015415",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015415",
+  "relationships": {
+    "is_a": [
+      "GO:0005315",
+      "GO:0042626"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphate porter activity",
+      "phosphate transporting ATPase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "ABC phosphate transporter activity",
+      "phosphate ABC transporter"
+    ],
+    "related": [
+      "ATP phosphohydrolase (phosphate-importing)",
+      "phosphate ion transmembrane-transporting ATPase activity",
+      "phosphate-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.3.2.1",
+      "7.3.2.1",
+      "7.3.2.1",
+      "7.3.2.1",
+      "7.3.2.1"
+    ],
+    "MetaCyc": [
+      "ABC-27-RXN"
+    ],
+    "RHEA": [
+      "24440"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + phosphate(out) = ADP + phosphate + phosphate(in).",
+  "namespace": "molecular_function",
+  "label": "ATPase-coupled phosphate ion transmembrane transporter activity"
+}

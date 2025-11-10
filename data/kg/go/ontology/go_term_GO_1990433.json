@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990433",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990433",
+  "relationships": {
+    "is_a": [
+      "GO:0090575"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CSL-NotchIC-MASTERMIND complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "dos"
+    ],
+    "PMID": [
+      "16530045"
+    ]
+  },
+  "definition": "A DNA-binding transcription factor complex consisting of CSL and mastermind proteins in complex with the cleaved, intracellular domain of Notch. It is required for both repression and activation of Notch target genes.",
+  "namespace": "cellular_component",
+  "label": "CSL-Notch-Mastermind transcription factor complex"
+}

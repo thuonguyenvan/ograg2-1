@@ -1,0 +1,28 @@
+{
+  "id": "GO:1990660",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990660",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "calprotectin heterodimer"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "25417112"
+    ]
+  },
+  "definition": "A protein complex composed of S100A8 and S100A9 and capable of limiting Mn(2+) and Zn(2+) availability at sites of infection. Also binds Ca(2+). Expressed and released by neutrophils and epithelial cells, it exhibits broad-spectrum antimicrobial activity attributed to its metal-binding properties. Endogenous ligand of toll-like receptor 4 (TLR4) and of the receptor for advanced glycation end products (RAGE) initiating signal transduction through NF-kappa-B pathways.",
+  "namespace": "cellular_component",
+  "label": "calprotectin complex"
+}

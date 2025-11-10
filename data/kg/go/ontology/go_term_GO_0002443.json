@@ -1,0 +1,38 @@
+{
+  "id": "GO:0002443",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002443",
+  "relationships": {
+    "is_a": [
+      "GO:0002252"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "immune cell effector process",
+      "immune cell mediated immunity",
+      "leucocyte immune effector process",
+      "leucocyte mediated immunity",
+      "leukocyte immune effector process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cell-mediated immune response",
+      "cellular immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "GO_REF": [
+      "0000022"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "Any process involved in the carrying out of an immune response by a leukocyte.",
+  "namespace": "biological_process",
+  "label": "leukocyte mediated immunity"
+}

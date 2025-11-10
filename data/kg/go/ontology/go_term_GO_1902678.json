@@ -1,0 +1,52 @@
+{
+  "id": "GO:1902678",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902678",
+  "relationships": {
+    "is_a": [
+      "GO:0036064"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cilial basal body of right caudal cilium",
+      "cilial basal body of right caudal flagellum",
+      "ciliary basal body of right caudal cilium",
+      "ciliary basal body of right caudal flagellum",
+      "cilium basal body of right caudal cilium",
+      "cilium basal body of right caudal flagellum",
+      "microtubule basal body of right caudal cilium",
+      "microtubule basal body of right caudal flagellum",
+      "right caudal flagellum ciliary basal body"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "giardia",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000064"
+    ],
+    "ISBN": [
+      "9780124260207"
+    ],
+    "PMID": [
+      "16607022",
+      "5961344"
+    ]
+  },
+  "definition": "Any ciliary basal body that is part of a right caudal flagellum found in Giardia species (trophozoite stage).",
+  "namespace": "cellular_component",
+  "label": "right caudal basal body"
+}

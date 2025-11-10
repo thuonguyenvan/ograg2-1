@@ -1,0 +1,57 @@
+{
+  "id": "GO:0004475",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004475",
+  "relationships": {
+    "is_a": [
+      "GO:0070568"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GTP:mannose-1-phosphate guanylyltransferase activity"
+    ],
+    "broad": [
+      "mannose-1-phosphate guanylyltransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "GDP-mannose pyrophosphorylase activity",
+      "GTP-mannose-1-phosphate guanylyltransferase activity",
+      "GTP:alpha-D-mannose-1-phosphate guanylyltransferase activity",
+      "PIM-GMP (phosphomannose isomerase-guanosine 5&apos;-diphospho-D-mannose pyrophosphorylase)",
+      "guanosine 5&apos;-diphospho-D-mannose pyrophosphorylase activity",
+      "guanosine diphosphomannose pyrophosphorylase activity",
+      "guanosine triphosphate-mannose 1-phosphate guanylyltransferase activity",
+      "mannose 1-phosphate guanylyltransferase (guanosine triphosphate)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.13",
+      "2.7.7.13",
+      "2.7.7.13",
+      "2.7.7.13",
+      "2.7.7.13",
+      "2.7.7.13",
+      "2.7.7.13",
+      "2.7.7.13",
+      "2.7.7.13"
+    ],
+    "KEGG_REACTION": [
+      "R00885"
+    ],
+    "MetaCyc": [
+      "2.7.7.13-RXN"
+    ],
+    "RHEA": [
+      "15229",
+      "15229"
+    ],
+    "Reactome": [
+      "R-HSA-446221"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-D-mannose 1-phosphate + GTP = diphosphate + GDP-alpha-D-mannose.",
+  "namespace": "molecular_function",
+  "label": "GMPPB converts Mannose-1-phosphate to GDP-Mannose"
+}

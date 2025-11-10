@@ -1,0 +1,26 @@
+{
+  "id": "GO:0051063",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051063",
+  "relationships": {
+    "is_a": [
+      "GO:0004748"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CDP reduction"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "CDPREDUCT-RXN",
+      "CDPREDUCT-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dCDP + thioredoxin disulfide + H2O = CDP + thioredoxin.",
+  "namespace": "molecular_function",
+  "label": "CDP reductase activity"
+}

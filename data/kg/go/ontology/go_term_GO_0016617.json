@@ -1,0 +1,37 @@
+{
+  "id": "GO:0016617",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016617",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hydroxy-L-proline oxidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-hydroxy-L-proline:NAD+ oxidoreductase activity",
+      "hydroxyproline oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.104",
+      "1.1.1.104",
+      "1.1.1.104",
+      "1.1.1.104"
+    ],
+    "MetaCyc": [
+      "4-OXOPROLINE-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "13601"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-hydroxy-L-proline + NAD+ = 4-oxoproline + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "4-oxoproline reductase activity"
+}

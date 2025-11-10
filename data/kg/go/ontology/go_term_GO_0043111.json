@@ -1,0 +1,34 @@
+{
+  "id": "GO:0043111",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043111",
+  "relationships": {
+    "is_a": [
+      "GO:0045005",
+      "GO:2000104"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of DNA replication at replication fork barrier",
+      "replication fork blocking",
+      "replication fork stalling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "pr",
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "14645529"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of DNA replication by impeding the progress of the DNA replication fork. Replication fork arrest is one of the &apos;quality control&apos; processes ensuring that DNA-dependent DNA replication occurs correctly. DNA replication fork arrest during DNA-dependent DNA replication is not known to occur outside of cases where a replication error needs to be prevented or corrected.",
+  "namespace": "biological_process",
+  "label": "replication fork arrest"
+}

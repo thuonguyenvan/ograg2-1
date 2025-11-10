@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047769",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047769",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "carboxycyclohexadienyl dehydratase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-arogenate hydro-lyase (decarboxylating)",
+      "L-arogenate hydro-lyase (decarboxylating; L-phenylalanine-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.91",
+      "4.2.1.91",
+      "4.2.1.91",
+      "4.2.1.91"
+    ],
+    "MetaCyc": [
+      "CARBOXYCYCLOHEXADIENYL-DEHYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "12536"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-arogenate = L-phenylalanine + H2O + CO2.",
+  "namespace": "molecular_function",
+  "label": "arogenate dehydratase activity"
+}

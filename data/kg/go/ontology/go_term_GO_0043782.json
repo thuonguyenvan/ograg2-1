@@ -1,0 +1,33 @@
+{
+  "id": "GO:0043782",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043782",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cobalt-precorrin 3 C17-methyltransferase activity",
+      "cobalt-precorrin-3B C17-methyltransferase activity"
+    ],
+    "broad": [
+      "cobalt-precorrin-3 methylase",
+      "cobalt-precorrin-3 methyltransferase"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-8761",
+      "RXN-8761"
+    ],
+    "RHEA": [
+      "26273"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cobalt-precorrin 3 + S-adenosyl-L-methionine = cobalt-precorrin 4 + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "cobalt-precorrin-3 C17-methyltransferase activity"
+}

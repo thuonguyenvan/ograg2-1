@@ -1,0 +1,43 @@
+{
+  "id": "GO:1990426",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990426",
+  "relationships": {
+    "is_a": [
+      "GO:0031297",
+      "GO:1990505"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "homologous recombination-dependent replication fork processing",
+      "mitotic recombination involved in collapsed replication fork processing",
+      "mitotic recombination involved in recovery from replication fork arrest",
+      "mitotic recombination involved in recovery from replication fork stalling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "homologous recombination dependent replication fork recovery",
+      "mitotic recombination involved in replication fork processing",
+      "mitotic recombination involved in replication fork restart",
+      "mitotic recombination involved in replication restart"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "23093942",
+      "23093942"
+    ]
+  },
+  "definition": "Replication fork processing that includes recombination between DNA near the arrested fork and homologous sequences. Proteins involved in homologous recombination are required for replication restart.",
+  "namespace": "biological_process",
+  "label": "mitotic recombination-dependent replication fork processing"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0033746",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033746",
+  "relationships": {
+    "is_a": [
+      "GO:0016706",
+      "GO:0141052"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H3-R2 demethylase activity",
+      "histone H3-methyl-arginine-2 demethylase activity",
+      "histone H3R2me demethylase activity",
+      "histone demethylase activity (H3-R2 specific)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "17947579",
+      "22483719",
+      "29233856"
+    ]
+  },
+  "definition": "Catalysis of the removal of the methyl group from a modified arginine residue at position 2 of the histone H3 protein. This is a dioxygenase reaction that is dependent on Fe(II) and 2-oxoglutarate.",
+  "namespace": "molecular_function",
+  "label": "histone H3R2 demethylase activity"
+}

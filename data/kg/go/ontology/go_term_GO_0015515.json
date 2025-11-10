@@ -1,0 +1,28 @@
+{
+  "id": "GO:0015515",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015515",
+  "relationships": {
+    "is_a": [
+      "GO:0015141",
+      "GO:0015297",
+      "GO:0071913"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "28835"
+    ],
+    "TC": [
+      "2.A.47.3.2"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: citrate(out) + succinate(in) = citrate(in) + succinate(out).",
+  "namespace": "molecular_function",
+  "label": "citrate:succinate antiporter activity"
+}

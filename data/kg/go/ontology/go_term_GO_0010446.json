@@ -1,0 +1,31 @@
+{
+  "id": "GO:0010446",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010446",
+  "relationships": {
+    "is_a": [
+      "GO:0009268"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to basic pH"
+    ],
+    "broad": [
+      "response to alkalinity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "tb"
+    ],
+    "Wikipedia": [
+      "PH"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a pH stimulus with pH &gt; 7. pH is a measure of the acidity or basicity of an aqueous solution.",
+  "namespace": "biological_process",
+  "label": "response to alkaline pH"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0045334",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045334",
+  "relationships": {
+    "is_a": [
+      "GO:0030136",
+      "GO:0030139"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1243595998"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "A clathrin-coated, membrane-bounded intracellular vesicle formed by invagination of the plasma membrane around an extracellular substance.",
+  "namespace": "cellular_component",
+  "label": "clathrin-coated endocytic vesicle"
+}

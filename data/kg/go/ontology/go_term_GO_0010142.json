@@ -1,0 +1,39 @@
+{
+  "id": "GO:0010142",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010142",
+  "relationships": {
+    "is_a": [
+      "GO:0045337",
+      "GO:1902767"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "farnesyl diphosphate anabolism, mevalonate pathway",
+      "farnesyl diphosphate formation, mevalonate pathway",
+      "farnesyl diphosphate synthesis, mevalonate pathway",
+      "isoprenoid pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "Ac-MVA pathway",
+      "acetate-mevalonate pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pz"
+    ],
+    "MetaCyc": [
+      "PWY-922"
+    ],
+    "PMID": [
+      "14517367",
+      "14517367"
+    ]
+  },
+  "definition": "The pathway that converts acetate, in the form of acetyl-CoA, to farnesyl diphosphate (FPP) through a series of mevalonate intermediates. Farnesyl diphosphate is an important substrate for other essential pathways, such as biosynthesis of sterols.",
+  "namespace": "biological_process",
+  "label": "farnesyl diphosphate biosynthetic process, mevalonate pathway"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "GO:0140735",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140735",
+  "relationships": {
+    "is_a": [
+      "GO:0030639",
+      "GO:0043386",
+      "GO:1901336",
+      "GO:1901570"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lovastatin anabolism",
+      "lovastatin biosynthesis",
+      "lovastatin formation",
+      "lovastatin synthesis",
+      "mevacor anabolism",
+      "mevacor biosynthesis",
+      "mevacor biosynthetic process",
+      "mevacor formation",
+      "mevacor synthesis",
+      "mevinolin anabolism",
+      "mevinolin biosynthesis",
+      "mevinolin biosynthetic process",
+      "mevinolin formation,",
+      "mevinolin synthesis",
+      "monacolin K anabolism",
+      "monacolin K biosynthesis",
+      "monacolin K biosynthetic process",
+      "monacolin K formation",
+      "monacolin K synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-7535"
+    ],
+    "kegg.module": [
+      "M00893"
+    ],
+    "PMID": [
+      "10334994",
+      "10381407"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of lovastatin (also known as mevinolin, mevacor or monacolin K), a hypolipidemic inhibitor of (3S)-hydroxymethylglutaryl-coenzyme A (HMG-CoA) reductase (HMGR).",
+  "namespace": "biological_process",
+  "label": "lovastatin biosynthetic process"
+}

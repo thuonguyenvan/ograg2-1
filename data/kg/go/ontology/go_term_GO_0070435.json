@@ -1,0 +1,31 @@
+{
+  "id": "GO:0070435",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070435",
+  "relationships": {
+    "is_a": [
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Shc-Egfr complex, EGF stimulated"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "7798267"
+    ],
+    "CORUM": [
+      "2887"
+    ]
+  },
+  "definition": "A protein complex that contains the epidermal growth factor receptor (EGFR) and the adaptor protein Shc, and is involved in linking EGFR activation to the p21-Ras pathway.",
+  "namespace": "cellular_component",
+  "label": "Shc-EGFR complex"
+}

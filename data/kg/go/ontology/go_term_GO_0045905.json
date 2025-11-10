@@ -1,0 +1,32 @@
+{
+  "id": "GO:0045905",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045905",
+  "relationships": {
+    "is_a": [
+      "GO:0006449",
+      "GO:0043243",
+      "GO:0045727"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of translational termination",
+      "up-regulation of translational termination",
+      "upregulation of translational termination"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of translational termination",
+      "stimulation of translational termination"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of translational termination.",
+  "namespace": "biological_process",
+  "label": "positive regulation of translational termination"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GO:0008119",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008119",
+  "relationships": {
+    "is_a": [
+      "GO:0008172",
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "6-thiopurine transmethylase activity",
+      "S-adenosyl-L-methionine:thiopurine S-methyltransferase activity",
+      "TPMT",
+      "mercaptopurine methyltransferase activity",
+      "thiopurine methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.67",
+      "2.1.1.67",
+      "2.1.1.67",
+      "2.1.1.67",
+      "2.1.1.67",
+      "2.1.1.67",
+      "2.1.1.67"
+    ],
+    "MetaCyc": [
+      "THIOPURINE-S-METHYLTRANSFERASE-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-158609",
+      "R-HSA-5603379",
+      "R-HSA-9748979",
+      "R-HSA-9748983"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + a thiopurine = S-adenosyl-L-homocysteine + a thiopurine S-methylether.",
+  "namespace": "molecular_function",
+  "label": "TPMT transfers methyl group to 6MP, forming 6MeMP"
+}

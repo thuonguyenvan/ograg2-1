@@ -1,0 +1,35 @@
+{
+  "id": "GO:0033847",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033847",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "O-phospho-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase activity",
+      "O-phosphoserine(thiol)-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.65",
+      "2.5.1.65",
+      "2.5.1.65",
+      "2.5.1.65"
+    ],
+    "MetaCyc": [
+      "2.5.1.65-RXN"
+    ],
+    "RHEA": [
+      "10252"
+    ]
+  },
+  "definition": "Catalysis of the reaction: O-phospho-L-serine + hydrogen sulfide = L-cysteine + phosphate.",
+  "namespace": "molecular_function",
+  "label": "O-phosphoserine sulfhydrylase activity"
+}

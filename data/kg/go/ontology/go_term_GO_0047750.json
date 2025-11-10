@@ -1,0 +1,35 @@
+{
+  "id": "GO:0047750",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047750",
+  "relationships": {
+    "is_a": [
+      "GO:0016863"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cholestenol D-isomerase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "delta7-cholestenol delta7-delta8-isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.3.5",
+      "5.3.3.5"
+    ],
+    "MetaCyc": [
+      "RXN66-25"
+    ],
+    "RHEA": [
+      "15281",
+      "15281"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-alpha-cholest-7-en-3-beta-ol = 5-alpha-cholest-8-en-3-beta-ol.",
+  "namespace": "molecular_function",
+  "label": "cholestenol delta-isomerase activity"
+}

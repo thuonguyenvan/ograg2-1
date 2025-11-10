@@ -1,0 +1,32 @@
+{
+  "id": "GO:0044467",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044467",
+  "relationships": {
+    "is_a": [
+      "GO:0001816"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GDNF production"
+    ],
+    "broad": [],
+    "narrow": [
+      "glial cell-derived neurotrophic factor secretion"
+    ],
+    "related": [
+      "glial cell line-derived neurotrophic factor production"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "yaf"
+    ],
+    "PMID": [
+      "17505307"
+    ]
+  },
+  "definition": "The regulated release of glial cell line-derived neurotrophic factor from a cell. Glial cell-derived neurotrophic factor (GDNF) is a small protein that potently promotes the survival of many types of neurons, notably dopaminergic and motor neurons.",
+  "namespace": "biological_process",
+  "label": "glial cell-derived neurotrophic factor production"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:0102262",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102262",
+  "relationships": {
+    "is_a": [
+      "GO:0017150"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-12454"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 5,6-dihydrouracil16 in tRNA + NAD(P) = H+ + a uracil16 in tRNA + NAD(P)H.",
+  "namespace": "molecular_function",
+  "label": "tRNA-dihydrouridine16 synthase activity"
+}

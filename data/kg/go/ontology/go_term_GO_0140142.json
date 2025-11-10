@@ -1,0 +1,28 @@
+{
+  "id": "GO:0140142",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140142",
+  "relationships": {
+    "is_a": [
+      "GO:0140104"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nucleocytoplasmic importin/exportin activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "miRNA transporter activity",
+      "pre-miRNA transporter activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pg"
+    ]
+  },
+  "definition": "Binding to and carrying a cargo between the nucleus and the cytoplasm by moving along with the cargo. The cargo can be either a RNA or a protein.",
+  "namespace": "molecular_function",
+  "label": "nucleocytoplasmic carrier activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0036202",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036202",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ent-cassadiene C11alpha-hydroxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.112",
+      "1.14.14.112",
+      "1.14.14.112"
+    ],
+    "KEGG_REACTION": [
+      "R09866"
+    ],
+    "RHEA": [
+      "31967"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ent-cassa-12,15-diene + O2 + NADPH + H+ = ent-11beta-hydroxycassa-12,15-diene + NADP+ + H2O.",
+  "namespace": "molecular_function",
+  "label": "ent-cassa-12,15-diene 11-hydroxylase activity"
+}

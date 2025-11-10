@@ -1,0 +1,52 @@
+{
+  "id": "GO:1903467",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903467",
+  "relationships": {
+    "is_a": [
+      "GO:0032297",
+      "GO:1903464",
+      "GO:1903466"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of DNA replication initiation involved in mitotic DNA replication",
+      "down regulation of DNA replication initiation involved in mitotic cell cycle DNA replication",
+      "down-regulation of DNA replication initiation involved in mitotic DNA replication",
+      "down-regulation of DNA replication initiation involved in mitotic cell cycle DNA replication",
+      "downregulation of DNA replication initiation involved in mitotic DNA replication",
+      "downregulation of DNA replication initiation involved in mitotic cell cycle DNA replication",
+      "negative regulation of DNA replication initiation involved in mitotic cell cycle DNA replication"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of DNA replication initiation involved in mitotic DNA replication",
+      "inhibition of DNA replication initiation involved in mitotic cell cycle DNA replication"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_cell_cycle",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "1234"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of DNA replication initiation involved in mitotic DNA replication.",
+  "namespace": "biological_process",
+  "label": "negative regulation of mitotic DNA replication initiation"
+}

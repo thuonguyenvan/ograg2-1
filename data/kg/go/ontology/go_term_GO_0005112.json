@@ -1,0 +1,29 @@
+{
+  "id": "GO:0005112",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005112",
+  "relationships": {
+    "is_a": [
+      "GO:0005102"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N binding",
+      "Notch receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "N ligand",
+      "Notch ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ceb"
+    ]
+  },
+  "definition": "Binding to a Notch (N) protein, a surface receptor.",
+  "namespace": "molecular_function",
+  "label": "Notch binding"
+}

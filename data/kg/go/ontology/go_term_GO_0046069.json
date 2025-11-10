@@ -1,0 +1,29 @@
+{
+  "id": "GO:0046069",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046069",
+  "relationships": {
+    "is_a": [
+      "GO:0009154",
+      "GO:0009214",
+      "GO:0046068"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cGMP breakdown",
+      "cGMP catabolism",
+      "cGMP degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of cyclic GMP, guanosine 3&apos;,5&apos;-phosphate.",
+  "namespace": "biological_process",
+  "label": "cGMP catabolic process"
+}

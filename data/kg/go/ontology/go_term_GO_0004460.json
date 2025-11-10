@@ -1,0 +1,57 @@
+{
+  "id": "GO:0004460",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004460",
+  "relationships": {
+    "is_a": [
+      "GO:0016898",
+      "GO:0140171"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "L-lactate dehydrogenase activity",
+      "lactic acid dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "(S)-lactate:ferricytochrome-c 2-oxidoreductase activity",
+      "L(+)-lactate:cytochrome c oxidoreductase activity",
+      "L-lactate cytochrome c oxidoreductase activity",
+      "L-lactate cytochrome c reductase activity",
+      "L-lactate ferricytochrome c oxidoreductase activity",
+      "cytochrome b2",
+      "cytochrome b2 (flavin-free derivative of flavocytochrome b2)",
+      "dehydrogenase, lactate (cytochrome)",
+      "flavocytochrome b2",
+      "lactate dehydrogenase (cytochrome)",
+      "lactic cytochrome c reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.2.3",
+      "1.1.2.3",
+      "1.1.2.3",
+      "1.1.2.3",
+      "1.1.2.3",
+      "1.1.2.3",
+      "1.1.2.3",
+      "1.1.2.3",
+      "1.1.2.3",
+      "1.1.2.3",
+      "1.1.2.3",
+      "1.1.2.3"
+    ],
+    "MetaCyc": [
+      "L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN"
+    ],
+    "RHEA": [
+      "19909",
+      "19909"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-lactate + 2 [Fe(III)cytochrome c] = 2 [Fe(II)cytochrome c] + 2 H+ + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "L-lactate dehydrogenase (cytochrome) activity"
+}

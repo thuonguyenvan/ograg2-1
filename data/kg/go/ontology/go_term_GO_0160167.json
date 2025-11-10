@@ -1,0 +1,26 @@
+{
+  "id": "GO:0160167",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160167",
+  "relationships": {
+    "is_a": [
+      "GO:0045240"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "OADHC"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "29191460",
+      "32695416"
+    ]
+  },
+  "definition": "A multi-enzyme complex that catalyzes the oxidative decarboxylation of 2-oxoadipate to glutaryl-CoA, thereby acting in the final step of lysine and tryptophan catabolism in mitochondria. The complex comprises multiple copies of three enzymes referred to as E1, E2 and E3: 2-oxoadipate dehydrogenase (E1), dihydrolipoamide S-succinyltransferase (E2) and dihydrolipoamide dehydrogenase (E3).",
+  "namespace": "cellular_component",
+  "label": "oxoadipate dehydrogenase complex"
+}

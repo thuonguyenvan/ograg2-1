@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033420",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033420",
+  "relationships": {
+    "is_a": [
+      "GO:0030533"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CTG codon-amino acid adaptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "leucine tRNA"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "hjd",
+      "hjd",
+      "mah"
+    ]
+  },
+  "definition": "A triplet codon-amino acid adaptor activity that recognizes a CUG codon.",
+  "namespace": "molecular_function",
+  "label": "CUG codon-amino acid adaptor activity"
+}

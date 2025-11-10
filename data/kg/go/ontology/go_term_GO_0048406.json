@@ -1,0 +1,32 @@
+{
+  "id": "GO:0048406",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048406",
+  "relationships": {
+    "is_a": [
+      "GO:0043121"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NGF binding",
+      "beta-nerve growth factor binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "neurotrophin TRKA receptor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dgh"
+    ],
+    "PR": [
+      "000011194",
+      "000011194"
+    ]
+  },
+  "definition": "Binding to nerve growth factor (NGF).",
+  "namespace": "molecular_function",
+  "label": "nerve growth factor binding"
+}

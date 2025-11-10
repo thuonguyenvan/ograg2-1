@@ -1,0 +1,31 @@
+{
+  "id": "GO:0047615",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047615",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "actinomycin lactonohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.39",
+      "3.1.1.39",
+      "3.1.1.39"
+    ],
+    "MetaCyc": [
+      "ACTINOMYCIN-LACTONASE-RXN",
+      "ACTINOMYCIN-LACTONASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: actinomycin + H2O = actinomycinic monolactone.",
+  "namespace": "molecular_function",
+  "label": "actinomycin lactonase activity"
+}

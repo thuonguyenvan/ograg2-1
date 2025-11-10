@@ -1,0 +1,36 @@
+{
+  "id": "GO:0007187",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007187",
+  "relationships": {
+    "is_a": [
+      "GO:0007186"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G protein signaling, coupled to cyclic nucleotide second messenger",
+      "G protein signalling, coupled to cyclic nucleotide second messenger",
+      "G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",
+      "G-protein signaling, coupled to cyclic nucleotide second messenger",
+      "G-protein signalling, coupled to cyclic nucleotide second messenger",
+      "GPCR signaling pathway via cyclic nucleotide second messenger"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "signaling",
+      "signaling",
+      "signaling"
+    ],
+    "ISBN": [
+      "0815316194"
+    ]
+  },
+  "definition": "A G protein-coupled receptor signaling pathway in which the signal is transmitted via the activation or inhibition of a nucleotide cyclase activity and a subsequent change in the concentration of a cyclic nucleotide.",
+  "namespace": "biological_process",
+  "label": "G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger"
+}

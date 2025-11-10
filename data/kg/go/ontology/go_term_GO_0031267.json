@@ -1,0 +1,43 @@
+{
+  "id": "GO:0031267",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031267",
+  "relationships": {
+    "is_a": [
+      "GO:0051020"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "ADP-ribosylation factor binding",
+      "ARF binding",
+      "GTP-Ral binding",
+      "GTP-Rho binding",
+      "REP",
+      "Rab GTPase binding",
+      "Rab escort protein activity",
+      "Rab interactor activity",
+      "Rac GTPase binding",
+      "Ral GTPase binding",
+      "Ran GTPase binding",
+      "Ran protein binding",
+      "Ran-binding protein",
+      "Ras GTPase binding",
+      "Ras interactor activity",
+      "Rho GTPase binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "27218782"
+    ]
+  },
+  "definition": "Binding to a small monomeric GTPase.",
+  "namespace": "molecular_function",
+  "label": "small GTPase binding"
+}

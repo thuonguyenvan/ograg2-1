@@ -1,0 +1,32 @@
+{
+  "id": "GO:0032385",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032385",
+  "relationships": {
+    "is_a": [
+      "GO:0032376",
+      "GO:0032382",
+      "GO:0032383"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of intracellular cholesterol transport",
+      "up-regulation of intracellular cholesterol transport",
+      "upregulation of intracellular cholesterol transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of intracellular cholesterol transport",
+      "stimulation of intracellular cholesterol transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the directed movement of cholesterol within cells.",
+  "namespace": "biological_process",
+  "label": "positive regulation of intracellular cholesterol transport"
+}

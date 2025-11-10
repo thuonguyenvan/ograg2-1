@@ -1,0 +1,29 @@
+{
+  "id": "GO:0070120",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070120",
+  "relationships": {
+    "is_a": [
+      "GO:0019221"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CNTF-mediated signaling pathway",
+      "ciliary neurotrophic factor-mediated signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "rl",
+      "mah"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by the binding of a ciliary neurotrophic factor (CNTF) to its receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "ciliary neurotrophic factor-mediated signaling pathway"
+}

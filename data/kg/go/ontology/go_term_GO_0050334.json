@@ -1,0 +1,37 @@
+{
+  "id": "GO:0050334",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050334",
+  "relationships": {
+    "is_a": [
+      "GO:0016810"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "thiaminase II activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.99.2",
+      "3.5.99.2",
+      "3.5.99.2"
+    ],
+    "KEGG_REACTION": [
+      "R02133"
+    ],
+    "MetaCyc": [
+      "THIAMINASE-RXN"
+    ],
+    "RHEA": [
+      "17509",
+      "17509"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + thiamine = 4-amino-5-hydroxymethyl-2-methylpyrimidine + 5-(2-hydroxyethyl)-4-methylthiazole + H+.",
+  "namespace": "molecular_function",
+  "label": "thiaminase activity"
+}

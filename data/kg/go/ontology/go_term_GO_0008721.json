@@ -1,0 +1,55 @@
+{
+  "id": "GO:0008721",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008721",
+  "relationships": {
+    "is_a": [
+      "GO:0016841"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "D-hydroxy amino acid dehydratase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "D-hydroxyaminoacid dehydratase activity",
+      "D-serine ammonia-lyase (pyruvate-forming)",
+      "D-serine deaminase activity",
+      "D-serine dehydrase activity",
+      "D-serine dehydratase (deaminating) activity",
+      "D-serine dehydratase activity",
+      "D-serine dehydration activity",
+      "D-serine hydro-lyase (deaminating) activity",
+      "D-serine hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.1.18",
+      "4.3.1.18",
+      "4.3.1.18",
+      "4.3.1.18",
+      "4.3.1.18",
+      "4.3.1.18",
+      "4.3.1.18",
+      "4.3.1.18",
+      "4.3.1.18",
+      "4.3.1.18",
+      "4.3.1.18"
+    ],
+    "MetaCyc": [
+      "DSERDEAM-RXN"
+    ],
+    "RHEA": [
+      "13977"
+    ],
+    "Reactome": [
+      "R-HSA-9014741",
+      "R-HSA-9034539"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-serine = pyruvate + NH3.",
+  "namespace": "molecular_function",
+  "label": "PXLP-K56-SRR dimer deaminates L-Ser"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0018966",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018966",
+  "relationships": {
+    "is_a": [
+      "GO:0042537",
+      "GO:0120252",
+      "GO:0120254"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "styrene metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "UM-BBD_pathwayID": [
+      "sty",
+      "sty"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving styrene, an aromatic hydrocarbon liquid soluble in ether and alcohol. When heated, exposed to light or added to a peroxide catalyst, it undergoes polymerization to form polystyrene, a versatile material used in the manufacture of plastics, synthetic rubber, thermal insulation, and packaging. Styrene is a classified mutagen and a suspected carcinogen.",
+  "namespace": "biological_process",
+  "label": "styrene metabolic process"
+}

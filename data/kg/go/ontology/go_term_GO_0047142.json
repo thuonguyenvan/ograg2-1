@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047142",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047142",
+  "relationships": {
+    "is_a": [
+      "GO:0016671"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "enzyme-thiol transhydrogenase (glutathione-disulphide) activity",
+      "enzyme-thiol transhydrogenase (oxidized-glutathione) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "[xanthine-dehydrogenase]:oxidized-glutathione S-oxidoreductase activity",
+      "glutathione-dependent thiol:disulfide oxidoreductase activity",
+      "thiol:disulfide oxidoreductase activity",
+      "thiol:disulphide oxidoreductase activity",
+      "xanthine-dehydrogenase:glutathione-disulfide S-oxidoreductase activity",
+      "xanthine-dehydrogenase:oxidized-glutathione S-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.4.7",
+      "1.8.4.7",
+      "1.8.4.7",
+      "1.8.4.7",
+      "1.8.4.7",
+      "1.8.4.7",
+      "1.8.4.7",
+      "1.8.4.7"
+    ],
+    "MetaCyc": [
+      "1.8.4.7-RXN",
+      "1.8.4.7-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: oxidized glutathione + [xanthine dehydrogenase] = reduced glutathione + xanthine-oxidase.",
+  "namespace": "molecular_function",
+  "label": "enzyme-thiol transhydrogenase (glutathione-disulfide) activity"
+}

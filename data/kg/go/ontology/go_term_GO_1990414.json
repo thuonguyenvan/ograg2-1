@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990414",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990414",
+  "relationships": {
+    "is_a": [
+      "GO:0000724"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "replication-born DSB repair by SCE"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rb"
+    ],
+    "PMID": [
+      "12820977",
+      "16888651"
+    ]
+  },
+  "definition": "The repair of a replication-born double-strand DNA break in which the DNA molecule is repaired using the homologous sequence of the sister chromatid which serves as a template to repair the breaks.",
+  "namespace": "biological_process",
+  "label": "replication-born double-strand break repair via sister chromatid exchange"
+}

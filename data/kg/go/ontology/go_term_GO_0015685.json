@@ -1,0 +1,29 @@
+{
+  "id": "GO:0015685",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015685",
+  "relationships": {
+    "is_a": [
+      "GO:0015711",
+      "GO:0033214"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "ferric-enterobactin transport"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pg"
+    ],
+    "PMID": [
+      "23192658"
+    ]
+  },
+  "definition": "A process in which ferric-enterobactin, the iron-bound form of the siderophore enterobactin, is transported into the cell by specific cell surface receptors.",
+  "namespace": "biological_process",
+  "label": "ferric-enterobactin import into cell"
+}

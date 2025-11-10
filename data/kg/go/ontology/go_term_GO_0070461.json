@@ -1,0 +1,30 @@
+{
+  "id": "GO:0070461",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070461",
+  "relationships": {
+    "is_a": [
+      "GO:0000123"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SAGA family complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "10637607",
+      "17337012",
+      "17337012"
+    ]
+  },
+  "definition": "A histone acetyltransferase complex that acetylates nucleosomal histones H2B, H3, or H4 and is required for the expression of a subset of Pol II-transcribed genes. This complex includes the acetyltransferases GCN5/KAT2A or PCAF/KAT2B, several proteins of the ADA, SGF and SPT families, and several TBP-associate proteins (TAFs).",
+  "namespace": "cellular_component",
+  "label": "SAGA-type complex"
+}

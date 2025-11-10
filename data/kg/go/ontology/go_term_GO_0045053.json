@@ -1,0 +1,28 @@
+{
+  "id": "GO:0045053",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045053",
+  "relationships": {
+    "is_a": [
+      "GO:0032507"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein-Golgi retention",
+      "retention of protein in Golgi"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "maintenance of protein location in Golgi apparatus"
+    ]
+  },
+  "cross_references": {
+    "ISBN": [
+      "0716731363"
+    ]
+  },
+  "definition": "The retention of proteins within the Golgi apparatus. Golgi-localized carbohydrate-modifying enzymes have a short N-terminal domain that faces the cytosol, a single transmembrane alpha helix, and a large C-terminal domain that faces the Golgi lumen and that contains the catalytic site. How the membrane-spanning alpha helix in a Golgi enzyme causes its localization and prevents its movement to the plasma membrane is not known.",
+  "namespace": "biological_process",
+  "label": "protein retention in Golgi apparatus"
+}

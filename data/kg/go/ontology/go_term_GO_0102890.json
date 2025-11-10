@@ -1,0 +1,26 @@
+{
+  "id": "GO:0102890",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102890",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "naringenin chalcone 4&apos;-O-glucosyltransferase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.286",
+      "2.4.1.286"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-alpha-D-glucose + 2&apos;,4,4&apos;,6&apos;-tetrahydroxychalcone = UDP + 2&apos;,4,4&apos;,6&apos;-tetrahydroxychalcone 4&apos;-O-beta-D-glucoside + H+. Also converts 2&apos;,3,4,4&apos;,6&apos;-pentahydroxychalcone + UDP-alpha-D-glucose into 2&apos;,3,4,4&apos;,6&apos;-pentahydroxychalcone 4&apos;-O-beta-D-glucoside.",
+  "namespace": "molecular_function",
+  "label": "chalcone 4&apos;-O-glucosyltransferase activity"
+}

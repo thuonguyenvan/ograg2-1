@@ -1,0 +1,28 @@
+{
+  "id": "GO:0002086",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002086",
+  "relationships": {
+    "is_a": [
+      "GO:0003011",
+      "GO:0003016"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mtg_muscle"
+    ],
+    "PMID": [
+      "12458206"
+    ]
+  },
+  "definition": "A process in which force is generated within involuntary skeletal muscle tissue, resulting in a change in muscle geometry. This process occurs in the diaphragm. Force generation involves a chemo-mechanical energy conversion step that is carried out by the actin/myosin complex activity, which generates force through ATP hydrolysis. The diaphragm is a striated muscle that is necessary for the process of respiratory gaseous exchange.",
+  "namespace": "biological_process",
+  "label": "diaphragm contraction"
+}

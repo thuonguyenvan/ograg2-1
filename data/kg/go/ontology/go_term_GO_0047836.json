@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047836",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047836",
+  "relationships": {
+    "is_a": [
+      "GO:0050735"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "malonyl-CoA:D-tryptophan N-malonyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.112",
+      "2.3.1.112",
+      "2.3.1.112"
+    ],
+    "KEGG_REACTION": [
+      "R02482"
+    ],
+    "MetaCyc": [
+      "D-TRYPTOPHAN-N-MALONYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "23320",
+      "23320"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-tryptophan + malonyl-CoA = N(2)-malonyl-D-tryptophan + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "D-tryptophan N-malonyltransferase activity"
+}

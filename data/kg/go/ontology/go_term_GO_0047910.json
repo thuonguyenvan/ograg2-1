@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047910",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047910",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-galactose dehydrogenase (NADP+)",
+      "D-galactose:NADP+ 1-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.120",
+      "1.1.1.120",
+      "1.1.1.120",
+      "1.1.1.120"
+    ],
+    "MetaCyc": [
+      "GALACTOSE-1-DEHYDROGENASE-NADP+-RXN",
+      "GALACTOSE-1-DEHYDROGENASE-NADP+-RXN"
+    ],
+    "RHEA": [
+      "18625"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-galactose + NADP+ = D-galactonolactone + NADPH.",
+  "namespace": "molecular_function",
+  "label": "galactose 1-dehydrogenase (NADP+) activity"
+}

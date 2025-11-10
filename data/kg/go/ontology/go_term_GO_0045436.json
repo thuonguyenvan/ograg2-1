@@ -1,0 +1,34 @@
+{
+  "id": "GO:0045436",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045436",
+  "relationships": {
+    "is_a": [
+      "GO:0009975",
+      "GO:0016860"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "lycopene cyclase"
+    ],
+    "narrow": [],
+    "related": [
+      "crtL"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN1F-150"
+    ],
+    "RHEA": [
+      "32219"
+    ],
+    "PMID": [
+      "8837512"
+    ]
+  },
+  "definition": "Catalysis of the cyclization of beta rings at one or both ends of the lycopene molecule (psi, psi-carotene) to form gamma-carotene or the bicyclic beta-carotene (beta, beta-carotene), respectively.",
+  "namespace": "molecular_function",
+  "label": "lycopene beta cyclase activity"
+}

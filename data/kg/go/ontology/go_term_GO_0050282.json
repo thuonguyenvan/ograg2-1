@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050282",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050282",
+  "relationships": {
+    "is_a": [
+      "GO:0016639"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "serine dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-serine:NAD oxidoreductase (deaminating) activity",
+      "L-serine:NAD+ 2-oxidoreductase (deaminating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.1.7",
+      "1.4.1.7",
+      "1.4.1.7",
+      "1.4.1.7"
+    ],
+    "MetaCyc": [
+      "SERINE-DEHYDROGENASE-RXN",
+      "SERINE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "20884"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-serine + H2O + NAD+ = 3-hydroxypyruvate + NH3 + NADH.",
+  "namespace": "molecular_function",
+  "label": "serine 2-dehydrogenase activity"
+}

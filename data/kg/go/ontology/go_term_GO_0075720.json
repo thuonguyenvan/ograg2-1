@@ -1,0 +1,27 @@
+{
+  "id": "GO:0075720",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075720",
+  "relationships": {
+    "is_a": [
+      "GO:0019043"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "establishment of plasmid latency"
+    ],
+    "broad": [],
+    "narrow": [
+      "establishment as a plasmid prophage"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "A process by which a virus establishes a latent state within its host as an episome, where the viral genome remains silent in the cytoplasm or nucleus as a distinct genetic entity.",
+  "namespace": "biological_process",
+  "label": "establishment of episomal latency"
+}

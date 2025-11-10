@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047415",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047415",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-BAPA-ase activity",
+      "N-benzoyl-D-arginine-4-nitroanilide amidohydrolase activity",
+      "benzoyl-D-arginine arylamidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.72",
+      "3.5.1.72",
+      "3.5.1.72",
+      "3.5.1.72",
+      "3.5.1.72"
+    ],
+    "KEGG_REACTION": [
+      "R04113"
+    ],
+    "MetaCyc": [
+      "3.5.1.72-RXN"
+    ],
+    "RHEA": [
+      "14421",
+      "14421"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(2)-benzoyl-D-arginine-4-nitroanilide + H2O = 4-nitroaniline + N(2)-benzoyl-D-arginine + H+.",
+  "namespace": "molecular_function",
+  "label": "D-benzoylarginine-4-nitroanilide amidase activity"
+}

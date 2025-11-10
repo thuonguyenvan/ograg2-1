@@ -1,0 +1,36 @@
+{
+  "id": "GO:0008798",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008798",
+  "relationships": {
+    "is_a": [
+      "GO:0008242",
+      "GO:0070003"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "beta-aspartyl dipeptidase activity",
+      "beta-aspartyl peptidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.4.19.5",
+      "3.4.19.5",
+      "3.4.19.5",
+      "3.4.19.5"
+    ],
+    "MetaCyc": [
+      "3.4.19.5-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-5692495"
+    ]
+  },
+  "definition": "Catalysis of the cleavage of a beta-linked aspartic residue from the N-terminus of a polypeptide.",
+  "namespace": "molecular_function",
+  "label": "BACE1 cleaves APP(18-770) to APP(18-671) and APP(672-770)"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0007175",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007175",
+  "relationships": {
+    "is_a": [
+      "GO:0042059",
+      "GO:0061099",
+      "GO:2000272"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "EGF receptor downregulation",
+      "down regulation of epidermal growth factor receptor activity",
+      "down-regulation of epidermal growth factor receptor activity",
+      "downregulation of epidermal growth factor receptor activity",
+      "negative regulation of EGF receptor activity",
+      "negative regulation of EGFR activity",
+      "negative regulation of epidermal growth factor receptor activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of epidermal growth factor receptor activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "bf",
+      "signaling"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of EGF-activated receptor activity.",
+  "namespace": "biological_process",
+  "label": "negative regulation of epidermal growth factor-activated receptor activity"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:2001169",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001169",
+  "relationships": {
+    "is_a": [
+      "GO:1900371",
+      "GO:1903578"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of ATP anabolism",
+      "regulation of ATP biosynthesis",
+      "regulation of ATP formation",
+      "regulation of ATP synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of ATP regeneration"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of ATP biosynthetic process.",
+  "namespace": "biological_process",
+  "label": "regulation of ATP biosynthetic process"
+}

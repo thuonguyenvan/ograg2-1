@@ -1,0 +1,36 @@
+{
+  "id": "GO:0043829",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043829",
+  "relationships": {
+    "is_a": [
+      "GO:0008251"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA(Ala)-A37 deaminase activity",
+      "tRNA-specific adenosine deaminase 1"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "TAD1"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.4.34"
+    ],
+    "RHEA": [
+      "50968",
+      "50968"
+    ],
+    "PMID": [
+      "8915538",
+      "9707437"
+    ]
+  },
+  "definition": "Catalysis of the reaction: adenosine-37 + H2O = inosine-37 + NH3, in a tRNA-Ala molecule.",
+  "namespace": "molecular_function",
+  "label": "tRNA-specific adenosine-37 deaminase activity"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0045760",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045760",
+  "relationships": {
+    "is_a": [
+      "GO:0048518",
+      "GO:0098900"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of action potential",
+      "up-regulation of action potential",
+      "upregulation of action potential"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of action potential",
+      "stimulation of action potential"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of action potential creation, propagation or termination. This typically occurs via modulation of the activity or expression of voltage-gated ion channels.",
+  "namespace": "biological_process",
+  "label": "positive regulation of action potential"
+}

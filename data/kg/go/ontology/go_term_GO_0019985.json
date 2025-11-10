@@ -1,0 +1,34 @@
+{
+  "id": "GO:0019985",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019985",
+  "relationships": {
+    "is_a": [
+      "GO:0006301",
+      "GO:0090592"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "bypass DNA synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-73893"
+    ],
+    "GOC": [
+      "elh",
+      "vw",
+      "elh"
+    ],
+    "PMID": [
+      "10535901"
+    ]
+  },
+  "definition": "The replication of damaged DNA by synthesis across a lesion in the template strand; a specialized DNA polymerase or replication complex inserts a defined nucleotide across from the lesion which allows DNA synthesis to continue beyond the lesion. This process can be mutagenic depending on the damaged nucleotide and the inserted nucleotide.",
+  "namespace": "biological_process",
+  "label": "DNA Damage Bypass"
+}

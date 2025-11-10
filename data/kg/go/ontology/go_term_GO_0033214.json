@@ -1,0 +1,33 @@
+{
+  "id": "GO:0033214",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033214",
+  "relationships": {
+    "is_a": [
+      "GO:0098657",
+      "GO:0180060",
+      "GO:1901678"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "iron assimilation by chelation and transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1222449"
+    ],
+    "GOC": [
+      "vw"
+    ],
+    "PMID": [
+      "16963626"
+    ]
+  },
+  "definition": "A process in which iron (Fe3+) is solubilized by ferric iron-specific chelators, known as siderophores is imported into the cell by transmembrane transport or endocytosis.",
+  "namespace": "biological_process",
+  "label": "Mtb iron assimilation by chelation"
+}

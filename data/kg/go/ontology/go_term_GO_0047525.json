@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047525",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047525",
+  "relationships": {
+    "is_a": [
+      "GO:0016628"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2&apos;-hydroxy-2,3-dihydrodaidzein:NADP+ 2&apos;-oxidoreductase activity",
+      "2&apos;-hydroxydihydrodaidzein:NADP(+) 2&apos;-oxidoreductase activity",
+      "2&apos;-hydroxydihydrodaidzein:NADP+ 2&apos;-oxidoreductase activity",
+      "HDR activity",
+      "NADPH:2&apos;-hydroxydaidzein oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.3.1.51",
+      "1.3.1.51",
+      "1.3.1.51",
+      "1.3.1.51",
+      "1.3.1.51",
+      "1.3.1.51",
+      "1.3.1.51"
+    ],
+    "MetaCyc": [
+      "RXN-4502"
+    ],
+    "RHEA": [
+      "17145"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2&apos;-hydroxydihydrodaidzein + NADP+ = 2&apos;-hydroxydaidzein + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "2&apos;-hydroxydaidzein reductase activity"
+}

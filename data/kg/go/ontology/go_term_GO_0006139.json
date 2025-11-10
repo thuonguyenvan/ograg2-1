@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006139",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006139",
+  "relationships": {
+    "is_a": [
+      "GO:0044238"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular nucleobase, nucleoside, nucleotide and nucleic acid metabolic process",
+      "cellular nucleobase, nucleoside, nucleotide and nucleic acid metabolism",
+      "nucleobase, nucleoside, nucleotide and nucleic acid metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "nucleobase, nucleoside and nucleotide metabolic process",
+      "nucleobase, nucleoside, nucleotide and nucleic acid metabolic process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any cellular metabolic process involving nucleobases, nucleosides, nucleotides and nucleic acids.",
+  "namespace": "biological_process",
+  "label": "nucleobase-containing compound metabolic process"
+}

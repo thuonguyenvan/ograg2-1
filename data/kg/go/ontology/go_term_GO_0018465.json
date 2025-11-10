@@ -1,0 +1,42 @@
+{
+  "id": "GO:0018465",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018465",
+  "relationships": {
+    "is_a": [
+      "GO:0016899"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-hydroxy-2-methoxybenzyl alcohol oxidase activity",
+      "vanillyl alcohol:oxygen oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.3.38",
+      "1.1.3.38",
+      "1.1.3.38",
+      "1.1.3.38"
+    ],
+    "KEGG_REACTION": [
+      "R02877"
+    ],
+    "MetaCyc": [
+      "1.1.3.38-RXN"
+    ],
+    "RHEA": [
+      "10036",
+      "10036"
+    ],
+    "UM-BBD_reactionID": [
+      "r0651"
+    ]
+  },
+  "definition": "Catalysis of the reaction: O2 + vanillyl alcohol = H2O2 + vanillin.",
+  "namespace": "molecular_function",
+  "label": "vanillyl-alcohol oxidase activity"
+}

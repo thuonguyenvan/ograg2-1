@@ -1,0 +1,29 @@
+{
+  "id": "GO:0021955",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021955",
+  "relationships": {
+    "is_a": [
+      "GO:0007409"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ]
+  },
+  "definition": "Generation of a long process from a neuron whose cell body resides in the central nervous system. The process carries efferent (outgoing) action potentials from the cell body towards target cells.",
+  "namespace": "biological_process",
+  "label": "central nervous system neuron axonogenesis"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0043336",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043336",
+  "relationships": {
+    "is_a": [
+      "GO:0140097"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "ResT",
+      "TelN"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "11804598"
+    ]
+  },
+  "definition": "Catalysis of a site-specific breakage and reunion reaction that generates two hairpin telomeres from a replicated telomere substrate. Occurs via a two-step transesterification with a protein-DNA intermediate similar to that used by topoisomerases and site-specific recombinases.",
+  "namespace": "molecular_function",
+  "label": "site-specific telomere resolvase activity"
+}

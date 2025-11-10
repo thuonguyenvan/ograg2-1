@@ -1,0 +1,46 @@
+{
+  "id": "GO:0019165",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019165",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:thiamin phosphotransferase activity",
+      "ATP:thiamine phosphotransferase activity",
+      "thiamin kinase (phosphorylating)",
+      "thiamin kinase activity",
+      "thiamin phosphokinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.89",
+      "2.7.1.89",
+      "2.7.1.89",
+      "2.7.1.89",
+      "2.7.1.89",
+      "2.7.1.89",
+      "2.7.1.89"
+    ],
+    "KEGG_REACTION": [
+      "R02134"
+    ],
+    "MetaCyc": [
+      "THIKIN-RXN"
+    ],
+    "RHEA": [
+      "12012",
+      "12012"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + thiamine = ADP + 2 H+ + thiamine phosphate.",
+  "namespace": "molecular_function",
+  "label": "thiamine kinase activity"
+}

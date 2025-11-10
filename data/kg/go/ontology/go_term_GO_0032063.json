@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032063",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032063",
+  "relationships": {
+    "is_a": [
+      "GO:0032057",
+      "GO:0032061",
+      "GO:0043561"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of translation initiation in response to osmotic stress",
+      "down-regulation of translation initiation in response to osmotic stress",
+      "downregulation of translation initiation in response to osmotic stress"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of translation initiation in response to osmotic stress"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the rate of translation initiation, as a result of a stimulus indicating an increase or decrease in the concentration of solutes outside the organism or cell.",
+  "namespace": "biological_process",
+  "label": "negative regulation of translational initiation in response to osmotic stress"
+}

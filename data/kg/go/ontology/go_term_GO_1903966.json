@@ -1,0 +1,40 @@
+{
+  "id": "GO:1903966",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903966",
+  "relationships": {
+    "is_a": [
+      "GO:0006633",
+      "GO:1903964"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "monounsaturated fatty acid anabolism",
+      "monounsaturated fatty acid biosynthesis",
+      "monounsaturated fatty acid formation",
+      "monounsaturated fatty acid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "hjd",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000068"
+    ],
+    "PMID": [
+      "16443825"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of monounsaturated fatty acid.",
+  "namespace": "biological_process",
+  "label": "monounsaturated fatty acid biosynthetic process"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "GO:0003878",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003878",
+  "relationships": {
+    "is_a": [
+      "GO:0046912"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-citrate (pro-S)-lyase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP citrate (pro-S)-lyase activity",
+      "ATP-citrate (pro-S-)-lyase activity",
+      "ATP-citric lyase activity",
+      "ATP:citrate oxaloacetate-lyase ((pro-S)-CH(2)COO(-)-&gt;acetyl-CoA) (ATP- dephosphorylating) activity",
+      "ATP:citrate oxaloacetate-lyase [(pro-S)-CH2COO-rightacetyl-CoA] (ATP-dephosphorylating)",
+      "acetyl-CoA:oxaloacetate C-acetyltransferase [(pro-S)-carboxymethyl-forming, ADP-phosphorylating]",
+      "acetyl-CoA:oxaloacetate acetyltransferase (isomerizing; ADP- phosphorylating) activity",
+      "acetyl-CoA:oxaloacetate acetyltransferase (isomerizing; ADP-phosphorylating)",
+      "adenosine triphosphate citrate lyase activity",
+      "citrate cleavage enzyme activity",
+      "citrate-ATP lyase activity",
+      "citric cleavage enzyme activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.3.8",
+      "2.3.3.8",
+      "2.3.3.8",
+      "2.3.3.8",
+      "2.3.3.8",
+      "2.3.3.8",
+      "2.3.3.8",
+      "2.3.3.8",
+      "2.3.3.8",
+      "2.3.3.8",
+      "2.3.3.8",
+      "2.3.3.8",
+      "2.3.3.8"
+    ],
+    "KEGG_REACTION": [
+      "R00352"
+    ],
+    "MetaCyc": [
+      "ATP-CITRATE-PRO-S--LYASE-RXN"
+    ],
+    "RHEA": [
+      "21160",
+      "21160"
+    ],
+    "Reactome": [
+      "R-HSA-75848"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + ADP + H+ + oxaloacetate + phosphate = ATP + citrate + CoA.",
+  "namespace": "molecular_function",
+  "label": "ACLY tetramer transforms CIT to Ac-CoA"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0097079",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097079",
+  "relationships": {
+    "is_a": [
+      "GO:0015295"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "selenite:H+ symporter activity",
+      "selenite:hydrogen symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mcc"
+    ],
+    "PMID": [
+      "20861301"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: selenite(out) + H+(out) = selenite(in) + H+(in).",
+  "namespace": "molecular_function",
+  "label": "selenite:proton symporter activity"
+}

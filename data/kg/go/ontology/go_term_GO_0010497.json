@@ -1,0 +1,33 @@
+{
+  "id": "GO:0010497",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010497",
+  "relationships": {
+    "is_a": [
+      "GO:0010496"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "plasmodesma-mediated cell-to-cell transport",
+      "plasmodesma-mediated intercellular transport",
+      "plasmodesmata-mediated cell-to-cell transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "single organism plasmodesmata-mediated intercellular transport",
+      "single-organism plasmodesmata-mediated intercellular transport"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "17601829"
+    ],
+    "GOC": [
+      "TermGenie"
+    ]
+  },
+  "definition": "The movement of substances between cells via plasmodesmata. Plasmodesmata is a fine cytoplasmic channel, found in all higher plants, that connects the cytoplasm of one cell to that of an adjacent cell.",
+  "namespace": "biological_process",
+  "label": "plasmodesmata-mediated intercellular transport"
+}

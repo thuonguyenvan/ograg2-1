@@ -1,0 +1,33 @@
+{
+  "id": "GO:0034013",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034013",
+  "relationships": {
+    "is_a": [
+      "GO:0141122"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "aliphatic aldoxime hydro-lyase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.8.1.2",
+      "4.8.1.2"
+    ],
+    "MetaCyc": [
+      "4.99.1.5-RXN"
+    ],
+    "RHEA": [
+      "11316",
+      "11316"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an aliphatic aldoxime = an aliphatic nitrile + H2O.",
+  "namespace": "molecular_function",
+  "label": "aliphatic aldoxime dehydratase activity"
+}

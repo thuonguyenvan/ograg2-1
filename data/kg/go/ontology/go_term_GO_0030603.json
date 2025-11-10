@@ -1,0 +1,39 @@
+{
+  "id": "GO:0030603",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030603",
+  "relationships": {
+    "is_a": [
+      "GO:0016823"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "oxalacetic hydrolase activity",
+      "oxaloacetate acetylhydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.7.1.1",
+      "3.7.1.1",
+      "3.7.1.1",
+      "3.7.1.1"
+    ],
+    "KEGG_REACTION": [
+      "R00338"
+    ],
+    "MetaCyc": [
+      "OXALOACETASE-RXN"
+    ],
+    "RHEA": [
+      "24432",
+      "24432"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + oxaloacetate = acetate + H+ + oxalate.",
+  "namespace": "molecular_function",
+  "label": "oxaloacetase activity"
+}

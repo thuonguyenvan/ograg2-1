@@ -1,0 +1,40 @@
+{
+  "id": "GO:0008489",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008489",
+  "relationships": {
+    "is_a": [
+      "GO:0035250"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LacCer synthase activity",
+      "UDP-galactose glucosylceramide beta-1,4-galactosyltransferase activity",
+      "lactosylceramide synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.274"
+    ],
+    "MetaCyc": [
+      "RXN-12119"
+    ],
+    "RHEA": [
+      "31495",
+      "31495"
+    ],
+    "Reactome": [
+      "R-HSA-9851347"
+    ],
+    "PMID": [
+      "9593693"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a beta-D-glucosyl-(1&lt;-&gt;1&apos;)-N-acylsphing-4-enine + UDP-alpha-D-galactose = a beta-D-Gal-(1-&gt;4)-beta-D-Glc-(1&lt;-&gt;1)-Cer(d18:1(4E)) + H+ + UDP.",
+  "namespace": "molecular_function",
+  "label": "B4GALT5/6 transfer Gal to GlcCer"
+}

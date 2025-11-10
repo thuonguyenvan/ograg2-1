@@ -1,0 +1,29 @@
+{
+  "id": "GO:0038093",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038093",
+  "relationships": {
+    "is_a": [
+      "GO:0002768"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Fc receptor signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "phg",
+      "bf"
+    ],
+    "Wikipedia": [
+      "Fc_receptor"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by the binding of the Fc portion of an immunoglobulin to an Fc receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription. The Fc portion of an immunoglobulin is its C-terminal constant region.",
+  "namespace": "biological_process",
+  "label": "Fc receptor signaling pathway"
+}

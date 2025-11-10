@@ -1,0 +1,46 @@
+{
+  "id": "GO:0008551",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008551",
+  "relationships": {
+    "is_a": [
+      "GO:0015086",
+      "GO:0015662",
+      "GO:0019829"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cadmium exporting ATPase activity",
+      "cadmium-translocating P-type ATPase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "cadmium-exporting ATPase activity"
+    ],
+    "related": [
+      "Cd(2+)-exporting ATPase activity",
+      "Cd2+-exporting ATPase activity",
+      "cadmium transmembrane transporter activity, phosphorylative mechanism"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.2.2.21",
+      "7.2.2.21",
+      "7.2.2.21",
+      "7.2.2.21"
+    ],
+    "MetaCyc": [
+      "3.6.3.3-RXN"
+    ],
+    "RHEA": [
+      "12132"
+    ],
+    "PMID": [
+      "17326661"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + Cd2+(in) = ADP + phosphate + Cd2+(out).",
+  "namespace": "molecular_function",
+  "label": "P-type cadmium transporter activity"
+}

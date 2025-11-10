@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047992",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047992",
+  "relationships": {
+    "is_a": [
+      "GO:0016773",
+      "GO:0019202"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GTP:5-hydroxy-L-lysine O-phosphotransferase activity",
+      "guanosine triphosphate:5-hydroxy-L-lysine O-phosphotransferase activity",
+      "hydroxylysine kinase (phosphorylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.81",
+      "2.7.1.81",
+      "2.7.1.81",
+      "2.7.1.81",
+      "2.7.1.81"
+    ],
+    "KEGG_REACTION": [
+      "R03378"
+    ],
+    "MetaCyc": [
+      "HYDROXYLYSINE-KINASE-RXN"
+    ],
+    "RHEA": [
+      "19049",
+      "19049"
+    ],
+    "Reactome": [
+      "R-HSA-6788611"
+    ]
+  },
+  "definition": "Catalysis of the reaction: erythro-5-hydroxy-L-lysine + GTP = 5-phosphonooxy-L-lysine + GDP + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "HYKK phosphorylates 5HLYS"
+}

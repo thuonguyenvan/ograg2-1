@@ -1,0 +1,33 @@
+{
+  "id": "GO:0042552",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042552",
+  "relationships": {
+    "is_a": [
+      "GO:0008366"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "myelinogenesis"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Myelin"
+    ],
+    "GOC": [
+      "dgh",
+      "mah",
+      "cjm"
+    ],
+    "HP": [
+      "0003429"
+    ]
+  },
+  "definition": "The process in which myelin sheaths are formed and maintained around neurons. Oligodendrocytes in the brain and spinal cord and Schwann cells in the peripheral nervous system wrap axons with compact layers of their plasma membrane. Adjacent myelin segments are separated by a non-myelinated stretch of axon called a node of Ranvier.",
+  "namespace": "biological_process",
+  "label": "myelination"
+}

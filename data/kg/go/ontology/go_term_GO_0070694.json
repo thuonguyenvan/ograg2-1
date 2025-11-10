@@ -1,0 +1,32 @@
+{
+  "id": "GO:0070694",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070694",
+  "relationships": {
+    "is_a": [
+      "GO:0016799"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "deoxynucleoside 5&apos;-monophosphate N-glycosidase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "77099",
+      "77099"
+    ],
+    "Reactome": [
+      "R-HSA-8953339"
+    ],
+    "PMID": [
+      "17234634"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-hydroxymethyl-dUMP + H2O = 2-deoxy-D-ribose 5-phosphate + 5-hydroxymethyluracil.",
+  "namespace": "molecular_function",
+  "label": "DNPH1 hydrolyses dGMP"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0080007",
+  "uri": "http://purl.obolibrary.org/obo/GO_0080007",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-17884"
+    ],
+    "RHEA": [
+      "78371"
+    ],
+    "PMID": [
+      "11260719",
+      "27094420",
+      "30795534",
+      "30795534"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-nitrosoglutathione + NADH + H+ = S-(hydroxysulfenamide)glutathione + NAD+.",
+  "namespace": "molecular_function",
+  "label": "S-nitrosoglutathione reductase (NADH) activity"
+}

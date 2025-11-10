@@ -1,0 +1,44 @@
+{
+  "id": "GO:0018457",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018457",
+  "relationships": {
+    "is_a": [
+      "GO:0004022"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "perillyl-alcohol dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "perillyl alcohol dehydrogenase activity",
+      "perillyl-alcohol:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.144",
+      "1.1.1.144",
+      "1.1.1.144",
+      "1.1.1.144"
+    ],
+    "KEGG_REACTION": [
+      "R03945"
+    ],
+    "MetaCyc": [
+      "PERILLYL-ALCOHOL-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "10664",
+      "10664"
+    ],
+    "UM-BBD_reactionID": [
+      "r0729"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD+ + perillyl alcohol = H+ + NADH + perillyl aldehyde.",
+  "namespace": "molecular_function",
+  "label": "perillyl-alcohol dehydrogenase (NAD+) activity"
+}

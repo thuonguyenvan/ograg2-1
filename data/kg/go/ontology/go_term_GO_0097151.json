@@ -1,0 +1,31 @@
+{
+  "id": "GO:0097151",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097151",
+  "relationships": {
+    "is_a": [
+      "GO:0031646",
+      "GO:0098828"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of IPSP",
+      "positive regulation of inhibitory post-synaptic membrane potential"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "sjp"
+    ],
+    "PMID": [
+      "18550748"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of inhibitory postsynaptic potential (IPSP). IPSP is a temporary decrease in postsynaptic membrane potential due to the flow of negatively charged ions into the postsynaptic cell. The flow of ions that causes an IPSP is an inhibitory postsynaptic current (IPSC) and makes it more difficult for the neuron to fire an action potential.",
+  "namespace": "biological_process",
+  "label": "positive regulation of inhibitory postsynaptic potential"
+}

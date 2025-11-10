@@ -1,0 +1,35 @@
+{
+  "id": "GO:0033489",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033489",
+  "relationships": {
+    "is_a": [
+      "GO:0006695"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cholesterol anabolism via desmosterol",
+      "cholesterol biosynthesis via desmosterol",
+      "cholesterol formation via desmosterol",
+      "cholesterol synthesis via desmosterol"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY66-4",
+      "PWY66-4"
+    ],
+    "Reactome": [
+      "R-HSA-6807047"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of cholesterol, cholest-5-en-3 beta-ol, via the intermediate desmosterol.",
+  "namespace": "biological_process",
+  "label": "Cholesterol biosynthesis via desmosterol"
+}

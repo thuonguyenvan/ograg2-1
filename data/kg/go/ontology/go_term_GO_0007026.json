@@ -1,0 +1,43 @@
+{
+  "id": "GO:0007026",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007026",
+  "relationships": {
+    "is_a": [
+      "GO:0031111",
+      "GO:0031114",
+      "GO:1901880",
+      "GO:1902904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of microtubule depolymerization",
+      "down-regulation of microtubule depolymerization",
+      "downregulation of microtubule depolymerization",
+      "microtubule stabilization",
+      "negative regulation of microtubule disassembly"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of microtubule depolymerization",
+      "microtubule rescue",
+      "negative regulation of microtubule catastrophe"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ],
+    "ISBN": [
+      "0815316194"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of microtubule depolymerization; prevention of depolymerization of a microtubule can result from binding by &apos;capping&apos; at the plus end (e.g. by interaction with another cellular protein of structure) or by exposing microtubules to a stabilizing drug such as taxol.",
+  "namespace": "biological_process",
+  "label": "negative regulation of microtubule depolymerization"
+}

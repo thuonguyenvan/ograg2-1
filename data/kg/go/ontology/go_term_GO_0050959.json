@@ -1,0 +1,33 @@
+{
+  "id": "GO:0050959",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050959",
+  "relationships": {
+    "is_a": [
+      "GO:0050877"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "biological sonar",
+      "perception of environment using reflected sound waves"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Echolocation",
+      "Animal_echolocation"
+    ],
+    "PMID": [
+      "16005275"
+    ],
+    "https": [
+      "//en.wikipedia.org/wiki/Animal_echolocation"
+    ]
+  },
+  "definition": "Echolocation is the method used by some animals (e.g. bats, dolphins and some whales) to determine the location of something by measuring the time it takes for an echo to return from it. These animals emit sound waves and listen for the echo, calculating the distance to the object from the time lapse between sound emission and the echo returning.",
+  "namespace": "biological_process",
+  "label": "echolocation"
+}

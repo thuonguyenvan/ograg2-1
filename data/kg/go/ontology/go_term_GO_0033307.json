@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033307",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033307",
+  "relationships": {
+    "is_a": [
+      "GO:0033520",
+      "GO:0043094"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phytol salvage pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5107",
+      "PWY-5107"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A process that generates phytol, (2E,7R,11R)-3,7,11,15-tetramethylhexadec-2-en-1-ol, from derivatives of it without de novo synthesis.",
+  "namespace": "biological_process",
+  "label": "phytol salvage"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0097253",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097253",
+  "relationships": {
+    "is_a": [
+      "GO:0015245",
+      "GO:0015665"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(R)-3-hydroxybutyrate transmembrane transporter activity",
+      "3-hydroxybutanoic acid transmembrane transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dsf"
+    ],
+    "PMID": [
+      "22302940"
+    ]
+  },
+  "definition": "Enables the transfer of beta-hydroxybutyrate from one side of a membrane to the other. Beta-hydroxybutyrate is the conjugate base of (R)-3-hydroxybutyric acid.",
+  "namespace": "molecular_function",
+  "label": "beta-hydroxybutyrate transmembrane transporter activity"
+}

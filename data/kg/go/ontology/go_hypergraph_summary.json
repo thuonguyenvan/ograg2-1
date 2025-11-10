@@ -1,0 +1,13 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "total_terms": 39354,
+  "total_facts": 39354,
+  "total_hypernodes": 286288,
+  "embedding_dim": 384,
+  "files": {
+    "facts": "data/kg/go/ontology/go_hypergraph_facts.pkl",
+    "hypernodes": "data/kg/go/ontology/go_hypergraph_nodes.pkl",
+    "key_embeddings": "data/kg/go/ontology/go_hypernode_key_embeddings.npy",
+    "value_embeddings": "data/kg/go/ontology/go_hypernode_value_embeddings.npy"
+  }
+}

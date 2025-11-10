@@ -1,0 +1,26 @@
+{
+  "id": "GO:0006285",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006285",
+  "relationships": {
+    "is_a": [
+      "GO:0006259"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-73929"
+    ],
+    "ISBN": [
+      "0815316194"
+    ]
+  },
+  "definition": "The formation of an AP site, a deoxyribose sugar with a missing base, by DNA glycosylase which recognizes an altered base in DNA and catalyzes its hydrolytic removal. This sugar phosphate is the substrate recognized by the AP endonuclease, which cuts the DNA phosphodiester backbone at the 5&apos; side of the altered site to leave a gap which is subsequently repaired.",
+  "namespace": "biological_process",
+  "label": "Base-Excision Repair, AP Site Formation"
+}

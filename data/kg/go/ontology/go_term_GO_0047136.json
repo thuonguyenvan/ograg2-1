@@ -1,0 +1,47 @@
+{
+  "id": "GO:0047136",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047136",
+  "relationships": {
+    "is_a": [
+      "GO:0046857"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-(dimethylamino)phenylazobenzene:NADP+ oxidoreductase activity",
+      "N,N-dimethyl-p-aminoazobenzene oxide reductase activity",
+      "NADPH-dependent DMAB N-oxide reductase activity",
+      "NADPH2:4-(dimethylamino)phenylazoxybenzene oxidoreductase activity",
+      "NADPH:4-(dimethylamino)phenylazoxybenzene oxidoreductase activity",
+      "dimethylaminoazobenzene N-oxide reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.1.11",
+      "1.7.1.11",
+      "1.7.1.11",
+      "1.7.1.11",
+      "1.7.1.11",
+      "1.7.1.11",
+      "1.7.1.11",
+      "1.7.1.11"
+    ],
+    "KEGG_REACTION": [
+      "R04303"
+    ],
+    "MetaCyc": [
+      "1.6.6.12-RXN"
+    ],
+    "RHEA": [
+      "19789",
+      "19789"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-(dimethylamino)azobenzene + H2O + NADP+ = 4-(dimethylamino)phenylazoxybenzene + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "4-(dimethylamino)phenylazoxybenzene reductase activity"
+}

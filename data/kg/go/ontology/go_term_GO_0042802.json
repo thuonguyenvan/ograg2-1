@@ -1,0 +1,30 @@
+{
+  "id": "GO:0042802",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042802",
+  "relationships": {
+    "is_a": [
+      "GO:0005515"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "isoform-specific homophilic binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "protein homopolymerization"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "17889655"
+    ]
+  },
+  "definition": "Binding to an identical protein or proteins.",
+  "namespace": "molecular_function",
+  "label": "identical protein binding"
+}

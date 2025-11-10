@@ -1,0 +1,30 @@
+{
+  "id": "GO:0008354",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008354",
+  "relationships": {
+    "is_a": [
+      "GO:0016477"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "germ-cell migration"
+    ],
+    "broad": [],
+    "narrow": [
+      "pole cell migration"
+    ],
+    "related": [
+      "primordial germ cell migration"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "jl"
+    ]
+  },
+  "definition": "The orderly movement of a cell specialized to produce haploid gametes through the embryo from its site of production to the place where the gonads will form.",
+  "namespace": "biological_process",
+  "label": "germ cell migration"
+}

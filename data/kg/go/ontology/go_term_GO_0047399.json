@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047399",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047399",
+  "relationships": {
+    "is_a": [
+      "GO:0008081",
+      "GO:0140103"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "6-(D-glucose-1-phospho)-D-mannosylglycoprotein glucose-1-phosphohydrolase activity",
+      "alpha-glucose-1-phosphate phosphodiesterase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.4.51",
+      "3.1.4.51",
+      "3.1.4.51",
+      "3.1.4.51"
+    ],
+    "MetaCyc": [
+      "3.1.4.51-RXN",
+      "3.1.4.51-RXN"
+    ],
+    "RHEA": [
+      "18045"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + 6-(D-glucose-1-phospho)-D-mannosylglycoprotein = D-mannosylglycoprotein + D-glucose-alpha-1-phosphate.",
+  "namespace": "molecular_function",
+  "label": "glucose-1-phospho-D-mannosylglycoprotein phosphodiesterase activity"
+}

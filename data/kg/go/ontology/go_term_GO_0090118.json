@@ -1,0 +1,36 @@
+{
+  "id": "GO:0090118",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090118",
+  "relationships": {
+    "is_a": [
+      "GO:0006898",
+      "GO:0046907"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "receptor-mediated endocytosis involved in intracellular cholesterol transport",
+      "receptor-mediated endocytosis of LDL",
+      "receptor-mediated endocytosis of low-density lipoprotein involved in cholesterol transport",
+      "receptor-mediated endocytosis of low-density lipoprotein particle involved in cholesterol transport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ascb_2009",
+      "dph",
+      "pr",
+      "tb",
+      "ascb_2009",
+      "dph",
+      "tb",
+      "dph"
+    ]
+  },
+  "definition": "A receptor-mediated endocytosis process involved in intracellular cholesterol transport.",
+  "namespace": "biological_process",
+  "label": "receptor-mediated endocytosis involved in cholesterol transport"
+}

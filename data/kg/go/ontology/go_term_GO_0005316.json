@@ -1,0 +1,28 @@
+{
+  "id": "GO:0005316",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005316",
+  "relationships": {
+    "is_a": [
+      "GO:0005436"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "high affinity inorganic phosphate:sodium symporter activity",
+      "high-affinity inorganic phosphate:sodium symporter activity"
+    ],
+    "broad": [
+      "sodium/phosphate cotransporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.20.2.2"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction:phosphate(out) + Na+(out) = phosphate(in) + Na+(in). In high-affinity transport the transporter is able to bind the solute even if it is only present at very low concentrations.",
+  "namespace": "molecular_function",
+  "label": "high-affinity phosphate:sodium symporter activity"
+}

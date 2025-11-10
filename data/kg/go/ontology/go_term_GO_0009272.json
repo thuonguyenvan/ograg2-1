@@ -1,0 +1,37 @@
+{
+  "id": "GO:0009272",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009272",
+  "relationships": {
+    "is_a": [
+      "GO:0042546",
+      "GO:0071852"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "chitin- and beta-glucan-containing cell wall biogenesis"
+    ],
+    "related": [
+      "fungal-type cell wall anabolism",
+      "fungal-type cell wall biosynthetic process",
+      "fungal-type cell wall formation",
+      "fungal-type cell wall synthesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mtg_sensu",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A cellular process that results in the biosynthesis of constituent macromolecules, assembly, and arrangement of constituent parts of a fungal-type cell wall. The fungal-type cell wall contains beta-glucan and may contain chitin.",
+  "namespace": "biological_process",
+  "label": "fungal-type cell wall biogenesis"
+}

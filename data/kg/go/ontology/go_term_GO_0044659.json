@@ -1,0 +1,38 @@
+{
+  "id": "GO:0044659",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044659",
+  "relationships": {
+    "is_a": [
+      "GO:0001897",
+      "GO:0019076"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lytic viral release",
+      "viral exit from host cell by cytolysis",
+      "viral release by cell lysis",
+      "viral release by host cell lysis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cytolysis by virus of host cell",
+      "lytic viral life cycle"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "1077"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "26728778"
+    ]
+  },
+  "definition": "The dissemination of mature viral particles from a host cell by the rupture of cell membranes and the loss of cytoplasm.",
+  "namespace": "biological_process",
+  "label": "Cell lysis"
+}

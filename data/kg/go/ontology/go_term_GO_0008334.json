@@ -1,0 +1,34 @@
+{
+  "id": "GO:0008334",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008334",
+  "relationships": {
+    "is_a": [
+      "GO:0016071"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone mRNA metabolism"
+    ],
+    "broad": [],
+    "narrow": [
+      "stem-loop-containing histone mRNA 3&apos;-end processing"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mah",
+      "krc",
+      "mah"
+    ],
+    "PMID": [
+      "17855393",
+      "17855393"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving an mRNA encoding a histone.",
+  "namespace": "biological_process",
+  "label": "histone mRNA metabolic process"
+}

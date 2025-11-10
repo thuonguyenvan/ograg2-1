@@ -1,0 +1,31 @@
+{
+  "id": "GO:0016561",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016561",
+  "relationships": {
+    "is_a": [
+      "GO:0065002"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peroxisome matrix protein import, translocation",
+      "protein translocation during peroxisome matrix protein import",
+      "protein translocation during protein import into peroxisome matrix",
+      "protein translocation during protein transport into peroxisome matrix",
+      "protein transport into peroxisome matrix, translocation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "peroxisome receptor translocation"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "11687502"
+    ]
+  },
+  "definition": "The process in which proteins are moved across the peroxisomal membrane into the matrix. It is likely that the peroxisome targeting sequence receptor remains associated with cargo proteins during translocation.",
+  "namespace": "biological_process",
+  "label": "protein import into peroxisome matrix, translocation"
+}

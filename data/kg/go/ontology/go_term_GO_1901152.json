@@ -1,0 +1,47 @@
+{
+  "id": "GO:1901152",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901152",
+  "relationships": {
+    "is_a": [
+      "GO:0030648",
+      "GO:0046173"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ribostamycin anabolism",
+      "ribostamycin biosynthesis",
+      "ribostamycin biosynthetic process",
+      "ribostamycin formation",
+      "ribostamycin synthesis",
+      "vistamycin anabolism",
+      "vistamycin biosynthesis",
+      "vistamycin formation",
+      "vistamycin synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "UniPathway": [
+      "UPA00972"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of vistamycin.",
+  "namespace": "biological_process",
+  "label": "vistamycin biosynthetic process"
+}

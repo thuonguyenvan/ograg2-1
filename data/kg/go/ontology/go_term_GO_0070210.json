@@ -1,0 +1,29 @@
+{
+  "id": "GO:0070210",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070210",
+  "relationships": {
+    "is_a": [
+      "GO:0000118"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Clr6-LE complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rb",
+      "vw"
+    ],
+    "PMID": [
+      "19040720"
+    ]
+  },
+  "definition": "A protein complex that contains a histone deacetylase and is part of the chromatin remodeling machinery. In Saccharomyces cerevisiae this complex contains the Rpd3p, Sin3p, Ume1p, Pho23p, Sap30p, Sds3p, Cti6p, Rxt2p, Rxt3p, Dep1p, Ume6p, Ash1p, Dot6p, Snt1, Sif2p, Set3p, Hos2p, Tos4p and Tod6p proteins.",
+  "namespace": "cellular_component",
+  "label": "Rpd3L-Expanded complex"
+}

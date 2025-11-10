@@ -1,0 +1,62 @@
+{
+  "id": "GO:0004605",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004605",
+  "relationships": {
+    "is_a": [
+      "GO:0070567"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CDP-diacylglycerol synthase activity",
+      "CDP-diglyceride diphosphorylase activity",
+      "CDP-diglyceride pyrophosphorylase activity",
+      "CDP-diglyceride synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CDP diglyceride pyrophosphorylase activity",
+      "CDP-DG",
+      "CDP-diacylglyceride synthetase activity",
+      "CDP-diglyceride synthetase activity",
+      "CTP-diacylglycerol synthetase activity",
+      "CTP:1,2-diacylglycerophosphate-cytidyl transferase activity",
+      "CTP:phosphatidate cytidylyltransferase activity",
+      "DAG synthetase activity",
+      "cytidine diphosphoglyceride pyrophosphorylase activity",
+      "phosphatidate cytidyltransferase activity",
+      "phosphatidic acid cytidylyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.41",
+      "2.7.7.41",
+      "2.7.7.41",
+      "2.7.7.41",
+      "2.7.7.41",
+      "2.7.7.41",
+      "2.7.7.41",
+      "2.7.7.41",
+      "2.7.7.41",
+      "2.7.7.41",
+      "2.7.7.41",
+      "2.7.7.41",
+      "2.7.7.41"
+    ],
+    "MetaCyc": [
+      "CDPDIGLYSYN-RXN"
+    ],
+    "RHEA": [
+      "16229"
+    ],
+    "Reactome": [
+      "R-HSA-1483121",
+      "R-HSA-1483165"
+    ]
+  },
+  "definition": "Catalysis of the reaction: CTP + phosphatidate = diphosphate + CDP-diacylglycerol.",
+  "namespace": "molecular_function",
+  "label": "PA is converted to CDP-DAG by CDS2"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:1903356",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903356",
+  "relationships": {
+    "is_a": [
+      "GO:0030335",
+      "GO:1903354"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of distal tip cell migration",
+      "up-regulation of distal tip cell migration",
+      "upregulation of distal tip cell migration"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of distal tip cell migration"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mm2",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24968003"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of distal tip cell migration.",
+  "namespace": "biological_process",
+  "label": "positive regulation of distal tip cell migration"
+}

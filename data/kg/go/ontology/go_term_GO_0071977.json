@@ -1,0 +1,32 @@
+{
+  "id": "GO:0071977",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071977",
+  "relationships": {
+    "is_a": [
+      "GO:0071973",
+      "GO:0071975"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "bacterial-type flagellum-mediated cell swimming"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "bacterial-type flagellar swimming motility"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "mah"
+    ],
+    "PMID": [
+      "18461074"
+    ]
+  },
+  "definition": "Bacterial-type flagellum-dependent cell motility that results in the smooth movement of a cell through a liquid medium.",
+  "namespace": "biological_process",
+  "label": "bacterial-type flagellum-dependent swimming motility"
+}

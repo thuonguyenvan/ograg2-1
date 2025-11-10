@@ -1,0 +1,29 @@
+{
+  "id": "GO:0045445",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045445",
+  "relationships": {
+    "is_a": [
+      "GO:0030154"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "myoblast cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000056"
+    ],
+    "GOC": [
+      "go_curators",
+      "mtg_muscle"
+    ]
+  },
+  "definition": "The process in which a relatively unspecialized cell acquires specialized features of a myoblast. A myoblast is a mononucleate cell type that, by fusion with other myoblasts, gives rise to the myotubes that eventually develop into striated muscle fibers.",
+  "namespace": "biological_process",
+  "label": "myoblast differentiation"
+}

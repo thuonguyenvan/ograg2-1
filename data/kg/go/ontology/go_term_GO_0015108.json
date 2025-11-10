@@ -1,0 +1,37 @@
+{
+  "id": "GO:0015108",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015108",
+  "relationships": {
+    "is_a": [
+      "GO:0008509"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chloride ion transmembrane transporter activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "ATP-dependent chloride transmembrane transporter activity",
+      "ATPase-coupled chloride transmembrane transporter activity",
+      "chloride ABC transporter",
+      "chloride transporting ATPase activity",
+      "chloride-transporting ATPase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5678822",
+      "R-HSA-5678863",
+      "R-HSA-5678992"
+    ],
+    "GOC": [
+      "ai",
+      "pr"
+    ]
+  },
+  "definition": "Enables the transfer of chloride ions from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "Ivacaftor:CFTR G551D transports Cl- from cytosol to extracellular region"
+}

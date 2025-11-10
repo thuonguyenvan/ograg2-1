@@ -1,0 +1,39 @@
+{
+  "id": "GO:0030746",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030746",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4&apos;-hydroxyisoflavone methyltransferase activity",
+      "S-adenosyl-L-methionine:isoflavone 4&apos;-O-methyltransferase activity",
+      "isoflavone O-methyltransferase activity",
+      "isoflavone methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.46",
+      "2.1.1.46",
+      "2.1.1.46",
+      "2.1.1.46",
+      "2.1.1.46",
+      "2.1.1.46"
+    ],
+    "MetaCyc": [
+      "ISOFLAVONE-4-O-METHYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "31739"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + isoflavone = S-adenosyl-L-homocysteine + 4&apos;-O-methylisoflavone.",
+  "namespace": "molecular_function",
+  "label": "isoflavone 4&apos;-O-methyltransferase activity"
+}

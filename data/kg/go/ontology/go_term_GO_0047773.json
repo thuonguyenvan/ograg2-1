@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047773",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047773",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-carnitinamidase activity",
+      "L-carnitinamide amidohydrolase activity",
+      "L-carnitine amidase activity",
+      "carnitine amidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.73",
+      "3.5.1.73",
+      "3.5.1.73",
+      "3.5.1.73",
+      "3.5.1.73",
+      "3.5.1.73"
+    ],
+    "KEGG_REACTION": [
+      "R01922"
+    ],
+    "MetaCyc": [
+      "CARNITINAMIDASE-RXN"
+    ],
+    "RHEA": [
+      "17537",
+      "17537"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-carnitinamide + H2O = (R)-carnitine + NH4.",
+  "namespace": "molecular_function",
+  "label": "carnitinamidase activity"
+}

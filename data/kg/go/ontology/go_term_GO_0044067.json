@@ -1,0 +1,32 @@
+{
+  "id": "GO:0044067",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044067",
+  "relationships": {
+    "is_a": [
+      "GO:0052008"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "modification by symbiont of host cell-cell junction",
+      "modification by symbiont of host intercellular junctions",
+      "modification of host intercellular junctions by symbiont"
+    ],
+    "broad": [
+      "disruption of host cell-cell junction"
+    ],
+    "narrow": [],
+    "related": [
+      "modification of host cell-cell junction",
+      "symbiont-mediated disruption of host cell-cell junction"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "16102958"
+    ]
+  },
+  "definition": "The process in which an organism effects a change that impairs the structure or temporarily subverts the host intercellular junction. Intercellular junction include tight junctions and adherens junctions.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated perturbation of host cell-cell junction"
+}

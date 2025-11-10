@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047599",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047599",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "8-ketodeoxycoformycin reductase activity",
+      "coformycin:NADP+ 8-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.235",
+      "1.1.1.235",
+      "1.1.1.235",
+      "1.1.1.235"
+    ],
+    "KEGG_REACTION": [
+      "R03667"
+    ],
+    "MetaCyc": [
+      "8-OXOCOFORMYCIN-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "23168",
+      "23168"
+    ]
+  },
+  "definition": "Catalysis of the reaction: coformycin + NADP+ = 8-oxocoformycin + 2 H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "8-oxocoformycin reductase activity"
+}

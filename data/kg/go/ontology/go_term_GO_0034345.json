@@ -1,0 +1,38 @@
+{
+  "id": "GO:0034345",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034345",
+  "relationships": {
+    "is_a": [
+      "GO:0001818",
+      "GO:0034344"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of type III interferon production",
+      "down-regulation of type III interferon production",
+      "downregulation of type III interferon production",
+      "negative regulation of type III IFN production"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of type III interferon production"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0126896631"
+    ],
+    "PMID": [
+      "15546383",
+      "16734557"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate, or extent of type III interferon production. Interferon lambda is the only member of the type III interferon found so far.",
+  "namespace": "biological_process",
+  "label": "negative regulation of type III interferon production"
+}

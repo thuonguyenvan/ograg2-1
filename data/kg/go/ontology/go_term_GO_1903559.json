@@ -1,0 +1,40 @@
+{
+  "id": "GO:1903559",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903559",
+  "relationships": {
+    "is_a": [
+      "GO:0050899",
+      "GO:0170035",
+      "GO:0170044"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-cyano-L-alanine breakdown",
+      "3-cyano-L-alanine catabolism",
+      "3-cyano-L-alanine degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "kmv",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000068"
+    ],
+    "PMID": [
+      "24100226",
+      "24843024"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of 3-cyano-L-alanine.",
+  "namespace": "biological_process",
+  "label": "3-cyano-L-alanine catabolic process"
+}

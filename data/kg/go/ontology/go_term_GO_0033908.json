@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033908",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033908",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "beta-L-rhamnoside rhamnohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.43",
+      "3.2.1.43",
+      "3.2.1.43"
+    ],
+    "MetaCyc": [
+      "3.2.1.43-RXN"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of terminal, non-reducing beta-L-rhamnose residues in beta-L-rhamnosides.",
+  "namespace": "molecular_function",
+  "label": "beta-L-rhamnosidase activity"
+}

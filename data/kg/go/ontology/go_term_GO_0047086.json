@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047086",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047086",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "17alpha-hydroxyprogesterone, NADPH2:oxygen oxidoreductase (20-hydroxylating, side-chain cleaving)",
+      "androstenedione, NADPH2:oxygen oxidoreductase (17-hydroxylating, lactonizing)",
+      "ketosteroid,NADPH:oxygen oxidoreductase (20-hydroxylating, ester-producing/20-hydroxylating, side-chain cleaving/17-hydroxylating, lactonizing)",
+      "progesterone, NADPH2:oxygen oxidoreductase (20-hydroxylating, ester-producing)",
+      "steroid-ketone monooxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.54",
+      "1.14.13.54",
+      "1.14.13.54",
+      "1.14.13.54",
+      "1.14.13.54",
+      "1.14.13.54",
+      "1.14.13.54"
+    ],
+    "MetaCyc": [
+      "1.14.13.54-RXN",
+      "1.14.13.54-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: O2 + NADPH + progesterone = H2O + NADP+ + testosterone acetate.",
+  "namespace": "molecular_function",
+  "label": "ketosteroid monooxygenase activity"
+}

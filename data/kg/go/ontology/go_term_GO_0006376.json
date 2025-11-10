@@ -1,0 +1,31 @@
+{
+  "id": "GO:0006376",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006376",
+  "relationships": {
+    "is_a": [
+      "GO:0022618"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "spliceosomal E complex biosynthesis",
+      "spliceosomal E complex formation",
+      "spliceosomal commitment complex biosynthesis",
+      "spliceosomal commitment complex formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "ISBN": [
+      "0879695897"
+    ]
+  },
+  "definition": "Selection of a splice site by components of the assembling spliceosome.",
+  "namespace": "biological_process",
+  "label": "mRNA splice site recognition"
+}

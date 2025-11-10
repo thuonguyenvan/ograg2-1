@@ -1,0 +1,29 @@
+{
+  "id": "GO:0004866",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004866",
+  "relationships": {
+    "is_a": [
+      "GO:0030414",
+      "GO:0061135"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "endoproteinase inhibitor",
+      "proteinase inhibitor"
+    ],
+    "related": [
+      "alpha-2 macroglobulin"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Binds to and stops, prevents or reduces the activity of an endopeptidase.",
+  "namespace": "molecular_function",
+  "label": "endopeptidase inhibitor activity"
+}

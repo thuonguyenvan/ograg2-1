@@ -1,0 +1,35 @@
+{
+  "id": "GO:1990137",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990137",
+  "relationships": {
+    "is_a": [
+      "GO:0016684"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "peroxygenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "plant seed peroxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.11.2.3",
+      "1.11.2.3"
+    ],
+    "MetaCyc": [
+      "RXN-11819"
+    ],
+    "PMID": [
+      "19467604",
+      "19467604"
+    ]
+  },
+  "definition": "Catalysis of the reaction: RH + ROOH = ROH + ROH.",
+  "namespace": "molecular_function",
+  "label": "plant seed peroxygenase activity"
+}

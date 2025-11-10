@@ -1,0 +1,47 @@
+{
+  "id": "GO:0003842",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003842",
+  "relationships": {
+    "is_a": [
+      "GO:0016620"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "1-pyrroline dehydrogenase"
+    ],
+    "narrow": [],
+    "related": [
+      "1-pyrroline-5-carboxylate dehydrogenase activity",
+      "1-pyrroline-5-carboxylate:NAD+ oxidoreductase activity",
+      "L-pyrroline-5-carboxylate-NAD+ oxidoreductase activity",
+      "delta1-pyrroline-5-carboxylate dehydrogenase activity",
+      "pyrroline-5-carboxylate dehydrogenase activity",
+      "pyrroline-5-carboxylic acid dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.88",
+      "1.2.1.88",
+      "1.2.1.88",
+      "1.2.1.88"
+    ],
+    "MetaCyc": [
+      "RXN-14116"
+    ],
+    "RHEA": [
+      "30235",
+      "30235"
+    ],
+    "Reactome": [
+      "R-HSA-6784402",
+      "R-HSA-70679",
+      "R-HSA-9929439"
+    ]
+  },
+  "definition": "L-glutamate 5-semialdehyde + NAD+ + H2O = L-glutamate + NADH + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "ALDH4A1 oxidizes 1PYR-3OH-5COOH"
+}

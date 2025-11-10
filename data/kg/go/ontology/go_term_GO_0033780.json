@@ -1,0 +1,35 @@
+{
+  "id": "GO:0033780",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033780",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CYP3A4",
+      "CYP4A21",
+      "taurochenodeoxycholate 6alpha-monooxygenase activity",
+      "taurochenodeoxycholate,NADPH:oxygen oxidoreductase (6alpha-hydroxylating) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.57",
+      "1.14.14.57",
+      "1.14.14.57",
+      "1.14.14.57",
+      "1.14.14.57"
+    ],
+    "MetaCyc": [
+      "RXN-7977"
+    ]
+  },
+  "definition": "Catalysis of the reaction: taurochenodeoxycholate + O2 + reduced [NADPH--hemoprotein reductase] +  = taurohyocholate H+ + H2O + oxidized [NADPH--hemoprotein reductase]. Acts on taurochenodeoxycholate, taurodeoxycholate and less readily on lithocholate and chenodeoxycholate.",
+  "namespace": "molecular_function",
+  "label": "taurochenodeoxycholate 6alpha-hydroxylase activity"
+}

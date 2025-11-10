@@ -1,0 +1,33 @@
+{
+  "id": "GO:0044183",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044183",
+  "relationships": {
+    "is_a": [
+      "GO:0003674"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein binding involved in protein folding"
+    ],
+    "broad": [
+      "chaperone activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9018785",
+      "R-HSA-9855212",
+      "R-HSA-9865893",
+      "R-HSA-9866253"
+    ],
+    "GOC": [
+      "mtg_cambridge_2009"
+    ]
+  },
+  "definition": "Binding to a protein or a protein-containing complex to assist the protein folding process.",
+  "namespace": "molecular_function",
+  "label": "apo-UQCRFS1 binds LYRM7"
+}

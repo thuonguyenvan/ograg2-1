@@ -1,0 +1,45 @@
+{
+  "id": "GO:0009015",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009015",
+  "relationships": {
+    "is_a": [
+      "GO:0016813"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N2-succinyl-L-arginine iminohydrolase (decarboxylating)",
+      "N2-succinylarginine dihydrolase activity",
+      "arginine succinylhydrolase activity",
+      "succinylarginine dihydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-N-succinyl-L-arginine iminohydrolase (decarboxylating)",
+      "AruB",
+      "AstB",
+      "SADH"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.3.23",
+      "3.5.3.23",
+      "3.5.3.23"
+    ],
+    "KEGG_REACTION": [
+      "R04189"
+    ],
+    "MetaCyc": [
+      "SUCCARGDIHYDRO-RXN"
+    ],
+    "RHEA": [
+      "19533",
+      "19533"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(2)-succinyl-L-arginine + 2 H2O + 2 H+ = N(2)-succinyl-L-ornithine + CO2 + 2 NH4.",
+  "namespace": "molecular_function",
+  "label": "N-succinylarginine dihydrolase activity"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047564",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047564",
+  "relationships": {
+    "is_a": [
+      "GO:0016614"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-hydroxycyclohexanone:acceptor 1-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.99.26",
+      "1.1.99.26",
+      "1.1.99.26"
+    ],
+    "KEGG_REACTION": [
+      "R03212"
+    ],
+    "MetaCyc": [
+      "3-HYDROXYCYCLOHEXANONE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "15905",
+      "15905"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-hydroxycyclohexanone + A = AH(2) + cyclohexane-1,3-dione.",
+  "namespace": "molecular_function",
+  "label": "3-hydroxycyclohexanone dehydrogenase activity"
+}

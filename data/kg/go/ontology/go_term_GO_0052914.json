@@ -1,0 +1,33 @@
+{
+  "id": "GO:0052914",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052914",
+  "relationships": {
+    "is_a": [
+      "GO:0008990"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "M(2)G1207 methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.172",
+      "2.1.1.172",
+      "2.1.1.172"
+    ],
+    "MetaCyc": [
+      "RXN-11576"
+    ],
+    "RHEA": [
+      "42736"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + guanosine(1207) in 16S rRNA = N(2)-methylguanosine(1207) in 16S rRNA + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "16S rRNA (guanine(1207)-N(2))-methyltransferase activity"
+}

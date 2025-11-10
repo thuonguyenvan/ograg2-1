@@ -1,0 +1,31 @@
+{
+  "id": "GO:0016744",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016744",
+  "relationships": {
+    "is_a": [
+      "GO:0016740"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transferase activity, transferring aldehyde or ketonic groups"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.2.1.-"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Catalysis of the transfer of an aldehyde or ketonic group from one compound (donor) to another (acceptor).",
+  "namespace": "molecular_function",
+  "label": "transketolase or transaldolase activity"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:0052731",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052731",
+  "relationships": {
+    "is_a": [
+      "GO:0016791"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3X11A",
+      "PHOSPHO1",
+      "phosphoethanolamine phosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R06871"
+    ],
+    "MetaCyc": [
+      "RXN-5647"
+    ],
+    "RHEA": [
+      "10492",
+      "10492"
+    ],
+    "Reactome": [
+      "R-HSA-1483159"
+    ],
+    "EC": [
+      "3.1.3.75",
+      "3.1.3.75",
+      "3.1.3.75"
+    ]
+  },
+  "definition": "Catalysis of the reaction: phosphocholine + H2O = choline + phosphate.",
+  "namespace": "molecular_function",
+  "label": "PCho is dephosphorylated to Cho by PHOSPHO1"
+}

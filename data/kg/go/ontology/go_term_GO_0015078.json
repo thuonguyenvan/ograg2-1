@@ -1,0 +1,35 @@
+{
+  "id": "GO:0015078",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015078",
+  "relationships": {
+    "is_a": [
+      "GO:0008324"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hydrogen ion transmembrane transporter activity",
+      "proton transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1222516",
+      "R-HSA-164834",
+      "R-HSA-168313",
+      "R-HSA-170026",
+      "R-HSA-74723",
+      "R-HSA-917841",
+      "R-HSA-9864415"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of a proton from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "AAC1 imports a proton"
+}

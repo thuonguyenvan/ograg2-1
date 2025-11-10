@@ -1,0 +1,33 @@
+{
+  "id": "GO:0048090",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048090",
+  "relationships": {
+    "is_a": [
+      "GO:0048086",
+      "GO:0048089",
+      "GO:0051093",
+      "GO:0051241",
+      "GO:2000242"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of female pigmentation",
+      "down-regulation of female pigmentation",
+      "downregulation of female pigmentation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of female pigmentation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of establishment of a pattern of pigment in females.",
+  "namespace": "biological_process",
+  "label": "negative regulation of female pigmentation"
+}

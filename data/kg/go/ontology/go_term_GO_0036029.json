@@ -1,0 +1,41 @@
+{
+  "id": "GO:0036029",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036029",
+  "relationships": {
+    "is_a": [
+      "GO:0097180"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PCI-KLK3 complex",
+      "SERPINA5-KLK3 complex",
+      "plasma serine protease inhibitor-KLK3 complex",
+      "protein C inhibitor-kallikrein-3 complex",
+      "protein C inhibitor-prostate-specific antigen complex",
+      "serpin A5-KLK3 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ans"
+    ],
+    "PMID": [
+      "1725227"
+    ],
+    "PR": [
+      "000014685",
+      "000014685",
+      "000014685",
+      "000003015",
+      "000003015",
+      "000014685"
+    ]
+  },
+  "definition": "A heterodimeric protein complex that contains protein C inhibitor (SERPINA5) and prostate-specific antigen (KLK3); formation of the complex inhibits the serine protease activity of prostate-specific antigen.",
+  "namespace": "cellular_component",
+  "label": "protein C inhibitor-KLK3 complex"
+}

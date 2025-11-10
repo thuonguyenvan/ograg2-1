@@ -1,0 +1,33 @@
+{
+  "id": "GO:1904359",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904359",
+  "relationships": {
+    "is_a": [
+      "GO:0050793",
+      "GO:0050794"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "modulation of spore germination on or near host"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "14718564",
+      "8798577"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of spore germination.",
+  "namespace": "biological_process",
+  "label": "regulation of spore germination"
+}

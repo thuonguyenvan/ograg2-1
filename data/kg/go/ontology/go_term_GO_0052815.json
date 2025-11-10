@@ -1,0 +1,32 @@
+{
+  "id": "GO:0052815",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052815",
+  "relationships": {
+    "is_a": [
+      "GO:0047617"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "medium-chain acyl coenzyme A hydrolase activity",
+      "medium-chain acyl-thioester hydrolase activity",
+      "medium-chain hydrolase activity",
+      "medium-chain-acyl-CoA hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "3.1.2.19-RXN"
+    ],
+    "RHEA": [
+      "68184",
+      "68184"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a medium-chain fatty acyl-CoA + H2O = a medium-chain fatty acid + CoA + H+. A medium-chain fatty acid has an aliphatic tail containing 6 to 12 carbons.",
+  "namespace": "molecular_function",
+  "label": "medium-chain fatty acyl-CoA hydrolase activity"
+}

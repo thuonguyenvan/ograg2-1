@@ -1,0 +1,33 @@
+{
+  "id": "GO:0072571",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072571",
+  "relationships": {
+    "is_a": [
+      "GO:0072570"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mADPr binding"
+    ],
+    "broad": [
+      "mono-ADP-ribose binding"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "sart",
+      "mah"
+    ],
+    "PMID": [
+      "20088964",
+      "20088964"
+    ]
+  },
+  "definition": "Binding to monomeric ADP-D-ribose, an ADP-aldose having ribose as the aldose fragment.",
+  "namespace": "molecular_function",
+  "label": "mono-ADP-D-ribose binding"
+}

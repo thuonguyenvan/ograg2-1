@@ -1,0 +1,35 @@
+{
+  "id": "GO:0044667",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044667",
+  "relationships": {
+    "is_a": [
+      "GO:0015297",
+      "GO:1901235",
+      "GO:1901236"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(R)-carnitine:gamma-butyrobetaine antiporter activity",
+      "L-carnitine:4-(trimethylammonio)butanoate antiporter activity",
+      "L-carnitine:gamma-butyrobetaine antiporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TRANS-RXN-100"
+    ],
+    "RHEA": [
+      "29427"
+    ],
+    "GOC": [
+      "crds"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: (R)-carnitine(out) + 4-(trimethylammonio)butanoate(in) = (R)-carnitine(in) + 4-(trimethylammonio)butanoate(out).",
+  "namespace": "molecular_function",
+  "label": "(R)-carnitine:4-(trimethylammonio)butanoate antiporter activity"
+}

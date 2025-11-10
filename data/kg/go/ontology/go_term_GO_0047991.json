@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047991",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047991",
+  "relationships": {
+    "is_a": [
+      "GO:0016663"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "hydroxylamine oxidoreductase"
+    ],
+    "narrow": [],
+    "related": [
+      "HAO",
+      "hydroxylamine:oxygen oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.3.6",
+      "1.7.3.6",
+      "1.7.3.6",
+      "1.7.3.6"
+    ],
+    "KEGG_REACTION": [
+      "R00793"
+    ],
+    "MetaCyc": [
+      "RXN-13595"
+    ],
+    "RHEA": [
+      "19969",
+      "19969"
+    ]
+  },
+  "definition": "Catalysis of the reaction: hydroxylamine + O2 = H2O + H+ + nitrite.",
+  "namespace": "molecular_function",
+  "label": "hydroxylamine oxidase activity"
+}

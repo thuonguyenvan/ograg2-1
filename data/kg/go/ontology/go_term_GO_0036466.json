@@ -1,0 +1,34 @@
+{
+  "id": "GO:0036466",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036466",
+  "relationships": {
+    "is_a": [
+      "GO:0036465",
+      "GO:0046907"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "recycling endosome localization within postsynapse"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "aruk",
+      "bc",
+      "bf",
+      "dos",
+      "pad"
+    ],
+    "PMID": [
+      "15217342"
+    ]
+  },
+  "definition": "Synaptic vesicle recycling where vesicles endocytosed via clathrin-coated pits re-acidify and refill with neurotransmitters after passing through an endosomal intermediate.",
+  "namespace": "biological_process",
+  "label": "synaptic vesicle recycling via endosome"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GO:1901774",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901774",
+  "relationships": {
+    "is_a": [
+      "GO:0016144",
+      "GO:0042398",
+      "GO:0043604"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lincomycin anabolism",
+      "lincomycin biosynthesis",
+      "lincomycin formation",
+      "lincomycin synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-6955",
+      "PWY-6955"
+    ],
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "8577249"
+    ],
+    "UniPathway": [
+      "UPA00161"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of lincomycin.",
+  "namespace": "biological_process",
+  "label": "lincomycin biosynthetic process"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050073",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050073",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:macrolide 2&apos;-O-phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.136",
+      "2.7.1.136",
+      "2.7.1.136"
+    ],
+    "KEGG_REACTION": [
+      "R03780"
+    ],
+    "MetaCyc": [
+      "MACROLIDE-2-KINASE-RXN"
+    ],
+    "RHEA": [
+      "18333",
+      "18333"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + oleandomycin = ADP + 2 H+ + oleandomycin 2&apos;-O-phosphate.",
+  "namespace": "molecular_function",
+  "label": "macrolide 2&apos;-kinase activity"
+}

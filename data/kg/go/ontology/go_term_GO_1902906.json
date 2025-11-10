@@ -1,0 +1,40 @@
+{
+  "id": "GO:1902906",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902906",
+  "relationships": {
+    "is_a": [
+      "GO:0140694"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "proteasome storage granule formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "sequestration of proteasome core complex in proteasome storage granule"
+    ],
+    "related": [
+      "PSG assembly",
+      "PSG formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "di",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000079"
+    ],
+    "PMID": [
+      "23690178"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form a proteasome storage granule.",
+  "namespace": "biological_process",
+  "label": "proteasome storage granule assembly"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0031651",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031651",
+  "relationships": {
+    "is_a": [
+      "GO:0031650",
+      "GO:0051241"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of heat generation",
+      "down-regulation of heat generation",
+      "downregulation of heat generation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of heat generation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mah",
+      "tb"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the rate or extent of heat generation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of heat generation"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "GO:0008674",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008674",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-dehydro-3-deoxyphosphogalactonate aldolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(KDPGal)aldolase activity",
+      "2-dehydro-3-deoxy-D-galactonate-6-phosphate D-glyceraldehyde-3-phosphate-lyase (pyruvate-forming)",
+      "2-dehydro-3-deoxy-D-galactonate-6-phosphate D-glyceraldehyde-3-phosphate-lyase activity",
+      "2-keto-3-deoxy-6-phosphogalactonic acid aldolase activity",
+      "2-keto-3-deoxy-6-phosphogalactonic aldolase activity",
+      "2-oxo-3-deoxygalactonate 6-phosphate aldolase activity",
+      "6-phospho-2-dehydro-3-deoxygalactonate aldolase activity",
+      "6-phospho-2-keto-3-deoxygalactonate aldolase activity",
+      "phospho-2-keto-3-deoxygalactonate aldolase activity",
+      "phospho-2-keto-3-deoxygalactonic aldolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.21",
+      "4.1.2.21",
+      "4.1.2.21",
+      "4.1.2.21",
+      "4.1.2.21",
+      "4.1.2.21",
+      "4.1.2.21",
+      "4.1.2.21",
+      "4.1.2.21",
+      "4.1.2.21",
+      "4.1.2.21",
+      "4.1.2.21"
+    ],
+    "KEGG_REACTION": [
+      "R01064"
+    ],
+    "MetaCyc": [
+      "DEHYDDEOXPHOSGALACT-ALDOL-RXN"
+    ],
+    "RHEA": [
+      "24464",
+      "24464"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 6-phospho-2-dehydro-3-deoxy-D-galactonate = D-glyceraldehyde 3-phosphate + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "2-dehydro-3-deoxy-6-phosphogalactonate aldolase activity"
+}

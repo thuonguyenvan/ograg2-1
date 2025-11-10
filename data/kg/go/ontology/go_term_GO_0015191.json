@@ -1,0 +1,30 @@
+{
+  "id": "GO:0015191",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015191",
+  "relationships": {
+    "is_a": [
+      "GO:0015179",
+      "GO:0043865"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "L-methionine transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of L-methionine from one side of a membrane to the other. L-methionine is 2-amino-4-(methylthio)butanoic acid.",
+  "namespace": "molecular_function",
+  "label": "L-methionine transmembrane transporter activity"
+}

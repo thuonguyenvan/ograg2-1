@@ -1,0 +1,33 @@
+{
+  "id": "GO:0001867",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001867",
+  "relationships": {
+    "is_a": [
+      "GO:0006956",
+      "GO:0045087"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "complement cascade, lectin pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-166662"
+    ],
+    "GOC": [
+      "add",
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "Any process involved in the activation of any of the steps of the lectin pathway of the complement cascade which allows for the direct killing of microbes and the regulation of other immune processes.",
+  "namespace": "biological_process",
+  "label": "Lectin pathway of complement activation"
+}

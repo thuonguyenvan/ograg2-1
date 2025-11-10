@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102623",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102623",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-15528"
+    ],
+    "RHEA": [
+      "73243",
+      "73243"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + scutellarein 7-methyl ether = cirsimaritin + H+ + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "scutellarein 7-methyl ether 6-O-methyltransferase activity"
+}

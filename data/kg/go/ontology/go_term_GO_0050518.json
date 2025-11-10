@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050518",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050518",
+  "relationships": {
+    "is_a": [
+      "GO:0070567"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-diphosphocytidyl-2C-methyl-D-erythritol synthase activity",
+      "CTP:2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase activity",
+      "MEP cytidylyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-diphosphocytidyl-2-C-methyl-D-erythritol synthase activity",
+      "MCT activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.60",
+      "2.7.7.60",
+      "2.7.7.60",
+      "2.7.7.60"
+    ],
+    "KEGG_REACTION": [
+      "R05633"
+    ],
+    "MetaCyc": [
+      "2.7.7.60-RXN"
+    ],
+    "RHEA": [
+      "13429",
+      "13429"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-C-methyl-D-erythritol 4-phosphate + CTP = 4-CDP-2-C-methyl-D-erythritol + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase activity"
+}

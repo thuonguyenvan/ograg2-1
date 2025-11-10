@@ -1,0 +1,27 @@
+{
+  "id": "GO:0071501",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071501",
+  "relationships": {
+    "is_a": [
+      "GO:0006991",
+      "GO:0033554"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular sterol depletion response"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus indicating deprivation of sterols. Sterols are a group of steroids characterized by the presence of one or more hydroxyl groups and a hydrocarbon side-chain in the molecule.",
+  "namespace": "biological_process",
+  "label": "cellular response to sterol depletion"
+}

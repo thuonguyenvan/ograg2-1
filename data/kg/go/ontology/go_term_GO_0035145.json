@@ -1,0 +1,30 @@
+{
+  "id": "GO:0035145",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035145",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "EJC",
+      "exon junction complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11532962",
+      "11743026"
+    ],
+    "GOC": [
+      "dph"
+    ]
+  },
+  "definition": "A multi-subunit complex deposited by the spliceosome upstream of messenger RNA exon-exon junctions. The exon-exon junction complex provides a binding platform for factors involved in mRNA export and nonsense-mediated mRNA decay.",
+  "namespace": "cellular_component",
+  "label": "exon-exon junction complex"
+}

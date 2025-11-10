@@ -1,0 +1,49 @@
+{
+  "id": "GO:0018801",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018801",
+  "relationships": {
+    "is_a": [
+      "GO:0015451",
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-carboxybut-2-enoyl-CoA carboxy-lyase (but-2-enoyl-CoA-forming)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-carboxybut-2-enoyl-CoA carboxy-lyase activity",
+      "glutaconyl coenzyme A decarboxylase activity",
+      "pent-2-enoyl-CoA carboxy-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.2.4.5",
+      "7.2.4.5",
+      "7.2.4.5",
+      "7.2.4.5"
+    ],
+    "KEGG_REACTION": [
+      "R03028"
+    ],
+    "MetaCyc": [
+      "GLUTACONYL-COA-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "23972",
+      "23972"
+    ],
+    "UM-BBD_reactionID": [
+      "r0199"
+    ],
+    "PMID": [
+      "11248185"
+    ]
+  },
+  "definition": "Catalysis of the reaction: trans-glutaconyl-CoA + H+ = but-2-enoyl-CoA + CO2.",
+  "namespace": "molecular_function",
+  "label": "glutaconyl-CoA decarboxylase activity"
+}

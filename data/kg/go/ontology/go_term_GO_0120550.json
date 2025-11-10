@@ -1,0 +1,37 @@
+{
+  "id": "GO:0120550",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120550",
+  "relationships": {
+    "is_a": [
+      "GO:0008171",
+      "GO:0008173"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cap2-MTase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "mRNA (nucleoside-2&apos;-O-)-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.296",
+      "2.1.1.296",
+      "2.1.1.296",
+      "2.1.1.296"
+    ],
+    "MetaCyc": [
+      "RXN-14928"
+    ],
+    "skos": [
+      "narrowMatch"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 5&apos;-end (N(7)-methyl 5&apos;-triphosphoguanosine)-(2&apos;-O-methyl-ribonucleoside)-(ribonucleotide) in mRNA or snRNA + S-adenosyl-L-methionine = a 5&apos;-end (N(7)-methyl 5&apos;-triphosphoguanosine)-(2&apos;-O-methyl-ribonucleoside)-(2&apos;-O-methyl-ribonucleotide) in mRNA or snRNA + S-adenosyl-L-homocysteine + H+. This activity catalyzes the methylation of the ribose on the second transcribed nucleotide of mRNAs and snRNAs.",
+  "namespace": "molecular_function",
+  "label": "methyltransferase cap2 activity"
+}

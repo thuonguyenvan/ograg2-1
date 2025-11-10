@@ -1,0 +1,32 @@
+{
+  "id": "GO:0044813",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044813",
+  "relationships": {
+    "is_a": [
+      "GO:0019660"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glycolytic fermentation via PFOR pathway"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "CENTFERM-PWY"
+    ],
+    "GOC": [
+      "mengo_curators"
+    ],
+    "PMID": [
+      "20395274",
+      "20692761"
+    ]
+  },
+  "definition": "The anaerobic chemical reactions and pathways resulting in the breakdown of pyruvate via pyruvate:ferredoxin oxidoreductase (PFOR) activity. This pathway is found in strict anaerobes such as Clostridia species.",
+  "namespace": "biological_process",
+  "label": "pyruvate fermentation via PFOR"
+}

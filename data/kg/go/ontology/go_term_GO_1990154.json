@@ -1,0 +1,35 @@
+{
+  "id": "GO:1990154",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990154",
+  "relationships": {
+    "is_a": [
+      "GO:0043190"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "EIIA(Glc)-MalFGK2 complex",
+      "EIIA(Glc)-maltose transporter complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "maltose transporter inhibitor complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "bhm",
+      "bhm"
+    ],
+    "PMID": [
+      "23770568",
+      "23770568",
+      "23770568"
+    ]
+  },
+  "definition": "A protein complex consisting of the pentameric maltose transporter complex bound to two enzyme IIA (EIIA) molecules. EIIA is a component of the glucose-specific phosphotransferase system that inhibits maltose transport from the periplasm to the cytoplasm. When EIIA-bound, the maltose transporter remains in the open, inward-facing conformation, which prevents binding of maltose-loaded maltose binding protein (MBP) to the transporter.",
+  "namespace": "cellular_component",
+  "label": "enzyme IIA-maltose transporter complex"
+}

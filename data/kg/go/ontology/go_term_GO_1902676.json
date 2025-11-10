@@ -1,0 +1,52 @@
+{
+  "id": "GO:1902676",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902676",
+  "relationships": {
+    "is_a": [
+      "GO:0036064"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cilial basal body of right ventral cilium",
+      "cilial basal body of right ventral flagellum",
+      "ciliary basal body of right ventral cilium",
+      "ciliary basal body of right ventral flagellum",
+      "cilium basal body of right ventral cilium",
+      "cilium basal body of right ventral flagellum",
+      "microtubule basal body of right ventral cilium",
+      "microtubule basal body of right ventral flagellum",
+      "right ventral flagellum ciliary basal body"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "giardia",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000064"
+    ],
+    "ISBN": [
+      "9780124260207"
+    ],
+    "PMID": [
+      "16607022",
+      "5961344"
+    ]
+  },
+  "definition": "Any ciliary basal body that is part of a right ventral flagellum found in Giardia species (trophozoite stage).",
+  "namespace": "cellular_component",
+  "label": "right ventral basal body"
+}

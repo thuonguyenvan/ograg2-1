@@ -1,0 +1,31 @@
+{
+  "id": "GO:0042216",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042216",
+  "relationships": {
+    "is_a": [
+      "GO:0042178",
+      "GO:0120253"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phenanthrene breakdown",
+      "phenanthrene catabolism",
+      "phenanthrene degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "UM-BBD_pathwayID": [
+      "phe"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of phenanthrene, a tricyclic aromatic hydrocarbon.",
+  "namespace": "biological_process",
+  "label": "phenanthrene catabolic process"
+}

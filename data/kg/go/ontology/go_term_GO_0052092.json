@@ -1,0 +1,32 @@
+{
+  "id": "GO:0052092",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052092",
+  "relationships": {
+    "is_a": [
+      "GO:0052091"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation by symbiont of nutrient release from host",
+      "promotion of nutrient release from host",
+      "up regulation by symbiont of nutrient release from host",
+      "up-regulation by symbiont of nutrient release from host",
+      "upregulation by symbiont of nutrient release from host"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation by symbiont of nutrient release from host",
+      "stimulation by symbiont of nutrient release from host"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_pamgo_17jul06"
+    ]
+  },
+  "definition": "Any process in which an organism activates, maintains or increases the frequency, rate or extent of the release of nutrients from its host organism. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "positive regulation of nutrient release by host"
+}

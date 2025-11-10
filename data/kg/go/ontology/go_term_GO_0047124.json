@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047124",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047124",
+  "relationships": {
+    "is_a": [
+      "GO:0016639"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-3,5-diaminohexanoate dehydrogenase activity",
+      "L-erythro-3,5-diaminohexanoate:NAD+ oxidoreductase (deaminating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.1.11",
+      "1.4.1.11",
+      "1.4.1.11",
+      "1.4.1.11"
+    ],
+    "KEGG_REACTION": [
+      "R03349"
+    ],
+    "MetaCyc": [
+      "1.4.1.11-RXN"
+    ],
+    "RHEA": [
+      "19633",
+      "19633"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (3S,5S)-3,5-diaminohexanoate + H2O + NAD+ = (S)-5-amino-3-oxo-hexanoate + H+ + NADH + NH4.",
+  "namespace": "molecular_function",
+  "label": "L-erythro-3,5-diaminohexanoate dehydrogenase activity"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0051208",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051208",
+  "relationships": {
+    "is_a": [
+      "GO:0051651"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "calcium ion (Ca2+) retention",
+      "calcium ion (Ca2+) sequestering",
+      "calcium ion (Ca2+) sequestration",
+      "calcium ion (Ca2+) storage",
+      "retention of calcium ion (Ca2+)",
+      "sequestering of calcium ion (Ca2+)",
+      "sequestration of calcium ion (Ca2+)",
+      "storage of calcium ion (Ca2+)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "calcium ion storage activity",
+      "negative regulation of calcium ion (Ca2+) transport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The process of binding or confining calcium ions such that they are separated from other components of a biological system.",
+  "namespace": "biological_process",
+  "label": "sequestering of calcium ion"
+}

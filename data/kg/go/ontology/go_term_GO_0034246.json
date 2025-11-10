@@ -1,0 +1,43 @@
+{
+  "id": "GO:0034246",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034246",
+  "relationships": {
+    "is_a": [
+      "GO:0140110"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrial RNA polymerase binding promoter specificity activity",
+      "mitochondrial RNA polymerase core promoter proximal region sequence-specific DNA binding transcription factor activity",
+      "mitochondrial RNA polymerase core promoter sequence-specific DNA binding transcription factor activity",
+      "mitochondrial RNA polymerase transcription factor activity, sequence-specific DNA binding",
+      "mitochondrial polymerase transcription factor activity",
+      "mitochondrial sequence-specific DNA binding transcription factor activity",
+      "mitochondrial transcription initiation factor activity",
+      "sequence-specific DNA binding mitochondrial RNA polymerase transcription factor activity",
+      "transcription factor activity, mitochondrial RNA polymerase core promoter proximal region sequence-specific binding",
+      "transcription factor activity, mitochondrial RNA polymerase core promoter sequence-specific DNA binding",
+      "transcription factor activity, mitochondrial proximal promoter sequence-specific binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "mitochondrial DNA-binding transcription factor activity",
+      "mitochondrial sequence-specific DNA-binding transcription factor activity"
+    ],
+    "related": [
+      "mitochondrial RNA polymerase promoter specificity activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH-2018"
+    ],
+    "PMID": [
+      "18391175"
+    ]
+  },
+  "definition": "Interacting with the mitochondrial promoter DNA to modulate transcription by the mitochondrial RNA polymerase.",
+  "namespace": "molecular_function",
+  "label": "mitochondrial transcription factor activity"
+}

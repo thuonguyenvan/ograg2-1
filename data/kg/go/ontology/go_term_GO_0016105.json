@@ -1,0 +1,31 @@
+{
+  "id": "GO:0016105",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016105",
+  "relationships": {
+    "is_a": [
+      "GO:0006722",
+      "GO:0016115"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "triterpenoid breakdown",
+      "triterpenoid catabolism",
+      "triterpenoid degradation"
+    ],
+    "broad": [],
+    "narrow": [
+      "triterpene catabolic process",
+      "triterpene catabolism"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of triterpenoid compounds, terpenoids with six isoprene units.",
+  "namespace": "biological_process",
+  "label": "triterpenoid catabolic process"
+}

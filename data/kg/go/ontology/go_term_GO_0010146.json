@@ -1,0 +1,33 @@
+{
+  "id": "GO:0010146",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010146",
+  "relationships": {
+    "is_a": [
+      "GO:0000271"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fructan anabolism",
+      "fructan biosynthesis",
+      "fructan formation",
+      "fructan synthesis",
+      "levan biosynthesis",
+      "levan biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-822"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of fructan a polysaccharide consisting of fructose residues.",
+  "namespace": "biological_process",
+  "label": "fructan biosynthetic process"
+}

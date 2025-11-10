@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047004",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047004",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-2-acetamido-2-deoxy-D-glucose:NAD oxidoreductase activity",
+      "UDP-GLcNAc dehydrogenase activity",
+      "UDP-N-acetyl-D-glucosamine:NAD+ 6-oxidoreductase activity",
+      "UDPacetylglucosamine dehydrogenase activity",
+      "uridine diphosphoacetylglucosamine dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.136",
+      "1.1.1.136",
+      "1.1.1.136",
+      "1.1.1.136",
+      "1.1.1.136",
+      "1.1.1.136",
+      "1.1.1.136"
+    ],
+    "KEGG_REACTION": [
+      "R00421"
+    ],
+    "MetaCyc": [
+      "1.1.1.136-RXN"
+    ],
+    "RHEA": [
+      "13325",
+      "13325"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + 2 NAD+ + UDP-N-acetyl-alpha-D-glucosamine = 3 H+ + 2 NADH + UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate.",
+  "namespace": "molecular_function",
+  "label": "UDP-N-acetylglucosamine 6-dehydrogenase activity"
+}

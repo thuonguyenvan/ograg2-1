@@ -1,0 +1,28 @@
+{
+  "id": "GO:1990463",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990463",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Skb1-containing cortical node"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "25009287"
+    ]
+  },
+  "definition": "A protein complex that is anchored at the cortical face of the plasma membrane, and contains proteins involved in regulating cell cycle progression. In Schizosaccharomyces pombe, lateral cortical nodes are several megadaltons in size, and contain Slf1, which anchors the complex at the membrane, and the methyltransferase Skb1 in stoichiometric quantities, and may contain other proteins.",
+  "namespace": "cellular_component",
+  "label": "lateral cortical node"
+}

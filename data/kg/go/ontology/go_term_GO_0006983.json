@@ -1,0 +1,40 @@
+{
+  "id": "GO:0006983",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006983",
+  "relationships": {
+    "is_a": [
+      "GO:0006984",
+      "GO:0034976",
+      "GO:0071216"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "EOR",
+      "ER-overload response",
+      "endoplasmic reticulum overload response"
+    ],
+    "broad": [],
+    "narrow": [
+      "EOR-mediated NF-kappaB activation",
+      "EOR-mediated activation of NF-kappaB",
+      "positive regulation of NF-kappaB transcription factor activity by EOR",
+      "positive regulation of NF-kappaB transcription factor activity by ER overload response"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "10390516"
+    ],
+    "GOC": [
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by the accumulation of normal or misfolded proteins in the endoplasmic reticulum and leading to activation of transcription by NF-kappaB.",
+  "namespace": "biological_process",
+  "label": "ER overload response"
+}

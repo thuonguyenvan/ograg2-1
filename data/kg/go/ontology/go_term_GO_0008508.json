@@ -1,0 +1,31 @@
+{
+  "id": "GO:0008508",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008508",
+  "relationships": {
+    "is_a": [
+      "GO:0015125",
+      "GO:0140161"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sodium/bile acid symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-194121",
+      "R-HSA-194187",
+      "R-HSA-433089"
+    ],
+    "TC": [
+      "2.A.28.-.-"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: bile acid(out) + Na+(out) = bile acid(in) + Na+(in).",
+  "namespace": "molecular_function",
+  "label": "SOAT can transport taurolithocholate-3-sulphate"
+}

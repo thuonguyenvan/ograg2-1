@@ -1,0 +1,44 @@
+{
+  "id": "GO:0050061",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050061",
+  "relationships": {
+    "is_a": [
+      "GO:0102673"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "long-chain-aldehyde dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "fatty aldehyde:NAD+ oxidoreductase activity",
+      "long-chain aliphatic aldehyde dehydrogenase activity",
+      "long-chain fatty aldehyde dehydrogenase activity",
+      "long-chain-aldehyde:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.48",
+      "1.2.1.48",
+      "1.2.1.48",
+      "1.2.1.48",
+      "1.2.1.48"
+    ],
+    "MetaCyc": [
+      "LONG-CHAIN-ALDEHYDE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "10652",
+      "10652"
+    ],
+    "UM-BBD_reactionID": [
+      "r1404"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a long-chain fatty aldehyde + H2O + NAD+ = a long-chain fatty acid + 2 H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "long-chain fatty aldehyde dehydrogenase (NAD+) activity"
+}

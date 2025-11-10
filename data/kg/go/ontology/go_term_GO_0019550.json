@@ -1,0 +1,30 @@
+{
+  "id": "GO:0019550",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019550",
+  "relationships": {
+    "is_a": [
+      "GO:0006531",
+      "GO:0006538"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glutamate breakdown to aspartate",
+      "glutamate degradation to aspartate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "GLUTDEG-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-glutamate into other compounds, including aspartate.",
+  "namespace": "biological_process",
+  "label": "L-glutamate catabolic process to aspartate"
+}

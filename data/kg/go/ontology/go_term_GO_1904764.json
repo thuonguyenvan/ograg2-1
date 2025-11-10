@@ -1,0 +1,39 @@
+{
+  "id": "GO:1904764",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904764",
+  "relationships": {
+    "is_a": [
+      "GO:0032984"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CMA translocation complex disassembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CMA receptor complex disassembly",
+      "chaperone-mediated autophagy receptor complex disassembly"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "pad",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000079"
+    ],
+    "PMID": [
+      "18644871"
+    ]
+  },
+  "definition": "The disaggregation of a chaperone-mediated autophagy translocation complex into its constituent components.",
+  "namespace": "biological_process",
+  "label": "chaperone-mediated autophagy translocation complex disassembly"
+}

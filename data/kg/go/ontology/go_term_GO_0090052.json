@@ -1,0 +1,27 @@
+{
+  "id": "GO:0090052",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090052",
+  "relationships": {
+    "is_a": [
+      "GO:0031445"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of chromatin silencing at centromere",
+      "regulation of pericentric heterochromatin assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of heterochromatin formation at the centromere. Chromatin silencing at the centromere is the repression of transcription of centromeric DNA by altering the structure of chromatin.",
+  "namespace": "biological_process",
+  "label": "regulation of pericentric heterochromatin formation"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0000978",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000978",
+  "relationships": {
+    "is_a": [
+      "GO:0000977",
+      "GO:0000987"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RNA polymerase II core promoter proximal region sequence-specific DNA binding",
+      "RNA polymerase II distal enhancer sequence-specific DNA binding",
+      "RNA polymerase II promoter proximal region sequence-specific DNA binding",
+      "RNA polymerase II proximal promoter sequence-specific DNA binding",
+      "RNA polymerase II upstream activating sequence (UAS) sequence-specific DNA binding"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-400204"
+    ],
+    "GOC": [
+      "txnOH-2018"
+    ]
+  },
+  "definition": "Binding to a specific upstream regulatory DNA sequence (transcription factor recognition sequence or binding site) located in cis relative to the transcription start site (i.e., on the same strand of DNA) of a gene transcribed by RNA polymerase II.",
+  "namespace": "molecular_function",
+  "label": "PPARA binds RXRA"
+}

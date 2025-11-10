@@ -1,0 +1,30 @@
+{
+  "id": "GO:0002265",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002265",
+  "relationships": {
+    "is_a": [
+      "GO:0002263",
+      "GO:0048143"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "astrocyte activation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "tb"
+    ],
+    "PMID": [
+      "11138785"
+    ]
+  },
+  "definition": "A change in the morphology or behavior of an astrocyte resulting from exposure to an activating factor such as a cellular or soluble ligand, leading to the initiation or perpetuation of an immune response.",
+  "namespace": "biological_process",
+  "label": "astrocyte activation involved in immune response"
+}

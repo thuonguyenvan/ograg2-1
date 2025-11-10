@@ -1,0 +1,29 @@
+{
+  "id": "GO:0002576",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002576",
+  "relationships": {
+    "is_a": [
+      "GO:0045055",
+      "GO:0051649"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "platelet exocytosis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-114608"
+    ],
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "The regulated exocytosis of secretory granules containing preformed mediators such as histamine and serotonin by a platelet.",
+  "namespace": "biological_process",
+  "label": "Platelet degranulation"
+}

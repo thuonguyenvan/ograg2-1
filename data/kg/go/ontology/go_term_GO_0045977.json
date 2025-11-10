@@ -1,0 +1,40 @@
+{
+  "id": "GO:0045977",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045977",
+  "relationships": {
+    "is_a": [
+      "GO:0009794",
+      "GO:0045931"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of embryonic mitotic cell cycle",
+      "positive regulation of embryonic mitotic cell cycle progression",
+      "positive regulation of progression through embryonic mitotic cell cycle",
+      "up regulation of mitotic cell cycle, embryonic",
+      "up-regulation of mitotic cell cycle, embryonic",
+      "upregulation of mitotic cell cycle, embryonic"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of mitotic cell cycle, embryonic",
+      "stimulation of mitotic cell cycle, embryonic"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "go_curators",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of progression through the embryonic mitotic cell cycle.",
+  "namespace": "biological_process",
+  "label": "positive regulation of mitotic cell cycle, embryonic"
+}

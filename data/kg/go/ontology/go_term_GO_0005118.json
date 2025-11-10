@@ -1,0 +1,31 @@
+{
+  "id": "GO:0005118",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005118",
+  "relationships": {
+    "is_a": [
+      "GO:0005102"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sev binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "sev ligand",
+      "sevenless ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ceb"
+    ],
+    "PMID": [
+      "3151175"
+    ]
+  },
+  "definition": "Binding to a sevenless (sev) protein, a receptor tyrosine kinase.",
+  "namespace": "molecular_function",
+  "label": "sevenless binding"
+}

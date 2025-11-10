@@ -1,0 +1,31 @@
+{
+  "id": "GO:0106362",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106362",
+  "relationships": {
+    "is_a": [
+      "GO:0016262"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "66632",
+      "66632"
+    ],
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "23955153",
+      "30619781"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-arginyl-[protein] + UDP-N-acetyl-alpha-D-glucosamine = H+ + N(omega)-(N-acetyl-beta-D-glucosaminyl)-L-arginyl-[protein] + UDP.",
+  "namespace": "molecular_function",
+  "label": "protein-arginine N-acetylglucosaminyltransferase activity"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047025",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047025",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-oxoacyl-ACP reductase (NADH) activity",
+      "3-oxoacyl-[acyl-carrier protein] reductase (NADH) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(3R)-3-hydroxyacyl-acyl-carrier-protein:NAD+ oxidoreductase activity",
+      "3-oxoacyl-acyl carrier protein (reduced nicotinamide adenine dinucleotide) reductase activity",
+      "3-oxoacyl-acyl-carrier-protein reductase (NADH)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.212",
+      "1.1.1.212",
+      "1.1.1.212",
+      "1.1.1.212",
+      "1.1.1.212"
+    ],
+    "MetaCyc": [
+      "1.1.1.212-RXN",
+      "1.1.1.212-RXN"
+    ],
+    "RHEA": [
+      "19913"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD+ + OH-acyl-[acyl-carrier protein] = NADH + H+ + B-ketoacyl-[acyl-carrier protein].",
+  "namespace": "molecular_function",
+  "label": "3-oxoacyl-[acyl-carrier-protein] reductase (NADH) activity"
+}

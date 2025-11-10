@@ -1,0 +1,25 @@
+{
+  "id": "GO:0035289",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035289",
+  "relationships": {
+    "is_a": [
+      "GO:0035287"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "gnathal segmentation"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "15382136"
+    ]
+  },
+  "definition": "Partitioning the posterior region of the insect head anlage into gnathal (mandibular, maxillary and labial) segments. Unlike the anterior head (procephalic) segments, formation of the posterior head (gnathal) segments occurs by a similar mechanism to trunk segmentation, where a cascade of gap genes, pair-rule genes and segment-polarity genes subdivide the embryo into progressively smaller domains.",
+  "namespace": "biological_process",
+  "label": "posterior head segmentation"
+}

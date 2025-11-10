@@ -1,0 +1,35 @@
+{
+  "id": "GO:0047770",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047770",
+  "relationships": {
+    "is_a": [
+      "GO:0016903"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "aldehyde:(acceptor) oxidoreductase activity",
+      "aldehyde:acceptor oxidoreductase activity",
+      "carboxylic acid reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.99.6",
+      "1.2.99.6",
+      "1.2.99.6",
+      "1.2.99.6",
+      "1.2.99.6"
+    ],
+    "MetaCyc": [
+      "CARBOXYLATE-REDUCTASE-RXN",
+      "CARBOXYLATE-REDUCTASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an aldehyde + acceptor + H2O = a carboxylate + reduced acceptor.",
+  "namespace": "molecular_function",
+  "label": "carboxylate reductase activity"
+}

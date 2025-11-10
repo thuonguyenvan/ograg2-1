@@ -1,0 +1,33 @@
+{
+  "id": "GO:0103074",
+  "uri": "http://purl.obolibrary.org/obo/GO_0103074",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.361"
+    ],
+    "MetaCyc": [
+      "RXN8J2-136"
+    ],
+    "RHEA": [
+      "37547",
+      "37547"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD + D-glucopyranose 6-phosphate = NADH + H+ + 3-dehydro-D-glucose 6-phosphate.",
+  "namespace": "molecular_function",
+  "label": "glucose-6-phosphate 3-dehydrogenase activity"
+}

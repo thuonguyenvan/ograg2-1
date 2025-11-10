@@ -1,0 +1,27 @@
+{
+  "id": "GO:0005048",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005048",
+  "relationships": {
+    "is_a": [
+      "GO:0042277"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "leader sequence binding",
+      "protein signal sequence binding",
+      "signal sequence receptor"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binding to a signal sequence, a specific peptide sequence found on protein precursors or mature proteins that dictates where the mature protein is localized.",
+  "namespace": "molecular_function",
+  "label": "signal sequence binding"
+}

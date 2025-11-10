@@ -1,0 +1,29 @@
+{
+  "id": "GO:0042446",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042446",
+  "relationships": {
+    "is_a": [
+      "GO:0009058",
+      "GO:0042445"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hormone anabolism",
+      "hormone biosynthesis",
+      "hormone formation",
+      "hormone synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of any hormone, naturally occurring substances secreted by specialized cells that affects the metabolism or behavior of other cells possessing functional receptors for the hormone.",
+  "namespace": "biological_process",
+  "label": "hormone biosynthetic process"
+}

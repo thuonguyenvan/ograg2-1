@@ -1,0 +1,29 @@
+{
+  "id": "GO:0070737",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070737",
+  "relationships": {
+    "is_a": [
+      "GO:0070735"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein glycylase activity, elongating"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "19524510"
+    ]
+  },
+  "definition": "Catalysis of the posttranslational transfer of one or more glycine residues to a glycine residue covalently attached to the gamma-carboxyl group of a glutamate residue on a target protein, resulting in the elongation of a polyglycine side chain.",
+  "namespace": "molecular_function",
+  "label": "protein-glycine ligase activity, elongating"
+}

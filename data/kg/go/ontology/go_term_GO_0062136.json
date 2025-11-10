@@ -1,0 +1,34 @@
+{
+  "id": "GO:0062136",
+  "uri": "http://purl.obolibrary.org/obo/GO_0062136",
+  "relationships": {
+    "is_a": [
+      "GO:0062137",
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LDL receptor complex",
+      "LDLR complex",
+      "low-density lipoprotein particle receptor complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "dph",
+      "dph",
+      "dph"
+    ],
+    "PMID": [
+      "26005850"
+    ]
+  },
+  "definition": "A plasma membrane protein complex capable of low-density lipoprotein particle receptor activity. It may also bind xenobiotic toxins and deliver them into the cell via endocytosis. While most substrates get degraded via the endosome the receptor is recycled to the plasma membrane. It may also act as a transducer of intracellular signal pathways and often acts in corporation with other cell-surface receptors.",
+  "namespace": "cellular_component",
+  "label": "low-density lipoprotein receptor complex"
+}

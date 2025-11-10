@@ -1,0 +1,33 @@
+{
+  "id": "GO:0005310",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005310",
+  "relationships": {
+    "is_a": [
+      "GO:0046943"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "dicarboxylate carrier",
+      "sodium:dicarboxylate/tricarboxylate symporter activity"
+    ],
+    "related": [
+      "dicarboxylate (succinate/fumarate/malate) antiporter activity",
+      "dicarboxylic acid permease activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1614546",
+      "R-HSA-372843"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of dicarboxylic acids from one side of a membrane to the other. A dicarboxylic acid is an organic acid with two COOH groups.",
+  "namespace": "molecular_function",
+  "label": "SLC25A10 mediates exchange of malate and phosphate"
+}

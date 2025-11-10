@@ -1,0 +1,53 @@
+{
+  "id": "GO:1905102",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905102",
+  "relationships": {
+    "is_a": [
+      "GO:0031334",
+      "GO:1905100"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of apoptosome formation",
+      "up regulation of apoptosome assembly",
+      "up regulation of apoptosome formation",
+      "up-regulation of apoptosome assembly",
+      "up-regulation of apoptosome formation",
+      "upregulation of apoptosome assembly",
+      "upregulation of apoptosome formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of apoptosome assembly",
+      "activation of apoptosome formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "TermGenie",
+      "bc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "26265044"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of apoptosome assembly.",
+  "namespace": "biological_process",
+  "label": "positive regulation of apoptosome assembly"
+}

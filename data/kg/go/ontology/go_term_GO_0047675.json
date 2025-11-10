@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047675",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047675",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-arabinonate hydro-lyase (2-dehydro-3-deoxy-D-arabinonate-forming)",
+      "D-arabinonate hydro-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.5",
+      "4.2.1.5",
+      "4.2.1.5",
+      "4.2.1.5"
+    ],
+    "KEGG_REACTION": [
+      "R03032"
+    ],
+    "MetaCyc": [
+      "ARABINONATE-DEHYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "21836",
+      "21836"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-arabinonate = 2-dehydro-3-deoxy-D-arabinonate + H2O.",
+  "namespace": "molecular_function",
+  "label": "arabinonate dehydratase activity"
+}

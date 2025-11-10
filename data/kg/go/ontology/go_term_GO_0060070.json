@@ -1,0 +1,40 @@
+{
+  "id": "GO:0060070",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060070",
+  "relationships": {
+    "is_a": [
+      "GO:0016055"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Wnt receptor signaling pathway through beta-catenin",
+      "Wnt receptor signaling pathway via beta-catenin",
+      "Wnt receptor signalling pathway through beta-catenin",
+      "canonical Wnt receptor signaling pathway",
+      "canonical Wnt-activated signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "frizzled-1 receptor signaling pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-4641262"
+    ],
+    "PMID": [
+      "11532397",
+      "19619488"
+    ],
+    "GOC": [
+      "mtg_signal",
+      "signaling",
+      "signaling"
+    ]
+  },
+  "definition": "A type of Wnt signaling pathway in which Wnt binding to its receptor on the surface of a target cell results in the by propagation of the molecular signals via beta-catenin, and end with a change in transcription of target genes. In this pathway, the activated receptor signals via downstream effectors that result in the inhibition of beta-catenin phosphorylation, thereby preventing degradation of beta-catenin. Stabilized beta-catenin can then accumulate and travel to the nucleus to trigger changes in transcription of target genes.",
+  "namespace": "biological_process",
+  "label": "Disassembly of the destruction complex and recruitment of AXIN to the membrane"
+}

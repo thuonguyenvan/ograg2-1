@@ -1,0 +1,26 @@
+{
+  "id": "GO:0051328",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051328",
+  "relationships": {
+    "is_a": [
+      "GO:0051325",
+      "GO:0098762"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "interphase of meiotic cell cycle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle"
+    ]
+  },
+  "definition": "The cell cycle phase which begins after cytokinesis and ends when meiotic prophase begins. Meiotic cells have an interphase after each meiotic division, but only interphase I involves replication of the cell&apos;s DNA.",
+  "namespace": "biological_process",
+  "label": "meiotic interphase"
+}

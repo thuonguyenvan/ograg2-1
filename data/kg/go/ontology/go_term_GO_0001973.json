@@ -1,0 +1,34 @@
+{
+  "id": "GO:0001973",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001973",
+  "relationships": {
+    "is_a": [
+      "GO:0035588"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "P1 receptor signaling pathway",
+      "adenosine receptor signaling pathway, G-protein coupled",
+      "adenosine receptor signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "adenosine receptor signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mah"
+    ],
+    "PMID": [
+      "9755289",
+      "9755289"
+    ]
+  },
+  "definition": "The series of molecular signals generated as a consequence of a receptor binding to extracellular adenosine and transmitting the signal to a heterotrimeric G-protein complex to initiate a change in cell activity.",
+  "namespace": "biological_process",
+  "label": "G protein-coupled adenosine receptor signaling pathway"
+}

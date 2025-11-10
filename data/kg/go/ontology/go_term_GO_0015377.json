@@ -1,0 +1,30 @@
+{
+  "id": "GO:0015377",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015377",
+  "relationships": {
+    "is_a": [
+      "GO:0015108",
+      "GO:0015296"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "cation:chloride cotransporter activity",
+      "cation:chloride symporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.30"
+    ],
+    "PMID": [
+      "31747317"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: cation(out) + Cl-(out) = cation(in) + Cl-(in).",
+  "namespace": "molecular_function",
+  "label": "chloride:monoatomic cation symporter activity"
+}

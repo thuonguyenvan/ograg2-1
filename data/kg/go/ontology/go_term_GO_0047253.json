@@ -1,0 +1,48 @@
+{
+  "id": "GO:0047253",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047253",
+  "relationships": {
+    "is_a": [
+      "GO:0008375",
+      "GO:0140103"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "alpha-1,6-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase activity",
+      "mannosyl-glycoprotein beta-1,4-N-acetylglucosaminyl-transferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acetylglucosaminyltransferase VI activity",
+      "N-glycosyl-oligosaccharide-glycoprotein N-acetylglucosaminyltransferase VI activity",
+      "UDP-N-acetyl-D-glucosamine:2,6-bis(N-acetyl-beta-D-glucosaminyl)-alpha-D-mannosyl-glycoprotein 4-beta-N-acetyl-D-glucosaminyltransferase activity",
+      "mannosyl-glycoprotein beta-1,4-N-acetylglucosaminyltransferase activity",
+      "uridine diphosphoacetylglucosamine-glycopeptide beta-1-&gt;4-acetylglucosaminyltransferase VI",
+      "uridine diphosphoacetylglucosamine-glycopeptide beta-1-&gt;4-acetylglucosaminyltransferase VI activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.201",
+      "2.4.1.201",
+      "2.4.1.201",
+      "2.4.1.201",
+      "2.4.1.201",
+      "2.4.1.201",
+      "2.4.1.201",
+      "2.4.1.201"
+    ],
+    "MetaCyc": [
+      "2.4.1.201-RXN",
+      "2.4.1.201-RXN"
+    ],
+    "RHEA": [
+      "19945"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acetyl-beta-D-glucosaminyl-1,6-beta-D-(N-acetyl-B-glucosaminyl-1,2)-beta-D-mannosyl-R + UDP-N-acetyl-D-glucosamine = N-acetyl-beta-D-glucosaminyl-1,6-beta-D-(N-acetyl-D-glucosaminyl-1,2-beta)-(N-acetyl-D-glucosaminyl-1,4-beta)-D-mannosyl-R + UDP.",
+  "namespace": "molecular_function",
+  "label": "alpha-1,6-mannosylglycoprotein 4-beta-N-acetylglucosaminyltransferase activity"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:1990689",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990689",
+  "relationships": {
+    "is_a": [
+      "GO:0048280",
+      "GO:1990670"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ER-Golgi intermediate compartment derived vesicle fusion with Golgi cis cisterna membrane",
+      "ER-Golgi intermediate compartment derived vesicle fusion with cis-Golgi cisterna membrane",
+      "ERGIC-derived vesicle fusion with Golgi cis cisterna membrane",
+      "ERGIC-derived vesicle fusion with cis-Golgi cisterna membrane",
+      "endoplasmic reticulum-Golgi intermediate compartment (ERGIC) derived vesicle fusion with cis-Golgi cisterna membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "16038056",
+      "24119662"
+    ]
+  },
+  "definition": "The joining of the lipid bilayer membrane around an ERGIC-derived vesicle to the lipid bilayer membrane around the Golgi cis cisterna. Such vesicles include COPII-coated transport vesicles involved in anterograde transport.",
+  "namespace": "biological_process",
+  "label": "endoplasmic reticulum-Golgi intermediate compartment (ERGIC) derived vesicle fusion with Golgi cis cisterna membrane"
+}

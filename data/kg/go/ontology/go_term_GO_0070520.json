@@ -1,0 +1,29 @@
+{
+  "id": "GO:0070520",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070520",
+  "relationships": {
+    "is_a": [
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "ITGA4-ITGB1-CD81 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "10229664",
+      "8757325"
+    ],
+    "CORUM": [
+      "2419"
+    ]
+  },
+  "definition": "A protein complex that consists of an alpha4-beta1 integrin complex bound to membrane protein CD81, a member of the tetraspan family.",
+  "namespace": "cellular_component",
+  "label": "alpha4-beta1 integrin-CD81 complex"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0052111",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052111",
+  "relationships": {
+    "is_a": [
+      "GO:0141060"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "disruption by symbiont of host anatomical structure",
+      "modification by symbiont of host anatomical structure"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cytopathogenic effect",
+      "modification by symbiont of host structure"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_pamgo_17jul06"
+    ]
+  },
+  "definition": "The process in which an organism effects a change that impairs the structure or function of an anatomical structure of the host organism. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated disruption of host anatomical structure"
+}

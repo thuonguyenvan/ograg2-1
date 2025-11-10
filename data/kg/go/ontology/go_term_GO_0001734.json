@@ -1,0 +1,38 @@
+{
+  "id": "GO:0001734",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001734",
+  "relationships": {
+    "is_a": [
+      "GO:0008174"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mRNA (N6-adenosine)-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.348",
+      "2.1.1.348"
+    ],
+    "MetaCyc": [
+      "RXN-19346"
+    ],
+    "RHEA": [
+      "55584"
+    ],
+    "Reactome": [
+      "R-HSA-72095"
+    ],
+    "GOC": [
+      "hjd"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an adenosine in mRNA + S-adenosyl-L-methionine = an N(6)-methyladenosine in mRNA + H+ + S-adenosyl-L-homocysteine. This activity is the methylation of adenines in mRNA with the consensus sequence RRACH, where R is a purine, and H is C, A, or U.",
+  "namespace": "molecular_function",
+  "label": "Internal Methylation of mRNA"
+}

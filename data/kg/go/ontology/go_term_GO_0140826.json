@@ -1,0 +1,25 @@
+{
+  "id": "GO:0140826",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140826",
+  "relationships": {
+    "is_a": [
+      "GO:0005385",
+      "GO:0051139"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "19366695",
+      "30893306"
+    ]
+  },
+  "definition": "Enables the transfer of zinc from one side of a membrane to the other according to the reaction: H+(out) + Zn2+(in) = H+(in) + Zn2+(out).",
+  "namespace": "molecular_function",
+  "label": "zinc:proton antiporter activity"
+}

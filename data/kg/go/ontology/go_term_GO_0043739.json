@@ -1,0 +1,32 @@
+{
+  "id": "GO:0043739",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043739",
+  "relationships": {
+    "is_a": [
+      "GO:0004844",
+      "GO:0008263"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GU mismatch-specific uracil-DNA glycosylase activity",
+      "MUG"
+    ],
+    "broad": [
+      "uracil mismatch repair protein"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.2.28"
+    ],
+    "PMID": [
+      "24739389"
+    ]
+  },
+  "definition": "Hydrolyzes mismatched double-stranded DNA and polynucleotides, releasing free uracil and leaving an apyrimidinic (AP) site.",
+  "namespace": "molecular_function",
+  "label": "G/U mismatch-specific uracil-DNA glycosylase activity"
+}

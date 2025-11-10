@@ -1,0 +1,30 @@
+{
+  "id": "GO:0034365",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034365",
+  "relationships": {
+    "is_a": [
+      "GO:0034364"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "discoidal HDL",
+      "nascent HDL",
+      "nascent high-density lipoprotein particle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "expert_pt",
+      "mah",
+      "rl"
+    ]
+  },
+  "definition": "A newly formed high-density lipoprotein particle; consists of a phospholipid bilayer surrounded by two or more APOA1 molecules. The discoidal HDL particle is formed when lipid-free or lipid-poor APOA1 acquires phospholipids and unesterified cholesterol from either cell membranes or triglyceride-rich lipoproteins (undergoing lipolysis by lipoprotein lipase).",
+  "namespace": "cellular_component",
+  "label": "discoidal high-density lipoprotein particle"
+}

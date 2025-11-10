@@ -1,0 +1,28 @@
+{
+  "id": "GO:0098613",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098613",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2408541"
+    ],
+    "PMID": [
+      "14705",
+      "17988700",
+      "4380351"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + methaneselenol = S-adenosyl-L-homocysteine + dimethyl selenide.",
+  "namespace": "molecular_function",
+  "label": "MeSeH is methylated to Me2Se by MeSeH methyltransferase"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0071545",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071545",
+  "relationships": {
+    "is_a": [
+      "GO:0043647",
+      "GO:0046174",
+      "GO:0046434"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "inositol phosphate breakdown",
+      "inositol phosphate catabolism",
+      "inositol phosphate degradation"
+    ],
+    "broad": [],
+    "narrow": [
+      "myo-inositol phosphate catabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of an inositol phosphate, 1,2,3,4,5,6-cyclohexanehexol, with one or more phosphate groups attached.",
+  "namespace": "biological_process",
+  "label": "inositol phosphate catabolic process"
+}

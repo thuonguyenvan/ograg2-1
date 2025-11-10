@@ -1,0 +1,36 @@
+{
+  "id": "GO:0050589",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050589",
+  "relationships": {
+    "is_a": [
+      "GO:0016706"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "anthocyanidin synthase activity",
+      "leucoanthocyanidin dioxygenase activity",
+      "leucoanthocyanidin hydroxylase",
+      "leucocyanidin,2-oxoglutarate:oxygen oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.20.4",
+      "1.14.20.4",
+      "1.14.20.4",
+      "1.14.20.4",
+      "1.14.20.4",
+      "1.14.20.4"
+    ],
+    "MetaCyc": [
+      "RXN-602"
+    ]
+  },
+  "definition": "Catalysis of the reaction: leucocyanidin + 2-oxoglutarate + O2 = cis- or trans-dihydroquercetin + succinate + CO2 + 2 H2O.",
+  "namespace": "molecular_function",
+  "label": "leucocyanidin oxygenase activity"
+}

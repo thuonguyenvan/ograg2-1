@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050288",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050288",
+  "relationships": {
+    "is_a": [
+      "GO:0016614"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-sorbose:(acceptor) 5-oxidoreductase activity",
+      "L-sorbose:acceptor 5-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.99.12",
+      "1.1.99.12",
+      "1.1.99.12",
+      "1.1.99.12"
+    ],
+    "KEGG_REACTION": [
+      "R01696"
+    ],
+    "MetaCyc": [
+      "SORBOSE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "14713",
+      "14713"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-sorbose + A = 5-dehydro-D-fructose + AH(2).",
+  "namespace": "molecular_function",
+  "label": "sorbose dehydrogenase activity"
+}

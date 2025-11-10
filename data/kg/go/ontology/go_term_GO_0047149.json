@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047149",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047149",
+  "relationships": {
+    "is_a": [
+      "GO:0008172"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dimethylsulfonioacetate:L-homocysteine S-methyltransferase activity",
+      "dimethylthetin-homocysteine methyltransferase activity",
+      "thetin-homocysteine methylpherase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.3",
+      "2.1.1.3",
+      "2.1.1.3",
+      "2.1.1.3",
+      "2.1.1.3"
+    ],
+    "KEGG_REACTION": [
+      "R04153"
+    ],
+    "MetaCyc": [
+      "2.1.1.3-RXN"
+    ],
+    "RHEA": [
+      "22788",
+      "22788"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-homocysteine + dimethylsulfonioacetate = (methylthio)acetate + L-methionine + H+.",
+  "namespace": "molecular_function",
+  "label": "thetin-homocysteine S-methyltransferase activity"
+}

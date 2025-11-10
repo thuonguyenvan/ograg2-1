@@ -1,0 +1,31 @@
+{
+  "id": "GO:0001583",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001583",
+  "relationships": {
+    "is_a": [
+      "GO:0050912"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "perception of salty taste, detection of chemical stimulus",
+      "perception of salty taste, sensory transduction of chemical stimulus",
+      "salty taste detection",
+      "sensory detection of chemical stimulus during perception of salty taste",
+      "sensory detection of salty taste",
+      "sensory transduction of chemical stimulus during perception of salty taste",
+      "sensory transduction of salty taste"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The series of events required for a salty taste stimulus to be received and converted to a molecular signal.",
+  "namespace": "biological_process",
+  "label": "detection of chemical stimulus involved in sensory perception of salty taste"
+}

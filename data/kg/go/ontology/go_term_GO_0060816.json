@@ -1,0 +1,30 @@
+{
+  "id": "GO:0060816",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060816",
+  "relationships": {
+    "is_a": [
+      "GO:0009048"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "rXCI"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "sdb_2009",
+      "tb"
+    ],
+    "PMID": [
+      "32189388"
+    ]
+  },
+  "definition": "Compensating for the two-fold variation in X-chromosome:autosome ratios between sexes by a global inactivation of all, or most of, the genes on either the paternal or maternal X-chromosome in the XX sex.",
+  "namespace": "biological_process",
+  "label": "random inactivation of X chromosome"
+}

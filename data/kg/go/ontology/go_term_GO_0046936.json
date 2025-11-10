@@ -1,0 +1,33 @@
+{
+  "id": "GO:0046936",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046936",
+  "relationships": {
+    "is_a": [
+      "GO:0016814",
+      "GO:0019239"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "deoxyadenosine deaminase reaction"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "ADDALT-RXN"
+    ],
+    "RHEA": [
+      "28190",
+      "28190"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2&apos;-deoxyadenosine + H+ + H2O = 2&apos;-deoxyinosine + NH4+.",
+  "namespace": "molecular_function",
+  "label": "2&apos;-deoxyadenosine deaminase activity"
+}

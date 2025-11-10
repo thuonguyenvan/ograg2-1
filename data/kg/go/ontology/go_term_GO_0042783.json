@@ -1,0 +1,44 @@
+{
+  "id": "GO:0042783",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042783",
+  "relationships": {
+    "is_a": [
+      "GO:0052553",
+      "GO:0052572"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "evasion of host immune response",
+      "immune evasion"
+    ],
+    "broad": [
+      "active evasion of immune response of other organism involved in symbiotic interaction",
+      "active immune evasion",
+      "evasion or tolerance of host immune response"
+    ],
+    "narrow": [],
+    "related": [
+      "active evasion of host immune response",
+      "evasion by virus of host immune response",
+      "mitigation by virus of host immune response",
+      "mitigation of host immune response",
+      "mitigation of host immune response by virus",
+      "passive evasion of host immune response",
+      "passive evasion of immune response of other organism involved in symbiotic interaction",
+      "passive immune evasion",
+      "suppression by virus of host immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mb"
+    ],
+    "PMID": [
+      "12439615"
+    ]
+  },
+  "definition": "A process by which an organism avoids the effects of the host organism&apos;s immune response. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated evasion of host immune response"
+}

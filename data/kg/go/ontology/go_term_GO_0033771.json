@@ -1,0 +1,36 @@
+{
+  "id": "GO:0033771",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033771",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "licodione synthase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.162",
+      "1.14.14.162"
+    ],
+    "KEGG_REACTION": [
+      "R07198"
+    ],
+    "MetaCyc": [
+      "RXN-19645"
+    ],
+    "RHEA": [
+      "57584",
+      "57584"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a flavanone + O2 + reduced [NADPH--hemoprotein reductase] = a 2-hydroxyflavanone + H+ + H2O + oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "flavanone 2-hydroxylase activity"
+}

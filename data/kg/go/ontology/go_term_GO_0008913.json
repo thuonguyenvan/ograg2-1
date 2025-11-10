@@ -1,0 +1,36 @@
+{
+  "id": "GO:0008913",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008913",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(Kdo)2-lipid IVA lauroyltransferase",
+      "Kdo2-lipid IVA lauroyltransferase",
+      "alpha-Kdo-(2-&gt;4)-alpha-(2-&gt;6)-lipid IVA lauroyltransferase",
+      "lauroyl transferase activity",
+      "lauroyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.241",
+      "2.3.1.241",
+      "2.3.1.241",
+      "2.3.1.241",
+      "2.3.1.241"
+    ],
+    "PMID": [
+      "18656959"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a fatty acyl-[ACP] + an alpha-Kdo-(2-&gt;4)-alpha-Kdo-(2-&gt;6)-lipid IVA = an alpha-Kdo-(2-&gt;4)-alpha-Kdo-(2-&gt;6)-(acyl)-lipid IVA + holo-[ACP].",
+  "namespace": "molecular_function",
+  "label": "Kdo2-lipid IVA acyltransferase activity"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0018788",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018788",
+  "relationships": {
+    "is_a": [
+      "GO:0019120"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "AtzA"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.8.1.8",
+      "3.8.1.8"
+    ],
+    "KEGG_REACTION": [
+      "R05558"
+    ],
+    "MetaCyc": [
+      "3.8.1.8-RXN"
+    ],
+    "RHEA": [
+      "11312",
+      "11312"
+    ],
+    "UM-BBD_reactionID": [
+      "r0113"
+    ]
+  },
+  "definition": "Catalysis of the reaction: atrazine + H2O = chloride + H+ + hydroxyatrazine.",
+  "namespace": "molecular_function",
+  "label": "atrazine chlorohydrolase activity"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "GO:1905560",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905560",
+  "relationships": {
+    "is_a": [
+      "GO:0031333",
+      "GO:0090234",
+      "GO:1902116",
+      "GO:2001251"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of kinetochore assembly",
+      "down regulation of kinetochore biogenesis",
+      "down-regulation of kinetochore assembly",
+      "downregulation of kinetochore assembly"
+    ],
+    "broad": [],
+    "narrow": [
+      "down regulation of centromere and kinetochore complex maturation",
+      "down regulation of centromere/kinetochore complex maturation",
+      "down regulation of chromosome-kinetochore attachment",
+      "down-regulation of centromere and kinetochore complex maturation",
+      "down-regulation of centromere/kinetochore complex maturation",
+      "down-regulation of chromosome-kinetochore attachment",
+      "downregulation of centromere and kinetochore complex maturation",
+      "downregulation of centromere/kinetochore complex maturation",
+      "downregulation of chromosome-kinetochore attachment",
+      "inhibition of centromere and kinetochore complex maturation",
+      "inhibition of centromere/kinetochore complex maturation",
+      "inhibition of chromosome-kinetochore attachment",
+      "inhibition of kinetochore assembly",
+      "negative regulation of NMS complex assembly",
+      "negative regulation of centromere and kinetochore complex maturation",
+      "negative regulation of centromere/kinetochore complex maturation",
+      "negative regulation of chromosome-kinetochore attachment"
+    ],
+    "related": [
+      "down regulation of kinetochore formation",
+      "down-regulation of kinetochore formation",
+      "downregulation of kinetochore formation",
+      "inhibition of kinetochore formation",
+      "negative regulation of kinetochore formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "18765790"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of kinetochore assembly.",
+  "namespace": "biological_process",
+  "label": "negative regulation of kinetochore assembly"
+}

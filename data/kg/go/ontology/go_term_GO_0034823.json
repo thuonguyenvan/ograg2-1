@@ -1,0 +1,28 @@
+{
+  "id": "GO:0034823",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034823",
+  "relationships": {
+    "is_a": [
+      "GO:0016405",
+      "GO:0016878"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R08088"
+    ],
+    "UM-BBD_reactionID": [
+      "r1157",
+      "r1157"
+    ]
+  },
+  "definition": "Catalysis of the reaction: citronellate + CoASH + ATP = citronellyl-CoA + AMP + PPi.",
+  "namespace": "molecular_function",
+  "label": "citronellyl-CoA ligase activity"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0009977",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009977",
+  "relationships": {
+    "is_a": [
+      "GO:0008320",
+      "GO:0015291"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "arginine targeting transmembrane transporter activity",
+      "delta-pH-dependent protein transporter activity",
+      "pH-dependent protein transporter activity",
+      "twin-arginine targeting transmembrane transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11526245",
+      "25494301"
+    ]
+  },
+  "definition": "Catalysis of the transfer of proteins from one side of a membrane to the other. Transportation is dependent on pH gradient across the membrane.",
+  "namespace": "molecular_function",
+  "label": "proton motive force dependent protein transmembrane transporter activity"
+}

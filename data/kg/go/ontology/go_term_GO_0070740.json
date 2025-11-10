@@ -1,0 +1,38 @@
+{
+  "id": "GO:0070740",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070740",
+  "relationships": {
+    "is_a": [
+      "GO:0070739"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tubulin glutamylase activity",
+      "tubulin-glutamate ligase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.61"
+    ],
+    "Reactome": [
+      "R-HSA-8865774",
+      "R-HSA-8955869"
+    ],
+    "GOC": [
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "19524510"
+    ]
+  },
+  "definition": "Catalysis of the posttranslational transfer of one or more glutamate residues to the gamma-carboxyl group(s) of one or more specific glutamate residues on a tubulin molecule.",
+  "namespace": "molecular_function",
+  "label": "Polyglutamylase complex (TTLL1) polyglutamylates alpha subunits of tubulin"
+}

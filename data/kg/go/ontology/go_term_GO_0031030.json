@@ -1,0 +1,36 @@
+{
+  "id": "GO:0031030",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031030",
+  "relationships": {
+    "is_a": [
+      "GO:0010974",
+      "GO:0031029",
+      "GO:0051058"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of septation initiation signaling",
+      "down-regulation of septation initiation signaling",
+      "downregulation of septation initiation signaling",
+      "negative regulation of septation initiation network",
+      "negative regulation of septation initiation signalling"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of septation initiation signaling"
+    ],
+    "related": [
+      "negative regulation of septation initiation signaling cascade"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "signaling"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of septation initiation signaling.",
+  "namespace": "biological_process",
+  "label": "negative regulation of septation initiation signaling"
+}

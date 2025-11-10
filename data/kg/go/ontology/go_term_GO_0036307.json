@@ -1,0 +1,33 @@
+{
+  "id": "GO:0036307",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036307",
+  "relationships": {
+    "is_a": [
+      "GO:0008988"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.266"
+    ],
+    "RHEA": [
+      "43736",
+      "43736"
+    ],
+    "GOC": [
+      "imk"
+    ],
+    "PMID": [
+      "22847818"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + adenine(2030) in 23S rRNA = S-adenosyl-L-homocysteine + rRNA containing N(6)-methyladenine(2030) in 23S rRNA.",
+  "namespace": "molecular_function",
+  "label": "23S rRNA (adenine(2030)-N(6))-methyltransferase activity"
+}

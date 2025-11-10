@@ -1,0 +1,43 @@
+{
+  "id": "GO:1901977",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901977",
+  "relationships": {
+    "is_a": [
+      "GO:1901976",
+      "GO:1901989",
+      "GO:1902532"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of cell cycle checkpoint",
+      "down-regulation of cell cycle checkpoint",
+      "downregulation of cell cycle checkpoint"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of cell cycle checkpoint"
+    ],
+    "related": [
+      "negative regulation of G1/S checkpoint",
+      "negative regulation of G1/S transition checkpoint"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_cell_cycle",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "obol"
+    ],
+    "PMID": [
+      "23028116"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of cell cycle checkpoint.",
+  "namespace": "biological_process",
+  "label": "negative regulation of cell cycle checkpoint"
+}

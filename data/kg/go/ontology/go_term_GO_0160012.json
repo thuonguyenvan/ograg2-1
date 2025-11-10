@@ -1,0 +1,26 @@
+{
+  "id": "GO:0160012",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160012",
+  "relationships": {
+    "is_a": [
+      "GO:0160009",
+      "GO:0160011"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NAD-dependent histone decrotonylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "28497810"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + N6-(2E)-butenoyl-L-lysyl-[histone] + NAD+ = 2&apos;&apos;-O-(2E)-but-2-enoyl-ADP-D-ribose + L-lysyl-[histone] + nicotinamide.",
+  "namespace": "molecular_function",
+  "label": "histone decrotonylase activity, NAD-dependent"
+}

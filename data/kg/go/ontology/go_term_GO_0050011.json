@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050011",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050011",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "citramalyl-CoA hydro-lyase (itaconyl-CoA-forming)",
+      "citramalyl-CoA hydro-lyase activity",
+      "itaconyl coenzyme A hydratase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.56",
+      "4.2.1.56",
+      "4.2.1.56",
+      "4.2.1.56",
+      "4.2.1.56"
+    ],
+    "MetaCyc": [
+      "ITACONYL-COA-HYDRATASE-RXN",
+      "ITACONYL-COA-HYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "13785"
+    ]
+  },
+  "definition": "Catalysis of the reaction: citramalyl-CoA = itaconyl-CoA + H2O.",
+  "namespace": "molecular_function",
+  "label": "itaconyl-CoA hydratase activity"
+}

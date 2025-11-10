@@ -1,0 +1,29 @@
+{
+  "id": "GO:0042181",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042181",
+  "relationships": {
+    "is_a": [
+      "GO:0042180",
+      "GO:0044283"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ketone anabolism",
+      "ketone biosynthesis",
+      "ketone formation",
+      "ketone synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of ketones, a class of organic compounds that contain the carbonyl group, CO, and in which the carbonyl group is bonded only to carbon atoms. The general formula for a ketone is RCOR, where R and R are alkyl or aryl groups.",
+  "namespace": "biological_process",
+  "label": "ketone biosynthetic process"
+}

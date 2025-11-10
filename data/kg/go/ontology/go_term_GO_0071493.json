@@ -1,0 +1,37 @@
+{
+  "id": "GO:0071493",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071493",
+  "relationships": {
+    "is_a": [
+      "GO:0010224",
+      "GO:0034644"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to UV-B light stimulus",
+      "cellular response to UV-B radiation stimulus",
+      "cellular response to UVB light stimulus",
+      "cellular response to UVB radiation stimulus",
+      "cellular response to medium wave ultraviolet light stimulus",
+      "cellular response to medium wave ultraviolet radiation stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a UV-B radiation stimulus. UV-B radiation (UV-B light) spans the wavelengths 280 to 315 nm.",
+  "namespace": "biological_process",
+  "label": "cellular response to UV-B"
+}

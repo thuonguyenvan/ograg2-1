@@ -1,0 +1,34 @@
+{
+  "id": "GO:0015232",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015232",
+  "relationships": {
+    "is_a": [
+      "GO:0022857"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "haem transporter activity"
+    ],
+    "broad": [
+      "heme transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-917870",
+      "R-HSA-917892",
+      "R-HSA-9661408",
+      "R-HSA-9927224",
+      "R-HSA-9927930"
+    ],
+    "PMID": [
+      "29549126"
+    ]
+  },
+  "definition": "Enables the transfer of heme from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "DppBCDF transports heme to cytosol"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "GO:0033736",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033736",
+  "relationships": {
+    "is_a": [
+      "GO:0001716"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-lysine-epsilon-oxidase activity",
+      "L-lysine:oxygen 6-oxidoreductase (deaminating) activity",
+      "Lod",
+      "LodA",
+      "marinocine"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.3.20",
+      "1.4.3.20",
+      "1.4.3.20",
+      "1.4.3.20",
+      "1.4.3.20",
+      "1.4.3.20"
+    ],
+    "KEGG_REACTION": [
+      "R07598"
+    ],
+    "MetaCyc": [
+      "1.4.3.20-RXN"
+    ],
+    "RHEA": [
+      "22548",
+      "22548"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + L-lysine + O2 = (S)-2-amino-6-oxohexanoate + H2O2 + NH4+.",
+  "namespace": "molecular_function",
+  "label": "L-lysine 6-oxidase activity"
+}

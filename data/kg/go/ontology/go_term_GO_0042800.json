@@ -1,0 +1,45 @@
+{
+  "id": "GO:0042800",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042800",
+  "relationships": {
+    "is_a": [
+      "GO:0016279",
+      "GO:0140938"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H3 lysine 4-specific methyltransferase activity",
+      "histone H3K4 methylase activity",
+      "histone lysine N-methyltransferase activity (H3-K4 specific)",
+      "histone methylase activity (H3-K4 specific)",
+      "histone methyltransferase activity (H3-K4 specific)",
+      "histone-H3K4 methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1214188",
+      "R-HSA-3364026",
+      "R-HSA-8865498",
+      "R-HSA-8936481",
+      "R-HSA-8936621",
+      "R-HSA-8937016",
+      "R-HSA-8937050",
+      "R-HSA-9843121",
+      "R-HSA-9909628"
+    ],
+    "PMID": [
+      "12086618"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + histone H3 L-lysine (position 4) = S-adenosyl-L-homocysteine + histone H3 N6-methyl-L-lysine (position 4). This reaction is the addition of up to three methyl groups to the lysine residue at position 4 of the histone H3 protein.",
+  "namespace": "molecular_function",
+  "label": "Trimethylation of CD274 gene chromatin by MLL1/3 complex"
+}

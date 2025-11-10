@@ -1,0 +1,51 @@
+{
+  "id": "GO:0010309",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010309",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase activity",
+      "acireductone dioxygenase (Fe2+-requiring) activity"
+    ],
+    "broad": [
+      "2-hydroxy-3-keto-5-thiomethylpent-1-ene dioxygenase",
+      "aci-reductone dioxygenase",
+      "acireductone dioxygenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "1,2-dihydroxy-5-(methylthio)pent-1-en-3-one:oxygen oxidoreductase (formate-forming)",
+      "ARD&apos;",
+      "ARD1",
+      "E-2&apos;"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.54",
+      "1.13.11.54",
+      "1.13.11.54",
+      "1.13.11.54"
+    ],
+    "KEGG_REACTION": [
+      "R07364"
+    ],
+    "MetaCyc": [
+      "R147-RXN"
+    ],
+    "RHEA": [
+      "24504",
+      "24504"
+    ],
+    "Reactome": [
+      "R-HSA-1237119"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1,2-dihydroxy-5-(methylthio)pent-1-en-3-one + O2 = 4-methylthio-2-oxobutanoate + formate + H+.",
+  "namespace": "molecular_function",
+  "label": "Acireductone is oxidized to MOB"
+}

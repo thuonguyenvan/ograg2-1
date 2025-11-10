@@ -1,0 +1,31 @@
+{
+  "id": "GO:0043162",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043162",
+  "relationships": {
+    "is_a": [
+      "GO:0006511"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ubiquitin-dependent protein breakdown via the multivesicular body pathway",
+      "ubiquitin-dependent protein catabolic process via the MVB pathway",
+      "ubiquitin-dependent protein catabolism via the MVB pathway",
+      "ubiquitin-dependent protein degradation via the multivesicular body pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "11511343"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a protein or peptide covalently tagged with ubiquitin, via the multivesicular body (MVB) sorting pathway; ubiquitin-tagged proteins are sorted into MVBs, and delivered to a lysosome/vacuole for degradation.",
+  "namespace": "biological_process",
+  "label": "ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway"
+}

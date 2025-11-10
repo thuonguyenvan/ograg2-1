@@ -1,0 +1,34 @@
+{
+  "id": "GO:0033921",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033921",
+  "relationships": {
+    "is_a": [
+      "GO:0015925"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "aerobacter-capsular-polysaccharide galactohydrolase activity",
+      "capsular polysaccharide galactohydrolase activity",
+      "polysaccharide depolymerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.87",
+      "3.2.1.87",
+      "3.2.1.87",
+      "3.2.1.87",
+      "3.2.1.87"
+    ],
+    "MetaCyc": [
+      "3.2.1.87-RXN"
+    ]
+  },
+  "definition": "Catalysis of the random hydrolysis of (1-&gt;3)-alpha-D-galactosidic linkages in Aerobacter aerogenes capsular polysaccharide.",
+  "namespace": "molecular_function",
+  "label": "capsular-polysaccharide endo-1,3-alpha-galactosidase activity"
+}

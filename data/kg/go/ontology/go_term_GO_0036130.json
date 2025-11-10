@@ -1,0 +1,40 @@
+{
+  "id": "GO:0036130",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036130",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PGH2 9,11-endoperoxidase",
+      "PGH2 9-,11-endoperoxide reductase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R02264"
+    ],
+    "RHEA": [
+      "45312",
+      "45312"
+    ],
+    "Reactome": [
+      "R-HSA-2161549"
+    ],
+    "PMID": [
+      "10622721",
+      "14979715",
+      "16475787",
+      "12664595",
+      "12432932"
+    ]
+  },
+  "definition": "Catalysis of the reaction: prostaglandin F2alpha + NADP+ = prostaglandin H2 + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "PGH2 is reduced to PGF2a by AKR1C3"
+}

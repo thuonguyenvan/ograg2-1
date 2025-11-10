@@ -1,0 +1,41 @@
+{
+  "id": "GO:0071578",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071578",
+  "relationships": {
+    "is_a": [
+      "GO:0071577",
+      "GO:0098659"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "zinc II ion plasma membrane import",
+      "zinc II ion transmembrane import",
+      "zinc import",
+      "zinc ion import into cell",
+      "zinc uptake"
+    ],
+    "broad": [],
+    "narrow": [
+      "high-affinity zinc II ion transmembrane import",
+      "high-affinity zinc II ion transport",
+      "low-affinity zinc II ion transport"
+    ],
+    "related": [
+      "zinc ion transmembrane import"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "vw",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "18637840"
+    ]
+  },
+  "definition": "The directed movement of zinc(2+) ions from outside of a cell, across the plasma membrane and into the cytosol.",
+  "namespace": "biological_process",
+  "label": "zinc ion import across plasma membrane"
+}

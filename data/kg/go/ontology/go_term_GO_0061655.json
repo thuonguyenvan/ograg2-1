@@ -1,0 +1,27 @@
+{
+  "id": "GO:0061655",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061655",
+  "relationships": {
+    "is_a": [
+      "GO:0061650",
+      "GO:0072496"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "E2"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "dph"
+    ]
+  },
+  "definition": "Isoenergetic transfer of Pup from one protein to another via the reaction X-Pup + Y = Y-Pup + X, where both the X-Pup and Y-Pup linkages are thioester bonds between the C-terminal amino acid of Pup and a sulfhydryl side group of a cysteine residue.",
+  "namespace": "molecular_function",
+  "label": "Pup conjugating enzyme activity"
+}

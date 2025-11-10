@@ -1,0 +1,47 @@
+{
+  "id": "GO:0035243",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035243",
+  "relationships": {
+    "is_a": [
+      "GO:0016274"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein arginine omega-N symmetric methylase activity",
+      "protein arginine omega-N symmetric methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:[protein]-L-arginine N-methyltransferase ([protein]-Nomega,Nomega&apos;-dimethyl-L-arginine-forming)",
+      "type II PRMT activity",
+      "type II protein arginine methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.320",
+      "2.1.1.320",
+      "2.1.1.320"
+    ],
+    "RESID": [
+      "AA0067",
+      "AA0069",
+      "AA0067",
+      "AA0069"
+    ],
+    "RHEA": [
+      "48108"
+    ],
+    "Reactome": [
+      "R-HSA-6804383"
+    ],
+    "PMID": [
+      "14705965"
+    ]
+  },
+  "definition": "Catalysis of the addition of a second methyl group to methylated peptidyl-arginine. Methylation is on the terminal nitrogen (omega nitrogen) residue that is not already methylated, resulting in symmetrical peptidyl-N(omega),N&apos;(omega)-dimethyled arginine residues.",
+  "namespace": "molecular_function",
+  "label": "PRMT5 methylates TP53"
+}

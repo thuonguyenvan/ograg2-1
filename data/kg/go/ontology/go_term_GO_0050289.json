@@ -1,0 +1,36 @@
+{
+  "id": "GO:0050289",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050289",
+  "relationships": {
+    "is_a": [
+      "GO:0016645"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "spermidine:(acceptor) oxidoreductase activity",
+      "spermidine:acceptor oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.99.6",
+      "1.5.99.6",
+      "1.5.99.6",
+      "1.5.99.6"
+    ],
+    "MetaCyc": [
+      "SPERMIDINE-DEHYDROGENASE-RXN",
+      "SPERMIDINE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "14273"
+    ]
+  },
+  "definition": "Catalysis of the reaction: spermidine + acceptor + H2O = 1,3-diaminopropane + 4-aminobutanal + reduced acceptor.",
+  "namespace": "molecular_function",
+  "label": "spermidine dehydrogenase activity"
+}

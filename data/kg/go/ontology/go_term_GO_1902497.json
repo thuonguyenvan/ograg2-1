@@ -1,0 +1,30 @@
+{
+  "id": "GO:1902497",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902497",
+  "relationships": {
+    "is_a": [
+      "GO:0034755",
+      "GO:1901678"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "iron-sulfur cluster transport"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dph"
+    ],
+    "PMID": [
+      "19810706"
+    ]
+  },
+  "definition": "A process in which an iron-sulfur cluster is transported from one side of a membrane to the other by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "iron-sulfur cluster transmembrane transport"
+}

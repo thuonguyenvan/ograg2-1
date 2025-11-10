@@ -1,0 +1,34 @@
+{
+  "id": "GO:0002626",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002626",
+  "relationships": {
+    "is_a": [
+      "GO:0002578",
+      "GO:0002625",
+      "GO:0002710"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of T cell antigen processing and presentation",
+      "down-regulation of T cell antigen processing and presentation",
+      "downregulation of T cell antigen processing and presentation",
+      "negative regulation of T lymphocyte antigen processing and presentation",
+      "negative regulation of T-cell antigen processing and presentation",
+      "negative regulation of T-lymphocyte antigen processing and presentation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of T cell antigen processing and presentation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate, or extent of T cell antigen processing and presentation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of T cell antigen processing and presentation"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0019336",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019336",
+  "relationships": {
+    "is_a": [
+      "GO:0009056",
+      "GO:0018958"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phenol-containing compound breakdown",
+      "phenol-containing compound catabolism",
+      "phenol-containing compound degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PHENOLDEG-PWY"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a phenol, any compound containing one or more hydroxyl groups directly attached to an aromatic carbon ring.",
+  "namespace": "biological_process",
+  "label": "phenol-containing compound catabolic process"
+}

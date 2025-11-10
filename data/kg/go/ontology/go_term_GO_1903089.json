@@ -1,0 +1,33 @@
+{
+  "id": "GO:1903089",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903089",
+  "relationships": {
+    "is_a": [
+      "GO:0042887",
+      "GO:1901474",
+      "GO:1901505"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acadesine transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000066"
+    ],
+    "PMID": [
+      "24778186"
+    ]
+  },
+  "definition": "Enables the transfer of 5-amino-1-ribofuranosylimidazole-4-carboxamide from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "5-amino-1-ribofuranosylimidazole-4-carboxamide transmembrane transporter activity"
+}

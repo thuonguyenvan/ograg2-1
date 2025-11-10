@@ -1,0 +1,43 @@
+{
+  "id": "GO:0018786",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018786",
+  "relationships": {
+    "is_a": [
+      "GO:0019120"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-chlorohexane halidohydrolase activity",
+      "1-haloalkane dehalogenase activity",
+      "1-haloalkane halidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.8.1.5",
+      "3.8.1.5",
+      "3.8.1.5",
+      "3.8.1.5"
+    ],
+    "MetaCyc": [
+      "HALOALKANE-DEHALOGENASE-RXN"
+    ],
+    "RHEA": [
+      "19081",
+      "19081"
+    ],
+    "UM-BBD_enzymeID": [
+      "r0001"
+    ],
+    "PMID": [
+      "3624201"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-haloalkane + H2O = a primary alcohol + halide.",
+  "namespace": "molecular_function",
+  "label": "haloalkane dehalogenase activity"
+}

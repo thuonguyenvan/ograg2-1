@@ -1,0 +1,31 @@
+{
+  "id": "GO:0042106",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042106",
+  "relationships": {
+    "is_a": [
+      "GO:0042101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "gamma-delta T lymphocyte receptor complex",
+      "gamma-delta T-cell receptor complex",
+      "gamma-delta T-lymphocyte receptor complex",
+      "gamma-delta TCR complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "A T cell receptor complex in which the TCR heterodimer comprises gamma and delta chains, associated with the CD3 complex; recognizes antigen directly, without a requirement for processing and presentation by an MHC protein.",
+  "namespace": "cellular_component",
+  "label": "gamma-delta T cell receptor complex"
+}

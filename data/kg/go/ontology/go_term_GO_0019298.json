@@ -1,0 +1,33 @@
+{
+  "id": "GO:0019298",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019298",
+  "relationships": {
+    "is_a": [
+      "GO:0006793",
+      "GO:0042398",
+      "GO:0072330"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "coenzyme B anabolism",
+      "coenzyme B biosynthesis",
+      "coenzyme B formation",
+      "coenzyme B synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P241-PWY"
+    ],
+    "PMID": [
+      "10940051"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of coenzyme B (7-mercaptoheptanoylthreonine phosphate), a coenzyme involved in the utilization of methane by methanogenic prokaryotes.",
+  "namespace": "biological_process",
+  "label": "coenzyme B biosynthetic process"
+}

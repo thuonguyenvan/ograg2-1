@@ -1,0 +1,27 @@
+{
+  "id": "GO:0098620",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098620",
+  "relationships": {
+    "is_a": [
+      "GO:0016773",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2408507"
+    ],
+    "PMID": [
+      "15317934"
+    ]
+  },
+  "definition": "Catalysis of the reaction: Ser-tRNA(Sec) + ATP = Sep-tRNA(Sec) + ADP.",
+  "namespace": "molecular_function",
+  "label": "Ser-tRNA(Sec) is phosphorylated to Sep-tRNA(Sec) by PSTK"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "GO:0033876",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033876",
+  "relationships": {
+    "is_a": [
+      "GO:0008146"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "bile acid:3&apos;-phosphoadenosine-5&apos;-phosphosulfate sulfotransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "3&apos;-phosphoadenylyl-sulfate:glycochenodeoxycholate 7-sulfotransferase activity",
+      "BAST",
+      "bile acid:PAPS:sulfotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.34",
+      "2.8.2.34",
+      "2.8.2.34",
+      "2.8.2.34",
+      "2.8.2.34",
+      "2.8.2.34"
+    ],
+    "KEGG_REACTION": [
+      "R07289"
+    ],
+    "MetaCyc": [
+      "2.8.2.34-RXN"
+    ],
+    "RHEA": [
+      "17689",
+      "17689"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;-phospho-5&apos;-adenylyl sulfate + glycochenodeoxycholate = adenosine 3&apos;,5&apos;-diphosphate + glycochenodeoxycholate 7-sulfate + H+.",
+  "namespace": "molecular_function",
+  "label": "glycochenodeoxycholate sulfotransferase activity"
+}

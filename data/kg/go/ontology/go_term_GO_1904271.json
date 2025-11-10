@@ -1,0 +1,33 @@
+{
+  "id": "GO:1904271",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904271",
+  "relationships": {
+    "is_a": [
+      "GO:1904555",
+      "GO:1905647"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-proline import into cell"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "kmv"
+    ],
+    "GO_REF": [
+      "0000075"
+    ],
+    "PMID": [
+      "21097500"
+    ]
+  },
+  "definition": "The directed movement of L-proline from outside of a cell, across the plasma membrane and into the cytosol.",
+  "namespace": "biological_process",
+  "label": "L-proline import across plasma membrane"
+}

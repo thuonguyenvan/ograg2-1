@@ -1,0 +1,27 @@
+{
+  "id": "GO:0042023",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042023",
+  "relationships": {
+    "is_a": [
+      "GO:0044786"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA endoreplication",
+      "DNA re-duplication"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "vw"
+    ]
+  },
+  "definition": "Regulated re-replication of DNA within a single cell cycle, resulting in an increased cell ploidy. An example of this process occurs in the synthesis of Drosophila salivary gland cell polytene chromosomes.",
+  "namespace": "biological_process",
+  "label": "DNA endoreduplication"
+}

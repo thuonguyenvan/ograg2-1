@@ -1,0 +1,81 @@
+{
+  "id": "GO:1902680",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902680",
+  "relationships": {
+    "is_a": [
+      "GO:0010557",
+      "GO:0051254",
+      "GO:2001141"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of RNA anabolism",
+      "positive regulation of RNA biosynthesis",
+      "positive regulation of RNA formation",
+      "positive regulation of RNA synthesis",
+      "up regulation of RNA anabolism",
+      "up regulation of RNA biosynthesis",
+      "up regulation of RNA biosynthetic process",
+      "up regulation of RNA formation",
+      "up regulation of RNA synthesis",
+      "up-regulation of RNA anabolism",
+      "up-regulation of RNA biosynthesis",
+      "up-regulation of RNA biosynthetic process",
+      "up-regulation of RNA formation",
+      "up-regulation of RNA synthesis",
+      "upregulation of RNA anabolism",
+      "upregulation of RNA biosynthesis",
+      "upregulation of RNA biosynthetic process",
+      "upregulation of RNA formation",
+      "upregulation of RNA synthesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of RNA anabolism",
+      "activation of RNA biosynthesis",
+      "activation of RNA biosynthetic process",
+      "activation of RNA formation",
+      "activation of RNA synthesis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GO": [
+      "jl"
+    ],
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of RNA biosynthetic process.",
+  "namespace": "biological_process",
+  "label": "positive regulation of RNA biosynthetic process"
+}

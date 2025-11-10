@@ -1,0 +1,34 @@
+{
+  "id": "GO:0031982",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031982",
+  "relationships": {
+    "is_a": [
+      "GO:0043227"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "membrane-bounded vesicle",
+      "membrane-enclosed vesicle"
+    ]
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao221389602"
+    ],
+    "Wikipedia": [
+      "Vesicle_(biology)"
+    ],
+    "GOC": [
+      "mah",
+      "pz",
+      "vesicles"
+    ]
+  },
+  "definition": "Any small, fluid-filled, spherical organelle enclosed by membrane.",
+  "namespace": "cellular_component",
+  "label": "vesicle"
+}

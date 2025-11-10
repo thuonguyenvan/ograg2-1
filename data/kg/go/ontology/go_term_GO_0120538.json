@@ -1,0 +1,30 @@
+{
+  "id": "GO:0120538",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120538",
+  "relationships": {
+    "is_a": [
+      "GO:0016713"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.15.46"
+    ],
+    "RHEA": [
+      "81183",
+      "81183"
+    ],
+    "PMID": [
+      "38425362"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-methoxy-6-(all-trans-polyprenyl)phenol + 2 reduced [2Fe-2S]-[ferredoxin] + O2 + 2 H+ = 2-methoxy-6-(all-trans-polyprenyl)benzene-1,4-diol + 2 oxidized [2Fe-2S]-[ferredoxin] + H2O.",
+  "namespace": "molecular_function",
+  "label": "2-methoxy-6-polyprenolphenol 4-hydroxylase activity"
+}

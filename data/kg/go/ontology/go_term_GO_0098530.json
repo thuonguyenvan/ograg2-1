@@ -1,0 +1,35 @@
+{
+  "id": "GO:0098530",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098530",
+  "relationships": {
+    "is_a": [
+      "GO:0051054",
+      "GO:0060542"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of Rad51-mediated strand invasion"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of D-loop biosynthesis",
+      "positive regulation of D-loop formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dos",
+      "dph",
+      "elh",
+      "tb",
+      "elh",
+      "elh",
+      "elh"
+    ]
+  },
+  "definition": "Any process that increases the rate, frequency or extent of strand invasion. Strand invasion is the process in which the nucleoprotein complex (composed of the broken single-strand DNA and the recombinase) searches and identifies a region of homology in intact duplex DNA. The broken single-strand DNA displaces the like strand and forms Watson-Crick base pairs with its complement, forming a duplex in which each strand is from one of the two recombining DNA molecules.",
+  "namespace": "biological_process",
+  "label": "positive regulation of strand invasion"
+}

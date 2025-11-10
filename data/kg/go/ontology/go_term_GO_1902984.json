@@ -1,0 +1,38 @@
+{
+  "id": "GO:1902984",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902984",
+  "relationships": {
+    "is_a": [
+      "GO:0006267",
+      "GO:1903046"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nuclear pre-replicative complex assembly involved in meiotic cell cycle",
+      "pre-replicative complex assembly involved in meiotic cell cycle DNA replication"
+    ],
+    "broad": [
+      "pre-RC complex assembly involved in meiosis",
+      "pre-replicative complex assembly involved in meiosis",
+      "pre-replicative complex formation involved in meiosis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000060"
+    ]
+  },
+  "definition": "Any pre-replicative complex assembly involved in meiotic cell cycle DNA replication.",
+  "namespace": "biological_process",
+  "label": "pre-replicative complex assembly involved in premeiotic DNA replication"
+}

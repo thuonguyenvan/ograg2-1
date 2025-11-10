@@ -1,0 +1,45 @@
+{
+  "id": "GO:0004783",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004783",
+  "relationships": {
+    "is_a": [
+      "GO:0016002",
+      "GO:0016668"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulphite reductase (NADPH) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "H2S-NADP oxidoreductase activity",
+      "NADPH-dependent sulfite reductase activity",
+      "NADPH-sulfite reductase activity",
+      "NADPH:sulfite reductase flavoprotein",
+      "hydrogen-sulfide:NADP+ oxidoreductase activity",
+      "sulfite (reduced nicotinamide adenine dinucleotide phosphate) reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.1.2",
+      "1.8.1.2",
+      "1.8.1.2",
+      "1.8.1.2",
+      "1.8.1.2",
+      "1.8.1.2"
+    ],
+    "MetaCyc": [
+      "SULFITE-REDUCT-RXN"
+    ],
+    "RHEA": [
+      "13801",
+      "13801"
+    ]
+  },
+  "definition": "Catalysis of the reaction: hydrogen sulfide + 3 NADP+ + 3 H2O = sulfite + 3 NADPH + 3 H+.",
+  "namespace": "molecular_function",
+  "label": "sulfite reductase (NADPH) activity"
+}

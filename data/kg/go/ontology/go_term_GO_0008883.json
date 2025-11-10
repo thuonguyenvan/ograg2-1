@@ -1,0 +1,38 @@
+{
+  "id": "GO:0008883",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008883",
+  "relationships": {
+    "is_a": [
+      "GO:0016620",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-glutamate-semialdehyde: NADP+ oxidoreductase (L-glutamyl-tRNAGlu-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.70",
+      "1.2.1.70",
+      "1.2.1.70"
+    ],
+    "KEGG_REACTION": [
+      "R04109"
+    ],
+    "MetaCyc": [
+      "GLUTRNAREDUCT-RXN"
+    ],
+    "RHEA": [
+      "12344",
+      "12344"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-4-amino-5-oxopentanoate + NADP+ + tRNA(Glu) = L-glutamyl-tRNA(Glu) + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "glutamyl-tRNA reductase activity"
+}

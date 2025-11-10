@@ -1,0 +1,33 @@
+{
+  "id": "GO:0004896",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004896",
+  "relationships": {
+    "is_a": [
+      "GO:0004888",
+      "GO:0140375"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "IL receptor",
+      "interleukin receptor activity"
+    ],
+    "related": [
+      "hematopoietin/interferon-class (D200-domain) cytokine receptor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mah"
+    ],
+    "http": [
+      "//wiki.geneontology.org/index.php/Why_isn%27t_interleukin_in_GO%3F"
+    ]
+  },
+  "definition": "Combining with a cytokine and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.",
+  "namespace": "molecular_function",
+  "label": "cytokine receptor activity"
+}

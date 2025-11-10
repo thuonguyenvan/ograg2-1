@@ -1,0 +1,29 @@
+{
+  "id": "GO:0000907",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000907",
+  "relationships": {
+    "is_a": [
+      "GO:0016706"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulfonate/alpha-ketoglutarate dioxygenase activity",
+      "sulphonate dioxygenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "clt"
+    ],
+    "PMID": [
+      "10482536"
+    ]
+  },
+  "definition": "Catalysis of the reaction: sulfonate + 2-oxoglutarate + O2 = sulfite + aminoacetaldehyde + succinate + CO2.",
+  "namespace": "molecular_function",
+  "label": "sulfonate dioxygenase activity"
+}

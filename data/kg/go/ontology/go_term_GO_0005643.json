@@ -1,0 +1,41 @@
+{
+  "id": "GO:0005643",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005643",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NPC",
+      "nuclear pore complex",
+      "nucleopore"
+    ],
+    "broad": [],
+    "narrow": [
+      "nuclear pore membrane protein"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao220861693"
+    ],
+    "Wikipedia": [
+      "Nuclear_pore"
+    ],
+    "ISBN": [
+      "0198547684"
+    ],
+    "GOC": [
+      "al"
+    ],
+    "PMID": [
+      "7603572"
+    ]
+  },
+  "definition": "A protein complex providing a discrete opening in the nuclear envelope of a eukaryotic cell, where the inner and outer nuclear membranes are joined.",
+  "namespace": "cellular_component",
+  "label": "nuclear pore"
+}

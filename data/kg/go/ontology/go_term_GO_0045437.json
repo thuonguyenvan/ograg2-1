@@ -1,0 +1,39 @@
+{
+  "id": "GO:0045437",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045437",
+  "relationships": {
+    "is_a": [
+      "GO:0050263"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "uridine hydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "uridine ribohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.2.3",
+      "3.2.2.3",
+      "3.2.2.3"
+    ],
+    "KEGG_REACTION": [
+      "R01080"
+    ],
+    "MetaCyc": [
+      "URIDINE-NUCLEOSIDASE-RXN"
+    ],
+    "RHEA": [
+      "15577",
+      "15577"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + uridine = ribofuranose + uracil.",
+  "namespace": "molecular_function",
+  "label": "uridine nucleosidase activity"
+}

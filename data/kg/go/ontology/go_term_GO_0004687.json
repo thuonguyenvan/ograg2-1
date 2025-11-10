@@ -1,0 +1,65 @@
+{
+  "id": "GO:0004687",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004687",
+  "relationships": {
+    "is_a": [
+      "GO:0004674"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "myosin-light-chain kinase activity"
+    ],
+    "broad": [
+      "ATP:myosin-light-chain O-phosphotransferase",
+      "myosin light-chain kinase"
+    ],
+    "narrow": [
+      "smooth-muscle-myosin-light-chain kinase activity"
+    ],
+    "related": [
+      "ATP:myosin-light-chain O-phosphotransferase activity",
+      "MLCK",
+      "MLCkase activity",
+      "STK18",
+      "calcium/calmodulin-dependent myosin light chain kinase activity",
+      "myosin kinase activity",
+      "myosin light chain protein kinase activity",
+      "myosin light-chain kinase (phosphorylating)",
+      "myosin light-chain kinase (phosphorylating) activity",
+      "myosin light-chain kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.11.18",
+      "2.7.11.18",
+      "2.7.11.18",
+      "2.7.11.18",
+      "2.7.11.18",
+      "2.7.11.18",
+      "2.7.11.18",
+      "2.7.11.18",
+      "2.7.11.18",
+      "2.7.11.18",
+      "2.7.11.18",
+      "2.7.11.18",
+      "2.7.11.18",
+      "2.7.11.18",
+      "2.7.11.18"
+    ],
+    "MetaCyc": [
+      "2.7.11.18-RXN"
+    ],
+    "RHEA": [
+      "22004"
+    ],
+    "Reactome": [
+      "R-HSA-445813",
+      "R-HSA-5668978"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + myosin-light-chain = ADP + myosin-light-chain phosphate.",
+  "namespace": "molecular_function",
+  "label": "MYLK (MLCK) phosphorylates MRLCs of the non-muscle myosin II complex"
+}

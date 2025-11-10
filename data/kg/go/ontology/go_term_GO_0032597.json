@@ -1,0 +1,29 @@
+{
+  "id": "GO:0032597",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032597",
+  "relationships": {
+    "is_a": [
+      "GO:0032595",
+      "GO:0032596"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "B cell receptor translocation into membrane raft",
+      "B cell receptor transport into lipid raft",
+      "BCR translocation into membrane raft",
+      "BCR transport into membrane raft"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The directed movement of a B cell receptor into a membrane raft.",
+  "namespace": "biological_process",
+  "label": "B cell receptor transport into membrane raft"
+}

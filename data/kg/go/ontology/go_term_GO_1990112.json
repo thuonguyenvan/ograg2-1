@@ -1,0 +1,32 @@
+{
+  "id": "GO:1990112",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990112",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ribosome quality control complex",
+      "ribosome-bound quality control complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rb"
+    ],
+    "PMID": [
+      "23178123",
+      "23232563",
+      "23178123",
+      "23232563"
+    ]
+  },
+  "definition": "A multiprotein complex that forms a stable complex with large ribosomal subunits (60S in eukaryotes and 50S in prokaryotes) containing stalled polypeptides and triggers their degradation (ribosomal quality control). In budding yeast, this complex includes Cdc48p, Rkr1p, Tae2p, Rqc1p, Npl4p and Ufd1p proteins.",
+  "namespace": "cellular_component",
+  "label": "RQC complex"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0071164",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071164",
+  "relationships": {
+    "is_a": [
+      "GO:0008173",
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA trimethylguanosine synthase activity",
+      "cap hypermethylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "small nuclear RNA methyltransferase activity",
+      "snRNA methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "11983179",
+      "18775984",
+      "11983179"
+    ],
+    "GOC": [
+      "rl",
+      "rl"
+    ]
+  },
+  "definition": "Catalysis of two successive methyl transfer reactions from AdoMet to the N-2 atom of guanosine, thereby converting 7-methylguanosine in an RNA cap to 2,2,7 trimethylguanosine.",
+  "namespace": "molecular_function",
+  "label": "RNA cap trimethylguanosine synthase activity"
+}

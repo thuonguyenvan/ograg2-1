@@ -1,0 +1,33 @@
+{
+  "id": "GO:0009226",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009226",
+  "relationships": {
+    "is_a": [
+      "GO:0009225",
+      "GO:1901137",
+      "GO:1901293"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nucleotide-sugar anabolism",
+      "nucleotide-sugar biosynthesis",
+      "nucleotide-sugar formation",
+      "nucleotide-sugar synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-173599"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of nucleotide-sugars, any nucleotide-carbohydrate in which the distal phosphoric residue of a nucleoside 5&apos;-diphosphate is in glycosidic linkage with a monosaccharide or monosaccharide derivative.",
+  "namespace": "biological_process",
+  "label": "Formation of the active cofactor, UDP-glucuronate"
+}

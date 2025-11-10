@@ -1,0 +1,38 @@
+{
+  "id": "GO:0043805",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043805",
+  "relationships": {
+    "is_a": [
+      "GO:0016625"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-(indol-3-yl)pyruvate synthase (ferredoxin) activity",
+      "3-(indol-3-yl)pyruvate:ferredoxin oxidoreductase (decarboxylating, CoA-indole-acetylating)",
+      "IOR",
+      "indolepyruvate oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.7.8",
+      "1.2.7.8",
+      "1.2.7.8",
+      "1.2.7.8",
+      "1.2.7.8"
+    ],
+    "MetaCyc": [
+      "1.2.7.8-RXN"
+    ],
+    "RHEA": [
+      "12645"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (indol-3-yl)pyruvate + CoA + oxidized ferredoxin = S-2-(indol-3-yl)acetyl-CoA + CO2 + reduced ferredoxin.",
+  "namespace": "molecular_function",
+  "label": "indolepyruvate ferredoxin oxidoreductase activity"
+}

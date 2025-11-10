@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102624",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102624",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-15529"
+    ],
+    "RHEA": [
+      "73239",
+      "73239"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + scutellarein 7-methyl ether = H+ + ladanein + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "scutellarein 7-methyl ether 4&apos;-O-methyltransferase activity"
+}

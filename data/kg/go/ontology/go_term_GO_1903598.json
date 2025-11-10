@@ -1,0 +1,43 @@
+{
+  "id": "GO:1903598",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903598",
+  "relationships": {
+    "is_a": [
+      "GO:1901890",
+      "GO:1903596"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of gap junction assembly",
+      "up-regulation of gap junction assembly",
+      "upregulation of gap junction assembly"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of gap junction assembly"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "mtg_cardiac_conduct_nov11",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25017399"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of gap junction assembly.",
+  "namespace": "biological_process",
+  "label": "positive regulation of gap junction assembly"
+}

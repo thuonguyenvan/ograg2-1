@@ -1,0 +1,33 @@
+{
+  "id": "GO:0002290",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002290",
+  "relationships": {
+    "is_a": [
+      "GO:0002286",
+      "GO:0046629"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "gamma-delta T cell activation during immune response",
+      "gamma-delta T lymphocyte activation during immune response",
+      "gamma-delta T-cell activation during immune response",
+      "gamma-delta T-lymphocyte activation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "tb"
+    ],
+    "PMID": [
+      "8717523"
+    ]
+  },
+  "definition": "The change in morphology and behavior of a gamma-delta T cell resulting from exposure to a mitogen, cytokine, chemokine, cellular ligand, or an antigen for which it is specific, leading to the initiation or perpetuation of an immune response.",
+  "namespace": "biological_process",
+  "label": "gamma-delta T cell activation involved in immune response"
+}

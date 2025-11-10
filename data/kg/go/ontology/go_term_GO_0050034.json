@@ -1,0 +1,37 @@
+{
+  "id": "GO:0050034",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050034",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-rhamnofuranose:NAD+ 1-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.173",
+      "1.1.1.173",
+      "1.1.1.173"
+    ],
+    "KEGG_REACTION": [
+      "R03942"
+    ],
+    "MetaCyc": [
+      "L-RHAMNOSE-1-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "12649",
+      "12649"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-rhamnofuranose + NAD+ = L-rhamnono-1,4-lactone + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "L-rhamnose 1-dehydrogenase activity"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0000016",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000016",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lactose galactohydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.108"
+    ],
+    "MetaCyc": [
+      "BETAGALACTOSID-RXN"
+    ],
+    "RHEA": [
+      "10076"
+    ],
+    "Reactome": [
+      "R-HSA-189062",
+      "R-HSA-5658001"
+    ],
+    "PMID": [
+      "12023280"
+    ]
+  },
+  "definition": "Catalysis of the reaction: lactose + H2O = D-glucose + D-galactose.",
+  "namespace": "molecular_function",
+  "label": "Defective LCT does not hydrolyze Lac"
+}

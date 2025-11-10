@@ -1,0 +1,37 @@
+{
+  "id": "GO:0034597",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034597",
+  "relationships": {
+    "is_a": [
+      "GO:0034596",
+      "GO:0106019"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1-phosphatidyl-1D-myo-inositol-4,5-bisphosphate 4-phosphohydrolase activity",
+      "phosphatidyl-myo-inositol-4,5-bisphosphate 4-phosphohydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.3.78"
+    ],
+    "RHEA": [
+      "25674",
+      "25674"
+    ],
+    "Reactome": [
+      "R-HSA-6810410"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate + H2O = 1-phosphatidyl-1D-myo-inositol 3-phosphate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "PI(4,5)P2 is dephosphorylated to PI5P by TMEM55B in the nucleus"
+}

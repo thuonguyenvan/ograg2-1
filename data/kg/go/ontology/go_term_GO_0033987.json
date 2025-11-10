@@ -1,0 +1,32 @@
+{
+  "id": "GO:0033987",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033987",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,7,4&apos;-trihydroxyisoflavanone hydro-lyase (daidzein-forming) activity",
+      "2,7,4&apos;-trihydroxyisoflavanone hydro-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.105",
+      "4.2.1.105",
+      "4.2.1.105",
+      "4.2.1.105"
+    ],
+    "MetaCyc": [
+      "RXN-3284"
+    ]
+  },
+  "definition": "Catalysis of the reactions: (2R,3S)-2,4&apos;,7-trihydroxyisoflavanone = daidzein + H+ + H2O, and 2-hydroxy-2,3-dihydrogenistein = genistein + H+ + H2O.",
+  "namespace": "molecular_function",
+  "label": "2-hydroxyisoflavanone dehydratase activity"
+}

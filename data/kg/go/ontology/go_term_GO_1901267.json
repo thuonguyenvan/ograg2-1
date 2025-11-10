@@ -1,0 +1,37 @@
+{
+  "id": "GO:1901267",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901267",
+  "relationships": {
+    "is_a": [
+      "GO:0030655",
+      "GO:0044273",
+      "GO:0046395",
+      "GO:1901266"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cephalosporin C breakdown",
+      "cephalosporin C catabolism",
+      "cephalosporin C degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "UniPathway": [
+      "UPA00172"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of cephalosporin C.",
+  "namespace": "biological_process",
+  "label": "cephalosporin C catabolic process"
+}

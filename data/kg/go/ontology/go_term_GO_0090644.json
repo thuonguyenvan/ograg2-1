@@ -1,0 +1,35 @@
+{
+  "id": "GO:0090644",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090644",
+  "relationships": {
+    "is_a": [
+      "GO:0032502",
+      "GO:0045087"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ARR"
+    ],
+    "broad": [
+      "developmental resistance",
+      "ontogenic resistance"
+    ],
+    "narrow": [
+      "adult seedling resistance",
+      "flowering-induced resistance",
+      "mature seedling resistance",
+      "senescence-induced resistance"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "17635216",
+      "19694953"
+    ]
+  },
+  "definition": "An innate immune response that is positively correlated with host plant development. As a plant develops, its innate resistance to pathogenic infections increases. The mechanisms involved in age-related resistance differ in nature or in aspects of regulation from the hypersensitive response (HR), systemic acquired resistance (SAR), or induced systemic resistance (ISR).",
+  "namespace": "biological_process",
+  "label": "age-related resistance"
+}

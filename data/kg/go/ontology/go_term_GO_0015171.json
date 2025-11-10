@@ -1,0 +1,81 @@
+{
+  "id": "GO:0015171",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015171",
+  "relationships": {
+    "is_a": [
+      "GO:0022857"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "amino acid permease activity"
+    ],
+    "broad": [
+      "amino acid transporter activity"
+    ],
+    "narrow": [
+      "amino acid/choline transmembrane transporter activity"
+    ],
+    "related": [
+      "general amino acid permease activity",
+      "hydroxy/aromatic amino acid permease activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-210439",
+      "R-HSA-212642",
+      "R-HSA-351987",
+      "R-HSA-352029",
+      "R-HSA-352052",
+      "R-HSA-352059",
+      "R-HSA-352103",
+      "R-HSA-352107",
+      "R-HSA-352108",
+      "R-HSA-352119",
+      "R-HSA-352136",
+      "R-HSA-352158",
+      "R-HSA-352174",
+      "R-HSA-352182",
+      "R-HSA-352191",
+      "R-HSA-352347",
+      "R-HSA-352354",
+      "R-HSA-352364",
+      "R-HSA-352371",
+      "R-HSA-352379",
+      "R-HSA-352385",
+      "R-HSA-375405",
+      "R-HSA-375417",
+      "R-HSA-375473",
+      "R-HSA-375487",
+      "R-HSA-375768",
+      "R-HSA-375770",
+      "R-HSA-375776",
+      "R-HSA-375790",
+      "R-HSA-376200",
+      "R-HSA-378513",
+      "R-HSA-379415",
+      "R-HSA-379426",
+      "R-HSA-379432",
+      "R-HSA-5653850",
+      "R-HSA-5655702",
+      "R-HSA-5659674",
+      "R-HSA-5659734",
+      "R-HSA-5660694",
+      "R-HSA-5660890",
+      "R-HSA-5660910",
+      "R-HSA-888592",
+      "R-HSA-8952726"
+    ],
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of amino acids from one side of a membrane to the other. Amino acids are organic molecules that contain an amino group and a carboxyl group.",
+  "namespace": "molecular_function",
+  "label": "SLC38A9 transports L-Arg from lysosomal lumen to cytosol"
+}

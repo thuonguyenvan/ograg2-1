@@ -1,0 +1,34 @@
+{
+  "id": "GO:0036398",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036398",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LAT signalosome",
+      "linker for activation of T cells signalosome"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "krc"
+    ],
+    "PMID": [
+      "17534068",
+      "20107804",
+      "22426112",
+      "17534068",
+      "17534068"
+    ]
+  },
+  "definition": "A multi-protein complex containing at least the T-cell receptor complex and the LAT (linker for activation of T cells) scaffold protein. Also contains a variety of signaling proteins including co-receptors, kinases, phosphatases and adaptors such as CD8. Connects events on the plasma membrane to distal signaling cascades to ultimately modulate T cell biology.",
+  "namespace": "cellular_component",
+  "label": "TCR signalosome"
+}

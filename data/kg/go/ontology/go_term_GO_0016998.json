@@ -1,0 +1,39 @@
+{
+  "id": "GO:0016998",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016998",
+  "relationships": {
+    "is_a": [
+      "GO:0009057",
+      "GO:0044036"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular cell wall macromolecule breakdown",
+      "cellular cell wall macromolecule catabolic process",
+      "cellular cell wall macromolecule catabolism",
+      "cellular cell wall macromolecule degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cell wall breakdown",
+      "cell wall catabolism",
+      "cell wall degradation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of macromolecules that form part of a cell wall.",
+  "namespace": "biological_process",
+  "label": "cell wall macromolecule catabolic process"
+}

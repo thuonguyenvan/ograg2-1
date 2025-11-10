@@ -1,0 +1,39 @@
+{
+  "id": "GO:0046998",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046998",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-usnic acid dehydrogenase activity",
+      "reduced-(S)-usnate:NAD+ oxidoreductase (ether-bond-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.199",
+      "1.1.1.199",
+      "1.1.1.199",
+      "1.1.1.199"
+    ],
+    "KEGG_REACTION": [
+      "R07345"
+    ],
+    "MetaCyc": [
+      "1.1.1.199-RXN"
+    ],
+    "RHEA": [
+      "21876",
+      "21876"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (6R)-2-acetyl-6-(3-acetyl-2,4,6-trihydroxy-5-methylphenyl)-3-hydroxy-6-methylcyclohexa-2,4-dien-1-one + NAD+ = (S)-usnate + 2 H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "(S)-usnate reductase activity"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0016118",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016118",
+  "relationships": {
+    "is_a": [
+      "GO:0016110",
+      "GO:0016116"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "carotenoid breakdown",
+      "carotenoid catabolism",
+      "carotenoid degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of carotenoids, tetraterpenoid compounds in which two units of 4 isoprenoid residues joined head-to-tail are themselves joined tail-to-tail.",
+  "namespace": "biological_process",
+  "label": "carotenoid catabolic process"
+}

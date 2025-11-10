@@ -1,0 +1,40 @@
+{
+  "id": "GO:0008902",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008902",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:4-amino-5-hydroxymethyl-2-methylpyrimidine 5-phosphotransferase activity",
+      "hydroxymethylpyrimidine kinase (phosphorylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.49",
+      "2.7.1.49",
+      "2.7.1.49",
+      "2.7.1.49"
+    ],
+    "KEGG_REACTION": [
+      "R03471"
+    ],
+    "MetaCyc": [
+      "OHMETPYRKIN-RXN"
+    ],
+    "RHEA": [
+      "23096",
+      "23096"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-amino-5-hydroxymethyl-2-methylpyrimidine + ATP = 4-amino-2-methyl-5-phosphomethylpyrimidine + ADP + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "hydroxymethylpyrimidine kinase activity"
+}

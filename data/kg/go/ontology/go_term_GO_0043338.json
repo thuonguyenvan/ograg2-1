@@ -1,0 +1,37 @@
+{
+  "id": "GO:0043338",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043338",
+  "relationships": {
+    "is_a": [
+      "GO:0070567"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CTP:2,3-di-O-geranylgeranyl-sn-glycero-1-phosphate cytidyltransferase activity"
+    ],
+    "broad": [
+      "CDP-2,3-di-O-geranylgeranyl-sn-glycerol synthase"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.67"
+    ],
+    "RHEA": [
+      "25690",
+      "25690"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "10960477"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,3-bis-O-(geranylgeranyl)-sn-glycerol 1-phosphate + CTP + H+ = CDP-2,3-bis-O-(geranylgeranyl)-sn-glycerol + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase activity"
+}

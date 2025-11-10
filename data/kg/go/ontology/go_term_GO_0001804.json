@@ -1,0 +1,35 @@
+{
+  "id": "GO:0001804",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001804",
+  "relationships": {
+    "is_a": [
+      "GO:0001803",
+      "GO:0002884",
+      "GO:0002887",
+      "GO:0002890"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of type III hypersensitivity",
+      "down-regulation of type III hypersensitivity",
+      "downregulation of type III hypersensitivity"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of type III hypersensitivity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the rate of type III hypersensitivity, a type of inflammatory response.",
+  "namespace": "biological_process",
+  "label": "negative regulation of type III hypersensitivity"
+}

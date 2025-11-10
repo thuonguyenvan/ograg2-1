@@ -1,0 +1,35 @@
+{
+  "id": "GO:0006103",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006103",
+  "relationships": {
+    "is_a": [
+      "GO:0043648"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-ketoglutarate metabolic process",
+      "2-ketoglutarate metabolism",
+      "2-oxoglutarate metabolism",
+      "alpha-ketoglutarate metabolic process",
+      "alpha-ketoglutarate metabolism",
+      "alpha-oxoglutarate metabolic process",
+      "alpha-oxoglutarate metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2978092",
+      "R-HSA-880009"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving oxoglutarate, the dianion of 2-oxoglutaric acid. It is a key constituent of the TCA cycle and a key intermediate in amino-acid metabolism.",
+  "namespace": "biological_process",
+  "label": "Interconversion of 2-oxoglutarate and 2-hydroxyglutarate"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0009094",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009094",
+  "relationships": {
+    "is_a": [
+      "GO:0006558",
+      "GO:0009095",
+      "GO:0170034",
+      "GO:0170038"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-phenylalanine anabolism",
+      "L-phenylalanine biosynthesis",
+      "L-phenylalanine formation",
+      "L-phenylalanine synthesis"
+    ],
+    "broad": [
+      "phenylalanine biosynthesis",
+      "phenylalanine biosynthetic process"
+    ],
+    "narrow": [],
+    "related": [
+      "phenylalanine biosynthetic process, prephenate pathway",
+      "phenylalanine biosynthetic process, shikimate pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jsg",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of L-phenylalanine, the L-enantiomer of 2-amino-3-phenylpropanoic acid, i.e. (2S)-2-amino-3-phenylpropanoic acid.",
+  "namespace": "biological_process",
+  "label": "L-phenylalanine biosynthetic process"
+}

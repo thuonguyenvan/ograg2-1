@@ -1,0 +1,29 @@
+{
+  "id": "GO:0010469",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010469",
+  "relationships": {
+    "is_a": [
+      "GO:0009966",
+      "GO:0065009"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of signalling receptor activity"
+    ],
+    "broad": [
+      "regulation of receptor activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of a signaling receptor activity. Receptor activity is when a molecule combines with an extracellular or intracellular messenger to initiate a change in cell activity.",
+  "namespace": "biological_process",
+  "label": "regulation of signaling receptor activity"
+}

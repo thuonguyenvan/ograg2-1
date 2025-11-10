@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102469",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102469",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-14069"
+    ],
+    "RHEA": [
+      "57588",
+      "57588"
+    ]
+  },
+  "definition": "Catalysis of the reaction:(2S)-naringenin + O2 + reduced [NADPH--hemoprotein reductase] = (2S)-2-hydroxynaringenin + H(+) + H2O + oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "naringenin 2-hydroxylase activity"
+}

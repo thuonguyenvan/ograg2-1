@@ -1,0 +1,43 @@
+{
+  "id": "GO:0004459",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004459",
+  "relationships": {
+    "is_a": [
+      "GO:0102443",
+      "GO:0140171"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "L-lactate dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "L-lactic acid dehydrogenase activity",
+      "L-lactic dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.27",
+      "1.1.1.27",
+      "1.1.1.27"
+    ],
+    "MetaCyc": [
+      "L-LACTATE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "23444",
+      "23444"
+    ],
+    "Reactome": [
+      "R-HSA-6807826",
+      "R-HSA-70510",
+      "R-HSA-71849"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-lactate + NAD+ = pyruvate + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "LDH tetramer reduces PYR to LACT"
+}

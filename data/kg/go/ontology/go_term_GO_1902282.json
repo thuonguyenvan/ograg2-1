@@ -1,0 +1,39 @@
+{
+  "id": "GO:1902282",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902282",
+  "relationships": {
+    "is_a": [
+      "GO:0086008"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "voltage-dependent potassium channel activity involved in ventricular cardiac muscle cell action potential",
+      "voltage-gated potassium ion channel activity involved in ventricular cardiac muscle cell action potential",
+      "voltage-sensitive potassium channel involved in ventricular cardiac muscle cell action potential"
+    ],
+    "broad": [],
+    "narrow": [
+      "voltage gated potassium channel activity involved in ventricular cardiac muscle cell action potential"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "mtg_cardiac_conduct_nov11",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "8528244"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of a potassium ion by a voltage-gated channel through the plasma membrane of a ventricular cardiomyocyte contributing to the repolarization phase of an action potential. A voltage-gated channel is a channel whose open state is dependent on the voltage across the membrane in which it is embedded.",
+  "namespace": "molecular_function",
+  "label": "voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization"
+}

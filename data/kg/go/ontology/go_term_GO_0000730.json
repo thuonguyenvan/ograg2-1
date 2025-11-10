@@ -1,0 +1,30 @@
+{
+  "id": "GO:0000730",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000730",
+  "relationships": {
+    "is_a": [
+      "GO:0065004",
+      "GO:0090735"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Rad51 nucleoprotein filament formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "10357855"
+    ],
+    "GOC": [
+      "elh",
+      "vw"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of strand exchange proteins (recombinases) into higher order oligomers on single-stranded DNA.",
+  "namespace": "biological_process",
+  "label": "DNA recombinase assembly"
+}

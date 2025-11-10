@@ -1,0 +1,30 @@
+{
+  "id": "GO:0030116",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030116",
+  "relationships": {
+    "is_a": [
+      "GO:0070851"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "glial cell line-derived neurotrophic factor receptor ligand"
+    ],
+    "related": [
+      "glial cell line-derived neurotrophic factor receptor binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "vw"
+    ],
+    "PMID": [
+      "11476867"
+    ]
+  },
+  "definition": "A growth factor that binds selectively and non-covalently to glial cell-derived neurotrophic factor receptors.",
+  "namespace": "molecular_function",
+  "label": "glial cell-derived neurotrophic factor receptor binding"
+}

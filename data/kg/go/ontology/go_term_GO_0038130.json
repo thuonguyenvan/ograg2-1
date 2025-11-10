@@ -1,0 +1,35 @@
+{
+  "id": "GO:0038130",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038130",
+  "relationships": {
+    "is_a": [
+      "GO:0038127"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ERBB4 signalling pathway",
+      "HER4 signaling pathway",
+      "receptor tyrosine-protein kinase erbB-4 signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jc",
+      "mah"
+    ],
+    "PMID": [
+      "16460914"
+    ],
+    "PR": [
+      "000007160",
+      "000007160"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by binding of a ligand to the tyrosine kinase receptor ERBB4 on the surface of a cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "ERBB4 signaling pathway"
+}

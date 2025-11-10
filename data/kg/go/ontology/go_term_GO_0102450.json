@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102450",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102450",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-13936"
+    ],
+    "RHEA": [
+      "74775",
+      "74775"
+    ]
+  },
+  "definition": "Catalysis of the reaction: kaempferide + S-adenosyl-L-methionine = 7,4&apos;-O-dimethylkaempferol + H+ + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "kaempferide 7-O-methyltransferase activity"
+}

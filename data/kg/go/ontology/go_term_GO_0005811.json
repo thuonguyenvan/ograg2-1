@@ -1,0 +1,28 @@
+{
+  "id": "GO:0005811",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005811",
+  "relationships": {
+    "is_a": [
+      "GO:0043232"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "adiposome",
+      "lipid body",
+      "lipid particle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "tb"
+    ]
+  },
+  "definition": "An intracellular non-membrane-bounded organelle comprising a matrix of coalesced lipids surrounded by a phospholipid monolayer. May include associated proteins.",
+  "namespace": "cellular_component",
+  "label": "lipid droplet"
+}

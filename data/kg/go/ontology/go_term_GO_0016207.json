@@ -1,0 +1,74 @@
+{
+  "id": "GO:0016207",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016207",
+  "relationships": {
+    "is_a": [
+      "GO:0016405",
+      "GO:0016878"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-coumarate-CoA synthetase activity",
+      "4-coumarate:CoA ligase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-coumarate:CoA ligase (AMP-forming)",
+      "4-coumarate:coenzyme A ligase activity",
+      "4-coumaroyl-CoA synthase activity",
+      "4-coumaroyl-CoA synthetase activity",
+      "4-coumaryl-CoA synthetase activity",
+      "4CL",
+      "caffeolyl coenzyme A synthetase activity",
+      "feruloyl CoA ligase activity",
+      "feruloyl coenzyme A synthetase activity",
+      "hydroxycinnamate:CoA ligase activity",
+      "hydroxycinnamoyl CoA synthetase activity",
+      "p-coumaroyl CoA ligase activity",
+      "p-coumaryl coenzyme A synthetase activity",
+      "p-coumaryl-CoA ligase activity",
+      "p-coumaryl-CoA synthetase activity",
+      "p-hydroxycinnamic acid:CoA ligase activity",
+      "p-hydroxycinnamoyl coenzyme A synthetase activity",
+      "sinapoyl coenzyme A synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12",
+      "6.2.1.12"
+    ],
+    "KEGG_REACTION": [
+      "R01616"
+    ],
+    "MetaCyc": [
+      "4-COUMARATE--COA-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "19641"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + 4-coumarate + CoA = AMP + diphosphate + 4-coumaroyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "4-coumarate-CoA ligase activity"
+}

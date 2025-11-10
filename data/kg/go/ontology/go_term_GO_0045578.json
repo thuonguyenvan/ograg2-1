@@ -1,0 +1,37 @@
+{
+  "id": "GO:0045578",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045578",
+  "relationships": {
+    "is_a": [
+      "GO:0045577",
+      "GO:0045620",
+      "GO:0050869"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of B cell differentiation",
+      "down-regulation of B cell differentiation",
+      "downregulation of B cell differentiation",
+      "negative regulation of B lymphocyte differentiation",
+      "negative regulation of B-cell differentiation",
+      "negative regulation of B-lymphocyte differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of B cell differentiation"
+    ],
+    "related": [
+      "negative regulation of B cell development"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "add"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of B cell differentiation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of B cell differentiation"
+}

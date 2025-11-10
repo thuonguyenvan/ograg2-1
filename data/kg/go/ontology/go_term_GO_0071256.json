@@ -1,0 +1,32 @@
+{
+  "id": "GO:0071256",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071256",
+  "relationships": {
+    "is_a": [
+      "GO:0098796",
+      "GO:0140534"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Sec complex-associated translocon complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "10611978",
+      "18166647",
+      "8612571"
+    ]
+  },
+  "definition": "A protein complex that constitutes a specific site of protein translocation across the endoplasmic reticulum, which involves the signal recognition particle receptor. The complex contains a core heterotrimer of alpha, beta and gamma subunits, and may contain additional proteins.",
+  "namespace": "cellular_component",
+  "label": "translocon complex"
+}

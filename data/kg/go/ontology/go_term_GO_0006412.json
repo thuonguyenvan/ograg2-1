@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006412",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006412",
+  "relationships": {
+    "is_a": [
+      "GO:0009059",
+      "GO:0019538"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein translation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-72766"
+    ],
+    "Wikipedia": [
+      "Translation_(genetics)"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The cellular metabolic process in which a protein is formed, using the sequence of a mature mRNA or circRNA molecule to specify the sequence of amino acids in a polypeptide chain. Translation is mediated by the ribosome, and begins with the formation of a ternary complex between aminoacylated initiator methionine tRNA, GTP, and initiation factor 2, which subsequently associates with the small subunit of the ribosome and an mRNA or circRNA. Translation ends with the release of a polypeptide chain from the ribosome.",
+  "namespace": "biological_process",
+  "label": "Translation"
+}

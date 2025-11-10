@@ -1,0 +1,46 @@
+{
+  "id": "GO:0039604",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039604",
+  "relationships": {
+    "is_a": [
+      "GO:0019057"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "host translation shutoff"
+    ],
+    "broad": [],
+    "narrow": [
+      "host mRNA cleavage by viral endoribonuclease",
+      "host translation shutoff by virus",
+      "suppression by virus of host translation",
+      "viral host shutoff protein",
+      "viral inhibition of cellular protein synthesis",
+      "viral shutoff of host protein synthesis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "1579",
+      "1579",
+      "1579"
+    ],
+    "PMID": [
+      "22046136",
+      "22174690",
+      "32703221",
+      "8643618"
+    ],
+    "GOC": [
+      "bf"
+    ],
+    "UniProtKB-KW": [
+      "KW-1193"
+    ]
+  },
+  "definition": "A process in which a symbiont inhibits or disrupts the translation of host mRNA into protein, for example by cleavage of the host mRNAs. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "Translation shutoff"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0051131",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051131",
+  "relationships": {
+    "is_a": [
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular chaperone-mediated protein complex assembly",
+      "protein complex assembly, multichaperone pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "chaperone activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form a protein complex, mediated by chaperone molecules that do not form part of the finished complex.",
+  "namespace": "biological_process",
+  "label": "chaperone-mediated protein complex assembly"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0015367",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015367",
+  "relationships": {
+    "is_a": [
+      "GO:0015139",
+      "GO:0015140",
+      "GO:0015297"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-oxoglutarate/malate carrier protein"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-198440",
+      "R-HSA-376851"
+    ],
+    "TC": [
+      "2.A.29.2.1"
+    ],
+    "Wikipedia": [
+      "Mitochondrial_carrier"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: oxoglutarate(out) + malate(in) = oxoglutarate(in) + malate(out).",
+  "namespace": "molecular_function",
+  "label": "SLC25A11 exchanges 2-OG and MAL"
+}

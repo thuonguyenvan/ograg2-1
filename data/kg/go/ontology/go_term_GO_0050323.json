@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050323",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050323",
+  "relationships": {
+    "is_a": [
+      "GO:0016638"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "taurine:(acceptor) oxidoreductase (deaminating)",
+      "taurine:acceptor oxidoreductase (deaminating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.99.2",
+      "1.4.99.2",
+      "1.4.99.2"
+    ],
+    "KEGG_REACTION": [
+      "R07167"
+    ],
+    "MetaCyc": [
+      "TAURINE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "18709",
+      "18709"
+    ],
+    "PMID": [
+      "15073291"
+    ]
+  },
+  "definition": "Catalysis of the reaction: A + H2O + taurine = AH(2) + NH4 + sulfoacetaldehyde.",
+  "namespace": "molecular_function",
+  "label": "taurine dehydrogenase activity"
+}

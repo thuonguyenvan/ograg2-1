@@ -1,0 +1,40 @@
+{
+  "id": "GO:0033752",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033752",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Dke1",
+      "acetylacetone dioxygenase activity",
+      "acetylacetone-cleaving enzyme",
+      "acetylacetone:oxygen oxidoreductase activity",
+      "diketone cleaving dioxygenase activity",
+      "diketone cleaving enzyme"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.50",
+      "1.13.11.50",
+      "1.13.11.50",
+      "1.13.11.50",
+      "1.13.11.50",
+      "1.13.11.50",
+      "1.13.11.50",
+      "1.13.11.50"
+    ],
+    "RHEA": [
+      "12877"
+    ]
+  },
+  "definition": "Catalysis of the reaction: pentane-2,4-dione + O2 = acetate + 2-oxopropanal.",
+  "namespace": "molecular_function",
+  "label": "acetylacetone-cleaving enzyme activity"
+}

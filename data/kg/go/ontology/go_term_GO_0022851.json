@@ -1,0 +1,28 @@
+{
+  "id": "GO:0022851",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022851",
+  "relationships": {
+    "is_a": [
+      "GO:0005254",
+      "GO:0022824",
+      "GO:0099095"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of a chloride ion by a channel that opens when GABA has been bound by the channel complex or one of its constituent parts.",
+  "namespace": "molecular_function",
+  "label": "GABA-gated chloride ion channel activity"
+}

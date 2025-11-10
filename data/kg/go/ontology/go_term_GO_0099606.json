@@ -1,0 +1,34 @@
+{
+  "id": "GO:0099606",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099606",
+  "relationships": {
+    "is_a": [
+      "GO:0007018",
+      "GO:0050000",
+      "GO:0051649",
+      "GO:0051656",
+      "GO:1903047"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "plus-end directed chromosome gliding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dos"
+    ],
+    "PMID": [
+      "26258632",
+      "26705896",
+      "26258632"
+    ]
+  },
+  "definition": "The cell cycle process in which chromosomes that are laterally attached to one or more mitotic spindle microtubules migrate towards the spindle equator via plus-end-directed movement along the microtubules. This process is part of mitotic metaphase plate congression.",
+  "namespace": "biological_process",
+  "label": "microtubule plus-end directed mitotic chromosome migration"
+}

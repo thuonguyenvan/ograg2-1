@@ -1,0 +1,28 @@
+{
+  "id": "GO:0062182",
+  "uri": "http://purl.obolibrary.org/obo/GO_0062182",
+  "relationships": {
+    "is_a": [
+      "GO:0008401"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "51492",
+      "51492"
+    ],
+    "PMID": [
+      "9250660",
+      "9716180"
+    ]
+  },
+  "definition": "Catalysis of the reaction: all-trans-retinoate + O2 + reduced [NADPH--hemoprotein reductase] = all-trans-(4S)-hydroxyretinoate + H+ + H2O + oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "all-trans retinoic acid 4-hydrolase activity"
+}

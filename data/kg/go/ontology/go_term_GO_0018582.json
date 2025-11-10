@@ -1,0 +1,43 @@
+{
+  "id": "GO:0018582",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018582",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1-hydroxy-2-naphthoate dioxygenase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "1-hydroxy-2-naphthoate-degrading enzyme activity"
+    ],
+    "related": [
+      "1-hydroxy-2-naphthoate:oxygen 1,2-oxidoreductase (decyclizing)",
+      "1-hydroxy-2-naphthoic acid dioxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.38",
+      "1.13.11.38",
+      "1.13.11.38",
+      "1.13.11.38",
+      "1.13.11.38"
+    ],
+    "MetaCyc": [
+      "1.13.11.38-RXN"
+    ],
+    "RHEA": [
+      "14749"
+    ],
+    "UM-BBD_reactionID": [
+      "r0486"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-hydroxy-2-naphthoate + O2 = (3E)-4-(2-carboxyphenyl)-2-oxobut-3-enoate.",
+  "namespace": "molecular_function",
+  "label": "1-hydroxy-2-naphthoate 1,2-dioxygenase activity"
+}

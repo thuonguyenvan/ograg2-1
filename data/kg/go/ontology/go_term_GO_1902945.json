@@ -1,0 +1,70 @@
+{
+  "id": "GO:1902945",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902945",
+  "relationships": {
+    "is_a": [
+      "GO:0004222"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "metalloendopeptidase activity involved in APP catabolic process",
+      "metalloendopeptidase activity involved in APP catabolism",
+      "metalloendopeptidase activity involved in amyloid precursor protein breakdown",
+      "metalloendopeptidase activity involved in amyloid precursor protein catabolism",
+      "metalloendopeptidase activity involved in amyloid precursor protein degradation"
+    ],
+    "broad": [],
+    "narrow": [
+      "metalloendoprotease activity involved in APP catabolic process",
+      "metalloendoprotease activity involved in APP catabolism",
+      "metalloendoprotease activity involved in amyloid precursor protein breakdown",
+      "metalloendoprotease activity involved in amyloid precursor protein catabolic process",
+      "metalloendoprotease activity involved in amyloid precursor protein catabolism",
+      "metalloendoprotease activity involved in amyloid precursor protein degradation",
+      "metalloendoproteinase activity involved in APP catabolic process",
+      "metalloendoproteinase activity involved in APP catabolism",
+      "metalloendoproteinase activity involved in amyloid precursor protein breakdown",
+      "metalloendoproteinase activity involved in amyloid precursor protein catabolic process",
+      "metalloendoproteinase activity involved in amyloid precursor protein catabolism",
+      "metalloendoproteinase activity involved in amyloid precursor protein degradation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9010034"
+    ],
+    "GOC": [
+      "TermGenie",
+      "sjp",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000061"
+    ],
+    "PMID": [
+      "14598310",
+      "17855360"
+    ]
+  },
+  "definition": "Any metalloendopeptidase activity that is involved in amyloid precursor protein catabolic process.",
+  "namespace": "molecular_function",
+  "label": "ADAM10:Zn2+:TSPANs cleaves APP(18-770)"
+}

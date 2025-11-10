@@ -1,0 +1,39 @@
+{
+  "id": "GO:0046567",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046567",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "9-alpha-copalyl-diphosphate diphosphate-lyase (aphidicolan-16-beta-ol-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.42",
+      "4.2.3.42",
+      "4.2.3.42"
+    ],
+    "KEGG_REACTION": [
+      "R06313"
+    ],
+    "MetaCyc": [
+      "RXN-10631"
+    ],
+    "RHEA": [
+      "26213"
+    ],
+    "PMID": [
+      "12149019"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 9-alpha-copalyl diphosphate + H2O = aphidicolan-16-beta-ol + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "aphidicolan-16 beta-ol synthase activity"
+}

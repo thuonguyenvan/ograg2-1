@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015451",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015451",
+  "relationships": {
+    "is_a": [
+      "GO:0015399"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "decarboxylation-driven transporter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "3.B",
+      "3.B.-.-.-"
+    ],
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Primary active transport of a solute across a membrane driven by decarboxylation of a cytoplasmic substrate. Primary active transport is catalysis of the transport of a solute across a membrane, up the solute&apos;s concentration gradient, by binding the solute and undergoing a series of conformational changes. Transport works equally well in either direction and is driven by a primary energy source.",
+  "namespace": "molecular_function",
+  "label": "decarboxylation-driven active transmembrane transporter activity"
+}

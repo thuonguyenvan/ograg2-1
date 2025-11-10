@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050203",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050203",
+  "relationships": {
+    "is_a": [
+      "GO:0016405",
+      "GO:0016878"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "oxalate:CoA ligase (AMP-forming)",
+      "oxalyl coenzyme A synthetase activity",
+      "oxalyl-CoA synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.2.1.8",
+      "6.2.1.8",
+      "6.2.1.8",
+      "6.2.1.8"
+    ],
+    "KEGG_REACTION": [
+      "R01558"
+    ],
+    "MetaCyc": [
+      "OXALATE--COA-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "18293",
+      "18293"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + CoA + oxalate = AMP + diphosphate + H+ + oxalyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "oxalate-CoA ligase activity"
+}

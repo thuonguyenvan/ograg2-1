@@ -1,0 +1,34 @@
+{
+  "id": "GO:0051701",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051701",
+  "relationships": {
+    "is_a": [
+      "GO:0044403"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "interaction with host"
+    ],
+    "broad": [],
+    "narrow": [
+      "growth of symbiont in host",
+      "growth of symbiont in host cell",
+      "growth of symbiont in host organelle",
+      "growth of symbiont in host vacuole"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9635486",
+      "R-HSA-9658195"
+    ],
+    "GOC": [
+      "cc"
+    ]
+  },
+  "definition": "An interaction between two organisms living together in more or less intimate association. The term host is used for the larger (macro) of the two members of a symbiosis; the various forms of symbiosis include parasitism, commensalism and mutualism.",
+  "namespace": "biological_process",
+  "label": "Leishmania infection"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0050968",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050968",
+  "relationships": {
+    "is_a": [
+      "GO:0050907",
+      "GO:0062149"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "perception of pain, detection of chemical stimulus",
+      "perception of pain, sensory detection of chemical stimulus",
+      "perception of pain, sensory transduction of chemical stimulus",
+      "sensory detection of chemical stimulus during perception of pain",
+      "sensory transduction of chemical stimulus during perception of pain"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "chemical nociception"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "pr"
+    ]
+  },
+  "definition": "The series of events involved in the perception of pain in which a chemical stimulus is received and converted into a molecular signal.",
+  "namespace": "biological_process",
+  "label": "detection of chemical stimulus involved in sensory perception of pain"
+}

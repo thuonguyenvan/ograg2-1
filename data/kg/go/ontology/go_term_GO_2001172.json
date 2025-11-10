@@ -1,0 +1,30 @@
+{
+  "id": "GO:2001172",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001172",
+  "relationships": {
+    "is_a": [
+      "GO:0009896",
+      "GO:0062013",
+      "GO:2001154"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of ethanol fermentation",
+      "positive regulation of glucose fermentation to ethanol"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of glucose catabolic process to ethanol.",
+  "namespace": "biological_process",
+  "label": "positive regulation of glycolytic fermentation to ethanol"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0033193",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033193",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SAPHIRE complex",
+      "Swm complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Swm1/2 complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "vw"
+    ],
+    "PMID": [
+      "17371846",
+      "17434129",
+      "17440621",
+      "17371846",
+      "17440621",
+      "17440621"
+    ]
+  },
+  "definition": "A nucleosome-binding protein complex that comprises two SWIRM domain histone demethylases and two PHD finger proteins. The complex is involved in transcriptional regulation via heterochromatic silencing and the regulation of chromatin boundary formation, and was first identified in fission yeast.",
+  "namespace": "cellular_component",
+  "label": "Lsd1/2 complex"
+}

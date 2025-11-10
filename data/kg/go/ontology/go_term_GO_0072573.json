@@ -1,0 +1,33 @@
+{
+  "id": "GO:0072573",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072573",
+  "relationships": {
+    "is_a": [
+      "GO:0002507",
+      "GO:0031665"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tolerance induction to LPS"
+    ],
+    "broad": [
+      "tolerance induction to endotoxin"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "add",
+      "mah",
+      "add",
+      "mah"
+    ]
+  },
+  "definition": "Tolerance induction directed at lipopolysaccharide antigens.",
+  "namespace": "biological_process",
+  "label": "tolerance induction to lipopolysaccharide"
+}

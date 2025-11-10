@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047474",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047474",
+  "relationships": {
+    "is_a": [
+      "GO:0015645"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "long-chain fatty acid luciferin component ligase activity",
+      "long-chain-fatty-acid luciferin component ligase activity",
+      "long-chain-fatty-acid-luciferin-component ligase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acyl-protein synthetase activity",
+      "long-chain-fatty-acid:protein ligase (AMP-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.2.1.19",
+      "6.2.1.19",
+      "6.2.1.19",
+      "6.2.1.19"
+    ],
+    "MetaCyc": [
+      "6.2.1.19-RXN",
+      "6.2.1.19-RXN"
+    ],
+    "RHEA": [
+      "20101"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a long-chain fatty acid + ATP + L-cysteinyl-[protein] = AMP + diphosphate + S-(long-chain fatty acyl)-L-cysteinyl-[protein]. A long-chain fatty acid has an aliphatic tail containing 13 to 22 carbons.",
+  "namespace": "molecular_function",
+  "label": "long-chain fatty acid--protein ligase activity"
+}

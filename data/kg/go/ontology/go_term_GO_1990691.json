@@ -1,0 +1,30 @@
+{
+  "id": "GO:1990691",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990691",
+  "relationships": {
+    "is_a": [
+      "GO:0048210",
+      "GO:0048280"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cis-Golgi-derived vesicle fusion with medial-Golgi cisterna membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "16038056",
+      "24119662"
+    ]
+  },
+  "definition": "The joining of the lipid bilayer membrane around a cis-Golgi-derived vesicle to the lipid bilayer membrane around the medial-Golgi cisterna. Vesicles are involved in anterograde transport.",
+  "namespace": "biological_process",
+  "label": "cis-Golgi-derived vesicle fusion with Golgi medial cisterna membrane"
+}

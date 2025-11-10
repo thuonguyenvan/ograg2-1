@@ -1,0 +1,29 @@
+{
+  "id": "GO:0060261",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060261",
+  "relationships": {
+    "is_a": [
+      "GO:0045944",
+      "GO:0060260",
+      "GO:2000144"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of transcription initiation from RNA polymerase II promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb",
+      "txnOH"
+    ]
+  },
+  "definition": "Any process that increases the rate, frequency or extent of a process involved in starting transcription from an RNA polymerase II promoter.",
+  "namespace": "biological_process",
+  "label": "positive regulation of transcription initiation by RNA polymerase II"
+}

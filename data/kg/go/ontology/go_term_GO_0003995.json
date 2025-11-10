@@ -1,0 +1,49 @@
+{
+  "id": "GO:0003995",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003995",
+  "relationships": {
+    "is_a": [
+      "GO:0052890"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acyl CoA dehydrogenase activity",
+      "acyl coenzyme A dehydrogenase activity",
+      "acyl-CoA reductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "fatty acyl coenzyme A dehydrogenase activity",
+      "fatty-acyl-CoA dehydrogenase activity",
+      "general acyl CoA dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "ACYLCOADEHYDROG-RXN"
+    ],
+    "RHEA": [
+      "44704",
+      "44704"
+    ],
+    "Reactome": [
+      "R-HSA-109341",
+      "R-HSA-5695980",
+      "R-HSA-5695989",
+      "R-HSA-70800",
+      "R-HSA-70859",
+      "R-HSA-77263",
+      "R-HSA-77274",
+      "R-HSA-77299",
+      "R-HSA-77319",
+      "R-HSA-77327",
+      "R-HSA-77338",
+      "R-HSA-77345"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 2,3-saturated acyl-CoA + H+ oxidized [electron-transfer flavoprotein] = a (2E)-enoyl-CoA + reduced [electron-transfer flavoprotein].",
+  "namespace": "molecular_function",
+  "label": "Decanoyl-CoA+FAD&lt;=&gt;trans-Dec-2-enoyl-CoA+FADH2"
+}

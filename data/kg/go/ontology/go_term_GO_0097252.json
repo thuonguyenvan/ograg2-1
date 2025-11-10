@@ -1,0 +1,32 @@
+{
+  "id": "GO:0097252",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097252",
+  "relationships": {
+    "is_a": [
+      "GO:0034349"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "oligodendrocyte apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000128"
+    ],
+    "GOC": [
+      "mtg_apoptosis",
+      "yaf"
+    ],
+    "PMID": [
+      "16723520"
+    ]
+  },
+  "definition": "Any apoptotic process in an oligodendrocyte. Oligodendrocytes belong to a class of large neuroglial (macroglial) cells in the central nervous system, where they form the insulating myelin sheath of axons.",
+  "namespace": "biological_process",
+  "label": "oligodendrocyte apoptotic process"
+}

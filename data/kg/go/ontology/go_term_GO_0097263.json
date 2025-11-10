@@ -1,0 +1,30 @@
+{
+  "id": "GO:0097263",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097263",
+  "relationships": {
+    "is_a": [
+      "GO:0008238"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2161868"
+    ],
+    "GOC": [
+      "mw"
+    ],
+    "PMID": [
+      "18184802",
+      "18647347"
+    ]
+  },
+  "definition": "Catalysis of the reaction: eoxin D4 + H20 = eoxin E4 + glycine.",
+  "namespace": "molecular_function",
+  "label": "EXD4 is converted to EXE4 by DPEP"
+}

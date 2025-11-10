@@ -1,0 +1,35 @@
+{
+  "id": "GO:1903692",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903692",
+  "relationships": {
+    "is_a": [
+      "GO:0015821",
+      "GO:0089718",
+      "GO:1905039"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "methionine import into cell"
+    ],
+    "broad": [
+      "methionine import"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000075"
+    ],
+    "PMID": [
+      "17556368"
+    ]
+  },
+  "definition": "The directed movement of methionine from outside of a cell, across the plasma membrane and into the cytosol.",
+  "namespace": "biological_process",
+  "label": "methionine import across plasma membrane"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050068",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050068",
+  "relationships": {
+    "is_a": [
+      "GO:0016743"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "carbamoyl-phosphate:L-lysine carbamoyltransferase activity",
+      "lysine transcarbamylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.3.8",
+      "2.1.3.8",
+      "2.1.3.8",
+      "2.1.3.8"
+    ],
+    "KEGG_REACTION": [
+      "R01396"
+    ],
+    "MetaCyc": [
+      "LYSINE-CARBAMOYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "17121",
+      "17121"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-lysine + carbamoyl phosphate = L-homocitrulline + H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "lysine carbamoyltransferase activity"
+}

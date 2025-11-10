@@ -1,0 +1,33 @@
+{
+  "id": "GO:0090656",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090656",
+  "relationships": {
+    "is_a": [
+      "GO:0001325"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "telomeric circle formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "nc"
+    ],
+    "PMID": [
+      "19214183",
+      "19581589",
+      "19809492",
+      "19858100"
+    ]
+  },
+  "definition": "A telomere maintenance process that results in the formation of a telomeric circle, or t-circle. A t-circle is an extrachromosomal duplex or single-stranded circular DNA molecule composed of t-arrays. T-circles are involved in the control of telomere length via alternative-lengthening of telomeres (ALT) pathway and telomere rapid deletion (TRD).",
+  "namespace": "biological_process",
+  "label": "t-circle formation"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0005201",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005201",
+  "relationships": {
+    "is_a": [
+      "GO:0005198"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "core extracellular matrix",
+      "core matrisome"
+    ],
+    "narrow": [
+      "extracellular matrix glycoprotein"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The action of a molecule that contributes to the structural integrity of the extracellular matrix.",
+  "namespace": "molecular_function",
+  "label": "extracellular matrix structural constituent"
+}

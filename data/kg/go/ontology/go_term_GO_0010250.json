@@ -1,0 +1,30 @@
+{
+  "id": "GO:0010250",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010250",
+  "relationships": {
+    "is_a": [
+      "GO:0033477",
+      "GO:0042398",
+      "GO:0044272"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "S-methylmethionine anabolism",
+      "S-methylmethionine biosynthesis",
+      "S-methylmethionine formation",
+      "S-methylmethionine synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "12692340"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of S-methyl-methionine (SMM) from methionine and S-adenosyl-methionine (Ado-Met), catalyzed by methionine S-methyltransferase (MMT). SMM can be reconverted to methionine by donating a methyl group to homocysteine, and concurrent operation of this reaction and that mediated by MMT sets up the SMM cycle.",
+  "namespace": "biological_process",
+  "label": "S-methylmethionine biosynthetic process"
+}

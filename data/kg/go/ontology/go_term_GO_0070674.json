@@ -1,0 +1,43 @@
+{
+  "id": "GO:0070674",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070674",
+  "relationships": {
+    "is_a": [
+      "GO:0016726"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "hypoxanthine oxidoreductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "NAD-hypoxanthine dehydrogenase activity",
+      "hypoxanthine-NAD oxidoreductase activity",
+      "hypoxanthine/NAD(+) oxidoreductase activity",
+      "hypoxanthine/NAD+ oxidoreductase activity",
+      "hypoxanthine:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9727347"
+    ],
+    "GOC": [
+      "mah",
+      "pde"
+    ],
+    "EC": [
+      "1.17.1.4",
+      "1.17.1.4",
+      "1.17.1.4",
+      "1.17.1.4",
+      "1.17.1.4",
+      "1.17.1.4"
+    ]
+  },
+  "definition": "Catalysis of the reaction: hypoxanthine + NAD+ + H2O = xanthine + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "XDH dehydrogenates hypoxanthine to form xanthine"
+}

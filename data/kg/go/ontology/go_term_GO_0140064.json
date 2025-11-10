@@ -1,0 +1,28 @@
+{
+  "id": "GO:0140064",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140064",
+  "relationships": {
+    "is_a": [
+      "GO:0016410"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "protein crotonyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "53908"
+    ],
+    "PMID": [
+      "25818647"
+    ]
+  },
+  "definition": "Catalysis of the reaction: crotonyl-CoA + lysine in peptide = CoA + N-crotonyl-lysine-peptide.",
+  "namespace": "molecular_function",
+  "label": "peptide crotonyltransferase activity"
+}

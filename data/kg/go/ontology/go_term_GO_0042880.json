@@ -1,0 +1,30 @@
+{
+  "id": "GO:0042880",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042880",
+  "relationships": {
+    "is_a": [
+      "GO:0015135"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "jsg",
+      "mah",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0198506732",
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of D-glucuronate, the D-enantiomer of glucuronate, from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "D-glucuronate transmembrane transporter activity"
+}

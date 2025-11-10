@@ -1,0 +1,37 @@
+{
+  "id": "GO:0042986",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042986",
+  "relationships": {
+    "is_a": [
+      "GO:0010560",
+      "GO:0042984"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of APP biosynthesis",
+      "positive regulation of APP biosynthetic process",
+      "positive regulation of amyloid precursor protein anabolism",
+      "positive regulation of amyloid precursor protein biosynthesis",
+      "positive regulation of amyloid precursor protein formation",
+      "positive regulation of amyloid precursor protein synthesis",
+      "up regulation of amyloid precursor protein biosynthetic process",
+      "up-regulation of amyloid precursor protein biosynthetic process",
+      "upregulation of amyloid precursor protein biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of amyloid precursor protein biosynthetic process",
+      "stimulation of amyloid precursor protein biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of amyloid precursor protein (APP), the precursor of amyloid-beta.",
+  "namespace": "biological_process",
+  "label": "positive regulation of amyloid precursor protein biosynthetic process"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0005371",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005371",
+  "relationships": {
+    "is_a": [
+      "GO:0015291",
+      "GO:0046943"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tricarboxylate carrier activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of tricarboxylate from one side of a membrane to the other, up its concentration gradient. The transporter binds the solute and undergoes a series of conformational changes. Transport works equally well in either direction and is driven by a chemiosmotic source of energy. Secondary active transporters include symporters and antiporters.",
+  "namespace": "molecular_function",
+  "label": "tricarboxylate secondary active transmembrane transporter activity"
+}

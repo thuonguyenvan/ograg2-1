@@ -1,0 +1,53 @@
+{
+  "id": "GO:0006497",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006497",
+  "relationships": {
+    "is_a": [
+      "GO:0036211"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lipid:protein modification",
+      "protein amino acid lipidation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RESID": [
+      "AA0059",
+      "AA0060",
+      "AA0077",
+      "AA0078",
+      "AA0079",
+      "AA0080",
+      "AA0102",
+      "AA0103",
+      "AA0104",
+      "AA0106",
+      "AA0107",
+      "AA0158",
+      "AA0159",
+      "AA0160",
+      "AA0161",
+      "AA0162",
+      "AA0163",
+      "AA0166",
+      "AA0223",
+      "AA0290",
+      "AA0307",
+      "AA0308",
+      "AA0309",
+      "AA0316"
+    ],
+    "GOC": [
+      "jl",
+      "bf"
+    ]
+  },
+  "definition": "The covalent attachment of lipid groups to an amino acid in a protein.",
+  "namespace": "biological_process",
+  "label": "protein lipidation"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0042926",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042926",
+  "relationships": {
+    "is_a": [
+      "GO:0008028",
+      "GO:0042910"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-(3-hydroxyphenyl)propionic acid transporter activity",
+      "m-hydroxyphenylpropionic acid transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-hydroxyphenylpropionic acid transporter activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "9098055"
+    ]
+  },
+  "definition": "Enables the directed movement of 3-hydroxyphenylpropionic acid from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "3-hydroxyphenylpropionic acid transmembrane transporter activity"
+}

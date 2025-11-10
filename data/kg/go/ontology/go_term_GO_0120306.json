@@ -1,0 +1,39 @@
+{
+  "id": "GO:0120306",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120306",
+  "relationships": {
+    "is_a": [
+      "GO:0033554"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to actin cytoskeleton stress"
+    ],
+    "broad": [],
+    "narrow": [
+      "cellular response to latrunculin A",
+      "cellular response to latrunculin B",
+      "response to latrunculin A",
+      "response to latrunculin B"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "vw",
+      "krc",
+      "vw",
+      "vw",
+      "vw",
+      "vw"
+    ],
+    "PMID": [
+      "32915139"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of perturbations or damage to the actin cytoskeleton.",
+  "namespace": "biological_process",
+  "label": "cellular response to actin cytoskeletal stress"
+}

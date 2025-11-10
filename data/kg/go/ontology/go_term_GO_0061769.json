@@ -1,0 +1,42 @@
+{
+  "id": "GO:0061769",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061769",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nicotinic acid riboside kinase activity",
+      "ribosylnicotinate kinase activity",
+      "ribosylnicotinic acid kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.173"
+    ],
+    "MetaCyc": [
+      "RXN-8443"
+    ],
+    "RHEA": [
+      "25568",
+      "25568"
+    ],
+    "Reactome": [
+      "R-HSA-8869606",
+      "R-HSA-8869607"
+    ],
+    "PMID": [
+      "17914902"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-ribosylnicotinate + ATP = ADP + 2 H+ + nicotinate mononucleotide.",
+  "namespace": "molecular_function",
+  "label": "NMRK2 phosphorylates NAR to yield NAMN"
+}

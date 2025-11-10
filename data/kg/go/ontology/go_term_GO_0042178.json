@@ -1,0 +1,38 @@
+{
+  "id": "GO:0042178",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042178",
+  "relationships": {
+    "is_a": [
+      "GO:0006805",
+      "GO:0009056"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "xenobiotic breakdown",
+      "xenobiotic catabolism",
+      "xenobiotic degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "drug breakdown",
+      "drug catabolic process",
+      "drug catabolism",
+      "drug degradation",
+      "exogenous drug breakdown",
+      "exogenous drug catabolic process",
+      "exogenous drug catabolism",
+      "exogenous drug degradation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "krc"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a xenobiotic compound, a compound foreign to the organism exposed to it, carried out by individual cells. It may be synthesized by another organism (like ampicilin) or it can be a synthetic chemical.",
+  "namespace": "biological_process",
+  "label": "xenobiotic catabolic process"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0005499",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005499",
+  "relationships": {
+    "is_a": [
+      "GO:0005496",
+      "GO:0019842"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "calciferol binding",
+      "cholecalciferol binding",
+      "ergocalciferol binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0471331309"
+    ]
+  },
+  "definition": "Binding to vitamin D, any of a group of related, fat-soluble compounds that are derived from delta-5,7 steroids and play a central role in calcium metabolism. Specific forms of vitamin D include calciferol (ergocalciferol; vitamin D2) and cholecalciferol (calciol; vitamin D3).",
+  "namespace": "molecular_function",
+  "label": "vitamin D binding"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050075",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050075",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-malate hydro-lyase (maleate-forming)",
+      "(R)-malate hydro-lyase activity",
+      "D-malate hydro-lyase activity",
+      "malease activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.31",
+      "4.2.1.31",
+      "4.2.1.31",
+      "4.2.1.31",
+      "4.2.1.31",
+      "4.2.1.31"
+    ],
+    "KEGG_REACTION": [
+      "R02419"
+    ],
+    "MetaCyc": [
+      "MALEATE-HYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "23692",
+      "23692"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-malate = H2O + maleate.",
+  "namespace": "molecular_function",
+  "label": "maleate hydratase activity"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:0033882",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033882",
+  "relationships": {
+    "is_a": [
+      "GO:0016289"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "peroxisomal acyl-CoA thioesterase 2 activity"
+    ],
+    "related": [
+      "PTE-2",
+      "chenodeoxycholoyl-coenzyme A thioesterase activity",
+      "choloyl-coenzyme A thioesterase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.2.27",
+      "3.1.2.27",
+      "3.1.2.27",
+      "3.1.2.27",
+      "3.1.2.27",
+      "3.1.2.27"
+    ],
+    "MetaCyc": [
+      "3.1.2.27-RXN"
+    ],
+    "RHEA": [
+      "14541"
+    ]
+  },
+  "definition": "Catalysis of the reaction: choloyl-CoA + H2O = cholate + CoA.",
+  "namespace": "molecular_function",
+  "label": "choloyl-CoA hydrolase activity"
+}

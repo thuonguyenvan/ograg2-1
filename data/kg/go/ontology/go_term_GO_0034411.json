@@ -1,0 +1,38 @@
+{
+  "id": "GO:0034411",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034411",
+  "relationships": {
+    "is_a": [
+      "GO:0006075",
+      "GO:0034407",
+      "GO:0034410"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell wall 1,3-beta-glucan anabolism",
+      "cell wall 1,3-beta-glucan biosynthesis",
+      "cell wall 1,3-beta-glucan formation",
+      "cell wall 1,3-beta-glucan synthesis",
+      "cell wall beta-1,3-glucan anabolism",
+      "cell wall beta-1,3-glucan biosynthesis",
+      "cell wall beta-1,3-glucan biosynthetic process",
+      "cell wall beta-1,3-glucan formation",
+      "cell wall beta-1,3-glucan synthesis"
+    ],
+    "broad": [
+      "cell wall 1,3-beta-D-glucan biosynthetic process",
+      "cell wall 1,3-beta-glucan biosynthetic process"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of (1-&gt;3)-beta-D-glucans, compounds composed of glucose residues linked by (1-&gt;3)-beta-D-glucosidic bonds, found in the walls of cells.",
+  "namespace": "biological_process",
+  "label": "cell wall (1-&gt;3)-beta-D-glucan biosynthetic process"
+}

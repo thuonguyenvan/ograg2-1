@@ -1,0 +1,26 @@
+{
+  "id": "GO:0044814",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044814",
+  "relationships": {
+    "is_a": [
+      "GO:0019660"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glycolytic fermentation via PFL pathway"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "19752030",
+      "2248795"
+    ]
+  },
+  "definition": "The anaerobic metabolic process in which pyruvate is converted to acetyl-CoA and formate by the action of pyruvate formate lyase (PFL), typically occurring in facultative anaerobic bacteria during mixed-acid fermentation.",
+  "namespace": "biological_process",
+  "label": "pyruvate fermentation via PFL"
+}

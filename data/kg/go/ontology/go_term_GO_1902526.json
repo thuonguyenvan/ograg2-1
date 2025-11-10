@@ -1,0 +1,57 @@
+{
+  "id": "GO:1902526",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902526",
+  "relationships": {
+    "is_a": [
+      "GO:0031397",
+      "GO:1902525"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of protein monoubiquitination",
+      "down regulation of protein monoubiquitinylation",
+      "down regulation of protein monoubiquitylation",
+      "down-regulation of protein monoubiquitination",
+      "down-regulation of protein monoubiquitinylation",
+      "down-regulation of protein monoubiquitylation",
+      "downregulation of protein monoubiquitination",
+      "downregulation of protein monoubiquitinylation",
+      "downregulation of protein monoubiquitylation",
+      "negative regulation of protein monoubiquitinylation",
+      "negative regulation of protein monoubiquitylation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of protein monoubiquitination",
+      "inhibition of protein monoubiquitinylation",
+      "inhibition of protein monoubiquitylation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "21931591"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of protein monoubiquitination.",
+  "namespace": "biological_process",
+  "label": "negative regulation of protein monoubiquitination"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0032302",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032302",
+  "relationships": {
+    "is_a": [
+      "GO:0032300",
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MSH2/MSH3 complex"
+    ],
+    "broad": [
+      "MMR complex"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11005803"
+    ]
+  },
+  "definition": "A heterodimer involved in binding to and correcting insertion/deletion mutations. In human the complex consists of two subunits, MSH2 and MSH3.",
+  "namespace": "cellular_component",
+  "label": "MutSbeta complex"
+}

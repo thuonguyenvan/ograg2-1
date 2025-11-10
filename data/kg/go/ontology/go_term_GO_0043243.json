@@ -1,0 +1,33 @@
+{
+  "id": "GO:0043243",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043243",
+  "relationships": {
+    "is_a": [
+      "GO:0043244",
+      "GO:0051130"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of protein complex disassembly",
+      "up-regulation of protein complex disassembly",
+      "upregulation of protein complex disassembly"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein complex disassembly",
+      "stimulation of protein complex disassembly"
+    ],
+    "related": [
+      "positive regulation of protein complex disassembly"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of protein complex disassembly, the disaggregation of a protein complex into its constituent components.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein-containing complex disassembly"
+}

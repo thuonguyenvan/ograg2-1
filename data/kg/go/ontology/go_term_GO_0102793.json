@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102793",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102793",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.262",
+      "2.4.1.262"
+    ],
+    "MetaCyc": [
+      "RXN-8086"
+    ],
+    "RHEA": [
+      "31475"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-alpha-D-glucuronate + soyasapogenol B = H+ + UDP + soyasapogenol B 3-O-beta-glucuronate.",
+  "namespace": "molecular_function",
+  "label": "soyasapogenol B glucuronosyltransferase activity"
+}

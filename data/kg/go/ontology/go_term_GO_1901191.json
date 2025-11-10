@@ -1,0 +1,45 @@
+{
+  "id": "GO:1901191",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901191",
+  "relationships": {
+    "is_a": [
+      "GO:0031333",
+      "GO:0045947",
+      "GO:1901190"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of formation of translation initiation ternary complex",
+      "down regulation of translation initiation ternary complex assembly",
+      "down-regulation of formation of translation initiation ternary complex",
+      "down-regulation of translation initiation ternary complex assembly",
+      "downregulation of formation of translation initiation ternary complex",
+      "downregulation of translation initiation ternary complex assembly",
+      "inhibition of translation initiation ternary complex assembly",
+      "negative regulation of translation initiation ternary complex assembly"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of formation of translation initiation ternary complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of formation of translation initiation ternary complex.",
+  "namespace": "biological_process",
+  "label": "negative regulation of formation of translation initiation ternary complex"
+}

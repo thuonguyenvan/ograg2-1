@@ -1,0 +1,34 @@
+{
+  "id": "GO:0043493",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043493",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "virus terminase complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "phage terminase complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "bm",
+      "jl",
+      "mlg",
+      "bm"
+    ],
+    "PMID": [
+      "18687036"
+    ]
+  },
+  "definition": "A complex of a large and small subunit which catalyze the packaging of DNA into viral heads. Note that not all viral terminases have this structure, some exist as single polypeptides.",
+  "namespace": "cellular_component",
+  "label": "viral terminase complex"
+}

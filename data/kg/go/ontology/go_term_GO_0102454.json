@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102454",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102454",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.294"
+    ],
+    "MetaCyc": [
+      "RXN-13960"
+    ],
+    "RHEA": [
+      "35631",
+      "35631"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cyanidin + UDP-D-galactose = cyanidin 3-O-beta-D-galactoside betaine + UDP.",
+  "namespace": "molecular_function",
+  "label": "cyanidin 3-O-galactosyltransferase activity"
+}

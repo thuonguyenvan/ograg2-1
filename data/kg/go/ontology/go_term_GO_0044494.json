@@ -1,0 +1,30 @@
+{
+  "id": "GO:0044494",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044494",
+  "relationships": {
+    "is_a": [
+      "GO:0044492"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "envenomation resulting in positive regulation of voltage-gated sodium channel activity in another organism",
+      "envenomation resulting in positive regulation of voltage-gated sodium channel activity in other organism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "fj",
+      "jl"
+    ],
+    "PMID": [
+      "21781281"
+    ]
+  },
+  "definition": "A process in which an organism initiates, promotes, or enhances the activity of a voltage-gated sodium channel in another organism via the action of a venom.",
+  "namespace": "biological_process",
+  "label": "venom-mediated activation of voltage-gated sodium channel activity"
+}

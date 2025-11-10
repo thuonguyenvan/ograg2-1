@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032088",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032088",
+  "relationships": {
+    "is_a": [
+      "GO:0043433"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "inhibition of NF-kappaB transcription factor"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NF-kappaB inhibitor"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "rl",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the activity of the transcription factor NF-kappaB.",
+  "namespace": "biological_process",
+  "label": "negative regulation of NF-kappaB transcription factor activity"
+}

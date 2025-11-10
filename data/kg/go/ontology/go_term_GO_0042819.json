@@ -1,0 +1,38 @@
+{
+  "id": "GO:0042819",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042819",
+  "relationships": {
+    "is_a": [
+      "GO:0042364",
+      "GO:0042816",
+      "GO:0072525"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "vitamin B6 anabolism",
+      "vitamin B6 biosynthesis",
+      "vitamin B6 formation",
+      "vitamin B6 synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pyridoxine-5&apos;-phosphate biosynthesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "yaf"
+    ],
+    "PMID": [
+      "16157873",
+      "30671974",
+      "12271461"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of any of the vitamin B6 compounds; pyridoxal, pyridoxamine and pyridoxine and the active form, pyridoxal phosphate.",
+  "namespace": "biological_process",
+  "label": "vitamin B6 biosynthetic process"
+}

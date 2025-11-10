@@ -1,0 +1,43 @@
+{
+  "id": "GO:0006750",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006750",
+  "relationships": {
+    "is_a": [
+      "GO:0006749",
+      "GO:0019184",
+      "GO:0042398",
+      "GO:0043604",
+      "GO:0044272"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glutathione anabolism",
+      "glutathione biosynthesis",
+      "glutathione formation",
+      "glutathione synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "GLUTATHIONESYN-PWY"
+    ],
+    "Reactome": [
+      "R-HSA-174403"
+    ],
+    "GOC": [
+      "ai",
+      "al",
+      "pde"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of glutathione, the tripeptide glutamylcysteinylglycine, which acts as a coenzyme for some enzymes and as an antioxidant in the protection of sulfhydryl groups in enzymes and other proteins.",
+  "namespace": "biological_process",
+  "label": "Glutathione synthesis and recycling"
+}

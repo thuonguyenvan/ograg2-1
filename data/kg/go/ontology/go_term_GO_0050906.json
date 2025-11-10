@@ -1,0 +1,33 @@
+{
+  "id": "GO:0050906",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050906",
+  "relationships": {
+    "is_a": [
+      "GO:0051606"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sensory detection of stimulus",
+      "sensory perception, sensory transduction of stimulus",
+      "sensory perception, stimulus detection",
+      "sensory transduction"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Transduction_(physiology)"
+    ],
+    "GOC": [
+      "ai",
+      "dos",
+      "dph"
+    ]
+  },
+  "definition": "The series of events involved in sensory perception in which a sensory stimulus is received and converted into a molecular signal.",
+  "namespace": "biological_process",
+  "label": "detection of stimulus involved in sensory perception"
+}

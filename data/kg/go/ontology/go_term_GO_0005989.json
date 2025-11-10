@@ -1,0 +1,32 @@
+{
+  "id": "GO:0005989",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005989",
+  "relationships": {
+    "is_a": [
+      "GO:0005988",
+      "GO:0046351"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lactose anabolism",
+      "lactose biosynthesis",
+      "lactose formation",
+      "lactose synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5653890"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of lactose, the disaccharide galactopyranosyl-glucose.",
+  "namespace": "biological_process",
+  "label": "Lactose synthesis"
+}

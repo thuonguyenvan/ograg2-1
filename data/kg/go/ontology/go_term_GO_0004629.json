@@ -1,0 +1,34 @@
+{
+  "id": "GO:0004629",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004629",
+  "relationships": {
+    "is_a": [
+      "GO:0004620",
+      "GO:0008081"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "phosphatidase C"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1112666",
+      "R-HSA-114688",
+      "R-HSA-114689",
+      "R-HSA-398193",
+      "R-HSA-399998",
+      "R-HSA-5362553"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a phospholipid + H2O = 1,2-diacylglycerol + a phosphatidate.",
+  "namespace": "molecular_function",
+  "label": "NOTUM releases Hh-Np:GPC5 from the plasma membrane"
+}

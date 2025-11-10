@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047812",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047812",
+  "relationships": {
+    "is_a": [
+      "GO:0008080"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-amino acid acetyltransferase activity",
+      "D-amino acid-alpha-N-acetyltransferase activity",
+      "acetyl-CoA:D-amino-acid N-acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.36",
+      "2.3.1.36",
+      "2.3.1.36",
+      "2.3.1.36"
+    ],
+    "MetaCyc": [
+      "D-AMINO-ACID-N-ACETYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "20704",
+      "20704"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + a D-amino acid = CoA + an N-acetyl-D-amino-acid.",
+  "namespace": "molecular_function",
+  "label": "D-amino-acid N-acetyltransferase activity"
+}

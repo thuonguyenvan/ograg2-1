@@ -1,0 +1,41 @@
+{
+  "id": "GO:1904554",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904554",
+  "relationships": {
+    "is_a": [
+      "GO:0050921",
+      "GO:1904552"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of chemotaxis to arachidonic acid",
+      "up regulation of chemotaxis to arachidonic acid",
+      "up-regulation of chemotaxis to arachidonic acid",
+      "upregulation of chemotaxis to arachidonic acid"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of chemotaxis to arachidonic acid"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "16382163"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of chemotaxis to arachidonic acid.",
+  "namespace": "biological_process",
+  "label": "positive regulation of chemotaxis to arachidonate"
+}

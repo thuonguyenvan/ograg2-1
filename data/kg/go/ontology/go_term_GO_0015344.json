@@ -1,0 +1,28 @@
+{
+  "id": "GO:0015344",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015344",
+  "relationships": {
+    "is_a": [
+      "GO:0015343"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "siderochrome-iron (ferrioxamine) uptake transporter"
+    ],
+    "related": [
+      "ferrioxamine uptake transmembrane transporter activity",
+      "siderophore-iron uptake transmembrane transporter activity"
+    ]
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.1.16.1"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: siderophore-iron(ferrioxamine)(out) + H+(out) = siderophore-iron(ferrioxamine)(in) + H+(in).",
+  "namespace": "molecular_function",
+  "label": "siderophore uptake transmembrane transporter activity"
+}

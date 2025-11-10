@@ -1,0 +1,30 @@
+{
+  "id": "GO:0035601",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035601",
+  "relationships": {
+    "is_a": [
+      "GO:0036211",
+      "GO:0098732"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein amino acid deacylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "se",
+      "se"
+    ],
+    "PMID": [
+      "12080046"
+    ]
+  },
+  "definition": "The removal of an acyl group, any group or radical of the form RCO- where R is an organic group, from a protein amino acid.",
+  "namespace": "biological_process",
+  "label": "protein deacylation"
+}

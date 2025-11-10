@@ -1,0 +1,29 @@
+{
+  "id": "GO:0005889",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005889",
+  "relationships": {
+    "is_a": [
+      "GO:0090533",
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hydrogen/potassium-exchanging ATPase complex",
+      "hydrogen:potassium-exchanging ATPase complex"
+    ],
+    "broad": [
+      "proton pump"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11756431"
+    ]
+  },
+  "definition": "A protein complex that possesses hydrogen:potassium-exchanging ATPase activity; characterized in animal cells, where it maintains ionic gradients of K+ at the expense of ATP hydrolysis; The complex contains two obligatory subunits, the catalytic alpha subunit and a glycosylated beta subunit; two additional subunits, gamma and channel-inducing factor (CHIF), may also be present.",
+  "namespace": "cellular_component",
+  "label": "potassium:proton exchanging ATPase complex"
+}

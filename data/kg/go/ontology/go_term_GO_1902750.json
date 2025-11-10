@@ -1,0 +1,38 @@
+{
+  "id": "GO:1902750",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902750",
+  "relationships": {
+    "is_a": [
+      "GO:1901988",
+      "GO:1902749"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of cell cycle G2/M phase transition",
+      "down-regulation of cell cycle G2/M phase transition",
+      "downregulation of cell cycle G2/M phase transition"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of cell cycle G2/M phase transition"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "jl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ]
+  },
+  "definition": "Any signaling pathway that decreases or inhibits the activity of a cell cycle cyclin-dependent protein kinase to modulate the switch from G2 phase to M phase of the cell cycle.",
+  "namespace": "biological_process",
+  "label": "negative regulation of cell cycle G2/M phase transition"
+}

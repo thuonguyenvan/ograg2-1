@@ -1,0 +1,27 @@
+{
+  "id": "GO:0000765",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000765",
+  "relationships": {
+    "is_a": [
+      "GO:0019236"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "response to pheromone during pheromone-induced unidirectional"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "clt",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a pheromone stimulus that regulates the process of pheromone-induced unidirectional conjugation.",
+  "namespace": "biological_process",
+  "label": "response to pheromone regulating pheromone-induced unidirectional conjugation"
+}

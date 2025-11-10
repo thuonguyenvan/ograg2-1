@@ -1,0 +1,34 @@
+{
+  "id": "GO:0045048",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045048",
+  "relationships": {
+    "is_a": [
+      "GO:0051205"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "integral ER membrane protein localization",
+      "integral ER membrane protein positioning",
+      "localization of protein in ER membrane",
+      "positioning of protein in ER membrane",
+      "protein insertion into endoplasmic reticulum membrane",
+      "protein-ER insertion",
+      "protein-endoplasmic reticulum insertion"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9609523"
+    ],
+    "ISBN": [
+      "0716731363"
+    ]
+  },
+  "definition": "The process that results in incorporation of a protein into an endoplasmic reticulum (ER) membrane. It depends on specific topogenic sequences of amino acids that ensure that a protein acquires the proper orientation during its insertion into the ER membrane.",
+  "namespace": "biological_process",
+  "label": "Insertion of tail-anchored proteins into the endoplasmic reticulum membrane"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "GO:0008973",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008973",
+  "relationships": {
+    "is_a": [
+      "GO:0016868"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-ribose 1,5-phosphomutase activity",
+      "alpha-D-glucose-1,6-bisphosphate:deoxy-D-ribose-1-phosphate phosphotransferase activity",
+      "alpha-D-ribose 1,5-phosphomutase activity",
+      "deoxyribomutase activity",
+      "deoxyribose phosphomutase activity",
+      "phosphodeoxyribomutase activity",
+      "phosphoribomutase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.2.7",
+      "5.4.2.7",
+      "5.4.2.7",
+      "5.4.2.7",
+      "5.4.2.7",
+      "5.4.2.7",
+      "5.4.2.7",
+      "5.4.2.7",
+      "5.4.2.7"
+    ],
+    "MetaCyc": [
+      "PPENTOMUT-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-6787329",
+      "R-HSA-8982667"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-ribose 1-phosphate = D-ribose 5-phosphate. Also converts 2-deoxy-alpha-D-ribose 1-phosphate into 2-deoxy-D-ribose 5-phosphate.",
+  "namespace": "molecular_function",
+  "label": "PGM2:Mg2+ isomerises  dR1P to dR5P"
+}

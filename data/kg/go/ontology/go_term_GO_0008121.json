@@ -1,0 +1,63 @@
+{
+  "id": "GO:0008121",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008121",
+  "relationships": {
+    "is_a": [
+      "GO:0009055",
+      "GO:0015078",
+      "GO:0015453",
+      "GO:0022853"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "cytochrome"
+    ],
+    "narrow": [
+      "complex III (mitochondrial electron transport) activity",
+      "cytochrome a",
+      "cytochrome a3/copper complex",
+      "cytochrome b562",
+      "cytochrome b566",
+      "cytochrome c1",
+      "soluble cytochrome b562",
+      "ubiquinol-cytochrome-c reductase activity"
+    ],
+    "related": [
+      "electron transporter, transferring electrons within CoQH2-cytochrome c reductase complex activity",
+      "electron transporter, transferring electrons within cytochrome c oxidase complex activity",
+      "mitochondrial electron transport complex III",
+      "ubiquinol-cytochrome c oxidoreductase activity",
+      "ubiquinol-cytochrome c-2 oxidoreductase activity",
+      "ubiquinol-cytochrome c1 oxidoreductase activity",
+      "ubiquinol-cytochrome c2 reductase activity",
+      "ubiquinol:ferricytochrome-c oxidoreductase activity",
+      "ubiquinone--cytochrome-c oxidoreductase activity",
+      "ubiquinone-cytochrome c oxidoreductase activity",
+      "ubiquinone-cytochrome c reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.1.1.8",
+      "7.1.1.8",
+      "7.1.1.8",
+      "7.1.1.8",
+      "7.1.1.8"
+    ],
+    "MetaCyc": [
+      "RXN-15816"
+    ],
+    "RHEA": [
+      "11484",
+      "11484"
+    ],
+    "Reactome": [
+      "R-HSA-164651"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: a quinol + 2 Fe(III)-cytochrome c = a quinone + 2 Fe(II)-cytochrome c + 2 H+(out).",
+  "namespace": "molecular_function",
+  "label": "Electron transfer from ubiquinol to cytochrome c of complex III"
+}

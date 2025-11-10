@@ -1,0 +1,32 @@
+{
+  "id": "GO:0033696",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033696",
+  "relationships": {
+    "is_a": [
+      "GO:0070828"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of extent of heterochromatin formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "maintenance of heterochromatin boundaries",
+      "negative regulation of extent of heterochromatin assembly",
+      "negative regulation of extent of heterochromatin formation",
+      "negative regulation of heterochromatin spreading",
+      "regulation of extent of heterochromatin assembly",
+      "regulation of heterochromatin spreading"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A process that forms a boundary that limits the spreading of heterochromatin along a chromosome.",
+  "namespace": "biological_process",
+  "label": "heterochromatin boundary formation"
+}

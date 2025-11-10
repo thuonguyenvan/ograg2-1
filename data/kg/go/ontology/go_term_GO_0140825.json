@@ -1,0 +1,35 @@
+{
+  "id": "GO:0140825",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140825",
+  "relationships": {
+    "is_a": [
+      "GO:0004601"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "peroxidase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.11.1.7"
+    ],
+    "MetaCyc": [
+      "PEROXID-RXN"
+    ],
+    "RHEA": [
+      "56136",
+      "56136"
+    ],
+    "PMID": [
+      "19339248"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 a phenolic donor + H2O2 = 2 a phenolic radical donor + 2 H2O.",
+  "namespace": "molecular_function",
+  "label": "lactoperoxidase activity"
+}

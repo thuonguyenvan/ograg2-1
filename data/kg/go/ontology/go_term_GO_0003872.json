@@ -1,0 +1,61 @@
+{
+  "id": "GO:0003872",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003872",
+  "relationships": {
+    "is_a": [
+      "GO:0008443"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "6-phosphofructokinase reduction"
+    ],
+    "broad": [
+      "phosphohexokinase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "6-phosphofructose 1-kinase activity",
+      "ATP-dependent phosphofructokinase activity",
+      "ATP:D-fructose-6-phosphate 1-phosphotransferase activity",
+      "D-fructose-6-phosphate 1-phosphotransferase activity",
+      "PFK",
+      "fructose 6-phosphate kinase activity",
+      "fructose 6-phosphokinase activity",
+      "nucleotide triphosphate-dependent phosphofructokinase activity",
+      "phospho-1,6-fructokinase activity",
+      "phosphofructokinase (phosphorylating)",
+      "phosphofructokinase I activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.11",
+      "2.7.1.11",
+      "2.7.1.11",
+      "2.7.1.11",
+      "2.7.1.11",
+      "2.7.1.11",
+      "2.7.1.11",
+      "2.7.1.11",
+      "2.7.1.11",
+      "2.7.1.11",
+      "2.7.1.11",
+      "2.7.1.11",
+      "2.7.1.11",
+      "2.7.1.11"
+    ],
+    "MetaCyc": [
+      "6PFRUCTPHOS-RXN"
+    ],
+    "RHEA": [
+      "16109"
+    ],
+    "Reactome": [
+      "R-HSA-70467"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + D-fructose-6-phosphate = ADP + D-fructose 1,6-bisphosphate.",
+  "namespace": "molecular_function",
+  "label": "PFK tetramer phosphorylates Fru(6)P"
+}

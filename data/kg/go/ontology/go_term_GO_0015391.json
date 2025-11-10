@@ -1,0 +1,26 @@
+{
+  "id": "GO:0015391",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015391",
+  "relationships": {
+    "is_a": [
+      "GO:0015205",
+      "GO:0015294"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "nucleobase:cation symporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: nucleobase(out) + cation(out) = nucleobase(in) + cation(in).",
+  "namespace": "molecular_function",
+  "label": "nucleobase:monoatomic cation symporter activity"
+}

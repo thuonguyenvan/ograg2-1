@@ -1,0 +1,61 @@
+{
+  "id": "GO:0004418",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004418",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "uroporphyrinogen I synthase activity",
+      "uroporphyrinogen I synthetase activity"
+    ],
+    "related": [
+      "(4-(2-carboxyethyl)-3-(carboxymethyl)pyrrol-2-yl)methyltransferase (hydrolyzing) activity",
+      "(4-[2-carboxyethyl]-3-[carboxymethyl]pyrrol-2-yl)methyltransferase (hydrolysing)",
+      "HMB-synthase activity",
+      "porphobilinogen ammonia-lyase (polymerizing)",
+      "porphobilinogen deaminase activity",
+      "porphobilinogen:(4-[2-carboxyethyl]-3-[carboxymethyl]pyrrol-2-yl)methyltransferase (hydrolysing)",
+      "pre-uroporphyrinogen synthase activity",
+      "uroporphyrinogen synthase activity",
+      "uroporphyrinogen synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.61",
+      "2.5.1.61",
+      "2.5.1.61",
+      "2.5.1.61",
+      "2.5.1.61",
+      "2.5.1.61",
+      "2.5.1.61",
+      "2.5.1.61",
+      "2.5.1.61",
+      "2.5.1.61",
+      "2.5.1.61",
+      "2.5.1.61",
+      "2.5.1.61"
+    ],
+    "KEGG_REACTION": [
+      "R00084"
+    ],
+    "MetaCyc": [
+      "OHMETHYLBILANESYN-RXN"
+    ],
+    "RHEA": [
+      "13185",
+      "13185"
+    ],
+    "Reactome": [
+      "R-HSA-189406"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + 4 porphobilinogen = hydroxymethylbilane + 4 NH4.",
+  "namespace": "molecular_function",
+  "label": "4 PBGs bind to form HMB"
+}

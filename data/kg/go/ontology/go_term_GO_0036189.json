@@ -1,0 +1,36 @@
+{
+  "id": "GO:0036189",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036189",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "abietadiene hydroxylase"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.144",
+      "1.14.14.144",
+      "1.14.14.144"
+    ],
+    "KEGG_REACTION": [
+      "R06351"
+    ],
+    "MetaCyc": [
+      "RXN-8507"
+    ],
+    "RHEA": [
+      "26217"
+    ]
+  },
+  "definition": "Catalysis of the reaction: abieta-7,13-diene + NADPH + H+ + O2 = abieta-7,13-dien-18-ol + NADP+ + H2O.",
+  "namespace": "molecular_function",
+  "label": "abieta-7,13-diene hydroxylase activity"
+}

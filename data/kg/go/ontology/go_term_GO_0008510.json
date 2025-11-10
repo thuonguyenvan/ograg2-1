@@ -1,0 +1,37 @@
+{
+  "id": "GO:0008510",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008510",
+  "relationships": {
+    "is_a": [
+      "GO:0015370",
+      "GO:0140410"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sodium:hydrogencarbonate symporter activity"
+    ],
+    "broad": [
+      "sodium/bicarbonate cotransporter activity",
+      "sodium:bicarbonate cotransporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "70267"
+    ],
+    "Reactome": [
+      "R-HSA-425483",
+      "R-HSA-5656219",
+      "R-HSA-8878664"
+    ],
+    "TC": [
+      "2.A.31.2.1"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: Na+(out) + HCO3-(out) = Na+(in) + HCO3-(in).",
+  "namespace": "molecular_function",
+  "label": "SLC4A4 cotransports Na+ with 3HCO3-"
+}

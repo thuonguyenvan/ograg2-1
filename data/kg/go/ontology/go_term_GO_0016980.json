@@ -1,0 +1,37 @@
+{
+  "id": "GO:0016980",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016980",
+  "relationships": {
+    "is_a": [
+      "GO:0016813"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "creatine amidinohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.3.3",
+      "3.5.3.3",
+      "3.5.3.3"
+    ],
+    "KEGG_REACTION": [
+      "R01566"
+    ],
+    "MetaCyc": [
+      "CREATINASE-RXN"
+    ],
+    "RHEA": [
+      "22456",
+      "22456"
+    ]
+  },
+  "definition": "Catalysis of the reaction: creatine + H2O = sarcosine + urea.",
+  "namespace": "molecular_function",
+  "label": "creatinase activity"
+}

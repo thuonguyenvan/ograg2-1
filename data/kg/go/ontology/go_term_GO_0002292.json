@@ -1,0 +1,35 @@
+{
+  "id": "GO:0002292",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002292",
+  "relationships": {
+    "is_a": [
+      "GO:0002286",
+      "GO:0030217"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "T cell development involved in immune response",
+      "T cell differentiation during immune response",
+      "T lymphocyte differentiation during immune response",
+      "T-cell differentiation during immune response",
+      "T-lymphocyte differentiation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "add",
+      "tb"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "The process in which an antigenically naive T cell acquires the specialized features of an effector, regulatory, or memory T cell as part of an immune response. Effector T cells include cells which provide T cell help or exhibit cytotoxicity towards other cells.",
+  "namespace": "biological_process",
+  "label": "T cell differentiation involved in immune response"
+}

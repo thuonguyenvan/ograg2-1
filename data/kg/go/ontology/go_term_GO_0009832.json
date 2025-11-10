@@ -1,0 +1,34 @@
+{
+  "id": "GO:0009832",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009832",
+  "relationships": {
+    "is_a": [
+      "GO:0042546",
+      "GO:0071669"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellulose and pectin-containing cell wall biogenesis"
+    ],
+    "broad": [
+      "cell wall anabolism",
+      "cell wall assembly",
+      "cell wall biosynthetic process",
+      "cell wall formation",
+      "cell wall synthesis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "lr",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "A cellular process that results in the biosynthesis of constituent macromolecules, assembly, and arrangement of constituent parts of a cellulose and pectin-containing cell wall. An example of this is found in Arabidopsis thaliana.",
+  "namespace": "biological_process",
+  "label": "plant-type cell wall biogenesis"
+}

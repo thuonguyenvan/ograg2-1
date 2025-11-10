@@ -1,0 +1,35 @@
+{
+  "id": "GO:0031588",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031588",
+  "relationships": {
+    "is_a": [
+      "GO:0140535",
+      "GO:1902911"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "5&apos;-AMP-activated protein kinase complex",
+      "ADP-activated protein kinase complex",
+      "AMP-activated protein kinase complex",
+      "SNF1/AMPK protein kinase complex",
+      "Snf1 kinase complex",
+      "Snf1 serine/threonine protein kinase complex"
+    ],
+    "related": [
+      "AMPK complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "mah",
+      "vw"
+    ]
+  },
+  "definition": "A protein complex that possesses nucleotide-dependent protein kinase activity. The nucleotide can be AMP (in S. pombe and human) or ADP (in S. cerevisiae).",
+  "namespace": "cellular_component",
+  "label": "nucleotide-activated protein kinase complex"
+}

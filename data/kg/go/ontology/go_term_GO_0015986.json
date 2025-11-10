@@ -1,0 +1,28 @@
+{
+  "id": "GO:0015986",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015986",
+  "relationships": {
+    "is_a": [
+      "GO:0006754"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "chemiosmosis"
+    ],
+    "narrow": [],
+    "related": [
+      "ATP synthesis coupled proton transport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "vw",
+      "rs"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of ATP driven by transport of protons across a membrane to generate an electrochemical gradient (proton-motive force).",
+  "namespace": "biological_process",
+  "label": "proton motive force-driven ATP synthesis"
+}

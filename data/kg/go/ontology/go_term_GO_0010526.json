@@ -1,0 +1,34 @@
+{
+  "id": "GO:0010526",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010526",
+  "relationships": {
+    "is_a": [
+      "GO:0010629"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of transposition, RNA-mediated"
+    ],
+    "broad": [],
+    "narrow": [
+      "retrotransposon silencing"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Retrotransposon_silencing"
+    ],
+    "GOC": [
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "32823517"
+    ]
+  },
+  "definition": "Any process that decreases the frequency, rate or extent of transposable element expression. Includes both DNA transposons and retrotransposons.",
+  "namespace": "biological_process",
+  "label": "transposable element silencing"
+}

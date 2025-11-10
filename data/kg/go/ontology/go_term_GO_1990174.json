@@ -1,0 +1,32 @@
+{
+  "id": "GO:1990174",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990174",
+  "relationships": {
+    "is_a": [
+      "GO:0016891"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "G(5&apos;)pppN pyrophosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9935300",
+      "R-HSA-9935319"
+    ],
+    "GOC": [
+      "dgf"
+    ],
+    "PMID": [
+      "20802481"
+    ]
+  },
+  "definition": "Catalysis of the removal of the cap from an unmethylated 5&apos;-end capped RNA resulting in the release of the entire cap structure (GpppN) and a 5&apos; monophosphorylated RNA.",
+  "namespace": "molecular_function",
+  "label": "DXO decaps incompletely capped RNA (GpppN-RNA)"
+}

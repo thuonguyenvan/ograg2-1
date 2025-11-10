@@ -1,0 +1,38 @@
+{
+  "id": "GO:0035965",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035965",
+  "relationships": {
+    "is_a": [
+      "GO:0032048"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cardiolipin acyl-chain remodelling"
+    ],
+    "broad": [
+      "cardiolipin maturation"
+    ],
+    "narrow": [],
+    "related": [
+      "diphosphatidylglycerol remodeling"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1482798"
+    ],
+    "GOC": [
+      "bf",
+      "rb",
+      "rb",
+      "bf"
+    ],
+    "PMID": [
+      "19244244"
+    ]
+  },
+  "definition": "Remodeling the acyl chains of premature (de novo synthesized) cardiolipin (1,3-bis(3-phosphatidyl)glycerol), through sequential deacylation and re-acylation reactions, to generate mature cardiolipin containing high-levels of unsaturated fatty acids.",
+  "namespace": "biological_process",
+  "label": "Acyl chain remodeling of CL"
+}

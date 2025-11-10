@@ -1,0 +1,46 @@
+{
+  "id": "GO:0047840",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047840",
+  "relationships": {
+    "is_a": [
+      "GO:0047429"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dCTP pyrophosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dCTP nucleotidohydrolase activity",
+      "dCTPase activity",
+      "deoxy-CTPase activity",
+      "deoxycytidine triphosphatase activity",
+      "deoxycytidine-triphosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.12",
+      "3.6.1.12",
+      "3.6.1.12",
+      "3.6.1.12",
+      "3.6.1.12",
+      "3.6.1.12"
+    ],
+    "MetaCyc": [
+      "DCTP-PYROPHOSPHATASE-RXN"
+    ],
+    "RHEA": [
+      "22636",
+      "22636"
+    ],
+    "Reactome": [
+      "R-HSA-6786257"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dCTP + H2O = dCMP + H+ + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "DCTPP1 hydrolyses 5idCTP"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0015572",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015572",
+  "relationships": {
+    "is_a": [
+      "GO:1901505"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-GlcNAc transmembrane transporter activity",
+      "N-acetyl-D-glucosamine transmembrane transporter activity",
+      "N-acetylchitosamine transmembrane transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-Acetyl-D-glucosamine permease",
+      "N-acetylglucosamine permease activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of N-acetylglucosamine from one side of a membrane to the other. The D isomer of N-acetylglucosamine is a common structural unit of glycoproteins in plants, bacteria and animals; it is often the terminal sugar of an oligosaccharide group of a glycoprotein.",
+  "namespace": "molecular_function",
+  "label": "N-acetylglucosamine transmembrane transporter activity"
+}

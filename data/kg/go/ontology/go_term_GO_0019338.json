@@ -1,0 +1,32 @@
+{
+  "id": "GO:0019338",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019338",
+  "relationships": {
+    "is_a": [
+      "GO:0019336",
+      "GO:0042537",
+      "GO:0090345"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pentachlorophenol breakdown",
+      "pentachlorophenol catabolism",
+      "pentachlorophenol degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PCPDEG-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of pentachlorophenol, a chlorinated insecticide and fungicide used primarily to protect timber from fungal rot and wood boring insects. Pentachlorophenol is significantly toxic to mammals, plants, and many microorganisms.",
+  "namespace": "biological_process",
+  "label": "pentachlorophenol catabolic process"
+}

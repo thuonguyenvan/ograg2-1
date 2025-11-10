@@ -1,0 +1,30 @@
+{
+  "id": "GO:0110077",
+  "uri": "http://purl.obolibrary.org/obo/GO_0110077",
+  "relationships": {
+    "is_a": [
+      "GO:0010496",
+      "GO:0016192"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "endosomal trafficking"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "29328915",
+      "29328916"
+    ]
+  },
+  "definition": "A cellular transport process in which transported substances are moved in extracellular vesicles between cells; transported substances are enclosed in the vesicle lumen or located in the extracellular vesicle membrane.",
+  "namespace": "biological_process",
+  "label": "vesicle-mediated intercellular transport"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:1902379",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902379",
+  "relationships": {
+    "is_a": [
+      "GO:0042056"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chemoattractant activity involved in axon pathfinding"
+    ],
+    "broad": [],
+    "narrow": [
+      "chemoattractant activity involved in axon growth cone guidance"
+    ],
+    "related": [
+      "chemoattractant activity involved in axon chemotaxis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "21658587"
+    ]
+  },
+  "definition": "Any chemoattractant activity that is involved in axon guidance.",
+  "namespace": "molecular_function",
+  "label": "chemoattractant activity involved in axon guidance"
+}

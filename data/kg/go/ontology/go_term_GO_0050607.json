@@ -1,0 +1,35 @@
+{
+  "id": "GO:0050607",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050607",
+  "relationships": {
+    "is_a": [
+      "GO:0016620"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "formaldehyde:NAD+ oxidoreductase (mycothiol-formylating)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NAD/factor-dependent formaldehyde dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.306",
+      "1.1.1.306",
+      "1.1.1.306"
+    ],
+    "MetaCyc": [
+      "1.2.1.66-RXN"
+    ],
+    "RHEA": [
+      "28502"
+    ]
+  },
+  "definition": "Catalysis of the reaction: formaldehyde + mycothiol + NAD+ = S-formylmycothiol + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "mycothiol-dependent formaldehyde dehydrogenase activity"
+}

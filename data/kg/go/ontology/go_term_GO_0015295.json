@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015295",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015295",
+  "relationships": {
+    "is_a": [
+      "GO:0015078",
+      "GO:0015294"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "solute:hydrogen symporter activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "L-idonate/D-gluconate:hydrogen symporter activity",
+      "heavy metal ion:hydrogen symporter activity",
+      "high affinity metal ion uptake transporter activity",
+      "low affinity metal ion uptake transporter activity",
+      "proline/glycine/betaine:hydrogen/sodium symporter activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: solute(out) + H+(out) = solute(in) + H+(in).",
+  "namespace": "molecular_function",
+  "label": "solute:proton symporter activity"
+}

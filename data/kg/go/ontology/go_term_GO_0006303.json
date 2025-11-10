@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006303",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006303",
+  "relationships": {
+    "is_a": [
+      "GO:0006302"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NHEJ"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5693571"
+    ],
+    "GOC": [
+      "rph"
+    ],
+    "PMID": [
+      "10827453",
+      "24837021"
+    ]
+  },
+  "definition": "The repair of a double-strand break in DNA in which the two broken ends are rejoined with little or no sequence complementarity. Information at the DNA ends may be lost due to the modification of broken DNA ends. This term covers instances of separate pathways, called classical (or canonical) and alternative nonhomologous end joining (C-NHEJ and A-NHEJ). These in turn may further branch into sub-pathways, but evidence is still unclear.",
+  "namespace": "biological_process",
+  "label": "Nonhomologous End-Joining (NHEJ)"
+}

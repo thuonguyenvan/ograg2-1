@@ -1,0 +1,30 @@
+{
+  "id": "GO:0071887",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071887",
+  "relationships": {
+    "is_a": [
+      "GO:0006915"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "leukocyte apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000738"
+    ],
+    "GOC": [
+      "BHF",
+      "mah",
+      "mtg_apoptosis"
+    ]
+  },
+  "definition": "Any apoptotic process in a leukocyte, an achromatic cell of the myeloid or lymphoid lineages capable of ameboid movement, found in blood or other tissue.",
+  "namespace": "biological_process",
+  "label": "leukocyte apoptotic process"
+}

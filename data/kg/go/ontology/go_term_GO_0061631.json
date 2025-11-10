@@ -1,0 +1,34 @@
+{
+  "id": "GO:0061631",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061631",
+  "relationships": {
+    "is_a": [
+      "GO:0004842",
+      "GO:0061650"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "E2"
+    ],
+    "narrow": [],
+    "related": [
+      "HECT E3"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.2.23"
+    ],
+    "GOC": [
+      "BioGRID",
+      "dph",
+      "dph",
+      "dph"
+    ]
+  },
+  "definition": "Isoenergetic transfer of ubiquitin from one protein to another via the reaction X-ubiquitin + Y = Y-ubiquitin + X, where both the X-ubiquitin and Y-ubiquitin linkages are thioester bonds between the C-terminal glycine of ubiquitin and a sulfhydryl side group of a cysteine residue.",
+  "namespace": "molecular_function",
+  "label": "ubiquitin conjugating enzyme activity"
+}

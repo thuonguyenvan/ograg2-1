@@ -1,0 +1,28 @@
+{
+  "id": "GO:0043846",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043846",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA polymerase III, DnaX complex",
+      "DNA polymerase III, DnaX subcomplex"
+    ],
+    "broad": [
+      "clamp loader complex"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "12940977"
+    ]
+  },
+  "definition": "A heptamer that includes the tau and gamma products of the dnaX gene and the chi/psi subcomplex. Confers structural asymmetry that allows the polymerase to replicate both leading and lagging strands.",
+  "namespace": "cellular_component",
+  "label": "DNA polymerase III, clamp loader complex"
+}

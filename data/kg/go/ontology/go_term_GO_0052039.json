@@ -1,0 +1,30 @@
+{
+  "id": "GO:0052039",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052039",
+  "relationships": {
+    "is_a": [
+      "GO:0052008"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "perturbation by symbiont of host cytoskeleton"
+    ],
+    "broad": [],
+    "narrow": [
+      "rounding by symbiont of host cells"
+    ],
+    "related": [
+      "disruption by symbiont of host cytoskeleton",
+      "modification by symbiont of host cytoskeleton"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_pamgo_17jul06"
+    ]
+  },
+  "definition": "The process in which an organism effects a change that impairs the structure or function of the host cytoskeleton. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated perturbation of host cytoskeleton"
+}

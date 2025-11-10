@@ -1,0 +1,36 @@
+{
+  "id": "GO:0072629",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072629",
+  "relationships": {
+    "is_a": [
+      "GO:0034343"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IL-28B production",
+      "IL28B production",
+      "interferon lambda 3 production"
+    ],
+    "broad": [],
+    "narrow": [
+      "interleukin-28B secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "BHF",
+      "BHF",
+      "BHF"
+    ],
+    "PMID": [
+      "15546383"
+    ]
+  },
+  "definition": "The appearance of interleukin-28B due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels.",
+  "namespace": "biological_process",
+  "label": "interleukin-28B production"
+}

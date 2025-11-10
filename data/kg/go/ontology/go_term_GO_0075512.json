@@ -1,0 +1,39 @@
+{
+  "id": "GO:0075512",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075512",
+  "relationships": {
+    "is_a": [
+      "GO:0019065",
+      "GO:0072583"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "clathrin-mediated endocytosis of virus by host cell",
+      "viral penetration via clathrin-mediated endocytosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "viral entry into host cell via clathrin-mediated endocytosis followed by endosome lysis"
+    ],
+    "related": [
+      "viral entry into host cell via clathrin-mediated endocytosis"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "957",
+      "957"
+    ],
+    "GOC": [
+      "bf",
+      "jl",
+      "sp",
+      "bf",
+      "jl"
+    ]
+  },
+  "definition": "Any clathrin-mediated endocytosis that is involved in the uptake of a virus into a host cell. Begins by invagination of a specific region of the host cell plasma membrane around the bound virus to form a clathrin-coated pit, which then pinches off to form a clathrin-coated endocytic vesicle containing the virus.",
+  "namespace": "biological_process",
+  "label": "Clathrin-mediated endocytosis of virus by host"
+}

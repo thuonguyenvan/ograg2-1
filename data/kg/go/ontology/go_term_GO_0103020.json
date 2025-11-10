@@ -1,0 +1,33 @@
+{
+  "id": "GO:0103020",
+  "uri": "http://purl.obolibrary.org/obo/GO_0103020",
+  "relationships": {
+    "is_a": [
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN0-382"
+    ],
+    "RHEA": [
+      "27990"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "11168365",
+      "16920870"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-deoxy-D-xylulose + ATP = H+ + 1-deoxy-D-xylulose 5-phosphate + ADP.",
+  "namespace": "molecular_function",
+  "label": "1-deoxy-D-xylulose kinase activity"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "GO:1902684",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902684",
+  "relationships": {
+    "is_a": [
+      "GO:0048519",
+      "GO:1902683"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of receptor localisation to synapse",
+      "down regulation of receptor localization to synapse",
+      "down-regulation of receptor localisation to synapse",
+      "down-regulation of receptor localization to synapse",
+      "downregulation of receptor localisation to synapse",
+      "downregulation of receptor localization to synapse",
+      "negative regulation of receptor localisation to synapse"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of receptor localisation to synapse",
+      "inhibition of receptor localization to synapse"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "kmv",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22252129"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of receptor localization to synapse.",
+  "namespace": "biological_process",
+  "label": "negative regulation of receptor localization to synapse"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0008784",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008784",
+  "relationships": {
+    "is_a": [
+      "GO:0047661"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-alanine racemase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.1.1",
+      "5.1.1.1",
+      "5.1.1.1"
+    ],
+    "KEGG_REACTION": [
+      "R00401"
+    ],
+    "MetaCyc": [
+      "ALARACECAT-RXN"
+    ],
+    "RHEA": [
+      "20249",
+      "20249"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-alanine = D-alanine.",
+  "namespace": "molecular_function",
+  "label": "alanine racemase activity"
+}

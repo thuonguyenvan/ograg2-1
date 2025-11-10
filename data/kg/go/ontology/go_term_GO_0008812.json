@@ -1,0 +1,49 @@
+{
+  "id": "GO:0008812",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008812",
+  "relationships": {
+    "is_a": [
+      "GO:0016614"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "choline oxidase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "choline-cytochrome c reductase activity",
+      "choline:(acceptor) 1-oxidoreductase activity",
+      "choline:(acceptor) oxidoreductase activity",
+      "choline:acceptor 1-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.99.1",
+      "1.1.99.1",
+      "1.1.99.1",
+      "1.1.99.1",
+      "1.1.99.1",
+      "1.1.99.1",
+      "1.1.99.1"
+    ],
+    "KEGG_REACTION": [
+      "R01025"
+    ],
+    "MetaCyc": [
+      "CHD-RXN"
+    ],
+    "RHEA": [
+      "17433",
+      "17433"
+    ],
+    "Reactome": [
+      "R-HSA-6797961"
+    ]
+  },
+  "definition": "Catalysis of the reaction: A + choline = AH(2) + betaine aldehyde.",
+  "namespace": "molecular_function",
+  "label": "CHDH oxidises Cho to BETALD"
+}

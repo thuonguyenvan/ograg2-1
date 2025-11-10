@@ -1,0 +1,34 @@
+{
+  "id": "GO:0031578",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031578",
+  "relationships": {
+    "is_a": [
+      "GO:0001100",
+      "GO:0071174"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SOC",
+      "SPOC",
+      "mitotic cell cycle spindle orientation checkpoint",
+      "mitotic spindle orientation checkpoint",
+      "signal transduction involved in mitotic cell cycle spindle orientation checkpoint",
+      "spindle position checkpoint"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle"
+    ],
+    "PMID": [
+      "14616062"
+    ]
+  },
+  "definition": "A signaling process that monitors and signals errors in the placement or orientation of the spindle in the cell. This delays the completion of anaphase until errors are corrected.",
+  "namespace": "biological_process",
+  "label": "mitotic spindle orientation checkpoint signaling"
+}

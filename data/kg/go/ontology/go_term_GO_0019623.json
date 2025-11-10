@@ -1,0 +1,28 @@
+{
+  "id": "GO:0019623",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019623",
+  "relationships": {
+    "is_a": [
+      "GO:0019381",
+      "GO:0019627",
+      "GO:0043605"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "atrazine breakdown to urea",
+      "atrazine degradation to urea"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of atrazine, a triazine ring-containing herbicide, into urea.",
+  "namespace": "biological_process",
+  "label": "atrazine catabolic process to urea"
+}

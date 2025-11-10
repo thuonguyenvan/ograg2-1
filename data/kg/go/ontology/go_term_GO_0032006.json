@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032006",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032006",
+  "relationships": {
+    "is_a": [
+      "GO:1902531"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of TOR signaling pathway",
+      "regulation of TOR signalling pathway",
+      "regulation of target of rapamycin signaling pathway",
+      "regulation of target of rapamycin signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of TOR signaling cascade"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "signaling"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of TOR signaling.",
+  "namespace": "biological_process",
+  "label": "regulation of TOR signaling"
+}

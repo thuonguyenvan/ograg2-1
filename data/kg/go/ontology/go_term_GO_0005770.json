@@ -1,0 +1,32 @@
+{
+  "id": "GO:0005770",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005770",
+  "relationships": {
+    "is_a": [
+      "GO:0005768"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "prevacuolar compartment"
+    ],
+    "broad": [
+      "PVC"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "nlx_subcell_20090702",
+      "nlx_subcell_20090702"
+    ],
+    "PMID": [
+      "11964142",
+      "2557062"
+    ]
+  },
+  "definition": "A prelysosomal endocytic organelle differentiated from early endosomes by lower lumenal pH and different protein composition. Late endosomes are more spherical than early endosomes and are mostly juxtanuclear, being concentrated near the microtubule organizing center.",
+  "namespace": "cellular_component",
+  "label": "late endosome"
+}

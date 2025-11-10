@@ -1,0 +1,29 @@
+{
+  "id": "GO:0045240",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045240",
+  "relationships": {
+    "is_a": [
+      "GO:1990204"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-oxoacid dehydrogenase complex",
+      "dihydrolipoyl dehydrogenase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "10745006"
+    ]
+  },
+  "definition": "A multi-enzyme complex that catalyzes the oxidative decarboxylation of an alpha-ketoacid - pyruvate, a branched-chain alpha-ketoacid or alpha-ketoglutarate (also known as 2-oxoglutarate). The complex comprises multiple copies of three enzymes referred to as E1, E2 and E3: a dihydrolipoyl transacylase (E2) forms the core of the complex, with an alpha-ketoacid dehydrogenase (E1) and a dihydrolipoamide dehydrogenase (E3) attached through non-covalent bonds. The E1 and E2 components are specific to different alpha-ketoacid dehydrogenase complexes, whereas the E3 component is the same. Additional proteins may also be present.",
+  "namespace": "cellular_component",
+  "label": "alpha-ketoacid dehydrogenase complex"
+}

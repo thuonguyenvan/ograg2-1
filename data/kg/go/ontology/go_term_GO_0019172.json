@@ -1,0 +1,42 @@
+{
+  "id": "GO:0019172",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019172",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(R)-lactate hydro-lyase",
+      "D-lactate dehydratase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glutathione-independent glyoxalase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.130"
+    ],
+    "MetaCyc": [
+      "GLYOXIII-RXN"
+    ],
+    "RHEA": [
+      "27754",
+      "27754"
+    ],
+    "GOC": [
+      "mcc"
+    ],
+    "PMID": [
+      "21696459",
+      "7848303"
+    ]
+  },
+  "definition": "Catalysis of the reaction: methylglyoxal + H2O = D-lactate.",
+  "namespace": "molecular_function",
+  "label": "glyoxalase III activity"
+}

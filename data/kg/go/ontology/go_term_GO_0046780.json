@@ -1,0 +1,31 @@
+{
+  "id": "GO:0046780",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046780",
+  "relationships": {
+    "is_a": [
+      "GO:0039524"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "suppression by virus of host splicing factor activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "negative regulation by virus of host mRNA splicing",
+      "suppression by virus of host mRNA splicing",
+      "viral dispersion of host splicing factors",
+      "viral inhibition of host mRNA splicing"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "12660167",
+      "19729513"
+    ]
+  },
+  "definition": "A process in which a symbiont inhibits or disrupts the splicing of host mRNA, thus interfering with normal host protein production. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host mRNA splicing"
+}

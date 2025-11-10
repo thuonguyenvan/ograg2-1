@@ -1,0 +1,29 @@
+{
+  "id": "GO:0015518",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015518",
+  "relationships": {
+    "is_a": [
+      "GO:0005351",
+      "GO:0042900"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "arabinose:hydrogen symporter activity"
+    ],
+    "broad": [
+      "arabinose efflux permease activity",
+      "arabinose efflux transmembrane transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.1.1.2"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: arabinose(out) + H+(out) = arabinose(in) + H+(in).",
+  "namespace": "molecular_function",
+  "label": "arabinose:proton symporter activity"
+}

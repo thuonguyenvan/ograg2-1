@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047657",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047657",
+  "relationships": {
+    "is_a": [
+      "GO:0008194",
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1,3-alpha-glucan synthase activity",
+      "a-1,3-glucan synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,3-alpha-D-glucan synthase activity",
+      "UDP-glucose:alpha-D-(1-&gt;3)-glucan 3-alpha-D-glucosyltransferase activity",
+      "UDPglucose:alpha-D-(1-&gt;3)-glucan 3-alpha-D-glucosyltransferase activity",
+      "uridine diphosphoglucose-1,3-alpha-glucan glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.183",
+      "2.4.1.183",
+      "2.4.1.183",
+      "2.4.1.183",
+      "2.4.1.183",
+      "2.4.1.183"
+    ],
+    "MetaCyc": [
+      "ALPHA-13-GLUCAN-SYNTHASE-RXN",
+      "ALPHA-13-GLUCAN-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "19749"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-glucose + [alpha-D-glucosyl-(1,3)]n = UDP + [alpha-D-glucosyl-(1,3)]n+1.",
+  "namespace": "molecular_function",
+  "label": "alpha-1,3-glucan synthase activity"
+}

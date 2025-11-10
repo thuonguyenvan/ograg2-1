@@ -1,0 +1,29 @@
+{
+  "id": "GO:0005295",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005295",
+  "relationships": {
+    "is_a": [
+      "GO:0005283",
+      "GO:0015175"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "neutral amino acid:sodium symporter activity"
+    ],
+    "broad": [
+      "neutral amino acid-sodium cotransporter",
+      "sodium/neutral amino acid transporter"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.23.3.1"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: neutral L-amino acid(out) + Na+(out) = neutral L-amino acid(in) + Na+(in).",
+  "namespace": "molecular_function",
+  "label": "neutral L-amino acid:sodium symporter activity"
+}

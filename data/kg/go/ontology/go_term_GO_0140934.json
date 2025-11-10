@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140934",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140934",
+  "relationships": {
+    "is_a": [
+      "GO:0101005",
+      "GO:0140993"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "histone deubiquitination"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "18206972",
+      "18226187"
+    ]
+  },
+  "definition": "A deubiquitinase that cleaves ubiquitin from a histone protein to which it is conjugated.",
+  "namespace": "molecular_function",
+  "label": "histone deubiquitinase activity"
+}

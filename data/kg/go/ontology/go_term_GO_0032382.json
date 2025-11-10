@@ -1,0 +1,32 @@
+{
+  "id": "GO:0032382",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032382",
+  "relationships": {
+    "is_a": [
+      "GO:0032373",
+      "GO:0032379",
+      "GO:0032380"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of intracellular sterol transport",
+      "up-regulation of intracellular sterol transport",
+      "upregulation of intracellular sterol transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of intracellular sterol transport",
+      "stimulation of intracellular sterol transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the directed movement of sterols within cells.",
+  "namespace": "biological_process",
+  "label": "positive regulation of intracellular sterol transport"
+}

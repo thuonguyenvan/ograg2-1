@@ -1,0 +1,48 @@
+{
+  "id": "GO:0050445",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050445",
+  "relationships": {
+    "is_a": [
+      "GO:0016668"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "asparagusate reductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-mercapto-2-mercaptomethylpropanoate:NAD+ oxidoreductase activity",
+      "NADH2:asparagusate oxidoreductase activity",
+      "NADH:asparagusate oxidoreductase activity",
+      "asparagusate dehydrogenase activity",
+      "asparagusate reductase (NADH2)",
+      "asparagusic dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.1.11",
+      "1.8.1.11",
+      "1.8.1.11",
+      "1.8.1.11",
+      "1.8.1.11",
+      "1.8.1.11",
+      "1.8.1.11"
+    ],
+    "KEGG_REACTION": [
+      "R03761"
+    ],
+    "MetaCyc": [
+      "ASPARAGUSATE-REDUCTASE-NADH-RXN"
+    ],
+    "RHEA": [
+      "14881",
+      "14881"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-sulfanyl-2-(sulfanylmethyl)propanoate + NAD+ = asparagusate + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "asparagusate reductase (NADH) activity"
+}

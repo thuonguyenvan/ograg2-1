@@ -1,0 +1,28 @@
+{
+  "id": "GO:0045037",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045037",
+  "relationships": {
+    "is_a": [
+      "GO:0071806",
+      "GO:0072596",
+      "GO:0072598"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chloroplast stroma protein import",
+      "protein transport into chloroplast stroma"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "ISBN": [
+      "0716731363"
+    ]
+  },
+  "definition": "The targeting and import of proteins into the chloroplast stroma. Import depends on ATP hydrolysis catalyzed by stromal chaperones. Chloroplast stromal proteins, such as the S subunit of rubisco, have a N-terminal stromal-import sequence of about 44 amino acids which is cleaved from the protein precursor after import.",
+  "namespace": "biological_process",
+  "label": "protein import into chloroplast stroma"
+}

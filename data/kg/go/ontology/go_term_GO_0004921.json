@@ -1,0 +1,30 @@
+{
+  "id": "GO:0004921",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004921",
+  "relationships": {
+    "is_a": [
+      "GO:0004896"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IL-11 receptor activity",
+      "IL-11R"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "gp130"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "signaling",
+      "mah"
+    ]
+  },
+  "definition": "Combining with interleukin-11 and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.",
+  "namespace": "molecular_function",
+  "label": "interleukin-11 receptor activity"
+}

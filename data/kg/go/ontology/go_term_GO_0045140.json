@@ -1,0 +1,32 @@
+{
+  "id": "GO:0045140",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045140",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IPC synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.227"
+    ],
+    "MetaCyc": [
+      "RXN3O-581"
+    ],
+    "PMID": [
+      "9405490",
+      "9614099"
+    ]
+  },
+  "definition": "Catalysis of the reaction: phytoceramide + inositol phosphate = inositol phosphoceramide + diacylglycerol.",
+  "namespace": "molecular_function",
+  "label": "inositol phosphoceramide synthase activity"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0018597",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018597",
+  "relationships": {
+    "is_a": [
+      "GO:0004497",
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.99.39"
+    ],
+    "RHEA": [
+      "27341",
+      "27341"
+    ],
+    "PMID": [
+      "16347810"
+    ]
+  },
+  "definition": "Catalysis of the reaction: AH2 + NH4+ + O2 = A + H+ + H2O + hydroxylamine.",
+  "namespace": "molecular_function",
+  "label": "ammonia monooxygenase activity"
+}

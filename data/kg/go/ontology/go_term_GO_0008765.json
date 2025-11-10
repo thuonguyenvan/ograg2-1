@@ -1,0 +1,45 @@
+{
+  "id": "GO:0008765",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008765",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "MurE synthetase activity",
+      "UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:(L)-meso-2,6-diaminoheptanedioate gamma-ligase (ADP-forming)",
+      "UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:meso-2,6-diamino-heptanedioate ligase (ADP-forming) activity",
+      "UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate synthetase activity",
+      "UDP-N-acetylmuramyl-tripeptide synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.13",
+      "6.3.2.13",
+      "6.3.2.13",
+      "6.3.2.13",
+      "6.3.2.13",
+      "6.3.2.13",
+      "6.3.2.13"
+    ],
+    "KEGG_REACTION": [
+      "R02788"
+    ],
+    "MetaCyc": [
+      "UDP-NACMURALGLDAPLIG-RXN"
+    ],
+    "RHEA": [
+      "23676",
+      "23676"
+    ]
+  },
+  "definition": "Catalysis of the reaction: meso-2,6-diaminopimelate + ATP + UDP-N-acetylmuramoyl-L-alanyl-D-glutamate = ADP + 2 H+ + phosphate + UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminoheptanedioate.",
+  "namespace": "molecular_function",
+  "label": "UDP-N-acetylmuramoylalanyl-D-glutamate-2,6-diaminopimelate ligase activity"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050797",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050797",
+  "relationships": {
+    "is_a": [
+      "GO:0042083"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Thy1 activity",
+      "ThyX activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5,10-methylenetetrahydrofolate,FADH2:dUMP C-methyltransferase activity",
+      "FDTS activity",
+      "flavin dependent thymidylate synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.148",
+      "2.1.1.148",
+      "2.1.1.148",
+      "2.1.1.148",
+      "2.1.1.148"
+    ],
+    "KEGG_REACTION": [
+      "R06613"
+    ],
+    "MetaCyc": [
+      "RXN-8850"
+    ],
+    "RHEA": [
+      "29043"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5,10-methylenetetrahydrofolate + dUMP + NADPH + H+ = dTMP + tetrahydrofolate + NADP+.",
+  "namespace": "molecular_function",
+  "label": "thymidylate synthase (FAD) activity"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0120013",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120013",
+  "relationships": {
+    "is_a": [
+      "GO:0005319"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "intermembrane lipid transfer activity",
+      "lipid carrier activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8856630",
+      "R-HSA-8858270",
+      "R-HSA-8862380",
+      "R-HSA-8874705",
+      "R-HSA-9856502",
+      "R-HSA-9856510"
+    ],
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "20823909",
+      "24220498",
+      "25797198"
+    ]
+  },
+  "definition": "Removes a lipid from a membrane or a monolayer lipid particle, transports it through the aqueous phase while protected in a hydrophobic pocket, and brings it to an acceptor membrane or lipid particle. This results in intermembrane transfer of lipids.",
+  "namespace": "molecular_function",
+  "label": "STARD7 transports Q10 to plasma membrane"
+}

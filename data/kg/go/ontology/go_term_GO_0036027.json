@@ -1,0 +1,45 @@
+{
+  "id": "GO:0036027",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036027",
+  "relationships": {
+    "is_a": [
+      "GO:0097180"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PCI-PLAU complex",
+      "SERPINA5-PLAU complex",
+      "plasma serine protease inhibitor-PLAU complex",
+      "protein C inhibitor-U-plasminogen activator complex",
+      "protein C inhibitor-uPA complex",
+      "protein C inhibitor-urokinase-type plasminogen activator complex",
+      "serpin A5-PLAU complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ans"
+    ],
+    "PMID": [
+      "10340997",
+      "3501295",
+      "8536714"
+    ],
+    "PR": [
+      "000014685",
+      "000014685",
+      "000014685",
+      "000012826",
+      "000012826",
+      "000012826",
+      "000014685"
+    ]
+  },
+  "definition": "A heterodimeric protein complex that contains protein C inhibitor (SERPINA5) and urokinase-type plasminogen activator (PLAU); formation of the complex inhibits the serine protease activity of urokinase-type plasminogen activator.",
+  "namespace": "cellular_component",
+  "label": "protein C inhibitor-PLAU complex"
+}

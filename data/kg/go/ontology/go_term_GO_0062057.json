@@ -1,0 +1,25 @@
+{
+  "id": "GO:0062057",
+  "uri": "http://purl.obolibrary.org/obo/GO_0062057",
+  "relationships": {
+    "is_a": [
+      "GO:0015138",
+      "GO:0015183",
+      "GO:0015297"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "29995997"
+    ]
+  },
+  "definition": "Enables the transport of L-aspartate and fumarate across a membrane according to the reaction L-aspartate (out) + fumarate (in) = L-aspartate (in) + fumarate (out).",
+  "namespace": "molecular_function",
+  "label": "L-aspartate:fumarate antiporter activity"
+}

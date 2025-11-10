@@ -1,0 +1,43 @@
+{
+  "id": "GO:0008448",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008448",
+  "relationships": {
+    "is_a": [
+      "GO:0016811",
+      "GO:0019213"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-acetamido-2-deoxy-D-glucose-6-phosphate amidohydrolase activity",
+      "N-acetyl-D-glucosamine-6-phosphate amidohydrolase activity",
+      "acetylaminodeoxyglucosephosphate acetylhydrolase activity",
+      "acetylglucosamine phosphate deacetylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.25",
+      "3.5.1.25",
+      "3.5.1.25",
+      "3.5.1.25",
+      "3.5.1.25"
+    ],
+    "MetaCyc": [
+      "NAG6PDEACET-RXN"
+    ],
+    "RHEA": [
+      "22936",
+      "22936"
+    ],
+    "Reactome": [
+      "R-HSA-6803789"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + N-acetyl-D-glucosamine 6-phosphate = acetate + D-glucosamine 6-phosphate.",
+  "namespace": "molecular_function",
+  "label": "AMDHD2 hydrolyses GlcNGc-6-P to GlcN6P and CCA"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032411",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032411",
+  "relationships": {
+    "is_a": [
+      "GO:0044093",
+      "GO:0051050"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of transporter activity",
+      "up-regulation of transporter activity",
+      "upregulation of transporter activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of transporter activity",
+      "stimulation of transporter activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the activity of a transporter.",
+  "namespace": "biological_process",
+  "label": "positive regulation of transporter activity"
+}

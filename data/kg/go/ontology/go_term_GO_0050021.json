@@ -1,0 +1,37 @@
+{
+  "id": "GO:0050021",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050021",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-arabinono-1,4-lactone lactonohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.15",
+      "3.1.1.15",
+      "3.1.1.15"
+    ],
+    "KEGG_REACTION": [
+      "R02526"
+    ],
+    "MetaCyc": [
+      "L-ARABINONOLACTONASE-RXN"
+    ],
+    "RHEA": [
+      "16217",
+      "16217"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-arabinono-1,4-lactone + H2O = L-arabinonate + H+.",
+  "namespace": "molecular_function",
+  "label": "L-arabinonolactonase activity"
+}

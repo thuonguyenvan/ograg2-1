@@ -1,0 +1,32 @@
+{
+  "id": "GO:0016556",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016556",
+  "relationships": {
+    "is_a": [
+      "GO:0009451",
+      "GO:0016071"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "mRNA editing"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-75072"
+    ],
+    "GOC": [
+      "curators",
+      "dph",
+      "hjd",
+      "tb"
+    ]
+  },
+  "definition": "The covalent alteration of one or more nucleotides within an mRNA molecule to produce an mRNA molecule with a sequence that differs from that coded genetically.",
+  "namespace": "biological_process",
+  "label": "mRNA Editing"
+}

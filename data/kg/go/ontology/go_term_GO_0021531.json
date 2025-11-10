@@ -1,0 +1,35 @@
+{
+  "id": "GO:0021531",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021531",
+  "relationships": {
+    "is_a": [
+      "GO:0021515",
+      "GO:0060019"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "radial glial cell differentiation in spinal cord"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "16185248"
+    ]
+  },
+  "definition": "The process in which neuroepithelial cells in the ventral neural tube acquire specialized structural and/or functional features of radial glial cells. Radial cell precursors differentiate into both neuronal cell types and mature radial glial cells. Mature radial glial cells regulate the axon growth and pathfinding processes that occur during white matter patterning of the developing spinal cord. Differentiation includes the processes involved in commitment of a cell to a specific fate.",
+  "namespace": "biological_process",
+  "label": "spinal cord radial glial cell differentiation"
+}

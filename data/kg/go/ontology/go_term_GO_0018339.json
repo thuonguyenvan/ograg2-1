@@ -1,0 +1,30 @@
+{
+  "id": "GO:0018339",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018339",
+  "relationships": {
+    "is_a": [
+      "GO:0018197",
+      "GO:0018198"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptidyl-L-beta-methylthioaspartic acid anabolism from peptidyl-aspartic acid",
+      "peptidyl-L-beta-methylthioaspartic acid formation from peptidyl-aspartic acid",
+      "peptidyl-L-beta-methylthioaspartic acid synthesis from peptidyl-aspartic acid",
+      "peptidyl-aspartic acid methylthiolation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RESID": [
+      "AA0232",
+      "AA0232"
+    ]
+  },
+  "definition": "The modification of peptidyl-aspartic acid to form peptidyl-L-beta-methylthioaspartic acid, typical of bacterial ribosomal protein S12.",
+  "namespace": "biological_process",
+  "label": "peptidyl-L-beta-methylthioaspartic acid biosynthetic process from peptidyl-aspartic acid"
+}

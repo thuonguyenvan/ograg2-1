@@ -1,0 +1,63 @@
+{
+  "id": "GO:1905259",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905259",
+  "relationships": {
+    "is_a": [
+      "GO:1905258",
+      "GO:2001243"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of intrinsic apoptotic signaling pathway in response to nitrosative stress",
+      "down regulation of nitrosative stress-induced intrinsic apoptotic signaling pathway",
+      "down-regulation of intrinsic apoptotic signaling pathway in response to nitrosative stress",
+      "down-regulation of nitrosative stress-induced intrinsic apoptotic signaling pathway",
+      "downregulation of intrinsic apoptotic signaling pathway in response to nitrosative stress",
+      "downregulation of nitrosative stress-induced intrinsic apoptotic signaling pathway",
+      "negative regulation of intrinsic apoptotic signaling pathway in response to nitrosative stress"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of intrinsic apoptotic signaling pathway in response to nitrosative stress",
+      "inhibition of nitrosative stress-induced intrinsic apoptotic signaling pathway"
+    ],
+    "related": [
+      "down regulation of nitrosative stress-induced apoptosis",
+      "down-regulation of nitrosative stress-induced apoptosis",
+      "downregulation of nitrosative stress-induced apoptosis",
+      "inhibition of nitrosative stress-induced apoptosis",
+      "negative regulation of nitrosative stress-induced apoptosis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "14752510"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of intrinsic apoptotic signaling pathway in response to nitrosative stress.",
+  "namespace": "biological_process",
+  "label": "negative regulation of nitrosative stress-induced intrinsic apoptotic signaling pathway"
+}

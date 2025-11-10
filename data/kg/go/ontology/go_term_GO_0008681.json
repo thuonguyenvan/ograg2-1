@@ -1,0 +1,31 @@
+{
+  "id": "GO:0008681",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008681",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "2-OCTAPRENYL-6-METHOXYPHENOL-HYDROX-RXN"
+    ],
+    "RHEA": [
+      "29407",
+      "29407"
+    ],
+    "PMID": [
+      "27822549",
+      "4572721"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-methoxy-6-(all-trans-octaprenyl)phenol + H+ + NADPH + O2 = 2-methoxy-6-all-trans-octaprenyl-1,4-benzoquinol + H2O + NADP+.",
+  "namespace": "molecular_function",
+  "label": "2-octaprenyl-6-methoxyphenol hydroxylase activity"
+}

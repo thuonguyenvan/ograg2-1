@@ -1,0 +1,28 @@
+{
+  "id": "GO:0043130",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043130",
+  "relationships": {
+    "is_a": [
+      "GO:0032182"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1169404",
+      "R-HSA-205008",
+      "R-HSA-983152"
+    ],
+    "GOC": [
+      "ecd"
+    ]
+  },
+  "definition": "Binding to ubiquitin, a protein that when covalently bound to other cellular proteins marks them for proteolytic degradation.",
+  "namespace": "molecular_function",
+  "label": "Transfer of ubiquitin from E1 to E2"
+}

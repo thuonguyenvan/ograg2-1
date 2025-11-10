@@ -1,0 +1,26 @@
+{
+  "id": "GO:0006238",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006238",
+  "relationships": {
+    "is_a": [
+      "GO:0009224",
+      "GO:0010138"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytidine monophosphate salvage"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process that generates CMP, cytidine monophosphate, from derivatives of it without de novo synthesis.",
+  "namespace": "biological_process",
+  "label": "CMP salvage"
+}

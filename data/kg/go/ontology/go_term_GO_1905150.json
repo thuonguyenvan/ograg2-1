@@ -1,0 +1,38 @@
+{
+  "id": "GO:1905150",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905150",
+  "relationships": {
+    "is_a": [
+      "GO:2000649"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of voltage gated sodium channel activity",
+      "regulation of voltage-dependent sodium channel activity",
+      "regulation of voltage-gated sodium ion channel activity",
+      "regulation of voltage-sensitive sodium channel"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000059"
+    ],
+    "PMID": [
+      "24198377"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of voltage-gated sodium channel activity.",
+  "namespace": "biological_process",
+  "label": "regulation of voltage-gated sodium channel activity"
+}

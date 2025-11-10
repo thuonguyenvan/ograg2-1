@@ -1,0 +1,38 @@
+{
+  "id": "GO:0018796",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018796",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4,5-dihydroxyphthalate carboxy-lyase (3,4-dihydroxybenzoate-forming)",
+      "4,5-dihydroxyphthalate carboxy-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.55",
+      "4.1.1.55",
+      "4.1.1.55",
+      "4.1.1.55"
+    ],
+    "MetaCyc": [
+      "45-DIHYDROXYPHTHALATE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "24184"
+    ],
+    "UM-BBD_enzymeID": [
+      "r0149"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4,5-dihydroxyphthalate = 3,4-dihydroxybenzoate + CO2.",
+  "namespace": "molecular_function",
+  "label": "4,5-dihydroxyphthalate decarboxylase activity"
+}

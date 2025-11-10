@@ -1,0 +1,31 @@
+{
+  "id": "GO:0030156",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030156",
+  "relationships": {
+    "is_a": [
+      "GO:0005102"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "benzodiazepine receptor ligand"
+    ],
+    "related": [
+      "diazepam binding inhibitor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ceb",
+      "mah"
+    ],
+    "PMID": [
+      "9915832"
+    ]
+  },
+  "definition": "Binding to a peripheral benzodiazepine receptor (PBR).",
+  "namespace": "molecular_function",
+  "label": "benzodiazepine receptor binding"
+}

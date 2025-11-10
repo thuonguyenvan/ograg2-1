@@ -1,0 +1,31 @@
+{
+  "id": "GO:0045596",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045596",
+  "relationships": {
+    "is_a": [
+      "GO:0045595",
+      "GO:0048523",
+      "GO:0051093"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of cell differentiation",
+      "down-regulation of cell differentiation",
+      "downregulation of cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of cell differentiation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of cell differentiation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of cell differentiation"
+}

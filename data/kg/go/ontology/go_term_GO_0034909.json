@@ -1,0 +1,30 @@
+{
+  "id": "GO:0034909",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034909",
+  "relationships": {
+    "is_a": [
+      "GO:0016645"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.99.14"
+    ],
+    "RHEA": [
+      "34223"
+    ],
+    "UM-BBD_reactionID": [
+      "r1441",
+      "r1441"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 6-hydroxypseudooxynicotine + H2O + OH- = 6-hydroxy-3-succinoylpyridine + 4 H+ + 4 e- + methylamine.",
+  "namespace": "molecular_function",
+  "label": "6-hydroxypseudooxynicotine dehydrogenase activity"
+}

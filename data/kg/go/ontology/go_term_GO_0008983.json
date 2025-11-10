@@ -1,0 +1,71 @@
+{
+  "id": "GO:0008983",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008983",
+  "relationships": {
+    "is_a": [
+      "GO:0008757",
+      "GO:0051998"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein glutamate O-methylase activity",
+      "protein glutamate O-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "methyl-accepting chemotaxis protein O-methyltransferase activity"
+    ],
+    "related": [
+      "MCP methyltransferase I",
+      "MCP methyltransferase II",
+      "S-adenosyl-L-methionine:protein-L-glutamate O-methyltransferase activity",
+      "S-adenosylmethionine-glutamyl methyltransferase activity",
+      "S-adenosylmethionine:protein-carboxyl O-methyltransferase activity",
+      "methyl-accepting chemotaxis protein methyltransferase II",
+      "protein O-methyltransferase activity",
+      "protein carboxyl-O-methyltransferase activity",
+      "protein carboxyl-methylase activity",
+      "protein carboxylmethyltransferase II",
+      "protein carboxymethylase activity",
+      "protein carboxymethyltransferase activity",
+      "protein methylase II",
+      "protein(aspartate)methyltransferase activity",
+      "protein(carboxyl)methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.80",
+      "2.1.1.80",
+      "2.1.1.80",
+      "2.1.1.80",
+      "2.1.1.80",
+      "2.1.1.80",
+      "2.1.1.80",
+      "2.1.1.80",
+      "2.1.1.80",
+      "2.1.1.80",
+      "2.1.1.80",
+      "2.1.1.80",
+      "2.1.1.80",
+      "2.1.1.80",
+      "2.1.1.80",
+      "2.1.1.80",
+      "2.1.1.80",
+      "2.1.1.80"
+    ],
+    "MetaCyc": [
+      "CHER-RXN"
+    ],
+    "RESID": [
+      "AA0072"
+    ],
+    "RHEA": [
+      "24452"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + protein L-glutamate = S-adenosyl-L-homocysteine + protein L-glutamate 5-methyl ester; this reaction is the methylation of peptidyl-L-glutamate to form peptidyl-L-glutamate 5-methyl ester.",
+  "namespace": "molecular_function",
+  "label": "protein-glutamate O-methyltransferase activity"
+}

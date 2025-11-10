@@ -1,0 +1,31 @@
+{
+  "id": "GO:0008512",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008512",
+  "relationships": {
+    "is_a": [
+      "GO:0008271",
+      "GO:0015295"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulfate/hydrogen symporter activity",
+      "sulfate:hydrogen symporter activity",
+      "sulphate:hydrogen symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "28574"
+    ],
+    "TC": [
+      "2.A.53.-.-"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: sulfate(out) + H+(out) = sulfate(in) + H+(in).",
+  "namespace": "molecular_function",
+  "label": "sulfate:proton symporter activity"
+}

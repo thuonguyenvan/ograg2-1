@@ -1,0 +1,30 @@
+{
+  "id": "GO:0098792",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098792",
+  "relationships": {
+    "is_a": [
+      "GO:0016236"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "autophagy",
+      "pad"
+    ],
+    "PMID": [
+      "19802565",
+      "20159618",
+      "25497060"
+    ]
+  },
+  "definition": "The selective degradation of intracellular pathogen or some part of an intracellular pathogen (e.g. viral capsid) by macroautophagy.",
+  "namespace": "biological_process",
+  "label": "xenophagy"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:1901818",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901818",
+  "relationships": {
+    "is_a": [
+      "GO:0016117",
+      "GO:0016120"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "beta-zeacarotene anabolism",
+      "beta-zeacarotene biosynthesis",
+      "beta-zeacarotene formation",
+      "beta-zeacarotene synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "3710717"
+    ],
+    "UniPathway": [
+      "UPA00805"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of beta-zeacarotene.",
+  "namespace": "biological_process",
+  "label": "beta-zeacarotene biosynthetic process"
+}

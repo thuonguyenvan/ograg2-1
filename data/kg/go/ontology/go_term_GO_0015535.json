@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015535",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015535",
+  "relationships": {
+    "is_a": [
+      "GO:0009679",
+      "GO:0015150"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fucose:hydrogen symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TRANS-RXN-20"
+    ],
+    "RHEA": [
+      "29023"
+    ],
+    "TC": [
+      "2.A.1.7.1"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: fucose(out) + H+(out) = fucose(in) + H+(in).",
+  "namespace": "molecular_function",
+  "label": "fucose:proton symporter activity"
+}

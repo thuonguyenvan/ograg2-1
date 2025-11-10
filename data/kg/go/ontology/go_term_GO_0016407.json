@@ -1,0 +1,34 @@
+{
+  "id": "GO:0016407",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016407",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acetylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5628871",
+      "R-HSA-5660660",
+      "R-HSA-5682044",
+      "R-HSA-6792712",
+      "R-HSA-6805638",
+      "R-HSA-73736",
+      "R-HSA-9854415"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Catalysis of the transfer of an acetyl group to an acceptor molecule.",
+  "namespace": "molecular_function",
+  "label": "ACAT1 tetramer acetylates IDH2 dimer"
+}

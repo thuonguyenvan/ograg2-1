@@ -1,0 +1,37 @@
+{
+  "id": "GO:0008379",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008379",
+  "relationships": {
+    "is_a": [
+      "GO:0140824"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TPx activity",
+      "TrxPx activity",
+      "thiol peroxidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN0-267"
+    ],
+    "RHEA": [
+      "63528",
+      "63528"
+    ],
+    "Reactome": [
+      "R-HSA-3322995",
+      "R-HSA-3341343",
+      "R-HSA-3697882",
+      "R-HSA-3697894"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [thioredoxin]-dithiol + hydrogen peroxide = [thioredoxin]-disulfide + H2O.",
+  "namespace": "molecular_function",
+  "label": "PRDX5 reduces peroxynitrite to nitrite using TXN2"
+}

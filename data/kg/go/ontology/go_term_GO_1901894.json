@@ -1,0 +1,57 @@
+{
+  "id": "GO:1901894",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901894",
+  "relationships": {
+    "is_a": [
+      "GO:0022898",
+      "GO:0043462"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of ATP phosphohydrolase (Ca2+-transporting)",
+      "regulation of Ca(2+)-transporting ATPase activity",
+      "regulation of Ca2+-pumping ATPase activity",
+      "regulation of Ca2+-transporting ATPase activity",
+      "regulation of calcium transporting ATPase activity",
+      "regulation of calcium-transporting ATPase activity"
+    ],
+    "broad": [
+      "regulation of calcium pump"
+    ],
+    "narrow": [
+      "regulation of calcium ABC transporter",
+      "regulation of calcium efflux ATPase",
+      "regulation of calcium-translocating P-type ATPase activity",
+      "regulation of plasma membrane Ca-ATPase",
+      "regulation of sarco(endo)plasmic reticulum Ca2+-ATPase",
+      "regulation of sarcoplasmic reticulum ATPase"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "19708671"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of an ATPase-coupled calcium transmembrane transporter activity.",
+  "namespace": "biological_process",
+  "label": "regulation of ATPase-coupled calcium transmembrane transporter activity"
+}

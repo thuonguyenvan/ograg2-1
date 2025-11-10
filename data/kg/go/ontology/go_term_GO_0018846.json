@@ -1,0 +1,44 @@
+{
+  "id": "GO:0018846",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018846",
+  "relationships": {
+    "is_a": [
+      "GO:0016860"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "styrene oxide isomerase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "SOI activity",
+      "styrene-oxide isomerase (epoxide-cleaving)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.99.7",
+      "5.3.99.7",
+      "5.3.99.7",
+      "5.3.99.7"
+    ],
+    "KEGG_REACTION": [
+      "R02615"
+    ],
+    "MetaCyc": [
+      "STYRENE-OXIDE-ISOMERASE-RXN"
+    ],
+    "RHEA": [
+      "21604",
+      "21604"
+    ],
+    "UM-BBD_reactionID": [
+      "r0034"
+    ]
+  },
+  "definition": "Catalysis of the reaction: styrene oxide = phenylacetaldehyde.",
+  "namespace": "molecular_function",
+  "label": "styrene-oxide isomerase activity"
+}

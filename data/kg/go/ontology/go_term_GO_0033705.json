@@ -1,0 +1,34 @@
+{
+  "id": "GO:0033705",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033705",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "GDP-4-keto-6-deoxy-D-mannose reductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "GDP-6-deoxy-D-lyxo-4-hexulose reductase activity",
+      "GDP-6-deoxy-D-mannose:NAD(P)+ 4-oxidoreductase (D-rhamnose-forming) activity",
+      "Rmd"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.281",
+      "1.1.1.281",
+      "1.1.1.281",
+      "1.1.1.281",
+      "1.1.1.281",
+      "1.1.1.281"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GDP-6-deoxy-D-mannose + NAD(P)+ = GDP-4-dehydro-6-deoxy-D-mannose + NAD(P)H + H+.",
+  "namespace": "molecular_function",
+  "label": "GDP-4-dehydro-6-deoxy-D-mannose reductase activity"
+}

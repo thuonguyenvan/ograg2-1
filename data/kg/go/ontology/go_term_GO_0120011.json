@@ -1,0 +1,29 @@
+{
+  "id": "GO:0120011",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120011",
+  "relationships": {
+    "is_a": [
+      "GO:0015918",
+      "GO:0120009"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "20823909",
+      "24220498",
+      "25797198"
+    ]
+  },
+  "definition": "The transport of sterols between membranes in which a sterol molecule is transported through an aqueous phase from the outer leaflet of a donor membrane to the outer leaflet of an acceptor membrane. This process does not require metabolic energy and can be either spontaneous or mediated by lipid transfer proteins (LTPs).",
+  "namespace": "biological_process",
+  "label": "intermembrane sterol transfer"
+}

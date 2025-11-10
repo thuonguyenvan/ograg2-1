@@ -1,0 +1,27 @@
+{
+  "id": "GO:0033528",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033528",
+  "relationships": {
+    "is_a": [
+      "GO:0033477"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5441",
+      "PWY-5441"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A cyclic series of interconversions involving S-methyl-L-methionine, S-adenosyl-L-homocysteine, S-adenosyl-L-methionine, L-homocysteine, and L-methionine. Converts the methionine group of adenosylmethionine back to free methionine, and may serve regulate the cellular adenosylmethionine level.",
+  "namespace": "biological_process",
+  "label": "S-methylmethionine cycle"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0030370",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030370",
+  "relationships": {
+    "is_a": [
+      "GO:0005102"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ICAM-3 receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "ICAM-3 receptor ligand",
+      "intercellular adhesion molecule-3 receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ceb"
+    ],
+    "PMID": [
+      "11473836"
+    ]
+  },
+  "definition": "Binding to a receptor for intercellular adhesion molecule-3 (ICAM-3), such as DC-SIGN and LFA-1.",
+  "namespace": "molecular_function",
+  "label": "intercellular adhesion molecule-3 receptor binding"
+}

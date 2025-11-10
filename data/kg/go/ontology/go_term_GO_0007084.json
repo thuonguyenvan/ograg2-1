@@ -1,0 +1,35 @@
+{
+  "id": "GO:0007084",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007084",
+  "relationships": {
+    "is_a": [
+      "GO:0031468",
+      "GO:0101024"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "nuclear envelope repair",
+      "nuclear envelope resealing"
+    ],
+    "narrow": [],
+    "related": [
+      "mitotic nuclear envelope reassembly"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2995410"
+    ],
+    "PMID": [
+      "26040712",
+      "28242692",
+      "32109380",
+      "32848252"
+    ]
+  },
+  "definition": "The mitotic cell cycle process involving ESCRTIII that results in reformation of the nuclear envelope after mitotic nuclear division. In organisms undergoing closed mitosis this involves resealing or &apos;repair&apos; of the nuclear envelope in the nuclear bridge.",
+  "namespace": "biological_process",
+  "label": "Nuclear Envelope (NE) Reassembly"
+}

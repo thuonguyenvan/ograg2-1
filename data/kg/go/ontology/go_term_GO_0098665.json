@@ -1,0 +1,34 @@
+{
+  "id": "GO:0098665",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098665",
+  "relationships": {
+    "is_a": [
+      "GO:0043235"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5-HT receptor complex",
+      "5-hydroxytryptamine receptor complex",
+      "5HT receptor complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bhm"
+    ],
+    "GO_REF": [
+      "0000088"
+    ],
+    "PMID": [
+      "16116092"
+    ]
+  },
+  "definition": "A protein complex that is capable of serotonin receptor activity.",
+  "namespace": "cellular_component",
+  "label": "serotonin receptor complex"
+}

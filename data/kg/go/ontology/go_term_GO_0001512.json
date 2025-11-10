@@ -1,0 +1,49 @@
+{
+  "id": "GO:0001512",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001512",
+  "relationships": {
+    "is_a": [
+      "GO:0016679"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ribosyldihydronicotinamide dehydrogenase (quinone) activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "NRH:quinone oxidoreductase 2 activity"
+    ],
+    "related": [
+      "N-ribosyldihydronicotinamide dehydrogenase (quinone) activity",
+      "NQO2",
+      "NQO2 activity",
+      "QR2 activity",
+      "quinone reductase 2 activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.10.5.1",
+      "1.10.5.1",
+      "1.10.5.1",
+      "1.10.5.1",
+      "1.10.5.1",
+      "1.10.5.1",
+      "1.10.5.1"
+    ],
+    "MetaCyc": [
+      "1.10.99.2-RXN"
+    ],
+    "RHEA": [
+      "12364",
+      "12364"
+    ],
+    "Reactome": [
+      "R-HSA-8936519"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-(beta-D-ribofuranosyl)-1,4-dihydronicotinamide + a quinone = 1-(beta-D-ribofuranosyl)nicotinamide + a hydroquinone.",
+  "namespace": "molecular_function",
+  "label": "NQO2:FAD dimer reduces quinones to hydroquinones"
+}

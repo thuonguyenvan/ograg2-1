@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102395",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102395",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.68",
+      "1.13.11.68"
+    ],
+    "MetaCyc": [
+      "RXN-13642"
+    ],
+    "RHEA": [
+      "34399"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 9-cis-beta-carotene + O2 = 9-cis-10&apos;-apo-beta-carotenal + beta-ionone.",
+  "namespace": "molecular_function",
+  "label": "9-cis-beta-carotene 9&apos;,10&apos;-cleavage oxygenase activity"
+}

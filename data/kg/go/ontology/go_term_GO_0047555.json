@@ -1,0 +1,52 @@
+{
+  "id": "GO:0047555",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047555",
+  "relationships": {
+    "is_a": [
+      "GO:0004114"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3&apos;,5&apos; cyclic-GMP phosphodiesterase activity",
+      "cGMP phosphodiesterase activity",
+      "cGMP-specific phosphodiesterase activity",
+      "cyclic GMP phosphodiesterase activity",
+      "guanosine cyclic 3&apos;,5&apos;-phosphate phosphodiesterase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3&apos;,5&apos;-cyclic-GMP 5&apos;-nucleotidohydrolase activity",
+      "cGMP-PDE",
+      "cyclic 3&apos;,5&apos;-GMP phosphodiesterase activity",
+      "cyclic guanosine 3&apos;,5&apos;-monophosphate phosphodiesterase activity",
+      "cyclic guanosine 3&apos;,5&apos;-phosphate phosphodiesterase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.4.35",
+      "3.1.4.35",
+      "3.1.4.35",
+      "3.1.4.35",
+      "3.1.4.35",
+      "3.1.4.35"
+    ],
+    "MetaCyc": [
+      "35-CYCLIC-GMP-PHOSPHODIESTERASE-RXN"
+    ],
+    "RHEA": [
+      "16957",
+      "16957"
+    ],
+    "Reactome": [
+      "R-HSA-4086392",
+      "R-HSA-418456",
+      "R-HSA-74059"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;,5&apos;-cyclic GMP + H2O = GMP + H+.",
+  "namespace": "molecular_function",
+  "label": "PDE6 hydrolyses cGMP to GMP"
+}

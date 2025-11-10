@@ -1,0 +1,38 @@
+{
+  "id": "GO:0016592",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016592",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L mediator complex",
+      "Srb-mediator complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "TRAP complex"
+    ],
+    "related": [
+      "CDK8-containing TRAP/mediator complex"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Mediator_(coactivator)"
+    ],
+    "PMID": [
+      "11454195",
+      "16168358",
+      "17870225"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A protein complex that interacts with the carboxy-terminal domain of the largest subunit of RNA polymerase II and plays an active role in transducing the signal from a transcription factor to the transcriptional machinery. The mediator complex is required for activation of transcription of most protein-coding genes, but can also act as a transcriptional corepressor. The Saccharomyces complex contains several identifiable subcomplexes: a head domain comprising Srb2, -4, and -5, Med6, -8, and -11, and Rox3 proteins; a middle domain comprising Med1, -4, and -7, Nut1 and -2, Cse2, Rgr1, Soh1, and Srb7 proteins; a tail consisting of Gal11p, Med2p, Pgd1p, and Sin4p; and a regulatory subcomplex comprising Ssn2, -3, and -8, and Srb8 proteins. Metazoan mediator complexes have similar modular structures and include homologs of yeast Srb and Med proteins.",
+  "namespace": "cellular_component",
+  "label": "mediator complex"
+}

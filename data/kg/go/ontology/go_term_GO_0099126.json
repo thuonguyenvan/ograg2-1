@@ -1,0 +1,33 @@
+{
+  "id": "GO:0099126",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099126",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TGF-beta complex",
+      "TGF-beta dimer",
+      "TGFB complex",
+      "TGFB dimer",
+      "TGFbeta complex",
+      "TGFbeta dimer"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "22943793"
+    ]
+  },
+  "definition": "A protein complex acting as ligand of the transforming growth factor beta receptor complex, typically a homodimer of any of the TFGbeta isoforms. The precursor of TGFbeta proteins is cleaved into mature TGFbeta and the latency-associated peptide (LAP), which remains non-covalently linked to mature TGFbeta rendering it inactive. TGFbeta is activated by dimerization and dissociation of the LAP.",
+  "namespace": "cellular_component",
+  "label": "transforming growth factor beta complex"
+}

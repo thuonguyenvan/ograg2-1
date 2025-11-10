@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140295",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140295",
+  "relationships": {
+    "is_a": [
+      "GO:0048018"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "host-selective toxin",
+      "innate receptor ligand activity",
+      "necrotrophic effector"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "20601497"
+    ]
+  },
+  "definition": "The activity of a pathogen-derived entity that interacts with a host receptor to activate effector-triggered immunity.",
+  "namespace": "molecular_function",
+  "label": "pathogen-derived receptor ligand activity"
+}

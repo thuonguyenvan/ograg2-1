@@ -1,0 +1,27 @@
+{
+  "id": "GO:0141047",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141047",
+  "relationships": {
+    "is_a": [
+      "GO:0003674"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tag"
+    ],
+    "broad": [
+      "covalent modifier"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "17632063"
+    ]
+  },
+  "definition": "A molecular function exhibited by a protein that is covalently attached (AKA tagged or conjugated) to another molecule (for example a protein or a lipid) where it acts as a marker, recognized by the cellular apparatus to target the tagged protein for some cellular process such as modification, sequestration, transport or degradation.",
+  "namespace": "molecular_function",
+  "label": "molecular tag activity"
+}

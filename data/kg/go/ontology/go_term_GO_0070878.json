@@ -1,0 +1,32 @@
+{
+  "id": "GO:0070878",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070878",
+  "relationships": {
+    "is_a": [
+      "GO:0003723"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pri-miRNA binding",
+      "primary microRNA binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sl"
+    ],
+    "PMID": [
+      "15531877",
+      "15574589",
+      "15531877",
+      "15574589"
+    ]
+  },
+  "definition": "Binding to a primary microRNA (pri-miRNA) transcript, an RNA molecule that is processed into a short hairpin-shaped structure called a pre-miRNA and finally into a functional miRNA. Both double-stranded and single-stranded regions of a pri-miRNA are required for binding.",
+  "namespace": "molecular_function",
+  "label": "primary miRNA binding"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0019205",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019205",
+  "relationships": {
+    "is_a": [
+      "GO:0016301"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "nucleobase, nucleoside, nucleotide kinase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a phosphate group, usually from ATP or GTP, to a nucleobase, nucleoside, nucleotide or polynucleotide substrate.",
+  "namespace": "molecular_function",
+  "label": "nucleobase-containing compound kinase activity"
+}

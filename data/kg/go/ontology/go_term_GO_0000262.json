@@ -1,0 +1,31 @@
+{
+  "id": "GO:0000262",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000262",
+  "relationships": {
+    "is_a": [
+      "GO:0005694"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "mitochondrial DNA",
+      "mtDNA"
+    ],
+    "related": [
+      "mitochondrial genome"
+    ]
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1186327184"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A chromosome found in the mitochondrion of a eukaryotic cell.",
+  "namespace": "cellular_component",
+  "label": "mitochondrial chromosome"
+}

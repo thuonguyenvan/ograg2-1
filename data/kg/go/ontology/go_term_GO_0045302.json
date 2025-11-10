@@ -1,0 +1,39 @@
+{
+  "id": "GO:0045302",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045302",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3alpha,7alpha,12alpha-trihydroxy-5beta-cholan-24-oylglycine amidohydrolase activity",
+      "bile salt hydrolase activity",
+      "choloyltaurine hydrolase activity",
+      "glycocholase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.24",
+      "3.5.1.24",
+      "3.5.1.24",
+      "3.5.1.24",
+      "3.5.1.24",
+      "3.5.1.24"
+    ],
+    "MetaCyc": [
+      "CHOLOYLGLYCINE-HYDROLASE-RXN"
+    ],
+    "RHEA": [
+      "19353"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-alpha,7-alpha,12-alpha-trihydroxy-5-beta-cholan-24-oylglycine + H2O = 3-alpha,7-alpha,12-alpha-trihydroxy-5-beta-cholanate + glycine.",
+  "namespace": "molecular_function",
+  "label": "choloylglycine hydrolase activity"
+}

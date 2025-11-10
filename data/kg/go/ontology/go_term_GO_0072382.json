@@ -1,0 +1,31 @@
+{
+  "id": "GO:0072382",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072382",
+  "relationships": {
+    "is_a": [
+      "GO:0047496",
+      "GO:0072385"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "microtubule minus-end-directed vesicle localization"
+    ],
+    "broad": [],
+    "narrow": [
+      "microtubule minus-end-directed vesicle distribution"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "rl",
+      "rl"
+    ]
+  },
+  "definition": "The directed movement of a vesicle towards the minus end of a microtubule, mediated by motor proteins. This process begins with the attachment of a vesicle to a microtubule, and ends when the vesicle reaches its final destination.",
+  "namespace": "biological_process",
+  "label": "minus-end-directed vesicle transport along microtubule"
+}

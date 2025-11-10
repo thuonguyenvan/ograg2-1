@@ -1,0 +1,36 @@
+{
+  "id": "GO:0002948",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002948",
+  "relationships": {
+    "is_a": [
+      "GO:0016769"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ArcS",
+      "glutamine:preQ0-tRNA amidinotransferase"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.97"
+    ],
+    "RHEA": [
+      "54084",
+      "54084"
+    ],
+    "Wikipedia": [
+      "Archaeosine_synthase"
+    ],
+    "PMID": [
+      "20129918"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-glutamine + 7-cyano-7-carbaguanine15 in tRNA + H2O = L-glutamate + archaeine15 in tRNA.",
+  "namespace": "molecular_function",
+  "label": "archaeosine synthase activity"
+}

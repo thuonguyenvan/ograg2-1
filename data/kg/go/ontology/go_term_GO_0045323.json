@@ -1,0 +1,29 @@
+{
+  "id": "GO:0045323",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045323",
+  "relationships": {
+    "is_a": [
+      "GO:0098802"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IL-1 receptor complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "add"
+    ],
+    "InterPro": [
+      "IPR004075"
+    ]
+  },
+  "definition": "A protein complex that binds interleukin-1; comprises an alpha and a beta subunit.",
+  "namespace": "cellular_component",
+  "label": "interleukin-1 receptor complex"
+}

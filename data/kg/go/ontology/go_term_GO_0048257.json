@@ -1,0 +1,29 @@
+{
+  "id": "GO:0048257",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048257",
+  "relationships": {
+    "is_a": [
+      "GO:0016889",
+      "GO:0048256"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3&apos; flap endonuclease activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid"
+    ],
+    "PMID": [
+      "10635319"
+    ]
+  },
+  "definition": "Catalysis of the cleavage of a 3&apos; flap structure in DNA, but not other DNA structures; processes the 3&apos; ends of Okazaki fragments in lagging strand DNA synthesis.",
+  "namespace": "molecular_function",
+  "label": "3&apos;-flap endonuclease activity"
+}

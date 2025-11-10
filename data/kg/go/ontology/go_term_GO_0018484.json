@@ -1,0 +1,41 @@
+{
+  "id": "GO:0018484",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018484",
+  "relationships": {
+    "is_a": [
+      "GO:0004029"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-hydroxybenzaldehyde:NAD+ oxidoreductase activity",
+      "p-hydroxybenzaldehyde dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.64",
+      "1.2.1.64",
+      "1.2.1.64",
+      "1.2.1.64"
+    ],
+    "MetaCyc": [
+      "HYDROXYBENZALDEHYDE-OXIDATION-NAD-RXN"
+    ],
+    "RHEA": [
+      "20305"
+    ],
+    "Reactome": [
+      "R-HSA-9856794"
+    ],
+    "UM-BBD_reactionID": [
+      "r0273"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-hydroxybenzaldehyde + NAD+ + H2O = 4-hydroxybenzoate + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "Unknown dehydrogenase oxidizes 4-HBz"
+}

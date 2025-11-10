@@ -1,0 +1,33 @@
+{
+  "id": "GO:0031295",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031295",
+  "relationships": {
+    "is_a": [
+      "GO:0031294",
+      "GO:0050870"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "T cell co-stimulation",
+      "T lymphocyte costimulation",
+      "T-cell co-stimulation",
+      "T-cell costimulation",
+      "T-lymphocyte costimulation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-388841"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "The process of providing, via surface-bound receptor-ligand pairs, a second, antigen-independent, signal in addition to that provided by the T cell receptor to augment T cell activation.",
+  "namespace": "biological_process",
+  "label": "Costimulation by the CD28 family"
+}

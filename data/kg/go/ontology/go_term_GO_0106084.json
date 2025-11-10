@@ -1,0 +1,30 @@
+{
+  "id": "GO:0106084",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106084",
+  "relationships": {
+    "is_a": [
+      "GO:0106094"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nuclear membrane mitotic spindle pole body tethering complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Mps2-Bbp1-Spc29 complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "lnp"
+    ],
+    "PMID": [
+      "28356353"
+    ]
+  },
+  "definition": "A protein complex capable of interacting with the spindle pole body and the nuclear envelope, in order to embed the spindle pole body in the nuclear envelope at fusion sites of the inner and outer nuclear membrane.",
+  "namespace": "cellular_component",
+  "label": "mitotic nuclear membrane microtubule tethering complex"
+}

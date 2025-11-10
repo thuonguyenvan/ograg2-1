@@ -1,0 +1,38 @@
+{
+  "id": "GO:0002017",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002017",
+  "relationships": {
+    "is_a": [
+      "GO:0001977",
+      "GO:0001990",
+      "GO:0003084"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "aldosterone mediated regulation of blood volume",
+      "renal regulation of blood volume by aldosterone"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "aldosterone mediated control of body fluids"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ],
+    "ISBN": [
+      "0721643949"
+    ]
+  },
+  "definition": "The process in which the hormone aldosterone decreases the rate of diuresis and natriuresis resulting in increased blood volume.",
+  "namespace": "biological_process",
+  "label": "regulation of blood volume by renal aldosterone"
+}

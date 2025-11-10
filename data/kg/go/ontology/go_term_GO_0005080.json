@@ -1,0 +1,36 @@
+{
+  "id": "GO:0005080",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005080",
+  "relationships": {
+    "is_a": [
+      "GO:0019901"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PKC alpha binding",
+      "PKC binding",
+      "PKC delta binding",
+      "PKC eta binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "protein kinase C alpha binding",
+      "protein kinase C delta binding",
+      "protein kinase C eta binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "BHF",
+      "pr",
+      "BHF",
+      "pr"
+    ]
+  },
+  "definition": "Binding to protein kinase C.",
+  "namespace": "molecular_function",
+  "label": "protein kinase C binding"
+}

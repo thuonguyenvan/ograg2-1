@@ -1,0 +1,34 @@
+{
+  "id": "GO:0010487",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010487",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.79",
+      "2.5.1.79"
+    ],
+    "MetaCyc": [
+      "RXN-11190",
+      "RXN-11190"
+    ],
+    "RHEA": [
+      "30515"
+    ],
+    "PMID": [
+      "17560575"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methioninamine + spermidine = S-methyl-5&apos;-thioadenosine + thermospermine + H+.",
+  "namespace": "molecular_function",
+  "label": "thermospermine synthase activity"
+}

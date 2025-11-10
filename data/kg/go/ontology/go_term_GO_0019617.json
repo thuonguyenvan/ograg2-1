@@ -1,0 +1,32 @@
+{
+  "id": "GO:0019617",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019617",
+  "relationships": {
+    "is_a": [
+      "GO:0006090",
+      "GO:0006107",
+      "GO:0019619"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protocatechuate breakdown, meta-cleavage",
+      "protocatechuate catabolic process to oxaloacetate and pyruvate",
+      "protocatechuate degradation, meta-cleavage"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3,4-dihydroxybenzoate catabolic process, meta-cleavage"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P184-PWY",
+      "P184-PWY"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of protocatechuate, the anion of 3,4-dihydroxybenzoic acid, to yield oxaloacetate and pyruvate.",
+  "namespace": "biological_process",
+  "label": "protocatechuate catabolic process, meta-cleavage"
+}

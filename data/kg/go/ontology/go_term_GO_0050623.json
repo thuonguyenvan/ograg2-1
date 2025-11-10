@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050623",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050623",
+  "relationships": {
+    "is_a": [
+      "GO:0016646"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-canadine synthase activity",
+      "(R)-tetrahydroberberine:NADP+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.31",
+      "1.5.1.31",
+      "1.5.1.31",
+      "1.5.1.31"
+    ],
+    "KEGG_REACTION": [
+      "R07169"
+    ],
+    "MetaCyc": [
+      "1.5.1.31-RXN"
+    ],
+    "RHEA": [
+      "21268",
+      "21268"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-canadine + 2 NADP+ = berberine + H+ + 2 NADPH.",
+  "namespace": "molecular_function",
+  "label": "berberine reductase activity"
+}

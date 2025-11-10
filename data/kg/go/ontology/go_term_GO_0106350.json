@@ -1,0 +1,41 @@
+{
+  "id": "GO:0106350",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106350",
+  "relationships": {
+    "is_a": [
+      "GO:0120531"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "octaprenyl pyrophosphate synthase activity",
+      "trans-heptaprenyltranstransferase activity"
+    ],
+    "broad": [
+      "terpenyl pyrophosphate synthetase activity",
+      "trans-prenyltransferase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.90",
+      "2.5.1.90",
+      "2.5.1.90",
+      "2.5.1.90",
+      "2.5.1.90"
+    ],
+    "RHEA": [
+      "27798",
+      "27798"
+    ],
+    "PMID": [
+      "3519603",
+      "8037730"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2E,6E)-farnesyl diphosphate + 5 isopentenyl diphosphate = 5 diphosphate + all-trans-octaprenyl diphosphate.",
+  "namespace": "molecular_function",
+  "label": "all-trans-octaprenyl-diphosphate synthase activity"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0018449",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018449",
+  "relationships": {
+    "is_a": [
+      "GO:0016614"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.311"
+    ],
+    "RHEA": [
+      "28198",
+      "28198"
+    ],
+    "UM-BBD_reactionID": [
+      "r0032"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-1-phenylethanol + NAD+ = acetophenone + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "1-phenylethanol dehydrogenase activity"
+}

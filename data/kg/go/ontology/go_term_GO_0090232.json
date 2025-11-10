@@ -1,0 +1,31 @@
+{
+  "id": "GO:0090232",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090232",
+  "relationships": {
+    "is_a": [
+      "GO:0090231",
+      "GO:1901978"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "spindle checkpoint activation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ascb_2009",
+      "dph",
+      "tb",
+      "ascb_2009",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that increases the rate, frequency, or extent of the spindle checkpoint, a cell cycle checkpoint that delays the metaphase/anaphase transition until the spindle is correctly assembled and oriented, and chromosomes are attached to the spindle.",
+  "namespace": "biological_process",
+  "label": "positive regulation of spindle checkpoint"
+}

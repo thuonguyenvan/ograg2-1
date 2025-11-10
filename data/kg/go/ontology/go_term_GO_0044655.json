@@ -1,0 +1,29 @@
+{
+  "id": "GO:0044655",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044655",
+  "relationships": {
+    "is_a": [
+      "GO:0051454"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phagosomal reneutralization",
+      "phagosome pH elevation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rjd"
+    ],
+    "PMID": [
+      "22008230"
+    ]
+  },
+  "definition": "Any process that increases the pH of the phagosome, measured by the concentration of the hydrogen ion, as part of the process of phagosome maturation.",
+  "namespace": "biological_process",
+  "label": "phagosome reneutralization"
+}

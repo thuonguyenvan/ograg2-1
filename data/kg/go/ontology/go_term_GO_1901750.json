@@ -1,0 +1,39 @@
+{
+  "id": "GO:1901750",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901750",
+  "relationships": {
+    "is_a": [
+      "GO:0019370",
+      "GO:0043604",
+      "GO:0044272",
+      "GO:1901570"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "leukotriene D4 anabolism",
+      "leukotriene D4 biosynthesis",
+      "leukotriene D4 formation",
+      "leukotriene D4 synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "UniPathway": [
+      "UPA00880"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of leukotriene D4.",
+  "namespace": "biological_process",
+  "label": "leukotriene D4 biosynthetic process"
+}

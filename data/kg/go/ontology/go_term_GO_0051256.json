@@ -1,0 +1,35 @@
+{
+  "id": "GO:0051256",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051256",
+  "relationships": {
+    "is_a": [
+      "GO:0051255",
+      "GO:1903047"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitotic spindle midzone biogenesis",
+      "mitotic spindle midzone biosynthesis",
+      "mitotic spindle midzone formation",
+      "spindle midzone assembly involved in mitosis",
+      "spindle midzone biogenesis involved in mitosis",
+      "spindle midzone formation involved in mitosis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle",
+      "vw"
+    ],
+    "PMID": [
+      "24239120"
+    ]
+  },
+  "definition": "The cell cycle process in which the aggregation, arrangement and bonding together of a set of components forms the spindle midzone.",
+  "namespace": "biological_process",
+  "label": "mitotic spindle midzone assembly"
+}

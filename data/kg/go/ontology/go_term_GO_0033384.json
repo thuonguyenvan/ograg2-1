@@ -1,0 +1,35 @@
+{
+  "id": "GO:0033384",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033384",
+  "relationships": {
+    "is_a": [
+      "GO:0008654",
+      "GO:0016114",
+      "GO:0033383"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "geranyl diphosphate anabolism",
+      "geranyl diphosphate biosynthesis",
+      "geranyl diphosphate formation",
+      "geranyl diphosphate synthesis",
+      "geranyldiphosphate biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5122",
+      "PWY-5122"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of geranyl diphosphate.",
+  "namespace": "biological_process",
+  "label": "geranyl diphosphate biosynthetic process"
+}

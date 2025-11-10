@@ -1,0 +1,36 @@
+{
+  "id": "GO:0071770",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071770",
+  "relationships": {
+    "is_a": [
+      "GO:0022607"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DIM cell wall layer assembly",
+      "PDIM cell wall layer assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "DIM/DIP cell wall layer biogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "pr",
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "15653820",
+      "3149973"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components, including (phenyl)phthiocerol, phthiodiolone, phthiotriol dimycocerosate and diphthioceranate, to form the DIM/DIP layer of the Actinobacterium-type cell wall.",
+  "namespace": "biological_process",
+  "label": "DIM/DIP cell wall layer assembly"
+}

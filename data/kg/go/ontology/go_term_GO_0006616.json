@@ -1,0 +1,29 @@
+{
+  "id": "GO:0006616",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006616",
+  "relationships": {
+    "is_a": [
+      "GO:0065002"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SRP-dependent cotranslational membrane targeting, translocation",
+      "SRP-dependent cotranslational protein-membrane targeting, translocation",
+      "translocation during SRP-dependent cotranslational protein targeting to membrane"
+    ],
+    "broad": [
+      "ER translocation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "ISBN": [
+      "0716731363"
+    ]
+  },
+  "definition": "The process during cotranslational membrane targeting wherein proteins move across a membrane. SRP and its receptor initiate the transfer of the nascent chain across the endoplasmic reticulum (ER) membrane; they then dissociate from the chain, which is transferred to a set of transmembrane proteins, collectively called the translocon. Once the nascent chain translocon complex is assembled, the elongating chain passes directly from the large ribosomal subunit into the centers of the translocon, a protein-lined channel within the membrane. The growing chain is never exposed to the cytosol and does not fold until it reaches the ER lumen.",
+  "namespace": "biological_process",
+  "label": "SRP-dependent cotranslational protein targeting to membrane, translocation"
+}

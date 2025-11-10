@@ -1,0 +1,58 @@
+{
+  "id": "GO:0004365",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004365",
+  "relationships": {
+    "is_a": [
+      "GO:0043891"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "triosephosphate dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "3-phosphoglyceraldehyde dehydrogenase activity",
+      "D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating)",
+      "GAPDH activity",
+      "NAD-dependent glyceraldehyde phosphate dehydrogenase activity",
+      "NAD-dependent glyceraldehyde-3-phosphate dehydrogenase activity",
+      "NADH-glyceraldehyde phosphate dehydrogenase activity",
+      "dehydrogenase, glyceraldehyde phosphate",
+      "glyceraldehyde phosphate dehydrogenase (NAD)",
+      "glyceraldehyde-3-P-dehydrogenase activity",
+      "phosphoglyceraldehyde dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.12",
+      "1.2.1.12",
+      "1.2.1.12",
+      "1.2.1.12",
+      "1.2.1.12",
+      "1.2.1.12",
+      "1.2.1.12",
+      "1.2.1.12",
+      "1.2.1.12",
+      "1.2.1.12",
+      "1.2.1.12",
+      "1.2.1.12",
+      "1.2.1.12"
+    ],
+    "MetaCyc": [
+      "GAPOXNPHOSPHN-RXN"
+    ],
+    "RHEA": [
+      "10300"
+    ],
+    "Reactome": [
+      "R-HSA-70449",
+      "R-HSA-70482"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-glyceraldehyde 3-phosphate + phosphate + NAD+ = 3-phospho-D-glyceroyl phosphate + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "GAPDH tetramers reduce 1,3BPG to GA3P"
+}

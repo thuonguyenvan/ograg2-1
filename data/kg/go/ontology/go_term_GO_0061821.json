@@ -1,0 +1,30 @@
+{
+  "id": "GO:0061821",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061821",
+  "relationships": {
+    "is_a": [
+      "GO:0062037"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "telomeric Displacement-loop binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "nc"
+    ],
+    "PMID": [
+      "19734539"
+    ]
+  },
+  "definition": "Binding to a telomeric D-loop. A telomeric D-loop is a three-stranded DNA displacement loop that forms at the site where the telomeric 3&apos; single-stranded DNA overhang (formed of the repeat sequence TTAGGG in mammals) is tucked back inside the double-stranded component of telomeric DNA molecule, thus forming a t-loop or telomeric-loop and protecting the chromosome terminus.",
+  "namespace": "molecular_function",
+  "label": "telomeric D-loop binding"
+}

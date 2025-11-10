@@ -1,0 +1,31 @@
+{
+  "id": "GO:0050891",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050891",
+  "relationships": {
+    "is_a": [
+      "GO:0050878",
+      "GO:0140962"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "multicellular organismal water homeostasis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "body fluid osmoregulation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "A chemical homeostatic process involved in the maintenance of a steady state level of water within extracellular body fluids, such as blood, xylem or phloem, of a multicellular organism. This is distinct from maintenance of cellular homeostasis, which occurs within a cell.",
+  "namespace": "biological_process",
+  "label": "multicellular organismal-level water homeostasis"
+}

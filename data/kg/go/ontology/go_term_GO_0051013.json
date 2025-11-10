@@ -1,0 +1,28 @@
+{
+  "id": "GO:0051013",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051013",
+  "relationships": {
+    "is_a": [
+      "GO:0000226"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "microtubule severing activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ],
+    "PMID": [
+      "27037673"
+    ]
+  },
+  "definition": "The process in which a microtubule is broken down into smaller segments. Severing enzymes remove dimers from the middle of the filament to create new ends, unlike depolymerizing kinesins that use ATP to uncap microtubules at their ends.",
+  "namespace": "biological_process",
+  "label": "microtubule severing"
+}

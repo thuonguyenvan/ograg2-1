@@ -1,0 +1,39 @@
+{
+  "id": "GO:0090520",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090520",
+  "relationships": {
+    "is_a": [
+      "GO:0007165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sphingolipid mediated signal transduction",
+      "sphingolipid-mediated signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "ceramide 1-phosphate signaling pathway",
+      "ceramide signaling pathway",
+      "sphingosine signaling pathway"
+    ],
+    "related": [
+      "sphingolipid signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "9525917",
+      "20870412",
+      "20870412",
+      "20870412"
+    ],
+    "GOC": [
+      "signaling",
+      "signaling"
+    ]
+  },
+  "definition": "The series of molecular signals mediated by a sphingolipid.",
+  "namespace": "biological_process",
+  "label": "sphingolipid mediated signaling pathway"
+}

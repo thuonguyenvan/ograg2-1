@@ -1,0 +1,32 @@
+{
+  "id": "GO:0032790",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032790",
+  "relationships": {
+    "is_a": [
+      "GO:1903008"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "ribosome recycling"
+    ],
+    "related": [
+      "ribosome dissociation factor"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vk",
+      "db"
+    ],
+    "PMID": [
+      "9463391"
+    ]
+  },
+  "definition": "The disaggregation of a ribosome into its constituent components; includes the dissociation of ribosomal subunits.",
+  "namespace": "biological_process",
+  "label": "ribosome disassembly"
+}

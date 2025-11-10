@@ -1,0 +1,28 @@
+{
+  "id": "GO:0033198",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033198",
+  "relationships": {
+    "is_a": [
+      "GO:0014074",
+      "GO:0046683",
+      "GO:1901700"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to adenosine 5&apos;-triphosphate",
+      "response to adenosine triphosphate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sl"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an ATP (adenosine 5&apos;-triphosphate) stimulus.",
+  "namespace": "biological_process",
+  "label": "response to ATP"
+}

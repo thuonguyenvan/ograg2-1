@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006958",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006958",
+  "relationships": {
+    "is_a": [
+      "GO:0006956"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "complement cascade, classical pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-173623"
+    ],
+    "GOC": [
+      "add",
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "Any process involved in the activation of any of the steps of the classical pathway of the complement cascade which allows for the direct killing of microbes, the disposal of immune complexes, and the regulation of other immune processes.",
+  "namespace": "biological_process",
+  "label": "Classical antibody-mediated complement activation"
+}

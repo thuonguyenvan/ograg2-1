@@ -1,0 +1,41 @@
+{
+  "id": "GO:1903144",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903144",
+  "relationships": {
+    "is_a": [
+      "GO:0005884"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "actin filament of CAR",
+      "actin filament of actomyosin contractile ring",
+      "actin filament of actomyosin ring",
+      "actin filament of contractile actomyosin ring",
+      "actin filament of cytokinetic ring"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000064"
+    ],
+    "PMID": [
+      "20807799",
+      "24954052"
+    ]
+  },
+  "definition": "Any actin filament that is part of a actomyosin contractile ring.",
+  "namespace": "cellular_component",
+  "label": "actomyosin contractile ring actin filament"
+}

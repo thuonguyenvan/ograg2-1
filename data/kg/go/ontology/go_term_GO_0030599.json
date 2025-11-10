@@ -1,0 +1,45 @@
+{
+  "id": "GO:0030599",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030599",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pectin methylesterase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pectase activity",
+      "pectin demethoxylase activity",
+      "pectin methoxylase activity",
+      "pectin methyl esterase activity",
+      "pectin pectylhydrolase activity",
+      "pectinoesterase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.11",
+      "3.1.1.11",
+      "3.1.1.11",
+      "3.1.1.11",
+      "3.1.1.11",
+      "3.1.1.11",
+      "3.1.1.11",
+      "3.1.1.11"
+    ],
+    "MetaCyc": [
+      "RXN-19782"
+    ],
+    "RHEA": [
+      "22380"
+    ]
+  },
+  "definition": "Catalysis of the reaction: pectin + n H2O = n methanol + pectate.",
+  "namespace": "molecular_function",
+  "label": "pectinesterase activity"
+}

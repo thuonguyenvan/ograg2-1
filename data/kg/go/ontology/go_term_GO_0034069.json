@@ -1,0 +1,25 @@
+{
+  "id": "GO:0034069",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034069",
+  "relationships": {
+    "is_a": [
+      "GO:0008080"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "kanamycin acetyltransferase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cb"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + aminoglycoside = CoA + N-acetylaminoglycoside.",
+  "namespace": "molecular_function",
+  "label": "aminoglycoside N-acetyltransferase activity"
+}

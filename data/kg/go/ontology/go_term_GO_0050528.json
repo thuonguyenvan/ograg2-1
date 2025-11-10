@@ -1,0 +1,31 @@
+{
+  "id": "GO:0050528",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050528",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.77",
+      "3.1.1.77"
+    ],
+    "MetaCyc": [
+      "3.1.1.77-RXN",
+      "3.1.1.77-RXN"
+    ],
+    "RHEA": [
+      "12032"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-(acyloxy)acyl group of bacterial toxin = 3-hydroxyacyl group of bacterial toxin + a fatty acid.",
+  "namespace": "molecular_function",
+  "label": "acyloxyacyl hydrolase activity"
+}

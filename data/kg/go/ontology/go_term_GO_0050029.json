@@ -1,0 +1,40 @@
+{
+  "id": "GO:0050029",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050029",
+  "relationships": {
+    "is_a": [
+      "GO:0001716"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-lysine alpha-oxidase activity",
+      "L-lysine:oxygen 2-oxidoreductase (deaminating)",
+      "L-lysyl-alpha-oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.3.14",
+      "1.4.3.14",
+      "1.4.3.14",
+      "1.4.3.14"
+    ],
+    "KEGG_REACTION": [
+      "R00447"
+    ],
+    "MetaCyc": [
+      "L-LYSINE-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "14437",
+      "14437"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + L-lysine + O2 = 6-amino-2-oxohexanoate + H2O2 + NH4+.",
+  "namespace": "molecular_function",
+  "label": "L-lysine oxidase activity"
+}

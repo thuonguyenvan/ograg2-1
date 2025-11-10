@@ -1,0 +1,35 @@
+{
+  "id": "GO:0005031",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005031",
+  "relationships": {
+    "is_a": [
+      "GO:0005035"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TNF receptor activity",
+      "tumor necrosis factor-activated receptor activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "NGF/TNF (6 C-domain) receptor activity",
+      "TNF receptor activity, type I",
+      "TNF receptor activity, type II",
+      "tumor necrosis factor receptor activity, type I",
+      "tumor necrosis factor receptor activity, type II"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "http": [
+      "//lookwayup.com/"
+    ]
+  },
+  "definition": "Combining with tumor necrosis factor, a proinflammatory cytokine produced by monocytes and macrophages, to initiate a change in cell function.",
+  "namespace": "molecular_function",
+  "label": "tumor necrosis factor receptor activity"
+}

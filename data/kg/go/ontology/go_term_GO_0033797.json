@@ -1,0 +1,39 @@
+{
+  "id": "GO:0033797",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033797",
+  "relationships": {
+    "is_a": [
+      "GO:0016491"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "selenite:reduced acceptor oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.97.1.9",
+      "1.97.1.9"
+    ],
+    "KEGG_REACTION": [
+      "R07229"
+    ],
+    "MetaCyc": [
+      "RXN0-2101"
+    ],
+    "RHEA": [
+      "14029",
+      "14029"
+    ],
+    "UM-BBD_reactionID": [
+      "r0828"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 e(-) + 2 H+ + selenate = H2O + selenite.",
+  "namespace": "molecular_function",
+  "label": "selenate reductase activity"
+}

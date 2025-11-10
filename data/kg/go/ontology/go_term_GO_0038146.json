@@ -1,0 +1,47 @@
+{
+  "id": "GO:0038146",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038146",
+  "relationships": {
+    "is_a": [
+      "GO:0070098"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CXCL12 signaling pathway",
+      "SDF1 signaling pathway",
+      "stromal cell-derived factor-1 signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "CXCL12-activated CXCR7 signaling pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "nhn",
+      "signaling",
+      "bf",
+      "bf"
+    ],
+    "Wikipedia": [
+      "Stromal_cell-derived_factor-1"
+    ],
+    "HGNC": [
+      "10672",
+      "10672"
+    ],
+    "PMID": [
+      "22204316",
+      "22204316"
+    ],
+    "PR": [
+      "000006066",
+      "000006066"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by the binding of the chemokine CXCL12 to its receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "chemokine (C-X-C motif) ligand 12 signaling pathway"
+}

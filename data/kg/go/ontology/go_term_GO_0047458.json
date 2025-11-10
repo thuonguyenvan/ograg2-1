@@ -1,0 +1,54 @@
+{
+  "id": "GO:0047458",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047458",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "beta-pyrazolylalanine synthase (acetylserine) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-O-acetyl-L-serine:pyrazole 1-(2-amino-2-carboxyethyl)transferase activity",
+      "BPA-synthase activity",
+      "O(3)-acetyl-L-serine acetate-lyase (adding pyrazole) activity",
+      "O3-acetyl-L-serine acetate-lyase (adding pyrazole)",
+      "O3-acetyl-L-serine:pyrazole 1-(2-amino-2-carboxyethyl)transferase activity",
+      "beta-(1-pyrazolyl)alanine synthase activity",
+      "beta-pyrazolealanine synthase activity",
+      "pyrazolealanine synthase activity",
+      "pyrazolylalaninase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.51",
+      "2.5.1.51",
+      "2.5.1.51",
+      "2.5.1.51",
+      "2.5.1.51",
+      "2.5.1.51",
+      "2.5.1.51",
+      "2.5.1.51",
+      "2.5.1.51",
+      "2.5.1.51"
+    ],
+    "KEGG_REACTION": [
+      "R03134"
+    ],
+    "MetaCyc": [
+      "2.5.1.51-RXN"
+    ],
+    "RHEA": [
+      "13117",
+      "13117"
+    ]
+  },
+  "definition": "Catalysis of the reaction: O-acetyl-L-serine + pyrazole = 3-(pyrazol-1-yl)-L-alanine + acetate + H+.",
+  "namespace": "molecular_function",
+  "label": "beta-pyrazolylalanine synthase activity"
+}

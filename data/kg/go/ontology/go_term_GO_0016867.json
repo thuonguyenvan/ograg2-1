@@ -1,0 +1,28 @@
+{
+  "id": "GO:0016867",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016867",
+  "relationships": {
+    "is_a": [
+      "GO:0016866"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "intramolecular transferase activity, transferring acyl groups"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.1.-"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the transfer of an acyl group from one position to another within a single molecule.",
+  "namespace": "molecular_function",
+  "label": "intramolecular acyltransferase activity"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0005172",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005172",
+  "relationships": {
+    "is_a": [
+      "GO:0005126",
+      "GO:0070851"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "VEGF receptor binding",
+      "VEGFR binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "vascular endothelial growth factor",
+      "vascular endothelial growth factor receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binding to a vascular endothelial growth factor receptor.",
+  "namespace": "molecular_function",
+  "label": "vascular endothelial growth factor receptor binding"
+}

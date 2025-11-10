@@ -1,0 +1,31 @@
+{
+  "id": "GO:0009310",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009310",
+  "relationships": {
+    "is_a": [
+      "GO:0009056",
+      "GO:0009308"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "amine breakdown",
+      "amine catabolism",
+      "amine degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of any organic compound that is weakly basic in character and contains an amino or a substituted amino group. Amines are called primary, secondary, or tertiary according to whether one, two, or three carbon atoms are attached to the nitrogen atom.",
+  "namespace": "biological_process",
+  "label": "amine catabolic process"
+}

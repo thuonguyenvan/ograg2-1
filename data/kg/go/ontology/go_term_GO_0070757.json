@@ -1,0 +1,33 @@
+{
+  "id": "GO:0070757",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070757",
+  "relationships": {
+    "is_a": [
+      "GO:0019221"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IL-35-mediated signaling pathway",
+      "interleukin-35-mediated signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8984722"
+    ],
+    "GOC": [
+      "add",
+      "mah",
+      "signaling",
+      "add",
+      "mah"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by interleukin-35 binding to its receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "Interleukin-35 Signalling"
+}

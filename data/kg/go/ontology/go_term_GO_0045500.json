@@ -1,0 +1,31 @@
+{
+  "id": "GO:0045500",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045500",
+  "relationships": {
+    "is_a": [
+      "GO:0007169"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sev receptor signaling pathway",
+      "sev signaling pathway",
+      "sevenless signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "signaling"
+    ],
+    "PMID": [
+      "10771085"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by an extracellular ligand binding to sevenless (sev; a receptor tyrosine kinase) on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "sevenless signaling pathway"
+}

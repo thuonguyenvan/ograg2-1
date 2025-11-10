@@ -1,0 +1,27 @@
+{
+  "id": "GO:0070037",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070037",
+  "relationships": {
+    "is_a": [
+      "GO:0008649"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6790906"
+    ],
+    "GOC": [
+      "imk",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a methyl group from S-adenosyl-L-methionine to a pseudouridine residue in an rRNA molecule.",
+  "namespace": "molecular_function",
+  "label": "EMG1 of the SSU processome methylates pseudouridine-1248 of 18S rRNA yielding N(1)-methylpseudouridine-1248"
+}

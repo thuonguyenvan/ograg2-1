@@ -1,0 +1,35 @@
+{
+  "id": "GO:0007208",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007208",
+  "relationships": {
+    "is_a": [
+      "GO:0007200",
+      "GO:0098664"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "activation of phospholipase C activity by serotonin receptor signaling pathway",
+      "activation of phospholipase C activity by serotonin receptor signalling pathway",
+      "serotonin receptor, phospholipase C activating pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mah",
+      "signaling",
+      "tb",
+      "signaling",
+      "mah",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "A phospholipase C-activating receptor G protein-coupled receptor signaling pathway initiated by serotonin binding to its receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "phospholipase C-activating serotonin receptor signaling pathway"
+}

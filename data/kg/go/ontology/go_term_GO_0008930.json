@@ -1,0 +1,41 @@
+{
+  "id": "GO:0008930",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008930",
+  "relationships": {
+    "is_a": [
+      "GO:0008477"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5&apos;-methylthioadenosine nucleosidase activity",
+      "MTA nucleosidase activity",
+      "MeSAdo nucleosidase activity",
+      "S-methyl-5&apos;-thioadenosine adeninehyrolase activity",
+      "methylthioadenosine methylthioribohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.2.16",
+      "3.2.2.16",
+      "3.2.2.16",
+      "3.2.2.16",
+      "3.2.2.16",
+      "3.2.2.16",
+      "3.2.2.16"
+    ],
+    "MetaCyc": [
+      "METHYLTHIOADENOSINE-NUCLEOSIDASE-RXN"
+    ],
+    "RHEA": [
+      "13617"
+    ]
+  },
+  "definition": "Catalysis of the reaction: methylthioadenosine + H2O = adenine + 5-methylthio-D-ribose.",
+  "namespace": "molecular_function",
+  "label": "methylthioadenosine nucleosidase activity"
+}

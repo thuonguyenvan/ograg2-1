@@ -1,0 +1,40 @@
+{
+  "id": "GO:0050089",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050089",
+  "relationships": {
+    "is_a": [
+      "GO:0016861"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-mannose aldose-ketose-isomerase activity",
+      "D-mannose isomerase activity",
+      "D-mannose ketol-isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.1.7",
+      "5.3.1.7",
+      "5.3.1.7",
+      "5.3.1.7"
+    ],
+    "KEGG_REACTION": [
+      "R00877"
+    ],
+    "MetaCyc": [
+      "MANNOSE-ISOMERASE-RXN"
+    ],
+    "RHEA": [
+      "22604",
+      "22604"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-mannose = D-fructose.",
+  "namespace": "molecular_function",
+  "label": "mannose isomerase activity"
+}

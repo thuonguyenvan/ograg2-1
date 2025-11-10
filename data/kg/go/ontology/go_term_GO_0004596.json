@@ -1,0 +1,46 @@
+{
+  "id": "GO:0004596",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004596",
+  "relationships": {
+    "is_a": [
+      "GO:0034212"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acetyl-CoA:peptide alpha-N-acetyltransferase activity",
+      "acetyl-CoA:peptide nalpha-acetyltransferase activity",
+      "nalpha-acetyltransferase activity",
+      "peptide alpha-N-acetyltransferase activity",
+      "protein N-terminal acetyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "beta-endorphin acetyltransferase activity"
+    ],
+    "related": [
+      "N(alpha)-acetyltransferase activity",
+      "NAT activity",
+      "amino-terminal amino acid-acetylating enzyme activity",
+      "peptide acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.255"
+    ],
+    "RHEA": [
+      "21028",
+      "21028"
+    ],
+    "Reactome": [
+      "R-HSA-6814090"
+    ],
+    "PMID": [
+      "30054468"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + an N-terminal L-alpha-aminoacyl-[protein] = CoA + H+ + N-terminal Nalpha-acetyl-L-alpha-aminoacyl-[protein].",
+  "namespace": "molecular_function",
+  "label": "NatC acetylates ARFFRP1"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0006048",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006048",
+  "relationships": {
+    "is_a": [
+      "GO:0006047",
+      "GO:0009226",
+      "GO:0046349"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-GlcNAc biosynthesis",
+      "UDP-GlcNAc biosynthetic process",
+      "UDP-N-acetylglucosamine anabolism",
+      "UDP-N-acetylglucosamine biosynthesis",
+      "UDP-N-acetylglucosamine formation",
+      "UDP-N-acetylglucosamine synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-446210"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of UDP-N-acetylglucosamine, a substance composed of N-acetylglucosamine, a common structural unit of oligosaccharides, in glycosidic linkage with uridine diphosphate.",
+  "namespace": "biological_process",
+  "label": "Synthesis of UDP-N-acetyl-glucosamine"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:2001250",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001250",
+  "relationships": {
+    "is_a": [
+      "GO:0045764",
+      "GO:0045848",
+      "GO:0062013",
+      "GO:2001248"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of glutamate metabolic process via glutamine and ammonia",
+      "positive regulation of glutamate metabolism via glutamine and ammonia"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of ammonia assimilation cycle.",
+  "namespace": "biological_process",
+  "label": "positive regulation of ammonia assimilation cycle"
+}

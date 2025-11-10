@@ -1,0 +1,38 @@
+{
+  "id": "GO:0031545",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031545",
+  "relationships": {
+    "is_a": [
+      "GO:0031543"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "prolyl 4-hydroxylase"
+    ],
+    "narrow": [
+      "HIF-type prolyl 4-hydroxylase"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "63484"
+    ],
+    "Reactome": [
+      "R-HSA-1234165",
+      "R-HSA-1234166",
+      "R-HSA-1234173",
+      "R-HSA-1234177",
+      "R-HSA-1234179",
+      "R-HSA-1234181"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: peptidyl L-proline + 2-oxoglutarate + O2 = peptidyl trans-4-hydroxy-L-proline + succinate + CO2.",
+  "namespace": "molecular_function",
+  "label": "Nuclear PHD1,3 hydroxylates proline residues on HIF1A"
+}

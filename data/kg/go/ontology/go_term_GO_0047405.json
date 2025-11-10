@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047405",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047405",
+  "relationships": {
+    "is_a": [
+      "GO:0016799"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Pyr5N activity",
+      "pyrimidine nucleotide N-ribosidase activity",
+      "pyrimidine-5&apos;-nucleotide phosphoribo(deoxyribo)hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.2.10",
+      "3.2.2.10",
+      "3.2.2.10",
+      "3.2.2.10",
+      "3.2.2.10"
+    ],
+    "MetaCyc": [
+      "3.2.2.10-RXN",
+      "3.2.2.10-RXN"
+    ],
+    "RHEA": [
+      "13425"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + a pyrimidine 5&apos;-nucleotide = ribose-5-phosphate + a pyrimidine.",
+  "namespace": "molecular_function",
+  "label": "pyrimidine-5&apos;-nucleotide nucleosidase activity"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0047499",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047499",
+  "relationships": {
+    "is_a": [
+      "GO:0004623"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "calcium-independent cytosolic phospholipase A2 activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8952251"
+    ],
+    "PMID": [
+      "34831185"
+    ]
+  },
+  "definition": "Catalysis of the reaction: phosphatidylcholine + H2O = 1-acylglycerophosphocholine + a carboxylate. This reaction does not require Ca2+.",
+  "namespace": "molecular_function",
+  "label": "PLA2G15 hydrolyses LPC to GPCho and LCFA(-)"
+}

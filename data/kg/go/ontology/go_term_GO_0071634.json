@@ -1,0 +1,36 @@
+{
+  "id": "GO:0071634",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071634",
+  "relationships": {
+    "is_a": [
+      "GO:0001817"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of TGF-B production",
+      "regulation of TGF-beta production",
+      "regulation of TGFB production",
+      "regulation of TGFbeta production",
+      "regulation of transforming growth factor-beta production"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of transforming growth factor-beta secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "obol",
+      "bf"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate, or extent of production of transforming growth factor-beta.",
+  "namespace": "biological_process",
+  "label": "regulation of transforming growth factor beta production"
+}

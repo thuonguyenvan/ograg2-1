@@ -1,0 +1,41 @@
+{
+  "id": "GO:0003860",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003860",
+  "relationships": {
+    "is_a": [
+      "GO:0141126"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-hydroxy-2-methylpropanoyl-CoA hydrolase activity",
+      "3-hydroxy-isobutyryl CoA hydrolase activity",
+      "HIB CoA deacylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.2.4",
+      "3.1.2.4",
+      "3.1.2.4",
+      "3.1.2.4",
+      "3.1.2.4"
+    ],
+    "MetaCyc": [
+      "3-HYDROXYISOBUTYRYL-COA-HYDROLASE-RXN"
+    ],
+    "RHEA": [
+      "20888"
+    ],
+    "Reactome": [
+      "R-HSA-70881",
+      "R-HSA-9916727"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-hydroxy-2-methylpropanoyl-CoA + H2O = CoA + 3-hydroxy-2-methylpropanoate.",
+  "namespace": "molecular_function",
+  "label": "HIBCH mutants don&apos;t synthesize beta-hydroxyisobutyrate"
+}

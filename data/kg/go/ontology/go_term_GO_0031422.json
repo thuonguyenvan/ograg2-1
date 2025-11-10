@@ -1,0 +1,33 @@
+{
+  "id": "GO:0031422",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031422",
+  "relationships": {
+    "is_a": [
+      "GO:0033202"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RecQ helicase-Topo III complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "Sgs1-Top3 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "krc"
+    ],
+    "PMID": [
+      "15889139",
+      "15889139",
+      "15889139"
+    ]
+  },
+  "definition": "A complex containing a RecQ family helicase and a topoisomerase III homologue (a member of the topoisomerase type IA subfamily); may also include one or more additional proteins; conserved from E. coli to human.",
+  "namespace": "cellular_component",
+  "label": "RecQ family helicase-topoisomerase III complex"
+}

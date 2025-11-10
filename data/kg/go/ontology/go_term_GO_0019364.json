@@ -1,0 +1,30 @@
+{
+  "id": "GO:0019364",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019364",
+  "relationships": {
+    "is_a": [
+      "GO:0009166",
+      "GO:0072526"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pyridine nucleotide breakdown",
+      "pyridine nucleotide catabolism",
+      "pyridine nucleotide degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "pde",
+      "vw"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a pyridine nucleotide, a nucleotide characterized by a pyridine derivative as a nitrogen base.",
+  "namespace": "biological_process",
+  "label": "pyridine nucleotide catabolic process"
+}

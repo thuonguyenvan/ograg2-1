@@ -1,0 +1,38 @@
+{
+  "id": "GO:1990452",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990452",
+  "relationships": {
+    "is_a": [
+      "GO:0000151"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PRKN-FBXW7-Cul1 complex",
+      "Park2-FBXW7-Cul1 complex",
+      "Parkin-FBXW7-Cul1 protein complex",
+      "Parkin/Cul1/F-box protein complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "Parkin-HSel-10-Cullin-1 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "12628165",
+      "12628165"
+    ]
+  },
+  "definition": "A ubiquitin ligase complex containing Parkin (PARK2), the F-box protein FBXW7 (also called SEL-10) and a cullin from the Cul1 subfamily; substrate specificity is conferred by the F-box protein.",
+  "namespace": "cellular_component",
+  "label": "Parkin-FBXW7-Cul1 ubiquitin ligase complex"
+}

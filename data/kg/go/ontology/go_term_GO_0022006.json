@@ -1,0 +1,36 @@
+{
+  "id": "GO:0022006",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022006",
+  "relationships": {
+    "is_a": [
+      "GO:0048859"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "zli biosynthesis",
+      "zli formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "11425897",
+      "16452095"
+    ]
+  },
+  "definition": "The formation of the narrow stripe of cells that lies between the prospective dorsal and ventral thalami. This boundary contains signals that pattern the prethalamic and thalamic territories of the future mid-diencephalon.",
+  "namespace": "biological_process",
+  "label": "zona limitans intrathalamica formation"
+}

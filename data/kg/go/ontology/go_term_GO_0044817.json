@@ -1,0 +1,29 @@
+{
+  "id": "GO:0044817",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044817",
+  "relationships": {
+    "is_a": [
+      "GO:1902422"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hydrogen biosynthesis via biophotolysis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators"
+    ],
+    "PMID": [
+      "20395274",
+      "20692761"
+    ]
+  },
+  "definition": "The production of hydrogen which results from the dissociation by light of water into molecular hydrogen and oxygen. This process is observed in cyanobacteria and microalgae.",
+  "namespace": "biological_process",
+  "label": "hydrogen generation via biophotolysis"
+}

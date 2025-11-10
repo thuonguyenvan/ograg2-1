@@ -1,0 +1,27 @@
+{
+  "id": "GO:0052038",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052038",
+  "relationships": {
+    "is_a": [
+      "GO:0044068"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "modulation of host intracellular trafficking"
+    ],
+    "broad": [
+      "modulation by symbiont of host intracellular transport"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_pamgo_17jul06"
+    ]
+  },
+  "definition": "A process in which a symbiont alters or subverts the directed movement of substances within the cell of the host organism. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated perturbation of host intracellular transport"
+}

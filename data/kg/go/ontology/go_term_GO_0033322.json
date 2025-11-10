@@ -1,0 +1,33 @@
+{
+  "id": "GO:0033322",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033322",
+  "relationships": {
+    "is_a": [
+      "GO:0046394"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "homomethionine anabolism",
+      "homomethionine biosynthesis",
+      "homomethionine biosynthetic process",
+      "homomethionine formation",
+      "homomethionine synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-1186",
+      "PWY-1186"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of L-homomethionine, a non-protein amino acid synthesized from L-methionine via chain elongation.",
+  "namespace": "biological_process",
+  "label": "L-homomethionine biosynthetic process"
+}

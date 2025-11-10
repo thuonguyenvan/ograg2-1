@@ -1,0 +1,41 @@
+{
+  "id": "GO:0008829",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008829",
+  "relationships": {
+    "is_a": [
+      "GO:0016814",
+      "GO:0019239"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-methyl-dCTP deaminase activity",
+      "dCTP aminohydrolase activity",
+      "deoxycytidine triphosphate deaminase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.4.13",
+      "3.5.4.13",
+      "3.5.4.13",
+      "3.5.4.13",
+      "3.5.4.13"
+    ],
+    "MetaCyc": [
+      "DCTP-DEAM-RXN"
+    ],
+    "RHEA": [
+      "22680"
+    ],
+    "Reactome": [
+      "R-HSA-180632"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dCTP + H2O = dUTP + NH3.",
+  "namespace": "molecular_function",
+  "label": "Deamination of C residues during synthesis of HIV-1 reverse transcript minus-strand"
+}

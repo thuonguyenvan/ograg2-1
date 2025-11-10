@@ -1,0 +1,31 @@
+{
+  "id": "GO:0009420",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009420",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "flagellar filament",
+      "flagellin-based flagellum filament"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "mtg_sensu"
+    ],
+    "PMID": [
+      "10572114",
+      "12624192"
+    ]
+  },
+  "definition": "The long (approximately 20 nm), thin external structure of the bacterial-type flagellum, which acts as a propeller.",
+  "namespace": "cellular_component",
+  "label": "bacterial-type flagellum filament"
+}

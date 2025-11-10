@@ -1,0 +1,27 @@
+{
+  "id": "GO:0006190",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006190",
+  "relationships": {
+    "is_a": [
+      "GO:0006166",
+      "GO:0046103"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "adenine, hypoxanthine and their nucleoside salvage",
+      "guanine, xanthine and their nucleoside salvage"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process that generates inosine, hypoxanthine riboside, from derivatives of it without de novo synthesis.",
+  "namespace": "biological_process",
+  "label": "inosine salvage"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0020006",
+  "uri": "http://purl.obolibrary.org/obo/GO_0020006",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "parasitophorous vacuolar membrane network",
+      "symbiont-containing vacuole membrane network"
+    ],
+    "broad": [],
+    "narrow": [
+      "tubulovesicular network"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "3528173"
+    ]
+  },
+  "definition": "Tubular network of extensions from the symbiont-containing vacuole membrane that protrude into the host cytoplasm.",
+  "namespace": "cellular_component",
+  "label": "symbiont-containing vacuolar membrane network"
+}

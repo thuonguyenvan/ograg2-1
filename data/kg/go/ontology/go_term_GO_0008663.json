@@ -1,0 +1,56 @@
+{
+  "id": "GO:0008663",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008663",
+  "relationships": {
+    "is_a": [
+      "GO:0004112"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "2&apos;,3&apos;-cyclic nucleoside monophosphate phosphodiesterase",
+      "2&apos;,3&apos;-cyclic nucleotide phosphohydrolase",
+      "cyclic 2&apos;,3&apos;-nucleotide phosphodiesterase"
+    ],
+    "narrow": [],
+    "related": [
+      "2&apos;,3 &apos;-cyclic AMP phosphodiesterase activity",
+      "2&apos;,3&apos;-cyclic AMP 2&apos;-phosphohydrolase activity",
+      "2&apos;,3&apos;-cyclic nucleotidase activity",
+      "2&apos;:3&apos;-cyclic nucleotide phosphodiesterase:3&apos;-nucleotidase activity",
+      "2&apos;:3&apos;-cyclic phosphodiesterase activity",
+      "cyclic 2&apos;,3&apos;-nucleotide 2&apos;-phosphodiesterase activity",
+      "cyclic phosphodiesterase:3&apos;-nucleotidase activity",
+      "nucleoside-2&apos;,3&apos;-cyclic-phosphate 3&apos;-nucleotidohydrolase activity",
+      "ribonucleoside 2&apos;,3&apos;-cyclic phosphate diesterase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.4.16",
+      "3.1.4.16",
+      "3.1.4.16",
+      "3.1.4.16",
+      "3.1.4.16",
+      "3.1.4.16",
+      "3.1.4.16",
+      "3.1.4.16",
+      "3.1.4.16",
+      "3.1.4.16",
+      "3.1.4.16",
+      "3.1.4.16",
+      "3.1.4.16",
+      "3.1.4.16"
+    ],
+    "MetaCyc": [
+      "CYCPHOSDIESTER-RXN"
+    ],
+    "RHEA": [
+      "19621"
+    ]
+  },
+  "definition": "Catalysis of the reaction: nucleoside 2&apos;,3&apos;-cyclic phosphate + H2O = nucleoside 3&apos;-phosphate.",
+  "namespace": "molecular_function",
+  "label": "2&apos;,3&apos;-cyclic-nucleotide 2&apos;-phosphodiesterase activity"
+}

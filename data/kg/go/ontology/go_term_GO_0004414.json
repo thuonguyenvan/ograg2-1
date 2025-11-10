@@ -1,0 +1,48 @@
+{
+  "id": "GO:0004414",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004414",
+  "relationships": {
+    "is_a": [
+      "GO:0016413"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "homoserine transacetylase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "L-homoserine O-acetyltransferase activity",
+      "acetyl-CoA:L-homoserine O-acetyltransferase activity",
+      "homoserine O-trans-acetylase activity",
+      "homoserine acetyltransferase activity",
+      "homoserine-O-transacetylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.31",
+      "2.3.1.31",
+      "2.3.1.31",
+      "2.3.1.31",
+      "2.3.1.31",
+      "2.3.1.31",
+      "2.3.1.31",
+      "2.3.1.31"
+    ],
+    "KEGG_REACTION": [
+      "R01776"
+    ],
+    "MetaCyc": [
+      "HOMOSERINE-O-ACETYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "13701",
+      "13701"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-homoserine + acetyl-CoA = O-acetyl-L-homoserine + CoA.",
+  "namespace": "molecular_function",
+  "label": "homoserine O-acetyltransferase activity"
+}

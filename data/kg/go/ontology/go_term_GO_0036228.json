@@ -1,0 +1,31 @@
+{
+  "id": "GO:0036228",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036228",
+  "relationships": {
+    "is_a": [
+      "GO:0072657",
+      "GO:0090435"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "protein targeting to INM",
+      "protein targeting to nuclear inner membrane"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dgf"
+    ],
+    "PMID": [
+      "16929305",
+      "16929305"
+    ]
+  },
+  "definition": "A process in which a protein is transported to, or maintained in, a location within the nuclear inner membrane.",
+  "namespace": "biological_process",
+  "label": "protein localization to nuclear inner membrane"
+}

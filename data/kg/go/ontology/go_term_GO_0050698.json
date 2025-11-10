@@ -1,0 +1,27 @@
+{
+  "id": "GO:0050698",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050698",
+  "relationships": {
+    "is_a": [
+      "GO:0008146"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "proteoglycan sulphotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "proteoglycan sulfate transfer"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;-phosphoadenosine 5&apos;-phosphosulfate + proteoglycan = adenosine 3&apos;,5&apos;-bisphosphate + proteoglycan sulfate. A proteoglycan is a glycoprotein whose carbohydrate units are glycosaminoglycans.",
+  "namespace": "molecular_function",
+  "label": "proteoglycan sulfotransferase activity"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0090295",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090295",
+  "relationships": {
+    "is_a": [
+      "GO:0045892",
+      "GO:0061984",
+      "GO:0090293"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of transcription by nitrogen catabolites",
+      "nitrogen catabolite repression"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "rb",
+      "mah",
+      "mah",
+      "rb"
+    ],
+    "PMID": [
+      "19104072"
+    ]
+  },
+  "definition": "A transcription regulation process in which the presence of one nitrogen source leads to a decrease in the frequency, rate, or extent of transcription of specific genes involved in the metabolism of other nitrogen sources.",
+  "namespace": "biological_process",
+  "label": "nitrogen catabolite repression of transcription"
+}

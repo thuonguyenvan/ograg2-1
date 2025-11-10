@@ -1,0 +1,31 @@
+{
+  "id": "GO:0035871",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035871",
+  "relationships": {
+    "is_a": [
+      "GO:0016579"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein K11-linked deubiquitinylation",
+      "protein K11-linked deubiquitylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sp",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "21596315"
+    ]
+  },
+  "definition": "A protein deubiquitination process in which a K11-linked ubiquitin chain, i.e. a polymer of ubiquitin formed by linkages between lysine residues at position 11 of the ubiquitin monomers, is removed from a protein.",
+  "namespace": "biological_process",
+  "label": "protein K11-linked deubiquitination"
+}

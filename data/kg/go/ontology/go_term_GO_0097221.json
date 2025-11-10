@@ -1,0 +1,32 @@
+{
+  "id": "GO:0097221",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097221",
+  "relationships": {
+    "is_a": [
+      "GO:0090575"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "PBF complex",
+      "PBF transcription complex",
+      "PCB binding factor complex",
+      "pombe cell cycle box binding factor complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vw"
+    ],
+    "PMID": [
+      "18057023"
+    ]
+  },
+  "definition": "A protein complex that contains a MADS-box protein and two forkhead domain proteins, and binds to and regulates transcription from promoters of genes transcribed during the M/G1 transition of the cell cycle. In Schizosaccharomyces pombe, the complex contains the MADS-box protein Mbx1 and two forkhead proteins, Sep1 and Fkh2.",
+  "namespace": "cellular_component",
+  "label": "M/G1 phase-specific MADS box-forkhead transcription factor complex"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033678",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033678",
+  "relationships": {
+    "is_a": [
+      "GO:0033677"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5&apos; to 3&apos; DNA/RNA helicase activity",
+      "ATP-dependent 5&apos; to 3&apos; DNA/RNA helicase activity",
+      "ATP-dependent 5&apos;-3&apos; DNA/RNA helicase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-163120"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Unwinding of a DNA/RNA duplex in the 5&apos; to 3&apos; direction, driven by ATP hydrolysis.",
+  "namespace": "molecular_function",
+  "label": "Disassociation of Telomerase RNP and the Chromosome End"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0043892",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043892",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lactaldehyde dehydrogenase (NADP+)",
+      "methylglyoxal reductase (NADPH-dependent) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Gre2",
+      "lactaldehyde:NADP+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.283",
+      "1.1.1.283",
+      "1.1.1.283"
+    ],
+    "MetaCyc": [
+      "1.1.1.283-RXN"
+    ],
+    "RHEA": [
+      "21748"
+    ]
+  },
+  "definition": "Catalysis of the reaction: lactaldehyde + NADP+ = methylglyoxal + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "methylglyoxal reductase (NADPH) activity"
+}

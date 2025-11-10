@@ -1,0 +1,52 @@
+{
+  "id": "GO:0004474",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004474",
+  "relationships": {
+    "is_a": [
+      "GO:0046912"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-malate glyoxylate-lyase (CoA-acetylating) activity",
+      "acetyl-CoA:glyoxylate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)",
+      "glyoxylate transacetase activity",
+      "glyoxylate transacetylase activity",
+      "glyoxylic transacetase activity",
+      "malate condensing enzyme activity",
+      "malate synthetase activity",
+      "malic synthetase activity",
+      "malic-condensing enzyme activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.3.9",
+      "2.3.3.9",
+      "2.3.3.9",
+      "2.3.3.9",
+      "2.3.3.9",
+      "2.3.3.9",
+      "2.3.3.9",
+      "2.3.3.9",
+      "2.3.3.9",
+      "2.3.3.9"
+    ],
+    "KEGG_REACTION": [
+      "R00472"
+    ],
+    "MetaCyc": [
+      "MALSYN-RXN"
+    ],
+    "RHEA": [
+      "18181",
+      "18181"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + glyoxylate + H2O = (S)-malate + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "malate synthase activity"
+}

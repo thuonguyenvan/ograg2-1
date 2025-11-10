@@ -1,0 +1,46 @@
+{
+  "id": "GO:0008480",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008480",
+  "relationships": {
+    "is_a": [
+      "GO:0046997"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "monomethylglycine dehydrogenase activity",
+      "sarcosine N-demethylase activity",
+      "sarcosine:(acceptor) oxidoreductase (demethylating)",
+      "sarcosine:acceptor oxidoreductase (demethylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.8.3",
+      "1.5.8.3",
+      "1.5.8.3",
+      "1.5.8.3",
+      "1.5.8.3",
+      "1.5.8.3"
+    ],
+    "KEGG_REACTION": [
+      "R00611"
+    ],
+    "MetaCyc": [
+      "SARCOSINE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "19793",
+      "19793"
+    ],
+    "Reactome": [
+      "R-HSA-6797913"
+    ]
+  },
+  "definition": "Catalysis of the reaction: sarcosine + H2O + electron-transfer flavoprotein = glycine + formaldehyde + reduced electron-transfer flavoprotein.",
+  "namespace": "molecular_function",
+  "label": "SARDH:FAD oxidatively demethylates SARC to Gly"
+}

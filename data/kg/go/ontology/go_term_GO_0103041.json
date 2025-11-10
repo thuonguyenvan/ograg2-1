@@ -1,0 +1,30 @@
+{
+  "id": "GO:0103041",
+  "uri": "http://purl.obolibrary.org/obo/GO_0103041",
+  "relationships": {
+    "is_a": [
+      "GO:0016783"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN0-6385"
+    ],
+    "RHEA": [
+      "83859",
+      "83859"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: thiosulfate + [thioredoxin]-dithiol = sulfite + 2 H+ + [thioredoxin]-disulfide + hydrogen sulfide.",
+  "namespace": "molecular_function",
+  "label": "thiosulfate-thioredoxin sulfurtransferase activity"
+}

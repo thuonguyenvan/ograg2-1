@@ -1,0 +1,39 @@
+{
+  "id": "GO:0090263",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090263",
+  "relationships": {
+    "is_a": [
+      "GO:0030177",
+      "GO:0060828"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of Wnt receptor signaling pathway through beta-catenin",
+      "positive regulation of canonical Wnt receptor signaling pathway",
+      "positive regulation of canonical Wnt receptor signalling pathway",
+      "positive regulation of canonical Wnt-activated signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "positive regulation of catenin import into nucleus",
+      "positive regulation of catenin protein nuclear translocation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-4641257"
+    ],
+    "GOC": [
+      "tb",
+      "mtg_signal",
+      "mah",
+      "signaling",
+      "mah"
+    ]
+  },
+  "definition": "Any process that increases the rate, frequency, or extent of the Wnt signaling pathway through beta-catenin, the series of molecular signals initiated by binding of a Wnt protein to a frizzled family receptor on the surface of the target cell, followed by propagation of the signal via beta-catenin, and ending with a change in transcription of target genes.",
+  "namespace": "biological_process",
+  "label": "Degradation of AXIN"
+}

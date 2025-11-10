@@ -1,0 +1,27 @@
+{
+  "id": "GO:0003923",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003923",
+  "relationships": {
+    "is_a": [
+      "GO:0004197",
+      "GO:0016769"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-162836"
+    ],
+    "ISBN": [
+      "0471331309"
+    ]
+  },
+  "definition": "Catalysis of the formation of the linkage between a protein and a glycosylphosphatidylinositol anchor. The reaction probably occurs by subjecting a peptide bond to nucleophilic attack by the amino group of ethanolamine-GPI, transferring the protein from a signal peptide to the GPI anchor.",
+  "namespace": "molecular_function",
+  "label": "uPAR precursor + acyl-GPI -&gt; uPAR-acyl-GPI + uPAR propeptide"
+}

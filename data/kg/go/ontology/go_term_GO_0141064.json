@@ -1,0 +1,26 @@
+{
+  "id": "GO:0141064",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141064",
+  "relationships": {
+    "is_a": [
+      "GO:0010628"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "ZGA"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "19204068",
+      "20808952"
+    ]
+  },
+  "definition": "A process that contributes to the onset of de novo transcription from the zygotic genome as part of the maternal-to-zygote transition in gene expression. The zygote overcomes the silencing that has been established. The cause of this silencing could be due to several factors: chromatin modifications leading to repression, or lack of adequate transcription machinery.",
+  "namespace": "biological_process",
+  "label": "zygotic genome activation"
+}

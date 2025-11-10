@@ -1,0 +1,41 @@
+{
+  "id": "GO:0019144",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019144",
+  "relationships": {
+    "is_a": [
+      "GO:0016462"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "nucleoside diphosphate-sugar hydrolase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ADP-sugar pyrophosphatase activity",
+      "ADP-sugar sugarphosphohydrolase activity",
+      "ADPsugar pyrophosphatase activity",
+      "adenosine diphosphosugar pyrophosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.21",
+      "3.6.1.21",
+      "3.6.1.21",
+      "3.6.1.21",
+      "3.6.1.21",
+      "3.6.1.21"
+    ],
+    "MetaCyc": [
+      "ADPSUGPPHOSPHAT-RXN"
+    ],
+    "GOC": [
+      "vw"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ADP-sugar + H2O = AMP + sugar 1-phosphate.",
+  "namespace": "molecular_function",
+  "label": "ADP-sugar diphosphatase activity"
+}

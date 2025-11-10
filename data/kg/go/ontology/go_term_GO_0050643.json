@@ -1,0 +1,37 @@
+{
+  "id": "GO:0050643",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050643",
+  "relationships": {
+    "is_a": [
+      "GO:0016413"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "acetyl-CoA:taxan-10beta-ol O-acetyltransferase"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.167",
+      "2.3.1.167",
+      "2.3.1.167"
+    ],
+    "KEGG_REACTION": [
+      "R06311"
+    ],
+    "MetaCyc": [
+      "2.3.1.167-RXN"
+    ],
+    "RHEA": [
+      "20137",
+      "20137"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 10-deacetylbaccatin III + acetyl-CoA = baccatin III + CoA.",
+  "namespace": "molecular_function",
+  "label": "10-deacetylbaccatin III 10-O-acetyltransferase activity"
+}

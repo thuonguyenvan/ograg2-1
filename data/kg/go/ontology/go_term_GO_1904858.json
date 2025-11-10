@@ -1,0 +1,45 @@
+{
+  "id": "GO:1904858",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904858",
+  "relationships": {
+    "is_a": [
+      "GO:0030336",
+      "GO:0050922",
+      "GO:1902548",
+      "GO:1904857"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of endothelial cell chemotaxis to vascular endothelial growth factor",
+      "down-regulation of endothelial cell chemotaxis to vascular endothelial growth factor",
+      "downregulation of endothelial cell chemotaxis to vascular endothelial growth factor"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of endothelial cell chemotaxis to vascular endothelial growth factor"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "TermGenie",
+      "rph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "21885851"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of endothelial cell chemotaxis to vascular endothelial growth factor.",
+  "namespace": "biological_process",
+  "label": "negative regulation of endothelial cell chemotaxis to vascular endothelial growth factor"
+}

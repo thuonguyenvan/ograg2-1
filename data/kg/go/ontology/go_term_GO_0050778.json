@@ -1,0 +1,31 @@
+{
+  "id": "GO:0050778",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050778",
+  "relationships": {
+    "is_a": [
+      "GO:0002684",
+      "GO:0048584",
+      "GO:0050776"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of immune response",
+      "up-regulation of immune response",
+      "upregulation of immune response"
+    ],
+    "broad": [],
+    "narrow": [
+      "stimulation of immune response"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the immune response, the immunological reaction of an organism to an immunogenic stimulus.",
+  "namespace": "biological_process",
+  "label": "positive regulation of immune response"
+}

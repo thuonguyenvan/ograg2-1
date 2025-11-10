@@ -1,0 +1,50 @@
+{
+  "id": "GO:1905885",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905885",
+  "relationships": {
+    "is_a": [
+      "GO:1901508",
+      "GO:1905883"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of triacylglycerol transport",
+      "up regulation of triacylglycerol transport",
+      "up regulation of triglyceride transport",
+      "up-regulation of triacylglycerol transport",
+      "up-regulation of triglyceride transport",
+      "upregulation of triacylglycerol transport",
+      "upregulation of triglyceride transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of triacylglycerol transport",
+      "activation of triglyceride transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25849533"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of triglyceride transport.",
+  "namespace": "biological_process",
+  "label": "positive regulation of triglyceride transport"
+}

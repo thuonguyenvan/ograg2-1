@@ -1,0 +1,30 @@
+{
+  "id": "GO:0000445",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000445",
+  "relationships": {
+    "is_a": [
+      "GO:0000347"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "THO complex part of TREX complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "11060033",
+      "11979277",
+      "16983072"
+    ]
+  },
+  "definition": "The THO complex when it is part of the TREX (TRanscription EXport) complex that is involved in coupling transcription to export of mRNAs to the cytoplasm. In S. cerevisiae, it is composed of four subunits: Hpr1, Tho2, Thp1, and Mft1, while the human complex is composed of 7 subunits.",
+  "namespace": "cellular_component",
+  "label": "THO complex part of transcription export complex"
+}

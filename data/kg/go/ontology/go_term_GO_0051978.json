@@ -1,0 +1,29 @@
+{
+  "id": "GO:0051978",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051978",
+  "relationships": {
+    "is_a": [
+      "GO:0005548",
+      "GO:0015370",
+      "GO:0015605",
+      "GO:0170055",
+      "GO:1901505"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "lysophospholipid transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the directed movement of lysophospholipids from one side of a membrane to the other. A lysophospholipid is a phospholipid that lacks one of its fatty acyl chains; it is an intermediate formed during digestion of dietary and biliary phospholipids.",
+  "namespace": "molecular_function",
+  "label": "lysophospholipid:sodium symporter activity"
+}

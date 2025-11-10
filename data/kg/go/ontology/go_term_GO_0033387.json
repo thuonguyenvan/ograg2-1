@@ -1,0 +1,33 @@
+{
+  "id": "GO:0033387",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033387",
+  "relationships": {
+    "is_a": [
+      "GO:0033388"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "putrescine anabolism from ornithine",
+      "putrescine biosynthesis from ornithine",
+      "putrescine biosynthetic process from ornithine",
+      "putrescine formation from ornithine",
+      "putrescine synthesis from ornithine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-46",
+      "PWY-46"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of putrescine, 1,4-diaminobutane, from arginine, via decarboxylation of ornithine.",
+  "namespace": "biological_process",
+  "label": "putrescine biosynthetic process from arginine, via ornithine"
+}

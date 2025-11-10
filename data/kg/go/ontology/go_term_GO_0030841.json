@@ -1,0 +1,34 @@
+{
+  "id": "GO:0030841",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030841",
+  "relationships": {
+    "is_a": [
+      "GO:0030839",
+      "GO:0032273",
+      "GO:0051495"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of intermediate filament polymerization",
+      "up-regulation of intermediate filament polymerization",
+      "upregulation of intermediate filament polymerization"
+    ],
+    "broad": [
+      "positive regulation of intermediate filament polymerization and/or depolymerization"
+    ],
+    "narrow": [
+      "activation of intermediate filament polymerization",
+      "stimulation of intermediate filament polymerization"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of intermediate filament polymerization.",
+  "namespace": "biological_process",
+  "label": "positive regulation of intermediate filament polymerization"
+}

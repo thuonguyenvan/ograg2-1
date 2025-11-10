@@ -1,0 +1,28 @@
+{
+  "id": "GO:0097059",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097059",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "sCNTFR-CLC complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF"
+    ],
+    "PMID": [
+      "11285233"
+    ]
+  },
+  "definition": "A protein complex that is composed of two soluble ciliary neurotrophic factor receptor alpha subunits (product of the CNTFR gene) and two molecules of cardiotrophin-like cytokine factor 1 (product of the CLCF1 gene). The complex is secreted into the extracellular space.",
+  "namespace": "cellular_component",
+  "label": "CNTFR-CLCF1 complex"
+}

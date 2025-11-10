@@ -1,0 +1,29 @@
+{
+  "id": "GO:0102866",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102866",
+  "relationships": {
+    "is_a": [
+      "GO:0016717"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Delta(5)-fatty-acid desaturase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acyl-lipid 5-desaturase activity",
+      "di-homo-gamma-linolenate delta5 desaturase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.19.30",
+      "1.14.19.30"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an (8Z,11Z,14Z)-icosatrienoyl-containing glycerolipid + 2 Fe(II)-[cytochrome b5] + 2 H+ + O2 = (5Z,8Z,11Z,14Z)-eicosatetraenoyl-containing glycerolipid + 2 Fe(III)-[cytochrome b5] + 2 H2O. Also converts an (8Z,11Z,14Z,17Z)-eicosatetraenoyl-containing glycerolipid into a (5Z,8Z,11Z,14Z,17Z)-eicosapentaenoyl-containing glycerolipid.",
+  "namespace": "molecular_function",
+  "label": "acyl-lipid (8-3)-desaturase activity"
+}

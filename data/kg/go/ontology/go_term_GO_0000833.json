@@ -1,0 +1,31 @@
+{
+  "id": "GO:0000833",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000833",
+  "relationships": {
+    "is_a": [
+      "GO:0000829"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IP7 4-kinase activity"
+    ],
+    "broad": [
+      "diphosphoinositol-pentakisphosphate 4-kinase activity",
+      "inositol heptakisphosphate 4-kinase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "elh"
+    ],
+    "PMID": [
+      "16429326"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + 5-diphospho-1D-myo-inositol (1,2,3,4,6)pentakisphosphate = ADP + 4,5-bis(diphospho)-1D-myo-inositol (1,2,3,6)tetrakisphosphate.",
+  "namespace": "molecular_function",
+  "label": "5-diphosphoinositol pentakisphosphate 4-kinase activity"
+}

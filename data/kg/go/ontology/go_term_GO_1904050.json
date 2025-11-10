@@ -1,0 +1,52 @@
+{
+  "id": "GO:1904050",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904050",
+  "relationships": {
+    "is_a": [
+      "GO:0001956",
+      "GO:1904048"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of stimulus-independent neurotransmitter secretion",
+      "up regulation of spontaneous neurotransmitter secretion",
+      "up regulation of stimulus-independent neurotransmitter secretion",
+      "up-regulation of spontaneous neurotransmitter secretion",
+      "up-regulation of stimulus-independent neurotransmitter secretion",
+      "upregulation of spontaneous neurotransmitter secretion",
+      "upregulation of stimulus-independent neurotransmitter secretion"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of spontaneous neurotransmitter secretion",
+      "activation of stimulus-independent neurotransmitter secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "pad",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22314364"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of spontaneous neurotransmitter secretion.",
+  "namespace": "biological_process",
+  "label": "positive regulation of spontaneous neurotransmitter secretion"
+}

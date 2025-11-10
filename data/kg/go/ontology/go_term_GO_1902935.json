@@ -1,0 +1,37 @@
+{
+  "id": "GO:1902935",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902935",
+  "relationships": {
+    "is_a": [
+      "GO:0044380",
+      "GO:0072697"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein localisation in septin ring",
+      "protein localisation to septin ring",
+      "protein localization in septin ring"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000087"
+    ],
+    "PMID": [
+      "16325501"
+    ]
+  },
+  "definition": "A process in which a protein is transported to, or maintained in, a location within a septin ring.",
+  "namespace": "biological_process",
+  "label": "protein localization to septin ring"
+}

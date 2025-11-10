@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047566",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047566",
+  "relationships": {
+    "is_a": [
+      "GO:0016843"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-ketovalidoxylamine A C-N-lyase activity",
+      "4-nitrophenyl-3-ketovalidamine 4-nitroaniline-lyase [5-D-(5/6)-5-C-(hydroxymethyl)-2,6-dihydroxycyclohex-2-en-1-one-forming]",
+      "4-nitrophenyl-3-ketovalidamine 4-nitroaniline-lyase activity",
+      "p-nitrophenyl-3-ketovalidamine p-nitroaniline lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.3.1",
+      "4.3.3.1",
+      "4.3.3.1",
+      "4.3.3.1",
+      "4.3.3.1",
+      "4.3.3.1"
+    ],
+    "KEGG_REACTION": [
+      "R04367"
+    ],
+    "MetaCyc": [
+      "3-KETOVALIDOXYLAMINE-C-N-LYASE-RXN"
+    ],
+    "RHEA": [
+      "22768",
+      "22768"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-nitrophenyl-3-ketovalidamine = 4-nitroaniline + 5-D-(5/6)-5-C-(hydroxymethyl)-2,6-dihydroxycyclohex-2-en-1-one + H+.",
+  "namespace": "molecular_function",
+  "label": "3-ketovalidoxylamine C-N-lyase activity"
+}

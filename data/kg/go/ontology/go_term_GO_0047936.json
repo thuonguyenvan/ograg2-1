@@ -1,0 +1,35 @@
+{
+  "id": "GO:0047936",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047936",
+  "relationships": {
+    "is_a": [
+      "GO:0004344",
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-glucose dehydrogenase (NAD(P))",
+      "beta-D-glucose:NAD(P)+ 1-oxidoreductase activity",
+      "hexose phosphate dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.47",
+      "1.1.1.47",
+      "1.1.1.47",
+      "1.1.1.47",
+      "1.1.1.47"
+    ],
+    "MetaCyc": [
+      "GLUCOSE-1-DEHYDROGENASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: beta-D-glucose + NAD(P)+ = D-glucono-1,5-lactone + NAD(P)H.",
+  "namespace": "molecular_function",
+  "label": "glucose 1-dehydrogenase [NAD(P)+] activity"
+}

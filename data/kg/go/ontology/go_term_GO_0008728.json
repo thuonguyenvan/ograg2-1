@@ -1,0 +1,55 @@
+{
+  "id": "GO:0008728",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008728",
+  "relationships": {
+    "is_a": [
+      "GO:0016778"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GTP pyrophosphokinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(p)ppGpp synthetase I",
+      "(p)ppGpp synthetase II",
+      "ATP-GTP 3&apos;-diphosphotransferase activity",
+      "ATP:GTP 3&apos;-diphosphotransferase activity",
+      "GPSI",
+      "GPSII",
+      "guanosine 3&apos;,5&apos;-polyphosphate synthase activity",
+      "guanosine 5&apos;,3&apos;-polyphosphate synthetase activity",
+      "guanosine pentaphosphate synthetase activity",
+      "ppGpp synthetase I activity",
+      "stringent factor activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.6.5",
+      "2.7.6.5",
+      "2.7.6.5",
+      "2.7.6.5",
+      "2.7.6.5",
+      "2.7.6.5",
+      "2.7.6.5",
+      "2.7.6.5",
+      "2.7.6.5",
+      "2.7.6.5",
+      "2.7.6.5",
+      "2.7.6.5",
+      "2.7.6.5"
+    ],
+    "MetaCyc": [
+      "GTPPYPHOSKIN-RXN"
+    ],
+    "RHEA": [
+      "22088"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + GTP = AMP + guanosine 3&apos;-diphosphate 5&apos;-triphosphate.",
+  "namespace": "molecular_function",
+  "label": "GTP diphosphokinase activity"
+}

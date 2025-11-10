@@ -1,0 +1,33 @@
+{
+  "id": "GO:0035719",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035719",
+  "relationships": {
+    "is_a": [
+      "GO:0006404",
+      "GO:0051031"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "retrograde tRNA transport into nucleus",
+      "tRNA nuclear import"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw",
+      "vw",
+      "vw"
+    ],
+    "PMID": [
+      "20032305",
+      "20032305"
+    ]
+  },
+  "definition": "The directed movement of tRNA from the cytoplasm to the nucleus.",
+  "namespace": "biological_process",
+  "label": "tRNA import into nucleus"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0060335",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060335",
+  "relationships": {
+    "is_a": [
+      "GO:0001961",
+      "GO:0060332",
+      "GO:0060334"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of immune interferon-mediated signaling pathway",
+      "positive regulation of interferon-gamma-mediated signalling pathway"
+    ],
+    "broad": [
+      "positive regulation of interferon-gamma-mediated signaling pathway",
+      "positive regulation of type II IFN-mediated pathway"
+    ],
+    "narrow": [],
+    "related": [
+      "positive regulation of gamma-interferon-mediated signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "dph",
+      "dph",
+      "dph",
+      "mah",
+      "dph"
+    ]
+  },
+  "definition": "Any process that increases the rate, frequency or extent of an interferon-gamma-mediated signaling pathway.",
+  "namespace": "biological_process",
+  "label": "positive regulation of type II interferon-mediated signaling pathway"
+}

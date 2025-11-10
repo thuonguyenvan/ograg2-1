@@ -1,0 +1,26 @@
+{
+  "id": "GO:0000328",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000328",
+  "relationships": {
+    "is_a": [
+      "GO:0005775"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lumen of vacuole with cell cycle-correlated morphology"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "The volume enclosed within the vacuolar membrane of a vacuole, the shape of which correlates with cell cycle phase. An example of this structure is found in Saccharomyces cerevisiae.",
+  "namespace": "cellular_component",
+  "label": "fungal-type vacuole lumen"
+}

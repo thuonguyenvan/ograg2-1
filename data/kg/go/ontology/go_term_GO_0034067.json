@@ -1,0 +1,37 @@
+{
+  "id": "GO:0034067",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034067",
+  "relationships": {
+    "is_a": [
+      "GO:0033365"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein localisation in Golgi apparatus",
+      "protein localization in Golgi apparatus"
+    ],
+    "broad": [],
+    "narrow": [
+      "establishment of protein localisation to Golgi",
+      "establishment of protein localization in Golgi",
+      "establishment of protein localization to Golgi",
+      "establishment of protein localization to Golgi apparatus"
+    ],
+    "related": [
+      "protein targeting to Golgi",
+      "protein-Golgi targeting"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A process in which a protein is transported to, or maintained in, a location within the Golgi apparatus.",
+  "namespace": "biological_process",
+  "label": "protein localization to Golgi apparatus"
+}

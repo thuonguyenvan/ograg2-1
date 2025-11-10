@@ -1,0 +1,45 @@
+{
+  "id": "GO:0008496",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008496",
+  "relationships": {
+    "is_a": [
+      "GO:0004559"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "endo-alpha-D-mannosidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,6-alpha-D-mannan mannanohydrolase activity",
+      "1,6-beta-D-mannan mannanohydrolase activity",
+      "endo-1,6-beta-mannanase activity",
+      "endo-alpha-1-&gt;6-D-mannanase activity",
+      "exo-1,6-beta-mannanase activity",
+      "mannan endo-1,6-beta-mannosidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.101",
+      "3.2.1.101",
+      "3.2.1.101",
+      "3.2.1.101",
+      "3.2.1.101",
+      "3.2.1.101",
+      "3.2.1.101",
+      "3.2.1.101"
+    ],
+    "MetaCyc": [
+      "3.2.1.101-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-6799581"
+    ]
+  },
+  "definition": "Catalysis of the random hydrolysis of (1-&gt;6)-alpha-D-mannosidic linkages in unbranched (1-&gt;6)-mannans.",
+  "namespace": "molecular_function",
+  "label": "MAN2B2 hydrolyses GlcNAc (Man)3 to GlcNAc:Man"
+}

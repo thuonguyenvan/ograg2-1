@@ -1,0 +1,32 @@
+{
+  "id": "GO:2000109",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000109",
+  "relationships": {
+    "is_a": [
+      "GO:0033032",
+      "GO:2000106"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "regulation of macrophage apoptosis"
+    ],
+    "related": [
+      "regulation of AICD",
+      "regulation of activation-induced cell death"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mtg_apoptosis",
+      "yaf",
+      "yaf"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of macrophage apoptotic process.",
+  "namespace": "biological_process",
+  "label": "regulation of macrophage apoptotic process"
+}

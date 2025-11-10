@@ -1,0 +1,36 @@
+{
+  "id": "GO:0000105",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000105",
+  "relationships": {
+    "is_a": [
+      "GO:0006547",
+      "GO:0009073",
+      "GO:0170034",
+      "GO:0170038"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histidine anabolism",
+      "histidine biosynthesis",
+      "histidine formation",
+      "histidine synthesis"
+    ],
+    "broad": [
+      "histidine biosynthetic process"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "HISTSYN-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of L-histidine, 2-amino-3-(1H-imidazol-4-yl)propanoic acid.",
+  "namespace": "biological_process",
+  "label": "L-histidine biosynthetic process"
+}

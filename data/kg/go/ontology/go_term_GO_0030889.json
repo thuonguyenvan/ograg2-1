@@ -1,0 +1,34 @@
+{
+  "id": "GO:0030889",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030889",
+  "relationships": {
+    "is_a": [
+      "GO:0030888",
+      "GO:0050672",
+      "GO:0050869"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of B cell proliferation",
+      "down-regulation of B cell proliferation",
+      "downregulation of B cell proliferation",
+      "negative regulation of B lymphocyte proliferation",
+      "negative regulation of B-cell proliferation",
+      "negative regulation of B-lymphocyte proliferation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of B cell proliferation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the rate or extent of B cell proliferation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of B cell proliferation"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:0015035",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015035",
+  "relationships": {
+    "is_a": [
+      "GO:0015036",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptide disulfide oxidoreductase activity",
+      "peptide disulphide oxidoreductase activity",
+      "protein disulfide oxidoreductase activity",
+      "protein disulfide-oxidoreductase activity",
+      "protein disulphide oxidoreductase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "haem lyase disulphide oxidoreductase activity",
+      "heme lyase disulfide oxidoreductase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "DISULFOXRED-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-1307802",
+      "R-HSA-264997",
+      "R-HSA-3299753",
+      "R-HSA-9817575"
+    ],
+    "PMID": [
+      "7559385"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a protein with reduced sulfide groups = a protein with oxidized disulfide bonds.",
+  "namespace": "molecular_function",
+  "label": "ERO1B oxidizes P4HB"
+}

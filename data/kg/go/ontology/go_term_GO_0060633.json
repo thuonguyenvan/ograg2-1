@@ -1,0 +1,29 @@
+{
+  "id": "GO:0060633",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060633",
+  "relationships": {
+    "is_a": [
+      "GO:0000122",
+      "GO:0060260",
+      "GO:2000143"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of transcription initiation from RNA polymerase II promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb",
+      "txnOH"
+    ]
+  },
+  "definition": "Any process that decreases the rate, frequency or extent of a process involved in starting transcription from an RNA polymerase II promoter.",
+  "namespace": "biological_process",
+  "label": "negative regulation of transcription initiation by RNA polymerase II"
+}

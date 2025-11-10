@@ -1,0 +1,33 @@
+{
+  "id": "GO:1990779",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990779",
+  "relationships": {
+    "is_a": [
+      "GO:0090665",
+      "GO:0098802"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CD42",
+      "GPIb-IX-V complex",
+      "GPIb-V-IX complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "1730602",
+      "23336709",
+      "25297919"
+    ]
+  },
+  "definition": "A transmembrane signaling receptor complex found exclusively on platelets. Involved in haemostasis and thrombosis where it aids blood coagulation.",
+  "namespace": "cellular_component",
+  "label": "glycoprotein Ib-IX-V complex"
+}

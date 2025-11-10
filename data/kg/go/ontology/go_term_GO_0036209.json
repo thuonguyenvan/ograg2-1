@@ -1,0 +1,35 @@
+{
+  "id": "GO:0036209",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036209",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "9-beta-stemod-13(17)-ene oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.111"
+    ],
+    "KEGG_REACTION": [
+      "R09865"
+    ],
+    "MetaCyc": [
+      "RXN-15437"
+    ],
+    "RHEA": [
+      "31951",
+      "31951"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 9beta-pimara-7,15-diene + 3 O2 + 3 reduced [NADPH-hemoprotein reductase] = 9beta-pimara-7,15-dien-19-oate + 4 H+ + 4 H2O + 3 oxidized [NADPH-hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "9beta-pimara-7,15-diene oxidase activity"
+}

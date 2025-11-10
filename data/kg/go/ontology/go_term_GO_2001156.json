@@ -1,0 +1,35 @@
+{
+  "id": "GO:2001156",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001156",
+  "relationships": {
+    "is_a": [
+      "GO:0009894",
+      "GO:2000211",
+      "GO:2000214"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of proline breakdown to glutamate",
+      "regulation of proline degradation to glutamate"
+    ],
+    "broad": [
+      "regulation of proline catabolic process to glutamate"
+    ],
+    "narrow": [],
+    "related": [
+      "regulation of proline oxidation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of L-proline catabolic process to L-glutamate.",
+  "namespace": "biological_process",
+  "label": "regulation of L-proline catabolic process to L-glutamate"
+}

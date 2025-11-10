@@ -1,0 +1,32 @@
+{
+  "id": "GO:0052769",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052769",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulfomucin beta-6-sulfate-N-acetylglucosaminidase activity"
+    ],
+    "broad": [
+      "beta-6-SO3-N-acetylglucosaminidase activity",
+      "exosulfoglycosidase activity",
+      "sulfoglycosidase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators"
+    ],
+    "PMID": [
+      "15716424"
+    ]
+  },
+  "definition": "Catalysis of the glycosidic cleavage of the terminal 2-acetamido-2-deoxy-beta-D-glucopyranoside 6-sulfate (6-SO3-GlcNAc) residue from sulfomucin, a sulfated mucin derivative.",
+  "namespace": "molecular_function",
+  "label": "beta-6-sulfate-N-acetylglucosaminidase activity"
+}

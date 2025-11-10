@@ -1,0 +1,43 @@
+{
+  "id": "GO:1904140",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904140",
+  "relationships": {
+    "is_a": [
+      "GO:1903976",
+      "GO:1904139",
+      "GO:1905522"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of microglial cell migration",
+      "down-regulation of microglial cell migration",
+      "downregulation of microglial cell migration"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of microglial cell migration"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19100238"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of microglial cell migration.",
+  "namespace": "biological_process",
+  "label": "negative regulation of microglial cell migration"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "GO:0004816",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004816",
+  "relationships": {
+    "is_a": [
+      "GO:0004812"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "asparaginyl-tRNA synthetase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-asparagine:tRNAAsn ligase (AMP-forming)",
+      "asparagine translase activity",
+      "asparaginyl transfer RNA synthetase activity",
+      "asparaginyl transfer ribonucleic acid synthetase activity",
+      "asparaginyl-transfer ribonucleate synthetase activity",
+      "asparagyl-transfer RNA synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.1.1.22",
+      "6.1.1.22",
+      "6.1.1.22",
+      "6.1.1.22",
+      "6.1.1.22",
+      "6.1.1.22",
+      "6.1.1.22",
+      "6.1.1.22"
+    ],
+    "KEGG_REACTION": [
+      "R03648"
+    ],
+    "MetaCyc": [
+      "ASPARAGINE--TRNA-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "11180",
+      "11180"
+    ],
+    "Reactome": [
+      "R-HSA-379996",
+      "R-HSA-380227"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-asparagine + ATP + tRNA(Asn) = AMP + Asn-tRNA(Asn) + diphosphate + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "asparagine + tRNA(Asn) + ATP =&gt; Asn-tRNA(Asn) + AMP + pyrophosphate"
+}

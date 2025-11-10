@@ -1,0 +1,31 @@
+{
+  "id": "GO:0036469",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036469",
+  "relationships": {
+    "is_a": [
+      "GO:0004058"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.105"
+    ],
+    "RHEA": [
+      "30339",
+      "30339"
+    ],
+    "GOC": [
+      "PARL",
+      "bf"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-tryptophan + H+ = CO2 + tryptamine.",
+  "namespace": "molecular_function",
+  "label": "L-tryptophan decarboxylase activity"
+}

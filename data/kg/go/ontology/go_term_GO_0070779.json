@@ -1,0 +1,32 @@
+{
+  "id": "GO:0070779",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070779",
+  "relationships": {
+    "is_a": [
+      "GO:0070777",
+      "GO:0089718"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-aspartate import into cell",
+      "D-aspartate uptake"
+    ],
+    "broad": [
+      "D-aspartate import"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "7914198"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The directed import of D-aspartate from the extracellular region across the plasma membrane and into the cytosol.",
+  "namespace": "biological_process",
+  "label": "D-aspartate import across plasma membrane"
+}

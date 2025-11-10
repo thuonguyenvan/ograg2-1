@@ -1,0 +1,28 @@
+{
+  "id": "GO:0034514",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034514",
+  "relationships": {
+    "is_a": [
+      "GO:0034620"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mtUPR"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "17849004"
+    ]
+  },
+  "definition": "The series of molecular signals generated as a consequence of the presence of unfolded proteins in the mitochondrial matrix; results in transcriptional upregulation of nuclear genes encoding mitochondrial stress proteins.",
+  "namespace": "biological_process",
+  "label": "mitochondrial unfolded protein response"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0103045",
+  "uri": "http://purl.obolibrary.org/obo/GO_0103045",
+  "relationships": {
+    "is_a": [
+      "GO:0140085"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN0-6948"
+    ],
+    "RHEA": [
+      "44144",
+      "44144"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-methionine + acetyl-CoA = N-acetyl-L-methionine + coenzyme A + H+.",
+  "namespace": "molecular_function",
+  "label": "L-methionine N-acyltransferase activity"
+}

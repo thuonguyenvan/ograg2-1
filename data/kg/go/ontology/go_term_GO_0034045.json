@@ -1,0 +1,36 @@
+{
+  "id": "GO:0034045",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034045",
+  "relationships": {
+    "is_a": [
+      "GO:0016020"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PAS membrane"
+    ],
+    "broad": [],
+    "narrow": [
+      "pre-autophagosomal structure membrane"
+    ],
+    "related": [
+      "isolation membrane",
+      "phagophore"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "rph"
+    ],
+    "PMID": [
+      "16874040",
+      "17382324",
+      "20811355"
+    ]
+  },
+  "definition": "A cellular membrane associated with the phagophore assembly site.",
+  "namespace": "cellular_component",
+  "label": "phagophore assembly site membrane"
+}

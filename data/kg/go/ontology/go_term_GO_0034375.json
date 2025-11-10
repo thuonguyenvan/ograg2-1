@@ -1,0 +1,33 @@
+{
+  "id": "GO:0034375",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034375",
+  "relationships": {
+    "is_a": [
+      "GO:0034369"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "HDL remodeling",
+      "HDL remodelling",
+      "high-density lipoprotein particle remodelling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8964058"
+    ],
+    "GOC": [
+      "BHF",
+      "expert_pt",
+      "mah",
+      "rl"
+    ]
+  },
+  "definition": "The acquisition, loss or modification of a protein or lipid within a high-density lipoprotein particle, including the hydrolysis of triglyceride by hepatic lipase, with the subsequent loss of free fatty acid, and the transfer of cholesterol esters from LDL to a triglyceride-rich lipoprotein particle by cholesteryl ester transfer protein (CETP), with the simultaneous transfer of triglyceride to LDL.",
+  "namespace": "biological_process",
+  "label": "HDL remodeling"
+}

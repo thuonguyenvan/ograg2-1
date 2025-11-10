@@ -1,0 +1,34 @@
+{
+  "id": "GO:0016266",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016266",
+  "relationships": {
+    "is_a": [
+      "GO:0006493"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "O-glycan processing",
+      "core O-glycan biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "mucin-type O-glycan synthesis"
+    ],
+    "related": [
+      "protein O-linked GalNAcylation"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-913709"
+    ],
+    "PMID": [
+      "10580130",
+      "35536936"
+    ]
+  },
+  "definition": "A glycoprotein biosynthetic process starting with the covalent linkage of an N-acetyl-galactosamine via an alpha-glycosidic bond to the oxygen atom of a serine or threonine side chain in a protein, which can be further elongated with the sequential addition of sugar units resulting in the formation of a protein O-linked glycan.",
+  "namespace": "biological_process",
+  "label": "O-linked glycosylation of mucins"
+}

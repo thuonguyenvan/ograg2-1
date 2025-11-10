@@ -1,0 +1,39 @@
+{
+  "id": "GO:0016711",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016711",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NADPH:flavonoid-3&apos;-hydroxylase activity",
+      "flavonoid 3&apos;-hydroxylase activity",
+      "flavonoid 3-hydroxylase",
+      "flavonoid 3-monooxygenase",
+      "flavonoid,NADPH:oxygen oxidoreductase (3&apos;-hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.82",
+      "1.14.14.82",
+      "1.14.14.82",
+      "1.14.14.82",
+      "1.14.14.82"
+    ],
+    "MetaCyc": [
+      "FLAVONOID-3-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "16337"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a flavonoid + NADPH + H+ + O2 = 3&apos;-hydroxyflavonoid + NADP+ + H2O.",
+  "namespace": "molecular_function",
+  "label": "flavonoid 3&apos;-monooxygenase activity"
+}

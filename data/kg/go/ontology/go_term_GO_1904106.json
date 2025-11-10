@@ -1,0 +1,37 @@
+{
+  "id": "GO:1904106",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904106",
+  "relationships": {
+    "is_a": [
+      "GO:0008104"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein localisation in microvillus",
+      "protein localisation to microvillus",
+      "protein localization in microvillus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "kmv",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000087"
+    ],
+    "PMID": [
+      "25335890"
+    ]
+  },
+  "definition": "A process in which a protein is transported to, or maintained in, a location within a microvillus.",
+  "namespace": "biological_process",
+  "label": "protein localization to microvillus"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0034504",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034504",
+  "relationships": {
+    "is_a": [
+      "GO:0033365"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein localisation to nucleus",
+      "protein localization in cell nucleus",
+      "protein localization in nucleus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "protein targeting to nucleus"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ecd",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A process in which a protein transports or maintains the localization of another protein to the nucleus.",
+  "namespace": "biological_process",
+  "label": "protein localization to nucleus"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0097016",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097016",
+  "relationships": {
+    "is_a": [
+      "GO:0019904"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF"
+    ],
+    "PMID": [
+      "15241471",
+      "17237226"
+    ],
+    "Prosite": [
+      "PDOC51022"
+    ]
+  },
+  "definition": "Binding to a L27 domain of a protein. L27 is composed of conserved negatively charged amino acids and a conserved aromatic amino acid. L27 domains can assemble proteins involved in signaling and establishment and maintenance of cell polarity into complexes by interacting in a heterodimeric manner.",
+  "namespace": "molecular_function",
+  "label": "L27 domain binding"
+}

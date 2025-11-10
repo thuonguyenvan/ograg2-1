@@ -1,0 +1,30 @@
+{
+  "id": "GO:0006605",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006605",
+  "relationships": {
+    "is_a": [
+      "GO:0045184"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "protein sorting along secretory pathway"
+    ],
+    "related": [
+      "nascent polypeptide association"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Protein_targeting"
+    ],
+    "GOC": [
+      "ma"
+    ]
+  },
+  "definition": "The process of targeting specific proteins to particular regions of the cell, typically membrane-bounded subcellular organelles. Usually requires an organelle specific protein sequence motif.",
+  "namespace": "biological_process",
+  "label": "protein targeting"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0042724",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042724",
+  "relationships": {
+    "is_a": [
+      "GO:0042364",
+      "GO:0042723",
+      "GO:0044272",
+      "GO:0072528"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "thiamin and derivative biosynthesis",
+      "thiamin and derivative biosynthetic process",
+      "thiamin-containing compound biosynthetic process",
+      "thiamine and derivative biosynthesis",
+      "thiamine and derivative biosynthetic process",
+      "thiamine-containing compound anabolism",
+      "thiamine-containing compound biosynthesis",
+      "thiamine-containing compound formation",
+      "thiamine-containing compound synthesis",
+      "vitamin B1 and derivative biosynthesis",
+      "vitamin B1 and derivative biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of thiamine (vitamin B1), and related compounds.",
+  "namespace": "biological_process",
+  "label": "thiamine-containing compound biosynthetic process"
+}

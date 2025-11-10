@@ -1,0 +1,31 @@
+{
+  "id": "GO:0106158",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106158",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GPACT activity",
+      "glycerophosphocholine O-acyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "58476",
+      "58476"
+    ],
+    "PMID": [
+      "18430972",
+      "27758859"
+    ]
+  },
+  "definition": "Catalysis of the reaction:acyl-CoA + glycerophosphocholine = CoA + 1-acyl-sn-glycero-3-phosphocholine.",
+  "namespace": "molecular_function",
+  "label": "glycero-3-phosphocholine acyltransferase activity"
+}

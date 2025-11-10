@@ -1,0 +1,51 @@
+{
+  "id": "GO:1903403",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903403",
+  "relationships": {
+    "is_a": [
+      "GO:0051241",
+      "GO:1903402"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of renal phosphate excretion",
+      "down regulation of renal phosphate ion excretion",
+      "down-regulation of renal phosphate excretion",
+      "down-regulation of renal phosphate ion excretion",
+      "downregulation of renal phosphate excretion",
+      "downregulation of renal phosphate ion excretion",
+      "negative regulation of renal phosphate ion excretion"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of renal phosphate excretion",
+      "inhibition of renal phosphate ion excretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "pm",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "8700837"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of renal phosphate excretion.",
+  "namespace": "biological_process",
+  "label": "negative regulation of renal phosphate excretion"
+}

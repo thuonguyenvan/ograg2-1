@@ -1,0 +1,25 @@
+{
+  "id": "GO:0031251",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031251",
+  "relationships": {
+    "is_a": [
+      "GO:1905354"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "poly(A) nuclease complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "9774670"
+    ]
+  },
+  "definition": "A complex that possesses poly(A)-specific ribonuclease activity; catalyzes the message-specific shortening of mRNA poly(A) tails. Contains at least two subunits, known as Pan2p and Pan3p in Saccharomyces.",
+  "namespace": "cellular_component",
+  "label": "PAN complex"
+}

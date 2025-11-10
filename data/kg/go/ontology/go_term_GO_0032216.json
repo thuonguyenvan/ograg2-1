@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032216",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032216",
+  "relationships": {
+    "is_a": [
+      "GO:0008374"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucosaminyl-phosphotidylinositol O-acyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GPI-inositol acyltransferase"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "60496",
+      "60496"
+    ],
+    "PMID": [
+      "29484956"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 6-(alpha-D-glucosaminyl)-1-(1,2-diacyl-sn-glycero-3-phospho)-1D-myo-inositol + fatty acyl-CoA = 2-acyl-6-(alpha-D-glucosaminyl)-1-(1,2-diacyl-sn-glycero-3-phospho)-1D-myo-inositol + CoA.",
+  "namespace": "molecular_function",
+  "label": "glucosaminyl-phosphatidylinositol O-acyltransferase activity"
+}

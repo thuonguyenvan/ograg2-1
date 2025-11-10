@@ -1,0 +1,31 @@
+{
+  "id": "GO:0141018",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141018",
+  "relationships": {
+    "is_a": [
+      "GO:0044406"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "adhesion of symbiont to host extracellular matrix via collagen",
+      "adhesion of symbiont to host extracellular matrix via fibronectin",
+      "adhesion of symbiont to host extracellular matrix via integrin",
+      "adhesion of symbiont to host extracellular matrix via laminin",
+      "adhesion of symbiont to host extracellular matrix via vitronectin"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "15228540",
+      "21270401",
+      "23586629"
+    ]
+  },
+  "definition": "The attachment of a symbiont to its host by binding to a component of the host extracellular matrix. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "adhesion of symbiont to host via host extracellular matrix"
+}

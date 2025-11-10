@@ -1,0 +1,26 @@
+{
+  "id": "GO:0160097",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160097",
+  "relationships": {
+    "is_a": [
+      "GO:0003916"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "WIKIPEDIA": [
+      "Reverse_gyrase"
+    ],
+    "PMID": [
+      "25013168"
+    ]
+  },
+  "definition": "Catalysis of a DNA topological transformation by transiently cleaving one DNA strand at a time to allow passage of another strand; changes the linking number by +1 per catalytic cycle, is driven by ATP hydrolysis.",
+  "namespace": "molecular_function",
+  "label": "reverse gyrase activity"
+}

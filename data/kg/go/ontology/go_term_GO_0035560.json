@@ -1,0 +1,36 @@
+{
+  "id": "GO:0035560",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035560",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PPD activity",
+      "phedase activity",
+      "pheophoridase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.82",
+      "3.1.1.82",
+      "3.1.1.82"
+    ],
+    "RHEA": [
+      "32483",
+      "32483"
+    ],
+    "PMID": [
+      "16228561"
+    ]
+  },
+  "definition": "Catalysis of the reaction: pheophorbide a + H2O = pyropheophorbide a + methanol + CO2. The reaction occurs in two steps; pheophoridase catalyzes the conversion of pheophorbide a to a precursor of pyropheophorbide a, C-13(2)-carboxylpyropheophorbide a, by demethylation, and then the precursor is decarboxylated non-enzymatically to yield pyropheophorbide a.",
+  "namespace": "molecular_function",
+  "label": "pheophorbidase activity"
+}

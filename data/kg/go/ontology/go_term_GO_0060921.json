@@ -1,0 +1,33 @@
+{
+  "id": "GO:0060921",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060921",
+  "relationships": {
+    "is_a": [
+      "GO:0060920"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SA node cell differentiation",
+      "SAN cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "sinus node cell differentiation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_heart",
+      "mtg_heart",
+      "BHF",
+      "mtg_cardiac_conduct_nov11",
+      "BHF",
+      "mtg_cardiac_conduct_nov11"
+    ]
+  },
+  "definition": "The process in which a relatively unspecialized cell acquires specialized features of a sinoatrial (SA) node cell. SA node cells are pacemaker cells that are found in the sinoatrial node.",
+  "namespace": "biological_process",
+  "label": "sinoatrial node cell differentiation"
+}

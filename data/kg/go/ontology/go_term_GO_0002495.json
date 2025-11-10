@@ -1,0 +1,33 @@
+{
+  "id": "GO:0002495",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002495",
+  "relationships": {
+    "is_a": [
+      "GO:0002504",
+      "GO:0048002"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptide antigen processing and presentation via MHC class II"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "15531770",
+      "15771591"
+    ]
+  },
+  "definition": "The process in which an antigen-presenting cell expresses a peptide antigen on its cell surface in association with an MHC class II protein complex. The peptide antigen is typically, but not always, processed from a whole protein.",
+  "namespace": "biological_process",
+  "label": "antigen processing and presentation of peptide antigen via MHC class II"
+}

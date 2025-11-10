@@ -1,0 +1,33 @@
+{
+  "id": "GO:0038169",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038169",
+  "relationships": {
+    "is_a": [
+      "GO:0007186"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SST receptor signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "SSTR signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jc",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "18006219",
+      "8769369"
+    ]
+  },
+  "definition": "A G protein-coupled receptor signaling pathway initiated by somatostatin binding to the somatostatin receptor (SSTR) on the surface of a target cell, and ending with the regulation of a downstream cellular process.",
+  "namespace": "biological_process",
+  "label": "somatostatin receptor signaling pathway"
+}

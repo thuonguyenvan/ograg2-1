@@ -1,0 +1,31 @@
+{
+  "id": "GO:0044273",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044273",
+  "relationships": {
+    "is_a": [
+      "GO:0006790",
+      "GO:0009056"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulfur compound breakdown",
+      "sulfur compound catabolism",
+      "sulfur compound degradation"
+    ],
+    "broad": [],
+    "narrow": [
+      "sulfur catabolic process",
+      "sulfur catabolism"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of compounds that contain sulfur, such as the amino acids methionine and cysteine or the tripeptide glutathione.",
+  "namespace": "biological_process",
+  "label": "sulfur compound catabolic process"
+}

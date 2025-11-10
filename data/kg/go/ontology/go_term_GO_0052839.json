@@ -1,0 +1,33 @@
+{
+  "id": "GO:0052839",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052839",
+  "relationships": {
+    "is_a": [
+      "GO:0016773",
+      "GO:0180030"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PP-IP4 kinase activity",
+      "inositol diphosphate tetrakisphosphate kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1855193",
+      "R-HSA-1855230"
+    ],
+    "PMID": [
+      "10827188",
+      "11502751",
+      "18355727"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + diphospho-1D-myo-inositol tetrakisphosphate = ADP + bis(diphospho)-1D-myo-inositol trisphosphate.",
+  "namespace": "molecular_function",
+  "label": "5-PP-IP4 is phosphorylated to 1,5-(PP)2-IP3 by IP6K1/2 in the nucleus"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0032605",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032605",
+  "relationships": {
+    "is_a": [
+      "GO:0001816",
+      "GO:0019538"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "HGF production",
+      "scatter factor production"
+    ],
+    "broad": [],
+    "narrow": [
+      "hepatocyte growth factor biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "1838014"
+    ]
+  },
+  "definition": "The appearance of hepatocyte growth factor due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels.",
+  "namespace": "biological_process",
+  "label": "hepatocyte growth factor production"
+}

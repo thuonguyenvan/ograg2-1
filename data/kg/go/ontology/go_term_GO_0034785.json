@@ -1,0 +1,33 @@
+{
+  "id": "GO:0034785",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034785",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.172"
+    ],
+    "MetaCyc": [
+      "RXN-10446"
+    ],
+    "RHEA": [
+      "35307",
+      "35307"
+    ],
+    "UM-BBD_reactionID": [
+      "r1034"
+    ]
+  },
+  "definition": "Catalysis of the reaction: salicylate + NADH + O2 + H+ = 2,5-dihydroxybenzoate + NAD+ + H2O.",
+  "namespace": "molecular_function",
+  "label": "salicylate 5-hydroxylase (NADH) activity"
+}

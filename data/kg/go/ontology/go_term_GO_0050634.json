@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050634",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050634",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-methyl-1-(trihydroxyphenyl)butan-1-one synthase activity",
+      "isovaleryl-CoA:malonyl-CoA acyltransferase activity",
+      "valerophenone synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.156",
+      "2.3.1.156",
+      "2.3.1.156",
+      "2.3.1.156",
+      "2.3.1.156"
+    ],
+    "MetaCyc": [
+      "2.3.1.156-RXN",
+      "2.3.1.156-RXN"
+    ],
+    "RHEA": [
+      "23572"
+    ]
+  },
+  "definition": "Catalysis of the reaction: isovaleryl-CoA + 3 malonyl-CoA = 4 CoASH + 3 CO2 + 3-methyl-1-(2,4,6-trihydroxyphenyl)butan-1-one.",
+  "namespace": "molecular_function",
+  "label": "phloroisovalerophenone synthase activity"
+}

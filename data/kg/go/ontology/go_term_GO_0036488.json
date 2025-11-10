@@ -1,0 +1,37 @@
+{
+  "id": "GO:0036488",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036488",
+  "relationships": {
+    "is_a": [
+      "GO:0090575"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CHOP-C/EBP dimer",
+      "CHOP-C/EBP heterodimer",
+      "GADD153-C/EBP complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "GADD153-C/EBP-alpha complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf"
+    ],
+    "PMID": [
+      "1547942",
+      "8657121",
+      "8657121",
+      "8657121",
+      "8657121"
+    ]
+  },
+  "definition": "A heterodimeric protein complex that is composed of the transcription factor CHOP (GADD153) and a member of the C/EBP family of transcription factors.",
+  "namespace": "cellular_component",
+  "label": "CHOP-C/EBP complex"
+}

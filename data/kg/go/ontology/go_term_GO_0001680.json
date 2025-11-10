@@ -1,0 +1,26 @@
+{
+  "id": "GO:0001680",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001680",
+  "relationships": {
+    "is_a": [
+      "GO:0042780"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ],
+    "PMID": [
+      "2247609"
+    ]
+  },
+  "definition": "Post-transcriptional addition of the terminal 3&apos; CCA sequence to a tRNA which does not encode this sequence within the primary transcript. CCA addition proceeds by the sequential addition of CTP, CTP, and then ATP to the 3&apos; end of the tRNA, yielding a diphosphate with each nucleotide addition.",
+  "namespace": "biological_process",
+  "label": "tRNA 3&apos;-terminal CCA addition"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "GO:0050183",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050183",
+  "relationships": {
+    "is_a": [
+      "GO:0016716"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "oleate D12-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-acyl-2-oleoyl-sn-glycero-3-phosphocholine,NADH:oxygen oxidoreductase (12-hydroxylating)",
+      "oleate Delta(12)-hydroxylase activity",
+      "oleate delta12-hydroxylase activity",
+      "oleate delta12-monooxygenase activity",
+      "ricinoleic acid synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.18.4",
+      "1.14.18.4",
+      "1.14.18.4",
+      "1.14.18.4",
+      "1.14.18.4",
+      "1.14.18.4"
+    ],
+    "KEGG_REACTION": [
+      "R03476"
+    ],
+    "MetaCyc": [
+      "PHOSPHATIDYLCHOLINE-12-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "46360",
+      "46360"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-acyl-2-(9Z)-octadecenoyl-sn-glycero-3-phosphocholine + 2 Fe(II)-[cytochrome b5] + 2 H+ + O2 = 1-acyl-2-[(R)-12-hydroxyoleoyl]-sn-glycero-3-phosphocholine + 2 Fe(III)-[cytochrome b5] + H2O.",
+  "namespace": "molecular_function",
+  "label": "phosphatidylcholine 12-monooxygenase activity"
+}

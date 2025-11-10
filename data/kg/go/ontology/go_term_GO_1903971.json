@@ -1,0 +1,62 @@
+{
+  "id": "GO:1903971",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903971",
+  "relationships": {
+    "is_a": [
+      "GO:0060760",
+      "GO:1903969"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of response to M-CSF",
+      "positive regulation of response to macrophage colony-stimulating factor stimulus",
+      "up regulation of response to M-CSF",
+      "up regulation of response to macrophage colony-stimulating factor",
+      "up regulation of response to macrophage colony-stimulating factor stimulus",
+      "up-regulation of response to M-CSF",
+      "up-regulation of response to macrophage colony-stimulating factor",
+      "up-regulation of response to macrophage colony-stimulating factor stimulus",
+      "upregulation of response to M-CSF",
+      "upregulation of response to macrophage colony-stimulating factor",
+      "upregulation of response to macrophage colony-stimulating factor stimulus"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of response to M-CSF",
+      "activation of response to macrophage colony-stimulating factor",
+      "activation of response to macrophage colony-stimulating factor stimulus"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19100238"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of response to macrophage colony-stimulating factor.",
+  "namespace": "biological_process",
+  "label": "positive regulation of response to macrophage colony-stimulating factor"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0000014",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000014",
+  "relationships": {
+    "is_a": [
+      "GO:0004520",
+      "GO:0016788"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "single-stranded DNA specific endodeoxyribonuclease activity",
+      "ssDNA-specific endodeoxyribonuclease activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of ester linkages within a single-stranded deoxyribonucleic acid molecule by creating internal breaks.",
+  "namespace": "molecular_function",
+  "label": "single-stranded DNA endodeoxyribonuclease activity"
+}

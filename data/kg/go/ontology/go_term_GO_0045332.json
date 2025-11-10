@@ -1,0 +1,39 @@
+{
+  "id": "GO:0045332",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045332",
+  "relationships": {
+    "is_a": [
+      "GO:0015914",
+      "GO:0034204"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "flippase",
+      "phospholipid scrambling"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1660502",
+      "R-HSA-1660508",
+      "R-HSA-1660510",
+      "R-HSA-1660524",
+      "R-HSA-1660537"
+    ],
+    "ISBN": [
+      "0815316194"
+    ],
+    "PMID": [
+      "16452632",
+      "20043909",
+      "20302864"
+    ]
+  },
+  "definition": "The movement of a phospholipid molecule from one leaflet of a membrane bilayer to the opposite leaflet.",
+  "namespace": "biological_process",
+  "label": "PIPs transport between early endosome and Golgi membranes"
+}

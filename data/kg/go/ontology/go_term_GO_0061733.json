@@ -1,0 +1,46 @@
+{
+  "id": "GO:0061733",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061733",
+  "relationships": {
+    "is_a": [
+      "GO:0034212"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptide-lysine-N-acetylase activity",
+      "peptide-lysine-N-acetyltransferase activity",
+      "peptide-lysine-acetyltransferase activity",
+      "protein-lysine-N-acetylase activity"
+    ],
+    "broad": [
+      "protein acetylase activity",
+      "protein acetyltransferase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.48"
+    ],
+    "RHEA": [
+      "45948",
+      "45948"
+    ],
+    "Reactome": [
+      "R-HSA-6811508",
+      "R-HSA-8951966",
+      "R-HSA-9617758",
+      "R-HSA-9620515",
+      "R-HSA-9626945",
+      "R-HSA-9701531",
+      "R-HSA-9756494",
+      "R-HSA-9825747",
+      "R-HSA-9920716"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-lysyl-[protein] + acetyl-CoA = N6-acetyl-L-lysyl-[protein] + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "CLOCK acetylates BMAL1 on lysine-538"
+}

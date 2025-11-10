@@ -1,0 +1,47 @@
+{
+  "id": "GO:0009002",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009002",
+  "relationships": {
+    "is_a": [
+      "GO:0004185"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "D-alanine carboxypeptidase",
+      "DD-carboxypeptidase"
+    ],
+    "narrow": [],
+    "related": [
+      "D-alanyl carboxypeptidase activity",
+      "D-alanyl-D-alanine carboxypeptidase activity",
+      "D-alanyl-D-alanine-carboxypeptidase activity",
+      "D-alanyl-D-alanine-cleaving peptidase activity",
+      "D-alanyl-D-alanine-cleaving-peptidase activity",
+      "DD-peptidase activity",
+      "DD-transpeptidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.4.16.4",
+      "3.4.16.4",
+      "3.4.16.4",
+      "3.4.16.4",
+      "3.4.16.4",
+      "3.4.16.4",
+      "3.4.16.4",
+      "3.4.16.4",
+      "3.4.16.4",
+      "3.4.16.4",
+      "3.4.16.4"
+    ],
+    "MetaCyc": [
+      "3.4.16.4-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (Ac)2-L-Lys-D-alanyl-D-alanine + H2O = (Ac)2-L-Lys-D-alanine + D-alanine.",
+  "namespace": "molecular_function",
+  "label": "serine-type D-Ala-D-Ala carboxypeptidase activity"
+}

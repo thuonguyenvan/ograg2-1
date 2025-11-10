@@ -1,0 +1,30 @@
+{
+  "id": "GO:0032121",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032121",
+  "relationships": {
+    "is_a": [
+      "GO:0007017",
+      "GO:1903046"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "attachment of telomeres to spindle pole body",
+      "attachment of telomeric chromatin to spindle pole body"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pr"
+    ],
+    "PMID": [
+      "16615890"
+    ]
+  },
+  "definition": "The meiotic cell cycle process in which physical connections are formed between telomeric heterochromatin and the spindle pole body, facilitating bouquet formation.",
+  "namespace": "biological_process",
+  "label": "meiotic attachment of telomeric heterochromatin to spindle pole body"
+}

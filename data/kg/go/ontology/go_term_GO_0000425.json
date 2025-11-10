@@ -1,0 +1,33 @@
+{
+  "id": "GO:0000425",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000425",
+  "relationships": {
+    "is_a": [
+      "GO:0016236",
+      "GO:0030242"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "macropexophagy"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9664873"
+    ],
+    "GOC": [
+      "autophagy"
+    ],
+    "PMID": [
+      "12914914",
+      "16973210"
+    ]
+  },
+  "definition": "The selective autophagy process in which a peroxisome is degraded by macroautophagy.",
+  "namespace": "biological_process",
+  "label": "Pexophagy"
+}

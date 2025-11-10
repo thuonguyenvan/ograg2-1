@@ -1,0 +1,31 @@
+{
+  "id": "GO:0061734",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061734",
+  "relationships": {
+    "is_a": [
+      "GO:0000423"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PRKN-mediated mitophagy in response to mitochondrial depolarization",
+      "Park2-mediated mitophagy in response to mitochondrial depolarization",
+      "parkin-mediated mitophagy in response to mitochondrial depolarization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw"
+    ],
+    "PMID": [
+      "25009776",
+      "25349190"
+    ]
+  },
+  "definition": "The selective autophagy process in which a mitochondrion is degraded by macroautophagy in a process initiated by mitochondrial depolarization (mtDepo) followed by Parkin binding, and ubiquitination of outer membrane proteins, to remove potentially harm-inducing dysfunctional/damaged mitochondria.",
+  "namespace": "biological_process",
+  "label": "type 2 mitophagy"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0018423",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018423",
+  "relationships": {
+    "is_a": [
+      "GO:0003880",
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein-leucine O-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "protein phosphatase methyltransferase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8856945"
+    ],
+    "PMID": [
+      "8514774"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + [protein]-L-leucine = S-adenosyl-L-homocysteine + [protein]-L-leucine methyl ester. This modification occurs only at the oxygen atoms of the free alpha carboxyl group of a leucine residue at the C-terminus of the protein.",
+  "namespace": "molecular_function",
+  "label": "PP2A methylation by LCMT1"
+}

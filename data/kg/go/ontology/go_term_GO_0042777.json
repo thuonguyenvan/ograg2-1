@@ -1,0 +1,26 @@
+{
+  "id": "GO:0042777",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042777",
+  "relationships": {
+    "is_a": [
+      "GO:0015986"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP synthesis coupled proton transport",
+      "plasma membrane ATP synthesis coupled proton transport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "vw"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of ATP driven by transport of protons across a plasma membrane to generate an electrochemical gradient (proton-motive force).",
+  "namespace": "biological_process",
+  "label": "proton motive force-driven plasma membrane ATP synthesis"
+}

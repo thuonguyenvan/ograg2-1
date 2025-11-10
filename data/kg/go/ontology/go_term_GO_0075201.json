@@ -1,0 +1,29 @@
+{
+  "id": "GO:0075201",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075201",
+  "relationships": {
+    "is_a": [
+      "GO:0075015"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "formation of symbiont penetration hypha for entry into host",
+      "symbiont penetration hypha formation for entry into host"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "pamgo_curators"
+    ],
+    "PMID": [
+      "26441323"
+    ]
+  },
+  "definition": "The assembly by the symbiont of a threadlike, tubular structure, which may contain multiple nuclei and may or may not be divided internally by septa or cross-walls, for the purpose of penetration into its host organism. In the case of an appressorium existing, this term is defined in further details as the process in which the symbiont penetration peg expands to form a hypha which traverses the epidermal cell and emerges into the intercellular space of the mesophyll tissue. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "penetration hypha formation"
+}

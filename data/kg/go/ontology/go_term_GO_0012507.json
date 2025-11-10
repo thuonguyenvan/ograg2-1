@@ -1,0 +1,33 @@
+{
+  "id": "GO:0012507",
+  "uri": "http://purl.obolibrary.org/obo/GO_0012507",
+  "relationships": {
+    "is_a": [
+      "GO:0030658",
+      "GO:0030662"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "COPII coated vesicle membrane",
+      "ER to Golgi constitutive secretory pathway transport vesicle membrane",
+      "ER-Golgi transport vesicle membrane",
+      "endoplasmic reticulum to Golgi transport vesicle membrane",
+      "endoplasmic reticulum-Golgi transport vesicle membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "ascb_2009",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The lipid bilayer surrounding a vesicle transporting substances from the endoplasmic reticulum to the Golgi.",
+  "namespace": "cellular_component",
+  "label": "ER to Golgi transport vesicle membrane"
+}

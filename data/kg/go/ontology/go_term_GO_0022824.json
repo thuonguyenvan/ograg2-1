@@ -1,0 +1,33 @@
+{
+  "id": "GO:0022824",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022824",
+  "relationships": {
+    "is_a": [
+      "GO:0005230",
+      "GO:0022835"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "transmitter-gated ion channel activity"
+    ],
+    "narrow": [
+      "ionotropic neurotransmitter receptor activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport",
+      "bf",
+      "sart"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of an ion by a channel that opens when a specific neurotransmitter has been bound by the channel complex or one of its constituent parts.",
+  "namespace": "molecular_function",
+  "label": "transmitter-gated monoatomic ion channel activity"
+}

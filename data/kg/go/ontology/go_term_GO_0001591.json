@@ -1,0 +1,38 @@
+{
+  "id": "GO:0001591",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001591",
+  "relationships": {
+    "is_a": [
+      "GO:0004952"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "dopamine D2 receptor activity",
+      "dopamine D3 receptor activity",
+      "dopamine D4 receptor activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "ISBN": [
+      "0953351033"
+    ],
+    "IUPHAR_RECEPTOR": [
+      "2254",
+      "2256",
+      "2258"
+    ]
+  },
+  "definition": "Combining with the neurotransmitter dopamine and activating adenylate cyclase via coupling to Gi/Go to initiate a change in cell activity.",
+  "namespace": "molecular_function",
+  "label": "dopamine neurotransmitter receptor activity, coupled via Gi/Go"
+}

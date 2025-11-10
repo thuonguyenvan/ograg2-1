@@ -1,0 +1,37 @@
+{
+  "id": "GO:0016918",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016918",
+  "relationships": {
+    "is_a": [
+      "GO:0005501",
+      "GO:0019842"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "retinaldehyde binding"
+    ],
+    "broad": [
+      "vitamin A binding"
+    ],
+    "narrow": [],
+    "related": [
+      "UV-sensitive opsin",
+      "blue-sensitive opsin",
+      "green-sensitive opsin",
+      "long-wave-sensitive opsin",
+      "opsin",
+      "red-sensitive opsin",
+      "short-wave-sensitive opsin",
+      "violet-sensitive opsin"
+    ]
+  },
+  "cross_references": {
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Binding to retinal, one of the forms of vitamin A. Retinal plays an important role in the visual process in most vertebrates, combining with opsins to form visual pigments in the retina.",
+  "namespace": "molecular_function",
+  "label": "retinal binding"
+}

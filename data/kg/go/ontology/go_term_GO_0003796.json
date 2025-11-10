@@ -1,0 +1,53 @@
+{
+  "id": "GO:0003796",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003796",
+  "relationships": {
+    "is_a": [
+      "GO:0004553",
+      "GO:0061783"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1,4-N-acetylmuramidase activity",
+      "N,O-diacetylmuramidase activity",
+      "mucopeptide N-acetylmuramoylhydrolase activity",
+      "mucopeptide glucohydrolase activity",
+      "muramidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-7001",
+      "PR1-lysozyme",
+      "globulin G",
+      "globulin G1",
+      "lysozyme g",
+      "peptidoglycan N-acetylmuramoylhydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.17",
+      "3.2.1.17",
+      "3.2.1.17",
+      "3.2.1.17",
+      "3.2.1.17",
+      "3.2.1.17",
+      "3.2.1.17",
+      "3.2.1.17"
+    ],
+    "MetaCyc": [
+      "3.2.1.17-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-8862320"
+    ],
+    "PMID": [
+      "22748813"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of the beta-(1-&gt;4) linkages between N-acetylmuramic acid and N-acetyl-D-glucosamine residues in a peptidoglycan.",
+  "namespace": "molecular_function",
+  "label": "LYZ hydrolyzes peptidoglycans in the bacterial cell wall"
+}

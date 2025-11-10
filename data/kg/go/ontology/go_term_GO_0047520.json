@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047520",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047520",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "11-cis-retinol palmitate esterase activity",
+      "11-cis-retinyl-palmitate acylhydrolase activity",
+      "RPH"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.63",
+      "3.1.1.63",
+      "3.1.1.63",
+      "3.1.1.63",
+      "3.1.1.63"
+    ],
+    "KEGG_REACTION": [
+      "R03049"
+    ],
+    "MetaCyc": [
+      "11-CIS-RETINYL-PALMITATE-HYDROLASE-RXN"
+    ],
+    "RHEA": [
+      "19697",
+      "19697"
+    ],
+    "Reactome": [
+      "R-HSA-2465941"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 11-cis-retinyl palmitate + H2O = 11-cis-retinol + H+ + palmitate.",
+  "namespace": "molecular_function",
+  "label": "A REH hydrolyses 11cRE to 11cROL"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0098907",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098907",
+  "relationships": {
+    "is_a": [
+      "GO:0010646",
+      "GO:0098901"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of SA node cardiac muscle cell action potential",
+      "regulation of SAN cardiac muscle cell action potential",
+      "regulation of sinoatrial node cardiac muscle cell action potential"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of sinus node cardiac muscle cell action potential"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mtg_cardiac_conduct_nov11"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of action potential creation, propagation or termination in an SA node cardiac myocyte. This typically occurs via modulation of the activity or expression of voltage-gated ion channels.",
+  "namespace": "biological_process",
+  "label": "regulation of SA node cell action potential"
+}

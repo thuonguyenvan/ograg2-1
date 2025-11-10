@@ -1,0 +1,40 @@
+{
+  "id": "GO:1903619",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903619",
+  "relationships": {
+    "is_a": [
+      "GO:0045596",
+      "GO:1903618"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of transdifferentiation",
+      "down-regulation of transdifferentiation",
+      "downregulation of transdifferentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of transdifferentiation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22118091"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of transdifferentiation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of transdifferentiation"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047404",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047404",
+  "relationships": {
+    "is_a": [
+      "GO:0046574"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucuronosyl-disulphoglucosamine glucuronidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-D-glucuronsyl-2-N,6-disulfo-beta-D-glucosamine glucuronohydrolase activity",
+      "3-D-glucuronsyl-N2,6-disulfo-beta-D-glucosamine glucuronohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.56",
+      "3.2.1.56",
+      "3.2.1.56",
+      "3.2.1.56"
+    ],
+    "MetaCyc": [
+      "RXN-16484"
+    ],
+    "RHEA": [
+      "15073"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + 3-D-glucuronosyl-N2-,6-disulfo-beta-D-glucosamine = glucuronate + N2,6-disulfo-D-glucosamine.",
+  "namespace": "molecular_function",
+  "label": "glucuronosyl-disulfoglucosamine glucuronidase activity"
+}

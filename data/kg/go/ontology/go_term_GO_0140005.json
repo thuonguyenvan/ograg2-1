@@ -1,0 +1,25 @@
+{
+  "id": "GO:0140005",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140005",
+  "relationships": {
+    "is_a": [
+      "GO:0140008"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "H4K20me2 modified histone binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "22150589"
+    ]
+  },
+  "definition": "A histone reader that recognizes a histone H4 dimethylated at lysine 20.",
+  "namespace": "molecular_function",
+  "label": "histone H4K20me2 reader activity"
+}

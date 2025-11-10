@@ -1,0 +1,31 @@
+{
+  "id": "GO:0006487",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006487",
+  "relationships": {
+    "is_a": [
+      "GO:0009101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein amino acid N-linked glycosylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-glycan biosynthesis",
+      "N-glycan metabolism"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "35536965"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "A protein glycosylation process in which a carbohydrate or carbohydrate derivative unit is added to a protein via the N4 atom of an asparagine residue.",
+  "namespace": "biological_process",
+  "label": "protein N-linked glycosylation"
+}

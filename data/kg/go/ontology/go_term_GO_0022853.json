@@ -1,0 +1,29 @@
+{
+  "id": "GO:0022853",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022853",
+  "relationships": {
+    "is_a": [
+      "GO:0015075",
+      "GO:0015399"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "active ion transmembrane transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of an ion from one side of a membrane to the other up the solute&apos;s concentration gradient. This is carried out by binding the solute and undergoing a series of conformational changes. Transport works equally well in either direction.",
+  "namespace": "molecular_function",
+  "label": "active monoatomic ion transmembrane transporter activity"
+}

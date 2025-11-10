@@ -1,0 +1,52 @@
+{
+  "id": "GO:0050464",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050464",
+  "relationships": {
+    "is_a": [
+      "GO:0050463"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "assimilatory nitrate reductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "NADPH-nitrate reductase activity",
+      "NADPH:nitrate oxidoreductase activity",
+      "NADPH:nitrate reductase activity",
+      "assimilatory NADPH-nitrate reductase activity",
+      "assimilatory reduced nicotinamide adenine dinucleotide phosphate-nitrate reductase activity",
+      "nitrate reductase (NADPH(2)) activity",
+      "nitrate reductase (NADPH2)",
+      "nitrite:NADP+ oxidoreductase activity",
+      "triphosphopyridine nucleotide-nitrate reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.1.3",
+      "1.7.1.3",
+      "1.7.1.3",
+      "1.7.1.3",
+      "1.7.1.3",
+      "1.7.1.3",
+      "1.7.1.3",
+      "1.7.1.3",
+      "1.7.1.3",
+      "1.7.1.3",
+      "1.7.1.3"
+    ],
+    "MetaCyc": [
+      "NITRATE-REDUCTASE-NADPH-RXN"
+    ],
+    "RHEA": [
+      "19061",
+      "19061"
+    ]
+  },
+  "definition": "Catalysis of the reaction: nitrite + NADP+ + H2O = nitrate + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "nitrate reductase (NADPH) activity"
+}

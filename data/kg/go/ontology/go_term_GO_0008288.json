@@ -1,0 +1,26 @@
+{
+  "id": "GO:0008288",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008288",
+  "relationships": {
+    "is_a": [
+      "GO:0004714"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "sevenless receptor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "signaling"
+    ]
+  },
+  "definition": "Combining with a protein bride of sevenless (boss) and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity by catalysis of the reaction: ATP + a protein-L-tyrosine = ADP + a protein-L-tyrosine phosphate.",
+  "namespace": "molecular_function",
+  "label": "boss receptor activity"
+}

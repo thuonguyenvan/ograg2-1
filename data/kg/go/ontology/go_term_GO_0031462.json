@@ -1,0 +1,36 @@
+{
+  "id": "GO:0031462",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031462",
+  "relationships": {
+    "is_a": [
+      "GO:0031461"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CDL2 complex",
+      "CRL2 complex",
+      "cullin-RING ligase 2"
+    ],
+    "broad": [
+      "CBC complex",
+      "EC2S complex",
+      "ECS complex"
+    ],
+    "narrow": [
+      "VBC complex"
+    ],
+    "related": [
+      "SCF2 complex"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "15571813",
+      "15688063"
+    ]
+  },
+  "definition": "A ubiquitin ligase complex in which a cullin from the Cul2 subfamily and a RING domain protein form the catalytic core; substrate specificity is conferred by an elongin-BC adaptor and a SOCS/BC box protein.",
+  "namespace": "cellular_component",
+  "label": "Cul2-RING ubiquitin ligase complex"
+}

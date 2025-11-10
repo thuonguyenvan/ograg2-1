@@ -1,0 +1,41 @@
+{
+  "id": "GO:0046922",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046922",
+  "relationships": {
+    "is_a": [
+      "GO:0008417",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GDP-L-fucose:polypeptide fucosyltransferase activity",
+      "GDP-beta-L-fucose:polypeptide O-alpha-L-fucosyltransferase activity",
+      "GDP-fucose protein O-fucosyltransferase activity",
+      "GDP-fucose:polypeptide fucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.221",
+      "2.4.1.221",
+      "2.4.1.221",
+      "2.4.1.221",
+      "2.4.1.221",
+      "2.4.1.221"
+    ],
+    "MetaCyc": [
+      "2.4.1.221-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-1912349",
+      "R-HSA-5173192"
+    ]
+  },
+  "definition": "Catalysis of the transfer of an alpha-L-fucosyl residue from GDP-beta-L-fucose to the serine hydroxy group of a protein acceptor.",
+  "namespace": "molecular_function",
+  "label": "POFUT2 transfers fucose to TSR domain-containing proteins"
+}

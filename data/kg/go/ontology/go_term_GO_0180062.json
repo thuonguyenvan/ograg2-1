@@ -1,0 +1,27 @@
+{
+  "id": "GO:0180062",
+  "uri": "http://purl.obolibrary.org/obo/GO_0180062",
+  "relationships": {
+    "is_a": [
+      "GO:0006493"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "protein O-linked galactosylation"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "17516569",
+      "30822656",
+      "33815452"
+    ]
+  },
+  "definition": "A glycoprotein biosynthetic process starting with the covalent linkage of galactose via a beta-glycosidic bond to the oxygen atom of the hydroxyl group of a hydroxyproline, a hydroxylysine, a serine or a threonine in a protein, which can be further elongated with the sequential addition of sugar units resulting in the formation of a protein O-linked glycan. Hydroxylysine modification occurs in the endoplasmic reticulum and is predominantly found in collagen. Hydroxyproline modification occurs in the Golgi and is found only in plant proteins.",
+  "namespace": "biological_process",
+  "label": "protein O-linked glycosylation via galactose"
+}

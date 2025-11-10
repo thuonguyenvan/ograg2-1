@@ -1,0 +1,30 @@
+{
+  "id": "GO:0070023",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070023",
+  "relationships": {
+    "is_a": [
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IL12-IL12 receptor complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "IL12B-IL12RB1-IL12RB2 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11900991"
+    ],
+    "CORUM": [
+      "2020"
+    ]
+  },
+  "definition": "A protein complex that is formed by the association of a heterodimeric interleukin-12 receptor complex with an interleukin-12 heterodimer.",
+  "namespace": "cellular_component",
+  "label": "interleukin-12-interleukin-12 receptor complex"
+}

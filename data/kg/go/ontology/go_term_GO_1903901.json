@@ -1,0 +1,81 @@
+{
+  "id": "GO:1903901",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903901",
+  "relationships": {
+    "is_a": [
+      "GO:0048525",
+      "GO:1903900"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of viral life cycle",
+      "down-regulation of viral life cycle",
+      "downregulation of viral life cycle"
+    ],
+    "broad": [],
+    "narrow": [
+      "down regulation of viral assembly, maturation, egress, and release",
+      "down-regulation of viral assembly, maturation, egress, and release",
+      "downregulation of viral assembly, maturation, egress, and release",
+      "inhibition of viral assembly, maturation, egress, and release",
+      "inhibition of viral life cycle",
+      "negative regulation of viral assembly, maturation, egress, and release"
+    ],
+    "related": [
+      "down regulation of lytic viral life cycle",
+      "down regulation of viral infectious cycle",
+      "down regulation of viral replication",
+      "down-regulation of lytic viral life cycle",
+      "down-regulation of viral infectious cycle",
+      "down-regulation of viral replication",
+      "downregulation of lytic viral life cycle",
+      "downregulation of viral infectious cycle",
+      "downregulation of viral replication",
+      "inhibition of lytic viral life cycle",
+      "inhibition of viral infectious cycle",
+      "inhibition of viral replication",
+      "negative regulation of lytic viral life cycle",
+      "negative regulation of viral infectious cycle",
+      "negative regulation of viral replication"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "18005716"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of viral life cycle.",
+  "namespace": "biological_process",
+  "label": "negative regulation of viral life cycle"
+}

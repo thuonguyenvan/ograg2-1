@@ -1,0 +1,46 @@
+{
+  "id": "GO:1905434",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905434",
+  "relationships": {
+    "is_a": [
+      "GO:0010647",
+      "GO:0023056",
+      "GO:1905432"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of retrograde trans-synaptic signaling by neuropeptide",
+      "up-regulation of retrograde trans-synaptic signaling by neuropeptide",
+      "upregulation of retrograde trans-synaptic signaling by neuropeptide"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of retrograde trans-synaptic signaling by neuropeptide"
+    ],
+    "related": [
+      "positive regulation of neuropeptide-mediated retrograde trans-synaptic signaling"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "bf"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19448629"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of retrograde trans-synaptic signaling by neuropeptide.",
+  "namespace": "biological_process",
+  "label": "positive regulation of retrograde trans-synaptic signaling by neuropeptide"
+}

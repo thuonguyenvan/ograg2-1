@@ -1,0 +1,33 @@
+{
+  "id": "GO:0090415",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090415",
+  "relationships": {
+    "is_a": [
+      "GO:0052592"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.17.7.2"
+    ],
+    "RHEA": [
+      "53544",
+      "53544"
+    ],
+    "GOC": [
+      "kad"
+    ],
+    "PMID": [
+      "21934147"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 7-hydroxymethyl chlorophyll a + 2 reduced ferredoxin + 2 H+ chlorophyll a + 2 oxidized ferredoxin + H2O.",
+  "namespace": "molecular_function",
+  "label": "7-hydroxymethyl chlorophyll a reductase activity"
+}

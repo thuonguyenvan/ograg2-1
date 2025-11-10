@@ -1,0 +1,41 @@
+{
+  "id": "GO:0033803",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033803",
+  "relationships": {
+    "is_a": [
+      "GO:0008171",
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "F 4&apos;-OMT",
+      "S-adenosyl-L-methionine:flavonoid 4&apos;-O-methyltransferase activity",
+      "S-adenosyl-L-methionine:kaempferol 4&apos;-O-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.155",
+      "2.1.1.155",
+      "2.1.1.155",
+      "2.1.1.155"
+    ],
+    "KEGG_REACTION": [
+      "R06807"
+    ],
+    "MetaCyc": [
+      "2.1.1.155-RXN"
+    ],
+    "RHEA": [
+      "15105",
+      "15105"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + kaempferol = S-adenosyl-L-homocysteine + H+ + kaempferide.",
+  "namespace": "molecular_function",
+  "label": "kaempferol 4&apos;-O-methyltransferase activity"
+}

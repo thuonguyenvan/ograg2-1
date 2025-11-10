@@ -1,0 +1,45 @@
+{
+  "id": "GO:0035195",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035195",
+  "relationships": {
+    "is_a": [
+      "GO:0035194"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "gene silencing by miRNA",
+      "gene silencing by microRNA",
+      "microRNA-mediated gene silencing"
+    ],
+    "broad": [
+      "miRNA-mediated gene silencing"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9759811"
+    ],
+    "GOC": [
+      "aruk",
+      "bc",
+      "rl",
+      "dph",
+      "tb",
+      "pr"
+    ],
+    "PMID": [
+      "14744438",
+      "15066275",
+      "15066283",
+      "23209154",
+      "23985560",
+      "28379604"
+    ]
+  },
+  "definition": "A post-transcriptional gene silencing pathway in which regulatory microRNAs (miRNAs) elicit silencing of specific target genes. miRNAs are endogenous 21-24 nucleotide small RNAs processed from stem-loop RNA precursors (pre-miRNAs). Once incorporated into a RNA-induced silencing complex (RISC), miRNAs can downregulate protein production by either of two posttranscriptional mechanisms: endonucleolytic cleavage of the RNA (often mRNA) or mRNA translational repression, usually accompanied by poly-A tail shortening and subsequent degradation of the mRNA. miRNAs are present in all the animals and in plants, whereas siRNAs are present in lower animals and in plants.",
+  "namespace": "biological_process",
+  "label": "Regulation of CDH11 mRNA translation by microRNAs"
+}

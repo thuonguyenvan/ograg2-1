@@ -1,0 +1,30 @@
+{
+  "id": "GO:0070026",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070026",
+  "relationships": {
+    "is_a": [
+      "GO:0036094"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NO binding",
+      "nitrogen monoxide binding",
+      "nitrosyl binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ecd"
+    ],
+    "CHEBI": [
+      "16480"
+    ]
+  },
+  "definition": "Binding to nitric oxide (NO).",
+  "namespace": "molecular_function",
+  "label": "nitric oxide binding"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GO:0006279",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006279",
+  "relationships": {
+    "is_a": [
+      "GO:0033260",
+      "GO:1903046"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA replication involved in S phase involved in meiotic cell cycle",
+      "DNA replication involved in S-phase involved in meiotic cell cycle",
+      "meiotic cell cycle DNA replication",
+      "meiotic nuclear cell cycle DNA replication",
+      "nuclear cell cycle DNA replication involved in meiotic cell cycle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "DNA replication during S phase involved in meiotic cell cycle",
+      "meiotic DNA replication",
+      "meiotic DNA synthesis",
+      "premeiotic DNA synthesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "ai",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "GO_REF": [
+      "0000060"
+    ]
+  },
+  "definition": "The replication of DNA that precedes meiotic cell division.",
+  "namespace": "biological_process",
+  "label": "premeiotic DNA replication"
+}

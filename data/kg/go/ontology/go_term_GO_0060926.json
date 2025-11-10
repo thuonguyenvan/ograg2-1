@@ -1,0 +1,26 @@
+{
+  "id": "GO:0060926",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060926",
+  "relationships": {
+    "is_a": [
+      "GO:0055013"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "pacemaker cell development"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cardiac_conduct_nov11",
+      "mtg_heart"
+    ]
+  },
+  "definition": "The process whose specific outcome is the progression of a pacemaker cell over time, from its formation to the mature state. Pacemaker cells are specialized cardiomyocytes that are responsible for regulating the timing of heart contractions.",
+  "namespace": "biological_process",
+  "label": "cardiac pacemaker cell development"
+}

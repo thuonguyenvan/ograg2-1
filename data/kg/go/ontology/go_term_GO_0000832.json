@@ -1,0 +1,32 @@
+{
+  "id": "GO:0000832",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000832",
+  "relationships": {
+    "is_a": [
+      "GO:0000828"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP:1D-myo-inositol-hexakisphosphate 5-phosphotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R09087"
+    ],
+    "MetaCyc": [
+      "2.7.1.152-RXN"
+    ],
+    "RHEA": [
+      "12793",
+      "12793"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1D-myo-inositol hexakisphosphate + ATP = 5-diphospho-1D-myo-inositol 1,2,3,4,6-pentakisphosphate + ADP.",
+  "namespace": "molecular_function",
+  "label": "inositol hexakisphosphate 5-kinase activity"
+}

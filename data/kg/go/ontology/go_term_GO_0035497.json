@@ -1,0 +1,35 @@
+{
+  "id": "GO:0035497",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035497",
+  "relationships": {
+    "is_a": [
+      "GO:0000978"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CRE binding",
+      "cAMP-responsive element binding",
+      "cyclic AMP response element binding",
+      "cyclic-AMP response element binding",
+      "cyclic-AMP-responsive element binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "2875459",
+      "2900470",
+      "2900470",
+      "2875459",
+      "2900470",
+      "2900470",
+      "2875459"
+    ]
+  },
+  "definition": "Binding to a cyclic AMP response element (CRE), a short palindrome-containing sequence found in the promoters of genes whose expression is regulated in response to cyclic AMP.",
+  "namespace": "molecular_function",
+  "label": "cAMP response element binding"
+}

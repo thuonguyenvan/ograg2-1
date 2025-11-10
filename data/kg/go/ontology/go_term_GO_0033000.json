@@ -1,0 +1,35 @@
+{
+  "id": "GO:0033000",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033000",
+  "relationships": {
+    "is_a": [
+      "GO:0032997"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FcgRI complex"
+    ],
+    "broad": [
+      "IgG receptor complex",
+      "immunoglobulin G receptor complex"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "11244038",
+      "12413532"
+    ]
+  },
+  "definition": "A protein complex composed of an Fc-gamma RI alpha chain and an Fc-epsilon RI gamma chain dimer with or without additional signaling components. The complex functions primarily as an activating receptor for IgG.",
+  "namespace": "cellular_component",
+  "label": "Fc-gamma receptor I complex"
+}

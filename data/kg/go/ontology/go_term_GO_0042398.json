@@ -1,0 +1,39 @@
+{
+  "id": "GO:0042398",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042398",
+  "relationships": {
+    "is_a": [
+      "GO:0006575",
+      "GO:0009058"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "amino acid derivative biosynthetic process",
+      "cellular amino acid derivative anabolism",
+      "cellular amino acid derivative biosynthesis",
+      "cellular amino acid derivative biosynthetic process",
+      "cellular amino acid derivative formation",
+      "cellular amino acid derivative synthesis",
+      "cellular modified amino acid anabolism",
+      "cellular modified amino acid biosynthesis",
+      "cellular modified amino acid formation",
+      "cellular modified amino acid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of compounds derived from amino acids, organic acids containing one or more amino substituents.",
+  "namespace": "biological_process",
+  "label": "modified amino acid biosynthetic process"
+}

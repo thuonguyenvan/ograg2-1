@@ -1,0 +1,47 @@
+{
+  "id": "GO:0047350",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047350",
+  "relationships": {
+    "is_a": [
+      "GO:0070569"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UTP:glucuronate-1-phosphate uridylyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-D-glucuronic acid pyrophosphorylase activity",
+      "UDP-glucuronate pyrophosphorylase activity",
+      "UDP-glucuronic acid pyrophosphorylase activity",
+      "UTP:1-phospho-alpha-D-glucuronate uridylyltransferase activity",
+      "uridine diphosphoglucuronic pyrophosphorylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.44",
+      "2.7.7.44",
+      "2.7.7.44",
+      "2.7.7.44",
+      "2.7.7.44",
+      "2.7.7.44",
+      "2.7.7.44"
+    ],
+    "KEGG_REACTION": [
+      "R01381"
+    ],
+    "MetaCyc": [
+      "2.7.7.44-RXN"
+    ],
+    "RHEA": [
+      "16325",
+      "16325"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-phospho-alpha-D-glucuronate + UTP = diphosphate + UDP-alpha-D-glucuronate.",
+  "namespace": "molecular_function",
+  "label": "glucuronate-1-phosphate uridylyltransferase activity"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0016102",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016102",
+  "relationships": {
+    "is_a": [
+      "GO:0016101",
+      "GO:0016114"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "diterpenoid anabolism",
+      "diterpenoid biosynthesis",
+      "diterpenoid formation",
+      "diterpenoid synthesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "diterpene biosynthesis",
+      "diterpene biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0198547684"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of diterpenoid compounds, terpenoids with four isoprene units.",
+  "namespace": "biological_process",
+  "label": "diterpenoid biosynthetic process"
+}

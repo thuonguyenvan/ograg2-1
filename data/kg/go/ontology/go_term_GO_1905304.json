@@ -1,0 +1,42 @@
+{
+  "id": "GO:1905304",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905304",
+  "relationships": {
+    "is_a": [
+      "GO:0060284",
+      "GO:0110020",
+      "GO:1902115",
+      "GO:1902903"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of cardiac myofibril development",
+      "regulation of cardiac myofibril morphogenesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of heart myofibril assembly"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "16151019"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of cardiac myofibril assembly.",
+  "namespace": "biological_process",
+  "label": "regulation of cardiac myofibril assembly"
+}

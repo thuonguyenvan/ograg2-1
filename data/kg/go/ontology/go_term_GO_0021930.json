@@ -1,0 +1,32 @@
+{
+  "id": "GO:0021930",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021930",
+  "relationships": {
+    "is_a": [
+      "GO:0021924"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "15157725"
+    ]
+  },
+  "definition": "The multiplication or reproduction of neuroblasts that will give rise to granule cells. A granule cell is a glutamatergic interneuron found in the cerebellar cortex.",
+  "namespace": "biological_process",
+  "label": "cerebellar granule cell precursor proliferation"
+}

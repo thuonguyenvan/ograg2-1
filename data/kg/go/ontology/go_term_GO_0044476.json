@@ -1,0 +1,30 @@
+{
+  "id": "GO:0044476",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044476",
+  "relationships": {
+    "is_a": [
+      "GO:0044474"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "envenomation resulting in negative regulation of low voltage-gated calcium channel activity in another organism",
+      "envenomation resulting in negative regulation of low voltage-gated calcium channel activity in other organism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "fj",
+      "jl"
+    ],
+    "PMID": [
+      "20920515"
+    ]
+  },
+  "definition": "A process in which an organism inhibits or disrupts the activity of a low voltage-gated calcium channel in another organism via the action of a venom.",
+  "namespace": "biological_process",
+  "label": "venom-mediated inhibition of low voltage-gated calcium channel activity"
+}

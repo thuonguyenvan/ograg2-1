@@ -1,0 +1,46 @@
+{
+  "id": "GO:0015431",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015431",
+  "relationships": {
+    "is_a": [
+      "GO:0140359",
+      "GO:1901682"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent glutathione S-conjugate export pump",
+      "GS-X pump",
+      "MRP1/GS-X pump"
+    ],
+    "broad": [
+      "conjugate transporter activity"
+    ],
+    "narrow": [
+      "glutathione S-conjugate-exporting ATPase activity"
+    ],
+    "related": [
+      "ATPase-coupled glutathione S-conjugate transmembrane transporter activity",
+      "glutathione S-conjugate-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.6.2.3",
+      "7.6.2.3"
+    ],
+    "MetaCyc": [
+      "TRANS-RXN-358"
+    ],
+    "RHEA": [
+      "19121",
+      "19121"
+    ],
+    "PMID": [
+      "1455517"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an S-substituted glutathione(in) + ATP + H2O = an S-substituted glutathione(out) + ADP + phosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "ABC-type glutathione S-conjugate transporter activity"
+}

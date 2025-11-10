@@ -1,0 +1,37 @@
+{
+  "id": "GO:1903663",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903663",
+  "relationships": {
+    "is_a": [
+      "GO:0016052",
+      "GO:0019579"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-altrarate(1-) breakdown",
+      "L-altrarate(1-) catabolism",
+      "L-altrarate(1-) degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000068"
+    ],
+    "PMID": [
+      "17649980"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-altrarate.",
+  "namespace": "biological_process",
+  "label": "L-altrarate catabolic process"
+}

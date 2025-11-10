@@ -1,0 +1,40 @@
+{
+  "id": "GO:0047789",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047789",
+  "relationships": {
+    "is_a": [
+      "GO:0016812"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "creatinine hydrolase"
+    ],
+    "narrow": [],
+    "related": [
+      "creatinine amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.2.10",
+      "3.5.2.10",
+      "3.5.2.10",
+      "3.5.2.10"
+    ],
+    "KEGG_REACTION": [
+      "R01884"
+    ],
+    "MetaCyc": [
+      "CREATININASE-RXN"
+    ],
+    "RHEA": [
+      "14533",
+      "14533"
+    ]
+  },
+  "definition": "Catalysis of the reaction: creatinine + H2O = creatine.",
+  "namespace": "molecular_function",
+  "label": "creatininase activity"
+}

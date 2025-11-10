@@ -1,0 +1,28 @@
+{
+  "id": "GO:0046703",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046703",
+  "relationships": {
+    "is_a": [
+      "GO:0005102"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NK cell lectin-like receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "KLRC4 receptor binding",
+      "NKG2D receptor binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binding to a lectin-like natural killer cell receptor.",
+  "namespace": "molecular_function",
+  "label": "natural killer cell lectin-like receptor binding"
+}

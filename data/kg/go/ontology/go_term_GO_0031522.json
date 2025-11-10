@@ -1,0 +1,33 @@
+{
+  "id": "GO:0031522",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031522",
+  "relationships": {
+    "is_a": [
+      "GO:0140535"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "Sec complex"
+    ],
+    "narrow": [
+      "Sec secretion complex",
+      "Sec translocation complex"
+    ],
+    "related": [
+      "plasma membrane Sec complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_sensu"
+    ],
+    "PMID": [
+      "15223057"
+    ]
+  },
+  "definition": "A transmembrane protein complex involved in the translocation of proteins across the cytoplasmic membrane. In Gram-negative bacteria, Sec-translocated proteins are subsequently secreted via the type II, IV, or V secretion systems. Sec complex components include SecA, D, E, F, G, Y and YajC.",
+  "namespace": "cellular_component",
+  "label": "cell envelope Sec protein transport complex"
+}

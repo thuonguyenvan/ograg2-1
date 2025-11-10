@@ -1,0 +1,42 @@
+{
+  "id": "GO:0015412",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015412",
+  "relationships": {
+    "is_a": [
+      "GO:0015098",
+      "GO:0140359"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "molybdate ABC transporter"
+    ],
+    "broad": [
+      "molybdate porter activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ATPase-coupled molybdate transmembrane transporter activity",
+      "molybdate transmembrane-transporting ATPase activity",
+      "molybdate transporting ATPase activity",
+      "molybdate-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.3.2.5",
+      "7.3.2.5",
+      "7.3.2.5"
+    ],
+    "MetaCyc": [
+      "ABC-19-RXN"
+    ],
+    "RHEA": [
+      "22020",
+      "22020"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + molybdate(out) = ADP + phosphate + molybdate(in).",
+  "namespace": "molecular_function",
+  "label": "ABC-type molybdate transporter activity"
+}

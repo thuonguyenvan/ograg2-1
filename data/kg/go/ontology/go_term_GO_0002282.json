@@ -1,0 +1,30 @@
+{
+  "id": "GO:0002282",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002282",
+  "relationships": {
+    "is_a": [
+      "GO:0001774",
+      "GO:0002281"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "microglial cell activation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "tb"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "The change in morphology and behavior of a microglial cell resulting from exposure to a cytokine, chemokine, cellular ligand, or soluble factor, leading to the initiation or perpetuation of an immune response.",
+  "namespace": "biological_process",
+  "label": "microglial cell activation involved in immune response"
+}

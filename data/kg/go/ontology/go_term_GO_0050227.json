@@ -1,0 +1,33 @@
+{
+  "id": "GO:0050227",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050227",
+  "relationships": {
+    "is_a": [
+      "GO:0016727"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-amino-4-hydroxypteridine:oxygen oxidoreductase (7-hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.17.3.1",
+      "1.17.3.1"
+    ],
+    "MetaCyc": [
+      "PTERIDINE-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "12777",
+      "12777"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-amino-4-hydroxypteridine + O2 = 2-amino-4,7-dihydroxypteridine + unknown.",
+  "namespace": "molecular_function",
+  "label": "pteridine oxidase activity"
+}

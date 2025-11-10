@@ -1,0 +1,25 @@
+{
+  "id": "GO:0140595",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140595",
+  "relationships": {
+    "is_a": [
+      "GO:0098799"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrial outer import machinery"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw"
+    ]
+  },
+  "definition": "A protein complex located in the mitochondrial outer membrane that functions as an insertase, mediating the insertion of alpha-helical proteins from the cytosol into the outer membrane. Client proteins are usually single- and multi-span proteins that include components of the TOM complex.",
+  "namespace": "cellular_component",
+  "label": "MIM complex"
+}

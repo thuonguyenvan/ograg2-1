@@ -1,0 +1,35 @@
+{
+  "id": "GO:0030739",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030739",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "O-demethylpuromycin methyltransferase activity",
+      "S-adenosyl-L-methionine:O-demethylpuromycin O-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.38",
+      "2.1.1.38",
+      "2.1.1.38",
+      "2.1.1.38"
+    ],
+    "MetaCyc": [
+      "2.1.1.38-RXN"
+    ],
+    "RHEA": [
+      "22280"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + O-demethylpuromycin = S-adenosyl-L-homocysteine + puromycin.",
+  "namespace": "molecular_function",
+  "label": "O-demethylpuromycin O-methyltransferase activity"
+}

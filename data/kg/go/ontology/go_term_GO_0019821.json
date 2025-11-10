@@ -1,0 +1,25 @@
+{
+  "id": "GO:0019821",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019821",
+  "relationships": {
+    "is_a": [
+      "GO:0005777"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "peroxisome vesicle"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "10629216"
+    ]
+  },
+  "definition": "A subform of peroxisome that corresponds to an intermediate in a peroxisome assembly pathway, which operates by conversion of peroxisomal subforms in the direction P1, P2 -&gt; P3 -&gt; P4 -&gt; P5 -&gt; P6. P3 peroxisomes are formed by fusion of P1 and P2 peroxisomes, and are distinguished from the other subforms on the bases of buoyant density and protein content.",
+  "namespace": "cellular_component",
+  "label": "P3 peroxisome"
+}

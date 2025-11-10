@@ -1,0 +1,43 @@
+{
+  "id": "GO:0008806",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008806",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-carboxymethylenebut-2-en-4-olide lactonohydrolase activity",
+      "carboxymethylene butenolide hydrolase activity",
+      "dienelactone hydrolase activity",
+      "maleylacetate enol-lactonase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.45",
+      "3.1.1.45",
+      "3.1.1.45",
+      "3.1.1.45",
+      "3.1.1.45",
+      "3.1.1.45"
+    ],
+    "MetaCyc": [
+      "CARBOXYMETHYLENEBUTENOLIDASE-RXN"
+    ],
+    "RHEA": [
+      "12372"
+    ],
+    "UM-BBD_enzymeID": [
+      "r0110",
+      "r0286"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-carboxymethylenebut-2-en-4-olide + H2O = 4 oxohex-2-enedioate.",
+  "namespace": "molecular_function",
+  "label": "carboxymethylenebutenolidase activity"
+}

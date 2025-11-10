@@ -1,0 +1,35 @@
+{
+  "id": "GO:0099002",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099002",
+  "relationships": {
+    "is_a": [
+      "GO:0039678"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "viral short tail ejection system"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "viral genome ejection through host cell envelope, short tail mechanism"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "3954",
+      "3954",
+      "3954"
+    ],
+    "GOC": [
+      "dos"
+    ],
+    "PMID": [
+      "22297513"
+    ]
+  },
+  "definition": "Entry of a symbiont&apos;s genome into the host cell through the host cell envelope via a short tail ejection system consisting a central tube, the connector which attaches the tail to the phage capsid and releases inner core proteins. Upon binding to the host cell surface, the phage displays a tube-like extension of its short tail that penetrates both host membranes. This tail extension comes from the release of viral core proteins with channel forming properties. Occurs in non-enveloped prokaryotic viruses.",
+  "namespace": "biological_process",
+  "label": "Viral short tail ejection system"
+}

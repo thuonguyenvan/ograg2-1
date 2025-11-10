@@ -1,0 +1,45 @@
+{
+  "id": "GO:0033814",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033814",
+  "relationships": {
+    "is_a": [
+      "GO:0016408"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "peroxisomal thiolase 2 activity"
+    ],
+    "related": [
+      "3alpha,7alpha,12alpha-trihydroxy-5beta-cholanoyl-CoA:propanoyl-CoA C-acyltransferase activity",
+      "PTE-2",
+      "SCP-X",
+      "SCPchi",
+      "sterol carrier protein-X",
+      "sterol carrier protein-chi"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "2.3.1.176-RXN"
+    ],
+    "RHEA": [
+      "16865",
+      "16865"
+    ],
+    "EC": [
+      "2.3.1.176",
+      "2.3.1.176",
+      "2.3.1.176",
+      "2.3.1.176",
+      "2.3.1.176",
+      "2.3.1.176",
+      "2.3.1.176"
+    ]
+  },
+  "definition": "Catalysis of the reaction: choloyl-CoA + propanoyl-CoA = 3alpha,7alpha,12alpha-trihydroxy-24-oxo-5beta-cholestan-26-oyl-CoA + CoA.",
+  "namespace": "molecular_function",
+  "label": "propanoyl-CoA C-acyltransferase activity"
+}

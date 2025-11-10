@@ -1,0 +1,47 @@
+{
+  "id": "GO:1903860",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903860",
+  "relationships": {
+    "is_a": [
+      "GO:0030308",
+      "GO:0048640",
+      "GO:1903859"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of dendrite extension",
+      "down-regulation of dendrite extension",
+      "downregulation of dendrite extension",
+      "up regulation of dendrite retraction",
+      "up-regulation of dendrite retraction"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of dendrite extension"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "pad",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "pad",
+      "pad",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24898855"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of dendrite extension.",
+  "namespace": "biological_process",
+  "label": "negative regulation of dendrite extension"
+}

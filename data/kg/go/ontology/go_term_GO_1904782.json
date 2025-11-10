@@ -1,0 +1,62 @@
+{
+  "id": "GO:1904782",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904782",
+  "relationships": {
+    "is_a": [
+      "GO:0032413",
+      "GO:2000272",
+      "GO:2000310"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of N-methyl-D-aspartate selective glutamate receptor activity",
+      "down regulation of NMDA glutamate receptor activity",
+      "down regulation of NMDA receptor",
+      "down-regulation of N-methyl-D-aspartate selective glutamate receptor activity",
+      "down-regulation of NMDA glutamate receptor activity",
+      "down-regulation of NMDA receptor",
+      "downregulation of N-methyl-D-aspartate selective glutamate receptor activity",
+      "downregulation of NMDA glutamate receptor activity",
+      "downregulation of NMDA receptor",
+      "negative regulation of N-methyl-D-aspartate selective glutamate receptor activity",
+      "negative regulation of NMDA receptor"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of N-methyl-D-aspartate selective glutamate receptor activity",
+      "inhibition of NMDA glutamate receptor activity",
+      "inhibition of NMDA receptor"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mr",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000059"
+    ],
+    "PMID": [
+      "12857"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of NMDA glutamate receptor activity.",
+  "namespace": "biological_process",
+  "label": "negative regulation of NMDA glutamate receptor activity"
+}

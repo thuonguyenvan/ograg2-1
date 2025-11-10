@@ -1,0 +1,34 @@
+{
+  "id": "GO:0000792",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000792",
+  "relationships": {
+    "is_a": [
+      "GO:0000785"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transcriptionally inactive chromatin",
+      "transcriptionally silent chromatin"
+    ],
+    "broad": [],
+    "narrow": [
+      "nuclear heterochromatin"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao581845896"
+    ],
+    "Wikipedia": [
+      "Heterochromatin"
+    ],
+    "PMID": [
+      "32017156"
+    ]
+  },
+  "definition": "A compact and highly condensed form of chromatin that is refractory to transcription.",
+  "namespace": "cellular_component",
+  "label": "heterochromatin"
+}

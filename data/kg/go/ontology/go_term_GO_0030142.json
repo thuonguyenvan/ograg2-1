@@ -1,0 +1,34 @@
+{
+  "id": "GO:0030142",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030142",
+  "relationships": {
+    "is_a": [
+      "GO:0030133",
+      "GO:0030137"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Golgi to ER constitutive secretory pathway transport vesicle",
+      "Golgi to endoplasmic reticulum transport vesicle",
+      "Golgi-ER transport vesicle",
+      "Golgi-endoplasmic reticulum transport vesicle",
+      "retrograde transport vesicle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "22160157",
+      "22160157"
+    ]
+  },
+  "definition": "A vesicle that mediates transport from the Golgi to the endoplasmic reticulum.",
+  "namespace": "cellular_component",
+  "label": "COPI-coated Golgi to ER transport vesicle"
+}

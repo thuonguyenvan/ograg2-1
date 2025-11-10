@@ -1,0 +1,40 @@
+{
+  "id": "GO:0008976",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008976",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016776"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "polyphosphate polymerase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP-polyphosphate phosphotransferase activity",
+      "ATP:polyphosphate phosphotransferase activity",
+      "polyphosphoric acid kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.4.1",
+      "2.7.4.1",
+      "2.7.4.1",
+      "2.7.4.1",
+      "2.7.4.1"
+    ],
+    "MetaCyc": [
+      "POLYPHOSPHATE-KINASE-RXN"
+    ],
+    "RHEA": [
+      "19573"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + phosphate(n) = ADP + phosphate(n+1).",
+  "namespace": "molecular_function",
+  "label": "polyphosphate kinase activity"
+}

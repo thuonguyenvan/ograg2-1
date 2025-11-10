@@ -1,0 +1,52 @@
+{
+  "id": "GO:0009703",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009703",
+  "relationships": {
+    "is_a": [
+      "GO:0050463"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NADH:nitrate reductase activity"
+    ],
+    "broad": [
+      "assimilatory nitrate reductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "NADH-dependent nitrate reductase activity",
+      "NADH-nitrate reductase activity",
+      "NADH:nitrate oxidoreductase activity",
+      "assimilatory NADH: nitrate reductase activity",
+      "assimilatory NADH:nitrate reductase activity",
+      "nitrate reductase (NADH(2)) activity",
+      "nitrate reductase (NADH2)",
+      "nitrite:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.1.1",
+      "1.7.1.1",
+      "1.7.1.1",
+      "1.7.1.1",
+      "1.7.1.1",
+      "1.7.1.1",
+      "1.7.1.1",
+      "1.7.1.1",
+      "1.7.1.1",
+      "1.7.1.1"
+    ],
+    "MetaCyc": [
+      "NITRATE-REDUCTASE-NADH-RXN"
+    ],
+    "RHEA": [
+      "17913",
+      "17913"
+    ]
+  },
+  "definition": "Catalysis of the reaction: nitrite + NAD+ + H2O = nitrate + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "nitrate reductase (NADH) activity"
+}

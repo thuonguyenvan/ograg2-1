@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047877",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047877",
+  "relationships": {
+    "is_a": [
+      "GO:0016646"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(-)-ephedrine:NAD+ 2-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.18",
+      "1.5.1.18",
+      "1.5.1.18"
+    ],
+    "KEGG_REACTION": [
+      "R03614"
+    ],
+    "MetaCyc": [
+      "EPHEDRINE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "16289",
+      "16289"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (1R,2S)-ephedrine + NAD+ = (R)-2-methylimino-1-phenylpropan-1-ol + 2 H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "ephedrine dehydrogenase activity"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0061690",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061690",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lipoyl-X-hydrolase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.138"
+    ],
+    "MetaCyc": [
+      "RXN-13031"
+    ],
+    "RHEA": [
+      "76519",
+      "76519"
+    ],
+    "Reactome": [
+      "R-HSA-9861626"
+    ],
+    "PMID": [
+      "14086741",
+      "14086741"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + N(6)-[(R)-lipoyl]-L-lysyl-[lipoyl-carrier protein] = (R)-lipoate + L-lysyl-[lipoyl-carrier protein].",
+  "namespace": "molecular_function",
+  "label": "SIRT4 cleaves lipoyl from DLAT"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0002720",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002720",
+  "relationships": {
+    "is_a": [
+      "GO:0001819",
+      "GO:0002702",
+      "GO:0002718"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "activation of cytokine production during immune response",
+      "positive regulation of cytokine biosynthetic process involved in immune response",
+      "positive regulation of cytokine secretion involved in immune response",
+      "stimulation of cytokine production during immune response"
+    ],
+    "related": [
+      "positive regulation of cytokine production during immune response",
+      "up regulation of cytokine production during immune response",
+      "up-regulation of cytokine production during immune response",
+      "upregulation of cytokine production during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "dph"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of cytokine production that contributes to an immune response.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cytokine production involved in immune response"
+}

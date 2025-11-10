@@ -1,0 +1,33 @@
+{
+  "id": "GO:0036410",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036410",
+  "relationships": {
+    "is_a": [
+      "GO:0036409"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Mst2 H3K14 acetyltransferase complex",
+      "Mst2 complex",
+      "Mst2 histone H3K14 acetyltransferase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw"
+    ],
+    "PMID": [
+      "21289066",
+      "21289066",
+      "21289066",
+      "21289066"
+    ]
+  },
+  "definition": "A protein complex that can catalyze the acetylation of lysine at position 14 in histone H3, and contains Mst2 as the catalytic subunit. In fission yeast, contains at least Mst2, Nto1, Ptf2, Ptf1 and Eaf6.",
+  "namespace": "cellular_component",
+  "label": "Mst2 histone acetyltransferase complex"
+}

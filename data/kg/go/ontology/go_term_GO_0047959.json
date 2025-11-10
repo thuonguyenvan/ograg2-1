@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047959",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047959",
+  "relationships": {
+    "is_a": [
+      "GO:0016640"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glycine-cytochrome c reductase activity",
+      "glycine:ferricytochrome-c oxidoreductase (deaminating)",
+      "reductase, glycine-cytochrome c"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.2.1",
+      "1.4.2.1",
+      "1.4.2.1",
+      "1.4.2.1",
+      "1.4.2.1"
+    ],
+    "MetaCyc": [
+      "GLYCINE-DEHYDROGENASE-CYTOCHROME-RXN",
+      "GLYCINE-DEHYDROGENASE-CYTOCHROME-RXN"
+    ],
+    "RHEA": [
+      "16909"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glycine + H2O + 2 ferricytochrome c = glyoxylate + NH3 + 2 ferrocytochrome c.",
+  "namespace": "molecular_function",
+  "label": "glycine dehydrogenase (cytochrome) activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0160290",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160290",
+  "relationships": {
+    "is_a": [
+      "GO:0016706",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "54144",
+      "54144"
+    ],
+    "PMID": [
+      "27497299",
+      "28472312"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-methylcytidine(34) in mitochondrial tRNA(Met) + 2 2-oxoglutarate + 2 O2 = 5-formylcytidine(34) in mitochondrial tRNA(Met) + 2 succinate + 2 CO2 + H2O.",
+  "namespace": "molecular_function",
+  "label": "2-oxoglutarate-dependent tRNA 5-methylcytidine formyltransferase activity"
+}

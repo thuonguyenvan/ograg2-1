@@ -1,0 +1,47 @@
+{
+  "id": "GO:0008934",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008934",
+  "relationships": {
+    "is_a": [
+      "GO:0052834"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "inositol-1(or 4)-monophosphatase activity",
+      "myo-inositol-1(or 4)-monophosphatase activity",
+      "myo-inositol-1(or 4)-phosphate phosphohydrolase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "L-myo-inositol-1-phosphate phosphatase activity",
+      "inositol 1-phosphatase activity",
+      "myo-inositol 1-phosphatase activity",
+      "myo-inositol-1-phosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN0-5408"
+    ],
+    "RHEA": [
+      "27670",
+      "27670"
+    ],
+    "Reactome": [
+      "R-HSA-1855154"
+    ],
+    "EC": [
+      "3.1.3.25",
+      "3.1.3.25",
+      "3.1.3.25",
+      "3.1.3.25",
+      "3.1.3.25",
+      "3.1.3.25"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1D-myo-inositol 1-phosphate + H2O = myo-inositol + phosphate.",
+  "namespace": "molecular_function",
+  "label": "I1P is dephosphorylated to Ins by IMPA1/2 in the cytosol"
+}

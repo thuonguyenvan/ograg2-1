@@ -1,0 +1,32 @@
+{
+  "id": "GO:0000514",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000514",
+  "relationships": {
+    "is_a": [
+      "GO:0000099",
+      "GO:0015078",
+      "GO:0015175",
+      "GO:0015179",
+      "GO:0072349",
+      "GO:0140848"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "70967",
+      "70967"
+    ],
+    "PMID": [
+      "11566871"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: 3-sulfino-L-alanine (cysteinesulfinate) (out) + H+(in) + L-glutamate(in) = 3-sulfino-L-alanine(in) + H+(out) + L-glutamate(out).",
+  "namespace": "molecular_function",
+  "label": "3-sulfino-L-alanine: proton, glutamate antiporter activity"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047064",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047064",
+  "relationships": {
+    "is_a": [
+      "GO:0046993"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "sulochrin oxidase activity",
+      "sulochrin:oxygen oxidoreductase (cyclizing, (+)-specific)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.21.3.4",
+      "1.21.3.4",
+      "1.21.3.4",
+      "1.21.3.4"
+    ],
+    "KEGG_REACTION": [
+      "R00060"
+    ],
+    "MetaCyc": [
+      "1.10.3.7-RXN"
+    ],
+    "RHEA": [
+      "24092",
+      "24092"
+    ]
+  },
+  "definition": "Catalysis of the reaction: O2 + 2 sulochrin = 2 (2S)-bisdechlorogeodin + 2 H2O.",
+  "namespace": "molecular_function",
+  "label": "sulochrin oxidase [(+)-bisdechlorogeodin-forming] activity"
+}

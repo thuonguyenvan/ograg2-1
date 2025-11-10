@@ -1,0 +1,36 @@
+{
+  "id": "GO:0006633",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006633",
+  "relationships": {
+    "is_a": [
+      "GO:0006631",
+      "GO:0008610",
+      "GO:0072330"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fatty acid anabolism",
+      "fatty acid biosynthesis",
+      "fatty acid formation",
+      "fatty acid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Fatty_acid_synthesis"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of a fatty acid, any of the aliphatic monocarboxylic acids that can be liberated by hydrolysis from naturally occurring fats and oils. Fatty acids are predominantly straight-chain acids of 4 to 24 carbon atoms, which may be saturated or unsaturated; branched fatty acids and hydroxy fatty acids also occur, and very long chain acids of over 30 carbons are found in waxes.",
+  "namespace": "biological_process",
+  "label": "fatty acid biosynthetic process"
+}

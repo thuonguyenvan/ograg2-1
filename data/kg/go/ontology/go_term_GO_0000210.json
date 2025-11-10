@@ -1,0 +1,41 @@
+{
+  "id": "GO:0000210",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000210",
+  "relationships": {
+    "is_a": [
+      "GO:0004551"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NAD(+) pyrophosphatase activity",
+      "NAD+ phosphohydrolase activity",
+      "NAD+ pyrophosphatase activity"
+    ],
+    "broad": [
+      "NAD diphosphatase activity",
+      "NAD pyrophosphatase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "NADP pyrophosphatase activity",
+      "nicotinamide adenine dinucleotide pyrophosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "NADPYROPHOSPHAT-RXN"
+    ],
+    "RHEA": [
+      "11800",
+      "11800"
+    ],
+    "EC": [
+      "3.6.1.22",
+      "3.6.1.22"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD+ + H2O = AMP + NMN.",
+  "namespace": "molecular_function",
+  "label": "NAD+ diphosphatase activity"
+}

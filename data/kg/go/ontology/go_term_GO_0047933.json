@@ -1,0 +1,47 @@
+{
+  "id": "GO:0047933",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047933",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-phospho-D-glyceroyl-phosphate:D-glucose-1-phosphate 6-phosphotransferase activity",
+      "3-phospho-D-glyceroyl-phosphate:alpha-D-glucose-1-phosphate 6-phosphotransferase activity",
+      "glucose 1,6-diphosphate synthase activity",
+      "glucose-1,6-bisphosphate synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.106",
+      "2.7.1.106",
+      "2.7.1.106",
+      "2.7.1.106",
+      "2.7.1.106",
+      "2.7.1.106"
+    ],
+    "KEGG_REACTION": [
+      "R01660"
+    ],
+    "MetaCyc": [
+      "GLUCOSE-16-BISPHOSPHATE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "16769",
+      "16769"
+    ],
+    "Reactome": [
+      "R-HSA-8955760"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-phospho-D-glyceroyl phosphate + alpha-D-glucose 1-phosphate = 3-phospho-D-glycerate + alpha-D-glucose 1,6-bisphosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "PGM2L1:Mg2+ phosphorylates G6P to G1,6BP"
+}

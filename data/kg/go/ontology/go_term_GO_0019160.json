@@ -1,0 +1,47 @@
+{
+  "id": "GO:0019160",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019160",
+  "relationships": {
+    "is_a": [
+      "GO:0016799"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NMN glycohydrolase activity",
+      "NMNGhase activity",
+      "NMNase activity",
+      "nicotinamide mononucleotidase activity",
+      "nicotinamide mononucleotide nucleosidase activity",
+      "nicotinamide-nucleotide phosphoribohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.2.14",
+      "3.2.2.14",
+      "3.2.2.14",
+      "3.2.2.14",
+      "3.2.2.14",
+      "3.2.2.14",
+      "3.2.2.14",
+      "3.2.2.14"
+    ],
+    "KEGG_REACTION": [
+      "R01270"
+    ],
+    "MetaCyc": [
+      "NMNNUCLEOSID-RXN"
+    ],
+    "RHEA": [
+      "23140",
+      "23140"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + nicotinamide mononucleotide = D-ribose 5-phosphate + H+ + nicotinamide.",
+  "namespace": "molecular_function",
+  "label": "NMN nucleosidase activity"
+}

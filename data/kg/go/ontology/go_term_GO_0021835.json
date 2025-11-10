@@ -1,0 +1,35 @@
+{
+  "id": "GO:0021835",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021835",
+  "relationships": {
+    "is_a": [
+      "GO:0050918"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive chemotaxis involved in embryonic olfactory bulb interneuron precursor migration"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid",
+      "mah"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "12626695"
+    ]
+  },
+  "definition": "The creation and reception of signals that result in the migration of interneuron precursors up a concentration gradient towards the olfactory bulb.",
+  "namespace": "biological_process",
+  "label": "chemoattraction involved in embryonic olfactory bulb interneuron precursor migration"
+}

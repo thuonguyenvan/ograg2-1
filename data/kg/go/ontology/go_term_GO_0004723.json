@@ -1,0 +1,30 @@
+{
+  "id": "GO:0004723",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004723",
+  "relationships": {
+    "is_a": [
+      "GO:0004722"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "calcium-dependent protein serine/threonine phosphatase, intrinsic catalyst activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "calcineurin"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2025882"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reactions: protein serine phosphate + H2O = protein serine + phosphate; and protein threonine phosphate + H2O = protein threonine + phosphate. These reactions require the presence of calcium ions.",
+  "namespace": "molecular_function",
+  "label": "Calcineurin dephosphorylates NFATC1,2,3"
+}

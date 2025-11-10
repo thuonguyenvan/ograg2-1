@@ -1,0 +1,32 @@
+{
+  "id": "GO:0000435",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000435",
+  "relationships": {
+    "is_a": [
+      "GO:0000411",
+      "GO:0000431",
+      "GO:0000436"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of transcription from RNA polymerase II promoter by galactose",
+      "up-regulation of transcription from RNA polymerase II promoter by galactose",
+      "upregulation of transcription from RNA polymerase II promoter by galactose"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of transcription from RNA polymerase II promoter by galactose",
+      "stimulation of transcription from RNA polymerase II promoter by galactose"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ]
+  },
+  "definition": "Any process involving galactose that activates or increases the rate of transcription from an RNA polymerase II promoter.",
+  "namespace": "biological_process",
+  "label": "positive regulation of transcription from RNA polymerase II promoter by galactose"
+}

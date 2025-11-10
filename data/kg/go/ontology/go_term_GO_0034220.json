@@ -1,0 +1,36 @@
+{
+  "id": "GO:0034220",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034220",
+  "relationships": {
+    "is_a": [
+      "GO:0006811",
+      "GO:0055085"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ion membrane transport",
+      "transmembrane ion transport"
+    ],
+    "broad": [
+      "ion transmembrane transport"
+    ],
+    "narrow": [
+      "ATP hydrolysis coupled ion transmembrane transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-983712"
+    ],
+    "GOC": [
+      "mah",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "A process in which a monoatomic ion is transported across a membrane. Monatomic ions (also called simple ions) are ions consisting of exactly one atom.",
+  "namespace": "biological_process",
+  "label": "Ion channel transport"
+}

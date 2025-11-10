@@ -1,0 +1,27 @@
+{
+  "id": "GO:0050383",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050383",
+  "relationships": {
+    "is_a": [
+      "GO:0016725"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "URACIL-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "22752",
+      "22752"
+    ]
+  },
+  "definition": "Catalysis of the reaction: uracil + acceptor = barbiturate + reduced acceptor.",
+  "namespace": "molecular_function",
+  "label": "uracil dehydrogenase activity"
+}

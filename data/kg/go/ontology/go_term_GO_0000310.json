@@ -1,0 +1,47 @@
+{
+  "id": "GO:0000310",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000310",
+  "relationships": {
+    "is_a": [
+      "GO:0106130"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "xanthine-guanine phosphoribosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-phospho-alpha-D-ribose-1-diphosphate:xanthine phospho-D-ribosyltransferase activity",
+      "XMP pyrophosphorylase activity",
+      "XMP:diphosphate 5-phospho-alpha-D-ribosyltransferase activity",
+      "Xan phosphoribosyltransferase activity",
+      "xanthosine 5&apos;-phosphate pyrophosphorylase activity",
+      "xanthylate pyrophosphorylase activity",
+      "xanthylic pyrophosphorylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.22",
+      "2.4.2.22",
+      "2.4.2.22",
+      "2.4.2.22",
+      "2.4.2.22",
+      "2.4.2.22",
+      "2.4.2.22",
+      "2.4.2.22"
+    ],
+    "MetaCyc": [
+      "XANPRIBOSYLTRAN-RXN"
+    ],
+    "RHEA": [
+      "10800",
+      "10800"
+    ]
+  },
+  "definition": "Catalysis of the reaction: diphosphate + XMP = 5-phospho-alpha-D-ribose 1-diphosphate + xanthine.",
+  "namespace": "molecular_function",
+  "label": "xanthine phosphoribosyltransferase activity"
+}

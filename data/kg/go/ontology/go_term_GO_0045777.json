@@ -1,0 +1,31 @@
+{
+  "id": "GO:0045777",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045777",
+  "relationships": {
+    "is_a": [
+      "GO:0008217"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of blood pressure",
+      "up-regulation of blood pressure",
+      "upregulation of blood pressure"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of blood pressure",
+      "stimulation of blood pressure"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mtg_cardio"
+    ]
+  },
+  "definition": "Any process in which the force of blood traveling through the circulatory system is increased.",
+  "namespace": "biological_process",
+  "label": "positive regulation of blood pressure"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0032388",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032388",
+  "relationships": {
+    "is_a": [
+      "GO:0032386",
+      "GO:0048522",
+      "GO:0051050"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of intracellular transport",
+      "up-regulation of intracellular transport",
+      "upregulation of intracellular transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of intracellular transport",
+      "stimulation of intracellular transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the directed movement of substances within cells.",
+  "namespace": "biological_process",
+  "label": "positive regulation of intracellular transport"
+}

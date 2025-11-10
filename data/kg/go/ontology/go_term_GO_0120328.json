@@ -1,0 +1,32 @@
+{
+  "id": "GO:0120328",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120328",
+  "relationships": {
+    "is_a": [
+      "GO:0003886",
+      "GO:0008094"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "68984",
+      "68984"
+    ],
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "31955845",
+      "32437639"
+    ]
+  },
+  "definition": "Catalytic activity that acts to transfer a methyl group to a DNA molecule, driven by ATP hydrolysis.",
+  "namespace": "molecular_function",
+  "label": "ATP-dependent DNA (cytosine-5-)-methyltransferase activity"
+}

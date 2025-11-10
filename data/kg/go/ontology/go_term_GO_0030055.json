@@ -1,0 +1,35 @@
+{
+  "id": "GO:0030055",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030055",
+  "relationships": {
+    "is_a": [
+      "GO:0070161"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell-matrix junction"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "aruk",
+      "bc",
+      "hb",
+      "mah"
+    ],
+    "PMID": [
+      "10419689",
+      "1643657",
+      "16805308",
+      "26923917",
+      "8314002"
+    ]
+  },
+  "definition": "A cell junction that forms a connection between a cell and the extracellular matrix.",
+  "namespace": "cellular_component",
+  "label": "cell-substrate junction"
+}

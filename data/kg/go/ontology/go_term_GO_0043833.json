@@ -1,0 +1,36 @@
+{
+  "id": "GO:0043833",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043833",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "methylamine-specific methylcobalamin:CoM methyltransferase activity",
+      "methylamine-specific methylcobalamin:coenzyme M methyltransferase activity"
+    ],
+    "broad": [
+      "MT2-A",
+      "methylcobamide:CoM methyltransferase activity",
+      "methylcobamide:coenzyme M methyltransferase activity"
+    ],
+    "narrow": [
+      "monomethylamine-specific methylcobalamin:coenzyme M methyltransferase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.247",
+      "2.1.1.247"
+    ],
+    "RHEA": [
+      "18773"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [methyl-Co(III) methylamine-specific corrinoid protein] + coenzyme M = [Co(I) methylamine-specific corrinoid protein] + H+ + methyl-coenzyme M. This reaction is the transfer of the methyl group from the methylated corrinoid cofactor of a methylamine corrinoid protein to coenzyme M.",
+  "namespace": "molecular_function",
+  "label": "[methyl-Co(III) methylamine-specific corrinoid protein]:coenzyme M methyltransferase activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0033390",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033390",
+  "relationships": {
+    "is_a": [
+      "GO:0033388"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "putrescine anabolism from arginine via N-carbamoylputrescine",
+      "putrescine biosynthesis from arginine via N-carbamoylputrescine",
+      "putrescine formation from arginine via N-carbamoylputrescine",
+      "putrescine synthesis from arginine via N-carbamoylputrescine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-43",
+      "PWY-43"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of putrescine, 1,4-diaminobutane, from other compounds, including arginine, via the intermediate N-carbamoylputrescine; in this pathway, arginine is converted to agmatine, and agmatine is converted to putrescine in two single enzymatic steps.",
+  "namespace": "biological_process",
+  "label": "putrescine biosynthetic process from arginine via N-carbamoylputrescine"
+}

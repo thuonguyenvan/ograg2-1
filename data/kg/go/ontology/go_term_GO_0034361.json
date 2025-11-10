@@ -1,0 +1,30 @@
+{
+  "id": "GO:0034361",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034361",
+  "relationships": {
+    "is_a": [
+      "GO:0034385"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "VLDL complex",
+      "VLDL particle",
+      "very-low-density lipoprotein complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "expert_pt",
+      "mah",
+      "rl"
+    ]
+  },
+  "definition": "A triglyceride-rich lipoprotein particle that is typically composed of APOB100, APOE and APOCs and has a density of about 1.006 g/ml and a diameter of between 20-80 nm. It is found in blood and transports endogenous products (newly synthesized cholesterol and triglycerides) from the liver.",
+  "namespace": "cellular_component",
+  "label": "very-low-density lipoprotein particle"
+}

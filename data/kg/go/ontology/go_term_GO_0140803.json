@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140803",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140803",
+  "relationships": {
+    "is_a": [
+      "GO:1990404"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "56612",
+      "56612"
+    ],
+    "PMID": [
+      "25043379"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-cysteinyl-[protein] + NAD+ = H+ + nicotinamide + S-(ADP-D-ribosyl)-L-cysteinyl-[protein].",
+  "namespace": "molecular_function",
+  "label": "NAD+-protein-cysteine ADP-ribosyltransferase activity"
+}

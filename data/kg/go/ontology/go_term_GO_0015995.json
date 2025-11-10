@@ -1,0 +1,33 @@
+{
+  "id": "GO:0015995",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015995",
+  "relationships": {
+    "is_a": [
+      "GO:0006779",
+      "GO:0015994",
+      "GO:0046148"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chlorophyll anabolism",
+      "chlorophyll biosynthesis",
+      "chlorophyll formation",
+      "chlorophyll synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "CHLOROPHYLL-SYN"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of chlorophyll, any compound of magnesium complexed in a porphyrin (tetrapyrrole) ring and which functions as a photosynthetic pigment, from less complex precursors.",
+  "namespace": "biological_process",
+  "label": "chlorophyll biosynthetic process"
+}

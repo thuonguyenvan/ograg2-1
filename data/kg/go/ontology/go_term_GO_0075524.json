@@ -1,0 +1,29 @@
+{
+  "id": "GO:0075524",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075524",
+  "relationships": {
+    "is_a": [
+      "GO:0016032"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "914",
+      "914"
+    ],
+    "GOC": [
+      "bf",
+      "ch",
+      "jl"
+    ]
+  },
+  "definition": "A translation process in which a specific viral peptide prevents the ribosome from covalently linking a new inserted amino acid, and lets it continue translation, thereby cleaving the nascent protein while allowing translation to continue.",
+  "namespace": "biological_process",
+  "label": "Ribosomal skipping"
+}

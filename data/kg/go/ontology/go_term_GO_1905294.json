@@ -1,0 +1,43 @@
+{
+  "id": "GO:1905294",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905294",
+  "relationships": {
+    "is_a": [
+      "GO:0051240",
+      "GO:1905292",
+      "GO:2000738"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of neural crest cell differentiation",
+      "up-regulation of neural crest cell differentiation",
+      "upregulation of neural crest cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of neural crest cell differentiation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "15073157"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of neural crest cell differentiation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of neural crest cell differentiation"
+}

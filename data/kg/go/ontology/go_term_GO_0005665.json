@@ -1,0 +1,29 @@
+{
+  "id": "GO:0005665",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005665",
+  "relationships": {
+    "is_a": [
+      "GO:0055029"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA-directed RNA polymerase II, core complex"
+    ],
+    "broad": [
+      "RNA polymerase II complex",
+      "RNAP II complex"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "RNA polymerase II, one of three nuclear DNA-directed RNA polymerases found in all eukaryotes, is a multisubunit complex; typically it produces mRNAs, snoRNAs, and some of the snRNAs. Two large subunits comprise the most conserved portion including the catalytic site and share similarity with other eukaryotic and bacterial multisubunit RNA polymerases. The largest subunit of RNA polymerase II contains an essential carboxyl-terminal domain (CTD) composed of a variable number of heptapeptide repeats (YSPTSPS). The remainder of the complex is composed of smaller subunits (generally ten or more), some of which are also found in RNA polymerases I and III. Although the core is competent to mediate ribonucleic acid synthesis, it requires additional factors to select the appropriate template.",
+  "namespace": "cellular_component",
+  "label": "RNA polymerase II, core complex"
+}

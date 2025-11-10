@@ -1,0 +1,40 @@
+{
+  "id": "GO:1904737",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904737",
+  "relationships": {
+    "is_a": [
+      "GO:0032000",
+      "GO:1904735"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of fatty acid beta-oxidation using acyl-CoA dehydrogenase",
+      "up-regulation of fatty acid beta-oxidation using acyl-CoA dehydrogenase",
+      "upregulation of fatty acid beta-oxidation using acyl-CoA dehydrogenase"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of fatty acid beta-oxidation using acyl-CoA dehydrogenase"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25416781"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of fatty acid beta-oxidation using acyl-CoA dehydrogenase.",
+  "namespace": "biological_process",
+  "label": "positive regulation of fatty acid beta-oxidation using acyl-CoA dehydrogenase"
+}

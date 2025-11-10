@@ -1,0 +1,40 @@
+{
+  "id": "GO:0033720",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033720",
+  "relationships": {
+    "is_a": [
+      "GO:0016614"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(S)-2-hydroxy-2-phenylacetate:acceptor 2-oxidoreductase activity",
+      "L(+)-mandelate dehydrogenase activity",
+      "MDH"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.99.31",
+      "1.1.99.31",
+      "1.1.99.31",
+      "1.1.99.31",
+      "1.1.99.31"
+    ],
+    "MetaCyc": [
+      "MANDELATE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "15749"
+    ],
+    "UM-BBD_reactionID": [
+      "r1048"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-2-hydroxy-2-phenylacetate + acceptor = 2-oxo-2-phenylacetate + reduced acceptor.",
+  "namespace": "molecular_function",
+  "label": "(S)-mandelate dehydrogenase activity"
+}

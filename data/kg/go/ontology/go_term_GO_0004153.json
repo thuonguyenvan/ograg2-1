@@ -1,0 +1,31 @@
+{
+  "id": "GO:0004153",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004153",
+  "relationships": {
+    "is_a": [
+      "GO:0016814",
+      "GO:0019239"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-15261"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "19567870",
+      "38786926"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 7,8-dihydropterin + H2O = 7,8-dihydrolumazine + NH3.",
+  "namespace": "molecular_function",
+  "label": "dihydropterin deaminase activity"
+}

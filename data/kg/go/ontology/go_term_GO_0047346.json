@@ -1,0 +1,48 @@
+{
+  "id": "GO:0047346",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047346",
+  "relationships": {
+    "is_a": [
+      "GO:0070566"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ADP:aldose-1-phosphate adenylyltransferase activity"
+    ],
+    "broad": [
+      "ADP-sugar phosphorylase activity",
+      "sugar-1-phosphate adenylyltransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ADP sugar phosphorylase activity",
+      "ADP-aldose phosphorylase activity",
+      "ADP:alpha-D-aldose-1-phosphate adenylyltransferase activity",
+      "ADPaldose phosphorylase activity",
+      "adenosine diphosphate glucose:orthophosphate adenylyltransferase activity",
+      "adenosine diphosphosugar phosphorylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.36",
+      "2.7.7.36",
+      "2.7.7.36",
+      "2.7.7.36",
+      "2.7.7.36",
+      "2.7.7.36",
+      "2.7.7.36",
+      "2.7.7.36",
+      "2.7.7.36",
+      "2.7.7.36"
+    ],
+    "MetaCyc": [
+      "2.7.7.36-RXN",
+      "2.7.7.36-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: aldose 1-phosphate + ADP = phosphate + ADP-aldose.",
+  "namespace": "molecular_function",
+  "label": "aldose-1-phosphate adenylyltransferase activity"
+}

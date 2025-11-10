@@ -1,0 +1,36 @@
+{
+  "id": "GO:0043875",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043875",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "KFL"
+    ],
+    "broad": [
+      "keto-acid formate acetyltransferase"
+    ],
+    "narrow": [],
+    "related": [
+      "TdcE"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "KETOBUTFORMLY-RXN"
+    ],
+    "RHEA": [
+      "28054",
+      "28054"
+    ],
+    "PMID": [
+      "9484901"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxobutanoate + coenzyme A = propionyl-CoA + formate.",
+  "namespace": "molecular_function",
+  "label": "2-ketobutyrate formate-lyase activity"
+}

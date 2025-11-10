@@ -1,0 +1,33 @@
+{
+  "id": "GO:1903504",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903504",
+  "relationships": {
+    "is_a": [
+      "GO:0007346",
+      "GO:0090231"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of mitotic cell cycle spindle checkpoint"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23442800"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of mitotic spindle checkpoint.",
+  "namespace": "biological_process",
+  "label": "regulation of mitotic spindle checkpoint"
+}

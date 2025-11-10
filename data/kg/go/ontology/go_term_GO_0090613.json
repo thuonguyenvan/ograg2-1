@@ -1,0 +1,31 @@
+{
+  "id": "GO:0090613",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090613",
+  "relationships": {
+    "is_a": [
+      "GO:0016814",
+      "GO:0019239"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.4.41"
+    ],
+    "RHEA": [
+      "42892",
+      "42892"
+    ],
+    "PMID": [
+      "23968233"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5&apos;deoxyadenosine + H2O = 5&apos;deoxyinosine + NH3.",
+  "namespace": "molecular_function",
+  "label": "5&apos;-deoxyadenosine deaminase activity"
+}

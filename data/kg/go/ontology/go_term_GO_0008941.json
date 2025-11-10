@@ -1,0 +1,35 @@
+{
+  "id": "GO:0008941",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008941",
+  "relationships": {
+    "is_a": [
+      "GO:0016708"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "nitric oxide dioxygenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "NOD activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.12.17",
+      "1.14.12.17",
+      "1.14.12.17"
+    ],
+    "MetaCyc": [
+      "R621-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-1222723"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 NO + 2 O2 + NAD(P)H + H+ = 2 nitrate + NAD(P)+.",
+  "namespace": "molecular_function",
+  "label": "Nitric oxide is oxidized to nitrate"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0046427",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046427",
+  "relationships": {
+    "is_a": [
+      "GO:0046425",
+      "GO:1904894"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of JAK-STAT cascade",
+      "up-regulation of JAK-STAT cascade",
+      "upregulation of JAK-STAT cascade"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of JAK-STAT cascade",
+      "positive regulation of STAT protein import into nucleus",
+      "positive regulation of STAT protein nuclear translocation",
+      "stimulation of JAK-STAT cascade"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8849474"
+    ],
+    "GOC": [
+      "bf",
+      "obol"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the JAK-STAT signaling pathway activity.",
+  "namespace": "biological_process",
+  "label": "PTK6 Activates STAT3"
+}

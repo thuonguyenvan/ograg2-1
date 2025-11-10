@@ -1,0 +1,34 @@
+{
+  "id": "GO:0006538",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006538",
+  "relationships": {
+    "is_a": [
+      "GO:0006536",
+      "GO:0043649",
+      "GO:0170035",
+      "GO:0170040"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glutamate breakdown",
+      "glutamate catabolism",
+      "glutamate degradation",
+      "glutamic acid catabolic process",
+      "glutamic acid catabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glutamate deamidation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-glutamate, the anion of 2-aminopentanedioic acid.",
+  "namespace": "biological_process",
+  "label": "L-glutamate catabolic process"
+}

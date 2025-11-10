@@ -1,0 +1,30 @@
+{
+  "id": "GO:0031052",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031052",
+  "relationships": {
+    "is_a": [
+      "GO:0031049"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "chromosome breakage"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ns"
+    ],
+    "PMID": [
+      "15956677",
+      "25303953",
+      "32165395"
+    ]
+  },
+  "definition": "Regulated cleavage of the developing macronuclear genome at a limited number of chromosome breakage sites (CBS). The macronuclear destined segment (MDS) sequence adjacent to the CBS (or separated from it by a BES) receives a macronuclear telomere following chromosome breakage.",
+  "namespace": "biological_process",
+  "label": "programmed DNA elimination by chromosome breakage"
+}

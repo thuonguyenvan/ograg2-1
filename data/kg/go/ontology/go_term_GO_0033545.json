@@ -1,0 +1,34 @@
+{
+  "id": "GO:0033545",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033545",
+  "relationships": {
+    "is_a": [
+      "GO:0010264"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "myo-inositol hexakisphosphate anabolism, lipid-dependent",
+      "myo-inositol hexakisphosphate biosynthesis, lipid-dependent",
+      "myo-inositol hexakisphosphate formation, lipid-dependent",
+      "myo-inositol hexakisphosphate synthesis, lipid-dependent",
+      "phytate biosynthesis, lipid-dependent",
+      "phytate biosynthetic process, lipid-dependent"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-6555",
+      "PWY-6555"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of 1D-myo-inositol 1,2,3,4,5,6-hexakisphosphate, phytate, by a pathway using inositol 1,4,5-trisphosphate produced from phosphatidylinositol 4,5-biphosphate hydrolysis by phospholipase C.",
+  "namespace": "biological_process",
+  "label": "myo-inositol hexakisphosphate biosynthetic process, lipid-dependent"
+}

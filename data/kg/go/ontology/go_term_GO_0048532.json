@@ -1,0 +1,29 @@
+{
+  "id": "GO:0048532",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048532",
+  "relationships": {
+    "is_a": [
+      "GO:0032502"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "anatomical structure structural organization",
+      "organization of an anatomical structure",
+      "structural organization"
+    ],
+    "broad": [
+      "anatomical structure organization"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The process that gives rise to the configuration of the constituent parts of an anatomical structure. This process pertains to the physical shaping of a rudimentary structure. Anatomical structures can be macroscopic such as a carpel, or microscopic such as an acrosome.",
+  "namespace": "biological_process",
+  "label": "anatomical structure arrangement"
+}

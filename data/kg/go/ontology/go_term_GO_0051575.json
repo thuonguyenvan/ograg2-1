@@ -1,0 +1,35 @@
+{
+  "id": "GO:0051575",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051575",
+  "relationships": {
+    "is_a": [
+      "GO:0016835",
+      "GO:0140097"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5&apos;-deoxyribose phosphate activity"
+    ],
+    "broad": [
+      "dRP lyase activity",
+      "dRPase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "76255",
+      "76255"
+    ],
+    "PMID": [
+      "11251121",
+      "16120966",
+      "9614142"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 5&apos;-end 2&apos;-deoxyribose-2&apos;-deoxyribonucleotide-DNA = (2E,4S)-4-hydroxypenten-2-al-5-phosphate + a 5&apos;-end 5&apos;-phospho-2&apos;-deoxyribonucleoside-DNA + H+.",
+  "namespace": "molecular_function",
+  "label": "5&apos;-deoxyribose-5-phosphate lyase activity"
+}

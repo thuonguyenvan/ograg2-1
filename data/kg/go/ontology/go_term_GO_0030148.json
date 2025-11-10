@@ -1,0 +1,38 @@
+{
+  "id": "GO:0030148",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030148",
+  "relationships": {
+    "is_a": [
+      "GO:0006665",
+      "GO:0046467"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sphingolipid anabolism",
+      "sphingolipid biosynthesis",
+      "sphingolipid formation",
+      "sphingolipid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5129"
+    ],
+    "Reactome": [
+      "R-HSA-1660661"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of sphingolipids, any of a class of lipids containing the long-chain amine diol sphingosine or a closely related base (a sphingoid).",
+  "namespace": "biological_process",
+  "label": "Sphingolipid de novo biosynthesis"
+}

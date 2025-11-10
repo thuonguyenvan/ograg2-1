@@ -1,0 +1,34 @@
+{
+  "id": "GO:0050379",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050379",
+  "relationships": {
+    "is_a": [
+      "GO:0016857"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-glucuronate 5&apos; epimerase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "C-5-uronosyl epimerase activity",
+      "UDP-glucuronic acid 5&apos;-epimerase activity",
+      "UDP-glucuronic acid epimerase activity",
+      "UDPglucuronate 5&apos;-epimerase activity",
+      "uridine diphosphoglucuronate 5&apos;-epimerase activity"
+    ]
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R01387"
+    ],
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-alpha-D-glucuronate = UDP-L-iduronate.",
+  "namespace": "molecular_function",
+  "label": "UDP-glucuronate 5&apos;-epimerase activity"
+}

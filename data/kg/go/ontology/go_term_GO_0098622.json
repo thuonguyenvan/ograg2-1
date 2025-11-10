@@ -1,0 +1,35 @@
+{
+  "id": "GO:0098622",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098622",
+  "relationships": {
+    "is_a": [
+      "GO:0015036",
+      "GO:0016668"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "selenodiglutathione-disulfide reductase (NADP) activity"
+    ],
+    "broad": [
+      "selenodiglutathione-disulfide reductase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "34927",
+      "34927"
+    ],
+    "Reactome": [
+      "R-HSA-2408542"
+    ],
+    "PMID": [
+      "1569062"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H+ + selenodiglutathione + NADPH = gluthathioselenol + glutathione + NADP+.",
+  "namespace": "molecular_function",
+  "label": "GSSeSG is reduced to GSSeH and GSH by GSR"
+}

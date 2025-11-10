@@ -1,0 +1,31 @@
+{
+  "id": "GO:0070719",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070719",
+  "relationships": {
+    "is_a": [
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "PDGFRA-PLC-gamma-1-PI3K-SHP-2 complex, PDGF stimulated"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "8943348"
+    ],
+    "CORUM": [
+      "2551"
+    ]
+  },
+  "definition": "A protein complex that contains the platelet-derived growth factor alpha receptor (alphaPDGFR; PDGFRA), phospholipase C-gamma-1 (PLC-gamma-1), phosphatidylinositol 3-kinase (PI3K) and the adaptor protein SHP-2, and is involved signaling via the PDGFR signaling pathway.",
+  "namespace": "cellular_component",
+  "label": "alphaPDGFR-PLC-gamma-1-PI3K-SHP-2 complex"
+}

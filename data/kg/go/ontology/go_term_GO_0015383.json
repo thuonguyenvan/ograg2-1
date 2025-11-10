@@ -1,0 +1,28 @@
+{
+  "id": "GO:0015383",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015383",
+  "relationships": {
+    "is_a": [
+      "GO:0005452",
+      "GO:0008271",
+      "GO:0015106"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulfate:hydrogencarbonate antiporter activity",
+      "sulphate:bicarbonate antiporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.53.2.2"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: sulfate(out) + bicarbonate(in) = sulfate(in) + bicarbonate(out).",
+  "namespace": "molecular_function",
+  "label": "sulfate:bicarbonate antiporter activity"
+}

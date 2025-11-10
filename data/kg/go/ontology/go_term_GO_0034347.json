@@ -1,0 +1,32 @@
+{
+  "id": "GO:0034347",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034347",
+  "relationships": {
+    "is_a": [
+      "GO:0019961"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "interferon-lambda binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0126896631"
+    ],
+    "PMID": [
+      "15546383",
+      "16734557"
+    ]
+  },
+  "definition": "Binding to a type III interferon. Interferon lambda is the only member of the type III interferon found so far.",
+  "namespace": "molecular_function",
+  "label": "type III interferon binding"
+}

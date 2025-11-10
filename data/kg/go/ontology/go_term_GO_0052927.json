@@ -1,0 +1,34 @@
+{
+  "id": "GO:0052927",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052927",
+  "relationships": {
+    "is_a": [
+      "GO:0070567",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CC-adding tRNA nucleotidyltransferase activity",
+      "CTP:tRNA cytidylyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CTP:3&apos;-cytidine-tRNA cytidylyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "60008",
+      "60008"
+    ],
+    "PMID": [
+      "31936900",
+      "33095240"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a tRNA precursor + CTP = a tRNA with a 3&apos; CC end + 2 diphosphate.",
+  "namespace": "molecular_function",
+  "label": "CC tRNA cytidylyltransferase activity"
+}

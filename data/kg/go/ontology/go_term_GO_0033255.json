@@ -1,0 +1,27 @@
+{
+  "id": "GO:0033255",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033255",
+  "relationships": {
+    "is_a": [
+      "GO:0032777"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SAS-I complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11731480",
+      "12626510",
+      "15788653"
+    ]
+  },
+  "definition": "A protein complex that possesses histone acetyltransferase activity and links histone acetylation to the assembly of transcriptionally silent chromatin. In vitro, the complex acetylates lysine 16 of histone H4 and lysine 14 of histone H3, although the latter may not be relevant in vivo. The complex contains a catalytic subunit and at least two other subunits; in Saccharomyces, the catalytic subunit is Sas2p and additional subunits are Sas4p and Sas5p.",
+  "namespace": "cellular_component",
+  "label": "SAS acetyltransferase complex"
+}

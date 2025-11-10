@@ -1,0 +1,31 @@
+{
+  "id": "GO:0009050",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009050",
+  "relationships": {
+    "is_a": [
+      "GO:0043603",
+      "GO:1901136"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycopeptide breakdown",
+      "glycopeptide catabolism",
+      "glycopeptide degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of glycopeptides, a compound in which carbohydrate is covalently attached to an oligopeptide composed of residues of L and/or D-amino acids. The term usually denotes a product of proteolytic degradation of a glycoprotein but includes glycated peptide.",
+  "namespace": "biological_process",
+  "label": "glycopeptide catabolic process"
+}

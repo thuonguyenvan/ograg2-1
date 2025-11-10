@@ -1,0 +1,34 @@
+{
+  "id": "GO:0015233",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015233",
+  "relationships": {
+    "is_a": [
+      "GO:0042887",
+      "GO:0046943",
+      "GO:0072349",
+      "GO:0090482"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "vitamin B5 transmembrane transporter activity"
+    ],
+    "broad": [
+      "pantothenate transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mah"
+    ],
+    "ISBN": [
+      "0721662544"
+    ]
+  },
+  "definition": "Enables the directed movement of pantothenate across a membrane. Pantothenate is the anion of pantothenic acid, the amide of beta-alanine and pantoic acid; it is a B complex vitamin that is a constituent of coenzyme A and is distributed ubiquitously in foods.",
+  "namespace": "molecular_function",
+  "label": "pantothenate transmembrane transporter activity"
+}

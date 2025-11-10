@@ -1,0 +1,40 @@
+{
+  "id": "GO:1902924",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902924",
+  "relationships": {
+    "is_a": [
+      "GO:0006006",
+      "GO:1901441"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "poly(hydroxyalkanoate) anabolism from glucose",
+      "poly(hydroxyalkanoate) biosynthesis from glucose",
+      "poly(hydroxyalkanoate) formation from glucose",
+      "poly(hydroxyalkanoate) synthesis from glucose"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mengo_curators",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000092"
+    ],
+    "PMID": [
+      "24425304"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of poly(hydroxyalkanoate) from glucose.",
+  "namespace": "biological_process",
+  "label": "poly(hydroxyalkanoate) biosynthetic process from glucose"
+}

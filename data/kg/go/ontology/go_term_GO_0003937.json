@@ -1,0 +1,42 @@
+{
+  "id": "GO:0003937",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003937",
+  "relationships": {
+    "is_a": [
+      "GO:0019238"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "IMP 1,2-hydrolase (decyclizing)",
+      "IMP synthetase activity",
+      "inosinate cyclohydrolase activity",
+      "inosinicase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.4.10",
+      "3.5.4.10",
+      "3.5.4.10",
+      "3.5.4.10",
+      "3.5.4.10",
+      "3.5.4.10"
+    ],
+    "MetaCyc": [
+      "IMPCYCLOHYDROLASE-RXN"
+    ],
+    "RHEA": [
+      "18445"
+    ],
+    "Reactome": [
+      "R-HSA-73797"
+    ]
+  },
+  "definition": "Catalysis of the reaction: IMP + H2O = 5-formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide.",
+  "namespace": "molecular_function",
+  "label": "FAICAR =&gt; IMP + H2O"
+}

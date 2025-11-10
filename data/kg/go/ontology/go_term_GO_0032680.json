@@ -1,0 +1,36 @@
+{
+  "id": "GO:0032680",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032680",
+  "relationships": {
+    "is_a": [
+      "GO:1903555"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of TNF production",
+      "regulation of TNF-alpha production",
+      "regulation of cachectin production",
+      "regulation of tumor necrosis factor-alpha production"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of tumor necrosis factor biosynthetic process",
+      "regulation of tumor necrosis factor secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "TermGenie"
+    ],
+    "PMID": [
+      "10891884",
+      "15560120"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of tumor necrosis factor production.",
+  "namespace": "biological_process",
+  "label": "regulation of tumor necrosis factor production"
+}

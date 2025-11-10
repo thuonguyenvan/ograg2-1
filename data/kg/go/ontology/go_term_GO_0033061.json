@@ -1,0 +1,32 @@
+{
+  "id": "GO:0033061",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033061",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "elh",
+      "mah",
+      "vw"
+    ],
+    "InterPro": [
+      "IPR003488"
+    ],
+    "PMID": [
+      "12912992",
+      "32414915"
+    ]
+  },
+  "definition": "A protein complex containing accessory proteins which bind a recombinase (e.g. Rad51) and bind single-stranded DNA (ssDNA), and promote nucleation of the recombinase onto ssDNA through facilitating recombinase-RPA exchange.",
+  "namespace": "cellular_component",
+  "label": "DNA recombinase mediator complex"
+}

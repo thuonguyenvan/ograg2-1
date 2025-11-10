@@ -1,0 +1,30 @@
+{
+  "id": "GO:0046711",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046711",
+  "relationships": {
+    "is_a": [
+      "GO:0009152",
+      "GO:0009180",
+      "GO:0046710"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GDP anabolism",
+      "GDP biosynthesis",
+      "GDP formation",
+      "GDP synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of GDP, guanosine 5&apos;-diphosphate.",
+  "namespace": "biological_process",
+  "label": "GDP biosynthetic process"
+}

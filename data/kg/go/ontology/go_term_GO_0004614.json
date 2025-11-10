@@ -1,0 +1,42 @@
+{
+  "id": "GO:0004614",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004614",
+  "relationships": {
+    "is_a": [
+      "GO:0016868"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alpha-D-glucose 1,6-phosphomutase activity",
+      "glucose phosphomutase activity",
+      "phosphoglucose mutase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.2.2",
+      "5.4.2.2",
+      "5.4.2.2",
+      "5.4.2.2",
+      "5.4.2.2"
+    ],
+    "MetaCyc": [
+      "PHOSPHOGLUCMUT-RXN"
+    ],
+    "RHEA": [
+      "23536"
+    ],
+    "Reactome": [
+      "R-HSA-5609939",
+      "R-HSA-9638125",
+      "R-HSA-9638127"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-D-glucose 1-phosphate = alpha-D-glucose 6-phosphate.",
+  "namespace": "molecular_function",
+  "label": "PGM1:Mg2+ isomerises G6P to G1P"
+}

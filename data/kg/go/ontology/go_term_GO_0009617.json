@@ -1,0 +1,28 @@
+{
+  "id": "GO:0009617",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009617",
+  "relationships": {
+    "is_a": [
+      "GO:0051707"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to bacteria"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9824439"
+    ],
+    "GOC": [
+      "hb"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus from a bacterium.",
+  "namespace": "biological_process",
+  "label": "Bacterial Infection Pathways"
+}

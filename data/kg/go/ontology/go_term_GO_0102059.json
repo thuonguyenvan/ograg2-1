@@ -1,0 +1,42 @@
+{
+  "id": "GO:0102059",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102059",
+  "relationships": {
+    "is_a": [
+      "GO:0120531"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-cis,6-cis-farnesyl pyrophosphate synthase activity",
+      "Z,Z-FPP synthase activity",
+      "Z,Z-farnesyl pyrophosphate synthase activity",
+      "cis,cis-farnesyl diphosphate synthase activity",
+      "zFPS activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "neryl-diphosphate:isopentenyl-diphosphate cistransferase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.92",
+      "2.5.1.92",
+      "2.5.1.92",
+      "2.5.1.92",
+      "2.5.1.92"
+    ],
+    "MetaCyc": [
+      "RXN-10481"
+    ],
+    "RHEA": [
+      "27810",
+      "27810"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 isopentenyl diphosphate + dimethylallyl diphosphate = (2Z,6Z)-farnesyl diphosphate + 2 diphosphate.",
+  "namespace": "molecular_function",
+  "label": "(2Z,6Z)-farnesyl diphosphate synthase activity"
+}

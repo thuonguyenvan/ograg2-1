@@ -1,0 +1,46 @@
+{
+  "id": "GO:0004383",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004383",
+  "relationships": {
+    "is_a": [
+      "GO:0009975",
+      "GO:0016849"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "guanylyl cyclase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "receptor guanylate cyclase activity"
+    ],
+    "related": [
+      "GTP diphosphate-lyase (cyclizing) activity",
+      "GTP diphosphate-lyase (cyclizing; 3&apos;,5&apos;-cyclic-GMP-forming) activity",
+      "guanyl cyclase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.6.1.2",
+      "4.6.1.2",
+      "4.6.1.2",
+      "4.6.1.2",
+      "4.6.1.2"
+    ],
+    "MetaCyc": [
+      "GUANYLCYC-RXN"
+    ],
+    "RHEA": [
+      "13665"
+    ],
+    "Reactome": [
+      "R-HSA-392152",
+      "R-HSA-74885"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GTP = 3&apos;,5&apos;-cyclic GMP + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "GUCYs converts GTP to cGMP"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0051247",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051247",
+  "relationships": {
+    "is_a": [
+      "GO:0010604",
+      "GO:0051246"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of cellular protein metabolic process",
+      "positive regulation of cellular protein metabolism",
+      "positive regulation of protein metabolism",
+      "up regulation of cellular protein metabolic process",
+      "up regulation of protein metabolic process",
+      "up-regulation of cellular protein metabolic process",
+      "up-regulation of protein metabolic process",
+      "upregulation of cellular protein metabolic process",
+      "upregulation of protein metabolic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of cellular protein metabolic process",
+      "activation of protein metabolic process",
+      "stimulation of cellular protein metabolic process",
+      "stimulation of protein metabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways involving a protein.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein metabolic process"
+}

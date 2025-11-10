@@ -1,0 +1,30 @@
+{
+  "id": "GO:0005007",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005007",
+  "relationships": {
+    "is_a": [
+      "GO:0004714"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FGF receptor activity",
+      "FGF-activated receptor activity",
+      "FGFR",
+      "fibroblast growth factor-activated receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "bf",
+      "signaling"
+    ]
+  },
+  "definition": "Combining with a fibroblast growth factor receptor ligand and transmitting the signal across the plasma membrane to initiate a change in cell activity.",
+  "namespace": "molecular_function",
+  "label": "fibroblast growth factor receptor activity"
+}

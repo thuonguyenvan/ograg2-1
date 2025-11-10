@@ -1,0 +1,31 @@
+{
+  "id": "GO:0045785",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045785",
+  "relationships": {
+    "is_a": [
+      "GO:0030155",
+      "GO:0048522"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of cell adhesion",
+      "up-regulation of cell adhesion",
+      "upregulation of cell adhesion"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of cell adhesion",
+      "stimulation of cell adhesion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of cell adhesion.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cell adhesion"
+}

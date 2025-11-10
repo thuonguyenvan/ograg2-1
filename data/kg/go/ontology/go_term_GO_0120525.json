@@ -1,0 +1,33 @@
+{
+  "id": "GO:0120525",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120525",
+  "relationships": {
+    "is_a": [
+      "GO:0016840"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.99.4"
+    ],
+    "KEGG_REACTION": [
+      "R10285"
+    ],
+    "MetaCyc": [
+      "RXN-13946"
+    ],
+    "RHEA": [
+      "35095",
+      "35095"
+    ]
+  },
+  "definition": "Catalysis of the reaction: choline = acetaldehyde + trimethylamine.",
+  "namespace": "molecular_function",
+  "label": "choline trimethylamine lyase activity"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047808",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047808",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(S,S)-tartrate hydro-lyase (oxaloacetate-forming)",
+      "(S,S)-tartrate hydro-lyase activity",
+      "D-tartrate dehydratase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.81",
+      "4.2.1.81",
+      "4.2.1.81",
+      "4.2.1.81",
+      "4.2.1.81"
+    ],
+    "KEGG_REACTION": [
+      "R00340"
+    ],
+    "MetaCyc": [
+      "D--TARTRATE-DEHYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "18289",
+      "18289"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-tartrate = H2O + oxaloacetate.",
+  "namespace": "molecular_function",
+  "label": "D(-)-tartrate dehydratase activity"
+}

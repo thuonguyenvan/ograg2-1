@@ -1,0 +1,32 @@
+{
+  "id": "GO:0061738",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061738",
+  "relationships": {
+    "is_a": [
+      "GO:0016237"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9615710"
+    ],
+    "GOC": [
+      "PARL",
+      "autophagy",
+      "dph",
+      "pad"
+    ],
+    "PMID": [
+      "21238931"
+    ]
+  },
+  "definition": "The autophagy process by which cytosolic proteins targeted for degradation are tagged with a chaperone and are directly transferred into and degraded in a late endosomal compartment.",
+  "namespace": "biological_process",
+  "label": "Late endosomal microautophagy"
+}

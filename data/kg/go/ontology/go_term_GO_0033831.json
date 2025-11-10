@@ -1,0 +1,37 @@
+{
+  "id": "GO:0033831",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033831",
+  "relationships": {
+    "is_a": [
+      "GO:0046527"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-alpha-D-glucosyl-D-glucose:phosphate beta-D-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.230",
+      "2.4.1.230",
+      "2.4.1.230"
+    ],
+    "KEGG_REACTION": [
+      "R07264"
+    ],
+    "MetaCyc": [
+      "2.4.1.230-RXN"
+    ],
+    "RHEA": [
+      "11176",
+      "11176"
+    ]
+  },
+  "definition": "Catalysis of the reaction: kojibiose + phosphate = beta-D-glucose 1-phosphate + D-glucose.",
+  "namespace": "molecular_function",
+  "label": "kojibiose phosphorylase activity"
+}

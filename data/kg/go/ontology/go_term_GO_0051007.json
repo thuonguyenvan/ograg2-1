@@ -1,0 +1,39 @@
+{
+  "id": "GO:0051007",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051007",
+  "relationships": {
+    "is_a": [
+      "GO:0016866",
+      "GO:0034072"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "squalene:hopene cyclase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "squalene mutase (cyclizing)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.99.17",
+      "5.4.99.17",
+      "5.4.99.17"
+    ],
+    "MetaCyc": [
+      "5.4.99.17-RXN"
+    ],
+    "RHEA": [
+      "17637"
+    ],
+    "PMID": [
+      "18033581"
+    ]
+  },
+  "definition": "Catalysis of the reaction: squalene = hop-22(29)-ene.",
+  "namespace": "molecular_function",
+  "label": "squalene-hopene cyclase activity"
+}

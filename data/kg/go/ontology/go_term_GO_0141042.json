@@ -1,0 +1,28 @@
+{
+  "id": "GO:0141042",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141042",
+  "relationships": {
+    "is_a": [
+      "GO:0052027"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cAMP intoxication in host"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "16390441",
+      "19516256",
+      "27731909",
+      "33013916"
+    ]
+  },
+  "definition": "The production by a symbiont of high levels of cyclic AMP in a host cell, impairing host cellular functions in multiple ways, including ATP depletion, interference with host intracellular signaling, cytoskeletal defects and apoptosis-related cell death. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated cAMP intoxication of host cell"
+}

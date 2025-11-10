@@ -1,0 +1,30 @@
+{
+  "id": "GO:1990477",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990477",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Mtl1-Red1 core complex",
+      "NURS complex",
+      "PAXT complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "24210919",
+      "24713849",
+      "32012158",
+      "24210919"
+    ]
+  },
+  "definition": "Protein complex formed by an RNA binding protein Red1, an RNA helicase Mtl1, Red5, Rmn1, Iss10/Pir1, and Ars2/Pir2. This complex is required for the recruitment of the nuclear exosome to Mmi1 nuclear focus. It is likely related to the human CBCN complex. This complex is also known as RNA silencing (NURS) complex.",
+  "namespace": "cellular_component",
+  "label": "MTREC complex"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0005658",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005658",
+  "relationships": {
+    "is_a": [
+      "GO:0042575",
+      "GO:0055029"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA polymerase alpha:primase complex",
+      "heterotetrameric polymerase alpha holoenzyme"
+    ],
+    "broad": [
+      "primosome"
+    ],
+    "narrow": [],
+    "related": [
+      "pol-prim"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "11395402",
+      "26975377"
+    ]
+  },
+  "definition": "A complex of four polypeptides, comprising large and small DNA polymerase alpha subunits and two primase subunits, which are capable of catalyzing the synthesis of an RNA primer on the lagging strand of replicating DNA and the subsequent synthesis of a small stretch of DNA. The smaller of the two primase subunits alone can catalyze oligoribonucleotide synthesis.",
+  "namespace": "cellular_component",
+  "label": "alpha DNA polymerase:primase complex"
+}

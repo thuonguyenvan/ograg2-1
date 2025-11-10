@@ -1,0 +1,30 @@
+{
+  "id": "GO:0007528",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007528",
+  "relationships": {
+    "is_a": [
+      "GO:0050808"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "neuromuscular junction organization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NMJ stability",
+      "neuromuscular junction stability"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_OBO2OWL_2013",
+      "pr",
+      "pr"
+    ]
+  },
+  "definition": "A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of a neuromuscular junction.",
+  "namespace": "biological_process",
+  "label": "neuromuscular junction development"
+}

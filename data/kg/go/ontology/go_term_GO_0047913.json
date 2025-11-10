@@ -1,0 +1,49 @@
+{
+  "id": "GO:0047913",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047913",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "gallate 1-b-glucosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose-vanillate 1-glucosyltransferase activity",
+      "UDP-glucose:gallate beta-D-glucosyltransferase activity",
+      "UDPglucose-vanillate 1-glucosyltransferase activity",
+      "UDPglucose:gallate beta-D-glucosyltransferase activity",
+      "UDPglucose:gallate glucosyltransferase activity",
+      "UDPglucose:vanillate 1-O-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.136",
+      "2.4.1.136",
+      "2.4.1.136",
+      "2.4.1.136",
+      "2.4.1.136",
+      "2.4.1.136",
+      "2.4.1.136",
+      "2.4.1.136"
+    ],
+    "KEGG_REACTION": [
+      "R03297"
+    ],
+    "MetaCyc": [
+      "GALLATE-1-BETA-GLUCOSYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "15249",
+      "15249"
+    ]
+  },
+  "definition": "Catalysis of the reaction: gallate + UDP-D-glucose = 1-O-galloyl-beta-D-glucose + UDP.",
+  "namespace": "molecular_function",
+  "label": "gallate 1-beta-glucosyltransferase activity"
+}

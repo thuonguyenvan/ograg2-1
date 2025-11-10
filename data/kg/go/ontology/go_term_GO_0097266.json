@@ -1,0 +1,46 @@
+{
+  "id": "GO:0097266",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097266",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phenylacetyl-CoA epoxidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "phenylacetyl-CoA monooxygenase activity",
+      "ring 1,2-phenylacetyl-CoA epoxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.149",
+      "1.14.13.149",
+      "1.14.13.149",
+      "1.14.13.149"
+    ],
+    "KEGG_REACTION": [
+      "R09838"
+    ],
+    "RHEA": [
+      "32171"
+    ],
+    "GOC": [
+      "bf",
+      "gk",
+      "bf"
+    ],
+    "PMID": [
+      "20660314",
+      "21247899"
+    ]
+  },
+  "definition": "Catalysis of the reaction: phenylacetyl-CoA + H+ + NADPH + O2 = 2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA + H2O + NADP+.",
+  "namespace": "molecular_function",
+  "label": "phenylacetyl-CoA 1,2-epoxidase activity"
+}

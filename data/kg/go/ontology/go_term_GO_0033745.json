@@ -1,0 +1,40 @@
+{
+  "id": "GO:0033745",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033745",
+  "relationships": {
+    "is_a": [
+      "GO:0016671"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "FRMsr",
+      "L-methionine:thioredoxin-disulfide S-oxidoreductase [L-methionine (R)-S-oxide-forming] activity",
+      "free met-R-(o) reductase activity",
+      "free-methionine (R)-S-oxide reductase activity",
+      "methionine-R-sulfoxide reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.4.14",
+      "1.8.4.14",
+      "1.8.4.14",
+      "1.8.4.14",
+      "1.8.4.14"
+    ],
+    "MetaCyc": [
+      "1.8.4.14-RXN"
+    ],
+    "RHEA": [
+      "21260",
+      "21260"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [thioredoxin]-disulfide + L-methionine + H2O = L-methionine (R)-S-oxide + [thioredoxin]-dithiol.",
+  "namespace": "molecular_function",
+  "label": "L-methionine (R)-S-oxide reductase activity"
+}

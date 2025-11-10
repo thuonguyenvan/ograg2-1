@@ -1,0 +1,30 @@
+{
+  "id": "GO:0090669",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090669",
+  "relationships": {
+    "is_a": [
+      "GO:0043489"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TERC stabilization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "nc"
+    ],
+    "PMID": [
+      "25467444"
+    ]
+  },
+  "definition": "Prevention of degradation of telomerase RNA (TERC) molecules.",
+  "namespace": "biological_process",
+  "label": "telomerase RNA stabilization"
+}

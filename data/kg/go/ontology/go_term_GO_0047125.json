@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047125",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047125",
+  "relationships": {
+    "is_a": [
+      "GO:0016646"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D1-piperideine-2-carboxylate reductase activity",
+      "delta 1-piperideine-2-carboxylate reductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,2-didehydropipecolate reductase activity",
+      "1,2-didehydropipecolic reductase activity",
+      "L-pipecolate:NADP+ 2-oxidoreductase activity",
+      "P2C reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.21",
+      "1.5.1.21",
+      "1.5.1.21",
+      "1.5.1.21",
+      "1.5.1.21",
+      "1.5.1.21"
+    ],
+    "MetaCyc": [
+      "RXN-8166"
+    ],
+    "RHEA": [
+      "12524"
+    ],
+    "Reactome": [
+      "R-HSA-5693347"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NADP+ + L-pipecolate = NADPH + delta1-piperideine-2-carboxylate.",
+  "namespace": "molecular_function",
+  "label": "CRYM reduces P2C to PPCA"
+}

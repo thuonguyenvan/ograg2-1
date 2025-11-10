@@ -1,0 +1,35 @@
+{
+  "id": "GO:1904842",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904842",
+  "relationships": {
+    "is_a": [
+      "GO:1901698",
+      "GO:1901700"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to nitroglycerine",
+      "response to nitroglycerol",
+      "response to trinitroglycerin",
+      "response to trinitroglycerol"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000071"
+    ],
+    "PMID": [
+      "25626975"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a nitroglycerin stimulus.",
+  "namespace": "biological_process",
+  "label": "response to nitroglycerin"
+}

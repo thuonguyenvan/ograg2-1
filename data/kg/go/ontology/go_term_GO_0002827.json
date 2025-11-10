@@ -1,0 +1,31 @@
+{
+  "id": "GO:0002827",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002827",
+  "relationships": {
+    "is_a": [
+      "GO:0002824",
+      "GO:0002825"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of T-helper 1 type immune response",
+      "up-regulation of T-helper 1 type immune response",
+      "upregulation of T-helper 1 type immune response"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of T-helper 1 type immune response",
+      "stimulation of T-helper 1 type immune response"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of a T-helper 1 type immune response.",
+  "namespace": "biological_process",
+  "label": "positive regulation of T-helper 1 type immune response"
+}

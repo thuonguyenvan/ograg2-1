@@ -1,0 +1,29 @@
+{
+  "id": "GO:0005736",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005736",
+  "relationships": {
+    "is_a": [
+      "GO:0000428",
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA-directed RNA polymerase I complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "DNA-directed RNA polymerase I activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "RNA polymerase I, one of three nuclear DNA-directed RNA polymerases found in all eukaryotes, is a multisubunit complex; typically it produces rRNAs. Two large subunits comprise the most conserved portion including the catalytic site and share similarity with other eukaryotic and bacterial multisubunit RNA polymerases. The remainder of the complex is composed of smaller subunits (generally ten or more), some of which are also found in RNA polymerase III and others of which are also found in RNA polymerases II and III. Although the core is competent to mediate ribonucleic acid synthesis, it requires additional factors to select the appropriate template.",
+  "namespace": "cellular_component",
+  "label": "RNA polymerase I complex"
+}

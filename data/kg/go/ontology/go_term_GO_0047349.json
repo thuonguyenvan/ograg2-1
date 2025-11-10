@@ -1,0 +1,52 @@
+{
+  "id": "GO:0047349",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047349",
+  "relationships": {
+    "is_a": [
+      "GO:0070567"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CTP:D-ribitol-5-phosphate cytidylyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CDP ribitol pyrophosphorylase activity",
+      "CDP-ribitol diphosphorylase activity",
+      "CDP-ribitol pyrophosphorylase activity",
+      "cytidine diphosphate ribitol pyrophosphorylase activity",
+      "cytidine diphosphoribitol pyrophosphorylase activity",
+      "ribitol 5-phosphate cytidylyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.40",
+      "2.7.7.40",
+      "2.7.7.40",
+      "2.7.7.40",
+      "2.7.7.40",
+      "2.7.7.40",
+      "2.7.7.40",
+      "2.7.7.40"
+    ],
+    "KEGG_REACTION": [
+      "R02921"
+    ],
+    "MetaCyc": [
+      "2.7.7.40-RXN"
+    ],
+    "RHEA": [
+      "12456",
+      "12456"
+    ],
+    "Reactome": [
+      "R-HSA-9940844"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-ribitol 5-phosphate + CTP = CDP-ribitol + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "CRPPA dimer transfers cytidylyl to Rbt5P"
+}

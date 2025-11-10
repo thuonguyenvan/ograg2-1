@@ -1,0 +1,40 @@
+{
+  "id": "GO:0002250",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002250",
+  "relationships": {
+    "is_a": [
+      "GO:0006955"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acquired immune response",
+      "immune memory response"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1280218"
+    ],
+    "Wikipedia": [
+      "Adaptive_immune_system"
+    ],
+    "GOC": [
+      "add",
+      "add"
+    ],
+    "GO_REF": [
+      "0000022"
+    ],
+    "ISBN": [
+      "0781735149",
+      "068340007X"
+    ]
+  },
+  "definition": "An immune response mediated by cells expressing specific receptors for antigens produced through a somatic diversification process, and allowing for an enhanced secondary response to subsequent exposures to the same antigen (immunological memory).",
+  "namespace": "biological_process",
+  "label": "Adaptive Immune System"
+}

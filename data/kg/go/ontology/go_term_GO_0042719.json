@@ -1,0 +1,30 @@
+{
+  "id": "GO:0042719",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042719",
+  "relationships": {
+    "is_a": [
+      "GO:0098798"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "small TIM complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "Tim8-Tim13 complex",
+      "Tim9-Tim10 complex"
+    ],
+    "related": [
+      "mitochondrial intermembrane space protein transporter complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "vw"
+    ]
+  },
+  "definition": "mitochondrial protein-containing complex localised in the mitochondrial inner membrane space that chaperones proteins to the TIM22 complex for insertion into the mitochondrial inner membrane.",
+  "namespace": "cellular_component",
+  "label": "mitochondrial intermembrane space chaperone complex"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0019176",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019176",
+  "relationships": {
+    "is_a": [
+      "GO:0016818"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dihydroneopterin monophosphate dephosphorylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN",
+      "DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN"
+    ],
+    "RHEA": [
+      "25306"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dihydroneopterin monophosphate = dihydroneopterin + phosphate.",
+  "namespace": "molecular_function",
+  "label": "dihydroneopterin monophosphate phosphatase activity"
+}

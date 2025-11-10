@@ -1,0 +1,36 @@
+{
+  "id": "GO:2001315",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001315",
+  "relationships": {
+    "is_a": [
+      "GO:0009226",
+      "GO:0046349"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-4-deoxy-4-formamido-beta-L-arabinopyranose anabolism",
+      "UDP-4-deoxy-4-formamido-beta-L-arabinopyranose biosynthesis",
+      "UDP-4-deoxy-4-formamido-beta-L-arabinopyranose formation",
+      "UDP-4-deoxy-4-formamido-beta-L-arabinopyranose synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "yaf",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ],
+    "UniPathway": [
+      "UPA00032"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of a UDP-4-deoxy-4-formamido-beta-L-arabinopyranose.",
+  "namespace": "biological_process",
+  "label": "UDP-4-deoxy-4-formamido-beta-L-arabinopyranose biosynthetic process"
+}

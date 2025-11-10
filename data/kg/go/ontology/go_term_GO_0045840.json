@@ -1,0 +1,34 @@
+{
+  "id": "GO:0045840",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045840",
+  "relationships": {
+    "is_a": [
+      "GO:0007088",
+      "GO:0051785",
+      "GO:0090068"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of mitosis",
+      "up regulation of mitosis",
+      "up-regulation of mitosis",
+      "upregulation of mitosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of mitosis",
+      "mitogenic activity",
+      "stimulation of mitosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of mitosis.",
+  "namespace": "biological_process",
+  "label": "positive regulation of mitotic nuclear division"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:1901381",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901381",
+  "relationships": {
+    "is_a": [
+      "GO:0043268",
+      "GO:1901379",
+      "GO:1904064"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of potassium ion membrane transport",
+      "up regulation of potassium ion transmembrane transport",
+      "up-regulation of potassium ion transmembrane transport",
+      "upregulation of potassium ion transmembrane transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of potassium ion transmembrane transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1296041",
+      "R-HSA-1296052"
+    ],
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of potassium ion transmembrane transport.",
+  "namespace": "biological_process",
+  "label": "Ca2+ activated K+ channels"
+}

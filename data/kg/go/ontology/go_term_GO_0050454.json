@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050454",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050454",
+  "relationships": {
+    "is_a": [
+      "GO:0046995"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "8-hydroxy-5-deazaflavin-reducing hydrogenase activity",
+      "F420-reducing hydrogenase activity",
+      "coenzyme F420-dependent hydrogenase activity",
+      "hydrogen:coenzyme F420 oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.12.98.1",
+      "1.12.98.1",
+      "1.12.98.1",
+      "1.12.98.1",
+      "1.12.98.1",
+      "1.12.98.1"
+    ],
+    "KEGG_REACTION": [
+      "R03025"
+    ],
+    "MetaCyc": [
+      "COENZYME-F420-HYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "23760",
+      "23760"
+    ]
+  },
+  "definition": "Catalysis of the reaction: coenzyme F420 + H(2) + H+ = reduced coenzyme F420.",
+  "namespace": "molecular_function",
+  "label": "coenzyme F420 hydrogenase activity"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "GO:0016218",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016218",
+  "relationships": {
+    "is_a": [
+      "GO:0003824"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PKS activity"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "10631508"
+    ]
+  },
+  "definition": "Catalysis of a multistep reaction that produce polyketides through decarboxylative condensation of carboxylic acids. The key chain-building reaction, a C-N bond-forming reaction, involves the generation of the characteristic peptide bond by nucleophilic attack of the amino group of an amino-acyl donor unit covalently bound to a downstream peptidyl carrier protein module (amino acyl-S-PCP) on the acyl group of an upstream electrophilic acyl- or peptidyl acyl-S-PCP chain, catalyzed by a condensation (C) domain. Supplementing these core chain-elongation domains are variable numbers of auxiliary domains that are responsible for modification of the growing polypeptide chain by a small set of iterated reactions including epimerization, N-methylation, and heterocyclization.",
+  "namespace": "molecular_function",
+  "label": "polyketide synthase activity"
+}

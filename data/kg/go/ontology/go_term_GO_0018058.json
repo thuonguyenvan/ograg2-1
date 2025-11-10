@@ -1,0 +1,30 @@
+{
+  "id": "GO:0018058",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018058",
+  "relationships": {
+    "is_a": [
+      "GO:0018198",
+      "GO:0018277",
+      "GO:0031363"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RESID": [
+      "AA0127",
+      "AA0128",
+      "AA0129",
+      "AA0127",
+      "AA0128",
+      "AA0129"
+    ]
+  },
+  "definition": "The oxidative deamination of the alpha carbon of an encoded N-terminal amino acid, to form pyruvic acid retaining an amide bond between its 1-carboxyl group and the adjacent residue. The pyruvate 2-oxo group may become an enzyme active site, or it may be reduced to an alcohol.",
+  "namespace": "biological_process",
+  "label": "N-terminal protein amino acid deamination, from amino carbon"
+}

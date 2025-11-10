@@ -1,0 +1,38 @@
+{
+  "id": "GO:0015049",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015049",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "methane hydroxylase activity",
+      "methane,NAD(P)H:oxygen oxidoreductase (hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.25",
+      "1.14.13.25",
+      "1.14.13.25",
+      "1.14.13.25"
+    ],
+    "MetaCyc": [
+      "METHANE-MONOOXYGENASE-RXN"
+    ],
+    "UM-BBD_enzymeID": [
+      "r0237"
+    ],
+    "PMID": [
+      "10896210"
+    ]
+  },
+  "definition": "Catalysis of the reaction: methane + NAD(P)H + H+ + O2 = methanol + NAD(P)+ + H2O.",
+  "namespace": "molecular_function",
+  "label": "methane monooxygenase [NAD(P)H] activity"
+}

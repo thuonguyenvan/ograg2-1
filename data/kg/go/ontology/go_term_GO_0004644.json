@@ -1,0 +1,52 @@
+{
+  "id": "GO:0004644",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004644",
+  "relationships": {
+    "is_a": [
+      "GO:0016742"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "10-formyltetrahydrofolate:5&apos;-phosphoribosylglycinamide N-formyltransferase activity",
+      "2-amino-N-ribosylacetamide 5&apos;-phosphate transformylase activity",
+      "5&apos;-phosphoribosylglycinamide transformylase activity",
+      "5,10-methenyltetrahydrofolate:2-amino-N-ribosylacetamide ribonucleotide transformylase activity",
+      "GAR TFase activity",
+      "GAR formyltransferase activity",
+      "GAR transformylase activity",
+      "GART activity",
+      "glycinamide ribonucleotide transformylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.2.2",
+      "2.1.2.2",
+      "2.1.2.2",
+      "2.1.2.2",
+      "2.1.2.2",
+      "2.1.2.2",
+      "2.1.2.2",
+      "2.1.2.2",
+      "2.1.2.2",
+      "2.1.2.2",
+      "2.1.2.2"
+    ],
+    "MetaCyc": [
+      "GART-RXN"
+    ],
+    "RHEA": [
+      "15053"
+    ],
+    "Reactome": [
+      "R-HSA-73813"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 10-formyltetrahydrofolate + N1-(5-phospho-D-ribosyl)glycinamide = tetrahydrofolate + N2-formyl-N1-(5-phospho-D-ribosyl)glycinamide.",
+  "namespace": "molecular_function",
+  "label": "GAR + 10-Formyl-THF =&gt; FGAR + THF"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0006623",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006623",
+  "relationships": {
+    "is_a": [
+      "GO:0006605",
+      "GO:0006886",
+      "GO:0007034",
+      "GO:0072665",
+      "GO:0072666"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein vacuolar targeting",
+      "protein-vacuolar targeting",
+      "protein-vacuole targeting",
+      "vacuolar protein sorting"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "curators",
+      "vw"
+    ]
+  },
+  "definition": "The process of directing proteins towards the vacuole, usually using signals contained within the protein.",
+  "namespace": "biological_process",
+  "label": "protein targeting to vacuole"
+}

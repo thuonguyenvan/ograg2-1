@@ -1,0 +1,40 @@
+{
+  "id": "GO:1904633",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904633",
+  "relationships": {
+    "is_a": [
+      "GO:1904035"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of glomerular podocyte apoptotic process",
+      "regulation of glomerular visceral epithelial cell apoptotic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of glomerular podocyte apoptosis",
+      "regulation of glomerular visceral epithelial cell apoptosis",
+      "regulation of podocyte apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23692924"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of glomerular visceral epithelial cell apoptotic process.",
+  "namespace": "biological_process",
+  "label": "regulation of podocyte apoptotic process"
+}

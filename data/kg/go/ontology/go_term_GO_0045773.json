@@ -1,0 +1,33 @@
+{
+  "id": "GO:0045773",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045773",
+  "relationships": {
+    "is_a": [
+      "GO:0030307",
+      "GO:0030516",
+      "GO:0048639",
+      "GO:0050772"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of axon extension",
+      "up-regulation of axon extension",
+      "upregulation of axon extension"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of axon extension",
+      "stimulation of axon extension"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of axon extension.",
+  "namespace": "biological_process",
+  "label": "positive regulation of axon extension"
+}

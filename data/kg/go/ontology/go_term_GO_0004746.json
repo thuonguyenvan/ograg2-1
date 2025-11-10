@@ -1,0 +1,50 @@
+{
+  "id": "GO:0004746",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004746",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "vitamin B2 synthase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "heavy riboflavin synthase",
+      "light riboflavin synthase"
+    ],
+    "related": [
+      "6,7-dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)lumazine 2,3-butanediyltransferase activity",
+      "riboflavin synthetase activity",
+      "riboflavine synthase activity",
+      "riboflavine synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.9",
+      "2.5.1.9",
+      "2.5.1.9",
+      "2.5.1.9",
+      "2.5.1.9",
+      "2.5.1.9",
+      "2.5.1.9",
+      "2.5.1.9"
+    ],
+    "KEGG_REACTION": [
+      "R00066"
+    ],
+    "MetaCyc": [
+      "RIBOFLAVIN-SYN-RXN"
+    ],
+    "RHEA": [
+      "20772",
+      "20772"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 6,7-dimethyl-8-(1-D-ribityl)lumazine + H+ = 5-amino-6-(D-ribitylamino)uracil + riboflavin.",
+  "namespace": "molecular_function",
+  "label": "riboflavin synthase activity"
+}

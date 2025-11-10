@@ -1,0 +1,37 @@
+{
+  "id": "GO:0086097",
+  "uri": "http://purl.obolibrary.org/obo/GO_0086097",
+  "relationships": {
+    "is_a": [
+      "GO:0007200",
+      "GO:0038166"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Gq-coupled angiotensin receptor signaling pathway",
+      "PLC-activating angiotensin receptor signaling pathway",
+      "angiotensin-mediated signaling pathway via activation of phospholipase C",
+      "phospholipase C-activating angiotensin receptor signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "phospholipase C-activating angiotensin-mediated signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "bf",
+      "mtg_cardiac_conduct_nov11",
+      "bf",
+      "bf",
+      "bf",
+      "bf"
+    ]
+  },
+  "definition": "A phospholipase C-activating G protein-coupled receptor signaling pathway initiated by angiotensin binding to its receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "phospholipase C-activating angiotensin-activated signaling pathway"
+}

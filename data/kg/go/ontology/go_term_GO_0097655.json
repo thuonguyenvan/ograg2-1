@@ -1,0 +1,29 @@
+{
+  "id": "GO:0097655",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097655",
+  "relationships": {
+    "is_a": [
+      "GO:0005515"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mr"
+    ],
+    "InterPro": [
+      "IPR000215"
+    ],
+    "PMID": [
+      "16737556"
+    ]
+  },
+  "definition": "Binding to a member of the serpin protein family (serine protease inhibitors or classified inhibitor family I4). Serpins are a broadly distributed family of protease inhibitors that use a conformational change to inhibit target enzymes. They are central in controlling many important proteolytic cascades. The majority of serpins inhibit serine proteases, but serpins that inhibit caspases and papain-like cysteine proteases have also been identified. Rarely, serpins perform a non-inhibitory function; for example, several human serpins function as hormone transporters and certain serpins function as molecular chaperones or tumor suppressors.",
+  "namespace": "molecular_function",
+  "label": "serpin family protein binding"
+}

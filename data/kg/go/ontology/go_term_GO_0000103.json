@@ -1,0 +1,28 @@
+{
+  "id": "GO:0000103",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000103",
+  "relationships": {
+    "is_a": [
+      "GO:0006790"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulphate assimilation"
+    ],
+    "broad": [],
+    "narrow": [
+      "sulfate assimilation, phosphoadenylyl sulfate reduction by an oxidoreductase, acting on sulfur group of donors, NAD or NADP as acceptor",
+      "sulphate assimilation, phosphoadenylyl sulphate reduction by an oxidoreductase, acting on sulphur group of donors, NAD or NADP as acceptor"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The pathways by which inorganic sulfate is processed and incorporated into sulfated compounds.",
+  "namespace": "biological_process",
+  "label": "sulfate assimilation"
+}

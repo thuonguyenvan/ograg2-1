@@ -1,0 +1,31 @@
+{
+  "id": "GO:0046980",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046980",
+  "relationships": {
+    "is_a": [
+      "GO:0005515"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TAP binding protein binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "TAPBP binding"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "12594855"
+    ],
+    "HGNC": [
+      "11566",
+      "11566"
+    ]
+  },
+  "definition": "Binding to tapasin, a member of the MHC class I loading complex which bridges the TAP peptide transporter to class I molecules.",
+  "namespace": "molecular_function",
+  "label": "tapasin binding"
+}

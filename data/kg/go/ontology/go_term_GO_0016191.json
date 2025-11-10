@@ -1,0 +1,30 @@
+{
+  "id": "GO:0016191",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016191",
+  "relationships": {
+    "is_a": [
+      "GO:0072318"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "synaptic vesicle coat depolymerization",
+      "synaptic vesicle coat protein depolymerization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "curators"
+    ],
+    "PMID": [
+      "10099709",
+      "24596248"
+    ]
+  },
+  "definition": "The removal of the protein coat on a synaptic vesicle following the pinching step at the end of budding from the presynaptic membrane.",
+  "namespace": "biological_process",
+  "label": "synaptic vesicle uncoating"
+}

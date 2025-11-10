@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033419",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033419",
+  "relationships": {
+    "is_a": [
+      "GO:0030533"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CTA codon-amino acid adaptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "leucine tRNA"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "hjd",
+      "mah"
+    ]
+  },
+  "definition": "A triplet codon-amino acid adaptor activity that recognizes a CUA codon.",
+  "namespace": "molecular_function",
+  "label": "CUA codon-amino acid adaptor activity"
+}

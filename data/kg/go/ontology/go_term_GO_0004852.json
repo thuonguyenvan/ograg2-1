@@ -1,0 +1,54 @@
+{
+  "id": "GO:0004852",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004852",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "URO-synthase activity",
+      "hydroxymethylbilane hydro-lyase (cyclizing) activity",
+      "hydroxymethylbilane hydro-lyase (cyclizing; uroporphyrinogen-III-forming)",
+      "porphobilinogenase activity",
+      "uroporphyrinogen III cosynthase activity",
+      "uroporphyrinogen isomerase activity",
+      "uroporphyrinogen-III cosynthase activity",
+      "uroporphyrinogen-III cosynthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.75",
+      "4.2.1.75",
+      "4.2.1.75",
+      "4.2.1.75",
+      "4.2.1.75",
+      "4.2.1.75",
+      "4.2.1.75",
+      "4.2.1.75",
+      "4.2.1.75",
+      "4.2.1.75"
+    ],
+    "KEGG_REACTION": [
+      "R03165"
+    ],
+    "MetaCyc": [
+      "UROGENIIISYN-RXN"
+    ],
+    "RHEA": [
+      "18965",
+      "18965"
+    ],
+    "Reactome": [
+      "R-HSA-189488"
+    ]
+  },
+  "definition": "Catalysis of the reaction: hydroxymethylbilane = H2O + uroporphyrinogen III.",
+  "namespace": "molecular_function",
+  "label": "UROS transforms HMB to URO3"
+}

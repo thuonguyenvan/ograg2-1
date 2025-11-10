@@ -1,0 +1,31 @@
+{
+  "id": "GO:1990677",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990677",
+  "relationships": {
+    "is_a": [
+      "GO:0098800"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "INAC complex",
+      "mitochondrion inner membrane assembly complex"
+    ],
+    "broad": [
+      "inner membrane assembly complex"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "24942160"
+    ]
+  },
+  "definition": "A protein complex that promotes the biogenesis of mitochondrial F1Fo-ATP synthase by facilitating assembly of the peripheral stalk. Loss of INAC function causes dissociation of the F1-domain from the membrane-integral Fo-portion.",
+  "namespace": "cellular_component",
+  "label": "mitochondrial inner membrane assembly complex"
+}

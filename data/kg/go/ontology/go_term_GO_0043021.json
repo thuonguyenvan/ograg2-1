@@ -1,0 +1,33 @@
+{
+  "id": "GO:0043021",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043021",
+  "relationships": {
+    "is_a": [
+      "GO:0044877"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNP binding",
+      "protein-RNA complex binding",
+      "ribonucleoprotein binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "go_curators",
+      "vk",
+      "bf",
+      "vk",
+      "bf",
+      "vk"
+    ]
+  },
+  "definition": "Binding to a complex of RNA and protein.",
+  "namespace": "molecular_function",
+  "label": "ribonucleoprotein complex binding"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047923",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047923",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,5-dihydroxybenzoate carboxy-lyase (hydroquinone-forming)",
+      "2,5-dihydroxybenzoate decarboxylase activity",
+      "gentisate carboxy-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.62",
+      "4.1.1.62",
+      "4.1.1.62",
+      "4.1.1.62",
+      "4.1.1.62"
+    ],
+    "KEGG_REACTION": [
+      "R02489"
+    ],
+    "MetaCyc": [
+      "GENTISATE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "21312",
+      "21312"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,5-dihydroxybenzoate + H+ = CO2 + hydroquinone.",
+  "namespace": "molecular_function",
+  "label": "gentisate decarboxylase activity"
+}

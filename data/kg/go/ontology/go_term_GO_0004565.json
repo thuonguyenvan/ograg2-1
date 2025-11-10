@@ -1,0 +1,45 @@
+{
+  "id": "GO:0004565",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004565",
+  "relationships": {
+    "is_a": [
+      "GO:0015925"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "beta-D-galactanase activity",
+      "beta-D-galactoside galactohydrolase activity",
+      "beta-D-lactosidase activity",
+      "beta-lactosidase activity",
+      "exo-(1-&gt;4)-beta-D-galactanase activity",
+      "hydrolact"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.23",
+      "3.2.1.23",
+      "3.2.1.23"
+    ],
+    "MetaCyc": [
+      "3.2.1.23-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-1605624",
+      "R-HSA-1606312",
+      "R-HSA-1630306",
+      "R-HSA-1793217",
+      "R-HSA-2090079",
+      "R-HSA-2265534",
+      "R-HSA-9036061",
+      "R-HSA-9840795"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of terminal, non-reducing beta-D-galactose residues in beta-D-galactosides.",
+  "namespace": "molecular_function",
+  "label": "Beta-galactosidases hydrolyze GM2A:GA1 to GM2A:GA2"
+}

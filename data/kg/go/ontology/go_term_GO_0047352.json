@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047352",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047352",
+  "relationships": {
+    "is_a": [
+      "GO:0070566"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "adenylylsulphate-ammonia adenylyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "APSAT",
+      "adenylylsulfate:ammonia adenylyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.51",
+      "2.7.7.51",
+      "2.7.7.51",
+      "2.7.7.51"
+    ],
+    "KEGG_REACTION": [
+      "R01619"
+    ],
+    "MetaCyc": [
+      "2.7.7.51-RXN"
+    ],
+    "RHEA": [
+      "19197",
+      "19197"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5&apos;-adenylyl sulfate + NH4 = adenosine 5&apos;-phosphoramidate + 2 H+ + sulfate.",
+  "namespace": "molecular_function",
+  "label": "adenylylsulfate-ammonia adenylyltransferase activity"
+}

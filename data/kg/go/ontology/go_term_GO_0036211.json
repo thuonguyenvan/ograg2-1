@@ -1,0 +1,30 @@
+{
+  "id": "GO:0036211",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036211",
+  "relationships": {
+    "is_a": [
+      "GO:0019538",
+      "GO:0043412"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular protein modification process",
+      "process resulting in protein modification",
+      "protein modification"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "jl",
+      "bf"
+    ]
+  },
+  "definition": "The covalent alteration of one or more amino acids occurring in proteins, peptides and nascent polypeptides (co-translational, post-translational modifications). Includes the modification of charged tRNAs that are destined to occur in a protein (pre-translation modification).",
+  "namespace": "biological_process",
+  "label": "protein modification process"
+}

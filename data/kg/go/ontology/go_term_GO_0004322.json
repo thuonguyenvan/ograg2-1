@@ -1,0 +1,54 @@
+{
+  "id": "GO:0004322",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004322",
+  "relationships": {
+    "is_a": [
+      "GO:0016724"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "HEPH",
+      "caeruloplasmin",
+      "ceruloplasmin",
+      "hephaestin",
+      "multicopper ferroxidase iron transport mediator activity"
+    ],
+    "related": [
+      "Fe(II):oxygen oxidoreductase activity",
+      "ferro:O2 oxidoreductase activity",
+      "ferroxidase I",
+      "ferroxidase, iron II:oxygen oxidoreductase activity",
+      "iron(II): oxygen oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.16.3.1",
+      "1.16.3.1",
+      "1.16.3.1",
+      "1.16.3.1"
+    ],
+    "MetaCyc": [
+      "RXN0-1483"
+    ],
+    "RHEA": [
+      "11148",
+      "11148"
+    ],
+    "Reactome": [
+      "R-HSA-1562603",
+      "R-HSA-1562604",
+      "R-HSA-1562626",
+      "R-HSA-5621402",
+      "R-HSA-5691107",
+      "R-HSA-917891",
+      "R-HSA-917933"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4 Fe2+ + 4 H+ + O2 = 4 Fe3+ + 2 H2O.",
+  "namespace": "molecular_function",
+  "label": "SLC40A1:HEPH:6Cu2+ oxidises 4Fe2+ to 4Fe3+"
+}

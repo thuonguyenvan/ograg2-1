@@ -1,0 +1,33 @@
+{
+  "id": "GO:1990235",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990235",
+  "relationships": {
+    "is_a": [
+      "GO:1902493"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "SAT complex",
+      "SAT tetramer",
+      "spermidine acetyltransferase complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "bhm",
+      "bhm",
+      "bhm"
+    ],
+    "PMID": [
+      "8077207"
+    ]
+  },
+  "definition": "A protein complex which is capable of diamine N-acetyltransferase activity.",
+  "namespace": "cellular_component",
+  "label": "diamine N-acetyltransferase complex"
+}

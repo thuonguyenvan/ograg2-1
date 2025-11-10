@@ -1,0 +1,50 @@
+{
+  "id": "GO:0008918",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008918",
+  "relationships": {
+    "is_a": [
+      "GO:0035250"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LPS 3-alpha-galactosyltransferase activity",
+      "lipopolysaccharide galactosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "lipopolysaccharide-alpha-1,3-D-galactosyltransferase"
+    ],
+    "related": [
+      "UDP-galactose:lipopolysaccharide 3-alpha-D-galactosyltransferase activity",
+      "UDP-galactose:lipopolysaccharide alpha,3-galactosyltransferase activity",
+      "UDP-galactose:polysaccharide galactosyltransferase activity",
+      "UDPgalactose:lipopolysaccharide 3-alpha-D-galactosyltransferase activity",
+      "lipopolysaccharide 1,3-galactosyltransferase activity",
+      "uridine diphosphate galactose:lipopolysaccharide alpha-3-galactosyltransferase activity",
+      "uridine diphosphogalactose-lipopolysaccharide alpha,3-galactosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.44",
+      "2.4.1.44",
+      "2.4.1.44",
+      "2.4.1.44",
+      "2.4.1.44",
+      "2.4.1.44",
+      "2.4.1.44",
+      "2.4.1.44",
+      "2.4.1.44"
+    ],
+    "MetaCyc": [
+      "RXN-22172"
+    ],
+    "GOC": [
+      "mr"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-galactose + lipopolysaccharide = UDP + 1,3 alpha-D-galactosyl-lipopolysaccharide.",
+  "namespace": "molecular_function",
+  "label": "lipopolysaccharide 3-alpha-galactosyltransferase activity"
+}

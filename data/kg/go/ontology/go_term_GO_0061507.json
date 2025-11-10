@@ -1,0 +1,40 @@
+{
+  "id": "GO:0061507",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061507",
+  "relationships": {
+    "is_a": [
+      "GO:0032559",
+      "GO:0032561",
+      "GO:0043168",
+      "GO:0140702"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2&apos;,3&apos; cGAMP binding",
+      "2&apos;,3&apos; cyclic GAMP binding",
+      "2&apos;,3&apos;-cGAMP binding",
+      "2&apos;,3&apos;-cyclic GAMP binding",
+      "2&apos;,5-3&apos;,5&apos;-cyclic GMP-AMP binding",
+      "c[G(2&apos;,5&apos;)pA(3&apos;,5&apos;)p] binding"
+    ],
+    "broad": [
+      "cyclic-GMP-AMP binding"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph"
+    ],
+    "PMID": [
+      "23258412",
+      "23910378",
+      "23910378"
+    ]
+  },
+  "definition": "Binding to 2&apos;,3&apos; cyclic GMP-AMP (cGAMP) nucleotide, a cyclic purine dinucleotide that consists of AMP and GMP units cyclized via 2&apos;,5&apos; and 3&apos;,5&apos; linkages.",
+  "namespace": "molecular_function",
+  "label": "2&apos;,3&apos;-cyclic GMP-AMP binding"
+}

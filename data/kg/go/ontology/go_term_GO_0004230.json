@@ -1,0 +1,46 @@
+{
+  "id": "GO:0004230",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004230",
+  "relationships": {
+    "is_a": [
+      "GO:0004177"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Ca2+-activated glutamate aminopeptidase activity",
+      "L-aspartate aminopeptidase activity",
+      "aminopeptidase A",
+      "angiotensinase A",
+      "angiotensinase A2",
+      "antigen BP-1/6C3 of mouse B lymphocytes",
+      "aspartate aminopeptidase activity",
+      "glutamyl peptidase activity",
+      "membrane aminopeptidase II"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.4.11.7",
+      "3.4.11.7",
+      "3.4.11.7",
+      "3.4.11.7",
+      "3.4.11.7",
+      "3.4.11.7",
+      "3.4.11.7",
+      "3.4.11.7",
+      "3.4.11.7",
+      "3.4.11.7",
+      "3.4.11.7"
+    ],
+    "MetaCyc": [
+      "3.4.11.7-RXN"
+    ]
+  },
+  "definition": "Catalysis of the release of a N-terminal glutamate (and to a lesser extent aspartate) from a peptide.",
+  "namespace": "molecular_function",
+  "label": "glutamyl aminopeptidase activity"
+}

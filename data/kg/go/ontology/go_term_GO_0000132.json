@@ -1,0 +1,34 @@
+{
+  "id": "GO:0000132",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000132",
+  "relationships": {
+    "is_a": [
+      "GO:0040001",
+      "GO:0051294"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "establishment of spindle orientation involved in mitotic cell cycle",
+      "mitotic spindle orientation",
+      "orienting of mitotic spindle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "establishment of spindle orientation during mitosis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ems",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "A cell cycle process that sets the alignment of mitotic spindle relative to other cellular structures.",
+  "namespace": "biological_process",
+  "label": "establishment of mitotic spindle orientation"
+}

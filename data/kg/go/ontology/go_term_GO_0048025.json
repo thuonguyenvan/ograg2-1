@@ -1,0 +1,40 @@
+{
+  "id": "GO:0048025",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048025",
+  "relationships": {
+    "is_a": [
+      "GO:0033119",
+      "GO:0048024",
+      "GO:0050686"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of nuclear mRNA splicing, via spliceosome",
+      "down-regulation of nuclear mRNA splicing, via spliceosome",
+      "downregulation of nuclear mRNA splicing, via spliceosome",
+      "negative regulation of nuclear mRNA splicing, via spliceosome"
+    ],
+    "broad": [
+      "negative regulation of pre-mRNA splicing"
+    ],
+    "narrow": [
+      "down regulation of nuclear mRNA splicing via U2-type spliceosome",
+      "down-regulation of nuclear mRNA splicing via U2-type spliceosome",
+      "downregulation of nuclear mRNA splicing via U2-type spliceosome",
+      "inhibition of nuclear mRNA splicing via U2-type spliceosome",
+      "inhibition of nuclear mRNA splicing, via spliceosome",
+      "negative regulation of nuclear mRNA splicing via U2-type spliceosome"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid",
+      "vw"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the rate or extent of mRNA splicing via a spliceosomal mechanism.",
+  "namespace": "biological_process",
+  "label": "negative regulation of mRNA splicing, via spliceosome"
+}

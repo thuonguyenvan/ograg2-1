@@ -1,0 +1,32 @@
+{
+  "id": "GO:0010147",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010147",
+  "relationships": {
+    "is_a": [
+      "GO:0000272"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fructan breakdown",
+      "fructan catabolism",
+      "fructan degradation",
+      "levan catabolic process",
+      "levan catabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-862"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of fructan, a polysaccharide consisting of fructose residues.",
+  "namespace": "biological_process",
+  "label": "fructan catabolic process"
+}

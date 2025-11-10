@@ -1,0 +1,60 @@
+{
+  "id": "GO:0004088",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004088",
+  "relationships": {
+    "is_a": [
+      "GO:0016884"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "carbamoyl phosphate synthase (glutamine-hydrolyzing) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CPS activity",
+      "GD-CPSase activity",
+      "carbamoyl phosphate synthetase activity",
+      "carbamoyl-phosphate synthase (glutamine-hydrolysing) activity",
+      "carbamoyl-phosphate synthetase (glutamine-hydrolysing) activity",
+      "carbamoyl-phosphate synthetase (glutamine-hydrolyzing) activity",
+      "carbamoylphosphate synthetase II activity",
+      "carbamyl phosphate synthetase (glutamine) activity",
+      "carbon-dioxide::L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating) activity",
+      "glutamine-dependent carbamoyl-phosphate synthase activity",
+      "glutamine-dependent carbamyl phosphate synthetase activity",
+      "hydrogen-carbonate:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.5.5",
+      "6.3.5.5",
+      "6.3.5.5",
+      "6.3.5.5",
+      "6.3.5.5",
+      "6.3.5.5",
+      "6.3.5.5",
+      "6.3.5.5",
+      "6.3.5.5",
+      "6.3.5.5",
+      "6.3.5.5",
+      "6.3.5.5",
+      "6.3.5.5"
+    ],
+    "MetaCyc": [
+      "CARBPSYN-RXN"
+    ],
+    "RHEA": [
+      "18633",
+      "18633"
+    ],
+    "Reactome": [
+      "R-HSA-73577"
+    ]
+  },
+  "definition": "Catalysis of the reaction: hydrogencarbonate + L-glutamine + 2 ATP + H2O = carbamoyl phosphate + L-glutamate + 2 ADP + phosphate + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "CAD hexamer transforms L-Gln to CAP"
+}

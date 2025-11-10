@@ -1,0 +1,46 @@
+{
+  "id": "GO:0004579",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004579",
+  "relationships": {
+    "is_a": [
+      "GO:0004576"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "asparagine N-glycosyltransferase activity",
+      "dolichyl-diphosphooligosaccharide-protein glycosyltransferase activity",
+      "dolichyl-diphosphooligosaccharide:protein-L-asparagine oligopolysaccharidotransferase activity",
+      "dolichyldiphosphooligosaccharide-protein glycosyltransferase activity",
+      "dolichyldiphosphooligosaccharide-protein oligosaccharyltransferase activity",
+      "dolichyldiphosphoryloligosaccharide-protein oligosaccharyltransferase activity",
+      "dolichylpyrophosphodiacetylchitobiose-protein glycosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "oligomannosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.99.18"
+    ],
+    "MetaCyc": [
+      "RXN-16761"
+    ],
+    "RHEA": [
+      "22980",
+      "22980"
+    ],
+    "Reactome": [
+      "R-HSA-446209",
+      "R-HSA-9694793",
+      "R-HSA-9816276",
+      "R-HSA-9931286"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dolichyl diphosphooligosaccharide + protein L-asparagine = dolichyl diphosphate + a glycoprotein with the oligosaccharide chain attached by glycosylamine linkage to protein L-asparagine.",
+  "namespace": "molecular_function",
+  "label": "CD274 N-linked glycosylation in ER"
+}

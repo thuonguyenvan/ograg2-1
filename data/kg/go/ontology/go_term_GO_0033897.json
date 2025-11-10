@@ -1,0 +1,62 @@
+{
+  "id": "GO:0033897",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033897",
+  "relationships": {
+    "is_a": [
+      "GO:0004521",
+      "GO:0016849"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Escherichia coli ribonuclease I&apos; ribonuclease PP2 activity",
+      "RNAase CL activity",
+      "RNase (non-base specific) activity",
+      "RNase Ms activity",
+      "acid RNase activity",
+      "acid ribonuclease activity",
+      "base-non-specific ribonuclease activity",
+      "non-base specific ribonuclease activity",
+      "nonbase-specific RNase activity",
+      "nonspecific RNase activity",
+      "ribonnuclease (non-base specific) activity",
+      "ribonuclease M activity",
+      "ribonuclease N2 activity",
+      "ribonuclease U4 activity",
+      "ribonucleate 3&apos;-oligonucleotide hydrolase activity"
+    ],
+    "broad": [
+      "RNase II activity",
+      "ribonuclease II activity",
+      "ribonucleate nucleotido-2&apos;-transferase (cyclizing) activity"
+    ],
+    "narrow": [],
+    "related": [
+      "Escherichia coli ribonuclease II activity",
+      "RNase M activity",
+      "RNase T2 activity",
+      "ribonuclease (non-base specific) activity",
+      "ribonuclease PP3 activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.6.1.19",
+      "4.6.1.19",
+      "4.6.1.19",
+      "4.6.1.19",
+      "4.6.1.19",
+      "4.6.1.19"
+    ],
+    "MetaCyc": [
+      "3.1.27.5-RXN"
+    ],
+    "RHEA": [
+      "68052",
+      "68052"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a ribonucleotidyl-ribonucleotide-RNA + H2O = a 3&apos;-end 3&apos;-phospho-ribonucleotide-RNA + a 5&apos;-end dephospho-ribonucleoside-RNA + H+. This reaction is a two-stage endonucleolytic cleavage to nucleoside 3&apos;-phosphates and 3&apos;-phosphooligonucleotides with 2&apos;,3&apos;-cyclic phosphate intermediates.",
+  "namespace": "molecular_function",
+  "label": "ribonuclease T2 activity"
+}

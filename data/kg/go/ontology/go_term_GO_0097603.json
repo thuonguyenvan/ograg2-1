@@ -1,0 +1,34 @@
+{
+  "id": "GO:0097603",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097603",
+  "relationships": {
+    "is_a": [
+      "GO:0005216",
+      "GO:0022836"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "temperature gated ion channel activity",
+      "temperature-activated ion channel activity",
+      "temperature-dependent ion channel activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "heat-activated ion channel activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ha",
+      "pr"
+    ],
+    "PMID": [
+      "23027824"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of an ion by a channel that opens in response to a temperature stimulus (e.g. exposure to a temperature range different than the optimal temperature for that organism).",
+  "namespace": "molecular_function",
+  "label": "temperature-gated ion channel activity"
+}

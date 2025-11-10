@@ -1,0 +1,37 @@
+{
+  "id": "GO:0051641",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051641",
+  "relationships": {
+    "is_a": [
+      "GO:0009987",
+      "GO:0051179"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular localisation",
+      "establishment and maintenance of cellular localization",
+      "establishment and maintenance of localization in cell or cell membrane",
+      "single organism cellular localization"
+    ],
+    "broad": [],
+    "narrow": [
+      "intracellular localization",
+      "localization within cell"
+    ],
+    "related": [
+      "single-organism cellular localization"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "tb",
+      "vw",
+      "mah",
+      "TermGenie"
+    ]
+  },
+  "definition": "A cellular localization process whereby a substance or cellular entity, such as a protein complex or organelle, is transported to, and/or maintained in, a specific location within a cell including the localization of substances or cellular entities to the cell membrane.",
+  "namespace": "biological_process",
+  "label": "cellular localization"
+}

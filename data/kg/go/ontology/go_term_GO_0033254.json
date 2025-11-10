@@ -1,0 +1,28 @@
+{
+  "id": "GO:0033254",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033254",
+  "relationships": {
+    "is_a": [
+      "GO:0098796",
+      "GO:0140535"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "VTC complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11823419",
+      "17079729",
+      "34544285"
+    ]
+  },
+  "definition": "A protein complex that contains four related proteins that have been implicated in several membrane-related processes, such as sorting of H+-translocating ATPases, endocytosis, ER-Golgi trafficking, vacuole fusion, vacuolar polyphosphate homeostasis and the microautophagic scission of vesicles into the vacuolar lumen. The complex is enriched at the vacuolar membrane, but also found in other cellular compartments, including the ER and the cell periphery. In Saccharomyces, the subunits are Vtc1p, Vtc2p, Vtc3p and Vtc4p.",
+  "namespace": "cellular_component",
+  "label": "vacuolar transporter chaperone complex"
+}

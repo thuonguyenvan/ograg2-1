@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102934",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102934",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.150"
+    ],
+    "MetaCyc": [
+      "RXN-8971"
+    ],
+    "RHEA": [
+      "28230",
+      "28230"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: germacra-1(10),4,11(13)-trien-12-oate + O2 + NADPH + 2 H+ = costunolide + 2 H2O + NADP.",
+  "namespace": "molecular_function",
+  "label": "costunolide synthase activity"
+}

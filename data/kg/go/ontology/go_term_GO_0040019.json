@@ -1,0 +1,32 @@
+{
+  "id": "GO:0040019",
+  "uri": "http://purl.obolibrary.org/obo/GO_0040019",
+  "relationships": {
+    "is_a": [
+      "GO:0045995",
+      "GO:0051094",
+      "GO:0051240"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of embryonic development",
+      "up-regulation of embryonic development",
+      "upregulation of embryonic development"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of embryonic development",
+      "stimulation of embryonic development"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of embryonic development.",
+  "namespace": "biological_process",
+  "label": "positive regulation of embryonic development"
+}

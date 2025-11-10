@@ -1,0 +1,31 @@
+{
+  "id": "GO:0019444",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019444",
+  "relationships": {
+    "is_a": [
+      "GO:0006569",
+      "GO:0009712"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tryptophan breakdown to catechol",
+      "tryptophan catabolic process to catechol",
+      "tryptophan degradation to catechol"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TRPCAT-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-tryptophan into other compounds, including catechol.",
+  "namespace": "biological_process",
+  "label": "L-tryptophan catabolic process to catechol"
+}

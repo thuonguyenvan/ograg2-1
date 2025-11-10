@@ -1,0 +1,35 @@
+{
+  "id": "GO:0106117",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106117",
+  "relationships": {
+    "is_a": [
+      "GO:0006996"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acidocalcisome biogenesis",
+      "acidocalcisome organisation",
+      "acidocalcisome organization and biogenesis",
+      "metachromatic granule organization",
+      "volutin granule organization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "polyphosphate vacuole organization"
+    ]
+  },
+  "cross_references": {
+    "GO": [
+      "0020022"
+    ],
+    "PMID": [
+      "25964650",
+      "26523947"
+    ]
+  },
+  "definition": "A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of an acidocalcisome. An acidocalcisome is an electron-dense acidic membrane-bounded organelle which contains a matrix of pyrophosphate and polyphosphates with bound calcium and other cations.",
+  "namespace": "biological_process",
+  "label": "acidocalcisome organization"
+}

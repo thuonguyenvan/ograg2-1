@@ -1,0 +1,30 @@
+{
+  "id": "GO:0032055",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032055",
+  "relationships": {
+    "is_a": [
+      "GO:0017148",
+      "GO:0043555"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of translation in response to stress",
+      "down-regulation of translation in response to stress",
+      "downregulation of translation in response to stress"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of translation in response to stress"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the rate of translation as a result of a stimulus indicating the organism is under stress.",
+  "namespace": "biological_process",
+  "label": "negative regulation of translation in response to stress"
+}

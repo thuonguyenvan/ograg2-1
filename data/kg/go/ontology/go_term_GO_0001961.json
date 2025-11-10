@@ -1,0 +1,37 @@
+{
+  "id": "GO:0001961",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001961",
+  "relationships": {
+    "is_a": [
+      "GO:0001959",
+      "GO:0009967",
+      "GO:0060760"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of cytokine and chemokine mediated signaling pathway",
+      "positive regulation of cytokine mediated signaling pathway",
+      "positive regulation of cytokine mediated signalling pathway",
+      "up regulation of cytokine mediated signaling pathway",
+      "up-regulation of cytokine mediated signaling pathway",
+      "upregulation of cytokine mediated signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of cytokine mediated signaling pathway",
+      "stimulation of cytokine mediated signaling pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "hjd",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of a cytokine mediated signaling pathway.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cytokine-mediated signaling pathway"
+}

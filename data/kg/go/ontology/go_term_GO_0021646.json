@@ -1,0 +1,35 @@
+{
+  "id": "GO:0021646",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021646",
+  "relationships": {
+    "is_a": [
+      "GO:0021603"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CN X biosynthesis",
+      "CN X formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "ISBN": [
+      "0838580343"
+    ]
+  },
+  "definition": "The process that gives rise to the vagus nerve. This process pertains to the initial formation of a structure from unspecified parts. This nerve is primarily sensory but also has visceromotor components. It originates in the brain stem and controls many autonomic functions of the heart, lungs, stomach, pharynx, larynx, trachea, esophagus and other gastrointestinal tract components. It controls some motor functions such as speech. The sensory branches mediate sensation from the pharynx, larynx, thorax and abdomen; it also innervates taste buds in the epiglottis.",
+  "namespace": "biological_process",
+  "label": "vagus nerve formation"
+}

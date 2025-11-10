@@ -1,0 +1,33 @@
+{
+  "id": "GO:0001560",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001560",
+  "relationships": {
+    "is_a": [
+      "GO:0001558"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "interpretation of external signals that regulate cell growth",
+      "regulation of cell growth by detection of exogenous stimulus",
+      "regulation of cell growth by sensing of exogenous stimulus",
+      "regulation of growth by exogenous signal",
+      "regulation of growth by exogenous stimuli",
+      "regulation of growth by exogenous stimulus",
+      "regulation of growth by external signal",
+      "regulation of growth by external stimuli",
+      "regulation of growth by external stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph"
+    ]
+  },
+  "definition": "Any process in which external signals modulate the frequency, rate or extent of cell growth, the irreversible increase in size of a cell over time.",
+  "namespace": "biological_process",
+  "label": "regulation of cell growth by extracellular stimulus"
+}

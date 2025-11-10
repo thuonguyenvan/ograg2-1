@@ -1,0 +1,32 @@
+{
+  "id": "GO:0070884",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070884",
+  "relationships": {
+    "is_a": [
+      "GO:0106056"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of calcineurin-NFAT signalling cascade"
+    ],
+    "broad": [],
+    "narrow": [
+      "NFAT protein import into nucleus",
+      "regulation of NFAT protein import into nucleus"
+    ],
+    "related": [
+      "regulation of calcineurin-NFAT signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mah",
+      "bf"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of the calcineurin-NFAT signaling cascade.",
+  "namespace": "biological_process",
+  "label": "regulation of calcineurin-NFAT signaling cascade"
+}

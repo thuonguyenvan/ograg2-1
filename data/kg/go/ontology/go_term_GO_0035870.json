@@ -1,0 +1,46 @@
+{
+  "id": "GO:0035870",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035870",
+  "relationships": {
+    "is_a": [
+      "GO:0047429"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2&apos;-deoxyinosine-5&apos;-triphosphate pyrophosphohydrolase activity",
+      "dITP pyrophosphatase activity",
+      "deoxyinosine triphosphate pyrophosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R03531",
+      "R03531"
+    ],
+    "MetaCyc": [
+      "RXN0-1602"
+    ],
+    "RHEA": [
+      "28342",
+      "28342"
+    ],
+    "Reactome": [
+      "R-HSA-2509838"
+    ],
+    "GOC": [
+      "dgf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "21548881"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dITP + H2O = dIMP + H+ + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "ITPA hydrolyses dITP to dIMP"
+}

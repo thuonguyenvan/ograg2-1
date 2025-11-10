@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990728",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990728",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MAD1-MAD2 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "12006501",
+      "22898774"
+    ]
+  },
+  "definition": "A protein complex involved in the assembly of the mitotic checkpoint complex that in turn inhibits the anaphase promoting complex/cyclosome (APC/C). The MAD1 dimer recruits the open form of MAD2 (O-MAD2) turning it into the closed form (C-MAD2) upon binding. C-MAD2 inhibits CDC20, a member of the APC/C, upon release from the MAD1-MAD2 complex.",
+  "namespace": "cellular_component",
+  "label": "mitotic spindle assembly checkpoint MAD1-MAD2 complex"
+}

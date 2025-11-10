@@ -1,0 +1,41 @@
+{
+  "id": "GO:1903214",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903214",
+  "relationships": {
+    "is_a": [
+      "GO:1903533",
+      "GO:1903747"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of protein import into mitochondrion",
+      "regulation of protein targeting to mitochondria",
+      "regulation of protein-mitochondrial targeting"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of mitochondrial protein import",
+      "regulation of mitochondrial translocation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of protein targeting to mitochondrion.",
+  "namespace": "biological_process",
+  "label": "regulation of protein targeting to mitochondrion"
+}

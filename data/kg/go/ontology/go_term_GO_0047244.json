@@ -1,0 +1,40 @@
+{
+  "id": "GO:0047244",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047244",
+  "relationships": {
+    "is_a": [
+      "GO:0008194",
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acetylmannosaminyltransferase activity",
+      "UDP-N-acetyl-D-mannosamine:N-acetyl-beta-D-glucosaminyldiphosphoundecaprenol beta-1,4-N-acetylmannosaminyltransferase activity",
+      "UDP-N-acetylmannosamine:N-acetylglucosaminyl diphosphorylundecaprenol N-acetylmannosaminyltransferase activity",
+      "uridine diphosphoacetyl-mannosamineacetylglucosaminylpyrophosphorylundecaprenol acetylmannosaminyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.187",
+      "2.4.1.187",
+      "2.4.1.187",
+      "2.4.1.187",
+      "2.4.1.187",
+      "2.4.1.187"
+    ],
+    "MetaCyc": [
+      "TEICHOICSYN2-RXN"
+    ],
+    "RHEA": [
+      "16053"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acetyl-D-glucosaminyldiphosphoundecaprenol + UDP-N-acetyl-D-mannosamine = N-acetyl-beta-D-mannosaminyl-1,4-N-acetyl-D-glucosaminyldiphosphoundecaprenol + UDP.",
+  "namespace": "molecular_function",
+  "label": "N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase activity"
+}

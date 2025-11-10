@@ -1,0 +1,64 @@
+{
+  "id": "GO:0004046",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004046",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "acylase I activity",
+      "aminoacylase I activity",
+      "dehydropeptidase II activity"
+    ],
+    "related": [
+      "L-amino-acid acylase activity",
+      "L-aminoacylase activity",
+      "N-acyl-L-amino-acid amidohydrolase activity",
+      "alpha-N-acylaminoacid hydrolase activity",
+      "amido acid deacylase activity",
+      "benzamidase activity",
+      "hippurase activity",
+      "histozyme activity",
+      "long acyl amidoacylase activity",
+      "short acyl amidoacylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.14",
+      "3.5.1.14",
+      "3.5.1.14",
+      "3.5.1.14",
+      "3.5.1.14",
+      "3.5.1.14",
+      "3.5.1.14",
+      "3.5.1.14",
+      "3.5.1.14",
+      "3.5.1.14",
+      "3.5.1.14",
+      "3.5.1.14",
+      "3.5.1.14",
+      "3.5.1.14",
+      "3.5.1.14"
+    ],
+    "MetaCyc": [
+      "AMINOACYLASE-RXN"
+    ],
+    "RHEA": [
+      "15565"
+    ],
+    "Reactome": [
+      "R-HSA-5433074",
+      "R-HSA-5579081",
+      "R-HSA-9638046",
+      "R-HSA-9753944"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an N-acyl-L-amino acid + H2O = a carboxylate + an L-amino acid.",
+  "namespace": "molecular_function",
+  "label": "ACY1:Zn2+ dimer deacetylates NAC to L-Cys"
+}

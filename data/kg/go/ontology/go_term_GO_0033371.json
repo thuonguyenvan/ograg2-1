@@ -1,0 +1,33 @@
+{
+  "id": "GO:0033371",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033371",
+  "relationships": {
+    "is_a": [
+      "GO:0033363"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "T cell secretory granule organisation",
+      "T lymphocyte secretory granule organization",
+      "T-cell secretory granule organization",
+      "T-lymphocyte secretory granule organization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "T cell secretory granule organization and biogenesis",
+      "T-lymphocyte secretory granule maturation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of a secretory granule in a T cell. A secretory granule is a small subcellular vesicle, surrounded by a membrane, that is formed from the Golgi apparatus and contains a highly concentrated protein destined for secretion.",
+  "namespace": "biological_process",
+  "label": "T cell secretory granule organization"
+}

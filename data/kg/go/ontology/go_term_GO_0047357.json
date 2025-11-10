@@ -1,0 +1,47 @@
+{
+  "id": "GO:0047357",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047357",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-galactose:UDP-N-acetyl-D-glucosamine galactose phosphotransferase activity",
+      "UDPgalactose-UDP-N-acetylglucosamine galactose phosphotransferase activity",
+      "UDPgalactose:UDP-N-acetyl-D-glucosamine galactose phosphotransferase activity",
+      "galactose-1-phosphotransferase activity",
+      "galactosyl phosphotransferase activity",
+      "uridine diphosphogalactose-uridine diphosphoacetylglucosamine galactose-1-phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.18",
+      "2.7.8.18",
+      "2.7.8.18",
+      "2.7.8.18",
+      "2.7.8.18",
+      "2.7.8.18",
+      "2.7.8.18",
+      "2.7.8.18"
+    ],
+    "KEGG_REACTION": [
+      "R00504"
+    ],
+    "MetaCyc": [
+      "2.7.8.18-RXN"
+    ],
+    "RHEA": [
+      "22440",
+      "22440"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-N-acetyl-alpha-D-glucosamine + UDP-D-galactose = H+ + UDP-N-acetyl-6-(D-galactose-1-phospho)-D-glucosamine + UMP.",
+  "namespace": "molecular_function",
+  "label": "UDP-galactose-UDP-N-acetylglucosamine galactose phosphotransferase activity"
+}

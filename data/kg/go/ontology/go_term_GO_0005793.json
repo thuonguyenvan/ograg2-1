@@ -1,0 +1,39 @@
+{
+  "id": "GO:0005793",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005793",
+  "relationships": {
+    "is_a": [
+      "GO:0043231"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "EGTC",
+      "ER-Golgi intermediate compartment",
+      "ER-Golgi transport container",
+      "ERGIC",
+      "VTC",
+      "endoplasmic reticulum-Golgi transport container",
+      "pre-Golgi intermediate compartment",
+      "vesicular-tubular cluster"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Vesicular-tubular_cluster",
+      "Vesicular-tubular_cluster"
+    ],
+    "GOC": [
+      "pr"
+    ],
+    "PMID": [
+      "16723730"
+    ]
+  },
+  "definition": "A complex system of membrane-bounded compartments located between endoplasmic reticulum (ER) and the Golgi complex, with a distinctive membrane protein composition; involved in ER-to-Golgi and Golgi-to-ER transport.",
+  "namespace": "cellular_component",
+  "label": "endoplasmic reticulum-Golgi intermediate compartment"
+}

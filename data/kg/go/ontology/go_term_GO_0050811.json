@@ -1,0 +1,29 @@
+{
+  "id": "GO:0050811",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050811",
+  "relationships": {
+    "is_a": [
+      "GO:0005102"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-aminobutanoate receptor binding",
+      "4-aminobutyrate receptor binding",
+      "gamma-aminobutyric acid receptor binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "diazepam binding inhibitor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binding to a gamma-aminobutyric acid (GABA, 4-aminobutyrate) receptor.",
+  "namespace": "molecular_function",
+  "label": "GABA receptor binding"
+}

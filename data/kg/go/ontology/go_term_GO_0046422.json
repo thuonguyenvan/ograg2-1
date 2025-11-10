@@ -1,0 +1,38 @@
+{
+  "id": "GO:0046422",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046422",
+  "relationships": {
+    "is_a": [
+      "GO:0120546"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "VDE",
+      "violaxanthin:ascorbate oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.23.5.1",
+      "1.23.5.1",
+      "1.23.5.1",
+      "1.23.5.1"
+    ],
+    "RHEA": [
+      "32371"
+    ],
+    "GOC": [
+      "ai"
+    ],
+    "ISBN": [
+      "0471331309"
+    ]
+  },
+  "definition": "Catalysis of the reaction: violaxanthin + 2 ascorbate = zeaxanthin + 2 dehydroascorbate + 2 H2O; and antheraxanthin + ascorbate = zeaxanthin + dehydroascorbate + H2O.",
+  "namespace": "molecular_function",
+  "label": "violaxanthin de-epoxidase activity"
+}

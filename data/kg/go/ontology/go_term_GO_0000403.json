@@ -1,0 +1,30 @@
+{
+  "id": "GO:0000403",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000403",
+  "relationships": {
+    "is_a": [
+      "GO:0000217"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "splayed Y-form DNA binding"
+    ],
+    "broad": [
+      "forked DNA binding"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "elh"
+    ],
+    "PMID": [
+      "16781730"
+    ]
+  },
+  "definition": "Binding to a DNA segment shaped like a Y. This shape occurs when DNA contains a region of paired double-stranded DNA on one end and a region of unpaired DNA strands on the opposite end.",
+  "namespace": "molecular_function",
+  "label": "Y-form DNA binding"
+}

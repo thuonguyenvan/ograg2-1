@@ -1,0 +1,31 @@
+{
+  "id": "GO:0034759",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034759",
+  "relationships": {
+    "is_a": [
+      "GO:0034756",
+      "GO:1904062"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of iron ion membrane transport",
+      "regulation of transmembrane Fe transport",
+      "regulation of transmembrane iron ion transport",
+      "regulation of transmembrane iron transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of the directed movement of iron ions (Fe) from one side of a membrane to the other by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "regulation of iron ion transmembrane transport"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "GO:0008556",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008556",
+  "relationships": {
+    "is_a": [
+      "GO:0015079",
+      "GO:0015662",
+      "GO:0019829"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent potassium transmembrane transporter activity",
+      "K+-transporting ATPase activity",
+      "potassium transmembrane transporter activity, phosphorylative mechanism",
+      "potassium transporting ATPase activity",
+      "potassium-transporting ATPase activity",
+      "potassium-uptake-ATPase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "K(+)-importing ATPase activity",
+      "potassium ABC transporter",
+      "potassium-importing ATPase activity"
+    ],
+    "related": [
+      "ATP phosphohydrolase (K+-importing)",
+      "ATPase-coupled potassium transmembrane transporter activity",
+      "K(+)-transporting ATPase activity",
+      "K+-importing ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.2.2.6",
+      "7.2.2.6",
+      "7.2.2.6",
+      "7.2.2.6",
+      "7.2.2.6",
+      "7.2.2.6"
+    ],
+    "MetaCyc": [
+      "TRANS-RXN-2"
+    ],
+    "RHEA": [
+      "16777",
+      "16777"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + K+(out) = ADP + phosphate + K+(in).",
+  "namespace": "molecular_function",
+  "label": "P-type potassium transmembrane transporter activity"
+}

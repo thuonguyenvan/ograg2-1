@@ -1,0 +1,33 @@
+{
+  "id": "GO:0005356",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005356",
+  "relationships": {
+    "is_a": [
+      "GO:0009679",
+      "GO:0055056"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucose:proton symporter activity",
+      "hydrogen:glucose symporter activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "transepithelial hydrogen:glucose symporter activity"
+    ],
+    "related": [
+      "hydrogen:glucose transporter activity",
+      "transepithelial hydrogen/glucose transporter activity",
+      "transepithelial hydrogen:glucose transporter activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: D-glucose + H+ = D-glucose + H+. Symporter activity enables the active transport of a solute across a membrane by a mechanism whereby two or more species are transported together in the same direction in a tightly coupled process not directly linked to a form of energy other than chemiosmotic energy.",
+  "namespace": "molecular_function",
+  "label": "D-glucose:proton symporter activity"
+}

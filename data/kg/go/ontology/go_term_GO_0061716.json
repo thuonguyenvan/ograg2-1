@@ -1,0 +1,30 @@
+{
+  "id": "GO:0061716",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061716",
+  "relationships": {
+    "is_a": [
+      "GO:0006405",
+      "GO:1990428"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "rph"
+    ],
+    "PMID": [
+      "15738428",
+      "21554756"
+    ]
+  },
+  "definition": "The directed movement of a processed miRNA from the nucleus to the cytoplasm.",
+  "namespace": "biological_process",
+  "label": "miRNA export from nucleus"
+}

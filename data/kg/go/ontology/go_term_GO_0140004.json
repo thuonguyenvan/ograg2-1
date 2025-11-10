@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140004",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140004",
+  "relationships": {
+    "is_a": [
+      "GO:0140006"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "H3Q5-serotonin histone reader activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "H3Q5-serotonin modified histone binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "34144982"
+    ]
+  },
+  "definition": "A histone reader that recognizes a histone H3 serotonylated at glutamine 5.",
+  "namespace": "molecular_function",
+  "label": "histone H3Q5ser reader activity"
+}

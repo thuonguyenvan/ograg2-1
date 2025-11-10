@@ -1,0 +1,31 @@
+{
+  "id": "GO:0019528",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019528",
+  "relationships": {
+    "is_a": [
+      "GO:0051159",
+      "GO:0051167"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-arabitol breakdown to xylulose 5-phosphate",
+      "D-arabitol degradation to xylulose 5-phosphate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-arabitol degradation",
+      "D-arabitol utilization"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "DARABITOLUTIL-PWY",
+      "DARABITOLUTIL-PWY"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of D-arabitol to form D-xylulose 5-phosphate. D-arabitol is converted into D-xylulose, which is then phosphorylated to form D-xylulose-5-phosphate.",
+  "namespace": "biological_process",
+  "label": "D-arabitol catabolic process to D-xylulose 5-phosphate"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0071141",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071141",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SMAD complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "9670020"
+    ]
+  },
+  "definition": "A protein complex that consists of only SMAD proteins; may be homomeric or heteromeric. Heteromeric complexes act as transcription factors while homomeric complexes exist but are transcriptionally inactive. Hetero- versus homotrimerization is largely enthalpy driven.",
+  "namespace": "cellular_component",
+  "label": "SMAD protein complex"
+}

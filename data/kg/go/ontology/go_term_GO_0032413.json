@@ -1,0 +1,34 @@
+{
+  "id": "GO:0032413",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032413",
+  "relationships": {
+    "is_a": [
+      "GO:0022898",
+      "GO:0032410",
+      "GO:0034766"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of ion transporter activity",
+      "down-regulation of ion transporter activity",
+      "downregulation of ion transporter activity",
+      "negative regulation of ion transporter activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of ion transporter activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "tb",
+      "tb"
+    ]
+  },
+  "definition": "Any process that stops or reduces the activity of an ion transporter.",
+  "namespace": "biological_process",
+  "label": "negative regulation of ion transmembrane transporter activity"
+}

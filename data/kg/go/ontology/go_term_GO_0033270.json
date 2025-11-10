@@ -1,0 +1,31 @@
+{
+  "id": "GO:0033270",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033270",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "paranode"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao234066064",
+      "sao936144858",
+      "sao936144858"
+    ],
+    "GOC": [
+      "mah",
+      "mh"
+    ]
+  },
+  "definition": "An axon part that is located adjacent to the nodes of Ranvier and surrounded by lateral loop portions of myelin sheath.",
+  "namespace": "cellular_component",
+  "label": "paranode region of axon"
+}

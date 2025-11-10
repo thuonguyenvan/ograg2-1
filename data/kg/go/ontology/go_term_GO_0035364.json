@@ -1,0 +1,29 @@
+{
+  "id": "GO:0035364",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035364",
+  "relationships": {
+    "is_a": [
+      "GO:0015855"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5-methyluracil transport",
+      "thymine transmembrane transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GO": [
+      "sl"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The directed movement of thymine, 5-methyluracil, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "thymine transport"
+}

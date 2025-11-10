@@ -1,0 +1,47 @@
+{
+  "id": "GO:0050590",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050590",
+  "relationships": {
+    "is_a": [
+      "GO:0016706"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D17H activity",
+      "deacetoxyvindoline,2-oxoglutarate:oxygen oxidoreductase (4beta-hydroxylating)",
+      "desacetoxyvindoline,2-oxoglutarate:oxygen oxidoreductase (4-beta-hydroxylating) activity",
+      "desacetoxyvindoline,2-oxoglutarate:oxygen oxidoreductase (4beta-hydroxylating)",
+      "desacetoxyvindoline-4-hydroxylase activity",
+      "desacetyoxyvindoline-17-hydroxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.11.20",
+      "1.14.11.20",
+      "1.14.11.20",
+      "1.14.11.20",
+      "1.14.11.20",
+      "1.14.11.20",
+      "1.14.11.20",
+      "1.14.11.20"
+    ],
+    "KEGG_REACTION": [
+      "R05857"
+    ],
+    "MetaCyc": [
+      "1.14.11.20-RXN",
+      "1.14.11.20-RXN"
+    ],
+    "RHEA": [
+      "18973"
+    ]
+  },
+  "definition": "Catalysis of the reaction: desacetoxyvindoline + 2-oxoglutarate + O2 = desacetylvindoline + succinate + CO2.",
+  "namespace": "molecular_function",
+  "label": "desacetoxyvindoline 4-hydroxylase activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0002052",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002052",
+  "relationships": {
+    "is_a": [
+      "GO:0050769",
+      "GO:1902692",
+      "GO:2000179"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of neuroblast proliferation",
+      "up-regulation of neuroblast proliferation",
+      "upregulation of neuroblast proliferation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of neuroblast proliferation",
+      "stimulation of neuroblast proliferation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph"
+    ]
+  },
+  "definition": "Any process that activates or increases the rate of neuroblast proliferation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of neuroblast proliferation"
+}

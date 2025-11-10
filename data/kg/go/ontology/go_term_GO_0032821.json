@@ -1,0 +1,35 @@
+{
+  "id": "GO:0032821",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032821",
+  "relationships": {
+    "is_a": [
+      "GO:0002698",
+      "GO:0032818",
+      "GO:0032820",
+      "GO:0050777"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "inhibition of natural killer cell proliferation during immune response"
+    ],
+    "related": [
+      "down regulation of natural killer cell proliferation during immune response",
+      "down-regulation of natural killer cell proliferation during immune response",
+      "downregulation of natural killer cell proliferation during immune response",
+      "negative regulation of NK cell proliferation during immune response",
+      "negative regulation of natural killer cell proliferation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "tb"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of natural killer cell proliferation as part of an immune response.",
+  "namespace": "biological_process",
+  "label": "negative regulation of natural killer cell proliferation involved in immune response"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0034006",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034006",
+  "relationships": {
+    "is_a": [
+      "GO:0010334"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-trans,6-trans-farnesyl-diphosphate diphosphate-lyase (amorpha-4,11-diene-forming) activity",
+      "amorphadiene synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.24",
+      "4.2.3.24",
+      "4.2.3.24",
+      "4.2.3.24"
+    ],
+    "KEGG_REACTION": [
+      "R07630"
+    ],
+    "MetaCyc": [
+      "RXN-8046"
+    ],
+    "RHEA": [
+      "18325",
+      "18325"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-trans,6-trans-farnesyl diphosphate = amorpha-4,11-diene + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "amorpha-4,11-diene synthase activity"
+}

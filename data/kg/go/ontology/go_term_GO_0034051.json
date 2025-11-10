@@ -1,0 +1,41 @@
+{
+  "id": "GO:0034051",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034051",
+  "relationships": {
+    "is_a": [
+      "GO:0010363",
+      "GO:0043069",
+      "GO:0045824"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of plant-type hypersensitive response",
+      "down-regulation of plant-type hypersensitive response",
+      "downregulation of plant-type hypersensitive response",
+      "negative regulation of HR",
+      "negative regulation of HR-PCD",
+      "negative regulation of plant hypersensitive response"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of plant-type hypersensitive response"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pamgo_curators",
+      "pamgo_curators",
+      "pamgo_curators",
+      "pamgo_curators",
+      "pamgo_curators",
+      "pamgo_curators",
+      "pamgo_curators",
+      "pamgo_curators"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the hypersensitive response in a plant.",
+  "namespace": "biological_process",
+  "label": "negative regulation of plant-type hypersensitive response"
+}

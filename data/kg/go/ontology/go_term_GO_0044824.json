@@ -1,0 +1,27 @@
+{
+  "id": "GO:0044824",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044824",
+  "relationships": {
+    "is_a": [
+      "GO:0004520",
+      "GO:0016788"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3&apos; processing reaction",
+      "3&apos;-processing activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "22580823"
+    ]
+  },
+  "definition": "The catalysis of the removal of two di- or tri-nucleotides from each 3&apos; end of double-stranded viral DNA, exposing recessed 3&apos; hydroxyls.",
+  "namespace": "molecular_function",
+  "label": "retroviral 3&apos; processing activity"
+}

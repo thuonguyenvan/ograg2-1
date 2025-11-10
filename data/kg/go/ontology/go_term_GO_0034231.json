@@ -1,0 +1,35 @@
+{
+  "id": "GO:0034231",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034231",
+  "relationships": {
+    "is_a": [
+      "GO:0016486"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IAPP formation",
+      "IAPP processing",
+      "islet amyloid peptide formation",
+      "islet amyloid peptide processing"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "islet amyloid polypeptide formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "rl"
+    ],
+    "PMID": [
+      "15983213",
+      "8262946"
+    ]
+  },
+  "definition": "The formation of mature islet amyloid polypeptide (IAPP) by posttranslational processing of pro-islet amyloid polypeptide (pro-IAPP).",
+  "namespace": "biological_process",
+  "label": "islet amyloid polypeptide processing"
+}

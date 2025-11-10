@@ -1,0 +1,43 @@
+{
+  "id": "GO:0070473",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070473",
+  "relationships": {
+    "is_a": [
+      "GO:0045986",
+      "GO:0070472"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of uterine smooth muscle contraction",
+      "down-regulation of uterine smooth muscle contraction",
+      "downregulation of uterine smooth muscle contraction",
+      "negative regulation of myometrial contraction",
+      "negative regulation of myometrial smooth muscle contraction",
+      "negative regulation of myometrium contraction"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of uterine smooth muscle contraction"
+    ],
+    "related": [
+      "uterine smooth muscle relaxation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mah",
+      "mah",
+      "mah",
+      "sl",
+      "sl",
+      "sl",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that decreases the frequency, rate or extent of uterine smooth muscle contraction.",
+  "namespace": "biological_process",
+  "label": "negative regulation of uterine smooth muscle contraction"
+}

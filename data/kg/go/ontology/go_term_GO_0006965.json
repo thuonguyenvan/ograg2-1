@@ -1,0 +1,36 @@
+{
+  "id": "GO:0006965",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006965",
+  "relationships": {
+    "is_a": [
+      "GO:0002816",
+      "GO:0006963"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "anti-Gram-positive bacterial peptide induction",
+      "anti-Gram-positive bacterial polypeptide induction",
+      "up regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria",
+      "up-regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria",
+      "upregulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria",
+      "stimulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "10973475"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of biosynthesis of antibacterial peptides active against Gram-positive bacteria.",
+  "namespace": "biological_process",
+  "label": "positive regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria"
+}

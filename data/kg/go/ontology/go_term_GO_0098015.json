@@ -1,0 +1,33 @@
+{
+  "id": "GO:0098015",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098015",
+  "relationships": {
+    "is_a": [
+      "GO:0044423"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "bacteriophage tail"
+    ],
+    "related": [
+      "viral tail"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "3958",
+      "3958"
+    ],
+    "GOC": [
+      "bm",
+      "bm",
+      "bf"
+    ]
+  },
+  "definition": "Part of the virion that may be used to recognize, attach and inject the viral genome and accessory proteins into the host cell.",
+  "namespace": "cellular_component",
+  "label": "Viral tail protein"
+}

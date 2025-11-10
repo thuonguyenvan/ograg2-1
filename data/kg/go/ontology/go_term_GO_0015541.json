@@ -1,0 +1,26 @@
+{
+  "id": "GO:0015541",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015541",
+  "relationships": {
+    "is_a": [
+      "GO:0015110",
+      "GO:0015291"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cyanate porter activity"
+    ]
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.1.17.1"
+    ]
+  },
+  "definition": "Enables the transfer of cyanate from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "secondary active cyanate transmembrane transporter activity"
+}

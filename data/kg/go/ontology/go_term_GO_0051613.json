@@ -1,0 +1,37 @@
+{
+  "id": "GO:0051613",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051613",
+  "relationships": {
+    "is_a": [
+      "GO:0051582",
+      "GO:0051611"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of 5-HT uptake",
+      "positive regulation of 5-hydroxytryptamine uptake",
+      "positive regulation of 5HT uptake",
+      "positive regulation of serotonin import",
+      "up regulation of serotonin uptake",
+      "up-regulation of serotonin uptake",
+      "upregulation of serotonin uptake"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of serotonin uptake",
+      "stimulation of serotonin uptake"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the directed movement of serotonin into a cell.",
+  "namespace": "biological_process",
+  "label": "positive regulation of serotonin uptake"
+}

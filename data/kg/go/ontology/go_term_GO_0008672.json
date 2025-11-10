@@ -1,0 +1,39 @@
+{
+  "id": "GO:0008672",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008672",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-dehydro-3-deoxy-D-glucarate tartronate-semialdehyde-lyase (pyruvate-forming)",
+      "2-dehydro-3-deoxy-D-glucarate tartronate-semialdehyde-lyase activity",
+      "2-keto-3-deoxyglucarate aldolase activity",
+      "alpha-keto-beta-deoxy-D-glucarate aldolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.20",
+      "4.1.2.20",
+      "4.1.2.20",
+      "4.1.2.20",
+      "4.1.2.20",
+      "4.1.2.20"
+    ],
+    "MetaCyc": [
+      "4.1.2.20-RXN"
+    ],
+    "RHEA": [
+      "10268"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-dehydro-3-deoxy-D-glucarate = pyruvate + tartronate semialdehyde.",
+  "namespace": "molecular_function",
+  "label": "2-dehydro-3-deoxyglucarate aldolase activity"
+}

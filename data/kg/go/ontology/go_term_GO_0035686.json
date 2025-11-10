@@ -1,0 +1,33 @@
+{
+  "id": "GO:0035686",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035686",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "flagellar fibrous sheath",
+      "flagellum fibrous sheath"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "cilia",
+      "krc",
+      "bf"
+    ],
+    "PMID": [
+      "20731842",
+      "3282552"
+    ]
+  },
+  "definition": "A cytoskeletal structure surrounding the axoneme and outer dense fibers of the sperm flagellum. Consists of two longitudinal columns connected by closely arrayed semicircular ribs that assemble from distal to proximal throughout spermiogenesis. The fibrous sheath probably influences the degree of flexibility, plane of flagellar motion, and the shape of the flagellar beat.",
+  "namespace": "cellular_component",
+  "label": "sperm fibrous sheath"
+}

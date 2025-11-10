@@ -1,0 +1,34 @@
+{
+  "id": "GO:0002935",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002935",
+  "relationships": {
+    "is_a": [
+      "GO:0008169",
+      "GO:0016426"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA (adenine(37)-C(2))-methyltransferase activity",
+      "tRNA (adenosine(37)-C2-)-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN0-7007"
+    ],
+    "RHEA": [
+      "43332",
+      "43332"
+    ],
+    "PMID": [
+      "22891362"
+    ]
+  },
+  "definition": "Catalysis of the reaction: adenosine37 in tRNA + 2 reduced [2Fe-2S]-[ferredoxin] + 2 S-adenosyl-L-methionine = 2-methyladenosine37 in tRNA + 5&apos;-deoxyadenosine + L-methionine + 2 oxidized [2Fe-2S]-[ferredoxin] + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "tRNA (adenine(37)-C2)-methyltransferase activity"
+}

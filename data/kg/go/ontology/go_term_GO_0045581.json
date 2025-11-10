@@ -1,0 +1,37 @@
+{
+  "id": "GO:0045581",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045581",
+  "relationships": {
+    "is_a": [
+      "GO:0045580",
+      "GO:0045620",
+      "GO:0050868"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of T cell differentiation",
+      "down-regulation of T cell differentiation",
+      "downregulation of T cell differentiation",
+      "negative regulation of T lymphocyte differentiation",
+      "negative regulation of T-cell differentiation",
+      "negative regulation of T-lymphocyte differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of T cell differentiation"
+    ],
+    "related": [
+      "negative regulation of T cell development"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "add"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of T cell differentiation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of T cell differentiation"
+}

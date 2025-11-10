@@ -1,0 +1,33 @@
+{
+  "id": "GO:0071519",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071519",
+  "relationships": {
+    "is_a": [
+      "GO:0051017",
+      "GO:2000689"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "actin filament bundle assembly involved in cytokinetic actomyosin contractile ring assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "actin filament bundle assembly involved in actomyosin contractile ring formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "19713940"
+    ]
+  },
+  "definition": "A process of actin filament bundle formation that occurs in the context of assembling an actomyosin contractile ring during cytokinesis.",
+  "namespace": "biological_process",
+  "label": "actomyosin contractile ring actin filament bundle assembly"
+}

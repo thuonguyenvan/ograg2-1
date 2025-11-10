@@ -1,0 +1,33 @@
+{
+  "id": "GO:0016756",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016756",
+  "relationships": {
+    "is_a": [
+      "GO:0016755"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "phytochelatin synthase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.2.15",
+      "2.3.2.15",
+      "2.3.2.15"
+    ],
+    "MetaCyc": [
+      "2.3.2.15-RXN"
+    ],
+    "RHEA": [
+      "17917"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glutathione + Glu(-Cys)(n)-Gly = Gly + Glu(-Cys)(n+1)-Gly.",
+  "namespace": "molecular_function",
+  "label": "glutathione gamma-glutamylcysteinyltransferase activity"
+}

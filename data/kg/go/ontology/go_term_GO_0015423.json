@@ -1,0 +1,41 @@
+{
+  "id": "GO:0015423",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015423",
+  "relationships": {
+    "is_a": [
+      "GO:0005363",
+      "GO:0015422"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ABC-type maltose transporter",
+      "maltose ABC transporter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP-dependent maltose transmembrane transporter activity",
+      "ATPase-coupled maltose transmembrane transporter activity",
+      "maltooligosaccharide-importing ATPase activity",
+      "maltose-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.5.2.1",
+      "7.5.2.1",
+      "7.5.2.1"
+    ],
+    "MetaCyc": [
+      "ABC-16-RXN"
+    ],
+    "RHEA": [
+      "22132",
+      "22132"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + maltose(out) = ADP + phosphate + maltose(in).",
+  "namespace": "molecular_function",
+  "label": "ABC-type maltose transporter activity"
+}

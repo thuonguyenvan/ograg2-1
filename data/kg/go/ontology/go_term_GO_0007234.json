@@ -1,0 +1,33 @@
+{
+  "id": "GO:0007234",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007234",
+  "relationships": {
+    "is_a": [
+      "GO:0000160",
+      "GO:0007231"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "osmolarity sensing via two-component system",
+      "osmolarity signaling pathway via two-component system",
+      "osmolarity signalling pathway via two-component system",
+      "osmosensory signalling pathway via two-component system",
+      "signal transduction during osmotic stress via two-component system"
+    ],
+    "broad": [],
+    "narrow": [
+      "osmosensory signaling pathway via two-component system"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "26787842",
+      "9843501"
+    ]
+  },
+  "definition": "The series of molecular signals generated in response to osmotic change, as mediated through a phosphorelay system. In S.cerevisiae, the osmosensor is the histidine kinase Sln1.",
+  "namespace": "biological_process",
+  "label": "osmosensory signaling via phosphorelay pathway"
+}

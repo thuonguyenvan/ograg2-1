@@ -1,0 +1,36 @@
+{
+  "id": "GO:0007597",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007597",
+  "relationships": {
+    "is_a": [
+      "GO:0072376"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "initiation of blood coagulation cascade, contact activation system",
+      "initiation of blood coagulation cascade, contact pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-140837"
+    ],
+    "GOC": [
+      "add",
+      "mah",
+      "pde"
+    ],
+    "PMID": [
+      "26018600",
+      "18695377",
+      "26018600"
+    ]
+  },
+  "definition": "A protein activation cascade that initiates blood coagulation, triggered when Factor XII, prekallikrein (PK) and high-molecular-weight kininogen  (HK) assemble on a suitable surface or polymer. This results in the reciprocal activation of factor XII to Factor XIIa by kallikrein, and PK to kallikrein by Factor XIIa. The resulting generation of Factor XIIa activates Factor XI to Factor XIa, which then converts Factor IX to Factor IXa. Factor IXa converts Factor X to Xa. Factor Xa then initiates the common pathway.",
+  "namespace": "biological_process",
+  "label": "Intrinsic Pathway of Fibrin Clot Formation"
+}

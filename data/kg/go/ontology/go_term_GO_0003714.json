@@ -1,0 +1,35 @@
+{
+  "id": "GO:0003714",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003714",
+  "relationships": {
+    "is_a": [
+      "GO:0003712"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transcription co-repressor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RNA polymerase II transcription co-repressor activity",
+      "RNA polymerase II transcription corepressor activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-400183"
+    ],
+    "GOC": [
+      "txnOH-2018"
+    ],
+    "PMID": [
+      "10213677",
+      "16858867"
+    ]
+  },
+  "definition": "A transcription coregulator activity that represses or decreases the transcription of specific gene sets via binding to a DNA-binding transcription factor at a specific genomic locus, either on its own or as part of a complex. Corepressors often act by altering chromatin structure and modifications. For example, one class of transcription corepressors modifies chromatin structure through covalent modification of histones. A second class remodels the conformation of chromatin in an ATP-dependent fashion. A third class modulates interactions of DNA-bound DNA-binding transcription factors with other transcription coregulators.",
+  "namespace": "molecular_function",
+  "label": "PPARA:RXRA binds Corepressors of PPARA"
+}

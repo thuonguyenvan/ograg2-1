@@ -1,0 +1,31 @@
+{
+  "id": "GO:0034229",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034229",
+  "relationships": {
+    "is_a": [
+      "GO:0015695",
+      "GO:0015837",
+      "GO:0015850"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-aminoethanol transport",
+      "monoethanolamine transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rn"
+    ],
+    "PMID": [
+      "3514579"
+    ]
+  },
+  "definition": "The directed movement of ethanolamine into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore. Ethanolamine (2-aminoethanol, monoethanolamine) is an amino alcohol that occurs widely in living organisms as a constituent of certain types of phospholipids, such as phosphatidylethanolamine.",
+  "namespace": "biological_process",
+  "label": "ethanolamine transport"
+}

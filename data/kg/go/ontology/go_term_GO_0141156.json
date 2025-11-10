@@ -1,0 +1,29 @@
+{
+  "id": "GO:0141156",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141156",
+  "relationships": {
+    "is_a": [
+      "GO:0141124"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cAMP/PKA signaling cassette"
+    ],
+    "broad": [
+      "PKA signaling",
+      "cAMP signaling",
+      "protein kinase A signaling"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "23209152"
+    ]
+  },
+  "definition": "An intracellular signaling cassette that starts with production of cyclic AMP (cAMP) by adenylate cyclase (either transmembrane or soluble), which activates protein kinase A, and ends with activation of downstream effectors such as the transcription factor CREB that further transmit the signal within the cell.",
+  "namespace": "biological_process",
+  "label": "cAMP/PKA signal transduction"
+}

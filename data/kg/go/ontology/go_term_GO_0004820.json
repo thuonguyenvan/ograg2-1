@@ -1,0 +1,47 @@
+{
+  "id": "GO:0004820",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004820",
+  "relationships": {
+    "is_a": [
+      "GO:0004812"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycyl-tRNA synthetase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glycine:tRNAGly ligase (AMP-forming) activity",
+      "glycyl translase activity",
+      "glycyl-transfer RNA synthetase activity",
+      "glycyl-transfer ribonucleate synthetase activity",
+      "glycyl-transfer ribonucleic acid synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.1.1.14",
+      "6.1.1.14",
+      "6.1.1.14",
+      "6.1.1.14",
+      "6.1.1.14",
+      "6.1.1.14",
+      "6.1.1.14"
+    ],
+    "MetaCyc": [
+      "GLYCINE--TRNA-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "16013"
+    ],
+    "Reactome": [
+      "R-HSA-380048",
+      "R-HSA-380240"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + glycine + tRNA(Gly) = AMP + diphosphate + glycyl-tRNA(Gly).",
+  "namespace": "molecular_function",
+  "label": "glycine + tRNA(Gly) + ATP =&gt; Gly-tRNA(Gly) + AMP + pyrophosphate"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:0038096",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038096",
+  "relationships": {
+    "is_a": [
+      "GO:0002431",
+      "GO:0002433",
+      "GO:0038094"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Fc gamma receptor-dependent phagocytosis",
+      "Fc-gamma receptor signalling pathway involved in phagocytosis",
+      "Fcgamma receptor-mediated phagocytosis",
+      "IgG-mediated phagocytosis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2029480",
+      "R-HSA-9664422"
+    ],
+    "GOC": [
+      "phg",
+      "bf"
+    ],
+    "PMID": [
+      "12488490",
+      "15466916",
+      "18832707",
+      "15466916",
+      "1248849"
+    ]
+  },
+  "definition": "An Fc-gamma receptor signaling pathway that contributes to the endocytic engulfment of external particulate material by phagocytes.",
+  "namespace": "biological_process",
+  "label": "FCGR3A-mediated phagocytosis"
+}

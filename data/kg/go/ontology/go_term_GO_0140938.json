@@ -1,0 +1,57 @@
+{
+  "id": "GO:0140938",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140938",
+  "relationships": {
+    "is_a": [
+      "GO:0042054"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H3 methylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "histone H3 methylation"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-3788745",
+      "R-HSA-3788748",
+      "R-HSA-4827382",
+      "R-HSA-4827383",
+      "R-HSA-5159245",
+      "R-HSA-5205799",
+      "R-HSA-5244692",
+      "R-HSA-5634729",
+      "R-HSA-5634750",
+      "R-HSA-5634802",
+      "R-HSA-5637686",
+      "R-HSA-5638141",
+      "R-HSA-5638157",
+      "R-HSA-5638332",
+      "R-HSA-5638333",
+      "R-HSA-5649764",
+      "R-HSA-5649799",
+      "R-HSA-5649800",
+      "R-HSA-5649801",
+      "R-HSA-5649802",
+      "R-HSA-5661117",
+      "R-HSA-8936584",
+      "R-HSA-8936608",
+      "R-HSA-8937022",
+      "R-HSA-8937113",
+      "R-HSA-9842833",
+      "R-HSA-9844006",
+      "R-HSA-9844057"
+    ],
+    "PMID": [
+      "28450737"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + a histone H3 = S-adenosyl-L-homocysteine + a methylated histone H3. Histone methylation generally occurs on either an arginine or a lysine residue.",
+  "namespace": "molecular_function",
+  "label": "SETDB1 in me3-K16-ATF7IP:SETDB1:MORC2:HUSH complex:L1HS,L1PA2,3 heterochromatin trimethylates lysine-9 of histone H3 in adjacent nucleosome"
+}

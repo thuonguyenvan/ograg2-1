@@ -1,0 +1,30 @@
+{
+  "id": "GO:0106343",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106343",
+  "relationships": {
+    "is_a": [
+      "GO:0016706"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.11.64"
+    ],
+    "RHEA": [
+      "13821",
+      "13821"
+    ],
+    "PMID": [
+      "30498244"
+    ]
+  },
+  "definition": "Catalysis of the reaction glutarate + 2-oxoglutarate + O2 = (S)-2-hydroxyglutarate + succinate + CO2.",
+  "namespace": "molecular_function",
+  "label": "glutarate dioxygenase activity"
+}

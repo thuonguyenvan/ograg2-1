@@ -1,0 +1,29 @@
+{
+  "id": "GO:0120097",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120097",
+  "relationships": {
+    "is_a": [
+      "GO:0031501",
+      "GO:0140534"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GPI-MT-I complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "17615295"
+    ]
+  },
+  "definition": "A protein complex that is involved in the transfer of the second mannose to the glycosylphosphatidylinositol (GPI) during GPI precursor assembly. In yeast S. cerevisiae this complex consists of GPI18p and PGA1p.",
+  "namespace": "cellular_component",
+  "label": "glycosylphosphatidylinositol-mannosyltransferase II complex"
+}

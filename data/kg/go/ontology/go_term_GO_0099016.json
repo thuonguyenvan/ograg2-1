@@ -1,0 +1,36 @@
+{
+  "id": "GO:0099016",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099016",
+  "relationships": {
+    "is_a": [
+      "GO:0141177"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA end degradation evasion by virus",
+      "evasion of DNA end degradation by host"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "evasion by virus of DNA end degradation"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "3963",
+      "3963"
+    ],
+    "GOC": [
+      "dos"
+    ],
+    "PMID": [
+      "11894948",
+      "16949369"
+    ]
+  },
+  "definition": "A process by which a symbiont evades and ends degradation of its DNA when free DNA ends are exposed. DNA ends are exposed during the life cycle of some viruses and these are targeted by host cells to destroy the virus. For example, some bacteriophages encode proteins that bind to free viral DNA ends, protecting them from degradation by host exonucleases.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated evasion of DNA end degradation by host"
+}

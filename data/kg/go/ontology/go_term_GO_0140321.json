@@ -1,0 +1,26 @@
+{
+  "id": "GO:0140321",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140321",
+  "relationships": {
+    "is_a": [
+      "GO:0075071"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation by symbiont of host autophagy",
+      "suppression of host autophagy"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pg"
+    ]
+  },
+  "definition": "A process in which a symbiont inhibits or disrupts the normal execution of autophagy in the host cell. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host autophagy"
+}

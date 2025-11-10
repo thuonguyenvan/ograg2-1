@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047613",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047613",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "CAD activity"
+    ],
+    "narrow": [],
+    "related": [
+      "cis-aconitate carboxy-lyase (itaconate-forming)",
+      "cis-aconitate carboxy-lyase activity",
+      "cis-aconitic decarboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.6",
+      "4.1.1.6",
+      "4.1.1.6",
+      "4.1.1.6",
+      "4.1.1.6",
+      "4.1.1.6"
+    ],
+    "KEGG_REACTION": [
+      "R02243"
+    ],
+    "MetaCyc": [
+      "ACONITATE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "15253",
+      "15253"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cis-aconitate + H+ = CO2 + itaconate.",
+  "namespace": "molecular_function",
+  "label": "aconitate decarboxylase activity"
+}

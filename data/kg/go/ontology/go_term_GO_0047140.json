@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047140",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047140",
+  "relationships": {
+    "is_a": [
+      "GO:0016671"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CoA:glutathione-disulfide oxidoreductase activity",
+      "coenzyme A:glutathione-disulfide oxidoreductase activity",
+      "coenzyme A:oxidized-glutathione oxidoreductase activity",
+      "glutathione coenzyme A-glutathione transhydrogenase activity",
+      "glutathione-coenzyme A glutathione disulfide transhydrogenase activity",
+      "glutathione:coenzyme A-glutathione transhydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.4.3",
+      "1.8.4.3",
+      "1.8.4.3",
+      "1.8.4.3",
+      "1.8.4.3",
+      "1.8.4.3",
+      "1.8.4.3",
+      "1.8.4.3"
+    ],
+    "MetaCyc": [
+      "1.8.4.3-RXN",
+      "1.8.4.3-RXN"
+    ],
+    "RHEA": [
+      "13125"
+    ]
+  },
+  "definition": "Catalysis of the reaction: oxidized glutathione + CoA = reduced glutathione + CoA-glutathione.",
+  "namespace": "molecular_function",
+  "label": "glutathione-CoA-glutathione transhydrogenase activity"
+}

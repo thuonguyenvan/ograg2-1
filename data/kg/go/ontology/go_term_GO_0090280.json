@@ -1,0 +1,27 @@
+{
+  "id": "GO:0090280",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090280",
+  "relationships": {
+    "is_a": [
+      "GO:0051928",
+      "GO:0090279"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of transmembrane calcium influx"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "tb"
+    ]
+  },
+  "definition": "Any process that increases the rate, frequency, or extent of the directed movement of calcium ions into a cell or organelle.",
+  "namespace": "biological_process",
+  "label": "positive regulation of calcium ion import"
+}

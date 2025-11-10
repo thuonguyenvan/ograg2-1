@@ -1,0 +1,33 @@
+{
+  "id": "GO:0000056",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000056",
+  "relationships": {
+    "is_a": [
+      "GO:0000054"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ribosomal small subunit export from cell nucleus",
+      "ribosomal small subunit export out of nucleus",
+      "ribosomal small subunit transport from nucleus to cytoplasm",
+      "ribosomal small subunit-nucleus export"
+    ],
+    "broad": [],
+    "narrow": [
+      "30S ribosomal subunit export from nucleus",
+      "40S ribosomal subunit export from nucleus"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "The directed movement of a ribosomal small subunit from the nucleus into the cytoplasm.",
+  "namespace": "biological_process",
+  "label": "ribosomal small subunit export from nucleus"
+}

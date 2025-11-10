@@ -1,0 +1,40 @@
+{
+  "id": "GO:0050037",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050037",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-xylose dehydrogenase activity",
+      "L-xylose:NADP+ 1-oxidoreductase activity",
+      "NADPH-xylose reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.113",
+      "1.1.1.113",
+      "1.1.1.113",
+      "1.1.1.113"
+    ],
+    "KEGG_REACTION": [
+      "R03586"
+    ],
+    "MetaCyc": [
+      "L-XYLOSE-1-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "15789",
+      "15789"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-xylose + NADP+ = H+ + L-xylono-1,4-lactone + NADPH.",
+  "namespace": "molecular_function",
+  "label": "L-xylose 1-dehydrogenase activity"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "GO:0004623",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004623",
+  "relationships": {
+    "is_a": [
+      "GO:0004620",
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "cytosolic phospholipase A2 activity",
+      "phospholipase A2 activity (consuming 1,2-dipalmitoylphosphatidylcholine)",
+      "phospholipase A2 activity consuming 1,2-dioleoylphosphatidylethanolamine)",
+      "secreted phospholipase A2 activity"
+    ],
+    "related": [
+      "lecithinase A activity",
+      "phosphatidase activity",
+      "phosphatidolipase activity",
+      "phosphatidylcholine 2-acylhydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.4",
+      "3.1.1.4",
+      "3.1.1.4",
+      "3.1.1.4",
+      "3.1.1.4"
+    ],
+    "MetaCyc": [
+      "PHOSPHOLIPASE-A2-RXN",
+      "RXN-15067"
+    ],
+    "RHEA": [
+      "15801",
+      "15801"
+    ],
+    "Reactome": [
+      "R-HSA-1482604",
+      "R-HSA-1482656",
+      "R-HSA-1482679",
+      "R-HSA-1482745",
+      "R-HSA-1482759",
+      "R-HSA-1482771",
+      "R-HSA-1482776",
+      "R-HSA-1482778",
+      "R-HSA-1482816",
+      "R-HSA-1482825",
+      "R-HSA-1482856",
+      "R-HSA-1482868",
+      "R-HSA-1482884",
+      "R-HSA-1482887",
+      "R-HSA-1482897",
+      "R-HSA-1482900",
+      "R-HSA-1482907",
+      "R-HSA-1602368",
+      "R-HSA-1602374",
+      "R-HSA-1602377",
+      "R-HSA-1602398",
+      "R-HSA-1602399",
+      "R-HSA-1602417",
+      "R-HSA-1602446",
+      "R-HSA-8848484"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1,2-diacyl-sn-glycero-3-phospholipid + H2O = 1-acyl-sn-glycero-3-phospholipid + a fatty acid. This reaction removes the fatty acid attached to the sn2-position. Substrates include phosphatidylcholine, phosphatidylethanolamine, choline plasmalogen and phosphatides.",
+  "namespace": "molecular_function",
+  "label": "PLA2s hydrolyze phospholipids at the Golgi membrane"
+}

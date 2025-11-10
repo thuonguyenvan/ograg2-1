@@ -1,0 +1,35 @@
+{
+  "id": "GO:0017108",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017108",
+  "relationships": {
+    "is_a": [
+      "GO:0016888",
+      "GO:0048256"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5&apos; flap endonuclease activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-110363",
+      "R-HSA-174441",
+      "R-HSA-174446",
+      "R-HSA-5651782",
+      "R-HSA-5687664",
+      "R-HSA-69152",
+      "R-HSA-9914870"
+    ],
+    "PMID": [
+      "9778254"
+    ]
+  },
+  "definition": "Catalysis of the cleavage of a 5&apos; flap structure in DNA, but not other DNA structures; processes the 5&apos; ends of Okazaki fragments in lagging strand DNA synthesis.",
+  "namespace": "molecular_function",
+  "label": "MGME1 cleaves 5&apos; DNA flap from nascent mitochondrial DNA"
+}

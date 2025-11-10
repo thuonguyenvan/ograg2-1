@@ -1,0 +1,29 @@
+{
+  "id": "GO:0141118",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141118",
+  "relationships": {
+    "is_a": [
+      "GO:0016675"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "78091"
+    ],
+    "Reactome": [
+      "R-HSA-5340226"
+    ],
+    "PMID": [
+      "20511233"
+    ]
+  },
+  "definition": "Catalysis of the reaction: Fe(II)-heme b-[protein] + nitric oxide + O2 = Fe(III)-heme b-[protein] + nitrate.",
+  "namespace": "molecular_function",
+  "label": "CYGB dioxygenates NO"
+}

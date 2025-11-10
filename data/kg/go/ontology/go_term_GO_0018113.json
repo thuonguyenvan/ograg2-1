@@ -1,0 +1,30 @@
+{
+  "id": "GO:0018113",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018113",
+  "relationships": {
+    "is_a": [
+      "GO:0047661"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.1.5",
+      "5.1.1.5"
+    ],
+    "MetaCyc": [
+      "LYSINE-RACEMASE-RXN"
+    ],
+    "RHEA": [
+      "22864"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-lysine = D-lysine.",
+  "namespace": "molecular_function",
+  "label": "lysine racemase activity"
+}

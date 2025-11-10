@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140769",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140769",
+  "relationships": {
+    "is_a": [
+      "GO:0018030"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "70611",
+      "70611"
+    ],
+    "PMID": [
+      "32461253"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-lysyl-[protein] + tetradecanoyl-[ACP] = H+ + holo-[ACP] + N(6)-tetradecanoyl-L-lysyl-[protein].",
+  "namespace": "molecular_function",
+  "label": "ACP-dependent peptidyl-lysine N6-myristoyltransferase activity"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:0070498",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070498",
+  "relationships": {
+    "is_a": [
+      "GO:0019221"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IL-1-mediated signaling pathway",
+      "interleukin-1-mediated signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "IL-1 alpha-mediated signaling pathway",
+      "IL-1 beta-mediated signaling pathway",
+      "interleukin-1 alpha-mediated signaling pathway",
+      "interleukin-1 beta-mediated signaling pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9020702"
+    ],
+    "GOC": [
+      "BHF",
+      "mah",
+      "signaling",
+      "mah",
+      "mah",
+      "add",
+      "add",
+      "add",
+      "add"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by interleukin-1 binding to its receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "Interleukin-1 signaling"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0071341",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071341",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mid1p medial cortical dot",
+      "midsome"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vw",
+      "vw",
+      "vw"
+    ],
+    "PMID": [
+      "19474789",
+      "19959363",
+      "19959363"
+    ]
+  },
+  "definition": "A component of the cell division site that contains the mid1, cdr2, wee1, klp8, and blt1 proteins, and is involved in contractile ring localization. Medial cortical node complexes appear as cortical dots in the middle of the cell during interphase, and function to recruit other ring components in early mitosis.",
+  "namespace": "cellular_component",
+  "label": "medial cortical node"
+}

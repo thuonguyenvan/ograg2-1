@@ -1,0 +1,42 @@
+{
+  "id": "GO:0050587",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050587",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "chloride:oxygen oxidoreductase activity",
+      "chlorite dismutase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.49",
+      "1.13.11.49",
+      "1.13.11.49",
+      "1.13.11.49"
+    ],
+    "KEGG_REACTION": [
+      "R05721"
+    ],
+    "MetaCyc": [
+      "1.13.11.49-RXN"
+    ],
+    "RHEA": [
+      "21404",
+      "21404"
+    ],
+    "UM-BBD_reactionID": [
+      "r0982"
+    ]
+  },
+  "definition": "Catalysis of the reaction: chloride + O2 = chlorite.",
+  "namespace": "molecular_function",
+  "label": "chlorite O2-lyase activity"
+}

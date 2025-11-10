@@ -1,0 +1,61 @@
+{
+  "id": "GO:0003825",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003825",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-glucose-glucose-phosphate glucosyltransferase activity",
+      "UDP-glucose:D-glucose-6-phosphate 1-alpha-D-glucosyltransferase activity",
+      "transglucosylase activity",
+      "trehalose 6-phosphate synthase activity",
+      "trehalose 6-phosphate synthetase activity",
+      "trehalose-phosphate synthase activity",
+      "trehalose-phosphate synthetase activity",
+      "trehalosephosphate-UDP glucosyl transferase activity",
+      "trehalosephosphate-UDP glucosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose-glucosephosphate glucosyltransferase activity",
+      "UDPglucose-glucose-phosphate glucosyltransferase activity",
+      "UDPglucose:D-glucose-6-phosphate 1-alpha-D-glucosyltransferase activity",
+      "alpha,alpha-trehalose phosphate synthase (UDP-forming)",
+      "phosphotrehalose-uridine diphosphate transglucosylase activity",
+      "trehalose phosphate synthase activity",
+      "trehalose phosphate synthetase activity",
+      "trehalose phosphate-uridine diphosphate glucosyltransferase activity",
+      "trehalose-P synthetase activity",
+      "uridine diphosphoglucose phosphate glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.15",
+      "2.4.1.15",
+      "2.4.1.15",
+      "2.4.1.15",
+      "2.4.1.15",
+      "2.4.1.15",
+      "2.4.1.15",
+      "2.4.1.15",
+      "2.4.1.15",
+      "2.4.1.15",
+      "2.4.1.15",
+      "2.4.1.15"
+    ],
+    "MetaCyc": [
+      "TREHALOSE6PSYN-RXN"
+    ],
+    "RHEA": [
+      "18889"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-glucose + D-glucose-6-phosphate = UDP + alpha,alpha-trehalose-6-phosphate.",
+  "namespace": "molecular_function",
+  "label": "alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity"
+}

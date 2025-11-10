@@ -1,0 +1,37 @@
+{
+  "id": "GO:0004741",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004741",
+  "relationships": {
+    "is_a": [
+      "GO:0004722"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "[pyruvate dehydrogenase (lipoamide)] phosphatase activity",
+      "[pyruvate dehydrogenase (lipoamide)] phosphatase, intrinsic catalyst activity",
+      "pyruvate dehydrogenase (lipoamide) phosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.3.43",
+      "3.1.3.43"
+    ],
+    "MetaCyc": [
+      "3.1.3.43-RXN"
+    ],
+    "RHEA": [
+      "12669"
+    ],
+    "Reactome": [
+      "R-HSA-204169"
+    ]
+  },
+  "definition": "Catalysis of the reaction: O-phospho-L-seryl-[pyruvate dehydrogenase E1 alpha subunit] + H2O = L-seryl-[pyruvate dehydrogenase E1 alpha subunit] + phosphate.",
+  "namespace": "molecular_function",
+  "label": "PDP1,2 dephosphorylate p-lipo-PDH"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0010884",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010884",
+  "relationships": {
+    "is_a": [
+      "GO:0010883",
+      "GO:0048522",
+      "GO:1905954"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "positive regulation of lipid sequestration"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that increases the rate, frequency or extent of lipid storage. Lipid storage is the accumulation and maintenance in cells or tissues of lipids, compounds soluble in organic solvents but insoluble or sparingly soluble in aqueous solvents. Lipid reserves can be accumulated during early developmental stages for mobilization and utilization at later stages of development.",
+  "namespace": "biological_process",
+  "label": "positive regulation of lipid storage"
+}

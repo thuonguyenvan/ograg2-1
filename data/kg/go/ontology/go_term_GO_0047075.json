@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047075",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047075",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,5-dihydroxypyridine oxygenase activity",
+      "2,5-dihydroxypyridine:oxygen 5,6-oxidoreductase activity",
+      "pyridine-2,5-diol dioxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.9",
+      "1.13.11.9",
+      "1.13.11.9",
+      "1.13.11.9",
+      "1.13.11.9"
+    ],
+    "MetaCyc": [
+      "1.13.11.9-RXN",
+      "1.13.11.9-RXN"
+    ],
+    "RHEA": [
+      "27522"
+    ],
+    "UM-BBD_reactionID": [
+      "r1443"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + O2 + 2,5-dihydroxypyridine = formate + maleamate.",
+  "namespace": "molecular_function",
+  "label": "2,5-dihydroxypyridine 5,6-dioxygenase activity"
+}

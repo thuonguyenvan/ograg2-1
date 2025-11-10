@@ -1,0 +1,43 @@
+{
+  "id": "GO:1904358",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904358",
+  "relationships": {
+    "is_a": [
+      "GO:0032206",
+      "GO:1904356"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of telomere maintenance via telomere lengthening",
+      "up-regulation of telomere maintenance via telomere lengthening",
+      "upregulation of telomere maintenance via telomere lengthening"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of telomere maintenance via telomere lengthening"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "TermGenie",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23959892"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of telomere maintenance via telomere lengthening.",
+  "namespace": "biological_process",
+  "label": "positive regulation of telomere maintenance via telomere lengthening"
+}

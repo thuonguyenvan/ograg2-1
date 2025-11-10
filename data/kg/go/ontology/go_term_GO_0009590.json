@@ -1,0 +1,28 @@
+{
+  "id": "GO:0009590",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009590",
+  "relationships": {
+    "is_a": [
+      "GO:0009581",
+      "GO:0009582",
+      "GO:0009629"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "perception of gravity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dos",
+      "hb"
+    ]
+  },
+  "definition": "The series of events in which a gravitational stimulus is received and converted into a molecular signal.",
+  "namespace": "biological_process",
+  "label": "detection of gravity"
+}

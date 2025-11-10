@@ -1,0 +1,33 @@
+{
+  "id": "GO:0002839",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002839",
+  "relationships": {
+    "is_a": [
+      "GO:0002836",
+      "GO:0002837",
+      "GO:0050778"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of immune response to tumour cell",
+      "up regulation of immune response to tumor cell",
+      "up-regulation of immune response to tumor cell",
+      "upregulation of immune response to tumor cell"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of immune response to tumor cell",
+      "stimulation of immune response to tumor cell"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of an immune response to tumor cell.",
+  "namespace": "biological_process",
+  "label": "positive regulation of immune response to tumor cell"
+}

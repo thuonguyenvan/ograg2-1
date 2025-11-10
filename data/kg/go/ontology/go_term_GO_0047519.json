@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047519",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047519",
+  "relationships": {
+    "is_a": [
+      "GO:0016901"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "quinate:quinone 3-oxidoreductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NAD(P)-independent quinate dehydrogenase activity",
+      "quinate:pyrroloquinoline-quinone 5-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.5.8",
+      "1.1.5.8",
+      "1.1.5.8",
+      "1.1.5.8"
+    ],
+    "KEGG_REACTION": [
+      "R01873"
+    ],
+    "MetaCyc": [
+      "1.1.99.25-RXN"
+    ],
+    "RHEA": [
+      "23672",
+      "23672"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (-)-quinate + pyrroloquinoline-quinone = (-)-3-dehydroquinate + pyrroloquinoline-quinol.",
+  "namespace": "molecular_function",
+  "label": "quinate dehydrogenase (quinone) activity"
+}

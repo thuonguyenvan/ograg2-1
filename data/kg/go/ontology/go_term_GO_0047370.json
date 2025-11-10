@@ -1,0 +1,35 @@
+{
+  "id": "GO:0047370",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047370",
+  "relationships": {
+    "is_a": [
+      "GO:0008410"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "citramalate coenzyme A-transferase activity",
+      "itaconate CoA-transferase activity",
+      "succinyl coenzyme A-citramalyl coenzyme A transferase activity",
+      "succinyl-CoA:citramalate CoA-transferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "2.8.3.7-RXN"
+    ],
+    "RHEA": [
+      "38287",
+      "38287"
+    ],
+    "PMID": [
+      "16547052"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-citramalate + succinyl-CoA = citramalyl-CoA + succinate.",
+  "namespace": "molecular_function",
+  "label": "succinate-citramalate CoA-transferase activity"
+}

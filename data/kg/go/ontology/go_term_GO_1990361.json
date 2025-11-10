@@ -1,0 +1,28 @@
+{
+  "id": "GO:1990361",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990361",
+  "relationships": {
+    "is_a": [
+      "GO:1902912"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PKM2 homotetramer"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "24606918"
+    ]
+  },
+  "definition": "A protein complex capable of pyruvate kinase activity. PKM2 only exists as homotetramer when bound to beta-d-fructofuranose 1,6-bisphosphate (CHEBI:28013).",
+  "namespace": "cellular_component",
+  "label": "PKM2 pyruvate kinase complex"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "GO:0050249",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050249",
+  "relationships": {
+    "is_a": [
+      "GO:0008146"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Renilla-luciferin sulphotransferase activity"
+    ],
+    "broad": [
+      "luciferin sulfotransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "3&apos;-phosphoadenylyl-sulfate:Renilla luciferin sulfotransferase activity",
+      "luciferin sulfokinase (3&apos;-phosphoadenylyl sulfate:luciferin sulfotransferase)",
+      "luciferin sulfokinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.10",
+      "2.8.2.10",
+      "2.8.2.10",
+      "2.8.2.10",
+      "2.8.2.10",
+      "2.8.2.10"
+    ],
+    "KEGG_REACTION": [
+      "R03138"
+    ],
+    "MetaCyc": [
+      "RENILLA-LUCIFERIN-SULFOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "20481",
+      "20481"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;-phospho-5&apos;-adenylyl sulfate + Renilla luciferin = adenosine 3&apos;,5&apos;-diphosphate + H+ + luciferyl sulfate.",
+  "namespace": "molecular_function",
+  "label": "Renilla-luciferin sulfotransferase activity"
+}

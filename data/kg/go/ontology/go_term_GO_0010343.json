@@ -1,0 +1,30 @@
+{
+  "id": "GO:0010343",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010343",
+  "relationships": {
+    "is_a": [
+      "GO:0097468"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "programmed cell death in response to singlet oxygen"
+    ],
+    "broad": [
+      "light-dependent programmed cell death"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_apoptosis"
+    ],
+    "PMID": [
+      "17075038"
+    ]
+  },
+  "definition": "Programmed cell death induced by singlet oxygen. Programmed cell death is the cell death resulting from activation of endogenous cellular processes.",
+  "namespace": "biological_process",
+  "label": "singlet oxygen-mediated programmed cell death"
+}

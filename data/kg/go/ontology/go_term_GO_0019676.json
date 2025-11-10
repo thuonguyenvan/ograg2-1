@@ -1,0 +1,28 @@
+{
+  "id": "GO:0019676",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019676",
+  "relationships": {
+    "is_a": [
+      "GO:0006536",
+      "GO:0006541",
+      "GO:0019740"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glutamate metabolic process via glutamine and ammonia",
+      "glutamate metabolism via glutamine and ammonia"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "AMMASSIM-PWY"
+    ]
+  },
+  "definition": "The pathway by which ammonia is processed and incorporated into a cell. In an energy-rich (glucose-containing), nitrogen-poor environment, glutamine synthetase and glutamate synthase form an ammonia assimilatory cycle, in which ammonia is incorporated into L-glutamate to form L-glutamine, which then combines with alpha-ketoglutarate to regenerate L-glutamate. This ATP-dependent cycle is essential for nitrogen-limited growth and for steady-state growth with some sources of nitrogen.",
+  "namespace": "biological_process",
+  "label": "ammonia assimilation cycle"
+}

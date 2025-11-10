@@ -1,0 +1,31 @@
+{
+  "id": "GO:0005846",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005846",
+  "relationships": {
+    "is_a": [
+      "GO:0034518"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nuclear CBC"
+    ],
+    "broad": [],
+    "narrow": [
+      "NCBP-NIP1 complex",
+      "mRNA cap binding complex",
+      "snRNA cap binding complex"
+    ],
+    "related": [
+      "CBC"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "16043498"
+    ]
+  },
+  "definition": "A conserved heterodimeric protein complex that binds to the 5&apos; terminal cap structure m7G(5&apos;)ppp(5&apos;)N of nascent eukaryotic RNA polymerase II transcripts such as pre-mRNA and U snRNA. The consists of proteins known as CBP20 and CBP80, binds to cap structures in the nucleus, and is involved in pre-mRNA splicing, 3&apos;-end formation, and RNA nuclear export.",
+  "namespace": "cellular_component",
+  "label": "nuclear cap binding complex"
+}

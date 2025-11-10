@@ -1,0 +1,36 @@
+{
+  "id": "GO:0002752",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002752",
+  "relationships": {
+    "is_a": [
+      "GO:0002220",
+      "GO:0002221"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell surface PAMP receptor signaling pathway",
+      "cell surface PRR signaling pathway",
+      "cell surface pathogen receptor signaling pathway",
+      "cell surface pattern recognition receptor signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "ar"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "15199967"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by a ligand binding to a cell surface pattern recognition receptor (PRR). PRRs bind pathogen-associated molecular pattern (PAMPs), structures conserved among microbial species.",
+  "namespace": "biological_process",
+  "label": "cell surface pattern recognition receptor signaling pathway"
+}

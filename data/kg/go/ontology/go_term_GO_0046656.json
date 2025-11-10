@@ -1,0 +1,41 @@
+{
+  "id": "GO:0046656",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046656",
+  "relationships": {
+    "is_a": [
+      "GO:0009396",
+      "GO:0042364",
+      "GO:0043604",
+      "GO:0043650",
+      "GO:0046655"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "folate biosynthesis",
+      "folate biosynthetic process",
+      "folic acid anabolism",
+      "folic acid biosynthesis",
+      "folic acid formation",
+      "folic acid synthesis",
+      "vitamin B9 biosynthesis",
+      "vitamin B9 biosynthetic process",
+      "vitamin M biosynthesis",
+      "vitamin M biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Folic_acid"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of folic acid, pteroylglutamic acid.",
+  "namespace": "biological_process",
+  "label": "folic acid biosynthetic process"
+}

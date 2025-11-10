@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047354",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047354",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sphingosine choline phosphotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CDP-choline-sphingosine cholinephosphotransferase activity",
+      "CDP-choline:sphingosine cholinephosphotransferase activity",
+      "cytidine diphosphocholine-sphingosine cholinephosphotransferase activity",
+      "phosphorylcholine-sphingosine transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.10",
+      "2.7.8.10",
+      "2.7.8.10",
+      "2.7.8.10",
+      "2.7.8.10",
+      "2.7.8.10"
+    ],
+    "KEGG_REACTION": [
+      "R01929"
+    ],
+    "MetaCyc": [
+      "2.7.8.10-RXN"
+    ],
+    "RHEA": [
+      "21224",
+      "21224"
+    ]
+  },
+  "definition": "Catalysis of the reaction: CDP-choline + sphingosine = CMP + H+ + sphingosyl-phosphocholine.",
+  "namespace": "molecular_function",
+  "label": "sphingosine cholinephosphotransferase activity"
+}

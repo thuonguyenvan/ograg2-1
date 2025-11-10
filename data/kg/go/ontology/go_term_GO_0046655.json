@@ -1,0 +1,36 @@
+{
+  "id": "GO:0046655",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046655",
+  "relationships": {
+    "is_a": [
+      "GO:0006760",
+      "GO:0043603",
+      "GO:0043648"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "folate metabolic process",
+      "folate metabolism",
+      "folic acid metabolism",
+      "vitamin B9 metabolic process",
+      "vitamin B9 metabolism",
+      "vitamin M metabolic process",
+      "vitamin M metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-196757"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving folic acid, pteroylglutamic acid. Folic acid is widely distributed as a member of the vitamin B complex and is essential for the synthesis of purine and pyrimidines.",
+  "namespace": "biological_process",
+  "label": "Metabolism of folate and pterines"
+}

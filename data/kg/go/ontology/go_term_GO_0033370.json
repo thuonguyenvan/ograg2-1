@@ -1,0 +1,31 @@
+{
+  "id": "GO:0033370",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033370",
+  "relationships": {
+    "is_a": [
+      "GO:0032507"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mast cell protein retention"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "maintenance of protein localization in mast cell secretory granule"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mah",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "A process in which a protein is maintained in a secretory granule in a mast cell and prevented from moving elsewhere.",
+  "namespace": "biological_process",
+  "label": "maintenance of protein location in mast cell secretory granule"
+}

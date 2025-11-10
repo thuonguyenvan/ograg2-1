@@ -1,0 +1,32 @@
+{
+  "id": "GO:1904481",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904481",
+  "relationships": {
+    "is_a": [
+      "GO:1901698",
+      "GO:1901700"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "hal"
+    ],
+    "GO_REF": [
+      "0000071"
+    ],
+    "PMID": [
+      "24698160"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a tetrahydrofolate stimulus.",
+  "namespace": "biological_process",
+  "label": "response to tetrahydrofolate"
+}

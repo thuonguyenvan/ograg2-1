@@ -1,0 +1,36 @@
+{
+  "id": "GO:0036486",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036486",
+  "relationships": {
+    "is_a": [
+      "GO:0036484"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "trunk NCC migration through anterior sclerotome",
+      "trunk NCC migration within somite",
+      "ventral trunk NCC migration"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf",
+      "mat",
+      "mat",
+      "bf"
+    ],
+    "PMID": [
+      "16319111",
+      "19386662",
+      "19386662"
+    ]
+  },
+  "definition": "The movement of trunk neural crest cells from the neural tube, travelling ventrally through the anterior half of each sclerotome. Trunk neural crest cells that remain in the sclerotome form the dorsal root ganglia containing the sensory neurons. Trunk neural crest cells that continue more ventrally form the sympathetic ganglia, the adrenal medulla, and the nerve clusters surrounding the aorta.",
+  "namespace": "biological_process",
+  "label": "ventral trunk neural crest cell migration"
+}

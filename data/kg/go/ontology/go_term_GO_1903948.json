@@ -1,0 +1,44 @@
+{
+  "id": "GO:1903948",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903948",
+  "relationships": {
+    "is_a": [
+      "GO:0045759",
+      "GO:0098910",
+      "GO:0106135"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of atrial cardiac muscle cell action potential",
+      "down-regulation of atrial cardiac muscle cell action potential",
+      "downregulation of atrial cardiac muscle cell action potential"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of atrial cardiac muscle cell action potential"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "mtg_cardiac_conduct_nov11",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25281747"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of atrial cardiac muscle cell action potential.",
+  "namespace": "biological_process",
+  "label": "negative regulation of atrial cardiac muscle cell action potential"
+}

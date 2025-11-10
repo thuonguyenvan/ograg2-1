@@ -1,0 +1,29 @@
+{
+  "id": "GO:0019467",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019467",
+  "relationships": {
+    "is_a": [
+      "GO:0006593"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ornithine breakdown, by decarboxylation",
+      "ornithine degradation, by decarboxylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "ORNDEG-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-ornithine by decarboxylation.",
+  "namespace": "biological_process",
+  "label": "L-ornithine catabolic process, by decarboxylation"
+}

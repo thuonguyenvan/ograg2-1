@@ -1,0 +1,42 @@
+{
+  "id": "GO:0050457",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050457",
+  "relationships": {
+    "is_a": [
+      "GO:0046912"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(2S,3S)-2-hydroxytridecane-1,2,3-tricarboxylate oxaloacetate-lyase (CoA- acylating) activity",
+      "(2S,3S)-2-hydroxytridecane-1,2,3-tricarboxylate oxaloacetate-lyase (CoA-acylating)",
+      "2-decylcitrate synthase activity",
+      "dodecanoyl-CoA:oxaloacetate C-dodecanoyltransferase (thioester-hydrolysing, 1-carboxyundecyl-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.3.2",
+      "2.3.3.2",
+      "2.3.3.2",
+      "2.3.3.2",
+      "2.3.3.2"
+    ],
+    "KEGG_REACTION": [
+      "R03735"
+    ],
+    "MetaCyc": [
+      "DECYLCITRATE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "16605",
+      "16605"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + lauroyl-CoA + oxaloacetate = (2S,3S)-2-hydroxytridecane-1,2,3-tricarboxylate + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "decylcitrate synthase activity"
+}

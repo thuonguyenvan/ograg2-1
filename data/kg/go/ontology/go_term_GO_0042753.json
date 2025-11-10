@@ -1,0 +1,31 @@
+{
+  "id": "GO:0042753",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042753",
+  "relationships": {
+    "is_a": [
+      "GO:0042752",
+      "GO:0048518"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of circadian rhythm",
+      "up-regulation of circadian rhythm",
+      "upregulation of circadian rhythm"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of circadian rhythm",
+      "stimulation of circadian rhythm"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of a circadian rhythm behavior.",
+  "namespace": "biological_process",
+  "label": "positive regulation of circadian rhythm"
+}

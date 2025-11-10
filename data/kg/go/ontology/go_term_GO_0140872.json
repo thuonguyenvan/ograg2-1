@@ -1,0 +1,40 @@
+{
+  "id": "GO:0140872",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140872",
+  "relationships": {
+    "is_a": [
+      "GO:0030639",
+      "GO:0042181",
+      "GO:0043386",
+      "GO:0043604",
+      "GO:0046189",
+      "GO:0120255",
+      "GO:1901503",
+      "GO:1902645",
+      "GO:1902653"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "viridicatumtoxin anabolism",
+      "viridicatumtoxin biosynthesis",
+      "viridicatumtoxin formation",
+      "viridicatumtoxin synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-7659"
+    ],
+    "PMID": [
+      "20534346",
+      "24161266"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of viridicatumtoxin, a tetracycline-like fungal meroterpenoid with a unique, fused spirobicyclic ring system.",
+  "namespace": "biological_process",
+  "label": "viridicatumtoxin biosynthetic process"
+}

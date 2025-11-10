@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990565",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990565",
+  "relationships": {
+    "is_a": [
+      "GO:0101031"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bhm",
+      "pad"
+    ],
+    "PMID": [
+      "21855797",
+      "22939624"
+    ]
+  },
+  "definition": "A protein kinase chaperone complex required for the proper folding, maturation and stabilization of target proteins (mostly signaling protein kinases, some steroid hormone receptors), usually during or immediately after completion of translation. The highly conserved, phosphorylated CDC37-Ser13 (vertebrates) or cdc37-Ser14 (yeast) is essential for complex assembly and target protein binding. CDC37-Ser13 (Ser14) is phosphorylated by Casein kinase II (CK2), which in turn is a target of CDC37 creating a positive feedback loop. Complex binding also prevents rapid ubiquitin-dependent proteosomal degradation of target proteins.",
+  "namespace": "cellular_component",
+  "label": "HSP90-CDC37 chaperone complex"
+}

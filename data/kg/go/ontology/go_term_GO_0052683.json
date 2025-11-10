@@ -1,0 +1,33 @@
+{
+  "id": "GO:0052683",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052683",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(2E,6E)-farnesyl-diphosphate diphosphate-lyase [(Z)-gamma-bisabolene-forming] activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.40",
+      "4.2.3.40"
+    ],
+    "MetaCyc": [
+      "RXN-10005"
+    ],
+    "RHEA": [
+      "26081",
+      "26081"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-trans,6-trans-farnesyl diphosphate = (Z)-gamma-bisabolene + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "(Z)-gamma-bisabolene synthase activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0099645",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099645",
+  "relationships": {
+    "is_a": [
+      "GO:0031503",
+      "GO:0097120",
+      "GO:0099072",
+      "GO:0099633"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "neurotransmitter receptor localisation in postsynaptic specialization membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dos",
+      "TermGenie"
+    ]
+  },
+  "definition": "A process in which a neurotransmitter is transported to, or maintained in, a location within the membrane adjacent to a postsynaptic specialization (e.g. postsynaptic density).",
+  "namespace": "biological_process",
+  "label": "neurotransmitter receptor localization to postsynaptic specialization membrane"
+}

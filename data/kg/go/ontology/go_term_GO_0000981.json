@@ -1,0 +1,50 @@
+{
+  "id": "GO:0000981",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000981",
+  "relationships": {
+    "is_a": [
+      "GO:0003700"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA polymerase II transcription factor activity, sequence-specific DNA binding",
+      "RNA polymerase II transcription factor activity, sequence-specific transcription regulatory region DNA binding",
+      "sequence-specific DNA binding RNA polymerase II transcription factor activity"
+    ],
+    "broad": [
+      "transcription factor"
+    ],
+    "narrow": [
+      "RNA polymerase II core promoter proximal region sequence-specific DNA binding transcription factor activity",
+      "RNA polymerase II distal enhancer sequence-specific DNA binding transcription factor activity",
+      "RNA polymerase II transcription factor activity, copper ion regulated core promoter proximal region sequence-specific binding",
+      "RNA polymerase II transcription factor activity, copper ion regulated proximal promoter sequence-specific DNA binding",
+      "RNA polymerase II transcription factor activity, metal ion regulated core promoter proximal region sequence-specific binding",
+      "RNA polymerase II transcription factor activity, metal ion regulated proximal promoter sequence-specific DNA binding",
+      "RNA polymerase II transcription factor activity, metal ion regulated sequence-specific DNA binding",
+      "RNA polymerase II transcription factor activity, zinc ion regulated core promoter proximal region sequence-specific DNA binding",
+      "RNA polymerase II transcription factor activity, zinc ion regulated proximal promoter sequence-specific DNA binding",
+      "copper ion regulated core promoter proximal region sequence-specific DNA binding RNA polymerase II transcription factor activity",
+      "metal ion regulated core promoter proximal region sequence-specific DNA binding RNA polymerase II transcription factor activity",
+      "metal ion regulated sequence-specific DNA binding RNA polymerase II transcription factor activity",
+      "sequence-specific distal enhancer binding RNA polymerase II transcription factor activity",
+      "transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding",
+      "transcription factor activity, RNA polymerase II distal enhancer sequence-specific binding",
+      "transcription factor activity, RNA polymerase II proximal promoter sequence-specific DNA binding",
+      "zinc ion regulated core promoter proximal region sequence-specific DNA binding RNA polymerase II transcription factor activity"
+    ],
+    "related": [
+      "sequence-specific transcription regulatory region DNA binding RNA polymerase II transcription factor recruiting transcription factor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH-2018",
+      "vw"
+    ]
+  },
+  "definition": "A DNA-binding transcription factor activity that modulates the transcription of specific gene sets transcribed by RNA polymerase II.",
+  "namespace": "molecular_function",
+  "label": "DNA-binding transcription factor activity, RNA polymerase II-specific"
+}

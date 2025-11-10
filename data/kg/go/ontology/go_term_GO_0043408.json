@@ -1,0 +1,35 @@
+{
+  "id": "GO:0043408",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043408",
+  "relationships": {
+    "is_a": [
+      "GO:1902531"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of MAP kinase cascade",
+      "regulation of MAP kinase kinase kinase cascade",
+      "regulation of MAPKKK cascade",
+      "regulation of mitogen activated protein kinase cascade",
+      "regulation of mitogen activated protein kinase kinase kinase cascade",
+      "regulation of mitogen-activated protein kinase cascade",
+      "regulation of mitogen-activated protein kinase kinase kinase cascade"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "signaling",
+      "signaling",
+      "signaling",
+      "signaling"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of signal transduction mediated by the MAP kinase (MAPK) cascade.",
+  "namespace": "biological_process",
+  "label": "regulation of MAPK cascade"
+}

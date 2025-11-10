@@ -1,0 +1,33 @@
+{
+  "id": "GO:0009451",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009451",
+  "relationships": {
+    "is_a": [
+      "GO:0016070",
+      "GO:0043412"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "RNA editing"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "RNA_editing"
+    ],
+    "GOC": [
+      "go_curators",
+      "hjd"
+    ],
+    "ISBN": [
+      "1555811337"
+    ]
+  },
+  "definition": "The covalent alteration of one or more nucleotides within an RNA molecule to produce an RNA molecule with a sequence that differs from that coded genetically.",
+  "namespace": "biological_process",
+  "label": "RNA modification"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0004030",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004030",
+  "relationships": {
+    "is_a": [
+      "GO:0016620"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ALDH",
+      "aldehyde:NAD(P)+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.5",
+      "1.2.1.5",
+      "1.2.1.5",
+      "1.2.1.5"
+    ],
+    "MetaCyc": [
+      "ALDEHYDE-DEHYDROGENASE-NADORNOP+-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-5692283",
+      "R-HSA-5696080",
+      "R-HSA-6808464"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an aldehyde + NAD(P)+ + H2O = an acid + NAD(P)H + H+.",
+  "namespace": "molecular_function",
+  "label": "ALDH3B2 oxidises HXAL to PALM"
+}

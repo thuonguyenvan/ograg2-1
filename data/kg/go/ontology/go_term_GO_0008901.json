@@ -1,0 +1,63 @@
+{
+  "id": "GO:0008901",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008901",
+  "relationships": {
+    "is_a": [
+      "GO:0016699"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "[Fe] hydrogenase activity",
+      "hydrogen:ferredoxin oxidoreductase activity"
+    ],
+    "broad": [
+      "H(2) oxidizing hydrogenase activity",
+      "H(2) producing hydrogenase activity",
+      "H2 oxidizing hydrogenase",
+      "H2 producing hydrogenase",
+      "bidirectional hydrogenase activity",
+      "hydrogen-lyase activity",
+      "hydrogenase activity",
+      "hydrogenlyase activity",
+      "uptake hydrogenase activity"
+    ],
+    "narrow": [
+      "Ni-Fe hydrogenase activity",
+      "Ni-Fe-Se hydrogenase activity",
+      "iron hydrogenase activity",
+      "iron-only hydrogenase activity",
+      "nickel hydrogenase activity",
+      "nickel-iron hydrogenase activity",
+      "nickel-iron-selenium hydrogenase activity"
+    ],
+    "related": [
+      "[Fe] hydrogenase gamma",
+      "hydrogenase (ferredoxin) activity",
+      "hydrogenase I",
+      "hydrogenase II"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.12.7.2",
+      "1.12.7.2",
+      "1.12.7.2",
+      "1.12.7.2",
+      "1.12.7.2",
+      "1.12.7.2",
+      "1.12.7.2",
+      "1.12.7.2",
+      "1.12.7.2"
+    ],
+    "MetaCyc": [
+      "HYDROG-RXN"
+    ],
+    "RHEA": [
+      "17445"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 reduced ferredoxin + 2 H+ = 2 oxidized ferredoxin + H2.",
+  "namespace": "molecular_function",
+  "label": "ferredoxin hydrogenase activity"
+}

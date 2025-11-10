@@ -1,0 +1,32 @@
+{
+  "id": "GO:1990097",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990097",
+  "relationships": {
+    "is_a": [
+      "GO:0032993"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "SeqA-dsDNA complex",
+      "SeqA-hemimethylated DNA complex",
+      "SeqA-hemimethylation dsDNA complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "12379844",
+      "15933720",
+      "23149570"
+    ]
+  },
+  "definition": "A protein-DNA complex that contains an oligomer of SeqA bound to GATC sites in methylated or newly-synthesized, hemi-methylated double-stranded DNA, with preference for the latter. Binding of SeqA to hemimethylated DNA sequesters oriC, prevents re-methylation of DNA by Dam and in turn stops premature re-initiation of replication during one replication cycle.",
+  "namespace": "cellular_component",
+  "label": "SeqA-DNA complex"
+}

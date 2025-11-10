@@ -1,0 +1,34 @@
+{
+  "id": "GO:0035605",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035605",
+  "relationships": {
+    "is_a": [
+      "GO:0016769",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "S-nitrosylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "protein nitrosylase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "sp",
+      "sp"
+    ],
+    "PMID": [
+      "20972425",
+      "20972426",
+      "20972426"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a nitric oxide (NO) group to a sulphur atom within a cysteine residue of a protein.",
+  "namespace": "molecular_function",
+  "label": "peptidyl-cysteine S-nitrosylase activity"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GO:0050079",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050079",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "acetylenemonocarboxylate hydratase activity",
+      "alkynoate hydratase activity"
+    ],
+    "narrow": [
+      "acetylenecarboxylate hydratase activity, producing malonate-semialdehyde"
+    ],
+    "related": [
+      "3-oxopropanoate hydro-lyase (propynoate-forming)",
+      "3-oxopropanoate hydro-lyase activity",
+      "acetylenemonocarboxylate hydrase activity",
+      "acetylmonocarboxylic acid hydrase activity",
+      "malonate-semialdehyde dehydratase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.27",
+      "4.2.1.27",
+      "4.2.1.27",
+      "4.2.1.27",
+      "4.2.1.27"
+    ],
+    "MetaCyc": [
+      "MALONATE-SEMIALDEHYDE-DEHYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "17957",
+      "17957"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-oxopropanoate = propynoate + H2O.",
+  "namespace": "molecular_function",
+  "label": "acetylenecarboxylate hydratase activity"
+}

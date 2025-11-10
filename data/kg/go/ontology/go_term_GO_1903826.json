@@ -1,0 +1,41 @@
+{
+  "id": "GO:1903826",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903826",
+  "relationships": {
+    "is_a": [
+      "GO:0015695",
+      "GO:1902475",
+      "GO:1990822"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "L-arginine transport",
+      "arginine transport"
+    ],
+    "narrow": [
+      "L-arginine import",
+      "L-arginine uptake"
+    ],
+    "related": [
+      "arginine transmembrane transport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000069"
+    ],
+    "PMID": [
+      "18357653",
+      "22822152",
+      "8195186"
+    ]
+  },
+  "definition": "The directed movement of L-arginine across a membrane.",
+  "namespace": "biological_process",
+  "label": "L-arginine transmembrane transport"
+}

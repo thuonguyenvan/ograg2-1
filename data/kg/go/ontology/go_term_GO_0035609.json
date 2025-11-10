@@ -1,0 +1,30 @@
+{
+  "id": "GO:0035609",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035609",
+  "relationships": {
+    "is_a": [
+      "GO:0018410",
+      "GO:0035608"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein primary sequence deglutamylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "21074048",
+      "21074048"
+    ]
+  },
+  "definition": "The removal of a C-terminal, gene-encoded glutamate residue from a protein.",
+  "namespace": "biological_process",
+  "label": "C-terminal protein deglutamylation"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:0046526",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046526",
+  "relationships": {
+    "is_a": [
+      "GO:0016616",
+      "GO:0031320"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "xylitol dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.9",
+      "1.1.1.9"
+    ],
+    "KEGG_REACTION": [
+      "R01896"
+    ],
+    "MetaCyc": [
+      "D-XYLULOSE-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "20433",
+      "20433"
+    ],
+    "Reactome": [
+      "R-HSA-5662471"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD+ + xylitol = D-xylulose + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "SORD tetramer oxidizes xylitol to D-xylulose"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:0043797",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043797",
+  "relationships": {
+    "is_a": [
+      "GO:0016625"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-glyceraldehyde-3-phosphate:ferredoxin oxidoreductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GAPOR",
+      "glyceraldehyde-3-phosphate Fd oxidoreductase activity",
+      "glyceraldehyde-3-phosphate ferredoxin reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.7.6",
+      "1.2.7.6",
+      "1.2.7.6"
+    ],
+    "MetaCyc": [
+      "1.2.7.6-RXN"
+    ],
+    "RHEA": [
+      "24148",
+      "24148"
+    ],
+    "PMID": [
+      "11265456",
+      "7721730"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-glyceraldehyde-3-phosphate + H2O + 2 oxidized ferredoxin = 3-phospho-D-glycerate + 2 H+ + 2 reduced ferredoxin.",
+  "namespace": "molecular_function",
+  "label": "glyceraldehyde-3-phosphate dehydrogenase (ferredoxin) activity"
+}

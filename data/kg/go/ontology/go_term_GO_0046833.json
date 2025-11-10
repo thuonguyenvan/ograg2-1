@@ -1,0 +1,36 @@
+{
+  "id": "GO:0046833",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046833",
+  "relationships": {
+    "is_a": [
+      "GO:0032241",
+      "GO:0046824",
+      "GO:0046831"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of RNA export from cell nucleus",
+      "positive regulation of RNA export out of nucleus",
+      "positive regulation of RNA transport from nucleus to cytoplasm",
+      "positive regulation of RNA-nucleus export",
+      "up regulation of RNA export from nucleus",
+      "up-regulation of RNA export from nucleus",
+      "upregulation of RNA export from nucleus"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of RNA export from nucleus",
+      "stimulation of RNA export from nucleus"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of directed movement of RNA from the nucleus into the cytoplasm.",
+  "namespace": "biological_process",
+  "label": "positive regulation of RNA export from nucleus"
+}

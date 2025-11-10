@@ -1,0 +1,30 @@
+{
+  "id": "GO:0034752",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034752",
+  "relationships": {
+    "is_a": [
+      "GO:0034751"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytosolic AHRC",
+      "cytosolic AhR complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "9S-cytosolic aryl hydrocarbon (Ah) receptor non-ligand activated complex"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "7598497",
+      "8937476",
+      "9447995"
+    ]
+  },
+  "definition": "An aryl hydrocarbon receptor complex found in the cytosol, in which the ligand-binding subunit AhR is not bound to ligand; consists of AhR, two molecules of HSP90, the protein kinase c-Src, and the immunophilin XAP2/AIP.",
+  "namespace": "cellular_component",
+  "label": "cytosolic aryl hydrocarbon receptor complex"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GO:0050378",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050378",
+  "relationships": {
+    "is_a": [
+      "GO:0016857"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP glucuronic epimerase activity",
+      "UDP-D-galacturonic acid 4-epimerase activity",
+      "UDP-galacturonate 4-epimerase activity",
+      "UDPglucuronate 4-epimerase activity",
+      "uridine diphospho-D-galacturonic acid",
+      "uridine diphosphoglucuronate epimerase activity",
+      "uridine diphosphoglucuronic epimerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.3.6",
+      "5.1.3.6",
+      "5.1.3.6",
+      "5.1.3.6",
+      "5.1.3.6",
+      "5.1.3.6",
+      "5.1.3.6",
+      "5.1.3.6",
+      "5.1.3.6"
+    ],
+    "KEGG_REACTION": [
+      "R01385"
+    ],
+    "MetaCyc": [
+      "UDP-GLUCURONATE-4-EPIMERASE-RXN"
+    ],
+    "RHEA": [
+      "11404",
+      "11404"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-alpha-D-glucuronate = UDP-alpha-D-galacturonate.",
+  "namespace": "molecular_function",
+  "label": "UDP-glucuronate 4-epimerase activity"
+}

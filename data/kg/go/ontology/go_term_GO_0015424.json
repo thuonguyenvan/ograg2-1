@@ -1,0 +1,34 @@
+{
+  "id": "GO:0015424",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015424",
+  "relationships": {
+    "is_a": [
+      "GO:0015171",
+      "GO:0140359"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent amino acid transmembrane transporter activity",
+      "amino acid-transporting ATPase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "amino acid ABC transporter"
+    ],
+    "related": [
+      "ATPase-coupled amino acid transmembrane transporter activity",
+      "amino acid-exporting ATPase activity",
+      "amino acid-importing ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mah"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + amino acid(out/in) = ADP + phosphate + amino acid(in/out).",
+  "namespace": "molecular_function",
+  "label": "ABC-type amino acid transporter activity"
+}

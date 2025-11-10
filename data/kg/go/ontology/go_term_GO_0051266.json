@@ -1,0 +1,39 @@
+{
+  "id": "GO:0051266",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051266",
+  "relationships": {
+    "is_a": [
+      "GO:0004325"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sirohydrochlorin ferro-lyase activity"
+    ],
+    "broad": [
+      "siroheme synthase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "siroheme ferro-lyase (sirohydrochlorin-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.99.1.4"
+    ],
+    "KEGG_REACTION": [
+      "R02864"
+    ],
+    "MetaCyc": [
+      "SIROHEME-FERROCHELAT-RXN"
+    ],
+    "RHEA": [
+      "24360",
+      "24360"
+    ]
+  },
+  "definition": "Catalysis of the reaction: siroheme + 2 H+ = Fe(2+) + sirohydrochlorin.",
+  "namespace": "molecular_function",
+  "label": "sirohydrochlorin ferrochelatase activity"
+}

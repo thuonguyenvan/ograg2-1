@@ -1,0 +1,31 @@
+{
+  "id": "GO:1990456",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990456",
+  "relationships": {
+    "is_a": [
+      "GO:0016043",
+      "GO:0140056"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrion-ER attachment",
+      "mitochondrion-ER membrane tethering",
+      "mitochondrion-ER tethering",
+      "mitochondrion-endoplasmic reticulum attachment",
+      "mitochondrion-endoplasmic reticulum tethering"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "19556461",
+      "27875684"
+    ]
+  },
+  "definition": "The attachment of a mitochondrion and an endoplasmic reticulum via molecular tethers that physically bridge their respective membranes and attach them to each other. The tethering may facilitate exchange of metabolites between the organelles.",
+  "namespace": "biological_process",
+  "label": "mitochondrion-endoplasmic reticulum membrane tethering"
+}

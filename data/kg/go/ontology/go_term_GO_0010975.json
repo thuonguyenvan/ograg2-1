@@ -1,0 +1,33 @@
+{
+  "id": "GO:0010975",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010975",
+  "relationships": {
+    "is_a": [
+      "GO:0120035"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "regulation of neurite biosynthesis",
+      "regulation of neurite development",
+      "regulation of neurite formation",
+      "regulation of neurite growth"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that modulates the rate, frequency or extent of neuron projection development. Neuron projection development is the process whose specific outcome is the progression of a neuron projection over time, from its formation to the mature structure. A neuron projection is any process extending from a neural cell, such as axons or dendrites (collectively called neurites).",
+  "namespace": "biological_process",
+  "label": "regulation of neuron projection development"
+}

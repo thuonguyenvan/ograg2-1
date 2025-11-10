@@ -1,0 +1,42 @@
+{
+  "id": "GO:0050339",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050339",
+  "relationships": {
+    "is_a": [
+      "GO:0017111"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "thymidine triphosphatase activity",
+      "thymidine-triphosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dTTP nucleotidohydrolase activity",
+      "dTTPase activity",
+      "deoxythymidine-5&apos;-triphosphatase activity",
+      "thymidine triphosphate nucleotidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.39",
+      "3.6.1.39",
+      "3.6.1.39",
+      "3.6.1.39",
+      "3.6.1.39"
+    ],
+    "MetaCyc": [
+      "THYMIDINE-TRIPHOSPHATASE-RXN"
+    ],
+    "RHEA": [
+      "19013",
+      "19013"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dTTP + H2O = dTDP + H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "TTPase activity"
+}

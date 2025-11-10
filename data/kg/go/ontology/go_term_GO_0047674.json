@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047674",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047674",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-apiitol reductase activity",
+      "D-apiitol:NAD+ 1-oxidoreductase activity",
+      "D-apiose reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.114",
+      "1.1.1.114",
+      "1.1.1.114",
+      "1.1.1.114",
+      "1.1.1.114"
+    ],
+    "KEGG_REACTION": [
+      "R03577"
+    ],
+    "MetaCyc": [
+      "APIOSE-1-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "15301",
+      "15301"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-apiitol + NAD+ = D-apiose + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "apiose 1-reductase activity"
+}

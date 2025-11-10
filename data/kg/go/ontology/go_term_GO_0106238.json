@@ -1,0 +1,34 @@
+{
+  "id": "GO:0106238",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106238",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.174"
+    ],
+    "RHEA": [
+      "54652",
+      "54652"
+    ],
+    "GOC": [
+      "emb"
+    ],
+    "PMID": [
+      "24990389",
+      "29315936"
+    ]
+  },
+  "definition": "Catalysis of the reaction:peregrinol diphosphate = all-trans-geranylgeranyl diphosphate + H2O.",
+  "namespace": "molecular_function",
+  "label": "peregrinol diphosphate synthase activity"
+}

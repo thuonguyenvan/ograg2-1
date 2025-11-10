@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047330",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047330",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "polyphosphate glucokinase activity",
+      "polyphosphate-D-(+)-glucose-6-phosphotransferase activity",
+      "polyphosphate-glucose 6-phosphotransferase activity",
+      "polyphosphate:D-glucose 6-phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.63",
+      "2.7.1.63",
+      "2.7.1.63",
+      "2.7.1.63",
+      "2.7.1.63",
+      "2.7.1.63"
+    ],
+    "MetaCyc": [
+      "2.7.1.63-RXN",
+      "2.7.1.63-RXN"
+    ],
+    "RHEA": [
+      "22036"
+    ]
+  },
+  "definition": "Catalysis of the reaction: beta-D-glucose + long chain polyphosphate = glucose-6-phosphate + long chain polyphosphate.",
+  "namespace": "molecular_function",
+  "label": "polyphosphate-glucose phosphotransferase activity"
+}

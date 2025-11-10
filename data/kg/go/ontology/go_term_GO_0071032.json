@@ -1,0 +1,34 @@
+{
+  "id": "GO:0071032",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071032",
+  "relationships": {
+    "is_a": [
+      "GO:0071028"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nuclear mRNA catabolic process of mRNAs in aberrant mRNPs",
+      "nuclear mRNA quality control of mRNAs in aberrant mRNPs"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dgf",
+      "krc",
+      "dgf",
+      "krc",
+      "dgf",
+      "krc"
+    ],
+    "PMID": [
+      "18644474"
+    ]
+  },
+  "definition": "The set of processes involved in identifying and degrading incorrectly formed or aberrant nuclear mRNPs docked at the nuclear pore complex prior to export to the cytoplasm.",
+  "namespace": "biological_process",
+  "label": "nuclear mRNA surveillance of mRNP export"
+}

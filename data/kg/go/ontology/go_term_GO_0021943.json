@@ -1,0 +1,37 @@
+{
+  "id": "GO:0021943",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021943",
+  "relationships": {
+    "is_a": [
+      "GO:0000902"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Bergmann fiber biosynthesis",
+      "Bergmann fiber formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "15157725",
+      "15157725",
+      "15157725"
+    ]
+  },
+  "definition": "The formation of scaffolds from a radial glial cell. The scaffolds are used as a substrate for the radial migration of cells.",
+  "namespace": "biological_process",
+  "label": "formation of radial glial scaffolds"
+}

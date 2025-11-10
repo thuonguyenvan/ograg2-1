@@ -1,0 +1,44 @@
+{
+  "id": "GO:0140326",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140326",
+  "relationships": {
+    "is_a": [
+      "GO:0140303",
+      "GO:0140657"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "phospholipid flippase activity"
+    ],
+    "related": [
+      "ATPase-coupled phospholipid transporter activity",
+      "ATPase-dependent phospholipid transporter activity",
+      "aminophospholipid-transporting ATPase",
+      "phospholipid translocating ATPase activity",
+      "phospholipid-translocating ATPase activity",
+      "phospholipid-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.6.2.1",
+      "7.6.2.1"
+    ],
+    "MetaCyc": [
+      "3.6.3.1-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-939763",
+      "R-HSA-947591"
+    ],
+    "PMID": [
+      "16828084"
+    ]
+  },
+  "definition": "Catalysis of the movement of lipids from one membrane leaflet to the other, driven by ATP hydrolysis. This includes flippases and floppases.",
+  "namespace": "molecular_function",
+  "label": "P-type ATPases type IV transport internal-facing APLs to external side of the plasma membrane"
+}

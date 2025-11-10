@@ -1,0 +1,29 @@
+{
+  "id": "GO:2000310",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000310",
+  "relationships": {
+    "is_a": [
+      "GO:0022898",
+      "GO:0099601"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of N-methyl-D-aspartate selective glutamate receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-438066"
+    ],
+    "GOC": [
+      "BHF"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of N-methyl-D-aspartate selective glutamate receptor activity.",
+  "namespace": "biological_process",
+  "label": "Unblocking of NMDA receptors, glutamate binding and activation"
+}

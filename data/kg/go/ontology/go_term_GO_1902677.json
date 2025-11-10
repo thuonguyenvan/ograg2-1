@@ -1,0 +1,52 @@
+{
+  "id": "GO:1902677",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902677",
+  "relationships": {
+    "is_a": [
+      "GO:0036064"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cilial basal body of left caudal cilium",
+      "cilial basal body of left caudal flagellum",
+      "ciliary basal body of left caudal cilium",
+      "ciliary basal body of left caudal flagellum",
+      "cilium basal body of left caudal cilium",
+      "cilium basal body of left caudal flagellum",
+      "left caudal flagellum ciliary basal body",
+      "microtubule basal body of left caudal cilium",
+      "microtubule basal body of left caudal flagellum"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "giardia",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000064"
+    ],
+    "ISBN": [
+      "9780124260207"
+    ],
+    "PMID": [
+      "16607022",
+      "5961344"
+    ]
+  },
+  "definition": "Any ciliary basal body that is part of a left caudal flagellum found in Giardia species (trophozoite stage).",
+  "namespace": "cellular_component",
+  "label": "left caudal basal body"
+}

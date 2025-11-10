@@ -1,0 +1,56 @@
+{
+  "id": "GO:0070815",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070815",
+  "relationships": {
+    "is_a": [
+      "GO:0016706",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptide-lysine 5-dioxygenase activity",
+      "protein lysine hydroxylase activity"
+    ],
+    "broad": [
+      "lysine hydroxylase activity",
+      "lysine,2-oxoglutarate 5-dioxygenase activity",
+      "lysine-2-oxoglutarate dioxygenase activity",
+      "lysyl hydroxylase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "peptidyl-lysine, 2-oxoglutarate: oxygen oxidoreductase activity",
+      "peptidyllysine, 2-oxoglutarate:oxygen 5-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "58360",
+      "58360"
+    ],
+    "Reactome": [
+      "R-HSA-9630022"
+    ],
+    "PMID": [
+      "19574390"
+    ],
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "EC": [
+      "1.14.11.4",
+      "1.14.11.4"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-lysyl-[protein] + 2-oxoglutarate + O2 = (5S)-5-hydroxy-L-lysyl-[protein] + succinate + CO2.",
+  "namespace": "molecular_function",
+  "label": "JMJD6 dimer hydroxylates lysine residues of U2AF2"
+}

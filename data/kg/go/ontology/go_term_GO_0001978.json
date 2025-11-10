@@ -1,0 +1,35 @@
+{
+  "id": "GO:0001978",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001978",
+  "relationships": {
+    "is_a": [
+      "GO:0001976"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "carotid sinus baroreceptor feedback regulation of systemic arterial blood pressure"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "baroreceptor feedback control of blood pressure",
+      "baroreceptor pressure buffer system"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ],
+    "ISBN": [
+      "0721643949",
+      "068340007X"
+    ]
+  },
+  "definition": "The process that modulates blood pressure by sensing the amount of stretch occurring in large arteries and responding to the input via central nervous system control.",
+  "namespace": "biological_process",
+  "label": "regulation of systemic arterial blood pressure by carotid sinus baroreceptor feedback"
+}

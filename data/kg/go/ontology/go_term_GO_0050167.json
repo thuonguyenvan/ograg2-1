@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050167",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050167",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-((R)-pantothenoyl)-L-cysteine carboxy-lyase activity",
+      "N-[(R)-pantothenoyl]-L-cysteine carboxy-lyase (pantetheine-forming)",
+      "N-[(R)-pantothenoyl]-L-cysteine carboxy-lyase activity",
+      "pantothenylcysteine decarboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.30",
+      "4.1.1.30",
+      "4.1.1.30",
+      "4.1.1.30",
+      "4.1.1.30",
+      "4.1.1.30"
+    ],
+    "KEGG_REACTION": [
+      "R02972"
+    ],
+    "MetaCyc": [
+      "PANTOTHENOYLCYSTEINE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "15077",
+      "15077"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-[(R)-pantothenoyl]-L-cysteine + H+ = (R)-pantetheine + CO2.",
+  "namespace": "molecular_function",
+  "label": "pantothenoylcysteine decarboxylase activity"
+}

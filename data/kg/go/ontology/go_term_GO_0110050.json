@@ -1,0 +1,33 @@
+{
+  "id": "GO:0110050",
+  "uri": "http://purl.obolibrary.org/obo/GO_0110050",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.128"
+    ],
+    "RHEA": [
+      "54532",
+      "54532"
+    ],
+    "GOC": [
+      "ka"
+    ],
+    "PMID": [
+      "28373563"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-(4-oxoglutarate)-L-cysteinylglycine + H2O = 2-oxoglutarate + L-cysteinylglycine.",
+  "namespace": "molecular_function",
+  "label": "deaminated glutathione amidase activity"
+}

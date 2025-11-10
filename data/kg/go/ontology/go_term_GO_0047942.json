@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047942",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047942",
+  "relationships": {
+    "is_a": [
+      "GO:0016880"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-glutamate:ethylamine ligase (ADP-forming)",
+      "N(5)-ethyl-L-glutamine synthetase activity",
+      "N5-ethyl-L-glutamine synthetase activity",
+      "N5-ethylglutamine synthetase activity",
+      "theanine synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.1.6",
+      "6.3.1.6",
+      "6.3.1.6",
+      "6.3.1.6",
+      "6.3.1.6",
+      "6.3.1.6",
+      "6.3.1.6"
+    ],
+    "KEGG_REACTION": [
+      "R02929"
+    ],
+    "MetaCyc": [
+      "RXN-12905"
+    ],
+    "RHEA": [
+      "20525",
+      "20525"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-glutamate + ATP + ethylamine = N(5)-ethyl-L-glutamine + ADP + 2 H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "glutamate-ethylamine ligase activity"
+}

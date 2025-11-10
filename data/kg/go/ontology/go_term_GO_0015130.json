@@ -1,0 +1,28 @@
+{
+  "id": "GO:0015130",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015130",
+  "relationships": {
+    "is_a": [
+      "GO:0022857"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "monocarboxylate (lactate, pyruvate, mevalonate) uptake/efflux porter activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Enables the transfer of mevalonate from one side of a membrane to the other. Mevalonate is the anion of mevalonic acid; its (R)-enantiomer is a strategic intermediate derived from hydroxymethylglutaryl-CoA in the biosynthesis of polyprenyl compounds.",
+  "namespace": "molecular_function",
+  "label": "mevalonate transmembrane transporter activity"
+}

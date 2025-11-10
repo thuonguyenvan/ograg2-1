@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102717",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102717",
+  "relationships": {
+    "is_a": [
+      "GO:0050498"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.11.59",
+      "1.14.11.59"
+    ],
+    "MetaCyc": [
+      "RXN-6685"
+    ],
+    "RHEA": [
+      "32115"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: DIBOA-beta-D-glucoside + O2 + 2-oxoglutarate = TRIBOA-beta-D-glucoside + succinate + carbon dioxide.",
+  "namespace": "molecular_function",
+  "label": "DIBOA-glucoside oxygenase activity"
+}

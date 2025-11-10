@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990156",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990156",
+  "relationships": {
+    "is_a": [
+      "GO:0033202"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "DnaB-DnaG primosome complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "bhm"
+    ],
+    "PMID": [
+      "14557266"
+    ]
+  },
+  "definition": "A protein complex containing homohexameric DnaB helicase, and DnaG (a primase). Facilitates the unwinding of double-stranded DNA and the synthesis of RNA primer sequences during DNA replication and repair in Prokaryotes.",
+  "namespace": "cellular_component",
+  "label": "DnaB-DnaG complex"
+}

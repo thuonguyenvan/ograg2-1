@@ -1,0 +1,31 @@
+{
+  "id": "GO:0000096",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000096",
+  "relationships": {
+    "is_a": [
+      "GO:0006790",
+      "GO:0019752"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulfur amino acid metabolism",
+      "sulphur amino acid metabolic process",
+      "sulphur amino acid metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1614635"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving amino acids containing sulfur, comprising cysteine, homocysteine, methionine and selenocysteine.",
+  "namespace": "biological_process",
+  "label": "Sulfur amino acid metabolism"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0032939",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032939",
+  "relationships": {
+    "is_a": [
+      "GO:0032056"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of translation in response to oxidative stress",
+      "up-regulation of translation in response to oxidative stress",
+      "upregulation of translation in response to oxidative stress"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of translation in response to oxidative stress",
+      "stimulation of translation in response to oxidative stress"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of translation as a result of oxidative stress, a state often resulting from exposure to high levels of reactive oxygen species, e.g. superoxide anions, hydrogen peroxide (H2O2), and hydroxyl radicals.",
+  "namespace": "biological_process",
+  "label": "positive regulation of translation in response to oxidative stress"
+}

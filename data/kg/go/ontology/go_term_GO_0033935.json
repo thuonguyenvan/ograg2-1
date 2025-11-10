@@ -1,0 +1,34 @@
+{
+  "id": "GO:0033935",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033935",
+  "relationships": {
+    "is_a": [
+      "GO:0008422"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "isoprimeverose-producing oligoxyloglucan hydrolase activity",
+      "oligoxyloglucan hydrolase activity",
+      "oligoxyloglucan xyloglucohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.120",
+      "3.2.1.120",
+      "3.2.1.120",
+      "3.2.1.120",
+      "3.2.1.120"
+    ],
+    "MetaCyc": [
+      "3.2.1.120-RXN"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of (1-&gt;4)-beta-D-glucosidic links in oligoxyloglucans so as to remove successive isoprimeverose (i.e. alpha-xylo-1,6-beta-D-glucosyl-) residues from the non-reducing chain ends.",
+  "namespace": "molecular_function",
+  "label": "oligoxyloglucan beta-glycosidase activity"
+}

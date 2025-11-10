@@ -1,0 +1,64 @@
+{
+  "id": "GO:0004044",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004044",
+  "relationships": {
+    "is_a": [
+      "GO:0016763"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5&apos;-phosphoribosylpyrophosphate amidotransferase activity",
+      "5-phosphoribosyl-1-pyrophosphate amidotransferase activity",
+      "5-phosphoribosylamine:diphosphate phospho-alpha-D-ribosyltransferase (glutamate-amidating)",
+      "5-phosphororibosyl-1-pyrophosphate amidotransferase activity",
+      "alpha-5-phosphoribosyl-1-pyrophosphate amidotransferase activity",
+      "glutamine 5-phosphoribosylpyrophosphate amidotransferase activity",
+      "glutamine phosphoribosyldiphosphate amidotransferase activity",
+      "glutamine phosphoribosylpyrophosphate amidotransferase activity",
+      "glutamine ribosylpyrophosphate 5-phosphate amidotransferase activity",
+      "phosphoribose pyrophosphate amidotransferase activity",
+      "phosphoribosyl pyrophosphate amidotransferase activity",
+      "phosphoribosyldiphosphate 5-amidotransferase activity",
+      "phosphoribosylpyrophosphate glutamyl amidotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.14",
+      "2.4.2.14",
+      "2.4.2.14",
+      "2.4.2.14",
+      "2.4.2.14",
+      "2.4.2.14",
+      "2.4.2.14",
+      "2.4.2.14",
+      "2.4.2.14",
+      "2.4.2.14",
+      "2.4.2.14",
+      "2.4.2.14",
+      "2.4.2.14",
+      "2.4.2.14",
+      "2.4.2.14"
+    ],
+    "KEGG_REACTION": [
+      "R01072"
+    ],
+    "MetaCyc": [
+      "PRPPAMIDOTRANS-RXN"
+    ],
+    "RHEA": [
+      "14905",
+      "14905"
+    ],
+    "Reactome": [
+      "R-HSA-73815"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-phospho-beta-D-ribosylamine + L-glutamate + diphosphate = 5-phospho-alpha-D-ribose 1-diphosphate + L-glutamine + H2O.",
+  "namespace": "molecular_function",
+  "label": "5-phospho-alpha-D-ribose 1-diphosphate (PRPP) + H2O + L-glutamine &lt;=&gt; 5-phosphoribosylamine + L-glutamate +pyrophosphate"
+}

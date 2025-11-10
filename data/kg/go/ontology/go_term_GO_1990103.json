@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990103",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990103",
+  "relationships": {
+    "is_a": [
+      "GO:1990077"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DnaA-HU-DNA complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "bhm"
+    ],
+    "PMID": [
+      "18179598"
+    ]
+  },
+  "definition": "A protein-DNA complex containing DNA-bound DnaA attached to HU. HU is a dimer encoded by two closely related genes. Essential for the initiation of replication in bacteria; stimulates the DnaA-dependent unwinding of oriC.",
+  "namespace": "cellular_component",
+  "label": "DnaA-HU complex"
+}

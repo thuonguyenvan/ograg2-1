@@ -1,0 +1,61 @@
+{
+  "id": "GO:0008424",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008424",
+  "relationships": {
+    "is_a": [
+      "GO:0046921",
+      "GO:0140103"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "glycoprotein fucosyltransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "FucT",
+      "GDP-L-Fuc:N-acetyl-beta-D-glucosaminide alpha(1,6)fucosyltransferase activity",
+      "GDP-L-Fuc:N-acetyl-beta-D-glucosaminide alpha(1-&gt;6)fucosyltransferase activity",
+      "GDP-L-Fuc:N-acetyl-beta-D-glucosaminide alpha-(1,6)fucosyltransferase activity",
+      "GDP-L-Fuc:N-acetyl-beta-D-glucosaminide alpha-(1-&gt;6)fucosyltransferase activity",
+      "GDP-L-fucose--glycoprotein fucosyltransferase activity",
+      "GDP-fucose--glycoprotein fucosyltransferase activity",
+      "GDPfucose-glycoprotein fucosyltransferase activity",
+      "guanosine diphosphofucose--glycoprotein fucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.68",
+      "2.4.1.68",
+      "2.4.1.68",
+      "2.4.1.68",
+      "2.4.1.68",
+      "2.4.1.68",
+      "2.4.1.68",
+      "2.4.1.68",
+      "2.4.1.68",
+      "2.4.1.68",
+      "2.4.1.68",
+      "2.4.1.68"
+    ],
+    "KEGG_REACTION": [
+      "R05988"
+    ],
+    "MetaCyc": [
+      "2.4.1.68-RXN"
+    ],
+    "RHEA": [
+      "12985",
+      "12985"
+    ],
+    "Reactome": [
+      "R-HSA-1028788",
+      "R-HSA-9696980"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(4)-{N-acetyl-beta-D-glucosaminyl-(1-&gt;2)-alpha-D-mannosyl-(1-&gt;3)-[N-acetyl-beta-D-glucosaminyl-(1-&gt;2)-alpha-D-mannosyl-(1-&gt;6)]-beta-D-mannosyl-(1-&gt;4)-N-acetyl-beta-D-glucosaminyl-(1-&gt;4)-N-acetyl-beta-D-glucosaminyl}-L-asparagine + GDP-L-fucose = N(4)-{N-acetyl-beta-D-glucosaminyl-(1-&gt;2)-alpha-D-mannosyl-(1-&gt;3)-[N-acetyl-beta-D-glucosaminyl-(1-&gt;2)-alpha-D-mannosyl-(1-&gt;6)]-beta-D-mannosyl-(1-&gt;4)-N-acetyl-beta-D-glucosaminyl-(1-&gt;4)-[alpha-L-fucosyl-(1-&gt;6)]-N-acetyl-beta-D-glucosaminyl}asparagine + GDP + H+.",
+  "namespace": "molecular_function",
+  "label": "Spike trimer glycoside chains get additional branches"
+}

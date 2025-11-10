@@ -1,0 +1,49 @@
+{
+  "id": "GO:2001307",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001307",
+  "relationships": {
+    "is_a": [
+      "GO:0042181"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "xanthone-containing compound anabolism",
+      "xanthone-containing compound biosynthesis",
+      "xanthone-containing compound formation",
+      "xanthone-containing compound synthesis",
+      "xanthones anabolism",
+      "xanthones biosynthesis",
+      "xanthones biosynthetic process",
+      "xanthones formation",
+      "xanthones synthesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "xanthone biosynthesis",
+      "xanthone biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "di",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ],
+    "CHEBI": [
+      "37647",
+      "37647"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of a xanthone-containing compound.",
+  "namespace": "biological_process",
+  "label": "xanthone-containing compound biosynthetic process"
+}

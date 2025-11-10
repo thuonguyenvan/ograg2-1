@@ -1,0 +1,26 @@
+{
+  "id": "GO:0001015",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001015",
+  "relationships": {
+    "is_a": [
+      "GO:0006366",
+      "GO:0009302"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "snoRNA transcription from an RNA polymerase II promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH"
+    ]
+  },
+  "definition": "The synthesis of small nucleolar RNA (snoRNA) from a DNA template by RNA polymerase II, originating at an RNA polymerase II promoter.",
+  "namespace": "biological_process",
+  "label": "snoRNA transcription by RNA polymerase II"
+}

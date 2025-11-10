@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006879",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006879",
+  "relationships": {
+    "is_a": [
+      "GO:0030003",
+      "GO:0098771"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular iron ion homeostasis"
+    ],
+    "broad": [
+      "iron homeostasis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-917937"
+    ],
+    "GOC": [
+      "ai",
+      "mah"
+    ]
+  },
+  "definition": "A homeostatic process involved in the maintenance of a steady state level of iron ions within a cell.",
+  "namespace": "biological_process",
+  "label": "Iron uptake and transport"
+}

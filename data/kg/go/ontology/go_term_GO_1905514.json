@@ -1,0 +1,51 @@
+{
+  "id": "GO:1905514",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905514",
+  "relationships": {
+    "is_a": [
+      "GO:0048518",
+      "GO:1905512"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of synaptic facilitation",
+      "up regulation of short-term synaptic potentiation",
+      "up regulation of synaptic facilitation",
+      "up-regulation of short-term synaptic potentiation",
+      "up-regulation of synaptic facilitation",
+      "upregulation of short-term synaptic potentiation",
+      "upregulation of synaptic facilitation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of short-term synaptic potentiation",
+      "activation of synaptic facilitation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "hjd",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "15470145"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of short-term synaptic potentiation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of short-term synaptic potentiation"
+}

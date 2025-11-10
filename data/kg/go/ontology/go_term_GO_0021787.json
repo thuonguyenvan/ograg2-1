@@ -1,0 +1,36 @@
+{
+  "id": "GO:0021787",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021787",
+  "relationships": {
+    "is_a": [
+      "GO:0021786",
+      "GO:0021793"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative chemotaxis of branchiomotor neuron axon in neural tube"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid",
+      "mah"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "14699587"
+    ]
+  },
+  "definition": "The process in which a branchiomotor neuron growth cone in the neural tube is directed to a specific target site in the neural tube in response to a repulsive chemical cue. Branchiomotor neurons are located in the hindbrain and innervate branchial arch-derived muscles that control jaw movements, facial expression, the larynx, and the pharynx.",
+  "namespace": "biological_process",
+  "label": "chemorepulsion of branchiomotor neuron axon in neural tube"
+}

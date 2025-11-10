@@ -1,0 +1,28 @@
+{
+  "id": "GO:0008650",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008650",
+  "relationships": {
+    "is_a": [
+      "GO:0016436",
+      "GO:0062105"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "54152",
+      "54152"
+    ],
+    "Reactome": [
+      "R-HSA-6793127"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a uridine in rRNA + S-adenosyl-L-methionine = a 2&apos;-O-methyluridine in rRNA + S-adenosyl-L-homocysteine + H+.",
+  "namespace": "molecular_function",
+  "label": "MRM2 (FTSJ2) methylates uridine-1369 of 16S rRNA yielding 2&apos;-O-methyluridine"
+}

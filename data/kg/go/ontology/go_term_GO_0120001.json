@@ -1,0 +1,32 @@
+{
+  "id": "GO:0120001",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120001",
+  "relationships": {
+    "is_a": [
+      "GO:0005886",
+      "GO:0098590"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "asymmetric unit membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "AUM"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "21468280",
+      "21887288"
+    ]
+  },
+  "definition": "A scallop-shaped plaque, also referred to as an asymmetric unit membrane (AUM), found in the apical plasma membrane of urothelial superficial (umbrella) cells which form a a barrier to the passage of water and soluble toxic compounds found in urine. The plaques are thickened regions of membrane composed of uroplakin transmembrane proteins which form a crystalline array.",
+  "namespace": "cellular_component",
+  "label": "apical plasma membrane urothelial plaque"
+}

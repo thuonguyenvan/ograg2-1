@@ -1,0 +1,27 @@
+{
+  "id": "GO:0017118",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017118",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "20473",
+      "20473"
+    ],
+    "PMID": [
+      "10103005"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-lipoyl-5&apos;-AMP + L-lysyl-[lipoyl-carrier protein] = (R)-N6-lipoyl-L-lysyl-[lipoyl-carrier protein] + AMP + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "lipoyltransferase activity"
+}

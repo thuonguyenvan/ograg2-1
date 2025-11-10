@@ -1,0 +1,30 @@
+{
+  "id": "GO:0048491",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048491",
+  "relationships": {
+    "is_a": [
+      "GO:0008090",
+      "GO:0099517"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "retrograde axonal transport of synaptic vesicle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid",
+      "lmg"
+    ],
+    "PMID": [
+      "24762653"
+    ]
+  },
+  "definition": "The directed movement of synaptic vesicle along axonal microtubules from the presynapse to the cell body.",
+  "namespace": "biological_process",
+  "label": "retrograde synaptic vesicle transport"
+}

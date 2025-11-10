@@ -1,0 +1,30 @@
+{
+  "id": "GO:0009101",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009101",
+  "relationships": {
+    "is_a": [
+      "GO:0009059",
+      "GO:0009100",
+      "GO:1901137"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycoprotein anabolism",
+      "glycoprotein biosynthesis",
+      "glycoprotein formation",
+      "glycoprotein synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "35536965"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of glycoproteins, a protein that contains covalently bound glycose (i.e. monosaccharide) residues; the glycose occurs most commonly as oligosaccharide or fairly small polysaccharide but occasionally as monosaccharide.",
+  "namespace": "biological_process",
+  "label": "glycoprotein biosynthetic process"
+}

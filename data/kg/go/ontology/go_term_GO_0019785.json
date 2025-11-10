@@ -1,0 +1,35 @@
+{
+  "id": "GO:0019785",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019785",
+  "relationships": {
+    "is_a": [
+      "GO:0008234",
+      "GO:0019783"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ISG15-specific protease activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1678841",
+      "R-HSA-5653786",
+      "R-HSA-9729725",
+      "R-HSA-9755244"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "30213559"
+    ]
+  },
+  "definition": "A thiol-dependent isopeptidase activity that cleaves ISG15 from a target protein to which it is conjugated.",
+  "namespace": "molecular_function",
+  "label": "SARS-CoV-2 nsp3 deISGylates ISGylated IFIH1"
+}

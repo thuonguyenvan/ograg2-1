@@ -1,0 +1,34 @@
+{
+  "id": "GO:0001820",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001820",
+  "relationships": {
+    "is_a": [
+      "GO:0006837",
+      "GO:0023061"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5-HT secretion",
+      "5-hydroxytryptamine secretion"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "serotonin release"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ef",
+      "tb"
+    ],
+    "ISBN": [
+      "0198506732",
+      "0781735149"
+    ]
+  },
+  "definition": "The regulated release of serotonin by a cell. Serotonin (5-hydroxytryptamine, or 5-HT) is a monoamine synthesized in serotonergic neurons in the central nervous system, enterochromaffin cells in the gastrointestinal tract and some immune system cells.",
+  "namespace": "biological_process",
+  "label": "serotonin secretion"
+}

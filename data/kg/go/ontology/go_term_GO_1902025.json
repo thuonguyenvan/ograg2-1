@@ -1,0 +1,30 @@
+{
+  "id": "GO:1902025",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902025",
+  "relationships": {
+    "is_a": [
+      "GO:0015698",
+      "GO:0071705"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nitrate influx",
+      "nitrate uptake"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "PMID": [
+      "22658680"
+    ]
+  },
+  "definition": "The directed movement of nitrate into a cell or organelle.",
+  "namespace": "biological_process",
+  "label": "nitrate import"
+}

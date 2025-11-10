@@ -1,0 +1,49 @@
+{
+  "id": "GO:0019677",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019677",
+  "relationships": {
+    "is_a": [
+      "GO:0006195",
+      "GO:0019364",
+      "GO:0019674"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NAD (oxidized) catabolic process",
+      "NAD (oxidized) catabolism",
+      "NAD (reduced) catabolic process",
+      "NAD (reduced) catabolism",
+      "NAD breakdown",
+      "NAD catabolic process",
+      "NAD catabolism",
+      "NAD degradation",
+      "NADH catabolic process",
+      "NADH catabolism",
+      "nicotinamide adenine dinucleotide catabolic process",
+      "nicotinamide adenine dinucleotide catabolism",
+      "oxidized NAD catabolic process",
+      "oxidized NAD catabolism",
+      "oxidized nicotinamide adenine dinucleotide catabolic process",
+      "oxidized nicotinamide adenine dinucleotide catabolism",
+      "reduced NAD catabolic process",
+      "reduced NAD catabolism",
+      "reduced nicotinamide adenine dinucleotide catabolic process",
+      "reduced nicotinamide adenine dinucleotide catabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "NAD-BIOSYNTHESIS-II"
+    ],
+    "PMID": [
+      "28648096"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of nicotinamide adenine dinucleotide (NAD+), a coenzyme that interconverts with its reduced form, NADH, in many redox and catabolic reactions.",
+  "namespace": "biological_process",
+  "label": "NAD+ catabolic process"
+}

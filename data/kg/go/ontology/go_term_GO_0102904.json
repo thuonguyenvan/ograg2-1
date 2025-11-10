@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102904",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102904",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.60",
+      "4.2.3.60"
+    ],
+    "MetaCyc": [
+      "RXN-8561"
+    ],
+    "RHEA": [
+      "28302"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-trans,6-trans-farnesyl diphosphate = germacrene C + diphosphoric acid.",
+  "namespace": "molecular_function",
+  "label": "germacrene C synthase activity"
+}

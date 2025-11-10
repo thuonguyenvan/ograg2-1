@@ -1,0 +1,30 @@
+{
+  "id": "GO:0007294",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007294",
+  "relationships": {
+    "is_a": [
+      "GO:0003006",
+      "GO:0030716"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "maintenance of oocyte identity",
+      "oocyte cell fate determination"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_sensu"
+    ],
+    "ISBN": [
+      "0879694238"
+    ]
+  },
+  "definition": "The cell fate determination process in which a germarium-derived cell becomes capable of differentiating autonomously into an oocyte cell regardless of its environment; upon determination, the cell fate cannot be reversed. An example of this is found in Drosophila melanogaster.",
+  "namespace": "biological_process",
+  "label": "germarium-derived oocyte fate determination"
+}

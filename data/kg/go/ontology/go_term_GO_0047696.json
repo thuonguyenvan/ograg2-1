@@ -1,0 +1,79 @@
+{
+  "id": "GO:0047696",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047696",
+  "relationships": {
+    "is_a": [
+      "GO:0004672"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "ATP:beta-adrenergic-receptor phosphotransferase activity",
+      "adrenergic receptor kinase activity"
+    ],
+    "narrow": [
+      "beta-adrenoceptor kinase 1 activity",
+      "beta-adrenoceptor kinase 2 activity"
+    ],
+    "related": [
+      "ADRBK1",
+      "BARK1",
+      "GRK2",
+      "GRK3",
+      "STK15",
+      "[b-adrenergic-receptor] kinase activity",
+      "beta-AR kinase activity",
+      "beta-ARK",
+      "beta-ARK 1",
+      "beta-ARK 2",
+      "beta-adrenergic receptor-specific kinase activity",
+      "beta-adrenergic-receptor kinase (phosphorylating) activity",
+      "beta-adrenergic-receptor kinase activity",
+      "beta-adrenoceptor kinase activity",
+      "beta-receptor kinase activity",
+      "beta2ARK",
+      "betaARK1"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15",
+      "2.7.11.15"
+    ],
+    "MetaCyc": [
+      "2.7.11.15-RXN"
+    ],
+    "RHEA": [
+      "19429",
+      "19429"
+    ],
+    "Reactome": [
+      "R-HSA-8851797",
+      "R-HSA-8866268"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [beta-adrenergic receptor] + ATP = [beta-adrenergic receptor]-phosphate + ADP + H+.",
+  "namespace": "molecular_function",
+  "label": "ADBRK1,2 phosphorylate AVPR2"
+}

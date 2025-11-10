@@ -1,0 +1,30 @@
+{
+  "id": "GO:0050972",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050972",
+  "relationships": {
+    "is_a": [
+      "GO:0050974"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "echolocation, detection of mechanical stimulus",
+      "echolocation, sensory detection of mechanical stimulus",
+      "echolocation, sensory transduction of mechanical stimulus",
+      "sensory detection of mechanical stimulus during echolocation",
+      "sensory transduction of mechanical stimulus during echolocation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dos"
+    ]
+  },
+  "definition": "The series of events involved in echolocation in which a mechanical stimulus is received and converted into a molecular signal. The stimulus is in the form of a reflected sound wave (an echo), which the organism uses to determine the distance to the object that reflected the sound wave.",
+  "namespace": "biological_process",
+  "label": "detection of mechanical stimulus involved in echolocation"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:0051935",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051935",
+  "relationships": {
+    "is_a": [
+      "GO:0051933",
+      "GO:0098712"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-glutamate reuptake",
+      "L-glutamate uptake involved in synaptic transmission"
+    ],
+    "broad": [
+      "glutamate recycling"
+    ],
+    "narrow": [
+      "glutamate import into glial cell",
+      "glutamate import into neuron"
+    ],
+    "related": [
+      "L-glutamate uptake during transmission of nerve impulse",
+      "glutamate uptake during transmission of nerve impulse"
+    ]
+  },
+  "cross_references": {
+    "ISBN": [
+      "0123668387"
+    ],
+    "Wikipedia": [
+      "Glutamate_transporter"
+    ],
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The uptake of L-glutamate by neurons or glial cells. This process leads to inactivation and recycling of neurotransmitters.",
+  "namespace": "biological_process",
+  "label": "glutamate reuptake"
+}

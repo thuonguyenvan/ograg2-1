@@ -1,0 +1,29 @@
+{
+  "id": "GO:0071404",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071404",
+  "relationships": {
+    "is_a": [
+      "GO:0055094",
+      "GO:0071402"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "response to low density lipoprotein particle",
+      "response to low-density lipoprotein particle",
+      "response to low-density lipoprotein particle stimulus"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "dos"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a low-density lipoprotein particle stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to low-density lipoprotein particle stimulus"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0036092",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036092",
+  "relationships": {
+    "is_a": [
+      "GO:0046854"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PI(3)P biosynthesis",
+      "PtdIns3P biosynthesis",
+      "phosphatidylinositol-3-phosphate anabolism",
+      "phosphatidylinositol-3-phosphate biosynthesis",
+      "phosphatidylinositol-3-phosphate formation",
+      "phosphatidylinositol-3-phosphate synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "al",
+      "vw",
+      "bf",
+      "bf",
+      "bf",
+      "bf"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of phosphatidylinositol-3-phosphate, a phosphatidylinositol monophosphate carrying the phosphate group at the 3-position.",
+  "namespace": "biological_process",
+  "label": "phosphatidylinositol-3-phosphate biosynthetic process"
+}

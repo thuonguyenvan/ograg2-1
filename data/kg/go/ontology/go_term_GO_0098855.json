@@ -1,0 +1,42 @@
+{
+  "id": "GO:0098855",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098855",
+  "relationships": {
+    "is_a": [
+      "GO:0008076"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "K/Na hyperpolarization-activated cyclic nucleotide-gated channel complex",
+      "potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "HCN1 channel complex",
+      "HCN2 channel complex",
+      "HCN3 channel complex",
+      "HCN4 channel complex",
+      "K/Na hyperpolarization-activated channel 3 complex",
+      "K/Na hyperpolarization-activated cyclic nucleotide-gated channel 1 complex",
+      "K/Na hyperpolarization-activated cyclic nucleotide-gated channel 2 complex",
+      "K/Na hyperpolarization-activated cyclic nucleotide-gated channel 4 complex",
+      "potassium/sodium hyperpolarization-activated channel 3 complex",
+      "potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1 complex",
+      "potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2 complex",
+      "potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4 complex"
+    ],
+    "related": [
+      "potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2 tetramer",
+      "potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4 tetramer"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "20829353"
+    ]
+  },
+  "definition": "A cation ion channel with a preference for K+ over Na+ ions, which is activated by membrane hyperpolarization, and consists of a tetramer of HCN family members. Some members of this family (HCN1, HCN2 and HCN4) are also activated when cAMP binds to their cyclic nucleotide binding domain (CNBD). Channel complexes of this family play an important role in the control of pacemaker activity in the heart.",
+  "namespace": "cellular_component",
+  "label": "HCN channel complex"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GO:0048001",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048001",
+  "relationships": {
+    "is_a": [
+      "GO:0016620"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-erythrose 4-phosphate:NAD+ oxidoreductase activity",
+      "E4P dehydrogenase activity",
+      "E4PDH",
+      "Epd dehydrogenase activity",
+      "GapB",
+      "erythrose 4-phosphate dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.72",
+      "1.2.1.72",
+      "1.2.1.72",
+      "1.2.1.72",
+      "1.2.1.72",
+      "1.2.1.72",
+      "1.2.1.72",
+      "1.2.1.72"
+    ],
+    "KEGG_REACTION": [
+      "R01825"
+    ],
+    "MetaCyc": [
+      "ERYTH4PDEHYDROG-RXN"
+    ],
+    "RHEA": [
+      "12056",
+      "12056"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-erythrose 4-phosphate + H2O + NAD+ = 4-phospho-D-erythronate + 2 H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "erythrose-4-phosphate dehydrogenase activity"
+}

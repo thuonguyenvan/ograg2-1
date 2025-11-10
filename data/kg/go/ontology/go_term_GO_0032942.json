@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032942",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032942",
+  "relationships": {
+    "is_a": [
+      "GO:0051765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "1D-myo-inositol-tetrakisphosphate 2-kinase activity",
+      "inositol tetrakisphosphate 2-kinase activity",
+      "inositol-tetrakisphosphate 2-kinase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-7182",
+      "RXN-7182"
+    ],
+    "PMID": [
+      "16107538"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1D-myo-inositol 1,4,5,6-tetrakisphosphate + ATP = 1D-myo-inositol 1,2,4,5,6-pentakisphosphate + ADP + H+.",
+  "namespace": "molecular_function",
+  "label": "inositol-1,4,5,6-tetrakisphosphate 2-kinase activity"
+}

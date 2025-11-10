@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006388",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006388",
+  "relationships": {
+    "is_a": [
+      "GO:0000394",
+      "GO:0008033"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "tRNA-Y splicing"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "ISBN": [
+      "0879695897"
+    ],
+    "PMID": [
+      "9582290"
+    ]
+  },
+  "definition": "Splicing of tRNA substrates via recognition of the folded RNA structure that brings the 5&apos; and 3&apos; splice sites into proximity and cleavage of the RNA at both the 3&apos; and 5&apos; splice sites by an endonucleolytic mechanism, followed by ligation of the exons.",
+  "namespace": "biological_process",
+  "label": "tRNA splicing, via endonucleolytic cleavage and ligation"
+}

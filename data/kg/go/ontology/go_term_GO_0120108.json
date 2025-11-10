@@ -1,0 +1,32 @@
+{
+  "id": "GO:0120108",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120108",
+  "relationships": {
+    "is_a": [
+      "GO:0016462"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA-3&apos;pp5&apos;G guanylate hydrolase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.72"
+    ],
+    "RHEA": [
+      "52140",
+      "52140"
+    ],
+    "PMID": [
+      "26007660"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 3&apos;-end 2&apos;-deoxyribonucleotide-3&apos;-diphospho-5&apos;-guanosine-DNA + H2O = a 3&apos;-end 2&apos;-deoxyribonucleotide 3&apos;-phosphate-DNA + GMP + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "DNA-3&apos;-diphospho-5&apos;-guanosine diphosphatase activity"
+}

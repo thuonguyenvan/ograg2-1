@@ -1,0 +1,40 @@
+{
+  "id": "GO:1903641",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903641",
+  "relationships": {
+    "is_a": [
+      "GO:0060454",
+      "GO:1903639"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of gastrin-induced gastric acid secretion",
+      "up-regulation of gastrin-induced gastric acid secretion",
+      "upregulation of gastrin-induced gastric acid secretion"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of gastrin-induced gastric acid secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "11123201"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of gastrin-induced gastric acid secretion.",
+  "namespace": "biological_process",
+  "label": "positive regulation of gastrin-induced gastric acid secretion"
+}

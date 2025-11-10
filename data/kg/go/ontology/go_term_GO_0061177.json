@@ -1,0 +1,27 @@
+{
+  "id": "GO:0061177",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061177",
+  "relationships": {
+    "is_a": [
+      "GO:0061174"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "type Is terminal button"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mc",
+      "dph"
+    ]
+  },
+  "definition": "Terminal inflated portion of the axon of a glutamatergic neuron, containing the specialized apparatus necessary for the phasic release neurotransmitters that will induce the contraction of muscle. Type Is terminal boutons are smaller than type Ib terminal boutons.",
+  "namespace": "cellular_component",
+  "label": "type Is terminal bouton"
+}

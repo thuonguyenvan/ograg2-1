@@ -1,0 +1,30 @@
+{
+  "id": "GO:0072558",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072558",
+  "relationships": {
+    "is_a": [
+      "GO:0061702"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NALP1 inflammasome complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "add",
+      "vp"
+    ],
+    "PMID": [
+      "20303873"
+    ]
+  },
+  "definition": "An inflammasome complex that consists of two components, NLRP1 (NALP1) and caspase-1 or caspase-5. The exact mechanisms of NLRP1 activation remain obscure, but potassium ion efflux appears to be essential.",
+  "namespace": "cellular_component",
+  "label": "NLRP1 inflammasome complex"
+}

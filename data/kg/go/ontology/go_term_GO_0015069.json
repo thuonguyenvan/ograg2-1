@@ -1,0 +1,44 @@
+{
+  "id": "GO:0015069",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015069",
+  "relationships": {
+    "is_a": [
+      "GO:0015067"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "inosamine-phosphate amidinotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-arginine:1-amino-1-deoxy-scyllo-inositol-4-phosphate amidinotransferase activity",
+      "L-arginine:inosamine phosphate amidinotransferase activity",
+      "L-arginine:inosamine-P-amidinotransferase activity",
+      "inosamine-P amidinotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.4.2",
+      "2.1.4.2",
+      "2.1.4.2",
+      "2.1.4.2",
+      "2.1.4.2"
+    ],
+    "KEGG_REACTION": [
+      "R03477"
+    ],
+    "MetaCyc": [
+      "2.1.4.2-RXN"
+    ],
+    "RHEA": [
+      "13265",
+      "13265"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-amino-1-deoxy-scyllo-inositol 4-phosphate + L-arginine = 1-guanidino-1-deoxy-scyllo-inositol 4-phosphate + L-ornithine.",
+  "namespace": "molecular_function",
+  "label": "scyllo-inosamine-4-phosphate amidinotransferase activity"
+}

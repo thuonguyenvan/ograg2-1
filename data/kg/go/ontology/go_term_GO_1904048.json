@@ -1,0 +1,35 @@
+{
+  "id": "GO:1904048",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904048",
+  "relationships": {
+    "is_a": [
+      "GO:0046928",
+      "GO:0150003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of stimulus-independent neurotransmitter secretion"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "pad",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22314364"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of spontaneous neurotransmitter secretion.",
+  "namespace": "biological_process",
+  "label": "regulation of spontaneous neurotransmitter secretion"
+}

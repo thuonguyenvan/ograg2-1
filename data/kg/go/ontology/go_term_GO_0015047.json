@@ -1,0 +1,37 @@
+{
+  "id": "GO:0015047",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015047",
+  "relationships": {
+    "is_a": [
+      "GO:0016653"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NADPH:ferricytochrome-c2 oxidoreductase activity",
+      "cytochrome c2 reductase (reduced nicotinamide adinine dinucleotide phosphate, NADPH)",
+      "reductase, cytochrome c2 (reduced nicotinamide adenine dinucleotide phosphate)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.6.2.5",
+      "1.6.2.5",
+      "1.6.2.5",
+      "1.6.2.5",
+      "1.6.2.5"
+    ],
+    "MetaCyc": [
+      "NADPH--CYTOCHROME-C2-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "15237"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NADPH + H+ + 2 ferricytochrome c2 = NADP+ + 2 ferrocytochrome c2.",
+  "namespace": "molecular_function",
+  "label": "NADPH-cytochrome-c2 reductase activity"
+}

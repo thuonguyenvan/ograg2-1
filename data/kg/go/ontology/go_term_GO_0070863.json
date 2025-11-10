@@ -1,0 +1,42 @@
+{
+  "id": "GO:0070863",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070863",
+  "relationships": {
+    "is_a": [
+      "GO:0070861",
+      "GO:0090316"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of protein exit from ER",
+      "positive regulation of protein export from ER",
+      "positive regulation of protein export from endoplasmic reticulum",
+      "up regulation of protein exit from endoplasmic reticulum",
+      "up-regulation of protein exit from endoplasmic reticulum",
+      "upregulation of protein exit from endoplasmic reticulum"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein exit from endoplasmic reticulum",
+      "stimulation of protein exit from endoplasmic reticulum"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of directed movement of proteins from the endoplasmic reticulum.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein exit from endoplasmic reticulum"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0002764",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002764",
+  "relationships": {
+    "is_a": [
+      "GO:0007165",
+      "GO:0050776"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "immune response-regulating signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mah"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "15771571"
+    ]
+  },
+  "definition": "The cascade of processes by which a signal interacts with a receptor, causing a change in the level or activity of a second messenger or other downstream target, and ultimately leading to the activation, perpetuation, or inhibition of an immune response.",
+  "namespace": "biological_process",
+  "label": "immune response-regulating signaling pathway"
+}

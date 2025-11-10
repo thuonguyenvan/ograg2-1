@@ -1,0 +1,32 @@
+{
+  "id": "GO:0043917",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043917",
+  "relationships": {
+    "is_a": [
+      "GO:0016861"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ribose-1,5-bisphosphate isomerase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.1.29"
+    ],
+    "MetaCyc": [
+      "RXN-8801"
+    ],
+    "RHEA": [
+      "32243",
+      "32243"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-D-ribose 1,5-bisphosphate = D-ribulose 1,5-bisphosphate.",
+  "namespace": "molecular_function",
+  "label": "ribose 1,5-bisphosphate isomerase activity"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047563",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047563",
+  "relationships": {
+    "is_a": [
+      "GO:0004497",
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-hydroxybenzoate 2-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-HBA-2-hydroxylase activity",
+      "3-hydroxybenzoate,hydrogen-donor:oxygen oxidoreductase (2-hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.99.23",
+      "1.14.99.23",
+      "1.14.99.23",
+      "1.14.99.23"
+    ],
+    "KEGG_REACTION": [
+      "R01508"
+    ],
+    "MetaCyc": [
+      "3-HYDROXYBENZOATE-2-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "14193",
+      "14193"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-hydroxybenzoate + AH(2) + O2 = 2,3-dihydroxybenzoate + A + H2O.",
+  "namespace": "molecular_function",
+  "label": "3-hydroxybenzoate 2-monooxygenase activity"
+}

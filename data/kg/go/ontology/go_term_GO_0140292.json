@@ -1,0 +1,29 @@
+{
+  "id": "GO:0140292",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140292",
+  "relationships": {
+    "is_a": [
+      "GO:0016799",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "58256",
+      "58256"
+    ],
+    "PMID": [
+      "28650317",
+      "29234005"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (ADP-D-ribosyl)-L-seryl-[protein] + H2O = L-seryl-[protein] + ADP-ribose.",
+  "namespace": "molecular_function",
+  "label": "ADP-ribosylserine hydrolase activity"
+}

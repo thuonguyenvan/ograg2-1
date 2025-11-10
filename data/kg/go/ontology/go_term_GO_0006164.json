@@ -1,0 +1,36 @@
+{
+  "id": "GO:0006164",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006164",
+  "relationships": {
+    "is_a": [
+      "GO:0006163",
+      "GO:0009165",
+      "GO:0072522"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "purine nucleotide anabolism",
+      "purine nucleotide biosynthesis",
+      "purine nucleotide formation",
+      "purine nucleotide synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "DENOVOPURINE2-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of a purine nucleotide, a compound consisting of nucleoside (a purine base linked to a deoxyribose or ribose sugar) esterified with a phosphate group at either the 3&apos; or 5&apos;-hydroxyl group of the sugar.",
+  "namespace": "biological_process",
+  "label": "purine nucleotide biosynthetic process"
+}

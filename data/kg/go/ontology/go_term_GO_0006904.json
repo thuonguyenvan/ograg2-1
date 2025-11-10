@@ -1,0 +1,33 @@
+{
+  "id": "GO:0006904",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006904",
+  "relationships": {
+    "is_a": [
+      "GO:0048278",
+      "GO:0140029"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "vesicle docking during exocytosis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "aruk",
+      "bc",
+      "jid",
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "22438915"
+    ]
+  },
+  "definition": "The initial attachment of a vesicle membrane to a target membrane, mediated by proteins protruding from the membrane of the vesicle and the target membrane, that contributes to exocytosis.",
+  "namespace": "biological_process",
+  "label": "vesicle docking involved in exocytosis"
+}

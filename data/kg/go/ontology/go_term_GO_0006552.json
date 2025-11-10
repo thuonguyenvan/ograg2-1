@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006552",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006552",
+  "relationships": {
+    "is_a": [
+      "GO:0006551",
+      "GO:0009083",
+      "GO:0170035",
+      "GO:0170040"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-leucine breakdown",
+      "L-leucine catabolism",
+      "L-leucine degradation"
+    ],
+    "broad": [
+      "leucine catabolic process"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-leucine, 2-amino-4-methylpentanoic acid.",
+  "namespace": "biological_process",
+  "label": "L-leucine catabolic process"
+}

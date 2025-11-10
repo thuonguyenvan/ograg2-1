@@ -1,0 +1,31 @@
+{
+  "id": "GO:1905707",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905707",
+  "relationships": {
+    "is_a": [
+      "GO:1905706",
+      "GO:2001170"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "12809520",
+      "15294286"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of mitochondrial ATP synthesis coupled proton transport.",
+  "namespace": "biological_process",
+  "label": "negative regulation of mitochondrial ATP synthesis coupled proton transport"
+}

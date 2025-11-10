@@ -1,0 +1,43 @@
+{
+  "id": "GO:0016630",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016630",
+  "relationships": {
+    "is_a": [
+      "GO:0016628"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NADPH-protochlorophyllide oxidoreductase activity",
+      "NADPH-protochlorophyllide reductase activity",
+      "NADPH2-protochlorophyllide oxidoreductase activity",
+      "chlorophyllide-a:NADP+ 7,8-oxidoreductase activity",
+      "protochlorophyllide oxidoreductase activity",
+      "protochlorophyllide photooxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.3.1.33",
+      "1.3.1.33",
+      "1.3.1.33",
+      "1.3.1.33",
+      "1.3.1.33",
+      "1.3.1.33",
+      "1.3.1.33",
+      "1.3.1.33"
+    ],
+    "MetaCyc": [
+      "RXN1F-10"
+    ],
+    "RHEA": [
+      "11132"
+    ]
+  },
+  "definition": "Catalysis of the reaction: chlorophyllide a + NADP+ = protochlorophyllide + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "protochlorophyllide reductase activity"
+}

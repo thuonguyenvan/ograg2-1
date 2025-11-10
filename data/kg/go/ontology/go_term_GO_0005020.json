@@ -1,0 +1,39 @@
+{
+  "id": "GO:0005020",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005020",
+  "relationships": {
+    "is_a": [
+      "GO:0004714"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "KIT ligand receptor activity",
+      "KL receptor activity",
+      "SCF receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "KIT"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "signaling"
+    ],
+    "PMID": [
+      "10698217"
+    ],
+    "PR": [
+      "000009345",
+      "000009345",
+      "000009345",
+      "000009345"
+    ]
+  },
+  "definition": "Combining with stem cell factor (SCF) receptor ligand and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity by catalysis of the reaction: ATP + a protein-L-tyrosine = ADP + a protein-L-tyrosine phosphate. Stem cell factor is a cytokine that stimulates mast cell growth and differentiation.",
+  "namespace": "molecular_function",
+  "label": "stem cell factor receptor activity"
+}

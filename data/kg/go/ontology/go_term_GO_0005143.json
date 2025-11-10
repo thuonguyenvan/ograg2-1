@@ -1,0 +1,27 @@
+{
+  "id": "GO:0005143",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005143",
+  "relationships": {
+    "is_a": [
+      "GO:0005126",
+      "GO:0070851"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "IL-12",
+      "interleukin-12 receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binding to an interleukin-12 receptor.",
+  "namespace": "molecular_function",
+  "label": "interleukin-12 receptor binding"
+}

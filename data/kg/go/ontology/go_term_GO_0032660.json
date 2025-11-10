@@ -1,0 +1,35 @@
+{
+  "id": "GO:0032660",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032660",
+  "relationships": {
+    "is_a": [
+      "GO:0001817"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of CTLA-8 production",
+      "regulation of Cytotoxic T-lymphocyte-associated antigen 8 secretion",
+      "regulation of IL-17 production"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of interleukin-17 biosynthetic process",
+      "regulation of interleukin-17 secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mah",
+      "TermGenie"
+    ],
+    "PMID": [
+      "16482511"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate, or extent of production of any member of the interleukin-17 family of cytokines.",
+  "namespace": "biological_process",
+  "label": "regulation of interleukin-17 production"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0009022",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009022",
+  "relationships": {
+    "is_a": [
+      "GO:0016779",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RNase PH activity",
+      "phosphate-dependent exonuclease activity",
+      "ribonuclease PH activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.56",
+      "2.7.7.56",
+      "2.7.7.56",
+      "2.7.7.56"
+    ],
+    "MetaCyc": [
+      "TRNA-NUCLEOTIDYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "10628",
+      "10628"
+    ],
+    "PMID": [
+      "2455297"
+    ]
+  },
+  "definition": "Catalysis of the reaction: tRNA(n+1) + phosphate = tRNA(n) + a nucleoside diphosphate.",
+  "namespace": "molecular_function",
+  "label": "tRNA nucleotidyltransferase activity"
+}

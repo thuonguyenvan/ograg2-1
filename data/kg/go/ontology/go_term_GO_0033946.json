@@ -1,0 +1,43 @@
+{
+  "id": "GO:0033946",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033946",
+  "relationships": {
+    "is_a": [
+      "GO:0052736"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "1,4-beta-D-glucan glucanohydrolase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "XEG",
+      "XH",
+      "[(1-&gt;6)-beta-D-xylo]-(1-&gt;4)-beta-D-glucan glucanohydrolase activity",
+      "xyloglucan endo-beta-1,4-glucanase activity",
+      "xyloglucanase activity",
+      "xyloglucanendohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.151",
+      "3.2.1.151",
+      "3.2.1.151",
+      "3.2.1.151",
+      "3.2.1.151",
+      "3.2.1.151",
+      "3.2.1.151",
+      "3.2.1.151",
+      "3.2.1.151"
+    ],
+    "MetaCyc": [
+      "3.2.1.151-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: xyloglucan + H2O = xyloglucan oligosaccharides. This reaction is the endohydrolysis of (1-&gt;4)-beta-D-glucosidic linkages in xyloglucan.",
+  "namespace": "molecular_function",
+  "label": "xyloglucan-specific endo-beta-1,4-glucanase activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0170057",
+  "uri": "http://purl.obolibrary.org/obo/GO_0170057",
+  "relationships": {
+    "is_a": [
+      "GO:0008452"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3&apos;-phosphate/5&apos;-hydroxy nucleic acid ligase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "6.5.1.8",
+      "6.5.1.8"
+    ],
+    "PMID": [
+      "21311021"
+    ]
+  },
+  "definition": "Catalysis of the joining of an RNA with 3&apos;-phosphate or 2&apos;,3&apos;-cyclic-phosphate ends to an RNA with 5&apos;-hydroxy ends according to either (i) a 3&apos;-end 3&apos;-phospho-ribonucleotide-RNA + a 5&apos;-end dephospho-ribonucleoside-RNA + GTP = a ribonucleotidyl-ribonucleotide-RNA + diphosphate + GMP; or (ii) a 3&apos;-end 2&apos;,3&apos;-cyclophospho-ribonucleotide-RNA + a 5&apos;-end dephospho-ribonucleoside-RNA + GTP + H2O = a ribonucleotidyl-ribonucleotide-RNA + diphosphate + GMP + H+.",
+  "namespace": "molecular_function",
+  "label": "RNA ligase (GTP) activity"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "GO:0010295",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010295",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "abscisic acid 8&apos;-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(+)-ABA 8&apos;-hydroxylase activity",
+      "ABA 8&apos;-Hydroxylase activity, Abscisate 8&apos;-hydroxylase activity",
+      "ABA 8&apos;-hydroxylase activity",
+      "abscisate,NADPH:oxygen oxidoreductase (8&apos;-hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.137",
+      "1.14.14.137",
+      "1.14.14.137",
+      "1.14.14.137",
+      "1.14.14.137"
+    ],
+    "KEGG_REACTION": [
+      "R07202"
+    ],
+    "MetaCyc": [
+      "1.14.13.93-RXN"
+    ],
+    "RHEA": [
+      "12897",
+      "12897"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (+)-abscisate + H+ + NADPH + O2 = (+)-8&apos;-hydroxyabscisate + H2O + NADP+.",
+  "namespace": "molecular_function",
+  "label": "(+)-abscisic acid 8&apos;-hydroxylase activity"
+}

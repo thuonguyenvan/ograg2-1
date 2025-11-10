@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102386",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102386",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-13536"
+    ],
+    "RHEA": [
+      "63736",
+      "63736"
+    ],
+    "PMID": [
+      "17644147"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-phenylacetaldehyde + NADPH + H+ = 2-phenylethanol + NADP+.",
+  "namespace": "molecular_function",
+  "label": "phenylacetaldehyde reductase activity"
+}

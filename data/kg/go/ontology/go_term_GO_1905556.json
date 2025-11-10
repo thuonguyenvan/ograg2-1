@@ -1,0 +1,46 @@
+{
+  "id": "GO:1905556",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905556",
+  "relationships": {
+    "is_a": [
+      "GO:0016050",
+      "GO:0070925"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ciliary vesicle formation",
+      "primary ciliary vesicle assembly",
+      "primary ciliary vesicle formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CV assembly",
+      "CV formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "cilia",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000079"
+    ],
+    "PMID": [
+      "13978319",
+      "25313408",
+      "25805133",
+      "25812525"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form a ciliary vesicle. Multiple smaller vesicles dock to the transitional fibers on a mature basal body and then fuse together to form a larger single vesicle. This then fuses with the plasma membrane and forms the ciliary membrane.",
+  "namespace": "biological_process",
+  "label": "ciliary vesicle assembly"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0038014",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038014",
+  "relationships": {
+    "is_a": [
+      "GO:0038011",
+      "GO:0038016",
+      "GO:0046627"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of insulin receptor signalling pathway by insulin receptor internalization"
+    ],
+    "broad": [
+      "agonist-stimulated insulin receptor internalization"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "signaling",
+      "mah"
+    ],
+    "PMID": [
+      "18492485",
+      "7821727",
+      "7978876",
+      "9609114",
+      "18492485"
+    ]
+  },
+  "definition": "Any process in which internalization of an insulin receptor stops, prevents, or reduces the frequency, rate or extent of insulin receptor signal transduction. Internalization of insulin in association with its receptor clears insulin from the circulation and is necessary for subsequent insulin dissociation from the receptor and insulin degradation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of insulin receptor signaling pathway by insulin receptor internalization"
+}

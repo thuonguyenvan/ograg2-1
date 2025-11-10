@@ -1,0 +1,35 @@
+{
+  "id": "GO:0006925",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006925",
+  "relationships": {
+    "is_a": [
+      "GO:0006915"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "apoptosis of inflammatory cells",
+      "inflammatory cell programmed cell death by apoptosis",
+      "killing of inflammatory cells",
+      "programmed cell death of inflammatory cells by apoptosis",
+      "programmed cell death, inflammatory cells"
+    ],
+    "broad": [],
+    "narrow": [
+      "inflammatory cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-168277"
+    ],
+    "GOC": [
+      "jl",
+      "mtg_apoptosis"
+    ]
+  },
+  "definition": "Any apoptotic process in an inflammatory cell, any cell participating in the inflammatory response to a foreign substance e.g. neutrophil, macrophage.",
+  "namespace": "biological_process",
+  "label": "Influenza Virus Induced Apoptosis"
+}

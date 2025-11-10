@@ -1,0 +1,32 @@
+{
+  "id": "GO:0016236",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016236",
+  "relationships": {
+    "is_a": [
+      "GO:0006914"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "autophagy"
+    ],
+    "narrow": [
+      "selective autophagy"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1632852",
+      "R-HSA-5205685",
+      "R-HSA-8934903"
+    ],
+    "PMID": [
+      "24366339"
+    ]
+  },
+  "definition": "The autophagic process that proceeds via the formation of an autophagosome.",
+  "namespace": "biological_process",
+  "label": "Receptor Mediated Mitophagy"
+}

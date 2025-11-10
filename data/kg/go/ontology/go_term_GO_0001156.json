@@ -1,0 +1,28 @@
+{
+  "id": "GO:0001156",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001156",
+  "relationships": {
+    "is_a": [
+      "GO:0001025"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TFIIIC-class transcription factor binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH"
+    ],
+    "PMID": [
+      "12381659"
+    ]
+  },
+  "definition": "Binding to a general RNA polymerase III transcription factor belonging to the TFIIC complex, one of the factors involved in formation of the preinitiation complex (PIC) by RNA polymerase III.",
+  "namespace": "molecular_function",
+  "label": "TFIIIC-class transcription factor complex binding"
+}

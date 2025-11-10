@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047003",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047003",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "TDP-6-deoxy-L-talose dehydrogenase activity",
+      "dTDP-6-deoxy-L-talose dehydrogenase (4-reductase)",
+      "dTDP-6-deoxy-L-talose:NADP+ 4-oxidoreductase activity",
+      "thymidine diphospho-6-deoxy-L-talose dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.134",
+      "1.1.1.134",
+      "1.1.1.134",
+      "1.1.1.134",
+      "1.1.1.134",
+      "1.1.1.134"
+    ],
+    "KEGG_REACTION": [
+      "R02776"
+    ],
+    "MetaCyc": [
+      "1.1.1.134-RXN"
+    ],
+    "RHEA": [
+      "23648",
+      "23648"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dTDP-6-deoxy-L-talose + NADP+ = dTDP-4-dehydro-6-deoxy-L-mannose + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "dTDP-6-deoxy-L-talose 4-dehydrogenase activity"
+}

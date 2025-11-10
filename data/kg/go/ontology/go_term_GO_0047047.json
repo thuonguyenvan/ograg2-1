@@ -1,0 +1,31 @@
+{
+  "id": "GO:0047047",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047047",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-glycerate:NAD(P)+ oxidoreductase (carboxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.92",
+      "1.1.1.92",
+      "1.1.1.92"
+    ],
+    "MetaCyc": [
+      "1.1.1.92-RXN",
+      "1.1.1.92-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glycerate + CO2 + NAD(P)+ = NAD(P)H + H+ + 2-hydroxy-3-oxosuccinate.",
+  "namespace": "molecular_function",
+  "label": "oxaloglycolate reductase (decarboxylating) activity"
+}

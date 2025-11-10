@@ -1,0 +1,30 @@
+{
+  "id": "GO:0010133",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010133",
+  "relationships": {
+    "is_a": [
+      "GO:0006536",
+      "GO:0006562"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "proline breakdown to glutamate",
+      "proline degradation to glutamate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "proline oxidation"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PROUT-PWY",
+      "PROUT-PWY"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-proline into L-glutamate.",
+  "namespace": "biological_process",
+  "label": "L-proline catabolic process to L-glutamate"
+}

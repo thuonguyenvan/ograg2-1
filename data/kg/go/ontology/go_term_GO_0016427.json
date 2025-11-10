@@ -1,0 +1,26 @@
+{
+  "id": "GO:0016427",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016427",
+  "relationships": {
+    "is_a": [
+      "GO:0008175",
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA (cytosine) methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go-curators"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + tRNA = S-adenosyl-L-homocysteine + tRNA containing methylcytosine.",
+  "namespace": "molecular_function",
+  "label": "tRNA (cytidine) methyltransferase activity"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "GO:0047641",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047641",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "A6PR",
+      "D-aldose-6-phosphate:NADP+ 1-oxidoreductase activity",
+      "NADP-dependent D-sorbitol-6-phosphate dehydrogenase activity",
+      "NADP-dependent aldose 6-phosphate reductase activity",
+      "alditol 6-phosphate:NADP 1-oxidoreductase activity",
+      "aldose 6-phosphate reductase activity",
+      "aldose-6-P reductase activity",
+      "aldose-6-phosphate reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.200",
+      "1.1.1.200",
+      "1.1.1.200",
+      "1.1.1.200",
+      "1.1.1.200",
+      "1.1.1.200",
+      "1.1.1.200",
+      "1.1.1.200",
+      "1.1.1.200",
+      "1.1.1.200"
+    ],
+    "KEGG_REACTION": [
+      "R00834"
+    ],
+    "MetaCyc": [
+      "ALDOSE-6-PHOSPHATE-REDUCTASE-NADPH-RXN"
+    ],
+    "RHEA": [
+      "20037",
+      "20037"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-glucitol 6-phosphate + NADP+ = D-glucose 6-phosphate + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "aldose-6-phosphate reductase (NADPH) activity"
+}

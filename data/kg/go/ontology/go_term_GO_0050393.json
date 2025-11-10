@@ -1,0 +1,45 @@
+{
+  "id": "GO:0050393",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050393",
+  "relationships": {
+    "is_a": [
+      "GO:0016863"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "vinylacetyl-CoA D-isomerase activity"
+    ],
+    "broad": [
+      "delta3-cis-delta2-trans-enoyl-CoA isomerase"
+    ],
+    "narrow": [],
+    "related": [
+      "vinylacetyl coenzyme A delta-isomerase activity",
+      "vinylacetyl coenzyme A isomerase activity",
+      "vinylacetyl-CoA delta3-delta2-isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.3.3",
+      "5.3.3.3",
+      "5.3.3.3",
+      "5.3.3.3",
+      "5.3.3.3"
+    ],
+    "KEGG_REACTION": [
+      "R03031"
+    ],
+    "MetaCyc": [
+      "VINYLACETYL-COA-DELTA-ISOMERASE-RXN"
+    ],
+    "RHEA": [
+      "10572",
+      "10572"
+    ]
+  },
+  "definition": "Catalysis of the reaction: vinylacetyl-CoA = (2E)-butenoyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "vinylacetyl-CoA delta-isomerase activity"
+}

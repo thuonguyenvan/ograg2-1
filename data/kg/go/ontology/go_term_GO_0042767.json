@@ -1,0 +1,31 @@
+{
+  "id": "GO:0042767",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042767",
+  "relationships": {
+    "is_a": [
+      "GO:0008395",
+      "GO:0016713"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "3-dehydro-2,22-dideoxyecdysone 22-hydroxylase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.15.44",
+      "1.14.15.44",
+      "1.14.15.44"
+    ],
+    "PMID": [
+      "12177427"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-dehydro-2,22-dideoxyecdysone + 2 reduced [adrenodoxin] + O2 + 2 H+ = 3-dehydro-2-deoxyecdysone + 2 oxidized [adrenodoxin] + H2O. Other substrates include 3-dehydro-2,22,25-deoxyecdysone and 2,22-dideoxyecdysone.",
+  "namespace": "molecular_function",
+  "label": "ecdysteroid 22-hydroxylase activity"
+}

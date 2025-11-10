@@ -1,0 +1,32 @@
+{
+  "id": "GO:0050908",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050908",
+  "relationships": {
+    "is_a": [
+      "GO:0050962"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sensory detection of light during visual perception",
+      "sensory detection of light stimulus during visual perception",
+      "sensory transduction of light during visual perception",
+      "sensory transduction of light stimulus during visual perception",
+      "visual perception, detection of light stimulus",
+      "visual perception, sensory transduction during perception of light",
+      "visual perception, sensory transduction of light stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dos"
+    ]
+  },
+  "definition": "The series of events involved in visual perception in which a light stimulus is received and converted into a molecular signal.",
+  "namespace": "biological_process",
+  "label": "detection of light stimulus involved in visual perception"
+}

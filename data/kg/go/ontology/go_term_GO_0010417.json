@@ -1,0 +1,29 @@
+{
+  "id": "GO:0010417",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010417",
+  "relationships": {
+    "is_a": [
+      "GO:0010413",
+      "GO:0045492"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucuronoxylan anabolism",
+      "glucuronoxylan biosynthesis",
+      "glucuronoxylan formation",
+      "glucuronoxylan synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "tair_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of glucuronoxylan, a polymer containing a beta-1,4-linked D-xylose backbone substituted with glucuronic acid residues.",
+  "namespace": "biological_process",
+  "label": "glucuronoxylan biosynthetic process"
+}

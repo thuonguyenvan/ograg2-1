@@ -1,0 +1,29 @@
+{
+  "id": "GO:0140685",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140685",
+  "relationships": {
+    "is_a": [
+      "GO:0016705",
+      "GO:0032454"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H3-di/monomethyl-lysine-9 FAD-dependent demethylase activity"
+    ],
+    "broad": [
+      "histone H3K9me demethylase activity",
+      "histone H3K9me2 demethylase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "22473470"
+    ]
+  },
+  "definition": "Catalysis of the removal of a methyl group from a di- or a monomethyl-lysine residue at position 9 of the histone H3 protein. This is a flavin adenine dinucleotide (FAD)-dependent amine oxidation reaction.",
+  "namespace": "molecular_function",
+  "label": "FAD-dependent histone H3K9me/H3K9me2 demethylase activity"
+}

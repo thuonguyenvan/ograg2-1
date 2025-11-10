@@ -1,0 +1,32 @@
+{
+  "id": "GO:0032780",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032780",
+  "relationships": {
+    "is_a": [
+      "GO:0043462",
+      "GO:0044092"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of ATPase activity",
+      "down-regulation of ATPase activity",
+      "downregulation of ATPase activity",
+      "negative regulation of ATPase activity",
+      "negative regulation of adenosinetriphosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of ATPase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops or reduces the rate of an ATP-dependent activity.",
+  "namespace": "biological_process",
+  "label": "negative regulation of ATP-dependent activity"
+}

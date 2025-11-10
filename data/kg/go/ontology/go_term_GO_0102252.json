@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102252",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102252",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.176",
+      "3.2.1.176"
+    ],
+    "MetaCyc": [
+      "RXN-12420"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: n H2O + a cellodextrin = n beta-cellobiose, releasing cellobiose from the reducing ends of the chains.",
+  "namespace": "molecular_function",
+  "label": "cellulose 1,4-beta-cellobiosidase activity (reducing end)"
+}

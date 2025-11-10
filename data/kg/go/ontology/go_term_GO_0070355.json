@@ -1,0 +1,30 @@
+{
+  "id": "GO:0070355",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070355",
+  "relationships": {
+    "is_a": [
+      "GO:0031201"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "SNARE complex (STX1a, STX1b, SNAP25, RAB3a, SYT1, VAMP2, CPLX2)",
+      "STX1a-STX1b-SNAP25-RAB3a-SYT1-VAMP2-CPLX2 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "7654227"
+    ],
+    "CORUM": [
+      "1247",
+      "1247"
+    ]
+  },
+  "definition": "A SNARE complex that contains synaptotagmin, synaptobrevin 2 (VAMP2), SNAP-25, syntaxin 1a, syntaxin1b, Rab3a, and complexin II (or orthologs thereof).",
+  "namespace": "cellular_component",
+  "label": "synaptotagmin-synaptobrevin 2-SNAP-25-syntaxin-1a-syntaxin-1b-Rab3a-complexin II complex"
+}

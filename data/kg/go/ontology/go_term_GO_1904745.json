@@ -1,0 +1,61 @@
+{
+  "id": "GO:1904745",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904745",
+  "relationships": {
+    "is_a": [
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATG1 kinase complex assembly",
+      "ATG1 kinase complex formation",
+      "ATG1-ATG13 complex assembly",
+      "ATG1-ATG13 complex formation",
+      "ATG1/ULK1 kinase complex formation",
+      "ATG1/ULK1 signaling complex assembly",
+      "ATG1/ULK1 signaling complex formation",
+      "Atg1p signalling complex assembly",
+      "Atg1p signalling complex formation",
+      "ULK1 signaling complex assembly",
+      "ULK1 signaling complex formation",
+      "ULK1-ATG13-FIP200 complex assembly",
+      "ULK1-ATG13-FIP200 complex formation",
+      "ULK1-ATG13-RB1CC1 complex assembly",
+      "ULK1-ATG13-RB1CC1 complex formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000079"
+    ],
+    "PMID": [
+      "25139988"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form an Atg1/UKL1 kinase complex.",
+  "namespace": "biological_process",
+  "label": "Atg1/ULK1 kinase complex assembly"
+}

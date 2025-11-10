@@ -1,0 +1,39 @@
+{
+  "id": "GO:0006569",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006569",
+  "relationships": {
+    "is_a": [
+      "GO:0006568",
+      "GO:0009074",
+      "GO:0042436",
+      "GO:0170035",
+      "GO:0170040"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tryptophan breakdown",
+      "tryptophan catabolism",
+      "tryptophan degradation"
+    ],
+    "broad": [],
+    "narrow": [
+      "tryptophan catabolic process, using tryptophanase",
+      "tryptophan catabolism, using tryptophanase"
+    ],
+    "related": [
+      "tryptophan catabolic process"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-71240"
+    ],
+    "ISBN": [
+      "0198547684"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-tryptophan, the chiral amino acid 2-amino-3-(1H-indol-3-yl)propanoic acid.",
+  "namespace": "biological_process",
+  "label": "Tryptophan catabolism"
+}

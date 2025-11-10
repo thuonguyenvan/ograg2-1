@@ -1,0 +1,28 @@
+nohup: ignoring input
+/media/thuongnv/New Volume/Code/Github/ograg2-1/.venv/lib/python3.12/site-packages/huggingface_hub/file_download.py:1132: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+/media/thuongnv/New Volume/Code/Github/ograg2-1/.venv/lib/python3.12/site-packages/torch/cuda/__init__.py:118: UserWarning: CUDA initialization: Unexpected error from cudaGetDeviceCount(). Did you run some cuda functions before calling NumCudaDevices() that might have already set an error? Error 803: system has unsupported display driver / cuda driver combination (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() > 0
+
+================================================================================
+Building HyperGraph from GO Ontology
+================================================================================
+
+Loading embedding model: BAAI/bge-m3...
+✓ Model loaded
+
+Found 39354 GO term files
+
+Flattening GO terms to facts...
+Processing GO terms:   0%|          | 0/39354 [00:00<?, ?it/s]Processing GO terms:  16%|█▋        | 6468/39354 [00:00<00:00, 38847.83it/s]Processing GO terms:  33%|███▎      | 13172/39354 [00:00<00:00, 51863.38it/s]Processing GO terms:  50%|█████     | 19784/39354 [00:00<00:00, 57527.55it/s]Processing GO terms:  67%|██████▋   | 26441/39354 [00:00<00:00, 60799.27it/s]Processing GO terms:  85%|████████▍ | 33268/39354 [00:00<00:00, 63345.89it/s]Processing GO terms: 100%|██████████| 39354/39354 [00:00<00:00, 59367.53it/s]
+✓ Created 39354 HyperEdges (facts)
+
+Building HyperNodes (key-value pairs)...
+Extracting nodes:   0%|          | 0/39354 [00:00<?, ?it/s]Extracting nodes: 100%|██████████| 39354/39354 [00:00<00:00, 465858.84it/s]
+✓ Created 286288 HyperNodes
+
+Generating embeddings (batched to avoid OOM)...
+
+STEP 1: Encoding VALUES (shorter text) - 10 chunks...
+Encoding VALUE chunks:   0%|          | 0/10 [00:00<?, ?it/s]/media/thuongnv/New Volume/Code/Github/ograg2-1/.venv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")

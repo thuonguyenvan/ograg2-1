@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006301",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006301",
+  "relationships": {
+    "is_a": [
+      "GO:0006259",
+      "GO:0006974"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "postreplication DNA repair",
+      "postreplication repair"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Postreplication_repair"
+    ],
+    "PMID": [
+      "18157158",
+      "26322163",
+      "31251805"
+    ]
+  },
+  "definition": "A process that promotes the bypass of single-stranded DNA lesions encountered by DNA polymerases during DNA replication, thereby preventing replication fork stalling and allowing completion of DNA replication without removing the damage.",
+  "namespace": "biological_process",
+  "label": "DNA damage tolerance"
+}

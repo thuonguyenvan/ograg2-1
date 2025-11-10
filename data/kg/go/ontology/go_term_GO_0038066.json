@@ -1,0 +1,39 @@
+{
+  "id": "GO:0038066",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038066",
+  "relationships": {
+    "is_a": [
+      "GO:0000165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "p38 MAPK cascade",
+      "p38 cascade"
+    ],
+    "broad": [],
+    "narrow": [
+      "osmosensory signaling MAPK cascade"
+    ],
+    "related": [
+      "MAPK14 cascade"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-450302"
+    ],
+    "PMID": [
+      "20811974",
+      "23125017",
+      "32794416",
+      "20811974"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "A MAPK cascade containing at least the p38MAPK (MAPK14) MAP kinase, or Hog1 in yeast. It starts with the activation of a MAP3K, and the consecutive activation of a MPK2K and of p38MAPK. The cascade can also contain an additional tier: the upstream MAP4K. The kinases in each tier phosphorylate and activate the kinases in the downstream tier. The p38MAPK cascade is activated by stress signals, including hyperosmolarity, as well as by G protein-coupled receptors, growth factors, and cytokines, and results in cellular responses such as cell proliferation, cell differentiation, apoptosis and inflammation.",
+  "namespace": "biological_process",
+  "label": "activated TAK1 mediates p38 MAPK activation"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0004071",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004071",
+  "relationships": {
+    "is_a": [
+      "GO:0016211"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-asparagine synthetase activity",
+      "L-aspartate:ammonia ligase (AMP-forming)",
+      "asparagine synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.1.1",
+      "6.3.1.1",
+      "6.3.1.1",
+      "6.3.1.1",
+      "6.3.1.1"
+    ],
+    "MetaCyc": [
+      "ASNSYNA-RXN"
+    ],
+    "RHEA": [
+      "11372"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + L-aspartate + NH3 = AMP + diphosphate + L-asparagine.",
+  "namespace": "molecular_function",
+  "label": "aspartate-ammonia ligase activity"
+}

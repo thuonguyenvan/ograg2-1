@@ -1,0 +1,36 @@
+{
+  "id": "GO:0018483",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018483",
+  "relationships": {
+    "is_a": [
+      "GO:0016620"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "6-oxohexanoate:NADP+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.63",
+      "1.2.1.63",
+      "1.2.1.63"
+    ],
+    "MetaCyc": [
+      "6-OXOHEXANOATE-OXIDATION-RXN"
+    ],
+    "RHEA": [
+      "13397"
+    ],
+    "UM-BBD_reactionID": [
+      "r0175"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 6-oxohexanoate + NADP+ + H2O = adipate + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "6-oxohexanoate dehydrogenase activity"
+}

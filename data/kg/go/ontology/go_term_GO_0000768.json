@@ -1,0 +1,27 @@
+{
+  "id": "GO:0000768",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000768",
+  "relationships": {
+    "is_a": [
+      "GO:0006949",
+      "GO:0140253"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "cell fusion"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_muscle",
+      "tb"
+    ]
+  },
+  "definition": "The formation of a syncytium, a mass of cytoplasm containing several nuclei enclosed within a single plasma membrane, by the fusion of the plasma membranes of two or more individual cells.",
+  "namespace": "biological_process",
+  "label": "syncytium formation by plasma membrane fusion"
+}

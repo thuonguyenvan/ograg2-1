@@ -1,0 +1,31 @@
+{
+  "id": "GO:0086069",
+  "uri": "http://purl.obolibrary.org/obo/GO_0086069",
+  "relationships": {
+    "is_a": [
+      "GO:0086065"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "bundle of His cardiac muscle cell to Purkinje myocyte communication",
+      "ventricular conduction system cell to cell communication"
+    ],
+    "broad": [],
+    "narrow": [
+      "atrioventricular junction myocyte to bundle branch myocyte",
+      "bundle branch myocyte to Purkinje myocyte communication",
+      "bundle of His myocyte to atrioventricular junction myocyte"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mtg_cardiac_conduct_nov11"
+    ]
+  },
+  "definition": "The process that mediates interactions between a bundle of His cell and its surroundings that contributes to the process of the bundle of His cell communicating with a Purkinje myocyte in cardiac conduction. Encompasses interactions such as signaling or attachment between one cell and another cell, between a cell and an extracellular matrix, or between a cell and any other aspect of its environment.",
+  "namespace": "biological_process",
+  "label": "bundle of His cell to Purkinje myocyte communication"
+}

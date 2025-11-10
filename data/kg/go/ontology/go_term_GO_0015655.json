@@ -1,0 +1,33 @@
+{
+  "id": "GO:0015655",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015655",
+  "relationships": {
+    "is_a": [
+      "GO:0005283",
+      "GO:0005343",
+      "GO:0022858"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sodium:alanine symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TRANS-RXN-125"
+    ],
+    "RHEA": [
+      "29283"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: alanine(out) + Na+(out) = alanine(in) + Na+(in).",
+  "namespace": "molecular_function",
+  "label": "alanine:sodium symporter activity"
+}

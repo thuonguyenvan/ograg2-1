@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047911",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047911",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "exo-D-galacturonase activity",
+      "exo-polygalacturonase activity",
+      "exopoly-D-galacturonase activity",
+      "galacturan alpha-1,4-galacturonidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "exo-D-galacturonanase activity",
+      "exopolygalacturonase activity",
+      "poly(1,4-alpha-D-galacturonide) galacturonohydrolase activity",
+      "poly(galacturonate) hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.67",
+      "3.2.1.67",
+      "3.2.1.67",
+      "3.2.1.67",
+      "3.2.1.67",
+      "3.2.1.67"
+    ],
+    "MetaCyc": [
+      "GALACTURAN-14-ALPHA-GALACTURONIDASE-RXN",
+      "GALACTURAN-14-ALPHA-GALACTURONIDASE-RXN"
+    ],
+    "RHEA": [
+      "14117"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [(1-&gt;4)-alpha-D-galacturonide](n) + H2O = [(1-&gt;4)-alpha-D-galacturonide](n-1) + D-galacturonate.",
+  "namespace": "molecular_function",
+  "label": "galacturan 1,4-alpha-galacturonidase activity"
+}

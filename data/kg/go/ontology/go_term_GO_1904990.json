@@ -1,0 +1,40 @@
+{
+  "id": "GO:1904990",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904990",
+  "relationships": {
+    "is_a": [
+      "GO:0060159"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of dopamine receptor, adenylate cyclase inhibiting pathway",
+      "regulation of dopamine receptor, adenylyl cyclase inhibiting pathway",
+      "regulation of inhibition of adenylate cyclase activity by dopamine receptor signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of inhibition of adenylate cyclase activity by dopamine receptor signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "kmv",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "26554819"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of adenylate cyclase-inhibiting dopamine receptor signaling pathway.",
+  "namespace": "biological_process",
+  "label": "regulation of adenylate cyclase-inhibiting dopamine receptor signaling pathway"
+}

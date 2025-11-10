@@ -1,0 +1,86 @@
+{
+  "id": "GO:0003899",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003899",
+  "relationships": {
+    "is_a": [
+      "GO:0034062"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "transcriptase"
+    ],
+    "narrow": [
+      "DNA-directed RNA polymerase I activity",
+      "DNA-directed RNA polymerase II activity",
+      "DNA-directed RNA polymerase III activity",
+      "RNA polymerase I activity",
+      "RNA polymerase II activity",
+      "RNA polymerase III activity",
+      "RNA polymerase IV activity",
+      "RNA polymerase V activity"
+    ],
+    "related": [
+      "C RNA formation factors",
+      "C ribonucleic acid formation factors",
+      "DNA-dependent RNA nucleotidyltransferase activity",
+      "DNA-dependent RNA polymerase activity",
+      "DNA-dependent ribonucleate nucleotidyltransferase activity",
+      "RNA nucleotidyltransferase (DNA-directed) activity",
+      "deoxyribonucleic acid-dependent ribonucleic acid polymerase activity",
+      "nucleoside-triphosphate:RNA nucleotidyltransferase (DNA-directed) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.6",
+      "2.7.7.6",
+      "2.7.7.6",
+      "2.7.7.6",
+      "2.7.7.6",
+      "2.7.7.6",
+      "2.7.7.6",
+      "2.7.7.6",
+      "2.7.7.6",
+      "2.7.7.6",
+      "2.7.7.6",
+      "2.7.7.6",
+      "2.7.7.6",
+      "2.7.7.6"
+    ],
+    "MetaCyc": [
+      "DNA-DIRECTED-RNA-POLYMERASE-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-111264",
+      "R-HSA-167113",
+      "R-HSA-167115",
+      "R-HSA-167117",
+      "R-HSA-167121",
+      "R-HSA-167136",
+      "R-HSA-174425",
+      "R-HSA-1964482",
+      "R-HSA-203901",
+      "R-HSA-427366",
+      "R-HSA-5601926",
+      "R-HSA-6781824",
+      "R-HSA-6814549",
+      "R-HSA-6814559",
+      "R-HSA-68913",
+      "R-HSA-74986",
+      "R-HSA-75850",
+      "R-HSA-75869",
+      "R-HSA-75873",
+      "R-HSA-76576",
+      "R-HSA-9670149",
+      "R-HSA-9697084",
+      "R-HSA-9697085",
+      "R-HSA-9914409",
+      "R-HSA-9915448"
+    ]
+  },
+  "definition": "Catalysis of the reaction: nucleoside triphosphate + RNA(n) = diphosphate + RNA(n+1). Utilizes a DNA template, i.e. the catalysis of DNA-template-directed extension of the 3&apos;-end of an RNA strand by one nucleotide at a time. Can initiate a chain &apos;de novo&apos;.",
+  "namespace": "molecular_function",
+  "label": "POLRMT polymerizes R-loop RNA"
+}

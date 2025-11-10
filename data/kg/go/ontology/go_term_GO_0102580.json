@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102580",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102580",
+  "relationships": {
+    "is_a": [
+      "GO:0016763"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.51",
+      "2.4.2.51"
+    ],
+    "MetaCyc": [
+      "RXN-15326"
+    ],
+    "RHEA": [
+      "35443"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cyanidin 3-O-beta-D-glucoside betaine + UDP-alpha-D-xylose = cyanidin 3-O-beta-D-sambubioside + UDP.",
+  "namespace": "molecular_function",
+  "label": "cyanidin 3-O-glucoside 2-O&apos;&apos;-xylosyltransferase activity"
+}

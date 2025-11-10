@@ -1,0 +1,39 @@
+{
+  "id": "GO:0032785",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032785",
+  "relationships": {
+    "is_a": [
+      "GO:0032784",
+      "GO:0045892"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of DNA-dependent transcription, elongation",
+      "negative regulation of transcription elongation, DNA-dependent"
+    ],
+    "broad": [
+      "down regulation of RNA elongation",
+      "down-regulation of RNA elongation",
+      "downregulation of RNA elongation",
+      "inhibition of RNA elongation",
+      "negative regulation of transcription elongation",
+      "negative regulation of transcriptional elongation"
+    ],
+    "narrow": [],
+    "related": [
+      "negative transcription elongation regulator activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "txnOH",
+      "txnOH",
+      "jh2"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of transcription elongation, the extension of an RNA molecule after transcription initiation and promoter clearance by the addition of ribonucleotides catalyzed by a DNA-dependent RNA polymerase.",
+  "namespace": "biological_process",
+  "label": "negative regulation of DNA-templated transcription, elongation"
+}

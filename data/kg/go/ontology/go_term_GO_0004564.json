@@ -1,0 +1,42 @@
+{
+  "id": "GO:0004564",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004564",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "beta-D-fructofuranoside fructohydrolase activity"
+    ],
+    "broad": [
+      "acid invertase activity",
+      "alkaline invertase activity",
+      "invertase activity",
+      "invertin activity"
+    ],
+    "narrow": [],
+    "related": [
+      "beta-fructosidase activity",
+      "beta-h-fructosidase activity",
+      "fructosylinvertase activity",
+      "glucosucrase activity",
+      "maxinvert L 1000 activity",
+      "saccharase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.26",
+      "3.2.1.26"
+    ],
+    "MetaCyc": [
+      "RXN-9985",
+      "RXN-9985"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a fructofuranosylated fructofuranosyl acceptor + H2O = a non fructofuranosylated fructofuranosyl acceptor + a beta-D-fructofuranoside.",
+  "namespace": "molecular_function",
+  "label": "beta-fructofuranosidase activity"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GO:0004449",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004449",
+  "relationships": {
+    "is_a": [
+      "GO:0004448"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NAD dependent isocitrate dehydrogenase activity",
+      "NAD isocitrate dehydrogenase activity",
+      "NAD isocitric dehydrogenase activity",
+      "NAD-linked isocitrate dehydrogenase activity",
+      "NAD-specific isocitrate dehydrogenase activity",
+      "isocitrate dehydrogenase (NAD) activity",
+      "isocitrate:NAD+ oxidoreductase (decarboxylating)",
+      "nicotinamide adenine dinucleotide isocitrate dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.41",
+      "1.1.1.41",
+      "1.1.1.41",
+      "1.1.1.41",
+      "1.1.1.41",
+      "1.1.1.41",
+      "1.1.1.41",
+      "1.1.1.41",
+      "1.1.1.41"
+    ],
+    "RHEA": [
+      "23632",
+      "23632"
+    ],
+    "Reactome": [
+      "R-HSA-70967"
+    ]
+  },
+  "definition": "Catalysis of the reaction: isocitrate + NAD+ = 2-oxoglutarate + CO2 + NADH.",
+  "namespace": "molecular_function",
+  "label": "IDH3 complex decarboxylates isocitrate"
+}

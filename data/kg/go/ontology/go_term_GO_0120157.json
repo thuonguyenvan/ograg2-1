@@ -1,0 +1,41 @@
+{
+  "id": "GO:0120157",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120157",
+  "relationships": {
+    "is_a": [
+      "GO:1902554"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "apical polarity complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "BEM1-CDC24-CLA4 complex",
+      "Cdc42p GEF-PAK complex",
+      "PAR3-PAR6-atypical PKC",
+      "PAR3/PAR6/aPKC",
+      "PAR6-PAR3-aPKC complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "lnp",
+      "lnp",
+      "lnp",
+      "lnp"
+    ],
+    "PMID": [
+      "11113154",
+      "18005931",
+      "22500799",
+      "28682236",
+      "18005931"
+    ]
+  },
+  "definition": "A protein kinase complex that is required for the establishment of a cell polarity axis during the cell division cycle. Binds directly to activated CDC42 GTPase and is required for orchestrating a cellular gradient of CDC42. In S. cerevisiae components are: BEM1, CDC24 and CLA4; from worms to vertebrates it contains a PAR6 protein, PAR3 protein and an atypical PKC.",
+  "namespace": "cellular_component",
+  "label": "PAR polarity complex"
+}

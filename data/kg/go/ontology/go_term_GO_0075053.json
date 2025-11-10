@@ -1,0 +1,32 @@
+{
+  "id": "GO:0075053",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075053",
+  "relationships": {
+    "is_a": [
+      "GO:0075015"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "initiation of symbiont penetration peg",
+      "symbiont penetration peg initiation"
+    ],
+    "related": [
+      "formation of symbiont penetration peg for entry into host",
+      "symbiont penetration peg formation for entry into host"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "pamgo_curators"
+    ],
+    "PMID": [
+      "26441323"
+    ]
+  },
+  "definition": "The assembly by the symbiont of a peg-like structure for the purpose of penetration into its host organism, which penetrates through the host cuticle and epidermal cell wall. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "penetration peg formation"
+}

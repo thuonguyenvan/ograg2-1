@@ -1,0 +1,26 @@
+{
+  "id": "GO:0043799",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043799",
+  "relationships": {
+    "is_a": [
+      "GO:0052595"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycine:oxygen oxidoreductase (deaminating)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.3.19",
+      "1.4.3.19"
+    ]
+  },
+  "definition": "Catalysis of the reactions: (1) glycine + H2O + O2 = glyoxylate + NH3 + hydrogen peroxide; (2) D-alanine + H2O + O2 = pyruvate + NH3 + hydrogen peroxide; (3) sarcosine + H2O + O2 = glyoxylate + methylamine + hydrogen peroxide; (4) N-ethylglycine + H2O + O2 = glyoxylate + ethylamine + hydrogen peroxide.",
+  "namespace": "molecular_function",
+  "label": "glycine oxidase activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990756",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990756",
+  "relationships": {
+    "is_a": [
+      "GO:0140767"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein binding, bridging involved in substrate recognition for ubiquitination",
+      "ubiquitin ligase substrate adaptor"
+    ],
+    "broad": [],
+    "narrow": [
+      "UFM1 ligase-substrate adaptor activity",
+      "ubiquitin ligase-substrate adaptor activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "24658274"
+    ]
+  },
+  "definition": "The binding activity of a molecule that brings together a ubiquitin-like ligase (including ubiquitin ligase and UFM1 ligase) and its substrate. Usually mediated by F-box BTB/POZ domain proteins.",
+  "namespace": "molecular_function",
+  "label": "ubiquitin-like ligase-substrate adaptor activity"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0090281",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090281",
+  "relationships": {
+    "is_a": [
+      "GO:0051926",
+      "GO:0090279"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "negative regulation of transmembrane calcium influx"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "tb"
+    ]
+  },
+  "definition": "Any process that decreases the rate, frequency, or extent of the directed movement of calcium ions into a cell or organelle.",
+  "namespace": "biological_process",
+  "label": "negative regulation of calcium ion import"
+}

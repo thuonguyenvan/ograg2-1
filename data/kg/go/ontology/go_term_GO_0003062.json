@@ -1,0 +1,33 @@
+{
+  "id": "GO:0003062",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003062",
+  "relationships": {
+    "is_a": [
+      "GO:0002027"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chemical cardiac chronotropy",
+      "chemical signal regulation of heart rate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "chemical signal regulation of heart contraction rate"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mtg_cardio",
+      "rl",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The regulation of the rate of heart contraction mediated by chemical signaling, hormonal, autocrine or paracrine.",
+  "namespace": "biological_process",
+  "label": "regulation of heart rate by chemical signal"
+}

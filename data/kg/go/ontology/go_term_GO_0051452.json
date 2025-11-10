@@ -1,0 +1,30 @@
+{
+  "id": "GO:0051452",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051452",
+  "relationships": {
+    "is_a": [
+      "GO:0051453"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell pH reduction",
+      "cellular acidification",
+      "reduction of cellular pH",
+      "reduction of pH in cell"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "intracellular acidification"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that reduces the internal pH of a cell, measured by the concentration of the hydrogen ion.",
+  "namespace": "biological_process",
+  "label": "intracellular pH reduction"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0141153",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141153",
+  "relationships": {
+    "is_a": [
+      "GO:0047952"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-glycerol-3-phosphate:NADP oxidoreductase activity",
+      "glycerol phosphate dehydrogenase (nicotinamide adenine dinucleotide phosphate) activity",
+      "glycerol-3-phosphate dehydrogenase [NADP+] activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R00844"
+    ],
+    "RHEA": [
+      "11096",
+      "11096"
+    ],
+    "PMID": [
+      "15557260"
+    ]
+  },
+  "definition": "NADP+ + sn-glycerol 3-phosphate = dihydroxyacetone phosphate + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "glycerol-3-phosphate dehydrogenase (NADP+) activity"
+}

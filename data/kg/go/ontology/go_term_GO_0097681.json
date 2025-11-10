@@ -1,0 +1,36 @@
+{
+  "id": "GO:0097681",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097681",
+  "relationships": {
+    "is_a": [
+      "GO:0006303"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "double-strand break repair via microhomology-mediated end joining"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "A-NHEJ",
+      "MMEJ",
+      "alt-NHEJ"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "rph"
+    ],
+    "PMID": [
+      "18584027",
+      "21655080"
+    ],
+    "Wikipedia": [
+      "Microhomology-mediated_end_joining"
+    ]
+  },
+  "definition": "An instance of double-strand break repair via nonhomologous end joining that is independent of factors important for V(D)J recombination (as opposed to classical nonhomologous end joining). It often results in a deletion with microhomology (i.e. 5-25bp homology) at the repair junction. Among different subclasses of nonhomologous end joining (NHEJ), alternative NHEJ appears to play a significant role in the etiology of mutations that arise during cancer development and treatment.",
+  "namespace": "biological_process",
+  "label": "double-strand break repair via alternative nonhomologous end joining"
+}

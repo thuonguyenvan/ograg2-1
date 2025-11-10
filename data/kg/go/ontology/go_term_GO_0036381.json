@@ -1,0 +1,41 @@
+{
+  "id": "GO:0036381",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036381",
+  "relationships": {
+    "is_a": [
+      "GO:0016843"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PdxST activity",
+      "pyridoxal 5&apos;-phosphate synthase (glutamine hydrolyzing) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.3.6",
+      "4.3.3.6",
+      "4.3.3.6",
+      "4.3.3.6"
+    ],
+    "KEGG_REACTION": [
+      "R10089"
+    ],
+    "MetaCyc": [
+      "RXN-11322"
+    ],
+    "RHEA": [
+      "31507"
+    ],
+    "GOC": [
+      "rs"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-ribose 5-phosphate + D-glyceraldehyde 3-phosphate + L-glutamine = pyridoxal 5&apos;-phosphate + L-glutamate + 3 H2O + phosphate. The reaction occurs in two steps: L-glutamine + H2O = L-glutamate + NH3, and subsequently D-ribose 5-phosphate + D-glyceraldehyde 3-phosphate + NH3 = pyridoxal 5&apos;-phosphate + 4 H2O + phosphate.",
+  "namespace": "molecular_function",
+  "label": "pyridoxal 5&apos;-phosphate synthase (glutamine hydrolysing) activity"
+}

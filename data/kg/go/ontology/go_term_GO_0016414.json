@@ -1,0 +1,29 @@
+{
+  "id": "GO:0016414",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016414",
+  "relationships": {
+    "is_a": [
+      "GO:0008374"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "O-octanoyltransferase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.273"
+    ],
+    "RHEA": [
+      "56868",
+      "56868"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2R)-2-O-[alpha-D-glucopyranosyl-(1-&gt;6)-alpha-D-glucopyranosyl]-glycerate + octanoyl-CoA = (2R)-2-O-[6-O-octanoyl-alpha-D-glucopyranosyl-(1-&gt;6)-alpha-D-glucopyranosyl]-glycerate + CoA.",
+  "namespace": "molecular_function",
+  "label": "diglucosylglycerate octanoyltransferase activity"
+}

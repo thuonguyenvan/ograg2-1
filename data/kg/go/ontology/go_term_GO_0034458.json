@@ -1,0 +1,33 @@
+{
+  "id": "GO:0034458",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034458",
+  "relationships": {
+    "is_a": [
+      "GO:0003724"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3&apos; to 5&apos; RNA helicase activity",
+      "ATP-dependent 3&apos; to 5&apos; RNA helicase activity",
+      "ATP-dependent 3&apos;-5&apos; RNA helicase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.6.2.6"
+    ],
+    "Reactome": [
+      "R-HSA-9836927"
+    ],
+    "GOC": [
+      "jp"
+    ]
+  },
+  "definition": "Unwinding of an RNA helix in the 3&apos; to 5&apos; direction, driven by ATP hydrolysis.",
+  "namespace": "molecular_function",
+  "label": "SUPV3L1 unwinds double-stranded mitochondiral RNA"
+}

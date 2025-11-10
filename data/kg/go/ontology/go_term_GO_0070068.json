@@ -1,0 +1,31 @@
+{
+  "id": "GO:0070068",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070068",
+  "relationships": {
+    "is_a": [
+      "GO:0031201"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "SNARE complex (Vamp4, Stx6, Stx16, Vti1a)"
+    ],
+    "related": [
+      "Vamp4-Stx6-Stx16-Vti1a complex"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "11839770"
+    ],
+    "CORUM": [
+      "877",
+      "877"
+    ]
+  },
+  "definition": "A SNARE complex that contains VAMP4, syntaxin 6, syntaxin 16, and Vti1a (or orthologs thereof).",
+  "namespace": "cellular_component",
+  "label": "VAMP4-syntaxin-6-syntaxin-16-Vti1a complex"
+}

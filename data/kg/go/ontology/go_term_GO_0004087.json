@@ -1,0 +1,63 @@
+{
+  "id": "GO:0004087",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004087",
+  "relationships": {
+    "is_a": [
+      "GO:0016879"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "carbamoyl phosphate synthase (ammonia) activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "CPS I activity"
+    ],
+    "related": [
+      "carbamoyl-phosphate synthetase (ammonia) activity",
+      "carbamoyl-phosphate synthetase I activity",
+      "carbamoylphosphate synthase (ammonia)",
+      "carbamoylphosphate synthase activity",
+      "carbamoylphosphate synthetase (ammonia) activity",
+      "carbamylphosphate synthetase I",
+      "carbamylphosphate synthetase activity",
+      "carbmoylphosphate synthetase activity",
+      "carbon-dioxide--ammonia ligase activity",
+      "carbon-dioxide:ammonia ligase (ADP-forming, carbamate-phosphorylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.4.16",
+      "6.3.4.16",
+      "6.3.4.16",
+      "6.3.4.16",
+      "6.3.4.16",
+      "6.3.4.16",
+      "6.3.4.16",
+      "6.3.4.16",
+      "6.3.4.16",
+      "6.3.4.16",
+      "6.3.4.16",
+      "6.3.4.16",
+      "6.3.4.16"
+    ],
+    "KEGG_REACTION": [
+      "R00149"
+    ],
+    "MetaCyc": [
+      "RXN-13202"
+    ],
+    "RHEA": [
+      "18029",
+      "18029"
+    ],
+    "Reactome": [
+      "R-HSA-70555"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 ATP + hydrogencarbonate + NH4+ = 2 ADP + carbamoyl phosphate + 2 H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "2 ATP + NH4+ + HCO3- =&gt; 2 ADP + orthophosphate + carbamoyl phosphate [mitochondrial]"
+}

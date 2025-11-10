@@ -1,0 +1,26 @@
+{
+  "id": "GO:0160291",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160291",
+  "relationships": {
+    "is_a": [
+      "GO:0008526",
+      "GO:0120020",
+      "GO:7770011"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "24209621",
+      "29596003"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol 4-phosphate)(out) + cholesterol(in) = 1,2-diacyl-sn-glycero-3-phospho-(1D-myo-inositol 4-phosphate)(in) + cholesterol(out). This reaction results in the exchange of cholesterol for phosphatidylinositol-4-phosphate (PI(4)P) between membranes.",
+  "namespace": "molecular_function",
+  "label": "phosphatidylinositol-4-phosphate-cholesterol exchange activity"
+}

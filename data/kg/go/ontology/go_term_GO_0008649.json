@@ -1,0 +1,28 @@
+{
+  "id": "GO:0008649",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008649",
+  "relationships": {
+    "is_a": [
+      "GO:0008173",
+      "GO:0008757",
+      "GO:0140102"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9911509"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a methyl group from S-adenosyl-L-methionine to a nucleoside residue in an rRNA molecule.",
+  "namespace": "molecular_function",
+  "label": "RMTases methylate 16S ribosomal RNA"
+}

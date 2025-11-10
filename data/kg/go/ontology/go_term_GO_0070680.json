@@ -1,0 +1,27 @@
+{
+  "id": "GO:0070680",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070680",
+  "relationships": {
+    "is_a": [
+      "GO:0043039"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY490-4",
+      "PWY490-4"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A tRNA aminoacylation process in which asparaginyl-tRNAAsn is formed by a tRNA-dependent two-step pathway. In the first step a non-discriminating aspartyl-tRNA synthetase generates the misacylated L-aspartyl-tRNAAsn species, and in the second step it is amidated to the correctly charged L-asparaginyl-tRNAAsn by the heterotrimeric aspartyl-tRNAAsn amidotransferase.",
+  "namespace": "biological_process",
+  "label": "asparaginyl-tRNAAsn biosynthesis via transamidation"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0071723",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071723",
+  "relationships": {
+    "is_a": [
+      "GO:0008289",
+      "GO:0033218"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "bacterial lipopeptide binding"
+    ],
+    "related": [
+      "bacterial lipoprotein binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "add",
+      "add"
+    ],
+    "PMID": [
+      "12077222",
+      "12524386",
+      "2757794"
+    ]
+  },
+  "definition": "Binding to a lipopeptide, any of a group of organic compounds comprising two or more amino acids linked by peptide bonds and containing a nonprotein group consisting of a lipid or lipids.",
+  "namespace": "molecular_function",
+  "label": "lipopeptide binding"
+}

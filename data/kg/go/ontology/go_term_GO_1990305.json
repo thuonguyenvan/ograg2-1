@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990305",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990305",
+  "relationships": {
+    "is_a": [
+      "GO:0140535",
+      "GO:1990234"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RAD6-UBR2 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "15504724"
+    ]
+  },
+  "definition": "A ubiquitin ligase complex consisting of RAD6 and UBR2 components. It may act in a quality control pathway for proteins synthesized on cytosolic ribosomes. The UBR2 component lacks sequence motifs required for N-end rule degradation.",
+  "namespace": "cellular_component",
+  "label": "RAD6-UBR2 ubiquitin ligase complex"
+}

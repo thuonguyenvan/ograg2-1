@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047010",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047010",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(-)t-3,t-4-dihydroxycyclohexane-c-1-carboxylate-NAD oxidoreductase activity",
+      "(1S,3R,4S)-3,4-dihydroxycyclohexane-1-carboxylate:NAD+ 3-oxidoreductase activity",
+      "dihydroxycyclohexanecarboxylate dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.166",
+      "1.1.1.166",
+      "1.1.1.166",
+      "1.1.1.166",
+      "1.1.1.166"
+    ],
+    "KEGG_REACTION": [
+      "R05315"
+    ],
+    "MetaCyc": [
+      "1.1.1.166-RXN"
+    ],
+    "RHEA": [
+      "10516",
+      "10516"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (1S,3R,4S)-3,4-dihydroxycyclohexane-1-carboxylate + NAD+ = (1S,4S)-4-hydroxy-3-oxocyclohexane-1-carboxylate + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "hydroxycyclohexanecarboxylate dehydrogenase activity"
+}

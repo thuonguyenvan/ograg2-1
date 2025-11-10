@@ -1,0 +1,45 @@
+{
+  "id": "GO:0050064",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050064",
+  "relationships": {
+    "is_a": [
+      "GO:0015020"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "luteolin 7-O-glucoronosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "LGT",
+      "UDP-glucuronate:luteolin 7-O-glucuronosyltransferase activity",
+      "UDPglucuronate:luteolin 7-O-glucuronosyltransferase activity",
+      "uridine diphosphoglucuronate-luteolin 7-O-glucuronosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.189",
+      "2.4.1.189",
+      "2.4.1.189",
+      "2.4.1.189",
+      "2.4.1.189",
+      "2.4.1.189"
+    ],
+    "KEGG_REACTION": [
+      "R03589"
+    ],
+    "MetaCyc": [
+      "LUTEOLIN-7-O-GLUCORONOSYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "10568",
+      "10568"
+    ]
+  },
+  "definition": "Catalysis of the reaction: luteolin + UDP-alpha-D-glucuronate = luteolin 7-O-beta-D-glucosiduronate + UDP.",
+  "namespace": "molecular_function",
+  "label": "luteolin 7-O-glucuronosyltransferase activity"
+}

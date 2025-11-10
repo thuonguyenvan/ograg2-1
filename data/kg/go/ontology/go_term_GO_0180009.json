@@ -1,0 +1,32 @@
+{
+  "id": "GO:0180009",
+  "uri": "http://purl.obolibrary.org/obo/GO_0180009",
+  "relationships": {
+    "is_a": [
+      "GO:0015174",
+      "GO:0015175",
+      "GO:0015297"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "neutral L-amino acid:cationic L-amino acid antiporter activity",
+      "neutral L-amino acid:dibasic L-amino acid antiporter activity",
+      "neutral L-amino acid:positively-charged polar L-amino acid antiporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "system b(0,+)-type activity"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "23506863",
+      "8663357"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: basic L-amino acid(in) + neutral L-amino acid(out) = basic L-amino acid(in) + neutral L-amino acid(out).",
+  "namespace": "molecular_function",
+  "label": "broad specificity neutral L-amino acid:basic L-amino acid antiporter activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0047642",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047642",
+  "relationships": {
+    "is_a": [
+      "GO:0050738"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "aldose b-D-fructosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alpha-D-aldosyl-beta-D-fructoside:aldose 1-beta-D-fructosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.162",
+      "2.4.1.162",
+      "2.4.1.162"
+    ],
+    "MetaCyc": [
+      "ALDOSE-BETA-FRUCTOSYLTRANSFERASE-RXN",
+      "ALDOSE-BETA-FRUCTOSYLTRANSFERASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-D-aldosyl1 beta-D-fructoside + D-aldose2 = D-aldose1 + alpha-D-aldosyl2 beta-D-fructoside.",
+  "namespace": "molecular_function",
+  "label": "aldose beta-D-fructosyltransferase activity"
+}

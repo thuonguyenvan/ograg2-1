@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050240",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050240",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,2,3-trihydroxybenzene:oxygen 1,2-oxidoreductase (decyclizing)",
+      "pyrogallol 1,2-dioxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.35",
+      "1.13.11.35",
+      "1.13.11.35",
+      "1.13.11.35"
+    ],
+    "KEGG_REACTION": [
+      "R03246"
+    ],
+    "MetaCyc": [
+      "PYROGALLOL-12-OXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "19673",
+      "19673"
+    ]
+  },
+  "definition": "Catalysis of the reaction: O2 + pyrogallol = (Z)-5-oxohex-2-enedioate + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "pyrogallol 1,2-oxygenase activity"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "GO:1903897",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903897",
+  "relationships": {
+    "is_a": [
+      "GO:1900101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of PERK branch of UPR",
+      "regulation of PKR-like ER kinase signal transduction",
+      "regulation of UPR signaling by PERK stress sensor",
+      "regulation of endoplasmic reticulum unfolded protein response; PERK signaling"
+    ],
+    "broad": [
+      "regulation of PERK signal transduction pathway"
+    ],
+    "narrow": [],
+    "related": [
+      "regulation of EIF2AK3-mediated unfolded protein response",
+      "regulation of PERK signaling in response to endoplasmic reticulum stress"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22013210"
+    ],
+    "HGNC": [
+      "3255"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of the PERK-mediated unfolded protein response.",
+  "namespace": "biological_process",
+  "label": "regulation of PERK-mediated unfolded protein response"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0030336",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030336",
+  "relationships": {
+    "is_a": [
+      "GO:0030334",
+      "GO:2000146"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of cell migration",
+      "down-regulation of cell migration",
+      "downregulation of cell migration"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of cell migration"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of cell migration.",
+  "namespace": "biological_process",
+  "label": "negative regulation of cell migration"
+}

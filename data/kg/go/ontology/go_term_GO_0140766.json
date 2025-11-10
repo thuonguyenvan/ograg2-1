@@ -1,0 +1,30 @@
+{
+  "id": "GO:0140766",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140766",
+  "relationships": {
+    "is_a": [
+      "GO:0035194"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "gene silencing by siRNA",
+      "post-transcriptional gene silencing by siRNA",
+      "posttranscriptional gene silencing by siRNA",
+      "siRNA-mediated PTGS"
+    ],
+    "broad": [
+      "siRNA-mediated gene silencing"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "26372022"
+    ]
+  },
+  "definition": "A post-transcriptional gene silencing pathway in which small interfering RNAs (siRNAs) elicit silencing of specific target genes. siRNAs are 21-23 nucleotide RNA duplexes that are fully complementary to their target mRNA. siRNAs can be exported and act in other cells, including in germline cells. Once incorporated into a RNA-induced silencing complex (RISC), siRNAs can downregulate gene expression by either of two posttranscriptional mechanisms: endonucleolytic cleavage of the mRNA or mRNA translational repression. siRNAs are present in lower animals and plants, but not found in mammals; whereas miRNAs are present in all the animals and in plants.",
+  "namespace": "biological_process",
+  "label": "siRNA-mediated post-transcriptional gene silencing"
+}

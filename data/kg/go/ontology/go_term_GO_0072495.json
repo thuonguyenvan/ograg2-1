@@ -1,0 +1,28 @@
+{
+  "id": "GO:0072495",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072495",
+  "relationships": {
+    "is_a": [
+      "GO:0044094"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "coiled body of host",
+      "host cell coiled body"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rph",
+      "rph",
+      "mah"
+    ]
+  },
+  "definition": "A class of nuclear body in the eukaryotic host cell, first seen after silver staining by Ramon y Cajal in 1903, enriched in small nuclear ribonucleoproteins, and certain general RNA polymerase II transcription factors; ultrastructurally, they appear as a tangle of coiled, electron-dense threads roughly 0.5 micrometers in diameter; involved in aspects of snRNP biogenesis; the protein coilin serves as a marker for Cajal bodies. Some argue that Cajal bodies are the sites for preassembly of transcriptosomes, unitary particles involved in transcription and processing of RNA. The host is the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "cellular_component",
+  "label": "host cell Cajal body"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "GO:1901760",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901760",
+  "relationships": {
+    "is_a": [
+      "GO:0008654",
+      "GO:0009247",
+      "GO:1901271"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-amino-4-deoxy-beta-L-arabinose-lipid A biosynthesis",
+      "4-amino-4-deoxy-beta-L-arabinose-lipid A biosynthetic process",
+      "beta-L-Ara4N-lipid A anabolism",
+      "beta-L-Ara4N-lipid A biosynthesis",
+      "beta-L-Ara4N-lipid A formation",
+      "beta-L-Ara4N-lipid A synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "17928292",
+      "19166326"
+    ],
+    "UniPathway": [
+      "UPA00037"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of beta-L-Ara4N-lipid A which occurs as a result of modification of the lipid A moiety of lipopolysaccharide by the addition of the sugar 4-amino-4-deoxy-L-arabinose (L-Ara4N). This strategy is adopted by pathogenic Gram-negative bacteria to evade cationic antimicrobial peptides produced by the innate immune system.",
+  "namespace": "biological_process",
+  "label": "beta-L-Ara4N-lipid A biosynthetic process"
+}

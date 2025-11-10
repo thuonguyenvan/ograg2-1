@@ -1,0 +1,40 @@
+{
+  "id": "GO:0007199",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007199",
+  "relationships": {
+    "is_a": [
+      "GO:0007187"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G protein signaling, coupled to cGMP nucleotide second messenger",
+      "G protein signalling, coupled to cGMP nucleotide second messenger",
+      "G-protein coupled receptor signaling pathway coupled to cGMP nucleotide second messenger",
+      "G-protein signaling, coupled to cGMP nucleotide second messenger",
+      "G-protein signalling, coupled to cGMP nucleotide second messenger",
+      "GPCR signaling pathway via activation of guanylate cyclase activity",
+      "GPCR signaling pathway via cGMP second messenger",
+      "guanylate cyclase-activating G-protein coupled receptor signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "signaling",
+      "signaling",
+      "signaling",
+      "signaling",
+      "signaling"
+    ],
+    "ISBN": [
+      "0815316194"
+    ]
+  },
+  "definition": "The series of molecular signals generated as a consequence of a G protein-coupled receptor binding to its physiological ligand, followed by activation of guanylyl cyclase (GC) activity and a subsequent increase in the concentration of cyclic GMP (cGMP).",
+  "namespace": "biological_process",
+  "label": "G protein-coupled receptor signaling pathway coupled to cGMP nucleotide second messenger"
+}

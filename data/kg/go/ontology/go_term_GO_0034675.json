@@ -1,0 +1,32 @@
+{
+  "id": "GO:0034675",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034675",
+  "relationships": {
+    "is_a": [
+      "GO:0008305"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "VLA-6 complex",
+      "alpha6-beta1 integrin complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "ITGA6-ITGB1 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "12297042",
+      "2649503"
+    ],
+    "CORUM": [
+      "2413"
+    ]
+  },
+  "definition": "An integrin complex that comprises one alpha6 subunit and one beta1 subunit.",
+  "namespace": "cellular_component",
+  "label": "integrin alpha6-beta1 complex"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:0019836",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019836",
+  "relationships": {
+    "is_a": [
+      "GO:0001897"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "haemolysis in host",
+      "hemolysis by symbiont of host RBCs",
+      "hemolysis by symbiont of host erythrocytes",
+      "hemolysis by symbiont of host red blood cells",
+      "regulation of cytolysis of host cells by symbiont"
+    ],
+    "broad": [
+      "pathogenesis"
+    ],
+    "narrow": [],
+    "related": [
+      "hemolysin activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "dph",
+      "tb"
+    ],
+    "UniProtKB-KW": [
+      "KW-0354"
+    ],
+    "CL": [
+      "0000232",
+      "0000232"
+    ]
+  },
+  "definition": "The cytolytic destruction of red blood cells, with the release of intracellular hemoglobin, in the host organism by a symbiont. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated hemolysis of host erythrocyte"
+}

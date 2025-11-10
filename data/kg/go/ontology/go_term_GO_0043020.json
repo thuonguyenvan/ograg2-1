@@ -1,0 +1,32 @@
+{
+  "id": "GO:0043020",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043020",
+  "relationships": {
+    "is_a": [
+      "GO:0098797",
+      "GO:1990204"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "flavocytochrome b558"
+    ],
+    "related": [
+      "respiratory-burst oxidase"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "11483596",
+      "12440767"
+    ]
+  },
+  "definition": "A enzyme complex of which the core is a heterodimer composed of a light (alpha) and heavy (beta) chain, and requires the cytosolic regulatory subunits at least NCF1/p47-phox, NCF2/p67-phox, NCF4/p40-phox and the small GTPase RAC1 or RAC2 for activity. Functions in superoxide generation by the NADPH-dependent reduction of O2.",
+  "namespace": "cellular_component",
+  "label": "NADPH oxidase complex"
+}

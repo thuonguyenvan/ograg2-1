@@ -1,0 +1,33 @@
+{
+  "id": "GO:0036006",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036006",
+  "relationships": {
+    "is_a": [
+      "GO:0036005",
+      "GO:0071345"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to M-CSF stimulus",
+      "cellular response to macrophage colony-stimulating factor"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "yaf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "14687666",
+      "14687666"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a macrophage colony-stimulating factor stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to macrophage colony-stimulating factor stimulus"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:0070040",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070040",
+  "relationships": {
+    "is_a": [
+      "GO:0008169",
+      "GO:0016433"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "rRNA (adenine-C2-)-methyltransferase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-11586"
+    ],
+    "RHEA": [
+      "42916",
+      "42916"
+    ],
+    "GOC": [
+      "imk"
+    ],
+    "PMID": [
+      "20007606",
+      "20184321",
+      "21368151",
+      "21415317",
+      "21527678"
+    ]
+  },
+  "definition": "Catalysis of the reaction: adenosine2503 in 23S rRNA + 2 reduced [2Fe-2S]-[ferredoxin] + 2 S-adenosyl-L-methionine = 2-methyladenosine2503 in 23S rRNA + 5&apos;-deoxyadenosine + L-methionine + 2 oxidized [2Fe-2S]-[ferredoxin] + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "rRNA (adenine(2503)-C2-)-methyltransferase activity"
+}

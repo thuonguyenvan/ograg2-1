@@ -1,0 +1,47 @@
+{
+  "id": "GO:0019799",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019799",
+  "relationships": {
+    "is_a": [
+      "GO:0061733"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "TAT activity",
+      "acetyl-CoA:alpha-tubulin-L-lysine 6-N-acetyltransferase activity",
+      "acetyl-CoA:alpha-tubulin-L-lysine N6-acetyltransferase activity",
+      "acetyl-CoA:alpha-tubulin-lysine N-acetyltransferase activity",
+      "alpha-tubulin N-acetyltransferase activity",
+      "alpha-tubulin acetylase activity",
+      "alpha-tubulin acetyltransferase activity",
+      "tubulin acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.108",
+      "2.3.1.108",
+      "2.3.1.108",
+      "2.3.1.108",
+      "2.3.1.108",
+      "2.3.1.108",
+      "2.3.1.108",
+      "2.3.1.108",
+      "2.3.1.108",
+      "2.3.1.108"
+    ],
+    "MetaCyc": [
+      "TUBULIN-N-ACETYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "15277"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + (alpha-tubulin) L-lysine = CoA + (alpha-tubulin) N6-acetyl-L-lysine. In most organisms it acetylates L-lysine at position 40 of alpha- tubulin.",
+  "namespace": "molecular_function",
+  "label": "tubulin N-acetyltransferase activity"
+}

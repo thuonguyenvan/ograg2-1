@@ -1,0 +1,31 @@
+{
+  "id": "GO:0120504",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120504",
+  "relationships": {
+    "is_a": [
+      "GO:1990234"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "EXT1-EXT2 heparan sulfate biosynthesis complex",
+      "exostosin complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sjm"
+    ],
+    "PMID": [
+      "14998928",
+      "36402845",
+      "36593275"
+    ]
+  },
+  "definition": "A heterodimeric complex capable of glycosyltransferase activity required for the elongation of heparan sulfate chains. In humans, the complex consists of EXT1 and EXT2. In Drosophila, the complex consists of ttv and sotv.",
+  "namespace": "cellular_component",
+  "label": "EXT1-EXT2 complex"
+}

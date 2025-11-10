@@ -1,0 +1,36 @@
+{
+  "id": "GO:0000708",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000708",
+  "relationships": {
+    "is_a": [
+      "GO:0042148",
+      "GO:0061982"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "meiotic D-loop biosynthesis",
+      "meiotic D-loop formation",
+      "meiotic displacement loop biosynthesis",
+      "meiotic displacement loop formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "elh",
+      "mah",
+      "vw",
+      "mah",
+      "vw"
+    ],
+    "PMID": [
+      "10915877"
+    ]
+  },
+  "definition": "The cell cycle process in which the nucleoprotein complex (composed of the broken single-strand DNA and the recombinase) searches and identifies a region of homology in intact duplex DNA. The broken single-strand DNA displaces the like strand and forms Watson-Crick base pairs with its complement, forming a duplex in which each strand is from one of the two recombining DNA molecules. This occurs during meiosis.",
+  "namespace": "biological_process",
+  "label": "meiotic strand invasion"
+}

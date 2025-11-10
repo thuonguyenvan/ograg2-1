@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140303",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140303",
+  "relationships": {
+    "is_a": [
+      "GO:0005319"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "translocase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "flippase activity"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "16828084"
+    ]
+  },
+  "definition": "Enables the transport of a lipid from a region of a membrane to a different region on the same membrane.",
+  "namespace": "molecular_function",
+  "label": "intramembrane lipid transporter activity"
+}

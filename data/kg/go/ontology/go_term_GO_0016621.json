@@ -1,0 +1,47 @@
+{
+  "id": "GO:0016621",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016621",
+  "relationships": {
+    "is_a": [
+      "GO:0016620"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cinnamoyl CoA reductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cinnamaldehyde:NADP+ oxidoreductase (CoA-cinnamoylating)",
+      "cinnamoyl-CoA:NADPH reductase activity",
+      "cinnamoyl-coenzyme A reductase activity",
+      "feruloyl coenzyme A reductase activity",
+      "feruloyl-CoA reductase activity",
+      "ferulyl-CoA reductase activity",
+      "p-hydroxycinnamoyl coenzyme A reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.44",
+      "1.2.1.44",
+      "1.2.1.44",
+      "1.2.1.44",
+      "1.2.1.44",
+      "1.2.1.44",
+      "1.2.1.44",
+      "1.2.1.44",
+      "1.2.1.44"
+    ],
+    "MetaCyc": [
+      "CINNAMOYL-COA-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "10620"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cinnamaldehyde + CoA + NADP+ = cinnamoyl-CoA + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "cinnamoyl-CoA reductase activity"
+}

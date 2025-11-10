@@ -1,0 +1,28 @@
+{
+  "id": "GO:0001010",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001010",
+  "relationships": {
+    "is_a": [
+      "GO:0030674"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sequence-specific DNA binding transcription factor recruiting transcription factor activity",
+      "transcription factor activity, sequence-specific DNA binding transcription factor recruiting"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "transcription factor activity, sequence-specific DNA-binding transcription factor recruiting"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH"
+    ]
+  },
+  "definition": "The function of binding to a specific DNA sequence and recruiting another transcription factor to the DNA in order to modulate transcription. The recruited factor may bind DNA directly, or may be colocalized via protein-protein interactions.",
+  "namespace": "molecular_function",
+  "label": "RNA polymerase II sequence-specific DNA-binding transcription factor recruiting activity"
+}

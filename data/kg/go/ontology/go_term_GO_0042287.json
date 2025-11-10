@@ -1,0 +1,27 @@
+{
+  "id": "GO:0042287",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042287",
+  "relationships": {
+    "is_a": [
+      "GO:0005102"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "major histocompatibility complex binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "major histocompatibility complex ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Binding to a major histocompatibility complex molecule; a set of molecules displayed on cell surfaces that are responsible for lymphocyte recognition and antigen presentation.",
+  "namespace": "molecular_function",
+  "label": "MHC protein binding"
+}

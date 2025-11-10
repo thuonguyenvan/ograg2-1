@@ -1,0 +1,37 @@
+{
+  "id": "GO:0002289",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002289",
+  "relationships": {
+    "is_a": [
+      "GO:0001866",
+      "GO:0002288",
+      "GO:0002310"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NK T cell proliferation during immune response",
+      "NK T lymphocyte proliferation during immune response",
+      "NK T-cell proliferation during immune response",
+      "NK T-lymphocyte proliferation during immune response",
+      "natural killer T lymphocyte proliferation during immune response",
+      "natural killer T-cell proliferation during immune response",
+      "natural killer T-lymphocyte proliferation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "tb"
+    ],
+    "PMID": [
+      "15771592"
+    ]
+  },
+  "definition": "The expansion of a NK T cell population by cell division as part of an immune response.",
+  "namespace": "biological_process",
+  "label": "NK T cell proliferation involved in immune response"
+}

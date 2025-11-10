@@ -1,0 +1,29 @@
+{
+  "id": "GO:0000156",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000156",
+  "relationships": {
+    "is_a": [
+      "GO:0060089"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "two-component response regulator activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf"
+    ],
+    "PMID": [
+      "10966457",
+      "11842140"
+    ]
+  },
+  "definition": "Responds to a phosphorelay sensor to initiate a change in cell state or activity. The activity of the response regulator is regulated by transfer of a phosphate from a histidine residue in the sensor, to an aspartate residue in the response regulator. Many but not all response regulators act as transcriptional regulators to elicit a response.",
+  "namespace": "molecular_function",
+  "label": "phosphorelay response regulator activity"
+}

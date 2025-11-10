@@ -1,0 +1,42 @@
+{
+  "id": "GO:0030906",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030906",
+  "relationships": {
+    "is_a": [
+      "GO:0098796"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cargo-selective retromer subcomplex",
+      "retromer CSC",
+      "retromer complex, inner shell",
+      "retromer, CRC",
+      "retromer, cargo recognition complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "PARL",
+      "bf",
+      "PARL",
+      "bf"
+    ],
+    "PMID": [
+      "11102511",
+      "26220253",
+      "9700157",
+      "19531583",
+      "20923837",
+      "26220253",
+      "26220253"
+    ]
+  },
+  "definition": "The trimeric subcomplex of the retromer, believed to be closely associated with the membrane. This trimeric complex is responsible for recognizing and binding to cargo molecules. The complex comprises three Vps proteins in both yeast and mammalian cells: Vps35p, Vps29p, and Vps26p in yeast, and VPS35, VPS29 and VPS26A or VPS26B in mammals.",
+  "namespace": "cellular_component",
+  "label": "retromer, cargo-selective complex"
+}

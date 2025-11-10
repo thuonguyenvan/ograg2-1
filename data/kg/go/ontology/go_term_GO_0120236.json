@@ -1,0 +1,38 @@
+{
+  "id": "GO:0120236",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120236",
+  "relationships": {
+    "is_a": [
+      "GO:0034763",
+      "GO:0090317",
+      "GO:0120235"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of posttranslational endoplasmic reticulum membrane protein translocation",
+      "negative regulation of posttranslational protein targeting to membrane, translocation"
+    ],
+    "broad": [],
+    "narrow": [
+      "negative regulation of N-terminal signal peptide-independent translocation into the ER",
+      "negative regulation of SRP-independent endoplasmic reticulum protein-membrane targeting, translocation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "rn",
+      "rn",
+      "rn",
+      "rn"
+    ],
+    "PMID": [
+      "32513868"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of posttranslational protein translocation through the ER membrane.",
+  "namespace": "biological_process",
+  "label": "negative regulation of post-translational protein targeting to membrane, translocation"
+}

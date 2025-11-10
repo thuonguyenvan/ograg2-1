@@ -1,0 +1,67 @@
+{
+  "id": "GO:0004601",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004601",
+  "relationships": {
+    "is_a": [
+      "GO:0016209",
+      "GO:0016684"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peroxidase reaction"
+    ],
+    "broad": [],
+    "narrow": [
+      "bacterial catalase-peroxidase activity",
+      "eosinophil peroxidase activity",
+      "extensin peroxidase",
+      "guaiacol peroxidase",
+      "heme peroxidase",
+      "horseradish peroxidase (HRP)",
+      "japanese radish peroxidase",
+      "lactoperoxidase activity",
+      "myeloperoxidase activity",
+      "protoheme peroxidase",
+      "pyrocatechol peroxidase",
+      "scopoletin peroxidase",
+      "secretory plant peroxidase activity",
+      "thiocyanate peroxidase",
+      "verdoperoxidase"
+    ],
+    "related": [
+      "MPO",
+      "donor:hydrogen-peroxide oxidoreductase activity",
+      "oxyperoxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.11.1.-"
+    ],
+    "KEGG_REACTION": [
+      "R03532"
+    ],
+    "Reactome": [
+      "R-HSA-1222346",
+      "R-HSA-140359",
+      "R-HSA-2309773",
+      "R-HSA-2559639",
+      "R-HSA-3341296",
+      "R-HSA-5631885",
+      "R-HSA-6789031",
+      "R-HSA-6789126",
+      "R-HSA-8855490",
+      "R-HSA-8933635"
+    ],
+    "Wikipedia": [
+      "Peroxidase"
+    ],
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a donor + a peroxide = an oxidized donor + 2 H2O.",
+  "namespace": "molecular_function",
+  "label": "Myeloperoxidase (MPO) catalyzes oxidation of nitrite to nitrogen dioxide"
+}

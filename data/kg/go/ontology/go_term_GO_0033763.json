@@ -1,0 +1,35 @@
+{
+  "id": "GO:0033763",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033763",
+  "relationships": {
+    "is_a": [
+      "GO:0016706"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-proline,2-oxoglutarate:oxygen oxidoreductase (3-hydroxylating) activity",
+      "P-3-H"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.11.28",
+      "1.14.11.28",
+      "1.14.11.28",
+      "1.14.11.28"
+    ],
+    "MetaCyc": [
+      "1.14.11.28-RXN"
+    ],
+    "RHEA": [
+      "20265"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-proline + 2-oxoglutarate + O2 = cis-3-hydroxy-L-proline + succinate + CO2.",
+  "namespace": "molecular_function",
+  "label": "proline 3-hydroxylase activity"
+}

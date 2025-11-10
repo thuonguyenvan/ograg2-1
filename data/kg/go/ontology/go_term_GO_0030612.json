@@ -1,0 +1,30 @@
+{
+  "id": "GO:0030612",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030612",
+  "relationships": {
+    "is_a": [
+      "GO:0030614"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.20.4.4"
+    ],
+    "MetaCyc": [
+      "RXN-10737"
+    ],
+    "RHEA": [
+      "43848",
+      "43848"
+    ]
+  },
+  "definition": "Catalysis of the reaction: arsenate + [thioredoxin]-dithiol + H+ = arsenite + [thioredoxin]-disulfide + H2O.",
+  "namespace": "molecular_function",
+  "label": "arsenate reductase (thioredoxin) activity"
+}

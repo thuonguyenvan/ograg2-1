@@ -1,0 +1,32 @@
+{
+  "id": "GO:0016763",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016763",
+  "relationships": {
+    "is_a": [
+      "GO:0016757"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transferase activity, transferring pentosyl groups"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.-"
+    ],
+    "Reactome": [
+      "R-HSA-112265",
+      "R-HSA-112266"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a pentosyl group from one compound (donor) to another (acceptor).",
+  "namespace": "molecular_function",
+  "label": "thymine or uracil + 2-deoxy-D-ribose 1-phosphate &lt;=&gt; thymidine or deoxyuridine + orthophosphate [TYMP]"
+}

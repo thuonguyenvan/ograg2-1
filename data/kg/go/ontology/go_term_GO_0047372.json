@@ -1,0 +1,62 @@
+{
+  "id": "GO:0047372",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047372",
+  "relationships": {
+    "is_a": [
+      "GO:0016298",
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "acylglycerol lipase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "fatty acyl monoester lipase activity",
+      "glycerol-ester acylhydrolase activity",
+      "monoacylglycerol hydrolase activity",
+      "monoacylglycerolipase activity",
+      "monoglyceridase activity",
+      "monoglyceride hydrolase activity",
+      "monoglyceride lipase activity",
+      "monoglyceridyllipase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.23",
+      "3.1.1.23",
+      "3.1.1.23",
+      "3.1.1.23",
+      "3.1.1.23",
+      "3.1.1.23",
+      "3.1.1.23",
+      "3.1.1.23",
+      "3.1.1.23"
+    ],
+    "MetaCyc": [
+      "RXN-19280"
+    ],
+    "RHEA": [
+      "15245",
+      "15245"
+    ],
+    "Reactome": [
+      "R-HSA-1482543",
+      "R-HSA-163595",
+      "R-HSA-192422",
+      "R-HSA-192425",
+      "R-HSA-192430",
+      "R-HSA-192434",
+      "R-HSA-192475",
+      "R-HSA-426032",
+      "R-HSA-426043",
+      "R-HSA-5694462"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a monoacylglycerol + H2O = a fatty acid + glycerol + H+.",
+  "namespace": "molecular_function",
+  "label": "ABHD6,12 hydrolyse 3AG"
+}

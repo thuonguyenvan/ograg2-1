@@ -1,0 +1,38 @@
+{
+  "id": "GO:0061709",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061709",
+  "relationships": {
+    "is_a": [
+      "GO:0016236"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ER autophagy",
+      "ER-phagy",
+      "autophagy of the ER",
+      "autophagy of the endoplasmic reticulum",
+      "endoplasmic reticulum autophagy"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ER degradation",
+      "endoplasmic reticulum degradation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "autophagy",
+      "dph"
+    ],
+    "PMID": [
+      "22481944",
+      "24060720",
+      "26040717"
+    ]
+  },
+  "definition": "The selective autohagy process in which parts of the endoplasmic reticulum are loaded into autophagosomes, delivered to the vacuole, and degraded in response to changing cellular conditions.",
+  "namespace": "biological_process",
+  "label": "reticulophagy"
+}

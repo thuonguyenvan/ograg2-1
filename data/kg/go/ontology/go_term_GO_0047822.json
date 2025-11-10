@@ -1,0 +1,32 @@
+{
+  "id": "GO:0047822",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047822",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hypotaurine dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "HYPOTAURINE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "69819",
+      "69819"
+    ],
+    "Reactome": [
+      "R-HSA-1655453"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H+ + hypotaurine + NADPH + O2 = H2O + NADP+ + taurine.",
+  "namespace": "molecular_function",
+  "label": "FMO1:FAD oxidizes HTAU to TAU"
+}

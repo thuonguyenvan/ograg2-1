@@ -1,0 +1,34 @@
+{
+  "id": "GO:0047624",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047624",
+  "relationships": {
+    "is_a": [
+      "GO:0016462"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "adenosine-tetraphosphate phosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.14",
+      "3.6.1.14",
+      "3.6.1.14"
+    ],
+    "MetaCyc": [
+      "ADENOSINE-TETRAPHOSPHATASE-RXN",
+      "ADENOSINE-TETRAPHOSPHATASE-RXN"
+    ],
+    "RHEA": [
+      "24500"
+    ]
+  },
+  "definition": "Catalysis of the reaction: adenosine 5&apos;-tetraphosphate + H2O = ATP + phosphate.",
+  "namespace": "molecular_function",
+  "label": "adenosine-tetraphosphatase activity"
+}

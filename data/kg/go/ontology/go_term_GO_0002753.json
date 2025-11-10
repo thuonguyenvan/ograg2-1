@@ -1,0 +1,47 @@
+{
+  "id": "GO:0002753",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002753",
+  "relationships": {
+    "is_a": [
+      "GO:0002221",
+      "GO:0030522"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytoplasmic PRR signaling pathway",
+      "cytoplasmic pathogen receptor signaling pathway",
+      "cytoplasmic pattern recognition receptor signalling pathway",
+      "cytosolic PAMP receptor signaling pathway",
+      "cytosolic pattern recognition receptor signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "cytoplasmic caspase-recruiting domain (CARD) helicase signaling pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9645460"
+    ],
+    "GOC": [
+      "add",
+      "ar"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "15199967",
+      "17328678",
+      "18272355",
+      "19531363",
+      "21187438",
+      "17328678"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by the binding of a ligand from another organism to a cytoplasmic pattern recognition receptor (PRR). PRRs bind pathogen-associated molecular pattern (PAMPs), structures conserved among microbial species.",
+  "namespace": "biological_process",
+  "label": "Alpha-protein kinase 1 signaling pathway"
+}

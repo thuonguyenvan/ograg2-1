@@ -1,0 +1,34 @@
+{
+  "id": "GO:0006701",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006701",
+  "relationships": {
+    "is_a": [
+      "GO:0006700",
+      "GO:0042181",
+      "GO:0042448",
+      "GO:0120255"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "progesterone anabolism",
+      "progesterone biosynthesis",
+      "progesterone formation",
+      "progesterone synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "14613534"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of progesterone, a steroid hormone produced in the ovary which prepares and maintains the uterus for pregnancy. Also found in plants.",
+  "namespace": "biological_process",
+  "label": "progesterone biosynthetic process"
+}

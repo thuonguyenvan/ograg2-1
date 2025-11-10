@@ -1,0 +1,36 @@
+{
+  "id": "GO:0006402",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006402",
+  "relationships": {
+    "is_a": [
+      "GO:0006401",
+      "GO:0010629",
+      "GO:0016071"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mRNA breakdown",
+      "mRNA catabolism",
+      "mRNA degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "mRNA decay"
+    ]
+  },
+  "cross_references": {
+    "ISBN": [
+      "0198506732"
+    ],
+    "GOC": [
+      "ascb_2010",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of mRNA, messenger RNA, which is responsible for carrying the coded genetic &apos;message&apos;, transcribed from DNA, to sites of protein assembly at the ribosomes.",
+  "namespace": "biological_process",
+  "label": "mRNA catabolic process"
+}

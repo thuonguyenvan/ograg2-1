@@ -1,0 +1,47 @@
+{
+  "id": "GO:0047777",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047777",
+  "relationships": {
+    "is_a": [
+      "GO:0016833"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "citramalyl-CoA lyase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "(+)-CMA-CoA lyase activity",
+      "(3S)-citramalyl-CoA lyase activity",
+      "(3S)-citramalyl-CoA pyruvate-lyase (acetyl-CoA-forming)",
+      "(3S)-citramalyl-CoA pyruvate-lyase activity",
+      "citramalyl coenzyme A lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.3.25",
+      "4.1.3.25",
+      "4.1.3.25",
+      "4.1.3.25",
+      "4.1.3.25",
+      "4.1.3.25",
+      "4.1.3.25"
+    ],
+    "KEGG_REACTION": [
+      "R00237"
+    ],
+    "MetaCyc": [
+      "CITRAMALYL-COA-LYASE-RXN"
+    ],
+    "RHEA": [
+      "22612",
+      "22612"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (3S)-citramalyl-CoA = acetyl-CoA + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "(S)-citramalyl-CoA lyase activity"
+}

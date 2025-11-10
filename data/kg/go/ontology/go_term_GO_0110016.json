@@ -1,0 +1,29 @@
+{
+  "id": "GO:0110016",
+  "uri": "http://purl.obolibrary.org/obo/GO_0110016",
+  "relationships": {
+    "is_a": [
+      "GO:0070603"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "16603771",
+      "21559432",
+      "23555303",
+      "26044184"
+    ]
+  },
+  "definition": "A chromatin remodeling complex that positively regulates histone H3 acetylation, in particular H3K9, by recruiting histone acetyltransferases to rDNA gene regions. Located in the nucleolus where it assembles on RNA Polymerase I (Pol I) and possibly on RNA Polymerase III (Pol III) promoter and coding regions during early G1 phase and activates the post-initiation phases of Pol I transcription. May also activate RNA Polymerase II (Pol II) gene transcription. In mammals, B-WICH contains the WICH complex core of BAZ1B and SMARCA5, additional protein subunits and possibly rRNAs. Although it contains several catalytic subunits it is not clear which functions are carried out by the complex itself.",
+  "namespace": "cellular_component",
+  "label": "B-WICH complex"
+}

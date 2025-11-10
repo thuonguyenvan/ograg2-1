@@ -1,0 +1,40 @@
+{
+  "id": "GO:0015012",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015012",
+  "relationships": {
+    "is_a": [
+      "GO:0030166",
+      "GO:0030201",
+      "GO:0180064"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "heparan sulfate proteoglycan anabolism",
+      "heparan sulfate proteoglycan biosynthesis",
+      "heparan sulfate proteoglycan formation",
+      "heparan sulfate proteoglycan synthesis",
+      "heparan sulphate proteoglycan biosynthesis",
+      "heparan sulphate proteoglycan biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "heparin proteoglycan biosynthetic process"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-6558"
+    ],
+    "Reactome": [
+      "R-HSA-2022928"
+    ],
+    "PMID": [
+      "27241222"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of heparan sulfate proteoglycans, which consist of a core protein linked to a heparan sulfate glycosaminoglycan. The heparan sulfate chain is composed of the repeating disaccharide unit beta-(1,4)-N-acetyl-D-glucosamine-alpha-(1,4)-hexuronic acid, the former being either sulfated or deacetylated on its amino group as well as sulfated on one of its hydroxyl groups, and the latter being e a mixture of sulfated and nonsulfated D-glucuronic and L-iduronic acids. Heparan sulfate chains are covalently linked to serine/threonine residues (O-linked) of the core protein via a tetrasaccharide linker sequence (xylose-galactose-galactose-glucuronate).",
+  "namespace": "biological_process",
+  "label": "HS-GAG biosynthesis"
+}

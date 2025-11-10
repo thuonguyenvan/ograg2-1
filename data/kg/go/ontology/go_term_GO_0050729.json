@@ -1,0 +1,32 @@
+{
+  "id": "GO:0050729",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050729",
+  "relationships": {
+    "is_a": [
+      "GO:0031349",
+      "GO:0032103",
+      "GO:0050727"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of inflammatory response",
+      "up-regulation of inflammatory response",
+      "upregulation of inflammatory response"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of inflammatory response",
+      "stimulation of inflammatory response"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the inflammatory response.",
+  "namespace": "biological_process",
+  "label": "positive regulation of inflammatory response"
+}

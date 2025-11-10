@@ -1,0 +1,30 @@
+{
+  "id": "GO:0002143",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002143",
+  "relationships": {
+    "is_a": [
+      "GO:0002098",
+      "GO:0034227"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA wobble uridine thiolation",
+      "wobble position s2U biosynthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "16871210"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The process in which a uridine residue at position 34 in the anticodon of a tRNA is post-transcriptionally thiolated at the C2 position. This process involves transfer of a sulfur from cysteine to position C2 by several steps.",
+  "namespace": "biological_process",
+  "label": "tRNA wobble position uridine thiolation"
+}

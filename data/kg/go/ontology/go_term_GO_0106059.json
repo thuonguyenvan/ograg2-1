@@ -1,0 +1,32 @@
+{
+  "id": "GO:0106059",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106059",
+  "relationships": {
+    "is_a": [
+      "GO:0016427"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA (cytidine 56-2&apos;-O)-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.206"
+    ],
+    "MetaCyc": [
+      "RXN-11869"
+    ],
+    "RHEA": [
+      "42968",
+      "42968"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + cytidine56 in tRNA= S-adenosyl-L-homocysteine + 2&apos;-O-methylcytidine56 in tRNA.",
+  "namespace": "molecular_function",
+  "label": "tRNA (cytidine(56)-2&apos;-O)-methyltransferase activity"
+}

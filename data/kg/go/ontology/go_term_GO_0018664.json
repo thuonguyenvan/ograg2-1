@@ -1,0 +1,54 @@
+{
+  "id": "GO:0018664",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018664",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-hydroxybenzoic hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "benzoate 4-hydroxylase activity",
+      "benzoate,NADPH:oxygen oxidoreductase (4-hydroxylating)",
+      "benzoate-p-hydroxylase activity",
+      "benzoate-para-hydroxylase activity",
+      "benzoic 4-hydroxylase activity",
+      "benzoic acid 4-hydroxylase activity",
+      "p-hydroxybenzoate hydroxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.92",
+      "1.14.14.92",
+      "1.14.14.92",
+      "1.14.14.92",
+      "1.14.14.92",
+      "1.14.14.92",
+      "1.14.14.92",
+      "1.14.14.92",
+      "1.14.14.92"
+    ],
+    "KEGG_REACTION": [
+      "R01295"
+    ],
+    "MetaCyc": [
+      "BENZOATE-4-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "18033",
+      "18033"
+    ],
+    "UM-BBD_reactionID": [
+      "r0623"
+    ]
+  },
+  "definition": "Catalysis of the reaction: benzoate + H+ + NADPH + O2 = 4-hydroxybenzoate + H2O + NADP+.",
+  "namespace": "molecular_function",
+  "label": "benzoate 4-monooxygenase activity"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "GO:0017168",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017168",
+  "relationships": {
+    "is_a": [
+      "GO:0016812"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-OPase activity",
+      "5-oxo-L-prolinase activity",
+      "5-oxo-L-proline amidohydrolase (ATP-hydrolysing)",
+      "5-oxoprolinase (ATP-hydrolysing)",
+      "5-oxoprolinase activity",
+      "L-pyroglutamate hydrolase activity",
+      "oxoprolinase activity",
+      "pyroglutamase (ATP-hydrolysing)",
+      "pyroglutamase (ATP-hydrolyzing) activity",
+      "pyroglutamase activity",
+      "pyroglutamate hydrolase activity",
+      "pyroglutamic hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.2.9",
+      "3.5.2.9",
+      "3.5.2.9",
+      "3.5.2.9",
+      "3.5.2.9",
+      "3.5.2.9",
+      "3.5.2.9",
+      "3.5.2.9",
+      "3.5.2.9",
+      "3.5.2.9",
+      "3.5.2.9",
+      "3.5.2.9",
+      "3.5.2.9",
+      "3.5.2.9"
+    ],
+    "KEGG_REACTION": [
+      "R00251"
+    ],
+    "MetaCyc": [
+      "5-OXOPROLINASE-ATP-HYDROLYSING-RXN"
+    ],
+    "RHEA": [
+      "10348",
+      "10348"
+    ],
+    "Reactome": [
+      "R-HSA-1247935",
+      "R-HSA-5603208"
+    ],
+    "Wikipedia": [
+      "5-oxoprolinase_(ATP-hydrolysing)"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-oxo-L-proline + ATP + 2 H2O = L-glutamate + ADP + 2 H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "Defective OPLAH does not hydrolyse OPRO"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0033311",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033311",
+  "relationships": {
+    "is_a": [
+      "GO:0033305"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chlorophyll a anabolism via phytyl diphosphate",
+      "chlorophyll a biosynthesis via phytyl diphosphate",
+      "chlorophyll a biosynthetic process via phytyl-PP",
+      "chlorophyll a formation via phytyl chlorophyll a formation via phytyl-PP",
+      "chlorophyll a synthesis via phytyl diphosphate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5086",
+      "PWY-5086"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways leading to the formation of chlorophyll a, via the intermediate phytyl diphosphate.",
+  "namespace": "biological_process",
+  "label": "chlorophyll a biosynthetic process via phytyl diphosphate"
+}

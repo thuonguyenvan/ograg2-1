@@ -1,0 +1,30 @@
+{
+  "id": "GO:0005115",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005115",
+  "relationships": {
+    "is_a": [
+      "GO:0005102"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "Ror binding"
+    ],
+    "narrow": [
+      "receptor tyrosine kinase-like orphan receptor ligand"
+    ],
+    "related": [
+      "Ror ligand"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ceb",
+      "vw"
+    ]
+  },
+  "definition": "Binding to a receptor tyrosine kinase-like orphan receptor (Ror).",
+  "namespace": "molecular_function",
+  "label": "receptor tyrosine kinase-like orphan receptor binding"
+}

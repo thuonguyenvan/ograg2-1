@@ -1,0 +1,31 @@
+{
+  "id": "GO:0044574",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044574",
+  "relationships": {
+    "is_a": [
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SUS complex assembly",
+      "assembly of starch utilization system complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators",
+      "tt"
+    ],
+    "PMID": [
+      "19553672",
+      "21219452"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of the starch utilization system complex, a complex of cell envelope-associated proteins that degrades glycan.",
+  "namespace": "biological_process",
+  "label": "starch utilization system complex assembly"
+}

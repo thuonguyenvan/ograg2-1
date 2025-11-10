@@ -1,0 +1,64 @@
+{
+  "id": "GO:1905209",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905209",
+  "relationships": {
+    "is_a": [
+      "GO:0045597",
+      "GO:0051240",
+      "GO:1905207"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of cardiac cell differentiation",
+      "positive regulation of heart cell differentiation",
+      "up regulation of cardiac cell differentiation",
+      "up regulation of cardiocyte differentiation",
+      "up regulation of heart cell differentiation",
+      "up-regulation of cardiac cell differentiation",
+      "up-regulation of cardiocyte differentiation",
+      "up-regulation of heart cell differentiation",
+      "upregulation of cardiac cell differentiation",
+      "upregulation of cardiocyte differentiation",
+      "upregulation of heart cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of cardiac cell differentiation",
+      "activation of cardiocyte differentiation",
+      "activation of heart cell differentiation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "TermGenie",
+      "bc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23069713"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of cardiocyte differentiation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cardiocyte differentiation"
+}

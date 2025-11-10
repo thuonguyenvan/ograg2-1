@@ -1,0 +1,32 @@
+{
+  "id": "GO:0070016",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070016",
+  "relationships": {
+    "is_a": [
+      "GO:0019904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Arm repeat domain binding",
+      "armadillo domain binding",
+      "armadillo repeat binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "vk"
+    ],
+    "InterPro": [
+      "IPR000225"
+    ]
+  },
+  "definition": "Binding to an armadillo repeat domain, an approximately 40 amino acid long tandemly repeated sequence motif first identified in the Drosophila segment polarity protein armadillo. Arm-repeat proteins are involved in various processes, including intracellular signaling and cytoskeletal regulation.",
+  "namespace": "molecular_function",
+  "label": "armadillo repeat domain binding"
+}

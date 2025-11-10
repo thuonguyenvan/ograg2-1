@@ -1,0 +1,34 @@
+{
+  "id": "GO:0009890",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009890",
+  "relationships": {
+    "is_a": [
+      "GO:0009889",
+      "GO:0009892"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of biosynthetic process",
+      "down-regulation of biosynthetic process",
+      "downregulation of biosynthetic process",
+      "negative regulation of anabolism",
+      "negative regulation of biosynthesis",
+      "negative regulation of formation",
+      "negative regulation of synthesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the rate of the chemical reactions and pathways resulting in the formation of substances.",
+  "namespace": "biological_process",
+  "label": "negative regulation of biosynthetic process"
+}

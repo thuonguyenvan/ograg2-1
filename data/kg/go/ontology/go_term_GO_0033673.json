@@ -1,0 +1,32 @@
+{
+  "id": "GO:0033673",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033673",
+  "relationships": {
+    "is_a": [
+      "GO:0042326",
+      "GO:0043086",
+      "GO:0043549"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of kinase activity",
+      "down-regulation of kinase activity",
+      "downregulation of kinase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of kinase activity",
+      "kinase inhibitor"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of kinase activity, the catalysis of the transfer of a phosphate group, usually from ATP, to a substrate molecule.",
+  "namespace": "biological_process",
+  "label": "negative regulation of kinase activity"
+}

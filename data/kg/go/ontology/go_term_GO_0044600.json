@@ -1,0 +1,29 @@
+{
+  "id": "GO:0044600",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044600",
+  "relationships": {
+    "is_a": [
+      "GO:0070568"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9765952"
+    ],
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "20651120"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GTP + protein = diphosphate + guanylyl-protein; mediates the addition of an guanylyl (guanosine 5&apos;-monophosphate; GMP group) to specific residues of target proteins.",
+  "namespace": "molecular_function",
+  "label": "nsp12 guanylates nsp7"
+}

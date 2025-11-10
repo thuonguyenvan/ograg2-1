@@ -1,0 +1,46 @@
+{
+  "id": "GO:0050642",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050642",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2a-hydroxytaxane 2-O-benzoyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-debenzoyl-7,13-diacetylbaccatin III-2-O-benzoyl transferase activity",
+      "2alpha-hydroxytaxane 2-O-benzoyltransferase activity",
+      "benzoyl-CoA:taxan-2alpha-ol O-benzoyltransferase activity",
+      "benzoyl-CoA:taxane 2-alpha-O-benzoyltransferase activity",
+      "benzoyl-CoA:taxane 2alpha-O-benzoyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.166",
+      "2.3.1.166",
+      "2.3.1.166",
+      "2.3.1.166",
+      "2.3.1.166",
+      "2.3.1.166"
+    ],
+    "KEGG_REACTION": [
+      "R06310"
+    ],
+    "MetaCyc": [
+      "2.3.1.166-RXN"
+    ],
+    "RHEA": [
+      "18741",
+      "18741"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 10-deacetyl-2-debenzoylbaccatin III + benzoyl-CoA = 10-deacetylbaccatin III + CoA.",
+  "namespace": "molecular_function",
+  "label": "2-alpha-hydroxytaxane 2-O-benzoyltransferase activity"
+}

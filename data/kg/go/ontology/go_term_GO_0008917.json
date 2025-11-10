@@ -1,0 +1,39 @@
+{
+  "id": "GO:0008917",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008917",
+  "relationships": {
+    "is_a": [
+      "GO:0008375"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LPS N-acetylglucosaminyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-N-acetyl-D-glucosamine:lipopolysaccharide N-acetyl-D-glucosaminyltransferase activity",
+      "UDP-N-acetylglucosamine-lipopolysaccharide N-acetylglucosaminyltransferase activity",
+      "uridine diphosphoacetylglucosamine-lipopolysaccharide acetylglucosaminyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.56",
+      "2.4.1.56",
+      "2.4.1.56",
+      "2.4.1.56",
+      "2.4.1.56"
+    ],
+    "MetaCyc": [
+      "RXN-22502"
+    ],
+    "GOC": [
+      "mr"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-N-acetyl-D-glucosamine + lipopolysaccharide = UDP + N-acetyl-D-glucosaminyl-lipopolysaccharide.",
+  "namespace": "molecular_function",
+  "label": "lipopolysaccharide N-acetylglucosaminyltransferase activity"
+}

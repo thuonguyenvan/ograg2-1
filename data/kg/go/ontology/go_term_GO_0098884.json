@@ -1,0 +1,27 @@
+{
+  "id": "GO:0098884",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098884",
+  "relationships": {
+    "is_a": [
+      "GO:0099072",
+      "GO:0099590",
+      "GO:0140239"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "postsynaptic neurotransmitter receptor endocytosis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dos"
+    ]
+  },
+  "definition": "A receptor-mediated endocytosis process that results in the internalization of a neurotransmitter receptor from the postsynaptic membrane endocytic zone into an endocytic vesicle.",
+  "namespace": "biological_process",
+  "label": "postsynaptic neurotransmitter receptor internalization"
+}

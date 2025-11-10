@@ -1,0 +1,33 @@
+{
+  "id": "GO:0047264",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047264",
+  "relationships": {
+    "is_a": [
+      "GO:0000030"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "heteropolysaccharide alpha-mannosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GDP mannose alpha-mannosyltransferase activity",
+      "GDP-mannose:heteroglycan 2-(or 3-)-alpha-D-mannosyltransferase activity",
+      "guanosine diphosphomannose-heteroglycan alpha-mannosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.48",
+      "2.4.1.48",
+      "2.4.1.48",
+      "2.4.1.48",
+      "2.4.1.48"
+    ]
+  },
+  "definition": "Catalysis of the reaction: heteroglycan + GDP-mannose = alpha-D-mannosylheteroglycan + GDP. 1,2- and 1,3-mannosyl bonds are formed.",
+  "namespace": "molecular_function",
+  "label": "heteroglycan alpha-mannosyltransferase activity"
+}

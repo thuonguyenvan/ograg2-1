@@ -1,0 +1,62 @@
+{
+  "id": "GO:0004352",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004352",
+  "relationships": {
+    "is_a": [
+      "GO:0004353"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "L-glutamate dehydrogenase",
+      "glutamic acid dehydrogenase",
+      "glutamic dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "L-glutamate:NAD+ oxidoreductase (deaminating)",
+      "NAD-dependent glutamate dehydrogenase activity",
+      "NAD-dependent glutamic dehydrogenase activity",
+      "NAD-glutamate dehydrogenase activity",
+      "NAD-linked glutamate dehydrogenase activity",
+      "NAD-linked glutamic dehydrogenase activity",
+      "NAD-specific glutamate dehydrogenase activity",
+      "NAD-specific glutamic dehydrogenase activity",
+      "NAD:glutamate oxidoreductase activity",
+      "NADH-linked glutamate dehydrogenase activity",
+      "glutamate dehydrogenase (NAD)",
+      "glutamate oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.1.2",
+      "1.4.1.2",
+      "1.4.1.2",
+      "1.4.1.2",
+      "1.4.1.2",
+      "1.4.1.2",
+      "1.4.1.2",
+      "1.4.1.2",
+      "1.4.1.2",
+      "1.4.1.2",
+      "1.4.1.2",
+      "1.4.1.2",
+      "1.4.1.2",
+      "1.4.1.2",
+      "1.4.1.2",
+      "1.4.1.2",
+      "1.4.1.2"
+    ],
+    "MetaCyc": [
+      "GLUTAMATE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "15133"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-glutamate + H2O + NAD+ = 2-oxoglutarate + NH3 + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "glutamate dehydrogenase (NAD+) activity"
+}

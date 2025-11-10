@@ -1,0 +1,30 @@
+{
+  "id": "GO:0106377",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106377",
+  "relationships": {
+    "is_a": [
+      "GO:0047429"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "67392",
+      "67392"
+    ],
+    "Reactome": [
+      "R-HSA-2395872"
+    ],
+    "PMID": [
+      "11139615"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-hydroxy-ATP + H2O = 2-hydroxy-AMP + H+ + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "NUDT1 hydrolyses 2-oxo-ATP to 2-oxo-AMP"
+}

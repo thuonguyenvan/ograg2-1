@@ -1,0 +1,29 @@
+{
+  "id": "GO:0000752",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000752",
+  "relationships": {
+    "is_a": [
+      "GO:0051703",
+      "GO:0140039"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell-cell adhesion during conjugation with cellular fusion",
+      "cell-cell adhesion during mating"
+    ],
+    "broad": [
+      "agglutination"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "elh"
+    ]
+  },
+  "definition": "The aggregation or adhesion of compatible mating types via complementary cell-cell interactions during conjugation with cellular fusion of a unicellular organism. An example of this process is agglutination in Saccharomyces cerevisiae.",
+  "namespace": "biological_process",
+  "label": "agglutination involved in conjugation with cellular fusion"
+}

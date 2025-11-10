@@ -1,0 +1,31 @@
+{
+  "id": "GO:2000644",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000644",
+  "relationships": {
+    "is_a": [
+      "GO:0009894",
+      "GO:0060255"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of receptor breakdown",
+      "regulation of receptor catabolism",
+      "regulation of receptor degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of receptor catabolic process.",
+  "namespace": "biological_process",
+  "label": "regulation of receptor catabolic process"
+}

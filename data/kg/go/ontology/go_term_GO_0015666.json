@@ -1,0 +1,27 @@
+{
+  "id": "GO:0015666",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015666",
+  "relationships": {
+    "is_a": [
+      "GO:0004520",
+      "GO:0016788"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "restriction endonuclease activity",
+      "restriction enzyme activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mlg"
+    ]
+  },
+  "definition": "Catalysis of endonucleolytic cleavage of DNA in a site-specific manner, resulting in double-strand breaks.",
+  "namespace": "molecular_function",
+  "label": "restriction endodeoxyribonuclease activity"
+}

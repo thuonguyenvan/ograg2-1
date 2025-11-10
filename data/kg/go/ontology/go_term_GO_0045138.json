@@ -1,0 +1,36 @@
+{
+  "id": "GO:0045138",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045138",
+  "relationships": {
+    "is_a": [
+      "GO:0090598"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "male tail morphogenesis"
+    ],
+    "narrow": [],
+    "related": [
+      "male tail tip morphogenesis",
+      "tail tip morphogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "kmv",
+      "kmv",
+      "kmv"
+    ],
+    "PMID": [
+      "16806150",
+      "18050419",
+      "21408209",
+      "7409314"
+    ]
+  },
+  "definition": "The process in which the anatomical structure of the adult male tail tip is generated and organized. In some species of rhabitid nematodes, the male tail tip undergoes a morphological change such that the most posterior hypodermal cells in the tail (hyp8-11 in C. elegans) fuse and retract anteriorly, changing the shape of the tail from a pointed, tapered cone, or spike, to a rounded, blunt dome.",
+  "namespace": "biological_process",
+  "label": "nematode male tail tip morphogenesis"
+}

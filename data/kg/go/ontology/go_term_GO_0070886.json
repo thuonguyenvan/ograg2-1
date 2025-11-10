@@ -1,0 +1,42 @@
+{
+  "id": "GO:0070886",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070886",
+  "relationships": {
+    "is_a": [
+      "GO:0070884",
+      "GO:0106058"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of calcineurin-NFAT signalling cascade",
+      "up regulation of calcineurin-NFAT signaling cascade",
+      "up-regulation of calcineurin-NFAT signaling cascade",
+      "upregulation of calcineurin-NFAT signaling cascade"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of calcineurin-NFAT signaling cascade",
+      "positive regulation of NFAT protein import into nucleus",
+      "stimulation of calcineurin-NFAT signaling cascade"
+    ],
+    "related": [
+      "positive regulation of calcineurin-NFAT signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "bf"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of signaling via the calcineurin-NFAT signaling cascade.",
+  "namespace": "biological_process",
+  "label": "positive regulation of calcineurin-NFAT signaling cascade"
+}

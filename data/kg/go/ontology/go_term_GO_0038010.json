@@ -1,0 +1,32 @@
+{
+  "id": "GO:0038010",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038010",
+  "relationships": {
+    "is_a": [
+      "GO:0009967",
+      "GO:0038009"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of signaling pathway by receptor endocytosis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "signaling",
+      "bf"
+    ],
+    "PMID": [
+      "17908284",
+      "19696798"
+    ]
+  },
+  "definition": "Any process in which the internalization of a signaling receptor activates or increases the frequency, rate or extent of signal transduction. Receptor internalization can enhance signaling by concentrating signaling molecules in one location, or by moving a ligand-activated receptor to the location of downstream signaling proteins. Endosomes for example can serve as important intracellular signaling platforms.",
+  "namespace": "biological_process",
+  "label": "positive regulation of signal transduction by receptor internalization"
+}

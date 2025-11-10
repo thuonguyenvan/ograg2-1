@@ -1,0 +1,40 @@
+{
+  "id": "GO:0018622",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018622",
+  "relationships": {
+    "is_a": [
+      "GO:0016708"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-chlorophenylacetate,NADH:oxygen oxidoreductase (3,4-hydroxylating, dechlorinating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.12.9",
+      "1.14.12.9",
+      "1.14.12.9"
+    ],
+    "KEGG_REACTION": [
+      "R03306"
+    ],
+    "MetaCyc": [
+      "1.14.12.9-RXN"
+    ],
+    "RHEA": [
+      "14689",
+      "14689"
+    ],
+    "UM-BBD_reactionID": [
+      "r0308"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-chlorophenylacetate + NADH + O2 = 3,4-dihydroxyphenylacetate + chloride + NAD+.",
+  "namespace": "molecular_function",
+  "label": "4-chlorophenylacetate 3,4-dioxygenase activity"
+}

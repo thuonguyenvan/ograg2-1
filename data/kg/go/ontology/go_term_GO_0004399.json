@@ -1,0 +1,30 @@
+{
+  "id": "GO:0004399",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004399",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.23"
+    ],
+    "MetaCyc": [
+      "RXN-8001"
+    ],
+    "RHEA": [
+      "20641",
+      "20641"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + L-histidinol + 2 NAD+ = 3 H+ + L-histidine + 2 NADH.",
+  "namespace": "molecular_function",
+  "label": "histidinol dehydrogenase activity"
+}

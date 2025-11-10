@@ -1,0 +1,28 @@
+{
+  "id": "GO:0090646",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090646",
+  "relationships": {
+    "is_a": [
+      "GO:0000959",
+      "GO:0000963",
+      "GO:0008033"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6785470"
+    ],
+    "GOC": [
+      "vw"
+    ]
+  },
+  "definition": "The process in which a pre-tRNA molecule is converted to a mature tRNA, ready for addition of an aminoacyl group, in the mitochondrion.",
+  "namespace": "biological_process",
+  "label": "tRNA processing in the mitochondrion"
+}

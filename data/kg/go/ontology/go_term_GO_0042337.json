@@ -1,0 +1,35 @@
+{
+  "id": "GO:0042337",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042337",
+  "relationships": {
+    "is_a": [
+      "GO:0040003"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "cuticle anabolism during molting",
+      "cuticle biosynthetic process during molting",
+      "cuticle formation during molting",
+      "cuticle synthesis during molting"
+    ],
+    "narrow": [],
+    "related": [
+      "chitin-based cuticle development during molting"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "jl",
+      "mtg_sensu",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The synthesis and deposition of a chitin-based non-cellular, hardened, or membranous secretion from an epithelial sheet, occurring as part of the molting cycle. An example of this is found in Drosophila melanogaster.",
+  "namespace": "biological_process",
+  "label": "cuticle development involved in chitin-based cuticle molting cycle"
+}

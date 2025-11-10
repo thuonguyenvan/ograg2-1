@@ -1,0 +1,31 @@
+{
+  "id": "GO:0090614",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090614",
+  "relationships": {
+    "is_a": [
+      "GO:0016814",
+      "GO:0019239"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.4.31"
+    ],
+    "RHEA": [
+      "25025",
+      "25025"
+    ],
+    "PMID": [
+      "23968233"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5&apos;methyl thioadenosine + H2O = 5&apos;methyl thioinosine + NH3.",
+  "namespace": "molecular_function",
+  "label": "5&apos;-methylthioadenosine deaminase activity"
+}

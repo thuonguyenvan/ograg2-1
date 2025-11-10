@@ -1,0 +1,33 @@
+{
+  "id": "GO:0015407",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015407",
+  "relationships": {
+    "is_a": [
+      "GO:0015145",
+      "GO:0043211"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent monosaccharide transmembrane transporter activity",
+      "monosaccharide-transporting ATPase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "monosaccharide ABC transporter",
+      "monosaccharide-importing ATPase activity"
+    ],
+    "related": [
+      "ATPase-coupled monosaccharide transmembrane transporter activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "3.6.3.17-RXN",
+      "3.6.3.17-RXN"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + monosaccharide(out) = ADP + phosphate + monosaccharide(in). Ribose, xylose, arabinose, galactose and methylgalactoside are imported.",
+  "namespace": "molecular_function",
+  "label": "ABC-type monosaccharide transporter activity"
+}

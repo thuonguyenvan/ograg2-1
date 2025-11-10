@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047365",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047365",
+  "relationships": {
+    "is_a": [
+      "GO:0008146"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "quercetin-3-sulphate 3&apos;-sulphotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3&apos;-phosphoadenylyl-sulfate:quercetin-3-sulfate 3&apos;-sulfotransferase activity",
+      "3&apos;-sulfotransferase activity",
+      "PAPS:flavonol 3-sulfate 3&apos;-sulfotransferase activity",
+      "flavonol 3&apos;-sulfotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.26",
+      "2.8.2.26",
+      "2.8.2.26",
+      "2.8.2.26",
+      "2.8.2.26",
+      "2.8.2.26"
+    ],
+    "KEGG_REACTION": [
+      "R02632"
+    ],
+    "MetaCyc": [
+      "2.8.2.26-RXN"
+    ],
+    "RHEA": [
+      "22504",
+      "22504"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;-phospho-5&apos;-adenylyl sulfate + quercetin 3-sulfate = adenosine 3&apos;,5&apos;-diphosphate + H+ + quercetin 3,3&apos;-disulfate.",
+  "namespace": "molecular_function",
+  "label": "quercetin-3-sulfate 3&apos;-sulfotransferase activity"
+}

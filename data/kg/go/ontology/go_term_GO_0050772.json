@@ -1,0 +1,35 @@
+{
+  "id": "GO:0050772",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050772",
+  "relationships": {
+    "is_a": [
+      "GO:0031346",
+      "GO:0050769",
+      "GO:0050770"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of axonogenesis",
+      "up-regulation of axonogenesis",
+      "upregulation of axonogenesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of axonogenesis",
+      "stimulation of axonogenesis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-209563"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of axonogenesis.",
+  "namespace": "biological_process",
+  "label": "Axonal growth stimulation"
+}

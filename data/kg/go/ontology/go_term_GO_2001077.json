@@ -1,0 +1,30 @@
+{
+  "id": "GO:2001077",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001077",
+  "relationships": {
+    "is_a": [
+      "GO:0030247"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(1,3),(1,4)-beta-glucan binding",
+      "1-&gt;3,1-&gt;4-beta-glucan binding",
+      "beta-(1,3),(1,4)-glucan binding",
+      "beta-(1-&gt;3),(1-&gt;4)-glucan binding",
+      "beta-1,3-1,4-glucan binding",
+      "beta-1-&gt;3,1-&gt;4-glucan binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators"
+    ]
+  },
+  "definition": "Binding to (1-&gt;3),(1-&gt;4)-beta-glucan.",
+  "namespace": "molecular_function",
+  "label": "(1-&gt;3),(1-&gt;4)-beta-glucan binding"
+}

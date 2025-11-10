@@ -1,0 +1,29 @@
+{
+  "id": "GO:0098712",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098712",
+  "relationships": {
+    "is_a": [
+      "GO:0015813",
+      "GO:0089718"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-glutamate import into cell",
+      "L-glutamate(1-) import into cell"
+    ],
+    "broad": [
+      "L-glutamate(1-) import across plasma membrane"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dos"
+    ]
+  },
+  "definition": "The directed movement of L-glutamate from outside of a cell, across the plasma membrane and into the cytosol.",
+  "namespace": "biological_process",
+  "label": "L-glutamate import across plasma membrane"
+}

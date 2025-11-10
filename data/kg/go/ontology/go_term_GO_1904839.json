@@ -1,0 +1,52 @@
+{
+  "id": "GO:1904839",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904839",
+  "relationships": {
+    "is_a": [
+      "GO:0010721",
+      "GO:0045769",
+      "GO:0051241",
+      "GO:1904838"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of male germ-line stem cell asymmetric division",
+      "down regulation of male germ-line stem cell renewal",
+      "down-regulation of male germ-line stem cell asymmetric division",
+      "down-regulation of male germ-line stem cell renewal",
+      "downregulation of male germ-line stem cell asymmetric division",
+      "downregulation of male germ-line stem cell renewal",
+      "negative regulation of male germ-line stem cell renewal"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of male germ-line stem cell asymmetric division",
+      "inhibition of male germ-line stem cell renewal"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19339709"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of male germ-line stem cell asymmetric division.",
+  "namespace": "biological_process",
+  "label": "negative regulation of male germ-line stem cell asymmetric division"
+}

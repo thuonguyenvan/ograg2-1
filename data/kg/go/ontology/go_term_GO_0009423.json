@@ -1,0 +1,41 @@
+{
+  "id": "GO:0009423",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009423",
+  "relationships": {
+    "is_a": [
+      "GO:0043650",
+      "GO:0046417"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chorismate anabolism",
+      "chorismate biosynthesis",
+      "chorismate formation",
+      "chorismate synthesis",
+      "shikimate pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "shikimate anabolism",
+      "shikimate biosynthesis",
+      "shikimate biosynthetic process",
+      "shikimate synthesis"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "ARO-PWY"
+    ],
+    "GOC": [
+      "sm"
+    ],
+    "ISBN": [
+      "0198547684"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of the unsymmetrical ether derived from phosphoenolpyruvate and 5-phosphoshikimic acid formed as an intermediate in the biosynthesis of aromatic amino acids and many other compounds.",
+  "namespace": "biological_process",
+  "label": "chorismate biosynthetic process"
+}

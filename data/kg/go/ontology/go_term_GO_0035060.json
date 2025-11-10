@@ -1,0 +1,29 @@
+{
+  "id": "GO:0035060",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035060",
+  "relationships": {
+    "is_a": [
+      "GO:0070603"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "BRM complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "10809665",
+      "12482982"
+    ]
+  },
+  "definition": "A SWI/SNF-type complex that contains 8 to 14 proteins, including both conserved (core) and nonconserved components; contains the ATPase product of the Drosophila brm (brahma) or mammalian SMARCA2/BAF190B/BRM gene, or an ortholog thereof.",
+  "namespace": "cellular_component",
+  "label": "brahma complex"
+}

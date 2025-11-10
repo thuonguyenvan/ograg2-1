@@ -1,0 +1,32 @@
+{
+  "id": "GO:1990429",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990429",
+  "relationships": {
+    "is_a": [
+      "GO:1990351"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peroxisomal import pore",
+      "peroxisomal protein import machinery"
+    ],
+    "broad": [],
+    "narrow": [
+      "Pex14 complex"
+    ],
+    "related": [
+      "Pex17p-Pex14p docking complex"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "12667447",
+      "20154681",
+      "22375831"
+    ]
+  },
+  "definition": "A protein complex responsible for transporting proteins into the peroxisomal matrix. An example of this complex is Pex14 found in S. cerevisae which has 9 core components and 12 transient interaction partners.",
+  "namespace": "cellular_component",
+  "label": "peroxisomal importomer complex"
+}

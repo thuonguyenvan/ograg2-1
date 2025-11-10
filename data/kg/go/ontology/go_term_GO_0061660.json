@@ -1,0 +1,27 @@
+{
+  "id": "GO:0061660",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061660",
+  "relationships": {
+    "is_a": [
+      "GO:0019777",
+      "GO:0061659"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "E3"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "dph"
+    ]
+  },
+  "definition": "Catalysis of the transfer of Atg12 to a substrate protein via the reaction X-Atg12 + S = X + S-Atg12, where X is either an E2 or E3 enzyme, the X-Atg12 linkage is a thioester bond, and the S-Atg12 linkage is an isopeptide bond between the C-terminal amino acid of Atg12 and the epsilon-amino group of lysine residues in the substrate.",
+  "namespace": "molecular_function",
+  "label": "Atg12 ligase activity"
+}

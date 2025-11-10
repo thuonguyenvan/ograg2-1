@@ -1,0 +1,24 @@
+{
+  "id": "GO:0071972",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071972",
+  "relationships": {
+    "is_a": [
+      "GO:0004185"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-11349",
+      "RXN-11349"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 a peptidoglycan dimer (tetrapeptide) + 3 H2O = a peptidoglycan tetramer with L,D cross-links (L-Lys-D-Asn-L-Lys) + di-trans,poly-cis-undecaprenyl diphosphate + 4 D-alanine.",
+  "namespace": "molecular_function",
+  "label": "peptidoglycan L,D-transpeptidase activity"
+}

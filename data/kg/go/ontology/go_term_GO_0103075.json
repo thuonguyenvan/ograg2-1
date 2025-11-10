@@ -1,0 +1,33 @@
+{
+  "id": "GO:0103075",
+  "uri": "http://purl.obolibrary.org/obo/GO_0103075",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.168",
+      "1.14.13.168"
+    ],
+    "MetaCyc": [
+      "RXNDQC-2"
+    ],
+    "RHEA": [
+      "34331"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-(indol-3-yl)pyruvate + NADPH + O2 + H+ = indole-3-acetate + carbon dioxide + NADP + H2O.",
+  "namespace": "molecular_function",
+  "label": "indole-3-pyruvate monooxygenase activity"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0070139",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070139",
+  "relationships": {
+    "is_a": [
+      "GO:0070137"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2990840",
+      "R-HSA-2990842",
+      "R-HSA-2993763"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of peptide bonds between an alpha-carboxyl group and an alpha-amino group within the small conjugating protein SUMO.",
+  "namespace": "molecular_function",
+  "label": "SENP1,2,5 proteolytically process SUMO3"
+}

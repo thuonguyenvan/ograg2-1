@@ -1,0 +1,29 @@
+{
+  "id": "GO:0160192",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160192",
+  "relationships": {
+    "is_a": [
+      "GO:0006887",
+      "GO:0051656",
+      "GO:0061906"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "autophagy-dependent secretion",
+      "secretory autophagy"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "25988755",
+      "38534758"
+    ]
+  },
+  "definition": "A process of exocytosis that uses the autophagy machinery to facilitate secretion of the cytosolic cargo such as leaderless cytosolic proteins which cannot enter the conventional secretory pathway operating via the endoplasmic reticulum and the Golgi apparatus.",
+  "namespace": "biological_process",
+  "label": "autophagosome-dependent secretion"
+}

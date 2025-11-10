@@ -1,0 +1,32 @@
+{
+  "id": "GO:0032208",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032208",
+  "relationships": {
+    "is_a": [
+      "GO:0032205",
+      "GO:0032207",
+      "GO:0045950",
+      "GO:0048239"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of telomere maintenance via recombination",
+      "down-regulation of telomere maintenance via recombination",
+      "downregulation of telomere maintenance via recombination"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of telomere maintenance via recombination"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of a recombinational process involved in the maintenance of proper telomeric length.",
+  "namespace": "biological_process",
+  "label": "negative regulation of telomere maintenance via recombination"
+}

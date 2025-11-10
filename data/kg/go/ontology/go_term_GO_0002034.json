@@ -1,0 +1,34 @@
+{
+  "id": "GO:0002034",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002034",
+  "relationships": {
+    "is_a": [
+      "GO:0003072",
+      "GO:0003081",
+      "GO:0097746"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of blood vessel diameter by renin-angiotensin"
+    ],
+    "broad": [
+      "regulation of blood vessel size by renin-angiotensin",
+      "renin-angiotensin regulation of blood vessel size"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "pr",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The process in which the diameter of a blood vessel is changed due to activity of the renin-angiotensin system.",
+  "namespace": "biological_process",
+  "label": "maintenance of blood vessel diameter homeostasis by renin-angiotensin"
+}

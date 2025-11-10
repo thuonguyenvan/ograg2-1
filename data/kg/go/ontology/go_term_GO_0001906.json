@@ -1,0 +1,25 @@
+{
+  "id": "GO:0001906",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001906",
+  "relationships": {
+    "is_a": [
+      "GO:0009987"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "necrosis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process in an organism that results in the killing of its own cells or those of another organism, including in some cases the death of the other organism. Killing here refers to the induction of death in one cell by another cell, not cell-autonomous death due to internal or other environmental conditions.",
+  "namespace": "biological_process",
+  "label": "cell killing"
+}

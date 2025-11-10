@@ -1,0 +1,31 @@
+{
+  "id": "GO:0022611",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022611",
+  "relationships": {
+    "is_a": [
+      "GO:0032502"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "multicellular organism dormancy process",
+      "spore dormancy process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PO_curators",
+      "isa_complete",
+      "PO_curators"
+    ],
+    "PO_REF": [
+      "00009"
+    ]
+  },
+  "definition": "A developmental process in which dormancy (sometimes called a dormant state) is induced, maintained or broken. Dormancy is a suspension of most physiological activity and growth that can be reactivated.",
+  "namespace": "biological_process",
+  "label": "dormancy process"
+}

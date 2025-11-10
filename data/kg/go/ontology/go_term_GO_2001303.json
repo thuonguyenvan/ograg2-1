@@ -1,0 +1,45 @@
+{
+  "id": "GO:2001303",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001303",
+  "relationships": {
+    "is_a": [
+      "GO:0006636",
+      "GO:0042759",
+      "GO:2001301",
+      "GO:2001302"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LXA4 anabolism",
+      "LXA4 biosynthesis",
+      "LXA4 biosynthetic process",
+      "LXA4 formation",
+      "LXA4 synthesis",
+      "lipoxin A4 anabolism",
+      "lipoxin A4 biosynthesis",
+      "lipoxin A4 formation",
+      "lipoxin A4 synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mw",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of lipoxin A4. Lipoxin A4 is a C20 hydroxy fatty acid having (5S)-, (6R)- and (15S)-hydroxy groups as well as (7E)- (9E)-, (11Z)- and (13E)-double bonds.",
+  "namespace": "biological_process",
+  "label": "lipoxin A4 biosynthetic process"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "GO:0004382",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004382",
+  "relationships": {
+    "is_a": [
+      "GO:0017110"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "guanosine diphosphatase activity",
+      "guanosine-diphosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GDP diphosphatase activity",
+      "GDP phosphohydrolase activity",
+      "GDPase activity",
+      "guanosine 5&apos;-diphosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.42",
+      "3.6.1.42",
+      "3.6.1.42",
+      "3.6.1.6"
+    ],
+    "MetaCyc": [
+      "GUANOSINE-DIPHOSPHATASE-RXN"
+    ],
+    "RHEA": [
+      "22156",
+      "22156"
+    ],
+    "PMID": [
+      "2989286"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GDP + H2O = GMP + phosphate.",
+  "namespace": "molecular_function",
+  "label": "GDP phosphatase activity"
+}

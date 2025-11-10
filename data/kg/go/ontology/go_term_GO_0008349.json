@@ -1,0 +1,35 @@
+{
+  "id": "GO:0008349",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008349",
+  "relationships": {
+    "is_a": [
+      "GO:0004674"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MAP4K activity",
+      "MAPKKKK"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-177692",
+      "R-HSA-936991",
+      "R-HSA-9645442"
+    ],
+    "GOC": [
+      "bf"
+    ],
+    "PMID": [
+      "11790549",
+      "20811974"
+    ]
+  },
+  "definition": "Catalysis of the phosphorylation of serine and threonine residues in a mitogen-activated protein kinase kinase kinase (MAPKKK), resulting in activation of MAPKKK. MAPKKK signaling pathways relay, amplify and integrate signals from the plasma membrane to the nucleus in response to a diverse range of extracellular stimuli.",
+  "namespace": "molecular_function",
+  "label": "Auto phosphorylation of TAK1 within the ALPK1:ADP-heptose:p-T9-TIFA:pUb-TRAF6: free K63 pUb:TAB1:TAB2/TAB3 :MAP3K7 complex"
+}

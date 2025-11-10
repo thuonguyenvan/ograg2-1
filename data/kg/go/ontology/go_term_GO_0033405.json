@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033405",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033405",
+  "relationships": {
+    "is_a": [
+      "GO:0030533"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TCT codon-amino acid adaptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "serine tRNA"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "hjd",
+      "hjd",
+      "mah"
+    ]
+  },
+  "definition": "A triplet codon-amino acid adaptor activity that recognizes a UCU codon.",
+  "namespace": "molecular_function",
+  "label": "UCU codon-amino acid adaptor activity"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0020028",
+  "uri": "http://purl.obolibrary.org/obo/GO_0020028",
+  "relationships": {
+    "is_a": [
+      "GO:0006898",
+      "GO:0015031",
+      "GO:0033365",
+      "GO:0072594"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "haemoglobin uptake",
+      "hemoglobin uptake"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "endocytic hemoglobin import"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mb"
+    ]
+  },
+  "definition": "The directed movement of hemoglobin into a cell by receptor-mediated endocytosis.",
+  "namespace": "biological_process",
+  "label": "endocytic hemoglobin import into cell"
+}

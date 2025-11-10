@@ -1,0 +1,42 @@
+{
+  "id": "GO:0051344",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051344",
+  "relationships": {
+    "is_a": [
+      "GO:0051346"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3&apos;,5&apos; cyclic nucleotide phosphodiesterase inhibitor",
+      "down regulation of cyclic nucleotide phosphodiesterase activity",
+      "down-regulation of cyclic nucleotide phosphodiesterase activity",
+      "downregulation of cyclic nucleotide phosphodiesterase activity",
+      "negative regulation of 3&apos;,5&apos; cyclic nucleotide phosphodiesterase activity",
+      "negative regulation of cyclic nucleotide phosphodiesterase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "3&apos;,5&apos;-cyclic-AMP phosphodiesterase inhibitor",
+      "cAMP phosphodiesterase inhibitor",
+      "inhibition of cyclic nucleotide phosphodiesterase activity",
+      "negative regulation of 3&apos;,5&apos;-cyclic-AMP phosphodiesterase activity",
+      "negative regulation of cAMP phosphodiesterase activity",
+      "negative regulation of cGMP phosphodiesterase activity"
+    ],
+    "related": [
+      "phosphodiesterase inhibitor"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "tb",
+      "tb",
+      "tb"
+    ]
+  },
+  "definition": "Any process that stops or reduces the rate of cyclic nucleotide phosphodiesterase activity, the catalysis of the reaction: nucleotide 3&apos;,5&apos;-cyclic phosphate + H2O = nucleotide 5&apos;-phosphate.",
+  "namespace": "biological_process",
+  "label": "negative regulation of cyclic-nucleotide phosphodiesterase activity"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0030782",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030782",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:(S)-7,8,13,14-tetrahydroprotoberberine cis-N-methyltransferase activity",
+      "tetrahydroprotoberberine cis-N-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.122",
+      "2.1.1.122",
+      "2.1.1.122"
+    ],
+    "MetaCyc": [
+      "RXN-23969"
+    ],
+    "RHEA": [
+      "76067",
+      "76067"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an (S)-7,8,13,14-tetrahydroprotoberberine + S-adenosyl-L-methionine = an (S)-cis-N-methyl-7,8,13,14-tetrahydroprotoberberine + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "(S)-tetrahydroprotoberberine N-methyltransferase activity"
+}

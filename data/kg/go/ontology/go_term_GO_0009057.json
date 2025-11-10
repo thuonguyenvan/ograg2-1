@@ -1,0 +1,36 @@
+{
+  "id": "GO:0009057",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009057",
+  "relationships": {
+    "is_a": [
+      "GO:0009056",
+      "GO:0043170"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "biopolymer catabolic process",
+      "macromolecule breakdown",
+      "macromolecule catabolism",
+      "macromolecule degradation"
+    ],
+    "broad": [],
+    "narrow": [
+      "multicellular organismal macromolecule catabolic process"
+    ],
+    "related": [
+      "cellular macromolecule catabolic process",
+      "cellular macromolecule catabolism",
+      "cellular macromolecule degradation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mtg_chebi_dec09"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a macromolecule, any molecule of high relative molecular mass, the structure of which essentially comprises the multiple repetition of units derived, actually or conceptually, from molecules of low relative molecular mass.",
+  "namespace": "biological_process",
+  "label": "macromolecule catabolic process"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0006613",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006613",
+  "relationships": {
+    "is_a": [
+      "GO:0006612"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cotranslational membrane targeting",
+      "cotranslational protein membrane targeting",
+      "cotranslational protein-membrane targeting"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "ISBN": [
+      "0716731363"
+    ],
+    "PMID": [
+      "10512867",
+      "16896215"
+    ]
+  },
+  "definition": "The targeting of proteins to a membrane that occurs during translation. The transport of most secretory proteins, particularly those with more than 100 amino acids, into the endoplasmic reticulum lumen occurs in this manner, as does the import of some proteins into mitochondria.",
+  "namespace": "biological_process",
+  "label": "cotranslational protein targeting to membrane"
+}

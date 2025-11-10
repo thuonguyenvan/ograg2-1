@@ -1,0 +1,30 @@
+{
+  "id": "GO:0006307",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006307",
+  "relationships": {
+    "is_a": [
+      "GO:0006281"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "DNA dealkylation involved in DNA repair"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5657655",
+      "R-HSA-73943"
+    ],
+    "PMID": [
+      "10946226",
+      "35543797"
+    ]
+  },
+  "definition": "The repair of alkylation damage in DNA, e.g. the removal of a non-physiological alkyl group from a nucleobase. This is usually mediated by DNA alkyltransferases.",
+  "namespace": "biological_process",
+  "label": "Reversal of alkylation damage by DNA dioxygenases"
+}

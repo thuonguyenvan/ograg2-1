@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050247",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050247",
+  "relationships": {
+    "is_a": [
+      "GO:0008422"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "raucaffricine b-glucosidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "raucaffricine beta-D-glucohydrolase activity",
+      "raucaffricine beta-D-glucosidase activity",
+      "raucaffricine glucosidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.125",
+      "3.2.1.125",
+      "3.2.1.125",
+      "3.2.1.125",
+      "3.2.1.125"
+    ],
+    "KEGG_REACTION": [
+      "R03703"
+    ],
+    "MetaCyc": [
+      "RAUCAFFRICINE-BETA-GLUCOSIDASE-RXN"
+    ],
+    "RHEA": [
+      "14557",
+      "14557"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + raucaffricine = D-glucose + vomilenine.",
+  "namespace": "molecular_function",
+  "label": "raucaffricine beta-glucosidase activity"
+}

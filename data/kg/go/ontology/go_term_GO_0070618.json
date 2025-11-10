@@ -1,0 +1,32 @@
+{
+  "id": "GO:0070618",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070618",
+  "relationships": {
+    "is_a": [
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Grb2-mSos1 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "7798267",
+      "8940013"
+    ],
+    "CORUM": [
+      "2545"
+    ]
+  },
+  "definition": "A protein complex that contains Grb2 and the guanine nucleotide exchange factor Sos (or an ortholog thereof, such as mSos1), and is involved in linking EGFR activation to the p21-Ras pathway.",
+  "namespace": "cellular_component",
+  "label": "Grb2-Sos complex"
+}

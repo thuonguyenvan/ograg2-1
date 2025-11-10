@@ -1,0 +1,30 @@
+{
+  "id": "GO:0034363",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034363",
+  "relationships": {
+    "is_a": [
+      "GO:0034385"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IDL complex",
+      "IDL particle",
+      "intermediate-density lipoprotein complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "expert_pt",
+      "mah",
+      "rl"
+    ]
+  },
+  "definition": "A triglyceride-rich lipoprotein particle that typically contains APOB100, APOE and APOCs and has a density of 1.006-1.019 g/ml and a diameter of between 25-30 nm. IDL particles are found in blood and are formed by the delipidation of very-low-density lipoprotein particles (VLDL). IDL particles are removed from blood by the liver, following binding to the APOE receptor, or are converted to low-density lipoprotein (LDL).",
+  "namespace": "cellular_component",
+  "label": "intermediate-density lipoprotein particle"
+}

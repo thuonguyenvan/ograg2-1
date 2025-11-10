@@ -1,0 +1,43 @@
+{
+  "id": "GO:0008456",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008456",
+  "relationships": {
+    "is_a": [
+      "GO:0015929"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acetyl-alpha-D-galactosaminidase activity",
+      "N-acetyl-alpha-galactosaminidase activity",
+      "alpha-N-acetyl-D-galactosaminide N-acetylgalactosaminohydrolase activity",
+      "alpha-NAGA activity",
+      "alpha-acetylgalactosaminidase activity",
+      "alpha-galactosidase B activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.49",
+      "3.2.1.49",
+      "3.2.1.49",
+      "3.2.1.49",
+      "3.2.1.49",
+      "3.2.1.49",
+      "3.2.1.49",
+      "3.2.1.49"
+    ],
+    "MetaCyc": [
+      "3.2.1.49-RXN"
+    ],
+    "RHEA": [
+      "15085"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of terminal non-reducing N-acetyl-D-galactosamine residues in N-acetyl-alpha-D-galactosaminides.",
+  "namespace": "molecular_function",
+  "label": "alpha-N-acetylgalactosaminidase activity"
+}

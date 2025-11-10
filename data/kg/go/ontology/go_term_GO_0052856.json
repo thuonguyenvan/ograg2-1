@@ -1,0 +1,33 @@
+{
+  "id": "GO:0052856",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052856",
+  "relationships": {
+    "is_a": [
+      "GO:0016854"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "NADHX epimerase activity",
+      "NADPHX epimerase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.99.6",
+      "5.1.99.6"
+    ],
+    "Reactome": [
+      "R-HSA-6806966"
+    ],
+    "PMID": [
+      "21994945"
+    ]
+  },
+  "definition": "Catalysis of the reactions: (6R)-NADHX = (6S)-NADHX and (6R)-NADPHX = (6S)-NADPHX.",
+  "namespace": "molecular_function",
+  "label": "APOA1BP dimer epimerises R-NAD(P)HX to S-NAD(P)HX"
+}

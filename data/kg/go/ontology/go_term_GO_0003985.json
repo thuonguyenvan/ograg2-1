@@ -1,0 +1,45 @@
+{
+  "id": "GO:0003985",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003985",
+  "relationships": {
+    "is_a": [
+      "GO:0003988",
+      "GO:0016453"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetoacetyl-CoA thiolase activity",
+      "acetyl coenzyme A thiolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.9",
+      "2.3.1.9"
+    ],
+    "MetaCyc": [
+      "ACETYL-COA-ACETYLTRANSFER-RXN"
+    ],
+    "RHEA": [
+      "21036",
+      "21036"
+    ],
+    "Reactome": [
+      "R-HSA-70844",
+      "R-HSA-73916",
+      "R-HSA-74181",
+      "R-HSA-8848215",
+      "R-HSA-9915356"
+    ],
+    "UM-BBD_reactionID": [
+      "r0201"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 acetyl-CoA = CoA + acetoacetyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "ACAT1 mutants don&apos;t synthesize propionyl-CoA or acetyl-CoA"
+}

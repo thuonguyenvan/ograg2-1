@@ -1,0 +1,41 @@
+{
+  "id": "GO:0005721",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005721",
+  "relationships": {
+    "is_a": [
+      "GO:0000792"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "centric heterochromatin",
+      "centromeric heterochromatin"
+    ],
+    "broad": [],
+    "narrow": [
+      "nuclear centric heterochromatin",
+      "nuclear cluster",
+      "nuclear pericentric heterochromatin"
+    ],
+    "related": [
+      "chromosome, centric outer repeat region",
+      "chromosome, centromeric inner repeat region",
+      "chromosome, centromeric outer repeat region"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "12019236",
+      "20206496",
+      "21437270",
+      "22729156",
+      "9413993"
+    ],
+    "GOC": [
+      "dph"
+    ]
+  },
+  "definition": "Heterochromatin that is located adjacent to the CENP-A rich centromere &apos;central core&apos; and characterized by methylated H3 histone at lysine 9 (H3K9me2/H3K9me3).",
+  "namespace": "cellular_component",
+  "label": "pericentric heterochromatin"
+}

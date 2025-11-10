@@ -1,0 +1,29 @@
+{
+  "id": "GO:0043894",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043894",
+  "relationships": {
+    "is_a": [
+      "GO:0016407"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Pat enzyme"
+    ],
+    "broad": [
+      "protein acetyltransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "Pat"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "15236963"
+    ]
+  },
+  "definition": "Catalysis of the acetylation of residue Lys609 of the enzyme acetyl-CoA synthetase, using acetyl-CoA as substrate.",
+  "namespace": "molecular_function",
+  "label": "acetyl-CoA synthetase acetyltransferase activity"
+}

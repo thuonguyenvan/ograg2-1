@@ -1,0 +1,35 @@
+{
+  "id": "GO:0019285",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019285",
+  "relationships": {
+    "is_a": [
+      "GO:0019695",
+      "GO:0031456"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-trimethylglycine biosynthesis from choline",
+      "N-trimethylglycine biosynthetic process from choline",
+      "choline oxidation",
+      "glycine betaine anabolism from choline",
+      "glycine betaine formation from choline",
+      "glycine betaine synthesis from choline"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "dph"
+    ],
+    "PMID": [
+      "23563483"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of betaine (N-trimethylglycine) from the oxidation of choline.",
+  "namespace": "biological_process",
+  "label": "glycine betaine biosynthetic process from choline"
+}

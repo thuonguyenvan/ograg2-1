@@ -1,0 +1,34 @@
+{
+  "id": "GO:0003059",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003059",
+  "relationships": {
+    "is_a": [
+      "GO:0003099"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "adrenaline cardiac inotropy",
+      "adrenaline regulation of the strength of heart muscle contraction",
+      "epinephrine cardiac inotropy",
+      "increased force of heart contraction by epinephrine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of heart contraction by adrenaline",
+      "positive regulation of heart contraction by epinephrine"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cardio",
+      "rl",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The process in which the secretion of epinephrine into the bloodstream or released from nerve endings modulates the force of heart muscle contraction.",
+  "namespace": "biological_process",
+  "label": "positive regulation of the force of heart contraction by epinephrine"
+}

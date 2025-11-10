@@ -1,0 +1,31 @@
+{
+  "id": "GO:0086052",
+  "uri": "http://purl.obolibrary.org/obo/GO_0086052",
+  "relationships": {
+    "is_a": [
+      "GO:0086013"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "membrane repolarization involved in regulation of SA node cardiac muscle cell action potential",
+      "membrane repolarization involved in regulation of SAN cardiac muscle cell action potential",
+      "membrane repolarization involved in regulation of sinoatrial node cardiac muscle cell action potential"
+    ],
+    "broad": [],
+    "narrow": [
+      "membrane repolarization involved in regulation of sinus node cardiac muscle cell action potential"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "dph",
+      "mtg_cardiac_conduct_nov11"
+    ]
+  },
+  "definition": "The process in which an SA node cardiac muscle cell membrane potential changes in the direction from the positive membrane potential at the peak of the action potential towards the negative resting potential.",
+  "namespace": "biological_process",
+  "label": "membrane repolarization during SA node cell action potential"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "GO:0021547",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021547",
+  "relationships": {
+    "is_a": [
+      "GO:0003002",
+      "GO:0048859"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MHB biosynthesis",
+      "MHB formation",
+      "midbrain-hindbrain boundary biosynthesis",
+      "midbrain-hindbrain boundary formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "isthmus biosynthesis",
+      "isthmus formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "isa_complete",
+      "jid",
+      "cls",
+      "cls",
+      "cls",
+      "cls",
+      "cls",
+      "cls"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "15541513"
+    ]
+  },
+  "definition": "The regionalization process that gives rise to the midbrain-hindbrain boundary. The midbrain-hindbrain domain of the embryonic brain is comprised of the mesencephalic vesicle and the first rhombencephalic vesicle at early somitogenesis stages. An organizing center at the boundary patterns the midbrain and hindbrain primordia of the neural plate.",
+  "namespace": "biological_process",
+  "label": "midbrain-hindbrain boundary initiation"
+}

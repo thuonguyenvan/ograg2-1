@@ -1,0 +1,31 @@
+{
+  "id": "GO:0033396",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033396",
+  "relationships": {
+    "is_a": [
+      "GO:0019483"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "beta-alanine anabolism via 3-ureidopropionate",
+      "beta-alanine formation via 3-ureidopropionate",
+      "beta-alanine synthesis via 3-ureidopropionate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-3982",
+      "PWY-3982"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of beta-alanine via the intermediate 3-ureidopropionate.",
+  "namespace": "biological_process",
+  "label": "beta-alanine biosynthetic process via 3-ureidopropionate"
+}

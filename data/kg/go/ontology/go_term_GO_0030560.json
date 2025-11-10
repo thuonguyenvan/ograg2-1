@@ -1,0 +1,27 @@
+{
+  "id": "GO:0030560",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030560",
+  "relationships": {
+    "is_a": [
+      "GO:0030557",
+      "GO:0030558"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "12457565"
+    ]
+  },
+  "definition": "Specifies the site of pseudouridylation in a tRNA molecule by base pairing with a short sequence around the target residue.",
+  "namespace": "molecular_function",
+  "label": "tRNA pseudouridylation guide activity"
+}

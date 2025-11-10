@@ -1,0 +1,27 @@
+{
+  "id": "GO:0060315",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060315",
+  "relationships": {
+    "is_a": [
+      "GO:0051280",
+      "GO:0060314",
+      "GO:1901020"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that decreases the activity of a ryanodine-sensitive calcium-release channel. The ryanodine-sensitive calcium-release channel catalyzes the transmembrane transfer of a calcium ion by a channel that opens when a ryanodine class ligand has been bound by the channel complex or one of its constituent parts.",
+  "namespace": "biological_process",
+  "label": "negative regulation of ryanodine-sensitive calcium-release channel activity"
+}

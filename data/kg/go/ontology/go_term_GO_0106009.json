@@ -1,0 +1,31 @@
+{
+  "id": "GO:0106009",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106009",
+  "relationships": {
+    "is_a": [
+      "GO:0016833"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.3.42"
+    ],
+    "RHEA": [
+      "35639",
+      "35639"
+    ],
+    "PMID": [
+      "1098660",
+      "1339418"
+    ]
+  },
+  "definition": "Catalysis of the reaction:(4S)-4-hydroxy-2-oxoglutarate = pyruvate + glyoxylate. Specific for the (4S) enantiomer of 4-hydroxy-2-oxoglutarate.",
+  "namespace": "molecular_function",
+  "label": "(4S)-4-hydroxy-2-oxoglutarate aldolase activity"
+}

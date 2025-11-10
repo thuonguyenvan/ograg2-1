@@ -1,0 +1,33 @@
+{
+  "id": "GO:0015189",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015189",
+  "relationships": {
+    "is_a": [
+      "GO:0015174",
+      "GO:0015179"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "histidine/arginine/lysine/ornithine porter activity"
+    ],
+    "related": [
+      "L-lysine permease",
+      "lysine permease activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of L-lysine from one side of a membrane to the other. L-lysine is 2,6-diaminohexanoic acid.",
+  "namespace": "molecular_function",
+  "label": "L-lysine transmembrane transporter activity"
+}

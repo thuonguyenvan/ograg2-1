@@ -1,0 +1,30 @@
+{
+  "id": "GO:0010845",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010845",
+  "relationships": {
+    "is_a": [
+      "GO:0010520",
+      "GO:0045836",
+      "GO:0045911"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of meiotic recombination"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that increases the frequency, rate or extent of recombination during meiosis. Reciprocal meiotic recombination is the cell cycle process in which double strand breaks are formed and repaired through a double Holliday junction intermediate.",
+  "namespace": "biological_process",
+  "label": "positive regulation of reciprocal meiotic recombination"
+}

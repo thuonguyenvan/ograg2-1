@@ -1,0 +1,34 @@
+{
+  "id": "GO:0030574",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030574",
+  "relationships": {
+    "is_a": [
+      "GO:0009056",
+      "GO:0032963"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "collagen breakdown",
+      "collagen catabolism",
+      "collagen degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1442490"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0815316194"
+    ]
+  },
+  "definition": "The proteolytic chemical reactions and pathways resulting in the breakdown of collagen in the extracellular matrix, usually carried out by proteases secreted by nearby cells.",
+  "namespace": "biological_process",
+  "label": "Collagen degradation"
+}

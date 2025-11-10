@@ -1,0 +1,30 @@
+{
+  "id": "GO:0071680",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071680",
+  "relationships": {
+    "is_a": [
+      "GO:0097305",
+      "GO:1901698"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to indole-3-carbinol"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "yaf"
+    ],
+    "CHEBI": [
+      "24814"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an indole-3-methanol stimulus.",
+  "namespace": "biological_process",
+  "label": "response to indole-3-methanol"
+}

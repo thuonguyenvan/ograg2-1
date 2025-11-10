@@ -1,0 +1,33 @@
+{
+  "id": "GO:0001845",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001845",
+  "relationships": {
+    "is_a": [
+      "GO:0007040",
+      "GO:0016050",
+      "GO:0070925"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "late phagosome biosynthesis",
+      "late phagosome formation",
+      "phagolysosome formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mah"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "The process that results in the fusion of a phagosome, a vesicle formed by phagocytosis, with a lysosome.",
+  "namespace": "biological_process",
+  "label": "phagolysosome assembly"
+}

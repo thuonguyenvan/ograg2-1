@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047692",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047692",
+  "relationships": {
+    "is_a": [
+      "GO:0047623"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP aminohydrolase activity",
+      "adenosine triphosphate deaminase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.4.18",
+      "3.5.4.18",
+      "3.5.4.18",
+      "3.5.4.18"
+    ],
+    "MetaCyc": [
+      "ATP-DEAMINASE-RXN",
+      "ATP-DEAMINASE-RXN"
+    ],
+    "RHEA": [
+      "13037"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + H2O = ITP + NH3.",
+  "namespace": "molecular_function",
+  "label": "ATP deaminase activity"
+}

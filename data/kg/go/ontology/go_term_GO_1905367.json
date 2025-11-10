@@ -1,0 +1,53 @@
+{
+  "id": "GO:1905367",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905367",
+  "relationships": {
+    "is_a": [
+      "GO:0051050",
+      "GO:1904980",
+      "GO:1905365"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of endosome membrane budding",
+      "up regulation of endosome membrane budding",
+      "up regulation of intralumenal vesicle formation",
+      "up-regulation of endosome membrane budding",
+      "up-regulation of intralumenal vesicle formation",
+      "upregulation of endosome membrane budding",
+      "upregulation of intralumenal vesicle formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of endosome membrane budding",
+      "activation of intralumenal vesicle formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "26911690"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of intralumenal vesicle formation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of intralumenal vesicle formation"
+}

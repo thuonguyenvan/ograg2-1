@@ -1,0 +1,29 @@
+{
+  "id": "GO:0042970",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042970",
+  "relationships": {
+    "is_a": [
+      "GO:0015175",
+      "GO:0015179"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "homoserine transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Enables the transfer of homoserine from one side of a membrane to the other. Homoserine is alpha-amino-gamma-hydroxybutyric acid, an intermediate in the biosynthesis of cystathionine, threonine and methionine.",
+  "namespace": "molecular_function",
+  "label": "homoserine transmembrane transporter activity"
+}

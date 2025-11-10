@@ -1,0 +1,35 @@
+{
+  "id": "GO:1903146",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903146",
+  "relationships": {
+    "is_a": [
+      "GO:0010506"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "regulation of mitochondrion degradation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "autophagy",
+      "bf",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24600391"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of mitochondrion degradation by an autophagic process.",
+  "namespace": "biological_process",
+  "label": "regulation of autophagy of mitochondrion"
+}

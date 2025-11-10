@@ -1,0 +1,54 @@
+{
+  "id": "GO:0047688",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047688",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-aspartate 4-carboxy-lyase (L-alanine-forming)",
+      "L-aspartate 4-carboxy-lyase activity",
+      "L-aspartate beta-decarboxylase activity",
+      "L-cysteine sulfinate acid desulfinase activity",
+      "aminomalonic decarboxylase activity",
+      "aspartate beta-decarboxylase activity",
+      "aspartate omega-decarboxylase activity",
+      "aspartic beta-decarboxylase activity",
+      "aspartic omega-decarboxylase activity",
+      "cysteine sulfinic desulfinase activity",
+      "desulfinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.12",
+      "4.1.1.12",
+      "4.1.1.12",
+      "4.1.1.12",
+      "4.1.1.12",
+      "4.1.1.12",
+      "4.1.1.12",
+      "4.1.1.12",
+      "4.1.1.12",
+      "4.1.1.12",
+      "4.1.1.12",
+      "4.1.1.12",
+      "4.1.1.12"
+    ],
+    "MetaCyc": [
+      "ASPARTATE-4-DECARBOXYLASE-RXN",
+      "ASPARTATE-4-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "12621"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-aspartate = L-alanine + CO2.",
+  "namespace": "molecular_function",
+  "label": "aspartate 4-decarboxylase activity"
+}

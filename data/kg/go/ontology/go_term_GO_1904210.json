@@ -1,0 +1,43 @@
+{
+  "id": "GO:1904210",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904210",
+  "relationships": {
+    "is_a": [
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "VCP-NPL4-UFD1 AAA ATPase complex formation",
+      "p97-Ufd1-Npl4 complex assembly",
+      "p97-Ufd1-Npl4 complex formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "Cdc48p-Npl4p-Ufd1p AAA ATPase complex assembly",
+      "Cdc48p-Npl4p-Ufd1p AAA ATPase complex formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000079"
+    ],
+    "PMID": [
+      "17000876"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form a VCP-NPL4-UFD1 AAA ATPase complex.",
+  "namespace": "biological_process",
+  "label": "VCP-NPL4-UFD1 AAA ATPase complex assembly"
+}

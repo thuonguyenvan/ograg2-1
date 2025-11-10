@@ -1,0 +1,33 @@
+{
+  "id": "GO:0071919",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071919",
+  "relationships": {
+    "is_a": [
+      "GO:0006259"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G quadruplex DNA formation",
+      "G quartet DNA formation",
+      "G-quartet DNA formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sre",
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "20098422"
+    ]
+  },
+  "definition": "A DNA metabolic process that results in the formation of G-quadruplex DNA structures, in which groups of four guanines adopt a flat, cyclic Hoogsteen hydrogen-bonding arrangement known as a guanine tetrad or G-quartet. The stacking of several layers of G-quartets forms G-quadruplexes, in which one or more DNA single strands are assembled in parallel and/or antiparallel, with interactions that can be either intra- or intermolecular in nature.",
+  "namespace": "biological_process",
+  "label": "G-quadruplex DNA formation"
+}

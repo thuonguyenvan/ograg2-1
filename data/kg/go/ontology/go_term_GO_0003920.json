@@ -1,0 +1,56 @@
+{
+  "id": "GO:0003920",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003920",
+  "relationships": {
+    "is_a": [
+      "GO:0046857"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NADPH2:guanosine-5&apos;-phosphate oxidoreductase (deaminating)",
+      "NADPH:GMP oxidoreductase (deaminating) activity",
+      "NADPH:guanosine-5&apos;-phosphate oxidoreductase (deaminating) activity",
+      "guanosine 5&apos;-monophosphate oxidoreductase activity",
+      "guanosine 5&apos;-monophosphate reductase activity",
+      "guanosine 5&apos;-phosphate reductase activity",
+      "guanosine monophosphate reductase activity",
+      "guanylate reductase activity",
+      "inosine-5&apos;-phosphate:NADP+ oxidoreductase (aminating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.1.7",
+      "1.7.1.7",
+      "1.7.1.7",
+      "1.7.1.7",
+      "1.7.1.7",
+      "1.7.1.7",
+      "1.7.1.7",
+      "1.7.1.7",
+      "1.7.1.7",
+      "1.7.1.7",
+      "1.7.1.7"
+    ],
+    "KEGG_REACTION": [
+      "R01134"
+    ],
+    "MetaCyc": [
+      "GMP-REDUCT-RXN"
+    ],
+    "RHEA": [
+      "17185",
+      "17185"
+    ],
+    "Reactome": [
+      "R-HSA-514604"
+    ]
+  },
+  "definition": "Catalysis of the reaction: IMP + NADP+ + NH4 = GMP + 2 H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "GMP + NADPH + H+ =&gt; IMP + NADP+ + NH4+ (GMPR,GMPR2)"
+}

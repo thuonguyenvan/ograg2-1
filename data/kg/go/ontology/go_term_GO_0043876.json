@@ -1,0 +1,38 @@
+{
+  "id": "GO:0043876",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043876",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-TA",
+      "D-allo-TA",
+      "D-allo-threonine aldolase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "low-specificity D-threonine aldolase"
+    ],
+    "related": [
+      "DtaAS"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.42"
+    ],
+    "MetaCyc": [
+      "4.1.2.42-RXN",
+      "4.1.2.42-RXN"
+    ],
+    "PMID": [
+      "9642221"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-threonine (or D-allo-threonine) = glycine + acetaldehyde.",
+  "namespace": "molecular_function",
+  "label": "D-threonine aldolase activity"
+}

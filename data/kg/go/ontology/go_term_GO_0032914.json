@@ -1,0 +1,34 @@
+{
+  "id": "GO:0032914",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032914",
+  "relationships": {
+    "is_a": [
+      "GO:0032908",
+      "GO:0071636"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of TGF-B1 production",
+      "positive regulation of TGFB1 production",
+      "up regulation of transforming growth factor-beta1 production",
+      "up-regulation of transforming growth factor-beta1 production",
+      "upregulation of transforming growth factor-beta1 production"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of transforming growth factor-beta1 production",
+      "stimulation of transforming growth factor-beta1 production"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "bf"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of production of transforming growth factor-beta1.",
+  "namespace": "biological_process",
+  "label": "positive regulation of transforming growth factor beta1 production"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0030346",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030346",
+  "relationships": {
+    "is_a": [
+      "GO:0019903"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "calcineurin binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "protein phosphatase 3 binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "dph",
+      "rl"
+    ]
+  },
+  "definition": "Binding to a protein phosphatase 2B.",
+  "namespace": "molecular_function",
+  "label": "protein phosphatase 2B binding"
+}

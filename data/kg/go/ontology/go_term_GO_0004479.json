@@ -1,0 +1,65 @@
+{
+  "id": "GO:0004479",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004479",
+  "relationships": {
+    "is_a": [
+      "GO:0016742",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "10-formyltetrahydrofolate:L-methionyl-tRNA N-formyltransferase activity",
+      "N(10)-formyltetrahydrofolic-methionyl-transfer ribonucleic transformylase activity",
+      "N-terminal peptidyl-methionine N-formylation",
+      "N10-formyltetrahydrofolic-methionyl-transfer ribonucleic transformylase activity",
+      "conversion of met-tRNAf to fmet-tRNA",
+      "conversion of mitochondrial met-tRNAf to fmet-tRNA",
+      "formylmethionyl-transfer ribonucleic synthetase activity",
+      "methionyl ribonucleic formyltransferase activity",
+      "methionyl-tRNA Met formyltransferase activity",
+      "methionyl-tRNA transformylase activity",
+      "methionyl-transfer RNA transformylase activity",
+      "methionyl-transfer ribonucleate methyltransferase activity",
+      "methionyl-transfer ribonucleic transformylase activity",
+      "mitochondrial N-terminal peptidyl-methionine N-formylation"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.2.9",
+      "2.1.2.9",
+      "2.1.2.9",
+      "2.1.2.9",
+      "2.1.2.9",
+      "2.1.2.9",
+      "2.1.2.9",
+      "2.1.2.9",
+      "2.1.2.9",
+      "2.1.2.9",
+      "2.1.2.9",
+      "2.1.2.9"
+    ],
+    "MetaCyc": [
+      "METHIONYL-TRNA-FORMYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "24380"
+    ],
+    "Reactome": [
+      "R-HSA-5389841"
+    ],
+    "GO": [
+      "curators",
+      "curators",
+      "curators",
+      "curators"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 10-formyltetrahydrofolate + L-methionyl-tRNA + H2O = tetrahydrofolate + N-formylmethionyl-tRNA.",
+  "namespace": "molecular_function",
+  "label": "MTFMT formylates methionyl-tRNA"
+}

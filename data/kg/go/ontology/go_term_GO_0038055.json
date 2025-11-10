@@ -1,0 +1,29 @@
+{
+  "id": "GO:0038055",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038055",
+  "relationships": {
+    "is_a": [
+      "GO:0009306",
+      "GO:0023061"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "BMP protein secretion",
+      "bone morphogenetic protein secretion"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sart",
+      "bf",
+      "bf"
+    ]
+  },
+  "definition": "The controlled release of a member of the BMP family of proteins from a cell.",
+  "namespace": "biological_process",
+  "label": "BMP secretion"
+}

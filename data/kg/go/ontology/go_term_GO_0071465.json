@@ -1,0 +1,27 @@
+{
+  "id": "GO:0071465",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071465",
+  "relationships": {
+    "is_a": [
+      "GO:0009269",
+      "GO:0042631"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "desiccation tolerance"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a desiccation stimulus, extreme dryness resulting from the prolonged deprivation of water.",
+  "namespace": "biological_process",
+  "label": "cellular response to desiccation"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0039693",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039693",
+  "relationships": {
+    "is_a": [
+      "GO:0019079",
+      "GO:0071897"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA-dependent viral DNA replication",
+      "viral DNA replication",
+      "viral DNA-dependent DNA replication"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "jl",
+      "bf",
+      "jl",
+      "bf",
+      "jl"
+    ],
+    "VZ": [
+      "915"
+    ]
+  },
+  "definition": "The replication of a viral DNA genome.",
+  "namespace": "biological_process",
+  "label": "viral DNA genome replication"
+}

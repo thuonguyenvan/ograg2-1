@@ -1,0 +1,37 @@
+{
+  "id": "GO:1900350",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900350",
+  "relationships": {
+    "is_a": [
+      "GO:0033240",
+      "GO:1900348",
+      "GO:1901579",
+      "GO:1901857"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of methane biosynthetic process from methylamine",
+      "up-regulation of methane biosynthetic process from methylamine",
+      "upregulation of methane biosynthetic process from methylamine"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of methane biosynthetic process from methylamine"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mengo_curators",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of methane biosynthetic process from methylamine.",
+  "namespace": "biological_process",
+  "label": "positive regulation of methane biosynthetic process from methylamine"
+}

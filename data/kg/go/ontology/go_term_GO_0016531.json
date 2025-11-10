@@ -1,0 +1,31 @@
+{
+  "id": "GO:0016531",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016531",
+  "relationships": {
+    "is_a": [
+      "GO:0016530"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "copper carrier activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9865449",
+      "R-HSA-9865579",
+      "R-HSA-9865630"
+    ],
+    "PMID": [
+      "10790544",
+      "11739376"
+    ]
+  },
+  "definition": "Directly binding to and delivering copper ions to a target protein.",
+  "namespace": "molecular_function",
+  "label": "Metallochaperone inserts 2Cu2+ into MT-CO2"
+}

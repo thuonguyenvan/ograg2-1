@@ -1,0 +1,58 @@
+{
+  "id": "GO:0003904",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003904",
+  "relationships": {
+    "is_a": [
+      "GO:0003913"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CPD photolyase activity",
+      "deoxyribodipyrimidine photolyase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "DNA cyclobutane dipyrimidine photolyase activity",
+      "DNA-photoreactivating enzyme",
+      "PRE",
+      "PhrB photolyase activity",
+      "deoxyribocyclobutadipyrimidine pyrimidine-lyase activity",
+      "deoxyribonucleate pyrimidine dimer lyase (photosensitive)",
+      "deoxyribonucleic cyclobutane dipyrimidine photolyase activity",
+      "deoxyribonucleic photolyase activity",
+      "dipyrimidine photolyase (photosensitive)",
+      "photolyase activity",
+      "photoreactivating enzyme activity",
+      "phr A photolyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.99.3",
+      "4.1.99.3",
+      "4.1.99.3",
+      "4.1.99.3",
+      "4.1.99.3",
+      "4.1.99.3",
+      "4.1.99.3",
+      "4.1.99.3",
+      "4.1.99.3",
+      "4.1.99.3",
+      "4.1.99.3",
+      "4.1.99.3",
+      "4.1.99.3",
+      "4.1.99.3"
+    ],
+    "RHEA": [
+      "10672"
+    ],
+    "PMID": [
+      "16302973"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cyclobutadipyrimidine (in DNA) = 2 pyrimidine residues (in DNA). This reaction represents the reactivation of irradiated DNA by light.",
+  "namespace": "molecular_function",
+  "label": "deoxyribodipyrimidine photo-lyase activity"
+}

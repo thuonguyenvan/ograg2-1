@@ -1,0 +1,47 @@
+{
+  "id": "GO:0004157",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004157",
+  "relationships": {
+    "is_a": [
+      "GO:0016812"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5,6-dihydropyrimidine amidohydrolase activity",
+      "D-hydantoinase activity",
+      "hydantoin peptidase activity",
+      "hydantoinase activity",
+      "hydropyrimidine hydrase activity",
+      "pyrimidine hydrase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.2.2",
+      "3.5.2.2",
+      "3.5.2.2",
+      "3.5.2.2",
+      "3.5.2.2",
+      "3.5.2.2",
+      "3.5.2.2",
+      "3.5.2.2"
+    ],
+    "MetaCyc": [
+      "DIHYDROPYRIMIDINASE-RXN"
+    ],
+    "RHEA": [
+      "16121"
+    ],
+    "Reactome": [
+      "R-HSA-73589",
+      "R-HSA-73618"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5,6-dihydrouracil + H2O = 3-ureidopropionate.",
+  "namespace": "molecular_function",
+  "label": "5,6-dihydrothymine + H2O =&gt; beta-ureidoisobutyrate"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0060292",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060292",
+  "relationships": {
+    "is_a": [
+      "GO:0048167",
+      "GO:0050805"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "long term synaptic depression"
+    ],
+    "broad": [
+      "long term depression"
+    ],
+    "narrow": [],
+    "related": [
+      "LTD"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dgh",
+      "dph",
+      "dph",
+      "dph"
+    ]
+  },
+  "definition": "A process that modulates synaptic plasticity such that synapses are changed resulting in the decrease in the rate, or frequency of synaptic transmission at the synapse.",
+  "namespace": "biological_process",
+  "label": "long-term synaptic depression"
+}

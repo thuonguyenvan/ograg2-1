@@ -1,0 +1,34 @@
+{
+  "id": "GO:0032574",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032574",
+  "relationships": {
+    "is_a": [
+      "GO:0003724"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5&apos; to 3&apos; RNA helicase activity",
+      "ATP-dependent 5&apos; to 3&apos; RNA helicase activity",
+      "ATP-dependent 5&apos;-3&apos; RNA helicase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.6.2.5"
+    ],
+    "Reactome": [
+      "R-HSA-9682695",
+      "R-HSA-9694265"
+    ],
+    "GOC": [
+      "jp"
+    ]
+  },
+  "definition": "Unwinding of an RNA helix in the 5&apos; to 3&apos; direction, driven by ATP hydrolysis.",
+  "namespace": "molecular_function",
+  "label": "nsp13 helicase melts secondary structures in SARS-CoV-2 genomic RNA template"
+}

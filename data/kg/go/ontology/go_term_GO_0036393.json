@@ -1,0 +1,32 @@
+{
+  "id": "GO:0036393",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036393",
+  "relationships": {
+    "is_a": [
+      "GO:0004601"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "lactoperoxidase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pm"
+    ],
+    "PMID": [
+      "12626341",
+      "12626341"
+    ],
+    "Wikipedia": [
+      "Lactoperoxidase"
+    ]
+  },
+  "definition": "Catalysis of the reaction: thiocyanate (SCN-) + hydrogen peroxide (H2O2) = hypothiocyanite (OSCN-) + 2 H2O. Catalyzes the hydrogen peroxide oxidation of thiocyanate.",
+  "namespace": "molecular_function",
+  "label": "thiocyanate peroxidase activity"
+}

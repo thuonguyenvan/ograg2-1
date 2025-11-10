@@ -1,0 +1,33 @@
+{
+  "id": "GO:0090422",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090422",
+  "relationships": {
+    "is_a": [
+      "GO:0015234",
+      "GO:0015605",
+      "GO:0015651"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "thiamine diphosphate transporter activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "thiamine pyrophosphate transporter activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8875838"
+    ],
+    "GOC": [
+      "tb",
+      "tb"
+    ]
+  },
+  "definition": "Enables the transfer of thiamine pyrophosphate a substance from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "SLC25A19 transports ThDP from cytosol to mitochondrial matrix"
+}

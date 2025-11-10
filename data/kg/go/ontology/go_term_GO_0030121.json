@@ -1,0 +1,32 @@
+{
+  "id": "GO:0030121",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030121",
+  "relationships": {
+    "is_a": [
+      "GO:0030131"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "HA1",
+      "HA1 clathrin adaptor"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "AP-1 related adapter complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "10611976",
+      "21097499"
+    ]
+  },
+  "definition": "A heterotetrameric AP-type membrane coat adaptor complex that consists of beta1, gamma, mu1 and sigma1 subunits and links clathrin to the membrane surface of a vesicle; vesicles with AP-1-containing coats are normally found primarily in the trans-Golgi network. In at least humans, the AP-1 complex can be heterogeneric due to the existence of multiple subunit isoforms encoded by different genes (gamma1 and gamma2, mu1A and mu1B, and sigma1A, sigma1B and sigma1C).",
+  "namespace": "cellular_component",
+  "label": "AP-1 adaptor complex"
+}

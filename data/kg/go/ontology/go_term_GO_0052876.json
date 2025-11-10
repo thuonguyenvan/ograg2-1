@@ -1,0 +1,44 @@
+{
+  "id": "GO:0052876",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052876",
+  "relationships": {
+    "is_a": [
+      "GO:0052877"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "methylamine dehydrogenase activity",
+      "methylamine:amicyanin oxidoreductase (deaminating) activity"
+    ],
+    "broad": [
+      "MADH activity",
+      "amine dehydrogenase",
+      "primary-amine dehydrogenase"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.9.1",
+      "1.4.9.1",
+      "1.4.9.1",
+      "1.4.9.1",
+      "1.4.9.1"
+    ],
+    "KEGG_REACTION": [
+      "R00606"
+    ],
+    "RHEA": [
+      "30207",
+      "30207"
+    ],
+    "UM-BBD_reactionID": [
+      "r0075"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2O + methylamine + 2 oxidized [amicyanin] = formaldehyde + 2 H+ + NH4+ + 2 reduced [amicyanin].",
+  "namespace": "molecular_function",
+  "label": "methylamine dehydrogenase (amicyanin) activity"
+}

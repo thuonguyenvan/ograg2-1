@@ -1,0 +1,55 @@
+{
+  "id": "GO:0008841",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008841",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "7,8-dihydrofolate synthetase activity",
+      "7,8-dihydropteroate:L-glutamate ligase (ADP) activity",
+      "7,8-dihydropteroate:L-glutamate ligase (ADP-forming)",
+      "DHFS activity",
+      "FHFS activity",
+      "FHFS/FPGS activity",
+      "H(2)-folate synthetase activity",
+      "H2-folate synthetase activity",
+      "dihydrofolate synthetase activity",
+      "dihydrofolate synthetase-folylpolyglutamate synthetase activity",
+      "dihydropteroate:L-glutamate ligase (ADP-forming) activity",
+      "folylpoly-(gamma-glutamate) synthetase-dihydrofolate synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.12",
+      "6.3.2.12",
+      "6.3.2.12",
+      "6.3.2.12",
+      "6.3.2.12",
+      "6.3.2.12",
+      "6.3.2.12",
+      "6.3.2.12",
+      "6.3.2.12",
+      "6.3.2.12",
+      "6.3.2.12",
+      "6.3.2.12",
+      "6.3.2.12",
+      "6.3.2.12"
+    ],
+    "MetaCyc": [
+      "DIHYDROFOLATESYNTH-RXN"
+    ],
+    "RHEA": [
+      "23584"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + dihydropterate + L-glutamate = ADP + phosphate + dihydrofolate.",
+  "namespace": "molecular_function",
+  "label": "dihydrofolate synthase activity"
+}

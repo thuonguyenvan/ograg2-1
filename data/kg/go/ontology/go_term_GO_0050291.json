@@ -1,0 +1,47 @@
+{
+  "id": "GO:0050291",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050291",
+  "relationships": {
+    "is_a": [
+      "GO:0016410"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ceramide synthase activity",
+      "dihydroceramide synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acyl-CoA:sphingosine N-acyltransferase activity",
+      "ceramide synthetase activity",
+      "sphingosine acyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.24",
+      "2.3.1.24",
+      "2.3.1.24",
+      "2.3.1.24",
+      "2.3.1.24"
+    ],
+    "MetaCyc": [
+      "SPHINGOSINE-N-ACYLTRANSFERASE-RXN",
+      "SPHINGOSINE-N-ACYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "23768"
+    ],
+    "Reactome": [
+      "R-HSA-428185"
+    ],
+    "PMID": [
+      "12069845"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acyl-CoA + sphingosine = CoA + N-acylsphingosine.",
+  "namespace": "molecular_function",
+  "label": "Ceramide synthases transfer acyl-CoA onto sphingoid"
+}

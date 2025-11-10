@@ -1,0 +1,28 @@
+{
+  "id": "GO:0015913",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015913",
+  "relationships": {
+    "is_a": [
+      "GO:0015912",
+      "GO:1902001"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "short-chain fatty acid uptake"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "short-chain fatty acid import"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The directed movement of short-chain fatty acids into a cell or organelle. A short-chain fatty acid has an aliphatic tail containing fewer than 6 carbons.",
+  "namespace": "biological_process",
+  "label": "short-chain fatty acid transmembrane transport"
+}

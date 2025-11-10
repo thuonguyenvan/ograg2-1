@@ -1,0 +1,35 @@
+{
+  "id": "GO:0000048",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000048",
+  "relationships": {
+    "is_a": [
+      "GO:0016755",
+      "GO:0140096",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.2.12"
+    ],
+    "MetaCyc": [
+      "PEPTIDYLTRANSFERASE-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-156912"
+    ],
+    "PMID": [
+      "11433365",
+      "9242921"
+    ]
+  },
+  "definition": "Catalysis of the reaction: peptidyl-tRNA(1) + aminoacyl-tRNA(2) = tRNA(1) + peptidylaminoacyl-tRNA(2). This reaction is catalyzed by a ribozyme.",
+  "namespace": "molecular_function",
+  "label": "Peptide transfer from P-site tRNA to the A-site tRNA"
+}

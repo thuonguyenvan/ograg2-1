@@ -1,0 +1,28 @@
+{
+  "id": "GO:0042204",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042204",
+  "relationships": {
+    "is_a": [
+      "GO:0042178"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "s-triazine compound breakdown",
+      "s-triazine compound catabolism",
+      "s-triazine compound degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "UM-BBD_pathwayID": [
+      "tria",
+      "tria"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of any s-triazine compound. These compounds include many pesticides of widespread use in agriculture, and are characterized by a symmetrical hexameric ring consisting of alternating carbon and nitrogen atoms.",
+  "namespace": "biological_process",
+  "label": "s-triazine compound catabolic process"
+}

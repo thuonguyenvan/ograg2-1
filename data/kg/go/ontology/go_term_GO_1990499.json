@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990499",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990499",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Rapsynoid-Inscuteable complex",
+      "partner of inscuteable-inscuteable complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "22171003"
+    ]
+  },
+  "definition": "Protein complex required for the asymmetric division of neuroblasts in Drosophila. Coordinates asymmetric localization of cell fate determinants with orientation of the mitotic spindle resulting in different daughter cells upon division. Localizes at the apical cortex of the neuroblast: Raps maintains, but does not initiate, Insc apically, while Insc segregates Raps asymmetrically. Complex appears to be conserved in mammals (composed of INSC and GPSM1 or GPSM2).",
+  "namespace": "cellular_component",
+  "label": "raps-insc complex"
+}

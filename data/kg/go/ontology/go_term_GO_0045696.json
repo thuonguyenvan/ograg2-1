@@ -1,0 +1,35 @@
+{
+  "id": "GO:0045696",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045696",
+  "relationships": {
+    "is_a": [
+      "GO:0045597",
+      "GO:0045694",
+      "GO:0051240",
+      "GO:2000243"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of female gametophyte egg cell differentiation",
+      "up regulation of female gametophyte egg cell differentiation",
+      "up-regulation of female gametophyte egg cell differentiation",
+      "upregulation of female gametophyte egg cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of female gametophyte egg cell differentiation",
+      "stimulation of female gametophyte egg cell differentiation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mtg_plant"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of embryo sac egg cell differentiation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of embryo sac egg cell differentiation"
+}

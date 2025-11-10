@@ -1,0 +1,31 @@
+{
+  "id": "GO:0090331",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090331",
+  "relationships": {
+    "is_a": [
+      "GO:0010544",
+      "GO:0034111",
+      "GO:0090330"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "platelet disaggregation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "dph"
+    ],
+    "PMID": [
+      "12871378"
+    ]
+  },
+  "definition": "Any process that decreases the rate, frequency or extent of platelet aggregation. Platelet aggregation is the adhesion of one platelet to one or more other platelets via adhesion molecules.",
+  "namespace": "biological_process",
+  "label": "negative regulation of platelet aggregation"
+}

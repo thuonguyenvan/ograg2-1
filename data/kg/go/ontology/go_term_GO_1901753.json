@@ -1,0 +1,42 @@
+{
+  "id": "GO:1901753",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901753",
+  "relationships": {
+    "is_a": [
+      "GO:0019370",
+      "GO:0042759",
+      "GO:1901503",
+      "GO:1901570",
+      "GO:1901751"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LTA4 biosynthesis",
+      "eoxin A4 biosynthesis",
+      "leukotriene A4 anabolism",
+      "leukotriene A4 biosynthesis",
+      "leukotriene A4 formation",
+      "leukotriene A4 synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "23242647"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of leukotriene A4.",
+  "namespace": "biological_process",
+  "label": "leukotriene A4 biosynthetic process"
+}

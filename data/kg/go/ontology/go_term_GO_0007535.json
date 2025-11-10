@@ -1,0 +1,29 @@
+{
+  "id": "GO:0007535",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007535",
+  "relationships": {
+    "is_a": [
+      "GO:0003006",
+      "GO:0048869"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "donor preference"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "9928492"
+    ]
+  },
+  "definition": "The process that determines which donor locus a cell uses, in preference to another, in mating type switching.",
+  "namespace": "biological_process",
+  "label": "donor selection"
+}

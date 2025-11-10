@@ -1,0 +1,30 @@
+{
+  "id": "GO:0106432",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106432",
+  "relationships": {
+    "is_a": [
+      "GO:0008477"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "queuosine nucleoside glycosylase",
+      "tRNA queuosine nucleoside glycosylase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "75387",
+      "75387"
+    ],
+    "PMID": [
+      "35940128"
+    ]
+  },
+  "definition": "Catalysis of the reaction: queuosine 5&apos;-phosphate + H2O = queuine + D-ribose 5-phosphate.",
+  "namespace": "molecular_function",
+  "label": "queuosine nucleosidase activity"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102613",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102613",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-15454"
+    ],
+    "RHEA": [
+      "48992",
+      "48992"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1,3,7-trimethyluric acid + O2 + NADH + 3 H+ = 1,3,7-trimethyl-5-hydroxyisourate + NAD + H2O.",
+  "namespace": "molecular_function",
+  "label": "trimethyluric acid monooxygenase activity"
+}

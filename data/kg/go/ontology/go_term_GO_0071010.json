@@ -1,0 +1,47 @@
+{
+  "id": "GO:0071010",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071010",
+  "relationships": {
+    "is_a": [
+      "GO:0005681"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "prespliceosomal complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "mammalian spliceosomal complex A",
+      "yeast spliceosomal complex B"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ab",
+      "krc",
+      "mah",
+      "vw",
+      "ab",
+      "krc",
+      "mah",
+      "krc",
+      "mah"
+    ],
+    "PMID": [
+      "17332742",
+      "19239890",
+      "19239890"
+    ],
+    "ISBN": [
+      "0879695897",
+      "0879697393",
+      "0879695897",
+      "0879697393"
+    ]
+  },
+  "definition": "A spliceosomal complex that is formed by association of the 5&apos; splice site and the branch point sequence with specific snRNPs. The prespliceosome includes many proteins in addition to those found in the bound snRNPs. Commitment to a given pair of 5&apos; and 3&apos; splice sites occurs at the time of prespliceosome formation. Prespliceosome complexes are not active for splicing, but are instead an early step in the assembly of a spliceosomal complex.",
+  "namespace": "cellular_component",
+  "label": "prespliceosome"
+}

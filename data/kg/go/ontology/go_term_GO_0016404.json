@@ -1,0 +1,53 @@
+{
+  "id": "GO:0016404",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016404",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprost-13-enoate:NAD+ 15-oxidoreductase activity",
+      "11alpha,15-dihydroxy-9-oxoprost-13-enoate:NAD+ 15-oxidoreductase activity",
+      "15-OH-PGDH",
+      "15-hydroxyprostaglandin dehydrogenase activity",
+      "15-hydroxyprostanoic dehydrogenase activity",
+      "NAD+-dependent 15-hydroxyprostaglandin dehydrogenase (type I)",
+      "NAD-specific 15-hydroxyprostaglandin dehydrogenase activity",
+      "prostaglandin dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.141",
+      "1.1.1.141",
+      "1.1.1.141",
+      "1.1.1.141",
+      "1.1.1.141",
+      "1.1.1.141",
+      "1.1.1.141",
+      "1.1.1.141",
+      "1.1.1.141",
+      "1.1.1.141"
+    ],
+    "MetaCyc": [
+      "1.1.1.141-RXN"
+    ],
+    "RHEA": [
+      "11876"
+    ],
+    "Reactome": [
+      "R-HSA-2161662",
+      "R-HSA-2161779",
+      "R-HSA-9023968",
+      "R-HSA-9024766"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (5Z,13E)-(15S)-11-alpha,15-dihydroxy-9-oxoprost-13-enoate + NAD+ = (5Z,13E)-11-alpha-hydroxy-9,15-dioxoprost-13-enoate + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "HPGD dimer oxidises RvD1 to 17(S)-oxo-RvD1 and 8-oxo-17(S)-RvD1"
+}

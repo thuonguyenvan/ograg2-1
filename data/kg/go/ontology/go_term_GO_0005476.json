@@ -1,0 +1,32 @@
+{
+  "id": "GO:0005476",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005476",
+  "relationships": {
+    "is_a": [
+      "GO:0015226",
+      "GO:0015227",
+      "GO:0015297"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "carnitine/acyl carnitine carrier activity",
+      "carnitine:acyl carnitine carrier activity",
+      "fatty acyl carnitine carrier"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-200424"
+    ],
+    "PMID": [
+      "9032458"
+    ]
+  },
+  "definition": "Catalysis of the reaction: carnitine (mitochondrial) + O-acyl-L-carnitine (cytoplasm) = carnitine (cytoplasm) + O-acyl-L-carnitine (mitochondrial).",
+  "namespace": "molecular_function",
+  "label": "Exchange of palmitoylcarnitine and carnitine across the inner mitochondrial membrane"
+}

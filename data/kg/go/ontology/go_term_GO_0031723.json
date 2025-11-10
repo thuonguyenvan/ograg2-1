@@ -1,0 +1,28 @@
+{
+  "id": "GO:0031723",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031723",
+  "relationships": {
+    "is_a": [
+      "GO:0045236"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "stromal cell-derived factor 1 receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "CXCR4 chemokine receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "nln"
+    ]
+  },
+  "definition": "Binding to a CXCR4 chemokine receptor.",
+  "namespace": "molecular_function",
+  "label": "CXCR4 chemokine receptor binding"
+}

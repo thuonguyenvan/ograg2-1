@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047091",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047091",
+  "relationships": {
+    "is_a": [
+      "GO:0016703",
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-lysine 6-monooxygenase activity",
+      "lysine N6-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-lysine,NADPH:oxygen oxidoreductase (6-hydroxylating)",
+      "lysine N(6)-hydroxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.59",
+      "1.14.13.59",
+      "1.14.13.59",
+      "1.14.13.59"
+    ],
+    "KEGG_REACTION": [
+      "R00448"
+    ],
+    "MetaCyc": [
+      "1.14.13.59-RXN"
+    ],
+    "RHEA": [
+      "23228",
+      "23228"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-lysine + NADPH + O2 = N(6)-hydroxy-L-lysine + H2O + NADP+.",
+  "namespace": "molecular_function",
+  "label": "L-lysine 6-monooxygenase (NADPH) activity"
+}

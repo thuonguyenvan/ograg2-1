@@ -1,0 +1,31 @@
+{
+  "id": "GO:0016740",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016740",
+  "relationships": {
+    "is_a": [
+      "GO:0003824"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.-.-.-",
+      "2.-.-.-"
+    ],
+    "Reactome": [
+      "R-HSA-1483089",
+      "R-HSA-1483186",
+      "R-HSA-5333607",
+      "R-HSA-5668414",
+      "R-HSA-8868783"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a group, e.g. a methyl group, glycosyl group, acyl group, phosphorus-containing, or other groups, from one compound (generally regarded as the donor) to another compound (generally regarded as the acceptor). Transferase is the systematic name for any enzyme of EC class 2.",
+  "namespace": "molecular_function",
+  "label": "TSR3 transfers aminocarboxypropyl group from S-adenosylmethionine to N(1)-methylpseudouridine-1248 of 18SE rRNA yielding N(1)-methyl-N(3)-aminocarboxypropylpseudouridine-1248"
+}

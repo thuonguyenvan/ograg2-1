@@ -1,0 +1,32 @@
+{
+  "id": "GO:0033173",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033173",
+  "relationships": {
+    "is_a": [
+      "GO:0097720"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "calcineurin-NFAT signaling pathway",
+      "calcineurin-NFAT signalling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "lm",
+      "mah",
+      "bf"
+    ],
+    "PMID": [
+      "12975316",
+      "15928679"
+    ]
+  },
+  "definition": "Any intracellular signal transduction in which the signal is passed on within the cell by activation of a member of the NFAT protein family as a consequence of NFAT dephosphorylation by Ca(2+)-activated calcineurin. The cascade begins with calcium-dependent activation of the phosphatase calcineurin. Calcineurin dephosphorylates multiple phosphoserine residues on NFAT, resulting in the translocation of NFAT to the nucleus. The cascade ends with regulation of transcription by NFAT. The calcineurin-NFAT cascade lies downstream of many cell surface receptors, including G protein-coupled receptors (GPCRs) and receptor tyrosine kinases (RTKs) that signal to mobilize calcium ions (Ca2+).",
+  "namespace": "biological_process",
+  "label": "calcineurin-NFAT signaling cascade"
+}

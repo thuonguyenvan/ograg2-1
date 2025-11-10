@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015855",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015855",
+  "relationships": {
+    "is_a": [
+      "GO:0015851"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pyrimidine base transmembrane transport",
+      "pyrimidine base transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pyrimidine transmembrane transport",
+      "pyrimidine transport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mah",
+      "go_curators",
+      "mah"
+    ]
+  },
+  "definition": "The directed movement of pyrimidine nucleobases, one of the two classes of nitrogen-containing ring compounds found in DNA and RNA, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "pyrimidine nucleobase transport"
+}

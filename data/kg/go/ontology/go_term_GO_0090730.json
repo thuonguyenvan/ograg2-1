@@ -1,0 +1,31 @@
+{
+  "id": "GO:0090730",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090730",
+  "relationships": {
+    "is_a": [
+      "GO:1902555",
+      "GO:1902911",
+      "GO:1905354"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Las1-Grc3-Rat1-Rai1"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw",
+      "vw"
+    ],
+    "PMID": [
+      "26638174"
+    ]
+  },
+  "definition": "A four subunit complex, that comprises all the necessary RNA processing enzymes (endonuclease, polynucleotide kinase, and exonuclease) to mediate &apos;cistronic rRNA transcript ITS2 (internal transcribed spacer) cleavage&apos; (GO:0000448).",
+  "namespace": "cellular_component",
+  "label": "Las1 complex"
+}

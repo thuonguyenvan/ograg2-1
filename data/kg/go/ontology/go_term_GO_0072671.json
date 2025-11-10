@@ -1,0 +1,35 @@
+{
+  "id": "GO:0072671",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072671",
+  "relationships": {
+    "is_a": [
+      "GO:0043161"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MAD",
+      "mitochondria-associated protein catabolic process",
+      "mitochondria-associated protein degradation",
+      "mitochondrion-associated protein catabolic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mcc",
+      "mcc",
+      "mcc",
+      "mah"
+    ],
+    "PMID": [
+      "21070972",
+      "21109188"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of proteins transported from mitochondria and targeted to cytoplasmic proteasomes for degradation as a response to oxidative stress conditions.",
+  "namespace": "biological_process",
+  "label": "mitochondria-associated ubiquitin-dependent protein catabolic process"
+}

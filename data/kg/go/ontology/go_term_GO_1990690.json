@@ -1,0 +1,31 @@
+{
+  "id": "GO:1990690",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990690",
+  "relationships": {
+    "is_a": [
+      "GO:0048210",
+      "GO:0048280"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Golgi apparatus medial cisterna-derived vesicle fusion with Golgi apparatus cis cisterna membrane",
+      "medial-Golgi cisterna-derived vesicle fusion with cis-Golgi cisterna membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "16038056",
+      "24119662"
+    ]
+  },
+  "definition": "The joining of the lipid bilayer membrane around a Golgi medial cisterna-derived vesicle to the lipid bilayer membrane around the Golgi cis cisterna. Such vesicles include COPI-coated transport vesicles involved in retrograde transport.",
+  "namespace": "biological_process",
+  "label": "Golgi medial cisterna-derived vesicle fusion with Golgi cis cisterna membrane"
+}

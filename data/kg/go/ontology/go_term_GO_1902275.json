@@ -1,0 +1,40 @@
+{
+  "id": "GO:1902275",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902275",
+  "relationships": {
+    "is_a": [
+      "GO:0051128"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of chromatin organisation",
+      "regulation of establishment or maintenance of chromatin architecture"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of chromatin assembly or disassembly",
+      "regulation of chromatin assembly/disassembly",
+      "regulation of chromatin modification"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bf",
+      "vw",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "18314879"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of chromatin organization.",
+  "namespace": "biological_process",
+  "label": "regulation of chromatin organization"
+}

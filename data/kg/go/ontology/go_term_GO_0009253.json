@@ -1,0 +1,30 @@
+{
+  "id": "GO:0009253",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009253",
+  "relationships": {
+    "is_a": [
+      "GO:0000270",
+      "GO:0006027"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "murein catabolic process",
+      "murein catabolism",
+      "peptidoglycan breakdown",
+      "peptidoglycan catabolism",
+      "peptidoglycan degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "9158729"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of peptidoglycans, any of a class of glycoconjugates found in bacterial cell walls and consisting of long glycan strands of alternating residues of beta-(1,4) linked N-acetylglucosamine and N-acetylmuramic acid, cross-linked by short peptides.",
+  "namespace": "biological_process",
+  "label": "peptidoglycan catabolic process"
+}

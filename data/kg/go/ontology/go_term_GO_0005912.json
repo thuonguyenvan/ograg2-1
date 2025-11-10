@@ -1,0 +1,39 @@
+{
+  "id": "GO:0005912",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005912",
+  "relationships": {
+    "is_a": [
+      "GO:0005911"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell-cell adherens junction"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Adherens_junction"
+    ],
+    "GOC": [
+      "aruk",
+      "bc",
+      "mah"
+    ],
+    "ISBN": [
+      "0198506732"
+    ],
+    "PMID": [
+      "17854762",
+      "20571587",
+      "21422226",
+      "28096264"
+    ]
+  },
+  "definition": "A cell-cell junction composed of the epithelial cadherin-catenin complex. The epithelial cadherins, or E-cadherins, of each interacting cell extend through the plasma membrane into the extracellular space and bind to each other. The E-cadherins bind to catenins on the cytoplasmic side of the membrane, where the E-cadherin-catenin complex binds to cytoskeletal components and regulatory and signaling molecules.",
+  "namespace": "cellular_component",
+  "label": "adherens junction"
+}

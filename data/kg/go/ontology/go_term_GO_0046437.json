@@ -1,0 +1,31 @@
+{
+  "id": "GO:0046437",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046437",
+  "relationships": {
+    "is_a": [
+      "GO:0046416",
+      "GO:0170043",
+      "GO:1901607"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-amino acid anabolism",
+      "D-amino acid biosynthesis",
+      "D-amino acid formation",
+      "D-amino acid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "jsg"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of D-amino acids, the D-enantiomers of amino acids.",
+  "namespace": "biological_process",
+  "label": "D-amino acid biosynthetic process"
+}

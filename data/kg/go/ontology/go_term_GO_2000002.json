@@ -1,0 +1,28 @@
+{
+  "id": "GO:2000002",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000002",
+  "relationships": {
+    "is_a": [
+      "GO:1901977",
+      "GO:2000001"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "negative regulation of DNA damage response, signal transduction resulting in cell cycle arrest"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of a DNA damage checkpoint.",
+  "namespace": "biological_process",
+  "label": "negative regulation of DNA damage checkpoint"
+}

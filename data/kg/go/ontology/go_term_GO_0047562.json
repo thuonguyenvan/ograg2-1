@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047562",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047562",
+  "relationships": {
+    "is_a": [
+      "GO:0016833"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "erythro-3-hydroxy-L(s)-aspartate glyoxylate-lyase activity",
+      "erythro-3-hydroxy-Ls-aspartate glyoxylate-lyase (glycine-forming)",
+      "erythro-3-hydroxy-Ls-aspartate glyoxylate-lyase activity",
+      "erythro-beta-hydroxyaspartate aldolase activity",
+      "erythro-beta-hydroxyaspartate glycine-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.3.14",
+      "4.1.3.14",
+      "4.1.3.14",
+      "4.1.3.14",
+      "4.1.3.14",
+      "4.1.3.14",
+      "4.1.3.14"
+    ],
+    "KEGG_REACTION": [
+      "R00478"
+    ],
+    "MetaCyc": [
+      "RXN-11769"
+    ],
+    "RHEA": [
+      "14377",
+      "14377"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (3R)-3-hydroxy-L-aspartate = glycine + glyoxylate.",
+  "namespace": "molecular_function",
+  "label": "3-hydroxyaspartate aldolase activity"
+}

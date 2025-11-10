@@ -1,0 +1,44 @@
+{
+  "id": "GO:0050238",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050238",
+  "relationships": {
+    "is_a": [
+      "GO:0016614"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pyridoxal-5-dehydrogenase activity",
+      "pyridoxin 5-dehydrogenase activity",
+      "pyridoxine 5&apos;-dehydrogenase activity",
+      "pyridoxine:(acceptor) 5-oxidoreductase activity",
+      "pyridoxine:acceptor 5-oxidoreductase activity",
+      "pyridoxol 5-dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.99.9",
+      "1.1.99.9",
+      "1.1.99.9",
+      "1.1.99.9",
+      "1.1.99.9",
+      "1.1.99.9",
+      "1.1.99.9",
+      "1.1.99.9"
+    ],
+    "MetaCyc": [
+      "PYRIDOXINE-5-DEHYDROGENASE-RXN",
+      "PYRIDOXINE-5-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "14497"
+    ]
+  },
+  "definition": "Catalysis of the reaction: pyridoxine + acceptor = isopyridoxal + reduced acceptor.",
+  "namespace": "molecular_function",
+  "label": "pyridoxine 5-dehydrogenase activity"
+}

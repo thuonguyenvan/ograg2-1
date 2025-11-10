@@ -1,0 +1,31 @@
+{
+  "id": "GO:0070310",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070310",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Mec1-Lcd1 complex",
+      "Rad3-Rad26 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "14724280",
+      "17339343",
+      "17339343"
+    ]
+  },
+  "definition": "A protein complex that contains the protein kinase ATR and ATR-interacting protein (ATRIP) and binds single-stranded DNA; ssDNA binding affinity is increased in the presence of replication protein A.",
+  "namespace": "cellular_component",
+  "label": "ATR-ATRIP complex"
+}

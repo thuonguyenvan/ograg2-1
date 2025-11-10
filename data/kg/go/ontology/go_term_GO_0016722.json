@@ -1,0 +1,32 @@
+{
+  "id": "GO:0016722",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016722",
+  "relationships": {
+    "is_a": [
+      "GO:0016491"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "oxidoreductase activity, oxidizing metal ions",
+      "oxidoreductase activity, reducing metal ions"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.16.-.-"
+    ],
+    "Reactome": [
+      "R-HSA-917805"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of an oxidation-reduction in which the oxidation state of metal ion is altered.",
+  "namespace": "molecular_function",
+  "label": "CYBRD1:Heme reduces Fe3+ to Fe2+"
+}

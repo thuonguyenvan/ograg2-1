@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050965",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050965",
+  "relationships": {
+    "is_a": [
+      "GO:0050961",
+      "GO:0062149"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "perception of pain, detection of temperature stimulus",
+      "perception of pain, sensory detection of temperature stimulus",
+      "perception of pain, sensory transduction of temperature stimulus",
+      "sensory detection of temperature stimulus during perception of pain",
+      "sensory detection of thermal stimulus during sensory perception of pain",
+      "sensory perception of pain, sensory detection of thermal stimulus",
+      "sensory perception of pain, sensory transduction of thermal stimulus",
+      "sensory transduction of temperature stimulus during perception of pain",
+      "sensory transduction of thermal stimulus during sensory perception of pain"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "thermal nociception"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dos",
+      "pr"
+    ]
+  },
+  "definition": "The series of events involved in the perception of pain in which a temperature stimulus is received and converted into a molecular signal.",
+  "namespace": "biological_process",
+  "label": "detection of temperature stimulus involved in sensory perception of pain"
+}

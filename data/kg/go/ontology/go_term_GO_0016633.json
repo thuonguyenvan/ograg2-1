@@ -1,0 +1,45 @@
+{
+  "id": "GO:0016633",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016633",
+  "relationships": {
+    "is_a": [
+      "GO:0016632"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-galactono-1,4-lactone dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GLDHase activity",
+      "GLDase activity",
+      "L-galactono-1,4-lactone:ferricytochrome-c oxidoreductase activity",
+      "L-galactono-gamma-lactone dehydrogenase activity",
+      "L-galactono-gamma-lactone:ferricytochrome-c oxidoreductase activity",
+      "L-galactonolactone dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.3.2.3",
+      "1.3.2.3",
+      "1.3.2.3",
+      "1.3.2.3",
+      "1.3.2.3",
+      "1.3.2.3",
+      "1.3.2.3",
+      "1.3.2.3"
+    ],
+    "MetaCyc": [
+      "GALACTONOLACTONE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "32367"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-galactono-1,4-lactone + 2 ferricytochrome c = L-ascorbate + 2 ferrocytochrome c.",
+  "namespace": "molecular_function",
+  "label": "galactonolactone dehydrogenase activity"
+}

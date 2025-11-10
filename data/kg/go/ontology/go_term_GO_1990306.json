@@ -1,0 +1,31 @@
+{
+  "id": "GO:1990306",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990306",
+  "relationships": {
+    "is_a": [
+      "GO:0140535",
+      "GO:1990234"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RSP5-BUL1 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RSP5-BUL2 complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "9931424"
+    ]
+  },
+  "definition": "A ubiquitin ligase complex consisting of RSP5 and BUL components. It polyubiquinates plasma membrane transporters and permeases, required for their endocytosis and subsequent degradation in the vacuole. BUL1 or BUL2, respectively, bind to the target protein, enabling ubiquitylation by Rsp5. Phosphorylation of BUL proteins results in binding to 14-3-3 proteins, protecting the permeases from down-regulation.",
+  "namespace": "cellular_component",
+  "label": "RSP5-BUL ubiquitin ligase complex"
+}

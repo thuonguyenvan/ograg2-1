@@ -1,0 +1,33 @@
+{
+  "id": "GO:0002295",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002295",
+  "relationships": {
+    "is_a": [
+      "GO:0043373"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "T-helper cell fate commitment"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Th0 lineage commitment",
+      "Thp lineage commitment"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149",
+      "0781735149",
+      "0781735149"
+    ]
+  },
+  "definition": "The process in which a CD4-positive, alpha-beta T cell becomes committed to becoming a T-helper cell, a CD4-positive, alpha-beta T cell specialized to promote various immunological processes.",
+  "namespace": "biological_process",
+  "label": "T-helper cell lineage commitment"
+}

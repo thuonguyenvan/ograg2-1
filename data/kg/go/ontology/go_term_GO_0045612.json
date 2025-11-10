@@ -1,0 +1,33 @@
+{
+  "id": "GO:0045612",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045612",
+  "relationships": {
+    "is_a": [
+      "GO:0002684",
+      "GO:0045597",
+      "GO:0045610"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of arthropod blood cell differentiation",
+      "up regulation of hemocyte differentiation",
+      "up-regulation of hemocyte differentiation",
+      "upregulation of hemocyte differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of hemocyte differentiation",
+      "stimulation of hemocyte differentiation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of hemocyte differentiation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of hemocyte differentiation"
+}

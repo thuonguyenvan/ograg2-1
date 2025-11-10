@@ -1,0 +1,31 @@
+{
+  "id": "GO:1902155",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902155",
+  "relationships": {
+    "is_a": [
+      "GO:1902153"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of mitotic cell cycle G1/S transition DNA damage checkpoint effector process",
+      "regulation of response to mitotic cell cycle G1/S transition DNA damage checkpoint signaling",
+      "regulation of response to signal involved in mitotic cell cycle G1/S transition DNA damage checkpoint"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_cell_cycle",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of response to G1 DNA damage checkpoint signaling.",
+  "namespace": "biological_process",
+  "label": "regulation of response to G1 DNA damage checkpoint signaling"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0042855",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042855",
+  "relationships": {
+    "is_a": [
+      "GO:0009699",
+      "GO:0042854",
+      "GO:0046189",
+      "GO:0120255",
+      "GO:1901503"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-allyl-2-methoxyphenol biosynthesis",
+      "4-allyl-2-methoxyphenol biosynthetic process",
+      "eugenic acid biosynthesis",
+      "eugenic acid biosynthetic process",
+      "eugenol anabolism",
+      "eugenol biosynthesis",
+      "eugenol formation",
+      "eugenol synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of eugenol, a colorless, aromatic, liquid hydrocarbon (C10H12O2) found in clove oil.",
+  "namespace": "biological_process",
+  "label": "eugenol biosynthetic process"
+}

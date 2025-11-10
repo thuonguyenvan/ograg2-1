@@ -1,0 +1,27 @@
+{
+  "id": "GO:0015826",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015826",
+  "relationships": {
+    "is_a": [
+      "GO:0015804",
+      "GO:0046942",
+      "GO:0071705"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "L-threonine transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The directed movement of threonine, (2R*,3S*)-2-amino-3-hydroxybutanoic acid, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "threonine transport"
+}

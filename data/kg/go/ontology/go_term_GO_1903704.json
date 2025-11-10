@@ -1,0 +1,77 @@
+{
+  "id": "GO:1903704",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903704",
+  "relationships": {
+    "is_a": [
+      "GO:0009892",
+      "GO:0070921"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of RNA interference, production of guide RNAs",
+      "down regulation of RNA interference, production of siRNA",
+      "down regulation of production of guide RNAs involved in RNA interference",
+      "down regulation of production of siRNA involved in RNA interference",
+      "down-regulation of RNA interference, production of guide RNAs",
+      "down-regulation of RNA interference, production of siRNA",
+      "down-regulation of production of guide RNAs involved in RNA interference",
+      "down-regulation of production of siRNA involved in RNA interference",
+      "downregulation of RNA interference, production of guide RNAs",
+      "downregulation of RNA interference, production of siRNA",
+      "downregulation of production of guide RNAs involved in RNA interference",
+      "downregulation of production of siRNA involved in RNA interference",
+      "negative regulation of RNA interference, production of guide RNAs",
+      "negative regulation of RNA interference, production of siRNA",
+      "negative regulation of production of guide RNAs involved in RNA interference",
+      "negative regulation of production of siRNA involved in PTGS",
+      "negative regulation of production of siRNA involved in RNA interference"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of RNA interference, production of guide RNAs",
+      "inhibition of RNA interference, production of siRNA",
+      "inhibition of production of guide RNAs involved in RNA interference",
+      "inhibition of production of siRNA involved in RNA interference"
+    ],
+    "related": [
+      "negative regulation of production of siRNA involved in post-transcriptional gene silencing by RNA",
+      "negative regulation of siRNA production"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19701182"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of siRNA processing.",
+  "namespace": "biological_process",
+  "label": "negative regulation of siRNA processing"
+}

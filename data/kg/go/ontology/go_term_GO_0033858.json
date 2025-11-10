@@ -1,0 +1,42 @@
+{
+  "id": "GO:0033858",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033858",
+  "relationships": {
+    "is_a": [
+      "GO:0016773",
+      "GO:0019200"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:N-acetyl-D-galactosamine 1-phosphotransferase activity",
+      "GALK2",
+      "GK2",
+      "GalNAc kinase activity",
+      "N-acetylgalactosamine (GalNAc)-1-phosphate kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.157",
+      "2.7.1.157",
+      "2.7.1.157",
+      "2.7.1.157",
+      "2.7.1.157",
+      "2.7.1.157",
+      "2.7.1.157"
+    ],
+    "MetaCyc": [
+      "2.7.1.157-RXN"
+    ],
+    "RHEA": [
+      "12617"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + N-acetyl-D-galactosamine = ADP + N-acetyl-alpha-D-galactosamine 1-phosphate.",
+  "namespace": "molecular_function",
+  "label": "N-acetylgalactosamine kinase activity"
+}

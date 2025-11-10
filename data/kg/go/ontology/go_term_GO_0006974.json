@@ -1,0 +1,29 @@
+{
+  "id": "GO:0006974",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006974",
+  "relationships": {
+    "is_a": [
+      "GO:0033554"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular DNA damage response",
+      "cellular response to DNA damage stimulus",
+      "response to genotoxic stress"
+    ],
+    "broad": [
+      "response to DNA damage stimulus"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus indicating damage to its DNA from environmental insults or errors during metabolism.",
+  "namespace": "biological_process",
+  "label": "DNA damage response"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "GO:0004148",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004148",
+  "relationships": {
+    "is_a": [
+      "GO:0016668"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "LDP-Glc activity",
+      "LDP-Val activity"
+    ],
+    "related": [
+      "E3 component of alpha-ketoacid dehydrogenase complexes activity",
+      "L-protein activity",
+      "dehydrolipoate dehydrogenase activity",
+      "diaphorase activity",
+      "dihydrolipoamide dehydrogenase activity",
+      "dihydrolipoamide reduction",
+      "dihydrolipoamide:NAD+ oxidoreductase",
+      "dihydrolipoic dehydrogenase activity",
+      "dihydrolipoylprotein reduction",
+      "dihydrothioctic dehydrogenase activity",
+      "glycine-cleavage system L-protein activity",
+      "lipoamide dehydrogenase (NADH) activity",
+      "lipoamide oxidoreductase (NADH) activity",
+      "lipoamide reductase (NADH) activity",
+      "lipoamide reductase activity",
+      "lipoate dehydrogenase activity",
+      "lipoic acid dehydrogenase activity",
+      "lipoyl dehydrogenase activity",
+      "protein-6-N-(dihydrolipoyl)lysine:NAD+ oxidoreductase",
+      "protein-N6-(dihydrolipoyl)lysine:NAD+ oxidoreductase"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4",
+      "1.8.1.4"
+    ],
+    "MetaCyc": [
+      "1.8.1.4-RXN"
+    ],
+    "RHEA": [
+      "15045",
+      "15045"
+    ],
+    "Reactome": [
+      "R-HSA-1222412",
+      "R-HSA-5694018",
+      "R-HSA-9853499",
+      "R-HSA-9858589",
+      "R-HSA-9859172",
+      "R-HSA-9861616",
+      "R-HSA-9907572"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(6)-[(R)-dihydrolipoyl]-L-lysyl-[protein] + NAD+ = N(6)-[(R)-lipoyl]-L-lysyl-[protein] + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "Loss-of-function DLD mutants don&apos;t dehydrogenate dihydrolipoyl DBT"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0140727",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140727",
+  "relationships": {
+    "is_a": [
+      "GO:0031508",
+      "GO:0141194"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNAi-mediated heterochromatin assembly at centromere",
+      "siRNA dependent pericentric heterochromatin assembly",
+      "siRNA-dependent pericentric heterochromatin assembly",
+      "siRNA-dependent pericentric heterochromatin formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "15289661"
+    ]
+  },
+  "definition": "The formation of pericentric heterochromatin by a process mediated by a small interfering RNA (siRNA).",
+  "namespace": "biological_process",
+  "label": "siRNA-mediated pericentric heterochromatin formation"
+}

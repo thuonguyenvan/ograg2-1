@@ -1,0 +1,32 @@
+{
+  "id": "GO:0010023",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010023",
+  "relationships": {
+    "is_a": [
+      "GO:0009699",
+      "GO:0046189"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "proanthocyanidin anabolism",
+      "proanthocyanidin biosynthesis",
+      "proanthocyanidin formation",
+      "proanthocyanidin synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-641"
+    ],
+    "GOC": [
+      "lm"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of proanthocyanidin.",
+  "namespace": "biological_process",
+  "label": "proanthocyanidin biosynthetic process"
+}

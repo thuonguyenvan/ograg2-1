@@ -1,0 +1,45 @@
+{
+  "id": "GO:0008123",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008123",
+  "relationships": {
+    "is_a": [
+      "GO:0008387",
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cholesterol 7-alpha-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "cytochrome P450 CYP7A1"
+    ],
+    "related": [
+      "cholesterol 7alpha-hydroxylase activity",
+      "cholesterol 7alpha-monooxygenase activity",
+      "cholesterol,NADPH:oxygen oxidoreductase (7alpha-hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.23",
+      "1.14.14.23",
+      "1.14.14.23",
+      "1.14.14.23"
+    ],
+    "MetaCyc": [
+      "CHOLESTEROL-7-ALPHA-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "21812",
+      "21812"
+    ],
+    "Reactome": [
+      "R-HSA-192051"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cholesterol + O2 + reduced [NADPH--hemoprotein reductase] = 7alpha-hydroxycholesterol + H+ + H2O + oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "CYP7A1 7-hydroxylates CHOL"
+}

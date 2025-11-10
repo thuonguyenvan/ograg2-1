@@ -1,0 +1,46 @@
+{
+  "id": "GO:1904886",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904886",
+  "relationships": {
+    "is_a": [
+      "GO:0032984"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "APC-Axin-1-beta-catenin complex disassembly",
+      "Axin-APC-beta-catenin-GSK3B complex disassembly",
+      "BDC disassembly",
+      "beta-catenin degradation complex disassembly",
+      "dissociation of beta-catenin degradation complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "23S APC complex disassembly"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "bf",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000079"
+    ],
+    "PMID": [
+      "23169527",
+      "17318175"
+    ]
+  },
+  "definition": "The disaggregation of a beta-catenin destruction complex into its constituent components.",
+  "namespace": "biological_process",
+  "label": "beta-catenin destruction complex disassembly"
+}

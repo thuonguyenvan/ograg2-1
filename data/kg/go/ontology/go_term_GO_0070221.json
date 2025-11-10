@@ -1,0 +1,35 @@
+{
+  "id": "GO:0070221",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070221",
+  "relationships": {
+    "is_a": [
+      "GO:0019418"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulfide oxidation, using sulfide-quinone reductase",
+      "sulphide oxidation, using sulfide:quinone oxidoreductase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P222-PWY",
+      "P222-PWY",
+      "P222-PWY"
+    ],
+    "Reactome": [
+      "R-HSA-1614517"
+    ],
+    "GOC": [
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A sulfide oxidation process that proceeds via the reaction catalyzed by sulfide:quinone oxidoreductase.",
+  "namespace": "biological_process",
+  "label": "Sulfide oxidation to sulfate"
+}

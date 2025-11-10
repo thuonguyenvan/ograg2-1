@@ -1,0 +1,41 @@
+{
+  "id": "GO:1901663",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901663",
+  "relationships": {
+    "is_a": [
+      "GO:0042181",
+      "GO:1901661"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "quinone anabolism",
+      "quinone biosynthesis",
+      "quinone formation",
+      "quinone synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "quinone cofactor anabolism",
+      "quinone cofactor biosynthesis",
+      "quinone cofactor biosynthetic process",
+      "quinone cofactor formation",
+      "quinone cofactor synthesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mb",
+      "pr",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of quinone.",
+  "namespace": "biological_process",
+  "label": "quinone biosynthetic process"
+}

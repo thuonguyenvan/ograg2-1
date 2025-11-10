@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047414",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047414",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-(hydroxymethyl)-3-(acetamidomethylene)succinate amidohydrolase (deaminating, decarboxylating)",
+      "alpha-hydroxymethyl-alpha&apos;-(N-acetylaminomethylene)succinic acid hydrolase activity",
+      "compound B hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.66",
+      "3.5.1.66",
+      "3.5.1.66",
+      "3.5.1.66",
+      "3.5.1.66"
+    ],
+    "KEGG_REACTION": [
+      "R04397"
+    ],
+    "MetaCyc": [
+      "3.5.1.66-RXN"
+    ],
+    "RHEA": [
+      "17677",
+      "17677"
+    ],
+    "Wikipedia": [
+      "2-(hydroxymethyl)-3-(acetamidomethylene)succinate_amidohydrolase_(deaminating,_decarboxylating)"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2Z)-2-(acetamidomethylene)-3-(hydroxymethyl)succinate + 2 H2O + H+ = 2-(hydroxymethyl)-4-oxobutanoate + acetate + CO2 + NH4.",
+  "namespace": "molecular_function",
+  "label": "2-(hydroxymethyl)-3-(acetamidomethylene)succinate hydrolase activity"
+}

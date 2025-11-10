@@ -1,0 +1,36 @@
+{
+  "id": "GO:0044687",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044687",
+  "relationships": {
+    "is_a": [
+      "GO:0120531"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FGPP synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.81",
+      "2.5.1.81"
+    ],
+    "MetaCyc": [
+      "RXN-8813"
+    ],
+    "RHEA": [
+      "25694",
+      "25694"
+    ],
+    "PMID": [
+      "20097171"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2E,6E,10E)-geranylgeranyl diphosphate + isopentenyl diphosphate = (2E,6E,10E,14E)-geranylfarnesyl diphosphate + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "geranylfarnesyl diphosphate synthase activity"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:0000732",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000732",
+  "relationships": {
+    "is_a": [
+      "GO:0006259"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "strand displacement"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-loop dissociation",
+      "D-loop processing",
+      "displacement loop dissociation",
+      "displacement loop processing"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "10357855"
+    ],
+    "GOC": [
+      "mah",
+      "vw",
+      "mah",
+      "vw",
+      "mah",
+      "vw",
+      "mah",
+      "vw"
+    ]
+  },
+  "definition": "The rejection of the broken 3&apos; single-strand DNA molecule that formed heteroduplex DNA with its complement in an intact duplex DNA. The Watson-Crick base pairing in the original duplex is restored. The rejected 3&apos; single-strand DNA molecule reanneals with its original complement to reform two intact duplex molecules.",
+  "namespace": "biological_process",
+  "label": "DNA strand displacement"
+}

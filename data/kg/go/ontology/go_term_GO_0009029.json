@@ -1,0 +1,39 @@
+{
+  "id": "GO:0009029",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009029",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "tetraacyldisaccharide 4&apos;-kinase activity"
+    ],
+    "related": [
+      "ATP:2,3,2&apos;,3&apos;-tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-beta-D-1,6-glucosaminyl-beta-phosphate 4&apos;-O-phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.130",
+      "2.7.1.130"
+    ],
+    "KEGG_REACTION": [
+      "R04657"
+    ],
+    "MetaCyc": [
+      "RXN-22485"
+    ],
+    "RHEA": [
+      "67840",
+      "67840"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a lipid A disaccharide + ATP = a lipid IVA + ADP + H+.",
+  "namespace": "molecular_function",
+  "label": "lipid-A 4&apos;-kinase activity"
+}

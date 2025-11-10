@@ -1,0 +1,29 @@
+{
+  "id": "GO:0141166",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141166",
+  "relationships": {
+    "is_a": [
+      "GO:0006259"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "epigenetic 5-methylcytosine DNA demethylation",
+      "epigenetic 5-methylcytosine DNA demethylation pathway",
+      "epigenetic DNA demethylation"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "21862972",
+      "31546611",
+      "36478523"
+    ]
+  },
+  "definition": "A process that chemically modifies 5-methylcytosine (5meC) to make it a substrate for the base excision repair pathway, which then restores the unmodified cytosine.",
+  "namespace": "biological_process",
+  "label": "chromosomal 5-methylcytosine DNA demethylation pathway"
+}

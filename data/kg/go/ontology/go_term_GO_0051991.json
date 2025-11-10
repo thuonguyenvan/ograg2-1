@@ -1,0 +1,27 @@
+{
+  "id": "GO:0051991",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051991",
+  "relationships": {
+    "is_a": [
+      "GO:0008375"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "NACGLCTRANS-RXN"
+    ],
+    "RHEA": [
+      "31227",
+      "31227"
+    ]
+  },
+  "definition": "Catalysis of the reaction: di-trans-octa-cis-undecaprenyl diphospho-N-acetyl-alpha-D-muramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine + UDP-N-acetyl-alpha-D-glucosamine = di-trans-octa-cis-undecaprenyl diphospho-[N-acetyl-alpha-D-glucosaminyl-(1-&gt;4)]-N-acetyl-alpha-D-muramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine + H+ + UDP.",
+  "namespace": "molecular_function",
+  "label": "UDP-N-acetyl-D-glucosamine:N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine-diphosphoundecaprenol 4-beta-N-acetylglucosaminlytransferase activity"
+}

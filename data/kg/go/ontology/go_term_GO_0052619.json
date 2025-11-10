@@ -1,0 +1,30 @@
+{
+  "id": "GO:0052619",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052619",
+  "relationships": {
+    "is_a": [
+      "GO:0043773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.34"
+    ],
+    "MetaCyc": [
+      "RXN-8081",
+      "RXN-8081"
+    ],
+    "RHEA": [
+      "30523"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GTP + L-glutamate + factor gamma-F420-1 = GDP + H+ + factor gamma-F420-2 + phosphate.",
+  "namespace": "molecular_function",
+  "label": "coenzyme F420-1:gamma-L-glutamate ligase activity"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0051382",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051382",
+  "relationships": {
+    "is_a": [
+      "GO:0051383",
+      "GO:0065003",
+      "GO:0140694"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "NMS complex assembly",
+      "centromere and kinetochore complex maturation",
+      "centromere/kinetochore complex maturation",
+      "chromosome-kinetochore attachment"
+    ],
+    "related": [
+      "kinetochore formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "ascb_2009",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form the kinetochore, a multisubunit complex that is located at the centromeric region of DNA and provides an attachment point for the spindle microtubules.",
+  "namespace": "biological_process",
+  "label": "kinetochore assembly"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0015370",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015370",
+  "relationships": {
+    "is_a": [
+      "GO:0015081",
+      "GO:0015294"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "proline/glycine/betaine:hydrogen/sodium symporter activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8876283"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: solute(out) + Na+(out) = solute(in) + Na+(in).",
+  "namespace": "molecular_function",
+  "label": "SLC5A10 cotransports Na+ with Man, Fru from extracellular region to cytosol"
+}

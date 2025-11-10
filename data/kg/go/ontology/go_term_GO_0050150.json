@@ -1,0 +1,48 @@
+{
+  "id": "GO:0050150",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050150",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2,3-dihydroxybenzoate decarboxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,3-DHBA decarboxylase activity",
+      "2,3-dihydroxybenzoate carboxy-lyase (catechol-forming)",
+      "2,3-dihydroxybenzoate carboxy-lyase activity",
+      "2,3-dihydroxybenzoic acid decarboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.46",
+      "4.1.1.46",
+      "4.1.1.46",
+      "4.1.1.46",
+      "4.1.1.46",
+      "4.1.1.46"
+    ],
+    "KEGG_REACTION": [
+      "R00821"
+    ],
+    "MetaCyc": [
+      "O-PYROCATECHUATE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "21492",
+      "21492"
+    ],
+    "UM-BBD_reactionID": [
+      "r0579"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,3-dihydroxybenzoate + H+ = catechol + CO2.",
+  "namespace": "molecular_function",
+  "label": "o-pyrocatechuate decarboxylase activity"
+}

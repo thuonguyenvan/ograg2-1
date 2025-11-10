@@ -1,0 +1,40 @@
+{
+  "id": "GO:1903447",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903447",
+  "relationships": {
+    "is_a": [
+      "GO:0016095",
+      "GO:0016100",
+      "GO:0034310",
+      "GO:0120256"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "geraniol breakdown",
+      "geraniol catabolism",
+      "geraniol degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "di",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000068"
+    ],
+    "PMID": [
+      "23200656"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of geraniol.",
+  "namespace": "biological_process",
+  "label": "geraniol catabolic process"
+}

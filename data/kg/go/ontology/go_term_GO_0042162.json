@@ -1,0 +1,29 @@
+{
+  "id": "GO:0042162",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042162",
+  "relationships": {
+    "is_a": [
+      "GO:0043565"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "telomere binding",
+      "telomeric repeat binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "SO": [
+      "0000624"
+    ]
+  },
+  "definition": "Binding to a telomere, a specific structure at the end of a linear chromosome required for the integrity and maintenance of the end.",
+  "namespace": "molecular_function",
+  "label": "telomeric DNA binding"
+}

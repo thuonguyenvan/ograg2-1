@@ -1,0 +1,37 @@
+{
+  "id": "GO:0070314",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070314",
+  "relationships": {
+    "is_a": [
+      "GO:0022402"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G1/G0 transition",
+      "establishment of cell quiescence"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cell cycle quiescence",
+      "stationary phase"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mtg_cell_cycle",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "ISBN": [
+      "0815316194"
+    ]
+  },
+  "definition": "A cell cycle arrest process that results in arrest during G1 phase, whereupon the cell enters a specialized resting state known as G0 or quiescence.",
+  "namespace": "biological_process",
+  "label": "G1 to G0 transition"
+}

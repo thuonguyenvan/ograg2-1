@@ -1,0 +1,38 @@
+{
+  "id": "GO:0006493",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006493",
+  "relationships": {
+    "is_a": [
+      "GO:0009101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein amino acid O-linked glycosylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RESID": [
+      "AA0153",
+      "AA0154",
+      "AA0155",
+      "AA0157",
+      "AA0212"
+    ],
+    "Reactome": [
+      "R-HSA-5173105"
+    ],
+    "PMID": [
+      "33775405"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "A glycoprotein biosynthetic process starting with the covalent linkage of carbohydrate or carbohydrate derivative unit via a glycosidic bond to the oxygen atom of a serine, threonine, hydroxylysine, hydroxyproline or tyrosine side chain in a protein, which can be further elongated with the sequential addition of sugar units resulting in the formation of a protein O-linked glycan.",
+  "namespace": "biological_process",
+  "label": "O-linked glycosylation"
+}

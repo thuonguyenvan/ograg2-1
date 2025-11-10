@@ -1,0 +1,39 @@
+{
+  "id": "GO:0036025",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036025",
+  "relationships": {
+    "is_a": [
+      "GO:0097180"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PCI-TMPRSS11E complex",
+      "SERPINA5-TMPRSS11E complex",
+      "plasma serine protease inhibitor-TMPRSS11E complex",
+      "protein C inhibitor-transmembrane protease serine 11E complex",
+      "serpin A5-TMPRSS11E complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ans"
+    ],
+    "PMID": [
+      "15328353"
+    ],
+    "PR": [
+      "000014685",
+      "000014685",
+      "000014685",
+      "000016451",
+      "000014685"
+    ]
+  },
+  "definition": "A heterodimeric protein complex that contains protein C inhibitor (SERPINA5) and transmembrane protease serine 11E (TMPRSS11E); formation of the complex inhibits the serine protease activity of transmembrane protease serine 11E.",
+  "namespace": "cellular_component",
+  "label": "protein C inhibitor-TMPRSS11E complex"
+}

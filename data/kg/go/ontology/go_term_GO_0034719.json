@@ -1,0 +1,29 @@
+{
+  "id": "GO:0034719",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034719",
+  "relationships": {
+    "is_a": [
+      "GO:0120114"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "SMN-containing protein complex"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw"
+    ],
+    "PMID": [
+      "11522829",
+      "17401408"
+    ]
+  },
+  "definition": "A protein complex formed by the association of several methylated Sm proteins with the SMN complex; the latter contains the survival motor neuron (SMN) protein and at least eight additional integral components, including the Gemin2-8 and unrip proteins; additional proteins, including galectin-1 and galectin-3, are also found in the SMN-SM complex. The SMN-Sm complex is involved in spliceosomal snRNP assembly in the cytoplasm.",
+  "namespace": "cellular_component",
+  "label": "SMN-Sm protein complex"
+}

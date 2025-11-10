@@ -1,0 +1,26 @@
+{
+  "id": "GO:0098625",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098625",
+  "relationships": {
+    "is_a": [
+      "GO:0016651"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5263614"
+    ],
+    "PMID": [
+      "11782468"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NADPH + H+ + CH3SeOH = NADP+ + CH3SeH + H2O.",
+  "namespace": "molecular_function",
+  "label": "MeSeOH is reduced to MeSeH by TXNRD1"
+}

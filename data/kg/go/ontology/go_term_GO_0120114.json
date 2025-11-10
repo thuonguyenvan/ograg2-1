@@ -1,0 +1,28 @@
+{
+  "id": "GO:0120114",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120114",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "krc"
+    ],
+    "PMID": [
+      "19121818",
+      "27627834"
+    ]
+  },
+  "definition": "A protein complex containing members of the Like-Sm family of proteins, which includes both the Sm proteins and the Lsm proteins, and which generally form hexameric or heptameric ring structures which bind to RNA. While some of these ring complexes may form independently of RNA, many only form in association with their target RNA. In addition to Lsm-family proteins, many of these complexes contain additional protein members. Members of this family of complexes include the snRNPs which comprise the majority of the spliceosome. Others are involved in the 5&apos; to 3&apos; degradation pathways of mRNAs in the cytoplasm and of unspliced transcripts in the nucleus, as well as other diverse roles.",
+  "namespace": "cellular_component",
+  "label": "Sm-like protein family complex"
+}

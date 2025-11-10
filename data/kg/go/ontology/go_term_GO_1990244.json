@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990244",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990244",
+  "relationships": {
+    "is_a": [
+      "GO:0004674",
+      "GO:0140995"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H2A-T120 kinase activity",
+      "histone H2AS120 kinase activity",
+      "histone kinase activity (H2A-T120 specific)",
+      "histone threonine kinase activity (H2A-T120 specific)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "24140421"
+    ]
+  },
+  "definition": "Catalysis of the reaction: histone H2A-threonine (position 120) + ATP = histone H2A-phosphothreonine (position 120) + ADP. This reaction is the addition of a phosphate group to the threonine residue at position 120 of histone H2A.",
+  "namespace": "molecular_function",
+  "label": "histone H2AT120 kinase activity"
+}

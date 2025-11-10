@@ -1,0 +1,39 @@
+{
+  "id": "GO:0030756",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030756",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:isoorientin 3&apos;-O-methyltransferase activity",
+      "isoorientin 3&apos;-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.78",
+      "2.1.1.78",
+      "2.1.1.78",
+      "2.1.1.78"
+    ],
+    "KEGG_REACTION": [
+      "R03731"
+    ],
+    "MetaCyc": [
+      "ISOORIENTIN-3-O-METHYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "24096",
+      "24096"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine(1+) + isoorientin = S-adenosyl-L-homocysteine + H+ + isoscoparin.",
+  "namespace": "molecular_function",
+  "label": "isoorientin 3&apos;-O-methyltransferase activity"
+}

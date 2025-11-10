@@ -1,0 +1,37 @@
+{
+  "id": "GO:0061815",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061815",
+  "relationships": {
+    "is_a": [
+      "GO:0004843"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Met1 linkage specific DUB",
+      "cysteine-type deubiquitinase activity, acting on linear ubiquitin",
+      "linear ubiquitin specific deubiquitinase activity",
+      "ubiquitinyl hydrolase activity, acting on linear ubiquitin"
+    ],
+    "broad": [
+      "deubiquitinase, acting on linear ubiquitin"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9818975"
+    ],
+    "GOC": [
+      "dph"
+    ],
+    "PMID": [
+      "26503766",
+      "27702987"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of ubiquitin units from Met1-linked (or linear) polyubiquitin chains.",
+  "namespace": "molecular_function",
+  "label": "CYLD hydrolyses M1polyUb on RIPK1 within the TNFR1 complex"
+}

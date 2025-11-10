@@ -1,0 +1,35 @@
+{
+  "id": "GO:1900058",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900058",
+  "relationships": {
+    "is_a": [
+      "GO:0042762"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of sulphate assimilation"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of sulfate assimilation, phosphoadenylyl sulfate reduction by an oxidoreductase, acting on sulfur group of donors, NAD or NADP as acceptor",
+      "regulation of sulphate assimilation, phosphoadenylyl sulphate reduction by an oxidoreductase, acting on sulphur group of donors, NAD or NADP as acceptor"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "7601277",
+      "7891681"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of sulfate assimilation.",
+  "namespace": "biological_process",
+  "label": "regulation of sulfate assimilation"
+}

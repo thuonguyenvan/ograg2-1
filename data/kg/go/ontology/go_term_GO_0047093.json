@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047093",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047093",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-H-4-oxoquinoline 3-monooxygenase activity",
+      "quinolin-4(1H)-one 3-monooxygenase activity",
+      "quinolin-4(1H)-one,NADH:oxygen oxidoreductase (3-oxygenating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.62",
+      "1.14.13.62",
+      "1.14.13.62",
+      "1.14.13.62",
+      "1.14.13.62"
+    ],
+    "KEGG_REACTION": [
+      "R05154"
+    ],
+    "MetaCyc": [
+      "1.14.13.62-RXN"
+    ],
+    "RHEA": [
+      "19325",
+      "19325"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H+ + NADH + O2 + quinolin-4-ol = H2O + NAD+ + quinoline-3,4-diol.",
+  "namespace": "molecular_function",
+  "label": "4-hydroxyquinoline 3-monooxygenase activity"
+}

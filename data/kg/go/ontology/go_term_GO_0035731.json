@@ -1,0 +1,33 @@
+{
+  "id": "GO:0035731",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035731",
+  "relationships": {
+    "is_a": [
+      "GO:0051540"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNDGIC binding",
+      "DNIC binding",
+      "dinitrosyl-diglutathionyl-iron complex binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF"
+    ],
+    "PMID": [
+      "10534443",
+      "12871931",
+      "10534443",
+      "12871931"
+    ]
+  },
+  "definition": "Binding to a dinitrosyl-iron complex. Nitric oxide (NO) is stored as dinitrosyl-iron complexes, which form spontaneously from Glutathione (GSH), S-nitrosoglutathione, and trace amounts of ferrous ions, or by reaction of iron-sulfur centers with NO.",
+  "namespace": "molecular_function",
+  "label": "dinitrosyl-iron complex binding"
+}

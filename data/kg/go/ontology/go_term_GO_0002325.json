@@ -1,0 +1,33 @@
+{
+  "id": "GO:0002325",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002325",
+  "relationships": {
+    "is_a": [
+      "GO:0001779",
+      "GO:0002285"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NK cell differentiation during immune response",
+      "natural killer cell development involved in immune response",
+      "natural killer cell differentiation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "add",
+      "tb"
+    ],
+    "PMID": [
+      "11698225"
+    ]
+  },
+  "definition": "The process in which a naive natural killer cell acquires the specialized features of an effector natural killer T cell as part of an immune response.",
+  "namespace": "biological_process",
+  "label": "natural killer cell differentiation involved in immune response"
+}

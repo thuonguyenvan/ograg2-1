@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047483",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047483",
+  "relationships": {
+    "is_a": [
+      "GO:0016879"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-phosphoribosylimidazoleacetate synthetase activity",
+      "imidazoleacetate:5-phosphoribosyl-diphosphate ligase (ADP- and diphosphate-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.4.8",
+      "6.3.4.8",
+      "6.3.4.8",
+      "6.3.4.8"
+    ],
+    "KEGG_REACTION": [
+      "R04068"
+    ],
+    "MetaCyc": [
+      "6.3.4.8-RXN"
+    ],
+    "RHEA": [
+      "16485",
+      "16485"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-phospho-alpha-D-ribose 1-diphosphate + ATP + H2O + imidazol-4-ylacetate = 1-(5-phosphoribosyl)imidazol-4-ylacetate + ADP + diphosphate + 2 H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "imidazoleacetate-phosphoribosyldiphosphate ligase activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0000912",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000912",
+  "relationships": {
+    "is_a": [
+      "GO:0022607",
+      "GO:0032506"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "actomyosin apparatus assembly involved in cytokinesis",
+      "cytokinesis, formation of actomyosin apparatus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "formation of actomyosin apparatus involved in cytokinesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle",
+      "mah",
+      "dph",
+      "tb",
+      "dph"
+    ]
+  },
+  "definition": "The assembly and arrangement of an apparatus composed of actin, myosin, and associated proteins that will function in cytokinesis.",
+  "namespace": "biological_process",
+  "label": "assembly of actomyosin apparatus involved in cytokinesis"
+}

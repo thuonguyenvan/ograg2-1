@@ -1,0 +1,26 @@
+{
+  "id": "GO:0044174",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044174",
+  "relationships": {
+    "is_a": [
+      "GO:0033648",
+      "GO:0033655"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "host endosome"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "A membrane-bounded organelle that carries materials newly ingested by endocytosis. It passes many of the materials to host cell lysosomes for degradation.",
+  "namespace": "cellular_component",
+  "label": "host cell endosome"
+}

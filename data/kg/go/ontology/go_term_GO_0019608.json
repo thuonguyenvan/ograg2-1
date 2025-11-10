@@ -1,0 +1,37 @@
+{
+  "id": "GO:0019608",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019608",
+  "relationships": {
+    "is_a": [
+      "GO:0009056",
+      "GO:0018933"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nicotine breakdown",
+      "nicotine catabolism",
+      "nicotine degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P181-PWY"
+    ],
+    "UM-BBD_pathwayID": [
+      "nic"
+    ],
+    "GOC": [
+      "sm"
+    ],
+    "ISBN": [
+      "0198547684"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of nicotine, (S)(-)-3-(1-methyl-2-pyrrolidinyl)pyridine.",
+  "namespace": "biological_process",
+  "label": "nicotine catabolic process"
+}

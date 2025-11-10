@@ -1,0 +1,34 @@
+{
+  "id": "GO:0047653",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047653",
+  "relationships": {
+    "is_a": [
+      "GO:0016854"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.99.3",
+      "5.1.99.3"
+    ],
+    "KEGG_REACTION": [
+      "R03925"
+    ],
+    "MetaCyc": [
+      "ALLANTOIN-RACEMASE-RXN"
+    ],
+    "RHEA": [
+      "10804",
+      "10804"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-(+)-allantoin = (R)-(-)-allantoin.",
+  "namespace": "molecular_function",
+  "label": "allantoin racemase activity"
+}

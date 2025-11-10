@@ -1,0 +1,44 @@
+{
+  "id": "GO:0015018",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015018",
+  "relationships": {
+    "is_a": [
+      "GO:0015020"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "glucuronosyltransferase I activity"
+    ],
+    "related": [
+      "UDP-glucuronate:3-beta-D-galactosyl-4-beta-D-galactosyl-O-beta-D-xylosyl-protein D-glucuronosyltransferase activity",
+      "UDPglucuronate:3-beta-D-galactosyl-4-beta-D-galactosyl-O-beta-D-xylosyl-protein D-glucuronosyltransferase activity",
+      "uridine diphosphate glucuronic acid:acceptor glucuronosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.135",
+      "2.4.1.135",
+      "2.4.1.135",
+      "2.4.1.135",
+      "2.4.1.135",
+      "2.4.1.135"
+    ],
+    "MetaCyc": [
+      "2.4.1.135-RXN"
+    ],
+    "RHEA": [
+      "24168"
+    ],
+    "Reactome": [
+      "R-HSA-1889955",
+      "R-HSA-3560802"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-O-(beta-D-galactosyl-(1-&gt;3)-beta-D-galactosyl-(1-&gt;4)-beta-D-xylosyl)-L-seryl-[protein] + UDP-alpha-D-glucuronate = 3-O-(beta-D-GlcA-(1-&gt;3)-beta-D-Gal-(1-&gt;3)-beta-D-Gal-(1-&gt;4)-beta-D-Xyl)-L-seryl-[protein] + H+ + UDP.",
+  "namespace": "molecular_function",
+  "label": "Defective B3GAT3 does not transfer GlcA to tetrasaccharide linker"
+}

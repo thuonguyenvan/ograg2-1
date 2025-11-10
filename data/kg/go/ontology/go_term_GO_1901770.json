@@ -1,0 +1,37 @@
+{
+  "id": "GO:1901770",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901770",
+  "relationships": {
+    "is_a": [
+      "GO:0030640",
+      "GO:0030649",
+      "GO:0042182",
+      "GO:0044597"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "daunorubicin breakdown",
+      "daunorubicin catabolism",
+      "daunorubicin degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "7601857"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of daunorubicin.",
+  "namespace": "biological_process",
+  "label": "daunorubicin catabolic process"
+}

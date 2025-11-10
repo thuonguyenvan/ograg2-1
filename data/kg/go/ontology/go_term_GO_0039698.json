@@ -1,0 +1,27 @@
+{
+  "id": "GO:0039698",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039698",
+  "relationships": {
+    "is_a": [
+      "GO:0016032"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "polyA stuttering"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "1916",
+      "1916",
+      "1916"
+    ]
+  },
+  "definition": "Polyadenylation of viral mRNA through a polymerase stuttering mechanism. The stop signal present at the end of each gene comprises a stretch of uridine on which the viral polymerase acquires a stuttering behavior: after each adenine inserted, the polymerase moves back one nucleotide along with the mRNA. It resumes transcription adding a new adenine, then again moves back, thereby producing a polyA tail.",
+  "namespace": "biological_process",
+  "label": "Negative-stranded RNA virus Polymerase stuttering"
+}

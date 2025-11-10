@@ -1,0 +1,42 @@
+{
+  "id": "GO:0018507",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018507",
+  "relationships": {
+    "is_a": [
+      "GO:0016628"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cis-3,4-dihydroxy-3,4-dihydrophenanthrene dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(+)-cis-3,4-dihydrophenanthrene-3,4-diol:NAD+ 3,4-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.3.1.49",
+      "1.3.1.49",
+      "1.3.1.49"
+    ],
+    "KEGG_REACTION": [
+      "R04151"
+    ],
+    "MetaCyc": [
+      "1.3.1.49-RXN"
+    ],
+    "RHEA": [
+      "16253",
+      "16253"
+    ],
+    "UM-BBD_reactionID": [
+      "r0488"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (3S,4R)-3,4-dihydrophenanthrene-3,4-diol + NAD+ = H+ + NADH + phenanthrene-3,4-diol.",
+  "namespace": "molecular_function",
+  "label": "cis-3,4-dihydrophenanthrene-3,4-diol dehydrogenase activity"
+}

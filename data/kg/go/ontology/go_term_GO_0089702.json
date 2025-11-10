@@ -1,0 +1,27 @@
+{
+  "id": "GO:0089702",
+  "uri": "http://purl.obolibrary.org/obo/GO_0089702",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.31"
+    ],
+    "RHEA": [
+      "28126",
+      "28126"
+    ]
+  },
+  "definition": "Catalysis of the reaction: di-trans,octa-cis-undecaprenyl phosphate + UDP-alpha-D-glucose = alpha-D-glucosyl di-trans,octa-cis-undecaprenyl diphosphate + UMP.",
+  "namespace": "molecular_function",
+  "label": "undecaprenyl-phosphate glucose phosphotransferase activity"
+}

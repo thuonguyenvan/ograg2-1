@@ -1,0 +1,33 @@
+{
+  "id": "GO:0070419",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070419",
+  "relationships": {
+    "is_a": [
+      "GO:0140535",
+      "GO:1990391"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NHEJ complex",
+      "non-homologous end joining complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "17072889",
+      "17938628"
+    ]
+  },
+  "definition": "A protein complex that plays a role in DNA double-strand break repair via nonhomologous end joining. Such complexes typically contain a specialized DNA ligase (e.g. Lig4 in eukaryotes) and one or more proteins that bind to DNA ends.",
+  "namespace": "cellular_component",
+  "label": "nonhomologous end joining complex"
+}

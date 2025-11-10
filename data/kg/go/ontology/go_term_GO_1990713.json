@@ -1,0 +1,30 @@
+{
+  "id": "GO:1990713",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990713",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Baculoviral IAP repeat-containing protein 5 complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "survivin homodimer complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "10949038"
+    ]
+  },
+  "definition": "A protein complex that negatively regulates apoptotic processes. In human, this anti-apoptotic complex is a homodimer of BIRC5 (survivin) and provides one survivin molecule to the chromosomal passenger complex (CPC).",
+  "namespace": "cellular_component",
+  "label": "survivin complex"
+}

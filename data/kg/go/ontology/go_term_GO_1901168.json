@@ -1,0 +1,36 @@
+{
+  "id": "GO:1901168",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901168",
+  "relationships": {
+    "is_a": [
+      "GO:0019614",
+      "GO:0042537",
+      "GO:0090345"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-chlorocatechol breakdown",
+      "3-chlorocatechol catabolism",
+      "3-chlorocatechol degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "UniPathway": [
+      "UPA00083"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of 3-chlorocatechol.",
+  "namespace": "biological_process",
+  "label": "3-chlorocatechol catabolic process"
+}

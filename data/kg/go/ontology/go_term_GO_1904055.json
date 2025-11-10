@@ -1,0 +1,50 @@
+{
+  "id": "GO:1904055",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904055",
+  "relationships": {
+    "is_a": [
+      "GO:0050680",
+      "GO:1904054"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of cholangiocyte proliferation",
+      "down regulation of hepatoblast proliferation",
+      "down-regulation of cholangiocyte proliferation",
+      "down-regulation of hepatoblast proliferation",
+      "downregulation of cholangiocyte proliferation",
+      "downregulation of hepatoblast proliferation",
+      "negative regulation of hepatoblast proliferation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of cholangiocyte proliferation",
+      "inhibition of hepatoblast proliferation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24434010"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of cholangiocyte proliferation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of cholangiocyte proliferation"
+}

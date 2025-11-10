@@ -1,0 +1,47 @@
+{
+  "id": "GO:0030604",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030604",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DOXP reductoisomerase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-deoxy-D-xylulose-5-phosphate isomeroreductase activity",
+      "1-deoxyxylulose-5-phosphate reductoisomerase activity",
+      "2-C-methyl-D-erythritol-4-phosphate:NADP+ oxidoreductase (isomerizing)",
+      "2C-methyl-D-erythritol-4-phosphate (MEP) synthase activity",
+      "DXP-reductoisomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.267",
+      "1.1.1.267",
+      "1.1.1.267",
+      "1.1.1.267",
+      "1.1.1.267",
+      "1.1.1.267",
+      "1.1.1.267"
+    ],
+    "KEGG_REACTION": [
+      "R05688"
+    ],
+    "MetaCyc": [
+      "DXPREDISOM-RXN"
+    ],
+    "RHEA": [
+      "13717",
+      "13717"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-C-methyl-D-erythritol 4-phosphate + NADP+ = 1-deoxy-D-xylulose 5-phosphate + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "1-deoxy-D-xylulose-5-phosphate reductoisomerase activity"
+}

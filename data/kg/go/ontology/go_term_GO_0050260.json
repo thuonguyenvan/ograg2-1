@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050260",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050260",
+  "relationships": {
+    "is_a": [
+      "GO:0016879"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-phosphoribosylamine synthetase activity",
+      "ammonia-ribose 5-phosphate aminotransferase activity",
+      "ribose 5-phosphate aminotransferase activity",
+      "ribose-5-phosphate:ammonia ligase (ADP-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.4.7",
+      "6.3.4.7",
+      "6.3.4.7",
+      "6.3.4.7",
+      "6.3.4.7",
+      "6.3.4.7"
+    ],
+    "KEGG_REACTION": [
+      "R01053"
+    ],
+    "MetaCyc": [
+      "RIBOSE-5-PHOSPHATE--AMMONIA-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "13777",
+      "13777"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-ribose 5-phosphate + ATP + NH4 = 5-phospho-D-ribosylamine + ADP + 2 H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "ribose-5-phosphate-ammonia ligase activity"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0072040",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072040",
+  "relationships": {
+    "is_a": [
+      "GO:0072039",
+      "GO:1902338",
+      "GO:1904673",
+      "GO:2001054"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of mesenchymal stem cell apoptotic process involved in nephron morphogenesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "negative regulation of mesenchymal stem cell apoptosis involved in nephron morphogenesis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_apoptosis",
+      "mtg_kidney_jan10"
+    ]
+  },
+  "definition": "Any process that reduces the occurrence or rate of mesenchymal stem cell death by apoptotic process that contributes to the shaping of the nephron.",
+  "namespace": "biological_process",
+  "label": "negative regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis"
+}

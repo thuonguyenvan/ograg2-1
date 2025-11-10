@@ -1,0 +1,34 @@
+{
+  "id": "GO:0055085",
+  "uri": "http://purl.obolibrary.org/obo/GO_0055085",
+  "relationships": {
+    "is_a": [
+      "GO:0006810",
+      "GO:0009987"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "membrane transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "ATP hydrolysis coupled transmembrane transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-382556",
+      "R-HSA-425407",
+      "R-HSA-5223345"
+    ],
+    "GOC": [
+      "dph",
+      "jid"
+    ]
+  },
+  "definition": "The process in which a solute is transported across a lipid bilayer, from one side of a membrane to the other.",
+  "namespace": "biological_process",
+  "label": "Miscellaneous transport and binding events"
+}

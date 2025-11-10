@@ -1,0 +1,31 @@
+{
+  "id": "GO:0033355",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033355",
+  "relationships": {
+    "is_a": [
+      "GO:0006749",
+      "GO:0019852",
+      "GO:0042744"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "hydrogen peroxide detoxification"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-2261",
+      "PWY-2261"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A cyclic series of interconversions involving L-ascorbate and glutathione that scavenges hydrogen peroxide and reduces it to water, with concomitant oxidation of NADPH.",
+  "namespace": "biological_process",
+  "label": "ascorbate glutathione cycle"
+}

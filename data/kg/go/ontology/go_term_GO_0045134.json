@@ -1,0 +1,38 @@
+{
+  "id": "GO:0045134",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045134",
+  "relationships": {
+    "is_a": [
+      "GO:0017110"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP phosphohydrolase activity",
+      "uridine-diphosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDPase activity",
+      "uridine 5&apos;-diphosphatase activity",
+      "uridine diphosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R00155",
+      "R00155"
+    ],
+    "MetaCyc": [
+      "RXN-12197"
+    ],
+    "RHEA": [
+      "64876",
+      "64876"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP + H2O = UMP + phosphate.",
+  "namespace": "molecular_function",
+  "label": "UDP phosphatase activity"
+}

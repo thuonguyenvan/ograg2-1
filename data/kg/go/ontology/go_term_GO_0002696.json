@@ -1,0 +1,34 @@
+{
+  "id": "GO:0002696",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002696",
+  "relationships": {
+    "is_a": [
+      "GO:0002684",
+      "GO:0002694",
+      "GO:0050867"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of immune cell activation",
+      "positive regulation of leucocyte activation",
+      "up regulation of leukocyte activation",
+      "up-regulation of leukocyte activation",
+      "upregulation of leukocyte activation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of leukocyte activation",
+      "stimulation of leukocyte activation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of leukocyte activation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of leukocyte activation"
+}

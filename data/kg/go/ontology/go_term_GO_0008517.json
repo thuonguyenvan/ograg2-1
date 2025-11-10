@@ -1,0 +1,38 @@
+{
+  "id": "GO:0008517",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008517",
+  "relationships": {
+    "is_a": [
+      "GO:0042887",
+      "GO:0046943",
+      "GO:0072349",
+      "GO:0090482"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "folate transmembrane transporter activity",
+      "folate transporter activity",
+      "vitamin B9 transporter activity",
+      "vitamin M transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "folic acid transporter activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-200652",
+      "R-HSA-200680",
+      "R-HSA-200720"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of folic acid (pteroylglutamic acid) from one side of a membrane to the other. Folic acid is widely distributed as a member of the vitamin B complex and is essential for the synthesis of purine and pyrimidines.",
+  "namespace": "molecular_function",
+  "label": "SLC25A32 transports THF from mitochondrial matrix to cytosol"
+}

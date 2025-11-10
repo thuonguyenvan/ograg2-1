@@ -1,0 +1,38 @@
+{
+  "id": "GO:1903315",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903315",
+  "relationships": {
+    "is_a": [
+      "GO:0009892",
+      "GO:1903314"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of nitrogen cycle metabolic process",
+      "down-regulation of nitrogen cycle metabolic process",
+      "downregulation of nitrogen cycle metabolic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of nitrogen cycle metabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "vw",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of nitrogen cycle metabolic process.",
+  "namespace": "biological_process",
+  "label": "negative regulation of nitrogen cycle metabolic process"
+}

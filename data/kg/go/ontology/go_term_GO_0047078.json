@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047078",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047078",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1H-3-hydroxy-4-oxoquinoline 2,4-dioxygenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(1H)-3-hydroxy-4-oxoquinoline 2,4-dioxygenase activity",
+      "3-hydroxy-1H-quinolin-4-one 2,4-dioxygenase (CO-forming)",
+      "3-hydroxy-4(1H)-one, 2,4-dioxygenase activity",
+      "3-hydroxy-4-oxo-1,4-dihydroquinoline 2,4-dioxygenase activity",
+      "quinoline-3,4-diol 2,4-dioxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.47",
+      "1.13.11.47",
+      "1.13.11.47",
+      "1.13.11.47",
+      "1.13.11.47",
+      "1.13.11.47",
+      "1.13.11.47"
+    ],
+    "MetaCyc": [
+      "1.13.11.47-RXN",
+      "1.13.11.47-RXN"
+    ],
+    "RHEA": [
+      "17949"
+    ]
+  },
+  "definition": "Catalysis of the reaction: O2 + 3-hydroxy-1H-quinolin-4-one = carbon monoxide + N-formylanthranilate.",
+  "namespace": "molecular_function",
+  "label": "3-hydroxy-4-oxoquinoline 2,4-dioxygenase activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0005163",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005163",
+  "relationships": {
+    "is_a": [
+      "GO:0005123",
+      "GO:0005165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NGF receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "nerve growth factor receptor ligand",
+      "neurotrophin"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ],
+    "PMID": [
+      "15654015"
+    ]
+  },
+  "definition": "Binding to a nerve growth factor receptor.",
+  "namespace": "molecular_function",
+  "label": "nerve growth factor receptor binding"
+}

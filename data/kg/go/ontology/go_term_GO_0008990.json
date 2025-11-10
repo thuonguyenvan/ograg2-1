@@ -1,0 +1,31 @@
+{
+  "id": "GO:0008990",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008990",
+  "relationships": {
+    "is_a": [
+      "GO:0008170",
+      "GO:0016435"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:rRNA (guanine-2-N-)-methyltransferase activity",
+      "S-adenosyl-L-methionine:rRNA (guanine-N2-)-methyltransferase activity",
+      "ribosomal ribonucleate guanine-2-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R07234"
+    ],
+    "PMID": [
+      "17389639"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + rRNA = S-adenosyl-L-homocysteine + rRNA containing N2-methylguanine.",
+  "namespace": "molecular_function",
+  "label": "rRNA (guanine-N2-)-methyltransferase activity"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GO:0047558",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047558",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-asparagine hydro-lyase (3-cyanoalanine-forming)",
+      "L-asparagine hydro-lyase activity",
+      "beta-CNA nitrilase activity",
+      "beta-CNAla hydrolase activity",
+      "beta-cyanoalanine hydratase activity",
+      "beta-cyanoalanine hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.65",
+      "4.2.1.65",
+      "4.2.1.65",
+      "4.2.1.65",
+      "4.2.1.65",
+      "4.2.1.65",
+      "4.2.1.65",
+      "4.2.1.65"
+    ],
+    "KEGG_REACTION": [
+      "R01267"
+    ],
+    "MetaCyc": [
+      "3-CYANOALANINE-HYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "15385",
+      "15385"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-asparagine = 3-cyano-L-alanine + H2O + H+.",
+  "namespace": "molecular_function",
+  "label": "3-cyanoalanine hydratase activity"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "GO:0003848",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003848",
+  "relationships": {
+    "is_a": [
+      "GO:0016778"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "6-hydroxymethyl-7,8-dihydropterin diphosphokinase activity",
+      "6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase activity",
+      "7,8-dihydro-6-hydroxymethylpterin diphosphokinase activity",
+      "7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase activity",
+      "7,8-dihydroxymethylpterin-pyrophosphokinase activity",
+      "ATP:2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine 6&apos;-diphosphotransferase activity",
+      "H2-pteridine-CH2OH pyrophosphokinase activity",
+      "HPPK",
+      "hydroxymethyldihydropteridine pyrophosphokinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.6.3",
+      "2.7.6.3",
+      "2.7.6.3",
+      "2.7.6.3",
+      "2.7.6.3",
+      "2.7.6.3",
+      "2.7.6.3",
+      "2.7.6.3",
+      "2.7.6.3",
+      "2.7.6.3",
+      "2.7.6.3"
+    ],
+    "KEGG_REACTION": [
+      "R03503"
+    ],
+    "MetaCyc": [
+      "H2PTERIDINEPYROPHOSPHOKIN-RXN"
+    ],
+    "RHEA": [
+      "11412",
+      "11412"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine + ATP = (2-amino-4-hydroxy-7,8-dihydropteridin-6-yl)methyl diphosphate + AMP + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity"
+}

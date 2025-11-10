@@ -1,0 +1,36 @@
+{
+  "id": "GO:0015182",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015182",
+  "relationships": {
+    "is_a": [
+      "GO:0015175",
+      "GO:0015179",
+      "GO:0042887"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "L-asparagine transporter activity"
+    ],
+    "narrow": [
+      "asparagine/glutamine permease activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "jsg",
+      "mah",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0198506732",
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of L-asparagine from one side of a membrane to the other. L-asparagine is the L-enantiomer of alpha-aminosuccinamic acid.",
+  "namespace": "molecular_function",
+  "label": "L-asparagine transmembrane transporter activity"
+}

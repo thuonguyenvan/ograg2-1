@@ -1,0 +1,28 @@
+{
+  "id": "GO:0034663",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034663",
+  "relationships": {
+    "is_a": [
+      "GO:0140534"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ER chaperone complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ER network complex",
+      "endoplasmic reticulum network complex"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "12475965"
+    ]
+  },
+  "definition": "A protein complex that is located in the endoplasmic reticulum and is composed of chaperone proteins, including BiP, GRP94; CaBP1, protein disulfide isomerase (PDI), ERdj3, cyclophilin B, ERp72, GRP170, UDP-glucosyltransferase, and SDF2-L1.",
+  "namespace": "cellular_component",
+  "label": "endoplasmic reticulum chaperone complex"
+}

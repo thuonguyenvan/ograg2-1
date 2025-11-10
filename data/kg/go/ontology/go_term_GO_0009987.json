@@ -1,0 +1,31 @@
+{
+  "id": "GO:0009987",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009987",
+  "relationships": {
+    "is_a": [
+      "GO:0008150"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell physiology",
+      "cellular physiological process"
+    ],
+    "broad": [],
+    "narrow": [
+      "cell growth and/or maintenance"
+    ],
+    "related": [
+      "single-organism cellular process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "isa_complete"
+    ]
+  },
+  "definition": "Any process that is carried out at the cellular level, but not necessarily restricted to a single cell. For example, cell communication occurs among more than one cell, but occurs at the cellular level.",
+  "namespace": "biological_process",
+  "label": "cellular process"
+}

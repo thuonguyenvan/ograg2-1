@@ -1,0 +1,30 @@
+{
+  "id": "GO:0052915",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052915",
+  "relationships": {
+    "is_a": [
+      "GO:0008990"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.173",
+      "2.1.1.173"
+    ],
+    "MetaCyc": [
+      "RXN-11574"
+    ],
+    "RHEA": [
+      "42740"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + guanosine(2445) in 23S rRNA = N(2)-methylguanosine(2445) in 23S rRNA + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "23S rRNA (guanine(2445)-N(2))-methyltransferase activity"
+}

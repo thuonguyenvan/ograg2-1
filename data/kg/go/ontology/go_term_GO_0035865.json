@@ -1,0 +1,29 @@
+{
+  "id": "GO:0035865",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035865",
+  "relationships": {
+    "is_a": [
+      "GO:0035864",
+      "GO:0071248"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to K+ ion",
+      "cellular response to potassium"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "yaf",
+      "bf",
+      "bf"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a potassium ion stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to potassium ion"
+}

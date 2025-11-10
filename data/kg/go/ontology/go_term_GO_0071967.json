@@ -1,0 +1,30 @@
+{
+  "id": "GO:0071967",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071967",
+  "relationships": {
+    "is_a": [
+      "GO:0008920"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LPS core heptosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN0-5122",
+      "RXN0-5122",
+      "LIPA-CORESYN-PWY"
+    ],
+    "RHEA": [
+      "29923"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glucosyl-heptosyl2-KDO2-lipid A-phosphate + ADP-L-glycero-beta-D-manno-heptose = glucosyl-heptosyl3-KDO2-lipid A-phosphate + ADP + H+.",
+  "namespace": "molecular_function",
+  "label": "lipopolysaccharide core heptosyltransferase activity"
+}

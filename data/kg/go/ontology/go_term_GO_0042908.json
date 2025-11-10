@@ -1,0 +1,26 @@
+{
+  "id": "GO:0042908",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042908",
+  "relationships": {
+    "is_a": [
+      "GO:0006810"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "drug transport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "krc"
+    ]
+  },
+  "definition": "The directed movement of a xenobiotic into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore. A xenobiotic is a compound foreign to the organism exposed to it. It may be synthesized by another organism (like ampicilin) or it can be a synthetic chemical.",
+  "namespace": "biological_process",
+  "label": "xenobiotic transport"
+}

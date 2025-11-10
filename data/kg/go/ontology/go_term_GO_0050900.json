@@ -1,0 +1,42 @@
+{
+  "id": "GO:0050900",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050900",
+  "relationships": {
+    "is_a": [
+      "GO:0002376",
+      "GO:0016477"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "immune cell migration",
+      "immune cell trafficking",
+      "leucocyte migration",
+      "leucocyte trafficking",
+      "leukocyte trafficking"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-202733"
+    ],
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "14680625",
+      "14708592",
+      "7507411",
+      "8600538"
+    ]
+  },
+  "definition": "The movement of a leukocyte within or between different tissues and organs of the body.",
+  "namespace": "biological_process",
+  "label": "Cell surface interactions at the vascular wall"
+}

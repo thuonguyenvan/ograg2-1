@@ -1,0 +1,59 @@
+{
+  "id": "GO:0007312",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007312",
+  "relationships": {
+    "is_a": [
+      "GO:0007097",
+      "GO:0051663"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "oocyte axis determination, oocyte nuclear migration",
+      "oocyte axis determination, oocyte nucleus migration",
+      "oocyte nuclear migration during oocyte axis determination",
+      "oocyte nucleus migration during oocyte axis determination"
+    ],
+    "broad": [
+      "establishment of localization of oocyte nucleus during oocyte axis determination",
+      "establishment of oocyte nucleus localization during oocyte axis determination",
+      "nucleus positioning in oocyte during oocyte axis determination",
+      "oocyte axis determination, establishment of localization of nucleus",
+      "oocyte axis determination, establishment of oocyte nucleus localization",
+      "oocyte axis determination, establishment of position of nucleus",
+      "oocyte axis determination, positioning of nucleus",
+      "oocyte nucleus positioning during oocyte axis determination"
+    ],
+    "narrow": [],
+    "related": [
+      "establishment of oocyte nucleus localisation involved in oocyte dorsal/ventral axis specification",
+      "establishment of oocyte nucleus localization involved in oocyte dorsal-ventral axis specification",
+      "establishment of oocyte nucleus localization involved in oocyte dorsal/ventral axis determination",
+      "establishment of oocyte nucleus localization involved in oocyte dorsal/ventral axis specification",
+      "establishment of oocyte nucleus localization involved in oocyte dorsoventral axis specification",
+      "oocyte nucleus migration during oocyte axis specification"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mah",
+      "mtg_sensu",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "tb",
+      "mah",
+      "mah",
+      "dph",
+      "tb",
+      "mah",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The directed movement of the oocyte nucleus within the cell as part of the establishment and maintenance of the dorsal/ventral axis of the oocyte. An example of this is found in Drosophila melanogaster.",
+  "namespace": "biological_process",
+  "label": "oocyte nucleus migration involved in oocyte dorsal/ventral axis specification"
+}

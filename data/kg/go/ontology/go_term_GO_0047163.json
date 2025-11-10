@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047163",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047163",
+  "relationships": {
+    "is_a": [
+      "GO:0050735"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "malonyl-CoA:3,4-dichloroaniline N-malonyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.114",
+      "2.3.1.114",
+      "2.3.1.114"
+    ],
+    "KEGG_REACTION": [
+      "R04050"
+    ],
+    "MetaCyc": [
+      "2.3.1.114-RXN"
+    ],
+    "RHEA": [
+      "21060",
+      "21060"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3,4-dichloroaniline + malonyl-CoA = N-(3,4-dichlorophenyl)malonamate + CoA.",
+  "namespace": "molecular_function",
+  "label": "3,4-dichloroaniline N-malonyltransferase activity"
+}

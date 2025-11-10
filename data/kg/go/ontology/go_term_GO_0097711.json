@@ -1,0 +1,37 @@
+{
+  "id": "GO:0097711",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097711",
+  "relationships": {
+    "is_a": [
+      "GO:0140056"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ciliary basal body docking"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "anchoring of the basal body to the plasma membrane"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5620912"
+    ],
+    "GOC": [
+      "cilia"
+    ],
+    "PMID": [
+      "13978319",
+      "23348840",
+      "23530209",
+      "25686250",
+      "26981235"
+    ]
+  },
+  "definition": "The docking of a cytosolic centriole/basal body to the plasma membrane via the ciliary transition fibers. In some species this may happen via an intermediate step, by first docking to the ciliary vesicle via the ciliary transition fibers. The basal body-ciliary vesicle then relocates to the plasma membrane, followed by the ciliary vesicle fusing with the plasma membrane, effectively attaching the basal body to the plasma membrane.",
+  "namespace": "biological_process",
+  "label": "Anchoring of the basal body to the plasma membrane"
+}

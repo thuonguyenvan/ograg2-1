@@ -1,0 +1,28 @@
+{
+  "id": "GO:0016669",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016669",
+  "relationships": {
+    "is_a": [
+      "GO:0016667"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "oxidoreductase activity, acting on sulphur group of donors, cytochrome as acceptor"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.2.-"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Catalysis of an oxidation-reduction (redox) reaction in which a sulfur-containing group acts as a hydrogen or electron donor and reduces a cytochrome.",
+  "namespace": "molecular_function",
+  "label": "oxidoreductase activity, acting on a sulfur group of donors, cytochrome as acceptor"
+}

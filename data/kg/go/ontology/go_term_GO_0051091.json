@@ -1,0 +1,38 @@
+{
+  "id": "GO:0051091",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051091",
+  "relationships": {
+    "is_a": [
+      "GO:0044093",
+      "GO:0051090"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of DNA binding transcription factor activity",
+      "positive regulation of sequence-specific DNA binding transcription factor activity",
+      "up regulation of transcription factor activity",
+      "up-regulation of transcription factor activity",
+      "upregulation of transcription factor activity"
+    ],
+    "broad": [
+      "positive regulation of transcription factor activity"
+    ],
+    "narrow": [
+      "activation of transcription factor activity",
+      "positive regulation of thyroid hormone receptor activity",
+      "stimulation of transcription factor activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of activity of a transcription factor, any factor involved in the initiation or regulation of transcription.",
+  "namespace": "biological_process",
+  "label": "positive regulation of DNA-binding transcription factor activity"
+}

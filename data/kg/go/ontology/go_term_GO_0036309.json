@@ -1,0 +1,37 @@
+{
+  "id": "GO:0036309",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036309",
+  "relationships": {
+    "is_a": [
+      "GO:0033365"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular protein localization to M-band",
+      "protein localization to M disc",
+      "protein localization to mesophragma"
+    ],
+    "broad": [],
+    "narrow": [
+      "protein localization to M line"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "rl",
+      "rl",
+      "rl",
+      "rl",
+      "rl"
+    ],
+    "PMID": [
+      "18782775"
+    ]
+  },
+  "definition": "Any process in which a protein is transported to, and/or maintained in, the M band. The M band is the midline of aligned thick filaments in a sarcomere.",
+  "namespace": "biological_process",
+  "label": "protein localization to M-band"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0098703",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098703",
+  "relationships": {
+    "is_a": [
+      "GO:0070509",
+      "GO:0097553",
+      "GO:0098659",
+      "GO:1902656"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "calcium ion import into cell",
+      "calcium ion uptake into cell"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dos",
+      "vw"
+    ]
+  },
+  "definition": "The directed movement of calcium ions from outside of a cell, across the plasma membrane and into the cytosol.",
+  "namespace": "biological_process",
+  "label": "calcium ion import across plasma membrane"
+}

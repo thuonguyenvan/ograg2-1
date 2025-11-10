@@ -1,0 +1,31 @@
+{
+  "id": "GO:0035450",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035450",
+  "relationships": {
+    "is_a": [
+      "GO:0035449",
+      "GO:0035453"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "extrinsic to lumenal leaflet of plastid thylakoid membrane",
+      "peripheral to lumenal side of plastid thylakoid membrane"
+    ],
+    "broad": [],
+    "narrow": [
+      "extrinsic to lumenal side of plastid thylakoid membrane"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "dos",
+      "ab"
+    ]
+  },
+  "definition": "The component of a plastid thylakoid membrane consisting of gene products and protein complexes that are loosely bound to its lumenal surface, but not integrated into the hydrophobic region.",
+  "namespace": "cellular_component",
+  "label": "extrinsic component of lumenal side of plastid thylakoid membrane"
+}

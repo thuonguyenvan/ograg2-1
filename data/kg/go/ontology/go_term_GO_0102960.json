@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102960",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102960",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.295",
+      "1.1.1.295"
+    ],
+    "MetaCyc": [
+      "RXN-9290"
+    ],
+    "RHEA": [
+      "25363"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3beta-hydroxy-9beta-pimara-7,15-diene-19,6beta-olide + NAD(P) = momilactone A + H+ + NAD(P)H.",
+  "namespace": "molecular_function",
+  "label": "momilactone-A synthase [NAD(P)H] activity"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0052842",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052842",
+  "relationships": {
+    "is_a": [
+      "GO:0008486"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1855198",
+      "R-HSA-2023971"
+    ],
+    "PMID": [
+      "10827188",
+      "11502751"
+    ]
+  },
+  "definition": "Catalysis of the reaction: diphospho-1D-myo-inositol pentakisphosphate + H2O = 1D-myo-inositol hexakisphosphate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "1/3 PP-IP5 is dephosphorylated to IP6 by NUDT(1) in the cytosol"
+}

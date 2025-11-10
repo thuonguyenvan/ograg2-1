@@ -1,0 +1,32 @@
+{
+  "id": "GO:1990014",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990014",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "orthogonal array of particles"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "OAP",
+      "square array"
+    ]
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1747012216",
+      "sao1747012216"
+    ],
+    "PMID": [
+      "22718347"
+    ]
+  },
+  "definition": "Square array of closely spaced intramembrane particles, 4-6 nm in size, that form supramolecular aggregates found in the plasma membrane of astrocytes, skeletal muscle and epithelial cells. They have been shown to contain aquaporins (water channels).",
+  "namespace": "cellular_component",
+  "label": "orthogonal array"
+}

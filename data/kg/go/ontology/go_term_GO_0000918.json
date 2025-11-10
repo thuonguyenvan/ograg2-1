@@ -1,0 +1,31 @@
+{
+  "id": "GO:0000918",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000918",
+  "relationships": {
+    "is_a": [
+      "GO:0032506"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "selection of site for barrier cell septum biosynthesis",
+      "selection of site for barrier cell septum formation",
+      "selection of site for division septum formation",
+      "septum positioning"
+    ],
+    "broad": [
+      "septin assembly and septum biosynthesis",
+      "septin assembly and septum formation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "clt"
+    ]
+  },
+  "definition": "The process of marking the site where a division septum will form.",
+  "namespace": "biological_process",
+  "label": "division septum site selection"
+}

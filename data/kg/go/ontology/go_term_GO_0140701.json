@@ -1,0 +1,31 @@
+{
+  "id": "GO:0140701",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140701",
+  "relationships": {
+    "is_a": [
+      "GO:0140699"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3&apos;,3&apos; cyclic-GAMP synthase activity",
+      "3&apos;,3&apos; cyclic-GMP-AMP synthase activity",
+      "3&apos;,3&apos;-cyclic GAMP synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "35647",
+      "35647"
+    ],
+    "PMID": [
+      "30787435"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + GTP = 2 diphosphate + cyclic G-P(3&apos;-5&apos;)A-P(3&apos;-5&apos;) (cyclic 3&apos;,3&apos; GAMP).",
+  "namespace": "molecular_function",
+  "label": "3&apos;,3&apos;-cyclic GMP-AMP synthase activity"
+}

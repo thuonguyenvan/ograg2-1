@@ -1,0 +1,43 @@
+{
+  "id": "GO:0009035",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009035",
+  "relationships": {
+    "is_a": [
+      "GO:0015616",
+      "GO:0015666",
+      "GO:0016888"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "type I restriction enzyme activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP-dependent DNase activity",
+      "adenosine triphosphate-dependent deoxyribonuclease activity",
+      "deoxyribonuclease (ATP- and S-adenosyl-L-methionine-dependent)",
+      "deoxyribonuclease (adenosine triphosphate-hydrolyzing)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.21.3",
+      "3.1.21.3",
+      "3.1.21.3",
+      "3.1.21.3",
+      "3.1.21.3"
+    ],
+    "MetaCyc": [
+      "3.1.21.3-RXN"
+    ],
+    "PMID": [
+      "15300241",
+      "15788748"
+    ]
+  },
+  "definition": "Catalysis of the endonucleolytic cleavage of DNA to give random double-stranded fragments with terminal 5&apos; or 3&apos; protrusions, driven by ATP hydrolysis. Cleavage is dependent on the presence in the DNA of a specific recognition site. Cleavage may occur hundreds or thousands of base pairs away from the recognition site due to translocation of DNA.",
+  "namespace": "molecular_function",
+  "label": "type I site-specific deoxyribonuclease activity"
+}

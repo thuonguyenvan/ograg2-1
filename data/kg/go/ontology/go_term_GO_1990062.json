@@ -1,0 +1,30 @@
+{
+  "id": "GO:1990062",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990062",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "R2TP/prefoldin-like complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "pr"
+    ],
+    "PMID": [
+      "20453924",
+      "21925213",
+      "22418846"
+    ]
+  },
+  "definition": "A protein complex first characterized in human and comprised of a R2TP module (R2TP complex), a prefoldin-like module (containing both prefoldin-like proteins and canonical prefoldins), WD40 repeat protein Monad/WDR92 and DNA-dependent RNA polymerase subunit RPB5. This complex might have chaperone activity.",
+  "namespace": "cellular_component",
+  "label": "RPAP3/R2TP/prefoldin-like complex"
+}

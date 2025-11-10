@@ -1,0 +1,32 @@
+{
+  "id": "GO:0009695",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009695",
+  "relationships": {
+    "is_a": [
+      "GO:0009694",
+      "GO:0042759"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "jasmonic acid anabolism",
+      "jasmonic acid biosynthesis",
+      "jasmonic acid formation",
+      "jasmonic acid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-735"
+    ],
+    "PMID": [
+      "33821356"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of jasmonic acid, a fatty acid derivative.",
+  "namespace": "biological_process",
+  "label": "jasmonic acid biosynthetic process"
+}

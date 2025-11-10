@@ -1,0 +1,37 @@
+{
+  "id": "GO:0018580",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018580",
+  "relationships": {
+    "is_a": [
+      "GO:0016703"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nitronate:oxygen 2-oxidoreductase (nitrite-forming) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-nitropropane dioxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.12.16",
+      "1.13.12.16",
+      "1.13.12.16",
+      "1.13.12.16"
+    ],
+    "MetaCyc": [
+      "2-NITROPROPANE-DIOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "28767",
+      "28767"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ethylnitronate + O2 = acetaldehyde + nitrite.",
+  "namespace": "molecular_function",
+  "label": "nitronate monooxygenase activity"
+}

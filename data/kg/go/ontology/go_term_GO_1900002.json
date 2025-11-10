@@ -1,0 +1,41 @@
+{
+  "id": "GO:1900002",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900002",
+  "relationships": {
+    "is_a": [
+      "GO:0009896",
+      "GO:0031539",
+      "GO:1900000"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of anthocyanin breakdown",
+      "positive regulation of anthocyanin catabolism",
+      "positive regulation of anthocyanin degradation",
+      "up regulation of anthocyanin breakdown",
+      "up regulation of anthocyanin catabolism",
+      "up regulation of anthocyanin degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "up regulation of anthocyanin catabolic process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of anthocyanin catabolic process.",
+  "namespace": "biological_process",
+  "label": "positive regulation of anthocyanin catabolic process"
+}

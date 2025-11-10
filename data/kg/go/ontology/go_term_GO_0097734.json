@@ -1,0 +1,35 @@
+{
+  "id": "GO:0097734",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097734",
+  "relationships": {
+    "is_a": [
+      "GO:0140112"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "exosome assembly or secretion",
+      "exosome biogenesis",
+      "exosome production"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ILV assembly",
+      "intraluminal vesicle assembly"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf"
+    ],
+    "PMID": [
+      "19442504",
+      "25392495"
+    ]
+  },
+  "definition": "The assembly and secretion of an extracellular exosome, a membrane-bounded vesicle that is released into the extracellular region by fusion of the limiting endosomal membrane of a multivesicular body with the plasma membrane.",
+  "namespace": "biological_process",
+  "label": "extracellular exosome biogenesis"
+}

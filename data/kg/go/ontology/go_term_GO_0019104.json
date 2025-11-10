@@ -1,0 +1,57 @@
+{
+  "id": "GO:0019104",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019104",
+  "relationships": {
+    "is_a": [
+      "GO:0016799",
+      "GO:0140097"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA glycosylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "endonuclease VIII activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-110218",
+      "R-HSA-110219",
+      "R-HSA-110231",
+      "R-HSA-110232",
+      "R-HSA-110234",
+      "R-HSA-110246",
+      "R-HSA-110248",
+      "R-HSA-110250",
+      "R-HSA-110251",
+      "R-HSA-5220959",
+      "R-HSA-5221061",
+      "R-HSA-5649658",
+      "R-HSA-5649664",
+      "R-HSA-5649673",
+      "R-HSA-5649681",
+      "R-HSA-9629149",
+      "R-HSA-9629216",
+      "R-HSA-9629470",
+      "R-HSA-9629483",
+      "R-HSA-9629492",
+      "R-HSA-9629497",
+      "R-HSA-9629499",
+      "R-HSA-9635996",
+      "R-HSA-9636008"
+    ],
+    "GOC": [
+      "elh"
+    ],
+    "PMID": [
+      "11554296"
+    ]
+  },
+  "definition": "Catalysis of the removal of damaged bases by cleaving the N-C1&apos; glycosidic bond between the target damaged DNA base and the deoxyribose sugar. The reaction releases a free base and leaves an apurinic/apyrimidinic (AP) site.",
+  "namespace": "molecular_function",
+  "label": "NEIL3 resolves abasic site-induced ICLs"
+}

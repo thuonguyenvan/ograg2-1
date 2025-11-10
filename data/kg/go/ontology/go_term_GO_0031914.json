@@ -1,0 +1,29 @@
+{
+  "id": "GO:0031914",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031914",
+  "relationships": {
+    "is_a": [
+      "GO:0048167"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of synaptic plasticity",
+      "down-regulation of synaptic plasticity",
+      "downregulation of synaptic plasticity"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of synaptic plasticity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A process that decreases synaptic plasticity, the ability of synapses to change as circumstances require. They may alter function, such as increasing or decreasing their sensitivity, or they may increase or decrease in actual numbers.",
+  "namespace": "biological_process",
+  "label": "negative regulation of synaptic plasticity"
+}

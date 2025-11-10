@@ -1,0 +1,42 @@
+{
+  "id": "GO:0008882",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008882",
+  "relationships": {
+    "is_a": [
+      "GO:0070566"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP:[glutamate-ammonia-ligase] adenylyltransferase activity",
+      "glutamate-ammonia-ligase adenylyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:L-glutamate:ammonia ligase (ADP-forming) adenylyltransferase activity",
+      "ATP:glutamine synthetase adenylyltransferase activity",
+      "adenosine triphosphate:glutamine synthetase adenylyltransferase activity",
+      "glutamine-synthetase adenylyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.42",
+      "2.7.7.42",
+      "2.7.7.42",
+      "2.7.7.42",
+      "2.7.7.42",
+      "2.7.7.42"
+    ],
+    "MetaCyc": [
+      "GSADENYLATION-RXN"
+    ],
+    "RHEA": [
+      "18589"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + [L-glutamate:ammonia ligase (ADP-forming)] = diphosphate + adenylyl-[L-glutamate:ammonia ligase (ADP-forming)].",
+  "namespace": "molecular_function",
+  "label": "[glutamate-ammonia-ligase] adenylyltransferase activity"
+}

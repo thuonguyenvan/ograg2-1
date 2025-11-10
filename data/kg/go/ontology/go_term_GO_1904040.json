@@ -1,0 +1,52 @@
+{
+  "id": "GO:1904040",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904040",
+  "relationships": {
+    "is_a": [
+      "GO:0034761",
+      "GO:1904038"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "activation of ferrous iron export",
+      "activation of iron(2+) export",
+      "positive regulation of ferrous iron export",
+      "positive regulation of iron(2+) export",
+      "up regulation of ferrous iron export",
+      "up regulation of iron(2+) export",
+      "up-regulation of ferrous iron export",
+      "up-regulation of iron(2+) export",
+      "upregulation of ferrous iron export",
+      "upregulation of iron(2+) export"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "kom",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "15514116"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of export of iron ions from inside of a cell, across the plasma membrane and into the extracellular region.",
+  "namespace": "biological_process",
+  "label": "positive regulation of iron export across plasma membrane"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0015043",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015043",
+  "relationships": {
+    "is_a": [
+      "GO:0016653"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "leghemoglobin reductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NAD(P)H:ferrileghemoglobin oxidoreductase activity",
+      "ferric leghemoglobin reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.6.2.6",
+      "1.6.2.6",
+      "1.6.2.6",
+      "1.6.2.6"
+    ],
+    "MetaCyc": [
+      "LEGHEMOGLOBIN-REDUCTASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 Fe(III)-[leghemoglobin] + NAD(P)H = 2 Fe(II)-[leghemoglobin] + NAD(P)+ + H+.",
+  "namespace": "molecular_function",
+  "label": "leghemoglobin reductase [NAD(P)H] activity"
+}

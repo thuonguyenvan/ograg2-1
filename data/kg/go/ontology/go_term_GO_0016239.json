@@ -1,0 +1,38 @@
+{
+  "id": "GO:0016239",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016239",
+  "relationships": {
+    "is_a": [
+      "GO:0010508",
+      "GO:0016241"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of starvation-induced autophagy",
+      "up regulation of macroautophagy",
+      "up-regulation of macroautophagy",
+      "upregulation of macroautophagy"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of macroautophagy",
+      "stimulation of macroautophagy"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "ascb_2009",
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "9412464"
+    ]
+  },
+  "definition": "Any process, such as recognition of nutrient depletion, that activates or increases the rate of macroautophagy to bring cytosolic macromolecules to the vacuole/lysosome for degradation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of macroautophagy"
+}

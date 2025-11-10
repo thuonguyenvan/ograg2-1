@@ -1,0 +1,50 @@
+{
+  "id": "GO:1904808",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904808",
+  "relationships": {
+    "is_a": [
+      "GO:0031401",
+      "GO:1904806"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of protein amino acid oxidation",
+      "up regulation of protein amino acid oxidation",
+      "up regulation of protein oxidation",
+      "up-regulation of protein amino acid oxidation",
+      "up-regulation of protein oxidation",
+      "upregulation of protein amino acid oxidation",
+      "upregulation of protein oxidation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein amino acid oxidation",
+      "activation of protein oxidation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22719267"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of protein oxidation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein oxidation"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0016232",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016232",
+  "relationships": {
+    "is_a": [
+      "GO:0008146"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "HNK-1 sulphotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6786048",
+      "R-HSA-9940718"
+    ],
+    "PMID": [
+      "9478973"
+    ]
+  },
+  "definition": "Catalysis of the synthesis of the HKK-1 carbohydrate epitope; adds a sulfate group to a precursor, GlcA-beta-(1-&gt;3)-Gal-beta-(1-&gt;4)-GlcNAc-beta-(1-&gt;R), forming sulfo-3GlcA-beta-(1-&gt;3)-Gal-beta-(1-&gt;4)-GlcNAc-beta-(1-&gt;R).",
+  "namespace": "molecular_function",
+  "label": "CHST10 sulfates matriglycan chain"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0043754",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043754",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dihydrolipoamide branched chain transacylase activity",
+      "enzyme-dihydrolipoyllysine:2-methylpropanoyl-CoA S-(2-methylpropanoyl)transferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "dihydrolipoyllysine-residue (2-methylpropanoyl)transferase activity"
+    ],
+    "related": [
+      "2-methylpropanoyl-CoA:enzyme-6-N-(dihydrolipoyl)lysine:S-(2-methylpropanoyl)transferase activity",
+      "2-methylpropanoyl-CoA:enzyme-N6-(dihydrolipoyl)lysine:S-(2-methylpropanoyl)transferase activity",
+      "dihydrolipoyl transacylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.168",
+      "2.3.1.168",
+      "2.3.1.168",
+      "2.3.1.168",
+      "2.3.1.168"
+    ],
+    "MetaCyc": [
+      "2.3.1.168-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(6)-[(R)-dihydrolipoyl]-L-lysyl-[protein] + 2-methylpropanoyl-CoA = N(6)-[(R)-S(8)-2-methylpropanoyldihydrolipoyl]-L-lysyl-[protein] + CoA. In addition to transferring the 2-methylpropanoyl group when acting on the oxoacid corresponding with valine, this activity also transfers the 3-methylbutanoyl and S-2-methylbutanoyl groups when acting on the oxo acids corresponding with leucine and isoleucine.",
+  "namespace": "molecular_function",
+  "label": "dihydrolipoamide branched chain acyltransferase activity"
+}

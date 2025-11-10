@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015159",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015159",
+  "relationships": {
+    "is_a": [
+      "GO:0015144",
+      "GO:0022884"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9932121",
+      "R-HSA-9932466"
+    ],
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of polysaccharides from one side of a membrane to the other. A polysaccharide is a polymer of many (typically more than 10) monosaccharide residues linked glycosidically.",
+  "namespace": "molecular_function",
+  "label": "Bcs complex exports pEtN-cellulose"
+}

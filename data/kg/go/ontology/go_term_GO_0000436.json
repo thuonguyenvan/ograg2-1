@@ -1,0 +1,28 @@
+{
+  "id": "GO:0000436",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000436",
+  "relationships": {
+    "is_a": [
+      "GO:0000429",
+      "GO:0045944",
+      "GO:0045991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of transcription from RNA polymerase II promoter by carbon catabolites"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mah"
+    ]
+  },
+  "definition": "Any process involving carbon catabolites that activates or increases the frequency, rate or extent of transcription from an RNA polymerase II promoter.",
+  "namespace": "biological_process",
+  "label": "carbon catabolite activation of transcription from RNA polymerase II promoter"
+}

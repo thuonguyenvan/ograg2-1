@@ -1,0 +1,41 @@
+{
+  "id": "GO:0043138",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043138",
+  "relationships": {
+    "is_a": [
+      "GO:0003678"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3&apos; to 5&apos; DNA helicase activity",
+      "ATP-dependent 3&apos; to 5&apos; DNA helicase activity",
+      "ATP-dependent 3&apos;-5&apos; DNA helicase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.6.2.4",
+      "5.6.2.4"
+    ],
+    "Reactome": [
+      "R-HSA-167097",
+      "R-HSA-174438",
+      "R-HSA-75949",
+      "R-HSA-9613490",
+      "R-HSA-9613494",
+      "R-HSA-9613497",
+      "R-HSA-9613498",
+      "R-HSA-9684118"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Unwinding a DNA helix in the direction 5&apos; to 3&apos;, driven by ATP hydrolysis.",
+  "namespace": "molecular_function",
+  "label": "ERCC3-facilitated RNA Pol II backtracking in TC-NER"
+}

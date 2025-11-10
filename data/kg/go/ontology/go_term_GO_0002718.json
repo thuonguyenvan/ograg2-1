@@ -1,0 +1,30 @@
+{
+  "id": "GO:0002718",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002718",
+  "relationships": {
+    "is_a": [
+      "GO:0001817",
+      "GO:0002700"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "regulation of cytokine biosynthetic process involved in immune response",
+      "regulation of cytokine secretion involved in immune response"
+    ],
+    "related": [
+      "regulation of cytokine production during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "dph"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate, or extent of cytokine production that contributes to an immune response.",
+  "namespace": "biological_process",
+  "label": "regulation of cytokine production involved in immune response"
+}

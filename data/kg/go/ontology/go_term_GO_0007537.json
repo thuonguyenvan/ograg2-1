@@ -1,0 +1,27 @@
+{
+  "id": "GO:0007537",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007537",
+  "relationships": {
+    "is_a": [
+      "GO:0007535",
+      "GO:0045910"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "9928492"
+    ]
+  },
+  "definition": "The inactivation of recombination at sequences around a mating type donor locus, with the consequence that the other donor is the only one available for mating type switching; exemplified by the HML locus and surrounding sequences on Chromosome III in Saccharomyces cerevisiae.",
+  "namespace": "biological_process",
+  "label": "inactivation of recombination (HML)"
+}

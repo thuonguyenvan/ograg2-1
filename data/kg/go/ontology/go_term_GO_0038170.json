@@ -1,0 +1,45 @@
+{
+  "id": "GO:0038170",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038170",
+  "relationships": {
+    "is_a": [
+      "GO:0009755",
+      "GO:0038169"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SRIF signaling pathway",
+      "SST signaling pathway",
+      "somatostatin signalling pathway",
+      "somatostatin-activated somatostatin receptor signaling pathway",
+      "somatostatin-mediated signaling pathway",
+      "somatotrophin release inhibiting factor signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "nhn",
+      "signaling",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "18006219"
+    ],
+    "Wikipedia": [
+      "Somatostatin",
+      "Somatostatin",
+      "Somatostatin",
+      "Somatostatin"
+    ]
+  },
+  "definition": "A G protein-coupled receptor signaling pathway initiated by somatostatin binding to a somatostatin receptor (SSTR), and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "somatostatin signaling pathway"
+}

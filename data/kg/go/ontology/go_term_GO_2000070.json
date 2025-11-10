@@ -1,0 +1,33 @@
+{
+  "id": "GO:2000070",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000070",
+  "relationships": {
+    "is_a": [
+      "GO:0080134"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of response to dehydration",
+      "regulation of response to drought",
+      "regulation of response to thirst"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of drought tolerance"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of response to water deprivation.",
+  "namespace": "biological_process",
+  "label": "regulation of response to water deprivation"
+}

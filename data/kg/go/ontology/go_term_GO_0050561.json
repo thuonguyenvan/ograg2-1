@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050561",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050561",
+  "relationships": {
+    "is_a": [
+      "GO:0004812"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glutamate-tRNAGln ligase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-glutamate:tRNAGlx ligase (AMP-forming)",
+      "nondiscriminating glutamyl-tRNA synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.1.1.24",
+      "6.1.1.24",
+      "6.1.1.24",
+      "6.1.1.24"
+    ],
+    "MetaCyc": [
+      "6.1.1.24-RXN",
+      "6.1.1.24-RXN"
+    ],
+    "RHEA": [
+      "18397"
+    ]
+  },
+  "definition": "Catalysis of the reaction: tRNA(Glx) + L-glutamate + ATP = glutamyl-tRNA(Glx) + diphosphate + AMP.",
+  "namespace": "molecular_function",
+  "label": "glutamate-tRNA(Gln) ligase activity"
+}

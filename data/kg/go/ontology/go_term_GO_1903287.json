@@ -1,0 +1,64 @@
+{
+  "id": "GO:1903287",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903287",
+  "relationships": {
+    "is_a": [
+      "GO:1901380",
+      "GO:1903286"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "down regulation of potassium import",
+      "down regulation of potassium ion import",
+      "down regulation of potassium ion uptake",
+      "down-regulation of potassium import",
+      "down-regulation of potassium ion import",
+      "down-regulation of potassium ion uptake",
+      "downregulation of potassium import",
+      "downregulation of potassium ion import",
+      "downregulation of potassium ion uptake",
+      "negative regulation of potassium import",
+      "negative regulation of potassium ion import",
+      "negative regulation of potassium ion uptake"
+    ],
+    "narrow": [
+      "inhibition of potassium import",
+      "inhibition of potassium ion import",
+      "inhibition of potassium ion uptake"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "mtg_cardiac_conduct_nov11",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "10636900"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of potassium ion import across the plasma membrane.",
+  "namespace": "biological_process",
+  "label": "negative regulation of potassium ion import across plasma membrane"
+}

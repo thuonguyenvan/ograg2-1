@@ -1,0 +1,49 @@
+{
+  "id": "GO:0047279",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047279",
+  "relationships": {
+    "is_a": [
+      "GO:0035250"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-Gal:sn-glycero-3-phosphoric acid 1-alpha-galactosyl-transferase activity",
+      "UDP-galactose:sn-glycerol-3-phosphate 1-alpha-D-galactosyltransferase activity",
+      "UDPgalactose:sn-glycerol-3-phosphate 1-alpha-D-galactosyltransferase activity",
+      "UDPgalactose:sn-glycerol-3-phosphate alpha-D-galactosyltransferase activity",
+      "glycerol 3-phosphate 1alpha-galactosyltransferase activity",
+      "isofloridoside-phosphate synthase activity",
+      "uridine diphosphogalactose-glycerol phosphate galactosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.96",
+      "2.4.1.96",
+      "2.4.1.96",
+      "2.4.1.96",
+      "2.4.1.96",
+      "2.4.1.96",
+      "2.4.1.96",
+      "2.4.1.96",
+      "2.4.1.96"
+    ],
+    "KEGG_REACTION": [
+      "R00854"
+    ],
+    "MetaCyc": [
+      "2.4.1.96-RXN"
+    ],
+    "RHEA": [
+      "20341",
+      "20341"
+    ]
+  },
+  "definition": "Catalysis of the reaction: sn-glycerol 3-phosphate + UDP-D-galactose = 1-O-alpha-D-galactosyl-sn-glycerol 3-phosphate + H+ + UDP.",
+  "namespace": "molecular_function",
+  "label": "sn-glycerol-3-phosphate 1-galactosyltransferase activity"
+}

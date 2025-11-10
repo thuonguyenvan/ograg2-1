@@ -1,0 +1,32 @@
+{
+  "id": "GO:0071665",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071665",
+  "relationships": {
+    "is_a": [
+      "GO:0071664"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "gamma-catenin-TCF4 complex",
+      "plakoglobin-TCF4 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "vk",
+      "mah"
+    ],
+    "PMID": [
+      "14661054",
+      "14661054"
+    ]
+  },
+  "definition": "A protein complex that contains gamma-catenin and TCF7L2 (TCF4), binds to the TCF DNA motif within a promoter element, and is involved in the regulation of WNT target gene transcription.",
+  "namespace": "cellular_component",
+  "label": "gamma-catenin-TCF7L2 complex"
+}

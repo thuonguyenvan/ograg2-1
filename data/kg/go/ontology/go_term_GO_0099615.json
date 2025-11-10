@@ -1,0 +1,37 @@
+{
+  "id": "GO:0099615",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099615",
+  "relationships": {
+    "is_a": [
+      "GO:0051990"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(D)-2-hydroxyglutarate-pyruvate transhydrogenase activity",
+      "D-2HG-pyruvate transhydrogenase activity",
+      "R-2-hydroxyglutarate alpha-pyruvate transhydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.99.40"
+    ],
+    "MetaCyc": [
+      "RXN-18432"
+    ],
+    "RHEA": [
+      "51608",
+      "51608"
+    ],
+    "PMID": [
+      "26774271"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-2-hydroxyglutarate + pyruvate = (R)-lactate + 2-oxoglutarate.",
+  "namespace": "molecular_function",
+  "label": "(R)-2-hydroxyglutarate-pyruvate transhydrogenase activity"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047917",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047917",
+  "relationships": {
+    "is_a": [
+      "GO:0015926"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GDP-glucose glucohydrolase activity",
+      "GDPglucose glucohydrolase activity",
+      "GDPglucosidase activity",
+      "guanosine diphosphate D-glucose glucohydrolase activity",
+      "guanosine diphosphoglucosidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.42",
+      "3.2.1.42",
+      "3.2.1.42",
+      "3.2.1.42",
+      "3.2.1.42",
+      "3.2.1.42",
+      "3.2.1.42"
+    ],
+    "KEGG_REACTION": [
+      "R00337"
+    ],
+    "MetaCyc": [
+      "GDP-GLUCOSIDASE-RXN"
+    ],
+    "RHEA": [
+      "15049",
+      "15049"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GDP-D-glucose + H2O = D-glucose + GDP + H+.",
+  "namespace": "molecular_function",
+  "label": "GDP-glucosidase activity"
+}

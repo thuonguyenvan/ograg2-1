@@ -1,0 +1,32 @@
+{
+  "id": "GO:0097190",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097190",
+  "relationships": {
+    "is_a": [
+      "GO:0007165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "apoptotic signalling pathway",
+      "induction of apoptosis by extracellular signals"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-193681",
+      "R-HSA-204998",
+      "R-HSA-75157"
+    ],
+    "GOC": [
+      "mtg_apoptosis",
+      "mah"
+    ]
+  },
+  "definition": "The series of molecular signals which triggers the apoptotic death of a cell. The pathway starts with reception of a signal, and ends when the execution phase of apoptosis is triggered.",
+  "namespace": "biological_process",
+  "label": "FasL/ CD95L signaling"
+}

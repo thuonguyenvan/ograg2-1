@@ -1,0 +1,35 @@
+{
+  "id": "GO:0007347",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007347",
+  "relationships": {
+    "is_a": [
+      "GO:0009794"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "modulation of preblastoderm mitotic cell cycle progression",
+      "preblastoderm mitotic cell cycle modulation",
+      "preblastoderm mitotic cell cycle regulation",
+      "regulation of preblastoderm mitotic cell cycle progression",
+      "regulation of progression through preblastoderm mitotic cell cycle"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "preblastoderm mitotic cell cycle regulator"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "go_curators",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "A cell cycle process that modulates the rate or extent of the progression through the preblastoderm mitotic cell cycle.",
+  "namespace": "biological_process",
+  "label": "regulation of preblastoderm mitotic cell cycle"
+}

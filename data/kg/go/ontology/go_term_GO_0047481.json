@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047481",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047481",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-alanine-membrane acceptor-ligase activity",
+      "D-alanine:alanyl-poly(glycerolphosphate) ligase (ADP-forming)",
+      "D-alanine:membrane-acceptor ligase activity",
+      "D-alanyl-alanyl-poly(glycerolphosphate) synthetase activity",
+      "D-alanyl-poly(phosphoglycerol) synthetase activity",
+      "D-alanylalanylpoly(phosphoglycerol) synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.16",
+      "6.3.2.16",
+      "6.3.2.16",
+      "6.3.2.16",
+      "6.3.2.16",
+      "6.3.2.16",
+      "6.3.2.16",
+      "6.3.2.16"
+    ],
+    "MetaCyc": [
+      "6.3.2.16-RXN",
+      "6.3.2.16-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alanyl-poly(glycerolphosphate) + D-alanine + ATP = D-alanyl-alanyl-poly(glycerolphosphate) + phosphate + ADP.",
+  "namespace": "molecular_function",
+  "label": "D-alanine-alanyl-poly(glycerolphosphate) ligase activity"
+}

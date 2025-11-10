@@ -1,0 +1,33 @@
+{
+  "id": "GO:0062011",
+  "uri": "http://purl.obolibrary.org/obo/GO_0062011",
+  "relationships": {
+    "is_a": [
+      "GO:0098800",
+      "GO:0101031"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "COX1 preassemply complex"
+    ],
+    "broad": [
+      "COX pre-assemply complex"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "lnp",
+      "lnp",
+      "lnp"
+    ],
+    "PMID": [
+      "21068384"
+    ]
+  },
+  "definition": "A protein complex that contributes to and regulates mitochondrial respiratory chain complex IV (COX) formation. It acts by regulating mitochondrial COX1 translation and by promoting the assembly of COX components.",
+  "namespace": "cellular_component",
+  "label": "mitochondrial respiratory chain complex IV pre-assembly complex"
+}

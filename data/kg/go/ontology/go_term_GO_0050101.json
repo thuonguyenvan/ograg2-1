@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050101",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050101",
+  "relationships": {
+    "is_a": [
+      "GO:0016843"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "mimosine amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.3.8"
+    ],
+    "KEGG_REACTION": [
+      "R04350"
+    ],
+    "MetaCyc": [
+      "MIMOSINASE-RXN"
+    ],
+    "RHEA": [
+      "75355",
+      "75355"
+    ],
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-mimosine + H2O = 3-hydroxy-4H-pyrid-4-one + L-serine.",
+  "namespace": "molecular_function",
+  "label": "mimosinase activity"
+}

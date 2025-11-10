@@ -1,0 +1,29 @@
+{
+  "id": "GO:0071906",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071906",
+  "relationships": {
+    "is_a": [
+      "GO:0019904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "context dependent regulatory domain binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "yaf",
+      "mah"
+    ],
+    "PMID": [
+      "19460168"
+    ]
+  },
+  "definition": "Binding to a CRD (context dependent regulatory) domain, a domain of about 130 residues that is the most divergent region among the LEF/TCF proteins.",
+  "namespace": "molecular_function",
+  "label": "CRD domain binding"
+}

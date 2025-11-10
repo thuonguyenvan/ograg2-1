@@ -1,0 +1,70 @@
+{
+  "id": "GO:0004653",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004653",
+  "relationships": {
+    "is_a": [
+      "GO:0008376",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-GalNAc:polypeptide N-acetylgalactosaminyl transferase activity",
+      "UDP-GalNAc:polypeptide N-acetylgalactosaminyltransferase activity",
+      "UDP-N-acetyl-D-galactosamine:polypeptide N-acetylgalactosaminyl-transferase activity",
+      "UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase activity",
+      "UDP-N-acetylgalactosamine-glycoprotein N-acetylgalactosaminyltransferase activity",
+      "UDP-N-acetylgalactosamine-protein N-acetylgalactosaminyltransferase activity",
+      "UDP-N-acetylgalactosamine:kappa-casein polypeptide N-acetylgalactosaminyltransferase activity",
+      "UDP-N-acetylgalactosamine:polypeptide N-acetylgalactosaminyltransferase activity",
+      "UDP-N-acetylgalactosamine:protein N-acetylgalactosaminyl transferase activity",
+      "UDP-acetylgalactosamine-glycoprotein acetylgalactosaminyltransferase activity",
+      "UDP-acetylgalactosamine:peptide-N-galactosaminyltransferase activity",
+      "glycoprotein acetylgalactosaminyltransferase activity",
+      "polypeptide-N-acetylgalactosamine transferase activity",
+      "protein-UDP acetylgalactosaminyltransferase activity",
+      "uridine diphosphoacetylgalactosamine-glycoprotein acetylgalactosaminyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.41",
+      "2.4.1.41",
+      "2.4.1.41",
+      "2.4.1.41",
+      "2.4.1.41",
+      "2.4.1.41",
+      "2.4.1.41",
+      "2.4.1.41",
+      "2.4.1.41",
+      "2.4.1.41",
+      "2.4.1.41",
+      "2.4.1.41",
+      "2.4.1.41",
+      "2.4.1.41",
+      "2.4.1.41",
+      "2.4.1.41",
+      "2.4.1.41"
+    ],
+    "MetaCyc": [
+      "2.4.1.41-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-5096532",
+      "R-HSA-5096537",
+      "R-HSA-8851619",
+      "R-HSA-913675",
+      "R-HSA-9683760",
+      "R-HSA-9694438"
+    ],
+    "ISBN": [
+      "0879695595"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-N-acetyl-D-galactosamine + polypeptide = UDP + N-acetyl-D-galactosaminyl-polypeptide. This reaction is the modification of serine or threonine residues in polypeptide chains by the transfer of a N-acetylgalactose from UDP-N-acetylgalactose to the hydroxyl group of the amino acid; it is the first step in O-glycan biosynthesis.",
+  "namespace": "molecular_function",
+  "label": "GalNAc is transferred onto 3a"
+}

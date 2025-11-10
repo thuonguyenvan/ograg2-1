@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047286",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047286",
+  "relationships": {
+    "is_a": [
+      "GO:0016763"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NAD-diphthamide ADP-ribosyltransferase activity"
+    ],
+    "broad": [
+      "ADP-ribosyltransferase activity",
+      "mono(ADP-ribosyl)transferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "NAD+:peptide-diphthamide N-(ADP-D-ribosyl)transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.36",
+      "2.4.2.36",
+      "2.4.2.36",
+      "2.4.2.36",
+      "2.4.2.36"
+    ],
+    "MetaCyc": [
+      "RXN-11372"
+    ],
+    "RHEA": [
+      "11820"
+    ],
+    "Reactome": [
+      "R-HSA-5336421"
+    ]
+  },
+  "definition": "Catalysis of the reaction: peptide diphthamide + NAD+ = peptide N-(ADP-D-ribosyl)diphthamide + niacinamide.",
+  "namespace": "molecular_function",
+  "label": "DT fragment A ADP-ribosylates target cell EEF"
+}

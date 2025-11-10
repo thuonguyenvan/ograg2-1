@@ -1,0 +1,33 @@
+{
+  "id": "GO:0006705",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006705",
+  "relationships": {
+    "is_a": [
+      "GO:0008212",
+      "GO:0042446",
+      "GO:0120178"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mineralocorticoid anabolism",
+      "mineralocorticoid biosynthesis",
+      "mineralocorticoid formation",
+      "mineralocorticoid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-193993"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of mineralocorticoids, hormonal C21 corticosteroids synthesized from cholesterol.",
+  "namespace": "biological_process",
+  "label": "Mineralocorticoid biosynthesis"
+}

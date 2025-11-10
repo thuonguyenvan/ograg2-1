@@ -1,0 +1,33 @@
+{
+  "id": "GO:0051620",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051620",
+  "relationships": {
+    "is_a": [
+      "GO:0015874",
+      "GO:0090493"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "levarterenol reuptake",
+      "levarterenol uptake",
+      "noradrenaline reuptake",
+      "noradrenaline uptake",
+      "norepinephrine import",
+      "norepinephrine reuptake"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The directed movement of norepinephrine into a cell, typically presynaptic neurons or glial cells. Norepinephrine (3,4-dihydroxyphenyl-2-aminoethanol) is a hormone secreted by the adrenal medulla and a neurotransmitter in the sympathetic peripheral nervous system and in some tracts of the CNS. It is also the biosynthetic precursor of epinephrine.",
+  "namespace": "biological_process",
+  "label": "norepinephrine uptake"
+}

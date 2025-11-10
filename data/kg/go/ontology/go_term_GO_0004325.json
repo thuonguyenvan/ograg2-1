@@ -1,0 +1,48 @@
+{
+  "id": "GO:0004325",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004325",
+  "relationships": {
+    "is_a": [
+      "GO:0016829"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ferro-protoporphyrin chelatase activity",
+      "protoheme ferro-lyase (protoporphyrin-forming)",
+      "protoheme ferro-lyase activity",
+      "protoheme ferrolyase activity"
+    ],
+    "broad": [
+      "heme synthase activity",
+      "heme synthetase activity",
+      "iron chelatase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.98.1.1",
+      "4.98.1.1",
+      "4.98.1.1",
+      "4.98.1.1"
+    ],
+    "KEGG_REACTION": [
+      "R00310"
+    ],
+    "MetaCyc": [
+      "PROTOHEMEFERROCHELAT-RXN"
+    ],
+    "RHEA": [
+      "22584",
+      "22584"
+    ],
+    "Reactome": [
+      "R-HSA-189465"
+    ]
+  },
+  "definition": "Catalysis of the reaction: heme B (protoheme) + H+ = Fe(2+) + protoporphyrin IX.",
+  "namespace": "molecular_function",
+  "label": "FECH binds Fe2+ to PRIN9 to form heme"
+}

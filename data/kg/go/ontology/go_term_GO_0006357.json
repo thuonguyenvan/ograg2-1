@@ -1,0 +1,35 @@
+{
+  "id": "GO:0006357",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006357",
+  "relationships": {
+    "is_a": [
+      "GO:0006355"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of transcription from Pol II promoter",
+      "regulation of transcription from RNA polymerase II promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "global transcription regulation from Pol II promoter",
+      "regulation of gene-specific transcription from RNA polymerase II promoter",
+      "regulation of global transcription from Pol II promoter",
+      "regulation of transcription from RNA polymerase II promoter, global"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8864260"
+    ],
+    "GOC": [
+      "go_curators",
+      "txnOH"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of transcription mediated by RNA polymerase II.",
+  "namespace": "biological_process",
+  "label": "Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors"
+}

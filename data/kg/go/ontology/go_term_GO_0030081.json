@@ -1,0 +1,27 @@
+{
+  "id": "GO:0030081",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030081",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LH3 complex",
+      "light harvesting complex III"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "kd",
+      "lr"
+    ]
+  },
+  "definition": "Protein-pigment complex that absorbs light at 800 and 820 nm; is peripherally associated to the bacterial reaction center; transfers excitation energy to the B875 antenna complex.",
+  "namespace": "cellular_component",
+  "label": "B800-820 antenna complex"
+}

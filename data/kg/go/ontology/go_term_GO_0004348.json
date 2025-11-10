@@ -1,0 +1,62 @@
+{
+  "id": "GO:0004348",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004348",
+  "relationships": {
+    "is_a": [
+      "GO:0017042"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-glucosyl-N-acylsphingosine glucohydrolase activity",
+      "GlcCer-beta-glucosidase activity",
+      "acid beta-glucosidase activity",
+      "beta-D-glucocerebrosidase activity",
+      "beta-glucocerebrosidase activity",
+      "beta-glucosylceramidase activity",
+      "ceramide glucosidase activity",
+      "glucocerebrosidase activity",
+      "glucosphingosine glucosylhydrolase activity",
+      "glucosylcerebrosidase activity",
+      "glucosylsphingosine beta-D-glucosidase activity",
+      "glucosylsphingosine beta-glucosidase activity",
+      "psychosine hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.45",
+      "3.2.1.45",
+      "3.2.1.45",
+      "3.2.1.45",
+      "3.2.1.45",
+      "3.2.1.45",
+      "3.2.1.45",
+      "3.2.1.45",
+      "3.2.1.45",
+      "3.2.1.45",
+      "3.2.1.45",
+      "3.2.1.45",
+      "3.2.1.45",
+      "3.2.1.45",
+      "3.2.1.45"
+    ],
+    "MetaCyc": [
+      "GLUCOSYLCERAMIDASE-RXN"
+    ],
+    "RHEA": [
+      "13269"
+    ],
+    "Reactome": [
+      "R-HSA-1605591",
+      "R-HSA-1861788",
+      "R-HSA-1861789"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-glucosyl-N-acylsphingosine + H2O = D-glucose + N-acylsphingosine.",
+  "namespace": "molecular_function",
+  "label": "GBA3 hydrolyzes GlcCer (cytosol)"
+}

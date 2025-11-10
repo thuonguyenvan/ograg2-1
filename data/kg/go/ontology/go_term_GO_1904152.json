@@ -1,0 +1,38 @@
+{
+  "id": "GO:1904152",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904152",
+  "relationships": {
+    "is_a": [
+      "GO:0070861"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of protein dislocation from ER",
+      "regulation of protein retrotranslocation from ER",
+      "regulation of retrograde protein transport, endoplasmic reticulum to cytosol"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "bf",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "18555783"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of retrograde protein transport, ER to cytosol.",
+  "namespace": "biological_process",
+  "label": "regulation of retrograde protein transport, ER to cytosol"
+}

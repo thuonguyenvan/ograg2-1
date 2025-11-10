@@ -1,0 +1,31 @@
+{
+  "id": "GO:0043518",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043518",
+  "relationships": {
+    "is_a": [
+      "GO:0043516",
+      "GO:1901797"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of DNA damage response, signal transduction by p53 class mediator",
+      "down-regulation of DNA damage response, signal transduction by p53 class mediator",
+      "downregulation of DNA damage response, signal transduction by p53 class mediator",
+      "negative regulation of p53 induced by DNA damage response"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of DNA damage response, signal transduction by p53 class mediator"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the cascade of processes induced by the cell cycle regulator phosphoprotein p53, or an equivalent protein, in response to the detection of DNA damage.",
+  "namespace": "biological_process",
+  "label": "negative regulation of DNA damage response, signal transduction by p53 class mediator"
+}

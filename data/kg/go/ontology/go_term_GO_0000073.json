@@ -1,0 +1,25 @@
+{
+  "id": "GO:0000073",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000073",
+  "relationships": {
+    "is_a": [
+      "GO:0110100",
+      "GO:1903047"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sgd_curators",
+      "vw"
+    ]
+  },
+  "definition": "The release of duplicated mitotic spindle pole bodies (SPBs) that begins with the nucleation of microtubules from each SPB within the nucleus, leading to V-shaped spindle microtubules. Interpolar microtubules that elongate from each pole are interconnected, forming overlapping microtubules. Capturing and antiparallel sliding apart of microtubules promotes the initial separation of the SPB.",
+  "namespace": "biological_process",
+  "label": "initial mitotic spindle pole body separation"
+}

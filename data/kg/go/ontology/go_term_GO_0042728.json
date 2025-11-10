@@ -1,0 +1,34 @@
+{
+  "id": "GO:0042728",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042728",
+  "relationships": {
+    "is_a": [
+      "GO:0009056",
+      "GO:0042726"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "flavin-containing compound catabolic process breakdown",
+      "flavin-containing compound catabolic process degradation",
+      "flavin-containing compound catabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "riboflavin and derivative catabolic process",
+      "riboflavin and derivative catabolism",
+      "vitamin B2 and derivative catabolic process",
+      "vitamin B2 and derivative catabolism"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a flavin, any derivative of the dimethylisoalloxazine (7,8-dimethylbenzo[g]pteridine-2,4(3H,10H)-dione) skeleton, with a substituent on the 10 position.",
+  "namespace": "biological_process",
+  "label": "flavin-containing compound catabolic process"
+}

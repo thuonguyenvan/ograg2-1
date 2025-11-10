@@ -1,0 +1,60 @@
+{
+  "id": "GO:0004362",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004362",
+  "relationships": {
+    "is_a": [
+      "GO:0015038",
+      "GO:0016209",
+      "GO:0016668"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glutathione reductase activity",
+      "glutathione-disulfide reductase (NADP) activity",
+      "glutathione-disulfide reductase activity",
+      "glutathione-disulphide reductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GSH reductase activity",
+      "GSSG reductase activity",
+      "NADPH-GSSG reductase activity",
+      "NADPH-glutathione reductase activity",
+      "NADPH:oxidized-glutathione oxidoreductase activity",
+      "glutathione S-reductase activity",
+      "glutathione:NADP+ oxidoreductase activity",
+      "oxidized glutathione reduction"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.1.7",
+      "1.8.1.7",
+      "1.8.1.7",
+      "1.8.1.7",
+      "1.8.1.7",
+      "1.8.1.7",
+      "1.8.1.7",
+      "1.8.1.7"
+    ],
+    "MetaCyc": [
+      "GLUTATHIONE-REDUCT-NADPH-RXN"
+    ],
+    "RHEA": [
+      "11740",
+      "11740"
+    ],
+    "Reactome": [
+      "R-HSA-3323079",
+      "R-HSA-71682"
+    ],
+    "PMID": [
+      "36771108"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 glutathione + NADP+ = glutathione disulfide + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "glutathione (oxidized) + NADPH + H+ =&gt; 2 glutathione (reduced) + NADP+"
+}

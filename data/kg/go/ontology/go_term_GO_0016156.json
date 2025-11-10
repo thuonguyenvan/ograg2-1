@@ -1,0 +1,37 @@
+{
+  "id": "GO:0016156",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016156",
+  "relationships": {
+    "is_a": [
+      "GO:0000104",
+      "GO:0016628"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NADH-dependent fumarate reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.3.1.6",
+      "1.3.1.6"
+    ],
+    "KEGG_REACTION": [
+      "R00402"
+    ],
+    "MetaCyc": [
+      "FUMARATE-REDUCTASE-NADH-RXN"
+    ],
+    "RHEA": [
+      "18281",
+      "18281"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD+ + succinate = fumarate + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "fumarate reductase (NADH) activity"
+}

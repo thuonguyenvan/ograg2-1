@@ -1,0 +1,30 @@
+{
+  "id": "GO:0007172",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007172",
+  "relationships": {
+    "is_a": [
+      "GO:0009966",
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "signal complex formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "signaling"
+    ],
+    "PMID": [
+      "9646862"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form a complex capable of relaying a signal within a cell.",
+  "namespace": "biological_process",
+  "label": "signal complex assembly"
+}

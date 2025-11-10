@@ -1,0 +1,30 @@
+{
+  "id": "GO:0016922",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016922",
+  "relationships": {
+    "is_a": [
+      "GO:0061629"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ligand-dependent nuclear receptor binding",
+      "nuclear hormone receptor binding"
+    ],
+    "broad": [
+      "steroid hormone receptor binding"
+    ],
+    "narrow": [],
+    "related": [
+      "ligand-dependent nuclear receptor interactor activity"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "7776974"
+    ]
+  },
+  "definition": "Binding to a nuclear receptor protein. Nuclear receptor proteins are DNA-binding transcription factors which are regulated by binding to a ligand.",
+  "namespace": "molecular_function",
+  "label": "nuclear receptor binding"
+}

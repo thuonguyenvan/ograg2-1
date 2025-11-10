@@ -1,0 +1,26 @@
+{
+  "id": "GO:1990082",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990082",
+  "relationships": {
+    "is_a": [
+      "GO:1990078"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "21288885"
+    ]
+  },
+  "definition": "A protein complex that inhibits unwinding of DNA at the origin of replication and assembly of the pre-primosome. In E. coli, this complex is composed of DnaA and of the ribosomal protein L2.",
+  "namespace": "cellular_component",
+  "label": "DnaA-L2 complex"
+}

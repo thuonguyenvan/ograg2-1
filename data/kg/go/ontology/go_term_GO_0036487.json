@@ -1,0 +1,36 @@
+{
+  "id": "GO:0036487",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036487",
+  "relationships": {
+    "is_a": [
+      "GO:0004857",
+      "GO:0030235"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NOS inhibitor activity",
+      "nitric oxide synthase inhibitor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-203712"
+    ],
+    "GOC": [
+      "BHF",
+      "rl",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "17242280"
+    ]
+  },
+  "definition": "Binds to and stops, prevents or reduces the activity of nitric oxide synthase.",
+  "namespace": "molecular_function",
+  "label": "eNOS associates with Caveolin-1"
+}

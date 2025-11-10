@@ -1,0 +1,35 @@
+{
+  "id": "GO:0018626",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018626",
+  "relationships": {
+    "is_a": [
+      "GO:0016708"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "2-chlorobenzoate 1,2-dioxygenase activity"
+    ],
+    "related": [
+      "2-chlorobenzoate,NADH:oxygen oxidoreductase (1,2-hydroxylating, dechlorinating, decarboxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.12.13",
+      "1.14.12.13"
+    ],
+    "MetaCyc": [
+      "RXN-13706"
+    ],
+    "RHEA": [
+      "53736",
+      "53736"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 2-halobenzoate + NADH + O2 + H+ = a halide anion + catechol + CO2 + NAD+.",
+  "namespace": "molecular_function",
+  "label": "2-halobenzoate 1,2-dioxygenase activity"
+}

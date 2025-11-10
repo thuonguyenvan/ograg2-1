@@ -1,0 +1,34 @@
+{
+  "id": "GO:0046863",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046863",
+  "relationships": {
+    "is_a": [
+      "GO:0008047"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ribulose-1,5-bisphosphate carboxylase/oxygenase activase activity",
+      "ribulose-bisphosphate carboxylase activase activity",
+      "rubisco activase activity",
+      "rubisco activator"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "10430961",
+      "10965036",
+      "2404515"
+    ],
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Binds to and iincreases the activity of rubisco by the removal of otherwise inhibitory sugar phosphates: RuBP, and in some plants, 2-carboxyarabinitol 1-phosphate.",
+  "namespace": "molecular_function",
+  "label": "ribulose-1,5-bisphosphate carboxylase/oxygenase activator activity"
+}

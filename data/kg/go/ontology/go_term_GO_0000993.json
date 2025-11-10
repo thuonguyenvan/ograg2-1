@@ -1,0 +1,27 @@
+{
+  "id": "GO:0000993",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000993",
+  "relationships": {
+    "is_a": [
+      "GO:0001099",
+      "GO:0043175"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA polymerase II core binding",
+      "RNAP II core binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH"
+    ]
+  },
+  "definition": "Binding to an RNA polymerase II core enzyme, a multisubunit eukaryotic nuclear RNA polymerase typically composed of twelve subunits.",
+  "namespace": "molecular_function",
+  "label": "RNA polymerase II complex binding"
+}

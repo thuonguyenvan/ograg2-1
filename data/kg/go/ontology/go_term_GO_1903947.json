@@ -1,0 +1,44 @@
+{
+  "id": "GO:1903947",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903947",
+  "relationships": {
+    "is_a": [
+      "GO:0045760",
+      "GO:0098911",
+      "GO:0106134"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of ventricular cardiac muscle cell action potential",
+      "up-regulation of ventricular cardiac muscle cell action potential",
+      "upregulation of ventricular cardiac muscle cell action potential"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of ventricular cardiac muscle cell action potential"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "mtg_cardiac_conduct_nov11",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25281747"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of ventricular cardiac muscle cell action potential.",
+  "namespace": "biological_process",
+  "label": "positive regulation of ventricular cardiac muscle cell action potential"
+}

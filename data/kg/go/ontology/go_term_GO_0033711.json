@@ -1,0 +1,47 @@
+{
+  "id": "GO:0033711",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033711",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-O-phosphoerythronate dehydrogenase activity",
+      "4-phospho-D-erythronate:NAD+ 2-oxidoreductase activity",
+      "4PE dehydrogenase activity",
+      "PdxB",
+      "PdxB 4PE dehydrogenase activity",
+      "erythronate-4-phosphate dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.290",
+      "1.1.1.290",
+      "1.1.1.290",
+      "1.1.1.290",
+      "1.1.1.290",
+      "1.1.1.290",
+      "1.1.1.290",
+      "1.1.1.290"
+    ],
+    "KEGG_REACTION": [
+      "R04210"
+    ],
+    "MetaCyc": [
+      "ERYTHRON4PDEHYDROG-RXN"
+    ],
+    "RHEA": [
+      "18829",
+      "18829"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-phospho-D-erythronate + NAD+ = (R)-3-hydroxy-2-oxo-4-phosphonooxybutanoate + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "4-phosphoerythronate dehydrogenase activity"
+}

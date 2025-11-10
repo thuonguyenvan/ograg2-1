@@ -1,0 +1,31 @@
+{
+  "id": "GO:0090294",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090294",
+  "relationships": {
+    "is_a": [
+      "GO:0045893",
+      "GO:0090293"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of transcription by nitrogen catabolites"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "rb",
+      "mah"
+    ],
+    "PMID": [
+      "19104072"
+    ]
+  },
+  "definition": "A transcription regulation process in which the presence of one nitrogen source leads to an increase in the frequency, rate, or extent of transcription of specific genes involved in the metabolism of other nitrogen sources.",
+  "namespace": "biological_process",
+  "label": "nitrogen catabolite activation of transcription"
+}

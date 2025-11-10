@@ -1,0 +1,30 @@
+{
+  "id": "GO:0008193",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008193",
+  "relationships": {
+    "is_a": [
+      "GO:0008192",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.79"
+    ],
+    "RHEA": [
+      "54564"
+    ],
+    "PMID": [
+      "1660461"
+    ]
+  },
+  "definition": "Catalysis of the posttranscriptional addition of a guanyl residue to the 5&apos; end of a tRNA molecule; observed for His tRNAs.",
+  "namespace": "molecular_function",
+  "label": "tRNA guanylyltransferase activity"
+}

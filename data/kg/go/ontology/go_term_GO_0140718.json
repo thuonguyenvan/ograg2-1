@@ -1,0 +1,26 @@
+{
+  "id": "GO:0140718",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140718",
+  "relationships": {
+    "is_a": [
+      "GO:0031507"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fHC assembly",
+      "facultative heterochromatin assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "17936700"
+    ]
+  },
+  "definition": "The compaction of chromatin into a conformation that is refractory to transcription but that can be converted to euchromatin and allow transcription in specific contexts. These can be temporal (e.g., developmental states or specific cell-cycle stages), spatial (e.g., nuclear localization changes from the center to the periphery or vice versa due to exogenous factors/signals), or parental/heritable (e.g., monoallelic gene expression). In metazoa, this involves the methylation of histone H3K27.",
+  "namespace": "biological_process",
+  "label": "facultative heterochromatin formation"
+}

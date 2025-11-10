@@ -1,0 +1,32 @@
+{
+  "id": "GO:0072547",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072547",
+  "relationships": {
+    "is_a": [
+      "GO:0072533"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tricoumaroyl spermidine meta-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-11260"
+    ],
+    "GOC": [
+      "kad",
+      "mah"
+    ],
+    "PMID": [
+      "19779199"
+    ]
+  },
+  "definition": "Catalysis of the reaction: tricoumaroyl spermidine + NADPH + O2 = dicoumaroyl monocaffeoyl spermidine + NADP+ + H2O.",
+  "namespace": "molecular_function",
+  "label": "tricoumaroylspermidine meta-hydroxylase activity"
+}

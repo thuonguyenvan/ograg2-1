@@ -1,0 +1,32 @@
+{
+  "id": "GO:0097118",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097118",
+  "relationships": {
+    "is_a": [
+      "GO:0043113"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "postsynaptic neuroligin clustering"
+    ],
+    "broad": [
+      "Nlgn clustering",
+      "neuroligin clustering"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "sjp"
+    ],
+    "PMID": [
+      "12796785"
+    ]
+  },
+  "definition": "The receptor clustering process involved in assembly of the postsynaptic membrane in which neuroligins are localized to distinct domains in the cell membrane. Neuroligins are neuronal cell surface proteins on the postsynaptic membrane that mediate synapse formation between neurons.",
+  "namespace": "biological_process",
+  "label": "neuroligin clustering involved in postsynaptic membrane assembly"
+}

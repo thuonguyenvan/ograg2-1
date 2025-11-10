@@ -1,0 +1,31 @@
+{
+  "id": "GO:1990205",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990205",
+  "relationships": {
+    "is_a": [
+      "GO:1990204"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-aminoethanesulfonate dioxygenase complex",
+      "alpha-ketoglutarate-dependent taurine dioxygenase complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "TauD complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "12741810"
+    ]
+  },
+  "definition": "A protein complex capable of catalyzing the conversion of taurine and alpha-ketoglutarate to sulfite, aminoacetaldehyde and succinate under sulfur or cysteine starvation conditions. Its expression is repressed by the presence of sulfate or cysteine. In E. coli it is a homodimer or homotetramer of the protein TauD.",
+  "namespace": "cellular_component",
+  "label": "taurine dioxygenase complex"
+}

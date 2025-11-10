@@ -1,0 +1,26 @@
+{
+  "id": "GO:0038203",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038203",
+  "relationships": {
+    "is_a": [
+      "GO:0031929"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TORC2 signal transduction"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "lb",
+      "signaling"
+    ]
+  },
+  "definition": "A series of intracellular molecular signals mediated by TORC2; TOR (rapamycin-insensitive companion of TOR) in complex with at least Rictor (regulatory-associated protein of TOR), or orthologs of, and other signaling components.",
+  "namespace": "biological_process",
+  "label": "TORC2 signaling"
+}

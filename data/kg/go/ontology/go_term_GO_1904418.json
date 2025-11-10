@@ -1,0 +1,37 @@
+{
+  "id": "GO:1904418",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904418",
+  "relationships": {
+    "is_a": [
+      "GO:0032204"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of t-loop biosynthesis",
+      "regulation of t-loop formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "TermGenie",
+      "nc",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22579284"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of telomeric loop formation.",
+  "namespace": "biological_process",
+  "label": "regulation of telomeric loop formation"
+}

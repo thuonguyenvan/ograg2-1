@@ -1,0 +1,31 @@
+{
+  "id": "GO:0035684",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035684",
+  "relationships": {
+    "is_a": [
+      "GO:0072683"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "T-helper cell extravasation",
+      "helper T-cell extravasation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000912",
+      "0000912"
+    ],
+    "GOC": [
+      "BHF",
+      "ebc"
+    ]
+  },
+  "definition": "The migration of a helper T cell from the blood vessels into the surrounding tissue. A helper T-cell is an effector T cell that provides help in the form of secreted cytokines to other immune cells.",
+  "namespace": "biological_process",
+  "label": "helper T cell extravasation"
+}

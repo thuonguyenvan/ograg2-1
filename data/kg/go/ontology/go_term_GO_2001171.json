@@ -1,0 +1,37 @@
+{
+  "id": "GO:2001171",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001171",
+  "relationships": {
+    "is_a": [
+      "GO:1900373",
+      "GO:1903580",
+      "GO:2001169"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of ATP anabolism",
+      "positive regulation of ATP biosynthesis",
+      "positive regulation of ATP formation",
+      "positive regulation of ATP synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of ATP regeneration"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of ATP biosynthetic process.",
+  "namespace": "biological_process",
+  "label": "positive regulation of ATP biosynthetic process"
+}

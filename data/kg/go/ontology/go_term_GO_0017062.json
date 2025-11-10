@@ -1,0 +1,35 @@
+{
+  "id": "GO:0017062",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017062",
+  "relationships": {
+    "is_a": [
+      "GO:0017004"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "coenzyme Q and cytochrome c reductase complex assembly",
+      "coenzyme Q and cytochrome c reductase complex biogenesis",
+      "complex III assembly",
+      "complex III biogenesis",
+      "cytochrome bc(1) complex assembly",
+      "cytochrome bc(1) complex biogenesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mcc"
+    ],
+    "PMID": [
+      "12833641",
+      "20116362"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form the cytochrome bc(1) complex, a transmembrane lipoprotein complex that it catalyzes the reduction of cytochrome c by accepting reducing equivalents from Coenzyme Q, by the aggregation, arrangement and bonding together of its constituents.",
+  "namespace": "biological_process",
+  "label": "respiratory chain complex III assembly"
+}

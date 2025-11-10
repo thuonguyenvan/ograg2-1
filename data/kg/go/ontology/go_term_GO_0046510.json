@@ -1,0 +1,32 @@
+{
+  "id": "GO:0046510",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046510",
+  "relationships": {
+    "is_a": [
+      "GO:0008194",
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-sulphoquinovose:DAG sulphoquinovosyltransferase activity"
+    ],
+    "broad": [
+      "sulfolipid synthase"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-1224",
+      "RXN-1224"
+    ],
+    "RHEA": [
+      "49468"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-sulfoquinovose + 1,2-diacylglycerol = sulfoquinovosyldiacylglycerol + UDP.",
+  "namespace": "molecular_function",
+  "label": "UDP-sulfoquinovose:DAG sulfoquinovosyltransferase activity"
+}

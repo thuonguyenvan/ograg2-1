@@ -1,0 +1,50 @@
+{
+  "id": "GO:1902846",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902846",
+  "relationships": {
+    "is_a": [
+      "GO:0032888",
+      "GO:0062033"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of spindle elongation during mitosis",
+      "up regulation of mitotic spindle elongation",
+      "up regulation of spindle elongation during mitosis",
+      "up-regulation of mitotic spindle elongation",
+      "up-regulation of spindle elongation during mitosis",
+      "upregulation of mitotic spindle elongation",
+      "upregulation of spindle elongation during mitosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of mitotic spindle elongation",
+      "activation of spindle elongation during mitosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23087209"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of mitotic spindle elongation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of mitotic spindle elongation"
+}

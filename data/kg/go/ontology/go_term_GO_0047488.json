@@ -1,0 +1,34 @@
+{
+  "id": "GO:0047488",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047488",
+  "relationships": {
+    "is_a": [
+      "GO:0016837"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "heparan sulfate lyase activity",
+      "heparin eliminase activity",
+      "heparinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.2.7",
+      "4.2.2.7",
+      "4.2.2.7",
+      "4.2.2.7"
+    ],
+    "MetaCyc": [
+      "4.2.2.7-RXN",
+      "4.2.2.7-RXN"
+    ]
+  },
+  "definition": "Catalysis of the eliminative cleavage of polysaccharides containing 1,4-linked D-glucuronate or L-iduronate residues and 1,4-alpha-linked 2-sulfoamino-2-deoxy-6-sulfo-D-glucose residues to give oligosaccharides with terminal 4-deoxy-alpha-D-gluc-4-enuronosyl groups at their nonreducing ends.",
+  "namespace": "molecular_function",
+  "label": "heparin lyase activity"
+}

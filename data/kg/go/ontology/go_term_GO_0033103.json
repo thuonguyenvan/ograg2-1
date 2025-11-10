@@ -1,0 +1,32 @@
+{
+  "id": "GO:0033103",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033103",
+  "relationships": {
+    "is_a": [
+      "GO:0009306",
+      "GO:0071806"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein secretion by the T6SS",
+      "protein secretion by the type VI protein secretion system",
+      "type VI protein secretion system"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mlg"
+    ],
+    "PMID": [
+      "16432199",
+      "16763151"
+    ]
+  },
+  "definition": "The process in which proteins are transferred into the extracellular milieu or directly into host cells by the type VI secretion system. Proteins secreted by this system do not require an N-terminal signal sequence.",
+  "namespace": "biological_process",
+  "label": "protein secretion by the type VI secretion system"
+}

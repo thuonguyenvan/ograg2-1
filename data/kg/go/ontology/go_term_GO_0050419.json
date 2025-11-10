@@ -1,0 +1,40 @@
+{
+  "id": "GO:0050419",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050419",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "hydroxynitrile lyase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "(S)-4-hydroxymandelonitrile 4-hydroxybenzaldehyde-lyase (cyanide-forming)",
+      "(S)-4-hydroxymandelonitrile hydroxybenzaldehyde-lyase activity",
+      "sorghum hydroxynitrile lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.11",
+      "4.1.2.11",
+      "4.1.2.11",
+      "4.1.2.11",
+      "4.1.2.11"
+    ],
+    "MetaCyc": [
+      "HYDROXYMANDELONITRILE-LYASE-RXN"
+    ],
+    "RHEA": [
+      "15977",
+      "15977"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-hydroxymandelonitrile = 4-hydroxybenzaldehyde + hydrocyanate.",
+  "namespace": "molecular_function",
+  "label": "hydroxymandelonitrile lyase activity"
+}

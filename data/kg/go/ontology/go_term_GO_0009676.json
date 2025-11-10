@@ -1,0 +1,30 @@
+{
+  "id": "GO:0009676",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009676",
+  "relationships": {
+    "is_a": [
+      "GO:0008512"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "low affinity sulfate:hydrogen symporter activity",
+      "low affinity sulfate:proton symporter activity",
+      "low affinity sulphate:hydrogen symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "7568135"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: sulfate(out) + H+(out) = sulfate(in) + H+(in). In low-affinity transport the transporter is able to bind the solute only if it is present at very high concentrations.",
+  "namespace": "molecular_function",
+  "label": "low-affinity sulfate:proton symporter activity"
+}

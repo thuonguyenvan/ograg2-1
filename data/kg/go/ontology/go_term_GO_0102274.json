@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102274",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102274",
+  "relationships": {
+    "is_a": [
+      "GO:0004181"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.4.17.25"
+    ],
+    "MetaCyc": [
+      "RXN-12532"
+    ],
+    "RHEA": [
+      "60448",
+      "60448"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an S-substituted glutathione + H2O = glycine + S-substituted gamma-glutamyl-L-cysteine. Patricipates in glutathione-mediated detoxification.",
+  "namespace": "molecular_function",
+  "label": "glutathione S-conjugate carboxypeptidase activity"
+}

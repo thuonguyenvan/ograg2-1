@@ -1,0 +1,28 @@
+{
+  "id": "GO:0140506",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140506",
+  "relationships": {
+    "is_a": [
+      "GO:0160183",
+      "GO:0170009"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ER- autophagosome anchor",
+      "autophagosome-ER anchor",
+      "autophagosome-endoplasmic reticulum anchor"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "32735772"
+    ]
+  },
+  "definition": "The binding activity of a molecule that brings together an ER membrane and an autophagosome during reticulophagy.",
+  "namespace": "molecular_function",
+  "label": "endoplasmic reticulum-autophagosome adaptor activity"
+}

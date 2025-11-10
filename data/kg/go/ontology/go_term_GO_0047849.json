@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047849",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047849",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CEP",
+      "SGE",
+      "sucrose 6-glucosyltransferase activity",
+      "sucrose-1,6-alpha-glucan glucosyltransferase activity",
+      "sucrose:1,6-alpha-D-glucan 6-alpha-D-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.5",
+      "2.4.1.5",
+      "2.4.1.5",
+      "2.4.1.5",
+      "2.4.1.5",
+      "2.4.1.5"
+    ],
+    "MetaCyc": [
+      "2.4.1.125-RXN"
+    ],
+    "RHEA": [
+      "18825",
+      "18825"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [(1-&gt;6)-alpha-D-glucosyl](n) + sucrose = [(1-&gt;6)-alpha-D-glucosyl](n+1) + D-fructose.",
+  "namespace": "molecular_function",
+  "label": "dextransucrase activity"
+}

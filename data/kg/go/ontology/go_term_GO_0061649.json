@@ -1,0 +1,28 @@
+{
+  "id": "GO:0061649",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061649",
+  "relationships": {
+    "is_a": [
+      "GO:0140036",
+      "GO:0140566"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ubiquitin modification-dependent histone binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ubiquitinated histone binding"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "24526689"
+    ]
+  },
+  "definition": "A histone reader that recognizes a histone bearing a ubiquinated lysine residue.",
+  "namespace": "molecular_function",
+  "label": "ubiquitin-modified histone reader activity"
+}

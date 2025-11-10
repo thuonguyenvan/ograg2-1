@@ -1,0 +1,33 @@
+{
+  "id": "GO:0034764",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034764",
+  "relationships": {
+    "is_a": [
+      "GO:0034762",
+      "GO:0048522",
+      "GO:0051050"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of membrane transport",
+      "up regulation of transmembrane transport",
+      "up-regulation of transmembrane transport",
+      "upregulation of transmembrane transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of transmembrane transport",
+      "stimulation of transmembrane transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the directed movement of a solute from one side of a membrane to the other.",
+  "namespace": "biological_process",
+  "label": "positive regulation of transmembrane transport"
+}

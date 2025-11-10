@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102442",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102442",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-13920"
+    ],
+    "RHEA": [
+      "74767",
+      "74767"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + syringetin = 3,3&apos;,5&apos;-O-trimethylmyricetin + H(+) + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "syringetin 3-O-methyltransferase activity"
+}

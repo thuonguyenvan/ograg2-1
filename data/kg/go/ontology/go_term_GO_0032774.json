@@ -1,0 +1,39 @@
+{
+  "id": "GO:0032774",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032774",
+  "relationships": {
+    "is_a": [
+      "GO:0016070",
+      "GO:0141187"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA anabolism",
+      "RNA biosynthesis",
+      "RNA formation",
+      "RNA synthesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "double-stranded RNA biosynthesis",
+      "double-stranded RNA biosynthetic process",
+      "dsRNA biosynthesis",
+      "dsRNA biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "txnOH",
+      "BHF",
+      "BHF_telomere",
+      "nc",
+      "rl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of RNA, ribonucleic acid, one of the two main type of nucleic acid, consisting of a long, unbranched macromolecule formed from ribonucleotides joined in 3&apos;,5&apos;-phosphodiester linkage. Includes polymerization of ribonucleotide monomers. Refers not only to transcription but also to e.g. viral RNA replication.",
+  "namespace": "biological_process",
+  "label": "RNA biosynthetic process"
+}

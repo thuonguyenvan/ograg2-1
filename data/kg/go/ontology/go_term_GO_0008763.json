@@ -1,0 +1,66 @@
+{
+  "id": "GO:0008763",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008763",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "MurC synthetase activity"
+    ],
+    "related": [
+      "L-Ala ligase activity",
+      "L-alanine-adding enzyme activity",
+      "UDP-MurNAc:L-alanine ligase activity",
+      "UDP-N-acetylmuramate:L-alanine ligase (ADP-forming)",
+      "UDP-N-acetylmuramoyl-L-alanine synthetase activity",
+      "UDP-N-acetylmuramoylalanine synthetase activity",
+      "UDP-N-acetylmuramyl:L-alanine ligase activity",
+      "UDP-acetylmuramyl-L-alanine synthetase activity",
+      "UDPMurNAc-L-alanine synthetase activity",
+      "alanine-adding enzyme activity",
+      "uridine 5&apos;-diphosphate-N-acetylmuramyl-L-alanine synthetase activity",
+      "uridine diphosphate N-acetylmuramate:L-alanine ligase activity",
+      "uridine diphospho-N-acetylmuramoylalanine synthetase activity",
+      "uridine-diphosphate-N-acetylmuramate:L-alanine ligase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.8",
+      "6.3.2.8",
+      "6.3.2.8",
+      "6.3.2.8",
+      "6.3.2.8",
+      "6.3.2.8",
+      "6.3.2.8",
+      "6.3.2.8",
+      "6.3.2.8",
+      "6.3.2.8",
+      "6.3.2.8",
+      "6.3.2.8",
+      "6.3.2.8",
+      "6.3.2.8",
+      "6.3.2.8",
+      "6.3.2.8",
+      "6.3.2.8"
+    ],
+    "KEGG_REACTION": [
+      "R03193"
+    ],
+    "MetaCyc": [
+      "UDP-NACMUR-ALA-LIG-RXN"
+    ],
+    "RHEA": [
+      "23372",
+      "23372"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-alanine + ATP + UDP-N-acetylmuramate = ADP + 2 H+ + phosphate + UDP-N-acetylmuramoyl-L-alanine.",
+  "namespace": "molecular_function",
+  "label": "UDP-N-acetylmuramate-L-alanine ligase activity"
+}

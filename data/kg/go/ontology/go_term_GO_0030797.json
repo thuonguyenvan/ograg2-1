@@ -1,0 +1,46 @@
+{
+  "id": "GO:0030797",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030797",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "SMT(2) activity"
+    ],
+    "related": [
+      "24-methylenelophenol C-24(1)-methyltransferase activity",
+      "24-methylenelophenol C-241-methyltransferase activity",
+      "S-adenosyl-L-methionine:24-methylenelophenol C-methyltransferase activity",
+      "SMT2"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.143",
+      "2.1.1.143",
+      "2.1.1.143",
+      "2.1.1.143",
+      "2.1.1.143",
+      "2.1.1.143",
+      "2.1.1.143"
+    ],
+    "KEGG_REACTION": [
+      "R05776"
+    ],
+    "MetaCyc": [
+      "2.1.1.143-RXN"
+    ],
+    "RHEA": [
+      "21044",
+      "21044"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 24-methylidenelophenol + S-adenosyl-L-methionine(1+) = (Z)-24-ethylidenelophenol + S-adenosyl-L-homocysteine + H+.",
+  "namespace": "molecular_function",
+  "label": "24-methylenesterol C-methyltransferase activity"
+}

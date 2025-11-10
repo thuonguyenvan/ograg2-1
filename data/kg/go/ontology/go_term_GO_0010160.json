@@ -1,0 +1,30 @@
+{
+  "id": "GO:0010160",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010160",
+  "relationships": {
+    "is_a": [
+      "GO:0003002",
+      "GO:0048859"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "organ boundary specification"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "isa_complete"
+    ],
+    "PMID": [
+      "9611175"
+    ]
+  },
+  "definition": "The regionalization process that specifies animal organ primordium boundaries resulting in a restriction of organogenesis to a limited spatial domain and keeping the organ separate from surrounding tissues.",
+  "namespace": "biological_process",
+  "label": "formation of animal organ boundary"
+}

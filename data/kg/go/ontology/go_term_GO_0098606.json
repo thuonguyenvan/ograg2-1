@@ -1,0 +1,30 @@
+{
+  "id": "GO:0098606",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098606",
+  "relationships": {
+    "is_a": [
+      "GO:0016846"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "31151",
+      "31151"
+    ],
+    "Reactome": [
+      "R-HSA-2408543"
+    ],
+    "PMID": [
+      "6456763"
+    ]
+  },
+  "definition": "Catalysis of the reaction:L-selenocystathionine + H2O = L-selenocysteine + 2-oxobutanoate + NH4+.",
+  "namespace": "molecular_function",
+  "label": "SeCysta is hydrolysed to Sec by PXLP-K212-CTH"
+}

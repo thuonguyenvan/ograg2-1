@@ -1,0 +1,37 @@
+{
+  "id": "GO:0007252",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007252",
+  "relationships": {
+    "is_a": [
+      "GO:0006468"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IKB phosphorylation",
+      "IkappaB phosphorylation",
+      "inhibitor of NF-kappaB phosphorylation",
+      "inhibitor of kappaB phosphorylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "jl",
+      "bf",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "21772278",
+      "7594468"
+    ]
+  },
+  "definition": "The process of introducing a phosphate group into an inhibitor of kappa B (I-kappaB) protein. Phosphorylation of I-kappaB targets I-kappaB for ubiquitination and proteasomal degradation, thus releasing bound NF-kappaB dimers, which can translocate to the nucleus to bind DNA and regulate transcription.",
+  "namespace": "biological_process",
+  "label": "I-kappaB phosphorylation"
+}

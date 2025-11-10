@@ -1,0 +1,29 @@
+{
+  "id": "GO:0017116",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017116",
+  "relationships": {
+    "is_a": [
+      "GO:0003678"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "single-stranded DNA-dependent ATP-dependent DNA helicase activity",
+      "single-stranded DNA-dependent ATPase activity",
+      "ssDNA-dependent ATP-dependent DNA helicase activity",
+      "ssDNA-dependent ATPase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + H2O = ADP + phosphate, in the presence of single-stranded DNA; drives the unwinding of a DNA helix.",
+  "namespace": "molecular_function",
+  "label": "single-stranded DNA helicase activity"
+}

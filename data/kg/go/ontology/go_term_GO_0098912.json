@@ -1,0 +1,36 @@
+{
+  "id": "GO:0098912",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098912",
+  "relationships": {
+    "is_a": [
+      "GO:0086012"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "atrial cardiac muscle cell depolarization"
+    ],
+    "narrow": [],
+    "related": [
+      "atrial depolarization",
+      "electrocardiogram PR interval"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mtg_cardiac_conduct_nov11",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The process in which atrial cardiac muscle cell membrane potential changes in the depolarizing direction from the negative resting potential towards the positive membrane potential that will be the peak of the action potential.",
+  "namespace": "biological_process",
+  "label": "membrane depolarization during atrial cardiac muscle cell action potential"
+}

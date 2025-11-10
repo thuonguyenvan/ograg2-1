@@ -1,0 +1,27 @@
+{
+  "id": "GO:0030246",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030246",
+  "relationships": {
+    "is_a": [
+      "GO:0005488"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sugar binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "selectin"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Binding to a carbohydrate, which includes monosaccharides, oligosaccharides and polysaccharides as well as substances derived from monosaccharides by reduction of the carbonyl group (alditols), by oxidation of one or more hydroxy groups to afford the corresponding aldehydes, ketones, or carboxylic acids, or by replacement of one or more hydroxy group(s) by a hydrogen atom. Cyclitols are generally not regarded as carbohydrates.",
+  "namespace": "molecular_function",
+  "label": "carbohydrate binding"
+}

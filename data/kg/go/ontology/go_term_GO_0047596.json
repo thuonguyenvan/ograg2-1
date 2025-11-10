@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047596",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047596",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "6-MSA decarboxylase activity",
+      "6-methylsalicylate carboxy-lyase (3-cresol-forming)",
+      "6-methylsalicylate carboxy-lyase activity",
+      "6-methylsalicylic acid (2,6-cresotic acid) decarboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.52",
+      "4.1.1.52",
+      "4.1.1.52",
+      "4.1.1.52",
+      "4.1.1.52",
+      "4.1.1.52"
+    ],
+    "KEGG_REACTION": [
+      "R03567"
+    ],
+    "MetaCyc": [
+      "6-METHYLSALICYLATE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "23112",
+      "23112"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 6-methylsalicylate + H+ = 3-cresol + CO2.",
+  "namespace": "molecular_function",
+  "label": "6-methylsalicylate decarboxylase activity"
+}

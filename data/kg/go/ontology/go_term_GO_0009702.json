@@ -1,0 +1,40 @@
+{
+  "id": "GO:0009702",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009702",
+  "relationships": {
+    "is_a": [
+      "GO:0016773",
+      "GO:0019200"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP:L-arabinose 1-phosphotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-arabinokinase (phosphorylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.46",
+      "2.7.1.46",
+      "2.7.1.46"
+    ],
+    "KEGG_REACTION": [
+      "R01754"
+    ],
+    "MetaCyc": [
+      "L-ARABINOKINASE-RXN"
+    ],
+    "RHEA": [
+      "20153",
+      "20153"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-arabinose + ATP = beta-L-arabinose 1-phosphate + ADP + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "L-arabinokinase activity"
+}

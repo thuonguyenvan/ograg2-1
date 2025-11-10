@@ -1,0 +1,35 @@
+{
+  "id": "GO:2001297",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001297",
+  "relationships": {
+    "is_a": [
+      "GO:0042219",
+      "GO:0170035",
+      "GO:0170044"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N(omega)-methyl-L-arginine breakdown",
+      "N(omega)-methyl-L-arginine catabolism",
+      "N(omega)-methyl-L-arginine degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rs",
+      "obol",
+      "obol",
+      "obol"
+    ],
+    "PMID": [
+      "10510241"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of N(omega)-methyl-L-arginine.",
+  "namespace": "biological_process",
+  "label": "N(omega)-methyl-L-arginine catabolic process"
+}

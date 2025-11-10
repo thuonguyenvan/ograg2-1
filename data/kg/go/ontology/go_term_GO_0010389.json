@@ -1,0 +1,33 @@
+{
+  "id": "GO:0010389",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010389",
+  "relationships": {
+    "is_a": [
+      "GO:1901990",
+      "GO:1902749"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of mitotic entry"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8854518"
+    ],
+    "GOC": [
+      "mtg_cell_cycle",
+      "vw"
+    ],
+    "PMID": [
+      "17329565"
+    ]
+  },
+  "definition": "Any signaling pathway that modulates the activity of a cell cycle cyclin-dependent protein kinase to modulate the switch from G2 phase to M phase of the mitotic cell cycle.",
+  "namespace": "biological_process",
+  "label": "AURKA Activation by TPX2"
+}

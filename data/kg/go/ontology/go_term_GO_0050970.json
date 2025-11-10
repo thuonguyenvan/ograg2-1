@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050970",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050970",
+  "relationships": {
+    "is_a": [
+      "GO:0050963"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "magnetoception, sensory transduction of electrical stimulus",
+      "magnetoreception, detection of electrical stimulus",
+      "magnetoreception, sensory detection of electrical stimulus",
+      "magnetoreception, sensory transduction of electrical stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "detection of electrical stimulus during magnetoreception",
+      "sensory detection of electrical stimulus during magnetoreception",
+      "sensory transduction of electrical stimulus during magnetoreception"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dos",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "15886990"
+    ],
+    "Wikipedia": [
+      "Magnetoception"
+    ]
+  },
+  "definition": "The series of events that contribute to magnetoception in which an electrical stimulus is received and converted into a molecular signal. The stimulus is in the form of an induced electric field resulting from movement in a magnetic field.",
+  "namespace": "biological_process",
+  "label": "detection of electrical stimulus involved in magnetoreception"
+}

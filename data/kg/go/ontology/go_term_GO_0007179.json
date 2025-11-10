@@ -1,0 +1,34 @@
+{
+  "id": "GO:0007179",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007179",
+  "relationships": {
+    "is_a": [
+      "GO:0141091"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TGF-beta receptor signaling pathway",
+      "TGF-beta receptor signalling pathway",
+      "TGFbeta receptor signaling pathway",
+      "TGFbeta receptor signalling pathway",
+      "transforming growth factor beta receptor signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-170834"
+    ],
+    "GOC": [
+      "BHF",
+      "mah",
+      "signaling"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by an extracellular ligand binding to a transforming growth factor beta receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "Signaling by TGF-beta Receptor Complex"
+}

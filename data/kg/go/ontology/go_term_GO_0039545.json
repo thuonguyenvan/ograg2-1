@@ -1,0 +1,33 @@
+{
+  "id": "GO:0039545",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039545",
+  "relationships": {
+    "is_a": [
+      "GO:0039537"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of MAVS activity"
+    ],
+    "related": [
+      "inhibition of host MAVS by virus",
+      "suppression by virus of host MAVS activity",
+      "suppression by virus of host mitochondrial antiviral-signaling protein"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "704"
+    ],
+    "PMID": [
+      "17438296",
+      "22674996"
+    ]
+  },
+  "definition": "A process in which a symbiont interferes with, inhibits or disrupts a cytoplasmic pattern recognition receptor signaling pathway in a host organism by reducing the activity of host MAVS (mitochondrial antiviral signaling protein). MAVS is a signal transducer that lies downstream of the viral RNA receptors MDA-5 and RIG-I to coordinate host innate immune responses.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of MAVS activity"
+}

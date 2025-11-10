@@ -1,0 +1,33 @@
+{
+  "id": "GO:0008814",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008814",
+  "relationships": {
+    "is_a": [
+      "GO:0008410"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetyl-CoA:citrate CoA-transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.3.10",
+      "2.8.3.10",
+      "2.8.3.10"
+    ],
+    "MetaCyc": [
+      "CITTRANS-RXN"
+    ],
+    "RHEA": [
+      "19405"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + citrate = acetate + (3S)-citryl-CoA.",
+  "namespace": "molecular_function",
+  "label": "citrate CoA-transferase activity"
+}

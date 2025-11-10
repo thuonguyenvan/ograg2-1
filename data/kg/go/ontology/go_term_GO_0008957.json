@@ -1,0 +1,36 @@
+{
+  "id": "GO:0008957",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008957",
+  "relationships": {
+    "is_a": [
+      "GO:0004029"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "phenylacetaldehyde:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.39",
+      "1.2.1.39"
+    ],
+    "MetaCyc": [
+      "PHENDEHYD-RXN"
+    ],
+    "RHEA": [
+      "21392",
+      "21392"
+    ],
+    "UM-BBD_reactionID": [
+      "r0035"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-phenylacetaldehyde + H2O + NAD+ = 2-phenylacetate + 2 H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "phenylacetaldehyde dehydrogenase (NAD+) activity"
+}

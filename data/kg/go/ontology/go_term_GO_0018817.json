@@ -1,0 +1,35 @@
+{
+  "id": "GO:0018817",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018817",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-oxo-hepta-3-ene-1,7-dioate hydratase activity",
+      "2-oxo-hepta-3-ene-1,7-dioic acid hydratase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "HpaH"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "HYDROXYHEPTA-DIENEDIOATE-HYDROXY-RXN"
+    ],
+    "RHEA": [
+      "42072"
+    ],
+    "UM-BBD_reactionID": [
+      "r0369",
+      "r0369"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cis-2-oxohept-3-ene-1,7-dioate + H2O = 2,4-dihydroxy-hept-trans-2-ene-1,7-dioate.",
+  "namespace": "molecular_function",
+  "label": "2-oxo-hept-3-ene-1,7-dioate hydratase activity"
+}

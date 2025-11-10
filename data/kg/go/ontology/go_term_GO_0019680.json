@@ -1,0 +1,34 @@
+{
+  "id": "GO:0019680",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019680",
+  "relationships": {
+    "is_a": [
+      "GO:0046491",
+      "GO:0071616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-methylmalonyl-CoA anabolism",
+      "L-methylmalonyl-CoA biosynthesis",
+      "L-methylmalonyl-CoA formation",
+      "L-methylmalonyl-CoA synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY0-43"
+    ],
+    "GOC": [
+      "ai",
+      "jsg",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of L-methylmalonyl-CoA, the L-enantiomer of 2-carboxypropanoyl-CoA.",
+  "namespace": "biological_process",
+  "label": "L-methylmalonyl-CoA biosynthetic process"
+}

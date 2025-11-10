@@ -1,0 +1,30 @@
+{
+  "id": "GO:0098005",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098005",
+  "relationships": {
+    "is_a": [
+      "GO:0016032"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "virus head-tail joining"
+    ],
+    "broad": [],
+    "narrow": [
+      "phage head tail joining"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bm",
+      "bf",
+      "jl",
+      "bm"
+    ]
+  },
+  "definition": "Process by which virus heads and tails are attached to each other.",
+  "namespace": "biological_process",
+  "label": "viral head-tail joining"
+}

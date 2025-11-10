@@ -1,0 +1,32 @@
+{
+  "id": "GO:0045922",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045922",
+  "relationships": {
+    "is_a": [
+      "GO:0019217",
+      "GO:0045833",
+      "GO:0062014"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of fatty acid metabolic process",
+      "down-regulation of fatty acid metabolic process",
+      "downregulation of fatty acid metabolic process",
+      "negative regulation of fatty acid metabolism"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of fatty acid metabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the chemical reactions and pathways involving fatty acids.",
+  "namespace": "biological_process",
+  "label": "negative regulation of fatty acid metabolic process"
+}

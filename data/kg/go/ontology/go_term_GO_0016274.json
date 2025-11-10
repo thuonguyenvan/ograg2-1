@@ -1,0 +1,44 @@
+{
+  "id": "GO:0016274",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016274",
+  "relationships": {
+    "is_a": [
+      "GO:0008276",
+      "GO:0016273"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PRMT activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-191790",
+      "R-HSA-5205798",
+      "R-HSA-5205820",
+      "R-HSA-5205822",
+      "R-HSA-5205824",
+      "R-HSA-5205867",
+      "R-HSA-5218952",
+      "R-HSA-5229010",
+      "R-HSA-5229203",
+      "R-HSA-5661126",
+      "R-HSA-8879123",
+      "R-HSA-8934735"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "12351636",
+      "31284549"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + (protein)-arginine = S-adenosyl-L-homocysteine + (protein)-N-methyl-arginine.",
+  "namespace": "molecular_function",
+  "label": "PRMT1 arginine-methylates RUNX1"
+}

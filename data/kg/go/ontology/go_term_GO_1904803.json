@@ -1,0 +1,46 @@
+{
+  "id": "GO:1904803",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904803",
+  "relationships": {
+    "is_a": [
+      "GO:0006417"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of protein anabolism involved in cellular response to UV",
+      "regulation of protein biosynthesis involved in cellular response to UV",
+      "regulation of protein formation involved in cellular response to UV",
+      "regulation of protein synthesis involved in cellular response to UV",
+      "regulation of translation involved in cellular response to UV light stimulus",
+      "regulation of translation involved in cellular response to UV radiation stimulus",
+      "regulation of translation involved in cellular response to ultraviolet light stimulus",
+      "regulation of translation involved in cellular response to ultraviolet radiation stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000060"
+    ],
+    "PMID": [
+      "17369398"
+    ]
+  },
+  "definition": "Any regulation of translation that is involved in cellular response to UV.",
+  "namespace": "biological_process",
+  "label": "regulation of translation involved in cellular response to UV"
+}

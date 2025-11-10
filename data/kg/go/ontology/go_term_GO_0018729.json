@@ -1,0 +1,44 @@
+{
+  "id": "GO:0018729",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018729",
+  "relationships": {
+    "is_a": [
+      "GO:0008410"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetyl-CoA:propanoate CoA-transferase activity",
+      "propionate coenzyme A-transferase activity",
+      "propionate-CoA:lactoyl-CoA transferase activity",
+      "propionyl CoA:acetate CoA transferase activity",
+      "propionyl-CoA transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.3.1",
+      "2.8.3.1",
+      "2.8.3.1",
+      "2.8.3.1",
+      "2.8.3.1",
+      "2.8.3.1",
+      "2.8.3.1"
+    ],
+    "MetaCyc": [
+      "PROPIONATE-COA-TRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "23520"
+    ],
+    "UM-BBD_reactionID": [
+      "r0087"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + propanoate = acetate + propanoyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "propionate CoA-transferase activity"
+}

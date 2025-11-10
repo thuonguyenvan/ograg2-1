@@ -1,0 +1,33 @@
+{
+  "id": "GO:0036192",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036192",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-hydroxyindolin-2-one,NAD(P)H:oxygen oxidoreductase (2-hydroxy-2H-1,4-benzoxazin-3(4H)-one-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.109",
+      "1.14.14.109"
+    ],
+    "KEGG_REACTION": [
+      "R07422"
+    ],
+    "RHEA": [
+      "31927",
+      "31927"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-hydroxyindolin-2-one + O2 + reduced [NADPH--hemoprotein reductase] = 2-hydroxy-2H-1,4-benzoxazin-3(4H)-one + H+ + H2O + oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "3-hydroxyindolin-2-one monooxygenase activity"
+}

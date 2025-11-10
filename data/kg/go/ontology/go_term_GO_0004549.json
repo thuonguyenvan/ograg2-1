@@ -1,0 +1,32 @@
+{
+  "id": "GO:0004549",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004549",
+  "relationships": {
+    "is_a": [
+      "GO:0004540",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA-specific RNase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5696813",
+      "R-HSA-5696815",
+      "R-HSA-6785722",
+      "R-HSA-6786854"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of phosphodiester bonds in tRNA molecules.",
+  "namespace": "molecular_function",
+  "label": "Mitochondrial RNase P (mtRNase P) cleaves the 5&apos; ends of pre-tRNAs and ELAC2 (RNase Z) cleaves the 3&apos; ends of pre-tRNAs in the L strand transcript"
+}

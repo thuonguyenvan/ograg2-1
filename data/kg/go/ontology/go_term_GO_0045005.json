@@ -1,0 +1,31 @@
+{
+  "id": "GO:0045005",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045005",
+  "relationships": {
+    "is_a": [
+      "GO:0006259"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA-dependent DNA replication maintenance of fidelity",
+      "maintenance of fidelity involved in DNA-dependent DNA replication"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "maintenance of fidelity during DNA-dependent DNA replication"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vw",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "A DNA metabolic process that prevents or corrects errors to ensure that DNA is replicated accurately. Errors can be corrected either by intrinsic DNA polymerase proofreading activity or via mismatch repair.",
+  "namespace": "biological_process",
+  "label": "DNA-templated DNA replication maintenance of fidelity"
+}

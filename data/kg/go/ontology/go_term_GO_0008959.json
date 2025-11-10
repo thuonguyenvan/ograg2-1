@@ -1,0 +1,39 @@
+{
+  "id": "GO:0008959",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008959",
+  "relationships": {
+    "is_a": [
+      "GO:0016407"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PTA",
+      "acetyl-CoA:phosphate acetyltransferase activity",
+      "phosphoacylase activity",
+      "phosphotransacetylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.8",
+      "2.3.1.8",
+      "2.3.1.8",
+      "2.3.1.8",
+      "2.3.1.8",
+      "2.3.1.8"
+    ],
+    "MetaCyc": [
+      "PHOSACETYLTRANS-RXN"
+    ],
+    "RHEA": [
+      "19521"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + phosphate = CoA + acetyl phosphate.",
+  "namespace": "molecular_function",
+  "label": "phosphate acetyltransferase activity"
+}

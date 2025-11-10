@@ -1,0 +1,30 @@
+{
+  "id": "GO:0043879",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043879",
+  "relationships": {
+    "is_a": [
+      "GO:0008028",
+      "GO:0015665"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycolic acid transmembrane transporter activity",
+      "hydroxyacetic acid transmembrane transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glcA",
+      "glycolate permease"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Enables the transfer of glycolate from one side of a membrane to the other. Glycolate is the smallest alpha-hydroxy acid (AHA).",
+  "namespace": "molecular_function",
+  "label": "glycolate transmembrane transporter activity"
+}

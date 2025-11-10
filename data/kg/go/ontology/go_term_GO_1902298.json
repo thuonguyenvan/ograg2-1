@@ -1,0 +1,30 @@
+{
+  "id": "GO:1902298",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902298",
+  "relationships": {
+    "is_a": [
+      "GO:0022402",
+      "GO:0045005"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "maintenance of fidelity involved in cell cycle DNA replication"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "maintenance of fidelity during DNA-dependent DNA replication involved in cell cycle DNA replication"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_cell_cycle",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any maintenance of fidelity that is involved in cell cycle DNA replication.",
+  "namespace": "biological_process",
+  "label": "cell cycle DNA replication maintenance of fidelity"
+}

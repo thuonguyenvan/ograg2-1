@@ -1,0 +1,43 @@
+{
+  "id": "GO:0001227",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001227",
+  "relationships": {
+    "is_a": [
+      "GO:0000981",
+      "GO:0001217"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA polymerase II transcription regulatory region sequence-specific DNA binding transcription factor activity involved in negative regulation of transcription",
+      "transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific DNA binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "RNA polymerase II core promoter proximal region sequence-specific DNA binding transcription factor activity involved in negative regulation of transcription",
+      "RNA polymerase II distal enhancer sequence-specific DNA-binding transcription factor activity involved in negative regulation of transcription",
+      "RNA polymerase II transcriptional repressor activity, metal ion regulated core promoter proximal region sequence-specific binding",
+      "RNA polymerase II transcriptional repressor activity, metal ion regulated proximal promoter sequence-specific DNA binding",
+      "distal enhancer DNA-binding transcription repressor activity, RNA polymerase II-specific",
+      "metal ion regulated core promoter proximal region sequence-specific DNA binding RNA polymerase II transcription factor activity involved in negative regulation of transcription",
+      "metal ion regulated sequence-specific DNA binding transcription factor activity involved in negative regulation of transcription",
+      "proximal promoter DNA-binding transcription repressor activity, RNA polymerase II-specific",
+      "sequence-specific distal enhancer binding RNA polymerase II transcription factor activity involved in negative regulation of transcription",
+      "transcriptional repressor activity, RNA polymerase II distal enhancer sequence-specific binding",
+      "transcriptional repressor activity, RNA polymerase II proximal promoter sequence-specific DNA binding",
+      "transcriptional repressor activity, metal ion regulated sequence-specific DNA binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8936851"
+    ],
+    "GOC": [
+      "txnOH-2018"
+    ]
+  },
+  "definition": "A DNA-binding transcription factor activity that represses or decreases the transcription of specific gene sets transcribed by RNA polymerase II.",
+  "namespace": "molecular_function",
+  "label": "AHRR binds ARNT"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0061719",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061719",
+  "relationships": {
+    "is_a": [
+      "GO:0006091",
+      "GO:0061718"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P341-PWY",
+      "P341-PWY"
+    ],
+    "GOC": [
+      "dph"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of glucose into pyruvate, with the concomitant production of a small amount of ATP and the utilization of ADP in the initial kinase reactions.",
+  "namespace": "biological_process",
+  "label": "glucose catabolic process to pyruvate utilizing ADP"
+}

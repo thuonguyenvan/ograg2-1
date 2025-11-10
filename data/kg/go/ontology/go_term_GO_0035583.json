@@ -1,0 +1,40 @@
+{
+  "id": "GO:0035583",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035583",
+  "relationships": {
+    "is_a": [
+      "GO:0030512",
+      "GO:0035581",
+      "GO:0071694"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of transforming growth factor beta receptor signaling pathway by extracellular matrix sequestering of TGFbeta",
+      "negative regulation of transforming growth factor beta receptor signalling pathway by extracellular matrix sequestering of TGFbeta",
+      "sequestering of TGFbeta LLC in extracellular matrix",
+      "sequestering of TGFbeta large latency complex in extracellular matrix"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "bf",
+      "signaling",
+      "bf",
+      "mah"
+    ],
+    "PMID": [
+      "12482908",
+      "20855508",
+      "12482908",
+      "12482908"
+    ]
+  },
+  "definition": "Confining TGFbeta to the extracellular matrix (ECM) such that it is separated from other components of the signaling pathway, including its cell surface receptor. TGFbeta is secreted as part of a latent complex that is targeted to the extracellular matrix through latent-TGFbeta-binding protein (LTBP)-mediated association with matrix proteins.",
+  "namespace": "biological_process",
+  "label": "sequestering of TGFbeta in extracellular matrix"
+}

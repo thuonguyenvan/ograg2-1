@@ -1,0 +1,31 @@
+{
+  "id": "GO:1990133",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990133",
+  "relationships": {
+    "is_a": [
+      "GO:1902503"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MPT adenylyltransferase complex",
+      "molybdopterin cofactor (Moco) biosynthesis adenylyltransferase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "11713534",
+      "16669776",
+      "18491921"
+    ]
+  },
+  "definition": "A heterotetrameric protein complex which adenylates two molecules of the sulfur carrier subunit of the molybdopterin cofactor synthase using ATP as part of molybdopterin cofactor (Moco) biosynthesis. In E. coli the subunits are MoeB and MoaD; in human the subunits are MOCS3 and MOCS2A. Moco biosynthesis and its constituent molecules are evolutionarily conserved.",
+  "namespace": "cellular_component",
+  "label": "molybdopterin adenylyltransferase complex"
+}

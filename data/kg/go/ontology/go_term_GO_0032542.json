@@ -1,0 +1,45 @@
+{
+  "id": "GO:0032542",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032542",
+  "relationships": {
+    "is_a": [
+      "GO:0016209",
+      "GO:0016667"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peroxiredoxin-(S-hydroxy-S-oxocysteine) reductase activity",
+      "sulphiredoxin activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Srx1",
+      "peroxiredoxin-(S-hydroxy-S-oxocysteine):thiol oxidoreductase [ATP-hydrolysing; peroxiredoxin-(S-hydroxycysteine)-forming]"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.98.2",
+      "1.8.98.2",
+      "1.8.98.2",
+      "1.8.98.2"
+    ],
+    "MetaCyc": [
+      "1.8.98.2-RXN"
+    ],
+    "RHEA": [
+      "17545"
+    ],
+    "Reactome": [
+      "R-HSA-9760094"
+    ],
+    "PMID": [
+      "16102934"
+    ]
+  },
+  "definition": "Catalysis of the reaction: peroxiredoxin-(S-hydroxy-S-oxocysteine) + ATP + 2 R-SH = peroxiredoxin-(S-hydroxycysteine) + ADP + phosphate + R-S-S-R.",
+  "namespace": "molecular_function",
+  "label": "SRXN1 reduces hyperoxidized PRDX1 dimer"
+}

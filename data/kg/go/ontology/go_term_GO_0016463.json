@@ -1,0 +1,50 @@
+{
+  "id": "GO:0016463",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016463",
+  "relationships": {
+    "is_a": [
+      "GO:0005385",
+      "GO:0015662",
+      "GO:0019829"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP phosphohydrolase (Zn2+-exporting)",
+      "zinc-translocating P-type ATPase activity"
+    ],
+    "broad": [
+      "zinc exporting ATPase activity"
+    ],
+    "narrow": [
+      "P(1B)-type ATPase activity"
+    ],
+    "related": [
+      "P1B-type ATPase activity",
+      "Zn(2+)-exporting ATPase activity",
+      "Zn2+-exporting ATPase activity",
+      "zinc transmembrane transporter activity, phosphorylative mechanism",
+      "zinc-exporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.2.2.12",
+      "7.2.2.12",
+      "7.2.2.12",
+      "7.2.2.12",
+      "7.2.2.12",
+      "7.2.2.12"
+    ],
+    "MetaCyc": [
+      "RXN0-5205"
+    ],
+    "RHEA": [
+      "20621",
+      "20621"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + Zn2+(in) = ADP + phosphate + Zn2+(out).",
+  "namespace": "molecular_function",
+  "label": "P-type zinc transporter activity"
+}

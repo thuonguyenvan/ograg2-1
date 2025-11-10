@@ -1,0 +1,35 @@
+{
+  "id": "GO:0071819",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071819",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "deubiquitinating module",
+      "deubiquitination module"
+    ],
+    "broad": [],
+    "narrow": [
+      "SAGA DUBm complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "19226466",
+      "20395473",
+      "20395473",
+      "19226466"
+    ],
+    "GOC": [
+      "jp",
+      "jp"
+    ]
+  },
+  "definition": "A protein complex that forms part of SAGA-type complexes SAGA and SLIK, and mediates deubiquitination of histone H2B. In S. cerevisiae, the DUBm consists of the proteins Ubp8p, Sgf11p, Sus1p, and Sgf73p.",
+  "namespace": "cellular_component",
+  "label": "DUBm complex"
+}

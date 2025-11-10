@@ -1,0 +1,37 @@
+{
+  "id": "GO:0005338",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005338",
+  "relationships": {
+    "is_a": [
+      "GO:0015605",
+      "GO:0015932",
+      "GO:1901505"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-744230",
+      "R-HSA-744231",
+      "R-HSA-9792608"
+    ],
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ],
+    "PMID": [
+      "15034926"
+    ]
+  },
+  "definition": "Enables the transfer of a nucleotide-sugar from one side of a membrane to the other. A nucleotide-sugar is any nucleotide in which the distal phosphoric residue of a nucleoside 5&apos;-diphosphate is in glycosidic linkage with a monosaccharide or monosaccharide derivative.",
+  "namespace": "molecular_function",
+  "label": "SLC35D2 exchanges UDP-D-glucose for UMP"
+}

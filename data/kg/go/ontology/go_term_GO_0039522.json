@@ -1,0 +1,43 @@
+{
+  "id": "GO:0039522",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039522",
+  "relationships": {
+    "is_a": [
+      "GO:0039657",
+      "GO:0052038"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "negative regulation by virus of host mRNA nuclear export"
+    ],
+    "narrow": [
+      "inhibition by virus of host mRNA nuclear export",
+      "inhibition of host mRNA nuclear export by virus",
+      "suppression by virus of host mRNA export from nucleus",
+      "suppression of host mRNA nuclear export by virus"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "902"
+    ],
+    "GOC": [
+      "bf",
+      "sp",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "22334672"
+    ],
+    "UniProtKB-KW": [
+      "KW-1099"
+    ]
+  },
+  "definition": "A process in which a symbiont inhibits or disrupts the normal movement of mRNA from the nucleus to the cytoplasm of the host cell, leading to shutoff of host protein expression. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "Inhibition of host mRNA nuclear export by virus"
+}

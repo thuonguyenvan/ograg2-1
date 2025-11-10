@@ -1,0 +1,43 @@
+{
+  "id": "GO:0051281",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051281",
+  "relationships": {
+    "is_a": [
+      "GO:0051279",
+      "GO:1904427"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of cytosolic release of sequestered calcium ion (Ca2+)",
+      "positive regulation of cytosolic release of stored calcium ion (Ca2+)",
+      "positive regulation of release of stored calcium ion (Ca2+) into cytosol",
+      "up regulation of release of sequestered calcium ion into cytosol",
+      "up-regulation of release of sequestered calcium ion into cytosol",
+      "upregulation of release of sequestered calcium ion into cytosol"
+    ],
+    "broad": [
+      "positive regulation of calcium ion (Ca2+) mobilization",
+      "positive regulation of calcium mobilization",
+      "positive regulation of cytoplasmic release of sequestered calcium ion (Ca2+)",
+      "positive regulation of cytoplasmic release of stored calcium ion (Ca2+)",
+      "positive regulation of release of sequestered calcium ion (Ca2+)",
+      "positive regulation of release of sequestered calcium ion into cytoplasm",
+      "positive regulation of release of stored calcium ion (Ca2+)",
+      "positive regulation of release of stored calcium ion (Ca2+) into cytoplasm"
+    ],
+    "narrow": [
+      "activation of release of sequestered calcium ion into cytosol",
+      "stimulation of release of sequestered calcium ion into cytosol"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the release into the cytosolic compartment of calcium ions sequestered in the endoplasmic reticulum or mitochondria.",
+  "namespace": "biological_process",
+  "label": "positive regulation of release of sequestered calcium ion into cytosol"
+}

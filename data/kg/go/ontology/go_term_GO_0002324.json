@@ -1,0 +1,31 @@
+{
+  "id": "GO:0002324",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002324",
+  "relationships": {
+    "is_a": [
+      "GO:0001787",
+      "GO:0002285"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NK cell proliferation during immune response",
+      "natural killer cell proliferation during immune response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "tb"
+    ],
+    "PMID": [
+      "15032583"
+    ]
+  },
+  "definition": "The expansion of a natural killer cell population by cell division as part of an immune response.",
+  "namespace": "biological_process",
+  "label": "natural killer cell proliferation involved in immune response"
+}

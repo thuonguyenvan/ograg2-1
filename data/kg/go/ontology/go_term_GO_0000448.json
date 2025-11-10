@@ -1,0 +1,30 @@
+{
+  "id": "GO:0000448",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000448",
+  "relationships": {
+    "is_a": [
+      "GO:0000479"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cleavage in ITS2 of tricistronic rRNA transcript to separate 5.8S and LSU rRNAs (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cleavage at C2"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "curators"
+    ],
+    "PMID": [
+      "10690410"
+    ]
+  },
+  "definition": "Endonucleolytic cleavage within ITS2 between the 5.8S rRNA and the LSU-rRNA of an rRNA molecule originally produced as a tricistronic rRNA transcript that contained the Small SubUnit (SSU) rRNA, the 5.8S rRNA, and the Large SubUnit (LSU) rRNA, in that order, from 5&apos; to 3&apos; along the primary transcript.",
+  "namespace": "biological_process",
+  "label": "cleavage in ITS2 between 5.8S rRNA and LSU-rRNA of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+}

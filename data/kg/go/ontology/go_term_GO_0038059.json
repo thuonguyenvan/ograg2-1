@@ -1,0 +1,38 @@
+{
+  "id": "GO:0038059",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038059",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IKKalpha homodimer",
+      "IKKalpha homodimeric complex",
+      "IKKalpha-IKKalpha protein complex",
+      "IkappaB kinase alpha homodimer",
+      "IkappaB kinase-alpha homodimer"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "bf",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "18626576",
+      "21173796",
+      "21173796"
+    ]
+  },
+  "definition": "A homodimeric protein complex containing two IkappaB kinase (IKK) alpha subunits.",
+  "namespace": "cellular_component",
+  "label": "IKKalpha-IKKalpha complex"
+}

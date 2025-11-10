@@ -1,0 +1,43 @@
+{
+  "id": "GO:0008892",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008892",
+  "relationships": {
+    "is_a": [
+      "GO:0016814",
+      "GO:0019239"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GAH activity",
+      "guanase activity",
+      "guanine aminase activity",
+      "guanine aminohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.4.3",
+      "3.5.4.3",
+      "3.5.4.3",
+      "3.5.4.3",
+      "3.5.4.3",
+      "3.5.4.3"
+    ],
+    "MetaCyc": [
+      "GUANINE-DEAMINASE-RXN"
+    ],
+    "RHEA": [
+      "14665"
+    ],
+    "Reactome": [
+      "R-HSA-74255"
+    ]
+  },
+  "definition": "Catalysis of the reaction: guanine + H2O = xanthine + NH3.",
+  "namespace": "molecular_function",
+  "label": "Guanine + H2O =&gt; Xanthine + NH4+"
+}

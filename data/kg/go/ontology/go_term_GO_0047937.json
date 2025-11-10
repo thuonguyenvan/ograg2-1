@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047937",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047937",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-glucose-1-phosphate:D-glucose-1-phosphate 6-phosphotransferase activity",
+      "glucose 1-phosphate transphosphorylase activity",
+      "phosphodismutase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.41",
+      "2.7.1.41",
+      "2.7.1.41",
+      "2.7.1.41",
+      "2.7.1.41"
+    ],
+    "MetaCyc": [
+      "GLUCOSE-1-PHOSPHATE-PHOSPHODISMUTASE-RXN",
+      "GLUCOSE-1-PHOSPHATE-PHOSPHODISMUTASE-RXN"
+    ],
+    "RHEA": [
+      "16397"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 D-glucose 1-phosphate = D-glucose + D-glucose 1,6-bisphosphate.",
+  "namespace": "molecular_function",
+  "label": "glucose-1-phosphate phosphodismutase activity"
+}

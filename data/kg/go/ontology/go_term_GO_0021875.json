@@ -1,0 +1,34 @@
+{
+  "id": "GO:0021875",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021875",
+  "relationships": {
+    "is_a": [
+      "GO:0008543"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fibroblast growth factor receptor signalling pathway in forebrain neuroblast division"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "16226447"
+    ]
+  },
+  "definition": "The series of molecular signals generated as a consequence of a fibroblast growth factor receptor binding to one of its physiological ligands that contributes to the self renewal of neuroblasts in the forebrain.",
+  "namespace": "biological_process",
+  "label": "fibroblast growth factor receptor signaling pathway involved in forebrain neuroblast division"
+}

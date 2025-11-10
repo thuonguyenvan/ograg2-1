@@ -1,0 +1,29 @@
+{
+  "id": "GO:0097651",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097651",
+  "relationships": {
+    "is_a": [
+      "GO:0005942"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "class I PI3K complex",
+      "class I phosphatidylinositol 3-kinase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ha"
+    ],
+    "PMID": [
+      "24587488"
+    ]
+  },
+  "definition": "A phosphatidylinositol 3-kinase complex that contains a catalytic and a regulatory subunit of a phosphatidylinositol 3-kinase (PI3K) enzyme, plus one or more adaptor proteins. Class I PI3Ks phosphorylate phosphatidylinositol [PI], phosphatidylinositol-4-phosphate [PI(4)P] and phosphatidylinositol-4,5-bisphosphate [PI(4,5)P2], and are divided into subclasses A and B according to the type of adaptor subunit with which they associate. The class I PI3K subfamily of genes comprises members in vertebrates, worm and fly, but none in yeast.",
+  "namespace": "cellular_component",
+  "label": "phosphatidylinositol 3-kinase complex, class I"
+}

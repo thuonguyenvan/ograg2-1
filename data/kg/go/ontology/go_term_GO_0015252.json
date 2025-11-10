@@ -1,0 +1,33 @@
+{
+  "id": "GO:0015252",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015252",
+  "relationships": {
+    "is_a": [
+      "GO:0005261",
+      "GO:0015078"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hydrogen ion channel activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9729542"
+    ],
+    "GOC": [
+      "mtg_transport",
+      "pr"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the facilitated diffusion of a hydrogen ion (by an energy-independent process) involving passage through a transmembrane aqueous pore or channel without evidence for a carrier-mediated mechanism.",
+  "namespace": "molecular_function",
+  "label": "OTOP1 transports H+ from the extracellular region to the cytosol"
+}

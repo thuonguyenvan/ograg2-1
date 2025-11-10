@@ -1,0 +1,33 @@
+{
+  "id": "GO:0005231",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005231",
+  "relationships": {
+    "is_a": [
+      "GO:0005230"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-399711",
+      "R-HSA-399712",
+      "R-HSA-420980",
+      "R-HSA-432164",
+      "R-HSA-438037"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0323037070"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of an ion by a channel that opens when a specific extracellular ligand has been bound by the channel complex or one of its constituent parts, where channel opening contributes to an increase in membrane potential.",
+  "namespace": "molecular_function",
+  "label": "Membrane depolarization upon activation of Ca impermeable AMPA receptors"
+}

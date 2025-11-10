@@ -1,0 +1,51 @@
+{
+  "id": "GO:0018784",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018784",
+  "relationships": {
+    "is_a": [
+      "GO:0019120"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-haloacid dehalogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(S)-2-haloacid halidohydrolase activity",
+      "2-haloacid halidohydrolase activity",
+      "2-haloalkanoic acid dehalogenase activity",
+      "2-haloalkanoid acid halidohydrolase activity",
+      "2-halocarboxylic acid dehalogenase II activity",
+      "DL-2-haloacid dehalogenase activity",
+      "L-2-haloacid dehalogenase activity",
+      "L-DEX activity",
+      "halocarboxylic acid halidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.8.1.2",
+      "3.8.1.2",
+      "3.8.1.2",
+      "3.8.1.2",
+      "3.8.1.2",
+      "3.8.1.2",
+      "3.8.1.2",
+      "3.8.1.2",
+      "3.8.1.2",
+      "3.8.1.2",
+      "3.8.1.2"
+    ],
+    "RHEA": [
+      "11192"
+    ],
+    "UM-BBD_reactionID": [
+      "r0090"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-2-haloacid + H2O = (R)-2-hydroxyacid + halide.",
+  "namespace": "molecular_function",
+  "label": "(S)-2-haloacid dehalogenase activity"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0006264",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006264",
+  "relationships": {
+    "is_a": [
+      "GO:0006261",
+      "GO:0032042"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mtDNA replication",
+      "replication of mitochondrial DNA"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "mitochondrial DNA synthesis",
+      "mtDNA synthesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The process in which new strands of DNA are synthesized in the mitochondrion.",
+  "namespace": "biological_process",
+  "label": "mitochondrial DNA replication"
+}

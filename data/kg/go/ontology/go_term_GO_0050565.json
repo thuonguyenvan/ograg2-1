@@ -1,0 +1,27 @@
+{
+  "id": "GO:0050565",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050565",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "citrate:6-N-acetyl-6-N-hydroxy-L-lysine ligase (ADP-forming)",
+      "citrate:N6-acetyl-N6-hydroxy-L-lysine ligase (ADP-forming)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "32167",
+      "32167"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + N2-citryl-N6-acetyl-N6-hydroxy-L-lysine + N6-acetyl-N6-hydroxy-L-lysine = aerobactin + AMP + diphosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "aerobactin synthase activity"
+}

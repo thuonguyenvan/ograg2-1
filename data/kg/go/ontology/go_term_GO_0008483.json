@@ -1,0 +1,29 @@
+{
+  "id": "GO:0008483",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008483",
+  "relationships": {
+    "is_a": [
+      "GO:0016769"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "aminotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.-",
+      "2.6.1.-"
+    ],
+    "Reactome": [
+      "R-HSA-1237102"
+    ]
+  },
+  "definition": "Catalysis of the transfer of an amino group to an acceptor, usually a 2-oxo acid.",
+  "namespace": "molecular_function",
+  "label": "Transamination of MOB to methionine"
+}

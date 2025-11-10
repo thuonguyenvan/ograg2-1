@@ -1,0 +1,34 @@
+{
+  "id": "GO:0039548",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039548",
+  "relationships": {
+    "is_a": [
+      "GO:0039537"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity"
+    ],
+    "related": [
+      "inhibition of IRF3-dependent antiviral response",
+      "inhibition of host IRF3 by virus",
+      "suppression by virus of host IRF3 activity",
+      "suppression by virus of host interferon regulatory factor 3"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "757"
+    ],
+    "PMID": [
+      "21632562",
+      "19125153"
+    ]
+  },
+  "definition": "A process in which a symbiont interferes with, inhibits or disrupts a cytoplasmic pattern recognition receptor signaling pathway in a host organism by reducing the activity of host IRF3 (interferon regulatory factor-3). IRF3 is a transcription factor in the RIG-I/MDA-5 signaling pathway. Viral infection triggers phosphorylation of cytoplasmic IRF3, which allows IRF3 to form a homodimer, migrate to the nucleus, and activate transcription of IFN-alpha and IFN-beta genes.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity"
+}

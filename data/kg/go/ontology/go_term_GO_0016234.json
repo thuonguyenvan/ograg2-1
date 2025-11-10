@@ -1,0 +1,37 @@
+{
+  "id": "GO:0016234",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016234",
+  "relationships": {
+    "is_a": [
+      "GO:0005622"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "neuronal cytoplasmic inclusion"
+    ],
+    "related": [
+      "cellular inclusion"
+    ]
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao120573470",
+      "sao120573470"
+    ],
+    "Wikipedia": [
+      "Inclusion_bodies"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "11121744"
+    ]
+  },
+  "definition": "A discrete intracellular part formed of aggregated molecules such as proteins or other biopolymers.",
+  "namespace": "cellular_component",
+  "label": "inclusion body"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0019044",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019044",
+  "relationships": {
+    "is_a": [
+      "GO:0016032"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "latent virus maintenance",
+      "prophage maintenance",
+      "provirus maintenance"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The perpetuation of a latent state, generally by repressing the viruses own lytic genes expression and ensuring expression of viral genes which function to keep the viral genome from being detected by the host defense mechanisms.",
+  "namespace": "biological_process",
+  "label": "maintenance of viral latency"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0140638",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140638",
+  "relationships": {
+    "is_a": [
+      "GO:1902555"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "small ribosomal subunit maturation complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "lnp"
+    ],
+    "PMID": [
+      "21849504",
+      "25064857"
+    ]
+  },
+  "definition": "A small heterodimeric protein complex that is required during early maturation of nascent 40S ribosomal subunits. The complex has endonuclease activity, it interacts with the small ribosomal subunit pre-rRNA and cleave it it to produce the mature 18S (or small ribosomal subunit) rRNA. In S. cerevisiae it is composed of Rcl1p and Bms1p.",
+  "namespace": "cellular_component",
+  "label": "small ribosomal subunit processing complex"
+}

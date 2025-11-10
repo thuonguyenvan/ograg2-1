@@ -1,0 +1,28 @@
+{
+  "id": "GO:0080098",
+  "uri": "http://purl.obolibrary.org/obo/GO_0080098",
+  "relationships": {
+    "is_a": [
+      "GO:0008793"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-tyrosine:pyruvate aminotransferase activity"
+    ],
+    "broad": [
+      "L-tyrosine aminotransferase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN3O-4157",
+      "RXN3O-4157"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-tyrosine + pyruvate = (4-hydroxyphenyl)pyruvate + L-alanine.",
+  "namespace": "molecular_function",
+  "label": "L-tyrosine-pyruvate transaminase activity"
+}

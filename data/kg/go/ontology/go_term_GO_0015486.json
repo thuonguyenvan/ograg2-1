@@ -1,0 +1,23 @@
+{
+  "id": "GO:0015486",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015486",
+  "relationships": {
+    "is_a": [
+      "GO:0005402"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.2.-.-"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: (glycoside, pentoside or hexuronide)(out) + monovalent cation(out) = (glycoside, pentoside or hexuronide)(in) + monovalent cation(in). The cation is Na+, Li+ or H+.",
+  "namespace": "molecular_function",
+  "label": "glycoside-pentoside-hexuronide:cation symporter activity"
+}

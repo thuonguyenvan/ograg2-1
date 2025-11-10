@@ -1,0 +1,24 @@
+{
+  "id": "GO:0060573",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060573",
+  "relationships": {
+    "is_a": [
+      "GO:0001708"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The process involved in the specification of the identity of a cell in a field of cells that is being instructed as to how to differentiate. Once specification has taken place, that cell will be committed to differentiate down a specific pathway if left in its normal environment.",
+  "namespace": "biological_process",
+  "label": "cell fate specification involved in pattern specification"
+}

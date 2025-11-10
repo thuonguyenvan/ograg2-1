@@ -1,0 +1,30 @@
+{
+  "id": "GO:0097468",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097468",
+  "relationships": {
+    "is_a": [
+      "GO:0012501"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PCD in response to reactive oxygen species",
+      "reactive oxygen species-mediated PCD",
+      "reactive oxygen species-mediated programmed cell death"
+    ],
+    "broad": [
+      "PCD in response to oxidative stress",
+      "programmed cell death in response to oxidative stress"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_apoptosis"
+    ]
+  },
+  "definition": "Cell death resulting from activation of endogenous cellular processes and occurring as a result of a reactive oxygen species stimulus. Reactive oxygen species include singlet oxygen, superoxide, and oxygen free radicals.",
+  "namespace": "biological_process",
+  "label": "programmed cell death in response to reactive oxygen species"
+}

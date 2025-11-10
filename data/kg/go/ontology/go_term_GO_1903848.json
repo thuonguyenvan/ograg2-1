@@ -1,0 +1,43 @@
+{
+  "id": "GO:1903848",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903848",
+  "relationships": {
+    "is_a": [
+      "GO:1903847",
+      "GO:1905652"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of aorta morphogenesis",
+      "down-regulation of aorta morphogenesis",
+      "downregulation of aorta morphogenesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of aorta morphogenesis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "TermGenie",
+      "rph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22269326"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of aorta morphogenesis.",
+  "namespace": "biological_process",
+  "label": "negative regulation of aorta morphogenesis"
+}

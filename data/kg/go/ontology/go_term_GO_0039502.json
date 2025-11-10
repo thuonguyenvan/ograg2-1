@@ -1,0 +1,49 @@
+{
+  "id": "GO:0039502",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039502",
+  "relationships": {
+    "is_a": [
+      "GO:0140886"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation by virus of host type I interferon-mediated signaling pathway",
+      "suppression by virus of host type I IFN-mediated signaling pathway",
+      "suppression by virus of host type I interferon-mediated signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "suppression by virus of host type I interferon-mediated signaling pathway"
+    ],
+    "related": [
+      "inhibition of host interferon signaling pathway by virus"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "883"
+    ],
+    "GOC": [
+      "add",
+      "bf",
+      "sp",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "19802576",
+      "26712804",
+      "32464097",
+      "32733001",
+      "33097660"
+    ],
+    "UniProtKB-KW": [
+      "KW-1114"
+    ]
+  },
+  "definition": "A process in which a symbiont interferes with, inhibits or disrupts a type I interferon-mediated signaling in the host organism. Type I interferons include the interferon-alpha, beta, delta, episilon, zeta, kappa, tau, and omega gene families.",
+  "namespace": "biological_process",
+  "label": "Inhibition of host IFN-mediated response initiation by virus"
+}

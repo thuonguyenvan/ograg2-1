@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033896",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033896",
+  "relationships": {
+    "is_a": [
+      "GO:0016891"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "poly(U)- and poly(C)-specific endoribonuclease activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.26.10",
+      "3.1.26.10",
+      "3.1.26.10"
+    ],
+    "MetaCyc": [
+      "3.1.26.10-RXN"
+    ]
+  },
+  "definition": "Catalysis of the endonucleolytic cleavage of poly(U) or poly(C) to fragments terminated by 3&apos;-hydroxy and 5&apos;-phosphate groups.",
+  "namespace": "molecular_function",
+  "label": "ribonuclease IX activity"
+}

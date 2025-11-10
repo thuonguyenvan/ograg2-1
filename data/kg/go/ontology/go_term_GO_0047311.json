@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047311",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047311",
+  "relationships": {
+    "is_a": [
+      "GO:0008483"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol aminotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol:pyruvate aminotransferase activity",
+      "L-alanine-N-amidino-3-(or 5-)keto-scyllo-inosamine transaminase activity",
+      "guanidinoaminodideoxy-scyllo-inositol-pyruvate aminotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.56",
+      "2.6.1.56",
+      "2.6.1.56",
+      "2.6.1.56",
+      "2.6.1.56"
+    ],
+    "KEGG_REACTION": [
+      "R03502"
+    ],
+    "MetaCyc": [
+      "2.6.1.56-RXN"
+    ],
+    "RHEA": [
+      "15497",
+      "15497"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol + pyruvate = 1D-1-guanidino-1-deoxy-3-dehydro-scyllo-inositol + L-alanine.",
+  "namespace": "molecular_function",
+  "label": "1D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol transaminase activity"
+}

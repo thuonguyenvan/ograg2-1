@@ -1,0 +1,31 @@
+{
+  "id": "GO:0019634",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019634",
+  "relationships": {
+    "is_a": [
+      "GO:0006793",
+      "GO:0043436"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphonate metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "organophosphonate metabolic process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "js"
+    ],
+    "ISBN": [
+      "0721662544"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving phosphonates, any organic compounds containing one or more C-PO(OH)2 or C-PO(OR)2 (with R=alkyl, aryl) groups. Metabolism of phosphonic acid itself, an inorganic compound without the biochemically relevant C-P bond, is not included.",
+  "namespace": "biological_process",
+  "label": "organic phosphonate metabolic process"
+}

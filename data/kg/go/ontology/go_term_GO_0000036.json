@@ -1,0 +1,27 @@
+{
+  "id": "GO:0000036",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000036",
+  "relationships": {
+    "is_a": [
+      "GO:0044620",
+      "GO:0140414"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ACP phosphopantetheine attachment site binding involved in fatty acid biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "vw"
+    ]
+  },
+  "definition": "Binding an acyl group and presenting it for processing or offloading to a cognate enzyme. Covalently binds the acyl group via a phosphopantetheine prosthetic group and mediates protein-protein interactions with the enzyme conferring specificity. The acyl carrier protein (ACP) presents substrates to enzymes involved in fatty acid biosynthesis or in polyketide secondary metabolite biosynthesis.",
+  "namespace": "molecular_function",
+  "label": "acyl carrier activity"
+}

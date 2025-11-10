@@ -1,0 +1,35 @@
+{
+  "id": "GO:0140043",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140043",
+  "relationships": {
+    "is_a": [
+      "GO:0010876",
+      "GO:0051668"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "adiposome localization to FSM membrane leading edge",
+      "adiposome localization to ascospore-type prospore membrane leading edge",
+      "lipid body localization to FSM membrane leading edge",
+      "lipid body localization to ascospore-type prospore membrane leading edge",
+      "lipid particle localization to FSM membrane leading edge",
+      "lipid particle localization to ascospore-type prospore membrane leading edge"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "adiposome localization to forespore membrane leading edge",
+      "lipid body localization to forespore membrane leading edge",
+      "lipid particle localization to forespore membrane leading edge"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "28011631"
+    ]
+  },
+  "definition": "Any process in which a lipid droplet is transported to, or maintained to the prospore membrane leading edge.",
+  "namespace": "biological_process",
+  "label": "lipid droplet localization to prospore membrane leading edge"
+}

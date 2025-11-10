@@ -1,0 +1,26 @@
+{
+  "id": "GO:0120518",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120518",
+  "relationships": {
+    "is_a": [
+      "GO:0004596"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptide-methionine-alpha-N-acetyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "75239",
+      "75239"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + N-terminal L-methionyl-[protein] = CoA + H+ + N-terminal N(alpha)-acetyl-L-methionyl-[protein].",
+  "namespace": "molecular_function",
+  "label": "protein N-terminal-methionine acetyltransferase activity"
+}

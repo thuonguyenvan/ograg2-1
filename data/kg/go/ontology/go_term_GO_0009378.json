@@ -1,0 +1,33 @@
+{
+  "id": "GO:0009378",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009378",
+  "relationships": {
+    "is_a": [
+      "GO:0003678"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent four-way junction DNA helicase activity",
+      "ATP-dependent four-way junction helicase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "ATP-dependent Holliday junction helicase activity",
+      "Holliday junction helicase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "al"
+    ],
+    "PMID": [
+      "22723423",
+      "9442895"
+    ]
+  },
+  "definition": "Unwinding a DNA helix of DNA containing four-way junctions, including Holliday junctions, driven by ATP hydrolysis.",
+  "namespace": "molecular_function",
+  "label": "four-way junction helicase activity"
+}

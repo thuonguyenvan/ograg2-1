@@ -1,0 +1,35 @@
+{
+  "id": "GO:0036140",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036140",
+  "relationships": {
+    "is_a": [
+      "GO:0016706",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptidyl-asparagine 3-dioxygenase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "hypoxia-inducible factor-asparagine oxygenase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "54260",
+      "54260"
+    ],
+    "GOC": [
+      "reh"
+    ],
+    "PMID": [
+      "12215170"
+    ]
+  },
+  "definition": "Catalysis of the reaction: peptidyl L-asparagine + 2-oxoglutarate + O2 = peptidyl 3-hydroxy-L-asparagine + succinate + CO2.",
+  "namespace": "molecular_function",
+  "label": "[protein]-asparagine 3-dioxygenase activity"
+}

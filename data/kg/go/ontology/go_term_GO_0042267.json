@@ -1,0 +1,36 @@
+{
+  "id": "GO:0042267",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042267",
+  "relationships": {
+    "is_a": [
+      "GO:0001909",
+      "GO:0002228"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NK cell mediated cell death",
+      "NK cell mediated cell killing",
+      "NK cell mediated cytotoxicity",
+      "natural killer cell mediated cell death",
+      "natural killer cell mediated cell killing"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NK cell mediated cytolysis",
+      "killer activity",
+      "natural killer cell mediated cytolysis",
+      "natural killer-cell mediated cytolysis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "pr"
+    ]
+  },
+  "definition": "The directed killing of a target cell by a natural killer cell through the release of granules containing cytotoxic mediators or through the engagement of death receptors.",
+  "namespace": "biological_process",
+  "label": "natural killer cell mediated cytotoxicity"
+}

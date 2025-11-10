@@ -1,0 +1,43 @@
+{
+  "id": "GO:0033988",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033988",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "7alpha,12alpha-dihydroxy-3-oxochol-4-enoate hydro-lyase (12alpha-hydroxy-3-oxochola-4,6-dienoate-forming) activity",
+      "7alpha,12alpha-dihydroxy-3-oxochol-4-enoate hydro-lyase activity",
+      "BA7 alpha dehydratase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.106",
+      "4.2.1.106",
+      "4.2.1.106",
+      "4.2.1.106"
+    ],
+    "KEGG_REACTION": [
+      "R07318"
+    ],
+    "MetaCyc": [
+      "BA7DEHYDRA-RXN"
+    ],
+    "RHEA": [
+      "10436",
+      "10436"
+    ],
+    "PMID": [
+      "26650892"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 7alpha,12alpha-dihydroxy-3-oxochol-4-en-24-oate = 12alpha-hydroxy-3-oxochola-4,6-dien-24-oate + H2O.",
+  "namespace": "molecular_function",
+  "label": "bile-acid 7alpha-dehydratase activity"
+}

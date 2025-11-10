@@ -1,0 +1,35 @@
+{
+  "id": "GO:0031666",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031666",
+  "relationships": {
+    "is_a": [
+      "GO:0002833",
+      "GO:0009967",
+      "GO:0031664",
+      "GO:0032103"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of LPS-mediated signaling pathway",
+      "positive regulation of lipopolysaccharide-mediated signalling pathway",
+      "up regulation of lipopolysaccharide-mediated signaling pathway",
+      "up-regulation of lipopolysaccharide-mediated signaling pathway",
+      "upregulation of lipopolysaccharide-mediated signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of lipopolysaccharide-mediated signaling pathway",
+      "stimulation of lipopolysaccharide-mediated signaling pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of signaling in response to detection of lipopolysaccharide.",
+  "namespace": "biological_process",
+  "label": "positive regulation of lipopolysaccharide-mediated signaling pathway"
+}

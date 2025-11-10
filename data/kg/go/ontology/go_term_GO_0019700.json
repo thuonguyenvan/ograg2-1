@@ -1,0 +1,30 @@
+{
+  "id": "GO:0019700",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019700",
+  "relationships": {
+    "is_a": [
+      "GO:0009056",
+      "GO:0019634"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphonate breakdown",
+      "phosphonate catabolism",
+      "phosphonate degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "organophosphonate catabolic process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "js"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of phosphonates, any organic compound containing one or more C-PO(OH)2 or C-PO(OR)2 (with R=alkyl, aryl) groups. Catabolism of phosphonic acid itself, an inorganic compound without the biochemically relevant C-P bond, is not included.",
+  "namespace": "biological_process",
+  "label": "organic phosphonate catabolic process"
+}

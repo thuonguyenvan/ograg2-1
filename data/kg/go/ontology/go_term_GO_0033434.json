@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033434",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033434",
+  "relationships": {
+    "is_a": [
+      "GO:0030533"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATC codon-amino acid adaptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "isoleucine tRNA"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "hjd",
+      "hjd",
+      "mah"
+    ]
+  },
+  "definition": "A triplet codon-amino acid adaptor activity that recognizes an AUC codon.",
+  "namespace": "molecular_function",
+  "label": "AUC codon-amino acid adaptor activity"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "GO:0047921",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047921",
+  "relationships": {
+    "is_a": [
+      "GO:0034069"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "acetyl-CoA:gentamicin-C1a N2&apos;-acetyltransferase activity",
+      "acetyl-CoA:gentamycin-C1a N2&apos;-acetyltransferase activity",
+      "gentamicin 2&apos;-N-acetyltransferase activity",
+      "gentamicin acetyltransferase II activity",
+      "gentamycin 2&apos;-N-acetyltransferase activity"
+    ],
+    "related": [
+      "gentamycin acetyltransferase II"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.59",
+      "2.3.1.59",
+      "2.3.1.59",
+      "2.3.1.59",
+      "2.3.1.59",
+      "2.3.1.59"
+    ],
+    "KEGG_REACTION": [
+      "R03056"
+    ],
+    "MetaCyc": [
+      "GENTAMICIN-2-N-ACETYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "24516",
+      "24516"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + gentamicin C(1a) = N(2&apos;)-acetylgentamicin C(1a) + CoA + H+. This is acetylation of the 2&apos;-amino group of the 6-deoxy-6-aminoglucose ring.",
+  "namespace": "molecular_function",
+  "label": "aminoglycoside 2&apos;-N-acetyltransferase activity"
+}

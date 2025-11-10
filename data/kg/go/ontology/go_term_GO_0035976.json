@@ -1,0 +1,41 @@
+{
+  "id": "GO:0035976",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035976",
+  "relationships": {
+    "is_a": [
+      "GO:0090575"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "AP-1 complex",
+      "AP1 complex",
+      "Activating protein 1 complex",
+      "transcription factor AP1 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "bf",
+      "rl",
+      "rl",
+      "rl",
+      "rl",
+      "rl"
+    ],
+    "PMID": [
+      "20060892",
+      "9069263"
+    ],
+    "Wikipedia": [
+      "AP-1_transcription_factor"
+    ]
+  },
+  "definition": "A heterodimeric transcription factor complex composed of proteins from the c-Fos, c-Jun, activating transcription factor (ATF) or JDP families. The subunits contain a basic leucine zipper (bZIP) domain that is essential for dimerization and DNA binding. Jun-Fos heterodimers bind preferentially to a heptamer consensus sequence (TPA responsive element (TRE)), whereas Jun-ATF dimers bind the cyclic AMP responsive element (CRE) to regulate transcription of target genes.",
+  "namespace": "cellular_component",
+  "label": "transcription factor AP-1 complex"
+}

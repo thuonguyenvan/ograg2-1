@@ -1,0 +1,39 @@
+{
+  "id": "GO:0036520",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036520",
+  "relationships": {
+    "is_a": [
+      "GO:0150098"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "astrocyte-dopaminergic neuron cell signaling"
+    ],
+    "broad": [],
+    "narrow": [
+      "mesencephalic dopaminergic neuron-astrocyte crosstalk",
+      "midbrain dopaminergic neuron-astrocyte crosstalk"
+    ],
+    "related": [
+      "dopaminergic neuron-astrocyte crosstalk"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "12794311",
+      "21752258",
+      "21752258",
+      "21752258",
+      "21752258"
+    ]
+  },
+  "definition": "Cell-cell signaling that mediates the transfer of information from an astrocyte to a dopaminergic neuron.",
+  "namespace": "biological_process",
+  "label": "astrocyte-dopaminergic neuron signaling"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0019149",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019149",
+  "relationships": {
+    "is_a": [
+      "GO:0016848"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-chloro-D-alanine chloride-lyase (deaminating)",
+      "3-chloro-D-alanine chloride-lyase (deaminating; pyruvate-forming)",
+      "beta-chloro-D-alanine dehydrochlorinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.5.1.2",
+      "4.5.1.2",
+      "4.5.1.2",
+      "4.5.1.2",
+      "4.5.1.2"
+    ],
+    "MetaCyc": [
+      "3-CHLORO-D-ALANINE-DEHYDROCHLORINASE-RXN"
+    ],
+    "RHEA": [
+      "18873"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-chloro-D-alanine + H2O = pyruvate + chloride + NH3.",
+  "namespace": "molecular_function",
+  "label": "3-chloro-D-alanine dehydrochlorinase activity"
+}

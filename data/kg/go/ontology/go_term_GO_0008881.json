@@ -1,0 +1,34 @@
+{
+  "id": "GO:0008881",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008881",
+  "relationships": {
+    "is_a": [
+      "GO:0047661"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.1.3",
+      "5.1.1.3"
+    ],
+    "KEGG_REACTION": [
+      "R00260"
+    ],
+    "MetaCyc": [
+      "GLUTRACE-RXN"
+    ],
+    "RHEA": [
+      "12813",
+      "12813"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-glutamate = D-glutamate.",
+  "namespace": "molecular_function",
+  "label": "glutamate racemase activity"
+}

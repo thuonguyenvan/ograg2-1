@@ -1,0 +1,30 @@
+{
+  "id": "GO:0000404",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000404",
+  "relationships": {
+    "is_a": [
+      "GO:0000217",
+      "GO:0032135"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "loop DNA binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "elh",
+      "jh"
+    ],
+    "PMID": [
+      "16781730"
+    ]
+  },
+  "definition": "Binding to a DNA segment containing a loop. A loop occurs when DNA contains a large insertion or deletion that causes a region of unpaired single-stranded DNA to loop out, while the rest of the DNA is in a paired double-stranded configuration.",
+  "namespace": "molecular_function",
+  "label": "heteroduplex DNA loop binding"
+}

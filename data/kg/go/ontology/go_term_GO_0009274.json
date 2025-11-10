@@ -1,0 +1,32 @@
+{
+  "id": "GO:0009274",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009274",
+  "relationships": {
+    "is_a": [
+      "GO:0005618"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "envelope"
+    ],
+    "narrow": [
+      "peptidoglycan"
+    ],
+    "related": [
+      "murein sacculus"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mlg"
+    ],
+    "ISBN": [
+      "0815108893"
+    ]
+  },
+  "definition": "A protective structure outside the cytoplasmic membrane composed of peptidoglycan (also known as murein), a molecule made up of a glycan (sugar) backbone of repetitively alternating N-acetylglucosamine and N-acetylmuramic acid with short, attached, cross-linked peptide chains containing unusual amino acids. An example of this component is found in Escherichia coli.",
+  "namespace": "cellular_component",
+  "label": "peptidoglycan-based cell wall"
+}

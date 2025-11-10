@@ -1,0 +1,46 @@
+{
+  "id": "GO:0003376",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003376",
+  "relationships": {
+    "is_a": [
+      "GO:0007186",
+      "GO:0090520"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "S1P receptor signaling pathway",
+      "S1P-activated G-protein coupled receptor signaling pathway",
+      "S1P-activated GPCR signaling pathway",
+      "S1P-stimulated signal transduction pathway"
+    ],
+    "broad": [
+      "sphingolipid signaling pathway",
+      "sphingolipid signalling pathway"
+    ],
+    "narrow": [],
+    "related": [
+      "S1P signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ascb_2009",
+      "signaling",
+      "bf",
+      "mah",
+      "bf",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "14592418",
+      "22001186",
+      "22001186"
+    ]
+  },
+  "definition": "A G protein-coupled receptor signaling pathway initiated by sphingosine-1-phosphate binding to its receptor on the surface of a cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "sphingosine-1-phosphate receptor signaling pathway"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0090655",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090655",
+  "relationships": {
+    "is_a": [
+      "GO:0000406",
+      "GO:0042162"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "bhm",
+      "nc"
+    ],
+    "PMID": [
+      "21852327"
+    ]
+  },
+  "definition": "Binding to a junction formed at the point where double-stranded telomeric DNA becomes a single-stranded G-rich telomeric DNA 3&apos; overhang.",
+  "namespace": "molecular_function",
+  "label": "double-stranded/single-stranded junction telomeric DNA binding"
+}

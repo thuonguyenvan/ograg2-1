@@ -1,0 +1,29 @@
+{
+  "id": "GO:0010395",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010395",
+  "relationships": {
+    "is_a": [
+      "GO:0010383",
+      "GO:0010393",
+      "GO:0052546"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "rhamnogalacturonan I metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RGI metabolism"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "tair_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving rhamnogalacturonan I (RGI), a branched pectin with a backbone of alternating alpha-(1-&gt;2)-linked rhamnose and alpha-(1-&gt;4)-linked D-galacturonic acid residues that carries neutral side-chains of predominantly beta-(1-&gt;4)-D-galactose and/or alpha-(1-&gt;5)-L-arabinose residues attached to the rhamnose residues of the RGI backbone.",
+  "namespace": "biological_process",
+  "label": "rhamnogalacturonan I metabolic process"
+}

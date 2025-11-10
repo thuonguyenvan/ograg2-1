@@ -1,0 +1,32 @@
+{
+  "id": "GO:0001994",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001994",
+  "relationships": {
+    "is_a": [
+      "GO:0042310"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "noradrenaline-adrenaline vasoconstriction involved in regulation of blood pressure",
+      "norepinephrine-epinephrine vasoconstriction during blood pressure regulation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "norepinephrine-epinephrine vasoconstriction during blood pressure control",
+      "norepinephrine-epinephrine vasoconstriction during control of blood pressure"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cardio"
+    ],
+    "ISBN": [
+      "0721643949"
+    ]
+  },
+  "definition": "A process that results in a decrease in the diameter of an artery during the norepinephrine-epinephrine response to decreased blood pressure.",
+  "namespace": "biological_process",
+  "label": "norepinephrine-epinephrine vasoconstriction involved in regulation of systemic arterial blood pressure"
+}

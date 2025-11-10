@@ -1,0 +1,47 @@
+{
+  "id": "GO:0004067",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004067",
+  "relationships": {
+    "is_a": [
+      "GO:0004040"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-asparaginase activity",
+      "L-asparagine amidohydrolase activity",
+      "alpha-asparaginase activity",
+      "asparaginase II",
+      "colaspase activity",
+      "crasnitin",
+      "elspar",
+      "leunase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.1",
+      "3.5.1.1",
+      "3.5.1.1",
+      "3.5.1.1",
+      "3.5.1.1",
+      "3.5.1.1",
+      "3.5.1.1",
+      "3.5.1.1",
+      "3.5.1.1",
+      "3.5.1.1"
+    ],
+    "RHEA": [
+      "21016"
+    ],
+    "Reactome": [
+      "R-HSA-6797627"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-asparagine + H2O = L-aspartate + NH4+.",
+  "namespace": "molecular_function",
+  "label": "ASPG hydrolyses L-Asn to L-Asp"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:1902853",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902853",
+  "relationships": {
+    "is_a": [
+      "GO:1902839",
+      "GO:1902852"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of nuclear migration during mitotic telophase",
+      "down-regulation of nuclear migration during mitotic telophase",
+      "downregulation of nuclear migration during mitotic telophase"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of nuclear migration during mitotic telophase"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23087209"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of nuclear migration during mitotic telophase.",
+  "namespace": "biological_process",
+  "label": "negative regulation of nuclear migration during mitotic telophase"
+}

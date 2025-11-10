@@ -1,0 +1,30 @@
+{
+  "id": "GO:0016653",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016653",
+  "relationships": {
+    "is_a": [
+      "GO:0016651"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "oxidoreductase activity, acting on NADH or NADPH, haem protein as acceptor"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "oxidoreductase activity, acting on NADH or NADPH, heme protein as acceptor"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.6.2.-"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Catalysis of an oxidation-reduction (redox) reaction in which NADH or NADPH acts as a hydrogen or electron donor and reduces a heme protein.",
+  "namespace": "molecular_function",
+  "label": "oxidoreductase activity, acting on NAD(P)H, heme protein as acceptor"
+}

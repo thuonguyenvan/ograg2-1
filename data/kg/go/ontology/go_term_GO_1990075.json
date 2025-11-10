@@ -1,0 +1,30 @@
+{
+  "id": "GO:1990075",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990075",
+  "relationships": {
+    "is_a": [
+      "GO:0098590"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PCMC"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "dr",
+      "krc"
+    ],
+    "PMID": [
+      "22342749"
+    ]
+  },
+  "definition": "A plasma membrane region adjacent to the base of eukaryotic cilia and flagella that is enriched in endocytosis-associated proteins and vesicles and that appears to regulate ciliary membrane homeostasis.",
+  "namespace": "cellular_component",
+  "label": "periciliary membrane compartment"
+}

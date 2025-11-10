@@ -1,0 +1,48 @@
+{
+  "id": "GO:0035539",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035539",
+  "relationships": {
+    "is_a": [
+      "GO:0047429"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "8-oxo-7,8-dihydro-2&apos;-deoxyguanosine 5&apos;-triphosphate pyrophosphohydrolase activity",
+      "8-oxo-7,8-dihydro-deoxyguanosine triphosphate pyrophosphatase activity",
+      "8-oxo-7,8-dihydrodeoxyguanosine triphosphatase activity",
+      "8-oxo-dGTP pyrophosphohydrolase activity",
+      "8-oxo-dGTPase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.55"
+    ],
+    "RHEA": [
+      "31575",
+      "31575"
+    ],
+    "Reactome": [
+      "R-HSA-2395849",
+      "R-HSA-2395869",
+      "R-HSA-9750555"
+    ],
+    "PMID": [
+      "17804481",
+      "7782328",
+      "7859359",
+      "17804481",
+      "17804481",
+      "7782328",
+      "17804481",
+      "7782328"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 8-oxo-7,8-dihydrodeoxyguanosine-triphosphate (8-oxo-dGTP) + H2O = 8-oxo-7,8-dihydrodeoxyguanosine phosphate (8-oxo-dGMP) + diphosphate. 8-oxo-dGTP is the oxidised form of the free guanine nucleotide and can act as a potent mutagenic substrate for DNA synthesis causing transversion mutations. 8-oxo-dGTPase hydrolyses 8-oxo-dGTP to its monophosphate form to prevent the misincorporation of 8-oxo-dGTP into cellular DNA.",
+  "namespace": "molecular_function",
+  "label": "NUDT15 dimer dephosphorylates 6TdGTP to 6TdGMP"
+}

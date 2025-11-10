@@ -1,0 +1,50 @@
+{
+  "id": "GO:0047751",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047751",
+  "relationships": {
+    "is_a": [
+      "GO:0003865",
+      "GO:0035671"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "3-oxosteroid delta4-dehydrogenase",
+      "steroid 5alpha-hydrogenase activity",
+      "steroid 5alpha-reductase",
+      "sterol 5-alpha reductase activity"
+    ],
+    "narrow": [
+      "cholestenone 5-alpha-reductase activity",
+      "cholestenone 5a-reductase activity",
+      "cholestenone 5alpha-reductase activity",
+      "progesterone 5-alpha-reductase activity",
+      "testosterone 5alpha-reductase",
+      "testosterone delta4-hydrogenase activity"
+    ],
+    "related": [
+      "3-oxosteroid 5alpha-reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.3.1.22",
+      "1.3.1.22",
+      "1.3.1.22"
+    ],
+    "KEGG_REACTION": [
+      "R02610"
+    ],
+    "MetaCyc": [
+      "1.3.99.5-RXN"
+    ],
+    "RHEA": [
+      "54384",
+      "54384"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-oxo-5alpha-steroid + NADP+ = a 3-oxo-delta(4)-steroid + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "3-oxo-5-alpha-steroid 4-dehydrogenase (NADP+) activity"
+}

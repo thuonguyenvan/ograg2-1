@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102930",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102930",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.93"
+    ],
+    "MetaCyc": [
+      "RXN-8920"
+    ],
+    "RHEA": [
+      "27854",
+      "27854"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: geranyl diphosphate + 4-hydroxybenzoic acid = 3-geranyl-4-hydroxybenzoate + diphosphoric acid.",
+  "namespace": "molecular_function",
+  "label": "4-hydroxybenzoate geranyltransferase activity"
+}

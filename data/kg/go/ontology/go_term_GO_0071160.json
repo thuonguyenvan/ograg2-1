@@ -1,0 +1,27 @@
+{
+  "id": "GO:0071160",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071160",
+  "relationships": {
+    "is_a": [
+      "GO:0043860"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.29",
+      "6.3.2.29"
+    ],
+    "RHEA": [
+      "13277"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + [L-Asp(4-L-Arg)]n + L-Asp = ADP + phosphate + [L-Asp(4-L-Arg)]n-L-Asp.",
+  "namespace": "molecular_function",
+  "label": "cyanophycin synthetase activity (L-aspartate-adding)"
+}

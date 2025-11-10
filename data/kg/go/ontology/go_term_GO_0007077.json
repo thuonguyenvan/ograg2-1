@@ -1,0 +1,40 @@
+{
+  "id": "GO:0007077",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007077",
+  "relationships": {
+    "is_a": [
+      "GO:0051081",
+      "GO:1903047"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitotic nuclear envelope breakdown"
+    ],
+    "broad": [
+      "NEB",
+      "local NEB",
+      "nuclear envelope breakdown"
+    ],
+    "narrow": [],
+    "related": [
+      "mitotic nuclear envelope catabolism",
+      "mitotic nuclear envelope degradation",
+      "mitotic nuclear envelope disassembly"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2980766"
+    ],
+    "GOC": [
+      "bf"
+    ],
+    "PMID": [
+      "32848252"
+    ]
+  },
+  "definition": "The mitotic cell cycle process in which the controlled partial or complete breakdown of the nuclear membranes during occurs during mitosis.",
+  "namespace": "biological_process",
+  "label": "Nuclear Envelope Breakdown"
+}

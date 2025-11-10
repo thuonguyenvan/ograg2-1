@@ -1,0 +1,32 @@
+{
+  "id": "GO:0000417",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000417",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "HIRA complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "elh",
+      "mah"
+    ],
+    "PMID": [
+      "16303565",
+      "17180700",
+      "19620282",
+      "20976105"
+    ]
+  },
+  "definition": "A protein complex proposed to be involved in replication-independent nucleosome assembly, by promoting histone deposition onto DNA. For example, in Saccharomyces, the complex contains Hir1p, Hir2p, Hir3p, and Hpc2p.",
+  "namespace": "cellular_component",
+  "label": "HIR complex"
+}

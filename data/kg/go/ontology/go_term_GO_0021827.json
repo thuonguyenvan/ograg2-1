@@ -1,0 +1,33 @@
+{
+  "id": "GO:0021827",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021827",
+  "relationships": {
+    "is_a": [
+      "GO:0021823",
+      "GO:0022028"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "12626695"
+    ]
+  },
+  "definition": "The migration of olfactory bulb interneuron precursors in the cerebral cortex that occurs after birth.",
+  "namespace": "biological_process",
+  "label": "postnatal olfactory bulb interneuron migration"
+}

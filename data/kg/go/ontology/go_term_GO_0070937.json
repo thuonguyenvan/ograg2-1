@@ -1,0 +1,29 @@
+{
+  "id": "GO:0070937",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070937",
+  "relationships": {
+    "is_a": [
+      "GO:0140535"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "coding-region determinant of instability-mediated mRNA stability complex",
+      "coding-region instability determinant -mediated mRNA stability complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "19029303"
+    ]
+  },
+  "definition": "A protein complex that binds to, and promotes stabilization of, mRNA molecules containing the coding region instability determinant (CRD). In human, it may consist of IGF2BP1, HNRNPU, SYNCRIP/HNRNPQ, YBX1, and DHX9.",
+  "namespace": "cellular_component",
+  "label": "CRD-mediated mRNA stability complex"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0098914",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098914",
+  "relationships": {
+    "is_a": [
+      "GO:0086013",
+      "GO:0099624"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "atrial repolarization",
+      "electrocardiogram QRS complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mtg_cardiac_conduct_nov11",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The process in which ions are transported across a membrane such that the atrial cardiomyocyte membrane potential changes in the direction from the positive membrane potential at the peak of the action potential towards the negative resting potential.",
+  "namespace": "biological_process",
+  "label": "membrane repolarization during atrial cardiac muscle cell action potential"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0110018",
+  "uri": "http://purl.obolibrary.org/obo/GO_0110018",
+  "relationships": {
+    "is_a": [
+      "GO:0002190"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cap-independent translational initiation of circRNA"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "28281539",
+      "28344080",
+      "28344082"
+    ]
+  },
+  "definition": "The process where translation initiation recruits the 40S ribosomal subunits in a cap and 5&apos; end independent fashion before an AUG codon is encountered in an appropriate sequence context to initiate circRNA translation.",
+  "namespace": "biological_process",
+  "label": "cap-independent translational initiation of circular RNA"
+}

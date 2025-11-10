@@ -1,0 +1,45 @@
+{
+  "id": "GO:1901088",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901088",
+  "relationships": {
+    "is_a": [
+      "GO:0042318",
+      "GO:1901086"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "benzylpenicillin anabolism",
+      "benzylpenicillin biosynthesis",
+      "benzylpenicillin formation",
+      "benzylpenicillin synthesis",
+      "penicillin G anabolism",
+      "penicillin G biosynthesis",
+      "penicillin G formation",
+      "penicillin G synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf"
+    ],
+    "UniPathway": [
+      "UPA00149"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of benzylpenicillin.",
+  "namespace": "biological_process",
+  "label": "benzylpenicillin biosynthetic process"
+}

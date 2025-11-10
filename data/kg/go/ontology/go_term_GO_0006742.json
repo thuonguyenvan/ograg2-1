@@ -1,0 +1,46 @@
+{
+  "id": "GO:0006742",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006742",
+  "relationships": {
+    "is_a": [
+      "GO:0006195",
+      "GO:0006739",
+      "GO:0019364"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NADP (oxidized) catabolic process",
+      "NADP (oxidized) catabolism",
+      "NADP (reduced) catabolic process",
+      "NADP (reduced) catabolism",
+      "NADP breakdown",
+      "NADP catabolic process",
+      "NADP catabolism",
+      "NADP degradation",
+      "NADPH catabolic process",
+      "NADPH catabolism",
+      "nicotinamide adenine dinucleotide phosphate catabolic process",
+      "nicotinamide adenine dinucleotide phosphate catabolism",
+      "oxidized NADP catabolic process",
+      "oxidized NADP catabolism",
+      "oxidized nicotinamide adenine dinucleotide phosphate catabolic process",
+      "oxidized nicotinamide adenine dinucleotide phosphate catabolism",
+      "reduced NADP catabolic process",
+      "reduced NADP catabolism",
+      "reduced nicotinamide adenine dinucleotide phosphate catabolic process",
+      "reduced nicotinamide adenine dinucleotide phosphate catabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of nicotinamide adenine dinucleotide phosphate (NADP+), a coenzyme that interconverts with its reduced form, NADPH, in many redox and biosynthetic reactions.",
+  "namespace": "biological_process",
+  "label": "NADP+ catabolic process"
+}

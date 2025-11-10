@@ -1,0 +1,34 @@
+{
+  "id": "GO:0016077",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016077",
+  "relationships": {
+    "is_a": [
+      "GO:0006401",
+      "GO:0016074"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sno(s)RNA breakdown",
+      "sno(s)RNA catabolism",
+      "sno(s)RNA degradation"
+    ],
+    "broad": [],
+    "narrow": [
+      "sRNA catabolic process",
+      "snoRNA catabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of snoRNA, small nucleolar RNA, any of a class of small RNAs that are associated with the eukaryotic nucleus as components of small nucleolar ribonucleoproteins.",
+  "namespace": "biological_process",
+  "label": "sno(s)RNA catabolic process"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0004026",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004026",
+  "relationships": {
+    "is_a": [
+      "GO:0016413",
+      "GO:0034318"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "AATASE activity",
+      "acetyl-CoA:alcohol O-acetyltransferase activity",
+      "alcohol acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.84",
+      "2.3.1.84",
+      "2.3.1.84",
+      "2.3.1.84",
+      "2.3.1.84"
+    ],
+    "MetaCyc": [
+      "ALCOHOL-O-ACETYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "17229"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + an alcohol = CoA + an acetyl ester.",
+  "namespace": "molecular_function",
+  "label": "alcohol O-acetyltransferase activity"
+}

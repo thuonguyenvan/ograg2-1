@@ -1,0 +1,46 @@
+{
+  "id": "GO:0046480",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046480",
+  "relationships": {
+    "is_a": [
+      "GO:0008378"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "galactolipid:galactolipid galactosyltransferase activity"
+    ],
+    "broad": [
+      "DGDG synthase activity",
+      "digalactosyldiacylglycerol synthase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "3-(beta-D-galactosyl)-1,2-diacyl-sn-glycerol:mono-3-(beta-D-galactosyl)-1,2-diacyl-sn-glycerol beta-D-galactosyltransferase activity",
+      "GGGT activity",
+      "galactolipid-galactolipid galactosyltransferase activity",
+      "interlipid galactosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.184",
+      "2.4.1.184",
+      "2.4.1.184",
+      "2.4.1.184",
+      "2.4.1.184",
+      "2.4.1.184",
+      "2.4.1.184",
+      "2.4.1.184"
+    ],
+    "MetaCyc": [
+      "RXN-1226"
+    ],
+    "RHEA": [
+      "15921"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 mono-beta-D-galactosyldiacylglycerol = alpha-D-galactosyl-beta-D-galactosyldiacylglycerol + 1,2-diacylglycerol.",
+  "namespace": "molecular_function",
+  "label": "galactolipid galactosyltransferase activity"
+}

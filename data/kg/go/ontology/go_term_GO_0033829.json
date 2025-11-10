@@ -1,0 +1,36 @@
+{
+  "id": "GO:0033829",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033829",
+  "relationships": {
+    "is_a": [
+      "GO:0008375"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "O-fucosylpeptide beta-1,3-N-acetylglucosaminyltransferase activity",
+      "UDP-D-GlcNAc:O-L-fucosylpeptide 3-beta-N-acetyl-D-glucosaminyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.222",
+      "2.4.1.222",
+      "2.4.1.222",
+      "2.4.1.222"
+    ],
+    "MetaCyc": [
+      "2.4.1.222-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-1912355",
+      "R-HSA-5096538"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a beta-D-GlcNAc residue from UDP-D-GlcNAc to the fucose residue of a fucosylated protein acceptor.",
+  "namespace": "molecular_function",
+  "label": "Defective LFNG does not transfer GlcNAc to Pre-NOTCH"
+}

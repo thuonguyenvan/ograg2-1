@@ -1,0 +1,35 @@
+{
+  "id": "GO:0047606",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047606",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hydroxynitrile lyase activity"
+    ],
+    "broad": [
+      "hydroxynitrilase activity"
+    ],
+    "narrow": [
+      "alpha-hydroxynitrile lyase activity"
+    ],
+    "related": [
+      "oxynitrilase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.47",
+      "4.1.2.47"
+    ],
+    "PMID": [
+      "3377504"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a (S)-hydroxynitrile = hydrogen cyanide + an aldehyde or ketone.",
+  "namespace": "molecular_function",
+  "label": "(S)-hydroxynitrile lyase activity"
+}

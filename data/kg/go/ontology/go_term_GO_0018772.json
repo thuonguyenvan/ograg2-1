@@ -1,0 +1,28 @@
+{
+  "id": "GO:0018772",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018772",
+  "relationships": {
+    "is_a": [
+      "GO:0016823"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "R306-RXN",
+      "R306-RXN"
+    ],
+    "UM-BBD_reactionID": [
+      "r0094",
+      "r0094"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,4,6-trioxoheptanoate + H2O = acetylpyruvate + acetate.",
+  "namespace": "molecular_function",
+  "label": "trioxoheptanoate hydrolase activity"
+}

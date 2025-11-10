@@ -1,0 +1,41 @@
+{
+  "id": "GO:1904114",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904114",
+  "relationships": {
+    "is_a": [
+      "GO:0032971",
+      "GO:1903116"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of muscle filament sliding",
+      "up-regulation of muscle filament sliding",
+      "upregulation of muscle filament sliding"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of muscle filament sliding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "kmv",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25717181"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of muscle filament sliding.",
+  "namespace": "biological_process",
+  "label": "positive regulation of muscle filament sliding"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0033472",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033472",
+  "relationships": {
+    "is_a": [
+      "GO:0009226"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GDP-L-galactose anabolism",
+      "GDP-L-galactose biosynthesis",
+      "GDP-L-galactose formation",
+      "GDP-L-galactose synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5115"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of GDP-L-galactose, a substance composed of L-galactose in glycosidic linkage with guanosine diphosphate.",
+  "namespace": "biological_process",
+  "label": "GDP-L-galactose biosynthetic process"
+}

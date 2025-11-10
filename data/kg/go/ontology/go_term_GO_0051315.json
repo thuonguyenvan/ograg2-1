@@ -1,0 +1,43 @@
+{
+  "id": "GO:0051315",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051315",
+  "relationships": {
+    "is_a": [
+      "GO:0008608",
+      "GO:1903047"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "attachment of spindle microtubules to kinetochore involved in mitosis",
+      "attachment of spindle microtubules to kinetochore involved in mitotic sister chromatid segregation",
+      "attachment of spindle microtubules to mitotic chromosome"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "attachment of spindle microtubules to kinetochore during mitosis",
+      "mitotic bipolar attachment"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "clt",
+      "dph",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "tb",
+      "vw"
+    ],
+    "PMID": [
+      "26258632",
+      "26705896"
+    ]
+  },
+  "definition": "The cellular process in which spindle microtubules become physically associated with the proteins making up the kinetochore complex in mitosis.",
+  "namespace": "biological_process",
+  "label": "attachment of mitotic spindle microtubules to kinetochore"
+}

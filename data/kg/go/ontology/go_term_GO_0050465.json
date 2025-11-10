@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050465",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050465",
+  "relationships": {
+    "is_a": [
+      "GO:0046857"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-(hydroxyamino)quinoline N-oxide:NADP+ oxidoreductase activity",
+      "4-nitroquinoline 1-oxide reductase activity",
+      "4NQO reductase activity",
+      "NAD(P)H2:4-nitroquinoline-N-oxide oxidoreductase activity",
+      "NAD(P)H:4-nitroquinoline-N-oxide oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.1.9",
+      "1.7.1.9",
+      "1.7.1.9",
+      "1.7.1.9",
+      "1.7.1.9",
+      "1.7.1.9",
+      "1.7.1.9"
+    ],
+    "MetaCyc": [
+      "1.7.1.9-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-(hydroxyamino)quinoline N-oxide + 2 NAD(P)+ + H2O = 4-nitroquinoline N-oxide + 2 NAD(P)H + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "nitroquinoline-N-oxide reductase [NAD(P)H] activity"
+}

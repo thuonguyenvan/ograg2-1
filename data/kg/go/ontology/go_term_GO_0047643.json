@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047643",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047643",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GDP-D-mannuronate:alginate D-mannuronyltransferase activity",
+      "mannuronosyl transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.33",
+      "2.4.1.33",
+      "2.4.1.33",
+      "2.4.1.33"
+    ],
+    "MetaCyc": [
+      "ALGINATE-SYNTHASE-RXN",
+      "ALGINATE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "46876"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GDP-D-mannuronate + alginate(n) = GDP + alginate(n+1).",
+  "namespace": "molecular_function",
+  "label": "alginate synthase activity"
+}

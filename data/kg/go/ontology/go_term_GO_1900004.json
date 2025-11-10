@@ -1,0 +1,32 @@
+{
+  "id": "GO:1900004",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900004",
+  "relationships": {
+    "is_a": [
+      "GO:0010951",
+      "GO:1900003",
+      "GO:1902572"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "down regulation of blood coagulation factor activity",
+      "down regulation of serine-type endopeptidase activity",
+      "negative regulation of blood coagulation factor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of serine-type endopeptidase activity.",
+  "namespace": "biological_process",
+  "label": "negative regulation of serine-type endopeptidase activity"
+}

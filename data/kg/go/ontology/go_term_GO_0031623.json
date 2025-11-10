@@ -1,0 +1,29 @@
+{
+  "id": "GO:0031623",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031623",
+  "relationships": {
+    "is_a": [
+      "GO:0006898"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "mah",
+      "signaling"
+    ],
+    "PMID": [
+      "15006537",
+      "19643732"
+    ]
+  },
+  "definition": "A receptor-mediated endocytosis process that results in the movement of receptors from the plasma membrane to the inside of the cell. The process begins when cell surface receptors are monoubiquitinated following ligand-induced activation. Receptors are subsequently taken up into endocytic vesicles from where they are either targeted to the lysosome or vacuole for degradation or recycled back to the plasma membrane.",
+  "namespace": "biological_process",
+  "label": "receptor internalization"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:0120053",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120053",
+  "relationships": {
+    "is_a": [
+      "GO:0035252"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9940805"
+    ],
+    "PMID": [
+      "27733679"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-D-xylose + D-ribitol 5-phosphate-R = UDP + beta1,4-xylosyl-D-ribitol 5-phosphate-R.",
+  "namespace": "molecular_function",
+  "label": "RXYLT1 transfers initial Xyl to matriglycan chain"
+}

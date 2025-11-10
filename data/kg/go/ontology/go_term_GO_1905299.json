@@ -1,0 +1,45 @@
+{
+  "id": "GO:1905299",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905299",
+  "relationships": {
+    "is_a": [
+      "GO:0010721",
+      "GO:0030857",
+      "GO:0051241",
+      "GO:1905298"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of intestinal epithelial cell development",
+      "down-regulation of intestinal epithelial cell development",
+      "downregulation of intestinal epithelial cell development"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of intestinal epithelial cell development"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "TermGenie",
+      "rph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23904268"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of intestinal epithelial cell development.",
+  "namespace": "biological_process",
+  "label": "negative regulation of intestinal epithelial cell development"
+}

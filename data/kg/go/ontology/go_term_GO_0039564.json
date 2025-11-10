@@ -1,0 +1,35 @@
+{
+  "id": "GO:0039564",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039564",
+  "relationships": {
+    "is_a": [
+      "GO:0039562"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "disruption by virus of host JAK-STAT cascade via inhibition of STAT2 activity",
+      "inhibition by virus of host STAT2 activity",
+      "inhibition of host STAT2 by virus",
+      "suppression by virus of host JAK-STAT cascade via inhibition of STAT2 activity",
+      "suppression by virus of host STAT2 activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "257"
+    ],
+    "PMID": [
+      "32699158"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "A process in which a symbiont interferes with, inhibits or disrupt a JAK-STAT signal cascade in the host organism by reducing the activity of host STAT2 (signal transducer and activator of transcription 2).",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host JAK-STAT cascade via inhibition of STAT2 activity"
+}

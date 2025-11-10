@@ -1,0 +1,28 @@
+{
+  "id": "GO:0015505",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015505",
+  "relationships": {
+    "is_a": [
+      "GO:0015210",
+      "GO:0015391"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "uracil:cation symporter activity"
+    ],
+    "narrow": [],
+    "related": [
+      "uracil permease activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: uracil(out) + cation(out) = uracil(in) + cation(in).",
+  "namespace": "molecular_function",
+  "label": "uracil:monoatomic cation symporter activity"
+}

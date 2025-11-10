@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032997",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032997",
+  "relationships": {
+    "is_a": [
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Fc-receptor complex",
+      "FcR complex"
+    ],
+    "broad": [
+      "immunoglobulin receptor complex"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "A protein complex composed of a subunit or subunits capable of binding the Fc portion of an immunoglobulin with additional signaling components. The complex functions as a receptor for immunoglobulin.",
+  "namespace": "cellular_component",
+  "label": "Fc receptor complex"
+}

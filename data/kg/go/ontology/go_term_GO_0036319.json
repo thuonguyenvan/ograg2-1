@@ -1,0 +1,30 @@
+{
+  "id": "GO:0036319",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036319",
+  "relationships": {
+    "is_a": [
+      "GO:0004932",
+      "GO:0036318"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "M-factor mating pheromone receptor activity",
+      "M-factor receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "al"
+    ],
+    "PMID": [
+      "7941744"
+    ]
+  },
+  "definition": "Combining with the mating-type peptide pheromone M-factor and transmitting the signal across the membrane to initiate a change in cell activity. M-factor is a nine-membered oligopeptide that consists of tyrosyl, threonyl, prolyl, lysyl, valyl, prolyl, tyrosyl, methionyl and methyl S-farnesylcysteinate residues joined in sequence, and is a peptide pheromone released by Schizosaccharomyces pombe cells of the cellular mating type Minus.",
+  "namespace": "molecular_function",
+  "label": "mating-type M-factor pheromone receptor activity"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0047496",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047496",
+  "relationships": {
+    "is_a": [
+      "GO:0072384",
+      "GO:0099518"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "microtubule-based vesicle localization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ecd",
+      "rl",
+      "rl"
+    ]
+  },
+  "definition": "The directed movement of a vesicle along a microtubule, mediated by motor proteins. This process begins with the attachment of a vesicle to a microtubule, and ends when the vesicle reaches its final destination.",
+  "namespace": "biological_process",
+  "label": "vesicle transport along microtubule"
+}

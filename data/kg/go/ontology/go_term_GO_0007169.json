@@ -1,0 +1,31 @@
+{
+  "id": "GO:0007169",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007169",
+  "relationships": {
+    "is_a": [
+      "GO:0007167"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transmembrane receptor protein tyrosine kinase signalling pathway"
+    ],
+    "broad": [
+      "transmembrane receptor protein serine/threonine kinase signaling pathway"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-187015"
+    ],
+    "GOC": [
+      "ceb",
+      "signaling"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by an extracellular ligand binding to a receptor on the surface of the target cell where the receptor possesses tyrosine kinase activity, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "Activation of TRKA receptors"
+}

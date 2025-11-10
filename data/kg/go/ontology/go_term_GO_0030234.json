@@ -1,0 +1,29 @@
+{
+  "id": "GO:0030234",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030234",
+  "relationships": {
+    "is_a": [
+      "GO:0098772"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "catalytic regulator activity",
+      "enzyme modulator"
+    ],
+    "broad": [],
+    "narrow": [
+      "metalloenzyme regulator activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pdt",
+      "dph"
+    ]
+  },
+  "definition": "A molecular function regulator that modulates a catalytic activity.",
+  "namespace": "molecular_function",
+  "label": "enzyme regulator activity"
+}

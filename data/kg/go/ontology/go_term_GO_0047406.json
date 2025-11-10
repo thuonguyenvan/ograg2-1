@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047406",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047406",
+  "relationships": {
+    "is_a": [
+      "GO:0016799"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-beta-aspartyl-N-acetyl-D-glucosaminylamine L-asparaginohydrolase activity",
+      "beta-aspartylacetylglucosaminidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.2.11",
+      "3.2.2.11",
+      "3.2.2.11",
+      "3.2.2.11"
+    ],
+    "KEGG_REACTION": [
+      "R01266"
+    ],
+    "MetaCyc": [
+      "3.2.2.11-RXN"
+    ],
+    "RHEA": [
+      "12324",
+      "12324"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(4)-(beta-N-acetyl-D-glucosaminyl)-L-asparagine + H2O = N-acetyl-D-glucosamine + L-asparagine.",
+  "namespace": "molecular_function",
+  "label": "beta-aspartyl-N-acetylglucosaminidase activity"
+}

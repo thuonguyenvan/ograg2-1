@@ -1,0 +1,30 @@
+{
+  "id": "GO:0043814",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043814",
+  "relationships": {
+    "is_a": [
+      "GO:0070568"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.68"
+    ],
+    "RHEA": [
+      "63424",
+      "63424"
+    ],
+    "PMID": [
+      "18260642"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-phospho-(S)-lactate + GTP = lactyl-2-diphospho-5&apos;-guanosine + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "phospholactate guanylyltransferase activity"
+}

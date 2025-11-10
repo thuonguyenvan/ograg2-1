@@ -1,0 +1,31 @@
+{
+  "id": "GO:0038045",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038045",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LLC",
+      "large latent complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf"
+    ],
+    "PMID": [
+      "2350783",
+      "8680476",
+      "9805445"
+    ]
+  },
+  "definition": "A protein complex containing latency-associated proteins (LAPs), mature disulphide-linked dimeric TGF-beta, and latent TGF-beta binding proteins (LTBPs). TGF-beta is mostly secreted as part of the large latent complex, and must be subsequently released from the LLC in order to bind to cell surface receptors.",
+  "namespace": "cellular_component",
+  "label": "large latent transforming growth factor-beta complex"
+}

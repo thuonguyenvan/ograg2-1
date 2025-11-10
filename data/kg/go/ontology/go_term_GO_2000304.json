@@ -1,0 +1,37 @@
+{
+  "id": "GO:2000304",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000304",
+  "relationships": {
+    "is_a": [
+      "GO:0034250",
+      "GO:0090154",
+      "GO:2000303"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of ceramide anabolism",
+      "positive regulation of ceramide biosynthesis",
+      "positive regulation of ceramide formation",
+      "positive regulation of ceramide synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5626978"
+    ],
+    "GOC": [
+      "dph",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of ceramide biosynthetic process.",
+  "namespace": "biological_process",
+  "label": "TNFR1-mediated ceramide production"
+}

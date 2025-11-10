@@ -1,0 +1,28 @@
+{
+  "id": "GO:0140647",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140647",
+  "relationships": {
+    "is_a": [
+      "GO:0022900"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "P450-containing system"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "P450-containing_systems"
+    ],
+    "PMID": [
+      "16042601"
+    ]
+  },
+  "definition": "A electron transport chain in which one or more electron carriers operate to transfer electrons from donors to a cytochrome P450 protein or domain. Electron carriers operating in this chain include FAD-containing flavoproteins or domains, FMN domains, ferredoxins and cytochrome b5. The reduced cytochrome P450 functions as the terminal oxidase and participates in a wide range of biochemical pathways.",
+  "namespace": "biological_process",
+  "label": "P450-containing electron transport chain"
+}

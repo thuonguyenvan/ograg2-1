@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990710",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990710",
+  "relationships": {
+    "is_a": [
+      "GO:0032300",
+      "GO:1990391"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MutS mismatch repair complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "21666597"
+    ]
+  },
+  "definition": "A homodimeric mismatch repair complex involved in binding to and correcting insertion/deletion mutations.",
+  "namespace": "cellular_component",
+  "label": "MutS complex"
+}

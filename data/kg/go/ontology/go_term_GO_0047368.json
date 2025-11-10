@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047368",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047368",
+  "relationships": {
+    "is_a": [
+      "GO:0008146"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-N-acetylgalactosamine-4-sulphate sulphotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3&apos;-phosphoadenylyl-sulfate:UDP-N-acetyl-D-galactosamine-4-sulfate 6-sulfotransferase activity",
+      "uridine diphospho-N-acetylgalactosamine 4-sulfate sulfotransferase activity",
+      "uridine diphosphoacetylgalactosamine 4-sulfate sulfotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.7",
+      "2.8.2.7",
+      "2.8.2.7",
+      "2.8.2.7",
+      "2.8.2.7"
+    ],
+    "KEGG_REACTION": [
+      "R04476"
+    ],
+    "MetaCyc": [
+      "2.8.2.7-RXN"
+    ],
+    "RHEA": [
+      "14337",
+      "14337"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;-phospho-5&apos;-adenylyl sulfate + UDP-N-acetyl-D-galactosamine 4-sulfate = adenosine 3&apos;,5&apos;-diphosphate + H+ + UDP-N-acetyl-D-galactosamine 4,6-disulfate.",
+  "namespace": "molecular_function",
+  "label": "UDP-N-acetylgalactosamine-4-sulfate sulfotransferase activity"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0019158",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019158",
+  "relationships": {
+    "is_a": [
+      "GO:0004396"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:D-mannose 6-phosphotransferase activity",
+      "D-fructose (D-mannose) kinase activity",
+      "mannokinase (phosphorylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.7",
+      "2.7.1.7",
+      "2.7.1.7",
+      "2.7.1.7",
+      "2.7.1.7"
+    ],
+    "MetaCyc": [
+      "MANNKIN-RXN"
+    ],
+    "RHEA": [
+      "11028"
+    ],
+    "Reactome": [
+      "R-HSA-8931653",
+      "R-HSA-9909159"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + D-mannose = ADP + D-mannose 6-phosphate.",
+  "namespace": "molecular_function",
+  "label": "HK1 phosphorylates Mannose to Man6P"
+}

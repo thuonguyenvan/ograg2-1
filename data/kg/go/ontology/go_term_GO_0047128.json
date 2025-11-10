@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047128",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047128",
+  "relationships": {
+    "is_a": [
+      "GO:0016646"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-reticuline:NADP+ oxidoreductase activity",
+      "1,2-dehydroreticulinium ion reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.27",
+      "1.5.1.27",
+      "1.5.1.27",
+      "1.5.1.27"
+    ],
+    "KEGG_REACTION": [
+      "R04695"
+    ],
+    "MetaCyc": [
+      "1.5.1.27-RXN"
+    ],
+    "RHEA": [
+      "17569",
+      "17569"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-reticuline + NADP+ = 1,2-dehydroreticuline + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "1,2-dehydroreticulinium reductase (NADPH) activity"
+}

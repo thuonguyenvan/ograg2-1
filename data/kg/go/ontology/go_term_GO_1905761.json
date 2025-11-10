@@ -1,0 +1,44 @@
+{
+  "id": "GO:1905761",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905761",
+  "relationships": {
+    "is_a": [
+      "GO:0044877"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CDL1 complex binding",
+      "CRL1 complex binding",
+      "Cul1-RING ubiquitin ligase complex binding",
+      "SCF complex binding",
+      "Skp1/Cul1/F-box protein complex binding",
+      "cullin-RING ligase 1 binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "SCF complex substrate recognition subunit binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dph",
+      "ha",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "19723762"
+    ]
+  },
+  "definition": "Binding to a SCF ubiquitin ligase complex.",
+  "namespace": "molecular_function",
+  "label": "SCF ubiquitin ligase complex binding"
+}

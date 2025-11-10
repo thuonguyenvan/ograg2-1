@@ -1,0 +1,31 @@
+{
+  "id": "GO:0010144",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010144",
+  "relationships": {
+    "is_a": [
+      "GO:0009443",
+      "GO:0042818"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pyridoxal 5&apos;-phosphate salvage from pyridoxamine",
+      "pyridoxal phosphate anabolism from pyridoxamine",
+      "pyridoxal phosphate formation from pyridoxamine",
+      "pyridoxal phosphate synthesis from pyridoxamine",
+      "vitamin B6 biosynthesis from pyridoxamine",
+      "vitamin B6 biosynthetic process from pyridoxamine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of pyridoxal phosphate, the active form of vitamin B6, from pyridoxamine.",
+  "namespace": "biological_process",
+  "label": "pyridoxal phosphate biosynthetic process from pyridoxamine"
+}

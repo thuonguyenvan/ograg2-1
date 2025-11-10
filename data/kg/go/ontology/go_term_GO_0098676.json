@@ -1,0 +1,32 @@
+{
+  "id": "GO:0098676",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098676",
+  "relationships": {
+    "is_a": [
+      "GO:0044003"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "modulation of host virulence by virus"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "3965",
+      "3965"
+    ],
+    "PMID": [
+      "10913072",
+      "11553559",
+      "22919604",
+      "8658163"
+    ]
+  },
+  "definition": "A process by which a virus improves the virulence of its host for that host&apos;s respective host. Common in but not limited to bacteriophages; also occurs in phage-bearing bacteria infecting plants or animals for example. Mechanisms include the expression of factors that modulate a bacterial adhesion to a host cell, spread through host tissues, production of exotoxins or provide protection against host immune defenses.",
+  "namespace": "biological_process",
+  "label": "Modulation of host virulence by virus"
+}

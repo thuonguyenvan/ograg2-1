@@ -1,0 +1,30 @@
+{
+  "id": "GO:0046064",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046064",
+  "relationships": {
+    "is_a": [
+      "GO:0009177",
+      "GO:0009221",
+      "GO:0046063"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dCMP anabolism",
+      "dCMP biosynthesis",
+      "dCMP formation",
+      "dCMP synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of dCMP, deoxycytidine monophosphate.",
+  "namespace": "biological_process",
+  "label": "dCMP biosynthetic process"
+}

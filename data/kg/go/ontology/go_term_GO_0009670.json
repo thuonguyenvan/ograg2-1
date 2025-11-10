@@ -1,0 +1,38 @@
+{
+  "id": "GO:0009670",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009670",
+  "relationships": {
+    "is_a": [
+      "GO:0015315",
+      "GO:0071917"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dihydroxyacetone phosphate:phosphate antiporter activity",
+      "triose phosphate antiporter",
+      "triose phosphate translocator"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "TPT"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "jl",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ],
+    "TC": [
+      "2.A.7.-.-"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: triose-phosphate(out) + phosphate(in) = triose-phosphate(in) + phosphate(out).",
+  "namespace": "molecular_function",
+  "label": "triose-phosphate:phosphate antiporter activity"
+}

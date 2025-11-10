@@ -1,0 +1,28 @@
+{
+  "id": "GO:0016724",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016724",
+  "relationships": {
+    "is_a": [
+      "GO:0016722"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "oxidoreductase activity, oxidizing metal ions, oxygen as acceptor"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.16.3.-"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of an oxidation-reduction in which the oxidation state of metal ion is altered and oxygen acts as an electron acceptor.",
+  "namespace": "molecular_function",
+  "label": "oxidoreductase activity, acting on metal ions, oxygen as acceptor"
+}

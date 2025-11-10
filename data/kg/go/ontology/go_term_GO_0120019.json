@@ -1,0 +1,39 @@
+{
+  "id": "GO:0120019",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120019",
+  "relationships": {
+    "is_a": [
+      "GO:0008525",
+      "GO:0120014"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphatidylcholine carrier activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "intermembrane phosphatidylcholine transfer activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1483087",
+      "R-HSA-1483211",
+      "R-HSA-1483219",
+      "R-HSA-9956308"
+    ],
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "20823909",
+      "24220498",
+      "25797198"
+    ]
+  },
+  "definition": "Removes phosphatidylcholine from a membrane or a monolayer lipid particle, transports it through the aqueous phase while protected in a hydrophobic pocket, and brings it to an acceptor membrane or lipid particle.",
+  "namespace": "molecular_function",
+  "label": "STARD7 transports PC from ER membrane to mitochondrial outer membrane"
+}

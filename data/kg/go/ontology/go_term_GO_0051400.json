@@ -1,0 +1,28 @@
+{
+  "id": "GO:0051400",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051400",
+  "relationships": {
+    "is_a": [
+      "GO:0019904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Bcl-2 homology domain binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11048732",
+      "12133724",
+      "9020082",
+      "9704409"
+    ]
+  },
+  "definition": "Binding to a Bcl-2 homology (BH) protein domain. Bcl-2-related proteins share homology in one to four conserved regions designated the Bcl-2 homology (BH) domains BH1, BH2, BH3 and BH4. These domains contribute at multiple levels to the function of these proteins in cell death and survival. Anti-apoptotic members of the Bcl-2 family have four BH domains (BH1-BH4). Pro-apoptotic members have fewer BH domains.",
+  "namespace": "molecular_function",
+  "label": "BH domain binding"
+}

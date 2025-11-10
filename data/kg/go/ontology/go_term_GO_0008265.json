@@ -1,0 +1,41 @@
+{
+  "id": "GO:0008265",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008265",
+  "relationships": {
+    "is_a": [
+      "GO:0016783"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Mo-molybdopterin cofactor sulfurase activity",
+      "Mo-molybdopterin cofactor sulphurase activity",
+      "molybdopterin cofactor sulfurase activity",
+      "molybdopterin synthase sulfurylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.1.9"
+    ],
+    "MetaCyc": [
+      "RXN-8351"
+    ],
+    "RHEA": [
+      "42636",
+      "42636"
+    ],
+    "Reactome": [
+      "R-HSA-947499"
+    ],
+    "PMID": [
+      "11549764"
+    ]
+  },
+  "definition": "Catalysis of the reaction: AH2 + L-cysteine + Mo-molybdopterin = A + H2O + L-alanine + thio-Mo-molybdopterin.",
+  "namespace": "molecular_function",
+  "label": "Exchange of oxygen with sulfur in MoCo"
+}

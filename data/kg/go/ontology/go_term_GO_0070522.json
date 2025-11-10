@@ -1,0 +1,30 @@
+{
+  "id": "GO:0070522",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070522",
+  "relationships": {
+    "is_a": [
+      "GO:0000109"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Rad1-Rad10 complex",
+      "XPF-ERCC1 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "14734547",
+      "14734547"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A heterodimeric nucleotide-excision repair complex that has endonuclease activity specific for bubble structures characteristic of certain DNA lesions. The subunits are known as XPF/ERCC4 and ERCC1 in mammals, and Rad1p and Rad10p in S. cerevisiae.",
+  "namespace": "cellular_component",
+  "label": "ERCC4-ERCC1 complex"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0141124",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141124",
+  "relationships": {
+    "is_a": [
+      "GO:0035556"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "intracellular signaling cascade",
+      "intracellular signaling module"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ha",
+      "pg"
+    ]
+  },
+  "definition": "An intracellular signaling module that is part of larger signaling pathways that can be initiated either intracellularly or by cell surface receptors. Intracellular signaling cassettes are discrete signaling units that are often shared by multiple signaling pathways.",
+  "namespace": "biological_process",
+  "label": "intracellular signaling cassette"
+}

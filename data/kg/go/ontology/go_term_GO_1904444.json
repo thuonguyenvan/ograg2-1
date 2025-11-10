@@ -1,0 +1,37 @@
+{
+  "id": "GO:1904444",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904444",
+  "relationships": {
+    "is_a": [
+      "GO:0060284",
+      "GO:2000241"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of establishment of BTB",
+      "regulation of establishment of SCB",
+      "regulation of establishment of blood-testis barrier"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "18057314"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of establishment of Sertoli cell barrier.",
+  "namespace": "biological_process",
+  "label": "regulation of establishment of Sertoli cell barrier"
+}

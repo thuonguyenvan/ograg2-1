@@ -1,0 +1,36 @@
+{
+  "id": "GO:1903823",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903823",
+  "relationships": {
+    "is_a": [
+      "GO:0000012"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "single strand break repair in telomere",
+      "telomere single-strand break repair",
+      "telomeric single strand break repair"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "telomere SSBR"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000062"
+    ],
+    "PMID": [
+      "24374808"
+    ]
+  },
+  "definition": "Single strand break repair that takes place in a telomere.",
+  "namespace": "biological_process",
+  "label": "telomere single strand break repair"
+}

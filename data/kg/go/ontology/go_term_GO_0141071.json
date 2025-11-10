@@ -1,0 +1,33 @@
+{
+  "id": "GO:0141071",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141071",
+  "relationships": {
+    "is_a": [
+      "GO:0052028",
+      "GO:0052080"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "induction by symbiont of host MAP kinase signal transduction pathway",
+      "induction of host MAPK kinase signaling pathway",
+      "symbiont-mediated activation of host MAPK signal transduction pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation by symbiont of host MAPK signal transduction pathway",
+      "stimulation by symbiont of host MAPK signal transduction pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "24043761",
+      "25675415",
+      "28166272"
+    ]
+  },
+  "definition": "A process in which a symbiont subverts a MAPK signal transduction pathway in the host organism by initiating, promoting, or enhancing its activation. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated activation of host MAPK cascade"
+}

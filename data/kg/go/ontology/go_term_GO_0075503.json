@@ -1,0 +1,30 @@
+{
+  "id": "GO:0075503",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075503",
+  "relationships": {
+    "is_a": [
+      "GO:0039654"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "viral entry into host cell via macropinocytosis followed by membrane fusion with the endosome membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "viral entry into host cell via macropinocytosis followed by membrane fusion with the host macropinosome membrane"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "jl",
+      "bf",
+      "jl"
+    ]
+  },
+  "definition": "Fusion of a viral membrane with a host macropinosome membrane, that occurs after internalization of the virus through the endosomal pathway, and results in release of the viral contents into the host cell cytoplasm.",
+  "namespace": "biological_process",
+  "label": "fusion of virus membrane with host macropinosome membrane"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0010189",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010189",
+  "relationships": {
+    "is_a": [
+      "GO:0042360",
+      "GO:0042362"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tocopherol biosynthesis",
+      "tocopherol biosynthetic process",
+      "vitamin E anabolism",
+      "vitamin E biosynthesis",
+      "vitamin E formation",
+      "vitamin E synthesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "alpha-tocopherol biosynthesis",
+      "alpha-tocopherol biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-1422"
+    ],
+    "GOC": [
+      "mg"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of vitamin E, tocopherol, which includes a series of eight structurally similar compounds. Alpha-tocopherol is the most active form in humans and is a powerful biological antioxidant.",
+  "namespace": "biological_process",
+  "label": "vitamin E biosynthetic process"
+}

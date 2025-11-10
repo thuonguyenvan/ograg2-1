@@ -1,0 +1,32 @@
+{
+  "id": "GO:0050135",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050135",
+  "relationships": {
+    "is_a": [
+      "GO:0016799"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NADP nucleosidase activity",
+      "NADP(+) nucleosidase activity"
+    ],
+    "broad": [
+      "NAD(P)+ nucleosidase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "NADP+ glycohydrolase activity",
+      "NADPase activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "19849",
+      "19849"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NADP+ + H2O = ADP-D-ribose 2&apos;-phosphate + nicotinamide + H+.",
+  "namespace": "molecular_function",
+  "label": "NADP+ nucleosidase activity"
+}

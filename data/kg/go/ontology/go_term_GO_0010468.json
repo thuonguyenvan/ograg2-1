@@ -1,0 +1,36 @@
+{
+  "id": "GO:0010468",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010468",
+  "relationships": {
+    "is_a": [
+      "GO:0010556"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "regulation of protein expression"
+    ],
+    "related": [
+      "gene regulation",
+      "regulation of gene product expression"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-163767",
+      "R-HSA-9752946"
+    ],
+    "Wikipedia": [
+      "Regulation_of_gene_expression"
+    ],
+    "GOC": [
+      "txnOH-2018",
+      "cjm"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of gene expression. Gene expression is the process in which a gene&apos;s coding sequence is converted into a mature gene product (protein or RNA).",
+  "namespace": "biological_process",
+  "label": "Expression and translocation of olfactory receptors"
+}

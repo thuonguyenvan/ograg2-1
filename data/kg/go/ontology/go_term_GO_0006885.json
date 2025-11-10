@@ -1,0 +1,30 @@
+{
+  "id": "GO:0006885",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006885",
+  "relationships": {
+    "is_a": [
+      "GO:0055080",
+      "GO:0065007"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hydrogen ion homeostasis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "go_curators",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process involved in the maintenance of an internal equilibrium of hydrogen ions, thereby modulating the internal pH, within an organism or cell.",
+  "namespace": "biological_process",
+  "label": "regulation of pH"
+}

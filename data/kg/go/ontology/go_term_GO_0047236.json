@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047236",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047236",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "methyl-ONN-azoxymethanol glucosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose:methyl-ONN-azoxymethanol beta-D-glucosyltransferase activity",
+      "UDPglucose-methylazoxymethanol glucosyltransferase activity",
+      "cycasin synthase activity",
+      "uridine diphosphoglucose-methylazoxymethanol glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.171",
+      "2.4.1.171",
+      "2.4.1.171",
+      "2.4.1.171",
+      "2.4.1.171",
+      "2.4.1.171"
+    ],
+    "MetaCyc": [
+      "2.4.1.171-RXN",
+      "2.4.1.171-RXN"
+    ],
+    "RHEA": [
+      "20205"
+    ]
+  },
+  "definition": "Catalysis of the reaction: methylazoxymethanol + UDP-D-glucose = H+ + cycasin + UDP.",
+  "namespace": "molecular_function",
+  "label": "methyl-ONN-azoxymethanol beta-D-glucosyltransferase activity"
+}

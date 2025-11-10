@@ -1,0 +1,44 @@
+{
+  "id": "GO:1904417",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904417",
+  "relationships": {
+    "is_a": [
+      "GO:0016239",
+      "GO:0031349",
+      "GO:0032103",
+      "GO:1904415"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of xenophagy",
+      "up-regulation of xenophagy",
+      "upregulation of xenophagy"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of xenophagy"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "pad",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "21617041"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of xenophagy.",
+  "namespace": "biological_process",
+  "label": "positive regulation of xenophagy"
+}

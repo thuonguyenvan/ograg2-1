@@ -1,0 +1,34 @@
+{
+  "id": "GO:0140673",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140673",
+  "relationships": {
+    "is_a": [
+      "GO:0006338"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "co-transcriptional chromatin reassembly",
+      "euchromatin maintenance during transcription elongation",
+      "maintenance of chromatin integrity during transcription elongation by RNAPII",
+      "maintenance of transcriptionally active chromatin during transcription elongation",
+      "transcription elongation coupled chromatin remodeling",
+      "transcriptional elongation-coupled chromatin remodeling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "DNA replication-independent chromatin organization",
+      "chromatin maintenance during transcription elongation"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "22922743",
+      "28053344"
+    ]
+  },
+  "definition": "A chromatin remodeling process that reestablishes the chromatin structure following the passage of RNA polymerase II during transcription elongation, thus preventing cryptic transcription initiation.",
+  "namespace": "biological_process",
+  "label": "transcription elongation-coupled chromatin remodeling"
+}

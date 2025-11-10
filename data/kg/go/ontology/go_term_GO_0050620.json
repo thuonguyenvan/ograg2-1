@@ -1,0 +1,34 @@
+{
+  "id": "GO:0050620",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050620",
+  "relationships": {
+    "is_a": [
+      "GO:0016636"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(3Z)-phycocyanobilin:ferredoxin oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.3.7.5",
+      "1.3.7.5",
+      "1.3.7.5"
+    ],
+    "MetaCyc": [
+      "1.3.7.5-RXN",
+      "1.3.7.5-RXN"
+    ],
+    "RHEA": [
+      "15309"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (3Z)-phycocyanobilin + oxidized ferredoxin = biliverdin IXa + reduced ferredoxin.",
+  "namespace": "molecular_function",
+  "label": "phycocyanobilin:ferredoxin oxidoreductase activity"
+}

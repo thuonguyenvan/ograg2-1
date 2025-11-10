@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047039",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047039",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "T4HN reductase activity",
+      "scytalone:NADP+ delta5-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.252",
+      "1.1.1.252",
+      "1.1.1.252",
+      "1.1.1.252"
+    ],
+    "MetaCyc": [
+      "1.1.1.252-RXN",
+      "1.1.1.252-RXN"
+    ],
+    "RHEA": [
+      "21908"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NADP+ + scytalone = NADPH + H+ + 1,3,6,8-naphthalenetetrol.",
+  "namespace": "molecular_function",
+  "label": "tetrahydroxynaphthalene reductase activity"
+}

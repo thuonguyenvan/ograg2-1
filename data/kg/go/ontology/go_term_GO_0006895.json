@@ -1,0 +1,34 @@
+{
+  "id": "GO:0006895",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006895",
+  "relationships": {
+    "is_a": [
+      "GO:0006892",
+      "GO:0016482"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Golgi to endosome vesicle-mediated transport",
+      "TGN to endosome transport",
+      "trans-Golgi to endosome transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0716731363"
+    ],
+    "PMID": [
+      "10873832"
+    ]
+  },
+  "definition": "The directed movement of substances from the Golgi to early sorting endosomes. Clathrin vesicles transport substances from the trans-Golgi to endosomes.",
+  "namespace": "biological_process",
+  "label": "Golgi to endosome transport"
+}

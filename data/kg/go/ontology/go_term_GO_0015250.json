@@ -1,0 +1,41 @@
+{
+  "id": "GO:0015250",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015250",
+  "relationships": {
+    "is_a": [
+      "GO:0005372",
+      "GO:0015267"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "aquaporin"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TRANS-RXN-145"
+    ],
+    "Reactome": [
+      "R-HSA-432010",
+      "R-HSA-432054",
+      "R-HSA-432065",
+      "R-HSA-432067",
+      "R-HSA-445714",
+      "R-HSA-507868",
+      "R-HSA-507870"
+    ],
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the energy-independent facilitated diffusion of water through a transmembrane aqueous pore or channel.",
+  "namespace": "molecular_function",
+  "label": "Aquaporins passively transport water out of cells"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0000429",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000429",
+  "relationships": {
+    "is_a": [
+      "GO:0006357",
+      "GO:0045990"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of transcription from RNA polymerase II promoter by carbon catabolites"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A transcription regulation process in which the presence of one carbon source leads to the modulation of the frequency, rate, or extent of transcription, from an RNA polymerase II promoter, of specific genes involved in the metabolism of other carbon sources.",
+  "namespace": "biological_process",
+  "label": "carbon catabolite regulation of transcription from RNA polymerase II promoter"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GO:0004042",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004042",
+  "relationships": {
+    "is_a": [
+      "GO:0140085"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "acetyl-CoA:L-glutamate N-acetyltransferase activity"
+    ],
+    "broad": [
+      "N-acetylglutamate synthase activity",
+      "amino-acid N-acetyltransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "AGAS",
+      "acetylglutamate acetylglutamate synthetase activity",
+      "amino acid acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R00259"
+    ],
+    "MetaCyc": [
+      "N-ACETYLTRANSFER-RXN"
+    ],
+    "RHEA": [
+      "24292",
+      "24292"
+    ],
+    "Reactome": [
+      "R-HSA-70542"
+    ],
+    "EC": [
+      "2.3.1.1",
+      "2.3.1.1",
+      "2.3.1.1",
+      "2.3.1.1",
+      "2.3.1.1"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-glutamate + acetyl-CoA = N-acetyl-L-glutamate + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "glutamate + acetyl CoA =&gt; N-acetyl glutamate + CoA"
+}

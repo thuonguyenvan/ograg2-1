@@ -1,0 +1,28 @@
+{
+  "id": "GO:0140800",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140800",
+  "relationships": {
+    "is_a": [
+      "GO:0015078",
+      "GO:0015185",
+      "GO:0015355",
+      "GO:0140848"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "16701208",
+      "26912364",
+      "27601664"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: 4-aminobutanoate(out) + H+(in) = 4-aminobutanoate(in) + H+(out).",
+  "namespace": "molecular_function",
+  "label": "gamma-aminobutyric acid:proton antiporter activity"
+}

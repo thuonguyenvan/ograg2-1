@@ -1,0 +1,30 @@
+{
+  "id": "GO:0046042",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046042",
+  "relationships": {
+    "is_a": [
+      "GO:0009152",
+      "GO:0009206",
+      "GO:0046041"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ITP anabolism",
+      "ITP biosynthesis",
+      "ITP formation",
+      "ITP synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of ITP, inosine triphosphate.",
+  "namespace": "biological_process",
+  "label": "ITP biosynthetic process"
+}

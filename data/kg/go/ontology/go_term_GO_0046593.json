@@ -1,0 +1,43 @@
+{
+  "id": "GO:0046593",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046593",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "hydroxynitrile lyase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "(R)-oxynitrilase activity",
+      "D-alpha-hydroxynitrile lyase activity",
+      "D-oxynitrilase activity",
+      "mandelonitrile benzaldehyde-lyase (cyanide-forming)",
+      "mandelonitrile benzaldehyde-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.10",
+      "4.1.2.10",
+      "4.1.2.10",
+      "4.1.2.10",
+      "4.1.2.10",
+      "4.1.2.10",
+      "4.1.2.10"
+    ],
+    "MetaCyc": [
+      "MANDELONITRILE-LYASE-RXN"
+    ],
+    "RHEA": [
+      "18313"
+    ]
+  },
+  "definition": "Catalysis of the reaction: mandelonitrile = cyanide + benzaldehyde.",
+  "namespace": "molecular_function",
+  "label": "mandelonitrile lyase activity"
+}

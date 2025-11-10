@@ -1,0 +1,35 @@
+{
+  "id": "GO:0160104",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160104",
+  "relationships": {
+    "is_a": [
+      "GO:0008170",
+      "GO:0016423"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA (guanine(26)-N(2))-dimethyltransferase activity",
+      "tRNA (guanosine(26)-N(2))-dimethyltransferase activity",
+      "tRNA (m(2)2G26)dimethyltransferase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.216",
+      "2.1.1.216"
+    ],
+    "RHEA": [
+      "43140"
+    ],
+    "Reactome": [
+      "R-HSA-6782416"
+    ]
+  },
+  "definition": "Catalysis of the reaction:guanosine(26) in tRNA + 2 S-adenosyl-L-methionine = 2 H+ + N(2)-dimethylguanosine(26) in tRNA + 2 S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "TRMT1 (hTRM1) dimethylates guanosine-26 of tRNA(Tyr)"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0090200",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090200",
+  "relationships": {
+    "is_a": [
+      "GO:0010638",
+      "GO:0090199"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "dph",
+      "mtg_apoptosis",
+      "tb"
+    ]
+  },
+  "definition": "Any process that increases the rate, frequency or extent of release of cytochrome c from mitochondria, the process in which cytochrome c is enabled to move from the mitochondrial intermembrane space into the cytosol, which is an early step in apoptosis and leads to caspase activation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of release of cytochrome c from mitochondria"
+}

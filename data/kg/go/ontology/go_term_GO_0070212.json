@@ -1,0 +1,40 @@
+{
+  "id": "GO:0070212",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070212",
+  "relationships": {
+    "is_a": [
+      "GO:0043687"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "addition of poly-ADP-ribose to protein",
+      "poly(ADP-ribose) addition to protein",
+      "protein amino acid poly-ADP-ribosylation",
+      "protein poly(ADP-ribose) synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "protein poly(ADP-ribose) metabolism"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "rl",
+      "rl",
+      "rl",
+      "bf",
+      "rl",
+      "rl"
+    ],
+    "PMID": [
+      "25043379"
+    ]
+  },
+  "definition": "The transfer of multiple ADP-ribose residues from NAD to a protein amino acid, forming a poly(ADP-ribose) chain.",
+  "namespace": "biological_process",
+  "label": "protein poly-ADP-ribosylation"
+}

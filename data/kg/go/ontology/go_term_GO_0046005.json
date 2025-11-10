@@ -1,0 +1,32 @@
+{
+  "id": "GO:0046005",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046005",
+  "relationships": {
+    "is_a": [
+      "GO:0042320",
+      "GO:0045938"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of REM sleep",
+      "up regulation of circadian sleep/wake cycle, REM sleep",
+      "up-regulation of circadian sleep/wake cycle, REM sleep",
+      "upregulation of circadian sleep/wake cycle, REM sleep"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of circadian sleep/wake cycle, REM sleep",
+      "stimulation of circadian sleep/wake cycle, REM sleep"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the duration or quality of rapid eye movement (REM) sleep.",
+  "namespace": "biological_process",
+  "label": "positive regulation of circadian sleep/wake cycle, REM sleep"
+}

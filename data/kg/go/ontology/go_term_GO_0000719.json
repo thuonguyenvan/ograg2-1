@@ -1,0 +1,28 @@
+{
+  "id": "GO:0000719",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000719",
+  "relationships": {
+    "is_a": [
+      "GO:0006290"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "pyrimidine-dimer repair by photolyase"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "elh"
+    ],
+    "PMID": [
+      "10915863"
+    ]
+  },
+  "definition": "The repair of UV-induced T-T, C-T and C-C dimers by directly reversing the damage to restore the original pyrimidines.",
+  "namespace": "biological_process",
+  "label": "photoreactive repair"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:0047999",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047999",
+  "relationships": {
+    "is_a": [
+      "GO:0046857"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NADH2:hyponitrite oxidoreductase activity",
+      "NADH:hyponitrite oxidoreductase activity",
+      "hydroxylamine:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.1.5",
+      "1.7.1.5",
+      "1.7.1.5",
+      "1.7.1.5"
+    ],
+    "KEGG_REACTION": [
+      "R00023"
+    ],
+    "MetaCyc": [
+      "HYPONITRITE-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "19337",
+      "19337"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 hydroxylamine + 2 NAD+ = 2 H+ + hyponitrous acid + 2 NADH.",
+  "namespace": "molecular_function",
+  "label": "hyponitrite reductase (NADH) activity"
+}

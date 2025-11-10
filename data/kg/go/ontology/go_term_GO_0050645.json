@@ -1,0 +1,37 @@
+{
+  "id": "GO:0050645",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050645",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "LGTase activity",
+      "limonoid UDP-glucosyltransferase activity",
+      "uridine diphosphoglucose-limonoid glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.210",
+      "2.4.1.210",
+      "2.4.1.210",
+      "2.4.1.210",
+      "2.4.1.210"
+    ],
+    "MetaCyc": [
+      "2.4.1.210-RXN"
+    ],
+    "RHEA": [
+      "11256"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-glucose + limonin = glucosyl-limonin + UDP.",
+  "namespace": "molecular_function",
+  "label": "limonoid glucosyltransferase activity"
+}

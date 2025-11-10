@@ -1,0 +1,47 @@
+{
+  "id": "GO:0006457",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006457",
+  "relationships": {
+    "is_a": [
+      "GO:0009987"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "alpha-tubulin folding",
+      "beta-tubulin folding",
+      "chaperonin-mediated tubulin folding"
+    ],
+    "related": [
+      "chaperone activity",
+      "chaperonin ATPase activity",
+      "co-chaperone activity",
+      "co-chaperonin activity",
+      "glycoprotein-specific chaperone activity",
+      "non-chaperonin molecular chaperone ATPase activity",
+      "protein complex assembly, multichaperone pathway"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-389960",
+      "R-HSA-390466",
+      "R-HSA-532668"
+    ],
+    "Wikipedia": [
+      "Protein_folding"
+    ],
+    "GOC": [
+      "go_curators",
+      "rb",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "The process of assisting in the covalent and noncovalent assembly of single chain polypeptides or multisubunit complexes into the correct tertiary structure.",
+  "namespace": "biological_process",
+  "label": "N-glycan trimming in the ER and Calnexin/Calreticulin cycle"
+}

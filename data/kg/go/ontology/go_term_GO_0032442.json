@@ -1,0 +1,26 @@
+{
+  "id": "GO:0032442",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032442",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PCBER activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11030549",
+      "13129921"
+    ]
+  },
+  "definition": "Catalysis of the NADPH-dependent 7-O-4&apos; reduction of phenylcoumaran lignans to the corresponding diphenols; for example, catalysis of the reaction: dehydrodiconiferyl alcohol + NADPH + H+ = isodihydrodehydrodiconiferyl alcohol + NADP+.",
+  "namespace": "molecular_function",
+  "label": "phenylcoumaran benzylic ether reductase activity"
+}

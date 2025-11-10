@@ -1,0 +1,32 @@
+{
+  "id": "GO:0032621",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032621",
+  "relationships": {
+    "is_a": [
+      "GO:0001816"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IGIF production",
+      "IL-18 production"
+    ],
+    "broad": [],
+    "narrow": [
+      "IL1F4 production",
+      "interleukin-18 biosynthetic process",
+      "interleukin-18 secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "BHF",
+      "BHF"
+    ]
+  },
+  "definition": "The appearance of interleukin-18 due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels.",
+  "namespace": "biological_process",
+  "label": "interleukin-18 production"
+}

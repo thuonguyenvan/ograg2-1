@@ -1,0 +1,38 @@
+{
+  "id": "GO:1901157",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901157",
+  "relationships": {
+    "is_a": [
+      "GO:0030649",
+      "GO:0046174"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "neomycin breakdown",
+      "neomycin catabolism",
+      "neomycin degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "MetaCyc": [
+      "PWY-7016"
+    ],
+    "UniPathway": [
+      "UPA00969"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of neomycin.",
+  "namespace": "biological_process",
+  "label": "neomycin catabolic process"
+}

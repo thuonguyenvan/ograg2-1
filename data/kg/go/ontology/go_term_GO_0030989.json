@@ -1,0 +1,33 @@
+{
+  "id": "GO:0030989",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030989",
+  "relationships": {
+    "is_a": [
+      "GO:0030473",
+      "GO:1903046"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "HNM",
+      "horsetail movement",
+      "horsetail nuclear movement"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw",
+      "vw"
+    ],
+    "PMID": [
+      "16111942",
+      "9572142"
+    ]
+  },
+  "definition": "Oscillatory movement of the nucleus involved in meiosis I. This oscillatory movement is led by an astral microtubule array emanating from the spindle pole body, and driven by the microtubule motor cytoplasmic dynein.",
+  "namespace": "biological_process",
+  "label": "dynein-driven meiotic oscillatory nuclear movement"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "GO:0046762",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046762",
+  "relationships": {
+    "is_a": [
+      "GO:0046755"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ER membrane viral budding",
+      "endoplasmic reticulum membrane viral budding",
+      "viral budding from ER membrane",
+      "virus budding from ER membrane",
+      "virus budding from ER membrane by viral capsid envelopment"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ER membrane viral budding during viral capsid envelopment",
+      "endoplasmic reticulum membrane viral budding during viral capsid envelopment",
+      "viral budding from ER membrane by viral capsid envelopment",
+      "viral budding from ER membrane during viral capsid envelopment",
+      "virus budding from ER membrane during viral capsid envelopment"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "jl",
+      "tb"
+    ],
+    "ISBN": [
+      "0072370319"
+    ],
+    "VZ": [
+      "1947"
+    ]
+  },
+  "definition": "A viral budding that starts with formation of a membrane curvature in the host ER membrane.",
+  "namespace": "biological_process",
+  "label": "viral budding from endoplasmic reticulum membrane"
+}

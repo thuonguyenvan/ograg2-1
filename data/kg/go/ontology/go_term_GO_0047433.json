@@ -1,0 +1,47 @@
+{
+  "id": "GO:0047433",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047433",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(3S)-3-methyl-2-oxopentanoate carboxy-lyase (2-methylbutanal-forming)",
+      "(3S)-3-methyl-2-oxopentanoate carboxy-lyase activity",
+      "BCKA",
+      "branched-chain alpha-keto acid decarboxylase activity",
+      "branched-chain keto acid decarboxylase activity",
+      "branched-chain oxo acid decarboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.72",
+      "4.1.1.72",
+      "4.1.1.72",
+      "4.1.1.72",
+      "4.1.1.72",
+      "4.1.1.72",
+      "4.1.1.72",
+      "4.1.1.72"
+    ],
+    "KEGG_REACTION": [
+      "R03894"
+    ],
+    "MetaCyc": [
+      "4.1.1.72-RXN"
+    ],
+    "RHEA": [
+      "21108",
+      "21108"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-3-methyl-2-oxopentanoate + H+ = 2-methylbutanal + CO2.",
+  "namespace": "molecular_function",
+  "label": "branched-chain-2-oxoacid decarboxylase activity"
+}

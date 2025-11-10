@@ -1,0 +1,40 @@
+{
+  "id": "GO:1904713",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904713",
+  "relationships": {
+    "is_a": [
+      "GO:0044877"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "APC-Axin-1-beta-catenin complex binding",
+      "Axin-APC-beta-catenin-GSK3B complex binding",
+      "BDC binding",
+      "beta-catenin degradation complex binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "23S APC complex binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "22899650",
+      "22899650"
+    ]
+  },
+  "definition": "Binding to a beta-catenin destruction complex.",
+  "namespace": "molecular_function",
+  "label": "beta-catenin destruction complex binding"
+}

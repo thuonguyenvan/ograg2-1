@@ -1,0 +1,27 @@
+{
+  "id": "GO:0015827",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015827",
+  "relationships": {
+    "is_a": [
+      "GO:0006865",
+      "GO:0015695",
+      "GO:0015801"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "L-tryptophan transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The directed movement of tryptophan, 2-amino-3-(1H-indol-3-yl)propanoic acid, into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "tryptophan transport"
+}

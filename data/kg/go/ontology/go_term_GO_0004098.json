@@ -1,0 +1,43 @@
+{
+  "id": "GO:0004098",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004098",
+  "relationships": {
+    "is_a": [
+      "GO:0008484"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cerebroside-sulphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "arylsulfatase A activity",
+      "cerebroside sulfate sulfatase activity",
+      "cerebroside-3-sulfate 3-sulfohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.6.8",
+      "3.1.6.8",
+      "3.1.6.8",
+      "3.1.6.8",
+      "3.1.6.8"
+    ],
+    "MetaCyc": [
+      "CEREBROSIDE-SULFATASE-RXN"
+    ],
+    "RHEA": [
+      "21300"
+    ],
+    "Reactome": [
+      "R-HSA-1606807",
+      "R-HSA-9840949"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a cerebroside 3-sulfate + H2O = a cerebroside + sulfate.",
+  "namespace": "molecular_function",
+  "label": "ARSA removes sulfate from SM3"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0014829",
+  "uri": "http://purl.obolibrary.org/obo/GO_0014829",
+  "relationships": {
+    "is_a": [
+      "GO:0006939",
+      "GO:0042310"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "vascular smooth muscle contraction"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_muscle"
+    ],
+    "MA": [
+      "0002718"
+    ]
+  },
+  "definition": "A process, occurring in the vascular tissue, whereby actin/myosin complex activity generates force through ATP hydrolysis resulting in a change in smooth muscle geometry. This process is always coupled to chemo-mechanical energy conversion.",
+  "namespace": "biological_process",
+  "label": "vascular associated smooth muscle contraction"
+}

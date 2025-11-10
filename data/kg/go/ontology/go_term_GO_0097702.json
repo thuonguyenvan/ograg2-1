@@ -1,0 +1,28 @@
+{
+  "id": "GO:0097702",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097702",
+  "relationships": {
+    "is_a": [
+      "GO:0034405"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "bc"
+    ],
+    "PMID": [
+      "21768538"
+    ]
+  },
+  "definition": "Any response to fluid shear stress where the fluid is moving across a solid surface with an oscillatory flow. Disturbed flow patterns at the arterial bifurcations and curvatures may cause endothelial dysfunction, which initiates atherosclerosis.",
+  "namespace": "biological_process",
+  "label": "response to oscillatory fluid shear stress"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0140901",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140901",
+  "relationships": {
+    "is_a": [
+      "GO:0005295",
+      "GO:0015182",
+      "GO:0015655"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "asparagine:sodium symporter activity",
+      "sodium:L-asparagine symporter activity",
+      "sodium:asparagine symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "71383"
+    ],
+    "TC": [
+      "2.A.18.6.13"
+    ],
+    "PMID": [
+      "21511949",
+      "28416685"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: L-asparagine(out) + Na+(out) = L-asparagine(in) + Na+(in).",
+  "namespace": "molecular_function",
+  "label": "L-asparagine:sodium symporter activity"
+}

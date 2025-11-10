@@ -1,0 +1,47 @@
+{
+  "id": "GO:1901780",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901780",
+  "relationships": {
+    "is_a": [
+      "GO:0016106",
+      "GO:0072330",
+      "GO:0097176",
+      "GO:1901336",
+      "GO:1901503"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pentalenolactone anabolism",
+      "pentalenolactone biosynthesis",
+      "pentalenolactone formation",
+      "pentalenolactone synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-6915",
+      "PWY-6915"
+    ],
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "17178094"
+    ],
+    "UniPathway": [
+      "UPA00974"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of pentalenolactone.",
+  "namespace": "biological_process",
+  "label": "pentalenolactone biosynthetic process"
+}

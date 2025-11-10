@@ -1,0 +1,73 @@
+{
+  "id": "GO:1903267",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903267",
+  "relationships": {
+    "is_a": [
+      "GO:0009895",
+      "GO:0045763",
+      "GO:0062014",
+      "GO:1903266"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of ornithine breakdown",
+      "down regulation of ornithine catabolic process",
+      "down regulation of ornithine catabolism",
+      "down regulation of ornithine degradation",
+      "down-regulation of ornithine breakdown",
+      "down-regulation of ornithine catabolic process",
+      "down-regulation of ornithine catabolism",
+      "down-regulation of ornithine degradation",
+      "downregulation of ornithine breakdown",
+      "downregulation of ornithine catabolic process",
+      "downregulation of ornithine catabolism",
+      "downregulation of ornithine degradation",
+      "negative regulation of ornithine breakdown",
+      "negative regulation of ornithine catabolism",
+      "negative regulation of ornithine degradation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of ornithine breakdown",
+      "inhibition of ornithine catabolic process",
+      "inhibition of ornithine catabolism",
+      "inhibition of ornithine degradation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bhm",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "12679340"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of ornithine catabolic process.",
+  "namespace": "biological_process",
+  "label": "negative regulation of ornithine catabolic process"
+}

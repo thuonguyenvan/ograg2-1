@@ -1,0 +1,33 @@
+{
+  "id": "GO:0071598",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071598",
+  "relationships": {
+    "is_a": [
+      "GO:0036464"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "neuronal RNP granule"
+    ],
+    "broad": [],
+    "narrow": [
+      "neuronal RNA granule"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "go_curators",
+      "mah"
+    ],
+    "PMID": [
+      "19015237",
+      "20368989"
+    ]
+  },
+  "definition": "A ribonucleoprotein complex that is found in the cytoplasm of axons and dendrites, and transports translationally silenced mRNAs to dendritic synapses, where they are released and translated in response to specific exogenous stimuli.",
+  "namespace": "cellular_component",
+  "label": "neuronal ribonucleoprotein granule"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:1990228",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990228",
+  "relationships": {
+    "is_a": [
+      "GO:1990234"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulfur transfer complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "SufE complex",
+      "SufE dimer"
+    ],
+    "related": [
+      "ThiF-ThiS complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "bhm",
+      "bhm",
+      "bhm",
+      "bhm"
+    ],
+    "PMID": [
+      "17350958"
+    ]
+  },
+  "definition": "A protein complex capable of catalyzing the transfer of sulfur atoms from one compound (donor) to another (acceptor).",
+  "namespace": "cellular_component",
+  "label": "sulfurtransferase complex"
+}

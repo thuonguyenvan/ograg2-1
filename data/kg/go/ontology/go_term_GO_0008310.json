@@ -1,0 +1,41 @@
+{
+  "id": "GO:0008310",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008310",
+  "relationships": {
+    "is_a": [
+      "GO:0008296",
+      "GO:0008297"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "single-stranded DNA 3&apos;-5&apos; exodeoxyribonuclease activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "exonuclease I activity"
+    ],
+    "related": [
+      "single-stranded DNA specific 3&apos;-5&apos; exodeoxyribonuclease activity",
+      "ssDNA-specific 3&apos;-5&apos; exodeoxyribonuclease activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.11.1"
+    ],
+    "MetaCyc": [
+      "3.1.11.1-RXN"
+    ],
+    "GOC": [
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "22562358"
+    ]
+  },
+  "definition": "Catalysis of the sequential cleavage of mononucleotides from a free 3&apos; terminus of a single-stranded DNA molecule.",
+  "namespace": "molecular_function",
+  "label": "single-stranded DNA 3&apos;-5&apos; DNA exonuclease activity"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0032641",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032641",
+  "relationships": {
+    "is_a": [
+      "GO:0019538",
+      "GO:0071706"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LTA production",
+      "TNF-B production",
+      "TNF-beta production",
+      "lymphotoxin-alpha production",
+      "tumor necrosis factor-beta production"
+    ],
+    "broad": [],
+    "narrow": [
+      "lymphotoxin A biosynthetic process",
+      "lymphotoxin A synthesis"
+    ],
+    "related": [
+      "lymphotoxin A formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of the cytokine lymphotoxin A.",
+  "namespace": "biological_process",
+  "label": "lymphotoxin A production"
+}

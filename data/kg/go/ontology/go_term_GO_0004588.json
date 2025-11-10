@@ -1,0 +1,66 @@
+{
+  "id": "GO:0004588",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004588",
+  "relationships": {
+    "is_a": [
+      "GO:0016763"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "OPRT activity",
+      "OPRTase activity",
+      "orotate phosphoribosyl pyrophosphate transferase activity",
+      "orotic acid phosphoribosyltransferase activity",
+      "orotidine 5&apos;-monophosphate pyrophosphorylase activity",
+      "orotidine monophosphate pyrophosphorylase activity",
+      "orotidine phosphoribosyltransferase activity",
+      "orotidine-5&apos;-phosphate diphosphorylase activity",
+      "orotidine-5&apos;-phosphate pyrophosphorylase activity",
+      "orotidine-5&apos;-phosphate:diphosphate phospho-alpha-D-ribosyl-transferase activity",
+      "orotidylate phosphoribosyltransferase activity",
+      "orotidylate pyrophosphorylase activity",
+      "orotidylic acid phosphorylase activity",
+      "orotidylic acid pyrophosphorylase activity",
+      "orotidylic phosphorylase activity",
+      "orotidylic pyrophosphorylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.10",
+      "2.4.2.10",
+      "2.4.2.10",
+      "2.4.2.10",
+      "2.4.2.10",
+      "2.4.2.10",
+      "2.4.2.10",
+      "2.4.2.10",
+      "2.4.2.10",
+      "2.4.2.10",
+      "2.4.2.10",
+      "2.4.2.10",
+      "2.4.2.10",
+      "2.4.2.10",
+      "2.4.2.10",
+      "2.4.2.10",
+      "2.4.2.10",
+      "2.4.2.10"
+    ],
+    "MetaCyc": [
+      "OROPRIBTRANS-RXN"
+    ],
+    "RHEA": [
+      "10380"
+    ],
+    "Reactome": [
+      "R-HSA-73567"
+    ]
+  },
+  "definition": "Catalysis of the reaction: orotidine 5&apos;-phosphate + diphosphate = orotate + 5-phospho-alpha-D-ribose 1-diphosphate.",
+  "namespace": "molecular_function",
+  "label": "UMPS dimer transfers phosphoribosyl group to ORO to form OMP"
+}

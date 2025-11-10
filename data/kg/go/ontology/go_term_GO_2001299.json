@@ -1,0 +1,35 @@
+{
+  "id": "GO:2001299",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001299",
+  "relationships": {
+    "is_a": [
+      "GO:0042219",
+      "GO:0170035",
+      "GO:0170044"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N(omega),N(omega)-dimethyl-L-arginine breakdown",
+      "N(omega),N(omega)-dimethyl-L-arginine catabolism",
+      "N(omega),N(omega)-dimethyl-L-arginine degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rs",
+      "obol",
+      "obol",
+      "obol"
+    ],
+    "PMID": [
+      "10510241"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of N(omega),N(omega)-dimethyl-L-arginine, a methyl-L-arginine having two methyl groups both attached to the primary amino moiety of the guanidino group.",
+  "namespace": "biological_process",
+  "label": "N(omega),N(omega)-dimethyl-L-arginine catabolic process"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0017130",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017130",
+  "relationships": {
+    "is_a": [
+      "GO:0008187"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "poly(rC) binding"
+    ],
+    "broad": [
+      "poly(C) binding"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Binding to a sequence of cytosine residues in an RNA molecule.",
+  "namespace": "molecular_function",
+  "label": "poly(C) RNA binding"
+}

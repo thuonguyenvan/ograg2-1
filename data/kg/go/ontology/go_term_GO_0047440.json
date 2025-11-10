@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047440",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047440",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "3-deoxy-D-pentulosonic acid aldolase"
+    ],
+    "narrow": [],
+    "related": [
+      "2-dehydro-3-deoxy-D-pentonate glycolaldehyde-lyase activity",
+      "2-keto-3-deoxy-D-pentonate aldolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.28",
+      "4.1.2.28",
+      "4.1.2.28",
+      "4.1.2.28",
+      "4.1.2.28"
+    ],
+    "KEGG_REACTION": [
+      "R01782"
+    ],
+    "MetaCyc": [
+      "4.1.2.28-RXN"
+    ],
+    "RHEA": [
+      "20609",
+      "20609"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-dehydro-3-deoxy-D-arabinonate = glycolaldehyde + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "2-dehydro-3-deoxy-D-pentonate aldolase activity"
+}

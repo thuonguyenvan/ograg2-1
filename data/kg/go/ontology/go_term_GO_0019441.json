@@ -1,0 +1,31 @@
+{
+  "id": "GO:0019441",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019441",
+  "relationships": {
+    "is_a": [
+      "GO:0006569",
+      "GO:0070189"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tryptophan breakdown to kynurenine",
+      "tryptophan catabolic process to kynurenine",
+      "tryptophan degradation to kynurenine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TRPKYNCAT-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-tryptophan into other compounds, including kynurenine.",
+  "namespace": "biological_process",
+  "label": "L-tryptophan catabolic process to kynurenine"
+}

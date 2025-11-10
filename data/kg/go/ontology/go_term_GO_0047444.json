@@ -1,0 +1,51 @@
+{
+  "id": "GO:0047444",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047444",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-acetylneuraminic acid phosphate synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acetylneuraminate 9-phosphate lyase activity",
+      "N-acetylneuraminate 9-phosphate sialic acid 9-phosphate synthase activity",
+      "N-acetylneuraminate 9-phosphate synthetase activity",
+      "N-acylneuraminate-9-phosphate pyruvate-lyase (pyruvate-phosphorylating) activity",
+      "phosphoenolpyruvate:N-acyl-D-mannosamine-6-phosphate 1-(2-carboxy-2-oxoethyl)transferase activity",
+      "sialic acid 9-phosphate synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.57",
+      "2.5.1.57",
+      "2.5.1.57",
+      "2.5.1.57",
+      "2.5.1.57",
+      "2.5.1.57",
+      "2.5.1.57",
+      "2.5.1.57"
+    ],
+    "MetaCyc": [
+      "RXN-9988"
+    ],
+    "RHEA": [
+      "13421"
+    ],
+    "Reactome": [
+      "R-HSA-4084976"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + phosphoenolpyruvate + N-acyl-D-mannosamine 6-phosphate = phosphate + N-acylneuraminate 9-phosphate.",
+  "namespace": "molecular_function",
+  "label": "NANS converts ManNAc-6-P to Neu5Ac-9-P"
+}

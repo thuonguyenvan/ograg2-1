@@ -1,0 +1,27 @@
+{
+  "id": "GO:0061909",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061909",
+  "relationships": {
+    "is_a": [
+      "GO:0006906"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "autophagosome-vacuole fusion"
+    ],
+    "broad": [
+      "autophagosome fusion"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "28077293"
+    ]
+  },
+  "definition": "The process in which autophagosomes, double-membraned vesicles containing cytoplasmic material, fuse with a vacuole (yeast) or lysosome (e.g. mammals and insects). In the case of yeast, inner membrane-bounded structures (autophagic bodies) appear in the vacuole. Fusion provides an acidic environment and digestive function to the interior of the autophagosome.",
+  "namespace": "biological_process",
+  "label": "autophagosome-lysosome fusion"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0038112",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038112",
+  "relationships": {
+    "is_a": [
+      "GO:0019221"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IL-8-mediated signaling pathway",
+      "interleukin-8-mediated signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "nhn",
+      "signaling",
+      "bf",
+      "bf"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by interleukin-8 binding to its receptor on the surface of a cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "interleukin-8-mediated signaling pathway"
+}

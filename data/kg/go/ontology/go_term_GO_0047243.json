@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047243",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047243",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose:flavanone 7-O-beta-D-glucosyltransferase activity",
+      "UDPglucose:flavanone 7-O-beta-D-glucosyltransferase activity",
+      "hesperetin 7-O-glucosyl-transferase activity",
+      "naringenin 7-O-glucosyltransferase activity",
+      "uridine diphosphoglucose-flavanone 7-O-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.185",
+      "2.4.1.185",
+      "2.4.1.185",
+      "2.4.1.185",
+      "2.4.1.185",
+      "2.4.1.185",
+      "2.4.1.185"
+    ],
+    "MetaCyc": [
+      "2.4.1.185-RXN",
+      "2.4.1.185-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a flavanone + UDP-D-glucose = a flavanone 7-O-beta-D-glucoside + UDP.",
+  "namespace": "molecular_function",
+  "label": "flavanone 7-O-beta-glucosyltransferase activity"
+}

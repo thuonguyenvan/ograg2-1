@@ -1,0 +1,51 @@
+{
+  "id": "GO:0008879",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008879",
+  "relationships": {
+    "is_a": [
+      "GO:0016779"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "TDP-glucose pyrophosphorylase activity",
+      "dTDP-glucose diphosphorylase activity",
+      "dTDP-glucose pyrophosphorylase activity",
+      "dTDP-glucose synthase activity",
+      "dTTP:alpha-D-glucose-1-phosphate thymidylyltransferase activity",
+      "glucose 1-phosphate thymidylyltransferase activity",
+      "thymidine diphosphate glucose pyrophosphorylase activity",
+      "thymidine diphosphoglucose pyrophosphorylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.24",
+      "2.7.7.24",
+      "2.7.7.24",
+      "2.7.7.24",
+      "2.7.7.24",
+      "2.7.7.24",
+      "2.7.7.24",
+      "2.7.7.24",
+      "2.7.7.24",
+      "2.7.7.24"
+    ],
+    "KEGG_REACTION": [
+      "R02328"
+    ],
+    "MetaCyc": [
+      "DTDPGLUCOSEPP-RXN"
+    ],
+    "RHEA": [
+      "15225",
+      "15225"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-D-glucose 1-phosphate + dTTP = diphosphate + dTDP-glucose.",
+  "namespace": "molecular_function",
+  "label": "glucose-1-phosphate thymidylyltransferase activity"
+}

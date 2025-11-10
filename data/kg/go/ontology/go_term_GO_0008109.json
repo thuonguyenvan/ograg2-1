@@ -1,0 +1,41 @@
+{
+  "id": "GO:0008109",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008109",
+  "relationships": {
+    "is_a": [
+      "GO:0008375"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "uridine diphosphoacetylglucosamine-acetyllactosaminide beta1-&gt;6-acetylglucosaminyltransferase"
+    ],
+    "narrow": [],
+    "related": [
+      "N-acetylglucosaminyltransferase activity",
+      "N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase activity",
+      "UDP-GlcNAc:Gal-R, beta-D-6-N-acetylglucosaminyltransferase activity",
+      "UDP-N-acetyl-D-glucosamine:beta-D-galactosyl-1,4-N-acetyl-D-glucosaminide beta-1,6-N-acetyl-D-glucosaminyltransferase activity",
+      "galbeta1-&gt;4GlcNAc-R beta1-&gt;6 N-acetylglucosaminyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.150",
+      "2.4.1.150",
+      "2.4.1.150",
+      "2.4.1.150",
+      "2.4.1.150",
+      "2.4.1.150",
+      "2.4.1.150"
+    ],
+    "RHEA": [
+      "17413",
+      "17413"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a beta-D-galactosyl-1,4-N-acetyl-beta-D-glucosaminyl derivative + UDP-N-acetyl-alpha-D-glucosamine = an N-acetyl-beta-D-glucosaminyl-1,6-beta-D-galactosyl-1,4-N-acetyl-beta-D-glucosaminyl derivative + UDP + H+.",
+  "namespace": "molecular_function",
+  "label": "N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase activity"
+}

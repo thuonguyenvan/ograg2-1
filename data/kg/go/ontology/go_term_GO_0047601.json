@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047601",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047601",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016774"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetate kinase (pyrophosphate) activity",
+      "diphosphate:acetate phosphotransferase activity",
+      "pyrophosphate-acetate phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.2.12",
+      "2.7.2.12",
+      "2.7.2.12",
+      "2.7.2.12",
+      "2.7.2.12"
+    ],
+    "KEGG_REACTION": [
+      "R00320"
+    ],
+    "MetaCyc": [
+      "ACETATE-KINASE-PYROPHOSPHATE-RXN"
+    ],
+    "RHEA": [
+      "24276",
+      "24276"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetate + diphosphate = acetyl phosphate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "acetate kinase (diphosphate) activity"
+}

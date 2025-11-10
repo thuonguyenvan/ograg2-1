@@ -1,0 +1,39 @@
+{
+  "id": "GO:0072679",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072679",
+  "relationships": {
+    "is_a": [
+      "GO:0072678"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "thymic lymphocyte migration"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "immature T cell migration",
+      "immature T lymphocyte migration",
+      "immature T-cell migration",
+      "immature T-lymphocyte migration"
+    ]
+  },
+  "cross_references": {
+    "CL": [
+      "0000893",
+      "0000893",
+      "0000893",
+      "0000893",
+      "0000893",
+      "0000893"
+    ],
+    "GOC": [
+      "BHF",
+      "mah"
+    ]
+  },
+  "definition": "The movement of a thymocyte through distinct intrathymic niches (e.g. medulla, cortex), where it receives a unique set of developmental cues required for T-cell development.",
+  "namespace": "biological_process",
+  "label": "thymocyte migration"
+}

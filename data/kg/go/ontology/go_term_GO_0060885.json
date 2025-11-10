@@ -1,0 +1,29 @@
+{
+  "id": "GO:0060885",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060885",
+  "relationships": {
+    "is_a": [
+      "GO:0060561",
+      "GO:0060884"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "clearance of cells from fusion plate by apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mtg_apoptosis",
+      "sdb_2009",
+      "tb"
+    ]
+  },
+  "definition": "Any apoptotic process that contributes to the shaping of the semicircular canal by removing cells in the fusion plate, forming the loops of the canals.",
+  "namespace": "biological_process",
+  "label": "clearance of cells from fusion plate by apoptotic process"
+}

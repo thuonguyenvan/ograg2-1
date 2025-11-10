@@ -1,0 +1,31 @@
+{
+  "id": "GO:0010228",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010228",
+  "relationships": {
+    "is_a": [
+      "GO:0003006"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transition from vegetative to reproductive phase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "floral evocation",
+      "flowering"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "tb"
+    ],
+    "DOI": [
+      "10.1146/annurev.pp.39.060188.001135"
+    ]
+  },
+  "definition": "The process involved in transforming a meristem that produces vegetative structures, such as leaves, into a meristem that produces reproductive structures, such as a flower or an inflorescence.",
+  "namespace": "biological_process",
+  "label": "vegetative to reproductive phase transition of meristem"
+}

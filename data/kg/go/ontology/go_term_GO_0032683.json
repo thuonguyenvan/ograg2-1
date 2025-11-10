@@ -1,0 +1,37 @@
+{
+  "id": "GO:0032683",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032683",
+  "relationships": {
+    "is_a": [
+      "GO:0001818",
+      "GO:0032643"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of connective tissue growth factor production",
+      "down-regulation of connective tissue growth factor production",
+      "downregulation of connective tissue growth factor production",
+      "negative regulation of CCN2 production",
+      "negative regulation of CTGF production",
+      "negative regulation of Fisp12 production",
+      "negative regulation of Hcs24 production",
+      "negative regulation of IGFBP8 production",
+      "negative regulation of hypertrophic chondrocyte-specific gene product 24 production"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of connective tissue growth factor production",
+      "negative regulation of connective tissue growth factor biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate, or extent of connective tissue growth factor production.",
+  "namespace": "biological_process",
+  "label": "negative regulation of connective tissue growth factor production"
+}

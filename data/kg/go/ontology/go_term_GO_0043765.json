@@ -1,0 +1,29 @@
+{
+  "id": "GO:0043765",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043765",
+  "relationships": {
+    "is_a": [
+      "GO:0004520"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "DNA mismatch endonuclease"
+    ],
+    "narrow": [],
+    "related": [
+      "V.EcoKDcm",
+      "Vsr mismatch endonuclease",
+      "very short patch repair protein"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "17651368"
+    ]
+  },
+  "definition": "Catalysis of the repair of T/G mismatches arising from deamination of 5-methylcytosine in DNA by nicking double-stranded DNA within the sequence CT(AT)GN or NT(AT)GG next to the mismatched thymidine residue. The incision is mismatch-dependent and strand-specific, in favor of the G-containing strand. The incision serves as a starting point for subsequent excision repair by DNA polymerase I, which excises thymidine and reinserts cytidine.",
+  "namespace": "molecular_function",
+  "label": "T/G mismatch-specific endonuclease activity"
+}

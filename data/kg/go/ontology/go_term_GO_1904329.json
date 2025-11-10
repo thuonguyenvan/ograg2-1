@@ -1,0 +1,60 @@
+{
+  "id": "GO:1904329",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904329",
+  "relationships": {
+    "is_a": [
+      "GO:0048523",
+      "GO:1904328"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of MF contraction",
+      "down regulation of MFB contraction",
+      "down regulation of myofibroblast contraction",
+      "down-regulation of MF contraction",
+      "down-regulation of MFB contraction",
+      "down-regulation of myofibroblast contraction",
+      "downregulation of MF contraction",
+      "downregulation of MFB contraction",
+      "downregulation of myofibroblast contraction",
+      "negative regulation of MF contraction",
+      "negative regulation of MFB contraction"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of MF contraction",
+      "inhibition of MFB contraction",
+      "inhibition of myofibroblast contraction"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19239477"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of myofibroblast contraction.",
+  "namespace": "biological_process",
+  "label": "negative regulation of myofibroblast contraction"
+}

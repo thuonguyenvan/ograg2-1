@@ -1,0 +1,41 @@
+{
+  "id": "GO:1900001",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900001",
+  "relationships": {
+    "is_a": [
+      "GO:0009895",
+      "GO:0031538",
+      "GO:1900000"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of anthocyanin breakdown",
+      "down regulation of anthocyanin catabolism",
+      "down regulation of anthocyanin degradation",
+      "negative regulation of anthocyanin breakdown",
+      "negative regulation of anthocyanin catabolism",
+      "negative regulation of anthocyanin degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "down regulation of anthocyanin catabolic process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of anthocyanin catabolic process.",
+  "namespace": "biological_process",
+  "label": "negative regulation of anthocyanin catabolic process"
+}

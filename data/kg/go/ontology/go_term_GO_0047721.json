@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047721",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047721",
+  "relationships": {
+    "is_a": [
+      "GO:0010279"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "indoleacetate-lysine ligase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(indol-3-yl)acetate:L-lysine ligase (ADP-forming)",
+      "IAA-lysine synthetase activity",
+      "N-(indole-3-acetyl)-L-lysine synthetase activity",
+      "indoleacetate:L-lysine ligase (ADP-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.20",
+      "6.3.2.20",
+      "6.3.2.20",
+      "6.3.2.20",
+      "6.3.2.20",
+      "6.3.2.20"
+    ],
+    "KEGG_REACTION": [
+      "R03095"
+    ],
+    "MetaCyc": [
+      "INDOLEACETATE--LYSINE-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "14857",
+      "14857"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (indol-3-yl)acetate + L-lysine + ATP = N(6)-[(indole-3-yl)acetyl]-L-lysine + ADP + 2 H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "indoleacetate-lysine synthetase activity"
+}

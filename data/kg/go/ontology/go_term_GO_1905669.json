@@ -1,0 +1,66 @@
+{
+  "id": "GO:1905669",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905669",
+  "relationships": {
+    "is_a": [
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TOR complex 1 assembly",
+      "TOR complex 1 formation",
+      "TORC 1 complex assembly",
+      "TORC 1 complex formation",
+      "TORC1 assembly",
+      "TORC1 complex formation",
+      "TORC1 formation",
+      "nutrient sensitive complex assembly",
+      "nutrient sensitive complex formation",
+      "rapamycin and nutrient-sensitive TOR complex assembly",
+      "rapamycin and nutrient-sensitive TOR complex formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "dTOR/dRaptor complex assembly",
+      "dTOR/dRaptor complex formation",
+      "dTORC1 assembly",
+      "dTORC1 formation",
+      "mTORC1 assembly",
+      "mTORC1 formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "kmv",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000079"
+    ],
+    "PMID": [
+      "21952218"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form a TORC1 complex.",
+  "namespace": "biological_process",
+  "label": "TORC1 complex assembly"
+}

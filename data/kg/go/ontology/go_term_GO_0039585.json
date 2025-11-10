@@ -1,0 +1,42 @@
+{
+  "id": "GO:0039585",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039585",
+  "relationships": {
+    "is_a": [
+      "GO:0140467"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "EIF2AK2 signal transduction",
+      "EIF2AK2/PRK signaling",
+      "PKR signal transduction",
+      "PKR signaling pathway",
+      "signaling through PKR"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9833482"
+    ],
+    "PMID": [
+      "21204021",
+      "22102852",
+      "27629041",
+      "9843495",
+      "22102852"
+    ],
+    "VZ": [
+      "1576"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "An intracellular signaling cassette that starts with activation and autophosphorylation of PKR (also known as EIF2AK2), which phosphorylates proteins including the translation initiation factor eIF2 to inhibit translation. PKR is activated by stress signals and during the antiviral response, activated by binding to viral double-stranded RNA (dsRNA) leading to inhibition of protein synthesis during viral infection.",
+  "namespace": "biological_process",
+  "label": "PKR-mediated signaling"
+}

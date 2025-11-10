@@ -1,0 +1,28 @@
+{
+  "id": "GO:0015782",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015782",
+  "relationships": {
+    "is_a": [
+      "GO:0015711",
+      "GO:0090481"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "CMP-sialic acid transport"
+    ],
+    "narrow": [],
+    "related": [
+      "CMP-N-acetylneuraminate transport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The directed movement of CMP-N-acetylneuraminate into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "CMP-N-acetylneuraminate transmembrane transport"
+}

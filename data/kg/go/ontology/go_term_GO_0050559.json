@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050559",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050559",
+  "relationships": {
+    "is_a": [
+      "GO:0016872"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "diterpene cyclase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "(+)-copalyl-diphosphate lyase (decyclizing)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.5.1.12",
+      "5.5.1.12",
+      "5.5.1.12"
+    ],
+    "KEGG_REACTION": [
+      "R06298"
+    ],
+    "MetaCyc": [
+      "RXN-4861"
+    ],
+    "RHEA": [
+      "24316",
+      "24316"
+    ]
+  },
+  "definition": "Catalysis of the reaction: all-trans-geranylgeranyl diphosphate = (+)-copalyl diphosphate.",
+  "namespace": "molecular_function",
+  "label": "copalyl diphosphate synthase activity"
+}

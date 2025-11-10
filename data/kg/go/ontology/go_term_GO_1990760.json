@@ -1,0 +1,27 @@
+{
+  "id": "GO:1990760",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990760",
+  "relationships": {
+    "is_a": [
+      "GO:0005034",
+      "GO:0005261",
+      "GO:0022836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "osmolarity-sensing cation channel activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "18279313"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of a monoatomic cation by a channel that opens when a change in the osmolarity occurs in the extracellular space of the cell in which the cation channel resides.",
+  "namespace": "molecular_function",
+  "label": "osmolarity-sensing monoatomic cation channel activity"
+}

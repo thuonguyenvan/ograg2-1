@@ -1,0 +1,38 @@
+{
+  "id": "GO:1901286",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901286",
+  "relationships": {
+    "is_a": [
+      "GO:0008152"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FeMo-co metabolic process",
+      "FeMo-co metabolism",
+      "iron-molybdenum cofactor metabolic process",
+      "iron-molybdenum cofactor metabolism",
+      "iron-sulfur-molybdenum cofactor metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf",
+      "yaf",
+      "TermGenie"
+    ],
+    "UniPathway": [
+      "UPA00782"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving iron-sulfur-molybdenum cofactor.",
+  "namespace": "biological_process",
+  "label": "iron-sulfur-molybdenum cofactor metabolic process"
+}

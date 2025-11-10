@@ -1,0 +1,36 @@
+{
+  "id": "GO:0033827",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033827",
+  "relationships": {
+    "is_a": [
+      "GO:0008375"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-GlcNAc:oligosaccharide beta-N-acetylglucosaminyltransferase activity",
+      "UDP-N-acetyl-D-glucosamine:high-mannose-oligosaccharide beta-1,4-N-acetylglucosaminyltransferase activity",
+      "acetylglucosamine-oligosaccharide acetylglucosaminyltransferase activity",
+      "uridine diphosphoacetylglucosamine-oligosaccharide acetylglucosaminyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.197",
+      "2.4.1.197",
+      "2.4.1.197",
+      "2.4.1.197",
+      "2.4.1.197",
+      "2.4.1.197"
+    ],
+    "MetaCyc": [
+      "2.4.1.197-RXN"
+    ]
+  },
+  "definition": "Catalysis of the transfer of an N-acetyl-D-glucosamine residue from UDP-N-acetyl-D-glucosamine to the 4-position of a mannose linked alpha-1,6 to the core mannose of high-mannose oligosaccharides produced by Dictyostelium discoideum.",
+  "namespace": "molecular_function",
+  "label": "high-mannose-oligosaccharide beta-1,4-N-acetylglucosaminyltransferase activity"
+}

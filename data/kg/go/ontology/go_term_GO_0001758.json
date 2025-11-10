@@ -1,0 +1,41 @@
+{
+  "id": "GO:0001758",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001758",
+  "relationships": {
+    "is_a": [
+      "GO:0004029"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "retinal dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "cytosolic retinal dehydrogenase activity",
+      "retinal:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.36",
+      "1.2.1.36",
+      "1.2.1.36",
+      "1.2.1.36"
+    ],
+    "MetaCyc": [
+      "RETINAL-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "16177"
+    ],
+    "Reactome": [
+      "R-HSA-5362522",
+      "R-HSA-5696101"
+    ]
+  },
+  "definition": "Catalysis of the reaction: retinal + NAD+ + H2O = retinoate + NADH. Acts on both 11-trans and 13-cis forms of retinal.",
+  "namespace": "molecular_function",
+  "label": "ALDH8A1 oxidises 9cRAL to 9cRA"
+}

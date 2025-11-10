@@ -1,0 +1,44 @@
+{
+  "id": "GO:1904943",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904943",
+  "relationships": {
+    "is_a": [
+      "GO:1901211",
+      "GO:1904413",
+      "GO:1904942"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of cardiac ventricle formation",
+      "down-regulation of cardiac ventricle formation",
+      "downregulation of cardiac ventricle formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of cardiac ventricle formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "TermGenie",
+      "bc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23575307"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of cardiac ventricle formation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of cardiac ventricle formation"
+}

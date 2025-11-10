@@ -1,0 +1,41 @@
+{
+  "id": "GO:0004487",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004487",
+  "relationships": {
+    "is_a": [
+      "GO:0016646"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5,10-methylenetetrahydrofolate dehydrogenase activity",
+      "5,10-methylenetetrahydrofolate:NAD+ oxidoreductase"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.15",
+      "1.5.1.5",
+      "1.5.1.15"
+    ],
+    "KEGG_REACTION": [
+      "R01218"
+    ],
+    "MetaCyc": [
+      "1.5.1.15-RXN"
+    ],
+    "RHEA": [
+      "22892",
+      "22892"
+    ],
+    "Reactome": [
+      "R-HSA-6801462"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5,10-methylenetetrahydrofolate + NAD+ = 5,10-methenyltetrahydrofolate + NADH.",
+  "namespace": "molecular_function",
+  "label": "MTHFD2, D2L oxidise 5,10-methenyl-THF to 10-formyl-THF"
+}

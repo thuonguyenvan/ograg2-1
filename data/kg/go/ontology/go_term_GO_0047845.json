@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047845",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047845",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "deoxylimonate A-ring-lactonohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.46",
+      "3.1.1.46",
+      "3.1.1.46"
+    ],
+    "KEGG_REACTION": [
+      "R03803"
+    ],
+    "MetaCyc": [
+      "DEOXYLIMONATE-A-RING-LACTONASE-RXN"
+    ],
+    "RHEA": [
+      "14997",
+      "14997"
+    ]
+  },
+  "definition": "Catalysis of the reaction: deoxylimonoate + H2O = deoxylimononate D-ring-lactone + H+.",
+  "namespace": "molecular_function",
+  "label": "deoxylimonate A-ring-lactonase activity"
+}

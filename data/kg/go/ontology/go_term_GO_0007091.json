@@ -1,0 +1,34 @@
+{
+  "id": "GO:0007091",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007091",
+  "relationships": {
+    "is_a": [
+      "GO:0044772",
+      "GO:0044784"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "metaphase/anaphase transition by anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process",
+      "mitotic metaphase/anaphase transition"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-68881"
+    ],
+    "GOC": [
+      "mtg_cell_cycle",
+      "vw"
+    ],
+    "PMID": [
+      "10465783"
+    ]
+  },
+  "definition": "The cell cycle process in which a cell progresses from metaphase to anaphase during mitosis, triggered by the activation of the anaphase promoting complex by Cdc20/Sleepy homolog which results in the degradation of Securin.",
+  "namespace": "biological_process",
+  "label": "Mitotic Metaphase/Anaphase Transition"
+}

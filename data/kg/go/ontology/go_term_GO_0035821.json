@@ -1,0 +1,36 @@
+{
+  "id": "GO:0035821",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035821",
+  "relationships": {
+    "is_a": [
+      "GO:0044419"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "modification of morphology or physiology of other organism",
+      "modulation of process of other organism"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of morphology of other organism",
+      "regulation of physiological process of other organism",
+      "regulation of physiology of other organism"
+    ],
+    "related": [
+      "regulation of morphology or physiology of other organism"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "bf",
+      "bf",
+      "bf",
+      "bf"
+    ]
+  },
+  "definition": "A process in which an organism effects a change in a biological process in another organism.",
+  "namespace": "biological_process",
+  "label": "modulation of process of another organism"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0009309",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009309",
+  "relationships": {
+    "is_a": [
+      "GO:0009058",
+      "GO:0009308"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "amine anabolism",
+      "amine biosynthesis",
+      "amine formation",
+      "amine synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of any organic compound that is weakly basic in character and contains an amino or a substituted amino group. Amines are called primary, secondary, or tertiary according to whether one, two, or three carbon atoms are attached to the nitrogen atom.",
+  "namespace": "biological_process",
+  "label": "amine biosynthetic process"
+}

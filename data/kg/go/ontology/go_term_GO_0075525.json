@@ -1,0 +1,44 @@
+{
+  "id": "GO:0075525",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075525",
+  "relationships": {
+    "is_a": [
+      "GO:0016032"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "termination reinitiation involved in viral translation",
+      "viral translation involving termination re-initiation",
+      "viral translation involving termination-reinitiation",
+      "viral translation involving translational stop-start"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "858",
+      "858"
+    ],
+    "GOC": [
+      "bf",
+      "ch",
+      "jl"
+    ],
+    "PMID": [
+      "18631147",
+      "18824510"
+    ],
+    "GO": [
+      "jl",
+      "jl",
+      "jl",
+      "jl"
+    ]
+  },
+  "definition": "A process which occurs as part of viral mRNA translation which allows expression of a downstream open reading frame (ORF) in a dicistronic mRNA. In this process, ribosomes translate the upstream ORF but following termination, a proportion of 40S subunits remain tethered to the mRNA and go on to re-initiate translation at the start codon of the downstream ORF.",
+  "namespace": "biological_process",
+  "label": "RNA termination-reinitiation"
+}

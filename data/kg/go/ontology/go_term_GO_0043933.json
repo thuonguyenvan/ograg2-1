@@ -1,0 +1,35 @@
+{
+  "id": "GO:0043933",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043933",
+  "relationships": {
+    "is_a": [
+      "GO:0016043"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein complex subunit organisation",
+      "protein complex subunit organization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cellular macromolecular complex organization",
+      "cellular macromolecular complex subunit organisation",
+      "cellular macromolecular complex subunit organization",
+      "macromolecular complex organization",
+      "macromolecular complex subunit organisation",
+      "macromolecular complex subunit organization",
+      "protein-containing complex subunit organization"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process in which macromolecules aggregate, disaggregate, or are modified, resulting in the formation, disassembly, or alteration of a protein complex.",
+  "namespace": "biological_process",
+  "label": "protein-containing complex organization"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0045487",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045487",
+  "relationships": {
+    "is_a": [
+      "GO:0009685",
+      "GO:0016103",
+      "GO:0046395"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "gibberellin catabolism"
+    ],
+    "broad": [],
+    "narrow": [
+      "gibberellic acid breakdown",
+      "gibberellic acid catabolic process",
+      "gibberellic acid catabolism",
+      "gibberellic acid degradation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of gibberellin. Gibberellins are a class of highly modified terpenes that function as plant growth regulators.",
+  "namespace": "biological_process",
+  "label": "gibberellin catabolic process"
+}

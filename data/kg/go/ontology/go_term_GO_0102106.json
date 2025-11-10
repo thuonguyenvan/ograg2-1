@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102106",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102106",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.217",
+      "2.3.1.217"
+    ],
+    "MetaCyc": [
+      "RXN-11226"
+    ],
+    "RHEA": [
+      "34823"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: feruloylacetyl-CoA + feruloyl-CoA(4-) + H2O = curcumin + 2 coenzyme A(4-) + carbon dioxide.",
+  "namespace": "molecular_function",
+  "label": "curcumin synthase activity"
+}

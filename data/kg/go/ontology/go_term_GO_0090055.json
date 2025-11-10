@@ -1,0 +1,28 @@
+{
+  "id": "GO:0090055",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090055",
+  "relationships": {
+    "is_a": [
+      "GO:0031453",
+      "GO:0090054"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of chromatin silencing at silent mating-type cassette",
+      "positive regulation of silent mating-type cassette heterochromatin assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that increases the frequency, rate, or extent of heterochromatin formation at silent mating-type cassette.",
+  "namespace": "biological_process",
+  "label": "positive regulation of silent mating-type cassette heterochromatin formation"
+}

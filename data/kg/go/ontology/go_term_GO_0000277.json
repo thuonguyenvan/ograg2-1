@@ -1,0 +1,45 @@
+{
+  "id": "GO:0000277",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000277",
+  "relationships": {
+    "is_a": [
+      "GO:0016279"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:cytochrome c-L-lysine 6-N-methyltransferase activity",
+      "S-adenosyl-L-methionine:cytochrome c-L-lysine N6-methyltransferase activity",
+      "cytochrome c (lysine) methyltransferase activity",
+      "cytochrome c methyltransferase activity",
+      "cytochrome c-lysine N-methyltransferase activity",
+      "cytochrome c-specific protein methylase III activity",
+      "cytochrome c-specific protein-lysine methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.59",
+      "2.1.1.59",
+      "2.1.1.59",
+      "2.1.1.59",
+      "2.1.1.59",
+      "2.1.1.59",
+      "2.1.1.59",
+      "2.1.1.59",
+      "2.1.1.59"
+    ],
+    "MetaCyc": [
+      "2.1.1.59-RXN"
+    ],
+    "RHEA": [
+      "24312"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + cytochrome c L-lysine = S-adenosyl-L-homocysteine + cytochrome c N6-methyl-L-lysine. This is the addition of a methyl group to the N6 atom of a lysine residue in cytochrome c.",
+  "namespace": "molecular_function",
+  "label": "[cytochrome c]-lysine N-methyltransferase activity"
+}

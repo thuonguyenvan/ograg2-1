@@ -1,0 +1,45 @@
+{
+  "id": "GO:0009001",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009001",
+  "relationships": {
+    "is_a": [
+      "GO:0016412",
+      "GO:0016413"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-serine acetyltransferase activity",
+      "SATase activity",
+      "acetyl-CoA:L-serine O-acetyltransferase activity",
+      "serine acetyltransferase activity",
+      "serine transacetylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.30",
+      "2.3.1.30",
+      "2.3.1.30",
+      "2.3.1.30",
+      "2.3.1.30",
+      "2.3.1.30"
+    ],
+    "KEGG_REACTION": [
+      "R00586"
+    ],
+    "MetaCyc": [
+      "SERINE-O-ACETTRAN-RXN"
+    ],
+    "RHEA": [
+      "24560",
+      "24560"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-serine + acetyl-CoA = O-acetyl-L-serine + CoA.",
+  "namespace": "molecular_function",
+  "label": "serine O-acetyltransferase activity"
+}

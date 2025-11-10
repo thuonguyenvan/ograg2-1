@@ -1,0 +1,41 @@
+{
+  "id": "GO:0043209",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043209",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Schwann cell myelin sheath",
+      "astrocyte sheath",
+      "oligodendrocyte myelin sheath"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "FMA": [
+      "62983"
+    ],
+    "NIF_Subcellular": [
+      "sao593830697",
+      "sao593830697",
+      "nlx_subcell_20090204",
+      "sao1279474730"
+    ],
+    "Wikipedia": [
+      "Myelin",
+      "Myelin"
+    ],
+    "GOC": [
+      "cjm",
+      "jl"
+    ]
+  },
+  "definition": "An electrically insulating fatty layer that surrounds the axons of many neurons. It is an outgrowth of glial cells: Schwann cells supply the myelin for peripheral neurons while oligodendrocytes supply it to those of the central nervous system.",
+  "namespace": "cellular_component",
+  "label": "myelin sheath"
+}

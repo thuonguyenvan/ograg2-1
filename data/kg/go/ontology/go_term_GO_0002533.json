@@ -1,0 +1,33 @@
+{
+  "id": "GO:0002533",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002533",
+  "relationships": {
+    "is_a": [
+      "GO:0033299"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "secretion of lysosomal enzymes involved in inflammatory response"
+    ],
+    "broad": [
+      "secretion of lysosomal enzymes involved in acute inflammatory response"
+    ],
+    "narrow": [],
+    "related": [
+      "lysosomal enzyme secretion involved in acute inflammatory response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jal",
+      "mah"
+    ],
+    "PMID": [
+      "11836514"
+    ]
+  },
+  "definition": "The regulated release of lysosomal enzymes by a cell as part of an inflammatory response.",
+  "namespace": "biological_process",
+  "label": "lysosomal enzyme secretion involved in inflammatory response"
+}

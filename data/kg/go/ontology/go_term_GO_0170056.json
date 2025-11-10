@@ -1,0 +1,34 @@
+{
+  "id": "GO:0170056",
+  "uri": "http://purl.obolibrary.org/obo/GO_0170056",
+  "relationships": {
+    "is_a": [
+      "GO:0070704"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "C-7 cholesterol dehydrogenase",
+      "cholesterol 7,8-dehydrogenase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.19.21",
+      "1.14.19.21"
+    ],
+    "MetaCyc": [
+      "RXN-16379"
+    ],
+    "PMID": [
+      "21632547",
+      "31521708"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cholesterol + H+ + NAD(P)H + O2 = 7-dehydrocholesterol + 2 H2O + NAD(P)+.",
+  "namespace": "molecular_function",
+  "label": "cholesterol 7-desaturase [NAD(P)H] activity"
+}

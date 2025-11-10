@@ -1,0 +1,38 @@
+{
+  "id": "GO:0004176",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004176",
+  "relationships": {
+    "is_a": [
+      "GO:0008233",
+      "GO:0140657"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP-dependent proteolysis"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9698929",
+      "R-HSA-9838004",
+      "R-HSA-9838081",
+      "R-HSA-9838289",
+      "R-HSA-9839059",
+      "R-HSA-9839105",
+      "R-HSA-9839113",
+      "R-HSA-9839146",
+      "R-HSA-9839751"
+    ],
+    "GOC": [
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of peptide bonds, driven by ATP hydrolysis.",
+  "namespace": "molecular_function",
+  "label": "YME1L1 degrades mitochondrial intermembrane space proteins"
+}

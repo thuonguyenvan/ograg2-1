@@ -1,0 +1,27 @@
+{
+  "id": "GO:0070677",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070677",
+  "relationships": {
+    "is_a": [
+      "GO:0016434",
+      "GO:0062105"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "19400805"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + rRNA = S-adenosyl-L-homocysteine + rRNA containing 2&apos;-O-methylcytosine.",
+  "namespace": "molecular_function",
+  "label": "rRNA (cytosine-2&apos;-O-)-methyltransferase activity"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:1902036",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902036",
+  "relationships": {
+    "is_a": [
+      "GO:1901532",
+      "GO:2000736"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of haematopoietic stem cell differentiation",
+      "regulation of haemopoietic stem cell differentiation",
+      "regulation of hemopoietic stem cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8939236"
+    ],
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "23403623"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of hematopoietic stem cell differentiation.",
+  "namespace": "biological_process",
+  "label": "RUNX1 regulates transcription of genes involved in differentiation of HSCs"
+}

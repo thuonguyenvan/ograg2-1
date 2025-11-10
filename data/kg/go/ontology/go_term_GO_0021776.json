@@ -1,0 +1,40 @@
+{
+  "id": "GO:0021776",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021776",
+  "relationships": {
+    "is_a": [
+      "GO:0021910"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hedgehog signaling pathway involved in spinal cord motor neuron cell fate specification",
+      "hh signaling pathway involved in spinal cord motor neuron cell fate specification",
+      "smoothened signalling pathway involved in spinal cord motor neuron cell fate specification"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid",
+      "bf",
+      "ecd",
+      "bf",
+      "ecd"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "15936325"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by binding of a ligand to the transmembrane receptor smoothened in a precursor cell in the spinal cord that contributes to the process of a precursor cell becoming capable of differentiating autonomously into a motor neuron in an environment that is neutral with respect to the developmental pathway.",
+  "namespace": "biological_process",
+  "label": "smoothened signaling pathway involved in spinal cord motor neuron cell fate specification"
+}

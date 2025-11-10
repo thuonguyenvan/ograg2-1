@@ -1,0 +1,69 @@
+{
+  "id": "GO:0004530",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004530",
+  "relationships": {
+    "is_a": [
+      "GO:0016888"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "DNase activity",
+      "deoxyribonuclease (pancreatic)",
+      "pancreatic DNase activity",
+      "pancreatic deoxyribonuclease",
+      "pancreatic dornase",
+      "thymonuclease activity"
+    ],
+    "related": [
+      "DNA depolymerase activity",
+      "DNA endonuclease activity",
+      "DNA nuclease activity",
+      "DNAase activity",
+      "DNase I",
+      "Escherichia coli endonuclease I",
+      "alkaline DNase activity",
+      "alkaline deoxyribonuclease activity",
+      "deoxyribonuclease A",
+      "deoxyribonucleic phosphatase activity",
+      "dornava",
+      "dornavac",
+      "endodeoxyribonuclease I",
+      "thymonuclease, dornase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1",
+      "3.1.21.1"
+    ],
+    "MetaCyc": [
+      "3.1.21.1-RXN"
+    ]
+  },
+  "definition": "Catalysis of the endonucleolytic cleavage of DNA to 5&apos;-phosphodinucleotide and 5&apos;-phosphooligonucleotide end products.",
+  "namespace": "molecular_function",
+  "label": "deoxyribonuclease I activity"
+}

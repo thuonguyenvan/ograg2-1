@@ -1,0 +1,35 @@
+{
+  "id": "GO:0031216",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031216",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pullulanase II activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pullulan 4-D-glucanohydrolase (panose-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.135",
+      "3.2.1.135",
+      "3.2.1.135"
+    ],
+    "MetaCyc": [
+      "3.2.1.135-RXN"
+    ],
+    "GOC": [
+      "mlg"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of pullulan to panose (6-alpha-D-glucosylmaltose).",
+  "namespace": "molecular_function",
+  "label": "neopullulanase activity"
+}

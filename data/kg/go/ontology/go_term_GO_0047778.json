@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047778",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047778",
+  "relationships": {
+    "is_a": [
+      "GO:0016790"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "citrate (pro-3S)-lyase thiolesterase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "[citrate-(pro-3S)-lyase] thioesterase activity",
+      "citrate lyase deacetylase activity",
+      "citrate-(pro-3S)-lyase thioesterase activity",
+      "citrate-(pro-3S)-lyase thiolesterase activity",
+      "citrate-(pro-3S)-lyase(acetyl-form) hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.2.16",
+      "3.1.2.16",
+      "3.1.2.16",
+      "3.1.2.16",
+      "3.1.2.16",
+      "3.1.2.16",
+      "3.1.2.16"
+    ],
+    "MetaCyc": [
+      "CITRATE-PRO-3S-LYASE-THIOLESTERASE-RXN",
+      "CITRATE-PRO-3S-LYASE-THIOLESTERASE-RXN"
+    ],
+    "RHEA": [
+      "13657"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [citrate (pro-3S)-lyase](acetyl form) + H2O = [citrate (pro-3S)-lyase](thiol form) + acetate.",
+  "namespace": "molecular_function",
+  "label": "[citrate-(pro-3S)-lyase] thiolesterase activity"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047681",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047681",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NADPH-linked benzaldehyde reductase activity",
+      "aryl alcohol dehydrogenase (nicotinamide adenine dinucleotide phosphate)",
+      "aryl-alcohol:NADP+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.91",
+      "1.1.1.91",
+      "1.1.1.91",
+      "1.1.1.91",
+      "1.1.1.91"
+    ],
+    "MetaCyc": [
+      "ARYL-ALCOHOL-DEHYDROGENASE-NADP+-RXN",
+      "ARYL-ALCOHOL-DEHYDROGENASE-NADP+-RXN"
+    ],
+    "RHEA": [
+      "17761"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an aromatic alcohol + NADP+ = an aromatic aldehyde + NADPH.",
+  "namespace": "molecular_function",
+  "label": "aryl-alcohol dehydrogenase (NADP+) activity"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047557",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047557",
+  "relationships": {
+    "is_a": [
+      "GO:0016663"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-aci-nitropropanoate:oxygen oxidoreductase activity",
+      "propionate-3-nitronate oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.3.5",
+      "1.7.3.5",
+      "1.7.3.5",
+      "1.7.3.5"
+    ],
+    "KEGG_REACTION": [
+      "R01609"
+    ],
+    "MetaCyc": [
+      "3-ACI-NITROPROPANOATE-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "22372",
+      "22372"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-aci-nitropropanoate + H2O + O2 = 3-oxopropanoate + H2O2 + nitrite.",
+  "namespace": "molecular_function",
+  "label": "3-aci-nitropropanoate oxidase activity"
+}

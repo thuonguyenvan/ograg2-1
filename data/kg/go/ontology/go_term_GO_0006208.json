@@ -1,0 +1,31 @@
+{
+  "id": "GO:0006208",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006208",
+  "relationships": {
+    "is_a": [
+      "GO:0006206",
+      "GO:0046113",
+      "GO:0072529"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pyrimidine base breakdown",
+      "pyrimidine base catabolic process",
+      "pyrimidine base catabolism",
+      "pyrimidine base degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of pyrimidine nucleobases, 1,3-diazine, organic nitrogenous bases.",
+  "namespace": "biological_process",
+  "label": "pyrimidine nucleobase catabolic process"
+}

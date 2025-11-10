@@ -1,0 +1,28 @@
+{
+  "id": "GO:0009612",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009612",
+  "relationships": {
+    "is_a": [
+      "GO:0009605",
+      "GO:0009628"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mechanical stimulus response"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "chemi-mechanical coupling"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "hb"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a mechanical stimulus.",
+  "namespace": "biological_process",
+  "label": "response to mechanical stimulus"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:1990572",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990572",
+  "relationships": {
+    "is_a": [
+      "GO:0031379",
+      "GO:1990904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "telomerase reverse transcriptase:RMRP RNA complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "bf",
+      "nc"
+    ],
+    "PMID": [
+      "19701182",
+      "19701182"
+    ]
+  },
+  "definition": "A ribonucleoprotein complex that has RNA-directed RNA polymerase (RdRP) activity, and is composed of telomerase reverse transcriptase (TERT) and the non-coding RNA component of mitochondrial RNA processing endoribonuclease (RMRP).",
+  "namespace": "cellular_component",
+  "label": "TERT-RMRP complex"
+}

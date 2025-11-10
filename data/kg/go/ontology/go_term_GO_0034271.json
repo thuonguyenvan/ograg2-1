@@ -1,0 +1,33 @@
+{
+  "id": "GO:0034271",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034271",
+  "relationships": {
+    "is_a": [
+      "GO:0035032"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "autophagy-specific phosphatidylinositol 3-kinase (PtdIns3K) complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PtdIns-3-kinase complex I",
+      "phosphatidylinositol 3-kinase complex I"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ha",
+      "rb"
+    ],
+    "PMID": [
+      "11157979",
+      "16421251"
+    ]
+  },
+  "definition": "A class III phosphatidylinositol 3-kinase complex that is involved in autophagy. In budding yeast, this complex consists of Vps30p, Vps34p, Apg14p and Vps15p.",
+  "namespace": "cellular_component",
+  "label": "phosphatidylinositol 3-kinase complex, class III, type I"
+}

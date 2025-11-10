@@ -1,0 +1,85 @@
+{
+  "id": "GO:0003849",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003849",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-dehydro-3-deoxyphosphoheptonate aldolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-dehydro-3-deoxy-phosphoheptonate aldolase activity",
+      "2-keto-3-deoxy-D-arabino-heptonic acid 7-phosphate synthetase activity",
+      "3-deoxy-D-arabino-2-heptulosonic acid 7-phosphate synthetase activity",
+      "3-deoxy-D-arabino-heptolosonate-7-phosphate synthetase activity",
+      "3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase activity",
+      "7-phospho-2-dehydro-3-deoxy-D-arabino-heptonate",
+      "7-phospho-2-dehydro-3-deoxy-D-arabino-heptonate D-erythrose-4-phosphate lyase (pyruvate-phosphorylating) activity",
+      "7-phospho-2-keto-3-deoxy-D-arabino-heptonate D-erythrose-4-phosphate lyase (pyruvate-phosphorylating) activity",
+      "D-erythrose-4-phosphate-lyase (pyruvate-phosphorylating) activity",
+      "D-erythrose-4-phosphate-lyase activity",
+      "DAH7-P synthase activity",
+      "DAHP synthase activity",
+      "DHAP synthase activity",
+      "DS-Co activity",
+      "DS-Mn activity",
+      "KDPH synthase activity",
+      "KDPH synthetase activity",
+      "deoxy-D-arabino-heptulosonate-7-phosphate synthetase activity",
+      "phospho-2-dehydro-3-deoxyheptonate aldolase activity",
+      "phospho-2-keto-3-deoxyheptanoate aldolase activity",
+      "phospho-2-keto-3-deoxyheptonate aldolase activity",
+      "phospho-2-keto-3-deoxyheptonic aldolase activity",
+      "phospho-2-oxo-3-deoxyheptonate aldolase activity",
+      "phosphoenolpyruvate:D-erythrose-4-phosphate C-(1-carboxyvinyl)transferase (phosphate-hydrolysing, 2-carboxy-2-oxoethyl-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54",
+      "2.5.1.54"
+    ],
+    "KEGG_REACTION": [
+      "R01826"
+    ],
+    "MetaCyc": [
+      "DAHPSYN-RXN"
+    ],
+    "RHEA": [
+      "14717",
+      "14717"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-erythrose 4-phosphate + H2O + phosphoenolpyruvate = 7-phospho-2-dehydro-3-deoxy-D-arabino-heptonate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "3-deoxy-7-phosphoheptulonate synthase activity"
+}

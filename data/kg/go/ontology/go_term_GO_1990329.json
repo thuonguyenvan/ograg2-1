@@ -1,0 +1,26 @@
+{
+  "id": "GO:1990329",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990329",
+  "relationships": {
+    "is_a": [
+      "GO:1990221"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "20404999"
+    ]
+  },
+  "definition": "A heterotetrameric protein complex involved in the sulfur-relay system required for 2-thiolation of 5-methylaminomethyl-2-thiouridine (mnm5s2U) at tRNA wobble positions. In E. coli it consists of a central IscS dimer with the two TusA protomers bound to one of the IscS units each via persulfide (-SSH) groups.",
+  "namespace": "cellular_component",
+  "label": "IscS-TusA complex"
+}

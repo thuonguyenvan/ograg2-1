@@ -1,0 +1,31 @@
+{
+  "id": "GO:0001402",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001402",
+  "relationships": {
+    "is_a": [
+      "GO:0007165"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "MAPKKK cascade (pseudohyphal growth)",
+      "signal transduction during filamentous growth"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mcc",
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "9728395"
+    ]
+  },
+  "definition": "Relaying of environmental signals promoting filamentous growth.",
+  "namespace": "biological_process",
+  "label": "signal transduction involved in filamentous growth"
+}

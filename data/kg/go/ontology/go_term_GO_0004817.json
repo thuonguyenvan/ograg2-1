@@ -1,0 +1,45 @@
+{
+  "id": "GO:0004817",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004817",
+  "relationships": {
+    "is_a": [
+      "GO:0004812"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cysteinyl-tRNA synthetase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-cysteine:tRNACys ligase (AMP-forming)",
+      "cysteine translase activity",
+      "cysteinyl-transfer ribonucleate synthetase activity",
+      "cysteinyl-transferRNA synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.1.1.16",
+      "6.1.1.16",
+      "6.1.1.16",
+      "6.1.1.16",
+      "6.1.1.16",
+      "6.1.1.16"
+    ],
+    "MetaCyc": [
+      "CYSTEINE--TRNA-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "17773"
+    ],
+    "Reactome": [
+      "R-HSA-379887",
+      "R-HSA-380158"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + L-cysteine + tRNA(Cys) = AMP + diphosphate + L-cysteinyl-tRNA(Cys).",
+  "namespace": "molecular_function",
+  "label": "cysteine + tRNA(Cys) + ATP =&gt; Cys-tRNA(Cys) + AMP + pyrophosphate"
+}

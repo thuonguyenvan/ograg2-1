@@ -1,0 +1,34 @@
+{
+  "id": "GO:0045895",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045895",
+  "relationships": {
+    "is_a": [
+      "GO:0007532",
+      "GO:0045893"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of mating-type specific transcription, DNA-dependent",
+      "up regulation of transcription, mating-type specific",
+      "up-regulation of transcription, mating-type specific",
+      "upregulation of transcription, mating-type specific"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of transcription, mating-type specific",
+      "stimulation of transcription, mating-type specific"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "txnOH",
+      "txnOH"
+    ]
+  },
+  "definition": "Any mating-type specific process that activates or increases the rate of cellular DNA-templated transcription.",
+  "namespace": "biological_process",
+  "label": "positive regulation of mating-type specific transcription, DNA-templated"
+}

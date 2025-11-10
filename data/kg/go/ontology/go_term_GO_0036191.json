@@ -1,0 +1,33 @@
+{
+  "id": "GO:0036191",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036191",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "indolin-2-one,NAD(P)H:oxygen oxidoreductase (3-hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.157",
+      "1.14.14.157"
+    ],
+    "KEGG_REACTION": [
+      "R07421"
+    ],
+    "RHEA": [
+      "31919",
+      "31919"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ndolin-2-one + reduced [NADPH-hemoprotein reductase] + O2 = 3-hydroxyindolin-2-one + oxidized [NADPH-hemoprotein reductase] + H2O + H+.",
+  "namespace": "molecular_function",
+  "label": "indolin-2-one monooxygenase activity"
+}

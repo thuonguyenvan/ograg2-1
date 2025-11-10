@@ -1,0 +1,29 @@
+{
+  "id": "GO:0061739",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061739",
+  "relationships": {
+    "is_a": [
+      "GO:0006501"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "autophagy",
+      "dph"
+    ],
+    "PMID": [
+      "11096062",
+      "11100732",
+      "15277523"
+    ]
+  },
+  "definition": "The protein lipidation process by which phosphatidylethanolamine is conjugated to a protein of the ATG8 family, leading to membrane insertion of the protein as a step in autophagosome assembly.",
+  "namespace": "biological_process",
+  "label": "protein lipidation involved in autophagosome assembly"
+}

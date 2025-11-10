@@ -1,0 +1,32 @@
+{
+  "id": "GO:0019168",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019168",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "2-octaprenylphenol hydroxylase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.240"
+    ],
+    "MetaCyc": [
+      "RXN-18459"
+    ],
+    "RHEA": [
+      "55892",
+      "55892"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 2-(all-trans-polyprenyl)phenol + NADPH + O2 + H+ = a 3-(all-trans-polyprenyl)benzene-1,2-diol + NADP+ + H2O.",
+  "namespace": "molecular_function",
+  "label": "2-polyprenylphenol 6-hydroxylase activity"
+}

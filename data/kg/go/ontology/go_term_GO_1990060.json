@@ -1,0 +1,26 @@
+{
+  "id": "GO:1990060",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990060",
+  "relationships": {
+    "is_a": [
+      "GO:0043190"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "maltose ABC transporter complex",
+      "maltose ATP-binding cassette transporter complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "18033289"
+    ]
+  },
+  "definition": "Protein complex facilitating ATP-dependent maltose transport through inner cell membrane (periplasm to cytoplasm) in Gram-negative bacteria. In E. coli the system is composed of a periplasmic maltose-binding protein (MBP), two integral membrane proteins, MalF and MalG, and two copies of the cytoplasmic ATP-binding cassette MalK.",
+  "namespace": "cellular_component",
+  "label": "maltose transport complex"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0043721",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043721",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-hydroxybutanoyl-CoA hydro-lyase",
+      "4-hydroxybutyryl-CoA dehydratase activity",
+      "gamma-hydroxybutanoyl-CoA dehydratase activity",
+      "gamma-hydroxybutyryl-CoA dehydratase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.120",
+      "4.2.1.120"
+    ],
+    "KEGG_REACTION": [
+      "R05337"
+    ],
+    "MetaCyc": [
+      "RXN-8890"
+    ],
+    "RHEA": [
+      "26530"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-hydroxybutanoyl-CoA = vinylacetyl-CoA + H2O.",
+  "namespace": "molecular_function",
+  "label": "4-hydroxybutanoyl-CoA dehydratase activity"
+}

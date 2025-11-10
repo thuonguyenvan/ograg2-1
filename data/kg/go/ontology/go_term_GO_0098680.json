@@ -1,0 +1,30 @@
+{
+  "id": "GO:0098680",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098680",
+  "relationships": {
+    "is_a": [
+      "GO:0016779",
+      "GO:0140098"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "dos",
+      "nc"
+    ],
+    "PMID": [
+      "15994230"
+    ]
+  },
+  "definition": "Catalysis of the reaction: nucleoside triphosphate + RNA(n) = diphosphate + RNA(n+1); the addition of a terminal nucleotide to an RNA molecule in the absence of a nucleic acid template.",
+  "namespace": "molecular_function",
+  "label": "template-free RNA nucleotidyltransferase"
+}

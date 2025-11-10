@@ -1,0 +1,37 @@
+{
+  "id": "GO:0052910",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052910",
+  "relationships": {
+    "is_a": [
+      "GO:0008988"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ermC 23S rRNA methyltransferase activity",
+      "rRNA methyltransferase ermC&apos; activity",
+      "rRNA:m(6)A methyltransferase ermC&apos; activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.184",
+      "2.1.1.184",
+      "2.1.1.184",
+      "2.1.1.184"
+    ],
+    "MetaCyc": [
+      "RXN-11597"
+    ],
+    "RHEA": [
+      "42784",
+      "42784"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 S-adenosyl-L-methionine + adenine(2085) in 23S rRNA = 2 S-adenosyl-L-homocysteine + N(6)-dimethyladenine(2085) in 23S rRNA.",
+  "namespace": "molecular_function",
+  "label": "23S rRNA (adenine(2085)-N(6))-dimethyltransferase activity"
+}

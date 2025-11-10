@@ -1,0 +1,45 @@
+{
+  "id": "GO:0039665",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039665",
+  "relationships": {
+    "is_a": [
+      "GO:0016032"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "viral penetration via host endosomal membrane disruption by virus",
+      "viral penetration via perforation of host organellar membrane by virus",
+      "viral penetration via permeabilization of host organellar membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "viral entry into host cell via permeabilization of host organelle membrane",
+      "viral membrane-penetration protein"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "985",
+      "985",
+      "985"
+    ],
+    "GOC": [
+      "bf",
+      "jl",
+      "bf",
+      "jl"
+    ],
+    "UniProtKB-KW": [
+      "KW-1173",
+      "KW-1173",
+      "KW-1173",
+      "KW-1173",
+      "KW-1173"
+    ]
+  },
+  "definition": "Induction of organellar membrane permeabilization triggered by an interaction between the host membrane and a membrane-penetration protein associated with a viral capsid. Results in release of the virus contents from an organelle into the host cell cytoplasm.",
+  "namespace": "biological_process",
+  "label": "Viral penetration via permeabilization of host organellar membrane"
+}

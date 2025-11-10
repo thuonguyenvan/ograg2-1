@@ -1,0 +1,32 @@
+{
+  "id": "GO:0007602",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007602",
+  "relationships": {
+    "is_a": [
+      "GO:0007165",
+      "GO:0009583"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "phototransduction, visible light, light adaptation",
+      "phototrophin mediated phototransduction"
+    ],
+    "related": [
+      "opsin"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Visual_phototransduction"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The sequence of reactions within a cell required to convert absorbed photons into a molecular signal.",
+  "namespace": "biological_process",
+  "label": "phototransduction"
+}

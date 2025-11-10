@@ -1,0 +1,32 @@
+{
+  "id": "GO:0045838",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045838",
+  "relationships": {
+    "is_a": [
+      "GO:0042391"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "elevation of membrane potential",
+      "up regulation of membrane potential",
+      "up-regulation of membrane potential",
+      "upregulation of membrane potential"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of membrane potential",
+      "stimulation of membrane potential"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "rph"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of establishment or extent of a membrane potential, the electric potential existing across any membrane arising from charges in the membrane itself and from the charges present in the media on either side of the membrane.",
+  "namespace": "biological_process",
+  "label": "positive regulation of membrane potential"
+}

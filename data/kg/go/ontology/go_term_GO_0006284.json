@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006284",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006284",
+  "relationships": {
+    "is_a": [
+      "GO:0006281"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "BER"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-73884",
+      "R-HSA-73930"
+    ],
+    "Wikipedia": [
+      "Base_excision_repair"
+    ],
+    "ISBN": [
+      "0815316194"
+    ]
+  },
+  "definition": "In base excision repair, an altered base is removed by a DNA glycosylase enzyme, followed by excision of the resulting sugar phosphate. The small gap left in the DNA helix is filled in by the sequential action of DNA polymerase and DNA ligase.",
+  "namespace": "biological_process",
+  "label": "Abasic sugar-phosphate removal via the single-nucleotide replacement pathway"
+}

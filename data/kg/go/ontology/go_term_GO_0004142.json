@@ -1,0 +1,66 @@
+{
+  "id": "GO:0004142",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004142",
+  "relationships": {
+    "is_a": [
+      "GO:0017169"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-alkyl-2-acetyl-m-glycerol:CDPcholine choline phosphotransferase activity",
+      "1-alkyl-2-acetyl-sn-glycerol cholinephosphotransferase activity",
+      "1-alkyl-2-acetylglycerol cholinephosphotransferase activity",
+      "CDP-choline diglyceride phosphotransferase activity",
+      "CDP-choline:1,2-diacylglycerol cholinephosphotransferase activity",
+      "CPT",
+      "alkylacylglycerol choline phosphotransferase activity",
+      "alkylacylglycerol cholinephosphotransferase activity",
+      "cholinephosphotransferase activity",
+      "cytidine diphosphocholine glyceride transferase activity",
+      "cytidine diphosphorylcholine diglyceride transferase activity",
+      "diacylglycerol choline phosphotransferase activity",
+      "phosphocholine diacylglyceroltransferase activity",
+      "phosphorylcholine--glyceride transferase activity",
+      "sn-1,2-diacylglycerol cholinephosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.2",
+      "2.7.8.2",
+      "2.7.8.2",
+      "2.7.8.2",
+      "2.7.8.2",
+      "2.7.8.2",
+      "2.7.8.2",
+      "2.7.8.2",
+      "2.7.8.2",
+      "2.7.8.2",
+      "2.7.8.2",
+      "2.7.8.2",
+      "2.7.8.2",
+      "2.7.8.2",
+      "2.7.8.2",
+      "2.7.8.2",
+      "2.7.8.2"
+    ],
+    "MetaCyc": [
+      "RXN-5781"
+    ],
+    "RHEA": [
+      "32939",
+      "32939"
+    ],
+    "Reactome": [
+      "R-HSA-1482961",
+      "R-HSA-1482973"
+    ]
+  },
+  "definition": "Catalysis of the reaction: CDP-choline + 1,2-diacylglycerol = CMP + a phosphatidylcholine.",
+  "namespace": "molecular_function",
+  "label": "CDP-Cho and DAG are converted to PC by CHPT1 at the Golgi membrane"
+}

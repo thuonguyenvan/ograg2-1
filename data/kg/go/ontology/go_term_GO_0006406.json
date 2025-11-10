@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006406",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006406",
+  "relationships": {
+    "is_a": [
+      "GO:0006405",
+      "GO:0051028"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mRNA export from cell nucleus",
+      "mRNA export out of nucleus",
+      "mRNA transport from nucleus to cytoplasm",
+      "mRNA-nucleus export"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-72202"
+    ],
+    "GOC": [
+      "ma"
+    ]
+  },
+  "definition": "The directed movement of mRNA from the nucleus to the cytoplasm.",
+  "namespace": "biological_process",
+  "label": "Transport of Mature Transcript to Cytoplasm"
+}

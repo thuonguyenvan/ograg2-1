@@ -1,0 +1,35 @@
+{
+  "id": "GO:0033815",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033815",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "BIS",
+      "malonyl-CoA:benzoyl-CoA malonyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.177",
+      "2.3.1.177",
+      "2.3.1.177",
+      "2.3.1.177"
+    ],
+    "MetaCyc": [
+      "2.3.1.177-RXN"
+    ],
+    "RHEA": [
+      "22292"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3 malonyl-CoA + benzoyl-CoA = 4 CoA + 3,5-dihydroxybiphenyl + 4 CO2.",
+  "namespace": "molecular_function",
+  "label": "biphenyl synthase activity"
+}

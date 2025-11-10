@@ -1,0 +1,30 @@
+{
+  "id": "GO:0036199",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036199",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.15.29",
+      "1.14.15.29"
+    ],
+    "KEGG_REACTION": [
+      "R09859"
+    ],
+    "RHEA": [
+      "51564"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cholest-4-en-3-one + NADH + H+ + O2 = 26-hydroxycholest-4-en-3-one + NAD+ + H2O. This reaction involves the hydroxylation of the C26 carbon, followed by oxidation of the alcohol to the carboxylic acid via the aldehyde intermediate.",
+  "namespace": "molecular_function",
+  "label": "cholest-4-en-3-one 26-monooxygenase activity"
+}

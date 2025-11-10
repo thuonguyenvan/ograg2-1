@@ -1,0 +1,32 @@
+{
+  "id": "GO:0044029",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044029",
+  "relationships": {
+    "is_a": [
+      "GO:0045815"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA hypomethylation of CpG island",
+      "hypomethylation of CpG island",
+      "positive regulation of gene expression via chromosomal CpG dinucleotide demethylation"
+    ],
+    "broad": [
+      "DNA demethylation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "36150101"
+    ],
+    "Wikipedia": [
+      "Cpg_island"
+    ]
+  },
+  "definition": "An epigenetic gene regulation mechanism that positively regulates gene expression by demethylation of cytosine residues in chromosomal CpG islands. CpG islands are genomic regions that contain a high frequency of the CG dinucleotide and are often associated with the transcription start site of genes.",
+  "namespace": "biological_process",
+  "label": "positive regulation of gene expression via chromosomal CpG island demethylation"
+}

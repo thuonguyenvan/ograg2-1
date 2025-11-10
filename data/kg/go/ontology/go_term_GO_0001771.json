@@ -1,0 +1,29 @@
+{
+  "id": "GO:0001771",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001771",
+  "relationships": {
+    "is_a": [
+      "GO:0009988"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "formation of immunological synapse"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mgi_curators"
+    ],
+    "PMID": [
+      "11244041",
+      "11376330"
+    ]
+  },
+  "definition": "The formation of an area of close contact between a lymphocyte (T-, B-, or natural killer cell) and a target cell through the clustering of particular signaling and adhesion molecules and their associated membrane rafts on both the lymphocyte and target cell, which facilitates activation of the lymphocyte, transfer of membrane from the target cell to the lymphocyte, and in some situations killing of the target cell through release of secretory granules and/or death-pathway ligand-receptor interaction.",
+  "namespace": "biological_process",
+  "label": "immunological synapse formation"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047367",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047367",
+  "relationships": {
+    "is_a": [
+      "GO:0008146"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "quercetin-3,3&apos;-bissulphate 7-sulphotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3&apos;-phosphoadenylyl-sulfate:quercetin-3,3&apos;-bissulfate 7-sulfotransferase activity",
+      "7-sulfotransferase activity",
+      "PAPS:flavonol 3,3&apos;/3,4&apos;-disulfate 7-sulfotransferase activity",
+      "flavonol 7-sulfotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.28",
+      "2.8.2.28",
+      "2.8.2.28",
+      "2.8.2.28",
+      "2.8.2.28",
+      "2.8.2.28"
+    ],
+    "MetaCyc": [
+      "2.8.2.28-RXN",
+      "2.8.2.28-RXN"
+    ],
+    "RHEA": [
+      "21860"
+    ]
+  },
+  "definition": "Catalysis of the reaction: quercetin 3,3&apos;-bissulfate + 3&apos;-phosphoadenosine 5&apos;-phosphosulfate = quercetin 3,3&apos;,7-trissulfate + adenosine 3&apos;,5&apos;-bisphosphate.",
+  "namespace": "molecular_function",
+  "label": "quercetin-3,3&apos;-bissulfate 7-sulfotransferase activity"
+}

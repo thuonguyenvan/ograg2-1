@@ -1,0 +1,36 @@
+{
+  "id": "GO:0035860",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035860",
+  "relationships": {
+    "is_a": [
+      "GO:0007169"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GDNF receptor signaling pathway",
+      "glial cell derived neurotrophic factor receptor signaling pathway",
+      "glial cell line-derived neurotrophic factor receptor signalling pathway",
+      "glial cell-derived neurotrophic factor receptor signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "yaf",
+      "yaf",
+      "bf",
+      "yaf",
+      "bf"
+    ],
+    "PMID": [
+      "12953054",
+      "29245123"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by a ligand binding to a glial cell-derived neurotrophic factor receptor.",
+  "namespace": "biological_process",
+  "label": "glial cell-derived neurotrophic factor receptor signaling pathway"
+}

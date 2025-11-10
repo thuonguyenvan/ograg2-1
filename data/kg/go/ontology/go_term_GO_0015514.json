@@ -1,0 +1,30 @@
+{
+  "id": "GO:0015514",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015514",
+  "relationships": {
+    "is_a": [
+      "GO:0015113",
+      "GO:0015291",
+      "GO:0015562"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nitrite extrusion permease activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of nitrite from the inside of the cell to the outside of the cell across a membrane.",
+  "namespace": "molecular_function",
+  "label": "nitrite efflux transmembrane transporter activity"
+}

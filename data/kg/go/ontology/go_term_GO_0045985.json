@@ -1,0 +1,34 @@
+{
+  "id": "GO:0045985",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045985",
+  "relationships": {
+    "is_a": [
+      "GO:0019219",
+      "GO:0062013"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of pyrimidine base metabolic process",
+      "positive regulation of pyrimidine base metabolism",
+      "up regulation of pyrimidine base metabolic process",
+      "up-regulation of pyrimidine base metabolic process",
+      "upregulation of pyrimidine base metabolic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of pyrimidine base metabolic process",
+      "stimulation of pyrimidine base metabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways involving pyrimidine nucleobases.",
+  "namespace": "biological_process",
+  "label": "positive regulation of pyrimidine nucleobase metabolic process"
+}

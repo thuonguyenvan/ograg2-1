@@ -1,0 +1,32 @@
+{
+  "id": "GO:0001897",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001897",
+  "relationships": {
+    "is_a": [
+      "GO:0001907",
+      "GO:0051715"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytolysis by organism of host cells",
+      "cytolysis by symbiont of host cells"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pathogenesis"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "11423190",
+      "23748204",
+      "24204713",
+      "27405240"
+    ]
+  },
+  "definition": "A process mediated by a symbiont that results in the death of a host cell by means of the rupture of cell membranes and the loss of cytoplasm. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated cytolysis of host cell"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0008849",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008849",
+  "relationships": {
+    "is_a": [
+      "GO:0016788"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "enterobactin esterase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN0-1661",
+      "RXN0-1661"
+    ],
+    "RHEA": [
+      "28018"
+    ],
+    "Reactome": [
+      "R-HSA-9911599"
+    ],
+    "PMID": [
+      "4565531"
+    ]
+  },
+  "definition": "Catalysis of the reaction: enterobactin + 3 H2O = 3 N-23-dihydroxybenzoyl-L-serine + 3 H+.",
+  "namespace": "molecular_function",
+  "label": "Fes hydrolyses ferrienterobactin to DHBS"
+}

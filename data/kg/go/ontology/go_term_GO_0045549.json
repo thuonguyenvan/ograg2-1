@@ -1,0 +1,38 @@
+{
+  "id": "GO:0045549",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045549",
+  "relationships": {
+    "is_a": [
+      "GO:0010436"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "9-cis-epoxycarotenoid 11,12-dioxygenase activity",
+      "AtNCED3",
+      "NCED",
+      "PvNCED1",
+      "VP14",
+      "neoxanthin cleavage enzyme",
+      "nine-cis-epoxycarotenoid dioxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.51",
+      "1.13.11.51",
+      "1.13.11.51",
+      "1.13.11.51",
+      "1.13.11.51",
+      "1.13.11.51",
+      "1.13.11.51",
+      "1.13.11.51"
+    ]
+  },
+  "definition": "Catalysis of the reactions: a 9-cis-epoxycarotenoid + O2 = 2-cis,4-trans-xanthoxin + a 12&apos;-apo-carotenal; 9-cis-violaxanthin + O2 = 2-cis,4-trans-xanthoxin + (3S,5R,6S)-5,6-epoxy-3-hydroxy-5,6-dihydro-12&apos;-apo-beta-caroten-12&apos;-al; and 9&apos;-cis-neoxanthin + O2 = 2-cis,4-trans-xanthoxin + (3S,5R,6R)-5,6-dihydroxy-6,7-didehydro-5,6-dihydro-12&apos;-apo-beta-caroten-12&apos;-al.",
+  "namespace": "molecular_function",
+  "label": "9-cis-epoxycarotenoid dioxygenase activity"
+}

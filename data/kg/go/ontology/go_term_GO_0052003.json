@@ -1,0 +1,46 @@
+{
+  "id": "GO:0052003",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052003",
+  "relationships": {
+    "is_a": [
+      "GO:0052081"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "disruption of defense-related host salicylic acid-mediated signal transduction pathway",
+      "down regulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway",
+      "down regulation by symbiont of host salicylic acid-mediated defense response",
+      "down-regulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway",
+      "down-regulation by symbiont of host salicylic acid-mediated defense response",
+      "downregulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway",
+      "downregulation by symbiont of host salicylic acid-mediated defense response",
+      "negative modulation by organism of defense-related host SA-mediated signal transduction pathway",
+      "negative modulation by organism of defense-related host salicylic acid-mediated signal transduction pathway",
+      "negative regulation by organism of defense-related host SA-mediated signal transduction pathway",
+      "negative regulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway",
+      "negative regulation by symbiont of host salicylic acid-mediated defense response",
+      "negative regulation of host SA-mediated defense response",
+      "suppression by organism of host salicylic acid-mediated defense response",
+      "suppression by symbiont of defense-related host salicylic acid-mediated signal transduction pathway",
+      "suppression of host SA mediated defense response"
+    ],
+    "broad": [
+      "negative regulation by organism of defense-related salicylic acid-mediated signal transduction pathway of other organism involved in symbiotic interaction",
+      "negative regulation by organism of salicylic acid-mediated defense response of other organism involved in symbiotic interaction"
+    ],
+    "narrow": [
+      "inhibition by symbiont of defense-related host salicylic acid-mediated signal transduction pathway",
+      "inhibition by symbiont of host salicylic acid-mediated defense response"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_pamgo_17jul06"
+    ]
+  },
+  "definition": "A process in which a virus interferes with, inhibits or disrupts a host salicylic acid-mediated signal transduction pathways during the host defense response. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of defense-related host salicylic acid-mediated signal transduction pathway"
+}

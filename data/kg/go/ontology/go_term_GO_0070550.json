@@ -1,0 +1,30 @@
+{
+  "id": "GO:0070550",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070550",
+  "relationships": {
+    "is_a": [
+      "GO:0030261"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "rDNA condensation",
+      "rDNA packaging"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dgf"
+    ],
+    "PMID": [
+      "10811823",
+      "15137940"
+    ]
+  },
+  "definition": "The process in which the chromatin structure of the rDNA repeats is compacted. In S. cerevisiae, condensation and resolution of the rDNA occurs during anaphase.",
+  "namespace": "biological_process",
+  "label": "rDNA chromatin condensation"
+}

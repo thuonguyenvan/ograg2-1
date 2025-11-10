@@ -1,0 +1,59 @@
+{
+  "id": "GO:0003975",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003975",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosamine-1-phosphate transferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GlcNAc-1-P transferase activity",
+      "N-acetylglucosamine-1-phosphate transferase activity",
+      "UDP-D-N-acetylglucosamine N-acetylglucosamine 1-phosphate transferase activity",
+      "UDP-GlcNAc:dolichyl-phosphate GlcNAc-1-phosphate transferase activity",
+      "UDP-N-acetyl-D-glucosamine:dolichol phosphate N-acetyl-D-glucosamine-1-phosphate transferase activity",
+      "UDP-N-acetyl-D-glucosamine:dolichyl-phosphate N-acetyl-D-glucosaminephosphotransferase activity",
+      "UDP-acetylglucosamine-dolichol phosphate acetylglucosamine phosphotransferase activity",
+      "UDP-acetylglucosamine-dolichol phosphate acetylglucosamine-1-phosphotransferase activity",
+      "chitobiosylpyrophosphoryldolichol synthase activity",
+      "dolichol phosphate N-acetylglucosamine-1-phosphotransferase activity",
+      "uridine diphosphoacetylglucosamine-dolichyl phosphate acetylglucosamine-1-phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.15",
+      "2.7.8.15",
+      "2.7.8.15",
+      "2.7.8.15",
+      "2.7.8.15",
+      "2.7.8.15",
+      "2.7.8.15",
+      "2.7.8.15",
+      "2.7.8.15",
+      "2.7.8.15",
+      "2.7.8.15",
+      "2.7.8.15",
+      "2.7.8.15"
+    ],
+    "MetaCyc": [
+      "2.7.8.15-RXN"
+    ],
+    "RHEA": [
+      "13289"
+    ],
+    "Reactome": [
+      "R-HSA-446191",
+      "R-HSA-4549334"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-N-acetyl-D-glucosamine + dolichyl phosphate = UMP + N-acetyl-D-glucosaminyl-diphosphodolichol.",
+  "namespace": "molecular_function",
+  "label": "Defective DPAGT1 does not transfer GlcNAc to DOLP"
+}

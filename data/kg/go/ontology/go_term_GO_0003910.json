@@ -1,0 +1,66 @@
+{
+  "id": "GO:0003910",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003910",
+  "relationships": {
+    "is_a": [
+      "GO:0003909"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "DNA joinase activity",
+      "deoxyribonucleate ligase",
+      "deoxyribonucleic acid joinase",
+      "deoxyribonucleic acid ligase",
+      "deoxyribonucleic joinase",
+      "deoxyribonucleic ligase",
+      "polynucleotide ligase"
+    ],
+    "narrow": [],
+    "related": [
+      "DNA repair enzyme activity",
+      "DNA-joining enzyme",
+      "deoxyribonucleic acid repair enzyme",
+      "deoxyribonucleic acid-joining enzyme",
+      "deoxyribonucleic repair enzyme",
+      "deoxyribonucleic-joining enzyme",
+      "poly(deoxyribonucleotide):poly(deoxyribonucleotide) ligase (AMP-forming)",
+      "polydeoxyribonucleotide synthase (ATP) activity",
+      "polynucleotide ligase (ATP) activity",
+      "sealase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.5.1.1",
+      "6.5.1.1",
+      "6.5.1.1",
+      "6.5.1.1",
+      "6.5.1.1",
+      "6.5.1.1",
+      "6.5.1.1",
+      "6.5.1.1",
+      "6.5.1.1",
+      "6.5.1.1",
+      "6.5.1.1",
+      "6.5.1.1",
+      "6.5.1.1",
+      "6.5.1.1",
+      "6.5.1.1",
+      "6.5.1.1",
+      "6.5.1.1",
+      "6.5.1.1",
+      "6.5.1.1"
+    ],
+    "MetaCyc": [
+      "DNA-LIGASE-ATP-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-9914903"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + deoxyribonucleotide(n) + deoxyribonucleotide(m) = AMP + diphosphate + deoxyribonucleotide(n+m).",
+  "namespace": "molecular_function",
+  "label": "LIG3 (Ligase III) ligates nascent mitochondrial DNA strands"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:0005911",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005911",
+  "relationships": {
+    "is_a": [
+      "GO:0070161"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "intercellular junction"
+    ],
+    "broad": [
+      "cell-cell contact region",
+      "cell-cell contact zone"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1922892319",
+      "sao1395777368"
+    ],
+    "GOC": [
+      "aruk",
+      "bc",
+      "dgh",
+      "hb",
+      "mah"
+    ],
+    "PMID": [
+      "21422226",
+      "28096264"
+    ]
+  },
+  "definition": "A cell junction that forms a connection between two or more cells of an organism; excludes direct cytoplasmic intercellular bridges, such as ring canals in insects.",
+  "namespace": "cellular_component",
+  "label": "cell-cell junction"
+}

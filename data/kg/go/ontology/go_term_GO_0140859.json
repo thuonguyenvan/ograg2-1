@@ -1,0 +1,41 @@
+{
+  "id": "GO:0140859",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140859",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2&apos;,7-dihydroxy-4&apos;-methoxyisoflavanol dehydratase activity",
+      "2&apos;-hydroxyisoflavanol 4,2&apos;-dehydratase activity",
+      "7,2&apos;-dihydroxy-4&apos;-methoxyisoflavanol dehydratase activity",
+      "medicarpan synthase activity",
+      "medicarpin synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.139",
+      "4.2.1.139",
+      "4.2.1.139",
+      "4.2.1.139",
+      "4.2.1.139",
+      "4.2.1.139"
+    ],
+    "RHEA": [
+      "35407",
+      "35407"
+    ],
+    "PMID": [
+      "7805842"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + medicarpin = 4&apos;-methoxyisoflavan-2&apos;,4,7-triol.",
+  "namespace": "molecular_function",
+  "label": "pterocarpan synthase activity"
+}

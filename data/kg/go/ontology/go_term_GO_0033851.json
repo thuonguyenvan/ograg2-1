@@ -1,0 +1,39 @@
+{
+  "id": "GO:0033851",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033851",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "FDS-5",
+      "dimethylallyl-diphosphate:dimethylallyl-diphosphate dimethylallyltransferase (lavandulyl-diphosphate-forming) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.69",
+      "2.5.1.69",
+      "2.5.1.69",
+      "2.5.1.69"
+    ],
+    "KEGG_REACTION": [
+      "R08950"
+    ],
+    "MetaCyc": [
+      "2.5.1.69-RXN"
+    ],
+    "RHEA": [
+      "21676",
+      "21676"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 dimethylallyl diphosphate = diphosphate + lavandulyl diphosphate.",
+  "namespace": "molecular_function",
+  "label": "lavandulyl diphosphate synthase activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0000333",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000333",
+  "relationships": {
+    "is_a": [
+      "GO:0005697",
+      "GO:0061695"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "TERT-TERC complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF-UCL",
+      "nc"
+    ],
+    "PMID": [
+      "11884619",
+      "1808260",
+      "19701182"
+    ]
+  },
+  "definition": "The minimal catalytic core of telomerase is a ribonucleoprotein complex composed of a catalytic reverse transcriptase subunit and an RNA subunit that provides the template for telomeric DNA addition.",
+  "namespace": "cellular_component",
+  "label": "telomerase catalytic core complex"
+}

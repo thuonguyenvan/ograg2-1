@@ -1,0 +1,27 @@
+{
+  "id": "GO:0042328",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042328",
+  "relationships": {
+    "is_a": [
+      "GO:0008375"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "heparan sulphate N-acetylglucosaminyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "heparin N-acetylglucosaminyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ma"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-N-acetyl-D-glucosamine + heparan sulfate = UDP + (N-acetyl-D-glucosaminyl)-heparan sulfate.",
+  "namespace": "molecular_function",
+  "label": "heparan sulfate N-acetylglucosaminyltransferase activity"
+}

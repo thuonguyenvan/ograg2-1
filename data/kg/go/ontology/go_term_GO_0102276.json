@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102276",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102276",
+  "relationships": {
+    "is_a": [
+      "GO:0016703"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.12.19",
+      "1.13.12.19"
+    ],
+    "MetaCyc": [
+      "RXN-12538"
+    ],
+    "RHEA": [
+      "31523"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxoglutarate(2-) + O2 + 2 H+ = ethene + 3 carbon dioxide + H2O.",
+  "namespace": "molecular_function",
+  "label": "2-oxoglutarate oxygenase/decarboxylase (ethylene-forming) activity"
+}

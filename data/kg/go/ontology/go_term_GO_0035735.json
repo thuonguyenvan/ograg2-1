@@ -1,0 +1,32 @@
+{
+  "id": "GO:0035735",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035735",
+  "relationships": {
+    "is_a": [
+      "GO:0042073"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "intraflagellar transport"
+    ],
+    "narrow": [],
+    "related": [
+      "intraciliary transport involved in cilium morphogenesis",
+      "intraflagellar transport involved in cilium morphogenesis"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5620924"
+    ],
+    "GOC": [
+      "bf",
+      "cilia"
+    ]
+  },
+  "definition": "The bidirectional movement of large protein complexes along microtubules within a cilium that contributes to cilium assembly.",
+  "namespace": "biological_process",
+  "label": "Intraflagellar transport"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:0050195",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050195",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:D-ribose-5-phosphate 1-phosphotransferase activity",
+      "phosphoribokinase (phosphorylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.18",
+      "2.7.1.18",
+      "2.7.1.18",
+      "2.7.1.18"
+    ],
+    "KEGG_REACTION": [
+      "R01050"
+    ],
+    "MetaCyc": [
+      "PHOSPHORIBOKINASE-RXN"
+    ],
+    "RHEA": [
+      "21216",
+      "21216"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-ribose 5-phosphate + ATP = D-ribose 1,5-diphosphate + ADP + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "phosphoribokinase activity"
+}

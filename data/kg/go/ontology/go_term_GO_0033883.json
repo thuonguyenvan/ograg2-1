@@ -1,0 +1,42 @@
+{
+  "id": "GO:0033883",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033883",
+  "relationships": {
+    "is_a": [
+      "GO:0016791"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "vitamin B6 (pyridoxine) phosphatase activity",
+      "vitamin B6-phosphate phosphatase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "PLP phosphatase activity",
+      "PNP phosphatase activity",
+      "pyridoxal-5&apos;-phosphate phosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.3.74",
+      "3.1.3.74",
+      "3.1.3.74",
+      "3.1.3.74",
+      "3.1.3.74",
+      "3.1.3.74",
+      "3.1.3.74"
+    ],
+    "MetaCyc": [
+      "3.1.3.74-RXN"
+    ],
+    "RHEA": [
+      "20533"
+    ]
+  },
+  "definition": "Catalysis of the reaction: pyridoxal 5&apos;-phosphate + H2O = pyridoxal + phosphate.",
+  "namespace": "molecular_function",
+  "label": "pyridoxal phosphatase activity"
+}

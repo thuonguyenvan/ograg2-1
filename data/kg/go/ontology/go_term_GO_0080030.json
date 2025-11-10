@@ -1,0 +1,34 @@
+{
+  "id": "GO:0080030",
+  "uri": "http://purl.obolibrary.org/obo/GO_0080030",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MeIAA esterase activity",
+      "Methyl IAA esterase activity",
+      "indole-3-Acetic acid methyl ester esterase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-10711"
+    ],
+    "RHEA": [
+      "32919",
+      "32919"
+    ],
+    "PMID": [
+      "18467465"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + methyl (indol-3-yl)acetate = (indol-3-yl)acetate + H+ + methanol.",
+  "namespace": "molecular_function",
+  "label": "methyl indole-3-acetate esterase activity"
+}

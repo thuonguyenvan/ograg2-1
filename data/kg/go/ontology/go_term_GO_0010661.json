@@ -1,0 +1,28 @@
+{
+  "id": "GO:0010661",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010661",
+  "relationships": {
+    "is_a": [
+      "GO:0010660",
+      "GO:0043065"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "positive regulation of muscle cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mtg_apoptosis",
+      "tb"
+    ]
+  },
+  "definition": "Any process that increases the rate or frequency of muscle cell apoptotic process, a form of programmed cell death induced by external or internal signals that trigger the activity of proteolytic caspases whose actions dismantle a muscle cell and result in its death.",
+  "namespace": "biological_process",
+  "label": "positive regulation of muscle cell apoptotic process"
+}

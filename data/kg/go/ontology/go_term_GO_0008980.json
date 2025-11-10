@@ -1,0 +1,34 @@
+{
+  "id": "GO:0008980",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008980",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016774"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP:propanoate phosphotransferase activity",
+      "propanoate kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PduW",
+      "TdcD"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.2.15",
+      "2.7.2.15"
+    ],
+    "RHEA": [
+      "23148"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + propanoate = ADP + propanoyl phosphate.",
+  "namespace": "molecular_function",
+  "label": "propionate kinase activity"
+}

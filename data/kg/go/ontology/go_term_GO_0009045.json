@@ -1,0 +1,39 @@
+{
+  "id": "GO:0009045",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009045",
+  "relationships": {
+    "is_a": [
+      "GO:0016861"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-xylose aldose-ketose-isomerase activity",
+      "D-xylose isomerase activity",
+      "D-xylose ketoisomerase activity",
+      "D-xylose ketol-isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.1.5",
+      "5.3.1.5",
+      "5.3.1.5",
+      "5.3.1.5",
+      "5.3.1.5"
+    ],
+    "MetaCyc": [
+      "XYLISOM-RXN"
+    ],
+    "RHEA": [
+      "22816",
+      "22816"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-D-xylose = alpha-D-xylulofuranose.",
+  "namespace": "molecular_function",
+  "label": "xylose isomerase activity"
+}

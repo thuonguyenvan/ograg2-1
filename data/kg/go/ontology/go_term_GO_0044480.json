@@ -1,0 +1,30 @@
+{
+  "id": "GO:0044480",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044480",
+  "relationships": {
+    "is_a": [
+      "GO:0044479"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "envenomation resulting in positive regulation of mast cell degranulation in another organism",
+      "envenomation resulting in positive regulation of mast cell degranulation in other organism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "fj",
+      "jl"
+    ],
+    "PMID": [
+      "21549739"
+    ]
+  },
+  "definition": "A process in which an organism initiates, promotes, or enhances mast cell degranulation in another organism via the action of a venom.",
+  "namespace": "biological_process",
+  "label": "venom-mediated mast cell degranulation"
+}

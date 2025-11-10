@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050067",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050067",
+  "relationships": {
+    "is_a": [
+      "GO:0016703"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-lysine-2-monooxygenase activity",
+      "L-lysine:oxygen 2-oxidoreductase (decarboxylating)",
+      "lysine monooxygenase activity",
+      "lysine oxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.12.2",
+      "1.13.12.2",
+      "1.13.12.2",
+      "1.13.12.2",
+      "1.13.12.2",
+      "1.13.12.2"
+    ],
+    "KEGG_REACTION": [
+      "R00449"
+    ],
+    "MetaCyc": [
+      "LYSINE-2-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "14601",
+      "14601"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-lysine + O2 = 5-aminopentanamide + CO2 + H2O.",
+  "namespace": "molecular_function",
+  "label": "lysine 2-monooxygenase activity"
+}

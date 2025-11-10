@@ -1,0 +1,30 @@
+{
+  "id": "GO:0035010",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035010",
+  "relationships": {
+    "is_a": [
+      "GO:0002252"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf"
+    ],
+    "GO_REF": [
+      "0000022"
+    ],
+    "PMID": [
+      "11846478",
+      "12225920"
+    ]
+  },
+  "definition": "Events resulting in the formation of a multilayered cellular sheath surrounding an invader and thus preventing its development. This defense mechanism is often seen in insects in response to nematodes or parasitoids, which are too large to be phagocytosed by individual hemocytes. In some organisms the capsule is blackened due to melanization.",
+  "namespace": "biological_process",
+  "label": "encapsulation of foreign target"
+}

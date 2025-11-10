@@ -1,0 +1,30 @@
+{
+  "id": "GO:0140222",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140222",
+  "relationships": {
+    "is_a": [
+      "GO:0031974"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lumen of a pathogen-containing vacuole",
+      "pathogen-containing compartment lumen",
+      "pathogen-containing vacuolar lumen"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pathogen inclusion lumen"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "10560000",
+      "26842840"
+    ]
+  },
+  "definition": "The enclosed volume within the sealed membrane of a pathogen-containing vacuole.",
+  "namespace": "cellular_component",
+  "label": "pathogen-containing vacuole lumen"
+}

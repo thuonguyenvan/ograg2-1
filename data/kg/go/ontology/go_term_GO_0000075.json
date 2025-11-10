@@ -1,0 +1,39 @@
+{
+  "id": "GO:0000075",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000075",
+  "relationships": {
+    "is_a": [
+      "GO:0035556",
+      "GO:1901988"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell cycle checkpoint",
+      "signal transduction involved in G2/M transition checkpoint",
+      "signal transduction involved in cell cycle checkpoint"
+    ],
+    "broad": [],
+    "narrow": [
+      "G1/S checkpoint",
+      "G1/S transition checkpoint",
+      "G2/M checkpoint",
+      "G2/M transition checkpoint"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-69620"
+    ],
+    "Wikipedia": [
+      "Cell_cycle_checkpoint"
+    ],
+    "GOC": [
+      "mtg_cell_cycle"
+    ]
+  },
+  "definition": "A signaling process that controls cell cycle progression by monitoring the integrity of specific cell cycle events. A cell cycle checkpoint begins with detection of deficiencies or defects and ends with signal transduction.",
+  "namespace": "biological_process",
+  "label": "Cell Cycle Checkpoints"
+}

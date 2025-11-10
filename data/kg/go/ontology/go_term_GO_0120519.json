@@ -1,0 +1,36 @@
+{
+  "id": "GO:0120519",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120519",
+  "relationships": {
+    "is_a": [
+      "GO:0004596"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tubulin N-terminal N-acetyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.308",
+      "2.3.1.308"
+    ],
+    "KEGG_REACTION": [
+      "R12978"
+    ],
+    "MetaCyc": [
+      "RXN-22633"
+    ],
+    "RHEA": [
+      "69607",
+      "69607"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + N-terminal L-methionyl-[tubulin] = CoA + H+ + N-terminal N(alpha)-acetyl-L-methionyl-[tubulin]. The N-terminus of both alpha- and beta-tubulin are acetylated.",
+  "namespace": "molecular_function",
+  "label": "tubulin N-terminal-methionine acetyltransferase activity"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0030791",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030791",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:arsenic(III) methyltransferase activity",
+      "S-adenosyl-L-methionine:arsenite As-methyltransferase activity",
+      "S-adenosyl-L-methionine:methylarsonite As-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.137",
+      "2.1.1.137",
+      "2.1.1.137",
+      "2.1.1.137",
+      "2.1.1.137"
+    ],
+    "Reactome": [
+      "R-HSA-5696213",
+      "R-HSA-5696220"
+    ],
+    "UM-BBD_reactionID": [
+      "r0805"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + arsenite = S-adenosyl-L-homocysteine + methylarsonate.",
+  "namespace": "molecular_function",
+  "label": "AS3MT transfers CH3 from AdoMet to arsenite(3-)"
+}

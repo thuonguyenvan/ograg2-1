@@ -1,0 +1,49 @@
+{
+  "id": "GO:0004818",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004818",
+  "relationships": {
+    "is_a": [
+      "GO:0004812"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glutamyl-tRNA synthetase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-glutamate:tRNAGlu ligase (AMP-forming) activity",
+      "glutamate-tRNA synthetase activity",
+      "glutamic acid translase activity",
+      "glutamyl-transfer RNA synthetase activity",
+      "glutamyl-transfer ribonucleate synthetase activity",
+      "glutamyl-transfer ribonucleic acid synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.1.1.17",
+      "6.1.1.17",
+      "6.1.1.17",
+      "6.1.1.17",
+      "6.1.1.17",
+      "6.1.1.17",
+      "6.1.1.17",
+      "6.1.1.17"
+    ],
+    "MetaCyc": [
+      "GLURS-RXN"
+    ],
+    "RHEA": [
+      "23540"
+    ],
+    "Reactome": [
+      "R-HSA-379861",
+      "R-HSA-380216"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + L-glutamate + tRNA(Glu) = AMP + diphosphate + L-glutamyl-tRNA(Glu).",
+  "namespace": "molecular_function",
+  "label": "glutamate + tRNA(Glu) + ATP =&gt; Glu-tRNA(Glu) + AMP + pyrophosphate"
+}

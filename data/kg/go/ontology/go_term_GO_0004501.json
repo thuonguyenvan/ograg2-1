@@ -1,0 +1,44 @@
+{
+  "id": "GO:0004501",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004501",
+  "relationships": {
+    "is_a": [
+      "GO:0008395",
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ecdysone 20-hydroxylase activity"
+    ],
+    "broad": [
+      "ecdysone modification"
+    ],
+    "narrow": [],
+    "related": [
+      "alpha-ecdysone C-20 hydroxylase activity",
+      "ecdysone,hydrogen-donor:oxygen oxidoreductase (20-hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.99.22",
+      "1.14.99.22",
+      "1.14.99.22",
+      "1.14.99.22"
+    ],
+    "KEGG_REACTION": [
+      "R02374"
+    ],
+    "MetaCyc": [
+      "RXN-18799"
+    ],
+    "RHEA": [
+      "14021",
+      "14021"
+    ]
+  },
+  "definition": "Catalysis of the reaction: AH(2) + ecdysone + O2 = 20-hydroxyecdysone + A + H2O.",
+  "namespace": "molecular_function",
+  "label": "ecdysone 20-monooxygenase activity"
+}

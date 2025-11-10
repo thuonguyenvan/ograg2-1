@@ -1,0 +1,32 @@
+{
+  "id": "GO:1903533",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903533",
+  "relationships": {
+    "is_a": [
+      "GO:0070201"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "regulation of protein sorting along secretory pathway"
+    ],
+    "related": [
+      "regulation of nascent polypeptide association"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of protein targeting.",
+  "namespace": "biological_process",
+  "label": "regulation of protein targeting"
+}

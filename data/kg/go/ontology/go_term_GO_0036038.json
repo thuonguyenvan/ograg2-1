@@ -1,0 +1,41 @@
+{
+  "id": "GO:0036038",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036038",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MKS module"
+    ],
+    "broad": [
+      "TCTN-B9D complex"
+    ],
+    "narrow": [
+      "B9 complex",
+      "tectonic complex",
+      "tectonic-like complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "sp"
+    ],
+    "PMID": [
+      "21422230",
+      "21565611",
+      "21725307",
+      "22179047",
+      "25869670",
+      "26595381",
+      "26982032"
+    ]
+  },
+  "definition": "A protein complex that is located at the ciliary transition zone and consists of several proteins some of which are membrane bound. Acts as an organiser of transition zone inner structure, specifically the Y-shaped links, in conjunction with the NPHP complex. The MKS complex also acts as part of the selective barrier that prevents diffusion of proteins between the ciliary cytoplasm and cellular cytoplasm as well as between the ciliary membrane and plasma membrane.",
+  "namespace": "cellular_component",
+  "label": "MKS complex"
+}

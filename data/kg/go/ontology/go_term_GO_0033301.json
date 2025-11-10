@@ -1,0 +1,24 @@
+{
+  "id": "GO:0033301",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033301",
+  "relationships": {
+    "is_a": [
+      "GO:0000278"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "expert_vm",
+      "mah"
+    ]
+  },
+  "definition": "A mitotic cell cycle in which mitosis is completed but cytokinesis does not occur, resulting in a cell containing multiple nuclei each with a chromosomal complement of the original ploidy (usually 2N).",
+  "namespace": "biological_process",
+  "label": "cell cycle comprising mitosis without cytokinesis"
+}

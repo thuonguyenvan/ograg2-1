@@ -1,0 +1,29 @@
+{
+  "id": "GO:0031964",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031964",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "carcinine hydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "73463",
+      "73463"
+    ],
+    "PMID": [
+      "16299587"
+    ]
+  },
+  "definition": "Catalysis of the reaction: carcinine + H2O = histamine + beta-alanine. Carcinine is also known as N-beta-alanyl histamine.",
+  "namespace": "molecular_function",
+  "label": "beta-alanyl-histamine hydrolase activity"
+}

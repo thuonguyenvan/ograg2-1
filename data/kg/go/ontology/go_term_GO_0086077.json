@@ -1,0 +1,26 @@
+{
+  "id": "GO:0086077",
+  "uri": "http://purl.obolibrary.org/obo/GO_0086077",
+  "relationships": {
+    "is_a": [
+      "GO:0086075"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "gap junction channel activity involved in atrioventricular node cell-bundle of His cell electrical coupling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mtg_cardiac_conduct_nov11"
+    ]
+  },
+  "definition": "A wide pore channel activity that enables a direct cytoplasmic connection from an AV node cell to a bundle of His cell. The gap junction passes electrical signals between the cells contributing to cardiac conduction.",
+  "namespace": "molecular_function",
+  "label": "gap junction channel activity involved in AV node cell-bundle of His cell electrical coupling"
+}

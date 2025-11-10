@@ -1,0 +1,29 @@
+{
+  "id": "GO:0048013",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048013",
+  "relationships": {
+    "is_a": [
+      "GO:0007169"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Eph receptor signaling pathway",
+      "Eph receptor signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2682334"
+    ],
+    "GOC": [
+      "ceb"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by ephrin binding to its receptor, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "EPH-Ephrin signaling"
+}

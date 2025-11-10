@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102536",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102536",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-14754"
+    ],
+    "RHEA": [
+      "73431",
+      "73431"
+    ],
+    "PMID": [
+      "23184958"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2S)-sakuranetin + O2 + reduced [NADPH--hemoprotein reductase] = (2S)-7-methylcarthamidin + H(+) + H2O + oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "sakuranetin 6-hydroxylase activity"
+}

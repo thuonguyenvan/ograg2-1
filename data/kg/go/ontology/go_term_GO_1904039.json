@@ -1,0 +1,52 @@
+{
+  "id": "GO:1904039",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904039",
+  "relationships": {
+    "is_a": [
+      "GO:0034760",
+      "GO:1904038"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "down regulation of ferrous iron export",
+      "down regulation of iron(2+) export",
+      "down-regulation of ferrous iron export",
+      "down-regulation of iron(2+) export",
+      "downregulation of ferrous iron export",
+      "downregulation of iron(2+) export",
+      "inhibition of ferrous iron export",
+      "inhibition of iron(2+) export",
+      "negative regulation of ferrous iron export",
+      "negative regulation of iron(2+) export"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "kom",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "15514116"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of export of iron ions from inside of a cell, across the plasma membrane and into the extracellular region.",
+  "namespace": "biological_process",
+  "label": "negative regulation of iron export across plasma membrane"
+}

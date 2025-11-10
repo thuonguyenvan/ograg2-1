@@ -1,0 +1,38 @@
+{
+  "id": "GO:0106363",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106363",
+  "relationships": {
+    "is_a": [
+      "GO:0008172",
+      "GO:0008276",
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein cysteine methylase activity",
+      "protein cysteine methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "66544",
+      "66544"
+    ],
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "21481189",
+      "22158122",
+      "24235145",
+      "25412445"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-cysteinyl-[protein] + S-adenosyl-L-methionine = H+ + S-adenosyl-L-homocysteine + S-methyl-L-cysteinyl-[protein].",
+  "namespace": "molecular_function",
+  "label": "protein-cysteine methyltransferase activity"
+}

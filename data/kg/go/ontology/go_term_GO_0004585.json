@@ -1,0 +1,54 @@
+{
+  "id": "GO:0004585",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004585",
+  "relationships": {
+    "is_a": [
+      "GO:0016743"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-ornithine carbamoyltransferase activity",
+      "L-ornithine carbamyltransferase activity",
+      "L-ornithine transcarbamylase activity",
+      "OTC activity",
+      "OTCase activity",
+      "carbamoyl-phosphate:L-ornithine carbamoyltransferase activity",
+      "carbamylphosphate-ornithine transcarbamylase activity",
+      "citrulline phosphorylase activity",
+      "ornithine carbamyltransferase activity",
+      "ornithine transcarbamylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.3.3",
+      "2.1.3.3",
+      "2.1.3.3",
+      "2.1.3.3",
+      "2.1.3.3",
+      "2.1.3.3",
+      "2.1.3.3",
+      "2.1.3.3",
+      "2.1.3.3",
+      "2.1.3.3",
+      "2.1.3.3",
+      "2.1.3.3"
+    ],
+    "MetaCyc": [
+      "ORNCARBAMTRANSFER-RXN"
+    ],
+    "RHEA": [
+      "19513"
+    ],
+    "Reactome": [
+      "R-HSA-70560"
+    ]
+  },
+  "definition": "Catalysis of the reaction: carbamoyl phosphate + L-ornithine = phosphate + L-citrulline.",
+  "namespace": "molecular_function",
+  "label": "carbamoyl phosphate + ornithine =&gt; citrulline + orthophosphate"
+}

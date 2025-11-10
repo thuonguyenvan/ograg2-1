@@ -1,0 +1,32 @@
+{
+  "id": "GO:0018119",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018119",
+  "relationships": {
+    "is_a": [
+      "GO:0017014",
+      "GO:0018198"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "S-nitrosylation",
+      "protein S-nitrosylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RESID": [
+      "AA0230",
+      "AA0230"
+    ],
+    "PMID": [
+      "20972426",
+      "20972426"
+    ]
+  },
+  "definition": "The covalent addition of a nitric oxide (NO) group to the sulphur (S) atom of a cysteine residue in a protein, to form peptidyl-S-nitrosyl-L-cysteine.",
+  "namespace": "biological_process",
+  "label": "peptidyl-cysteine S-nitrosylation"
+}

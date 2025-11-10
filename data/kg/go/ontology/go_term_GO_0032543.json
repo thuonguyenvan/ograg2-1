@@ -1,0 +1,32 @@
+{
+  "id": "GO:0032543",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032543",
+  "relationships": {
+    "is_a": [
+      "GO:0006412"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrial protein anabolism",
+      "mitochondrial protein biosynthesis",
+      "mitochondrial protein formation",
+      "mitochondrial protein synthesis",
+      "mitochondrial protein translation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5368287"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of a protein in a mitochondrion. This is a ribosome-mediated process in which the information in messenger RNA (mRNA) is used to specify the sequence of amino acids in the protein; the mitochondrion has its own ribosomes and transfer RNAs, and uses a genetic code that differs from the nuclear code.",
+  "namespace": "biological_process",
+  "label": "Mitochondrial translation"
+}

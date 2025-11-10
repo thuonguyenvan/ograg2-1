@@ -1,0 +1,45 @@
+{
+  "id": "GO:0008919",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008919",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LPS glucosyltransferase I activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose:lipopolysaccharide glucosyltransferase activity",
+      "UDPglucose:lipopolysaccharide glucosyltransferase I",
+      "UDPglucose:lipopolysaccharide glucosyltransferase activity",
+      "lipopolysaccharide glucosyltransferase activity",
+      "uridine diphosphate glucose:lipopolysaccharide glucosyltransferase I",
+      "uridine diphosphoglucose-lipopolysaccharide glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.58",
+      "2.4.1.58",
+      "2.4.1.58",
+      "2.4.1.58",
+      "2.4.1.58",
+      "2.4.1.58",
+      "2.4.1.58",
+      "2.4.1.58"
+    ],
+    "MetaCyc": [
+      "RXN0-5126"
+    ],
+    "RHEA": [
+      "30015"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-glucose + lipopolysaccharide = UDP + D-glucosyl-lipopolysaccharide.",
+  "namespace": "molecular_function",
+  "label": "lipopolysaccharide glucosyltransferase I activity"
+}

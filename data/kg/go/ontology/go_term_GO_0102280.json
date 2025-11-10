@@ -1,0 +1,31 @@
+{
+  "id": "GO:0102280",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102280",
+  "relationships": {
+    "is_a": [
+      "GO:0008812"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "choline monooxygenase activity (NADP-dependent)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-12582"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "21769646"
+    ]
+  },
+  "definition": "Catalysis of the reaction: choline + NADP+ = betaine aldehyde + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "choline monooxygenase (NADP+) activity"
+}

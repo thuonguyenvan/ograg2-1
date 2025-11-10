@@ -1,0 +1,30 @@
+{
+  "id": "GO:1904155",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904155",
+  "relationships": {
+    "is_a": [
+      "GO:0033077"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dph"
+    ],
+    "GO_REF": [
+      "0000086"
+    ],
+    "PMID": [
+      "25398325"
+    ]
+  },
+  "definition": "The process in which a relatively unspecialized cell acquires the specialized features of a DN2 thymocyte. A DN2 thymocyte is a CD4-,CD8- thymocyte that is also CD44+,CD25-.",
+  "namespace": "biological_process",
+  "label": "DN2 thymocyte differentiation"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0048692",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048692",
+  "relationships": {
+    "is_a": [
+      "GO:0030517",
+      "GO:0048688",
+      "GO:0048690"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of axon extension involved in regeneration",
+      "down-regulation of axon extension involved in regeneration",
+      "downregulation of axon extension involved in regeneration"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of axon extension involved in regeneration"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dgh",
+      "dph",
+      "jid",
+      "lm"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of axon extension involved in regeneration.",
+  "namespace": "biological_process",
+  "label": "negative regulation of axon extension involved in regeneration"
+}

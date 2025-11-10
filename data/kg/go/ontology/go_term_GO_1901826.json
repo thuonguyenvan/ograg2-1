@@ -1,0 +1,37 @@
+{
+  "id": "GO:1901826",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901826",
+  "relationships": {
+    "is_a": [
+      "GO:0016124"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "zeaxanthin breakdown",
+      "zeaxanthin catabolism",
+      "zeaxanthin degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "MetaCyc": [
+      "PWY-5944"
+    ],
+    "UniPathway": [
+      "UPA00843"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of zeaxanthin.",
+  "namespace": "biological_process",
+  "label": "zeaxanthin catabolic process"
+}

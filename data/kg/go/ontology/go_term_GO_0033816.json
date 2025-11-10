@@ -1,0 +1,55 @@
+{
+  "id": "GO:0033816",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033816",
+  "relationships": {
+    "is_a": [
+      "GO:0016407"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,4-diaminobutanoate acetyltransferase activity",
+      "DAB acetyltransferase activity",
+      "DABA acetyltransferase activity",
+      "DABAcT",
+      "EctA",
+      "L-2,4-diaminobutanoate acetyltransferase activity",
+      "L-2,4-diaminobutyrate acetyltransferase activity",
+      "acetyl-CoA:L-2,4-diaminobutanoate 4-N-acetyltransferase activity",
+      "acetyl-CoA:L-2,4-diaminobutanoate N4-acetyltransferase activity",
+      "diaminobutyric acid acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.178",
+      "2.3.1.178",
+      "2.3.1.178",
+      "2.3.1.178",
+      "2.3.1.178",
+      "2.3.1.178",
+      "2.3.1.178",
+      "2.3.1.178",
+      "2.3.1.178",
+      "2.3.1.178",
+      "2.3.1.178",
+      "2.3.1.178"
+    ],
+    "KEGG_REACTION": [
+      "R06978"
+    ],
+    "MetaCyc": [
+      "R102-RXN"
+    ],
+    "RHEA": [
+      "16901",
+      "16901"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-2,4-diaminobutyrate + acetyl-CoA = N(4)-acetyl-L-2,4-diaminobutyrate + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "diaminobutyrate acetyltransferase activity"
+}

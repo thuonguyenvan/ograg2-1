@@ -1,0 +1,51 @@
+{
+  "id": "GO:0018677",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018677",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pentachlorophenol 4-monooxygenase activity",
+      "pentachlorophenol hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PCB 4-monooxygenase activity",
+      "PCB4MO activity",
+      "PCP hydroxylase activity",
+      "PcpB",
+      "pentachlorophenol dechlorinase activity",
+      "pentachlorophenol dehalogenase activity",
+      "pentachlorophenol,NADPH:oxygen oxidoreductase (hydroxylating, dechlorinating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.50",
+      "1.14.13.50",
+      "1.14.13.50",
+      "1.14.13.50",
+      "1.14.13.50",
+      "1.14.13.50",
+      "1.14.13.50",
+      "1.14.13.50",
+      "1.14.13.50"
+    ],
+    "MetaCyc": [
+      "PCP4MONO-RXN"
+    ],
+    "RHEA": [
+      "18685"
+    ],
+    "UM-BBD_enzymeID": [
+      "r0313"
+    ]
+  },
+  "definition": "Catalysis of the reaction: pentachlorophenol + NADPH + H+ + O2 = tetrachlorohydroquinone + NADP+ + chloride.",
+  "namespace": "molecular_function",
+  "label": "pentachlorophenol monooxygenase activity"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GO:0004170",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004170",
+  "relationships": {
+    "is_a": [
+      "GO:0047429"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dUTP pyrophosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dUTP nucleotidohydrolase activity",
+      "dUTPase activity",
+      "deoxyuridine-triphosphatase activity",
+      "desoxyuridine 5&apos;-triphosphatase activity",
+      "desoxyuridine 5&apos;-triphosphate nucleotidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.23",
+      "3.6.1.23",
+      "3.6.1.23",
+      "3.6.1.23",
+      "3.6.1.23",
+      "3.6.1.23"
+    ],
+    "KEGG_REACTION": [
+      "R02100"
+    ],
+    "MetaCyc": [
+      "DUTP-PYROP-RXN"
+    ],
+    "RHEA": [
+      "10248",
+      "10248"
+    ],
+    "Reactome": [
+      "R-HSA-73666"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dUTP + H2O = dUMP + H+ + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "dUTP + H2O =&gt; dUMP + pyrophosphate"
+}

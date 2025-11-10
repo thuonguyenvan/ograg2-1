@@ -1,0 +1,37 @@
+{
+  "id": "GO:0051718",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051718",
+  "relationships": {
+    "is_a": [
+      "GO:0003886"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "HpaII methylase",
+      "HpaII&apos; methylase",
+      "M.BsuRIa",
+      "M.BsuRIb"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5334151"
+    ],
+    "PMID": [
+      "15689527"
+    ],
+    "EC": [
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37",
+      "2.1.1.37"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + CpG (in DNA) = S-adenosyl-L-homocysteine + 5-MeCpG (in DNA).",
+  "namespace": "molecular_function",
+  "label": "DNMT1 methylates cytosine in hemimethylated DNA"
+}

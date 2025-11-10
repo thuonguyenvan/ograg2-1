@@ -1,0 +1,30 @@
+{
+  "id": "GO:0009897",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009897",
+  "relationships": {
+    "is_a": [
+      "GO:0098552"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "external leaflet of plasma membrane",
+      "outer surface of cytoplasmic membrane"
+    ],
+    "broad": [
+      "juxtamembrane"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dos",
+      "tb",
+      "ab"
+    ]
+  },
+  "definition": "The leaflet of the plasma membrane that faces away from the cytoplasm and any proteins embedded or anchored in it or attached to its surface.",
+  "namespace": "cellular_component",
+  "label": "external side of plasma membrane"
+}

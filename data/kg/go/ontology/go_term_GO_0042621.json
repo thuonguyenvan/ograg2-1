@@ -1,0 +1,35 @@
+{
+  "id": "GO:0042621",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042621",
+  "relationships": {
+    "is_a": [
+      "GO:0009058",
+      "GO:0042620"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "poly(3-hydroxyalkanoate) anabolism",
+      "poly(3-hydroxyalkanoate) biosynthesis",
+      "poly(3-hydroxyalkanoate) formation",
+      "poly(3-hydroxyalkanoate) synthesis"
+    ],
+    "broad": [
+      "PHA biosynthesis",
+      "PHA biosynthetic process"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "9925580"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of poly(3-hydroxyalkanoates), polyesters of 3-hydroxyacids produced as intracellular granules by a large variety of bacteria.",
+  "namespace": "biological_process",
+  "label": "poly(3-hydroxyalkanoate) biosynthetic process"
+}

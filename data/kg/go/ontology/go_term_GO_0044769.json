@@ -1,0 +1,23 @@
+{
+  "id": "GO:0044769",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044769",
+  "relationships": {
+    "is_a": [
+      "GO:0042625"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Enables the transfer of ions from one side of a membrane to the other according to the reaction: ATP + H2O + ion(in) = ADP + phosphate + ion(out), by a rotational mechanism.",
+  "namespace": "molecular_function",
+  "label": "ATPase activity, coupled to transmembrane movement of ions, rotational mechanism"
+}

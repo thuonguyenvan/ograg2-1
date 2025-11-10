@@ -1,0 +1,44 @@
+{
+  "id": "GO:0018818",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018818",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "AH",
+      "AHy",
+      "acetaldehyde hydro-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.112",
+      "4.2.1.112",
+      "4.2.1.112",
+      "4.2.1.112",
+      "4.2.1.112"
+    ],
+    "KEGG_REACTION": [
+      "R05380"
+    ],
+    "MetaCyc": [
+      "R141-RXN"
+    ],
+    "RHEA": [
+      "17885",
+      "17885"
+    ],
+    "UM-BBD_reactionID": [
+      "r0591"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetaldehyde = acetylene + H2O.",
+  "namespace": "molecular_function",
+  "label": "acetylene hydratase activity"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0005634",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005634",
+  "relationships": {
+    "is_a": [
+      "GO:0043231"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell nucleus"
+    ],
+    "broad": [],
+    "narrow": [
+      "horsetail nucleus"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1702920020"
+    ],
+    "Wikipedia": [
+      "Cell_nucleus"
+    ],
+    "GOC": [
+      "go_curators",
+      "al",
+      "mah",
+      "vw"
+    ],
+    "PMID": [
+      "15030757"
+    ]
+  },
+  "definition": "A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell&apos;s chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.",
+  "namespace": "cellular_component",
+  "label": "nucleus"
+}

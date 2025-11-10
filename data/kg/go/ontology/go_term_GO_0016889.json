@@ -1,0 +1,30 @@
+{
+  "id": "GO:0016889",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016889",
+  "relationships": {
+    "is_a": [
+      "GO:0004520",
+      "GO:0016788"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "endodeoxyribonuclease activity, producing 3&apos;-phosphomonoesters",
+      "endodeoxyribonuclease activity, producing other than 5&apos;-phosphomonoesters"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.22.-"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of ester linkages within deoxyribonucleic acids by creating internal breaks to yield 3&apos;-phosphomonoesters.",
+  "namespace": "molecular_function",
+  "label": "DNA endonuclease activity, producing 3&apos;-phosphomonoesters"
+}

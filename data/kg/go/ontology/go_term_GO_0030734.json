@@ -1,0 +1,34 @@
+{
+  "id": "GO:0030734",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030734",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:1,4-alpha-D-glucan 6-O-methyltransferase activity",
+      "acylpolysacharide 6-methyltransferase activity",
+      "polysaccharide methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.18",
+      "2.1.1.18",
+      "2.1.1.18",
+      "2.1.1.18",
+      "2.1.1.18"
+    ],
+    "MetaCyc": [
+      "POLYSACCHARIDE-O-METHYLTRANSFERASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + 1,4-N1-D-glucooligosaccharide = S-adenosyl-L-homocysteine + oligosaccharide containing 6-methyl-D-glucose units.",
+  "namespace": "molecular_function",
+  "label": "polysaccharide O-methyltransferase activity"
+}

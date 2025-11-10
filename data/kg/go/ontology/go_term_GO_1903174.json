@@ -1,0 +1,39 @@
+{
+  "id": "GO:1903174",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903174",
+  "relationships": {
+    "is_a": [
+      "GO:0046164",
+      "GO:1901569",
+      "GO:1903173"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fatty alcohol breakdown",
+      "fatty alcohol catabolism",
+      "fatty alcohol degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mengo_curators",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000068"
+    ],
+    "PMID": [
+      "24036493"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of fatty alcohol.",
+  "namespace": "biological_process",
+  "label": "fatty alcohol catabolic process"
+}

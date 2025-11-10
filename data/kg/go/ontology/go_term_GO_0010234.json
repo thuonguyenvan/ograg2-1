@@ -1,0 +1,27 @@
+{
+  "id": "GO:0010234",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010234",
+  "relationships": {
+    "is_a": [
+      "GO:0001708",
+      "GO:0003006"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "tapetal cell fate specification"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mg",
+      "tb"
+    ]
+  },
+  "definition": "The process in which a cell becomes capable of differentiating autonomously into a tapetal cell of anthers in an environment that is neutral with respect to the developmental pathway; upon specification, the cell fate can be reversed.",
+  "namespace": "biological_process",
+  "label": "anther wall tapetum cell fate specification"
+}

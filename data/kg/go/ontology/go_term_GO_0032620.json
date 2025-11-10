@@ -1,0 +1,36 @@
+{
+  "id": "GO:0032620",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032620",
+  "relationships": {
+    "is_a": [
+      "GO:0001816"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CTLA-8 production",
+      "Cytotoxic T-lymphocyte-associated antigen 8 production",
+      "IL-17 production"
+    ],
+    "broad": [],
+    "narrow": [
+      "interleukin-17 biosynthetic process",
+      "interleukin-17 secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "rv",
+      "BHF",
+      "BHF"
+    ],
+    "Wikipedia": [
+      "Interleukin_17"
+    ]
+  },
+  "definition": "The appearance of any member of the interleukin-17 family of cytokines due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels.",
+  "namespace": "biological_process",
+  "label": "interleukin-17 production"
+}

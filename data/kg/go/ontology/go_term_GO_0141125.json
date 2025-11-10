@@ -1,0 +1,31 @@
+{
+  "id": "GO:0141125",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141125",
+  "relationships": {
+    "is_a": [
+      "GO:0035250",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA queuosine(34) galactosyltransferase activity"
+    ],
+    "broad": [
+      "tRNA queuosine galactosyltransferase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "78231"
+    ],
+    "PMID": [
+      "37992713"
+    ]
+  },
+  "definition": "Catalysis of the reaction: queuosine34 in tRNA + UDP-alpha-D-galactose = H+ + O-5&apos;&apos;-beta-D-galactosylqueuosine34 in tRNATyr + UDP. Substrates include tRNA(Tyr) and tRNA(Asp).",
+  "namespace": "molecular_function",
+  "label": "tRNA-queuosine(34) galactosyltransferase activity"
+}

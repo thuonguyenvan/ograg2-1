@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047457",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047457",
+  "relationships": {
+    "is_a": [
+      "GO:0016837"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "alpha-1,4-glucan lyase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "(1-&gt;4)-alpha-D-glucan exo-4-lyase (1,5-anhydro-D-fructose-forming)",
+      "alpha-(1-&gt;4)-glucan 1,5-anhydro-D-fructose eliminase activity",
+      "alpha-1,4-glucan 1,5-anhydro-D-fructose eliminase activity",
+      "alpha-1,4-glucan exo-lyase activity",
+      "exo-(1-&gt;4)-alpha-D-glucan lyase activity",
+      "exo-alpha-1,4-glucan lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.2.13",
+      "4.2.2.13",
+      "4.2.2.13",
+      "4.2.2.13",
+      "4.2.2.13",
+      "4.2.2.13",
+      "4.2.2.13",
+      "4.2.2.13",
+      "4.2.2.13"
+    ],
+    "MetaCyc": [
+      "4.2.2.13-RXN",
+      "4.2.2.13-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: linear alpha-D-glucan = 1,5-anhydro-D-fructose + beta-D-glucose.",
+  "namespace": "molecular_function",
+  "label": "exo-(1,4)-alpha-D-glucan lyase activity"
+}

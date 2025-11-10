@@ -1,0 +1,99 @@
+{
+  "id": "GO:0004683",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004683",
+  "relationships": {
+    "is_a": [
+      "GO:0004674"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Ca2+/CaM-dependent kinase activity",
+      "calcium- and calmodulin-dependent protein kinase activity",
+      "calmodulin regulated protein kinase activity",
+      "calmodulin-dependent protein kinase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "ATP:caldesmon O-phosphotransferase activity",
+      "Ca2+/calmodulin-dependent microtubule-associated protein 2 kinase activity",
+      "Ca2+/calmodulin-dependent protein kinase 1 activity",
+      "Ca2+/calmodulin-dependent protein kinase II activity",
+      "Ca2+/calmodulin-dependent protein kinase IV activity",
+      "Ca2+/calmodulin-dependent protein kinase kinase activity",
+      "Ca2+/calmodulin-dependent protein kinase kinase beta activity",
+      "CaM kinase II activity",
+      "calcium/calmodulin-dependent protein kinase type II activity",
+      "caldesmon kinase (phosphorylating) activity",
+      "calmodulin-dependent kinase II activity",
+      "calmodulin-dependent protein kinase I activity"
+    ],
+    "related": [
+      "ATP:protein phosphotransferase (Ca2+/calmodulin-dependent) activity",
+      "CAM PKII",
+      "Ca2+/calmodulin-dependent protein kinase activity",
+      "CaM kinase activity",
+      "CaM-regulated serine/threonine kinase activity",
+      "CaMKI",
+      "CaMKII",
+      "CaMKIV",
+      "CaMKKalpha",
+      "CaMKKbeta",
+      "STK20",
+      "microtubule-associated protein 2 kinase activity",
+      "multifunctional calcium- and calmodulin-regulated protein kinase activity",
+      "multifunctional calcium/calmodulin regulated protein kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17",
+      "2.7.11.17"
+    ],
+    "Reactome": [
+      "R-HSA-111912",
+      "R-HSA-111915",
+      "R-HSA-416320",
+      "R-HSA-442749",
+      "R-HSA-9006992",
+      "R-HSA-9617583",
+      "R-HSA-9618750",
+      "R-HSA-9619125",
+      "R-HSA-9619355",
+      "R-HSA-9619367",
+      "R-HSA-9619478",
+      "R-HSA-9619783"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "11264466"
+    ]
+  },
+  "definition": "Calmodulin-dependent catalysis of the reactions: ATP + a protein serine = ADP + protein serine phosphate; and ATP + a protein threonine = ADP + protein threonine phosphate. This activity require the presence of calcium-bound calmodulin.",
+  "namespace": "molecular_function",
+  "label": "CAMK1 phosphorylates ARHGEF7-1"
+}

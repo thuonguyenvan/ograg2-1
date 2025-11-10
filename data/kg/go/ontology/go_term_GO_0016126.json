@@ -1,0 +1,32 @@
+{
+  "id": "GO:0016126",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016126",
+  "relationships": {
+    "is_a": [
+      "GO:0006694",
+      "GO:0016125"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sterol anabolism",
+      "sterol biosynthesis",
+      "sterol formation",
+      "sterol synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-2541"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of sterols, steroids with one or more hydroxyl groups and a hydrocarbon side-chain in the molecule.",
+  "namespace": "biological_process",
+  "label": "sterol biosynthetic process"
+}

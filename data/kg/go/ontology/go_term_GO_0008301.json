@@ -1,0 +1,31 @@
+{
+  "id": "GO:0008301",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008301",
+  "relationships": {
+    "is_a": [
+      "GO:0003677"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA bending activity",
+      "DNA bending involving DNA binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "vw"
+    ],
+    "PMID": [
+      "10710711",
+      "19037758"
+    ]
+  },
+  "definition": "The activity of binding selectively and non-covalently to and distorting the original structure of DNA, typically a straight helix, into a bend, or increasing the bend if the original structure was intrinsically bent due to its sequence.",
+  "namespace": "molecular_function",
+  "label": "DNA binding, bending"
+}

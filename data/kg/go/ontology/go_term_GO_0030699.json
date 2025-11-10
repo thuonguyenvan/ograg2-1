@@ -1,0 +1,37 @@
+{
+  "id": "GO:0030699",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030699",
+  "relationships": {
+    "is_a": [
+      "GO:0050485"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetyl-phosphate ammonia:thioredoxin disulfide oxidoreductase (glycine-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.21.4.2",
+      "1.21.4.2",
+      "1.21.4.2"
+    ],
+    "KEGG_REACTION": [
+      "R07226"
+    ],
+    "MetaCyc": [
+      "RXN-7566"
+    ],
+    "RHEA": [
+      "12232",
+      "12232"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl phosphate + H2O + NH4 + thioredoxin disulfide = glycine + H+ + phosphate + thioredoxin.",
+  "namespace": "molecular_function",
+  "label": "glycine reductase activity"
+}

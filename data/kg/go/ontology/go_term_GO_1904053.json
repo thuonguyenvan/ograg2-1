@@ -1,0 +1,43 @@
+{
+  "id": "GO:1904053",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904053",
+  "relationships": {
+    "is_a": [
+      "GO:0090316",
+      "GO:1903337",
+      "GO:1904051"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of protein targeting to vacuole involved in autophagy",
+      "up-regulation of protein targeting to vacuole involved in autophagy",
+      "upregulation of protein targeting to vacuole involved in autophagy"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein targeting to vacuole involved in autophagy"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "pad",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22020285"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of protein targeting to vacuole involved in autophagy.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein targeting to vacuole involved in autophagy"
+}

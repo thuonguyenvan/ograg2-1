@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047799",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047799",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cyclopentanone 1,2-monooxygenase activity",
+      "cyclopentanone oxygenase activity",
+      "cyclopentanone,NADPH:oxygen oxidoreductase (5-hydroxylating, lactonizing)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.16",
+      "1.14.13.16",
+      "1.14.13.16",
+      "1.14.13.16",
+      "1.14.13.16"
+    ],
+    "KEGG_REACTION": [
+      "R02554"
+    ],
+    "MetaCyc": [
+      "CYCLOPENTANONE-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "15737",
+      "15737"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cyclopentanone + H+ + NADPH + O2 = 5-valerolactone + H2O + NADP+.",
+  "namespace": "molecular_function",
+  "label": "cyclopentanone monooxygenase activity"
+}

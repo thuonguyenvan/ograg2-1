@@ -1,0 +1,44 @@
+{
+  "id": "GO:0008924",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008924",
+  "relationships": {
+    "is_a": [
+      "GO:0016615",
+      "GO:0016901"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "MQO activity"
+    ],
+    "narrow": [],
+    "related": [
+      "(S)-malate:(quinone) oxidoreductase activity",
+      "(S)-malate:quinone oxidoreductase activity",
+      "FAD-dependent malate dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.5.4",
+      "1.1.5.4",
+      "1.1.5.4",
+      "1.1.5.4",
+      "1.1.5.4"
+    ],
+    "MetaCyc": [
+      "MALATE-DEHYDROGENASE-ACCEPTOR-RXN"
+    ],
+    "RHEA": [
+      "46012",
+      "46012"
+    ],
+    "PMID": [
+      "234747"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-malate + a quinone = oxaloacetate + a quinol. Vitamin K (menaquinone) and several other quinones can act as acceptors.",
+  "namespace": "molecular_function",
+  "label": "L-malate dehydrogenase (quinone) activity"
+}

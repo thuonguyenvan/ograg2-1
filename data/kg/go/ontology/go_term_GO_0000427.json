@@ -1,0 +1,25 @@
+{
+  "id": "GO:0000427",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000427",
+  "relationships": {
+    "is_a": [
+      "GO:0000428"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mah",
+      "pj"
+    ]
+  },
+  "definition": "An RNA polymerase complex containing polypeptides encoded by the plastid genome. Plastid-encoded DNA-directed RNA polymerases resemble eubacterial multisubunit RNA polymerases, with a core composed of alpha, beta, and beta-prime subunits. Some forms contain multiple additional subunits. An additional sigma factor subunit is required for promoter recognition.",
+  "namespace": "cellular_component",
+  "label": "plastid-encoded plastid RNA polymerase complex"
+}

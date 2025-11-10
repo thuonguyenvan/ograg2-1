@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050159",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050159",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "orsellinate carboxy-lyase (orcinol-forming)",
+      "orsellinate carboxy-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.58",
+      "4.1.1.58",
+      "4.1.1.58",
+      "4.1.1.58"
+    ],
+    "KEGG_REACTION": [
+      "R02831"
+    ],
+    "MetaCyc": [
+      "ORSELLINATE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "16733",
+      "16733"
+    ]
+  },
+  "definition": "Catalysis of the reaction: o-orsellinate + H+ = CO2 + orcinol.",
+  "namespace": "molecular_function",
+  "label": "orsellinate decarboxylase activity"
+}

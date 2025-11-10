@@ -1,0 +1,27 @@
+{
+  "id": "GO:0051730",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051730",
+  "relationships": {
+    "is_a": [
+      "GO:0051735"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GTP-dependent RNA 5&apos;-hydroxyl-kinase activity",
+      "GTP-dependent RNA kinase activity",
+      "GTP-dependent polyribonucleotide kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "8428918"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GTP + 5&apos;-dephospho-RNA = GDP + 5&apos;-phospho-RNA.",
+  "namespace": "molecular_function",
+  "label": "GTP-dependent polyribonucleotide 5&apos;-hydroxyl-kinase activity"
+}

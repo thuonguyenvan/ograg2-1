@@ -1,0 +1,35 @@
+{
+  "id": "GO:0044613",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044613",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nuclear pore central channel",
+      "nuclear pore central plug",
+      "nuclear pore transport channel"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "karyopherin docking complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dgf"
+    ],
+    "PMID": [
+      "18046406",
+      "19524430",
+      "20947011",
+      "22419078"
+    ]
+  },
+  "definition": "The central substructure of the nuclear pore complex (NPC), through which nucleocytoplasmic transport of RNAs, proteins and small molecules occurs. The central transport channel is filled with FG-nucleoporins, which form a selective barrier and provide a series of binding sites for transporter proteins. Characterized S. cerevisiae FG-nucleoporins include Nup159p, Nup145Np, Nup116p, Nup100p, Nsp1p, Nup57p, Nup49p, Nup42p, Nup53p, Nup59p/Asm4p, Nup60p and Nup1. Characterized vertebrate FG-nucleoporins include Nup214, Nup98, Nup62, Nup54, Nup58/45, NLP1, and Nup153.",
+  "namespace": "cellular_component",
+  "label": "nuclear pore central transport channel"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0002127",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002127",
+  "relationships": {
+    "is_a": [
+      "GO:0002101",
+      "GO:0002946"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "wobble position m5C biosynthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "hjd"
+    ],
+    "ISBN": [
+      "155581073X"
+    ]
+  },
+  "definition": "The process in which the base of cytosine at position 34 in the anticodon of a tRNA is post-transcriptionally methylated at the C5 position.",
+  "namespace": "biological_process",
+  "label": "tRNA wobble base cytosine methylation"
+}

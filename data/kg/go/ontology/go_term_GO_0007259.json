@@ -1,0 +1,34 @@
+{
+  "id": "GO:0007259",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007259",
+  "relationships": {
+    "is_a": [
+      "GO:0097696"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "JAK-STAT signal transduction",
+      "receptor signaling pathway via JAK-STAT"
+    ],
+    "broad": [],
+    "narrow": [
+      "JAK-STAT cascade"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "JAK-STAT_signaling_pathway"
+    ],
+    "PMID": [
+      "12039028"
+    ],
+    "GOC": [
+      "signaling"
+    ]
+  },
+  "definition": "A cell surface receptor signaling pathway in which ligand binding causes the receptor to dimerize, bringing the receptor-associated JAKs into close proximity. The JAKs then phosphorylate and activate each other on tyrosine residues.This leads to the activation of associated STAT protein, causing the STATs to dissociate from the receptor, translocate to the nucleus. The pathway ends with regulation of target gene expression by STAT proteins.",
+  "namespace": "biological_process",
+  "label": "cell surface receptor signaling pathway via JAK-STAT"
+}

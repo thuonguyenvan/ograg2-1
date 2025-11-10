@@ -1,0 +1,28 @@
+{
+  "id": "GO:0086044",
+  "uri": "http://purl.obolibrary.org/obo/GO_0086044",
+  "relationships": {
+    "is_a": [
+      "GO:0086064",
+      "GO:0086066"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "atrial cardiomyocyte to AV node cell communication by electrical coupling",
+      "atrial cardiomyocyte to atrioventricular node cell communication by electrical coupling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mtg_cardiac_conduct_nov11"
+    ]
+  },
+  "definition": "The process that mediates signaling interactions between an atrial cardiomyocyte and an AV node cell by transfer of current between their adjacent cytoplasms via intercellular protein channels.",
+  "namespace": "biological_process",
+  "label": "atrial cardiac muscle cell to AV node cell communication by electrical coupling"
+}

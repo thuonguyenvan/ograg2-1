@@ -1,0 +1,33 @@
+{
+  "id": "GO:0050819",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050819",
+  "relationships": {
+    "is_a": [
+      "GO:0050818",
+      "GO:0051241"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of coagulation",
+      "down-regulation of coagulation",
+      "downregulation of coagulation",
+      "negative regulation of clotting"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of coagulation"
+    ],
+    "related": [
+      "anticoagulant activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of coagulation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of coagulation"
+}

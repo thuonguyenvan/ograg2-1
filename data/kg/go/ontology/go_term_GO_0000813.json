@@ -1,0 +1,30 @@
+{
+  "id": "GO:0000813",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000813",
+  "relationships": {
+    "is_a": [
+      "GO:0036452",
+      "GO:0098796"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "endosomal sorting complex required for transport"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rb"
+    ],
+    "PMID": [
+      "12892785",
+      "12900393"
+    ]
+  },
+  "definition": "An endosomal sorting complex required for transport. It consists of the class E vacuolar protein sorting (Vps) proteins and interacts with ubiquitinated cargoes.",
+  "namespace": "cellular_component",
+  "label": "ESCRT I complex"
+}

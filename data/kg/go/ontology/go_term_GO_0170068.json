@@ -1,0 +1,32 @@
+{
+  "id": "GO:0170068",
+  "uri": "http://purl.obolibrary.org/obo/GO_0170068",
+  "relationships": {
+    "is_a": [
+      "GO:0004661"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GGTase-3 activity",
+      "GGTase-III activity",
+      "GGTase3 activity",
+      "Geranylgeranyl transferase type-3 activity",
+      "geranylgeranyltransferase type 3 activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "32128853",
+      "33035318",
+      "35628237",
+      "40049413"
+    ]
+  },
+  "definition": "Catalyzes the covalent addition of a geranylgeranyl group to a mono-farnesylated substrate via a thioether linkage to a cysteine residue located within a conserved C-terminal tandem cysteine motif (CCAIM or CCIIM) that is used in substrate recognition. Known substrates include mono-farnesylated Golgi SNARE proteins.",
+  "namespace": "molecular_function",
+  "label": "geranylgeranyltransferase type III activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0043909",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043909",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-acetyl-L-citrulline deacetylase activity",
+      "acetylcitrulline deacetylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "61092",
+      "61092"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "16750290"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acetyl-L-citrulline + H2O = citrulline + acetate.",
+  "namespace": "molecular_function",
+  "label": "N-acetylcitrulline deacetylase activity"
+}

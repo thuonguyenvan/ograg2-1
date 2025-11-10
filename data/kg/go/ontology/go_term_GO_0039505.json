@@ -1,0 +1,37 @@
+{
+  "id": "GO:0039505",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039505",
+  "relationships": {
+    "is_a": [
+      "GO:0039588"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "inhibition of host MHC class II molecule presentation by virus",
+      "suppression by virus of host antigen processing and presentation of peptide antigen via MHC class II"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "820",
+      "820"
+    ],
+    "GOC": [
+      "add",
+      "bf"
+    ],
+    "PMID": [
+      "27832589"
+    ],
+    "UniProtKB-KW": [
+      "KW-1116"
+    ]
+  },
+  "definition": "A process by which a symbiont inhibits or disrupts the normal processing and presentation of a peptide antigen on its cell surface in association with an MHC class II protein complex.",
+  "namespace": "biological_process",
+  "label": "Inhibition of host MHC class II molecule presentation by virus"
+}

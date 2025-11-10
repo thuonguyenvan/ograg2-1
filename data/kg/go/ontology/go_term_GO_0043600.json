@@ -1,0 +1,26 @@
+{
+  "id": "GO:0043600",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043600",
+  "relationships": {
+    "is_a": [
+      "GO:0030894"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "prokaryotic replisome"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "A multi-component enzymatic machine at the cytoplasmic replication fork, which mediates DNA replication. Includes DNA primase, DNA polymerase, DNA helicase, and other proteins.",
+  "namespace": "cellular_component",
+  "label": "cytoplasmic replisome"
+}

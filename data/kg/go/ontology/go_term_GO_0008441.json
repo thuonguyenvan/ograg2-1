@@ -1,0 +1,47 @@
+{
+  "id": "GO:0008441",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008441",
+  "relationships": {
+    "is_a": [
+      "GO:0008252"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3&apos;(2&apos;),5&apos; bisphosphate nucleotidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3&apos;(2&apos;),5&apos;-bisphosphonucleoside 3&apos;(2&apos;)-phosphohydrolase activity",
+      "3&apos;-phosphoadenylylsulfate 3&apos;-phosphatase activity",
+      "DPNPase activity",
+      "adenosine-3&apos;(2&apos;),5&apos;-bisphosphate 3&apos;(2&apos;)-phosphohydrolase activity",
+      "phosphoadenylate 3&apos;-nucleotidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.3.7",
+      "3.1.3.7",
+      "3.1.3.7",
+      "3.1.3.7",
+      "3.1.3.7",
+      "3.1.3.7",
+      "3.1.3.7"
+    ],
+    "MetaCyc": [
+      "325-BISPHOSPHATE-NUCLEOTIDASE-RXN"
+    ],
+    "RHEA": [
+      "10040"
+    ],
+    "Reactome": [
+      "R-HSA-176606",
+      "R-HSA-8953499"
+    ]
+  },
+  "definition": "Catalysis of the reaction: adenosine 3&apos;,5&apos;-bisphosphate + H2O = adenosine 5&apos;-phosphate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "IMPAD1 hydrolyses PAP to AMP"
+}

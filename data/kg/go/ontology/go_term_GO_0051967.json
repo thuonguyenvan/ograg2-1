@@ -1,0 +1,30 @@
+{
+  "id": "GO:0051967",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051967",
+  "relationships": {
+    "is_a": [
+      "GO:0050805",
+      "GO:0051966"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of synaptic transmission, glutamatergic",
+      "down-regulation of synaptic transmission, glutamatergic",
+      "downregulation of synaptic transmission, glutamatergic"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of synaptic transmission, glutamatergic"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of glutamatergic synaptic transmission, the process of communication from a neuron to another neuron across a synapse using the neurotransmitter glutamate.",
+  "namespace": "biological_process",
+  "label": "negative regulation of synaptic transmission, glutamatergic"
+}

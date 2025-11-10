@@ -1,0 +1,35 @@
+{
+  "id": "GO:0009452",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009452",
+  "relationships": {
+    "is_a": [
+      "GO:0036260"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "m(7)G RNA capping"
+    ],
+    "broad": [
+      "RNA capping"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw",
+      "krc",
+      "mah",
+      "bf",
+      "krc",
+      "mah"
+    ],
+    "PMID": [
+      "9266685"
+    ]
+  },
+  "definition": "The sequence of enzymatic reactions by which the RNA 5&apos; cap structure, an inverted 7-methylguanosine linked via a 5&apos;-5&apos; triphosphate bridge (m7G(5&apos;)ppp(5&apos;)X) to the first transcribed residue, is added to a nascent transcript. Additional methylation can occur on the ribose sugars of the first and second nucleotides adjacent to the m7G nRNA cap. These methylations are often referred to as N6,2&apos;-O-dimethyladenosine (m6,2A) and N6,2&apos;-O-dimethylguanosine (m6,2G), respectively.",
+  "namespace": "biological_process",
+  "label": "7-methylguanosine RNA capping"
+}

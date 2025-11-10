@@ -1,0 +1,53 @@
+{
+  "id": "GO:0047396",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047396",
+  "relationships": {
+    "is_a": [
+      "GO:0016849"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "variant-surface-glycoprotein phospholipase C activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "glycosylphosphatidylinositol-phospholipase C activity"
+    ],
+    "related": [
+      "(glycosyl)phosphatidylinositol-specific phospholipase C activity",
+      "6-(alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol diacyl-sn-glycerol-lyase [6-(alpha-D-glucosaminyl)-1D-myo-inositol 1,2-cyclic phosphate-forming]",
+      "6-(alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol diacylglycerol-lyase (1,2-cyclic-phosphate-forming) activity",
+      "GPI-PLC activity",
+      "GPI-specific phospholipase C activity",
+      "VSG-lipase activity",
+      "glycosyl inositol phospholipid anchor-hydrolyzing enzyme activity",
+      "glycosylphosphatidylinositol-specific phospholipase C activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.6.1.14",
+      "4.6.1.14",
+      "4.6.1.14",
+      "4.6.1.14",
+      "4.6.1.14",
+      "4.6.1.14",
+      "4.6.1.14",
+      "4.6.1.14",
+      "4.6.1.14",
+      "4.6.1.14",
+      "4.6.1.14"
+    ],
+    "MetaCyc": [
+      "3.1.4.47-RXN",
+      "3.1.4.47-RXN"
+    ],
+    "RHEA": [
+      "14333"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 6-(alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol = 1,2-diacyl-sn-glycerol + 6-(alpha-D-glucosaminyl)-1D-myo-inositol 1,2-cyclic phosphate.",
+  "namespace": "molecular_function",
+  "label": "glycosylphosphatidylinositol diacylglycerol-lyase activity"
+}

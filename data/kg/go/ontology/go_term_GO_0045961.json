@@ -1,0 +1,29 @@
+{
+  "id": "GO:0045961",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045961",
+  "relationships": {
+    "is_a": [
+      "GO:0040034"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of development, heterochronic",
+      "down-regulation of development, heterochronic",
+      "downregulation of development, heterochronic"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of development, heterochronic"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that modulates the consistent predetermined time point at which an integrated living unit or organism progresses from an initial condition to a later condition and decreases the rate at which this time point is reached.",
+  "namespace": "biological_process",
+  "label": "negative regulation of development, heterochronic"
+}

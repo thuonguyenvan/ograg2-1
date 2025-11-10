@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990098",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990098",
+  "relationships": {
+    "is_a": [
+      "GO:1990077"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "core primosome"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "bhm"
+    ],
+    "PMID": [
+      "21856207"
+    ]
+  },
+  "definition": "A protein-DNA complex containing at least one DNA helicase and one primase. Can also contain associated proteins. The helicase component continues to unwind the double-stranded DNA (dsDNA) and the primase component synthesizes a RNA primer during initiation or restart of replication.",
+  "namespace": "cellular_component",
+  "label": "core primosome complex"
+}

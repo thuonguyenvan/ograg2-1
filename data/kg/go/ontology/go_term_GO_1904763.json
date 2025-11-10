@@ -1,0 +1,47 @@
+{
+  "id": "GO:1904763",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904763",
+  "relationships": {
+    "is_a": [
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CMA translocation complex assembly",
+      "CMA translocation complex formation",
+      "chaperone-mediated autophagy translocation complex formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CMA receptor complex assembly",
+      "CMA receptor complex formation",
+      "chaperone-mediated autophagy receptor complex assembly",
+      "chaperone-mediated autophagy receptor complex formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "pad",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000079"
+    ],
+    "PMID": [
+      "18644871"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form a chaperone-mediated autophagy translocation complex.",
+  "namespace": "biological_process",
+  "label": "chaperone-mediated autophagy translocation complex assembly"
+}

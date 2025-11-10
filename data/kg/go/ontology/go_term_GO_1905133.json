@@ -1,0 +1,62 @@
+{
+  "id": "GO:1905133",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905133",
+  "relationships": {
+    "is_a": [
+      "GO:1905132",
+      "GO:1905819",
+      "GO:2000242"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of chromosome separation during meiosis",
+      "down regulation of meiotic chromosome resolution",
+      "down regulation of meiotic chromosome separation",
+      "down-regulation of chromosome separation during meiosis",
+      "down-regulation of meiotic chromosome resolution",
+      "down-regulation of meiotic chromosome separation",
+      "downregulation of chromosome separation during meiosis",
+      "downregulation of meiotic chromosome resolution",
+      "downregulation of meiotic chromosome separation",
+      "negative regulation of chromosome separation during meiosis",
+      "negative regulation of meiotic chromosome resolution"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of chromosome separation during meiosis",
+      "inhibition of meiotic chromosome resolution",
+      "inhibition of meiotic chromosome separation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "vw",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "15620645"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of meiotic chromosome separation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of meiotic chromosome separation"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:0023019",
+  "uri": "http://purl.obolibrary.org/obo/GO_0023019",
+  "relationships": {
+    "is_a": [
+      "GO:0007165"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of gene expression as a consequence of signal transmission"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_signal",
+      "bf"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of gene expression as a consequence of a process in which a signal is released and/or conveyed from one location to another.",
+  "namespace": "biological_process",
+  "label": "signal transduction involved in regulation of gene expression"
+}

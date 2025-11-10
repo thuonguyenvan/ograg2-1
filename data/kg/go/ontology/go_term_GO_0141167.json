@@ -1,0 +1,32 @@
+{
+  "id": "GO:0141167",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141167",
+  "relationships": {
+    "is_a": [
+      "GO:0141137",
+      "GO:0141166"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "epigenetic 5-methylcytosine DNA demethylation, oxidation pathway",
+      "epigenetic DNA demethylation, oxidation pathway"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5221030"
+    ],
+    "PMID": [
+      "21862972",
+      "29875631",
+      "36478523"
+    ]
+  },
+  "definition": "An epigenetic cytosine DNA demethylation pathway that starts with the enzymatic oxidation of the 5-methylcytosine (5meC) to generate 5-hydroxymethylcytosine (5hmC), which successively converted to 5-formylcytosine (5fC) and 5-carboxylcytosine (5caC).  A DNA glycosylase (e. g. TDG) recognizes the  intermediate bases 5fC and 5caC and excises the modified base to initiate its replacement with unmethylated cytosine through base excision repair.",
+  "namespace": "biological_process",
+  "label": "TET1,2,3 and TDG demethylate DNA"
+}

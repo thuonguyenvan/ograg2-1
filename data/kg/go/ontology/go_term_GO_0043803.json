@@ -1,0 +1,41 @@
+{
+  "id": "GO:0043803",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043803",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-HO-carotenoid methylase",
+      "1-hydroxycarotenoid O-methylase",
+      "1-hydroxycarotenoid methylase",
+      "demethylspheroidene O-methyltransferase"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.210",
+      "2.1.1.210",
+      "2.1.1.210",
+      "2.1.1.210",
+      "2.1.1.210"
+    ],
+    "RHEA": [
+      "30903",
+      "30903"
+    ],
+    "PMID": [
+      "12664193",
+      "12770713",
+      "7358679"
+    ]
+  },
+  "definition": "Catalysis of the reaction: demethylspheroidene + S-adenosyl-L-methionine = H+ + S-adenosyl-L-homocysteine + spheroidene.",
+  "namespace": "molecular_function",
+  "label": "hydroxyneurosporene-O-methyltransferase activity"
+}

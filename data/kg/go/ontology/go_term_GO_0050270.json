@@ -1,0 +1,40 @@
+{
+  "id": "GO:0050270",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050270",
+  "relationships": {
+    "is_a": [
+      "GO:0016814",
+      "GO:0019239"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-homocysteine aminohydrolase activity",
+      "adenosylhomocysteine deaminase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.4.28",
+      "3.5.4.28",
+      "3.5.4.28",
+      "3.5.4.28"
+    ],
+    "KEGG_REACTION": [
+      "R00193"
+    ],
+    "MetaCyc": [
+      "S-ADENOSYLHOMOCYSTEINE-DEAMINASE-RXN"
+    ],
+    "RHEA": [
+      "20716",
+      "20716"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-homocysteine + H2O + H+ = S-inosyl-L-homocysteine + NH4.",
+  "namespace": "molecular_function",
+  "label": "S-adenosylhomocysteine deaminase activity"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GO:0047636",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047636",
+  "relationships": {
+    "is_a": [
+      "GO:0016646"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,2&apos;-iminodipropanoate:NAD+ oxidoreductase (L-alanine-forming)",
+      "ADH",
+      "ALPDH",
+      "alanopine: NAD oxidoreductase activity",
+      "alanopine:NAD oxidoreductase activity",
+      "alanopine[meso-N-(1-carboxyethyl)-alanine]dehydrogenase activity",
+      "meso-N-(1-carboxyethyl)-alanine:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.17",
+      "1.5.1.17",
+      "1.5.1.17",
+      "1.5.1.17",
+      "1.5.1.17",
+      "1.5.1.17",
+      "1.5.1.17",
+      "1.5.1.17",
+      "1.5.1.17"
+    ],
+    "KEGG_REACTION": [
+      "R00398"
+    ],
+    "MetaCyc": [
+      "ALANOPINE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "17589",
+      "17589"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,2&apos;-iminodipropanoate + H2O + NAD+ = L-alanine + H+ + NADH + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "alanopine dehydrogenase activity"
+}

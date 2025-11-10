@@ -1,0 +1,38 @@
+{
+  "id": "GO:0019875",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019875",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "6-aminohexanoic acid oligomer hydrolase activity",
+      "N-(6-aminohexanoyl)-6-aminohexanoate amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.46",
+      "3.5.1.46",
+      "3.5.1.46",
+      "3.5.1.46"
+    ],
+    "MetaCyc": [
+      "RXN-3962"
+    ],
+    "RHEA": [
+      "21364"
+    ],
+    "UM-BBD_enzymeID": [
+      "r1096"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-(6-aminohexanoyl)-6-aminohexanoate + H2O = 2 6-aminohexanoate.",
+  "namespace": "molecular_function",
+  "label": "6-aminohexanoate-dimer hydrolase activity"
+}

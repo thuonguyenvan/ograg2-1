@@ -1,0 +1,34 @@
+{
+  "id": "GO:0160102",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160102",
+  "relationships": {
+    "is_a": [
+      "GO:0008170",
+      "GO:0016423"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA (guanine(10)-N(2))-methyltransferase activity",
+      "tRNA (guanosine(10)-N(2))-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.214",
+      "2.1.1.214"
+    ],
+    "RHEA": [
+      "43128"
+    ],
+    "Reactome": [
+      "R-HSA-6786501"
+    ]
+  },
+  "definition": "Catalysis of the reaction: guanosine(10) in tRNA + S-adenosyl-L-methionine = H+ + N(2)-methylguanosine(10) in tRNA + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "TRMT11:TRMT112 methylates guanosine-10 in tRNA"
+}

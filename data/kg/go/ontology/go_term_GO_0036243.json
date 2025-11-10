@@ -1,0 +1,42 @@
+{
+  "id": "GO:0036243",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036243",
+  "relationships": {
+    "is_a": [
+      "GO:0009013"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NADP-dependent succinate-semialdehyde dehydrogenase activity",
+      "succinate semialdehyde:NADP+ oxidoreductase activity",
+      "succinic semialdehyde dehydrogenase (NADP+) activity",
+      "succinyl semialdehyde dehydrogenase (NADP+) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.79",
+      "1.2.1.79",
+      "1.2.1.79",
+      "1.2.1.79",
+      "1.2.1.79"
+    ],
+    "MetaCyc": [
+      "SUCCSEMIALDDEHYDROG-RXN"
+    ],
+    "RHEA": [
+      "13213",
+      "13213"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Catalysis of the reaction: succinate semialdehyde + NADP+ + H2O = succinate + NADPH + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "succinate-semialdehyde dehydrogenase (NADP+) activity"
+}

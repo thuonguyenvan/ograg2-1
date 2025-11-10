@@ -1,0 +1,32 @@
+{
+  "id": "GO:0031953",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031953",
+  "relationships": {
+    "is_a": [
+      "GO:0001933",
+      "GO:0031952"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of protein amino acid autophosphorylation",
+      "down-regulation of protein amino acid autophosphorylation",
+      "downregulation of protein amino acid autophosphorylation",
+      "negative regulation of protein amino acid autophosphorylation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of protein amino acid autophosphorylation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "bf"
+    ]
+  },
+  "definition": "Any process that stops, prevents or decreases the rate of the phosphorylation by a protein of one or more of its own residues.",
+  "namespace": "biological_process",
+  "label": "negative regulation of protein autophosphorylation"
+}

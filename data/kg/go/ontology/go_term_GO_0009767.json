@@ -1,0 +1,32 @@
+{
+  "id": "GO:0009767",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009767",
+  "relationships": {
+    "is_a": [
+      "GO:0022900"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "electron carrier, chlorophyll electron transport system"
+    ],
+    "broad": [],
+    "narrow": [
+      "photosynthetic electron transport in cytochrome b6/f",
+      "photosynthetic electron transport in plastocyanin",
+      "photosynthetic electron transport in plastoquinone"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_electron_transport"
+    ],
+    "ISBN": [
+      "0198547684"
+    ]
+  },
+  "definition": "A process, occurring as part of photosynthesis, in which light provides the energy for a series of electron carriers to operate together to transfer electrons and generate a transmembrane electrochemical gradient.",
+  "namespace": "biological_process",
+  "label": "photosynthetic electron transport chain"
+}

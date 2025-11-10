@@ -1,0 +1,34 @@
+{
+  "id": "GO:0043679",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043679",
+  "relationships": {
+    "is_a": [
+      "GO:0044306",
+      "GO:0098793"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "axon terminal",
+      "nerve ending"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "axon terminal specialization"
+    ]
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "nlx_subcell_20090512",
+      "sao2007137787"
+    ],
+    "GOC": [
+      "dph",
+      "jl"
+    ]
+  },
+  "definition": "Terminal inflated portion of the axon, containing the specialized apparatus necessary to release neurotransmitters. The axon terminus is considered to be the whole region of thickening and the terminal button is a specialized region of it.",
+  "namespace": "cellular_component",
+  "label": "axon terminus"
+}

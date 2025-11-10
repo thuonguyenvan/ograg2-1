@@ -1,0 +1,30 @@
+{
+  "id": "GO:0044568",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044568",
+  "relationships": {
+    "is_a": [
+      "GO:0010330"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "secondary cell wall CESA complex",
+      "secondary cell-wall cellulose synthase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators",
+      "tt"
+    ],
+    "PMID": [
+      "21307367"
+    ]
+  },
+  "definition": "A large, multimeric protein complex which catalyzes the biosynthesis of cellulose for the plant secondary cell wall. In Arabidopsis, contains the essential component proteins CESA8, CESA7, and CESA4.",
+  "namespace": "cellular_component",
+  "label": "secondary cell wall cellulose synthase complex"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0033836",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033836",
+  "relationships": {
+    "is_a": [
+      "GO:0046527"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose:flavonol 7-O-beta-D-glucosyltransferase activity",
+      "UDP-glucose:flavonol 7-O-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.237",
+      "2.4.1.237",
+      "2.4.1.237",
+      "2.4.1.237"
+    ],
+    "MetaCyc": [
+      "2.4.1.237-RXN"
+    ],
+    "RHEA": [
+      "23164"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-glucose + a flavonol = UDP + a flavonol 7-O-beta-D-glucoside.",
+  "namespace": "molecular_function",
+  "label": "flavonol 7-O-beta-glucosyltransferase activity"
+}

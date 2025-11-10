@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050546",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050546",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-hydroxyphenylpyruvate carboxy-lyase (4-hydroxyphenylacetaldehyde-forming)",
+      "4-hydroxyphenylpyruvate carboxy-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.80",
+      "4.1.1.80",
+      "4.1.1.80",
+      "4.1.1.80"
+    ],
+    "KEGG_REACTION": [
+      "R03341"
+    ],
+    "MetaCyc": [
+      "4.1.1.80-RXN"
+    ],
+    "RHEA": [
+      "18697",
+      "18697"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (4-hydroxyphenyl)pyruvate + H+ = (4-hydroxyphenyl)acetaldehyde + CO2.",
+  "namespace": "molecular_function",
+  "label": "4-hydroxyphenylpyruvate decarboxylase activity"
+}

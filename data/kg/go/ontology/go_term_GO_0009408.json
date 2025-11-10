@@ -1,0 +1,26 @@
+{
+  "id": "GO:0009408",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009408",
+  "relationships": {
+    "is_a": [
+      "GO:0006950",
+      "GO:0009266"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "response to heat shock"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "lr"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a heat stimulus, a temperature stimulus above the optimal temperature for that organism.",
+  "namespace": "biological_process",
+  "label": "response to heat"
+}

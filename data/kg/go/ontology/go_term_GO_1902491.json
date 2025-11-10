@@ -1,0 +1,51 @@
+{
+  "id": "GO:1902491",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902491",
+  "relationships": {
+    "is_a": [
+      "GO:0051241",
+      "GO:1902490",
+      "GO:1903430",
+      "GO:2000242"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of sperm capacitation",
+      "down-regulation of sperm capacitation",
+      "downregulation of sperm capacitation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of sperm capacitation"
+    ],
+    "related": [
+      "down regulation of sperm activation",
+      "down-regulation of sperm activation",
+      "downregulation of sperm activation",
+      "inhibition of sperm activation",
+      "negative regulation of sperm activation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "hjd",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "22539676"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of sperm capacitation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of sperm capacitation"
+}

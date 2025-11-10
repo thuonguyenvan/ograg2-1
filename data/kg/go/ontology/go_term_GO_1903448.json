@@ -1,0 +1,42 @@
+{
+  "id": "GO:1903448",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903448",
+  "relationships": {
+    "is_a": [
+      "GO:0016094",
+      "GO:0016099",
+      "GO:0034309",
+      "GO:0120255"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "geraniol anabolism",
+      "geraniol biosynthesis",
+      "geraniol formation",
+      "geraniol synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "di",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000068"
+    ],
+    "PMID": [
+      "23200656"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of geraniol.",
+  "namespace": "biological_process",
+  "label": "geraniol biosynthetic process"
+}

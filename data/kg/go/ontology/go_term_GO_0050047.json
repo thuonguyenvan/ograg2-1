@@ -1,0 +1,37 @@
+{
+  "id": "GO:0050047",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050047",
+  "relationships": {
+    "is_a": [
+      "GO:0016869"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(2S)-alpha-leucine 2,3-aminomutase activity",
+      "leucine 2,3-aminomutase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.3.7",
+      "5.4.3.7"
+    ],
+    "KEGG_REACTION": [
+      "R01091"
+    ],
+    "MetaCyc": [
+      "LEUCINE-23-AMINOMUTASE-RXN"
+    ],
+    "RHEA": [
+      "10284",
+      "10284"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-leucine = (3R)-beta-leucine.",
+  "namespace": "molecular_function",
+  "label": "L-leucine 2,3-aminomutase activity"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0006367",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006367",
+  "relationships": {
+    "is_a": [
+      "GO:0006352"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "transcription initiation from Pol II promoter",
+      "transcription initiation from RNA polymerase II promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-167161",
+      "R-HSA-2032785",
+      "R-HSA-350054",
+      "R-HSA-383280",
+      "R-HSA-73779",
+      "R-HSA-75953"
+    ],
+    "GOC": [
+      "mah",
+      "txnOH"
+    ]
+  },
+  "definition": "A transcription initiation process that takes place at a RNA polymerase II gene promoter. Messenger RNAs (mRNA) genes, as well as some non-coding RNAs, are transcribed by RNA polymerase II.",
+  "namespace": "biological_process",
+  "label": "RNA Polymerase II Transcription Initiation"
+}

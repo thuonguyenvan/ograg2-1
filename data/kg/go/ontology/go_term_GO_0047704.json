@@ -1,0 +1,47 @@
+{
+  "id": "GO:0047704",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047704",
+  "relationships": {
+    "is_a": [
+      "GO:0008146"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "bile-salt sulphotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "BAST I activity",
+      "bile acid sulfotransferase I activity",
+      "glycolithocholate sulfotransferase activity"
+    ],
+    "related": [
+      "3&apos;-phosphoadenylyl-sulfate:glycolithocholate sulfotransferase activity",
+      "bile acid:3&apos;-phosphoadenosine-5&apos;-phosphosulfate sulfotransferase activity",
+      "bile salt:3&apos;phosphoadenosine-5&apos;-phosphosulfate:sulfotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.14",
+      "2.8.2.14",
+      "2.8.2.14",
+      "2.8.2.14",
+      "2.8.2.14",
+      "2.8.2.14",
+      "2.8.2.14",
+      "2.8.2.14"
+    ],
+    "MetaCyc": [
+      "BILE-SALT-SULFOTRANSFERASE-RXN",
+      "BILE-SALT-SULFOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "14013"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;-phosphoadenosine 5&apos;-phosphosulfate + taurolithocholate = adenosine 3&apos;,5&apos;-bisphosphate + taurolithocholate sulfate.",
+  "namespace": "molecular_function",
+  "label": "bile-salt sulfotransferase activity"
+}

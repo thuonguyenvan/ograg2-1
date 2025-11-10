@@ -1,0 +1,27 @@
+{
+  "id": "GO:0141126",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141126",
+  "relationships": {
+    "is_a": [
+      "GO:0047617"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "3.1.2.18-RXN"
+    ],
+    "RHEA": [
+      "68180",
+      "68180"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a short-chain fatty acyl-CoA + H2O = a short fatty acid + CoA + H+. A short-chain fatty acid has an aliphatic tail of less than 6 carbons.",
+  "namespace": "molecular_function",
+  "label": "short-chain fatty acyl-CoA hydrolase activity"
+}

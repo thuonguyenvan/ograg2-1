@@ -1,0 +1,30 @@
+{
+  "id": "GO:0009249",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009249",
+  "relationships": {
+    "is_a": [
+      "GO:0018205",
+      "GO:0051604"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptidyl-lysine lipoylation",
+      "protein-lipoic acid cofactor linkage"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9857492"
+    ],
+    "RESID": [
+      "AA0118"
+    ]
+  },
+  "definition": "The lipoylation of peptidyl-lysine to form peptidyl-N6-lipoyl-L-lysine.",
+  "namespace": "biological_process",
+  "label": "Protein lipoylation"
+}

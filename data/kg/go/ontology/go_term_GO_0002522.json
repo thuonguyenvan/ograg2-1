@@ -1,0 +1,39 @@
+{
+  "id": "GO:0002522",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002522",
+  "relationships": {
+    "is_a": [
+      "GO:0002252",
+      "GO:0050900"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "immune cell migration during immune response",
+      "immune cell trafficking during immune response",
+      "leucocyte migration during immune response",
+      "leucocyte trafficking during immune response",
+      "leukocyte trafficking during immune response"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "14680625",
+      "14708592",
+      "7507411",
+      "8600538"
+    ]
+  },
+  "definition": "The movement of a leukocyte within or between different tissues and organs of the body as part of an immune response.",
+  "namespace": "biological_process",
+  "label": "leukocyte migration involved in immune response"
+}

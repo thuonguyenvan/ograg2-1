@@ -1,0 +1,34 @@
+{
+  "id": "GO:0001934",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001934",
+  "relationships": {
+    "is_a": [
+      "GO:0001932",
+      "GO:0031401",
+      "GO:0042327"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of protein amino acid phosphorylation",
+      "up regulation of protein amino acid phosphorylation",
+      "up-regulation of protein amino acid phosphorylation",
+      "upregulation of protein amino acid phosphorylation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein amino acid phosphorylation",
+      "stimulation of protein amino acid phosphorylation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "hjd",
+      "bf"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of addition of phosphate groups to amino acids within a protein.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein phosphorylation"
+}

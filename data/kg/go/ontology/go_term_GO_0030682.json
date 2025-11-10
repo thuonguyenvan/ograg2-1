@@ -1,0 +1,45 @@
+{
+  "id": "GO:0030682",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030682",
+  "relationships": {
+    "is_a": [
+      "GO:0052200"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitigation of host defenses by symbiont",
+      "perturbation of host defenses by symbiont"
+    ],
+    "broad": [
+      "evasion or tolerance of defense response of other organism involved in symbiotic interaction"
+    ],
+    "narrow": [
+      "avoidance of defenses of other organism involved in symbiotic interaction",
+      "avoidance of host defences",
+      "avoidance of host defenses",
+      "evasion of host defence response",
+      "evasion of other organism defence response",
+      "evasion or tolerance of host defense response"
+    ],
+    "related": [
+      "avoidance of defenses of other organism during symbiotic interaction",
+      "evasion or tolerance of defense response of other organism during symbiotic interaction",
+      "evasion or tolerance of defenses of other organism",
+      "evasion or tolerance of defenses of other organism during symbiotic interaction",
+      "evasion or tolerance of defenses of other organism involved in symbiotic interaction",
+      "evasion or tolerance of host defenses"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_pamgo_17jul06",
+      "dph",
+      "dph",
+      "dph"
+    ]
+  },
+  "definition": "A process in which a symbiont alters or subverts the normal execution of a host organism&apos;s defense response. The host defense response is mounted by the host in response to the presence of the symbiont. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated perturbation of host defenses"
+}

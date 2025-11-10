@@ -1,0 +1,35 @@
+{
+  "id": "GO:1905571",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905571",
+  "relationships": {
+    "is_a": [
+      "GO:0043235"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IL-10 receptor complex",
+      "IL-10-receptor complex",
+      "IL10 receptor complex",
+      "interleukin-10-receptor complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bhm"
+    ],
+    "GO_REF": [
+      "0000088"
+    ],
+    "PMID": [
+      "16982608"
+    ]
+  },
+  "definition": "A protein complex that binds interleukin-10 (IL-10) and that consists of, at a minimum, a dimeric interleukin, an alpha and a beta chain as well as optional additional kinase subunits. The alpha chain binds IL-10 with high affinity and subsequently binds the common beta receptor chain that forms part of multiple interleukin receptors.",
+  "namespace": "cellular_component",
+  "label": "interleukin-10 receptor complex"
+}

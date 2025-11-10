@@ -1,0 +1,33 @@
+{
+  "id": "GO:0009950",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009950",
+  "relationships": {
+    "is_a": [
+      "GO:0009798"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dorsal-ventral axis specification",
+      "dorsoventral axis specification"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dorsal/ventral axis determination"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "go_curators",
+      "tb",
+      "mah",
+      "mah",
+      "dph"
+    ]
+  },
+  "definition": "The establishment, maintenance and elaboration of the dorsal/ventral axis. The dorsal/ventral axis is defined by a line that runs orthogonal to both the anterior/posterior and left/right axes. The dorsal end is defined by the upper or back side of an organism. The ventral end is defined by the lower or front side of an organism.",
+  "namespace": "biological_process",
+  "label": "dorsal/ventral axis specification"
+}

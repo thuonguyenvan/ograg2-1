@@ -1,0 +1,63 @@
+{
+  "id": "GO:0004499",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004499",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dimethylaniline monooxygenase (N-oxide-forming) activity",
+      "methylphenyltetrahydropyridine N-monooxygenase activity"
+    ],
+    "broad": [
+      "flavin-containing monooxygenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine:oxygen N-oxidoreductase activity",
+      "DMA oxidase activity",
+      "FAD-containing monooxygenase activity",
+      "FMO activity",
+      "N,N-dimethylaniline,NADPH:oxygen oxidoreductase (N-oxide-forming)",
+      "Ziegler&apos;s enzyme",
+      "dimethylaniline N-oxidase activity",
+      "dimethylaniline oxidase activity",
+      "flavin mixed function oxidase activity",
+      "flavin monooxygenase activity",
+      "mixed-function amine oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "1.14.13.8-RXN"
+    ],
+    "RHEA": [
+      "24468",
+      "24468"
+    ],
+    "Reactome": [
+      "R-HSA-139970",
+      "R-HSA-217255",
+      "R-HSA-5602966"
+    ],
+    "EC": [
+      "1.14.13.8",
+      "1.14.13.8",
+      "1.14.13.8",
+      "1.14.13.8",
+      "1.14.13.8",
+      "1.14.13.8",
+      "1.14.13.8",
+      "1.14.13.8",
+      "1.14.13.8",
+      "1.14.13.8",
+      "1.14.13.8",
+      "1.14.13.8"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N,N-dimethylaniline + NADPH + H+ + O2 = N,N-dimethylaniline N-oxide + NADP+ + H2O.",
+  "namespace": "molecular_function",
+  "label": "Defective FMO3 does not N-oxidise TMA"
+}

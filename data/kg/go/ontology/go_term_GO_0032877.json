@@ -1,0 +1,34 @@
+{
+  "id": "GO:0032877",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032877",
+  "relationships": {
+    "is_a": [
+      "GO:0032875",
+      "GO:0090068",
+      "GO:2000105"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of DNA endoreplication",
+      "positive regulation of DNA re-duplication",
+      "up regulation of DNA endoreduplication",
+      "up-regulation of DNA endoreduplication",
+      "upregulation of DNA endoreduplication"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of DNA endoreduplication",
+      "stimulation of DNA endoreduplication"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of DNA endoreduplication.",
+  "namespace": "biological_process",
+  "label": "positive regulation of DNA endoreduplication"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0016428",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016428",
+  "relationships": {
+    "is_a": [
+      "GO:0016427"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA (cytosine-5-)-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:tRNA (cytosine-5-)-methyltransferase activity",
+      "transfer RNA cytosine 5-methyltransferase activity",
+      "transfer ribonucleate cytosine 5-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "61468",
+      "61468"
+    ],
+    "Reactome": [
+      "R-HSA-6782388",
+      "R-HSA-6782419",
+      "R-HSA-6785409",
+      "R-HSA-6785438",
+      "R-HSA-8932765"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a cytidine in tRNA + S-adenosyl-L-methionine = a 5-methylcytidine in tRNA + S-adenosyl-L-homocysteine + H+. This modification can occur on seversal residues, including cytidine(34), cytidine(40), cytidine(48), and cytidine(49).",
+  "namespace": "molecular_function",
+  "label": "NSUN6 methylates cytidine-72 in tRNA(Cys) and tRNA(Thr)"
+}

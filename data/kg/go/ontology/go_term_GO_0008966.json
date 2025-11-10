@@ -1,0 +1,39 @@
+{
+  "id": "GO:0008966",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008966",
+  "relationships": {
+    "is_a": [
+      "GO:0016868"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-glucosamine 1,6-phosphomutase activity",
+      "alpha-D-glucosamine 1,6-phosphomutase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.2.10",
+      "5.4.2.10",
+      "5.4.2.10",
+      "5.4.2.10"
+    ],
+    "KEGG_REACTION": [
+      "R02060"
+    ],
+    "MetaCyc": [
+      "5.4.2.10-RXN"
+    ],
+    "RHEA": [
+      "23424",
+      "23424"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-D-glucosamine 1-phosphate = D-glucosamine 6-phosphate.",
+  "namespace": "molecular_function",
+  "label": "phosphoglucosamine mutase activity"
+}

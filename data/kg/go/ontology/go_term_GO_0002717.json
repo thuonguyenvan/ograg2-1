@@ -1,0 +1,36 @@
+{
+  "id": "GO:0002717",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002717",
+  "relationships": {
+    "is_a": [
+      "GO:0002708",
+      "GO:0002715",
+      "GO:0045089"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of NK cell mediated immunity",
+      "up regulation of natural killer cell mediated immunity",
+      "up-regulation of natural killer cell mediated immunity",
+      "upregulation of natural killer cell mediated immunity"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of natural killer cell mediated immunity",
+      "stimulation of natural killer cell mediated immunity"
+    ],
+    "related": [
+      "positive regulation of NK cell activity",
+      "positive regulation of natural killer cell activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of natural killer cell mediated immunity.",
+  "namespace": "biological_process",
+  "label": "positive regulation of natural killer cell mediated immunity"
+}

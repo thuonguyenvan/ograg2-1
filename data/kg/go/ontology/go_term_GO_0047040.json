@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047040",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047040",
+  "relationships": {
+    "is_a": [
+      "GO:0016646"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "pteridine reductase 1 activity",
+      "ptr1 activity"
+    ],
+    "related": [
+      "5,6,7,8-tetrahydrobiopterin:NADP+ oxidoreductase activity",
+      "PTR1",
+      "dihydrobiopterin reduction"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.33",
+      "1.5.1.33",
+      "1.5.1.33e",
+      "1.5.1.33e",
+      "1.5.1.33",
+      "1.5.1.33"
+    ],
+    "KEGG_REACTION": [
+      "R01812"
+    ],
+    "MetaCyc": [
+      "1.1.1.253-RXN"
+    ],
+    "RHEA": [
+      "19509",
+      "19509"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5,6,7,8-tetrahydrobiopterin + 2 NADP+ = biopterin + 2 H+ + 2 NADPH.",
+  "namespace": "molecular_function",
+  "label": "pteridine reductase activity"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050217",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050217",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-hydroxy-3-hexanone aldolase activity",
+      "4-hydroxy-3-hexanone propanal-lyase (propanal-forming)",
+      "4-hydroxy-3-hexanone propanal-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.35",
+      "4.1.2.35",
+      "4.1.2.35",
+      "4.1.2.35",
+      "4.1.2.35"
+    ],
+    "KEGG_REACTION": [
+      "R00038"
+    ],
+    "MetaCyc": [
+      "PROPIOIN-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "11100",
+      "11100"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-hydroxyhexan-3-one = 2 propanal.",
+  "namespace": "molecular_function",
+  "label": "propioin synthase activity"
+}

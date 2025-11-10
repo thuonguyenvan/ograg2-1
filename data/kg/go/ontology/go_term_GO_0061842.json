@@ -1,0 +1,29 @@
+{
+  "id": "GO:0061842",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061842",
+  "relationships": {
+    "is_a": [
+      "GO:0009987",
+      "GO:0051179"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MTOC localization"
+    ],
+    "broad": [],
+    "narrow": [
+      "MTOC polarity",
+      "microtubule organizing center polarity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "21281821"
+    ]
+  },
+  "definition": "Any process in which the microtubule organizing center is transported to, and/or maintained in, a specific location within the cell.",
+  "namespace": "biological_process",
+  "label": "microtubule organizing center localization"
+}

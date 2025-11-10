@@ -1,0 +1,31 @@
+{
+  "id": "GO:0044680",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044680",
+  "relationships": {
+    "is_a": [
+      "GO:0034708"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "methylthiol coenzyme M methyl transferase complex",
+      "methylthiol:CoM methyltransferase complex",
+      "methylthiol:coenzyme M methyl transferase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators"
+    ],
+    "PMID": [
+      "11073950",
+      "9371433"
+    ]
+  },
+  "definition": "A protein complex of two polypeptides which catalyzes the transfer of methyl group from methylthiol to coenzyme M during methanogenesis.",
+  "namespace": "cellular_component",
+  "label": "methylthiol:coenzyme M methyltransferase complex"
+}

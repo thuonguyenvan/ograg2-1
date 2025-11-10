@@ -1,0 +1,32 @@
+{
+  "id": "GO:0140740",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140740",
+  "relationships": {
+    "is_a": [
+      "GO:0016772",
+      "GO:0016841",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "69500",
+      "69500"
+    ],
+    "Reactome": [
+      "R-HSA-9956624"
+    ],
+    "PMID": [
+      "34671164"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-arginyl-[protein] + NAD+ = ADP-riboxanated L-argininyl-[protein] + H+ + NH4(+) + nicotinamide.",
+  "namespace": "molecular_function",
+  "label": "OspC3 ADP-riboxanates CASP4"
+}

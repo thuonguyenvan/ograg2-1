@@ -1,0 +1,47 @@
+{
+  "id": "GO:0005049",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005049",
+  "relationships": {
+    "is_a": [
+      "GO:0140142"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NES receptor"
+    ],
+    "broad": [],
+    "narrow": [
+      "importin-alpha export receptor activity"
+    ],
+    "related": [
+      "exportin activity",
+      "importin-alpha binding"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-178215"
+    ],
+    "GOC": [
+      "bf",
+      "mah",
+      "pg",
+      "vw"
+    ],
+    "PMID": [
+      "11743003",
+      "25802992",
+      "28713609"
+    ],
+    "Wikipedia": [
+      "Nuclear_transport"
+    ],
+    "GO": [
+      "0008262"
+    ]
+  },
+  "definition": "Combining with a nuclear export signal (NES) on a cargo to be transported, to mediate transport of a the cargo through the nuclear pore, from the nuclear lumen to the cytoplasm. The cargo can be either a RNA or a protein.",
+  "namespace": "molecular_function",
+  "label": "SMAD7:SMURF1 complex is exported to the cytosol"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0045430",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045430",
+  "relationships": {
+    "is_a": [
+      "GO:0016872"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chalcone-flavanone isomerase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "chalcone--flavonone isomerase activity",
+      "flavanone lyase (decyclizing)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.5.1.6",
+      "5.5.1.6",
+      "5.5.1.6",
+      "5.5.1.6"
+    ],
+    "MetaCyc": [
+      "CHALCONE-ISOMERASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a chalcone = a flavanone.",
+  "namespace": "molecular_function",
+  "label": "chalcone isomerase activity"
+}

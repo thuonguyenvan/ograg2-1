@@ -1,0 +1,31 @@
+{
+  "id": "GO:0070490",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070490",
+  "relationships": {
+    "is_a": [
+      "GO:0018205",
+      "GO:0032446"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Pup-protein conjugation",
+      "pupylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "18980670"
+    ],
+    "GOC": [
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "The process in which a Pup protein is conjugated to a target protein via an isopeptide bond between the carboxy-terminus of Pup and the epsilon-amino group of a lysine residue of the target protein.",
+  "namespace": "biological_process",
+  "label": "protein pupylation"
+}

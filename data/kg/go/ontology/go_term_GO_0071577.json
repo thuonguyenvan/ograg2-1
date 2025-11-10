@@ -1,0 +1,33 @@
+{
+  "id": "GO:0071577",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071577",
+  "relationships": {
+    "is_a": [
+      "GO:0006829",
+      "GO:0098655"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "zinc II ion transmembrane transport",
+      "zinc ion membrane transport",
+      "zinc transmembrane transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-435354"
+    ],
+    "GOC": [
+      "BHF",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A process in which a zinc II ion is transported from one side of a membrane to the other by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "Zinc transporters"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047424",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047424",
+  "relationships": {
+    "is_a": [
+      "GO:0016813",
+      "GO:0019239"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "methylenediurea aminohydrolase activity",
+      "methylenediurease activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.3.21",
+      "3.5.3.21",
+      "3.5.3.21",
+      "3.5.3.21"
+    ],
+    "MetaCyc": [
+      "3.5.3.21-RXN",
+      "3.5.3.21-RXN"
+    ],
+    "RHEA": [
+      "15929",
+      "15929"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 H2O + methylenediurea = CO2 + 2 NH3 + N-hydroxymethylurea.",
+  "namespace": "molecular_function",
+  "label": "methylenediurea deaminase activity"
+}

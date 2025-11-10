@@ -1,0 +1,35 @@
+{
+  "id": "GO:0000179",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000179",
+  "relationships": {
+    "is_a": [
+      "GO:0008170",
+      "GO:0016433"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "18S rRNA dimethylase activity",
+      "S-adenosylmethionine-6-N&apos;, N&apos;-adenosyl(rRNA) dimethyltransferase activity",
+      "dimethyladenosine transferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6790994",
+      "R-HSA-6793066"
+    ],
+    "ISBN": [
+      "1555811337"
+    ],
+    "PMID": [
+      "10690410"
+    ]
+  },
+  "definition": "Catalysis of the dimethylation of two adjacent adenine residues in a rRNA, using S-adenosyl-L-methionine as a methyl donor.",
+  "namespace": "molecular_function",
+  "label": "TFB1M dimethylates adenosine-936 and adenosine-937 of 12S rRNA yielding 6-dimethyladenosine-936 and 6-dimethyladenosine-937"
+}

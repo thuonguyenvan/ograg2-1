@@ -1,0 +1,36 @@
+{
+  "id": "GO:0036409",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036409",
+  "relationships": {
+    "is_a": [
+      "GO:0070775",
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "H3-K14 histone acetyltransferase complex",
+      "histone H3 Lys 14 (H3K14) acetyltransferase complex",
+      "histone H3K14 acetyltransferase complex",
+      "histone acetyltransferase complex (H3-K14 specific)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "21289066",
+      "21289066",
+      "21289066"
+    ]
+  },
+  "definition": "A protein complex that can catalyze the acetylation of lysine at position 14 in histone H3.",
+  "namespace": "cellular_component",
+  "label": "histone H3-K14 acetyltransferase complex"
+}

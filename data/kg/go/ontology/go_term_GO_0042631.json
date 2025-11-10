@@ -1,0 +1,27 @@
+{
+  "id": "GO:0042631",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042631",
+  "relationships": {
+    "is_a": [
+      "GO:0009414",
+      "GO:0033554",
+      "GO:0071462"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to drought"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of deprivation of water.",
+  "namespace": "biological_process",
+  "label": "cellular response to water deprivation"
+}

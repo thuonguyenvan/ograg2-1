@@ -1,0 +1,36 @@
+{
+  "id": "GO:0033729",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033729",
+  "relationships": {
+    "is_a": [
+      "GO:0016628"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ANR",
+      "AtANR",
+      "MtANR",
+      "flavan-3-ol:NAD(P)+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.3.1.77",
+      "1.3.1.77",
+      "1.3.1.77",
+      "1.3.1.77",
+      "1.3.1.77",
+      "1.3.1.77"
+    ],
+    "MetaCyc": [
+      "RXN-10693"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a flavan-3-ol + 2 NAD(P)+ = an anthocyanidin + 2 NAD(P)H + H+.",
+  "namespace": "molecular_function",
+  "label": "anthocyanidin reductase activity"
+}

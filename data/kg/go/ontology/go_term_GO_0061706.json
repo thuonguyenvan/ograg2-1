@@ -1,0 +1,32 @@
+{
+  "id": "GO:0061706",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061706",
+  "relationships": {
+    "is_a": [
+      "GO:0061615",
+      "GO:0061704"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-1042",
+      "PWY-1042"
+    ],
+    "GOC": [
+      "dph",
+      "glycolysis"
+    ],
+    "PMID": [
+      "15012287"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of sucrose into pyruvate through both glucose and fructose intermediates, with the concomitant production of a small amount of ATP and the reduction of NAD(P) to NAD(P)H. Glycolysis begins with the metabolism of a carbohydrate to generate products that can enter the pathway and ends with the production of pyruvate. Pyruvate may be converted to acetyl-coenzyme A, ethanol, lactate, or other small molecules.",
+  "namespace": "biological_process",
+  "label": "glycolytic process from sucrose through glucose and fructose"
+}

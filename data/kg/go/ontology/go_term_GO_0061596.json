@@ -1,0 +1,36 @@
+{
+  "id": "GO:0061596",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061596",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.373",
+      "1.1.1.373"
+    ],
+    "MetaCyc": [
+      "RXN-15299"
+    ],
+    "RHEA": [
+      "40511"
+    ],
+    "GOC": [
+      "dph"
+    ],
+    "PMID": [
+      "24463506"
+    ]
+  },
+  "definition": "Catalysis of the reaction 2,3-dihydroxypropane-1-sulfonate + NAD+ = 3-sulfolactaldehyde + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "3-sulfolactaldehyde reductase activity"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GO:0047734",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047734",
+  "relationships": {
+    "is_a": [
+      "GO:0016462"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CDP-glycerol pyrophosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CDP-glycerol phosphoglycerohydrolase activity",
+      "CDPglycerol diphosphatase activity",
+      "CDPglycerol phosphoglycerohydrolase activity",
+      "CDPglycerol pyrophosphatase activity",
+      "cytidine diphosphoglycerol pyrophosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.16",
+      "3.6.1.16",
+      "3.6.1.16",
+      "3.6.1.16",
+      "3.6.1.16",
+      "3.6.1.16",
+      "3.6.1.16"
+    ],
+    "KEGG_REACTION": [
+      "R00855"
+    ],
+    "MetaCyc": [
+      "CDP-GLYCEROL-PYROPHOSPHATASE-RXN"
+    ],
+    "RHEA": [
+      "21692",
+      "21692"
+    ]
+  },
+  "definition": "Catalysis of the reaction: CDP-glycerol + H2O = sn-glycerol 3-phosphate + CMP + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "CDP-glycerol diphosphatase activity"
+}

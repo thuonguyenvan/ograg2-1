@@ -1,0 +1,32 @@
+{
+  "id": "GO:0030198",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030198",
+  "relationships": {
+    "is_a": [
+      "GO:0043062",
+      "GO:0045229"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "extracellular matrix organisation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "extracellular matrix organization and biogenesis"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1474244"
+    ],
+    "GOC": [
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of an extracellular matrix.",
+  "namespace": "biological_process",
+  "label": "Extracellular matrix organization"
+}

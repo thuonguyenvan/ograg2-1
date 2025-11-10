@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102561",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102561",
+  "relationships": {
+    "is_a": [
+      "GO:0008081"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-ribose 2,5-bisphosphate 2-phosphohydrolase activity",
+      "cyclic phosphate dihydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.4.57",
+      "3.1.4.57"
+    ],
+    "MetaCyc": [
+      "RXN-14996"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-D-ribose 1,2-cyclic phosphate 5-phosphate + H2O = D-ribose 2,5-bisphosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "phosphoribosyl 1,2-cyclic phosphate 1,2-diphosphodiesterase activity"
+}

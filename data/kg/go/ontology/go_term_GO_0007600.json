@@ -1,0 +1,30 @@
+{
+  "id": "GO:0007600",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007600",
+  "relationships": {
+    "is_a": [
+      "GO:0050877"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9709957"
+    ],
+    "Wikipedia": [
+      "Perception"
+    ],
+    "GOC": [
+      "ai",
+      "dph"
+    ]
+  },
+  "definition": "The series of events required for an organism to receive a sensory stimulus, convert it to a molecular signal, and recognize and characterize the signal. This is a neurological process.",
+  "namespace": "biological_process",
+  "label": "Sensory Perception"
+}

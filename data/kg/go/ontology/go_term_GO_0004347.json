@@ -1,0 +1,62 @@
+{
+  "id": "GO:0004347",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004347",
+  "relationships": {
+    "is_a": [
+      "GO:0016861"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "hexose monophosphate isomerase activity",
+      "hexosephosphate isomerase activity",
+      "phosphohexoisomerase activity",
+      "phosphohexomutase activity",
+      "phosphohexose isomerase activity",
+      "phosphosaccharomutase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "D-glucose-6-phosphate aldose-ketose-isomerase activity",
+      "D-glucose-6-phosphate ketol-isomerase activity",
+      "glucose phosphate isomerase activity",
+      "hexose phosphate isomerase activity",
+      "oxoisomerase activity",
+      "phosphoglucoisomerase activity",
+      "phosphoglucose isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.1.9",
+      "5.3.1.9",
+      "5.3.1.9",
+      "5.3.1.9",
+      "5.3.1.9",
+      "5.3.1.9",
+      "5.3.1.9",
+      "5.3.1.9",
+      "5.3.1.9",
+      "5.3.1.9",
+      "5.3.1.9",
+      "5.3.1.9",
+      "5.3.1.9",
+      "5.3.1.9"
+    ],
+    "MetaCyc": [
+      "PGLUCISOM-RXN"
+    ],
+    "RHEA": [
+      "11816",
+      "11816"
+    ],
+    "Reactome": [
+      "R-HSA-70471",
+      "R-HSA-70475"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-D-glucose 6-phosphate = beta-D-fructose 6-phosphate.",
+  "namespace": "molecular_function",
+  "label": "GPI dimer isomerizes Fru(6)P to G6P"
+}

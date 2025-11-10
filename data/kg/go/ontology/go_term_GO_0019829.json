@@ -1,0 +1,37 @@
+{
+  "id": "GO:0019829",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019829",
+  "relationships": {
+    "is_a": [
+      "GO:0008324",
+      "GO:0022853",
+      "GO:0042626"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent cation transmembrane transporter activity",
+      "cation-transporting ATPase activity"
+    ],
+    "broad": [
+      "ATPase-coupled cation transmembrane transporter activity"
+    ],
+    "narrow": [
+      "cation ABC transporter",
+      "plasma membrane cation-transporting ATPase"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5251989",
+      "R-HSA-5692480"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + cation(out) = ADP + phosphate + cation(in).",
+  "namespace": "molecular_function",
+  "label": "ATP13A2 transports cations from cytosol to lysosomal lumen"
+}

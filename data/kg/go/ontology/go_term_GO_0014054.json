@@ -1,0 +1,34 @@
+{
+  "id": "GO:0014054",
+  "uri": "http://purl.obolibrary.org/obo/GO_0014054",
+  "relationships": {
+    "is_a": [
+      "GO:0014052",
+      "GO:0032892",
+      "GO:0051047",
+      "GO:0051957"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of GABA secretion",
+      "up regulation of gamma-aminobutyric acid secretion",
+      "up-regulation of gamma-aminobutyric acid secretion",
+      "upregulation of gamma-aminobutyric acid secretion"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of gamma-aminobutyric acid secretion",
+      "stimulation of gamma-aminobutyric acid secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ef"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the regulated release of gamma-aminobutyric acid.",
+  "namespace": "biological_process",
+  "label": "positive regulation of gamma-aminobutyric acid secretion"
+}

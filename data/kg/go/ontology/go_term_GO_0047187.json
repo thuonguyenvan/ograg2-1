@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047187",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047187",
+  "relationships": {
+    "is_a": [
+      "GO:0016418",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-acetyl phosphopantetheine:deacetyl citrate lyase S-acetyltransferase activity",
+      "S-acetylphosphopantetheine:deacetyl-citrate-oxaloacetate-lyase((pro-3S)-CH2COO-rightacetate)S-acetyltransferase activity",
+      "deacetyl-citrate-(pro-3S)-lyase S-acetyltransferase activity",
+      "deacetyl-citrate-(pro-3S)-lyase acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.49",
+      "2.3.1.49",
+      "2.3.1.49",
+      "2.3.1.49",
+      "2.3.1.49",
+      "2.3.1.49"
+    ],
+    "MetaCyc": [
+      "2.3.1.49-RXN",
+      "2.3.1.49-RXN"
+    ],
+    "RHEA": [
+      "20393"
+    ]
+  },
+  "definition": "Catalysis of the reaction: deacetyl-[citrate-oxaloacetate-lyase ((pro-3S)-CH(2)COO(-)-acetate)] + S-acetylphosphopantetheine = [citrate oxaloacetate-lyase ((pro-3S)-CH(2)COO(-)-acetate)] + pantetheine 4&apos;-phosphate.",
+  "namespace": "molecular_function",
+  "label": "deacetyl-[citrate-(pro-3S)-lyase] S-acetyltransferase activity"
+}

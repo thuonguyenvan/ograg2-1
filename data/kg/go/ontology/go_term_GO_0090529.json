@@ -1,0 +1,26 @@
+{
+  "id": "GO:0090529",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090529",
+  "relationships": {
+    "is_a": [
+      "GO:0022607",
+      "GO:0032506"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell septum assembly involved in cell cycle cytokinesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle"
+    ]
+  },
+  "definition": "The assembly and arrangement of a cellular component that is composed of peptidoglycan and often chitin in addition to other materials and usually forms perpendicular to the long axis of a cell or hypha. It grows centripetally from the cell wall to the center of the cell and often functions in the compartmentalization of a cell into two daughter cells.",
+  "namespace": "biological_process",
+  "label": "cell septum assembly"
+}

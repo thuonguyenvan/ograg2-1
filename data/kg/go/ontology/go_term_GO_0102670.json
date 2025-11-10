@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102670",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102670",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.212",
+      "2.1.1.212"
+    ],
+    "MetaCyc": [
+      "RXN-3624"
+    ],
+    "RHEA": [
+      "31371"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,4&apos;,7-trihydroxyisoflavanone + S-adenosyl-L-methionine = H+ + 2,7-dihydroxy-4&apos;-methoxyisoflavanone + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "2,7,4&apos;-trihydroxyisoflavanone-4&apos;-O-methyltransferase activity"
+}

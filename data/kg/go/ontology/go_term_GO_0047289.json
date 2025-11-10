@@ -1,0 +1,33 @@
+{
+  "id": "GO:0047289",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047289",
+  "relationships": {
+    "is_a": [
+      "GO:0008373"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.3.5",
+      "2.4.3.5"
+    ],
+    "KEGG_REACTION": [
+      "R03468"
+    ],
+    "MetaCyc": [
+      "2.4.99.5-RXN"
+    ],
+    "RHEA": [
+      "11664"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1,2-diacyl-3-beta-D-galactosyl-sn-glycerol + CMP-N-acetyl-beta-neuraminate = 1,2-diacyl-3-[3-(alpha-D-N-acetylneuraminyl)-beta-D-galactosyl]-sn-glycerol + CMP + H+.",
+  "namespace": "molecular_function",
+  "label": "galactosyldiacylglycerol alpha-2,3-sialyltransferase activity"
+}

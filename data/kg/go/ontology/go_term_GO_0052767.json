@@ -1,0 +1,33 @@
+{
+  "id": "GO:0052767",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052767",
+  "relationships": {
+    "is_a": [
+      "GO:0015924"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1,6-alpha-mannosyl-oligosaccharide alpha-D-mannohydrolase activity",
+      "alpha-1,6-mannosyl-oligosaccharide alpha-D-mannohydrolase activity"
+    ],
+    "broad": [
+      "1,6-alpha-mannosidase activity",
+      "alpha-1,6-mannosidase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators"
+    ],
+    "PMID": [
+      "1849817",
+      "2338081"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of the alpha-(1-&gt;6) bonds of alpha-D-mannose residues in mannosyl-oligosaccharide.",
+  "namespace": "molecular_function",
+  "label": "mannosyl-oligosaccharide 1,6-alpha-mannosidase activity"
+}

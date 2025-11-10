@@ -1,0 +1,30 @@
+{
+  "id": "GO:0070908",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070908",
+  "relationships": {
+    "is_a": [
+      "GO:0005302",
+      "GO:0008504",
+      "GO:0015297"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tyrosine-tyramine antiporter activity",
+      "tyrosine/tyramine antiporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dh",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: tyrosine(out) + tyramine(in) = tyrosine(in) + tyramine(out).",
+  "namespace": "molecular_function",
+  "label": "tyrosine:tyramine antiporter activity"
+}

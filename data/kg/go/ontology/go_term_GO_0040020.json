@@ -1,0 +1,29 @@
+{
+  "id": "GO:0040020",
+  "uri": "http://purl.obolibrary.org/obo/GO_0040020",
+  "relationships": {
+    "is_a": [
+      "GO:0010564",
+      "GO:0051445",
+      "GO:0051783"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "regulation of meiosis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ems",
+      "ma",
+      "vw"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of meiotic nuclear division, the process in which the nucleus of a diploid cell divides twice forming four haploid cells, one or more of which usually function as gametes.",
+  "namespace": "biological_process",
+  "label": "regulation of meiotic nuclear division"
+}

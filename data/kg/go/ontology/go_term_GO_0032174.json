@@ -1,0 +1,28 @@
+{
+  "id": "GO:0032174",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032174",
+  "relationships": {
+    "is_a": [
+      "GO:0000399",
+      "GO:0032161",
+      "GO:0032173"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "16009555"
+    ]
+  },
+  "definition": "A tubular structure with flared ends, shaped like an hourglass and composed of highly ordered arrays of septin filaments, that forms at the bud neck of a dividing cell. In S. cerevisiae, this structure is located at the bud neck throughout most of the cell cycle and the septins are fixed within the structure, not exchanging with soluble septins. This septin structure acts as a scaffold for other proteins that function at the bud neck.",
+  "namespace": "cellular_component",
+  "label": "cellular bud neck septin collar"
+}

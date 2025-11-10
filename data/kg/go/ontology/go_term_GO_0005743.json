@@ -1,0 +1,34 @@
+{
+  "id": "GO:0005743",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005743",
+  "relationships": {
+    "is_a": [
+      "GO:0019866",
+      "GO:0031966"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "inner mitochondrial membrane",
+      "inner mitochondrion membrane",
+      "mitochondrion inner membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1371347282"
+    ],
+    "Wikipedia": [
+      "Inner_mitochondrial_membrane"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The inner, i.e. lumen-facing, lipid bilayer of the mitochondrial envelope. It is highly folded to form cristae.",
+  "namespace": "cellular_component",
+  "label": "mitochondrial inner membrane"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GO:0071021",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071021",
+  "relationships": {
+    "is_a": [
+      "GO:0005684",
+      "GO:0071020"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "major post-spliceosomal complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "GT-AG post-spliceosomal complex",
+      "mammalian U2-type spliceosomal complex C2",
+      "yeast U2-type spliceosomal complex A2-3"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mah",
+      "krc",
+      "mah",
+      "krc",
+      "mah",
+      "krc",
+      "mah",
+      "krc",
+      "mah"
+    ],
+    "ISBN": [
+      "0879695897",
+      "0879697393",
+      "0879695897",
+      "0879697393",
+      "0879695897",
+      "0879697393"
+    ]
+  },
+  "definition": "A spliceosomal complex that is formed following the second splicing event and contains the spliced product, the excised intron, and three snRNPs, U5, U2 and U6.",
+  "namespace": "cellular_component",
+  "label": "U2-type post-spliceosomal complex"
+}

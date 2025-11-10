@@ -1,0 +1,29 @@
+{
+  "id": "GO:0102115",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102115",
+  "relationships": {
+    "is_a": [
+      "GO:0016880"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-11338"
+    ],
+    "EC": [
+      "6.3.1.-"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ditrans,octacis-undecaprenyldiphospho-N-acetyl-(N-acetylglucosaminyl)muramoyl-L-alanyl-gamma-D-isoglutaminyl-N-(beta-D-asparatyl)-L-lysyl-D-alanyl-D-alanine + ammonium + ATP = H+ + ditrans,octacis-undecaprenyldiphospho-N-acetyl-(N-acetylglucosaminyl)muramoyl-L-alanyl-gamma-D-isoglutaminyl-N-(beta-D-asparaginyl)-L-lysyl-D-alanyl-D-alanine + AMP + diphosphoric acid.",
+  "namespace": "molecular_function",
+  "label": "peptidoglycan asparagine synthase activity"
+}

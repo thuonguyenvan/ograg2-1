@@ -1,0 +1,32 @@
+{
+  "id": "GO:1902041",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902041",
+  "relationships": {
+    "is_a": [
+      "GO:2001236"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "regulation of death receptor-mediated apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-3371378"
+    ],
+    "GOC": [
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "17245429"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of extrinsic apoptotic signaling pathway via death domain receptors.",
+  "namespace": "biological_process",
+  "label": "Regulation by c-FLIP"
+}

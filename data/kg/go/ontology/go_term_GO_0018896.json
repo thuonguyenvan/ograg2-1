@@ -1,0 +1,31 @@
+{
+  "id": "GO:0018896",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018896",
+  "relationships": {
+    "is_a": [
+      "GO:0042178",
+      "GO:0044273"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dibenzothiophene breakdown",
+      "dibenzothiophene catabolism",
+      "dibenzothiophene degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "UM-BBD_pathwayID": [
+      "dbt2"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of dibenzothiophene, a substance composed of two benzene rings linked by one sulfide bond and one carbon-carbon bond.",
+  "namespace": "biological_process",
+  "label": "dibenzothiophene catabolic process"
+}

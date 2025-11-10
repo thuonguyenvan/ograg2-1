@@ -1,0 +1,29 @@
+{
+  "id": "GO:0106407",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106407",
+  "relationships": {
+    "is_a": [
+      "GO:0090599"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "glucosidase II"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.207",
+      "3.2.1.207"
+    ],
+    "PMID": [
+      "30389790"
+    ]
+  },
+  "definition": "Catalysis of the reaction: Glc(2)Man(9)GlcNAc(2)-[protein] + H2O = GlcMan(9)GlcNAc(2)-[protein] + beta-D-glucopyranose.",
+  "namespace": "molecular_function",
+  "label": "Glc2Man9GlcNAc2 oligosaccharide glucosidase activity"
+}

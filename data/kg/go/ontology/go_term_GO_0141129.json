@@ -1,0 +1,26 @@
+{
+  "id": "GO:0141129",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141129",
+  "relationships": {
+    "is_a": [
+      "GO:0052029"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "symbiont-mediated perturbation of host signal transduction pathway via antagonism of host cell surface receptor"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "10221874",
+      "22714643"
+    ]
+  },
+  "definition": "A process by which a symbiont alters or subverts a host cell surface receptor-mediated signal transduction pathway by binding to and inhibiting the receptor of the pathway. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host signal transduction pathway via antagonism of host cell surface receptor"
+}

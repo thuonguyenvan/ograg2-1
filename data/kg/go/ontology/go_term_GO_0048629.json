@@ -1,0 +1,41 @@
+{
+  "id": "GO:0048629",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048629",
+  "relationships": {
+    "is_a": [
+      "GO:0003002",
+      "GO:0045168"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "trichome pattern biosynthesis",
+      "trichome pattern formation",
+      "trichome spacing"
+    ],
+    "broad": [
+      "trichome distribution"
+    ],
+    "narrow": [],
+    "related": [
+      "trichome pattern specification"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jid",
+      "mtg_sensu",
+      "sm",
+      "tb"
+    ],
+    "ISBN": [
+      "0865427429"
+    ],
+    "PMID": [
+      "10368181"
+    ]
+  },
+  "definition": "The regionalization process of establishing the non-random spatial arrangement of trichomes on the surface and margin of a leaf. Process involves signaling between adjacent epidermal cells that results in differentiation of some epidermal cells into trichomes.",
+  "namespace": "biological_process",
+  "label": "trichome patterning"
+}

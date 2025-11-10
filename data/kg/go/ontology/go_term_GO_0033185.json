@@ -1,0 +1,26 @@
+{
+  "id": "GO:0033185",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033185",
+  "relationships": {
+    "is_a": [
+      "GO:0031501"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DPM synthase complex",
+      "dolichyl-phosphate beta-D-mannosyltransferase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "10835346"
+    ]
+  },
+  "definition": "A protein complex that possesses dolichyl-phosphate beta-D-mannosyltransferase activity; contains a catalytic subunit, a regulatory subunit, and a third subunit that stabilizes the complex. In human and several other metazoa, the subunits are named DPM1, DPM2 and DPM3, respectively.",
+  "namespace": "cellular_component",
+  "label": "dolichol-phosphate-mannose synthase complex"
+}

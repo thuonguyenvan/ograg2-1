@@ -1,0 +1,40 @@
+{
+  "id": "GO:0006956",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006956",
+  "relationships": {
+    "is_a": [
+      "GO:0002252",
+      "GO:0002253",
+      "GO:0006959"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "complement cascade",
+      "complement response"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "complement activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-166658"
+    ],
+    "GOC": [
+      "add",
+      "add"
+    ],
+    "GO_REF": [
+      "0000022"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "Any process involved in the activation of any of the steps of the complement cascade, which allows for the direct killing of microbes, the disposal of immune complexes, and the regulation of other immune processes; the initial steps of complement activation involve one of three pathways, the classical pathway, the alternative pathway, and the lectin pathway, all of which lead to the terminal complement pathway.",
+  "namespace": "biological_process",
+  "label": "Complement cascade"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140981",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140981",
+  "relationships": {
+    "is_a": [
+      "GO:0120250"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-19719"
+    ],
+    "RHEA": [
+      "75279",
+      "75279"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an omega-methyl-medium-chain fatty acid + O2 + reduced [NADPH--hemoprotein reductase] = an omega-hydroxy-medium-chain fatty acid + H+ + H2O + oxidized [NADPH--hemoprotein reductase]. A medium-chain fatty acid has an aliphatic tail containing 6 to 12 carbons.",
+  "namespace": "molecular_function",
+  "label": "medium-chain fatty acid omega-hydroxylase activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0009177",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009177",
+  "relationships": {
+    "is_a": [
+      "GO:0009130",
+      "GO:0009157",
+      "GO:0009176"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pyrimidine deoxyribonucleoside monophosphate anabolism",
+      "pyrimidine deoxyribonucleoside monophosphate biosynthesis",
+      "pyrimidine deoxyribonucleoside monophosphate formation",
+      "pyrimidine deoxyribonucleoside monophosphate synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of pyrimidine deoxynucleoside monophosphate, a compound consisting of a pyrimidine base linked to a deoxyribose sugar esterified with phosphate on the sugar.",
+  "namespace": "biological_process",
+  "label": "pyrimidine deoxyribonucleoside monophosphate biosynthetic process"
+}

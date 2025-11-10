@@ -1,0 +1,29 @@
+{
+  "id": "GO:0106226",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106226",
+  "relationships": {
+    "is_a": [
+      "GO:0016410"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "24180"
+    ],
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "29775581"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-hydroxyisobutyryl-CoA + lysine in peptide = CoA + N-2-hydroxyisobutyryl-lysine-peptide.",
+  "namespace": "molecular_function",
+  "label": "peptide 2-hydroxyisobutyryltransferase activity"
+}

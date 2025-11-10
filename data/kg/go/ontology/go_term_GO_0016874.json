@@ -1,0 +1,29 @@
+{
+  "id": "GO:0016874",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016874",
+  "relationships": {
+    "is_a": [
+      "GO:0003824"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "synthetase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "6.-.-.-",
+      "6.-.-.-"
+    ],
+    "GOC": [
+      "jh2"
+    ]
+  },
+  "definition": "Catalysis of the joining of two molecules, or two groups within a single molecule, using the energy from the hydrolysis of ATP, a similar triphosphate, or a pH gradient.",
+  "namespace": "molecular_function",
+  "label": "ligase activity"
+}

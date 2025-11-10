@@ -1,0 +1,36 @@
+{
+  "id": "GO:0042360",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042360",
+  "relationships": {
+    "is_a": [
+      "GO:0008152"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tocopherol metabolic process",
+      "tocopherol metabolism",
+      "vitamin E metabolism"
+    ],
+    "broad": [],
+    "narrow": [
+      "alpha-tocopherol metabolic process",
+      "alpha-tocopherol metabolism"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8877627"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving vitamin E, tocopherol, which includes a series of eight structurally similar compounds. Alpha-tocopherol is the most active form in humans and is a powerful biological antioxidant.",
+  "namespace": "biological_process",
+  "label": "Vitamin E"
+}

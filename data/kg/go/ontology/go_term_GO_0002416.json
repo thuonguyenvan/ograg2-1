@@ -1,0 +1,30 @@
+{
+  "id": "GO:0002416",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002416",
+  "relationships": {
+    "is_a": [
+      "GO:0002414"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IgG antibody transcytosis in epithelial cells mediated by FcRn immunoglobulin receptor",
+      "IgG immunoglobulin transcytosis in epithelial cells mediated by neonatal immunoglobulin receptor"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149",
+      "081533642X"
+    ]
+  },
+  "definition": "The process of transporting IgG immunoglobulin, via transcytosis using the FcRn (also known as the neonatal Fc receptor; gene name FCGRT), from apical surface of an epithelial cell to the basolateral surface or vice versa depending on the location. This process is used for uptake of IgG from the milk in the gut in rodents, for transplacental transport of IgG from mother to embryo in humans, and for maintenance of a steady-state distribution of IgG across epithelial boundaries in general in adult mammals.",
+  "namespace": "biological_process",
+  "label": "IgG immunoglobulin transcytosis in epithelial cells mediated by FcRn immunoglobulin receptor"
+}

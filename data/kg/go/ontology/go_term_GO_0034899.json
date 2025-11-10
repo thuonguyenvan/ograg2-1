@@ -1,0 +1,34 @@
+{
+  "id": "GO:0034899",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034899",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.148",
+      "1.14.13.148"
+    ],
+    "KEGG_REACTION": [
+      "R05623"
+    ],
+    "RHEA": [
+      "31979"
+    ],
+    "UM-BBD_reactionID": [
+      "r1407",
+      "r1407"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N,N,N-trimethylamine + NADPH + H+ + O2 = N,N,N-trimethylamine N-oxide + NADP+ + H2O.",
+  "namespace": "molecular_function",
+  "label": "trimethylamine monooxygenase activity"
+}

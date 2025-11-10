@@ -1,0 +1,31 @@
+{
+  "id": "GO:0015153",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015153",
+  "relationships": {
+    "is_a": [
+      "GO:0015149"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "ATP-dependent rhamnose transmembrane transporter activity",
+      "ATPase-coupled rhamnose transmembrane transporter activity",
+      "rhamnose-transporting ATPase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of rhamnose from one side of a membrane to the other. Rhamnose occurs commonly as a compound of plant glycosides, in polysaccharides of gums and mucilages, and in bacterial polysaccharides. It is also a component of some plant cell wall polysaccharides and frequently acts as the sugar components of flavonoids.",
+  "namespace": "molecular_function",
+  "label": "rhamnose transmembrane transporter activity"
+}

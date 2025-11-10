@@ -1,0 +1,25 @@
+{
+  "id": "GO:0035544",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035544",
+  "relationships": {
+    "is_a": [
+      "GO:0031333",
+      "GO:0031339",
+      "GO:0035542"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rb"
+    ]
+  },
+  "definition": "Any process that decreases the frequency, rate or extent of assembly of the SNARE complex. The SNARE complex is a protein complex involved in membrane fusion; a stable ternary complex consisting of a four-helix bundle, usually formed from one R-SNARE and three Q-SNAREs with an ionic layer sandwiched between hydrophobic layers.",
+  "namespace": "biological_process",
+  "label": "negative regulation of SNARE complex assembly"
+}

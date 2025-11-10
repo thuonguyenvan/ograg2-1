@@ -1,0 +1,33 @@
+{
+  "id": "GO:0106244",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106244",
+  "relationships": {
+    "is_a": [
+      "GO:0004497"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.169"
+    ],
+    "RHEA": [
+      "57972",
+      "57972"
+    ],
+    "GOC": [
+      "eab"
+    ],
+    "PMID": [
+      "29758164"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 8beta-hydroxygermacra-1(10),4,11(13)-trien-12-oate + O2 + reduced [NADPH--hemoprotein reductase] = eupatolide + 2 H2O + oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "eupatolide synthase activity"
+}

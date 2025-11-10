@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047821",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047821",
+  "relationships": {
+    "is_a": [
+      "GO:0003884"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-glutamate:oxygen oxidoreductase (deaminating)",
+      "D-glutamic acid oxidase activity",
+      "D-glutamic oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.3.7",
+      "1.4.3.7",
+      "1.4.3.7",
+      "1.4.3.7"
+    ],
+    "KEGG_REACTION": [
+      "R00279"
+    ],
+    "RHEA": [
+      "10028",
+      "10028"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-glutamate + H2O + O2 = 2-oxoglutarate + H2O2 + NH4+.",
+  "namespace": "molecular_function",
+  "label": "D-glutamate oxidase activity"
+}

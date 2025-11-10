@@ -1,0 +1,35 @@
+{
+  "id": "GO:0045800",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045800",
+  "relationships": {
+    "is_a": [
+      "GO:0007564",
+      "GO:0051093",
+      "GO:0051241"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of cuticle tanning",
+      "down-regulation of cuticle tanning",
+      "downregulation of cuticle tanning",
+      "negative regulation of cuticle tanning"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of cuticle tanning",
+      "negative regulation of cuticle hardening"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "jid",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of chitin-based cuticular tanning.",
+  "namespace": "biological_process",
+  "label": "negative regulation of chitin-based cuticle tanning"
+}

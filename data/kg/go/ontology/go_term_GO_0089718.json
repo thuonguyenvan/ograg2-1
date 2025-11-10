@@ -1,0 +1,34 @@
+{
+  "id": "GO:0089718",
+  "uri": "http://purl.obolibrary.org/obo/GO_0089718",
+  "relationships": {
+    "is_a": [
+      "GO:0003333",
+      "GO:0098739"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "amino acid import into cell"
+    ],
+    "broad": [
+      "L-amino acid import",
+      "amino acid transmembrane import"
+    ],
+    "narrow": [
+      "L-amino acid uptake"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "8195186"
+    ]
+  },
+  "definition": "The directed movement of an amino acid from outside of a cell, across the plasma membrane and into the cytosol.",
+  "namespace": "biological_process",
+  "label": "amino acid import across plasma membrane"
+}

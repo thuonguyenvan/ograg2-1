@@ -1,0 +1,40 @@
+{
+  "id": "GO:0002755",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002755",
+  "relationships": {
+    "is_a": [
+      "GO:0002224"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MyD88-dependent TLR signaling pathway",
+      "MyD88-dependent toll-like receptor signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-166058",
+      "R-HSA-975871"
+    ],
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "12467241",
+      "12524386",
+      "12855817",
+      "15585605",
+      "15728447"
+    ]
+  },
+  "definition": "A toll-like receptor signaling pathway in which the MyD88 adaptor molecule mediates transduction of the signal. Toll-like receptors directly bind pattern motifs from a variety of microbial sources to initiate an innate immune response.",
+  "namespace": "biological_process",
+  "label": "MyD88 cascade initiated on plasma membrane"
+}

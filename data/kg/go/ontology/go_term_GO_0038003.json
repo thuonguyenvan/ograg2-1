@@ -1,0 +1,34 @@
+{
+  "id": "GO:0038003",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038003",
+  "relationships": {
+    "is_a": [
+      "GO:0007186"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "opioid receptor signalling pathway"
+    ],
+    "broad": [
+      "opioid receptor signaling pathway"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Opioid_receptor"
+    ],
+    "GOC": [
+      "bf",
+      "mah"
+    ],
+    "PMID": [
+      "20494127"
+    ]
+  },
+  "definition": "A G protein-coupled receptor signaling pathway initiated by an opioid binding to its receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process.",
+  "namespace": "biological_process",
+  "label": "G protein-coupled opioid receptor signaling pathway"
+}

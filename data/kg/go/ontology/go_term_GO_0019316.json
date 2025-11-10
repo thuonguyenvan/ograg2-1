@@ -1,0 +1,32 @@
+{
+  "id": "GO:0019316",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019316",
+  "relationships": {
+    "is_a": [
+      "GO:0019320"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-allose breakdown",
+      "D-allose catabolism",
+      "D-allose degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY0-44"
+    ],
+    "GOC": [
+      "ai",
+      "jsg",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of D-allose, the D-enantiomer of allo-hexose, an aldohexose similar to glucose.",
+  "namespace": "biological_process",
+  "label": "D-allose catabolic process"
+}

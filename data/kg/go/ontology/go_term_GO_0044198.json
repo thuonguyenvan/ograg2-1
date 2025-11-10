@@ -1,0 +1,27 @@
+{
+  "id": "GO:0044198",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044198",
+  "relationships": {
+    "is_a": [
+      "GO:0019904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TRAF-type zinc finger domain binding",
+      "zinc finger TRAF-type domain binding",
+      "zinc-finger-TRAF domain binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "InterPro": [
+      "IPR001293"
+    ]
+  },
+  "definition": "Binding to a TRAF-type zinc finger domain of a protein.",
+  "namespace": "molecular_function",
+  "label": "zf-TRAF domain binding"
+}

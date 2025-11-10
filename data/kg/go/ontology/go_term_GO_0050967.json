@@ -1,0 +1,37 @@
+{
+  "id": "GO:0050967",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050967",
+  "relationships": {
+    "is_a": [
+      "GO:0050963",
+      "GO:0062149"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "perception of pain, detection of electrical stimulus",
+      "perception of pain, sensory detection of electrical stimulus",
+      "perception of pain, sensory transduction of electrical stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "detection of electrical stimulus during sensory perception of pain",
+      "sensory detection of electrical stimulus during perception of pain",
+      "sensory transduction of electrical stimulus during perception of pain"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dos",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The series of events that contribute to the perception of pain in which an electrical stimulus is received and converted into a molecular signal.",
+  "namespace": "biological_process",
+  "label": "detection of electrical stimulus involved in sensory perception of pain"
+}

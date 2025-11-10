@@ -1,0 +1,43 @@
+{
+  "id": "GO:0008685",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008685",
+  "relationships": {
+    "is_a": [
+      "GO:0016849"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MECP synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-phospho-4-(cytidine 5&apos;-diphospho)-2-C-methyl-D-erythritol CMP-lyase (cyclizing)",
+      "2-phospho-4-(cytidine 5&apos;-diphospho)-2-C-methyl-D-erythritol CMP-lyase (cyclizing; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate-forming)",
+      "MECDP-synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.6.1.12",
+      "4.6.1.12",
+      "4.6.1.12",
+      "4.6.1.12",
+      "4.6.1.12"
+    ],
+    "KEGG_REACTION": [
+      "R05637"
+    ],
+    "MetaCyc": [
+      "RXN0-302"
+    ],
+    "RHEA": [
+      "23864",
+      "23864"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-CDP-2-C-methyl-D-erythritol 2-phosphate = 2-C-methyl-D-erythritol 2,4-cyclic diphosphate + CMP.",
+  "namespace": "molecular_function",
+  "label": "2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase activity"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0062200",
+  "uri": "http://purl.obolibrary.org/obo/GO_0062200",
+  "relationships": {
+    "is_a": [
+      "GO:0035556"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RAM/MOR signaling pathway",
+      "morphogenesis Orb6 network"
+    ],
+    "broad": [],
+    "narrow": [
+      "MOR signaling pathway",
+      "RAM signaling pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "15731009",
+      "16096637",
+      "20805322",
+      "20826805",
+      "21246752",
+      "22629372",
+      "23212898"
+    ]
+  },
+  "definition": "An intracellular signaling cascade that starts with the activation of S. cerevisiae Kic1p, which activate Mob2p and Cbk1p. Cbk1p phosphorylates Ace2p, which results in its nuclear translocation, where it regulates transcription of genes involved in polarity and morphogenesis.",
+  "namespace": "biological_process",
+  "label": "RAM/MOR signaling"
+}

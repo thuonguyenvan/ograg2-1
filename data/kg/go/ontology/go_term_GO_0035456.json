@@ -1,0 +1,39 @@
+{
+  "id": "GO:0035456",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035456",
+  "relationships": {
+    "is_a": [
+      "GO:0034097"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to fiblaferon",
+      "response to fibroblast interferon",
+      "response to interferon beta"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "response to beta-1 interferon"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "sl",
+      "sl",
+      "sl",
+      "hp",
+      "sl"
+    ],
+    "PMID": [
+      "9561374"
+    ],
+    "PR": [
+      "000008924"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an interferon-beta stimulus. Interferon-beta is a type I interferon.",
+  "namespace": "biological_process",
+  "label": "response to interferon-beta"
+}

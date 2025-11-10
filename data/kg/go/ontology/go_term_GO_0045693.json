@@ -1,0 +1,34 @@
+{
+  "id": "GO:0045693",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045693",
+  "relationships": {
+    "is_a": [
+      "GO:0045597",
+      "GO:0045691",
+      "GO:0051240"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of female gametophyte central cell differentiation",
+      "up regulation of female gametophyte central cell differentiation",
+      "up-regulation of female gametophyte central cell differentiation",
+      "upregulation of female gametophyte central cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of female gametophyte central cell differentiation",
+      "stimulation of female gametophyte central cell differentiation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mtg_plant"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of embryo sac central cell differentiation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of embryo sac central cell differentiation"
+}

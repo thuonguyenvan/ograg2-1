@@ -1,0 +1,40 @@
+{
+  "id": "GO:1902632",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902632",
+  "relationships": {
+    "is_a": [
+      "GO:0048518",
+      "GO:1902630"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of membrane hyperpolarization",
+      "up-regulation of membrane hyperpolarization",
+      "upregulation of membrane hyperpolarization"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of membrane hyperpolarization"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23223304"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of membrane hyperpolarization.",
+  "namespace": "biological_process",
+  "label": "positive regulation of membrane hyperpolarization"
+}

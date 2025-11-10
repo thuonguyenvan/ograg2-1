@@ -1,0 +1,46 @@
+{
+  "id": "GO:0005260",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005260",
+  "relationships": {
+    "is_a": [
+      "GO:0005254",
+      "GO:0099095",
+      "GO:0099142",
+      "GO:0120544"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CFTR"
+    ],
+    "broad": [],
+    "narrow": [
+      "cystic fibrosis transmembrane conductance regulator"
+    ],
+    "related": [
+      "channel-conductance-controlling ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.6.1.6",
+      "5.6.1.6"
+    ],
+    "MetaCyc": [
+      "3.6.3.49-RXN"
+    ],
+    "TC": [
+      "3.A.1.202.1"
+    ],
+    "Wikipedia": [
+      "Cystic_fibrosis_transmembrane_conductance_regulator"
+    ],
+    "PMID": [
+      "24727426",
+      "9922375"
+    ]
+  },
+  "definition": "Enables passage of a chloride ion through a transmembrane channel that opens when ATP is bound by the channel complex or one of its constituent parts on the intracellular side of the plasma membrane.",
+  "namespace": "molecular_function",
+  "label": "intracellularly ATP-gated chloride channel activity"
+}

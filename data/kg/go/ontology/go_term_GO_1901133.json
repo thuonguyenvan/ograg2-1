@@ -1,0 +1,37 @@
+{
+  "id": "GO:1901133",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901133",
+  "relationships": {
+    "is_a": [
+      "GO:0030648",
+      "GO:0046173"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "kanamycin anabolism",
+      "kanamycin biosynthesis",
+      "kanamycin formation",
+      "kanamycin synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "UniPathway": [
+      "UPA00965"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of kanamycin.",
+  "namespace": "biological_process",
+  "label": "kanamycin biosynthetic process"
+}

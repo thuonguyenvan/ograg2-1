@@ -1,0 +1,29 @@
+{
+  "id": "GO:0000377",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000377",
+  "relationships": {
+    "is_a": [
+      "GO:0000375"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "lariat RNA biosynthesis",
+      "lariat RNA formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "11377794"
+    ]
+  },
+  "definition": "Splicing of RNA via a series of two transesterification reactions with a bulged adenosine residue from the intron branch point as the initiating nucleophile. When the initial RNA for the splicing reaction is a single molecule (cis splicing), the excised intron is released in a lariat structure.",
+  "namespace": "biological_process",
+  "label": "RNA splicing, via transesterification reactions with bulged adenosine as nucleophile"
+}

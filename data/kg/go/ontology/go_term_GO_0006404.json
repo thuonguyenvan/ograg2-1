@@ -1,0 +1,28 @@
+{
+  "id": "GO:0006404",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006404",
+  "relationships": {
+    "is_a": [
+      "GO:0050658",
+      "GO:0051170"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA import into cell nucleus",
+      "RNA transport from cytoplasm to nucleus",
+      "RNA-nucleus import"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ma"
+    ]
+  },
+  "definition": "The import of RNA from the cytoplasm to the nucleus.",
+  "namespace": "biological_process",
+  "label": "RNA import into nucleus"
+}

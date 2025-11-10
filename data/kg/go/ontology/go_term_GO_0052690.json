@@ -1,0 +1,42 @@
+{
+  "id": "GO:0052690",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052690",
+  "relationships": {
+    "is_a": [
+      "GO:0046992"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "trichlorohydroquinone reductive dehalogenase activity"
+    ],
+    "broad": [
+      "xenobiotic reductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "pentaerythritol tetranitrate reductase activity",
+      "tetrachlorohydroquinone reductive dehalogenase activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "56832",
+      "56832"
+    ],
+    "UM-BBD_reactionID": [
+      "r0315"
+    ],
+    "PMID": [
+      "1459949"
+    ],
+    "UM-BBD_enzymeID": [
+      "e0028",
+      "e0028",
+      "e0251"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,3,6-trichlorohydroquinone + 2 glutathione = 2,6-dichlorohydroquinone + glutathione disulfide + HCl.",
+  "namespace": "molecular_function",
+  "label": "trichloro-p-hydroquinone reductive dehalogenase activity"
+}

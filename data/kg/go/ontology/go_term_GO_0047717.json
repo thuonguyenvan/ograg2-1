@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047717",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047717",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "imidazoleacetic hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-imidazoleacetate,NADH:oxygen oxidoreductase (5-hydroxylating)",
+      "imidazoleacetate hydroxylase activity",
+      "imidazoleacetic monooxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.5",
+      "1.14.13.5",
+      "1.14.13.5",
+      "1.14.13.5",
+      "1.14.13.5"
+    ],
+    "KEGG_REACTION": [
+      "R04066"
+    ],
+    "MetaCyc": [
+      "IMIDAZOLEACETATE-4-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "19425",
+      "19425"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H+ + imidazol-4-ylacetate + NADH + O2 = 5-hydroxyimidazole-4-acetate + H2O + NAD+.",
+  "namespace": "molecular_function",
+  "label": "imidazoleacetate 4-monooxygenase activity"
+}

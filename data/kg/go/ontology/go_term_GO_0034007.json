@@ -1,0 +1,41 @@
+{
+  "id": "GO:0034007",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034007",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3S-linalool synthase activity",
+      "LIS",
+      "geranyl-diphosphate diphosphate-lyase [(3S)-linalool-forming] activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.25",
+      "4.2.3.25",
+      "4.2.3.25",
+      "4.2.3.25",
+      "4.2.3.25"
+    ],
+    "KEGG_REACTION": [
+      "R07631"
+    ],
+    "MetaCyc": [
+      "4.2.3.25-RXN"
+    ],
+    "RHEA": [
+      "24116",
+      "24116"
+    ]
+  },
+  "definition": "Catalysis of the reaction: geranyl diphosphate + H2O = (S)-linalool + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "S-linalool synthase activity"
+}

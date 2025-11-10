@@ -1,0 +1,34 @@
+{
+  "id": "GO:0008385",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008385",
+  "relationships": {
+    "is_a": [
+      "GO:1902554"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IKK complex",
+      "heterotrimeric IKK complex",
+      "trimeric IKK complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "ma",
+      "bf"
+    ],
+    "PMID": [
+      "12055104",
+      "20300203",
+      "21173796"
+    ]
+  },
+  "definition": "A trimeric protein complex that phosphorylates inhibitory-kappaB (I-kappaB) proteins. The complex is composed of two kinase subunits (alpha and beta) and a regulatory gamma subunit (also called NEMO). In a resting state, NF-kappaB dimers are bound to inhibitory IKB proteins, sequestering NF-kappaB in the cytoplasm. Phosphorylation of I-kappaB targets I-kappaB for ubiquitination and proteasomal degradation, thus releasing the NF-kappaB dimers, which can translocate to the nucleus to bind DNA and regulate transcription.",
+  "namespace": "cellular_component",
+  "label": "IkappaB kinase complex"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:1901072",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901072",
+  "relationships": {
+    "is_a": [
+      "GO:0046348"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucosamine-containing compound breakdown",
+      "glucosamine-containing compound catabolism",
+      "glucosamine-containing compound degradation",
+      "glucosamines breakdown",
+      "glucosamines catabolic process",
+      "glucosamines catabolism",
+      "glucosamines degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bf",
+      "bf",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "CHEBI": [
+      "24271"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of glucosamine-containing compounds (glucosamines).",
+  "namespace": "biological_process",
+  "label": "glucosamine-containing compound catabolic process"
+}

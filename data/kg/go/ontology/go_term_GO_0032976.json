@@ -1,0 +1,30 @@
+{
+  "id": "GO:0032976",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032976",
+  "relationships": {
+    "is_a": [
+      "GO:0008637"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "mAST release from mitochondria",
+      "release of aspartate aminotransferase from mitochondria"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mtg_apoptosis"
+    ],
+    "PMID": [
+      "9843949"
+    ]
+  },
+  "definition": "The process in which enzymes, such as aspartate aminotransferase, are enabled to move from the mitochondrial matrix into the cytosol, as part of the apoptotic process.",
+  "namespace": "biological_process",
+  "label": "release of matrix enzymes from mitochondria"
+}

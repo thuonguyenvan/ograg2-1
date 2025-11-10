@@ -1,0 +1,35 @@
+{
+  "id": "GO:0030244",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030244",
+  "relationships": {
+    "is_a": [
+      "GO:0030243",
+      "GO:0051274"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellulose anabolism",
+      "cellulose biosynthesis",
+      "cellulose formation",
+      "cellulose synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-1001"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of cellulose, a linear beta1-4 glucan of molecular mass 50-400 kDa with the pyranose units in the -4C1 conformation.",
+  "namespace": "biological_process",
+  "label": "cellulose biosynthetic process"
+}

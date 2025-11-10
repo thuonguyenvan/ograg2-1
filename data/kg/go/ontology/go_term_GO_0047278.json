@@ -1,0 +1,31 @@
+{
+  "id": "GO:0047278",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047278",
+  "relationships": {
+    "is_a": [
+      "GO:0015020"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "bilirubin glucuronoside glucuronosyltransferase activity",
+      "bilirubin monoglucuronide transglucuronidase activity",
+      "bilirubin-glucuronoside:bilirubin-glucuronoside D-glucuronosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R00062"
+    ],
+    "RHEA": [
+      "16885",
+      "16885"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 bilirubin-glucuronoside = bilirubin + bilirubin-bisglucuronoside.",
+  "namespace": "molecular_function",
+  "label": "bilirubin-glucuronoside glucuronosyltransferase activity"
+}

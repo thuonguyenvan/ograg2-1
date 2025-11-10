@@ -1,0 +1,31 @@
+{
+  "id": "GO:0047819",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047819",
+  "relationships": {
+    "is_a": [
+      "GO:0003884"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-glutamate(D-aspartate):oxygen oxidoreductase (deaminating)",
+      "D-glutamic-aspartic oxidase activity",
+      "D-monoaminodicarboxylic acid oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.3.15",
+      "1.4.3.15",
+      "1.4.3.15",
+      "1.4.3.15",
+      "1.4.3.15"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-glutamate + H2O + O2 = 2-oxoglutarate + NH3 + H2O2, and D-aspartate + H2O + O2 = oxaloacetate + NH3 + H2O2.",
+  "namespace": "molecular_function",
+  "label": "D-glutamate(D-aspartate) oxidase activity"
+}

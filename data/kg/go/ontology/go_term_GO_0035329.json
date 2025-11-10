@@ -1,0 +1,42 @@
+{
+  "id": "GO:0035329",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035329",
+  "relationships": {
+    "is_a": [
+      "GO:0035556"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hippo signal transduction",
+      "hippo signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "SWH pathway",
+      "Salvador-Warts-Hippo signaling pathway"
+    ],
+    "related": [
+      "hippo signaling cascade",
+      "hippo signalling cascade"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2028269"
+    ],
+    "PMID": [
+      "17318211",
+      "18328423",
+      "36347846"
+    ],
+    "GOC": [
+      "signaling",
+      "signaling",
+      "mah"
+    ]
+  },
+  "definition": "An intracellular signaling cascade that starts with the activation of hippo (STK4/MST1 and STK3/MST2 in mammals and hpo kinase in Drosophila). Hippo then phosphorylates LATS1/2, which in turn phosphoylates the transcriptional co-activator YAP1 (yki in Drosophila), leading to its cytosolic retention and/or degradation.",
+  "namespace": "biological_process",
+  "label": "Signaling by Hippo"
+}

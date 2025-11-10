@@ -1,0 +1,33 @@
+{
+  "id": "GO:0010945",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010945",
+  "relationships": {
+    "is_a": [
+      "GO:0016462"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CoA diphosphatase activity",
+      "CoA pyrophosphatase activity",
+      "coenzyme A pyrophosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6809354",
+      "R-HSA-6810474",
+      "R-HSA-9837354"
+    ],
+    "PMID": [
+      "10922370",
+      "16185196"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an acyl-coenzyme A or its derivatives + H2O = adenosine 3&apos;,5&apos;-bisphosphate + an acyl-4&apos;-phosphopantetheine + 2 H+. This reaction can also use coenzyme A as a substrate.",
+  "namespace": "molecular_function",
+  "label": "NUDT8 hydrolyzes CoA-SH to PPANT"
+}

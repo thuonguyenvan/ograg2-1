@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047745",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047745",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "chlorogenase activity",
+      "chlorogenic acid esterase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.42",
+      "3.1.1.42",
+      "3.1.1.42",
+      "3.1.1.42"
+    ],
+    "KEGG_REACTION": [
+      "R02997"
+    ],
+    "MetaCyc": [
+      "CHLOROGENATE-HYDROLASE-RXN"
+    ],
+    "RHEA": [
+      "20689",
+      "20689"
+    ]
+  },
+  "definition": "Catalysis of the reaction: chlorogenate + H2O = (-)-quinate + cis-caffeate + H+.",
+  "namespace": "molecular_function",
+  "label": "chlorogenate hydrolase activity"
+}

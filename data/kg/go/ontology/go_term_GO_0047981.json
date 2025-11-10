@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047981",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047981",
+  "relationships": {
+    "is_a": [
+      "GO:0140085"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histidine N-acetyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetyl-CoA:L-histidine N-acetyltransferase activity",
+      "acetylhistidine synthetase activity",
+      "histidine acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.33",
+      "2.3.1.33",
+      "2.3.1.33",
+      "2.3.1.33",
+      "2.3.1.33"
+    ],
+    "KEGG_REACTION": [
+      "R01160"
+    ],
+    "MetaCyc": [
+      "HISTIDINE-N-ACETYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "24596",
+      "24596"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-histidine + acetyl-CoA = N(alpha)-acetyl-L-histidine + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "L-histidine N-acetyltransferase activity"
+}

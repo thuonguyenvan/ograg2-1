@@ -1,0 +1,32 @@
+{
+  "id": "GO:0018637",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018637",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.135",
+      "1.14.13.135"
+    ],
+    "UM-BBD_reactionID": [
+      "r0491",
+      "r0491"
+    ],
+    "PMID": [
+      "20727010",
+      "21545490"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-hydroxy-2-naphthoate + O2 + NAD(P)H + 2 H+ = NAD(P)+ + H2O + CO2 + 1,2-dihydroxynaphthalene.",
+  "namespace": "molecular_function",
+  "label": "1-hydroxy-2-naphthoate hydroxylase activity"
+}

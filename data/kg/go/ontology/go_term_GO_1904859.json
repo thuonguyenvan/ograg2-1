@@ -1,0 +1,44 @@
+{
+  "id": "GO:1904859",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904859",
+  "relationships": {
+    "is_a": [
+      "GO:0030335",
+      "GO:0050921",
+      "GO:1904857"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of endothelial cell chemotaxis to vascular endothelial growth factor",
+      "up-regulation of endothelial cell chemotaxis to vascular endothelial growth factor",
+      "upregulation of endothelial cell chemotaxis to vascular endothelial growth factor"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of endothelial cell chemotaxis to vascular endothelial growth factor"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "TermGenie",
+      "rph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "21885851"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of endothelial cell chemotaxis to vascular endothelial growth factor.",
+  "namespace": "biological_process",
+  "label": "positive regulation of endothelial cell chemotaxis to vascular endothelial growth factor"
+}

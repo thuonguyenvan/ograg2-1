@@ -1,0 +1,35 @@
+{
+  "id": "GO:0048671",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048671",
+  "relationships": {
+    "is_a": [
+      "GO:0030308",
+      "GO:0048640",
+      "GO:0048670",
+      "GO:0050771"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of collateral sprouting",
+      "down-regulation of collateral sprouting",
+      "downregulation of collateral sprouting"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of collateral sprouting"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dgh",
+      "dph",
+      "jid",
+      "lm"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of collateral sprouting.",
+  "namespace": "biological_process",
+  "label": "negative regulation of collateral sprouting"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0071376",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071376",
+  "relationships": {
+    "is_a": [
+      "GO:0043435",
+      "GO:0071375"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to CRF stimulus",
+      "cellular response to CRH stimulus",
+      "cellular response to corticoliberin stimulus",
+      "cellular response to corticotropin-releasing factor stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a corticotropin-releasing hormone stimulus. Corticotropin-releasing hormone is a peptide hormone involved in the stress response.",
+  "namespace": "biological_process",
+  "label": "cellular response to corticotropin-releasing hormone stimulus"
+}

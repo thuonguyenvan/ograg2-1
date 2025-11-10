@@ -1,0 +1,28 @@
+{
+  "id": "GO:0005576",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005576",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "extracellular"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Extracellular"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The space external to the outermost structure of a cell. For cells without external protective or external encapsulating structures this refers to space outside of the plasma membrane. This term covers the host cell environment outside an intracellular parasite.",
+  "namespace": "cellular_component",
+  "label": "extracellular region"
+}

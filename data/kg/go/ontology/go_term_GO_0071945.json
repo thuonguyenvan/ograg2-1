@@ -1,0 +1,33 @@
+{
+  "id": "GO:0071945",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071945",
+  "relationships": {
+    "is_a": [
+      "GO:1902021"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of bacterial-type flagellum cell motility by regulation of motor speed"
+    ],
+    "broad": [
+      "regulation of flagellar cell motility by regulation of motor speed"
+    ],
+    "narrow": [],
+    "related": [
+      "regulation of bacterial-type flagellar cell motility by regulation of motor speed"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "jl"
+    ],
+    "PMID": [
+      "20371342"
+    ]
+  },
+  "definition": "A process that modulates flagellum-dependent motility in bacteria by modulating the speed or direction of rotation of a rotary flagellar motor, mediated by interactions between the braking protein.",
+  "namespace": "biological_process",
+  "label": "regulation of bacterial-type flagellum-dependent cell motility by regulation of motor speed"
+}

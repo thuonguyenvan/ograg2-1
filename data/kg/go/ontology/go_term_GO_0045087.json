@@ -1,0 +1,39 @@
+{
+  "id": "GO:0045087",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045087",
+  "relationships": {
+    "is_a": [
+      "GO:0006955",
+      "GO:0140546"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "innate immunity",
+      "nonspecific immune response"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-168249"
+    ],
+    "Wikipedia": [
+      "Innate_immune_system"
+    ],
+    "GOC": [
+      "add",
+      "ebc",
+      "mtg_sensu",
+      "pg"
+    ],
+    "GO_REF": [
+      "0000022"
+    ]
+  },
+  "definition": "Innate immune responses are defense responses mediated by germline encoded components that directly recognize components of potential pathogens.",
+  "namespace": "biological_process",
+  "label": "Innate Immune System"
+}

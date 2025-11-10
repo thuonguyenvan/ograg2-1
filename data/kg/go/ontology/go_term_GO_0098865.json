@@ -1,0 +1,30 @@
+{
+  "id": "GO:0098865",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098865",
+  "relationships": {
+    "is_a": [
+      "GO:0044067"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "disruption by symbiont of host tight cell-cell junction"
+    ],
+    "broad": [
+      "disruption of host tight cell-cell junction"
+    ],
+    "narrow": [],
+    "related": [
+      "modification by symbiont of host bicellular tight junctions",
+      "symbiont-mediated disruption of host tight cell-cell junction"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "24287273"
+    ]
+  },
+  "definition": "The process in which an organism effects a change that impairs the structure or temporarily subverts the tight cell-cell junctions between cells of the host. Tight cell-cell junctions, a cell-cell junction that seals cells together in an epithelium in a way that prevents even small molecules from leaking from one side of the sheet to the other.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated perturbation of host tight cell-cell junction"
+}

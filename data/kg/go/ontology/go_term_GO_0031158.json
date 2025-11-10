@@ -1,0 +1,34 @@
+{
+  "id": "GO:0031158",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031158",
+  "relationships": {
+    "is_a": [
+      "GO:0031157"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of aggregate size",
+      "down-regulation of aggregate size",
+      "downregulation of aggregate size"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of aggregate size"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mtg_sensu",
+      "pg"
+    ],
+    "PMID": [
+      "5002049"
+    ]
+  },
+  "definition": "Any process that decreases the size of the aggregate formed during sorocarp formation.",
+  "namespace": "biological_process",
+  "label": "negative regulation of aggregate size involved in sorocarp development"
+}

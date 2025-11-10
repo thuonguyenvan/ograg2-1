@@ -1,0 +1,35 @@
+{
+  "id": "GO:0036354",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036354",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-desacetyl-2-hydroxyethyl bacteriochlorophyllide a dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.396"
+    ],
+    "MetaCyc": [
+      "RXN-8787"
+    ],
+    "RHEA": [
+      "19733",
+      "19733"
+    ],
+    "PMID": [
+      "8437569"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-deacetyl-3-(1-hydroxyethyl)bacteriochlorophyllide a + NAD+ = bacteriochlorophyllide a + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "bacteriochlorophyllide-a dehydrogenase activity"
+}

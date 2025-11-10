@@ -1,0 +1,39 @@
+{
+  "id": "GO:0052728",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052728",
+  "relationships": {
+    "is_a": [
+      "GO:0016860"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "violaxanthin-capsorubin isomerase (ketone-forming) activity"
+    ],
+    "broad": [
+      "CCS",
+      "capsanthin-capsorubin synthase activity",
+      "ketoxanthophyll synthase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-7946"
+    ],
+    "RHEA": [
+      "21752",
+      "21752"
+    ],
+    "EC": [
+      "5.3.99.8",
+      "5.3.99.8",
+      "5.3.99.8",
+      "5.3.99.8"
+    ]
+  },
+  "definition": "Catalysis of the reaction: all-trans-violaxanthin = all-trans-capsorubin.",
+  "namespace": "molecular_function",
+  "label": "capsorubin synthase activity"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047827",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047827",
+  "relationships": {
+    "is_a": [
+      "GO:0016646"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-N-(D-1-carboxyethyl)-L-lysine:NADP+ oxidoreductase (L-lysine-forming)",
+      "D(+)-lysopine dehydrogenase activity",
+      "D-lysopine synthase activity",
+      "N2-(D-1-carboxyethyl)-L-lysine:NADP+ oxidoreductase (L-lysine-forming)",
+      "lysopine dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.16",
+      "1.5.1.16",
+      "1.5.1.16",
+      "1.5.1.16",
+      "1.5.1.16",
+      "1.5.1.16",
+      "1.5.1.16"
+    ],
+    "KEGG_REACTION": [
+      "R00452"
+    ],
+    "MetaCyc": [
+      "D-LYSOPINE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "17625",
+      "17625"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-lysopine + H2O + NADP+ = L-lysine + H+ + NADPH + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "D-lysopine dehydrogenase activity"
+}

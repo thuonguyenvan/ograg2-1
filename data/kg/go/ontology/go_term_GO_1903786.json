@@ -1,0 +1,39 @@
+{
+  "id": "GO:1903786",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903786",
+  "relationships": {
+    "is_a": [
+      "GO:0009889",
+      "GO:0034248",
+      "GO:0042762"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of glutathione anabolism",
+      "regulation of glutathione biosynthesis",
+      "regulation of glutathione formation",
+      "regulation of glutathione synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of glutathione biosynthetic process.",
+  "namespace": "biological_process",
+  "label": "regulation of glutathione biosynthetic process"
+}

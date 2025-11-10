@@ -1,0 +1,37 @@
+{
+  "id": "GO:0070744",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070744",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IL-27 complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "EBI3",
+      "IL27",
+      "p28"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "add",
+      "add",
+      "add",
+      "add"
+    ],
+    "PMID": [
+      "15999093",
+      "19161428"
+    ]
+  },
+  "definition": "A protein complex that is composed of an interleukin-27p28 subunit (product of the IL27 gene) and an EBI3 subunit and is secreted into the extracellular space.",
+  "namespace": "cellular_component",
+  "label": "interleukin-27 complex"
+}

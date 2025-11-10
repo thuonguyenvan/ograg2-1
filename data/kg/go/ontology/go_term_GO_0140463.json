@@ -1,0 +1,31 @@
+{
+  "id": "GO:0140463",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140463",
+  "relationships": {
+    "is_a": [
+      "GO:0030674"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chromatin adaptor",
+      "chromatin adaptor activity",
+      "chromatin receptor",
+      "chromatin-protein adaptor",
+      "protein-chromatin adaptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "chromatin recruitment"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "32277274"
+    ]
+  },
+  "definition": "An adaptor activity that brings together a protein and a region of the chromatin, such as a nucleosome, to establish or maintain the chromatin localization of the protein, or the complex to which it belongs.",
+  "namespace": "molecular_function",
+  "label": "chromatin-protein adaptor activity"
+}

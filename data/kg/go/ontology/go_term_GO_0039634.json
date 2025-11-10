@@ -1,0 +1,35 @@
+{
+  "id": "GO:0039634",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039634",
+  "relationships": {
+    "is_a": [
+      "GO:0001907",
+      "GO:0009615"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "killing by virus of host cells during superinfection exclusion",
+      "killing by virus of host cells involved in superinfection exclusion"
+    ],
+    "broad": [],
+    "narrow": [
+      "Rex exclusion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "bm",
+      "jl",
+      "bf"
+    ],
+    "PMID": [
+      "22398285"
+    ]
+  },
+  "definition": "The viral-killing of a host cell by a pre-existing virus in response to a subsequent infection of the host cell by second virus.",
+  "namespace": "biological_process",
+  "label": "killing by virus of host cell during superinfection exclusion"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0072485",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072485",
+  "relationships": {
+    "is_a": [
+      "GO:0072417"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to signal involved in spindle assembly checkpoint",
+      "spindle assembly checkpoint effector process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A process that occurs in response to signals generated as a result of spindle assembly checkpoint signaling.",
+  "namespace": "biological_process",
+  "label": "response to spindle assembly checkpoint signaling"
+}

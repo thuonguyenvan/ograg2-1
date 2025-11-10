@@ -1,0 +1,28 @@
+{
+  "id": "GO:0030645",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030645",
+  "relationships": {
+    "is_a": [
+      "GO:0006007",
+      "GO:0006113",
+      "GO:0019605"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "butyrate fermentation",
+      "glucose fermentation to butyrate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The anaerobic chemical reactions and pathways resulting in the breakdown of glucose, with the production of acetic acid, butyric acid, carbon dioxide (CO2), and dihydrogen; effected by some saccharolytic species of Clostridium, e.g. C. butyricum.",
+  "namespace": "biological_process",
+  "label": "glucose catabolic process to butyrate"
+}

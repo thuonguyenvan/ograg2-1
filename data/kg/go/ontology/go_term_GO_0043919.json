@@ -1,0 +1,29 @@
+{
+  "id": "GO:0043919",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043919",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "agmatine aminopropyl transferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "36487",
+      "36487"
+    ],
+    "PMID": [
+      "15983049"
+    ]
+  },
+  "definition": "Catalysis of the reaction: agmatine + S-adenosyl 3-(methylsulfanyl)propylamine = H+ + N1-(3-aminopropyl)agmatine + S-methyl-5&apos;-thioadenosine.",
+  "namespace": "molecular_function",
+  "label": "agmatine aminopropyltransferase activity"
+}

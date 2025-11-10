@@ -1,0 +1,31 @@
+{
+  "id": "GO:0051424",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051424",
+  "relationships": {
+    "is_a": [
+      "GO:0017046"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CRF binding",
+      "CRH binding",
+      "corticoliberin binding",
+      "corticotropin-releasing factor binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "7556876"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Binding to corticotropin-releasing hormone, a polypeptide hormone involved in the stress response. It is released by the hypothalamus and stimulates the release of corticotropin by the anterior pituitary gland.",
+  "namespace": "molecular_function",
+  "label": "corticotropin-releasing hormone binding"
+}

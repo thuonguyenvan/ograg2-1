@@ -1,0 +1,30 @@
+{
+  "id": "GO:0052325",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052325",
+  "relationships": {
+    "is_a": [
+      "GO:0045489",
+      "GO:0052546",
+      "GO:0070592"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell wall pectin biosynthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pectin biosynthesis during cell wall organization and biogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of pectin, a polymer containing a backbone of alpha-1,4-linked D-galacturonic acid residues, as part of the organization and biogenesis of the cell wall.",
+  "namespace": "biological_process",
+  "label": "cell wall pectin biosynthetic process"
+}

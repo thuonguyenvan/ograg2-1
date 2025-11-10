@@ -1,0 +1,34 @@
+{
+  "id": "GO:0009999",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009999",
+  "relationships": {
+    "is_a": [
+      "GO:0009996",
+      "GO:0042669",
+      "GO:0045608"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of auditory receptor cell fate specification",
+      "down-regulation of auditory receptor cell fate specification",
+      "downregulation of auditory receptor cell fate specification",
+      "negative regulation of auditory hair cell fate specification",
+      "suppression of auditory receptor cell fate",
+      "suppression of hair cell fate"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of auditory receptor cell fate specification"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that restricts, stops or prevents a cell from specifying into an auditory hair cell.",
+  "namespace": "biological_process",
+  "label": "negative regulation of auditory receptor cell fate specification"
+}

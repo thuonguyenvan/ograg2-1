@@ -1,0 +1,33 @@
+{
+  "id": "GO:0039675",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039675",
+  "relationships": {
+    "is_a": [
+      "GO:0039674"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "exit of virus from host cell nucleus through nuclear pore complex",
+      "nuclear pore exit of virus",
+      "viral enome export through nuclear pore"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "1953",
+      "1953",
+      "1953",
+      "1953"
+    ],
+    "PMID": [
+      "12921991"
+    ]
+  },
+  "definition": "The directed movement of the viral genome or a viral particle out of the host cell nucleus through the nuclear pore.",
+  "namespace": "biological_process",
+  "label": "Genome export through nuclear pore"
+}

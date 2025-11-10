@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050319",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050319",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R,R)-tartrate carboxy-lyase (D-glycerate-forming)",
+      "(R,R)-tartrate carboxy-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.73",
+      "4.1.1.73",
+      "4.1.1.73",
+      "4.1.1.73"
+    ],
+    "KEGG_REACTION": [
+      "R01751"
+    ],
+    "MetaCyc": [
+      "TARTRATE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "13317",
+      "13317"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-tartrate + H+ = D-glycerate + CO2.",
+  "namespace": "molecular_function",
+  "label": "tartrate decarboxylase activity"
+}

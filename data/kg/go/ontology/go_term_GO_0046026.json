@@ -1,0 +1,35 @@
+{
+  "id": "GO:0046026",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046026",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CobM",
+      "S-adenosyl-L-methionine:precorrin-4 C11 methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.133",
+      "2.1.1.133",
+      "2.1.1.133",
+      "2.1.1.133"
+    ],
+    "MetaCyc": [
+      "2.1.1.133-RXN"
+    ],
+    "RHEA": [
+      "22012"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + precorrin-4 = S-adenosyl-L-homocysteine + precorrin 5.",
+  "namespace": "molecular_function",
+  "label": "precorrin-4 C11-methyltransferase activity"
+}

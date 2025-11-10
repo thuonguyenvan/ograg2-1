@@ -1,0 +1,43 @@
+{
+  "id": "GO:0008936",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008936",
+  "relationships": {
+    "is_a": [
+      "GO:0004040"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "NAMase activity",
+      "YNDase activity",
+      "nicotinamide amidase activity",
+      "nicotinamide amidohydrolase activity",
+      "nicotinamide deaminase activity",
+      "nicotine deamidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.19",
+      "3.5.1.19",
+      "3.5.1.19",
+      "3.5.1.19",
+      "3.5.1.19",
+      "3.5.1.19",
+      "3.5.1.19"
+    ],
+    "MetaCyc": [
+      "NICOTINAMID-RXN"
+    ],
+    "RHEA": [
+      "14545",
+      "14545"
+    ]
+  },
+  "definition": "Catalysis of the reaction: nicotinamide + H2O = nicotinate + NH4+.",
+  "namespace": "molecular_function",
+  "label": "nicotinamidase activity"
+}

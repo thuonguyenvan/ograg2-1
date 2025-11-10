@@ -1,0 +1,47 @@
+{
+  "id": "GO:0003976",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003976",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acetylglucosaminyl phosphotransferase activity",
+      "N-acetylglucosaminylphosphotransferase activity",
+      "UDP-GlcNAc:glycoprotein N-acetylglucosamine-1-phosphotransferase activity",
+      "UDP-N-acetyl-D-glucosamine:lysosomal-enzyme N-acetylglucosaminephosphotransferase activity",
+      "UDP-N-acetylglucosamine:glycoprotein N-acetylglucosamine-1-phosphotransferase activity",
+      "UDP-N-acetylglucosamine:glycoprotein N-acetylglucosaminyl-1-phosphotransferase activity",
+      "UDP-N-acetylglucosamine:lysosomal enzyme N-acetylglucosamine-1-phosphotransferase activity",
+      "lysosomal enzyme precursor acetylglucosamine-1-phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.17",
+      "2.7.8.17",
+      "2.7.8.17",
+      "2.7.8.17",
+      "2.7.8.17",
+      "2.7.8.17",
+      "2.7.8.17",
+      "2.7.8.17",
+      "2.7.8.17",
+      "2.7.8.17"
+    ],
+    "MetaCyc": [
+      "2.7.8.17-RXN"
+    ],
+    "RHEA": [
+      "13581"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-N-acetyl-D-glucosamine + lysosomal-enzyme D-mannose = UMP + lysosomal-enzyme N-acetyl-D-glucosaminyl-phospho-D-mannose.",
+  "namespace": "molecular_function",
+  "label": "UDP-N-acetylglucosamine-lysosomal-enzyme N-acetylglucosaminephosphotransferase activity"
+}

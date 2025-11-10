@@ -1,0 +1,47 @@
+{
+  "id": "GO:0043372",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043372",
+  "relationships": {
+    "is_a": [
+      "GO:0043370",
+      "GO:0046638",
+      "GO:2000516"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of CD4-positive T lymphocyte differentiation",
+      "positive regulation of CD4-positive T-cell differentiation",
+      "positive regulation of CD4-positive T-lymphocyte differentiation",
+      "positive regulation of CD4-positive, alpha beta T cell differentiation",
+      "positive regulation of CD4-positive, alpha beta T lymphocyte differentiation",
+      "positive regulation of CD4-positive, alpha beta T-cell differentiation",
+      "positive regulation of CD4-positive, alpha beta T-lymphocyte differentiation",
+      "up regulation of CD4-positive, alpha beta T cell differentiation",
+      "up-regulation of CD4-positive, alpha beta T cell differentiation",
+      "upregulation of CD4-positive, alpha beta T cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of CD4-positive, alpha beta T cell differentiation",
+      "stimulation of CD4-positive, alpha beta T cell differentiation"
+    ],
+    "related": [
+      "positive regulation of CD4-positive, alpha beta T cell development"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "pr",
+      "bf",
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of CD4-positive, alpha-beta T cell differentiation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of CD4-positive, alpha-beta T cell differentiation"
+}

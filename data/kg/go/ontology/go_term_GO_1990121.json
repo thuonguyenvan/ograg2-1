@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990121",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990121",
+  "relationships": {
+    "is_a": [
+      "GO:1990104"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA-binding protein H-NS complex",
+      "histone-like protein H-NS complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "12592399"
+    ]
+  },
+  "definition": "A multimer of H-NS proteins that is involved in bacterial nucleoid condensation and negative regulation of global gene expression by directly binding to promoter regions. Recognizes both structural and sequence-specific motifs in double-stranded DNA and has binding preference for bent DNA.",
+  "namespace": "cellular_component",
+  "label": "H-NS complex"
+}

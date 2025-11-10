@@ -1,0 +1,29 @@
+{
+  "id": "GO:0008417",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008417",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9033949",
+      "R-HSA-9846332",
+      "R-HSA-9935449",
+      "R-HSA-9935469"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a fucosyl group to an acceptor molecule, typically another carbohydrate or a lipid.",
+  "namespace": "molecular_function",
+  "label": "FUT11 O-fucosylates EMI domain-containing proteins"
+}

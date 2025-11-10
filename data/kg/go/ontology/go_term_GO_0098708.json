@@ -1,0 +1,29 @@
+{
+  "id": "GO:0098708",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098708",
+  "relationships": {
+    "is_a": [
+      "GO:0140271",
+      "GO:1904659"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucose import across plasma membrane",
+      "glucose import into cell"
+    ],
+    "broad": [],
+    "narrow": [
+      "high affinity glucose import"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dos"
+    ]
+  },
+  "definition": "The directed movement of D-glucose from outside of a cell, across the plasma membrane and into the cytosol.",
+  "namespace": "biological_process",
+  "label": "D-glucose import across plasma membrane"
+}

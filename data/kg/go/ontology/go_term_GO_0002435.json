@@ -1,0 +1,37 @@
+{
+  "id": "GO:0002435",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002435",
+  "relationships": {
+    "is_a": [
+      "GO:0002434"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "immune complex clearance by RBCs",
+      "immune complex clearance by red blood cells"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Immune_complex"
+    ],
+    "GOC": [
+      "add"
+    ],
+    "PMID": [
+      "11414352",
+      "24022490"
+    ],
+    "CL": [
+      "0000232",
+      "0000232"
+    ]
+  },
+  "definition": "The process of immune complex clearance by erythrocytes. The process often starts with binding of complement receptor 1 (CR1) on the surface of erythrocytes to a complement coated immune complex. The complex bound to erythrocyte CR1 is then transported to the liver or spleen where it is presented to phagocytes. The process ends when the complex is removed from CR1, allowing the erythrocyte to return to general circulation.",
+  "namespace": "biological_process",
+  "label": "immune complex clearance by erythrocytes"
+}

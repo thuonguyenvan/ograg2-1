@@ -1,0 +1,33 @@
+{
+  "id": "GO:0032781",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032781",
+  "relationships": {
+    "is_a": [
+      "GO:0043462",
+      "GO:0044093"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of ATPase activity",
+      "positive regulation of adenosinetriphosphatase activity",
+      "up regulation of ATPase activity",
+      "up-regulation of ATPase activity",
+      "upregulation of ATPase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of ATPase activity",
+      "stimulation of ATPase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the rate of an ATP-dependent activity.",
+  "namespace": "biological_process",
+  "label": "positive regulation of ATP-dependent activity"
+}

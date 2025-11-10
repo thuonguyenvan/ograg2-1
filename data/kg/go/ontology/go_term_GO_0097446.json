@@ -1,0 +1,31 @@
+{
+  "id": "GO:0097446",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097446",
+  "relationships": {
+    "is_a": [
+      "GO:0044380",
+      "GO:0072697"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein localization to linear eisosome"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vw"
+    ],
+    "PMID": [
+      "22869600",
+      "23722945"
+    ]
+  },
+  "definition": "A process in which a protein is transported to, and/or maintained in, a specific location in a eisosome filament (also called linear eisosome), a filamentous cortical structure formed, in S. pombe, by the eisosome component Pil1.",
+  "namespace": "biological_process",
+  "label": "protein localization to eisosome filament"
+}

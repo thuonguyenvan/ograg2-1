@@ -1,0 +1,27 @@
+{
+  "id": "GO:1990633",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990633",
+  "relationships": {
+    "is_a": [
+      "GO:0036464"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "kmv"
+    ],
+    "PMID": [
+      "22713602",
+      "25635455"
+    ]
+  },
+  "definition": "A type of punctate focus localized to the perinuclear region of germline cytoplasm in C. elegans. Mutator foci are required for RNA interference (RNAi) and serve as sites of small inhibitory RNA (siRNA) amplification. As such, proteins that localize to mutator foci include RNA-directed RNA polymerases (RdRPs) and beta-nucleotidyltransferases. Mutator foci are distinct from, but adjacent to or partially overlap, P granules.",
+  "namespace": "cellular_component",
+  "label": "mutator focus"
+}

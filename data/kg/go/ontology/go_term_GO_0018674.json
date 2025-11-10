@@ -1,0 +1,47 @@
+{
+  "id": "GO:0018674",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018674",
+  "relationships": {
+    "is_a": [
+      "GO:0016712",
+      "GO:0019113"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(-)-limonene 3-monooxygenase activity",
+      "limonene 3-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(-)-limonene 3-hydroxylase activity",
+      "(-)-limonene,NADPH:oxygen oxidoreductase (3-hydroxylating) activity",
+      "(S)-limonene,NADPH:oxygen oxidoreductase (3-hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.99",
+      "1.14.14.99",
+      "1.14.14.99",
+      "1.14.14.99"
+    ],
+    "KEGG_REACTION": [
+      "R02469"
+    ],
+    "MetaCyc": [
+      "--LIMONENE-3-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "15129",
+      "15129"
+    ],
+    "UM-BBD_reactionID": [
+      "r0739"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (4S)-limonene + O2 + reduced [NADPH--hemoprotein reductase] = (1S,6R)-isopiperitenol + H+ + H2O + oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "(S)-limonene 3-monooxygenase activity"
+}

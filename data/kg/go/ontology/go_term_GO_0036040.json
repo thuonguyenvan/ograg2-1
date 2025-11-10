@@ -1,0 +1,59 @@
+{
+  "id": "GO:0036040",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036040",
+  "relationships": {
+    "is_a": [
+      "GO:0019336",
+      "GO:0042182",
+      "GO:0120256",
+      "GO:1901502"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(1E,6E)-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione breakdown",
+      "(1E,6E)-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione catabolic process",
+      "(1E,6E)-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione catabolism",
+      "(1E,6E)-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione degradation",
+      "curcumin breakdown",
+      "curcumin catabolism",
+      "curcumin degradation",
+      "diferuloylmethane breakdown",
+      "diferuloylmethane catabolic process",
+      "diferuloylmethane catabolism",
+      "diferuloylmethane degradation",
+      "turmeric yellow breakdown",
+      "turmeric yellow catabolic process",
+      "turmeric yellow catabolism",
+      "turmeric yellow degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "21467222"
+    ],
+    "GOC": [
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of the polyphenol, curcumin.",
+  "namespace": "biological_process",
+  "label": "curcumin catabolic process"
+}

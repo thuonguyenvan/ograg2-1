@@ -1,0 +1,42 @@
+{
+  "id": "GO:0033735",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033735",
+  "relationships": {
+    "is_a": [
+      "GO:0016638"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "aspartate dehydrogenase NAD activity",
+      "aspartate dehydrogenase NADP activity"
+    ],
+    "related": [
+      "L-aspartate:NAD(P)+ oxidoreductase (deaminating) activity",
+      "NAD-dependent aspartate dehydrogenase activity",
+      "NADH2-dependent aspartate dehydrogenase activity",
+      "NADP+-dependent aspartate dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.4.1.21",
+      "1.4.1.21",
+      "1.4.1.21",
+      "1.4.1.21",
+      "1.4.1.21"
+    ],
+    "KEGG_REACTION": [
+      "R07164",
+      "R07165"
+    ],
+    "MetaCyc": [
+      "1.4.1.21-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-aspartate + H2O + NAD(P)+ = oxaloacetate + NH3 + NAD(P)H + H+.",
+  "namespace": "molecular_function",
+  "label": "aspartate dehydrogenase [NAD(P)+] activity"
+}

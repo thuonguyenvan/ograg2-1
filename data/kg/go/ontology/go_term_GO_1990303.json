@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990303",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990303",
+  "relationships": {
+    "is_a": [
+      "GO:0140535",
+      "GO:1990234"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UBR1-RAD6 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "19531475"
+    ]
+  },
+  "definition": "A ubiquitin ligase complex consisting of UBR1 and RAD6 components. It polyubiquitinates proteins containing non-acetylated N-terminal residues causing their subsequent degradation by the proteasome as part of the Ac/N-End Rule pathway. It recognizes non-acetylated N-terminal methionine if it is followed by a hydrophobic residue. Additionally, it acts in an N-end rule independent manner as a component of a novel quality control pathway for proteins synthesized on cytosolic ribosomes.",
+  "namespace": "cellular_component",
+  "label": "UBR1-RAD6 ubiquitin ligase complex"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0048542",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048542",
+  "relationships": {
+    "is_a": [
+      "GO:0048534",
+      "GO:0048732"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "haematopoietic organ development",
+      "haemopoietic organ development",
+      "hematopoietic organ development",
+      "hemopoietic organ development"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_sensu",
+      "rc"
+    ]
+  },
+  "definition": "The process whose specific outcome is the progression of the lymph gland over time, from its formation to the mature structure. The lymph gland is one of the sites of hemocyte differentiation. It consists of three to six bilaterally paired lobes that are attached to the cardioblasts during larval stages, and it degenerates during pupal stages.",
+  "namespace": "biological_process",
+  "label": "lymph gland development"
+}

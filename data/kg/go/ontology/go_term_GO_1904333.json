@@ -1,0 +1,76 @@
+{
+  "id": "GO:1904333",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904333",
+  "relationships": {
+    "is_a": [
+      "GO:0048584",
+      "GO:1904331",
+      "GO:2000573"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of mutagenic PRR",
+      "up regulation of error-prone translesion synthesis",
+      "up regulation of mutagenic PRR",
+      "up-regulation of error-prone translesion synthesis",
+      "up-regulation of mutagenic PRR",
+      "upregulation of error-prone translesion synthesis",
+      "upregulation of mutagenic PRR"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of error-prone translesion synthesis",
+      "activation of mutagenic PRR"
+    ],
+    "related": [
+      "activation of error-prone postreplication DNA repair",
+      "activation of mutagenic postreplication DNA repair",
+      "positive regulation of error-prone postreplication DNA repair",
+      "positive regulation of mutagenic postreplication DNA repair",
+      "up regulation of error-prone postreplication DNA repair",
+      "up regulation of mutagenic postreplication DNA repair",
+      "up-regulation of error-prone postreplication DNA repair",
+      "up-regulation of mutagenic postreplication DNA repair",
+      "upregulation of error-prone postreplication DNA repair",
+      "upregulation of mutagenic postreplication DNA repair"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-110314"
+    ],
+    "GOC": [
+      "TermGenie",
+      "kmv",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22761594"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of error-prone translesion synthesis.",
+  "namespace": "biological_process",
+  "label": "Recognition of DNA damage by PCNA-containing replication complex"
+}

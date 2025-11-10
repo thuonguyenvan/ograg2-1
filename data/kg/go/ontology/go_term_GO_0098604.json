@@ -1,0 +1,30 @@
+{
+  "id": "GO:0098604",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098604",
+  "relationships": {
+    "is_a": [
+      "GO:0016802"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2408532"
+    ],
+    "GOC": [
+      "dos"
+    ],
+    "PMID": [
+      "1711890",
+      "7305945"
+    ]
+  },
+  "definition": "Catalysis of the reaction: Se-Adenosyl-L-selenohomocysteine + H2O = Adenosine + Selenohomocysteine.",
+  "namespace": "molecular_function",
+  "label": "AdeSeHCys is hydrolysed to SeHCys by AHCY"
+}

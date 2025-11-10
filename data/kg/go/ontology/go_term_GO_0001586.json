@@ -1,0 +1,31 @@
+{
+  "id": "GO:0001586",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001586",
+  "relationships": {
+    "is_a": [
+      "GO:0004993"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5-HT1 receptor activity",
+      "serotonin receptor activity, coupled via Gi/o"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "18571247"
+    ]
+  },
+  "definition": "Combining with serotonin and transmitting the signal across the membrane by activation of the Gi/o subunit of an associated cytoplasmic heterotrimeric G protein complex. The Gi/o subunit subsequently inhibits adenylate cyclase and results in a decrease in cyclic AMP (cAMP) levels.",
+  "namespace": "molecular_function",
+  "label": "Gi/o-coupled serotonin receptor activity"
+}

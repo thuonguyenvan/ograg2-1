@@ -1,0 +1,24 @@
+{
+  "id": "GO:0019645",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019645",
+  "relationships": {
+    "is_a": [
+      "GO:0022904"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mtg_electron_transport"
+    ]
+  },
+  "definition": "A process in which a series of electron carriers operate together to transfer electrons from donors such as NADH and FADH2 to any of several different terminal electron acceptors other than oxygen to generate a transmembrane electrochemical gradient.",
+  "namespace": "biological_process",
+  "label": "anaerobic electron transport chain"
+}

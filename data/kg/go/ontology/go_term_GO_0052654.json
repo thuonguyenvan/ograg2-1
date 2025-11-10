@@ -1,0 +1,32 @@
+{
+  "id": "GO:0052654",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052654",
+  "relationships": {
+    "is_a": [
+      "GO:0004084"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-leucine aminotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R01090"
+    ],
+    "MetaCyc": [
+      "BRANCHED-CHAINAMINOTRANSFERLEU-RXN"
+    ],
+    "RHEA": [
+      "18321",
+      "18321"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxoglutarate + L-leucine = 4-methyl-2-oxopentanoate + L-glutamatic acid.",
+  "namespace": "molecular_function",
+  "label": "L-leucine-2-oxoglutarate transaminase activity"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0007270",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007270",
+  "relationships": {
+    "is_a": [
+      "GO:0007268"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "nerve-nerve synaptic transmission"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "dos",
+      "jl"
+    ],
+    "MeSH": [
+      "D009435"
+    ]
+  },
+  "definition": "The process of synaptic transmission from a neuron to another neuron across a synapse.",
+  "namespace": "biological_process",
+  "label": "neuron-neuron synaptic transmission"
+}

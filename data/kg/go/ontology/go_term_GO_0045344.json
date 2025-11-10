@@ -1,0 +1,36 @@
+{
+  "id": "GO:0045344",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045344",
+  "relationships": {
+    "is_a": [
+      "GO:0010558",
+      "GO:0045343"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of MHC class I biosynthetic process",
+      "down-regulation of MHC class I biosynthetic process",
+      "downregulation of MHC class I biosynthetic process",
+      "negative regulation of MHC class I anabolism",
+      "negative regulation of MHC class I biosynthesis",
+      "negative regulation of MHC class I formation",
+      "negative regulation of MHC class I synthesis",
+      "negative regulation of major histocompatibility complex class I biosynthesis",
+      "negative regulation of major histocompatibility complex class I biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of MHC class I biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of MHC class I.",
+  "namespace": "biological_process",
+  "label": "negative regulation of MHC class I biosynthetic process"
+}

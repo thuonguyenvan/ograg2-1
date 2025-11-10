@@ -1,0 +1,40 @@
+{
+  "id": "GO:0033562",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033562",
+  "relationships": {
+    "is_a": [
+      "GO:0031047"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNAi-mediated CTGS",
+      "co-transcriptional gene silencing by small RNA",
+      "small RNA-mediated cotranscriptional gene silencing"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cotranscriptional gene silencing by RNA interference machinery",
+      "cotranscriptional gene silencing by small RNA"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vw",
+      "vw",
+      "vw",
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "17512405",
+      "21151114",
+      "22431512"
+    ]
+  },
+  "definition": "A process in which the RNAi machinery mediates the degradation of nascent transcripts in association with chromatin.",
+  "namespace": "biological_process",
+  "label": "co-transcriptional gene silencing by RNA interference machinery"
+}

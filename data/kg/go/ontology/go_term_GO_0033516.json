@@ -1,0 +1,35 @@
+{
+  "id": "GO:0033516",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033516",
+  "relationships": {
+    "is_a": [
+      "GO:0019279"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "L-methionine anabolism from homoserine via O-phospho-L-homoserine and cystathionine",
+      "L-methionine formation from homoserine via O-phospho-L-homoserine and cystathionine",
+      "L-methionine synthesis from homoserine via O-phospho-L-homoserine and cystathionine",
+      "methionine biosynthetic process from homoserine via O-phospho-L-homoserine and cystathionine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "MetaCyc": [
+      "PWY-702"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of L-methionine from other compounds, including homoserine, via the intermediates O-phospho-L-homoserine and cystathionine.",
+  "namespace": "biological_process",
+  "label": "L-methionine biosynthetic process from homoserine via O-phospho-L-homoserine and cystathionine"
+}

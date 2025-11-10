@@ -1,0 +1,28 @@
+{
+  "id": "GO:0170040",
+  "uri": "http://purl.obolibrary.org/obo/GO_0170040",
+  "relationships": {
+    "is_a": [
+      "GO:0046395",
+      "GO:0170039"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "proteinogenic amino acid breakdown",
+      "proteinogenic amino acid catabolism",
+      "proteinogenic amino acid degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ew"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of any amino acid that is incorporated into protein naturally by ribosomal translation of mRNA, and that has a specific codon for translation from mRNA to protein.",
+  "namespace": "biological_process",
+  "label": "proteinogenic amino acid catabolic process"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "GO:0047334",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047334",
+  "relationships": {
+    "is_a": [
+      "GO:0008443"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "6-phosphofructokinase (diphosphate) activity",
+      "6-phosphofructokinase (pyrophosphate) activity",
+      "diphosphate-dependent 6-phosphofructose-1-kinase activity",
+      "diphosphate:D-fructose-6-phosphate 1-phosphotransferase activity",
+      "inorganic pyrophosphate-dependent phosphofructokinase activity",
+      "inorganic pyrophosphate-phosphofructokinase activity",
+      "pyrophosphate--fructose 6-phosphate 1-phosphotransferase activity",
+      "pyrophosphate-dependent 6-phosphofructose-1-kinase activity",
+      "pyrophosphate-dependent phosphofructo-1-kinase activity",
+      "pyrophosphate-fructose 6-phosphate phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.90",
+      "2.7.1.90",
+      "2.7.1.90",
+      "2.7.1.90",
+      "2.7.1.90",
+      "2.7.1.90",
+      "2.7.1.90",
+      "2.7.1.90",
+      "2.7.1.90",
+      "2.7.1.90",
+      "2.7.1.90",
+      "2.7.1.90"
+    ],
+    "MetaCyc": [
+      "2.7.1.90-RXN",
+      "2.7.1.90-RXN"
+    ],
+    "RHEA": [
+      "13613"
+    ]
+  },
+  "definition": "Catalysis of the reaction: fructose-6-phosphate + diphosphate = phosphate + fructose-1,6-bisphosphate.",
+  "namespace": "molecular_function",
+  "label": "diphosphate-fructose-6-phosphate 1-phosphotransferase activity"
+}

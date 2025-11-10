@@ -1,0 +1,34 @@
+{
+  "id": "GO:0140909",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140909",
+  "relationships": {
+    "is_a": [
+      "GO:0006264"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "kDNA replication",
+      "kinetoplast DNA synthesis",
+      "replication of kinetoplast DNA"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ach"
+    ],
+    "PMID": [
+      "12455998",
+      "15967722",
+      "17462016",
+      "8045928",
+      "8561456"
+    ]
+  },
+  "definition": "The process of doubling of the number of maxicircles and minicircles and distribution of the progeny into two daughter networks, which are identical to the parent kinetoplast DNA network.",
+  "namespace": "biological_process",
+  "label": "kinetoplast DNA replication"
+}

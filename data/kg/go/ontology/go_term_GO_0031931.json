@@ -1,0 +1,47 @@
+{
+  "id": "GO:0031931",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031931",
+  "relationships": {
+    "is_a": [
+      "GO:0038201"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TOR complex 1",
+      "TORC 1 complex",
+      "TORC1",
+      "nutrient sensitive complex",
+      "rapamycin and nutrient-sensitive TOR complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "dTOR/dRaptor complex",
+      "dTORC1",
+      "mTORC1"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "MTORC1"
+    ],
+    "GOC": [
+      "jh"
+    ],
+    "PMID": [
+      "15780592",
+      "16469695",
+      "21548787",
+      "21548787",
+      "21548787",
+      "17183368",
+      "17183368",
+      "18765678",
+      "21548787"
+    ]
+  },
+  "definition": "A protein complex that contains at least TOR (target of rapamycin) and Raptor (regulatory-associated protein of TOR), or orthologs of, in complex with other signaling components. Mediates the phosphorylation and activation of S6K. In Saccharomyces, the complex contains Kog1p, Lst8p, Tco89p, and either Tor1p or Tor2p.",
+  "namespace": "cellular_component",
+  "label": "TORC1 complex"
+}

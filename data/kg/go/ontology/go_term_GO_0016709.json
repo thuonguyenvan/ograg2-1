@@ -1,0 +1,33 @@
+{
+  "id": "GO:0016709",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016709",
+  "relationships": {
+    "is_a": [
+      "GO:0004497",
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NADH or NADPH as one donor, and incorporation of one atom of oxygen"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.-",
+      "1.14.13.-"
+    ],
+    "Reactome": [
+      "R-HSA-211951",
+      "R-HSA-2162187",
+      "R-HSA-2162194",
+      "R-HSA-6786239"
+    ]
+  },
+  "definition": "Catalysis of an oxidation-reduction (redox) reaction in which hydrogen or electrons are transferred from NADH or NADPH and one other donor, and one atom of oxygen is incorporated into one donor.",
+  "namespace": "molecular_function",
+  "label": "CYP4V2 omega-hydroxylates DHA to HDoHE"
+}

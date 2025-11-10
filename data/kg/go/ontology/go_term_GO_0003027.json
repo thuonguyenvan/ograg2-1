@@ -1,0 +1,35 @@
+{
+  "id": "GO:0003027",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003027",
+  "relationships": {
+    "is_a": [
+      "GO:0001979"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "carotid body chemoreceptor regulation of systemic arterial blood pressure",
+      "carotid body chemoreceptor response to lowering of systemic arterial blood pressure",
+      "regulation of systemic arterial blood pressure by carotid body chemoreceptor signalling"
+    ],
+    "broad": [
+      "vagal reflex"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mtg_cardio",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "mah"
+    ]
+  },
+  "definition": "The process that modulates blood pressure by the action of chemoreceptors found in the carotid bodies and their resultant modulation of the vasomotor center. Chemoreceptors respond to oxygen, carbon dioxide and hydrogen ions.",
+  "namespace": "biological_process",
+  "label": "regulation of systemic arterial blood pressure by carotid body chemoreceptor signaling"
+}

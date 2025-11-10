@@ -1,0 +1,35 @@
+{
+  "id": "GO:0050533",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050533",
+  "relationships": {
+    "is_a": [
+      "GO:0004446"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5-phytase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "myo-inositol-hexakisphosphate 5-phosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.3.72",
+      "3.1.3.72"
+    ],
+    "MetaCyc": [
+      "3.1.3.72-RXN"
+    ],
+    "RHEA": [
+      "13001",
+      "13001"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1D-myo-inositol hexakisphosphate + H2O = 1D-myo-inositol 1,2,3,4,6-pentakisphosphate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "inositol hexakisphosphate 5-phosphatase activity"
+}

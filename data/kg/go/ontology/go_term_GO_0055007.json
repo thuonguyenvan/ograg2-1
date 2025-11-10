@@ -1,0 +1,29 @@
+{
+  "id": "GO:0055007",
+  "uri": "http://purl.obolibrary.org/obo/GO_0055007",
+  "relationships": {
+    "is_a": [
+      "GO:0035051",
+      "GO:0051146"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cardiomyocyte differentiation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "heart muscle cell differentiation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "devbiol",
+      "mtg_heart"
+    ]
+  },
+  "definition": "The process in which a cardiac muscle precursor cell acquires specialized features of a cardiac muscle cell. Cardiac muscle cells are striated muscle cells that are responsible for heart contraction.",
+  "namespace": "biological_process",
+  "label": "cardiac muscle cell differentiation"
+}

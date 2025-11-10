@@ -1,0 +1,47 @@
+{
+  "id": "GO:0009435",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009435",
+  "relationships": {
+    "is_a": [
+      "GO:0006164",
+      "GO:0019359",
+      "GO:0019674"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NAD (oxidized) biosynthesis",
+      "NAD (oxidized) biosynthetic process",
+      "NAD (reduced) biosynthesis",
+      "NAD (reduced) biosynthetic process",
+      "NAD anabolism",
+      "NAD biosynthesis",
+      "NAD biosynthetic process",
+      "NAD formation",
+      "NAD synthesis",
+      "NADH biosynthesis",
+      "NADH biosynthetic process",
+      "nicotinamide adenine dinucleotide biosynthesis",
+      "nicotinamide adenine dinucleotide biosynthetic process",
+      "oxidized NAD biosynthesis",
+      "oxidized NAD biosynthetic process",
+      "oxidized nicotinamide adenine dinucleotide biosynthesis",
+      "oxidized nicotinamide adenine dinucleotide biosynthetic process",
+      "reduced NAD biosynthesis",
+      "reduced NAD biosynthetic process",
+      "reduced nicotinamide adenine dinucleotide biosynthesis",
+      "reduced nicotinamide adenine dinucleotide biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "28648096"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of nicotinamide adenine dinucleotide (NAD+), a coenzyme that interconverts with its reduced form, NADH, in many redox and catabolic reactions. NAD+ is derived from various sources including vitamin B3.",
+  "namespace": "biological_process",
+  "label": "NAD+ biosynthetic process"
+}

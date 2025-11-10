@@ -1,0 +1,27 @@
+{
+  "id": "GO:0034224",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034224",
+  "relationships": {
+    "is_a": [
+      "GO:0009267",
+      "GO:0120127"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to zinc ion limitation",
+      "cellular response to zinc starvation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of deprivation of zinc ions.",
+  "namespace": "biological_process",
+  "label": "cellular response to zinc ion starvation"
+}

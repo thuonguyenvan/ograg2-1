@@ -1,0 +1,38 @@
+{
+  "id": "GO:0009693",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009693",
+  "relationships": {
+    "is_a": [
+      "GO:0009692",
+      "GO:0043450"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ethene biosynthesis",
+      "ethene biosynthesis from L-methionine",
+      "ethene biosynthetic process",
+      "ethene biosynthetic process from L-methionine",
+      "ethylene anabolism",
+      "ethylene biosynthesis",
+      "ethylene biosynthesis from L-methionine",
+      "ethylene biosynthetic process from L-methionine",
+      "ethylene formation",
+      "ethylene synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "ETHYL-PWY"
+    ],
+    "ISBN": [
+      "0387969845"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of ethylene (C2-H4, ethene), a simple hydrocarbon gas that can function in plants as a growth regulator.",
+  "namespace": "biological_process",
+  "label": "ethylene biosynthetic process"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0022878",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022878",
+  "relationships": {
+    "is_a": [
+      "GO:0008515",
+      "GO:0008982"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sucrose PTS transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "SUCROSEPHOSPHO-RXN"
+    ],
+    "RHEA": [
+      "49236"
+    ],
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Catalysis of the PEP-dependent, phosphoryl transfer-driven transport of substances across a membrane. The transport happens by catalysis of the reaction: protein N-phosphohistidine + sucrose(out) = protein histidine + sucrose phosphate(in). This differs from primary and secondary active transport in that the solute is modified during transport.",
+  "namespace": "molecular_function",
+  "label": "protein-N(PI)-phosphohistidine-sucrose phosphotransferase system transporter activity"
+}

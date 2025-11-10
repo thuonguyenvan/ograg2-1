@@ -1,0 +1,33 @@
+{
+  "id": "GO:0033359",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033359",
+  "relationships": {
+    "is_a": [
+      "GO:0009089"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lysine anabolism via diaminopimelate and N-succinyl-2-amino-6-ketopimelate",
+      "lysine biosynthesis via diaminopimelic acid and N-succinyl-2-amino-6-ketopimelate",
+      "lysine biosynthetic process via diaminopimelic acid and N-succinyl-2-amino-6-ketopimelate",
+      "lysine formation via diaminopimelate and N-succinyl-2-amino-6-ketopimelate",
+      "lysine synthesis via diaminopimelate and N-succinyl-2-amino-6-ketopimelate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "DAPLYSINESYN-PWY",
+      "DAPLYSINESYN-PWY"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of lysine, via the intermediates diaminopimelate and N-succinyl-2-amino-6-ketopimelate; in this pathway tetrahydrodipicolinate is converted to meso-diaminopimelate in four enzymatic steps.",
+  "namespace": "biological_process",
+  "label": "lysine biosynthetic process via diaminopimelate and N-succinyl-2-amino-6-ketopimelate"
+}

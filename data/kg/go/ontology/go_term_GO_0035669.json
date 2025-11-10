@@ -1,0 +1,33 @@
+{
+  "id": "GO:0035669",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035669",
+  "relationships": {
+    "is_a": [
+      "GO:0034142",
+      "GO:0035668"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TRAM-dependent TLR4 signaling pathway",
+      "TRAM-dependent toll-like receptor 4 signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "14556004",
+      "18297073"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by a ligand binding to a toll-like receptor 4 where the TRAM adaptor mediates transduction of the signal. Toll-like 4 receptors are pattern recognition receptors that bind bacterial lipopolysaccharide (LPS) to initiate an innate immune response.",
+  "namespace": "biological_process",
+  "label": "TRAM-dependent toll-like receptor 4 signaling pathway"
+}

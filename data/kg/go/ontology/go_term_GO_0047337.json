@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047337",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047337",
+  "relationships": {
+    "is_a": [
+      "GO:0016776"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dolichyl-diphosphate:polyphosphate phosphotransferase activity",
+      "dolichylpyrophosphate:polyphosphate phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.4.20",
+      "2.7.4.20",
+      "2.7.4.20",
+      "2.7.4.20"
+    ],
+    "MetaCyc": [
+      "2.7.4.20-RXN",
+      "2.7.4.20-RXN"
+    ],
+    "RHEA": [
+      "19417"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dolichyl diphosphate + long-chain-polyphosphate = dolichol-phosphate + long-chain-polyphosphate.",
+  "namespace": "molecular_function",
+  "label": "dolichyl-diphosphate-polyphosphate phosphotransferase activity"
+}

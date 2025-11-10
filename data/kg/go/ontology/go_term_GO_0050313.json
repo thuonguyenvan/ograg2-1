@@ -1,0 +1,42 @@
+{
+  "id": "GO:0050313",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050313",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulphur dioxygenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-sulfanylglutathione:oxygen oxidoreductase activity",
+      "sulfur oxygenase activity",
+      "sulfur:oxygen oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.18",
+      "1.13.11.18",
+      "1.13.11.18",
+      "1.13.11.18",
+      "1.13.11.18"
+    ],
+    "MetaCyc": [
+      "RXN-13161"
+    ],
+    "RHEA": [
+      "12981"
+    ],
+    "Reactome": [
+      "R-HSA-1614605"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-sulfanylglutathione + O2 + H2O = sulfite + glutathione + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "Persulfide sulfur is dioxygenated"
+}

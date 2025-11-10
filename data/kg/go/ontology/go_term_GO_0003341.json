@@ -1,0 +1,37 @@
+{
+  "id": "GO:0003341",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003341",
+  "relationships": {
+    "is_a": [
+      "GO:0007018"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "microtubule-based flagellum movement"
+    ],
+    "broad": [],
+    "narrow": [
+      "flagellar movement",
+      "flagellum movement"
+    ],
+    "related": [
+      "ciliary motility",
+      "cilium beating",
+      "flagellar motility"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "jl",
+      "bf",
+      "ascb_2009",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The directed, self-propelled movement of a cilium.",
+  "namespace": "biological_process",
+  "label": "cilium movement"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0051536",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051536",
+  "relationships": {
+    "is_a": [
+      "GO:0051540"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Fe/S binding",
+      "iron sulfur cluster binding",
+      "iron sulphur cluster binding",
+      "iron-sulphur cluster binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5690873"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Binding to an iron-sulfur cluster, a combination of iron and sulfur atoms.",
+  "namespace": "molecular_function",
+  "label": "ACO1 binds 4Fe-4S"
+}

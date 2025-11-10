@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102705",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102705",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-5641"
+    ],
+    "RHEA": [
+      "45824",
+      "45824"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "11461929"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H+ + L-serine = ethanolaminium(1+) + carbon dioxide.",
+  "namespace": "molecular_function",
+  "label": "serine decarboxylase activity"
+}

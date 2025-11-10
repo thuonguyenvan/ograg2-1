@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047803",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047803",
+  "relationships": {
+    "is_a": [
+      "GO:0016846"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-cysteine hydrogen-sulfide-lyase (adding sulfite)",
+      "L-cysteine hydrogen-sulfide-lyase (adding sulfite; L-cysteate-forming)",
+      "cysteine (sulfite) lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.4.1.10",
+      "4.4.1.10",
+      "4.4.1.10",
+      "4.4.1.10",
+      "4.4.1.10"
+    ],
+    "MetaCyc": [
+      "CYSTEINE-LYASE-RXN",
+      "CYSTEINE-LYASE-RXN"
+    ],
+    "RHEA": [
+      "20916"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-cysteine + sulfite = L-cysteate + sulfide.",
+  "namespace": "molecular_function",
+  "label": "cysteine lyase activity"
+}

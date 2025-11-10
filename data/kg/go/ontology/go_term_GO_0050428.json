@@ -1,0 +1,44 @@
+{
+  "id": "GO:0050428",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050428",
+  "relationships": {
+    "is_a": [
+      "GO:0009152",
+      "GO:0034036",
+      "GO:0044272",
+      "GO:0050427"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3&apos;-phosphoadenosine 5&apos;-phosphosulfate anabolism",
+      "3&apos;-phosphoadenosine 5&apos;-phosphosulfate biosynthesis",
+      "3&apos;-phosphoadenosine 5&apos;-phosphosulfate formation",
+      "3&apos;-phosphoadenosine 5&apos;-phosphosulfate synthesis",
+      "3&apos;-phosphoadenosine 5&apos;-phosphosulphate biosynthesis",
+      "3&apos;-phosphoadenosine 5&apos;-phosphosulphate biosynthetic process",
+      "3&apos;-phosphoadenylyl-sulfate biosynthesis",
+      "3&apos;-phosphoadenylyl-sulfate biosynthetic process",
+      "PAPS biosynthesis",
+      "PAPS biosynthetic process",
+      "adenosine 3&apos;-phosphate 5&apos;-phosphosulfate biosynthesis",
+      "adenosine 3&apos;-phosphate 5&apos;-phosphosulfate biosynthetic process",
+      "phosphoadenosine phosphosulfate biosynthesis",
+      "phosphoadenosine phosphosulfate biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5340"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of 3&apos;-phosphoadenosine 5&apos;-phosphosulfate, a naturally occurring mixed anhydride. It is an intermediate in the formation of a variety of sulfo compounds in biological systems.",
+  "namespace": "biological_process",
+  "label": "3&apos;-phosphoadenosine 5&apos;-phosphosulfate biosynthetic process"
+}

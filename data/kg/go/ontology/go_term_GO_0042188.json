@@ -1,0 +1,31 @@
+{
+  "id": "GO:0042188",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042188",
+  "relationships": {
+    "is_a": [
+      "GO:0018977",
+      "GO:0042205",
+      "GO:0046701"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane breakdown",
+      "1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane catabolism",
+      "1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane degradation",
+      "DDT catabolic process",
+      "DDT catabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of 1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane (DDT), a chlorinated broad spectrum contact insecticide.",
+  "namespace": "biological_process",
+  "label": "1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane catabolic process"
+}

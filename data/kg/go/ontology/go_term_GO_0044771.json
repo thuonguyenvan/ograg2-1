@@ -1,0 +1,26 @@
+{
+  "id": "GO:0044771",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044771",
+  "relationships": {
+    "is_a": [
+      "GO:0044770",
+      "GO:1903046"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "cell cycle transition"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle"
+    ]
+  },
+  "definition": "The cell cycle process by which a cell commits to entering the next meiotic cell cycle phase.",
+  "namespace": "biological_process",
+  "label": "meiotic cell cycle phase transition"
+}

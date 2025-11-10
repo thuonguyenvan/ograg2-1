@@ -1,0 +1,30 @@
+{
+  "id": "GO:0015577",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015577",
+  "relationships": {
+    "is_a": [
+      "GO:0015144",
+      "GO:0015166"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "galactitol permease activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of a galactitol from one side of a membrane to the other. Galactitol is the hexitol derived by the reduction of the aldehyde group of either D- or L-galactose.",
+  "namespace": "molecular_function",
+  "label": "galactitol transmembrane transporter activity"
+}

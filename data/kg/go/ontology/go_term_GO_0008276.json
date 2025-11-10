@@ -1,0 +1,29 @@
+{
+  "id": "GO:0008276",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008276",
+  "relationships": {
+    "is_a": [
+      "GO:0008168",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein methylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9632182"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a methyl group (CH3-) to a protein.",
+  "namespace": "molecular_function",
+  "label": "PRMT1 methylates ESRs"
+}

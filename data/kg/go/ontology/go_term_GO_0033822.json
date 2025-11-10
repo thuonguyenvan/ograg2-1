@@ -1,0 +1,38 @@
+{
+  "id": "GO:0033822",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033822",
+  "relationships": {
+    "is_a": [
+      "GO:0046527"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "T6-beta-glucosyl transferase activity",
+      "T6-glucosyl-HMC-beta-glucosyl transferase activity",
+      "UDP-glucose:D-glucosyl-DNA beta-D-glucosyltransferase activity",
+      "UDPglucose:D-glucosyl-DNA beta-D-glucosyltransferase activity",
+      "uridine diphosphoglucose-glucosyldeoxyribonucleate beta-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.28",
+      "2.4.1.28",
+      "2.4.1.28",
+      "2.4.1.28",
+      "2.4.1.28",
+      "2.4.1.28",
+      "2.4.1.28"
+    ],
+    "MetaCyc": [
+      "2.4.1.28-RXN"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a beta-D-glucosyl residue from UDP-glucose to a glucosylhydroxymethylcytosine residue in DNA.",
+  "namespace": "molecular_function",
+  "label": "glucosyl-DNA beta-glucosyltransferase activity"
+}

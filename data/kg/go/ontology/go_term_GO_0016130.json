@@ -1,0 +1,28 @@
+{
+  "id": "GO:0016130",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016130",
+  "relationships": {
+    "is_a": [
+      "GO:0006706"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phytosteroid breakdown",
+      "phytosteroid catabolism",
+      "phytosteroid degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of phytosteroids, steroids that differ from animal steroids in having substitutions at C24 and/or a double bond at C22. Phytosteroids are so named because they occur in higher plants; some, notably ergosterol, are also found in fungi.",
+  "namespace": "biological_process",
+  "label": "phytosteroid catabolic process"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0031631",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031631",
+  "relationships": {
+    "is_a": [
+      "GO:0031339",
+      "GO:0031630",
+      "GO:1901633",
+      "GO:2000301"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of synaptic vesicle fusion to presynaptic active zone membrane",
+      "down-regulation of synaptic vesicle fusion to presynaptic active zone membrane",
+      "downregulation of synaptic vesicle fusion to presynaptic active zone membrane",
+      "negative regulation of synaptic vesicle fusion to pre-synaptic active zone membrane"
+    ],
+    "broad": [
+      "down regulation of synaptic vesicle fusion to presynaptic membrane",
+      "down-regulation of synaptic vesicle fusion to presynaptic membrane",
+      "downregulation of synaptic vesicle fusion to presynaptic membrane",
+      "inhibition of synaptic vesicle fusion to presynaptic membrane",
+      "negative regulation of synaptic vesicle fusion to pre-synaptic membrane",
+      "negative regulation of synaptic vesicle fusion to presynaptic membrane"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of synaptic vesicle fusion to the presynaptic membrane.",
+  "namespace": "biological_process",
+  "label": "negative regulation of synaptic vesicle fusion to presynaptic active zone membrane"
+}

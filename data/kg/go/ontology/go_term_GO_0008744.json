@@ -1,0 +1,37 @@
+{
+  "id": "GO:0008744",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008744",
+  "relationships": {
+    "is_a": [
+      "GO:0019200"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:L-xylulose 5-phosphotransferase activity",
+      "L-xylulokinase (phosphorylating)",
+      "L-xylulose kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.53",
+      "2.7.1.53",
+      "2.7.1.53",
+      "2.7.1.53",
+      "2.7.1.53"
+    ],
+    "MetaCyc": [
+      "LYXK-RXN"
+    ],
+    "RHEA": [
+      "18869"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + L-xylulose = ADP + L-xylulose 5-phosphate.",
+  "namespace": "molecular_function",
+  "label": "L-xylulokinase activity"
+}

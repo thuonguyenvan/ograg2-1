@@ -1,0 +1,31 @@
+{
+  "id": "GO:0001192",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001192",
+  "relationships": {
+    "is_a": [
+      "GO:0032774"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "maintenance of transcriptional fidelity during DNA-dependent transcription elongation",
+      "maintenance of transcriptional fidelity during DNA-dependent transcription elongation from bacterial-type RNA polymerase promoter",
+      "maintenance of transcriptional fidelity during DNA-templated transcription elongation"
+    ],
+    "broad": [],
+    "narrow": [
+      "maintenance of transcriptional fidelity during DNA-templated transcription elongation from bacterial-type RNA polymerase promoter"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH",
+      "txnOH",
+      "txnOH"
+    ]
+  },
+  "definition": "Suppression of the occurrence of transcriptional errors, such as substitutions and/or insertions of nucleotides that do not correctly match the template base, during the process of transcription elongation on a DNA template.",
+  "namespace": "biological_process",
+  "label": "maintenance of transcriptional fidelity during transcription elongation"
+}

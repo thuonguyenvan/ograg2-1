@@ -1,0 +1,37 @@
+{
+  "id": "GO:0001181",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001181",
+  "relationships": {
+    "is_a": [
+      "GO:0140223"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA polymerase I transcription general initiation factor activity",
+      "general RNA polymerase I transcription factor activity"
+    ],
+    "broad": [
+      "core RNA polymerase I binding transcription factor activity",
+      "transcription factor activity, core RNA polymerase I binding"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH-2018"
+    ],
+    "PMID": [
+      "11500378",
+      "17972917",
+      "25346433",
+      "28340337",
+      "28842442",
+      "31358304"
+    ]
+  },
+  "definition": "A general transcription initiation factor activity that contributes to transcription start site selection and transcription initiation of genes transcribed by RNA polymerase I. Factors required for RNA polymerase I transcription initiation include upstream activation factor (UAF), core factor (CF), TATA binding protein (TBP) and RRN3. In all species characterized, RNA polymerase I transcribes a large polycistronic transcript that is processed into several mature rRNAs (3 or 4 depending on the species), including the large subunit rRNA (28S in humans), the small subunit rRNA (18S in humans), as well as one or two additional smaller rRNAs (the 5.8S rRNA in humans). In most species, this large rRNA transcript is the sole product of RNA polymerase I. However there are rare exceptions, such as Trypanosoma brucei, where RNA polymerase I also transcribes certain mRNAs.",
+  "namespace": "molecular_function",
+  "label": "RNA polymerase I general transcription initiation factor activity"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:1902806",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902806",
+  "relationships": {
+    "is_a": [
+      "GO:1901987"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_cell_cycle"
+    ],
+    "GO_REF": [
+      "0000058"
+    ]
+  },
+  "definition": "Any signaling pathway that modulates the activity of a cell cycle cyclin-dependent protein kinase to modulate the switch from G1 phase to S phase of the cell cycle.",
+  "namespace": "biological_process",
+  "label": "regulation of cell cycle G1/S phase transition"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:0047647",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047647",
+  "relationships": {
+    "is_a": [
+      "GO:0016791"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-alkyl-2-acetyl-sn-glycero-3-phosphate phosphohydrolase activity",
+      "1-alkyl-2-lyso-sn-glycero-3-P:acetyl-CoA acetyltransferase activity",
+      "alkylacetylglycerophosphate phosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.3.59",
+      "3.1.3.59",
+      "3.1.3.59",
+      "3.1.3.59"
+    ],
+    "KEGG_REACTION": [
+      "R03454"
+    ],
+    "MetaCyc": [
+      "ALKYLACETYLGLYCEROPHOSPHATASE-RXN"
+    ],
+    "RHEA": [
+      "18221",
+      "18221"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-alkyl-2-acetyl-sn-glycerol 3-phosphate + H2O = 2-acetyl-1-alkyl-sn-glycerol + phosphate.",
+  "namespace": "molecular_function",
+  "label": "alkylacetylglycerophosphatase activity"
+}

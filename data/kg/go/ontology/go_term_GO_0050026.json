@@ -1,0 +1,37 @@
+{
+  "id": "GO:0050026",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050026",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-(+)-glycol:NAD(P) oxidoreductase activity",
+      "L-glycol:NAD(P) dehydrogenase activity",
+      "L-glycol:NAD(P)+ oxidoreductase activity",
+      "glycol (nicotinamide adenine dinucleotide (phosphate)) dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.185",
+      "1.1.1.185",
+      "1.1.1.185",
+      "1.1.1.185",
+      "1.1.1.185",
+      "1.1.1.185"
+    ],
+    "MetaCyc": [
+      "L-GLYCOL-DEHYDROGENASE-RXN",
+      "L-GLYCOL-DEHYDROGENASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an L-glycol + NAD(P)+ = a 2-hydroxycarbonyl compound + NAD(P)H + H+.",
+  "namespace": "molecular_function",
+  "label": "L-glycol dehydrogenase activity"
+}

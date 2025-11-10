@@ -1,0 +1,38 @@
+{
+  "id": "GO:0004560",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004560",
+  "relationships": {
+    "is_a": [
+      "GO:0015928"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alpha-L-fucoside fucohydrolase activity",
+      "alpha-fucosidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.51",
+      "3.2.1.51",
+      "3.2.1.51",
+      "3.2.1.51"
+    ],
+    "MetaCyc": [
+      "ALPHA-L-FUCOSIDASE-RXN"
+    ],
+    "RHEA": [
+      "12288"
+    ],
+    "Reactome": [
+      "R-HSA-5693807"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an alpha-L-fucoside + H2O = an alcohol + L-fucose.",
+  "namespace": "molecular_function",
+  "label": "FUCA1 hydrolyses NGP:1,6-GlcNAc"
+}

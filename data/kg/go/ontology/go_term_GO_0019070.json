@@ -1,0 +1,29 @@
+{
+  "id": "GO:0019070",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019070",
+  "relationships": {
+    "is_a": [
+      "GO:0016032"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-168330"
+    ],
+    "GOC": [
+      "pk"
+    ],
+    "PMID": [
+      "21490093"
+    ]
+  },
+  "definition": "The processes involved in creating a mature, stable viral genome. Begins after genome replication with a newly synthesized nucleic acid and ends when the genome is ready to be packaged. Includes the addition of proteins to the newly synthesized genome, and DNA repair processes.",
+  "namespace": "biological_process",
+  "label": "Viral RNP Complexes in the Host Cell Nucleus"
+}

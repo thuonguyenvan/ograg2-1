@@ -1,0 +1,36 @@
+{
+  "id": "GO:0006747",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006747",
+  "relationships": {
+    "is_a": [
+      "GO:0046443",
+      "GO:0072388"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FAD anabolism",
+      "FAD biosynthesis",
+      "FAD formation",
+      "FAD synthesis",
+      "oxidized flavin adenine dinucleotide biosynthesis",
+      "oxidized flavin adenine dinucleotide biosynthetic process",
+      "oxidized flavin-adenine dinucleotide biosynthesis",
+      "oxidized flavin-adenine dinucleotide biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ],
+    "PMID": [
+      "20822113"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of FAD, the oxidized form of flavin-adenine dinucleotide.",
+  "namespace": "biological_process",
+  "label": "FAD biosynthetic process"
+}

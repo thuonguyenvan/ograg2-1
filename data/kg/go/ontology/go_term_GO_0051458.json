@@ -1,0 +1,37 @@
+{
+  "id": "GO:0051458",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051458",
+  "relationships": {
+    "is_a": [
+      "GO:0030072",
+      "GO:0060986"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ACTH secretion",
+      "adrenocorticotropic hormone secretion",
+      "adrenotropic hormone secretion",
+      "adrenotropin secretion",
+      "corticotropic hormone secretion"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "adrenocorticotropin secretion"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cjm",
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "11027914"
+    ]
+  },
+  "definition": "The regulated release of corticotropin by a cell. Corticotropin hormone is a polypeptide hormone synthesized and secreted from corticotropes in the anterior lobe of the pituitary gland in response to corticotropin-releasing hormone (CRH) released by the hypothalamus.",
+  "namespace": "biological_process",
+  "label": "corticotropin secretion"
+}

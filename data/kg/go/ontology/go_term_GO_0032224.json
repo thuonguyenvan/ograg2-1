@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032224",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032224",
+  "relationships": {
+    "is_a": [
+      "GO:0032222",
+      "GO:0050806"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of synaptic transmission, cholinergic",
+      "up-regulation of synaptic transmission, cholinergic",
+      "upregulation of synaptic transmission, cholinergic"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of synaptic transmission, cholinergic",
+      "stimulation of synaptic transmission, cholinergic"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates, maintains or increases the frequency, rate or extent of cholinergic synaptic transmission, the process of communication from a neuron to another neuron across a synapse using the neurotransmitter acetylcholine.",
+  "namespace": "biological_process",
+  "label": "positive regulation of synaptic transmission, cholinergic"
+}

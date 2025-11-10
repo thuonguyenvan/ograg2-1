@@ -1,0 +1,35 @@
+{
+  "id": "GO:0042727",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042727",
+  "relationships": {
+    "is_a": [
+      "GO:0009058",
+      "GO:0042726"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "flavin-containing compound anabolism",
+      "flavin-containing compound biosynthesis",
+      "flavin-containing compound formation",
+      "flavin-containing compound synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "riboflavin and derivative biosynthesis",
+      "riboflavin and derivative biosynthetic process",
+      "vitamin B2 and derivative biosynthesis",
+      "vitamin B2 and derivative biosynthetic process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of a flavin, any derivative of the dimethylisoalloxazine (7,8-dimethylbenzo[g]pteridine-2,4(3H,10H)-dione) skeleton, with a substituent on the 10 position.",
+  "namespace": "biological_process",
+  "label": "flavin-containing compound biosynthetic process"
+}

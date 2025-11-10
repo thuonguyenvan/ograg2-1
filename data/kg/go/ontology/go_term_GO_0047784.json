@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047784",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047784",
+  "relationships": {
+    "is_a": [
+      "GO:0016413"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetyl-CoA:cortisol O-acetyltransferase activity",
+      "corticosteroid acetyltransferase activity",
+      "corticosteroid-21-O-acetyltransferase activity",
+      "cortisol acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.27",
+      "2.3.1.27",
+      "2.3.1.27",
+      "2.3.1.27",
+      "2.3.1.27",
+      "2.3.1.27"
+    ],
+    "KEGG_REACTION": [
+      "R02837"
+    ],
+    "MetaCyc": [
+      "CORTISOL-O-ACETYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "17073",
+      "17073"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + cortisol = CoA + cortisol 21-acetate.",
+  "namespace": "molecular_function",
+  "label": "cortisol O-acetyltransferase activity"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "GO:0004438",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004438",
+  "relationships": {
+    "is_a": [
+      "GO:0052744"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphatidylinositol-3-phosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-phosphatidyl-1D-myo-inositol-3-phosphate 3-phosphohydrolase activity",
+      "D-myo-inositol-1,3-bisphosphate 3-phosphohydrolase activity",
+      "inositol 1,3-bisphosphate phosphatase activity",
+      "inositol-1,3-bisphosphate 3-phosphatase activity",
+      "inositol-polyphosphate 3-phosphatase activity",
+      "phosphatidyl-3-phosphate 3-phosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.3.64",
+      "3.1.3.64",
+      "3.1.3.64",
+      "3.1.3.64",
+      "3.1.3.64",
+      "3.1.3.64",
+      "3.1.3.64",
+      "3.1.3.64"
+    ],
+    "MetaCyc": [
+      "PHOSPHATIDYLINOSITOL-3-PHOSPHATASE-RXN"
+    ],
+    "RHEA": [
+      "12316"
+    ],
+    "Reactome": [
+      "R-HSA-1675795",
+      "R-HSA-1675994",
+      "R-HSA-1676114",
+      "R-HSA-1676141",
+      "R-HSA-6809325",
+      "R-HSA-6809720",
+      "R-HSA-6809777",
+      "R-HSA-6809975"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-phosphatidyl-1D-myo-inositol 3-phosphate + H2O = 1-phosphatidyl-1D-myo-inositol + phosphate.",
+  "namespace": "molecular_function",
+  "label": "PI3P is dephosphorylated to PI by the MTMR2:SBF2 tetramer at the plasma membrane"
+}

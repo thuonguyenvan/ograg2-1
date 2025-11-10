@@ -1,0 +1,32 @@
+{
+  "id": "GO:0120301",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120301",
+  "relationships": {
+    "is_a": [
+      "GO:0120300",
+      "GO:0140993"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone lactyltransferase (CoA dependent) activity",
+      "histone lactyltransferase activity (CoA dependent)"
+    ],
+    "broad": [
+      "histone lactyltransferase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "31645732"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (L-lysyl-[histone] + lactoyl-CoA = CoA + H+ + N(6)-lactoyl-L-lysyl-[histone].",
+  "namespace": "molecular_function",
+  "label": "histone lactyltransferase (CoA-dependent) activity"
+}

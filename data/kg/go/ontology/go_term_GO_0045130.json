@@ -1,0 +1,42 @@
+{
+  "id": "GO:0045130",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045130",
+  "relationships": {
+    "is_a": [
+      "GO:0050698"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "keratan sulfate Gal-6-sulfotransferase activity",
+      "keratan sulphotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3&apos;-phosphoadenylyl keratan sulfotransferase activity",
+      "3&apos;-phosphoadenylyl-sulfate:keratan 6&apos;-sulfotransferase activity",
+      "3&apos;-phosphoadenylylsulfate:keratan sulfotransferase activity",
+      "keratan sulfate sulfotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.21",
+      "2.8.2.21",
+      "2.8.2.21",
+      "2.8.2.21",
+      "2.8.2.21",
+      "2.8.2.21"
+    ],
+    "MetaCyc": [
+      "KERATAN-SULFOTRANSFERASE-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-2046175"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;-phosphoadenosine 5&apos;-phosphosulfate + keratan = adenosine 3&apos;,5&apos;-bisphosphate + keratan 6&apos;-sulfate.",
+  "namespace": "molecular_function",
+  "label": "CHST1 transfers sulfate to Gal on keratan chain"
+}

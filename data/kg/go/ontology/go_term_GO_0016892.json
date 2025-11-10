@@ -1,0 +1,34 @@
+{
+  "id": "GO:0016892",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016892",
+  "relationships": {
+    "is_a": [
+      "GO:0004521",
+      "GO:0016788"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "endoribonuclease activity, producing 3&apos;-phosphomonoesters",
+      "endoribonuclease activity, producing other than 5&apos;-phosphomonoesters"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.27.-"
+    ],
+    "Reactome": [
+      "R-HSA-9705961",
+      "R-HSA-9755252"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of ester linkages within ribonucleic acids by creating internal breaks to yield 3&apos;-phosphomonoesters.",
+  "namespace": "molecular_function",
+  "label": "nsp15 cleaves viral poly(U)-RNA"
+}

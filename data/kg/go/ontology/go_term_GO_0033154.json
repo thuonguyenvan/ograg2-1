@@ -1,0 +1,38 @@
+{
+  "id": "GO:0033154",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033154",
+  "relationships": {
+    "is_a": [
+      "GO:0015422"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "oligogalacturonide-transporting ATPase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "oligogalacturonide transmembrane transporter activity"
+    ],
+    "related": [
+      "ATP-dependent oligogalacturonide transmembrane transporter activity",
+      "ATPase-coupled oligogalacturonide transmembrane transporter activity",
+      "oligogalacturonide transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "TC": [
+      "3.A.1.1.11"
+    ],
+    "GOC": [
+      "mlg"
+    ],
+    "PMID": [
+      "11555291",
+      "17451747"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + oligogalacturonide(out) = ADP + phosphate + oligogalacturonide(in).",
+  "namespace": "molecular_function",
+  "label": "ABC-type oligogalacturonide transporter activity"
+}

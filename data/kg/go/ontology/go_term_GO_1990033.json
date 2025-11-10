@@ -1,0 +1,30 @@
+{
+  "id": "GO:1990033",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990033",
+  "relationships": {
+    "is_a": [
+      "GO:0061845"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "branch point of dendrite"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1348591767",
+      "sao1348591767"
+    ],
+    "GOC": [
+      "aruk",
+      "bc"
+    ]
+  },
+  "definition": "The part of a dendritic tree where it branches, giving rise to a dendritic branch.",
+  "namespace": "cellular_component",
+  "label": "dendritic branch point"
+}

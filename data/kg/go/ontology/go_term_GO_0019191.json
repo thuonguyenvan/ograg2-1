@@ -1,0 +1,29 @@
+{
+  "id": "GO:0019191",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019191",
+  "relationships": {
+    "is_a": [
+      "GO:0015154"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellobiose permease activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0198506732",
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of cellobiose from one side of a membrane to the other. Cellobiose, or 4-O-beta-D-glucopyranosyl-D-glucose, is a disaccharide that represents the basic repeating unit of cellulose.",
+  "namespace": "molecular_function",
+  "label": "cellobiose transmembrane transporter activity"
+}

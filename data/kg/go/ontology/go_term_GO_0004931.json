@@ -1,0 +1,40 @@
+{
+  "id": "GO:0004931",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004931",
+  "relationships": {
+    "is_a": [
+      "GO:0005231",
+      "GO:0035381",
+      "GO:0099094"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "extracellularly ATP-gated cation channel activity",
+      "purinoceptor",
+      "purinoreceptor"
+    ],
+    "narrow": [],
+    "related": [
+      "P2X receptor"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-877187",
+      "R-HSA-9905964"
+    ],
+    "GOC": [
+      "bf",
+      "mah"
+    ],
+    "PMID": [
+      "9755289",
+      "9755289"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of a monoatomic cation by a channel that opens when ATP is bound by the channel complex or one of its constituent parts on the extracellular side of the plasma membrane.",
+  "namespace": "molecular_function",
+  "label": "P2RX7 in ATP:P2RX7:PANX1 transports cations from the extracellular region to the cytosol"
+}

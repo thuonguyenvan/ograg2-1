@@ -1,0 +1,52 @@
+{
+  "id": "GO:0004517",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004517",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nitric oxide synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-arginine,NADPH:oxygen oxidoreductase (nitric-oxide-forming) activity",
+      "NADPH-diaphorase activity",
+      "NO synthase activity",
+      "endothelium-derived relaxation factor-forming enzyme activity",
+      "endothelium-derived relaxing factor synthase activity",
+      "nitric oxide synthetase activity",
+      "nitric-oxide synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.39",
+      "1.14.13.39",
+      "1.14.13.39",
+      "1.14.13.39",
+      "1.14.13.39",
+      "1.14.13.39",
+      "1.14.13.39",
+      "1.14.13.39",
+      "1.14.13.39"
+    ],
+    "MetaCyc": [
+      "NITRIC-OXIDE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "19897",
+      "19897"
+    ],
+    "Reactome": [
+      "R-HSA-202127",
+      "R-HSA-418436"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-arginine + n NADPH + n H+ + m O2 = citrulline + nitric oxide + n NADP+.",
+  "namespace": "molecular_function",
+  "label": "Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)"
+}

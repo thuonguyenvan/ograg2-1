@@ -1,0 +1,38 @@
+{
+  "id": "GO:1901268",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901268",
+  "relationships": {
+    "is_a": [
+      "GO:0043646",
+      "GO:0046394",
+      "GO:1901266"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cephalosporin C anabolism",
+      "cephalosporin C biosynthesis",
+      "cephalosporin C formation",
+      "cephalosporin C synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "UniPathway": [
+      "UPA00172"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of cephalosporin C.",
+  "namespace": "biological_process",
+  "label": "cephalosporin C biosynthetic process"
+}

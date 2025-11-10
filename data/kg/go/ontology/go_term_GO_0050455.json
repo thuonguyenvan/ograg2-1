@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050455",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050455",
+  "relationships": {
+    "is_a": [
+      "GO:0046993"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "berberine synthase activity",
+      "columbamine:oxygen oxidoreductase (cyclizing)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.21.3.2",
+      "1.21.3.2",
+      "1.21.3.2"
+    ],
+    "KEGG_REACTION": [
+      "R00044"
+    ],
+    "MetaCyc": [
+      "COLUMBAMINE-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "23564",
+      "23564"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 columbamine + O2 = 2 berberine + 2 H2O.",
+  "namespace": "molecular_function",
+  "label": "columbamine oxidase activity"
+}

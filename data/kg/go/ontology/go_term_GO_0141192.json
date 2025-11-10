@@ -1,0 +1,34 @@
+{
+  "id": "GO:0141192",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141192",
+  "relationships": {
+    "is_a": [
+      "GO:0070566"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "adenine triphosphate adenylyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "34935",
+      "34935"
+    ],
+    "Reactome": [
+      "R-HSA-9825790"
+    ],
+    "PMID": [
+      "16884494",
+      "19710017",
+      "27398309"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 ATP + H+ = diphosphate + P(1),P(4)-bis(5&apos;-adenosyl)tetraphosphate.",
+  "namespace": "molecular_function",
+  "label": "p-S207 KARS1 dimer synthesizes A(5&apos;)p4(5&apos;)A"
+}

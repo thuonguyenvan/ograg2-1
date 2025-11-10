@@ -1,0 +1,31 @@
+{
+  "id": "GO:0000452",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000452",
+  "relationships": {
+    "is_a": [
+      "GO:0000451"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "snoRNA guided rRNA 2&apos;-O-ribose methylation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "curators",
+      "ascb_2009",
+      "dph",
+      "tb"
+    ],
+    "ISBN": [
+      "1555811337"
+    ]
+  },
+  "definition": "The posttranscriptional addition of methyl groups to the 2&apos;-oxygen atom of nucleotide residues in an rRNA molecule during ribosome biogenesis using a snoRNA guide that targets the position of methylation.",
+  "namespace": "biological_process",
+  "label": "snoRNA guided rRNA 2&apos;-O-methylation"
+}

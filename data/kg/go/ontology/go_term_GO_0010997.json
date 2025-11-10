@@ -1,0 +1,29 @@
+{
+  "id": "GO:0010997",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010997",
+  "relationships": {
+    "is_a": [
+      "GO:0044877"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "APC binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Binding to an anaphase-promoting complex. A ubiquitin ligase complex that degrades mitotic cyclins and anaphase inhibitory protein, thereby triggering sister chromatid separation and exit from mitosis.",
+  "namespace": "molecular_function",
+  "label": "anaphase-promoting complex binding"
+}

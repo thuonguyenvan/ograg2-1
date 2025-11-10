@@ -1,0 +1,34 @@
+{
+  "id": "GO:0036408",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036408",
+  "relationships": {
+    "is_a": [
+      "GO:0010484"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone H3-K14 acetyltransferase activity",
+      "histone acetylase activity (H3-K14 specific)",
+      "histone acetyltransferase activity (H3-K14 specific)",
+      "histone lysine N-acetyltransferase activity (H3-K14 specific)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw",
+      "bf"
+    ],
+    "PMID": [
+      "18552846",
+      "19056256",
+      "21289066"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + histone H3 L-lysine (position 14) = CoA + histone H3 N6-acetyl-L-lysine (position 14).",
+  "namespace": "molecular_function",
+  "label": "histone H3K14 acetyltransferase activity"
+}

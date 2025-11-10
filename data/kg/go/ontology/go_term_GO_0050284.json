@@ -1,0 +1,42 @@
+{
+  "id": "GO:0050284",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050284",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose:sinapate D-glucosyltransferase activity",
+      "UDPglucose:sinapate D-glucosyltransferase activity",
+      "UDPglucose:sinapic acid glucosyltransferase activity",
+      "uridine 5&apos;-diphosphoglucose-hydroxycinnamic acid acylglucosyltransferase activity",
+      "uridine diphosphoglucose-sinapate glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.120",
+      "2.4.1.120",
+      "2.4.1.120",
+      "2.4.1.120",
+      "2.4.1.120",
+      "2.4.1.120",
+      "2.4.1.120"
+    ],
+    "MetaCyc": [
+      "SINAPATE-1-GLUCOSYLTRANSFERASE-RXN",
+      "SINAPATE-1-GLUCOSYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "13305"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-glucose + sinapate = UDP + 1-sinapoyl-D-glucose.",
+  "namespace": "molecular_function",
+  "label": "sinapate 1-glucosyltransferase activity"
+}

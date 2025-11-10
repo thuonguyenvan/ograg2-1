@@ -1,0 +1,31 @@
+{
+  "id": "GO:0019659",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019659",
+  "relationships": {
+    "is_a": [
+      "GO:0006007",
+      "GO:0006089",
+      "GO:0006113"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucose fermentation to lactate",
+      "lactate fermentation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Lactic_acid_fermentation"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The anaerobic enzymatic chemical reactions and pathways resulting in the breakdown of glucose to lactate, and possibly ethanol, yielding energy in the form of adenosine triphosphate (ATP).",
+  "namespace": "biological_process",
+  "label": "glucose catabolic process to lactate"
+}

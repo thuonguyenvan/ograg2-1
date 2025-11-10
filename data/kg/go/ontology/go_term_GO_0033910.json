@@ -1,0 +1,38 @@
+{
+  "id": "GO:0033910",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033910",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,4-alpha-D-glucan maltotetraohydrolase activity",
+      "G4-amylase activity",
+      "exo-maltotetraohydrolase activity",
+      "glucan 1,4-alpha-maltotetrahydrolase activity",
+      "maltotetraose-forming amylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.60",
+      "3.2.1.60",
+      "3.2.1.60",
+      "3.2.1.60",
+      "3.2.1.60",
+      "3.2.1.60",
+      "3.2.1.60"
+    ],
+    "MetaCyc": [
+      "3.2.1.60-RXN"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of (1-&gt;4)-alpha-D-glucosidic linkages in amylaceous polysaccharides, to remove successive maltotetraose residues from the non-reducing chain ends.",
+  "namespace": "molecular_function",
+  "label": "glucan 1,4-alpha-maltotetraohydrolase activity"
+}

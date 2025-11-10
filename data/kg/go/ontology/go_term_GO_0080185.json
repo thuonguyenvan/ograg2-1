@@ -1,0 +1,67 @@
+{
+  "id": "GO:0080185",
+  "uri": "http://purl.obolibrary.org/obo/GO_0080185",
+  "relationships": {
+    "is_a": [
+      "GO:0034055",
+      "GO:0052158"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "activation by organism of host gene-for-gene resistance",
+      "activation by organism of host resistance gene-dependent defense response",
+      "activation by symbiont of host resistance gene-dependent defense response",
+      "effector-mediated induction of plant hypersensitive response by symbiont",
+      "induction by organism of host gene-for-gene resistance",
+      "induction by symbiont of host resistance gene-dependent defense response",
+      "positive regulation by organism of host gene-for-gene resistance",
+      "positive regulation by symbiont of plant HR",
+      "positive regulation by symbiont of plant hypersensitive response"
+    ],
+    "broad": [
+      "activation by organism of defense response in host by specific elicitors",
+      "effector-triggered immunity",
+      "induction by organism of defense response in host by specific elicitors",
+      "induction by organism of pathogen-race/host plant cultivar-specific resistance in host",
+      "induction by organism of resistance gene-dependent defense response of other organism involved in symbiotic interaction",
+      "positive regulation by organism of defense response in host by specific elicitors"
+    ],
+    "narrow": [
+      "activation of HR",
+      "activation of hypersensitive response"
+    ],
+    "related": [
+      "ETI triggered of host innate immune response",
+      "ETI-triggered of host innate immune response",
+      "avirulence protein",
+      "effector-triggered induction of host innate immune response",
+      "effector-triggered induction of plant hypersensitive response by symbiont",
+      "effector-triggered necrosis",
+      "induction of effector-triggered immunity (ETI)",
+      "necrotrophic effector",
+      "positive regulation by symbiont of host resistance gene-dependent defense response"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Effector-triggered_immunity"
+    ],
+    "PMID": [
+      "16497589",
+      "22241993",
+      "23411798",
+      "27641772",
+      "27641772"
+    ],
+    "GOC": [
+      "pamgo_curators",
+      "pamgo_curators",
+      "pamgo_curators",
+      "pamgo_curators"
+    ]
+  },
+  "definition": "A symbiont process in which a molecule secreted by the symbiont activates a resistance gene-dependent defense response signaling pathway in the plant host, in order to activate a hypersensitive response to induce necrosis. In the plant, this process involves the direct or indirect recognition of the symbiont effector protein for example through plant resistance receptor or R proteins (or R genes).",
+  "namespace": "biological_process",
+  "label": "effector-mediated activation of plant hypersensitive response by symbiont"
+}

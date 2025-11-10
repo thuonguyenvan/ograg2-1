@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102245",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102245",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.128",
+      "4.2.1.128"
+    ],
+    "MetaCyc": [
+      "RXN-12338"
+    ],
+    "RHEA": [
+      "31351"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: lupan-3beta,20-diol = (S)-2,3-epoxysqualene + H2O.",
+  "namespace": "molecular_function",
+  "label": "lupan-3beta,20-diol synthase activity"
+}

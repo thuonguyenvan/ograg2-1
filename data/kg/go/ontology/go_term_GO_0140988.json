@@ -1,0 +1,30 @@
+{
+  "id": "GO:0140988",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140988",
+  "relationships": {
+    "is_a": [
+      "GO:0015217",
+      "GO:0015315"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ADP:inorganic phosphate antiporter activity",
+      "inorganic phosphate:ADP antiporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "65844"
+    ],
+    "PMID": [
+      "15123600"
+    ]
+  },
+  "definition": "Enables the transfer of ADP from one side of a membrane to the other according to the reaction: ADP(out) + phosphate(in) = ADP(in) + phosphate(out).",
+  "namespace": "molecular_function",
+  "label": "ADP:phosphate antiporter activity"
+}

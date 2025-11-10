@@ -1,0 +1,39 @@
+{
+  "id": "GO:0033850",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033850",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(Z)-farnesyl diphosphate synthase activity",
+      "geranyl-diphosphate:isopentenyl-diphosphate geranylcistransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.68",
+      "2.5.1.68",
+      "2.5.1.68",
+      "2.5.1.68"
+    ],
+    "KEGG_REACTION": [
+      "R08528"
+    ],
+    "MetaCyc": [
+      "2.5.1.68-RXN"
+    ],
+    "RHEA": [
+      "23300",
+      "23300"
+    ]
+  },
+  "definition": "Catalysis of the reaction: geranyl diphosphate + isopentenyl diphosphate = 2-cis,6-trans-farnesyl diphosphate + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "Z-farnesyl diphosphate synthase activity"
+}

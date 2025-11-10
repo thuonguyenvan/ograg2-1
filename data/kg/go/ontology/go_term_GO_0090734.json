@@ -1,0 +1,26 @@
+{
+  "id": "GO:0090734",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090734",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "DNA_repair"
+    ],
+    "GOC": [
+      "pg"
+    ]
+  },
+  "definition": "A region of a chromosome at which DNA damage has occurred. DNA damage signaling and repair proteins accumulate at the lesion to respond to the damage and repair the DNA to form a continuous DNA helix.",
+  "namespace": "cellular_component",
+  "label": "site of DNA damage"
+}

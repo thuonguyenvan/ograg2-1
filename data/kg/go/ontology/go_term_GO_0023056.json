@@ -1,0 +1,30 @@
+{
+  "id": "GO:0023056",
+  "uri": "http://purl.obolibrary.org/obo/GO_0023056",
+  "relationships": {
+    "is_a": [
+      "GO:0023051",
+      "GO:0048518"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of signalling process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of signaling process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_signal",
+      "mah",
+      "bf"
+    ]
+  },
+  "definition": "Any process that activates, maintains or increases the frequency, rate or extent of a signaling process.",
+  "namespace": "biological_process",
+  "label": "positive regulation of signaling"
+}

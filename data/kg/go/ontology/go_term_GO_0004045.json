@@ -1,0 +1,49 @@
+{
+  "id": "GO:0004045",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004045",
+  "relationships": {
+    "is_a": [
+      "GO:0052689",
+      "GO:0140101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "aminoacyl-tRNA hydrolase reaction"
+    ],
+    "broad": [],
+    "narrow": [
+      "D-tyrosyl-tRNA hydrolase activity"
+    ],
+    "related": [
+      "N-substituted aminoacyl transfer RNA hydrolase activity",
+      "aminoacyl-tRNA aminoacylhydrolase activity",
+      "aminoacyl-transfer ribonucleate hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.29",
+      "3.1.1.29",
+      "3.1.1.29",
+      "3.1.1.29"
+    ],
+    "MetaCyc": [
+      "AMINOCYL-TRNA-HYDROLASE-RXN"
+    ],
+    "RHEA": [
+      "54448",
+      "54448"
+    ],
+    "Reactome": [
+      "R-HSA-9937374",
+      "R-HSA-9937719"
+    ],
+    "PMID": [
+      "15292242"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an N-acyl-L-alpha-aminoacyl-tRNA + H2O = an N-acyl-L-amino acid + a tRNA + H+.",
+  "namespace": "molecular_function",
+  "label": "ICT1 hydrolyzes the peptidyl-tRNA bond of the nascent polypeptide"
+}

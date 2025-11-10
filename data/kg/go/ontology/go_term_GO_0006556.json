@@ -1,0 +1,38 @@
+{
+  "id": "GO:0006556",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006556",
+  "relationships": {
+    "is_a": [
+      "GO:0044272",
+      "GO:0046500"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "S-adenosyl methionine biosynthesis",
+      "S-adenosyl methionine biosynthetic process",
+      "S-adenosylmethionine anabolism",
+      "S-adenosylmethionine biosynthesis",
+      "S-adenosylmethionine formation",
+      "S-adenosylmethionine synthesis",
+      "SAM biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "SAM-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of S-adenosylmethionine, S-(5&apos;-adenosyl)-L-methionine, an important intermediate in one-carbon metabolism.",
+  "namespace": "biological_process",
+  "label": "S-adenosylmethionine biosynthetic process"
+}

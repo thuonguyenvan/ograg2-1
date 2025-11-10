@@ -1,0 +1,42 @@
+{
+  "id": "GO:0031071",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031071",
+  "relationships": {
+    "is_a": [
+      "GO:0016783"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "IscS",
+      "L-cysteine:enzyme cysteine sulfurtransferase activity",
+      "NIFS",
+      "SufS",
+      "cysteine desulfurylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.1.7",
+      "2.8.1.7",
+      "2.8.1.7",
+      "2.8.1.7",
+      "2.8.1.7",
+      "2.8.1.7",
+      "2.8.1.7"
+    ],
+    "RHEA": [
+      "43892"
+    ],
+    "Reactome": [
+      "R-HSA-1362408",
+      "R-HSA-947514"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-cysteine + [enzyme]-cysteine = L-alanine + [enzyme]-S-sulfanylcysteine.",
+  "namespace": "molecular_function",
+  "label": "PXLP-K198-NFS1 transfers sulfur from cysteine onto MOCS3"
+}

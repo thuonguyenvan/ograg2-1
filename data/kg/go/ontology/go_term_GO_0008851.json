@@ -1,0 +1,35 @@
+{
+  "id": "GO:0008851",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008851",
+  "relationships": {
+    "is_a": [
+      "GO:0016841"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ethanolamine ammonia-lyase (acetaldehyde-forming) activity",
+      "ethanolamine deaminase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.1.7",
+      "4.3.1.7",
+      "4.3.1.7",
+      "4.3.1.7"
+    ],
+    "MetaCyc": [
+      "ETHAMLY-RXN"
+    ],
+    "RHEA": [
+      "15313"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ethanolamine = acetaldehyde + NH3.",
+  "namespace": "molecular_function",
+  "label": "ethanolamine ammonia-lyase activity"
+}

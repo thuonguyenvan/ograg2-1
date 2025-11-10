@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033066",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033066",
+  "relationships": {
+    "is_a": [
+      "GO:0033061",
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "BC complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "16093548",
+      "17114795"
+    ]
+  },
+  "definition": "A DNA recombinase mediator complex that contains the Rad51 paralogs RAD51B and RAD51C, or orthologs thereof.",
+  "namespace": "cellular_component",
+  "label": "Rad51B-Rad51C complex"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0048504",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048504",
+  "relationships": {
+    "is_a": [
+      "GO:0003156",
+      "GO:0040034"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "timing of organ biosynthesis",
+      "timing of organ formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "dph",
+      "jid",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the rate, frequency or extent of animal organ formation at a consistent predetermined time point during development.",
+  "namespace": "biological_process",
+  "label": "regulation of timing of animal organ formation"
+}

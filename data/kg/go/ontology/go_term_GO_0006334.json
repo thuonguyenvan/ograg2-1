@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006334",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006334",
+  "relationships": {
+    "is_a": [
+      "GO:0034728",
+      "GO:0065004"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nucleosome modeling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "histone chaperone"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-774815"
+    ],
+    "GOC": [
+      "mah",
+      "vw"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a nucleosome, the beadlike structural units of eukaryotic chromatin composed of histones and DNA.",
+  "namespace": "biological_process",
+  "label": "Nucleosome assembly"
+}

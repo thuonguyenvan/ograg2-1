@@ -1,0 +1,51 @@
+{
+  "id": "GO:1904237",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904237",
+  "relationships": {
+    "is_a": [
+      "GO:0010811",
+      "GO:0030335",
+      "GO:1904235"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of substrate-bound cell migration, cell attachment to substrate",
+      "up regulation of substrate-bound cell migration, cell attachment to substrate",
+      "up regulation of substrate-dependent cell migration, cell attachment to substrate",
+      "up-regulation of substrate-bound cell migration, cell attachment to substrate",
+      "up-regulation of substrate-dependent cell migration, cell attachment to substrate",
+      "upregulation of substrate-bound cell migration, cell attachment to substrate",
+      "upregulation of substrate-dependent cell migration, cell attachment to substrate"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of substrate-bound cell migration, cell attachment to substrate",
+      "activation of substrate-dependent cell migration, cell attachment to substrate"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25834989"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of substrate-dependent cell migration, cell attachment to substrate.",
+  "namespace": "biological_process",
+  "label": "positive regulation of substrate-dependent cell migration, cell attachment to substrate"
+}

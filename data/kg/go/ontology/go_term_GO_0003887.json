@@ -1,0 +1,119 @@
+{
+  "id": "GO:0003887",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003887",
+  "relationships": {
+    "is_a": [
+      "GO:0034061"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "duplicase"
+    ],
+    "narrow": [
+      "DNA polymerase I",
+      "DNA polymerase II",
+      "DNA polymerase III",
+      "DNA polymerase V activity",
+      "DNA polymerase alpha",
+      "DNA polymerase beta",
+      "DNA polymerase gamma",
+      "Klenow fragment",
+      "Taq DNA polymerase",
+      "Taq Pol I",
+      "Tca DNA polymerase",
+      "alpha DNA polymerase activity",
+      "beta DNA polymerase activity",
+      "delta DNA polymerase activity",
+      "deoxyribonucleic polymerase I",
+      "epsilon DNA polymerase activity",
+      "eta DNA polymerase activity",
+      "gamma DNA-directed DNA polymerase activity",
+      "iota DNA polymerase activity",
+      "kappa DNA polymerase activity",
+      "lambda DNA polymerase activity",
+      "mu DNA polymerase activity",
+      "nu DNA polymerase activity",
+      "sigma DNA polymerase activity",
+      "theta DNA polymerase activity",
+      "zeta DNA polymerase activity"
+    ],
+    "related": [
+      "DNA duplicase activity",
+      "DNA nucleotidyltransferase (DNA-directed) activity",
+      "DNA replicase activity",
+      "DNA-dependent DNA polymerase activity",
+      "deoxynucleoside-triphosphate:DNA deoxynucleotidyltransferase (DNA-directed) activity",
+      "deoxyribonucleic acid duplicase activity",
+      "deoxyribonucleic duplicase activity",
+      "sequenase"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7",
+      "2.7.7.7"
+    ],
+    "MetaCyc": [
+      "DNA-DIRECTED-DNA-POLYMERASE-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-110311",
+      "R-HSA-110317",
+      "R-HSA-110319",
+      "R-HSA-110368",
+      "R-HSA-111253",
+      "R-HSA-164505",
+      "R-HSA-164513",
+      "R-HSA-174427",
+      "R-HSA-174444",
+      "R-HSA-5358579",
+      "R-HSA-5649723",
+      "R-HSA-5649883",
+      "R-HSA-5653840",
+      "R-HSA-5655892",
+      "R-HSA-5655965",
+      "R-HSA-5656148",
+      "R-HSA-5656158",
+      "R-HSA-5687360",
+      "R-HSA-5687640",
+      "R-HSA-5691001",
+      "R-HSA-5693593",
+      "R-HSA-6782208",
+      "R-HSA-6786166",
+      "R-HSA-68950",
+      "R-HSA-69116",
+      "R-HSA-73932",
+      "R-HSA-9710480",
+      "R-HSA-9914364",
+      "R-HSA-9914498"
+    ],
+    "GOC": [
+      "vw"
+    ]
+  },
+  "definition": "Catalysis of the reaction: deoxynucleoside triphosphate + DNA(n) = diphosphate + DNA(n+1); DNA-template-directed extension of the 3&apos;-end of a DNA strand by one nucleotide at a time.",
+  "namespace": "molecular_function",
+  "label": "POLG in the replisome polymerizes the L strand"
+}

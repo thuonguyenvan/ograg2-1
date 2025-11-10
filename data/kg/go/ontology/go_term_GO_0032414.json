@@ -1,0 +1,35 @@
+{
+  "id": "GO:0032414",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032414",
+  "relationships": {
+    "is_a": [
+      "GO:0022898",
+      "GO:0032411",
+      "GO:0034767"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of ion transporter activity",
+      "up regulation of ion transporter activity",
+      "up-regulation of ion transporter activity",
+      "upregulation of ion transporter activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of ion transporter activity",
+      "stimulation of ion transporter activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "tb",
+      "tb"
+    ]
+  },
+  "definition": "Any process that activates or increases the activity of an ion transporter.",
+  "namespace": "biological_process",
+  "label": "positive regulation of ion transmembrane transporter activity"
+}

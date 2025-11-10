@@ -1,0 +1,38 @@
+{
+  "id": "GO:1903101",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903101",
+  "relationships": {
+    "is_a": [
+      "GO:0031161",
+      "GO:1903100"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate breakdown",
+      "1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate catabolism",
+      "1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bhm",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000068"
+    ],
+    "PMID": [
+      "19037259"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of 1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate.",
+  "namespace": "biological_process",
+  "label": "1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate catabolic process"
+}

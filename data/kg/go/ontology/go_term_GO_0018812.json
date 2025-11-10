@@ -1,0 +1,33 @@
+{
+  "id": "GO:0018812",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018812",
+  "relationships": {
+    "is_a": [
+      "GO:0004300"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "33767",
+      "33767"
+    ],
+    "Reactome": [
+      "R-HSA-2066778",
+      "R-HSA-2066780",
+      "R-HSA-389986",
+      "R-HSA-390252",
+      "R-HSA-5676637",
+      "R-HSA-6809263",
+      "R-HSA-8957389"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 3-hydroxy-fatty acyl-CoA = a (2E)-enoyl-CoA + H2O.",
+  "namespace": "molecular_function",
+  "label": "RPP14 (HTD2) dehydrates 3HA-CoA to t2E-CoA"
+}

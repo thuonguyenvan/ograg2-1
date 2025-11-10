@@ -1,0 +1,30 @@
+{
+  "id": "GO:0034306",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034306",
+  "relationships": {
+    "is_a": [
+      "GO:0043937",
+      "GO:0051445"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of meiotic spore formation",
+      "regulation of meiotic sporulation",
+      "regulation of sexual spore formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "MAPKKK cascade during sporulation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of spore formation from the products of meiosis. An example of this is found in Saccharomyces cerevisiae.",
+  "namespace": "biological_process",
+  "label": "regulation of sexual sporulation"
+}

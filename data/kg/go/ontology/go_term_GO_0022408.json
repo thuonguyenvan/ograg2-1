@@ -1,0 +1,30 @@
+{
+  "id": "GO:0022408",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022408",
+  "relationships": {
+    "is_a": [
+      "GO:0007162",
+      "GO:0022407"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of cell-cell adhesion",
+      "down-regulation of cell-cell adhesion",
+      "downregulation of cell-cell adhesion"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of cell-cell adhesion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "isa_complete"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the rate or extent of cell adhesion to another cell.",
+  "namespace": "biological_process",
+  "label": "negative regulation of cell-cell adhesion"
+}

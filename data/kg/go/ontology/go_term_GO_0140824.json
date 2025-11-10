@@ -1,0 +1,31 @@
+{
+  "id": "GO:0140824",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140824",
+  "relationships": {
+    "is_a": [
+      "GO:0051920"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.11.1.24"
+    ],
+    "RHEA": [
+      "62620",
+      "62620"
+    ],
+    "PMID": [
+      "12707274",
+      "19820102"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [thioredoxin]-dithiol + a hydroperoxide = [thioredoxin]-disulfide + an alcohol + H2O.",
+  "namespace": "molecular_function",
+  "label": "thioredoxin-dependent peroxiredoxin activity"
+}

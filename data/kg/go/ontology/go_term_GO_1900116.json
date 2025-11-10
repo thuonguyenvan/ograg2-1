@@ -1,0 +1,41 @@
+{
+  "id": "GO:1900116",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900116",
+  "relationships": {
+    "is_a": [
+      "GO:0009968",
+      "GO:1900115"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of signal transduction in extracellular region",
+      "down-regulation of signal transduction in extracellular region",
+      "downregulation of signal transduction in extracellular region",
+      "negative regulation of signaling pathway in extracellular region",
+      "negative regulation of signalling pathway in extracellular region"
+    ],
+    "broad": [],
+    "narrow": [
+      "extracellular inhibition of signaling pathway",
+      "inhibition of signal transduction in extracellular region"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "signaling",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "bf",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any negative regulation of signal transduction that takes place in extracellular region.",
+  "namespace": "biological_process",
+  "label": "extracellular negative regulation of signal transduction"
+}

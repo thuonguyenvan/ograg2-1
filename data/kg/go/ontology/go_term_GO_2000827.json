@@ -1,0 +1,37 @@
+{
+  "id": "GO:2000827",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000827",
+  "relationships": {
+    "is_a": [
+      "GO:0000957",
+      "GO:0071026"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA quality control in mitochondria",
+      "RNA quality control in mitochondrion",
+      "RNA surveillance in mitochondria",
+      "aberrant RNA catabolic process in mitochondria",
+      "aberrant RNA catabolic process in mitochondrion"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "19864255"
+    ],
+    "GOC": [
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "The set of processes involved in identifying and degrading defective or aberrant RNAs that takes place in the mitochondrion.",
+  "namespace": "biological_process",
+  "label": "mitochondrial RNA surveillance"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "GO:0047096",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047096",
+  "relationships": {
+    "is_a": [
+      "GO:0004508"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-androstene-3,17-dione monooxygenase activity",
+      "androstene-3,17-dione hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "androst-4-ene-3,17-dione 17-oxidoreductase activity",
+      "androst-4-ene-3,17-dione hydroxylase activity",
+      "androst-4-ene-3,17-dione-hydrogen-donor:oxygen oxidoreductase (13-hydroxylating, lactonizing)",
+      "androstenedione monooxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.99.12",
+      "1.14.99.12",
+      "1.14.99.12",
+      "1.14.99.12",
+      "1.14.99.12",
+      "1.14.99.12"
+    ],
+    "KEGG_REACTION": [
+      "R01833"
+    ],
+    "MetaCyc": [
+      "1.14.99.12-RXN"
+    ],
+    "RHEA": [
+      "22696",
+      "22696"
+    ]
+  },
+  "definition": "Catalysis of the reaction: AH(2) + androst-4-ene-3,17-dione + O2 = A + H2O + testololactone.",
+  "namespace": "molecular_function",
+  "label": "androst-4-ene-3,17-dione monooxygenase activity"
+}

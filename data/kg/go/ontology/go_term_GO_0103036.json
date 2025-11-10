@@ -1,0 +1,26 @@
+{
+  "id": "GO:0103036",
+  "uri": "http://purl.obolibrary.org/obo/GO_0103036",
+  "relationships": {
+    "is_a": [
+      "GO:0050136"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NADH:menaquinone oxidoreductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "29235",
+      "29235"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a menaquinone + NADH + H+ = a menaquinol + NAD+.",
+  "namespace": "molecular_function",
+  "label": "NADH dehydrogenase (menaquinone) (non-electrogenic) activity"
+}

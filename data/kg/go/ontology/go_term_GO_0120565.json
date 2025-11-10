@@ -1,0 +1,27 @@
+{
+  "id": "GO:0120565",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120565",
+  "relationships": {
+    "is_a": [
+      "GO:0000026",
+      "GO:0004376"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GPI-MT-IV activity",
+      "glycosylphosphatidylinositol-mannosyltransferase IV activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "15208306"
+    ]
+  },
+  "definition": "Catalysis of the transfer of an alpha-D-mannosyl residue from dolichol-P-mannose to Man(3)-GlcN-acyl-PI, forming an alpha-(1-&gt;2)-D-mannosyl-D-mannose linkage. This transfers a fourth mannose to the GPI precursor, which is only present in some organisms/cell types.",
+  "namespace": "molecular_function",
+  "label": "dol-P-Man:Man(3)GlcN-acyl-PI alpha-1,2-mannosyltransferase activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0061615",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061615",
+  "relationships": {
+    "is_a": [
+      "GO:0006096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycolysis through fructose-6-phosphate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5484"
+    ],
+    "GOC": [
+      "dph",
+      "dph"
+    ],
+    "ISBN": [
+      "0201090910",
+      "0879010479"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a monosaccharide into pyruvate, occurring through a fructose-6-phosphate intermediate, with the concomitant production of ATP and NADH.",
+  "namespace": "biological_process",
+  "label": "glycolytic process through fructose-6-phosphate"
+}

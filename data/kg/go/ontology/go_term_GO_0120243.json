@@ -1,0 +1,35 @@
+{
+  "id": "GO:0120243",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120243",
+  "relationships": {
+    "is_a": [
+      "GO:0120241"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "2-iminobutanoate/2-iminopropanoate deaminase"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R11099"
+    ],
+    "MetaCyc": [
+      "RXN-15127"
+    ],
+    "RHEA": [
+      "40671",
+      "40671"
+    ],
+    "EC": [
+      "3.5.99.10"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-iminopropanoate + H2O = NH4(+) + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "2-iminopropanoate deaminase activity"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0016784",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016784",
+  "relationships": {
+    "is_a": [
+      "GO:0016783"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-mercaptopyruvate sulphurtransferase activity",
+      "mercaptopyruvate sulfurtransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-mercaptopyruvate:cyanide sulfurtransferase activity",
+      "beta-mercaptopyruvate sulfurtransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.1.2",
+      "2.8.1.2",
+      "2.8.1.2"
+    ],
+    "MetaCyc": [
+      "MERCAPYSTRANS-RXN"
+    ],
+    "RHEA": [
+      "21740",
+      "21740"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxo-3-sulfanylpropanoate + [thioredoxin]-dithiol = [thioredoxin]-disulfide + hydrogen sulfide + pyruvate + H+. Note that 2-oxo-3-sulfanylpropanoate is also known as 3-mercaptopyruvate.",
+  "namespace": "molecular_function",
+  "label": "3-mercaptopyruvate sulfurtransferase activity"
+}

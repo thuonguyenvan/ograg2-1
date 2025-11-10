@@ -1,0 +1,29 @@
+{
+  "id": "GO:0102047",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102047",
+  "relationships": {
+    "is_a": [
+      "GO:0016879"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-10429"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "15659623"
+    ]
+  },
+  "definition": "Catalysis of the reaction: indole-3-acetate + glycine + ATP(4-) = H+ + indole-3-acetyl-glycine + AMP(2-) + diphosphoric acid.",
+  "namespace": "molecular_function",
+  "label": "indole-3-acetyl-glycine synthetase activity"
+}

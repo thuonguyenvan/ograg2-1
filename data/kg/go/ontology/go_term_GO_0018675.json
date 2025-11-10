@@ -1,0 +1,44 @@
+{
+  "id": "GO:0018675",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018675",
+  "relationships": {
+    "is_a": [
+      "GO:0016712",
+      "GO:0019113"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(-)-limonene 6-monooxygenase activity",
+      "limonene 6-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(-)-limonene 6-hydroxylase activity",
+      "(-)-limonene,NADPH:oxygen oxidoreductase (6-hydroxylating) activity",
+      "(S)-limonene,NADPH:oxygen oxidoreductase (6-hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.51",
+      "1.14.14.51",
+      "1.14.14.51",
+      "1.14.14.51"
+    ],
+    "MetaCyc": [
+      "--LIMONENE-6-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "17945",
+      "17945"
+    ],
+    "UM-BBD_reactionID": [
+      "r0713"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (4S)-limonene + O2 + reduced [NADPH--hemoprotein reductase] = (1S,5R)-carveol + H+ + H2O + oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "(S)-limonene 6-monooxygenase activity"
+}

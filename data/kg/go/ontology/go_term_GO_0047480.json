@@ -1,0 +1,56 @@
+{
+  "id": "GO:0047480",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047480",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-N-acetylmuramoylalanine-D-glutamyl-lysine-D-alanyl-D-alanine ligase activity",
+      "UDP-N-acetylmuramoylalanyl-tripeptide-D-alanyl-D-alanine ligase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "MurF synthetase activity",
+      "UDP-MurNAc-L-Ala-D-Glu-L-Lys:D-Ala-D-Ala ligase activity",
+      "UDP-MurNAc-pentapeptide synthetase activity",
+      "UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysine:D-alanyl-D-alanine ligase (ADP-forming)",
+      "UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine synthetase activity",
+      "UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine synthetase activity",
+      "UDP-N-acetylmuramoylalanine-D-glutamyl-lysine--D-alanyl-D-alanine ligase activity",
+      "UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase activity",
+      "UDP-N-acetylmuramoylalanyl-D-glutamyl-lysine-D-alanyl-D-alanine ligase activity",
+      "UDPacetylmuramoylpentapeptide synthetase activity",
+      "uridine diphosphoacetylmuramoylpentapeptide synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.10",
+      "6.3.2.10",
+      "6.3.2.10",
+      "6.3.2.10",
+      "6.3.2.10",
+      "6.3.2.10",
+      "6.3.2.10",
+      "6.3.2.10",
+      "6.3.2.10",
+      "6.3.2.10",
+      "6.3.2.10",
+      "6.3.2.10",
+      "6.3.2.10"
+    ],
+    "MetaCyc": [
+      "6.3.2.10-RXN"
+    ],
+    "RHEA": [
+      "16085"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysine + ATP + D-alanyl-D-alanine = phosphate + UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine + ADP.",
+  "namespace": "molecular_function",
+  "label": "UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase activity"
+}

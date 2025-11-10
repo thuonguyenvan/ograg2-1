@@ -1,0 +1,34 @@
+{
+  "id": "GO:0009789",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009789",
+  "relationships": {
+    "is_a": [
+      "GO:0009787",
+      "GO:0009967"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of abscisic acid mediated signalling",
+      "up regulation of abscisic acid mediated signaling",
+      "up-regulation of abscisic acid mediated signaling",
+      "upregulation of abscisic acid mediated signaling"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of abscisic acid mediated signaling",
+      "stimulation of abscisic acid mediated signaling"
+    ],
+    "related": [
+      "positive regulation of abscisic acid mediated signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "lr"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of abscisic acid (ABA) signaling.",
+  "namespace": "biological_process",
+  "label": "positive regulation of abscisic acid-activated signaling pathway"
+}

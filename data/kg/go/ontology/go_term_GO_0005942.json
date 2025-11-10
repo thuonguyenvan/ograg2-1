@@ -1,0 +1,40 @@
+{
+  "id": "GO:0005942",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005942",
+  "relationships": {
+    "is_a": [
+      "GO:0061695",
+      "GO:0098796"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1-phosphatidylinositol 3-kinase complex",
+      "PI3K complex",
+      "phosphoinositide 3-kinase complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "PI3-kinase p85-subunit alpha- PI3-kinase p110 complex",
+      "PIK3C3-PIK3R4 complex",
+      "PIK3CA-PIK3R1 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf"
+    ],
+    "PMID": [
+      "24587488"
+    ],
+    "CORUM": [
+      "2575",
+      "429",
+      "439"
+    ]
+  },
+  "definition": "A protein complex capable of phosphatidylinositol 3-kinase activity and containing subunits of any phosphatidylinositol 3-kinase (PI3K) enzyme. These complexes are divided in three classes (called I, II and III) that differ for their presence across taxonomic groups and for the type of their constituents. Catalytic subunits of phosphatidylinositol 3-kinase enzymes are present in all 3 classes; regulatory subunits of phosphatidylinositol 3-kinase enzymes are present in classes I and III; adaptor proteins have been observed in class II complexes and may be present in other classes too.",
+  "namespace": "cellular_component",
+  "label": "phosphatidylinositol 3-kinase complex"
+}

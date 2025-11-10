@@ -1,0 +1,46 @@
+{
+  "id": "GO:0008176",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008176",
+  "relationships": {
+    "is_a": [
+      "GO:0016423"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA (guanine(46)-N7-)-methyltransferase activity",
+      "tRNA (guanosine(46)-N(7))-methyltransferase activity",
+      "tRNA (guanosine(46)-N7)-methyltransferase activity",
+      "tRNA (guanosine(46)-N7-)-methyltransferase activity"
+    ],
+    "broad": [
+      "7-methylguanine transfer ribonucleate methylase activity",
+      "N7-methylguanine methylase activity",
+      "tRNA (guanine-N7-)-methyltransferase activity",
+      "tRNA guanine 7-methyltransferase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.33",
+      "2.1.1.33",
+      "2.1.1.33",
+      "2.1.1.33"
+    ],
+    "MetaCyc": [
+      "TRNA-GUANINE-N7--METHYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "42708",
+      "42708"
+    ],
+    "Reactome": [
+      "R-HSA-6782286"
+    ]
+  },
+  "definition": "Catalysis of the reaction: guanosine46 in tRNA + S-adenosyl-L-methionine = N7-methylguanosine46 in tRNA + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "METTL1:WDR4 methylates guanosine-46 of tRNA(Phe) yielding 7-methylguanosine-46"
+}

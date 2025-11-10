@@ -1,0 +1,30 @@
+{
+  "id": "GO:0043266",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043266",
+  "relationships": {
+    "is_a": [
+      "GO:0010959"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of K+ transport",
+      "regulation of potassium transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of K+ conductance",
+      "regulation of potassium conductance",
+      "regulation of potassium ion conductance"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of the directed movement of potassium ions (K+) into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.",
+  "namespace": "biological_process",
+  "label": "regulation of potassium ion transport"
+}

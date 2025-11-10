@@ -1,0 +1,39 @@
+{
+  "id": "GO:0052692",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052692",
+  "relationships": {
+    "is_a": [
+      "GO:0004557"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "raffinose-specific alkaline alpha-galactosidase activity"
+    ],
+    "broad": [
+      "alkaline alpha-galactosidase activity",
+      "raffinose galactohydrolase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R01103"
+    ],
+    "MetaCyc": [
+      "RXN-11502"
+    ],
+    "RHEA": [
+      "70275",
+      "70275"
+    ],
+    "PMID": [
+      "20739305",
+      "20739305"
+    ]
+  },
+  "definition": "Catalysis of the reaction: raffinose + H2O = alpha-D-galactose + sucrose.",
+  "namespace": "molecular_function",
+  "label": "raffinose alpha-galactosidase activity"
+}

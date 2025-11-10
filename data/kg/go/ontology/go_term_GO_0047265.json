@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047265",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047265",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP glucose-poly(glycerol-phosphate) alpha-glucosyltransferase activity",
+      "UDP-glucose:poly(glycerol-phosphate) alpha-D-glucosyltransferase activity",
+      "UDPglucose:poly(glycerol-phosphate) alpha-D-glucosyltransferase activity",
+      "uridine diphosphoglucose-poly(glycerol-phosphate) alpha-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.52",
+      "2.4.1.52",
+      "2.4.1.52",
+      "2.4.1.52",
+      "2.4.1.52",
+      "2.4.1.52"
+    ],
+    "MetaCyc": [
+      "TEICHOICSYN5-RXN"
+    ],
+    "RHEA": [
+      "15845"
+    ]
+  },
+  "definition": "Catalysis of the reaction: poly(glycerol phosphate) + UDP-D-glucose = alpha-D-glucosylpoly(glycerol phosphate) + UDP.",
+  "namespace": "molecular_function",
+  "label": "poly(glycerol-phosphate) alpha-glucosyltransferase activity"
+}

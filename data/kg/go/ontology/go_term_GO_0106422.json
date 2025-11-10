@@ -1,0 +1,31 @@
+{
+  "id": "GO:0106422",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106422",
+  "relationships": {
+    "is_a": [
+      "GO:0010436"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.65"
+    ],
+    "RHEA": [
+      "33931",
+      "33931"
+    ],
+    "PMID": [
+      "19020100",
+      "19889630"
+    ]
+  },
+  "definition": "Catalysis of the reaction: Zeaxanthin + O2 = (3R)-11-cis-3-hydroxyretinal + (3R)-all-trans-3-hydroxyretinal.",
+  "namespace": "molecular_function",
+  "label": "carotenoid isomerooxygenase activity"
+}

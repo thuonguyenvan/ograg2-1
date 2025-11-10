@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047766",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047766",
+  "relationships": {
+    "is_a": [
+      "GO:0016841"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "O-carbamoyl-L-serine ammonia-lyase (decarboxylating; pyruvate-forming)",
+      "O-carbamoyl-L-serine ammonia-lyase (pyruvate-forming)",
+      "O-carbamoyl-L-serine deaminase activity",
+      "carbamoylserine deaminase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.1.13",
+      "4.3.1.13",
+      "4.3.1.13",
+      "4.3.1.13",
+      "4.3.1.13",
+      "4.3.1.13"
+    ],
+    "KEGG_REACTION": [
+      "R00213"
+    ],
+    "MetaCyc": [
+      "CARBAMOYL-SERINE-AMMONIA-LYASE-RXN"
+    ],
+    "RHEA": [
+      "15445",
+      "15445"
+    ]
+  },
+  "definition": "Catalysis of the reaction: O-carbamoyl-L-serine + H2O + H+ = CO2 + 2 NH4 + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "carbamoyl-serine ammonia-lyase activity"
+}

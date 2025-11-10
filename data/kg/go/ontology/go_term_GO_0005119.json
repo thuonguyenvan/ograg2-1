@@ -1,0 +1,31 @@
+{
+  "id": "GO:0005119",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005119",
+  "relationships": {
+    "is_a": [
+      "GO:0001664"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "smo binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "smo ligand",
+      "smoothened ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ceb"
+    ],
+    "PMID": [
+      "11731473"
+    ]
+  },
+  "definition": "Binding to a smoothened (smo) protein, which interacts with patched to transmit hedgehog signals.",
+  "namespace": "molecular_function",
+  "label": "smoothened binding"
+}

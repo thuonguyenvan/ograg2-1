@@ -1,0 +1,30 @@
+{
+  "id": "GO:0042944",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042944",
+  "relationships": {
+    "is_a": [
+      "GO:0022858",
+      "GO:0042943"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "D-alanine transporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of D-alanine from one side of a membrane to the other. D-alanine is the D-enantiomer of 2-aminopropanoic acid.",
+  "namespace": "molecular_function",
+  "label": "D-alanine transmembrane transporter activity"
+}

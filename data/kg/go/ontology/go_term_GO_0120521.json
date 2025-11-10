@@ -1,0 +1,27 @@
+{
+  "id": "GO:0120521",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120521",
+  "relationships": {
+    "is_a": [
+      "GO:0080132"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN3O-4042"
+    ],
+    "RHEA": [
+      "46520",
+      "46520"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an N-(1,2 saturated acyl)-(4R)-hydroxysphinganine + 2 Fe(II)-[cytochrome b5] + 2 H+ + O2 = an N-(2R-hydroxyacyl)-4R-hydroxysphinganine + 2 Fe(III)-[cytochrome b5] + H2O.",
+  "namespace": "molecular_function",
+  "label": "4-hydroxysphinganine ceramide fatty acyl 2-hydroxylase activity"
+}

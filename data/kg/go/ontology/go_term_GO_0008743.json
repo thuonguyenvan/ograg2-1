@@ -1,0 +1,43 @@
+{
+  "id": "GO:0008743",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008743",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "threonine 3-dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "L-threonine dehydrogenase activity",
+      "L-threonine:NAD+ oxidoreductase activity",
+      "threonine dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.103",
+      "1.1.1.103",
+      "1.1.1.103",
+      "1.1.1.103",
+      "1.1.1.103"
+    ],
+    "KEGG_REACTION": [
+      "R01465"
+    ],
+    "MetaCyc": [
+      "THREODEHYD-RXN"
+    ],
+    "RHEA": [
+      "13161",
+      "13161"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-threonine + NAD+ = L-2-amino-3-oxobutanoate + CO2 + NADH.",
+  "namespace": "molecular_function",
+  "label": "L-threonine 3-dehydrogenase activity"
+}

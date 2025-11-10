@@ -1,0 +1,26 @@
+{
+  "id": "GO:0103006",
+  "uri": "http://purl.obolibrary.org/obo/GO_0103006",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-9807"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H+ + (9R,10S)-dihydroxystearate + O2 + NADPH = 9,10,18-trihydroxystearate + H2O + NADP.",
+  "namespace": "molecular_function",
+  "label": "9,10-dihydroxystearate hydroxylase activity"
+}

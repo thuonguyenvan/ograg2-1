@@ -1,0 +1,28 @@
+{
+  "id": "GO:0050000",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050000",
+  "relationships": {
+    "is_a": [
+      "GO:0051640"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chromosome localisation",
+      "establishment and maintenance of chromosome localization",
+      "establishment and maintenance of chromosome position"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mah"
+    ]
+  },
+  "definition": "Any process in which a chromosome is transported to, or maintained in, a specific location.",
+  "namespace": "biological_process",
+  "label": "chromosome localization"
+}

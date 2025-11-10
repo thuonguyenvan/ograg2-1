@@ -1,0 +1,40 @@
+{
+  "id": "GO:0034009",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034009",
+  "relationships": {
+    "is_a": [
+      "GO:0010333"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ISPC",
+      "ISPS",
+      "dimethylallyl-diphosphate diphosphate-lyase (isoprene-forming) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.27",
+      "4.2.3.27",
+      "4.2.3.27",
+      "4.2.3.27"
+    ],
+    "KEGG_REACTION": [
+      "R08199"
+    ],
+    "MetaCyc": [
+      "4.2.3.27-RXN"
+    ],
+    "RHEA": [
+      "13369",
+      "13369"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dimethylallyl diphosphate = diphosphate + isoprene.",
+  "namespace": "molecular_function",
+  "label": "isoprene synthase activity"
+}

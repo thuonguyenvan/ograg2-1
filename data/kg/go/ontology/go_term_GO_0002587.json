@@ -1,0 +1,32 @@
+{
+  "id": "GO:0002587",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002587",
+  "relationships": {
+    "is_a": [
+      "GO:0002581",
+      "GO:0002584",
+      "GO:0002586"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of antigen processing and presentation of peptide antigen via MHC class II",
+      "down-regulation of antigen processing and presentation of peptide antigen via MHC class II",
+      "downregulation of antigen processing and presentation of peptide antigen via MHC class II",
+      "negative regulation of peptide antigen processing and presentation via MHC class II"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of antigen processing and presentation of peptide antigen via MHC class II"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate, or extent of antigen processing and presentation of peptide antigen via MHC class II.",
+  "namespace": "biological_process",
+  "label": "negative regulation of antigen processing and presentation of peptide antigen via MHC class II"
+}

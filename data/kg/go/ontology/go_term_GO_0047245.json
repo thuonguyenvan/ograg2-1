@@ -1,0 +1,40 @@
+{
+  "id": "GO:0047245",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047245",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-D-glucose:N-acetylglucosaminyl pyrophosphorylundecaprenol glucosyltransferase activity",
+      "UDP-glucose:N-acetyl-D-glucosaminyldiphosphoundecaprenol 4-beta-D-glucosyltransferase activity",
+      "UDPglucose:N-acetyl-D-glucosaminyldiphosphoundecaprenol 4-beta-D-glucosyltransferase activity",
+      "uridine diphosphoglucose-acetylglucosaminylpyrophosphorylundecaprenol glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.188",
+      "2.4.1.188",
+      "2.4.1.188",
+      "2.4.1.188",
+      "2.4.1.188",
+      "2.4.1.188"
+    ],
+    "MetaCyc": [
+      "2.4.1.188-RXN",
+      "2.4.1.188-RXN"
+    ],
+    "RHEA": [
+      "20952"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acetyl-D-glucosaminyldiphosphoundecaprenol + UDP-D-glucose = beta-D-glucosyl-1,4-N-acetyl-D-glucosaminyldiphosphoundecaprenol + UDP.",
+  "namespace": "molecular_function",
+  "label": "N-acetylglucosaminyldiphosphoundecaprenol glucosyltransferase activity"
+}

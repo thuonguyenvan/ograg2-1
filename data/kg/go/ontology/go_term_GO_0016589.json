@@ -1,0 +1,33 @@
+{
+  "id": "GO:0016589",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016589",
+  "relationships": {
+    "is_a": [
+      "GO:0031010"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nucleosome remodeling factor complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "krc"
+    ],
+    "PMID": [
+      "10779516",
+      "11279013",
+      "15284901",
+      "16568949",
+      "21810179"
+    ]
+  },
+  "definition": "An ISWI complex that contains an ATPase subunit of the ISWI family (SNF2L in mammals), a NURF301 homolog (BPTF in humans), and additional subunits, though the composition of these additional subunits varies slightly with species. NURF is involved in regulation of transcription from TRNA polymerase II promoters.",
+  "namespace": "cellular_component",
+  "label": "NURF complex"
+}

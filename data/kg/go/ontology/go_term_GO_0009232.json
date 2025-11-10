@@ -1,0 +1,36 @@
+{
+  "id": "GO:0009232",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009232",
+  "relationships": {
+    "is_a": [
+      "GO:0006771",
+      "GO:0042365",
+      "GO:0042728"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "riboflavin breakdown",
+      "riboflavin catabolism",
+      "riboflavin degradation",
+      "vitamin B2 catabolic process",
+      "vitamin B2 catabolism",
+      "vitamin G catabolic process",
+      "vitamin G catabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "10961912"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of riboflavin (vitamin B2), the precursor for the coenzymes flavin mononucleotide (FMN) and flavin adenine dinucleotide (FAD).",
+  "namespace": "biological_process",
+  "label": "riboflavin catabolic process"
+}

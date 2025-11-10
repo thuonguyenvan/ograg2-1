@@ -1,0 +1,42 @@
+{
+  "id": "GO:0007129",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007129",
+  "relationships": {
+    "is_a": [
+      "GO:0070192"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "chromosomal synapsis",
+      "synapsis"
+    ],
+    "related": [
+      "chromosomal pairing"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Synapsis"
+    ],
+    "GOC": [
+      "mtg_cell_cycle",
+      "ascb_2009",
+      "dph",
+      "tb",
+      "ascb_2009",
+      "dph",
+      "tb"
+    ],
+    "PMID": [
+      "22582262",
+      "23117617",
+      "31811152"
+    ]
+  },
+  "definition": "The meiotic cell cycle process where side by side pairing and physical juxtaposition of homologous chromosomes is created during meiotic prophase. Homologous chromosome pairing begins when the chromosome arms begin to pair from the clustered telomeres and ends when synaptonemal complex or linear element assembly is complete.",
+  "namespace": "biological_process",
+  "label": "homologous chromosome pairing at meiosis"
+}

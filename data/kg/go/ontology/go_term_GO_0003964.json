@@ -1,0 +1,53 @@
+{
+  "id": "GO:0003964",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003964",
+  "relationships": {
+    "is_a": [
+      "GO:0034061"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "RNA-directed DNA polymerase, group II intron encoded",
+      "RNA-directed DNA polymerase, transposon encoded"
+    ],
+    "related": [
+      "DNA nucleotidyltransferase (RNA-directed) activity",
+      "RNA revertase activity",
+      "RNA-dependent DNA polymerase activity",
+      "RNA-dependent deoxyribonucleate nucleotidyltransferase activity",
+      "RNA-instructed DNA polymerase activity",
+      "RT",
+      "deoxynucleoside-triphosphate:DNA deoxynucleotidyltransferase (RNA-directed) activity",
+      "reverse transcriptase activity",
+      "revertase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.49",
+      "2.7.7.49",
+      "2.7.7.49",
+      "2.7.7.49",
+      "2.7.7.49",
+      "2.7.7.49",
+      "2.7.7.49",
+      "2.7.7.49",
+      "2.7.7.49",
+      "2.7.7.49",
+      "2.7.7.49"
+    ],
+    "MetaCyc": [
+      "RNA-DIRECTED-DNA-POLYMERASE-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-164504",
+      "R-HSA-164520"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 2&apos;-deoxyribonucleoside 5&apos;-triphosphate + DNA(n) = diphosphate + DNA(n+1); RNA-template-directed extension of the 3&apos;-end of a DNA strand by one deoxynucleotide at a time.",
+  "namespace": "molecular_function",
+  "label": "Minus strand DNA synthesis resumes"
+}

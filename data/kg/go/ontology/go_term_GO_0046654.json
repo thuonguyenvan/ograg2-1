@@ -1,0 +1,32 @@
+{
+  "id": "GO:0046654",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046654",
+  "relationships": {
+    "is_a": [
+      "GO:0009396",
+      "GO:0046653"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tetrahydrofolate anabolism",
+      "tetrahydrofolate biosynthesis",
+      "tetrahydrofolate formation",
+      "tetrahydrofolate synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "FOLSYN-PWY"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of tetrahydrofolate, 5,6,7,8-tetrahydrofolic acid, a folate derivative bearing additional hydrogens on the pterin group.",
+  "namespace": "biological_process",
+  "label": "tetrahydrofolate biosynthetic process"
+}

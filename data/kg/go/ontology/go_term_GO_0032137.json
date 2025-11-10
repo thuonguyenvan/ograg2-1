@@ -1,0 +1,30 @@
+{
+  "id": "GO:0032137",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032137",
+  "relationships": {
+    "is_a": [
+      "GO:0030983"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G/T mispair binding",
+      "T/G mispair binding",
+      "thymine/guanine mispair binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vk",
+      "bf",
+      "bf",
+      "bf"
+    ]
+  },
+  "definition": "Binding to a double-stranded DNA region containing a G/T mispair.",
+  "namespace": "molecular_function",
+  "label": "guanine/thymine mispair binding"
+}

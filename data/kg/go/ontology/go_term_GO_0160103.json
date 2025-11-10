@@ -1,0 +1,31 @@
+{
+  "id": "GO:0160103",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160103",
+  "relationships": {
+    "is_a": [
+      "GO:0008170",
+      "GO:0016423"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase activity",
+      "tRNA (guanosine(26)-N(2)/guanosine(27)-N(2))-dimethyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.215",
+      "2.1.1.215"
+    ],
+    "RHEA": [
+      "43136"
+    ]
+  },
+  "definition": "Catalysis of the reaction: guanosine(26)/guanosine(27) in tRNA + 4 S-adenosyl-L-methionine = 4 H+ + N(2)-dimethylguanosine(26)/N(2)-dimethylguanosine(27) in tRNA + 4 S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "tRNA (guanine(26)-N2/guanine(27)-N2)-dimethyltransferase activity"
+}

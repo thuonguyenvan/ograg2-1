@@ -1,0 +1,39 @@
+{
+  "id": "GO:0004359",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004359",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-glutaminase activity",
+      "L-glutamine amidohydrolase activity",
+      "glutaminase I",
+      "glutamine aminohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.2",
+      "3.5.1.2",
+      "3.5.1.2",
+      "3.5.1.2",
+      "3.5.1.2"
+    ],
+    "RHEA": [
+      "15889",
+      "15889"
+    ],
+    "Reactome": [
+      "R-HSA-70609"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-glutamine + H2O = L-glutamate + NH4+.",
+  "namespace": "molecular_function",
+  "label": "glutamine + H2O =&gt; glutamate + NH4+ (GLS)"
+}

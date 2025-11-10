@@ -1,0 +1,32 @@
+{
+  "id": "GO:0141098",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141098",
+  "relationships": {
+    "is_a": [
+      "GO:0016427"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA (cytidine 34-2&apos;-O)-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-11860"
+    ],
+    "RHEA": [
+      "43084",
+      "43084"
+    ],
+    "PMID": [
+      "31943105"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cytidine(34) in tRNA + S-adenosyl-L-methionine = 2&apos;-O-methylcytidine(34) in tRNA + H+ + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "tRNA (cytidine(34)-2&apos;-O)-methyltransferase activity"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0070971",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070971",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ER exit site",
+      "transitional ER"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao124393998",
+      "sao124393998"
+    ],
+    "PMID": [
+      "15623529",
+      "16957052",
+      "15623529"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "An endoplasmic reticulum part at which COPII-coated vesicles are produced.",
+  "namespace": "cellular_component",
+  "label": "endoplasmic reticulum exit site"
+}

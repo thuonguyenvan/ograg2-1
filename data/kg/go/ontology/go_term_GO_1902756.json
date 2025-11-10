@@ -1,0 +1,43 @@
+{
+  "id": "GO:1902756",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902756",
+  "relationships": {
+    "is_a": [
+      "GO:0006793",
+      "GO:0009058"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulfurated eukaryotic molybdenum cofactor(2-) anabolism",
+      "sulfurated eukaryotic molybdenum cofactor(2-) biosynthesis",
+      "sulfurated eukaryotic molybdenum cofactor(2-) formation",
+      "sulfurated eukaryotic molybdenum cofactor(2-) synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5963"
+    ],
+    "GOC": [
+      "TermGenie",
+      "dph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000068"
+    ],
+    "PMID": [
+      "18258600"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of sulfurated eukaryotic molybdenum cofactor(2-).",
+  "namespace": "biological_process",
+  "label": "sulfurated eukaryotic molybdenum cofactor(2-) biosynthetic process"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0043296",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043296",
+  "relationships": {
+    "is_a": [
+      "GO:0005911"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "apical cell junction complex",
+      "apical junction"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "kmv",
+      "mah"
+    ],
+    "PMID": [
+      "12525486",
+      "15196556"
+    ]
+  },
+  "definition": "A functional unit located near the cell apex at the points of contact between epithelial cells, which in vertebrates is composed of the tight junction, the zonula adherens, and desmosomes and in some invertebrates, such as Drosophila, is composed of the subapical complex (SAC), the zonula adherens and the septate junction. Functions in the regulation of cell polarity, tissue integrity and intercellular adhesion and permeability.",
+  "namespace": "cellular_component",
+  "label": "apical junction complex"
+}

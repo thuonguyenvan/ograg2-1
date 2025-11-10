@@ -1,0 +1,32 @@
+{
+  "id": "GO:1900101",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900101",
+  "relationships": {
+    "is_a": [
+      "GO:1902531",
+      "GO:1905897"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of ER unfolded protein response",
+      "regulation of erUPR"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of SREBP-mediated signalling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of endoplasmic reticulum unfolded protein response.",
+  "namespace": "biological_process",
+  "label": "regulation of endoplasmic reticulum unfolded protein response"
+}

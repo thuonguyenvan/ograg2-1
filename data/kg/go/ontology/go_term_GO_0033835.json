@@ -1,0 +1,37 @@
+{
+  "id": "GO:0033835",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033835",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-&gt;2 UDP-rhamnosyltransferase activity",
+      "UDP-L-rhamnose:flavanone-7-O-glucoside 2&apos;&apos;-O-beta-L-rhamnosyltransferase activity",
+      "UDP-rhamnose:flavanone-7-O-glucoside-2&apos;&apos;-O-rhamnosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.236",
+      "2.4.1.236",
+      "2.4.1.236",
+      "2.4.1.236",
+      "2.4.1.236"
+    ],
+    "MetaCyc": [
+      "RXN-5001"
+    ],
+    "RHEA": [
+      "15473"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-L-rhamnose + a flavanone 7-O-glucoside = UDP + a flavanone 7-O-[beta-L-rhamnosyl-(1-&gt;2)-beta-D-glucoside].",
+  "namespace": "molecular_function",
+  "label": "flavanone 7-O-glucoside 2&apos;&apos;-O-beta-L-rhamnosyltransferase activity"
+}

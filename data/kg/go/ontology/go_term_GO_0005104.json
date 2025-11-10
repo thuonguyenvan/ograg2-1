@@ -1,0 +1,31 @@
+{
+  "id": "GO:0005104",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005104",
+  "relationships": {
+    "is_a": [
+      "GO:0070851"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FGF receptor binding",
+      "FGFR binding"
+    ],
+    "broad": [
+      "fibroblast growth factor"
+    ],
+    "narrow": [
+      "FGFR ligand",
+      "fibroblast growth factor receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ceb"
+    ]
+  },
+  "definition": "Binding to a fibroblast growth factor receptor (FGFR).",
+  "namespace": "molecular_function",
+  "label": "fibroblast growth factor receptor binding"
+}

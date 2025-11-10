@@ -1,0 +1,53 @@
+{
+  "id": "GO:0016152",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016152",
+  "relationships": {
+    "is_a": [
+      "GO:0016723"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Hg:NADP+ oxidoreductase activity",
+      "mer A",
+      "mercurate(II) reductase activity",
+      "mercuric ion reductase activity",
+      "mercuric reductase activity",
+      "mercury reductase activity",
+      "mercury(II) reductase activity",
+      "reduced NADP:mercuric ion oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.16.1.1",
+      "1.16.1.1",
+      "1.16.1.1",
+      "1.16.1.1",
+      "1.16.1.1",
+      "1.16.1.1",
+      "1.16.1.1",
+      "1.16.1.1",
+      "1.16.1.1"
+    ],
+    "KEGG_REACTION": [
+      "R02807"
+    ],
+    "MetaCyc": [
+      "MERCURY-II-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "23856",
+      "23856"
+    ],
+    "UM-BBD_reactionID": [
+      "r0406"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H+ + Hg + NADP+ = Hg2+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "mercury (II) reductase (NADP+) activity"
+}

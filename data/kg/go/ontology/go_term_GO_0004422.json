@@ -1,0 +1,66 @@
+{
+  "id": "GO:0004422",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004422",
+  "relationships": {
+    "is_a": [
+      "GO:0106130"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "Transphosphoribosidase activity",
+      "guanine-hypoxanthine phosphoribosyltransferase activity",
+      "hypoxanthine-guanine phosphoribosyltransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "6-hydroxypurine phosphoribosyltransferase activity",
+      "6-mercaptopurine phosphoribosyltransferase activity",
+      "HGPRTase activity",
+      "HPRT",
+      "IMP diphosphorylase activity",
+      "IMP pyrophosphorylase activity",
+      "IMP-GMP pyrophosphorylase activity",
+      "IMP:diphosphate phospho-D-ribosyltransferase activity",
+      "inosinate pyrophosphorylase activity",
+      "inosine 5&apos;-phosphate pyrophosphorylase activity",
+      "inosinic acid pyrophosphorylase activity",
+      "inosinic pyrophosphorylase activity",
+      "purine-6-thiol phosphoribosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R01132"
+    ],
+    "MetaCyc": [
+      "HYPOXANPRIBOSYLTRAN-RXN"
+    ],
+    "RHEA": [
+      "17973",
+      "17973"
+    ],
+    "EC": [
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8",
+      "2.4.2.8"
+    ]
+  },
+  "definition": "Catalysis of the reaction: IMP + diphosphate = hypoxanthine + 5-phospho-alpha-D-ribose 1-diphosphate.",
+  "namespace": "molecular_function",
+  "label": "hypoxanthine phosphoribosyltransferase activity"
+}

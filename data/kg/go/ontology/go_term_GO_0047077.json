@@ -1,0 +1,50 @@
+{
+  "id": "GO:0047077",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047077",
+  "relationships": {
+    "is_a": [
+      "GO:0016703",
+      "GO:0045289"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "luciferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "Photinus luciferin 4-monooxygenase (adenosine triphosphate-hydrolyzing)",
+      "Photinus pyralis luciferase activity",
+      "Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)",
+      "Photinus-luciferin:oxygen 4-oxidoreductase (decarboxylating, ATP-hydrolysing)",
+      "firefly luciferase activity",
+      "firefly luciferin luciferase activity",
+      "luciferase (firefly luciferin)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.12.7",
+      "1.13.12.7",
+      "1.13.12.7",
+      "1.13.12.7",
+      "1.13.12.7",
+      "1.13.12.7",
+      "1.13.12.7",
+      "1.13.12.7",
+      "1.13.12.7",
+      "1.13.12.7"
+    ],
+    "MetaCyc": [
+      "1.13.12.7-RXN",
+      "1.13.12.7-RXN"
+    ],
+    "RHEA": [
+      "10732"
+    ]
+  },
+  "definition": "Catalysis of the reaction: O2 + ATP + Photinus luciferin = light + diphosphate + AMP + CO2 + oxidized Photinus luciferin.",
+  "namespace": "molecular_function",
+  "label": "Photinus-luciferin 4-monooxygenase (ATP-hydrolyzing) activity"
+}

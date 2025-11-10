@@ -1,0 +1,51 @@
+{
+  "id": "GO:0003877",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003877",
+  "relationships": {
+    "is_a": [
+      "GO:0070566"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "ATP adenylyltransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "AP-4-A phosphorylase activity",
+      "adenine triphosphate adenylyltransferase activity",
+      "bis(5&apos;-nucleosyl)-tetraphosphate phosphorylase (NDP-forming) activity",
+      "diadenosine 5&apos;,5&apos;&apos;&apos;-P(1),P(4)-tetraphosphate phosphorylase activity",
+      "diadenosine 5&apos;,5&apos;&apos;&apos;-P1,P4-tetraphosphate alphabeta-phosphorylase (ADP-forming)",
+      "diadenosine 5&apos;,5&apos;&apos;&apos;-P1,P4-tetraphosphate phosphorylase activity",
+      "diadenosinetetraphosphate alpha-beta-phosphorylase activity",
+      "diadenosinetetraphosphate alphabeta-phosphorylase activity",
+      "dinucleoside oligophosphate alphabeta-phosphorylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.53",
+      "2.7.7.53",
+      "2.7.7.53",
+      "2.7.7.53",
+      "2.7.7.53",
+      "2.7.7.53",
+      "2.7.7.53",
+      "2.7.7.53",
+      "2.7.7.53",
+      "2.7.7.53",
+      "2.7.7.53"
+    ],
+    "MetaCyc": [
+      "ATP-ADENYLYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "16577"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ADP + ATP = phosphate + P(1),P(4)-bis(5&apos;-adenosyl)tetraphosphate.",
+  "namespace": "molecular_function",
+  "label": "ATP:ADP adenylyltransferase activity"
+}

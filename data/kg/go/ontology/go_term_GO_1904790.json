@@ -1,0 +1,40 @@
+{
+  "id": "GO:1904790",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904790",
+  "relationships": {
+    "is_a": [
+      "GO:0043254"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of Pot1 complex assembly",
+      "regulation of Pot1-Tpz1 complex assembly",
+      "regulation of shelterin complex formation",
+      "regulation of telosome assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "TermGenie",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24270157"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of shelterin complex assembly.",
+  "namespace": "biological_process",
+  "label": "regulation of shelterin complex assembly"
+}

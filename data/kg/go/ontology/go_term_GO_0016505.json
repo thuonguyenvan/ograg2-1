@@ -1,0 +1,28 @@
+{
+  "id": "GO:0016505",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016505",
+  "relationships": {
+    "is_a": [
+      "GO:0016504"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "apoptotic protease activator activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "mtg_apoptosis",
+      "rl"
+    ]
+  },
+  "definition": "Binds to and increases the activity of a peptidase that is involved in the apoptotic process.",
+  "namespace": "molecular_function",
+  "label": "peptidase activator activity involved in apoptotic process"
+}

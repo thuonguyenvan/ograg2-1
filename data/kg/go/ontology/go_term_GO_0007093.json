@@ -1,0 +1,33 @@
+{
+  "id": "GO:0007093",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007093",
+  "relationships": {
+    "is_a": [
+      "GO:0000075",
+      "GO:0045930",
+      "GO:1903047"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitotic cell cycle checkpoint",
+      "signal transduction involved in mitotic cell cycle checkpoint"
+    ],
+    "broad": [],
+    "narrow": [
+      "signal transduction involved in mitotic G2/M transition checkpoint",
+      "signal transduction involved in mitotic cell cycle G1/S checkpoint"
+    ],
+    "related": [
+      "mitotic checkpoint"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle"
+    ]
+  },
+  "definition": "A signaling process that ensures accurate chromosome replication and segregation by preventing progression through a mitotic cell cycle until conditions are suitable for the cell to proceed to the next stage.",
+  "namespace": "biological_process",
+  "label": "mitotic cell cycle checkpoint signaling"
+}

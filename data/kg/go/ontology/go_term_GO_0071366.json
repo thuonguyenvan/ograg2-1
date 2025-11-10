@@ -1,0 +1,32 @@
+{
+  "id": "GO:0071366",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071366",
+  "relationships": {
+    "is_a": [
+      "GO:0071365",
+      "GO:0080026",
+      "GO:1901699",
+      "GO:1901701"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to IBA stimulus"
+    ],
+    "broad": [],
+    "narrow": [
+      "cellular response to indole-3-butyric acid stimulus"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an indolebutyric acid stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to indolebutyric acid stimulus"
+}

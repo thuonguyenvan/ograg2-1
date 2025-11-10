@@ -1,0 +1,24 @@
+{
+  "id": "GO:0055052",
+  "uri": "http://purl.obolibrary.org/obo/GO_0055052",
+  "relationships": {
+    "is_a": [
+      "GO:0043190"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mlg",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "A complex for the transport of metabolites into the cell, consisting of 5 subunits: two ATP-binding subunits, two membrane spanning subunits, and one substrate-binding subunit. In organisms with two membranes, the substrate-binding protein moves freely in the periplasmic space and joins the other subunits only when bound with substrate. In organisms with only one membrane the substrate-binding protein is tethered to the cytoplasmic membrane and associated with the other subunits. Transport of the substrate across the membrane is driven by the hydrolysis of ATP.",
+  "namespace": "cellular_component",
+  "label": "ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing"
+}

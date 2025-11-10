@@ -1,0 +1,40 @@
+{
+  "id": "GO:0047209",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047209",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose coniferyl alcohol glucosyltransferase activity",
+      "UDP-glucose:coniferyl-alcohol 4&apos;-beta-D-glucosyltransferase activity",
+      "UDPglucose:coniferyl-alcohol 4&apos;-beta-D-glucosyltransferase activity",
+      "uridine diphosphoglucose-coniferyl alcohol glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.111",
+      "2.4.1.111",
+      "2.4.1.111",
+      "2.4.1.111",
+      "2.4.1.111",
+      "2.4.1.111"
+    ],
+    "MetaCyc": [
+      "2.4.1.111-RXN",
+      "2.4.1.111-RXN"
+    ],
+    "RHEA": [
+      "23944"
+    ]
+  },
+  "definition": "Catalysis of the reaction: coniferyl alcohol + UDP-D-glucose = coniferin + UDP.",
+  "namespace": "molecular_function",
+  "label": "coniferyl-alcohol glucosyltransferase activity"
+}

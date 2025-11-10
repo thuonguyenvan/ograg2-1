@@ -1,0 +1,61 @@
+{
+  "id": "GO:1904451",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904451",
+  "relationships": {
+    "is_a": [
+      "GO:0010155",
+      "GO:0022898",
+      "GO:0043462"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of (K+ + H+)-ATPase activity",
+      "regulation of ATP phosphohydrolase (H+/K+-exchanging)",
+      "regulation of H+-K+-ATPase activity",
+      "regulation of H+/K(+)-ATPase activity",
+      "regulation of H+/K(+)-exchanging ATPase activity",
+      "regulation of H+/K+-ATPase activity",
+      "regulation of H+/K+-exchanging ATPase activity",
+      "regulation of H,K-ATPase activity",
+      "regulation of hydrogen/potassium-exchanging ATPase activity",
+      "regulation of hydrogen:potassium exchanging ATPase activity",
+      "regulation of hydrogen:potassium-exchanging ATPase activity"
+    ],
+    "broad": [
+      "regulation of proton pump activity"
+    ],
+    "narrow": [
+      "regulation of gastric H+/K(+) ATPase activity",
+      "regulation of gastric H+/K+ ATPase"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000059"
+    ],
+    "PMID": [
+      "11897793"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of hydrogen:potassium-exchanging ATPase activity.",
+  "namespace": "biological_process",
+  "label": "regulation of potassium:proton exchanging ATPase activity"
+}

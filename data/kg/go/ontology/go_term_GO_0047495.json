@@ -1,0 +1,35 @@
+{
+  "id": "GO:0047495",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047495",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "periplasmic phosphoglycerotransferase activity"
+    ],
+    "related": [
+      "membrane-derived-oligosaccharide-6-(glycerophospho)-D-glucose:membrane-derived-oligosaccharide-D-glucose glycerophosphotransferase activity",
+      "phosphoglycerol cyclase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.21",
+      "2.7.8.21",
+      "2.7.8.21",
+      "2.7.8.21",
+      "2.7.8.21"
+    ],
+    "MetaCyc": [
+      "PGLYCEROLTRANSII-RXN"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a glycerophospho group from one membrane-derived oligosaccharide to another.",
+  "namespace": "molecular_function",
+  "label": "membrane-oligosaccharide glycerophosphotransferase activity"
+}

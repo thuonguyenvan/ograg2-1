@@ -1,0 +1,31 @@
+{
+  "id": "GO:0061669",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061669",
+  "relationships": {
+    "is_a": [
+      "GO:0007269"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "stimulus-independent neurotransmitter secretion"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "dph",
+      "pad",
+      "dph"
+    ],
+    "PMID": [
+      "21334193"
+    ]
+  },
+  "definition": "Neurotransmitter secretion that occurs in the absence of the action of a secretagogue or a presynaptic action potential.",
+  "namespace": "biological_process",
+  "label": "spontaneous neurotransmitter secretion"
+}

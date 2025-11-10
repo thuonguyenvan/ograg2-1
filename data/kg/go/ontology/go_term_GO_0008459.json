@@ -1,0 +1,48 @@
+{
+  "id": "GO:0008459",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008459",
+  "relationships": {
+    "is_a": [
+      "GO:0034481"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chondroitin 6-sulphotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3&apos;-phosphoadenosine 5&apos;-phosphosulfate (PAPS):chondroitin sulfate sulfotransferase activity",
+      "3&apos;-phosphoadenylyl-sulfate:chondroitin 6&apos;-sulfotransferase activity",
+      "chondroitin 6-O-sulfotransferase activity",
+      "terminal 6-sulfotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.17",
+      "2.8.2.17",
+      "2.8.2.17",
+      "2.8.2.17",
+      "2.8.2.17",
+      "2.8.2.17"
+    ],
+    "KEGG_REACTION": [
+      "R02181"
+    ],
+    "MetaCyc": [
+      "CHONDROITIN-6-SULFOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "11108"
+    ],
+    "Reactome": [
+      "R-HSA-2018682",
+      "R-HSA-3595175"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;-phosphoadenosine 5&apos;-phosphosulfate + chondroitin = adenosine 3&apos;,5&apos;-bisphosphate + chondroitin 6&apos;-sulfate.",
+  "namespace": "molecular_function",
+  "label": "Defective CHST3 does not transfer SO4(2-) to chondroitin"
+}

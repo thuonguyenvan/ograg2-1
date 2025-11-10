@@ -1,0 +1,33 @@
+{
+  "id": "GO:0048488",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048488",
+  "relationships": {
+    "is_a": [
+      "GO:0140238"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "synaptic vesicle retrieval"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "aruk",
+      "bc",
+      "jid",
+      "lmg",
+      "mah"
+    ],
+    "PMID": [
+      "20448150",
+      "26430111"
+    ]
+  },
+  "definition": "A vesicle-mediated transport process, in which the synaptic vesicle membrane constituents are retrieved from the presynaptic membrane on the axon terminal after neurotransmitter secretion by exocytosis. Synaptic vesicle endocytosis can occur via clathrin-dependent and clathrin-independent mechanisms.",
+  "namespace": "biological_process",
+  "label": "synaptic vesicle endocytosis"
+}

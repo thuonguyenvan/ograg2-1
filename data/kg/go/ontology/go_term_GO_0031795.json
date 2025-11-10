@@ -1,0 +1,32 @@
+{
+  "id": "GO:0031795",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031795",
+  "relationships": {
+    "is_a": [
+      "GO:0001664",
+      "GO:0050811"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G-protein coupled GABA receptor binding",
+      "GABAB receptor binding",
+      "metabotropic GABA receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "metabotropic GABA receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "nln",
+      "bf"
+    ]
+  },
+  "definition": "Binding to a G protein-coupled (metabotropic) GABA receptor.",
+  "namespace": "molecular_function",
+  "label": "G protein-coupled GABA receptor binding"
+}

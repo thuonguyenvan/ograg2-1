@@ -1,0 +1,47 @@
+{
+  "id": "GO:0008770",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008770",
+  "relationships": {
+    "is_a": [
+      "GO:0008081",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ACP phosphodiesterase activity",
+      "[acyl-carrier protein] phosphodiesterase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ACP hydrolyase activity",
+      "AcpH",
+      "[acyl-carrier-protein] 4&apos;-pantetheine-phosphohydrolase activity",
+      "acyl-carrier-protein 4&apos;-pantetheine-phosphohydrolase activity",
+      "acyl-carrier-protein phosphodiesterase activity",
+      "holo-acyl-carrier-protein 4&apos;-pantetheine-phosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.4.14",
+      "3.1.4.14",
+      "3.1.4.14",
+      "3.1.4.14",
+      "3.1.4.14",
+      "3.1.4.14",
+      "3.1.4.14",
+      "3.1.4.14"
+    ],
+    "MetaCyc": [
+      "3.1.4.14-RXN"
+    ],
+    "RHEA": [
+      "20537"
+    ]
+  },
+  "definition": "Catalysis of the reaction: [acyl-carrier protein] + H2O = 4&apos;-phosphopantetheine + apoprotein.",
+  "namespace": "molecular_function",
+  "label": "[acyl-carrier-protein] phosphodiesterase activity"
+}

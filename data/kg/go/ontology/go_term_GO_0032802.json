@@ -1,0 +1,39 @@
+{
+  "id": "GO:0032802",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032802",
+  "relationships": {
+    "is_a": [
+      "GO:0030163",
+      "GO:0032799",
+      "GO:0032801"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LDL receptor breakdown",
+      "LDL receptor catabolic process",
+      "LDL receptor degradation",
+      "low-density lipoprotein receptor breakdown",
+      "low-density lipoprotein receptor catabolic process",
+      "low-density lipoprotein receptor catabolism",
+      "low-density lipoprotein receptor degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "LDL receptor catabolism"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8866427"
+    ],
+    "GOC": [
+      "mah",
+      "dph"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a low-density lipoprotein particle receptor molecule, a macromolecule that undergoes combination with a hormone, neurotransmitter, drug or intracellular messenger to initiate a change in cell function.",
+  "namespace": "biological_process",
+  "label": "VLDLR internalisation and degradation"
+}

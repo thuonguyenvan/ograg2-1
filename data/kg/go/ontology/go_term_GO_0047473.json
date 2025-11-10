@@ -1,0 +1,29 @@
+{
+  "id": "GO:0047473",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047473",
+  "relationships": {
+    "is_a": [
+      "GO:0016878"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "D-alanine-poly(phosphoribitol) ligase activity",
+      "D-alanine:poly(phosphoribitol) ligase (AMP-forming)"
+    ],
+    "narrow": [],
+    "related": [
+      "D-alanine-D-alanyl carrier protein ligase activity",
+      "D-alanine-activating enzyme activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "pg"
+    ]
+  },
+  "definition": "Catalysis of the ATP-dependent activation of D-alanine and its transfer as a thiol ester to the phosphopantheinyl prosthetic group of a D-alanyl carrier protein, according to the reaction: ATP + D-alanine + a [D-alaninyl carrier protein] = a D-alanyl-[D-alanyl carrier protein] + AMP + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "D-alanine [D-alanyl carrier protein] ligase activity"
+}

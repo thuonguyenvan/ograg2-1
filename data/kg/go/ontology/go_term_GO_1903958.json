@@ -1,0 +1,32 @@
+{
+  "id": "GO:1903958",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903958",
+  "relationships": {
+    "is_a": [
+      "GO:1990204"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "iNOS-S100A8/A9 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bhm"
+    ],
+    "GO_REF": [
+      "0000088"
+    ],
+    "PMID": [
+      "25417112"
+    ]
+  },
+  "definition": "A protein complex which is capable of nitric-oxide synthase activity.",
+  "namespace": "cellular_component",
+  "label": "nitric-oxide synthase complex"
+}

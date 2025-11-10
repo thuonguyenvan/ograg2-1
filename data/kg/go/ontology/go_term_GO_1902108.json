@@ -1,0 +1,62 @@
+{
+  "id": "GO:1902108",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902108",
+  "relationships": {
+    "is_a": [
+      "GO:0008637",
+      "GO:0046902"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of mitochondrial membrane permeability involved in apoptotic cell death",
+      "regulation of mitochondrial membrane permeability involved in apoptotic programmed cell death",
+      "regulation of mitochondrial membrane permeability involved in programmed cell death by apoptosis",
+      "regulation of transport across mitochondrial membrane involved in apoptotic cell death",
+      "regulation of transport across mitochondrial membrane involved in apoptotic process",
+      "regulation of transport across mitochondrial membrane involved in apoptotic programmed cell death",
+      "regulation of transport across mitochondrial membrane involved in programmed cell death by apoptosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of mitochondrial membrane permeability involved in apoptosis",
+      "regulation of mitochondrial membrane permeability involved in apoptotic program",
+      "regulation of mitochondrial membrane permeability involved in type I programmed cell death",
+      "regulation of transport across mitochondrial membrane involved in apoptosis",
+      "regulation of transport across mitochondrial membrane involved in apoptotic program",
+      "regulation of transport across mitochondrial membrane involved in type I programmed cell death"
+    ],
+    "related": [
+      "regulation of mitochondrial membrane permeability involved in signaling (initiator) caspase activity",
+      "regulation of transport across mitochondrial membrane involved in signaling (initiator) caspase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_apoptosis",
+      "pm",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "19168129"
+    ]
+  },
+  "definition": "Any regulation of mitochondrial membrane permeability that is involved in apoptotic process.",
+  "namespace": "biological_process",
+  "label": "regulation of mitochondrial membrane permeability involved in apoptotic process"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0050829",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050829",
+  "relationships": {
+    "is_a": [
+      "GO:0042742"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "defence response to Gram-negative bacteria",
+      "defence response to Gram-negative bacterium",
+      "defense response to Gram-negative bacteria"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Gram-negative antibacterial peptide activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Reactions triggered in response to the presence of a Gram-negative bacterium that act to protect the cell or organism.",
+  "namespace": "biological_process",
+  "label": "defense response to Gram-negative bacterium"
+}

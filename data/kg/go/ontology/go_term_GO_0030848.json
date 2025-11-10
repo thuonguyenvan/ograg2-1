@@ -1,0 +1,51 @@
+{
+  "id": "GO:0030848",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030848",
+  "relationships": {
+    "is_a": [
+      "GO:0016841"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "3-hydroxyaspartate dehydratase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "L-threo-3-hydroxyaspartate dehydratase activity",
+      "threo-3-hydroxy-L-aspartate ammonia-lyase (oxaloacetate-forming)",
+      "threo-3-hydroxy-L-aspartate ammonia-lyase activity",
+      "threo-3-hydroxyaspartate dehydratase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.1.16",
+      "4.3.1.16",
+      "4.3.1.16",
+      "4.3.1.16",
+      "4.3.1.16",
+      "4.3.1.16"
+    ],
+    "KEGG_REACTION": [
+      "R05758"
+    ],
+    "MetaCyc": [
+      "4.3.1.16-RXN"
+    ],
+    "RHEA": [
+      "12424",
+      "12424"
+    ],
+    "GOC": [
+      "mcc"
+    ],
+    "PMID": [
+      "10481099"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (3S)-3-hydroxy-L-aspartate = NH4 + oxaloacetate.",
+  "namespace": "molecular_function",
+  "label": "threo-3-hydroxyaspartate ammonia-lyase activity"
+}

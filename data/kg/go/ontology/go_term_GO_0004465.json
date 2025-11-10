@@ -1,0 +1,52 @@
+{
+  "id": "GO:0004465",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004465",
+  "relationships": {
+    "is_a": [
+      "GO:0004806"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "clearing factor lipase activity",
+      "diacylglycerol hydrolase activity",
+      "diacylglycerol lipase activity",
+      "diglyceride lipase activity",
+      "lipemia-clearing factor",
+      "postheparin esterase activity",
+      "postheparin lipase activity",
+      "triacylglycero-protein acylhydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.34",
+      "3.1.1.34",
+      "3.1.1.34",
+      "3.1.1.34",
+      "3.1.1.34",
+      "3.1.1.34",
+      "3.1.1.34",
+      "3.1.1.34",
+      "3.1.1.34",
+      "3.1.1.34"
+    ],
+    "Reactome": [
+      "R-HSA-1482811",
+      "R-HSA-174757",
+      "R-HSA-2395768",
+      "R-HSA-6789310",
+      "R-HSA-8979996",
+      "R-HSA-8980228"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Catalysis of the reaction: triacylglycerol + H2O = diacylglycerol + a carboxylate, where the triacylglycerol is part of a lipoprotein. May also hydrolyze diacylglycerol and phospholipids present in lipoproteins.",
+  "namespace": "molecular_function",
+  "label": "LIPG dimer hydrolyzes HDL-associated TAG to DAG and LCFA"
+}

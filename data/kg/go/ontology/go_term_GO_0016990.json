@@ -1,0 +1,39 @@
+{
+  "id": "GO:0016990",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016990",
+  "relationships": {
+    "is_a": [
+      "GO:0016813"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-arginine deiminase activity",
+      "L-arginine iminohydrolase activity",
+      "arginine dihydrolase activity",
+      "citrulline iminase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.3.6",
+      "3.5.3.6",
+      "3.5.3.6",
+      "3.5.3.6",
+      "3.5.3.6",
+      "3.5.3.6"
+    ],
+    "MetaCyc": [
+      "ARGININE-DEIMINASE-RXN"
+    ],
+    "RHEA": [
+      "19597"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-arginine + H2O = L-citrulline + NH3.",
+  "namespace": "molecular_function",
+  "label": "arginine deiminase activity"
+}

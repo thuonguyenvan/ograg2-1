@@ -1,0 +1,31 @@
+{
+  "id": "GO:0051939",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051939",
+  "relationships": {
+    "is_a": [
+      "GO:0015800",
+      "GO:0015812"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-aminobutyrate import",
+      "GABA import",
+      "gamma-aminobutyrate import",
+      "gamma-aminobutyric acid uptake"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The directed movement of gamma-aminobutyric acid (GABA, 4-aminobutyrate) into a cell or organelle.",
+  "namespace": "biological_process",
+  "label": "gamma-aminobutyric acid import"
+}

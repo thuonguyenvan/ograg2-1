@@ -1,0 +1,35 @@
+{
+  "id": "GO:0002672",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002672",
+  "relationships": {
+    "is_a": [
+      "GO:0002663",
+      "GO:0002670",
+      "GO:0002913"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of B lymphocyte anergy",
+      "positive regulation of B-cell anergy",
+      "positive regulation of B-lymphocyte anergy",
+      "up regulation of B cell anergy",
+      "up-regulation of B cell anergy",
+      "upregulation of B cell anergy"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of B cell anergy",
+      "stimulation of B cell anergy"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of B cell anergy.",
+  "namespace": "biological_process",
+  "label": "positive regulation of B cell anergy"
+}

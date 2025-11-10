@@ -1,0 +1,55 @@
+{
+  "id": "GO:0016905",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016905",
+  "relationships": {
+    "is_a": [
+      "GO:0004683"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "myosin I heavy chain kinase activity",
+      "myosin I heavy-chain kinase activity",
+      "myosin II heavy chain kinase activity",
+      "myosin II heavy-chain kinase activity"
+    ],
+    "related": [
+      "ATP:myosin heavy-chain O-phosphotransferase activity",
+      "ATP:myosin-heavy-chain O-phosphotransferase activity",
+      "MHCK",
+      "MIHC kinase activity",
+      "STK6",
+      "calmodulin-dependent myosin heavy chain kinase activity",
+      "myosin heavy chain kinase A activity",
+      "myosin heavy-chain kinase activity",
+      "myosin-heavy-chain kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.11.7",
+      "2.7.11.7",
+      "2.7.11.7",
+      "2.7.11.7",
+      "2.7.11.7",
+      "2.7.11.7",
+      "2.7.11.7",
+      "2.7.11.7",
+      "2.7.11.7",
+      "2.7.11.7",
+      "2.7.11.7",
+      "2.7.11.7",
+      "2.7.11.7",
+      "2.7.11.7",
+      "2.7.11.7"
+    ],
+    "RHEA": [
+      "11424"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + myosin-heavy-chain = ADP + myosin-heavy-chain phosphate.",
+  "namespace": "molecular_function",
+  "label": "myosin heavy chain kinase activity"
+}

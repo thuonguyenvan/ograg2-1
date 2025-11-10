@@ -1,0 +1,81 @@
+{
+  "id": "GO:1902373",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902373",
+  "relationships": {
+    "is_a": [
+      "GO:0010628",
+      "GO:0061013",
+      "GO:1902369",
+      "GO:1903312"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of mRNA breakdown",
+      "down regulation of mRNA catabolic process",
+      "down regulation of mRNA catabolism",
+      "down regulation of mRNA degradation",
+      "down-regulation of mRNA breakdown",
+      "down-regulation of mRNA catabolic process",
+      "down-regulation of mRNA catabolism",
+      "down-regulation of mRNA degradation",
+      "downregulation of mRNA breakdown",
+      "downregulation of mRNA catabolic process",
+      "downregulation of mRNA catabolism",
+      "downregulation of mRNA degradation",
+      "negative regulation of mRNA breakdown",
+      "negative regulation of mRNA catabolism",
+      "negative regulation of mRNA degradation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of mRNA breakdown",
+      "inhibition of mRNA catabolic process",
+      "inhibition of mRNA catabolism",
+      "inhibition of mRNA degradation"
+    ],
+    "related": [
+      "down regulation of mRNA decay",
+      "down-regulation of mRNA decay",
+      "downregulation of mRNA decay",
+      "inhibition of mRNA decay",
+      "negative regulation of mRNA decay"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "22626865"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of mRNA catabolic process.",
+  "namespace": "biological_process",
+  "label": "negative regulation of mRNA catabolic process"
+}

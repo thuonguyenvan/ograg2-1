@@ -1,0 +1,30 @@
+{
+  "id": "GO:0036225",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036225",
+  "relationships": {
+    "is_a": [
+      "GO:0009267"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to thiamin starvation",
+      "cellular response to vitamin B1 deprivation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "al",
+      "bf"
+    ],
+    "Wikipedia": [
+      "Thiamine"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of deprivation of vitamin B1 (also called thiamin and thiamine).",
+  "namespace": "biological_process",
+  "label": "cellular response to vitamin B1 starvation"
+}

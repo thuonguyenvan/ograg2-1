@@ -1,0 +1,34 @@
+{
+  "id": "GO:0005542",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005542",
+  "relationships": {
+    "is_a": [
+      "GO:0019842",
+      "GO:0031406",
+      "GO:0033218",
+      "GO:0072341",
+      "GO:1901363"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "folate binding",
+      "vitamin B9 binding",
+      "vitamin M binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Binding to folic acid, pteroylglutamic acid. Folic acid is widely distributed as a member of the vitamin B complex and is essential for the synthesis of purine and pyrimidines.",
+  "namespace": "molecular_function",
+  "label": "folic acid binding"
+}

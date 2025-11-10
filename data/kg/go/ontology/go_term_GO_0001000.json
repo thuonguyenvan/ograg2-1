@@ -1,0 +1,25 @@
+{
+  "id": "GO:0001000",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001000",
+  "relationships": {
+    "is_a": [
+      "GO:0043175"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "eubacterial-type RNA polymerase core enzyme binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH"
+    ]
+  },
+  "definition": "Binding to a bacterial-type RNA polymerase core enzyme, typically consisting of two alpha, one beta, one beta prime, and one omega subunit.",
+  "namespace": "molecular_function",
+  "label": "bacterial-type RNA polymerase core enzyme binding"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "GO:0000309",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000309",
+  "relationships": {
+    "is_a": [
+      "GO:0070566"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP:nicotinamide-nucleotide adenylyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "NAD(+) diphosphorylase activity",
+      "NAD(+) pyrophosphorylase activity",
+      "NMN adenylyltransferase activity",
+      "NMNAT activity",
+      "nicotinamide adenine dinucleotide pyrophosphorylase activity",
+      "nicotinamide mononucleotide adenylyltransferase activity"
+    ],
+    "related": [
+      "ATP:NMN adenylyltransferase activity",
+      "NAD+ diphosphorylase activity",
+      "NAD+ pyrophosphorylase activity",
+      "adenosine triphosphate-nicotinamide mononucleotide transadenylase activity",
+      "diphosphopyridine nucleotide pyrophosphorylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.1",
+      "2.7.7.1",
+      "2.7.7.1",
+      "2.7.7.1",
+      "2.7.7.1",
+      "2.7.7.1",
+      "2.7.7.1",
+      "2.7.7.1",
+      "2.7.7.1",
+      "2.7.7.1",
+      "2.7.7.1",
+      "2.7.7.1"
+    ],
+    "MetaCyc": [
+      "2.7.7.1-RXN"
+    ],
+    "RHEA": [
+      "21360",
+      "21360"
+    ],
+    "Reactome": [
+      "R-HSA-8939959"
+    ]
+  },
+  "definition": "Catalysis of the reaction: beta-nicotinamide D-ribonucleotide + ATP + H+ = diphosphate + NAD+.",
+  "namespace": "molecular_function",
+  "label": "NMNAT2 transfers an adenylyl group from ATP to NMN to yield NAD+"
+}

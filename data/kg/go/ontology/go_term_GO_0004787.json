@@ -1,0 +1,37 @@
+{
+  "id": "GO:0004787",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004787",
+  "relationships": {
+    "is_a": [
+      "GO:0016462"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TPPase activity",
+      "thiamin pyrophosphatase activity",
+      "thiamin-pyrophosphatase activity",
+      "thiamine pyrophosphatase activity",
+      "thiamine-diphosphatase activity"
+    ],
+    "broad": [
+      "thiamine diphosphatase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "thiaminpyrophosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "27998",
+      "27998"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Catalysis of the reaction: thiamine diphosphate + H2O = thiamine monophosphate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "thiamine diphosphate phosphatase activity"
+}

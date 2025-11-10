@@ -1,0 +1,41 @@
+{
+  "id": "GO:0102039",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102039",
+  "relationships": {
+    "is_a": [
+      "GO:0051920"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "alkylhydroperoxide reductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.11.1.26"
+    ],
+    "MetaCyc": [
+      "R4-RXN"
+    ],
+    "RHEA": [
+      "62628",
+      "62628"
+    ],
+    "Reactome": [
+      "R-HSA-1222526"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "12517450"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a hydroperoxide + H+ + NADH = an alcohol + H2O + NAD+.",
+  "namespace": "molecular_function",
+  "label": "AhpC reduces peroxidated lipids"
+}

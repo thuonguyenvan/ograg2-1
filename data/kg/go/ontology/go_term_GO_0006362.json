@@ -1,0 +1,30 @@
+{
+  "id": "GO:0006362",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006362",
+  "relationships": {
+    "is_a": [
+      "GO:0006354"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA elongation from Pol I promoter",
+      "transcription elongation from RNA polymerase I promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RNA polymerase I transcription elongation factor activity",
+      "transcription elongation from RNA polymerase I promoter for nuclear large rRNA transcript"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "txnOH"
+    ]
+  },
+  "definition": "The extension of an RNA molecule after transcription initiation and promoter clearance at an RNA polymerase I specific promoter by the addition of ribonucleotides catalyzed by RNA polymerase I.",
+  "namespace": "biological_process",
+  "label": "transcription elongation by RNA polymerase I"
+}

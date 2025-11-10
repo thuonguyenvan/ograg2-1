@@ -1,0 +1,40 @@
+{
+  "id": "GO:0043768",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043768",
+  "relationships": {
+    "is_a": [
+      "GO:0016846"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "S-ribosylhomocysteinase activity",
+      "ribosylhomocysteinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "LuxS",
+      "S-(5-deoxy-D-ribos-5-yl)-L-homocysteine homocysteine-lyase [(4S)-4,5-dihydroxypentan-2,3-dione-forming]"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.4.1.21",
+      "4.4.1.21"
+    ],
+    "KEGG_REACTION": [
+      "R01291"
+    ],
+    "MetaCyc": [
+      "RIBOSYLHOMOCYSTEINASE-RXN"
+    ],
+    "RHEA": [
+      "17753",
+      "17753"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-(5-deoxy-D-ribos-5-yl)-L-homocysteine = (S)-4,5-dihydroxypentane-2,3-dione + L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "S-ribosylhomocysteine lyase activity"
+}

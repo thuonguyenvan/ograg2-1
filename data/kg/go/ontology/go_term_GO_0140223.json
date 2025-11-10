@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140223",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140223",
+  "relationships": {
+    "is_a": [
+      "GO:0003674"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GTF activity",
+      "basal transcription factor activity",
+      "general transcription factor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH-2018"
+    ]
+  },
+  "definition": "A molecular function required for core promoter activity that mediates the assembly of the RNA polymerase holoenzyme at promoter DNA to form the pre-initiation complex (PIC). General transcription factors (GTFs) bind to and open promoter DNA, initiate RNA synthesis and stimulate the escape of the polymerase from the promoter. Not all subunits of the general transcription factor are necessarily present at all promoters to initiate transcription. GTFs act at each promoter, although the exact subunit composition at individual promoters may vary.",
+  "namespace": "molecular_function",
+  "label": "general transcription initiation factor activity"
+}

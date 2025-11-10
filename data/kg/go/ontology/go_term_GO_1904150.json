@@ -1,0 +1,43 @@
+{
+  "id": "GO:1904150",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904150",
+  "relationships": {
+    "is_a": [
+      "GO:0001911",
+      "GO:0002887",
+      "GO:1904149"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of microglial cell mediated cytotoxicity",
+      "down-regulation of microglial cell mediated cytotoxicity",
+      "downregulation of microglial cell mediated cytotoxicity"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of microglial cell mediated cytotoxicity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19100238"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of microglial cell mediated cytotoxicity.",
+  "namespace": "biological_process",
+  "label": "negative regulation of microglial cell mediated cytotoxicity"
+}

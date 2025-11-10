@@ -1,0 +1,53 @@
+{
+  "id": "GO:0004522",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004522",
+  "relationships": {
+    "is_a": [
+      "GO:0004521",
+      "GO:0016849"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "alkaline ribonuclease activity",
+      "ceratitis capitata alkaline ribonuclease activity",
+      "ribonucleate 3&apos;-pyrimidino-oligonucleotidohydrolase activity",
+      "ribonucleic phosphatase activity"
+    ],
+    "broad": [
+      "RNase activity"
+    ],
+    "narrow": [
+      "pancreatic ribonuclease activity"
+    ],
+    "related": [
+      "RNase A activity",
+      "RNase I activity",
+      "S-genotype-assocd. glycoproteins",
+      "SLSG glycoproteins",
+      "endoribonuclease I",
+      "gene S glycoproteins",
+      "gene S locus-specific glycoproteins",
+      "pancreatic RNase activity",
+      "ribonuclease I activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.6.1.18",
+      "4.6.1.18",
+      "4.6.1.18",
+      "4.6.1.18",
+      "4.6.1.18",
+      "4.6.1.18",
+      "4.6.1.18",
+      "4.6.1.18"
+    ],
+    "Wikipedia": [
+      "Ribonuclease_A"
+    ]
+  },
+  "definition": "Catalysis of the endonucleolytic cleavage of RNA to 3&apos;-phosphomononucleotides and 3&apos;-phosphooligonucleotides ending in C-P or U-P with 2&apos;,3&apos;-cyclic phosphate intermediates.",
+  "namespace": "molecular_function",
+  "label": "ribonuclease A activity"
+}

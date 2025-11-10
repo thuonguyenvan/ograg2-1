@@ -1,0 +1,33 @@
+{
+  "id": "GO:0047746",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047746",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "chlorophyll chlorophyllidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.14",
+      "3.1.1.14"
+    ],
+    "MetaCyc": [
+      "CHLOROPHYLLASE-RXN"
+    ],
+    "RHEA": [
+      "19605",
+      "19605"
+    ]
+  },
+  "definition": "Catalysis of the reaction: chlorophyll + H2O = phytol + chlorophyllide.",
+  "namespace": "molecular_function",
+  "label": "chlorophyllase activity"
+}

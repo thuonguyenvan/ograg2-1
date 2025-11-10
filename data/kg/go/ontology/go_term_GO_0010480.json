@@ -1,0 +1,29 @@
+{
+  "id": "GO:0010480",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010480",
+  "relationships": {
+    "is_a": [
+      "GO:0003006",
+      "GO:0048533"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pollen mother cell differentiation"
+    ]
+  },
+  "cross_references": {
+    "CL": [
+      "0000248"
+    ],
+    "PMID": [
+      "16751349"
+    ]
+  },
+  "definition": "The process aimed at the progression of a microsporocyte cell over time, from initial commitment of the cell to a specific fate, to the fully functional differentiated cell. A microsporocyte is a diploid (2n) cell that undergoes meiosis and forms four haploid (1n) microspores; also called microspore mother cell and, in seed plants, pollen mother cell.",
+  "namespace": "biological_process",
+  "label": "microsporocyte differentiation"
+}

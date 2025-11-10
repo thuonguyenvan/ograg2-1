@@ -1,0 +1,30 @@
+{
+  "id": "GO:0038023",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038023",
+  "relationships": {
+    "is_a": [
+      "GO:0060089"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "receptor activity involved in signal transduction",
+      "signalling receptor activity"
+    ],
+    "broad": [
+      "receptor activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "signaling",
+      "bf"
+    ]
+  },
+  "definition": "Receiving a signal and transmitting it in the cell to initiate a change in cell activity. A signal is a physical entity or change in state that is used to transfer information in order to trigger a response.",
+  "namespace": "molecular_function",
+  "label": "signaling receptor activity"
+}

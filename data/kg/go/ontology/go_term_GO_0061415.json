@@ -1,0 +1,27 @@
+{
+  "id": "GO:0061415",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061415",
+  "relationships": {
+    "is_a": [
+      "GO:0000437",
+      "GO:0061413"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph"
+    ],
+    "PMID": [
+      "19686338"
+    ]
+  },
+  "definition": "A transcription regulation process in which the presence of a nonfermentable carbon source leads to a decrease of the frequency, rate, or extent of transcription, from an RNA polymerase II promoter, of specific genes involved in the metabolism of other carbon sources.",
+  "namespace": "biological_process",
+  "label": "negative regulation of transcription from RNA polymerase II promoter by a nonfermentable carbon source"
+}

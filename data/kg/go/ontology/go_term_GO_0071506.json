@@ -1,0 +1,28 @@
+{
+  "id": "GO:0071506",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071506",
+  "relationships": {
+    "is_a": [
+      "GO:0071505",
+      "GO:1901701"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to mycophenolate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "yaf",
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a mycophenolic acid stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to mycophenolic acid"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0098672",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098672",
+  "relationships": {
+    "is_a": [
+      "GO:0052031"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CRISPR-cas system evasion by virus",
+      "suppression of host CRISPR-cas system"
+    ],
+    "broad": [
+      "anti-CRISPR"
+    ],
+    "narrow": [],
+    "related": [
+      "evasion by virus of CRISPR-cas system",
+      "inhibition of host CRISPR-cas system by virus"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "3962",
+      "3962"
+    ],
+    "PMID": [
+      "23242138",
+      "23446421",
+      "26416740",
+      "28749735"
+    ]
+  },
+  "definition": "A process by which a symbiont inhibits or disrupts the CRISPR-cas system of its host. Bacteria and archaea use CRISPR-Cas adaptive immune systems to defend themselves from infection by bacteriophages (phages), and phages have various mechanisms to counter the CRISPR-cas system.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host CRISPR-cas system"
+}

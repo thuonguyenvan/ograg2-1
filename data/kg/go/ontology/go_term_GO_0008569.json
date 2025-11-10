@@ -1,0 +1,37 @@
+{
+  "id": "GO:0008569",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008569",
+  "relationships": {
+    "is_a": [
+      "GO:0003777"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent microtubule motor activity, minus-end-directed",
+      "ATP-dependent minus-end-directed microtubule motor activity",
+      "microtubule motor activity, minus-end-directed",
+      "minus-end-directed ATP-dependent microtubule motor activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "dynein ATPase",
+      "kinesin ATP phosphohydrolase (minus-end-directed)",
+      "minus-end-directed kinesin ATPase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vw"
+    ],
+    "PMID": [
+      "15659646",
+      "32842864"
+    ]
+  },
+  "definition": "A motor activity that generates movement along a microtubule toward the minus end, driven by ATP hydrolysis.",
+  "namespace": "molecular_function",
+  "label": "minus-end-directed microtubule motor activity"
+}

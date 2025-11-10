@@ -1,0 +1,31 @@
+{
+  "id": "GO:0080049",
+  "uri": "http://purl.obolibrary.org/obo/GO_0080049",
+  "relationships": {
+    "is_a": [
+      "GO:0016632"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-1439"
+    ],
+    "RHEA": [
+      "47248",
+      "47248"
+    ],
+    "PMID": [
+      "18190525",
+      "30112455"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-gulono-1,4-lactone + 2 ferricytochrome c = L-ascorbate + 2 ferrocytochrome c.",
+  "namespace": "molecular_function",
+  "label": "L-gulono-1,4-lactone dehydrogenase activity"
+}

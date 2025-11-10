@@ -1,0 +1,32 @@
+{
+  "id": "GO:0052735",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052735",
+  "relationships": {
+    "is_a": [
+      "GO:0016427"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "S-adenosyl-L-methionine:tRNA (cytosine-3-)-methyltransferase activity",
+      "S-adenosyl-L-methionine:tRNA cytosine-3-methyltransferase activity",
+      "tRNA (cytosine 3)-methyltransferase activity",
+      "tRNA (cytosine-3-)-methyltransferase activity",
+      "tRNA cytosine 3-methyltransferase activity",
+      "tRNA cytosine-3-methyltransferase activity",
+      "transfer ribonucleate cytosine 3-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "60908",
+      "60908"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a cytidine in tRNA + S-adenosyl-L-methionine = an N3-methylcytidine in tRNA + H+ + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "tRNA (cytidine-3-)-methyltransferase activity"
+}

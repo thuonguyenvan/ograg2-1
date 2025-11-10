@@ -1,0 +1,43 @@
+{
+  "id": "GO:0061731",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061731",
+  "relationships": {
+    "is_a": [
+      "GO:0016728"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ribonucleoside 5&apos;-diphosphate reductase activity",
+      "ribonucleotide diphosphate reductase activity"
+    ],
+    "broad": [
+      "ribonucleotide reductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "RNR",
+      "adenosylcobalamin-dependent ribonucleotide reductase activity",
+      "aerobic non-heme iron-dependent ribonucleotide reductase activity",
+      "anaerobic iron-sulfur-dependent ribonucleotide reductase activity",
+      "class I ribonucleotide reductase activity",
+      "class II ribonucleoside-diphosphate reductase activity",
+      "class II ribonucleotide reductase activity",
+      "class III ribonucleotide reductase activity",
+      "nucleoside diphosphate reductase activity",
+      "purine/pyrimidine nucleoside diphosphate reduction"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "vw"
+    ],
+    "PMID": [
+      "16756507"
+    ]
+  },
+  "definition": "Catalysis of the formation of 2&apos;-deoxyribonucleoside diphosphate from ribonucleoside diphosphate, using either thioredoxin disulfide or glutaredoxin disulfide as an acceptor.",
+  "namespace": "molecular_function",
+  "label": "ribonucleoside-diphosphate reductase activity"
+}

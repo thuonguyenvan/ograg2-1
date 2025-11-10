@@ -1,0 +1,41 @@
+{
+  "id": "GO:1990608",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990608",
+  "relationships": {
+    "is_a": [
+      "GO:0070631",
+      "GO:1903047"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "establishment and maintenance of spindle pole body localization"
+    ],
+    "broad": [],
+    "narrow": [
+      "establishment of spindle pole body localisation",
+      "establishment of spindle pole body localization",
+      "mitotic spindle pole body localization to nuclear envelope",
+      "spindle pole body docking",
+      "spindle pole body localisation in nuclear envelope",
+      "spindle pole body localization in nuclear envelope",
+      "spindle pole body localization to nuclear envelope",
+      "spindle pole body positioning"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "24963130"
+    ],
+    "GOC": [
+      "mah",
+      "vw",
+      "mah",
+      "vw"
+    ]
+  },
+  "definition": "A process in which a mitotic spindle pole body is transported to, or maintained in, a specific cellular location.",
+  "namespace": "biological_process",
+  "label": "mitotic spindle pole body localization"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0010025",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010025",
+  "relationships": {
+    "is_a": [
+      "GO:0010166",
+      "GO:1901570"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "wax anabolism",
+      "wax biosynthesis",
+      "wax formation",
+      "wax synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-282"
+    ],
+    "Reactome": [
+      "R-HSA-9640463"
+    ],
+    "ISBN": [
+      "0943088399"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of wax, which includes C16 and C18 fatty acids.",
+  "namespace": "biological_process",
+  "label": "Wax biosynthesis"
+}

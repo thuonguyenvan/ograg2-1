@@ -1,0 +1,52 @@
+{
+  "id": "GO:1905941",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905941",
+  "relationships": {
+    "is_a": [
+      "GO:0051094",
+      "GO:0051240",
+      "GO:1905939",
+      "GO:2000243"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of gonadogenesis",
+      "up regulation of gonad development",
+      "up regulation of gonadogenesis",
+      "up-regulation of gonad development",
+      "up-regulation of gonadogenesis",
+      "upregulation of gonad development",
+      "upregulation of gonadogenesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of gonad development",
+      "activation of gonadogenesis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "15342467"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of gonad development.",
+  "namespace": "biological_process",
+  "label": "positive regulation of gonad development"
+}

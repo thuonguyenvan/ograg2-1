@@ -1,0 +1,37 @@
+{
+  "id": "GO:0008463",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008463",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-formyl-L-methionine amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.31",
+      "3.5.1.31",
+      "3.5.1.31"
+    ],
+    "KEGG_REACTION": [
+      "R00653"
+    ],
+    "MetaCyc": [
+      "FORMYLMETHIONINE-DEFORMYLASE-RXN"
+    ],
+    "RHEA": [
+      "17781",
+      "17781"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-formyl-L-methionine + H2O = L-methionine + formate.",
+  "namespace": "molecular_function",
+  "label": "formylmethionine deformylase activity"
+}

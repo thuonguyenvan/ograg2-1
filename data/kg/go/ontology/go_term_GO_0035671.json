@@ -1,0 +1,30 @@
+{
+  "id": "GO:0035671",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035671",
+  "relationships": {
+    "is_a": [
+      "GO:0016628"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-12267"
+    ],
+    "GOC": [
+      "kad"
+    ],
+    "PMID": [
+      "17945329",
+      "19166903"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an enone + NADPH + H+ = a ketone + NADP+.",
+  "namespace": "molecular_function",
+  "label": "enone reductase activity"
+}

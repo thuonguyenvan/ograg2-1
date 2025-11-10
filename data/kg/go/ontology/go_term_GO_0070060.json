@@ -1,0 +1,30 @@
+{
+  "id": "GO:0070060",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070060",
+  "relationships": {
+    "is_a": [
+      "GO:0045010"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "formin-mediated actin filament nucleation"
+    ],
+    "related": [
+      "unbranched actin filament nucleation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "17477841"
+    ]
+  },
+  "definition": "The actin nucleation process in which actin monomers combine in the absence of any existing actin filaments; elongation of the actin oligomer formed by nucleation leads to the formation of an unbranched filament.",
+  "namespace": "biological_process",
+  "label": "&apos;de novo&apos; actin filament nucleation"
+}

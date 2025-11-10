@@ -1,0 +1,28 @@
+{
+  "id": "GO:0005469",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005469",
+  "relationships": {
+    "is_a": [
+      "GO:0015138",
+      "GO:0015141",
+      "GO:0015297"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "29323"
+    ],
+    "TC": [
+      "2.A.29.13.1"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: succinate(out) + fumarate(in) = succinate(in) + fumarate(out).",
+  "namespace": "molecular_function",
+  "label": "succinate:fumarate antiporter activity"
+}

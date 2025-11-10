@@ -1,0 +1,33 @@
+{
+  "id": "GO:0097527",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097527",
+  "relationships": {
+    "is_a": [
+      "GO:0007165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "necroptosis signaling pathway",
+      "necroptotic signal transduction"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "necroptosis signaling",
+      "necroptotic signalling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_apoptosis",
+      "signaling"
+    ],
+    "PMID": [
+      "20823910"
+    ]
+  },
+  "definition": "The series of molecular signals which triggers the necroptotic death of a cell. The pathway starts with reception of a signal, is characterized by activation of receptor-interacting serine/threonine-protein kinase 1 and/or 3 (RIPK1/3, also called RIP1/3), and ends when the execution phase of necroptosis is triggered.",
+  "namespace": "biological_process",
+  "label": "necroptotic signaling pathway"
+}

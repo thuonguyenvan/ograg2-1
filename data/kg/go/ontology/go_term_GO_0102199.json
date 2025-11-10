@@ -1,0 +1,29 @@
+{
+  "id": "GO:0102199",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102199",
+  "relationships": {
+    "is_a": [
+      "GO:0046857"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nitric oxide reductase activity (NAD(P)H-dependent) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.7.1.14",
+      "1.7.1.14"
+    ],
+    "MetaCyc": [
+      "RXN-12112"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + NAD(P)+ + nitrous oxide = H+ + NAD(P)H + 2 nitric oxide.",
+  "namespace": "molecular_function",
+  "label": "nitric oxide reductase [NAD(P)H] activity"
+}

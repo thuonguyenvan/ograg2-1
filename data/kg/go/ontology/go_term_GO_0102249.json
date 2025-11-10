@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102249",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102249",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-12386",
+      "RXN-12386"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a phosphatidylcholine + a 1,2-diacyl-sn-glycerol = a 1,2-diacyl-sn-glycerol + a phosphatidylcholine.",
+  "namespace": "molecular_function",
+  "label": "phosphatidylcholine:diacylglycerol cholinephosphotransferase activity"
+}

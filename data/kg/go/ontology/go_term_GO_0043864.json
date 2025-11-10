@@ -1,0 +1,37 @@
+{
+  "id": "GO:0043864",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043864",
+  "relationships": {
+    "is_a": [
+      "GO:0004040"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IAH",
+      "indole acetamide hydrolase activity",
+      "indole-3-acetamide hydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "IaaH",
+      "Tms2"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "G-5841"
+    ],
+    "RHEA": [
+      "34371",
+      "34371"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Catalysis of the reaction: iH2O + indole-3-acetamide = (indol-3-yl)acetate + NH4+. Indole-3-acetamide is known as IAM and indole-3-acetate as IAA.",
+  "namespace": "molecular_function",
+  "label": "indoleacetamide hydrolase activity"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "GO:0030570",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030570",
+  "relationships": {
+    "is_a": [
+      "GO:0016837"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "pectic lyase activity",
+      "pectin trans-eliminase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "(1-&gt;4)-alpha-D-galacturonan lyase activity",
+      "PGA lyase activity",
+      "PPase-N activity",
+      "alpha-1,4-D-endopolygalacturonic acid lyase activity",
+      "endo-alpha-1,4-polygalacturonic acid lyase activity",
+      "endogalacturonate transeliminase activity",
+      "endopectin methyltranseliminase activity",
+      "pectate transeliminase activity",
+      "pectic acid lyase activity",
+      "pectic acid transeliminase activity",
+      "polygalacturonate lyase activity",
+      "polygalacturonic acid lyase activity",
+      "polygalacturonic acid trans-eliminase activity",
+      "polygalacturonic transeliminase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.2.2",
+      "4.2.2.2",
+      "4.2.2.2",
+      "4.2.2.2",
+      "4.2.2.2",
+      "4.2.2.2",
+      "4.2.2.2",
+      "4.2.2.2",
+      "4.2.2.2",
+      "4.2.2.2",
+      "4.2.2.2",
+      "4.2.2.2",
+      "4.2.2.2",
+      "4.2.2.2",
+      "4.2.2.2",
+      "4.2.2.2",
+      "4.2.2.2",
+      "4.2.2.2"
+    ],
+    "MetaCyc": [
+      "4.2.2.2-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a pectate = a pectate + a pectate oligosaccharide with 4-(4-deoxy-alpha-D-galact-4-enuronosyl)-D-galacturonate end. This reaction is the eliminative cleavage of pectate to give oligosaccharides with 4-deoxy-alpha-D-gluc-4-enuronosyl groups at their non-reducing ends.",
+  "namespace": "molecular_function",
+  "label": "pectate lyase activity"
+}

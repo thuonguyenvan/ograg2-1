@@ -1,0 +1,33 @@
+{
+  "id": "GO:0043647",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043647",
+  "relationships": {
+    "is_a": [
+      "GO:0006796",
+      "GO:0019637",
+      "GO:0019751"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "inositol phosphate metabolism"
+    ],
+    "broad": [],
+    "narrow": [
+      "myo-inositol phosphate metabolic process",
+      "myo-inositol phosphate metabolism"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1483249"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving inositol phosphate, 1,2,3,4,5,6-cyclohexanehexol, with one or more phosphate groups attached.",
+  "namespace": "biological_process",
+  "label": "Inositol phosphate metabolism"
+}

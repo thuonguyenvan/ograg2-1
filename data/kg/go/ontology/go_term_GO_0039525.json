@@ -1,0 +1,43 @@
+{
+  "id": "GO:0039525",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039525",
+  "relationships": {
+    "is_a": [
+      "GO:0044068"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "modulation by virus of host chromatin organisation",
+      "modulation of host chromatin by virus",
+      "modulation of host chromatin structure by virus"
+    ],
+    "broad": [],
+    "narrow": [
+      "modulation by virus of host chromatin organization"
+    ],
+    "related": [
+      "regulation by virus of host chromatin organization"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "899",
+      "899"
+    ],
+    "GOC": [
+      "bf",
+      "sp",
+      "mah",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "11483770",
+      "16687403"
+    ]
+  },
+  "definition": "A process in which a symbiont alters or subverts the organization of chromatin in its host. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated perturbation of host chromatin organization"
+}

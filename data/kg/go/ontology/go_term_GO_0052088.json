@@ -1,0 +1,61 @@
+{
+  "id": "GO:0052088",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052088",
+  "relationships": {
+    "is_a": [
+      "GO:0052027",
+      "GO:0052167"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "suppression by organism of host JA-mediated defense response",
+      "symbiont defense to host-produced jasmonic acid"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation by organism of defense-related host SA-mediated signal transduction pathway",
+      "activation by organism of defense-related host jasmonic acid-mediated signal transduction pathway",
+      "activation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway",
+      "down regulation by symbiont of host jasmonic acid-mediated defense response",
+      "down-regulation by symbiont of host jasmonic acid-mediated defense response",
+      "downregulation by symbiont of host jasmonic acid-mediated defense response",
+      "induction by organism of defense-related host SA-mediated signal transduction pathway",
+      "induction by organism of defense-related host jasmonic acid-mediated signal transduction pathway",
+      "induction by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway",
+      "inhibition by symbiont of host jasmonic acid-mediated defense response",
+      "modulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction",
+      "modulation by organism of host JA-mediated defense response",
+      "modulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction",
+      "modulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway",
+      "negative regulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction",
+      "negative regulation by organism of jasmonic acid-mediated defense response of other organism involved in symbiotic interaction",
+      "negative regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway",
+      "negative regulation by symbiont of host jasmonic acid-mediated defense response",
+      "positive regulation by organism of defense-related host SA-mediated signal transduction pathway",
+      "positive regulation by organism of defense-related jasmonic acid-mediated signal transduction pathway in other organism involved in symbiotic interaction",
+      "positive regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway",
+      "stimulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway",
+      "up regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway",
+      "up-regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway",
+      "upregulation by organism of defense-related host SA-mediated signal transduction pathway",
+      "upregulation by organism of defense-related host jasmonic acid-mediated signal transduction pathway",
+      "upregulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway"
+    ],
+    "related": [
+      "suppression by symbiont of host jasmonic acid-mediated defense response"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_pamgo_17jul06"
+    ],
+    "PMID": [
+      "29222513",
+      "35698792"
+    ]
+  },
+  "definition": "A process in which a symbiont alters or subverts a jasmonic acid-mediated signal transduction pathway in its host. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated perturbation of host jasmonic acid signaling"
+}

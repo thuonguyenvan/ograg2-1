@@ -1,0 +1,31 @@
+{
+  "id": "GO:0034335",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034335",
+  "relationships": {
+    "is_a": [
+      "GO:0003918"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "DNA gyrase activity",
+      "DNA-gyrase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm",
+      "krc",
+      "mah"
+    ],
+    "WikiPedia": [
+      "DNA_gyrase"
+    ]
+  },
+  "definition": "Catalytic introduction of negative supercoils into a DNA molecule or region thereof. In bacteria, negative supercoils are only introduced by DNA gyrase, a type II topoisomerase, but not all DNA gyrases are capable of introducing supercoils. In bacteria, the level of supercoiling varies widely between species and has been characterized properly in only a handful of organisms. The best characterized enzyme, from E.coli, is exceptionally proficient at supercoiling and this ability is not representative of all bacteria.",
+  "namespace": "molecular_function",
+  "label": "DNA negative supercoiling activity"
+}

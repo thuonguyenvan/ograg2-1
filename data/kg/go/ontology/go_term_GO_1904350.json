@@ -1,0 +1,40 @@
+{
+  "id": "GO:1904350",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904350",
+  "relationships": {
+    "is_a": [
+      "GO:0042176"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of vacuolar protein breakdown",
+      "regulation of vacuolar protein catabolic process",
+      "regulation of vacuolar protein catabolism",
+      "regulation of vacuolar protein degradation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25635054"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of protein catabolic process in the vacuole.",
+  "namespace": "biological_process",
+  "label": "regulation of protein catabolic process in the vacuole"
+}

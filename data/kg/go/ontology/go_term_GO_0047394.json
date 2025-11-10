@@ -1,0 +1,46 @@
+{
+  "id": "GO:0047394",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047394",
+  "relationships": {
+    "is_a": [
+      "GO:0008081"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1,2-cyclic-inositol-phosphate phosphodiesterase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-(sn-glycero-3-phospho)-1D-myo-inositol inositolphosphohydrolase activity",
+      "1-D-myo-inositol-1,2-cyclic-phosphate 2-inositolphosphohydrolase activity",
+      "D-inositol 1,2-cyclic phosphate 2-phosphohydrolase activity",
+      "D-myo-inositol 1,2-cyclic phosphate 2-phosphohydrolase activity",
+      "D-myo-inositol 1:2-cyclic phosphate 2-phosphohydrolase activity",
+      "inositol-1,2-cyclic-phosphate 2-inositolphosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.4.43",
+      "3.1.4.43",
+      "3.1.4.43",
+      "3.1.4.43",
+      "3.1.4.43",
+      "3.1.4.43",
+      "3.1.4.43",
+      "3.1.4.43"
+    ],
+    "MetaCyc": [
+      "3.1.4.43-RXN",
+      "3.1.4.43-RXN"
+    ],
+    "RHEA": [
+      "14033"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + 1-(sn-glycero-3-phospho)-1D-myoinositol = 1D-myo-inositol 1-phosphate + glycerol.",
+  "namespace": "molecular_function",
+  "label": "glycerophosphoinositol inositolphosphodiesterase activity"
+}

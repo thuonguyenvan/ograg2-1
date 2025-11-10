@@ -1,0 +1,37 @@
+{
+  "id": "GO:0038108",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038108",
+  "relationships": {
+    "is_a": [
+      "GO:0032099",
+      "GO:0033210"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "inhibition of appetite by leptin signaling",
+      "negative regulation of appetite by leptin-mediated signalling pathway",
+      "reduction of appetite by leptin-mediated signaling",
+      "suppression of appetite by leptin-mediated signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "vk",
+      "bf",
+      "mah",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "19150989"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by leptin binding to its receptor on the surface of a cell, which reduces appetite, the desire or physical craving for food.",
+  "namespace": "biological_process",
+  "label": "negative regulation of appetite by leptin-mediated signaling pathway"
+}

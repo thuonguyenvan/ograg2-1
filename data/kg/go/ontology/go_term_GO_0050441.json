@@ -1,0 +1,40 @@
+{
+  "id": "GO:0050441",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050441",
+  "relationships": {
+    "is_a": [
+      "GO:0046912"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-ethyl-3-hydroxybutanedioate synthase activity",
+      "3-ethylmalate glyoxylate-lyase (CoA-butanoylating) activity",
+      "butanoyl-CoA:glyoxylate C-butanoyltransferase (thioester-hydrolysing, 1-carboxypropyl-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.3.7",
+      "2.3.3.7",
+      "2.3.3.7",
+      "2.3.3.7"
+    ],
+    "KEGG_REACTION": [
+      "R01180"
+    ],
+    "MetaCyc": [
+      "3-ETHYLMALATE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "10500",
+      "10500"
+    ]
+  },
+  "definition": "Catalysis of the reaction: butanoyl-CoA + glyoxylate + H2O = 3-ethylmalate + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "3-ethylmalate synthase activity"
+}

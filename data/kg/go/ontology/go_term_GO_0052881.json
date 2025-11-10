@@ -1,0 +1,49 @@
+{
+  "id": "GO:0052881",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052881",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-hydroxyphenylacetate,FADH:oxygen oxidoreductase (3-hydroxylating) activity"
+    ],
+    "broad": [
+      "4 HPA 3-hydroxylase activity",
+      "4-hydroxyphenylacetic acid-3-hydroxylase activity",
+      "p-hydroxyphenylacetate 3-hydroxylase activity",
+      "p-hydroxyphenylacetate hydroxylase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "p-hydroxyphenylacetate 3-hydroxylase (FAD) activity",
+      "p-hydroxyphenylacetate hydroxylase (FAD) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.9",
+      "1.14.14.9",
+      "1.14.14.9",
+      "1.14.14.9",
+      "1.14.14.9",
+      "1.14.14.9",
+      "1.14.14.9"
+    ],
+    "MetaCyc": [
+      "RXN-8505"
+    ],
+    "RHEA": [
+      "30595",
+      "30595"
+    ],
+    "UM-BBD_reactionID": [
+      "r0301"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (4-hydroxyphenyl)acetate + FADH(2) + O2 = 3,4-dihydroxyphenylacetate + FAD + H+ + H2O.",
+  "namespace": "molecular_function",
+  "label": "4-hydroxyphenylacetate 3-monooxygenase activity"
+}

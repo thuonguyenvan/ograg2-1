@@ -1,0 +1,43 @@
+{
+  "id": "GO:0034010",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034010",
+  "relationships": {
+    "is_a": [
+      "GO:0016846"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-sulfolactate bisulfite-lyase (pyruvate-forming) activity",
+      "3-sulfolactate bisulfite-lyase activity",
+      "Suy",
+      "SuyAB"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.4.1.24",
+      "4.4.1.24",
+      "4.4.1.24",
+      "4.4.1.24",
+      "4.4.1.24",
+      "4.4.1.24"
+    ],
+    "KEGG_REACTION": [
+      "R07633"
+    ],
+    "MetaCyc": [
+      "RXN-11691"
+    ],
+    "RHEA": [
+      "21428",
+      "21428"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-sulfolactate = pyruvate + sulfite.",
+  "namespace": "molecular_function",
+  "label": "sulfolactate sulfo-lyase activity"
+}

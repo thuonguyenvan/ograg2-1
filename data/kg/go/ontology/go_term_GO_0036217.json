@@ -1,0 +1,38 @@
+{
+  "id": "GO:0036217",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036217",
+  "relationships": {
+    "is_a": [
+      "GO:0047429"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2&apos;-deoxyguanosine 5&apos;-triphosphate diphosphohydrolase",
+      "dGTP pyrophosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R01855",
+      "R01855"
+    ],
+    "RHEA": [
+      "28362",
+      "28362"
+    ],
+    "GOC": [
+      "dgf"
+    ],
+    "PMID": [
+      "17090528",
+      "22531138"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dGTP + H2O = dGMP + H+ + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "dGTP diphosphatase activity"
+}

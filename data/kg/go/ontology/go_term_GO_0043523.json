@@ -1,0 +1,33 @@
+{
+  "id": "GO:0043523",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043523",
+  "relationships": {
+    "is_a": [
+      "GO:0042981"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of apoptosis of neuronal cells",
+      "regulation of apoptosis of neurons",
+      "regulation of neuron programmed cell death",
+      "regulation of neuronal cell programmed cell death",
+      "regulation of programmed cell death of neuronal cells",
+      "regulation of programmed cell death, neurons"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of neuron apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mtg_apoptosis"
+    ]
+  },
+  "definition": "Any process that modulates the occurrence or rate of cell death by apoptotic process in neurons.",
+  "namespace": "biological_process",
+  "label": "regulation of neuron apoptotic process"
+}

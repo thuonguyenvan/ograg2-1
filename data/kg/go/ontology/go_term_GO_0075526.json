@@ -1,0 +1,33 @@
+{
+  "id": "GO:0075526",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075526",
+  "relationships": {
+    "is_a": [
+      "GO:0016032"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cap snatching involved in viral mRNA transcription"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "839",
+      "839"
+    ],
+    "GOC": [
+      "bf",
+      "jl"
+    ],
+    "GO": [
+      "jl"
+    ]
+  },
+  "definition": "A transcription initiation process during which a nucleotide sequence between 10 and 20 nucleotides in size is cleaved from the 5&apos; end of host mRNAs by a viral RNA-dependent polymerase. The capped leader sequence obtained is subsequently used to prime transcription on the viral genome, which ultimately leads to the synthesis of capped, translatable viral mRNAs.",
+  "namespace": "biological_process",
+  "label": "Cap snatching"
+}

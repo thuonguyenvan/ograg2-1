@@ -1,0 +1,42 @@
+{
+  "id": "GO:1904824",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904824",
+  "relationships": {
+    "is_a": [
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "anaphase promoting complex assembly",
+      "anaphase promoting complex formation",
+      "anaphase-promoting complex formation",
+      "cyclosome assembly",
+      "cyclosome formation"
+    ],
+    "broad": [
+      "APC assembly"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000079"
+    ],
+    "PMID": [
+      "16950791"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form an anaphase-promoting complex.",
+  "namespace": "biological_process",
+  "label": "anaphase-promoting complex assembly"
+}

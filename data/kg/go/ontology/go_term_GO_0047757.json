@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047757",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047757",
+  "relationships": {
+    "is_a": [
+      "GO:0016857"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "chondroitin D-glucuronosyl 5-epimerase activity",
+      "chondroitin-D-glucuronate 5-epimerase activity",
+      "dermatan-sulfate 5-epimerase activity",
+      "polyglucuronate 5-epimerase activity",
+      "urunosyl C-5 epimerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.3.19",
+      "5.1.3.19",
+      "5.1.3.19",
+      "5.1.3.19",
+      "5.1.3.19",
+      "5.1.3.19",
+      "5.1.3.19"
+    ],
+    "MetaCyc": [
+      "CHONDROITIN-GLUCURONATE-5-EPIMERASE-RXN",
+      "CHONDROITIN-GLUCURONATE-5-EPIMERASE-RXN"
+    ],
+    "RHEA": [
+      "21084"
+    ],
+    "Reactome": [
+      "R-HSA-2022052"
+    ]
+  },
+  "definition": "Catalysis of the reaction: chondroitin D-glucuronate = dermatan L-iduronate.",
+  "namespace": "molecular_function",
+  "label": "DSE converts GlcA to IdoA"
+}

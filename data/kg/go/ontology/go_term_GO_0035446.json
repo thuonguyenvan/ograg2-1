@@ -1,0 +1,40 @@
+{
+  "id": "GO:0035446",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035446",
+  "relationships": {
+    "is_a": [
+      "GO:0016880"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside ligase",
+      "MshC ligase",
+      "desacetylmycothiol synthase"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.1.13",
+      "6.3.1.13",
+      "6.3.1.13",
+      "6.3.1.13"
+    ],
+    "MetaCyc": [
+      "RXN1G-121"
+    ],
+    "RHEA": [
+      "26176"
+    ],
+    "PMID": [
+      "12033919",
+      "12033919"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-(2-amino-2-deoxy-alpha-D-glucopyranoside)-1D-myo-inositol + L-cysteine + ATP = 1-D-myo-inosityl-2-L-cysteinylamido-2-deoxy-alpha-D-glucopyranoside + AMP + diphosphate + 2 H+. 1-(2-amino-2-deoxy-alpha-D-glucopyranoside)-1D-myo-inositol is also known as glucosaminyl-inositol or GlcN-Ins, and 1-D-myo-inosityl-2-L-cysteinylamido-2-deoxy-alpha-D-glucopyranoside as desacetylmycothiol or Cys-GlcN-Ins.",
+  "namespace": "molecular_function",
+  "label": "cysteine-glucosaminylinositol ligase activity"
+}

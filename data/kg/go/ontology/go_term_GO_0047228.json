@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047228",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047228",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose-diacylglycerol glucosyltransferase activity",
+      "UDP-glucose:1,2-diacylglycerol 3-D-glucosyltransferase activity",
+      "UDP-glucose:1,2-diacylglycerol glucosyltransferase activity",
+      "UDPglucose:1,2-diacylglycerol 3-D-glucosyltransferase activity",
+      "UDPglucose:diacylglycerol glucosyltransferase activity",
+      "uridine diphosphoglucose-diacylglycerol glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.337",
+      "2.4.1.337",
+      "2.4.1.337",
+      "2.4.1.337",
+      "2.4.1.337",
+      "2.4.1.337",
+      "2.4.1.337"
+    ],
+    "MetaCyc": [
+      "2.4.1.157-RXN"
+    ],
+    "RHEA": [
+      "47612",
+      "47612"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1,2-diacyl-sn-glycerol + UDP-alpha-D-glucose = a 1,2-diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol + H+ + UDP.",
+  "namespace": "molecular_function",
+  "label": "1,2-diacylglycerol 3-glucosyltransferase activity"
+}

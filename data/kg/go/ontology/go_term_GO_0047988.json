@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047988",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047988",
+  "relationships": {
+    "is_a": [
+      "GO:0016614"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(S)-3-hydroxybutanoate:2-oxoglutarate oxidoreductase activity",
+      "transhydrogenase, hydroxy acid-oxo acid"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.99.24",
+      "1.1.99.24",
+      "1.1.99.24",
+      "1.1.99.24"
+    ],
+    "MetaCyc": [
+      "HYDROXYACID-OXOACID-TRANSHYDROGENASE-RXN",
+      "HYDROXYACID-OXOACID-TRANSHYDROGENASE-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-880002",
+      "R-HSA-880033"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-3-hydroxybutanoate + 2-oxoglutarate = acetoacetate + (R)-2-hydroxyglutarate.",
+  "namespace": "molecular_function",
+  "label": "2-oxoglutarate + 4-hydroxybutyrate &lt;=&gt; (R)-2-hydroxyglutarate + succinate semialdehyde"
+}

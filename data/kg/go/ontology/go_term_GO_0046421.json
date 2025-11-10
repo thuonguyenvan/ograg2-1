@@ -1,0 +1,43 @@
+{
+  "id": "GO:0046421",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046421",
+  "relationships": {
+    "is_a": [
+      "GO:0016833"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-methylisocitrate lyase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate pyruvate-lyase (succinate-forming)",
+      "(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate pyruvate-lyase activity",
+      "MICL"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.3.30",
+      "4.1.3.30",
+      "4.1.3.30",
+      "4.1.3.30",
+      "4.1.3.30"
+    ],
+    "KEGG_REACTION": [
+      "R00409"
+    ],
+    "MetaCyc": [
+      "METHYLISOCITRATE-LYASE-RXN"
+    ],
+    "RHEA": [
+      "16809",
+      "16809"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate = pyruvate + succinate.",
+  "namespace": "molecular_function",
+  "label": "methylisocitrate lyase activity"
+}

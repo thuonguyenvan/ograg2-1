@@ -1,0 +1,33 @@
+{
+  "id": "GO:0019495",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019495",
+  "relationships": {
+    "is_a": [
+      "GO:0006103",
+      "GO:0006562"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "proline breakdown to 2-oxoglutarate",
+      "proline catabolic process to 2-ketoglutarate",
+      "proline catabolic process to alpha-ketoglutarate",
+      "proline catabolic process to alpha-oxoglutarate",
+      "proline catabolism to 2-ketoglutarate",
+      "proline catabolism to alpha-ketoglutarate",
+      "proline catabolism to alpha-oxoglutarate",
+      "proline degradation to 2-oxoglutarate"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of proline into other compounds, including 2-oxoglutarate.",
+  "namespace": "biological_process",
+  "label": "proline catabolic process to 2-oxoglutarate"
+}

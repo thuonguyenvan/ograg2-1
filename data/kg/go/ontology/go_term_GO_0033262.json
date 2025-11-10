@@ -1,0 +1,31 @@
+{
+  "id": "GO:0033262",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033262",
+  "relationships": {
+    "is_a": [
+      "GO:0010564",
+      "GO:0090329"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of DNA replication involved in S phase",
+      "regulation of DNA replication involved in S-phase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of DNA replication during S phase"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of The DNA-dependent DNA replication that occurs in the nucleus of eukaryotic organisms as part of the cell cycle.",
+  "namespace": "biological_process",
+  "label": "regulation of nuclear cell cycle DNA replication"
+}

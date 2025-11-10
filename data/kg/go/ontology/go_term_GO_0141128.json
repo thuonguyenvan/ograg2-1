@@ -1,0 +1,28 @@
+{
+  "id": "GO:0141128",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141128",
+  "relationships": {
+    "is_a": [
+      "GO:0052553"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "symbiont-mediated non-specific T-cell activation in host",
+      "symbiont-mediated nonspecific activation of host T-cells"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "12679262",
+      "17427250",
+      "28880920"
+    ]
+  },
+  "definition": "A process by which a symbiont superantigen elicits a strong immune response by activating a large number of T cells in a non-specific manner. Unlike conventional antigens, which activate T cells by interacting with specific receptors on the surface of these cells, superantigens can stimulate T cells by binding to regions outside the antigen-binding site. Superantigens can activate a large proportion of T cells, leading to an exaggerated immune response. This excessive activation can result in the release of a large amount of cytokines such as tumor necrosis factor and interleukin-2. The massive cytokine release can lead to an acute toxic shock, causing symptoms such as fever and organ damage.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated non-specific activation of host T-cells"
+}

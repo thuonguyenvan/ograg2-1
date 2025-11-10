@@ -1,0 +1,34 @@
+{
+  "id": "GO:0098848",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098848",
+  "relationships": {
+    "is_a": [
+      "GO:0018835"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alpha-D-ribose-1-methylphosphonate-5-phosphate C-P-lyase (methane forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.7.1.1",
+      "4.7.1.1",
+      "4.7.1.1"
+    ],
+    "RHEA": [
+      "34707"
+    ],
+    "GOC": [
+      "dos",
+      "ik"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-D-ribose 1-methylphosphonate 5-phosphate = alpha-D-ribose 1,2-cyclic phosphate 5-phosphate + methane.",
+  "namespace": "molecular_function",
+  "label": "alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase activity"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0042092",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042092",
+  "relationships": {
+    "is_a": [
+      "GO:0006955"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "T-helper 2 type immune response",
+      "Th2 immune response"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "add",
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "18000958",
+      "18007680",
+      "20065995",
+      "20200518"
+    ]
+  },
+  "definition": "An immune response which is associated with resistance to extracellular organisms such as helminths and pathological conditions such as allergy, which is orchestrated by the production of particular cytokines, most notably IL-4, IL-5, IL-10, and IL-13, by any of a variety of cell types including T-helper 2 cells, eosinophils, basophils, mast cells, and nuocytes, resulting in enhanced production of certain antibody isotypes and other effects.",
+  "namespace": "biological_process",
+  "label": "type 2 immune response"
+}

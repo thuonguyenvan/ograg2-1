@@ -1,0 +1,47 @@
+{
+  "id": "GO:0016155",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016155",
+  "relationships": {
+    "is_a": [
+      "GO:0016646"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "10-formyl tetrahydrofolate:NADP oxidoreductase activity",
+      "10-formyl-H2PtGlu:NADP oxidoreductase activity",
+      "10-formyl-H4folate dehydrogenase activity",
+      "10-formyltetrahydrofolate dehydrogenase activity",
+      "10-formyltetrahydrofolate:NADP+ oxidoreductase activity",
+      "N10-formyltetrahydrofolate dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.6",
+      "1.5.1.6",
+      "1.5.1.6",
+      "1.5.1.6",
+      "1.5.1.6",
+      "1.5.1.6",
+      "1.5.1.6",
+      "1.5.1.6"
+    ],
+    "KEGG_REACTION": [
+      "R00941"
+    ],
+    "MetaCyc": [
+      "FORMYLTETRAHYDROFOLATE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "10180",
+      "10180"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 10-formyltetrahydrofolate + H2O + NADP+ = (6S)-5,6,7,8-tetrahydrofolate + CO2 + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "formyltetrahydrofolate dehydrogenase activity"
+}

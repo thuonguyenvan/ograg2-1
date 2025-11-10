@@ -1,0 +1,31 @@
+{
+  "id": "GO:0061753",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061753",
+  "relationships": {
+    "is_a": [
+      "GO:0051649"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "substrate sequestration to autophagosome",
+      "substrate sequestration to phagophore"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "dph",
+      "pad"
+    ],
+    "PMID": [
+      "23545414"
+    ]
+  },
+  "definition": "The localization process by which an autophagic substrate is delivered to a forming autophagosome.",
+  "namespace": "biological_process",
+  "label": "substrate localization to autophagosome"
+}

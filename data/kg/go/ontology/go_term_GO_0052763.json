@@ -1,0 +1,26 @@
+{
+  "id": "GO:0052763",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052763",
+  "relationships": {
+    "is_a": [
+      "GO:0016837"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators"
+    ],
+    "PMID": [
+      "9468631"
+    ]
+  },
+  "definition": "Catalysis of the cleavage of a carbon-oxygen bond in ulvan, a carbohydrate composed of a repeating structure of [-&gt;4)-beta-D-GlcA-(1,4)-alpha-L-Rha 3S-(1-&gt;4)-alpha-L-IdoA-(1-&gt;4)-alpha-L-Rha 3S-(1-]n. Continued digest of ulvan with an enzyme that can catalyze this reaction results in ulvanobiouronic acid A 3-sulfate [-&gt;4)-beta-D-GlcpA-(1-&gt;4)-alpha-L-Rhap 3-sulfate-(1-]n with 4-deoxy-L-threo-hex-4-enopyranosiduronic acid at the non-reducing end.",
+  "namespace": "molecular_function",
+  "label": "ulvan lyase activity"
+}

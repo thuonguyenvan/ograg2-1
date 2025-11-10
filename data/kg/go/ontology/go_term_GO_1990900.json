@@ -1,0 +1,35 @@
+{
+  "id": "GO:1990900",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990900",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cilium pocket collar",
+      "flagellar pocket collar",
+      "flagellum pocket collar"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "FPC",
+      "flagellar collar",
+      "flagellar pore"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "giardia"
+    ],
+    "PMID": [
+      "18462016",
+      "19806154"
+    ]
+  },
+  "definition": "A constriction site at the junction of the plasma, flagellar and flagellar pocket membranes where the flagellum emerges from the cell body. Observed in some unicellular eukaryotic species such as Chlamydomonas, Giardia and Trypanosoma.",
+  "namespace": "cellular_component",
+  "label": "ciliary pocket collar"
+}

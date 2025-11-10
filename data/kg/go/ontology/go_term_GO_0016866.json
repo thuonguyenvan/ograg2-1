@@ -1,0 +1,30 @@
+{
+  "id": "GO:0016866",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016866",
+  "relationships": {
+    "is_a": [
+      "GO:0016853"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mutase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "intramolecular transferase activity, transferring other groups"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.-.-"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a functional group from one position to another within a single molecule.",
+  "namespace": "molecular_function",
+  "label": "intramolecular transferase activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0102654",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102654",
+  "relationships": {
+    "is_a": [
+      "GO:0016717"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-18:1-2-16:0-phosphatidylglycerol trans-3 desaturase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.19.43"
+    ],
+    "MetaCyc": [
+      "RXN-16053"
+    ],
+    "RHEA": [
+      "46764",
+      "46764"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 1-acyl-2-hexadecanoyl-glycerolipid + 2 H+ + O2 + 2 reduced [2Fe-2S]-[ferredoxin] = a 1-acyl-2-[(3E)-hexadec-3-enoyl]-glycerolipid + 2 H2O + 2 oxidized [2Fe-2S]-[ferredoxin]. The this activity introduces an unusual trans double bond at carbon 3 of a palmitoyl group attached to the sn-2 position of glycerolipids.",
+  "namespace": "molecular_function",
+  "label": "palmitoyl-[glycerolipid] 3-(E)-desaturase activity"
+}

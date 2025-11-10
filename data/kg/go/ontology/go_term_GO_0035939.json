@@ -1,0 +1,36 @@
+{
+  "id": "GO:0035939",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035939",
+  "relationships": {
+    "is_a": [
+      "GO:0003696"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "VNTR binding",
+      "microsatellite DNA binding",
+      "variable number tandem repeat binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "yaf",
+      "bf"
+    ],
+    "PMID": [
+      "21290414",
+      "21290414"
+    ],
+    "SO": [
+      "0000289",
+      "0000289"
+    ]
+  },
+  "definition": "Binding to a microsatellite, a repeat_region in DNA containing repeat units (2 to 4 base pairs) that is repeated multiple times in tandem.",
+  "namespace": "molecular_function",
+  "label": "microsatellite binding"
+}

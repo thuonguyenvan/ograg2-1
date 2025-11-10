@@ -1,0 +1,28 @@
+{
+  "id": "GO:0019730",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019730",
+  "relationships": {
+    "is_a": [
+      "GO:0006959",
+      "GO:0140546"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6803157"
+    ],
+    "GOC": [
+      "go_curators",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "An immune response against microbes mediated through a body fluid. Examples of this process are seen in the antimicrobial humoral response of Drosophila melanogaster and Mus musculus.",
+  "namespace": "biological_process",
+  "label": "Antimicrobial peptides"
+}

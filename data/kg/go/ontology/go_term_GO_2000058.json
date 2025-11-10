@@ -1,0 +1,54 @@
+{
+  "id": "GO:2000058",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000058",
+  "relationships": {
+    "is_a": [
+      "GO:0009894",
+      "GO:1903050"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of protein ubiquitination during ubiquitin-dependent protein breakdown",
+      "regulation of protein ubiquitination during ubiquitin-dependent protein catabolism",
+      "regulation of protein ubiquitination during ubiquitin-dependent protein degradation",
+      "regulation of protein ubiquitinylation during ubiquitin-dependent protein catabolic process",
+      "regulation of protein ubiquitinylation during ubiquitin-dependent protein catabolism",
+      "regulation of protein ubiquitylation during ubiquitin-dependent protein catabolic process",
+      "regulation of protein ubiquitylation during ubiquitin-dependent protein catabolism"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of protein ubiquitination involved in ubiquitin-dependent protein catabolic process"
+    ],
+    "related": [
+      "regulation of myofibrillar protein ubiquitination during ubiquitin-dependent protein breakdown",
+      "regulation of myofibrillar protein ubiquitination during ubiquitin-dependent protein catabolic process",
+      "regulation of myofibrillar protein ubiquitination during ubiquitin-dependent protein catabolism",
+      "regulation of myofibrillar protein ubiquitination during ubiquitin-dependent protein degradation",
+      "regulation of protein degradation tagging activity",
+      "regulation of protein ubiquitination during ubiquitin-dependent protein catabolic process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of ubiquitin-dependent protein catabolic process.",
+  "namespace": "biological_process",
+  "label": "regulation of ubiquitin-dependent protein catabolic process"
+}

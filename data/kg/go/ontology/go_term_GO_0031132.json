@@ -1,0 +1,40 @@
+{
+  "id": "GO:0031132",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031132",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-serine:NADP+ 3-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.276",
+      "1.1.1.276",
+      "1.1.1.276"
+    ],
+    "KEGG_REACTION": [
+      "R06126"
+    ],
+    "MetaCyc": [
+      "RXN0-2201"
+    ],
+    "RHEA": [
+      "21596",
+      "21596"
+    ],
+    "Wikipedia": [
+      "Serine_3-dehydrogenase"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-serine + NADP+ = L-alpha-formylglycine + 2 H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "serine 3-dehydrogenase activity"
+}

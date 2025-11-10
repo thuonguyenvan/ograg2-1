@@ -1,0 +1,32 @@
+{
+  "id": "GO:0097434",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097434",
+  "relationships": {
+    "is_a": [
+      "GO:0015141",
+      "GO:0015295"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "succinate:hydrogen symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "29303"
+    ],
+    "GOC": [
+      "al"
+    ],
+    "PMID": [
+      "1293882"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: succinate(out) + H+(out) = succinate(in) + H+(in).",
+  "namespace": "molecular_function",
+  "label": "succinate:proton symporter activity"
+}

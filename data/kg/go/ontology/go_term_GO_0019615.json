@@ -1,0 +1,33 @@
+{
+  "id": "GO:0019615",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019615",
+  "relationships": {
+    "is_a": [
+      "GO:0019614",
+      "GO:0042952"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "catechol breakdown, ortho-cleavage",
+      "catechol degradation, ortho-cleavage"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "CATECHOL-ORTHO-CLEAVAGE-PWY"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "7765833"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of catechol via the ortho-cleavage pathway, in which the catechol aromatic ring is broken between the two carbon atoms bearing hydroxyl groups.",
+  "namespace": "biological_process",
+  "label": "catechol catabolic process, ortho-cleavage"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0016754",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016754",
+  "relationships": {
+    "is_a": [
+      "GO:0016753"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sinapoylglucose:malate sinapoyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-O-sinapoyl-beta-D-glucose:(S)-malate O-sinapoyltransferase activity",
+      "1-sinapoylglucose-L-malate sinapoyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.92",
+      "2.3.1.92",
+      "2.3.1.92",
+      "2.3.1.92"
+    ],
+    "KEGG_REACTION": [
+      "R03323"
+    ],
+    "MetaCyc": [
+      "2.3.1.92-RXN"
+    ],
+    "RHEA": [
+      "12625",
+      "12625"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-malate + 1-O-sinapoyl-beta-D-glucose = D-glucose + sinapoyl (S)-malate.",
+  "namespace": "molecular_function",
+  "label": "sinapoylglucose-malate O-sinapoyltransferase activity"
+}

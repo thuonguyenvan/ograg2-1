@@ -1,0 +1,38 @@
+{
+  "id": "GO:0033937",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033937",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-keto-3-deoxyoctonate hydrolase activity",
+      "capsular-polysaccharide 3-deoxy-D-manno-2-octulosonohydrolase activity",
+      "octulofuranosylono hydrolase activity",
+      "octulopyranosylonohydrolase activity",
+      "octulosylono hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.124",
+      "3.2.1.124",
+      "3.2.1.124",
+      "3.2.1.124",
+      "3.2.1.124",
+      "3.2.1.124",
+      "3.2.1.124"
+    ],
+    "MetaCyc": [
+      "3.2.1.124-RXN"
+    ]
+  },
+  "definition": "Catalysis of the endohydrolysis of the beta-ketopyranosidic linkages of 3-deoxy-D-manno-2-octulosonate in capsular polysaccharides.",
+  "namespace": "molecular_function",
+  "label": "3-deoxy-2-octulosonidase activity"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0031390",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031390",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Ctf18-RFC",
+      "Ctf18-RLC",
+      "RFC (Ctf18)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "14614842"
+    ]
+  },
+  "definition": "A heptameric complex related to replication factor C, which loads the DNA polymerase processivity factor proliferating cell nuclear antigen (PCNA) onto DNA and plays a vital role in chromosome cohesion. In Saccharomyces the subunits are known as Ctf18p, Rfc2p, Rfc3p, Rfc4p, Rfc5p, Dcc1p, and Ctf8p.",
+  "namespace": "cellular_component",
+  "label": "Ctf18 RFC-like complex"
+}

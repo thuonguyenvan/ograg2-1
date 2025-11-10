@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050299",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050299",
+  "relationships": {
+    "is_a": [
+      "GO:0034071"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:streptomycin 3&apos;&apos;-phosphotransferase activity",
+      "streptomycin 3&apos;&apos;-kinase (phosphorylating)",
+      "streptomycin 3&apos;&apos;-phosphotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.87",
+      "2.7.1.87",
+      "2.7.1.87",
+      "2.7.1.87",
+      "2.7.1.87"
+    ],
+    "KEGG_REACTION": [
+      "R02227"
+    ],
+    "MetaCyc": [
+      "STREPTOMYCIN-3-KINASE-RXN"
+    ],
+    "RHEA": [
+      "18377",
+      "18377"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + streptomycin = ADP + 2 H+ + streptomycin 3&apos;&apos;-phosphate.",
+  "namespace": "molecular_function",
+  "label": "streptomycin 3&apos;&apos;-kinase activity"
+}

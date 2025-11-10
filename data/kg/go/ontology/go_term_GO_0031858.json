@@ -1,0 +1,31 @@
+{
+  "id": "GO:0031858",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031858",
+  "relationships": {
+    "is_a": [
+      "GO:0071855"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PACAP receptor binding",
+      "pituitary adenylate cyclase activating peptide receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "pituitary adenylate cyclase-activating peptide receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "nln",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Binding to a pituitary adenylate cyclase-activating polypeptide receptor.",
+  "namespace": "molecular_function",
+  "label": "pituitary adenylate cyclase-activating polypeptide receptor binding"
+}

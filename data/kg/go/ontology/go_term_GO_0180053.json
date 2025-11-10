@@ -1,0 +1,29 @@
+{
+  "id": "GO:0180053",
+  "uri": "http://purl.obolibrary.org/obo/GO_0180053",
+  "relationships": {
+    "is_a": [
+      "GO:0098798",
+      "GO:1990904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrial translation pre-initiation complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw"
+    ],
+    "PMID": [
+      "32522994"
+    ]
+  },
+  "definition": "A ribonucleoprotein complex comprising of the 28S small mitoribosomal subunit (mt-SSU) and mitochondrial initiation factors (e.g. mtIF3 and mtIF2-GTP) and the initiator tRNA-Met and an mRNA binding. The early steps of translation initiation, including the association of the 28S mitochondrial small subunit (mt-SSU) with initiation factors (mtIF3 and mtIF2), prevention of premature large subunit (39S) joining occur during the assembly of the mitochondrial pre-initiation complex (mtPIC).",
+  "namespace": "cellular_component",
+  "label": "mitochondrial translation preinitiation complex"
+}

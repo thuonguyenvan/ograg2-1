@@ -1,0 +1,32 @@
+{
+  "id": "GO:0042928",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042928",
+  "relationships": {
+    "is_a": [
+      "GO:0015687",
+      "GO:0042886"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "ferrichrome transport"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ],
+    "PMID": [
+      "23192658"
+    ]
+  },
+  "definition": "A process in which ferrichrome is transported into the cell by specific cell surface receptors. Ferrichromes are any of a group of growth-promoting Fe(III) chelates formed by various genera of microfungi. They are homodetic cyclic hexapeptides made up of a tripeptide of glycine (or other small neutral amino acids) and a tripeptide of an N&apos;acyl-N4-hydroxy-L-ornithine.",
+  "namespace": "biological_process",
+  "label": "ferrichrome import into cell"
+}

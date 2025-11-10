@@ -1,0 +1,62 @@
+{
+  "id": "GO:0007094",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007094",
+  "relationships": {
+    "is_a": [
+      "GO:0045841",
+      "GO:0071173",
+      "GO:0071174"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitotic cell cycle spindle assembly checkpoint",
+      "mitotic checkpoint",
+      "mitotic spindle assembly checkpoint",
+      "mitotic spindle assembly checkpoint signalling",
+      "signal transduction involved in mitotic cell cycle spindle assembly checkpoint",
+      "signal transduction involved in mitotic spindle assembly checkpoint"
+    ],
+    "broad": [],
+    "narrow": [
+      "Dma1-dependent checkpoint",
+      "Mad2-dependent checkpoint",
+      "SAC-independent checkpoint",
+      "signal transduction involved in Dma1-dependent checkpoint",
+      "signal transduction involved in SAC-independent checkpoint",
+      "signaling cascade involved in Dma1-dependent checkpoint",
+      "signaling cascade involved in SAC-independent checkpoint",
+      "signalling cascade involved in Dma1-dependent checkpoint",
+      "signalling cascade involved in SAC-independent checkpoint"
+    ],
+    "related": [
+      "signaling pathway involved in Dma1-dependent checkpoint",
+      "signaling pathway involved in SAC-independent checkpoint",
+      "signalling pathway involved in Dma1-dependent checkpoint",
+      "signalling pathway involved in SAC-independent checkpoint"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-69618"
+    ],
+    "GOC": [
+      "mtg_cell_cycle",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "12360190"
+    ]
+  },
+  "definition": "A mitotic cell cycle checkpoint that delays mitotic sister chromatid separation and consequently the mitotic metaphase/anaphase transition until the spindle is correctly assembled and chromosomes are attached to the spindle. Spindle assembly checkpoint signaling begins with the activated Mph family kinase, and results in the inhibition of the Anaphase Promoting Complex and its activator Sleepy/Cdc20 by the mitotic checkpoint complex (MCC).",
+  "namespace": "biological_process",
+  "label": "Mitotic Spindle Checkpoint"
+}

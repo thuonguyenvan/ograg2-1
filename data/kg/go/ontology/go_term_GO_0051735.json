@@ -1,0 +1,25 @@
+{
+  "id": "GO:0051735",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051735",
+  "relationships": {
+    "is_a": [
+      "GO:0051731"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "GTP-dependent polynucleotide kinase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GTP + 5&apos;-dephosphopolynucleotide = GDP + 5&apos;-phosphopolynucleotide. The polynucleotide may be DNA or RNA.",
+  "namespace": "molecular_function",
+  "label": "GTP-dependent polynucleotide 5&apos;-hydroxyl-kinase activity"
+}

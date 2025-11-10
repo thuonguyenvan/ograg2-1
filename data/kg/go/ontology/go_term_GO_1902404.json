@@ -1,0 +1,32 @@
+{
+  "id": "GO:1902404",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902404",
+  "relationships": {
+    "is_a": [
+      "GO:0000916",
+      "GO:1902410"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "contractile ring contraction involved in cell cycle cytokinesis involved in mitotic cell cycle",
+      "cytokinesis, actomyosin ring contraction involved in mitotic cell cycle",
+      "mitotic actomyosin contractile ring constriction"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mtg_cell_cycle",
+      "TermGenie",
+      "TermGenie",
+      "vw"
+    ]
+  },
+  "definition": "Any actomyosin contractile ring contraction that is involved in mitotic cell cycle.",
+  "namespace": "biological_process",
+  "label": "mitotic actomyosin contractile ring contraction"
+}

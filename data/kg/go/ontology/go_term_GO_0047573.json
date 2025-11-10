@@ -1,0 +1,34 @@
+{
+  "id": "GO:0047573",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047573",
+  "relationships": {
+    "is_a": [
+      "GO:0016811",
+      "GO:0019213"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-acetamidobutanoate amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.63",
+      "3.5.1.63",
+      "3.5.1.63"
+    ],
+    "MetaCyc": [
+      "RXN-36"
+    ],
+    "RHEA": [
+      "15897"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-acetamidobutanoate + H2O = acetate + 4-aminobutanoate.",
+  "namespace": "molecular_function",
+  "label": "4-acetamidobutyrate deacetylase activity"
+}

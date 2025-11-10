@@ -1,0 +1,42 @@
+{
+  "id": "GO:0051118",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051118",
+  "relationships": {
+    "is_a": [
+      "GO:0090599"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,3(1,3;1,4)-alpha-D-glucan 3-glucanohydrolase activity",
+      "cariogenanase activity",
+      "cariogenase activity",
+      "endo-(1-&gt;3)-alpha-glucanase activity",
+      "endo-1,3-alpha-D-glucanase activity",
+      "endo-1,3-alpha-glucanase activity",
+      "mutanase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.59",
+      "3.2.1.59",
+      "3.2.1.59",
+      "3.2.1.59",
+      "3.2.1.59",
+      "3.2.1.59",
+      "3.2.1.59",
+      "3.2.1.59",
+      "3.2.1.59"
+    ],
+    "MetaCyc": [
+      "3.2.1.59-RXN"
+    ]
+  },
+  "definition": "Catalysis of the endohydrolysis of (1-&gt;3)-alpha-D-glucosidic linkages in isolichenin, pseudonigeran and nigeran.",
+  "namespace": "molecular_function",
+  "label": "glucan endo-1,3-alpha-glucosidase activity"
+}

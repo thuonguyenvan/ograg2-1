@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050065",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050065",
+  "relationships": {
+    "is_a": [
+      "GO:0008483"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lysine--pyruvate 6-aminotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-lysine:pyruvate aminotransferase activity",
+      "Lys-AT",
+      "lysine-pyruvate aminotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.71",
+      "2.6.1.71",
+      "2.6.1.71",
+      "2.6.1.71",
+      "2.6.1.71"
+    ],
+    "KEGG_REACTION": [
+      "R00453"
+    ],
+    "MetaCyc": [
+      "LYSINE--PYRUVATE-6-AMINOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "19393",
+      "19393"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-lysine + pyruvate = L-alanine + L-allysine.",
+  "namespace": "molecular_function",
+  "label": "lysine-pyruvate 6-transaminase activity"
+}

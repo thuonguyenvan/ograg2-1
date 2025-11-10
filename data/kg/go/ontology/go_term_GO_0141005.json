@@ -1,0 +1,31 @@
+{
+  "id": "GO:0141005",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141005",
+  "relationships": {
+    "is_a": [
+      "GO:0010526",
+      "GO:0140719"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "retrotransposon silencing by heterochromatin formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9842860"
+    ],
+    "PMID": [
+      "25247314",
+      "28951459",
+      "32823517"
+    ]
+  },
+  "definition": "A transposable element silencing mechanism involving heterochromatin assembly. Heterochromatin is a chromatin conformation that is refractory to transcription.",
+  "namespace": "biological_process",
+  "label": "Regulation of endogenous retroelements"
+}

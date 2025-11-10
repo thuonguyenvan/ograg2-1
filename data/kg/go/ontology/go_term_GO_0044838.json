@@ -1,0 +1,35 @@
+{
+  "id": "GO:0044838",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044838",
+  "relationships": {
+    "is_a": [
+      "GO:0022403"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular quiescence"
+    ],
+    "broad": [
+      "quiescence"
+    ],
+    "narrow": [],
+    "related": [
+      "G0 phase",
+      "cell cycle quiescence"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jb",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A specialized resting state that cells enter in response to cues from the cell&apos;s environment. Quiescence is characterized by the absence of cell growth and division, by a reprogramming of global gene expression, and by changes characteristic of the organism and specific cell type. Depending on external conditions, quiescence may persist until cell death or cells may resume cell growth and division. In some cell types or under certain conditions, cellular metabolism may proceed.",
+  "namespace": "biological_process",
+  "label": "cell quiescence"
+}

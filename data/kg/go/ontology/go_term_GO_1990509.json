@@ -1,0 +1,29 @@
+{
+  "id": "GO:1990509",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990509",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PYM-mago-RNA-binding protein 8A complex",
+      "wibg-mago-tsu complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "14968132"
+    ]
+  },
+  "definition": "Protein complex involved in the disassembly of Mago-Y14 from the spliced mRNA during first round of translation, independently of the translational machinery. Conserved from fission yeast to humans.",
+  "namespace": "cellular_component",
+  "label": "PYM-mago-Y14 complex"
+}

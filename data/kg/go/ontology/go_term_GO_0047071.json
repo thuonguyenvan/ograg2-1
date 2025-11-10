@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047071",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047071",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "steroid 4,5-dioxygenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "3,4-dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione:oxygen 4,5-oxidoreductase (decyclizing)",
+      "3-alkylcatechol 2,3-dioxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.25",
+      "1.13.11.25",
+      "1.13.11.25",
+      "1.13.11.25",
+      "1.13.11.25"
+    ],
+    "KEGG_REACTION": [
+      "R04597"
+    ],
+    "MetaCyc": [
+      "1.13.11.25-RXN"
+    ],
+    "RHEA": [
+      "21352",
+      "21352"
+    ],
+    "UM-BBD_reactionID": [
+      "r1151"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3,4-dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione + O2 = 3-hydroxy-5,9,17-trioxo-4,5:9,10-disecoandrosta-1(10),2-dien-4-oate + H+.",
+  "namespace": "molecular_function",
+  "label": "3,4-dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione 4,5-dioxygenase activity"
+}

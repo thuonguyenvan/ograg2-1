@@ -1,0 +1,41 @@
+{
+  "id": "GO:1903521",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903521",
+  "relationships": {
+    "is_a": [
+      "GO:0034105",
+      "GO:1903519"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of mammary gland involution",
+      "up-regulation of mammary gland involution",
+      "upregulation of mammary gland involution"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of mammary gland involution"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23164222"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of mammary gland involution.",
+  "namespace": "biological_process",
+  "label": "positive regulation of mammary gland involution"
+}

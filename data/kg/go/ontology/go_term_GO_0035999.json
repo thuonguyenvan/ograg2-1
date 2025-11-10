@@ -1,0 +1,30 @@
+{
+  "id": "GO:0035999",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035999",
+  "relationships": {
+    "is_a": [
+      "GO:0006730",
+      "GO:0046653"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-2201"
+    ],
+    "GOC": [
+      "yaf"
+    ],
+    "PMID": [
+      "1825999"
+    ]
+  },
+  "definition": "The chemical reactions and pathways by which one-carbon (C1) units are transferred between tetrahydrofolate molecules, to synthesize other tetrahydrofolate molecules.",
+  "namespace": "biological_process",
+  "label": "tetrahydrofolate interconversion"
+}

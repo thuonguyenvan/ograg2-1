@@ -1,0 +1,31 @@
+{
+  "id": "GO:0034464",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034464",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Bardet-Biedl syndrome complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "cilia"
+    ],
+    "PMID": [
+      "15231740",
+      "17574030",
+      "26498262"
+    ]
+  },
+  "definition": "A ciliary protein complex involved in cilium biogenesis. It consists of at least seven Bardet-Biedl syndrome (BBS) proteins and BBIP10. It moves in association with IFT trains through cilia (likely as an IFT-A/B adaptor or cargo), and is required for the integrity of IFT-A and IFT-B.",
+  "namespace": "cellular_component",
+  "label": "BBSome"
+}

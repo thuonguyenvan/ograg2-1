@@ -1,0 +1,33 @@
+{
+  "id": "GO:0141119",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141119",
+  "relationships": {
+    "is_a": [
+      "GO:0006325"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA methylation maintenance following DNA replication",
+      "DNA methylation maintenance following cell division",
+      "genome methylation maintenance following DNA replication"
+    ],
+    "broad": [
+      "DNA methylation",
+      "DNA methylation maintenance"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11005794",
+      "20142834",
+      "26077819",
+      "34968368"
+    ]
+  },
+  "definition": "The process that maintains methylated cytosine in newly synthesized DNA following DNA replication. After the establishment of novel DNA methylation marks, the newly created patterns must be faithfully transmitted by maintenance DNA methyltransferases during cell division.",
+  "namespace": "biological_process",
+  "label": "chromosomal DNA methylation maintenance following DNA replication"
+}

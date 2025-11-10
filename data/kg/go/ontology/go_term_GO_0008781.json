@@ -1,0 +1,82 @@
+{
+  "id": "GO:0008781",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008781",
+  "relationships": {
+    "is_a": [
+      "GO:0070567"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CTP:N-acylneuraminate cytidylyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CMP-N-acetylneuraminate synthase activity",
+      "CMP-N-acetylneuraminate synthetase activity",
+      "CMP-N-acetylneuraminic acid synthase activity",
+      "CMP-N-acetylneuraminic acid synthetase activity",
+      "CMP-NANA synthetase activity",
+      "CMP-Neu5Ac synthetase activity",
+      "CMP-NeuAc synthetase activity",
+      "CMP-NeuNAc synthetase activity",
+      "CMP-sialate diphosphorylase activity",
+      "CMP-sialate pyrophosphorylase activity",
+      "CMP-sialate synthase activity",
+      "CMP-sialate synthetase activity",
+      "CMP-sialic acid synthetase activity",
+      "CMP-sialic synthetase activity",
+      "acetylneuraminate cytidylyltransferase activity",
+      "acylneuraminate cytidyltransferase activity",
+      "cytidine 5&apos;-monophospho-N-acetylneuraminic acid synthetase activity",
+      "cytidine 5&apos;-monophosphosialic acid synthetase activity",
+      "cytidine 5-monophosphate N-acetylneuraminic acid synthetase activity",
+      "cytidine monophosphoacetylneuraminic synthetase activity",
+      "cytidine monophosphosialate pyrophosphorylase activity",
+      "cytidine monophosphosialate synthetase activity",
+      "cytidine monophosphosialic acid synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43",
+      "2.7.7.43"
+    ],
+    "MetaCyc": [
+      "RXN-9990"
+    ],
+    "RHEA": [
+      "11344"
+    ],
+    "Reactome": [
+      "R-HSA-4084982"
+    ]
+  },
+  "definition": "Catalysis of the reaction: CTP + N-acylneuraminate = diphosphate + CMP-N-acylneuraminate.",
+  "namespace": "molecular_function",
+  "label": "CMAS transfers CMP from CTP to Neu5Ac, forming CMP-Neu5Ac"
+}

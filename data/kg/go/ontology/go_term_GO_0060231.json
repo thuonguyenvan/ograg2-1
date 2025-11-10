@@ -1,0 +1,32 @@
+{
+  "id": "GO:0060231",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060231",
+  "relationships": {
+    "is_a": [
+      "GO:0030855"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "epithelial cell differentiation from mesenchymal cell",
+      "mesenchymal-epithelial transition"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ascb_2009",
+      "dph",
+      "tb",
+      "BHF",
+      "dph",
+      "rl",
+      "dph"
+    ]
+  },
+  "definition": "A transition where a mesenchymal cell establishes apical/basolateral polarity, forms intercellular adhesive junctions, synthesizes basement membrane components and becomes an epithelial cell.",
+  "namespace": "biological_process",
+  "label": "mesenchymal to epithelial transition"
+}

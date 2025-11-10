@@ -1,0 +1,29 @@
+{
+  "id": "GO:0043780",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043780",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cobalt-precorrin 5B C1-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-8764",
+      "RXN-8764"
+    ],
+    "RHEA": [
+      "26285"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cobalt-precorrin 5B + S-adenosylmethionine = S-adenosylhomocysteine + cobalt-precorrin 6A.",
+  "namespace": "molecular_function",
+  "label": "cobalt-precorrin-5B C1-methyltransferase activity"
+}

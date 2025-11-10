@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047876",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047876",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "EGCase activity",
+      "endo-glucosylceramidase activity",
+      "endoglycoceramidase activity",
+      "glycosyl-N-acetyl-sphingosine 1,1-beta-D-glucanohydrolase activity",
+      "oligoglycosylglucosylceramide glycohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.123",
+      "3.2.1.123",
+      "3.2.1.123",
+      "3.2.1.123",
+      "3.2.1.123",
+      "3.2.1.123",
+      "3.2.1.123"
+    ],
+    "MetaCyc": [
+      "ENDOGLYCOSYLCERAMIDASE-RXN",
+      "ENDOGLYCOSYLCERAMIDASE-RXN"
+    ],
+    "RHEA": [
+      "22288"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + oligoglycosylglucosylceramide = ceramide + oligoglycosylglucose.",
+  "namespace": "molecular_function",
+  "label": "endoglycosylceramidase activity"
+}

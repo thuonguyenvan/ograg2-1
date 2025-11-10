@@ -1,0 +1,33 @@
+{
+  "id": "GO:0061710",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061710",
+  "relationships": {
+    "is_a": [
+      "GO:0016779"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.87",
+      "2.7.7.87"
+    ],
+    "MetaCyc": [
+      "RXN-14569"
+    ],
+    "RHEA": [
+      "36407"
+    ],
+    "Reactome": [
+      "R-HSA-9611218"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-threonine + ATP + bicarbonate = L-threonylcarbamoyladenylate + diphosphate + H2O.",
+  "namespace": "molecular_function",
+  "label": "YRDC synthesizes threonylcarbamoyladenylate"
+}

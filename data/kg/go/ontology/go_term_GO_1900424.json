@@ -1,0 +1,50 @@
+{
+  "id": "GO:1900424",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900424",
+  "relationships": {
+    "is_a": [
+      "GO:0002831",
+      "GO:0031347",
+      "GO:0032101"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of defence response to bacteria",
+      "regulation of defence response to bacterium",
+      "regulation of defense response to bacteria"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of defence response to bacterium, incompatible interaction",
+      "regulation of defence response to pathogenic bacteria, incompatible interaction",
+      "regulation of defence response to pathogenic bacterium, incompatible interaction",
+      "regulation of defense response to bacterium, incompatible interaction",
+      "regulation of resistance response to pathogenic bacteria",
+      "regulation of resistance response to pathogenic bacterium"
+    ],
+    "related": [
+      "regulation of antibacterial peptide activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "22346749"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of defense response to bacterium.",
+  "namespace": "biological_process",
+  "label": "regulation of defense response to bacterium"
+}

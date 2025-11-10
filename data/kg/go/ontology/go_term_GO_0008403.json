@@ -1,0 +1,31 @@
+{
+  "id": "GO:0008403",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008403",
+  "relationships": {
+    "is_a": [
+      "GO:0016705",
+      "GO:0070576"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "25-hydroxyvitamin D3 24-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "cytochrome P450 CYP24"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "24968"
+    ],
+    "ISBN": [
+      "0471331309"
+    ]
+  },
+  "definition": "Catalysis of the hydroxylation of C-24 of 25-hydroxycholecalciferol (25-hydroxyvitamin D3) to form 24(R),25-dihydroxycholecalciferol.",
+  "namespace": "molecular_function",
+  "label": "25-hydroxycholecalciferol-24-hydroxylase activity"
+}

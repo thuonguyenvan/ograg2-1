@@ -1,0 +1,33 @@
+{
+  "id": "GO:0033034",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033034",
+  "relationships": {
+    "is_a": [
+      "GO:0033032",
+      "GO:0043065"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of myeloid cell apoptosis",
+      "up-regulation of myeloid cell apoptosis",
+      "upregulation of myeloid cell apoptosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of myeloid cell apoptosis",
+      "positive regulation of myeloid cell apoptosis",
+      "stimulation of myeloid cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mtg_apoptosis"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of myeloid cell apoptotic process.",
+  "namespace": "biological_process",
+  "label": "positive regulation of myeloid cell apoptotic process"
+}

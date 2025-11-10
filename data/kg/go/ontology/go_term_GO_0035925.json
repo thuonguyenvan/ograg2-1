@@ -1,0 +1,35 @@
+{
+  "id": "GO:0035925",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035925",
+  "relationships": {
+    "is_a": [
+      "GO:0003730"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "adenylate/uridylate-rich element binding",
+      "mRNA 3&apos;-UTR adenylate/uridylate-rich element binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ARE binding",
+      "AU-rich element binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "vw"
+    ],
+    "PMID": [
+      "31511872",
+      "7892223",
+      "8578590",
+      "8578590"
+    ]
+  },
+  "definition": "Binding to a region containing frequent adenine and uridine bases within the 3&apos; untranslated region of a mRNA molecule or in pre-mRNA intron. The ARE-binding element consensus is UUAUUUAUU. ARE-binding proteins control the stability and/or translation of mRNAs.",
+  "namespace": "molecular_function",
+  "label": "mRNA 3&apos;-UTR AU-rich region binding"
+}

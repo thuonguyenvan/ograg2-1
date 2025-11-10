@@ -1,0 +1,56 @@
+{
+  "id": "GO:0036498",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036498",
+  "relationships": {
+    "is_a": [
+      "GO:0030968"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IRE1 branch of UPR",
+      "UPR signaling by IRE1 stress sensor",
+      "endoplasmic reticulum unfolded protein response; IRE1 signaling"
+    ],
+    "broad": [
+      "IRE1 signal transduction pathway"
+    ],
+    "narrow": [
+      "IRE1alpha unfolded protein response",
+      "IRE1p unfolded protein response"
+    ],
+    "related": [
+      "ERN1-mediated unfolded protein response",
+      "IRE1 signaling in response to endoplasmic reticulum stress",
+      "inositol-requiring enzyme 1-mediated unfolded protein response",
+      "inositol-requiring transmembrane kinase/endonuclease signal transduction"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-381070"
+    ],
+    "GOC": [
+      "PARL",
+      "bf",
+      "bf",
+      "bf",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "22013210",
+      "22013210",
+      "22013210",
+      "22013210"
+    ],
+    "HGNC": [
+      "3449",
+      "3449"
+    ]
+  },
+  "definition": "The series of molecular signals mediated by the endoplasmic reticulum stress sensor IRE1 (Inositol-requiring transmembrane kinase/endonuclease). Begins with activation of IRE1 in response to endoplasmic reticulum (ER) stress, and ends with regulation of a downstream cellular process, e.g. transcription. One target of activated IRE1 is the transcription factor HAC1 in yeast, or XBP1 in mammals; IRE1 cleaves an intron of a mRNA coding for HAC1/XBP1 to generate an activated HAC1/XBP1 transcription factor, which controls the up regulation of UPR-related genes. At least in mammals, IRE1 can also signal through additional intracellular pathways including JNK and NF-kappaB.",
+  "namespace": "biological_process",
+  "label": "IRE1alpha activates chaperones"
+}

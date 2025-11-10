@@ -1,0 +1,33 @@
+{
+  "id": "GO:0036297",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036297",
+  "relationships": {
+    "is_a": [
+      "GO:0006281"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ICL repair"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6783310"
+    ],
+    "GOC": [
+      "vw"
+    ],
+    "PMID": [
+      "16464006",
+      "22064477",
+      "20658649"
+    ]
+  },
+  "definition": "Removal of a DNA interstrand crosslink (a covalent attachment of DNA bases on opposite strands of the DNA) and restoration of the DNA. DNA interstrand crosslinks occur when both strands of duplex DNA are covalently tethered together (e.g. by an exogenous or endogenous agent), thus preventing the strand unwinding necessary for essential DNA functions such as transcription and replication.",
+  "namespace": "biological_process",
+  "label": "Fanconi Anemia Pathway"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0021829",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021829",
+  "relationships": {
+    "is_a": [
+      "GO:0021826",
+      "GO:0022030"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "12626695"
+    ]
+  },
+  "definition": "The directed movement of oligodendrocytes from the subpallium to the cerebral cortex during forebrain development.",
+  "namespace": "biological_process",
+  "label": "oligodendrocyte cell migration from the subpallium to the cortex"
+}

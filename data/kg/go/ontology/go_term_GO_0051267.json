@@ -1,0 +1,31 @@
+{
+  "id": "GO:0051267",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051267",
+  "relationships": {
+    "is_a": [
+      "GO:0051377"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CP2 EtN-P transferase activity",
+      "CP2 ethanolamine phosphate transferase activity",
+      "CP2 phosphoethanolamine transferase activity",
+      "addition of ethanolamine phosphate to mannose of GPI precursor CP2"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "gpi7 activity"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "14985347",
+      "15452134"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ethanolamine phosphate + Man-alpha-(1,2)-Man-alpha-(1,2)-Man-alpha-(1,6)-R = Man-alpha-(1,2)-Man-alpha-6-P-EtN-(1,2)-Man-alpha-(1,6)-R; R is Man-alpha(1,4)-GlcNH2-inositol-phosphate-lipid. This reaction is the transfer of ethanolamine phosphate to C6 of second mannose in the GPI lipid precursor CP2.",
+  "namespace": "molecular_function",
+  "label": "CP2 mannose-ethanolamine phosphotransferase activity"
+}

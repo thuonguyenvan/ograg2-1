@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047672",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047672",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "benzoyl-CoA:anthranilate N-benzoyltransferase"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.144",
+      "2.3.1.144",
+      "2.3.1.144"
+    ],
+    "KEGG_REACTION": [
+      "R02453"
+    ],
+    "MetaCyc": [
+      "ANTHRANILATE-N-BENZOYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "21600",
+      "21600"
+    ]
+  },
+  "definition": "Catalysis of the reaction: anthranilate + benzoyl-CoA = N-benzoylanthranilate + CoA.",
+  "namespace": "molecular_function",
+  "label": "anthranilate N-benzoyltransferase activity"
+}

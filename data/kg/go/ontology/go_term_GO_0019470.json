@@ -1,0 +1,32 @@
+{
+  "id": "GO:0019470",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019470",
+  "relationships": {
+    "is_a": [
+      "GO:0042219",
+      "GO:0170035",
+      "GO:0170044"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-hydroxyproline breakdown",
+      "4-hydroxyproline catabolism",
+      "4-hydroxyproline degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "HYDROXYPRODEG-PWY"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of trans-4-hydroxy-L-proline, C5H9NO3, a derivative of the amino acid proline.",
+  "namespace": "biological_process",
+  "label": "trans-4-hydroxy-L-proline catabolic process"
+}

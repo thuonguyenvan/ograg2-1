@@ -1,0 +1,30 @@
+{
+  "id": "GO:0001671",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001671",
+  "relationships": {
+    "is_a": [
+      "GO:0060590",
+      "GO:0140677"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATPase stimulator activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5251955",
+      "R-HSA-5251959"
+    ],
+    "GOC": [
+      "ajp"
+    ]
+  },
+  "definition": "Binds to and increases the activity of an ATP hydrolysis activity.",
+  "namespace": "molecular_function",
+  "label": "HSP40s activate intrinsic ATPase activity of HSP70s in the cytosol"
+}

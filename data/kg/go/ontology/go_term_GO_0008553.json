@@ -1,0 +1,57 @@
+{
+  "id": "GO:0008553",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008553",
+  "relationships": {
+    "is_a": [
+      "GO:0015078",
+      "GO:0015662",
+      "GO:0019829"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hydrogen exporting ATPase activity, phosphorylative mechanism",
+      "proton-transporting ATPase activity"
+    ],
+    "broad": [
+      "H+-transporting ATPase",
+      "H+-transporting ATPase activity",
+      "P-type H+-exporting ATPase activity",
+      "hydrogen-exporting ATPase activity",
+      "proton-exporting ATPase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "H+-exporting ATPase activity",
+      "hydrogen-/sodium-translocating ATPase activity",
+      "hydrogen-exporting ATPase activity, phosphorylative mechanism",
+      "proton transport ATPase activity",
+      "proton-exporting ATPase activity, phosphorylative mechanism",
+      "proton-translocating ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.1.2.1",
+      "7.1.2.1",
+      "7.1.2.1",
+      "7.1.2.1",
+      "7.1.2.1",
+      "7.1.2.1",
+      "7.1.2.1"
+    ],
+    "MetaCyc": [
+      "3.6.3.6-RXN"
+    ],
+    "RHEA": [
+      "20852",
+      "20852"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Enables the transfer of protons from one side of a membrane to the other according to the reaction: ATP + H2O + H+(in) = ADP + phosphate + H+(out). These transporters use a phosphorylative mechanism, which have a phosphorylated intermediate state during the ion transport cycle.",
+  "namespace": "molecular_function",
+  "label": "P-type proton-exporting transporter activity"
+}

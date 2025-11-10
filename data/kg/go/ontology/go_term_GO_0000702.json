@@ -1,0 +1,26 @@
+{
+  "id": "GO:0000702",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000702",
+  "relationships": {
+    "is_a": [
+      "GO:0019104"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "elh"
+    ],
+    "PMID": [
+      "11554296"
+    ]
+  },
+  "definition": "Catalysis of the removal of oxidized bases by cleaving the N-C1&apos; glycosidic bond between the target damaged DNA base and the deoxyribose sugar. The reaction releases a free base and leaves an apurinic/apyrimidinic (AP) site.",
+  "namespace": "molecular_function",
+  "label": "oxidized base lesion DNA N-glycosylase activity"
+}

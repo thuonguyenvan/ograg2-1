@@ -1,0 +1,33 @@
+{
+  "id": "GO:0050812",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050812",
+  "relationships": {
+    "is_a": [
+      "GO:0009889",
+      "GO:0019217",
+      "GO:0019219",
+      "GO:0034248",
+      "GO:0042762",
+      "GO:0051174"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of acyl-CoA anabolism",
+      "regulation of acyl-CoA biosynthesis",
+      "regulation of acyl-CoA formation",
+      "regulation of acyl-CoA synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of acyl-CoA.",
+  "namespace": "biological_process",
+  "label": "regulation of acyl-CoA biosynthetic process"
+}

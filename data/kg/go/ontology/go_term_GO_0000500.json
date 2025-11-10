@@ -1,0 +1,26 @@
+{
+  "id": "GO:0000500",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000500",
+  "relationships": {
+    "is_a": [
+      "GO:0000120"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA polymerase I upstream activation factor complex",
+      "UAF"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11500378"
+    ]
+  },
+  "definition": "A complex required for the transcription of rDNA by RNA polymerase I. In yeast the complex consists of Rrrn5p, Rrn9p, Rrn10p, histones H3 and H4, and Uaf30p.",
+  "namespace": "cellular_component",
+  "label": "RNA polymerase I upstream activating factor complex"
+}

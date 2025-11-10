@@ -1,0 +1,36 @@
+{
+  "id": "GO:0140873",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140873",
+  "relationships": {
+    "is_a": [
+      "GO:0009709",
+      "GO:0016102",
+      "GO:0042181",
+      "GO:0043386",
+      "GO:0120255",
+      "GO:1902645"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "paxilline anabolism",
+      "paxilline biosynthesis",
+      "paxilline formation",
+      "paxilline synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-7493"
+    ],
+    "PMID": [
+      "23949005"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of paxilline, a mycotoxin that acts as an inhibitor of mammalian maxi-K channels.",
+  "namespace": "biological_process",
+  "label": "paxilline biosynthetic process"
+}

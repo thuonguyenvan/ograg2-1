@@ -1,0 +1,31 @@
+{
+  "id": "GO:0033260",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033260",
+  "relationships": {
+    "is_a": [
+      "GO:0044786"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA replication involved in S phase",
+      "DNA replication involved in S-phase",
+      "nuclear cell cycle DNA replication"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "DNA replication during S phase"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The DNA-dependent DNA replication that occurs in the nucleus of eukaryotic organisms as part of the cell cycle.",
+  "namespace": "biological_process",
+  "label": "nuclear DNA replication"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "GO:0047423",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047423",
+  "relationships": {
+    "is_a": [
+      "GO:0016812"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-methylhydantoin amidohydrolase activity",
+      "N-methylhydantoin hydrolase activity",
+      "N-methylhydantoinase (ATP-hydrolysing)",
+      "N-methylhydantoinase activity",
+      "N-methylimidazolidine-2,4-dione amidohydrolase (ATP-hydrolysing)",
+      "methylhydantoin amidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.2.14",
+      "3.5.2.14",
+      "3.5.2.14",
+      "3.5.2.14",
+      "3.5.2.14",
+      "3.5.2.14",
+      "3.5.2.14",
+      "3.5.2.14"
+    ],
+    "KEGG_REACTION": [
+      "R03187"
+    ],
+    "MetaCyc": [
+      "3.5.2.14-RXN"
+    ],
+    "RHEA": [
+      "11720",
+      "11720"
+    ],
+    "Wikipedia": [
+      "N-methylhydantoinase_(ATP-hydrolysing)"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-methylhydantoin + ATP + 2 H2O = N-carbamoylsarcosine + ADP + 3 H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "N-methylhydantoinase (ATP-hydrolyzing) activity"
+}

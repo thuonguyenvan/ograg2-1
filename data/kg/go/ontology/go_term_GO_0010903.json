@@ -1,0 +1,30 @@
+{
+  "id": "GO:0010903",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010903",
+  "relationships": {
+    "is_a": [
+      "GO:0010901",
+      "GO:0051129",
+      "GO:0051241"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of VLDL remodeling",
+      "negative regulation of VLDL remodelling",
+      "negative regulation of very-low-density lipoprotein particle remodelling"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "tb",
+      "tb"
+    ]
+  },
+  "definition": "Any process that decreases the rate, frequency or extent of very-low-density lipoprotein particle remodeling. Very-low-density lipoprotein particle remodeling is the acquisition, loss or modification of a protein or lipid within a very-low-density lipoprotein particle, including the hydrolysis of triglyceride by hepatic lipase or lipoprotein lipase and the subsequent loss of free fatty acid.",
+  "namespace": "biological_process",
+  "label": "negative regulation of very-low-density lipoprotein particle remodeling"
+}

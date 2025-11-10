@@ -1,0 +1,32 @@
+{
+  "id": "GO:0019506",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019506",
+  "relationships": {
+    "is_a": [
+      "GO:0018942",
+      "GO:0042178",
+      "GO:0042537"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phenylmercury acetate breakdown",
+      "phenylmercury acetate catabolism",
+      "phenylmercury acetate degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P641-PWY"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of phenylmercury acetate, an organomercurial compound composed of a mercury atom attached to a benzene ring and an acetate group.",
+  "namespace": "biological_process",
+  "label": "phenylmercury acetate catabolic process"
+}

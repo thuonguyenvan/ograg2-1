@@ -1,0 +1,33 @@
+{
+  "id": "GO:0160131",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160131",
+  "relationships": {
+    "is_a": [
+      "GO:0016477"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sperm migration from the uterus to the oviduct"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "sperm migration through the UTJ"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "29353867",
+      "31131960",
+      "32712384",
+      "34057175"
+    ]
+  },
+  "definition": "The controlled self-propelled movement of a sperm cell from the uterus through the uterotubal junction (UTJ) into the oviduct, where interaction between the sperm and the UTJ acts as a major selective barrier for sperm, allowing only living, motile, uncapacitated, morphologically normal sperm with intact acrosomes to pass from the uterus into the oviduct.",
+  "namespace": "biological_process",
+  "label": "sperm migration through the uterotubal junction"
+}

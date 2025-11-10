@@ -1,0 +1,54 @@
+{
+  "id": "GO:0070241",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070241",
+  "relationships": {
+    "is_a": [
+      "GO:0002684",
+      "GO:0070234",
+      "GO:0070239"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of activated T lymphocyte autonomous cell death",
+      "positive regulation of activated T-cell autonomous cell death",
+      "positive regulation of activated T-lymphocyte autonomous cell death",
+      "up regulation of activated T cell autonomous cell death",
+      "up-regulation of activated T cell autonomous cell death",
+      "upregulation of activated T cell autonomous cell death"
+    ],
+    "broad": [
+      "positive regulation of ACAD",
+      "positive regulation of activated T cell apoptosis",
+      "positive regulation of activated cell autonomous cell death"
+    ],
+    "narrow": [
+      "activation of activated T cell autonomous cell death",
+      "stimulation of activated T cell autonomous cell death"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mtg_apoptosis",
+      "add",
+      "add",
+      "add",
+      "add",
+      "add",
+      "add",
+      "add",
+      "add",
+      "add",
+      "add",
+      "add"
+    ],
+    "ISBN": [
+      "0781765196"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of activated T cell autonomous cell death.",
+  "namespace": "biological_process",
+  "label": "positive regulation of activated T cell autonomous cell death"
+}

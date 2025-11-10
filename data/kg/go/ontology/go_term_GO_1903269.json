@@ -1,0 +1,33 @@
+{
+  "id": "GO:1903269",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903269",
+  "relationships": {
+    "is_a": [
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "OTC-ARGI complex",
+      "ornithine carbamoyltransferase arginase complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "bhm"
+    ],
+    "GO_REF": [
+      "0000088"
+    ],
+    "PMID": [
+      "12679340"
+    ]
+  },
+  "definition": "A protein complex which is capable of ornithine carbamoyltransferase inhibitor activity.",
+  "namespace": "cellular_component",
+  "label": "ornithine carbamoyltransferase inhibitor complex"
+}

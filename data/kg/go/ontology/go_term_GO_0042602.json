@@ -1,0 +1,61 @@
+{
+  "id": "GO:0042602",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042602",
+  "relationships": {
+    "is_a": [
+      "GO:0052875"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NADPH-riboflavin oxidoreductase activity"
+    ],
+    "broad": [
+      "riboflavin mononucleotide reductase activity",
+      "riboflavine mononucleotide reductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "FMN reductase (NADPH) activity",
+      "NADPH dehydrogenase (riboflavin) activity",
+      "NADPH-FMN reductase activity",
+      "NADPH-dependent FMN reductase activity",
+      "NADPH-riboflavin reductase activity",
+      "NADPH-specific FMN reductase activity",
+      "NADPH:riboflavin oxidoreductase activity",
+      "flavin reductase activity",
+      "reduced-riboflavin:NADP+ oxidoreductase activity",
+      "riboflavin mononucleotide (reduced nicotinamide adenine dinucleotide phosphate) reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.1.30",
+      "1.5.1.30",
+      "1.5.1.30",
+      "1.5.1.30",
+      "1.5.1.30",
+      "1.5.1.30",
+      "1.5.1.30",
+      "1.5.1.30",
+      "1.5.1.30",
+      "1.5.1.30",
+      "1.5.1.30",
+      "1.5.1.30",
+      "1.5.1.30"
+    ],
+    "KEGG_REACTION": [
+      "R05707"
+    ],
+    "MetaCyc": [
+      "NADPH-DEHYDROGENASE-FLAVIN-RXN"
+    ],
+    "RHEA": [
+      "19377",
+      "19377"
+    ]
+  },
+  "definition": "Catalysis of the reaction: reduced riboflavin + NADP+ = riboflavin + NADPH + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "riboflavin reductase (NADPH) activity"
+}

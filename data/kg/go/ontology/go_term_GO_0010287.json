@@ -1,0 +1,29 @@
+{
+  "id": "GO:0010287",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010287",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PG",
+      "plastoglobuli"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "tair_curators"
+    ],
+    "PMID": [
+      "16461379"
+    ]
+  },
+  "definition": "A lipoprotein particle present in chloroplasts. They are rich in non-polar lipids (triglycerides, esters) as well as in prenylquinones, plastoquinone and tocopherols. Plastoglobules are often associated with thylakoid membranes, suggesting an exchange of lipids with thylakoids.",
+  "namespace": "cellular_component",
+  "label": "plastoglobule"
+}

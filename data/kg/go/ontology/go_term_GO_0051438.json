@@ -1,0 +1,34 @@
+{
+  "id": "GO:0051438",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051438",
+  "relationships": {
+    "is_a": [
+      "GO:0051338"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of ubiquitin transferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "APC regulator",
+      "SCF complex regulator",
+      "anaphase-promoting complex regulator"
+    ],
+    "related": [
+      "ubiquitin transferase regulator",
+      "ubiquitin-protein transferase regulator"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "tb",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of ubiquitin transferase activity.",
+  "namespace": "biological_process",
+  "label": "regulation of ubiquitin-protein transferase activity"
+}

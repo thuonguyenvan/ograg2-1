@@ -1,0 +1,34 @@
+{
+  "id": "GO:0060218",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060218",
+  "relationships": {
+    "is_a": [
+      "GO:0002244",
+      "GO:0048863"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "haematopoietic stem cell differentiation",
+      "haemopoietic stem cell differentiation",
+      "hemopoietic stem cell differentiation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "bf",
+      "dph",
+      "rl"
+    ],
+    "PMID": [
+      "15378083"
+    ]
+  },
+  "definition": "The process in which a relatively unspecialized cell acquires specialized features of a hematopoietic stem cell. A stem cell is a cell that retains the ability to divide and proliferate throughout life to provide progenitor cells that can differentiate into specialized cells.",
+  "namespace": "biological_process",
+  "label": "hematopoietic stem cell differentiation"
+}

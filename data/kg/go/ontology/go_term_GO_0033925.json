@@ -1,0 +1,65 @@
+{
+  "id": "GO:0033925",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033925",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N,N&apos;-diacetylchitobiosyl beta-N-acetylglucosaminidase activity",
+      "di-N-acetylchitobiosyl beta-N-acetylglucosaminidase activity",
+      "endo-N-acetyl-beta-D-glucosaminidase activity",
+      "endo-N-acetyl-beta-glucosaminidase activity",
+      "endo-beta-(1-&gt;4)-N-acetylglucosaminidase activity",
+      "endo-beta-N-acetylglucosaminidase D activity",
+      "endo-beta-N-acetylglucosaminidase F activity",
+      "endo-beta-N-acetylglucosaminidase H activity",
+      "endo-beta-N-acetylglucosaminidase L activity",
+      "endo-beta-N-acetylglucosaminidase activity",
+      "endo-beta-acetylglucosaminidase activity",
+      "endoglycosidase H activity",
+      "endoglycosidase S activity",
+      "glycopeptide-D-mannosyl-4-N-(N-acetyl-D-glucosaminyl)2-asparagine 1,4-N-acetyl-beta-glucosaminohydrolase activity",
+      "glycopeptide-D-mannosyl-N4-(N-acetyl-D-glucosaminyl)2-asparagine 1,4-N-acetyl-beta-glucosaminohydrolase activity",
+      "mannosyl-glycoprotein 1,4-N-acetamidodeoxy-beta-D-glycohydrolase activity",
+      "mannosyl-glycoprotein endo-beta-N-acetylglucosamidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.96",
+      "3.2.1.96",
+      "3.2.1.96",
+      "3.2.1.96",
+      "3.2.1.96",
+      "3.2.1.96",
+      "3.2.1.96",
+      "3.2.1.96",
+      "3.2.1.96",
+      "3.2.1.96",
+      "3.2.1.96",
+      "3.2.1.96",
+      "3.2.1.96",
+      "3.2.1.96",
+      "3.2.1.96",
+      "3.2.1.96",
+      "3.2.1.96",
+      "3.2.1.96",
+      "3.2.1.96"
+    ],
+    "MetaCyc": [
+      "3.2.1.96-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-8853379"
+    ]
+  },
+  "definition": "Catalysis of the endohydrolysis of the N,N&apos;-diacetylchitobiosyl unit in high-mannose glycopeptides and glycoproteins containing the -[Man(GlcNAc)2]Asn-structure. One N-acetyl-D-glucosamine residue remains attached to the protein; the rest of the oligosaccharide is released intact.",
+  "namespace": "molecular_function",
+  "label": "ENGASE hydrolyses unfolded protein:(GlcNAc)2 (Man(9-5)"
+}

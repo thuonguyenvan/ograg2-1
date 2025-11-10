@@ -1,0 +1,30 @@
+{
+  "id": "GO:0005958",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005958",
+  "relationships": {
+    "is_a": [
+      "GO:0070419",
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mah"
+    ],
+    "PMID": [
+      "10854421",
+      "12235392",
+      "17072889"
+    ]
+  },
+  "definition": "A large protein complex which is involved in the repair of DNA double-strand breaks and, in mammals, V(D)J recombination events. It consists of the DNA-dependent protein kinase catalytic subunit (DNA-PKcs), the DNA end-binding heterodimer Ku, the nuclear phosphoprotein XRCC4 or a homolog thereof, and DNA ligase IV.",
+  "namespace": "cellular_component",
+  "label": "DNA-dependent protein kinase-DNA ligase 4 complex"
+}

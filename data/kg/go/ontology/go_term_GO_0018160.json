@@ -1,0 +1,32 @@
+{
+  "id": "GO:0018160",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018160",
+  "relationships": {
+    "is_a": [
+      "GO:0018198"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptidyl-pyrromethane cofactor linkage via dipyrrolylmethanemethyl-L-cysteine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dipyrromethane cofactor binding"
+    ]
+  },
+  "cross_references": {
+    "RESID": [
+      "AA0252",
+      "AA0252"
+    ],
+    "GOC": [
+      "jsg",
+      "jsg"
+    ]
+  },
+  "definition": "The covalent binding of a pyrromethane (dipyrrin) cofactor to protein via the sulfur atom of cysteine forming dipyrrolylmethanemethyl-L-cysteine.",
+  "namespace": "biological_process",
+  "label": "peptidyl-pyrromethane cofactor linkage"
+}

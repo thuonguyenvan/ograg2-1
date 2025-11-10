@@ -1,0 +1,30 @@
+{
+  "id": "GO:0061681",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061681",
+  "relationships": {
+    "is_a": [
+      "GO:0019682",
+      "GO:0061679"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-2221"
+    ],
+    "GOC": [
+      "dph"
+    ],
+    "PMID": [
+      "12921536"
+    ]
+  },
+  "definition": "The Entner-Doudoroff pathway that proceeds through a D-gluconate intermediate and yields pyruvate and D-glyceraldehyde-3-phosphate.",
+  "namespace": "biological_process",
+  "label": "Entner-Doudoroff pathway through gluconate to D-glyceraldehyde-3-phosphate"
+}

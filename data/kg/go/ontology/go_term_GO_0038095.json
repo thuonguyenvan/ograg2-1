@@ -1,0 +1,33 @@
+{
+  "id": "GO:0038095",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038095",
+  "relationships": {
+    "is_a": [
+      "GO:0038093"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Fc-epsilon receptor signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2454202"
+    ],
+    "GOC": [
+      "phg",
+      "bf"
+    ],
+    "PMID": [
+      "12413516",
+      "15048725"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by the binding of the Fc portion of immunoglobulin E (IgE) to an Fc-epsilon receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription. The Fc portion of an immunoglobulin is its C-terminal constant region.",
+  "namespace": "biological_process",
+  "label": "Fc epsilon receptor (FCERI) signaling"
+}

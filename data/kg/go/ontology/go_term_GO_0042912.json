@@ -1,0 +1,30 @@
+{
+  "id": "GO:0042912",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042912",
+  "relationships": {
+    "is_a": [
+      "GO:0022885"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ],
+    "PMID": [
+      "17347522"
+    ]
+  },
+  "definition": "Enables the transfer of a colicin from one side of a membrane to the other. Colicins are a group of antibiotics produced by E. coli and related species that are encoded by a group of naturally occurring plasmids, e.g. Col E1.",
+  "namespace": "molecular_function",
+  "label": "colicin transmembrane transporter activity"
+}

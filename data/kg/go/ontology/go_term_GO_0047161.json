@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047161",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047161",
+  "relationships": {
+    "is_a": [
+      "GO:0050737"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "hydroxycinnamoyl-coenzyme-A:tartronate hydroxycinnamoyltransferase activity",
+      "sinapoyl-CoA:2-hydroxymalonate O-(hydroxycinnamoyl)transferase activity",
+      "tartronate sinapoyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.106",
+      "2.3.1.106",
+      "2.3.1.106",
+      "2.3.1.106",
+      "2.3.1.106"
+    ],
+    "KEGG_REACTION": [
+      "R03965"
+    ],
+    "MetaCyc": [
+      "2.3.1.106-RXN"
+    ],
+    "RHEA": [
+      "10952",
+      "10952"
+    ]
+  },
+  "definition": "Catalysis of the reaction: hydroxymalonate + sinapoyl-CoA = CoA + sinapoyltartronate.",
+  "namespace": "molecular_function",
+  "label": "tartronate O-hydroxycinnamoyltransferase activity"
+}

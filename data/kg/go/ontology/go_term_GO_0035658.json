@@ -1,0 +1,26 @@
+{
+  "id": "GO:0035658",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035658",
+  "relationships": {
+    "is_a": [
+      "GO:0032045"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "rb"
+    ],
+    "PMID": [
+      "20797862"
+    ]
+  },
+  "definition": "A protein complex that functions as a guanine nucleotide exchange factor (GEF) and converts Rab-GDP to Rab-GTP. In S. cerevisiae, this complex consists of at least Mon1 and Ccz1, and serves as a GEF for the Rab Ypt7p.",
+  "namespace": "cellular_component",
+  "label": "Mon1-Ccz1 complex"
+}

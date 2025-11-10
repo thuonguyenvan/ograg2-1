@@ -1,0 +1,37 @@
+{
+  "id": "GO:1901886",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901886",
+  "relationships": {
+    "is_a": [
+      "GO:0006637",
+      "GO:0019336",
+      "GO:0044273",
+      "GO:0072523",
+      "GO:1901292"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-hydroxybenzoyl-CoA breakdown",
+      "2-hydroxybenzoyl-CoA catabolism",
+      "2-hydroxybenzoyl-CoA degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "19757094"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of 2-hydroxybenzoyl-CoA.",
+  "namespace": "biological_process",
+  "label": "2-hydroxybenzoyl-CoA catabolic process"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0007204",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007204",
+  "relationships": {
+    "is_a": [
+      "GO:0065008"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytosolic calcium ion concentration elevation",
+      "elevation of calcium ion concentration in cytosol",
+      "elevation of cytosolic calcium ion concentration"
+    ],
+    "broad": [
+      "cytoplasmic calcium ion concentration elevation",
+      "elevation of calcium ion concentration in cytoplasm",
+      "elevation of cytoplasmic calcium ion concentration"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that increases the concentration of calcium ions in the cytosol.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cytosolic calcium ion concentration"
+}

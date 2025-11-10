@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050123",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050123",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acetyl-D-mannosamine dehydrogenase activity",
+      "N-acyl-D-mannosamine dehydrogenase activity",
+      "N-acyl-D-mannosamine:NAD+ 1-oxidoreductase activity",
+      "N-acylmannosamine dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.233",
+      "1.1.1.233",
+      "1.1.1.233",
+      "1.1.1.233",
+      "1.1.1.233",
+      "1.1.1.233"
+    ],
+    "KEGG_REACTION": [
+      "R02651"
+    ],
+    "MetaCyc": [
+      "N-ACYLMANNOSAMINE-1-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "11540",
+      "11540"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acyl-D-mannosamine + NAD+ = N-acyl-D-mannosaminolactone + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "N-acylmannosamine 1-dehydrogenase activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0071479",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071479",
+  "relationships": {
+    "is_a": [
+      "GO:0010212",
+      "GO:0071478"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to ionising radiation",
+      "cellular response to ionizing radiation stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a ionizing radiation stimulus. Ionizing radiation is radiation with sufficient energy to remove electrons from atoms and may arise from spontaneous decay of unstable isotopes, resulting in alpha and beta particles and gamma rays. Ionizing radiation also includes X-rays.",
+  "namespace": "biological_process",
+  "label": "cellular response to ionizing radiation"
+}

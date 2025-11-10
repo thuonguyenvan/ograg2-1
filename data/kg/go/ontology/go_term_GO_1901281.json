@@ -1,0 +1,37 @@
+{
+  "id": "GO:1901281",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901281",
+  "relationships": {
+    "is_a": [
+      "GO:0030392",
+      "GO:0030393",
+      "GO:0046395"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fructosyllysine breakdown",
+      "fructosyllysine catabolic process",
+      "fructosyllysine catabolism",
+      "fructosyllysine degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "UniPathway": [
+      "UPA00784"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of fructoselysine.",
+  "namespace": "biological_process",
+  "label": "fructoselysine catabolic process"
+}

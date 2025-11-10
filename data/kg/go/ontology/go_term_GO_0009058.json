@@ -1,0 +1,39 @@
+{
+  "id": "GO:0009058",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009058",
+  "relationships": {
+    "is_a": [
+      "GO:0008152"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "anabolism",
+      "biosynthesis",
+      "synthesis"
+    ],
+    "broad": [
+      "formation"
+    ],
+    "narrow": [
+      "multicellular organismal biosynthetic process"
+    ],
+    "related": [
+      "single-organism biosynthetic process"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Anabolism"
+    ],
+    "GOC": [
+      "curators"
+    ],
+    "ISBN": [
+      "0198547684"
+    ]
+  },
+  "definition": "A cellular process consisting of the biochemical pathways by which a living organism synthesizes chemical substances. This typically represents the energy-requiring part of metabolism in which simpler substances are transformed into more complex ones.",
+  "namespace": "biological_process",
+  "label": "biosynthetic process"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0000184",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000184",
+  "relationships": {
+    "is_a": [
+      "GO:0000956"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mRNA breakdown, nonsense-mediated decay",
+      "mRNA catabolic process, nonsense-mediated",
+      "mRNA catabolism, nonsense-mediated",
+      "mRNA degradation, nonsense-mediated decay",
+      "nonsense-mediated mRNA decay",
+      "nuclear mRNA catabolic process, nonsense-mediated decay"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-927802"
+    ],
+    "Wikipedia": [
+      "Nonsense-mediated_decay",
+      "Nonsense-mediated_mRNA_decay"
+    ],
+    "GOC": [
+      "krc",
+      "ma"
+    ],
+    "PMID": [
+      "10025395"
+    ]
+  },
+  "definition": "The nonsense-mediated decay pathway for nuclear-transcribed mRNAs degrades mRNAs in which an amino-acid codon has changed to a nonsense codon; this prevents the translation of such mRNAs into truncated, and potentially harmful, proteins.",
+  "namespace": "biological_process",
+  "label": "Nonsense-Mediated Decay (NMD)"
+}

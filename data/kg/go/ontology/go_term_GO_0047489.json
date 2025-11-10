@@ -1,0 +1,53 @@
+{
+  "id": "GO:0047489",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047489",
+  "relationships": {
+    "is_a": [
+      "GO:0016837"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(1-&gt;4)-alpha-D-galacturonan reducing-end-disaccharide-lyase activity",
+      "Exo-PATE activity",
+      "Exo-PGL activity",
+      "PATE activity",
+      "exo-PATE",
+      "exo-PGL",
+      "exopectate lyase activity",
+      "exopectic acid transeliminase activity",
+      "exopolygalacturonate lyase activity",
+      "exopolygalacturonic acid-trans-eliminase activity",
+      "pectate exo-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.2.9",
+      "4.2.2.9",
+      "4.2.2.9",
+      "4.2.2.9",
+      "4.2.2.9",
+      "4.2.2.9",
+      "4.2.2.9",
+      "4.2.2.9",
+      "4.2.2.9",
+      "4.2.2.9",
+      "4.2.2.9",
+      "4.2.2.9",
+      "4.2.2.9"
+    ],
+    "MetaCyc": [
+      "4.2.2.9-RXN"
+    ],
+    "RHEA": [
+      "57104"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a pectate = a pectate + 4-(4-deoxy-alpha-D-galact-4-enuronosyl)-D-galacturonate. This reaction is the eliminative cleavage of 4-(4-deoxy-alpha-D-galact-4-enuronosyl)-D-galacturonate from the reducing end of pectate, i.e. de-esterified pectin.",
+  "namespace": "molecular_function",
+  "label": "pectate disaccharide-lyase activity"
+}

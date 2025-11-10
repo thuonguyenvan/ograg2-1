@@ -1,0 +1,42 @@
+{
+  "id": "GO:0050462",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050462",
+  "relationships": {
+    "is_a": [
+      "GO:0016765"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(NANA)condensing enzyme activity",
+      "N-acetylneuraminate pyruvate-lyase (pyruvate-phosphorylating) activity",
+      "N-acetylneuraminic acid synthase activity",
+      "NeuAc synthase activity",
+      "phosphoenolpyruvate:N-acetyl-D-mannosamine C-(1-carboxyvinyl)transferase (phosphate-hydrolysing, 2-carboxy-2-oxoethyl-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.56",
+      "2.5.1.56",
+      "2.5.1.56",
+      "2.5.1.56",
+      "2.5.1.56",
+      "2.5.1.56",
+      "2.5.1.56"
+    ],
+    "MetaCyc": [
+      "N-ACETYLNEURAMINATE-SYNTHASE-RXN",
+      "N-ACETYLNEURAMINATE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "19273"
+    ]
+  },
+  "definition": "Catalysis of the reaction: phosphoenolpyruvate + N-acetyl-D-mannosamine + H2O = phosphate + N-acetylneuraminate.",
+  "namespace": "molecular_function",
+  "label": "N-acetylneuraminate synthase activity"
+}

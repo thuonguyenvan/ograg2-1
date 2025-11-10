@@ -1,0 +1,25 @@
+{
+  "id": "GO:0010202",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010202",
+  "relationships": {
+    "is_a": [
+      "GO:0009645",
+      "GO:0010114"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_far_red",
+      "sm"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a low fluence red light stimulus. Red light is electromagnetic radiation of wavelength of 580-700nm. Low fluence red light is defined in this case as short pulses of red light followed by darkness, providing a light level of 0.001-0.1 mmol/m2/sec.",
+  "namespace": "biological_process",
+  "label": "response to low fluence red light stimulus"
+}

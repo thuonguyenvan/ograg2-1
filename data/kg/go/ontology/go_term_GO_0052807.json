@@ -1,0 +1,31 @@
+{
+  "id": "GO:0052807",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052807",
+  "relationships": {
+    "is_a": [
+      "GO:0016667"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "aflatoxin:coenzyme F420 oxidoreductase activity",
+      "aflatoxin:reduced coenzyme F420 reductase activity",
+      "coenzyme F420-aflatoxin reductase activity",
+      "coenzyme F420-dependent aflatoxin reductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators"
+    ],
+    "PMID": [
+      "20807200"
+    ]
+  },
+  "definition": "Catalysis of the reaction: aflatoxin + 1,5-dihydrocoenzyme F420 = aflatoxin with reduced furanocoumarin moiety + coenzyme F420. 1,5-dihydrocoenzyme F420 is also known as reduced coenzyme F420.",
+  "namespace": "molecular_function",
+  "label": "aflatoxin reductase (coenzyme F420) activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0000086",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000086",
+  "relationships": {
+    "is_a": [
+      "GO:0044772",
+      "GO:0044839"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitotic G2/M transition"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-69275"
+    ],
+    "GOC": [
+      "mtg_cell_cycle"
+    ]
+  },
+  "definition": "The mitotic cell cycle transition by which a cell in G2 commits to M phase. The process begins when the kinase activity of M cyclin/CDK complex reaches a threshold high enough for the cell cycle to proceed. This is accomplished by activating a positive feedback loop that results in the accumulation of unphosphorylated and active M cyclin/CDK complex.",
+  "namespace": "biological_process",
+  "label": "G2/M Transition"
+}

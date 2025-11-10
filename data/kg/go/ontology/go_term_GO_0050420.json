@@ -1,0 +1,34 @@
+{
+  "id": "GO:0050420",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050420",
+  "relationships": {
+    "is_a": [
+      "GO:0016758"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alpha-D-glucose-1-phosphate:alpha-D-glucose-1-phosphate 4-alpha-D-glucosyltransferase (dephosphorylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.139",
+      "2.4.1.139",
+      "2.4.1.139"
+    ],
+    "MetaCyc": [
+      "MALTOSE-SYNTHASE-RXN",
+      "MALTOSE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "22320"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 alpha-D-glucose 1-phosphate = maltose + 2 phosphate.",
+  "namespace": "molecular_function",
+  "label": "maltose synthase activity"
+}

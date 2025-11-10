@@ -1,0 +1,30 @@
+{
+  "id": "GO:0043042",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043042",
+  "relationships": {
+    "is_a": [
+      "GO:0043041"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "amino acid adenylation by NRPS",
+      "amino acid adenylation by nonribosomal peptide synthase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "9250661",
+      "9712910"
+    ]
+  },
+  "definition": "Activation of an amino acid for incorporation into a peptide by a nonribosomal process, catalyzed by subunits of nonribosomal peptide synthase. The amino acid is adenylated at its carboxylate group (ATP-dependent) then transferred to the thiol group of an enzyme-bound phosphopantetheine cofactor.",
+  "namespace": "biological_process",
+  "label": "amino acid adenylylation by nonribosomal peptide synthase"
+}

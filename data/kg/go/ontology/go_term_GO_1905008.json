@@ -1,0 +1,37 @@
+{
+  "id": "GO:1905008",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905008",
+  "relationships": {
+    "is_a": [
+      "GO:0010958",
+      "GO:0032890"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of L-lysine import into cell",
+      "regulation of lysine uptake"
+    ],
+    "broad": [
+      "regulation of lysine import"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dph",
+      "tb"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "7499219"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of L-lysine import into cell.",
+  "namespace": "biological_process",
+  "label": "regulation of L-lysine import across plasma membrane"
+}

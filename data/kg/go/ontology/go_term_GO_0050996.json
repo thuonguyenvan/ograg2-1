@@ -1,0 +1,35 @@
+{
+  "id": "GO:0050996",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050996",
+  "relationships": {
+    "is_a": [
+      "GO:0009896",
+      "GO:0045834",
+      "GO:0050994"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of lipid breakdown",
+      "positive regulation of lipid catabolism",
+      "positive regulation of lipid degradation",
+      "up regulation of lipid catabolic process",
+      "up-regulation of lipid catabolic process",
+      "upregulation of lipid catabolic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of lipid catabolic process",
+      "stimulation of lipid catabolic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways resulting in the breakdown of lipids.",
+  "namespace": "biological_process",
+  "label": "positive regulation of lipid catabolic process"
+}

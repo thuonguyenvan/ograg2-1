@@ -1,0 +1,33 @@
+# Gene Ontology (GO) Configuration for OG-RAG
+
+dataset:
+  name: "go"
+  description: "Gene Ontology - Structured biological knowledge"
+  ontology_dir: "data/kg/go/ontology"
+  total_terms: 39354
+  namespaces:
+    - biological_process
+    - molecular_function
+    - cellular_component
+
+embedding:
+  model: "sentence-transformers/all-MiniLM-L6-v2"
+  dimension: 384
+  normalize: true
+  batch_size: 32
+
+retrieval:
+  top_k: 5
+  hierarchical_expansion: true
+  hierarchical_depth: 2
+  similarity_method: "dual_ranking"  # max of key and value scores
+  
+llm:
+  model: "gpt-4"
+  temperature: 0
+  max_tokens: 1024
+
+query_engine:
+  type: "go_hypergraph"
+  verbose: false
+  return_context: false

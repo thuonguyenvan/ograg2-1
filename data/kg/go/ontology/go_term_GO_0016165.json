@@ -1,0 +1,51 @@
+{
+  "id": "GO:0016165",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016165",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "lipoxygenase activity"
+    ],
+    "narrow": [
+      "carotene oxidase activity"
+    ],
+    "related": [
+      "fat oxidase activity",
+      "linoleate:oxygen 13-oxidoreductase activity",
+      "lionoleate:O2 oxidoreductase activity",
+      "lipoperoxidase activity",
+      "lipoxidase activity",
+      "lipoxydase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.12",
+      "1.13.11.12",
+      "1.13.11.12",
+      "1.13.11.12",
+      "1.13.11.12",
+      "1.13.11.12",
+      "1.13.11.12",
+      "1.13.11.12",
+      "1.13.11.12"
+    ],
+    "MetaCyc": [
+      "LIPOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "22780"
+    ],
+    "GOC": [
+      "lb"
+    ]
+  },
+  "definition": "Catalysis of the reaction: linoleate + O2 = (9Z,11E)-(13S)-13-hydroperoxyoctadeca-9,11-dienoate.",
+  "namespace": "molecular_function",
+  "label": "linoleate 13S-lipoxygenase activity"
+}

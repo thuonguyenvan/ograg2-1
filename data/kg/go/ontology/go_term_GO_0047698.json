@@ -1,0 +1,38 @@
+{
+  "id": "GO:0047698",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047698",
+  "relationships": {
+    "is_a": [
+      "GO:0016841"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "b-alanyl-CoA ammonia-lyase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "beta-alanyl coenzyme A ammonia-lyase activity",
+      "beta-alanyl-CoA ammonia-lyase (acryloyl-CoA-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.1.6",
+      "4.3.1.6",
+      "4.3.1.6",
+      "4.3.1.6"
+    ],
+    "MetaCyc": [
+      "BETA-ALANYL-COA-AMMONIA-LYASE-RXN",
+      "BETA-ALANYL-COA-AMMONIA-LYASE-RXN"
+    ],
+    "RHEA": [
+      "12416"
+    ]
+  },
+  "definition": "Catalysis of the reaction: beta-alanyl-CoA = acryloyl-CoA + NH3.",
+  "namespace": "molecular_function",
+  "label": "beta-alanyl-CoA ammonia-lyase activity"
+}

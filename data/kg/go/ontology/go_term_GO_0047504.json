@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047504",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047504",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "monoterpenoid dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "(-)-menthol:NADP+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.207",
+      "1.1.1.207",
+      "1.1.1.207",
+      "1.1.1.207"
+    ],
+    "KEGG_REACTION": [
+      "R02177"
+    ],
+    "MetaCyc": [
+      "--MENTHOL-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "13917",
+      "13917"
+    ],
+    "UM-BBD_reactionID": [
+      "r1182"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (-)-menthol + NADP+ = (2S,5R)-menthone + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "(-)-menthol dehydrogenase activity"
+}

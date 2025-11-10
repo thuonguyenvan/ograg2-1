@@ -1,0 +1,31 @@
+{
+  "id": "GO:0140211",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140211",
+  "relationships": {
+    "is_a": [
+      "GO:0008517",
+      "GO:0015295"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-200646",
+      "R-HSA-200729"
+    ],
+    "TC": [
+      "2.A.1.50.1"
+    ],
+    "PMID": [
+      "24745983"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: folic acid(out) + H+(out) = folic acid(in) + H+(in). The main folic acid symporter is the Proton-Coupled Folate Transporter (PCFT/SLC46A1), which has similar affinity for transport of reduced folates (5-methyl THF, 5-formyl THF) and folic acid.",
+  "namespace": "molecular_function",
+  "label": "SLC46A1 transports FOLA from extracellular region to cytosol"
+}

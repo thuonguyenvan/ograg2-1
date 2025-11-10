@@ -1,0 +1,42 @@
+{
+  "id": "GO:0071028",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071028",
+  "relationships": {
+    "is_a": [
+      "GO:0000956",
+      "GO:0071027"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nuclear aberrant mRNA catabolic process",
+      "nuclear mRNA quality control"
+    ],
+    "broad": [],
+    "narrow": [
+      "nuclear retention of pre-mRNA at the site of transcription",
+      "nuclear retention of pre-mRNA with aberrant 3&apos;-ends at the site of transcription",
+      "nuclear retention of unspliced pre-mRNA at the site of transcription"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dgf",
+      "krc",
+      "dgf",
+      "krc",
+      "dgf",
+      "krc"
+    ],
+    "PMID": [
+      "11586364",
+      "12417728",
+      "14718167",
+      "18644474"
+    ]
+  },
+  "definition": "A process that identifies and degrades defective or aberrant mRNAs within the nucleus.",
+  "namespace": "biological_process",
+  "label": "nuclear mRNA surveillance"
+}

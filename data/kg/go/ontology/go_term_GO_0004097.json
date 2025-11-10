@@ -1,0 +1,61 @@
+{
+  "id": "GO:0004097",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004097",
+  "relationships": {
+    "is_a": [
+      "GO:0004497",
+      "GO:0016682"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "catecholase",
+      "diphenol oxidase activity",
+      "o-diphenol oxidoreductase",
+      "o-diphenolase activity"
+    ],
+    "broad": [
+      "phenolase activity",
+      "pyrocatechol oxidase",
+      "tyrosinase activity"
+    ],
+    "narrow": [
+      "L-DOPA monooxygenase activity",
+      "L-dopa oxidase activity",
+      "dopamine monooxygenase activity"
+    ],
+    "related": [
+      "polyphenol oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.10.3.1",
+      "1.10.3.1",
+      "1.10.3.1",
+      "1.10.3.1",
+      "1.10.3.1",
+      "1.10.3.1",
+      "1.10.3.1",
+      "1.10.3.1"
+    ],
+    "MetaCyc": [
+      "CATECHOL-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "21632"
+    ],
+    "Reactome": [
+      "R-HSA-5662662",
+      "R-HSA-5662692",
+      "R-HSA-5663050",
+      "R-HSA-8878581"
+    ],
+    "PMID": [
+      "22120533"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 catechol + O2 = 2 1,2-benzoquinone + 2 H2O. This reaction catalyzes exclusively the oxidation of catechols (i.e., o-diphenols) to the corresponding o-quinones.",
+  "namespace": "molecular_function",
+  "label": "TYRP1 oxidises DHICA to IQCA"
+}

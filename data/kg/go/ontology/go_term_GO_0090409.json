@@ -1,0 +1,30 @@
+{
+  "id": "GO:0090409",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090409",
+  "relationships": {
+    "is_a": [
+      "GO:0016405"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "6.2.1.76"
+    ],
+    "MetaCyc": [
+      "RXN-12359"
+    ],
+    "RHEA": [
+      "32139",
+      "32139"
+    ]
+  },
+  "definition": "Catalysis of the reaction: malonate + ATP + coenzyme A = malonyl-CoA + AMP + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "malonyl-CoA synthetase activity"
+}

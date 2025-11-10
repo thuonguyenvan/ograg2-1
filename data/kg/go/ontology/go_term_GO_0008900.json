@@ -1,0 +1,65 @@
+{
+  "id": "GO:0008900",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008900",
+  "relationships": {
+    "is_a": [
+      "GO:0008553",
+      "GO:0008556"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hydrogen/potassium-exchanging ATPase activity",
+      "hydrogen:potassium exchanging ATPase activity",
+      "hydrogen:potassium-exchanging ATPase activity"
+    ],
+    "broad": [
+      "proton pump activity"
+    ],
+    "narrow": [
+      "gastric H+/K(+) ATPase activity",
+      "gastric H+/K+ ATPase"
+    ],
+    "related": [
+      "(K+ + H+)-ATPase activity",
+      "ATP phosphohydrolase (H+/K+-exchanging)",
+      "H+-K+-ATPase activity",
+      "H+/K(+)-ATPase activity",
+      "H+/K(+)-exchanging ATPase activity",
+      "H+/K+-ATPase activity",
+      "H+/K+-exchanging ATPase activity",
+      "H,K-ATPase activity",
+      "potassium:proton exchanging ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.2.2.19",
+      "7.2.2.19",
+      "7.2.2.19",
+      "7.2.2.19",
+      "7.2.2.19",
+      "7.2.2.19",
+      "7.2.2.19",
+      "7.2.2.19",
+      "7.2.2.19",
+      "7.2.2.19",
+      "7.2.2.19",
+      "7.2.2.19"
+    ],
+    "MetaCyc": [
+      "3.6.3.10-RXN"
+    ],
+    "RHEA": [
+      "22044",
+      "22044"
+    ],
+    "Reactome": [
+      "R-HSA-937311",
+      "R-HSA-9727198"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + H+(in) + K+(out) = ADP + phosphate + H+(out) + K+(in).",
+  "namespace": "molecular_function",
+  "label": "ATP4A:ATP4B exchanges K+ for H+"
+}

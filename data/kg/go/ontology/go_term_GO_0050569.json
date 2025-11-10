@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050569",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050569",
+  "relationships": {
+    "is_a": [
+      "GO:0004029"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "glycol aldehyde dehydrogenase activity",
+      "glycolaldehyde:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.21",
+      "1.2.1.21",
+      "1.2.1.21"
+    ],
+    "KEGG_REACTION": [
+      "R01333"
+    ],
+    "MetaCyc": [
+      "GLYCOLALD-DEHYDROG-RXN"
+    ],
+    "RHEA": [
+      "20001",
+      "20001"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glycolaldehyde + H2O + NAD+ = glycolate + 2 H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "glycolaldehyde dehydrogenase (NAD+) activity"
+}

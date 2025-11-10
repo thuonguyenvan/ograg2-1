@@ -1,0 +1,35 @@
+{
+  "id": "GO:0002218",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002218",
+  "relationships": {
+    "is_a": [
+      "GO:0002253",
+      "GO:0045089"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mtg_sensu"
+    ],
+    "GO_REF": [
+      "0000022"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "15199967",
+      "16177805"
+    ]
+  },
+  "definition": "Any process that initiates an innate immune response. Innate immune responses are defense responses mediated by germline encoded components that directly recognize components of potential pathogens. Examples of this process include activation of the hypersensitive response of Arabidopsis thaliana and activation of any NOD or TLR signaling pathway in vertebrate species.",
+  "namespace": "biological_process",
+  "label": "activation of innate immune response"
+}

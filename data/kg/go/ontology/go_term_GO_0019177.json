@@ -1,0 +1,30 @@
+{
+  "id": "GO:0019177",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019177",
+  "relationships": {
+    "is_a": [
+      "GO:0016462"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.67"
+    ],
+    "MetaCyc": [
+      "H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN"
+    ],
+    "RHEA": [
+      "25302",
+      "25302"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dihydroneopterin triphosphate = dihydroneopterin phosphate + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "dihydroneopterin triphosphate pyrophosphohydrolase activity"
+}

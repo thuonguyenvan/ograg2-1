@@ -1,0 +1,45 @@
+{
+  "id": "GO:0004776",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004776",
+  "relationships": {
+    "is_a": [
+      "GO:0004774"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "succinyl coenzyme A synthetase"
+    ],
+    "narrow": [],
+    "related": [
+      "succinate:CoA ligase (GDP-forming) activity",
+      "succinyl CoA synthetase activity",
+      "succinyl coenzyme A synthetase (GDP-forming) activity",
+      "succinyl coenzyme A synthetase (guanosine diphosphate-forming) activity",
+      "succinyl-CoA synthetase (GDP-forming) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.2.1.4",
+      "6.2.1.4"
+    ],
+    "KEGG_REACTION": [
+      "R00432"
+    ],
+    "MetaCyc": [
+      "SUCCINATE--COA-LIGASE-GDP-FORMING-RXN"
+    ],
+    "RHEA": [
+      "22120",
+      "22120"
+    ],
+    "Reactome": [
+      "R-HSA-71775"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GTP + succinate + CoA = GDP + succinyl-CoA + phosphate.",
+  "namespace": "molecular_function",
+  "label": "SUCLG1/G2 cleaves succinyl-CoA"
+}

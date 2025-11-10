@@ -1,0 +1,29 @@
+{
+  "id": "GO:0044487",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044487",
+  "relationships": {
+    "is_a": [
+      "GO:0140136"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "envenomation resulting in modulation of conduction of nerve impulse in other organism",
+      "envenomation resulting in modulation of transmission of nerve impulse in another organism",
+      "envenomation resulting in modulation of transmission of nerve impulse in other organism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "fj",
+      "jl",
+      "dph"
+    ]
+  },
+  "definition": "A process in which an organism alters or subverts the transmission of a nerve impulse in another organism via the action of a venom.",
+  "namespace": "biological_process",
+  "label": "venom-mediated perturbation of transmission of nerve impulse"
+}

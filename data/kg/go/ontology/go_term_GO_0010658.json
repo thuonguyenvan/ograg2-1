@@ -1,0 +1,30 @@
+{
+  "id": "GO:0010658",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010658",
+  "relationships": {
+    "is_a": [
+      "GO:0010657"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "striated muscle cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000737"
+    ],
+    "GOC": [
+      "dph",
+      "mtg_apoptosis",
+      "tb"
+    ]
+  },
+  "definition": "A form of programmed cell death induced by external or internal signals that trigger the activity of proteolytic caspases, whose actions dismantle a striated muscle cell and result in its death. Striated muscle cells make up striated muscle fibers which are divided by transverse bands into striations.",
+  "namespace": "biological_process",
+  "label": "striated muscle cell apoptotic process"
+}

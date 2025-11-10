@@ -1,0 +1,36 @@
+{
+  "id": "GO:0008960",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008960",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "oligosaccharide glycerophosphotransferase activity",
+      "phosphatidylglycerol:membrane-derived-oligosaccharide-D-glucose glycerophosphotransferase activity",
+      "phosphoglycerol transferase I",
+      "phosphoglycerol transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.20",
+      "2.7.8.20",
+      "2.7.8.20",
+      "2.7.8.20",
+      "2.7.8.20",
+      "2.7.8.20"
+    ],
+    "MetaCyc": [
+      "PGLYCEROLTRANSI-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: phosphatidylglycerol + membrane-derived-oligosaccharide D-glucose = 1,2-diacyl-sn-glycerol + membrane-derived-oligosaccharide 6-(glycerophospho)-D-glucose.",
+  "namespace": "molecular_function",
+  "label": "phosphatidylglycerol-membrane-oligosaccharide glycerophosphotransferase activity"
+}

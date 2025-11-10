@@ -1,0 +1,46 @@
+{
+  "id": "GO:0072766",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072766",
+  "relationships": {
+    "is_a": [
+      "GO:0097240",
+      "GO:0098653",
+      "GO:1903047"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "kinetochore clustering at the old mitotic spindle pole body"
+    ],
+    "broad": [
+      "centromere clustering at the nuclear periphery",
+      "centromere-SPB clustering",
+      "kinetochore clustering at SPB",
+      "kinetochore clustering at spindle pole body",
+      "kinetochore localization at spindle pole body"
+    ],
+    "narrow": [],
+    "related": [
+      "centromere clustering at the mitotic nuclear envelope",
+      "rabl configuration"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vw",
+      "vw",
+      "mah",
+      "pr"
+    ],
+    "PMID": [
+      "21965289",
+      "23166349",
+      "18158900",
+      "17881496"
+    ]
+  },
+  "definition": "The process in which chromatin, or kinetochores are anchored to the nuclear envelope. This process involves the microtubule cytoskeleton, and nuclear tethering factors and is responsible for the Rabl-like configuration of chromosomes in the interphase nuclei.",
+  "namespace": "biological_process",
+  "label": "centromere clustering at the mitotic interphase nuclear envelope"
+}

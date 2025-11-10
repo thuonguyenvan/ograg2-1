@@ -1,0 +1,29 @@
+{
+  "id": "GO:0046067",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046067",
+  "relationships": {
+    "is_a": [
+      "GO:0009155",
+      "GO:0009184",
+      "GO:0046066"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dGDP breakdown",
+      "dGDP catabolism",
+      "dGDP degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of dGDP, deoxyguanosine diphosphate, (2&apos;-deoxyguanosine 5&apos;-diphosphate).",
+  "namespace": "biological_process",
+  "label": "dGDP catabolic process"
+}

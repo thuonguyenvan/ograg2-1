@@ -1,0 +1,31 @@
+{
+  "id": "GO:0051607",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051607",
+  "relationships": {
+    "is_a": [
+      "GO:0006952",
+      "GO:0009615"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "antiviral response",
+      "defence response to virus",
+      "defense response to viruses"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8983711"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Reactions triggered in response to the presence of a virus that act to protect the cell or organism.",
+  "namespace": "biological_process",
+  "label": "OAS antiviral response"
+}

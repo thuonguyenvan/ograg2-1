@@ -1,0 +1,32 @@
+{
+  "id": "GO:0030956",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030956",
+  "relationships": {
+    "is_a": [
+      "GO:0140535",
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "GatCAB",
+      "GatFAB"
+    ],
+    "related": [
+      "AdT"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mlg",
+      "rb",
+      "rb",
+      "rb"
+    ]
+  },
+  "definition": "A protein complex that possesses glutamyl-tRNA(Gln) amidotransferase activity, and therefore creates Gln-tRNA by amidating Glu-tRNA; usually composed of 3 subunits: A, B, and C. Note that the C subunit may not be required in all organisms.",
+  "namespace": "cellular_component",
+  "label": "glutamyl-tRNA(Gln) amidotransferase complex"
+}

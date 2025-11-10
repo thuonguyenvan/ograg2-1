@@ -1,0 +1,35 @@
+{
+  "id": "GO:1903790",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903790",
+  "relationships": {
+    "is_a": [
+      "GO:0001408",
+      "GO:0072530",
+      "GO:1901679"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "guanyl nucleotide transmembrane transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dph",
+      "vw"
+    ],
+    "GO_REF": [
+      "0000069"
+    ],
+    "PMID": [
+      "25320081"
+    ]
+  },
+  "definition": "The process in which a guanyl nucleotide is transported across a membrane.",
+  "namespace": "biological_process",
+  "label": "guanine nucleotide transmembrane transport"
+}

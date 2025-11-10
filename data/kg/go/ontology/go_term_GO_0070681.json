@@ -1,0 +1,27 @@
+{
+  "id": "GO:0070681",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070681",
+  "relationships": {
+    "is_a": [
+      "GO:0043039"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5921",
+      "PWY-5921"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A tRNA aminoacylation process in which glutaminyl-tRNAGln is formed by a tRNA-dependent two-step pathway. In the first step a non-discriminating glutamyl-tRNAGlx synthetase generates the misacylated L-glutamyl-tRNAGln species, and in the second step it is amidated to the correctly charged L-glutaminyl-tRNAGln by a glutamyl-tRNAGln amidotransferase.",
+  "namespace": "biological_process",
+  "label": "glutaminyl-tRNAGln biosynthesis via transamidation"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0008867",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008867",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-galactarate hydro-lyase (5-dehydro-4-deoxy-D-glucarate-forming)",
+      "D-galactarate hydro-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.42",
+      "4.2.1.42",
+      "4.2.1.42",
+      "4.2.1.42"
+    ],
+    "KEGG_REACTION": [
+      "R05608"
+    ],
+    "MetaCyc": [
+      "GALACTARDEHYDRA-RXN"
+    ],
+    "RHEA": [
+      "16005",
+      "16005"
+    ]
+  },
+  "definition": "Catalysis of the reaction: galactarate = 5-dehydro-4-deoxy-D-glucarate + H2O.",
+  "namespace": "molecular_function",
+  "label": "galactarate dehydratase activity"
+}

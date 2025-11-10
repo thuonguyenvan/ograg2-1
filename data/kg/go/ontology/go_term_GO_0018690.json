@@ -1,0 +1,51 @@
+{
+  "id": "GO:0018690",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018690",
+  "relationships": {
+    "is_a": [
+      "GO:0004497",
+      "GO:0016705"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "4-methoxybenzoate monooxygenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-methoxybenzoate 4-monooxygenase (O-demethylating)",
+      "4-methoxybenzoate O-demethylase activity",
+      "4-methoxybenzoate,hydrogen-donor:oxygen oxidoreductase (O-demethylating)",
+      "p-anisic O-demethylase activity",
+      "piperonylate-4-O-demethylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.99.15",
+      "1.14.99.15",
+      "1.14.99.15",
+      "1.14.99.15",
+      "1.14.99.15",
+      "1.14.99.15",
+      "1.14.99.15"
+    ],
+    "KEGG_REACTION": [
+      "R01306"
+    ],
+    "MetaCyc": [
+      "1.14.99.15-RXN"
+    ],
+    "RHEA": [
+      "18613",
+      "18613"
+    ],
+    "UM-BBD_reactionID": [
+      "r0154"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-methoxybenzoate + AH(2) + O2 = 4-hydroxybenzoate + A + formaldehyde + H2O.",
+  "namespace": "molecular_function",
+  "label": "4-methoxybenzoate monooxygenase (O-demethylating) activity"
+}

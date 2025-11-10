@@ -1,0 +1,37 @@
+{
+  "id": "GO:0043123",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043123",
+  "relationships": {
+    "is_a": [
+      "GO:0043122",
+      "GO:1902533"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "activation of I-kappaB kinase/NF-kappaB cascade",
+      "positive regulation of I-kappaB kinase/NF-kappaB cascade",
+      "positive regulation of I-kappaB kinase/NF-kappaB signaling",
+      "up regulation of I-kappaB kinase/NF-kappaB cascade",
+      "up-regulation of I-kappaB kinase/NF-kappaB cascade",
+      "upregulation of I-kappaB kinase/NF-kappaB cascade"
+    ],
+    "broad": [],
+    "narrow": [
+      "stimulation of I-kappaB kinase/NF-kappaB cascade"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-937039"
+    ],
+    "GOC": [
+      "jl",
+      "signaling"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of a canonical NF-kappaB signaling cascade.",
+  "namespace": "biological_process",
+  "label": "IRAK1 recruits IKK complex"
+}

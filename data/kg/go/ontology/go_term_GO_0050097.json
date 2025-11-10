@@ -1,0 +1,55 @@
+{
+  "id": "GO:0050097",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050097",
+  "relationships": {
+    "is_a": [
+      "GO:0016866"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-threo-3-methylaspartate carboxy-aminomethylmutase activity",
+      "b-methylaspartate-glutamate mutase activity",
+      "beta-methylaspartate-glutamate mutase activity",
+      "glutamate isomerase activity",
+      "glutamate mutase activity",
+      "glutamic acid isomerase activity",
+      "glutamic acid mutase activity",
+      "glutamic isomerase activity",
+      "glutamic mutase activity",
+      "methylaspartic acid mutase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.99.1",
+      "5.4.99.1",
+      "5.4.99.1",
+      "5.4.99.1",
+      "5.4.99.1",
+      "5.4.99.1",
+      "5.4.99.1",
+      "5.4.99.1",
+      "5.4.99.1",
+      "5.4.99.1",
+      "5.4.99.1",
+      "5.4.99.1"
+    ],
+    "KEGG_REACTION": [
+      "R00262"
+    ],
+    "MetaCyc": [
+      "METHYLASPARTATE-MUTASE-RXN"
+    ],
+    "RHEA": [
+      "12857",
+      "12857"
+    ]
+  },
+  "definition": "Catalysis of the reaction: threo-3-methyl-L-aspartate = L-glutamate.",
+  "namespace": "molecular_function",
+  "label": "methylaspartate mutase activity"
+}

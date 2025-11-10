@@ -1,0 +1,37 @@
+{
+  "id": "GO:1901053",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901053",
+  "relationships": {
+    "is_a": [
+      "GO:0042219",
+      "GO:0170044",
+      "GO:1901052",
+      "GO:1901606"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sarcosine breakdown",
+      "sarcosine catabolism",
+      "sarcosine degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "17951379"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of sarcosine.",
+  "namespace": "biological_process",
+  "label": "sarcosine catabolic process"
+}

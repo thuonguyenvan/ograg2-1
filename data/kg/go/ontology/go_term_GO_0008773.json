@@ -1,0 +1,45 @@
+{
+  "id": "GO:0008773",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008773",
+  "relationships": {
+    "is_a": [
+      "GO:0070569",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UTP:[protein-PII] uridylyltransferase activity"
+    ],
+    "broad": [
+      "uridylyl removing enzyme activity"
+    ],
+    "narrow": [],
+    "related": [
+      "PII uridylyl-transferase activity",
+      "UTP:protein-PII uridylyltransferase activity",
+      "protein-PII uridylyltransferase activity",
+      "uridyl removing enzyme"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.59",
+      "2.7.7.59",
+      "2.7.7.59",
+      "2.7.7.59",
+      "2.7.7.59",
+      "2.7.7.59",
+      "2.7.7.59"
+    ],
+    "MetaCyc": [
+      "URITRANS-RXN"
+    ],
+    "RHEA": [
+      "13673"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UTP + (protein-PII) = diphosphate + uridylyl-(protein-PII).",
+  "namespace": "molecular_function",
+  "label": "[protein-PII] uridylyltransferase activity"
+}

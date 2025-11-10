@@ -1,0 +1,39 @@
+{
+  "id": "GO:0070299",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070299",
+  "relationships": {
+    "is_a": [
+      "GO:0070297",
+      "GO:1902533"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of histidyl-aspartyl phosphorelay",
+      "up regulation of two-component signal transduction",
+      "up-regulation of two-component signal transduction",
+      "upregulation of two-component signal transduction"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of two-component signal transduction",
+      "positive regulation of two-component signal transduction system (phosphorelay)",
+      "stimulation of two-component signal transduction"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of signal transduction via a phosphorelay signal transduction system.",
+  "namespace": "biological_process",
+  "label": "positive regulation of phosphorelay signal transduction system"
+}

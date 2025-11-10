@@ -1,0 +1,36 @@
+{
+  "id": "GO:0006386",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006386",
+  "relationships": {
+    "is_a": [
+      "GO:0006353"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA polymerase III transcription termination",
+      "transcription termination from Pol III promoter",
+      "transcription termination from RNA polymerase III promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "RNA polymerase III transcription termination factor activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-73980"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "12944462",
+      "27371117"
+    ]
+  },
+  "definition": "A transcription termination process that completes the production of a primary RNA polymerase II transcript. RNA polymerase III has an intrinsic ability to terminate transcription upon incorporation of at least 4 contiguous U residues.",
+  "namespace": "biological_process",
+  "label": "RNA Polymerase III Transcription Termination"
+}

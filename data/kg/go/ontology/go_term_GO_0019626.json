@@ -1,0 +1,34 @@
+{
+  "id": "GO:0019626",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019626",
+  "relationships": {
+    "is_a": [
+      "GO:0009062",
+      "GO:0046459"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "short-chain fatty acid breakdown",
+      "short-chain fatty acid catabolism",
+      "short-chain fatty acid degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "ACETOACETATE-DEG-PWY"
+    ],
+    "Reactome": [
+      "R-HSA-71032"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a short-chain fatty acid. A short-chain fatty acid has an aliphatic tail containing fewer than 6 carbons.",
+  "namespace": "biological_process",
+  "label": "Propionyl-CoA catabolism"
+}

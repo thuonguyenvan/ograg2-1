@@ -1,0 +1,27 @@
+{
+  "id": "GO:0000290",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000290",
+  "relationships": {
+    "is_a": [
+      "GO:0000956",
+      "GO:0110156"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "deadenylation-dependent decapping of nuclear mRNA",
+      "deadenylylation-dependent decapping"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ]
+  },
+  "definition": "Cleavage of the 5&apos;-cap of a nuclear mRNA triggered by shortening of the poly(A) tail to below a minimum functional length.",
+  "namespace": "biological_process",
+  "label": "deadenylation-dependent decapping of nuclear-transcribed mRNA"
+}

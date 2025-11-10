@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047146",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047146",
+  "relationships": {
+    "is_a": [
+      "GO:0008171"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "O-methyltransferase II activity",
+      "S-adenosyl-L-methionine:sterigmatocystin 7-O-methyltransferase activity",
+      "S-adenosyl-L-methionine:sterigmatocystin 8-O-methyltransferase activity",
+      "sterigmatocystin 8-O-methyltransferase activity",
+      "sterigmatocystin methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.110",
+      "2.1.1.110",
+      "2.1.1.110",
+      "2.1.1.110",
+      "2.1.1.110",
+      "2.1.1.110",
+      "2.1.1.110"
+    ],
+    "MetaCyc": [
+      "2.1.1.110-RXN",
+      "2.1.1.110-RXN"
+    ],
+    "RHEA": [
+      "15561"
+    ]
+  },
+  "definition": "Catalysis of the reaction: sterigmatocystin + S-adenosyl-L-methionine = 7-O-methylsterigmatocystin + S-adenosyl-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "sterigmatocystin 7-O-methyltransferase activity"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0051934",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051934",
+  "relationships": {
+    "is_a": [
+      "GO:0090493",
+      "GO:0098810"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "catecholamine neurotransmitter reuptake"
+    ],
+    "broad": [
+      "catecholamine neurotransmitter recycling"
+    ],
+    "narrow": [
+      "catecholamine neurotransmitter import into glial cell",
+      "catecholamine neurotransmitter import into neuron"
+    ],
+    "related": [
+      "catecholamine reuptake during transmission of nerve impulse",
+      "catecholamine uptake during transmission of nerve impulse"
+    ]
+  },
+  "cross_references": {
+    "ISBN": [
+      "0123668387"
+    ],
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The uptake of catecholamine neurotransmitters by neurons or glial cells. This process leads to inactivation and recycling of neurotransmitters.",
+  "namespace": "biological_process",
+  "label": "catecholamine uptake involved in synaptic transmission"
+}

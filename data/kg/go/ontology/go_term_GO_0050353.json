@@ -1,0 +1,56 @@
+{
+  "id": "GO:0050353",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050353",
+  "relationships": {
+    "is_a": [
+      "GO:0016706"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "6-N,6-N,6-N-trimethyl-L-lysine,2-oxoglutarate:oxygen oxidoreductase (3-hydroxylating)",
+      "N6,N6,N6-trimethyl-L-lysine,2-oxoglutarate:oxygen oxidoreductase (3-hydroxylating)",
+      "TML dioxygenase activity",
+      "TML hydroxylase activity",
+      "TML-alpha-ketoglutarate dioxygenase activity",
+      "TMLD activity",
+      "epsilon-trimethyllysine 2-oxoglutarate dioxygenase activity",
+      "trimethyllysine alpha-ketoglutarate dioxygenase activity",
+      "trimethyllysine,2-oxoglutarate dioxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.11.8",
+      "1.14.11.8",
+      "1.14.11.8",
+      "1.14.11.8",
+      "1.14.11.8",
+      "1.14.11.8",
+      "1.14.11.8",
+      "1.14.11.8",
+      "1.14.11.8",
+      "1.14.11.8",
+      "1.14.11.8"
+    ],
+    "KEGG_REACTION": [
+      "R03451"
+    ],
+    "MetaCyc": [
+      "TRIMETHYLLYSINE-DIOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "14181",
+      "14181"
+    ],
+    "Reactome": [
+      "R-HSA-71241"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxoglutarate + N(6),N(6),N(6)-trimethyl-L-lysine + O2 = 3-hydroxy-N(6),N(6),N(6)-trimethyl-L-lysine + CO2 + succinate.",
+  "namespace": "molecular_function",
+  "label": "TMLHE dimer dioxygenates TMLYS and 2OG to form HTMLYS and SUCCA"
+}

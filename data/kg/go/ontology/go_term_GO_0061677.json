@@ -1,0 +1,39 @@
+{
+  "id": "GO:0061677",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061677",
+  "relationships": {
+    "is_a": [
+      "GO:0016832"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-keto-3-deoxygluconate aldolase activity",
+      "KDG aldolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.2.51"
+    ],
+    "MetaCyc": [
+      "DHDOGALDOL-RXN"
+    ],
+    "RHEA": [
+      "35583",
+      "35583"
+    ],
+    "GOC": [
+      "dph"
+    ],
+    "PMID": [
+      "12824170"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-dehydro-3-deoxy-D-gluconate = pyruvate + D-glyceraldehyde.",
+  "namespace": "molecular_function",
+  "label": "2-dehydro-3-deoxy-D-gluconate aldolase activity"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:1903216",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903216",
+  "relationships": {
+    "is_a": [
+      "GO:0070613"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "regulation of mitochondrial processing"
+    ],
+    "narrow": [],
+    "related": [
+      "regulation of mitochondrial protein processing during import"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "21370995"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of protein processing involved in protein targeting to mitochondrion.",
+  "namespace": "biological_process",
+  "label": "regulation of protein processing involved in protein targeting to mitochondrion"
+}

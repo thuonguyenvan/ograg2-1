@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050010",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050010",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "isovitexin b-glucosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose:isovitexin 2&apos;&apos;-O-beta-D-glucosyltransferase activity",
+      "UDPglucose:isovitexin 2&apos;&apos;-O-beta-D-glucosyltransferase activity",
+      "uridine diphosphoglucose-isovitexin 2&apos;&apos;-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.106",
+      "2.4.1.106",
+      "2.4.1.106",
+      "2.4.1.106",
+      "2.4.1.106"
+    ],
+    "KEGG_REACTION": [
+      "R03686"
+    ],
+    "MetaCyc": [
+      "ISOVITEXIN-BETA-GLUCOSYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "19529",
+      "19529"
+    ]
+  },
+  "definition": "Catalysis of the reaction: isovitexin + UDP-D-glucose = H+ + isovitexin 2&apos;&apos;-O-beta-D-glucoside + UDP.",
+  "namespace": "molecular_function",
+  "label": "isovitexin beta-glucosyltransferase activity"
+}

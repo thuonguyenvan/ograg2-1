@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047843",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047843",
+  "relationships": {
+    "is_a": [
+      "GO:0016614"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-dehydro-D-gluconate:acceptor 2-oxidoreductase activity",
+      "2-keto-D-gluconate dehydrogenase activity",
+      "2-oxogluconate dehydrogenase activity",
+      "alpha-ketogluconate dehydrogenase activity",
+      "ketogluconate dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.99.4",
+      "1.1.99.4",
+      "1.1.99.4",
+      "1.1.99.4",
+      "1.1.99.4",
+      "1.1.99.4"
+    ],
+    "KEGG_REACTION": [
+      "R07153"
+    ],
+    "MetaCyc": [
+      "DEHYDROGLUCONATE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "12368",
+      "12368"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-dehydro-D-gluconate + A = 2,5-didehydro-D-gluconate + AH(2).",
+  "namespace": "molecular_function",
+  "label": "dehydrogluconate dehydrogenase activity"
+}

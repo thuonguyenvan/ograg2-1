@@ -1,0 +1,29 @@
+{
+  "id": "GO:0005954",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005954",
+  "relationships": {
+    "is_a": [
+      "GO:0140535",
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CAMK2",
+      "calcium/calmodulin-dependent protein kinase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CaMKII"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "20668654"
+    ]
+  },
+  "definition": "An enzyme complex which in eukaryotes is composed of four different chains: alpha, beta, gamma, and delta. The different isoforms assemble into homo- or heteromultimeric holoenzymes composed of 8 to 12 subunits. Catalyzes the phosphorylation of proteins to O-phosphoproteins.",
+  "namespace": "cellular_component",
+  "label": "calcium- and calmodulin-dependent protein kinase complex"
+}

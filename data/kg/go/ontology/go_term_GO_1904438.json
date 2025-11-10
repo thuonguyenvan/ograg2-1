@@ -1,0 +1,37 @@
+{
+  "id": "GO:1904438",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904438",
+  "relationships": {
+    "is_a": [
+      "GO:0034759",
+      "GO:0060341"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of ferrous ion import into cell",
+      "regulation of ferrous iron import across plasma membrane",
+      "regulation of ferrous iron import into cell"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "kom",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "18353247"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of iron ions import across plasma membrane.",
+  "namespace": "biological_process",
+  "label": "regulation of iron ion import across plasma membrane"
+}

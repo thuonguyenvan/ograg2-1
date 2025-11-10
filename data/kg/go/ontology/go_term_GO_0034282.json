@@ -1,0 +1,38 @@
+{
+  "id": "GO:0034282",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034282",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ent-copalyl-diphosphate diphosphate-lyase [ent-pimara-8(14),15-diene-forming] activity"
+    ],
+    "broad": [
+      "ent-pimaradiene synthase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.30"
+    ],
+    "KEGG_REACTION": [
+      "R09121",
+      "R09121"
+    ],
+    "MetaCyc": [
+      "RXN-7788"
+    ],
+    "RHEA": [
+      "25540",
+      "25540"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ent-copalyl diphosphate = ent-pimara-8(14),15-diene + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "ent-pimara-8(14),15-diene synthase activity"
+}

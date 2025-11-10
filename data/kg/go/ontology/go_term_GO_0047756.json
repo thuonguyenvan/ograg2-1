@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047756",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047756",
+  "relationships": {
+    "is_a": [
+      "GO:0034481"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chondroitin 4-sulphotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3&apos;-phosphoadenylyl-sulfate:chondroitin 4&apos;-sulfotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.5",
+      "2.8.2.5",
+      "2.8.2.5"
+    ],
+    "MetaCyc": [
+      "CHONDROITIN-4-SULFOTRANSFERASE-RXN",
+      "CHONDROITIN-4-SULFOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "16101"
+    ],
+    "Reactome": [
+      "R-HSA-1971483"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;-phosphoadenosine 5&apos;-phosphosulfate + chondroitin = adenosine 3&apos;,5&apos;-bisphosphate + chondroitin 4&apos;-sulfate.",
+  "namespace": "molecular_function",
+  "label": "CHST11,12,13,9 transfer sulfate to (4-)GalNAc"
+}

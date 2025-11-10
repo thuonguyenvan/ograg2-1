@@ -1,0 +1,28 @@
+{
+  "id": "GO:0032801",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032801",
+  "relationships": {
+    "is_a": [
+      "GO:0009057",
+      "GO:0043112"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "receptor breakdown",
+      "receptor catabolism",
+      "receptor degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a receptor molecule, a macromolecule that undergoes combination with a hormone, neurotransmitter, drug or intracellular messenger to initiate a change in cell function.",
+  "namespace": "biological_process",
+  "label": "receptor catabolic process"
+}

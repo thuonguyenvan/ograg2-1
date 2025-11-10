@@ -1,0 +1,27 @@
+{
+  "id": "GO:0001894",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001894",
+  "relationships": {
+    "is_a": [
+      "GO:0060249"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "tissue maintenance"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "isa_complete",
+      "add"
+    ]
+  },
+  "definition": "A homeostatic process involved in the maintenance of an internal steady state within a defined tissue of an organism, including control of cellular proliferation and death and control of metabolic function.",
+  "namespace": "biological_process",
+  "label": "tissue homeostasis"
+}

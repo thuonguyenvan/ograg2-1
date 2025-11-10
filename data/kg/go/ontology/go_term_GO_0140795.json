@@ -1,0 +1,27 @@
+{
+  "id": "GO:0140795",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140795",
+  "relationships": {
+    "is_a": [
+      "GO:0141057"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "H3-R2 citrullination",
+      "histone H3-R2 arginine deiminase activity",
+      "histone-arginine deiminase activity (H3-R2 specific)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "15339660"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + histone H3 L-arginyl (position 2)= histone H3 L-citrullyl (position 2) + NH4+, resulting in histone H3 citrullination at position 2.",
+  "namespace": "molecular_function",
+  "label": "histone H3R2 arginine deiminase activity"
+}

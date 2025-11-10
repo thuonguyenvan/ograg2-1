@@ -1,0 +1,29 @@
+{
+  "id": "GO:0015158",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015158",
+  "relationships": {
+    "is_a": [
+      "GO:0015157"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "raffinose permease"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0198506732",
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transfer of raffinose from one side of a membrane to the other. Raffinose occurs in plants almost as commonly as sucrose and is present in cereal grains, cotton seeds, and many legumes. It is synthesized from sucrose by transfer of a galactopyranoside from myo-inositol.",
+  "namespace": "molecular_function",
+  "label": "raffinose transmembrane transporter activity"
+}

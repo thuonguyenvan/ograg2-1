@@ -1,0 +1,32 @@
+{
+  "id": "GO:0050627",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050627",
+  "relationships": {
+    "is_a": [
+      "GO:0016668"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "mycothiol-disulfide reductase activity",
+      "mycothiol:NAD(P)+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.1.15",
+      "1.8.1.15",
+      "1.8.1.15",
+      "1.8.1.15"
+    ],
+    "MetaCyc": [
+      "1.8.1.15-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD(P)+ + mycothiol = NAD(P)H + H+ + mycothione.",
+  "namespace": "molecular_function",
+  "label": "mycothione reductase [NAD(P)H] activity"
+}

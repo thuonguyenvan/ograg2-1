@@ -1,0 +1,29 @@
+{
+  "id": "GO:0102232",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102232",
+  "relationships": {
+    "is_a": [
+      "GO:0016628"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-12281"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "21169366"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acrolein + NADPH + H+ = propanal + NADP.",
+  "namespace": "molecular_function",
+  "label": "acrolein reductase activity"
+}

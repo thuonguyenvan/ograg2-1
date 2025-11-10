@@ -1,0 +1,45 @@
+{
+  "id": "GO:0050367",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050367",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-tyrosine:L-arginine ligase (AMP-forming)",
+      "kyotorphin synthase activity",
+      "kyotorphin synthetase activity",
+      "kyotorphin-synthesizing enzyme activity",
+      "tyrosyl-arginine synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.24",
+      "6.3.2.24",
+      "6.3.2.24",
+      "6.3.2.24",
+      "6.3.2.24",
+      "6.3.2.24",
+      "6.3.2.24"
+    ],
+    "KEGG_REACTION": [
+      "R00735"
+    ],
+    "MetaCyc": [
+      "TYROSINE--ARGININE-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "15345",
+      "15345"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-arginine + L-tyrosine + ATP = L-tyrosyl-L-arginine + AMP + diphosphate + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "tyrosine-arginine ligase activity"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047111",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047111",
+  "relationships": {
+    "is_a": [
+      "GO:0016622"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "formate dehydrogenase (cytochrome c-553)",
+      "formate:ferricytochrome-c-553 oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.17.2.3",
+      "1.17.2.3",
+      "1.17.2.3",
+      "1.17.2.3"
+    ],
+    "MetaCyc": [
+      "1.2.2.3-RXN",
+      "1.2.2.3-RXN"
+    ],
+    "RHEA": [
+      "15189"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ferricytochrome C-553 + formate = ferrocytochrome C-553 + CO2.",
+  "namespace": "molecular_function",
+  "label": "formate dehydrogenase (cytochrome-c-553) activity"
+}

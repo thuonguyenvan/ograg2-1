@@ -1,0 +1,34 @@
+{
+  "id": "GO:0007598",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007598",
+  "relationships": {
+    "is_a": [
+      "GO:0072376"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "initiation of blood coagulation cascade, tissue factor pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-140834"
+    ],
+    "GOC": [
+      "add",
+      "mah",
+      "pde"
+    ],
+    "PMID": [
+      "26018600",
+      "26018600"
+    ]
+  },
+  "definition": "A protein activation cascade that initiates blood coagulation, starting with a signal from tissue factor (TF), a cell-surface, integral-membrane protein, which converts Factor IX to IXa, and Factor IXa converts Factor X to Xa. Factor Xa then initiates the common pathway.",
+  "namespace": "biological_process",
+  "label": "Extrinsic Pathway of Fibrin Clot Formation"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0047419",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047419",
+  "relationships": {
+    "is_a": [
+      "GO:0016811",
+      "GO:0019213"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "3.5.1.80-RXN"
+    ],
+    "RHEA": [
+      "18149",
+      "18149"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + N-acetyl-D-galactosamine 6-phosphate = acetate + D-galactosamine 6-phosphate.",
+  "namespace": "molecular_function",
+  "label": "N-acetylgalactosamine-6-phosphate deacetylase activity"
+}

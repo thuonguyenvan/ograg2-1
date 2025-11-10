@@ -1,0 +1,61 @@
+{
+  "id": "GO:0003977",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003977",
+  "relationships": {
+    "is_a": [
+      "GO:0070569"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-N-acetylglucosamine pyrophosphorylase activity"
+    ],
+    "broad": [
+      "acetylglucosamine 1-phosphate uridylyltransferase"
+    ],
+    "narrow": [],
+    "related": [
+      "GlmU uridylyltransferase activity",
+      "N-acetylglucosamine-1-phosphate uridyltransferase activity",
+      "UDP-GlcNAc pyrophosphorylase activity",
+      "UDP-acetylglucosamine pyrophosphorylase activity",
+      "UTP:2-acetamido-2-deoxy-alpha-D-glucose-1-phosphate uridylyltransferase activity",
+      "UTP:N-acetyl-alpha-D-glucosamine-1-phosphate uridylyltransferase activity",
+      "uridine diphosphate-N-acetylglucosamine pyrophosphorylase activity",
+      "uridine diphosphoacetylglucosamine phosphorylase activity",
+      "uridine diphosphoacetylglucosamine pyrophosphorylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.23",
+      "2.7.7.23",
+      "2.7.7.23",
+      "2.7.7.23",
+      "2.7.7.23",
+      "2.7.7.23",
+      "2.7.7.23",
+      "2.7.7.23",
+      "2.7.7.23",
+      "2.7.7.23",
+      "2.7.7.23",
+      "2.7.7.23"
+    ],
+    "KEGG_REACTION": [
+      "R00416"
+    ],
+    "MetaCyc": [
+      "NAG1P-URIDYLTRANS-RXN"
+    ],
+    "RHEA": [
+      "13509",
+      "13509"
+    ],
+    "Reactome": [
+      "R-HSA-446204"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acetyl-alpha-D-glucosamine 1-phosphate + UTP = diphosphate + UDP-N-acetyl-alpha-D-glucosamine.",
+  "namespace": "molecular_function",
+  "label": "GlcNAc1P is dephosphorylated to UDP-N-acetyl-glucosamine"
+}

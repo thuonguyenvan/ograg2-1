@@ -1,0 +1,44 @@
+{
+  "id": "GO:0039666",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039666",
+  "relationships": {
+    "is_a": [
+      "GO:0019062"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pilus-adsorption protein"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pilus-mediated viral adsorption onto host cell",
+      "pilus-mediated viral attachment to host cell",
+      "viral attachment to host cell pilus"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "981",
+      "981",
+      "981"
+    ],
+    "UniProtKB-KW": [
+      "KW-1175",
+      "KW-1175"
+    ],
+    "PMID": [
+      "16298408"
+    ],
+    "GOC": [
+      "bf",
+      "jl",
+      "bf",
+      "jl"
+    ]
+  },
+  "definition": "The process by which a virion attaches to a host cell by binding to a pilus on the host cell surface. Pili are retractile filaments that protrude from gram-negative bacteria. Filamentous viruses can attach to the pilus tip, whereas icosahedral viruses can attach to the pilus side.",
+  "namespace": "biological_process",
+  "label": "Viral attachment to host cell pilus"
+}

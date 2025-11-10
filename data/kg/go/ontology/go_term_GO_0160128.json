@@ -1,0 +1,31 @@
+{
+  "id": "GO:0160128",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160128",
+  "relationships": {
+    "is_a": [
+      "GO:0015276"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "proton-gated ion channel activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acid-sensing ion channel activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2671885"
+    ],
+    "PMID": [
+      "17167423",
+      "29513651"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of an inorganic ion by a channel that opens in response to a change in proton concentration (pH).",
+  "namespace": "molecular_function",
+  "label": "ASIC trimers:H+ transport extracellular Na+ to cytosol"
+}

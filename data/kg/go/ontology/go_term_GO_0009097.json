@@ -1,0 +1,33 @@
+{
+  "id": "GO:0009097",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009097",
+  "relationships": {
+    "is_a": [
+      "GO:0006549",
+      "GO:0009082",
+      "GO:1901607"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "isoleucine anabolism",
+      "isoleucine biosynthesis",
+      "isoleucine formation",
+      "isoleucine synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "ILEUSYN-PWY"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of isoleucine, (2R*,3R*)-2-amino-3-methylpentanoic acid.",
+  "namespace": "biological_process",
+  "label": "isoleucine biosynthetic process"
+}

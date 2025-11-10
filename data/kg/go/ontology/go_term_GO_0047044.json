@@ -1,0 +1,54 @@
+{
+  "id": "GO:0047044",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047044",
+  "relationships": {
+    "is_a": [
+      "GO:0033764"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "3-alpha(or 20-beta)-hydroxysteroid dehydrogenase activity",
+      "3alpha(or 20beta)-hydroxysteroid dehydrogenase activity",
+      "3alpha(or 20beta)-hydroxysteroid:NAD+ oxidoreductase activity",
+      "3alpha,20beta-hydroxysteroid:NAD+-oxidoreductase activity",
+      "NADH-20beta-hydroxysteroid dehydrogenase activity",
+      "dehydrogenase, 20beta-hydroxy steroid",
+      "delta4-3-ketosteroid hydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "(R)-20-hydroxysteroid dehydrogenase activity",
+      "20beta-HSD",
+      "20beta-hydroxysteroid dehydrogenase activity",
+      "cortisone reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.53",
+      "1.1.1.53",
+      "1.1.1.53",
+      "1.1.1.53",
+      "1.1.1.53",
+      "1.1.1.53",
+      "1.1.1.53",
+      "1.1.1.53",
+      "1.1.1.53",
+      "1.1.1.53",
+      "1.1.1.53",
+      "1.1.1.53"
+    ],
+    "MetaCyc": [
+      "1.1.1.53-RXN"
+    ],
+    "RHEA": [
+      "22400",
+      "22400"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD+ + androstan-3-alpha,17-beta-diol = 17-beta-hydroxyandrostan-3-one + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "androstan-3-alpha,17-beta-diol dehydrogenase (NAD+) activity"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "GO:0015297",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015297",
+  "relationships": {
+    "is_a": [
+      "GO:0015291"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "countertransporter activity",
+      "exchange transporter activity",
+      "solute:solute antiporter activity"
+    ],
+    "broad": [
+      "exchanger",
+      "porter"
+    ],
+    "narrow": [
+      "ion antiporter activity"
+    ],
+    "related": [
+      "antiport",
+      "solute:solute exchange"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2730692",
+      "R-HSA-2730959",
+      "R-HSA-2731002"
+    ],
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0815340729"
+    ],
+    "PMID": [
+      "10839820"
+    ]
+  },
+  "definition": "Enables the active transport of a solute across a membrane by a mechanism whereby two or more species are transported in opposite directions in a tightly coupled process not directly linked to a form of energy other than chemiosmotic energy. The reaction is: solute A(out) + solute B(in) = solute A(in) + solute B(out).",
+  "namespace": "molecular_function",
+  "label": "CLCN3 exchanges Cl- for H+"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0102432",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102432",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-13906"
+    ],
+    "RHEA": [
+      "73115",
+      "73115"
+    ]
+  },
+  "definition": "Catalysis of the reaction: quercetin + S-adenosyl-L-methionine = H+ + rhamnetin + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "quercetin 7-O-methyltransferase activity"
+}

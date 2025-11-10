@@ -1,0 +1,51 @@
+{
+  "id": "GO:1902838",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902838",
+  "relationships": {
+    "is_a": [
+      "GO:1902513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of microtubule cytoskeleton-dependent nuclear positioning",
+      "regulation of microtubule cytoskeleton-dependent nucleus positioning",
+      "regulation of microtubule-dependent nuclear positioning",
+      "regulation of microtubule-dependent nucleus positioning",
+      "regulation of microtubule-mediated nuclear migration",
+      "regulation of nuclear migration, microtubule-mediated",
+      "regulation of transport of nucleus by microtubules",
+      "regulation of transport of nucleus, microtubule-mediated"
+    ],
+    "broad": [
+      "regulation of nuclear movement, microtubule-mediated",
+      "regulation of nucleus migration"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23087209"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of nuclear migration along microtubule.",
+  "namespace": "biological_process",
+  "label": "regulation of nuclear migration along microtubule"
+}

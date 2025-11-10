@@ -1,0 +1,33 @@
+{
+  "id": "GO:0005244",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005244",
+  "relationships": {
+    "is_a": [
+      "GO:0005216",
+      "GO:0022832"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "voltage gated ion channel activity",
+      "voltage-dependent ion channel activity"
+    ],
+    "broad": [
+      "voltage-gated ion channel activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ],
+    "ISBN": [
+      "0198506732",
+      "0815340729"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of an ion by a voltage-gated channel. An ion is an atom or group of atoms carrying an electric charge by virtue of having gained or lost one or more electrons. A voltage-gated channel is a channel whose open state is dependent on the voltage across the membrane in which it is embedded.",
+  "namespace": "molecular_function",
+  "label": "voltage-gated monoatomic ion channel activity"
+}

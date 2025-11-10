@@ -1,0 +1,26 @@
+{
+  "id": "GO:0033543",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033543",
+  "relationships": {
+    "is_a": [
+      "GO:0033542"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "MetaCyc": [
+      "PWY-5138"
+    ]
+  },
+  "definition": "A fatty acid beta-oxidation pathway by which fatty acids having cis-double bonds on even-numbered carbons are degraded. In this pathway, the intermediate 2,4-dienoyl-CoA is converted to trans-2-enoyl-CoA by 2,4-dienoyl-CoA reductase and delta3-delta2-enoyl-CoA isomerase; trans-2-enoyl-CoA returns to the core beta-oxidation pathway for further degradation. Fatty acid beta-oxidation begins with the addition of coenzyme A to a fatty acid, and ends when only two or three carbons remain (as acetyl-CoA or propionyl-CoA respectively).",
+  "namespace": "biological_process",
+  "label": "fatty acid beta-oxidation, unsaturated, even number, reductase/isomerase pathway"
+}

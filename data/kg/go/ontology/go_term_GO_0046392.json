@@ -1,0 +1,37 @@
+{
+  "id": "GO:0046392",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046392",
+  "relationships": {
+    "is_a": [
+      "GO:0019579",
+      "GO:0019580"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "galactarate breakdown",
+      "galactarate catabolism",
+      "galactarate degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-galactarate breakdown",
+      "D-galactarate catabolic process",
+      "D-galactarate catabolism",
+      "D-galactarate degradation"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "GALACTARDEG-PWY"
+    ],
+    "GOC": [
+      "ai",
+      "pr"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of galactarate, the anion of galactaric acid.",
+  "namespace": "biological_process",
+  "label": "galactarate catabolic process"
+}

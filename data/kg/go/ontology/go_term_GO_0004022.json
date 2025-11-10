@@ -1,0 +1,58 @@
+{
+  "id": "GO:0004022",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004022",
+  "relationships": {
+    "is_a": [
+      "GO:0018455"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "aldo-keto reductase (NAD) activity"
+    ],
+    "broad": [
+      "alcohol dehydrogenase activity",
+      "primary alcohol dehydrogenase"
+    ],
+    "narrow": [
+      "aldehyde dehydrogenase (NAD) activity",
+      "aliphatic alcohol dehydrogenase",
+      "ethanol dehydrogenase",
+      "yeast alcohol dehydrogenase"
+    ],
+    "related": [
+      "ADH",
+      "NAD-dependent alcohol dehydrogenase",
+      "NAD-specific aromatic alcohol dehydrogenase",
+      "NADH-alcohol dehydrogenase",
+      "NADH-aldehyde dehydrogenase",
+      "alcohol:NAD+ oxidoreductase"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.1",
+      "1.1.1.1",
+      "1.1.1.1",
+      "1.1.1.1",
+      "1.1.1.1",
+      "1.1.1.1",
+      "1.1.1.1",
+      "1.1.1.1",
+      "1.1.1.1",
+      "1.1.1.1",
+      "1.1.1.1",
+      "1.1.1.1"
+    ],
+    "Reactome": [
+      "R-HSA-2162078",
+      "R-HSA-71707"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an alcohol + NAD+ = an aldehyde or ketone + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "ethanol + NAD+ =&gt; acetaldehyde + NADH + H+"
+}

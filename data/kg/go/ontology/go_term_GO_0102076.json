@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102076",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102076",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.71",
+      "1.13.11.71"
+    ],
+    "MetaCyc": [
+      "RXN-10741"
+    ],
+    "RHEA": [
+      "26389"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: beta-carotene + O2 = 10&apos;-apo-beta-carotenal + beta-ionone.",
+  "namespace": "molecular_function",
+  "label": "beta,beta-carotene-9&apos;,10&apos;-cleaving oxygenase activity"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "GO:0004104",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004104",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "BtChoEase activity",
+      "acylcholine acylhydrolase activity",
+      "anticholineesterase activity",
+      "benzoylcholinesterase activity",
+      "butyrylcholine esterase activity",
+      "butyrylcholinesterase activity",
+      "choline esterase II (unspecific) activity",
+      "choline esterase activity",
+      "non-specific cholinesterase activity",
+      "propionylcholinesterase activity",
+      "pseudocholinesterase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.8",
+      "3.1.1.8",
+      "3.1.1.8",
+      "3.1.1.8",
+      "3.1.1.8",
+      "3.1.1.8",
+      "3.1.1.8",
+      "3.1.1.8",
+      "3.1.1.8",
+      "3.1.1.8",
+      "3.1.1.8",
+      "3.1.1.8",
+      "3.1.1.8"
+    ],
+    "MetaCyc": [
+      "CHOLINESTERASE-RXN"
+    ],
+    "RHEA": [
+      "21964"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an acylcholine + H2O = choline + a carboxylic acid anion.",
+  "namespace": "molecular_function",
+  "label": "cholinesterase activity"
+}

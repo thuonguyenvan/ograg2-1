@@ -1,0 +1,29 @@
+{
+  "id": "GO:0140431",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140431",
+  "relationships": {
+    "is_a": [
+      "GO:0003684"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA AP site binding",
+      "DNA-(apurinic site/apyrimidinic site) binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "DNA-(apurinic site) binding",
+      "DNA-(apyrimidinic site) binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "23245849"
+    ]
+  },
+  "definition": "Binding to a DNA site that has neither a purine nor a pyrimidine base. Apurinic sites can form spontaneously or when DNA glycosylase removes a damaged base.",
+  "namespace": "molecular_function",
+  "label": "DNA-(abasic site) binding"
+}

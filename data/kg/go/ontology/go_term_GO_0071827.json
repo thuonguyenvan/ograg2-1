@@ -1,0 +1,31 @@
+{
+  "id": "GO:0071827",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071827",
+  "relationships": {
+    "is_a": [
+      "GO:0032501",
+      "GO:0071825"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "plasma lipoprotein particle organisation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-174824"
+    ],
+    "GOC": [
+      "BHF",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A protein-lipid complex subunit organization process that results in the formation, disassembly, or alteration of a plasma lipoprotein particle. A plasma lipoprotein particle is a spherical particle with a hydrophobic core of triglycerides and/or cholesterol esters, surrounded by an amphipathic monolayer of phospholipids, cholesterol and apolipoproteins.",
+  "namespace": "biological_process",
+  "label": "Plasma lipoprotein assembly, remodeling, and clearance"
+}

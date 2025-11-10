@@ -1,0 +1,32 @@
+{
+  "id": "GO:0043427",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043427",
+  "relationships": {
+    "is_a": [
+      "GO:0015977"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-hydroxypropionate cycle",
+      "3-hydroxypropionate pathway",
+      "hydroxypropionate cycle",
+      "hydroxypropionate pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "11418572",
+      "15838028"
+    ]
+  },
+  "definition": "An autotrophic carbon dioxide fixation pathway by which two molecules of carbon dioxide are fixed to form glyoxylate. Acetyl coenzyme A (acetyl-CoA) is assumed to be converted to malate, and two CO2 molecules are thereby fixed. Malyl-CoA is thought to be cleaved to acetyl-CoA, the starting molecule, and glyoxylate, the carbon fixation product.",
+  "namespace": "biological_process",
+  "label": "carbon fixation by 3-hydroxypropionate cycle"
+}

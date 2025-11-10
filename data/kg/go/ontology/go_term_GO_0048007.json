@@ -1,0 +1,32 @@
+{
+  "id": "GO:0048007",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048007",
+  "relationships": {
+    "is_a": [
+      "GO:0019884",
+      "GO:0048003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "antigen presentation, exogenous peptide antigen",
+      "exogenous lipid antigen processing and presentation via MHC class Ib"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "PMID": [
+      "10375559",
+      "15928678",
+      "15928680"
+    ]
+  },
+  "definition": "The process in which an antigen-presenting cell expresses lipid antigen of exogenous origin in association with an MHC class Ib protein complex on its cell surface. Class Ib here refers to non-classical class I molecules, such as those of the CD1 family.",
+  "namespace": "biological_process",
+  "label": "antigen processing and presentation, exogenous lipid antigen via MHC class Ib"
+}

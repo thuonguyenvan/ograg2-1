@@ -1,0 +1,30 @@
+{
+  "id": "GO:0046823",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046823",
+  "relationships": {
+    "is_a": [
+      "GO:0032387",
+      "GO:0046822"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of nucleocytoplasmic transport",
+      "down-regulation of nucleocytoplasmic transport",
+      "downregulation of nucleocytoplasmic transport"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of nucleocytoplasmic transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the directed movement of substances between the cytoplasm and the nucleus.",
+  "namespace": "biological_process",
+  "label": "negative regulation of nucleocytoplasmic transport"
+}

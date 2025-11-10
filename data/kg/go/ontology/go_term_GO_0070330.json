@@ -1,0 +1,26 @@
+{
+  "id": "GO:0070330",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070330",
+  "relationships": {
+    "is_a": [
+      "GO:0016712"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "estrogen synthetase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.14.14",
+      "1.14.14.14"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3 O2 + 3 reduced [NADPH--hemoprotein reductase] + testosterone = 17beta-estradiol + formate + 4 H+ + 4 H2O + 3 oxidized [NADPH--hemoprotein reductase]. Also converts androst-4-ene-3,17-dione into estrone.",
+  "namespace": "molecular_function",
+  "label": "aromatase activity"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0046330",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046330",
+  "relationships": {
+    "is_a": [
+      "GO:0043410",
+      "GO:0046328"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of JNK cascade",
+      "up-regulation of JNK cascade",
+      "upregulation of JNK cascade"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of JNK cascade",
+      "stimulation of JNK cascade"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of signal transduction mediated by the JNK cascade.",
+  "namespace": "biological_process",
+  "label": "positive regulation of JNK cascade"
+}

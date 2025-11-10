@@ -1,0 +1,46 @@
+{
+  "id": "GO:0008825",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008825",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "cyclopropane synthetase activity",
+      "unsaturated-phospholipid methyltransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "CFA synthase activity",
+      "S-adenosyl-L-methionine:unsaturated-phospholipid methyltransferase (cyclizing)",
+      "cyclopropane fatty acid synthase activity",
+      "cyclopropane fatty acid synthetase activity",
+      "cyclopropane synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.79",
+      "2.1.1.79",
+      "2.1.1.79",
+      "2.1.1.79",
+      "2.1.1.79",
+      "2.1.1.79",
+      "2.1.1.79",
+      "2.1.1.79",
+      "2.1.1.79"
+    ],
+    "MetaCyc": [
+      "2.1.1.79-RXN"
+    ],
+    "RHEA": [
+      "11988"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + phospholipid olefinic fatty acid = S-adenosyl-L-homocysteine + phospholipid cyclopropane fatty acid.",
+  "namespace": "molecular_function",
+  "label": "cyclopropane-fatty-acyl-phospholipid synthase activity"
+}

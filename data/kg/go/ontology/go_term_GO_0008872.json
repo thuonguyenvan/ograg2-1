@@ -1,0 +1,37 @@
+{
+  "id": "GO:0008872",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008872",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-glucarate dehydratase activity",
+      "D-glucarate hydro-lyase (5-dehydro-4-deoxy-D-glucarate-forming)",
+      "D-glucarate hydro-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.40",
+      "4.2.1.40",
+      "4.2.1.40",
+      "4.2.1.40",
+      "4.2.1.40"
+    ],
+    "MetaCyc": [
+      "GLUCARDEHYDRA-RXN"
+    ],
+    "RHEA": [
+      "14573"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-glucarate = 5-dehydro-4-deoxy-D-glucarate + H2O.",
+  "namespace": "molecular_function",
+  "label": "glucarate dehydratase activity"
+}

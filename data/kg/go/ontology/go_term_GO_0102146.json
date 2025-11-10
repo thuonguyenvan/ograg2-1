@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102146",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102146",
+  "relationships": {
+    "is_a": [
+      "GO:0008168"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-11582"
+    ],
+    "RHEA": [
+      "27493",
+      "27493"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: tricetin + S-adenosyl-L-methionine = H+ + 3&apos;-O-methyltricetin + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "tricetin O-methytransferase activity"
+}

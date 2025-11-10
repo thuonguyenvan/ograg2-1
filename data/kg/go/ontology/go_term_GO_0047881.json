@@ -1,0 +1,44 @@
+{
+  "id": "GO:0047881",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047881",
+  "relationships": {
+    "is_a": [
+      "GO:0033764"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "estradiol 17a-dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "17alpha-estradiol dehydrogenase activity",
+      "17alpha-hydroxy steroid dehydrogenase activity",
+      "17alpha-hydroxy steroid oxidoreductase activity",
+      "17alpha-hydroxysteroid oxidoreductase activity",
+      "17alpha-hydroxysteroid:NAD(P)+ 17-oxidoreductase activity",
+      "estradiol 17alpha-dehydrogenase activity",
+      "estradiol 17alpha-oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.148",
+      "1.1.1.148",
+      "1.1.1.148",
+      "1.1.1.148",
+      "1.1.1.148",
+      "1.1.1.148",
+      "1.1.1.148",
+      "1.1.1.148",
+      "1.1.1.148"
+    ],
+    "MetaCyc": [
+      "ESTRADIOL-17-ALPHA-DEHYDROGENASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: estradiol-17-alpha + NAD(P)+ = estrone + NAD(P)H + H+.",
+  "namespace": "molecular_function",
+  "label": "estradiol 17-alpha-dehydrogenase [NAD(P)+] activity"
+}

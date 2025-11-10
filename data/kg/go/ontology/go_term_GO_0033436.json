@@ -1,0 +1,33 @@
+{
+  "id": "GO:0033436",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033436",
+  "relationships": {
+    "is_a": [
+      "GO:0030533"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATG codon-amino acid adaptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "initiator methionine tRNA",
+      "methionine tRNA"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "hjd",
+      "mah",
+      "hjd",
+      "mah"
+    ]
+  },
+  "definition": "A triplet codon-amino acid adaptor activity that recognizes an AUG codon.",
+  "namespace": "molecular_function",
+  "label": "AUG codon-amino acid adaptor activity"
+}

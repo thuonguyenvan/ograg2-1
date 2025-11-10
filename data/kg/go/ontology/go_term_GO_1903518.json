@@ -1,0 +1,42 @@
+{
+  "id": "GO:1903518",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903518",
+  "relationships": {
+    "is_a": [
+      "GO:0045739",
+      "GO:1903516"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of single strand break repair",
+      "up-regulation of single strand break repair",
+      "upregulation of single strand break repair"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of single strand break repair"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "17395247"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of single strand break repair.",
+  "namespace": "biological_process",
+  "label": "positive regulation of single strand break repair"
+}

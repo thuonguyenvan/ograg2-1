@@ -1,0 +1,33 @@
+{
+  "id": "GO:0044799",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044799",
+  "relationships": {
+    "is_a": [
+      "GO:0009325",
+      "GO:0098797",
+      "GO:0098803"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytoplasmic membrane-bound quinol-nitrate oxidoreductase",
+      "nitrate reductase A"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "11289299",
+      "12910261",
+      "17964535"
+    ]
+  },
+  "definition": "A heterotrimeric protein complex with iron-sulfur and molybdenum cofactors that functions as a terminal reductase in electron transport pathways that operate during anaerobic nitrate respiration. In E. coli electrons are passed from the FdnGHI complex to the NarGHI complex via menoquinone and menaquinol. Within NarGHI, electrons are passed from the two heme molecules in the NarI subunit down a Fe-S cluster chain in the NarH and NarG subunits to the Molybdenum cofactor, Mo-bisMGD, in the NarG subunit.",
+  "namespace": "cellular_component",
+  "label": "NarGHI complex"
+}

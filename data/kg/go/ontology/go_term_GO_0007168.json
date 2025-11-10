@@ -1,0 +1,32 @@
+{
+  "id": "GO:0007168",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007168",
+  "relationships": {
+    "is_a": [
+      "GO:0007167"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "receptor guanylate cyclase signaling pathway",
+      "receptor guanylyl cyclase signalling pathway"
+    ],
+    "broad": [
+      "cGMP signaling pathway"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "signaling"
+    ],
+    "PMID": [
+      "16815030"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by an extracellular ligand binding to a receptor on the surface of the target cell where the receptor possesses guanylyl cyclase activity, and converts GTP to cGMP upon activation, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "receptor guanylyl cyclase signaling pathway"
+}

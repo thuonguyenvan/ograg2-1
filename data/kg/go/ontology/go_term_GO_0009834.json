@@ -1,0 +1,32 @@
+{
+  "id": "GO:0009834",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009834",
+  "relationships": {
+    "is_a": [
+      "GO:0009832"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellulose and pectin-containing secondary cell wall biogenesis",
+      "secondary cell wall biogenesis"
+    ],
+    "broad": [
+      "secondary cell wall anabolism",
+      "secondary cell wall biosynthetic process",
+      "secondary cell wall formation",
+      "secondary cell wall synthesis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "lr",
+      "mtg_sensu"
+    ]
+  },
+  "definition": "A cellular process that results in the biosynthesis of constituent macromolecules, assembly, and arrangement of constituent parts of inextensible cellulose- and pectin-containing cell walls that are formed between the plasma membrane and primary cell wall after cell expansion is complete. An example of this is found in Arabidopsis thaliana.",
+  "namespace": "biological_process",
+  "label": "plant-type secondary cell wall biogenesis"
+}

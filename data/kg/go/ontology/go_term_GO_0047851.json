@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047851",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047851",
+  "relationships": {
+    "is_a": [
+      "GO:0016878"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "carboxylyl-CoA synthetase activity",
+      "omega-dicarboxylate:CoA ligase (AMP-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.2.1.23",
+      "6.2.1.23",
+      "6.2.1.23",
+      "6.2.1.23"
+    ],
+    "MetaCyc": [
+      "DICARBOXYLATE--COA-LIGASE-RXN",
+      "DICARBOXYLATE--COA-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "14289"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + an omega-dicarboxylic acid + CoASH= AMP + diphosphate + an omega-carboxyacyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "dicarboxylate-CoA ligase activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0098719",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098719",
+  "relationships": {
+    "is_a": [
+      "GO:0035725",
+      "GO:0098659"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sodium import",
+      "sodium ion import into cell"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "sodium ion import"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dos"
+    ]
+  },
+  "definition": "The directed movement of sodium ions from outside of a cell, across the plasma membrane and into the cytosol.",
+  "namespace": "biological_process",
+  "label": "sodium ion import across plasma membrane"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:1902601",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902601",
+  "relationships": {
+    "is_a": [
+      "GO:0015673",
+      "GO:0098655"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "silver transmembrane transport"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "pr"
+    ],
+    "GO_REF": [
+      "0000069"
+    ]
+  },
+  "definition": "The directed movement of silver (Ag+) ions across a membrane.",
+  "namespace": "biological_process",
+  "label": "silver ion transmembrane transport"
+}

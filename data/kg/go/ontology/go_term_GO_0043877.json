@@ -1,0 +1,27 @@
+{
+  "id": "GO:0043877",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043877",
+  "relationships": {
+    "is_a": [
+      "GO:0016861"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "galactosamine-6-phosphate deaminase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "AgaI"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "10931310"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-galactosamine 6-phosphate + H2O = D-tagatose 6-phosphate + NH3.",
+  "namespace": "molecular_function",
+  "label": "galactosamine-6-phosphate isomerase activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0005847",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005847",
+  "relationships": {
+    "is_a": [
+      "GO:0005849"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "CPF complex",
+      "CPSF complex"
+    ],
+    "related": [
+      "CFII complex",
+      "cleavage and polyadenylylation specificity factor activity"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "14749727"
+    ]
+  },
+  "definition": "A multisubunit complex that binds to the canonical AAUAAA hexamer and to U-rich upstream sequence elements on the pre-mRNA, thereby stimulating the otherwise weakly active and nonspecific polymerase to elongate efficiently RNAs containing a poly(A) signal.",
+  "namespace": "cellular_component",
+  "label": "mRNA cleavage and polyadenylation specificity factor complex"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GO:1902263",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902263",
+  "relationships": {
+    "is_a": [
+      "GO:0060561"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "apoptotic cell death involved in embryonic digit morphogenesis",
+      "apoptotic programmed cell death involved in embryonic digit morphogenesis",
+      "programmed cell death by apoptosis involved in embryonic digit morphogenesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "apoptosis involved in embryonic digit morphogenesis",
+      "apoptotic program involved in embryonic digit morphogenesis",
+      "type I programmed cell death involved in embryonic digit morphogenesis"
+    ],
+    "related": [
+      "signaling (initiator) caspase activity involved in embryonic digit morphogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dph",
+      "mtg_apoptosis",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "15967824"
+    ]
+  },
+  "definition": "Any apoptotic process that is involved in embryonic digit morphogenesis.",
+  "namespace": "biological_process",
+  "label": "apoptotic process involved in embryonic digit morphogenesis"
+}

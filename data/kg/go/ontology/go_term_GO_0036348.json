@@ -1,0 +1,36 @@
+{
+  "id": "GO:0036348",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036348",
+  "relationships": {
+    "is_a": [
+      "GO:0016854"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.1.99.5",
+      "5.1.99.5"
+    ],
+    "KEGG_REACTION": [
+      "R09704"
+    ],
+    "MetaCyc": [
+      "RXN-9781"
+    ],
+    "RHEA": [
+      "46624"
+    ],
+    "InterPro": [
+      "IPR015942"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-5-monosubstituted hydantoin = L-5-monosubstituted hydantoin.",
+  "namespace": "molecular_function",
+  "label": "hydantoin racemase activity"
+}

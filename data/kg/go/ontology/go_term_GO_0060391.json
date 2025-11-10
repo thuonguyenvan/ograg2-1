@@ -1,0 +1,31 @@
+{
+  "id": "GO:0060391",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060391",
+  "relationships": {
+    "is_a": [
+      "GO:0060390",
+      "GO:0090100",
+      "GO:1902533"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "positive regulation of SMAD protein import into nucleus",
+      "positive regulation of SMAD protein nuclear translocation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "dph",
+      "tb",
+      "mah"
+    ]
+  },
+  "definition": "Any process that increases the rate, frequency or extent of SMAD protein signal transduction.",
+  "namespace": "biological_process",
+  "label": "positive regulation of SMAD protein signal transduction"
+}

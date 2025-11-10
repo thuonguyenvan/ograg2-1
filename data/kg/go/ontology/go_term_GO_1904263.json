@@ -1,0 +1,50 @@
+{
+  "id": "GO:1904263",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904263",
+  "relationships": {
+    "is_a": [
+      "GO:0032008",
+      "GO:1903432"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of TORC1 signal transduction",
+      "up regulation of TORC1 signal transduction",
+      "up regulation of TORC1 signaling",
+      "up-regulation of TORC1 signal transduction",
+      "up-regulation of TORC1 signaling",
+      "upregulation of TORC1 signal transduction",
+      "upregulation of TORC1 signaling"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of TORC1 signal transduction",
+      "activation of TORC1 signaling"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "25366275"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of TORC1 signaling.",
+  "namespace": "biological_process",
+  "label": "positive regulation of TORC1 signaling"
+}

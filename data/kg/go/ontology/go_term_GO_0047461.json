@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047461",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047461",
+  "relationships": {
+    "is_a": [
+      "GO:0010334"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-trans,6-trans-farnesyl-diphosphate diphosphate-lyase (cyclizing, (+)-delta-cadinene-forming)",
+      "D-cadinene synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.13",
+      "4.2.3.13",
+      "4.2.3.13",
+      "4.2.3.13"
+    ],
+    "MetaCyc": [
+      "4.6.1.11-RXN",
+      "4.6.1.11-RXN"
+    ],
+    "RHEA": [
+      "19525"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-trans,6-trans-farnesyl diphosphate = diphosphate + (+)-delta-cadinene.",
+  "namespace": "molecular_function",
+  "label": "(+)-delta-cadinene synthase activity"
+}

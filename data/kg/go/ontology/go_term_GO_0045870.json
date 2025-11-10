@@ -1,0 +1,35 @@
+{
+  "id": "GO:0045870",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045870",
+  "relationships": {
+    "is_a": [
+      "GO:0045070",
+      "GO:0045091",
+      "GO:1902680"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of retroviral genome replication",
+      "up regulation of retroviral genome replication",
+      "up-regulation of retroviral genome replication",
+      "upregulation of retroviral genome replication"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of retroviral genome replication",
+      "stimulation of retroviral genome replication"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "bf",
+      "jl"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of retroviral genome replication.",
+  "namespace": "biological_process",
+  "label": "positive regulation of single stranded viral RNA replication via double stranded DNA intermediate"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "GO:0047189",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047189",
+  "relationships": {
+    "is_a": [
+      "GO:0016747"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ODAP synthase activity",
+      "oxalyl-CoA:L-2,3-diaminopropanoate 3-N-oxalyltransferase activity",
+      "oxalyl-CoA:L-2,3-diaminopropanoate N3-oxalyltransferase activity",
+      "oxalyl-CoA:L-alpha,beta-diaminopropionic acid oxalyltransferase activity",
+      "oxalyldiaminopropionate synthase activity",
+      "oxalyldiaminopropionic synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.58",
+      "2.3.1.58",
+      "2.3.1.58",
+      "2.3.1.58",
+      "2.3.1.58",
+      "2.3.1.58",
+      "2.3.1.58"
+    ],
+    "KEGG_REACTION": [
+      "R04211"
+    ],
+    "MetaCyc": [
+      "2.3.1.58-RXN"
+    ],
+    "RHEA": [
+      "13465",
+      "13465"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-amino-L-alanine + oxalyl-CoA = N(3)-oxalyl-L-2,3-diaminopropanoate + CoA.",
+  "namespace": "molecular_function",
+  "label": "2,3-diaminopropionate N-oxalyltransferase activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0008081",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008081",
+  "relationships": {
+    "is_a": [
+      "GO:0042578"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "phosphodiesterase"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.4.-",
+      "3.1.4.-"
+    ],
+    "Reactome": [
+      "R-HSA-5693578"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of a phosphodiester to give a phosphomonoester and a free hydroxyl group.",
+  "namespace": "molecular_function",
+  "label": "TDP1 and TDP2 process unligatable DSB ends"
+}

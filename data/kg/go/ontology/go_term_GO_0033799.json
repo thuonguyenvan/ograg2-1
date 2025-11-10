@@ -1,0 +1,36 @@
+{
+  "id": "GO:0033799",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033799",
+  "relationships": {
+    "is_a": [
+      "GO:0008171",
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CrCOMT2",
+      "S-adenosyl-L-methionine:myricetin O-methyltransferase activity",
+      "flavonoid 3&apos;,5&apos;-O-dimethyltransferase activity",
+      "myricetin 3-O-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R06815"
+    ],
+    "MetaCyc": [
+      "RXN-8451"
+    ],
+    "RHEA": [
+      "25629",
+      "25629"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + myricetin = S-adenosyl-L-homocysteine + laricitrin.",
+  "namespace": "molecular_function",
+  "label": "myricetin 3&apos;-O-methyltransferase activity"
+}

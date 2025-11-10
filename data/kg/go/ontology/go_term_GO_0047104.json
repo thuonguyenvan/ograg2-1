@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047104",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047104",
+  "relationships": {
+    "is_a": [
+      "GO:0050061"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "fatty acyl-CoA reductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "hexadecanal:NAD+ oxidoreductase (CoA-acylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.42",
+      "1.2.1.42",
+      "1.2.1.42",
+      "1.2.1.42"
+    ],
+    "KEGG_REACTION": [
+      "R01277"
+    ],
+    "MetaCyc": [
+      "1.2.1.42-RXN"
+    ],
+    "RHEA": [
+      "19705",
+      "19705"
+    ],
+    "UM-BBD_reactionID": [
+      "r1374"
+    ]
+  },
+  "definition": "Catalysis of the reaction: CoA + NAD+ + palmitaldehyde = H+ + NADH + palmitoyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "hexadecanal dehydrogenase (acylating) activity"
+}

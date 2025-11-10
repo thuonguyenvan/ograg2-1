@@ -1,0 +1,33 @@
+{
+  "id": "GO:0016117",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016117",
+  "relationships": {
+    "is_a": [
+      "GO:0016109",
+      "GO:0016116",
+      "GO:0046148"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "carotenoid anabolism",
+      "carotenoid biosynthesis",
+      "carotenoid formation",
+      "carotenoid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "CAROTENOID-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of carotenoids, tetraterpenoid compounds in which two units of 4 isoprenoid residues joined head-to-tail are themselves joined tail-to-tail.",
+  "namespace": "biological_process",
+  "label": "carotenoid biosynthetic process"
+}

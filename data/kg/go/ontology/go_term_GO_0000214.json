@@ -1,0 +1,33 @@
+{
+  "id": "GO:0000214",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000214",
+  "relationships": {
+    "is_a": [
+      "GO:0140513",
+      "GO:1902555"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "SEN complex",
+      "tRNA splicing endonuclease complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "22391451",
+      "22391451",
+      "22391451"
+    ],
+    "GOC": [
+      "se",
+      "se"
+    ]
+  },
+  "definition": "A protein complex that catalyzes the endonucleolytic cleavage of pre-tRNA, producing 5&apos;-hydroxyl and 2&apos;,3&apos;-cyclic phosphate termini, and specifically removing the intron.",
+  "namespace": "cellular_component",
+  "label": "tRNA-intron endonuclease complex"
+}

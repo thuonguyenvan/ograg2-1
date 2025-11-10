@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032340",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032340",
+  "relationships": {
+    "is_a": [
+      "GO:0032338",
+      "GO:0046887"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of inhibin secretion",
+      "up-regulation of inhibin secretion",
+      "upregulation of inhibin secretion"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of inhibin secretion",
+      "stimulation of inhibin secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the regulated release of inhibin from a cell.",
+  "namespace": "biological_process",
+  "label": "positive regulation of inhibin secretion"
+}

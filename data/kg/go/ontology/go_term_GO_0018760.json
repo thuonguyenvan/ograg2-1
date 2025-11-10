@@ -1,0 +1,40 @@
+{
+  "id": "GO:0018760",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018760",
+  "relationships": {
+    "is_a": [
+      "GO:0016815"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "thiocyanate aminohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.5.8",
+      "3.5.5.8",
+      "3.5.5.8"
+    ],
+    "KEGG_REACTION": [
+      "R05780"
+    ],
+    "MetaCyc": [
+      "RXN-1761"
+    ],
+    "RHEA": [
+      "21464",
+      "21464"
+    ],
+    "UM-BBD_reactionID": [
+      "r0598"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + 2 H+ + thiocyanate = carbonyl sulfide + NH4.",
+  "namespace": "molecular_function",
+  "label": "thiocyanate hydrolase activity"
+}

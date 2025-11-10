@@ -1,0 +1,42 @@
+{
+  "id": "GO:0047973",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047973",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016775"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "guanidoacetate kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:guanidinoacetate N-phosphotransferase activity",
+      "glycocyamine kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.3.1",
+      "2.7.3.1",
+      "2.7.3.1",
+      "2.7.3.1"
+    ],
+    "KEGG_REACTION": [
+      "R02575"
+    ],
+    "MetaCyc": [
+      "GUANIDOACETATE-KINASE-RXN"
+    ],
+    "RHEA": [
+      "14145",
+      "14145"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + guanidinoacetate = ADP + 2 H+ + phosphoguanidinoacetate.",
+  "namespace": "molecular_function",
+  "label": "guanidinoacetate kinase activity"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:0047896",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047896",
+  "relationships": {
+    "is_a": [
+      "GO:0016744"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-xylulose-5-phosphate:formaldehyde glycolaldehydetransferase activity",
+      "DHAS activity",
+      "dihydroxyacetone synthase activity",
+      "glycerone synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.2.1.3",
+      "2.2.1.3",
+      "2.2.1.3",
+      "2.2.1.3",
+      "2.2.1.3",
+      "2.2.1.3"
+    ],
+    "MetaCyc": [
+      "FORMALDEHYDE-TRANSKETOLASE-RXN",
+      "FORMALDEHYDE-TRANSKETOLASE-RXN"
+    ],
+    "RHEA": [
+      "24264"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-xylulose 5-phosphate + formaldehyde = glyceraldehyde 3-phosphate + glycerone.",
+  "namespace": "molecular_function",
+  "label": "formaldehyde transketolase activity"
+}

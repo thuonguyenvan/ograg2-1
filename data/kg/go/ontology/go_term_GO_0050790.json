@@ -1,0 +1,29 @@
+{
+  "id": "GO:0050790",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050790",
+  "relationships": {
+    "is_a": [
+      "GO:0065009"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of enzyme activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of metalloenzyme activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "ebc",
+      "vw"
+    ]
+  },
+  "definition": "Any process that modulates the activity of an enzyme.",
+  "namespace": "biological_process",
+  "label": "regulation of catalytic activity"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0010331",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010331",
+  "relationships": {
+    "is_a": [
+      "GO:0019840",
+      "GO:0031406",
+      "GO:0042562"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "gibberellic acid receptor",
+      "gibberellin receptor"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "tair_curators"
+    ]
+  },
+  "definition": "Binding to a gibberellin, a plant hormone that regulates aspects of plant growth.",
+  "namespace": "molecular_function",
+  "label": "gibberellin binding"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0005882",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005882",
+  "relationships": {
+    "is_a": [
+      "GO:0099513"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "intermediate filament associated protein",
+      "type I intermediate filament associated protein",
+      "type II intermediate filament associated protein"
+    ]
+  },
+  "cross_references": {
+    "FMA": [
+      "63851"
+    ],
+    "NIF_Subcellular": [
+      "sao952483289"
+    ],
+    "Wikipedia": [
+      "Intermediate_filament"
+    ],
+    "ISBN": [
+      "0198506732"
+    ],
+    "PMID": [
+      "17493611",
+      "17551517",
+      "7979242"
+    ]
+  },
+  "definition": "A cytoskeletal structure that forms a distinct elongated structure, characteristically 10 nm in diameter, that occurs in the cytoplasm of eukaryotic cells. Intermediate filaments form a fibrous system, composed of chemically heterogeneous subunits and involved in mechanically integrating the various components of the cytoplasmic space. Intermediate filaments may be divided into five chemically distinct classes: Type I, acidic keratins; Type II, basic keratins; Type III, including desmin, vimentin and others; Type IV, neurofilaments and related filaments; and Type V, lamins.",
+  "namespace": "cellular_component",
+  "label": "intermediate filament"
+}

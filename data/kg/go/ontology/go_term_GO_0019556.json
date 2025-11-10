@@ -1,0 +1,33 @@
+{
+  "id": "GO:0019556",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019556",
+  "relationships": {
+    "is_a": [
+      "GO:0006536",
+      "GO:0006548",
+      "GO:0043605"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histidine breakdown to glutamate and formamide",
+      "histidine degradation to glutamate and formamide"
+    ],
+    "broad": [
+      "histidine catabolic process to glutamate and formamide"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "HISDEG-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of L-histidine into other compounds, including glutamate and formamide.",
+  "namespace": "biological_process",
+  "label": "L-histidine catabolic process to glutamate and formamide"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0006195",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006195",
+  "relationships": {
+    "is_a": [
+      "GO:0006163",
+      "GO:0009166",
+      "GO:0072523"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "purine nucleotide breakdown",
+      "purine nucleotide catabolism",
+      "purine nucleotide degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-74259"
+    ],
+    "GOC": [
+      "go_curators"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a purine nucleotide, a compound consisting of nucleoside (a purine base linked to a deoxyribose or ribose sugar) esterified with a phosphate group at either the 3&apos; or 5&apos;-hydroxyl group of the sugar.",
+  "namespace": "biological_process",
+  "label": "Purine catabolism"
+}

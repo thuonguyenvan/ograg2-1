@@ -1,0 +1,31 @@
+{
+  "id": "GO:0035635",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035635",
+  "relationships": {
+    "is_a": [
+      "GO:0044409"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "bacterial entry into host cell",
+      "invasion of bacteria into host cell"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "21187937"
+    ]
+  },
+  "definition": "The process in which a bacterium enters a host cell. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "entry of bacterium into host cell"
+}

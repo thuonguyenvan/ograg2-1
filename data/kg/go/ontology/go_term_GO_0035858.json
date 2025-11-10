@@ -1,0 +1,30 @@
+{
+  "id": "GO:0035858",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035858",
+  "relationships": {
+    "is_a": [
+      "GO:0001709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "eosinophil cell fate determination"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000771"
+    ],
+    "GOC": [
+      "BHF",
+      "vk",
+      "bf"
+    ]
+  },
+  "definition": "The cell fate determination process in which a cell becomes capable of differentiating autonomously into an eosinophil cell regardless of its environment; upon determination, the cell fate cannot be reversed.",
+  "namespace": "biological_process",
+  "label": "eosinophil fate determination"
+}

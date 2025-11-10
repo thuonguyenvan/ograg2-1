@@ -1,0 +1,41 @@
+{
+  "id": "GO:0008495",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008495",
+  "relationships": {
+    "is_a": [
+      "GO:0004659"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "haem O synthase activity",
+      "heme A:farnesyltransferase activity",
+      "heme O synthase activity",
+      "protohaem IX farnesyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.5.1.141"
+    ],
+    "MetaCyc": [
+      "HEMEOSYN-RXN"
+    ],
+    "RHEA": [
+      "28070",
+      "28070"
+    ],
+    "Reactome": [
+      "R-HSA-2995330"
+    ],
+    "PMID": [
+      "9177788"
+    ]
+  },
+  "definition": "Catalysis of the reaction: protoheme IX + (2E,6E)-farnesyl diphosphate + H2O = heme O + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "COX10 transforms heme to heme O"
+}

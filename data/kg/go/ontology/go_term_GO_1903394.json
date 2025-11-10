@@ -1,0 +1,60 @@
+{
+  "id": "GO:1903394",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903394",
+  "relationships": {
+    "is_a": [
+      "GO:0034501"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein localisation to kinetochore involved in kinetochore assembly"
+    ],
+    "broad": [],
+    "narrow": [
+      "condensin localization to kinetochore involved in centromere and kinetochore complex maturation",
+      "condensin localization to kinetochore involved in centromere/kinetochore complex maturation",
+      "condensin localization to kinetochore involved in chromosome-kinetochore attachment",
+      "condensin localization to kinetochore involved in kinetochore assembly",
+      "protein localisation to kinetochore involved in centromere and kinetochore complex maturation",
+      "protein localisation to kinetochore involved in centromere/kinetochore complex maturation",
+      "protein localisation to kinetochore involved in chromosome-kinetochore attachment",
+      "protein localization to kinetochore involved in centromere and kinetochore complex maturation",
+      "protein localization to kinetochore involved in centromere/kinetochore complex maturation",
+      "protein localization to kinetochore involved in chromosome-kinetochore attachment"
+    ],
+    "related": [
+      "condensin localization to kinetochore involved in kinetochore formation",
+      "protein localisation to kinetochore involved in kinetochore formation",
+      "protein localization to kinetochore involved in kinetochore formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000060"
+    ],
+    "PMID": [
+      "15369671"
+    ]
+  },
+  "definition": "Any protein localization to kinetochore that is involved in kinetochore assembly.",
+  "namespace": "biological_process",
+  "label": "protein localization to kinetochore involved in kinetochore assembly"
+}

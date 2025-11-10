@@ -1,0 +1,36 @@
+{
+  "id": "GO:1990136",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990136",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "linoleate:oxygen 9S-oxidoreductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "9-lipoxygenase activity",
+      "9S-lipoxygenase activity",
+      "linoleate 9-lipoxygenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.58"
+    ],
+    "RHEA": [
+      "30291",
+      "30291"
+    ],
+    "GOC": [
+      "rph"
+    ]
+  },
+  "definition": "Catalysis of the reaction: linoleate + O2 = (9S,10E,12Z)-9-hydroperoxy-10,12-octadecadienoate.",
+  "namespace": "molecular_function",
+  "label": "linoleate 9S-lipoxygenase activity"
+}

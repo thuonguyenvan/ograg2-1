@@ -1,0 +1,37 @@
+{
+  "id": "GO:0038166",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038166",
+  "relationships": {
+    "is_a": [
+      "GO:0007186"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "angiotensin II-mediated signaling pathway",
+      "angiotensin receptor signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "angiotensin-mediated signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mtg_cardiac_conduct_nov11",
+      "nhn",
+      "signaling",
+      "bf",
+      "bf",
+      "mtg_cardiac_conduct_nov11"
+    ],
+    "PMID": [
+      "10977869"
+    ]
+  },
+  "definition": "A G protein-coupled receptor signaling pathway initiated by angiotensin II binding to its receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "angiotensin-activated signaling pathway"
+}

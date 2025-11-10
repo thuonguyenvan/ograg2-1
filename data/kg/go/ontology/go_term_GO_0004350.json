@@ -1,0 +1,52 @@
+{
+  "id": "GO:0004350",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004350",
+  "relationships": {
+    "is_a": [
+      "GO:0016620"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glutamate-phosphate reductase activity",
+      "glutamylphosphate reductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphorylating)",
+      "beta-glutamylphosphate reductase activity",
+      "gamma-glutamyl phosphate reductase activity",
+      "gamma-glutamylphosphate reductase activity",
+      "glutamate semialdehyde dehydrogenase activity",
+      "glutamate-gamma-semialdehyde dehydrogenase activity",
+      "glutamyl-gamma-semialdehyde dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.41",
+      "1.2.1.41",
+      "1.2.1.41",
+      "1.2.1.41",
+      "1.2.1.41",
+      "1.2.1.41",
+      "1.2.1.41",
+      "1.2.1.41",
+      "1.2.1.41"
+    ],
+    "KEGG_REACTION": [
+      "R03313"
+    ],
+    "MetaCyc": [
+      "GLUTSEMIALDEHYDROG-RXN"
+    ],
+    "RHEA": [
+      "19541",
+      "19541"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-glutamate 5-semialdehyde + NADP+ + phosphate = L-glutamyl 5-phosphate + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "glutamate-5-semialdehyde dehydrogenase activity"
+}

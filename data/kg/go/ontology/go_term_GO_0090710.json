@@ -1,0 +1,33 @@
+{
+  "id": "GO:0090710",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090710",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.99"
+    ],
+    "MetaCyc": [
+      "RXN-10067"
+    ],
+    "RHEA": [
+      "40955",
+      "40955"
+    ],
+    "PMID": [
+      "24375100"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-5-phosphomevalonate + ATP = ADP + CO2 + isopentenyl phosphate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "phosphomevalonate decarboxylase activity"
+}

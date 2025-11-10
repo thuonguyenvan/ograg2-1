@@ -1,0 +1,38 @@
+{
+  "id": "GO:1905345",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905345",
+  "relationships": {
+    "is_a": [
+      "GO:0072657",
+      "GO:0072741",
+      "GO:1990778"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein localisation in cleavage furrow",
+      "protein localisation to cleavage furrow",
+      "protein localization in cleavage furrow"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000087"
+    ],
+    "PMID": [
+      "27082518"
+    ]
+  },
+  "definition": "A process in which a protein is transported to, or maintained in, a location within a cleavage furrow.",
+  "namespace": "biological_process",
+  "label": "protein localization to cleavage furrow"
+}

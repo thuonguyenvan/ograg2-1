@@ -1,0 +1,33 @@
+{
+  "id": "GO:1903445",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903445",
+  "relationships": {
+    "is_a": [
+      "GO:0032594",
+      "GO:0061951",
+      "GO:0072659"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "cilia",
+      "krc"
+    ],
+    "GO_REF": [
+      "0000078"
+    ],
+    "PMID": [
+      "22139371"
+    ]
+  },
+  "definition": "The directed movement of protein from ciliary membrane to plasma membrane.",
+  "namespace": "biological_process",
+  "label": "protein transport from ciliary membrane to plasma membrane"
+}

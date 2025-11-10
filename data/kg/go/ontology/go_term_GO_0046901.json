@@ -1,0 +1,42 @@
+{
+  "id": "GO:0046901",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046901",
+  "relationships": {
+    "is_a": [
+      "GO:0009396",
+      "GO:0046900"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "THF polyglutamylation",
+      "tetrahydrofolate polyglutamylation",
+      "tetrahydrofolyl-[Glu](n) biosynthesis",
+      "tetrahydrofolyl-[Glu](n) biosynthetic process",
+      "tetrahydrofolylpolyglutamate anabolism",
+      "tetrahydrofolylpolyglutamate biosynthesis",
+      "tetrahydrofolylpolyglutamate formation",
+      "tetrahydrofolylpolyglutamate synthesis"
+    ],
+    "broad": [
+      "folic acid-containing compound polyglutamylation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dhl",
+      "bf",
+      "bf"
+    ],
+    "KEGG": [
+      "ec00790",
+      "ec00790"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of tetrahydrofolylpolyglutamate, a folate derivative comprising tetrahydrofolate attached to a chain of glutamate residues.",
+  "namespace": "biological_process",
+  "label": "tetrahydrofolylpolyglutamate biosynthetic process"
+}

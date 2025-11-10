@@ -1,0 +1,39 @@
+{
+  "id": "GO:0042371",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042371",
+  "relationships": {
+    "is_a": [
+      "GO:0042181",
+      "GO:0042362",
+      "GO:0042373"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "vitamin K anabolism",
+      "vitamin K biosynthesis",
+      "vitamin K formation",
+      "vitamin K synthesis"
+    ],
+    "broad": [
+      "naphthoquinone metabolic process",
+      "naphthoquinone metabolism"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "24489112"
+    ],
+    "https": [
+      "//en.wikipedia.org/wiki/Vitamin_K"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of any of the forms of vitamin K, quinone-derived vitamins which are involved in the synthesis of blood-clotting factors in mammals.",
+  "namespace": "biological_process",
+  "label": "vitamin K biosynthetic process"
+}

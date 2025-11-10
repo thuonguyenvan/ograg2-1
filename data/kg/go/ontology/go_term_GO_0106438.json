@@ -1,0 +1,27 @@
+{
+  "id": "GO:0106438",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106438",
+  "relationships": {
+    "is_a": [
+      "GO:0070739"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "60148",
+      "60148"
+    ],
+    "PMID": [
+      "32747782"
+    ]
+  },
+  "definition": "Catalytic reaction :(L-glutamyl)n-L-gamma-glutamyl-L-glutamyl-[protein] + ATP + L-glutamate = (L-glutamyl)n+1-L-gamma-glutamyl-L-glutamyl-[protein] + ADP + H+ + phosphate.",
+  "namespace": "molecular_function",
+  "label": "protein-glutamic acid ligase activity, elongating"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0031567",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031567",
+  "relationships": {
+    "is_a": [
+      "GO:0007093",
+      "GO:1901991"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "mitotic cell cycle cell size control checkpoint",
+      "mitotic cell size control checkpoint",
+      "signal transduction involved in cell size control checkpoint"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle",
+      "mah"
+    ]
+  },
+  "definition": "A signal transduction process that contributes to a cell size control checkpoint during mitosis.",
+  "namespace": "biological_process",
+  "label": "mitotic cell size control checkpoint signaling"
+}

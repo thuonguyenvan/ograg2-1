@@ -1,0 +1,34 @@
+{
+  "id": "GO:0047166",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047166",
+  "relationships": {
+    "is_a": [
+      "GO:0008374"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acyl-CoA:1-alkenylglycerophosphoethanolamine O-acyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.121",
+      "2.3.1.121",
+      "2.3.1.121"
+    ],
+    "MetaCyc": [
+      "2.3.1.121-RXN",
+      "2.3.1.121-RXN"
+    ],
+    "RHEA": [
+      "16245"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 1-alkenylglycerophosphoethanolamine + acyl-CoA = 1-alkenyl-2-acyl-glycerophosphoethanolamine + CoA.",
+  "namespace": "molecular_function",
+  "label": "1-alkenylglycerophosphoethanolamine O-acyltransferase activity"
+}

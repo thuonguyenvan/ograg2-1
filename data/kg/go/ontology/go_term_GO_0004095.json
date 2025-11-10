@@ -1,0 +1,67 @@
+{
+  "id": "GO:0004095",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004095",
+  "relationships": {
+    "is_a": [
+      "GO:0016406",
+      "GO:0016416"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CPT",
+      "CPT I (outer membrane carnitine palmitoyl transferase)",
+      "CPT-A",
+      "CPT-B",
+      "CPTi",
+      "CPTo",
+      "L-carnitine palmitoyltransferase activity",
+      "acylcarnitine transferase activity",
+      "carnitine palmitoyltransferase I",
+      "carnitine palmitoyltransferase II",
+      "carnitine palmitoyltransferase activity",
+      "carnitine palmitoyltransferase-A",
+      "outer malonyl-CoA inhibitable carnitine palmitoyltransferase activity",
+      "palmitoyl-CoA:L-carnitine O-palmitoyltransferase activity",
+      "palmitoylcarnitine transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.21",
+      "2.3.1.21",
+      "2.3.1.21",
+      "2.3.1.21",
+      "2.3.1.21",
+      "2.3.1.21",
+      "2.3.1.21",
+      "2.3.1.21",
+      "2.3.1.21",
+      "2.3.1.21",
+      "2.3.1.21",
+      "2.3.1.21",
+      "2.3.1.21",
+      "2.3.1.21",
+      "2.3.1.21",
+      "2.3.1.21",
+      "2.3.1.21"
+    ],
+    "MetaCyc": [
+      "CARNITINE-O-PALMITOYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "12661"
+    ],
+    "Reactome": [
+      "R-HSA-200406",
+      "R-HSA-200410",
+      "R-HSA-9911362"
+    ]
+  },
+  "definition": "Catalysis of the reaction: palmitoyl-CoA + L-carnitine = CoA + L-palmitoylcarnitine.",
+  "namespace": "molecular_function",
+  "label": "CPT1B transfers PALM to CAR"
+}

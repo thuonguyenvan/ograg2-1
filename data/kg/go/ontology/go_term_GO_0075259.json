@@ -1,0 +1,33 @@
+{
+  "id": "GO:0075259",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075259",
+  "relationships": {
+    "is_a": [
+      "GO:0048608"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "fruiting structure development",
+      "sporophore development"
+    ],
+    "broad": [
+      "sporangium development"
+    ],
+    "narrow": [],
+    "related": [
+      "spore-bearing organ development"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "di",
+      "mah",
+      "mcc",
+      "pamgo_curators"
+    ]
+  },
+  "definition": "The process whose specific outcome is the progression of a spore-bearing structure over time, from its formation to the mature structure. A spore-bearing structure is an anatomical structure that produces new spores.",
+  "namespace": "biological_process",
+  "label": "spore-bearing structure development"
+}

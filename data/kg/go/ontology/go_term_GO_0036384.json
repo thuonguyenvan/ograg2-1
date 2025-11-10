@@ -1,0 +1,34 @@
+{
+  "id": "GO:0036384",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036384",
+  "relationships": {
+    "is_a": [
+      "GO:0017110"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CDPase activity",
+      "cytidine diphosphatase activity",
+      "cytidine-diphosphatase activity"
+    ],
+    "broad": [
+      "CDP diphosphatase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "64880",
+      "64880"
+    ],
+    "GOC": [
+      "al",
+      "al"
+    ]
+  },
+  "definition": "Catalysis of the reaction: CDP + H2O = CMP + phosphate.",
+  "namespace": "molecular_function",
+  "label": "CDP phosphatase activity"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:1903381",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903381",
+  "relationships": {
+    "is_a": [
+      "GO:0043523",
+      "GO:1902235"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of ER stress-induced neuron intrinsic apoptotic signaling pathway",
+      "regulation of neuron intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress"
+    ],
+    "broad": [
+      "regulation of ER stress-induced neuron apoptosis",
+      "regulation of endoplasmic reticulum stress-induced neuron apoptosis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of an endoplasmic reticulum stress-induced neuron intrinsic apoptotic signaling pathway.",
+  "namespace": "biological_process",
+  "label": "regulation of endoplasmic reticulum stress-induced neuron intrinsic apoptotic signaling pathway"
+}

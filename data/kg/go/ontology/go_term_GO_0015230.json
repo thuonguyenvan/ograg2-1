@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015230",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015230",
+  "relationships": {
+    "is_a": [
+      "GO:0015215"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "flavin adenine dinucleotide transmembrane transporter activity",
+      "flavin-adenine dinucleotide transmembrane transporter activity"
+    ],
+    "broad": [
+      "FAD transporter activity"
+    ],
+    "narrow": [],
+    "related": [
+      "FAD carrier activity",
+      "flavin adenine dinucleotide carrier activity",
+      "flavin-adenine dinucleotide carrier activity"
+    ]
+  },
+  "cross_references": {
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Enables the directed movement of flavin-adenine dinucleotide (FAD) from one side of a membrane to the other. FAD forms the coenzyme of the prosthetic group of various flavoprotein oxidoreductase enzymes, in which it functions as an electron acceptor by being reversibly converted to its reduced form.",
+  "namespace": "molecular_function",
+  "label": "FAD transmembrane transporter activity"
+}

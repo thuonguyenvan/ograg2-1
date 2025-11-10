@@ -1,0 +1,39 @@
+{
+  "id": "GO:0033468",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033468",
+  "relationships": {
+    "is_a": [
+      "GO:0009226"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CMP-KDO biosynthesis",
+      "CMP-KDO biosynthetic process",
+      "CMP-keto-3-deoxy-D-manno-octulosonic acid anabolism",
+      "CMP-keto-3-deoxy-D-manno-octulosonic acid biosynthesis",
+      "CMP-keto-3-deoxy-D-manno-octulosonic acid formation",
+      "CMP-keto-3-deoxy-D-manno-octulosonic acid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CMP-ketodeoxyoctanoate biosynthetic process"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-1269",
+      "PWY-1269"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of CMP-keto-3-deoxy-D-manno-octulosonic acid, a substance composed of the acidic sugar 3-deoxy-D-manno-octulosonic acid in glycosidic linkage with cytidine monophosphate.",
+  "namespace": "biological_process",
+  "label": "CMP-keto-3-deoxy-D-manno-octulosonic acid biosynthetic process"
+}

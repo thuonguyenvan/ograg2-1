@@ -1,0 +1,35 @@
+{
+  "id": "GO:0002726",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002726",
+  "relationships": {
+    "is_a": [
+      "GO:0002711",
+      "GO:0002720",
+      "GO:0002724"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of T lymphocyte cytokine production",
+      "positive regulation of T-cell cytokine production",
+      "positive regulation of T-lymphocyte cytokine production",
+      "up regulation of T cell cytokine production",
+      "up-regulation of T cell cytokine production",
+      "upregulation of T cell cytokine production"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of T cell cytokine production",
+      "stimulation of T cell cytokine production"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of T cell cytokine production.",
+  "namespace": "biological_process",
+  "label": "positive regulation of T cell cytokine production"
+}

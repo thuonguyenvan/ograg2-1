@@ -1,0 +1,29 @@
+{
+  "id": "GO:0044602",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044602",
+  "relationships": {
+    "is_a": [
+      "GO:0044601"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein deAMPylation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "21734656",
+      "21734656"
+    ]
+  },
+  "definition": "The removal of an adenylyl group (adenosine 5&apos;-monophosphate; AMP) from a protein amino acid.",
+  "namespace": "biological_process",
+  "label": "protein deadenylylation"
+}

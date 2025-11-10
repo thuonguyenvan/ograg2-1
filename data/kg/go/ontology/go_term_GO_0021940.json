@@ -1,0 +1,40 @@
+{
+  "id": "GO:0021940",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021940",
+  "relationships": {
+    "is_a": [
+      "GO:0021936",
+      "GO:2000179"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of granule cell precursor proliferation",
+      "up-regulation of granule cell precursor proliferation",
+      "upregulation of granule cell precursor proliferation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of granule cell precursor proliferation",
+      "stimulation of granule cell precursor proliferation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "15157725"
+    ]
+  },
+  "definition": "The process that activates or increases the rate or extent of granule cell precursor proliferation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cerebellar granule cell precursor proliferation"
+}

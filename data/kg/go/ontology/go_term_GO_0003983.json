@@ -1,0 +1,62 @@
+{
+  "id": "GO:0003983",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003983",
+  "relationships": {
+    "is_a": [
+      "GO:0051748"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP glucose pyrophosphorylase activity",
+      "UDP-glucose diphosphorylase activity",
+      "UDP-glucose pyrophosphorylase activity",
+      "UDPG phosphorylase activity",
+      "UDPG pyrophosphorylase activity",
+      "UTP-glucose-1-phosphate uridylyltransferase activity",
+      "UTP:alpha-D-glucose-1-phosphate uridylyltransferase activity",
+      "glucose-1-phosphate uridylyltransferase activity",
+      "uridine 5&apos;-diphosphoglucose pyrophosphorylase activity",
+      "uridine diphosphate-D-glucose pyrophosphorylase activity",
+      "uridine diphosphoglucose pyrophosphorylase activity",
+      "uridine-diphosphate glucose pyrophosphorylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.9",
+      "2.7.7.9",
+      "2.7.7.9",
+      "2.7.7.9",
+      "2.7.7.9",
+      "2.7.7.9",
+      "2.7.7.9",
+      "2.7.7.9",
+      "2.7.7.9",
+      "2.7.7.9",
+      "2.7.7.9",
+      "2.7.7.9",
+      "2.7.7.9",
+      "2.7.7.9"
+    ],
+    "KEGG_REACTION": [
+      "R00289"
+    ],
+    "MetaCyc": [
+      "GLUC1PURIDYLTRANS-RXN"
+    ],
+    "RHEA": [
+      "19889",
+      "19889"
+    ],
+    "Reactome": [
+      "R-HSA-70286"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-D-glucose 1-phosphate + UTP = diphosphate + UDP-D-glucose.",
+  "namespace": "molecular_function",
+  "label": "UTP + D-glucose 1-phosphate =&gt; pyrophosphate + UDP-glucose"
+}

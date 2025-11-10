@@ -1,0 +1,31 @@
+{
+  "id": "GO:0070718",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070718",
+  "relationships": {
+    "is_a": [
+      "GO:0098797"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "PDGFRA-SHP-2 complex, PDGF stimulated"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "8943348"
+    ],
+    "CORUM": [
+      "3183"
+    ]
+  },
+  "definition": "A protein complex that contains the platelet-derived growth factor alpha receptor (alphaPDGFR; PDGFRA) and the adaptor protein SHP-2, and is involved signaling via the PDGFR signaling pathway.",
+  "namespace": "cellular_component",
+  "label": "alphaPDGFR-SHP-2 complex"
+}

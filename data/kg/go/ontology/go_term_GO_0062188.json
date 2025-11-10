@@ -1,0 +1,27 @@
+{
+  "id": "GO:0062188",
+  "uri": "http://purl.obolibrary.org/obo/GO_0062188",
+  "relationships": {
+    "is_a": [
+      "GO:0062186"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "53144",
+      "53144"
+    ],
+    "PMID": [
+      "21289075"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-ethanolamine + O2 + reduced [NADPH--hemoprotein reductase] = H+ + H2O + N-(11,12-epoxy-5Z,8Z,14Z-eicosatrienoyl)-ethanolamine + oxidized [NADPH--hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "anandamide 11,12 epoxidase activity"
+}

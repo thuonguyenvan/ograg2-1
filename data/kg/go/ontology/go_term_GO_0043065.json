@@ -1,0 +1,39 @@
+{
+  "id": "GO:0043065",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043065",
+  "relationships": {
+    "is_a": [
+      "GO:0042981",
+      "GO:0043068"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of apoptosis",
+      "up-regulation of apoptosis",
+      "upregulation of apoptosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of apoptosis",
+      "positive regulation of apoptosis",
+      "stimulation of apoptosis"
+    ],
+    "related": [
+      "pro-apoptosis"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-193648",
+      "R-HSA-205043"
+    ],
+    "GOC": [
+      "jl",
+      "mtg_apoptosis"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of cell death by apoptotic process.",
+  "namespace": "biological_process",
+  "label": "NRIF signals cell death from the nucleus"
+}

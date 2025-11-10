@@ -1,0 +1,37 @@
+{
+  "id": "GO:0036483",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036483",
+  "relationships": {
+    "is_a": [
+      "GO:0070059"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ER stress-induced neuron intrinsic apoptotic signaling pathway",
+      "endoplasmic reticulum stress-induced neuron intrinsic apoptotic signaling pathway"
+    ],
+    "broad": [
+      "ER stress-induced neuron apoptosis",
+      "endoplasmic reticulum stress-induced neuron apoptosis"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf",
+      "bf",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "21113145"
+    ]
+  },
+  "definition": "The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a neuron. The pathway is induced in response to a stimulus indicating endoplasmic reticulum (ER) stress, and ends when the execution phase of apoptosis is triggered. ER stress usually results from the accumulation of unfolded or misfolded proteins in the ER lumen.",
+  "namespace": "biological_process",
+  "label": "neuron intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0004632",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004632",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphopantothenate-cysteine ligase activity",
+      "phosphopantothenoylcysteine synthetase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-4&apos;-phosphopantothenate:L-cysteine ligase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.5",
+      "6.3.2.5",
+      "6.3.2.5"
+    ],
+    "MetaCyc": [
+      "P-PANTOCYSLIG-RXN"
+    ],
+    "RHEA": [
+      "19397"
+    ],
+    "Reactome": [
+      "R-HSA-196753"
+    ]
+  },
+  "definition": "Catalysis of the reaction: CTP + (R)-4&apos;-phosphopantothenate + L-cysteine = CMP + diphosphate + (R)-4&apos;-phosphopantothenoyl-L-cysteine. Cysteine can be replaced by some of its derivatives.",
+  "namespace": "molecular_function",
+  "label": "2xPPCS ligates PPanK with Cys"
+}

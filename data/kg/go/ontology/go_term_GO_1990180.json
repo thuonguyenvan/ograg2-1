@@ -1,0 +1,36 @@
+{
+  "id": "GO:1990180",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990180",
+  "relationships": {
+    "is_a": [
+      "GO:0000965",
+      "GO:0042780",
+      "GO:0090646"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA 3&apos; processing in mitochondria",
+      "tRNA 3&apos; processing in mitochondrion",
+      "tRNA 3&apos;-end processing in mitochondria"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mah",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "23928301"
+    ]
+  },
+  "definition": "The process in which the 3&apos; end of a pre-tRNA molecule is converted to that of a mature tRNA in the mitochondrion.",
+  "namespace": "biological_process",
+  "label": "mitochondrial tRNA 3&apos;-end processing"
+}

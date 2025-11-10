@@ -1,0 +1,46 @@
+{
+  "id": "GO:0017174",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017174",
+  "relationships": {
+    "is_a": [
+      "GO:0008170",
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GNMT",
+      "S-adenosyl-L-methionine:glycine N-methyltransferase activity",
+      "S-adenosyl-L-methionine:glycine methyltransferase activity",
+      "glycine methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.20",
+      "2.1.1.20",
+      "2.1.1.20",
+      "2.1.1.20",
+      "2.1.1.20",
+      "2.1.1.20"
+    ],
+    "KEGG_REACTION": [
+      "R00367"
+    ],
+    "MetaCyc": [
+      "GLYCINE-N-METHYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "19937"
+    ],
+    "Reactome": [
+      "R-HSA-6798317"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + glycine = S-adenosyl-L-homocysteine + sarcosine.",
+  "namespace": "molecular_function",
+  "label": "GNMT tetramer transfers methyl group from AdoMet to Gly to form AdoHyc and SARC"
+}

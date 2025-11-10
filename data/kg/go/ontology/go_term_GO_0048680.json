@@ -1,0 +1,36 @@
+{
+  "id": "GO:0048680",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048680",
+  "relationships": {
+    "is_a": [
+      "GO:0032103",
+      "GO:0048679",
+      "GO:0070572",
+      "GO:1903036"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of axon regeneration",
+      "up-regulation of axon regeneration",
+      "upregulation of axon regeneration"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of axon regeneration",
+      "stimulation of axon regeneration"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dgh",
+      "dph",
+      "jid",
+      "lm"
+    ]
+  },
+  "definition": "Any process that activates, maintains or increases the rate of axon regeneration.",
+  "namespace": "biological_process",
+  "label": "positive regulation of axon regeneration"
+}

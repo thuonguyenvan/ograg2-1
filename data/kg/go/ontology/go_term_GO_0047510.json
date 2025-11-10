@@ -1,0 +1,52 @@
+{
+  "id": "GO:0047510",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047510",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(+)-citramalate hydro-lyase activity",
+      "(+)-citramalic hydro-lyase activity",
+      "(S)-2-methylmalate hydro-lyase (2-methylfumarate-forming)",
+      "(S)-2-methylmalate hydro-lyase activity",
+      "L-citramalate hydrolase activity",
+      "citramalate dehydratase activity",
+      "mesaconase activity",
+      "mesaconate hydratase activity",
+      "mesaconate mesaconase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.34",
+      "4.2.1.34",
+      "4.2.1.34",
+      "4.2.1.34",
+      "4.2.1.34",
+      "4.2.1.34",
+      "4.2.1.34",
+      "4.2.1.34",
+      "4.2.1.34",
+      "4.2.1.34"
+    ],
+    "KEGG_REACTION": [
+      "R03693"
+    ],
+    "MetaCyc": [
+      "S-2-METHYLMALATE-DEHYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "13529",
+      "13529"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-citramalate = H2O + mesaconate.",
+  "namespace": "molecular_function",
+  "label": "(S)-2-methylmalate dehydratase activity"
+}

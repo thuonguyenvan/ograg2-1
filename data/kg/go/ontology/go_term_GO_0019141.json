@@ -1,0 +1,36 @@
+{
+  "id": "GO:0019141",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019141",
+  "relationships": {
+    "is_a": [
+      "GO:0036441"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-dehydropantoyl-lactone reductase (B-specific) activity"
+    ],
+    "broad": [
+      "2-ketopantoyl lactone reductase activity",
+      "2-oxopantoyl lactone reductase",
+      "ketopantoyl lactone reductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "(R)-pantolactone:NADP+ oxidoreductase (B-specific)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.214",
+      "1.1.1.214",
+      "1.1.1.214",
+      "1.1.1.214",
+      "1.1.1.214",
+      "1.1.1.214"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-pantolactone + NADP+ = 2-dehydropantolactone + NADPH + H+. The reaction is B-specific (i.e. the pro-S hydrogen is transferred from the 4-position of reduced nicotinamide cofactor) with respect to NADP+.",
+  "namespace": "molecular_function",
+  "label": "2-dehydropantolactone reductase (B-specific) activity"
+}

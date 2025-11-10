@@ -1,0 +1,36 @@
+{
+  "id": "GO:0015024",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015024",
+  "relationships": {
+    "is_a": [
+      "GO:0008484"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glucuronate-2-sulphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "chondro-2-sulfatase activity",
+      "glucurono-2-sulfatase activity",
+      "polysaccharide-2-O-sulfo-D-glucuronate 2-sulfohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.6.18",
+      "3.1.6.18",
+      "3.1.6.18",
+      "3.1.6.18",
+      "3.1.6.18"
+    ],
+    "MetaCyc": [
+      "3.1.6.18-RXN"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of the 2-sulfate groups of the 2-O-sulfo-D-glucuronate residues of chondroitin sulfate, heparin and heparitin sulfate.",
+  "namespace": "molecular_function",
+  "label": "glucuronate-2-sulfatase activity"
+}

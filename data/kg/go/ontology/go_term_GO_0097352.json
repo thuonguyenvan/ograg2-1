@@ -1,0 +1,34 @@
+{
+  "id": "GO:0097352",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097352",
+  "relationships": {
+    "is_a": [
+      "GO:0032984"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "autophagic vacuole fusion",
+      "autophagic vacuole maturation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "autophagosome fusion"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "autophagy",
+      "lf",
+      "autophagy",
+      "autophagy"
+    ],
+    "PMID": [
+      "28077293"
+    ]
+  },
+  "definition": "Removal of PI3P and Atg8/LC3 after the closure of the phagophore and before the fusion with the endosome/lysosome (e.g. mammals and insects) or vacuole (yeast), and that very likely destabilizes other Atg proteins and thus enables their efficient dissociation and recycling.",
+  "namespace": "biological_process",
+  "label": "autophagosome maturation"
+}

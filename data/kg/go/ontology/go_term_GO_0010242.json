@@ -1,0 +1,39 @@
+{
+  "id": "GO:0010242",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010242",
+  "relationships": {
+    "is_a": [
+      "GO:0016491"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "photosynthetic water oxidation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.10.3.9"
+    ],
+    "MetaCyc": [
+      "PSII-RXN"
+    ],
+    "RHEA": [
+      "36359"
+    ],
+    "GOC": [
+      "kd",
+      "syr"
+    ],
+    "PMID": [
+      "17091926",
+      "7948862"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 H2O = O2 + 4 H+ + 4 e-. The evolution of oxygen from oxidizing water is carried out by the oxygen evolving complex in photosystem II of plants. P680+, the photochemically oxidized reaction-center chlorophyll of PSII, is a strong biological oxidant. The reduction potential of P680+ is more positive than that of water, and thus it can oxidize water to give O2 and H+ ions. The oxygen escapes as a gas while the H+ ions remain in solution inside the thylakoid vesicle.",
+  "namespace": "molecular_function",
+  "label": "oxygen evolving activity"
+}

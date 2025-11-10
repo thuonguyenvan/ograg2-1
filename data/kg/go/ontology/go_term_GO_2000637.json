@@ -1,0 +1,31 @@
+{
+  "id": "GO:2000637",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000637",
+  "relationships": {
+    "is_a": [
+      "GO:0060964",
+      "GO:1900370"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of gene silencing by miRNA",
+      "positive regulation of microRNA-mediated gene silencing"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "positive regulation of gene silencing by microRNA"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "obol",
+      "pr"
+    ]
+  },
+  "definition": "A process that activates or increases the frequency, rate or extent of gene silencing by a microRNA (miRNA).",
+  "namespace": "biological_process",
+  "label": "positive regulation of miRNA-mediated gene silencing"
+}

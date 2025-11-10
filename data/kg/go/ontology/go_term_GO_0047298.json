@@ -1,0 +1,51 @@
+{
+  "id": "GO:0047298",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047298",
+  "relationships": {
+    "is_a": [
+      "GO:0008483"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "(S)-3-amino-2-methylpropionate aminotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(S)-3-amino-2-methylpropanoate:2-oxoglutarate aminotransferase activity",
+      "L-3-aminoisobutyrate aminotransferase activity",
+      "L-3-aminoisobutyrate transaminase activity",
+      "L-3-aminoisobutyric aminotransferase activity",
+      "L-AIBAT activity",
+      "beta-aminobutyric transaminase activity",
+      "beta-aminoisobutyrate-alpha-ketoglutarate transaminase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.22",
+      "2.6.1.22",
+      "2.6.1.22",
+      "2.6.1.22",
+      "2.6.1.22",
+      "2.6.1.22",
+      "2.6.1.22",
+      "2.6.1.22",
+      "2.6.1.22"
+    ],
+    "KEGG_REACTION": [
+      "R04188"
+    ],
+    "MetaCyc": [
+      "2.6.1.22-RXN"
+    ],
+    "RHEA": [
+      "13993",
+      "13993"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-3-amino-2-methylpropanoate + 2-oxoglutarate = 2-methyl-3-oxopropanoate + L-glutamate.",
+  "namespace": "molecular_function",
+  "label": "(S)-3-amino-2-methylpropionate transaminase activity"
+}

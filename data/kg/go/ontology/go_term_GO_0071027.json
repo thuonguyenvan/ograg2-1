@@ -1,0 +1,34 @@
+{
+  "id": "GO:0071027",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071027",
+  "relationships": {
+    "is_a": [
+      "GO:0071025"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nuclear RNA quality control",
+      "nuclear aberrant RNA catabolic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dgf",
+      "krc",
+      "dgf",
+      "krc",
+      "dgf",
+      "krc"
+    ],
+    "PMID": [
+      "18644474"
+    ]
+  },
+  "definition": "A process that identifies and degrades defective or aberrant RNAs within the nucleus.",
+  "namespace": "biological_process",
+  "label": "nuclear RNA surveillance"
+}

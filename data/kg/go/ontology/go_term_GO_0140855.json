@@ -1,0 +1,28 @@
+{
+  "id": "GO:0140855",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140855",
+  "relationships": {
+    "is_a": [
+      "GO:0004674",
+      "GO:0140996"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone kinase activity (H3-S57 specific)",
+      "histone serine kinase activity (H3-S57 specific)",
+      "histone-serine kinase activity (H3-S57 specific)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "24820035"
+    ]
+  },
+  "definition": "Catalysis of the reaction: histone H3-serine (position 57) + ATP = histone H3-phosphoserine (position 57) + ADP. This reaction is the addition of a phosphate group to the serine residue at position 57 of histone H3.",
+  "namespace": "molecular_function",
+  "label": "histone H3S57 kinase activity"
+}

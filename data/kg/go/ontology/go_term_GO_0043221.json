@@ -1,0 +1,32 @@
+{
+  "id": "GO:0043221",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043221",
+  "relationships": {
+    "is_a": [
+      "GO:0005515"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "structural maintenance of chromosomes family protein binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "vw"
+    ],
+    "InterPro": [
+      "IPR024704"
+    ],
+    "PMID": [
+      "9640531"
+    ]
+  },
+  "definition": "Binding to a protein from the structural maintenance of chromosomes (SMC) family, a group of chromosomal ATPases with a role in mitotic chromosome organization.",
+  "namespace": "molecular_function",
+  "label": "SMC family protein binding"
+}

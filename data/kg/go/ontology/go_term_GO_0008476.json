@@ -1,0 +1,43 @@
+{
+  "id": "GO:0008476",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008476",
+  "relationships": {
+    "is_a": [
+      "GO:0008146",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein-tyrosine sulphotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3&apos;-phosphoadenylyl-sulfate:protein-tyrosine O-sulfotransferase activity",
+      "tyrosylprotein sulfotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.2.20",
+      "2.8.2.20",
+      "2.8.2.20",
+      "2.8.2.20"
+    ],
+    "MetaCyc": [
+      "PROTEIN-TYROSINE-SULFOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "16801"
+    ],
+    "Reactome": [
+      "R-HSA-8954262",
+      "R-HSA-9668023",
+      "R-HSA-9668148"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;-phosphoadenosine 5&apos;-phosphosulfate + protein tyrosine = adenosine 3&apos;,5&apos;-bisphosphate + protein tyrosine-O-sulfate.",
+  "namespace": "molecular_function",
+  "label": "F8 variant is not sulfonated at Y1699"
+}

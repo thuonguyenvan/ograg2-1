@@ -1,0 +1,41 @@
+{
+  "id": "GO:0006783",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006783",
+  "relationships": {
+    "is_a": [
+      "GO:0006779",
+      "GO:0042168",
+      "GO:0046148"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "haem biosynthesis",
+      "haem biosynthetic process",
+      "heme anabolism",
+      "heme biosynthesis",
+      "heme formation",
+      "heme synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "HEMESYN2-PWY"
+    ],
+    "Reactome": [
+      "R-HSA-189451"
+    ],
+    "GOC": [
+      "jl"
+    ],
+    "PMID": [
+      "11788607"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of heme, any compound of iron complexed in a porphyrin (tetrapyrrole) ring, from less complex precursors.",
+  "namespace": "biological_process",
+  "label": "Heme biosynthesis"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0008611",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008611",
+  "relationships": {
+    "is_a": [
+      "GO:0008610",
+      "GO:0046485",
+      "GO:0046504"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ether lipid anabolism",
+      "ether lipid biosynthesis",
+      "ether lipid formation",
+      "ether lipid synthesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "plasmalogen biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-75896"
+    ],
+    "GOC": [
+      "ma"
+    ],
+    "ISBN": [
+      "0198547684"
+    ],
+    "PMID": [
+      "15337120"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of ether lipids, lipids that contain (normally) one lipid alcohol in ether linkage to one of the carbon atoms (normally C-1) of glycerol.",
+  "namespace": "biological_process",
+  "label": "Plasmalogen biosynthesis"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0097677",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097677",
+  "relationships": {
+    "is_a": [
+      "GO:0061629"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "signal transducers and activators of transcription family protein binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mr"
+    ],
+    "InterPro": [
+      "IPR001217"
+    ],
+    "PMID": [
+      "21447371",
+      "24470978"
+    ]
+  },
+  "definition": "Binding to a member of the signal transducers and activators of transcription (STAT) protein family. STATs are, as the name indicates, both signal transducers and transcription factors. STATs are activated by cytokines and some growth factors and thus control important biological processes including cell growth, cell differentiation, apoptosis and immune responses.",
+  "namespace": "molecular_function",
+  "label": "STAT family protein binding"
+}

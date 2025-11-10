@@ -1,0 +1,45 @@
+{
+  "id": "GO:2000083",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000083",
+  "relationships": {
+    "is_a": [
+      "GO:0009890",
+      "GO:0045912",
+      "GO:0046137",
+      "GO:2000082"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of L-ascorbic acid anabolism",
+      "negative regulation of L-ascorbic acid biosynthesis",
+      "negative regulation of L-ascorbic acid formation",
+      "negative regulation of L-ascorbic acid synthesis",
+      "negative regulation of ascorbate biosynthesis",
+      "negative regulation of ascorbate biosynthetic process",
+      "negative regulation of vitamin C biosynthesis",
+      "negative regulation of vitamin C biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "19395407"
+    ],
+    "GOC": [
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of L-ascorbic acid biosynthetic process.",
+  "namespace": "biological_process",
+  "label": "negative regulation of L-ascorbic acid biosynthetic process"
+}

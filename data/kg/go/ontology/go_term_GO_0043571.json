@@ -1,0 +1,28 @@
+{
+  "id": "GO:0043571",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043571",
+  "relationships": {
+    "is_a": [
+      "GO:0043570"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "maintenance of clustered regularly interspaced short palindromic repeat elements"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "CRISPR element metabolic process",
+      "CRISPR element metabolism"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "16292354"
+    ]
+  },
+  "definition": "Any process involved in sustaining CRISPR repeat clusters, including capture of new spacer elements, expansion or contraction of clusters, propagation of the leader sequence and repeat clusters within a genome, transfer of repeat clusters and CRISPR-associated (cas) genes to new genomes, transcription of the CRISPR repeat arrays into RNA and processing, and interaction of CRISPR/cas loci with the host genome. CRISPR (clustered regularly interspaced short palindromic repeat) elements are a family of sequence elements containing multiple direct repeats of 24-48 bp with weak dyad symmetry which are separated by regularly sized nonrepetitive spacer sequences.",
+  "namespace": "biological_process",
+  "label": "maintenance of CRISPR repeat elements"
+}

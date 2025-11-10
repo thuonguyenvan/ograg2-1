@@ -1,0 +1,62 @@
+{
+  "id": "GO:1902958",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902958",
+  "relationships": {
+    "is_a": [
+      "GO:1901857",
+      "GO:1902956"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of oxidative phosphorylation, NADH to ubiquinone",
+      "up regulation of mitochondrial electron transport, NADH to ubiquinone",
+      "up regulation of oxidative phosphorylation, NADH to ubiquinone",
+      "up-regulation of mitochondrial electron transport, NADH to ubiquinone",
+      "up-regulation of oxidative phosphorylation, NADH to ubiquinone",
+      "upregulation of mitochondrial electron transport, NADH to ubiquinone",
+      "upregulation of oxidative phosphorylation, NADH to ubiquinone"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of mitochondrial electron transport, NADH to ubiquinone",
+      "activation of oxidative phosphorylation, NADH to ubiquinone"
+    ],
+    "related": [
+      "activation of complex I (NADH to ubiquinone)",
+      "positive regulation of complex I (NADH to ubiquinone)",
+      "up regulation of complex I (NADH to ubiquinone)",
+      "up-regulation of complex I (NADH to ubiquinone)",
+      "upregulation of complex I (NADH to ubiquinone)"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "23530063"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of mitochondrial electron transport, NADH to ubiquinone.",
+  "namespace": "biological_process",
+  "label": "positive regulation of mitochondrial electron transport, NADH to ubiquinone"
+}

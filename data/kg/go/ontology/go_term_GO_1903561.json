@@ -1,0 +1,34 @@
+{
+  "id": "GO:1903561",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903561",
+  "relationships": {
+    "is_a": [
+      "GO:0031982",
+      "GO:0065010"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "microparticle"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "pm",
+      "vesicles"
+    ],
+    "GO_REF": [
+      "0000064"
+    ],
+    "PMID": [
+      "24769233"
+    ]
+  },
+  "definition": "Any vesicle that is part of the extracellular region.",
+  "namespace": "cellular_component",
+  "label": "extracellular vesicle"
+}

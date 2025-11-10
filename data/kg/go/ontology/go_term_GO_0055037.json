@@ -1,0 +1,43 @@
+{
+  "id": "GO:0055037",
+  "uri": "http://purl.obolibrary.org/obo/GO_0055037",
+  "relationships": {
+    "is_a": [
+      "GO:0005768"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "endosomal recycling compartment"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ERC",
+      "endosome recycling compartment"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "jid",
+      "kmv",
+      "rph",
+      "dph",
+      "dph"
+    ],
+    "PMID": [
+      "10930469",
+      "15601896",
+      "16246101",
+      "21556374",
+      "21562044",
+      "20820847",
+      "1237064",
+      "12370264"
+    ]
+  },
+  "definition": "An organelle consisting of a network of tubules that functions in targeting molecules, such as receptors transporters and lipids, to the plasma membrane.",
+  "namespace": "cellular_component",
+  "label": "recycling endosome"
+}

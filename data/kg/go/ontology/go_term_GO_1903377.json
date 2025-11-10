@@ -1,0 +1,63 @@
+{
+  "id": "GO:1903377",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903377",
+  "relationships": {
+    "is_a": [
+      "GO:0043524",
+      "GO:1902176",
+      "GO:1903376"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of neuron intrinsic apoptotic signaling pathway in response to oxidative stress",
+      "down-regulation of neuron intrinsic apoptotic signaling pathway in response to oxidative stress",
+      "downregulation of neuron intrinsic apoptotic signaling pathway in response to oxidative stress",
+      "negative regulation of neuron intrinsic apoptotic signaling pathway in response to oxidative stress",
+      "negative regulation of oxidative stress-induced neuron apoptosis"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of neuron intrinsic apoptotic signaling pathway in response to oxidative stress"
+    ],
+    "related": [
+      "down regulation of neuron apoptosis in response to oxidative stress",
+      "down-regulation of neuron apoptosis in response to oxidative stress",
+      "downregulation of neuron apoptosis in response to oxidative stress",
+      "inhibition of neuron apoptosis in response to oxidative stress",
+      "negative regulation of neuron apoptosis in response to oxidative stress",
+      "neuroprotection against oxidative stress-induced apoptosis",
+      "protection against oxidative stress-induced neuron apoptosis",
+      "protection against oxidative stress-induced neuronal apoptosis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "bf",
+      "bf",
+      "bf"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "15790595"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of oxidative stress-induced neuron intrinsic apoptotic signaling pathway.",
+  "namespace": "biological_process",
+  "label": "negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway"
+}

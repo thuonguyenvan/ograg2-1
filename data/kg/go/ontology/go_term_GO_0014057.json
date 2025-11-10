@@ -1,0 +1,33 @@
+{
+  "id": "GO:0014057",
+  "uri": "http://purl.obolibrary.org/obo/GO_0014057",
+  "relationships": {
+    "is_a": [
+      "GO:0001956",
+      "GO:0014056",
+      "GO:0032224",
+      "GO:0051954"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of acetylcholine secretion",
+      "up-regulation of acetylcholine secretion",
+      "upregulation of acetylcholine secretion"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of acetylcholine secretion",
+      "stimulation of acetylcholine secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ef"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the regulated release of acetylcholine.",
+  "namespace": "biological_process",
+  "label": "positive regulation of acetylcholine secretion, neurotransmission"
+}

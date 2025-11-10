@@ -1,0 +1,43 @@
+{
+  "id": "GO:0039529",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039529",
+  "relationships": {
+    "is_a": [
+      "GO:0002753"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DDX58 signaling pathway",
+      "RIG-I signalling pathway",
+      "RIG-I-like receptor (RLR) signaling pathway",
+      "RIG-like helicase signaling pathway",
+      "RIG-like receptor signaling pathway",
+      "RLH signaling pathway",
+      "RLR signaling pathway",
+      "retinoic acid inducible gene I signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "mah"
+    ],
+    "PMID": [
+      "17328678",
+      "19620789",
+      "21435580",
+      "25579795"
+    ],
+    "HGNC": [
+      "19102",
+      "19102"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by the binding ssRNA or dsRNA from another organism to the cytoplasmic pattern recognition receptor (PRR) RIG-1 (also known as DDX58). RIG-I detects RNA synthesized during viral replication or shed by non-viral pathogens, and triggers a signaling pathway to protect the host against infection, for example by inducing the expression of cytokines.",
+  "namespace": "biological_process",
+  "label": "RIG-I signaling pathway"
+}

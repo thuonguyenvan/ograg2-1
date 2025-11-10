@@ -1,0 +1,31 @@
+{
+  "id": "GO:0097100",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097100",
+  "relationships": {
+    "is_a": [
+      "GO:0003690"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pr",
+      "rph"
+    ],
+    "PMID": [
+      "20723754",
+      "21345933"
+    ],
+    "Wikipedia": [
+      "DNA_supercoil"
+    ]
+  },
+  "definition": "Binding to supercoiled DNA. For example, during replication and transcription, template DNA is negatively supercoiled in the receding downstream DNA and positively supercoiled in the approaching downstream DNA.",
+  "namespace": "molecular_function",
+  "label": "supercoiled DNA binding"
+}

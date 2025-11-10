@@ -1,0 +1,47 @@
+{
+  "id": "GO:0001970",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001970",
+  "relationships": {
+    "is_a": [
+      "GO:0001969",
+      "GO:0045917"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of MAC assembly",
+      "positive regulation of MAC formation",
+      "positive regulation of activation of MAC",
+      "positive regulation of membrane attack complex assembly",
+      "positive regulation of membrane attack complex formation",
+      "up regulation of activation of membrane attack complex",
+      "up-regulation of activation of membrane attack complex",
+      "upregulation of activation of membrane attack complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of activation of membrane attack complex",
+      "positive regulation of activation of TCC",
+      "positive regulation of activation of terminal complement complex",
+      "positive regulation of activation of the terminal complement cascade",
+      "stimulation of activation of membrane attack complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "hjd",
+      "rl",
+      "rl",
+      "mah",
+      "rl",
+      "rl",
+      "mah",
+      "add",
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates, maintains or increases the frequency, rate or extent of the activation of the membrane attack complex components of the complement cascade.",
+  "namespace": "biological_process",
+  "label": "positive regulation of activation of membrane attack complex"
+}

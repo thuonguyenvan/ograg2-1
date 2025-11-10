@@ -1,0 +1,35 @@
+{
+  "id": "GO:0006015",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006015",
+  "relationships": {
+    "is_a": [
+      "GO:0046390",
+      "GO:0046391"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5-phosphoribose 1-diphosphate anabolism",
+      "5-phosphoribose 1-diphosphate biosynthesis",
+      "5-phosphoribose 1-diphosphate formation",
+      "5-phosphoribose 1-diphosphate synthesis",
+      "5-phosphoribosyl-1-pyrophosphate biosynthesis",
+      "5-phosphoribosyl-1-pyrophosphate biosynthetic process",
+      "PRPP biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-73843"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of 5-phosphoribose 1-diphosphate, also known as 5-phosphoribosyl-1-pyrophosphate.",
+  "namespace": "biological_process",
+  "label": "5-Phosphoribose 1-diphosphate biosynthesis"
+}

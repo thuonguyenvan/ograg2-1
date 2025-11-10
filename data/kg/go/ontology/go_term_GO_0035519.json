@@ -1,0 +1,28 @@
+{
+  "id": "GO:0035519",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035519",
+  "relationships": {
+    "is_a": [
+      "GO:0000209"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein K29-linked polyubiquitination"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "17028573"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A protein ubiquitination process in which a polymer of ubiquitin, formed by linkages between lysine residues at position 29 of the ubiquitin monomers, is added to a protein. K29-linked ubiquitination targets the substrate protein for degradation.",
+  "namespace": "biological_process",
+  "label": "protein K29-linked ubiquitination"
+}

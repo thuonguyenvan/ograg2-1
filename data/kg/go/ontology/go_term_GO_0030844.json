@@ -1,0 +1,34 @@
+{
+  "id": "GO:0030844",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030844",
+  "relationships": {
+    "is_a": [
+      "GO:0030842",
+      "GO:0051495",
+      "GO:1901881"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of intermediate filament depolymerization",
+      "up-regulation of intermediate filament depolymerization",
+      "upregulation of intermediate filament depolymerization"
+    ],
+    "broad": [
+      "positive regulation of intermediate filament polymerization and/or depolymerization"
+    ],
+    "narrow": [
+      "activation of intermediate filament depolymerization",
+      "stimulation of intermediate filament depolymerization"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of intermediate filament depolymerization.",
+  "namespace": "biological_process",
+  "label": "positive regulation of intermediate filament depolymerization"
+}

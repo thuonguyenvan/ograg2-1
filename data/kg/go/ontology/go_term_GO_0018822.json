@@ -1,0 +1,41 @@
+{
+  "id": "GO:0018822",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018822",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "3-cyanopyridine hydratase activity"
+    ],
+    "related": [
+      "H-NHase activity",
+      "L-NHase activity",
+      "NHase activity",
+      "acrylonitrile hydratase activity",
+      "aliphatic nitrile hydratase activity",
+      "aliphatic-amide hydro-lyase (nitrile-forming)",
+      "nitrile hydro-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.84",
+      "4.2.1.84"
+    ],
+    "MetaCyc": [
+      "NITRILE-HYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "12673",
+      "12673"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an aliphatic amide = a nitrile + H2O.",
+  "namespace": "molecular_function",
+  "label": "nitrile hydratase activity"
+}

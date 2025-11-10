@@ -1,0 +1,63 @@
+{
+  "id": "GO:0008422",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008422",
+  "relationships": {
+    "is_a": [
+      "GO:0015926"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "beta-D-glucosidase activity",
+      "beta-glucoside glucohydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "amygdalase activity",
+      "amygdalinase",
+      "arbutinase activity",
+      "cellobiase activity",
+      "cytokine beta-glucosidase activity",
+      "elaterase activity",
+      "gentiobiase activity",
+      "gentobiase activity",
+      "limarase activity",
+      "p-nitrophenyl beta-glucosidase activity",
+      "primeverosidase activity",
+      "quercetin 3&apos;-O-beta-D-glucopyranoside hydrolase activity",
+      "quercetin 4&apos;-O-beta-D-glucopyranoside hydrolase activity",
+      "salicilinase activity"
+    ],
+    "related": [
+      "aryl-beta-glucosidase activity",
+      "beta-1,6-glucosidase activity",
+      "beta-D-glucoside glucohydrolase activity",
+      "emulsin"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.21",
+      "3.2.1.21",
+      "3.2.1.21",
+      "3.2.1.21",
+      "3.2.1.21",
+      "3.2.1.21",
+      "3.2.1.21",
+      "3.2.1.21",
+      "3.2.1.21",
+      "3.2.1.21",
+      "3.2.1.21",
+      "3.2.1.21"
+    ],
+    "MetaCyc": [
+      "3.2.1.21-RXN"
+    ],
+    "PMID": [
+      "12594539"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of terminal, non-reducing beta-D-glucose residues with release of beta-D-glucose.",
+  "namespace": "molecular_function",
+  "label": "beta-glucosidase activity"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "GO:0008768",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008768",
+  "relationships": {
+    "is_a": [
+      "GO:0016462"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "nucleosidediphosphate-sugar diphosphatase activity",
+      "nucleosidediphosphate-sugar pyrophosphatase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "UDP-sugar hydrolase activity",
+      "UDP-sugar pyrophosphatase activity",
+      "UDP-sugar sugarphosphohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.45",
+      "3.6.1.45",
+      "3.6.1.45",
+      "3.6.1.45",
+      "3.6.1.45",
+      "3.6.1.45",
+      "3.6.1.45"
+    ],
+    "MetaCyc": [
+      "UDPSUGARHYDRO-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-6810464"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-sugar + H2O = UMP + sugar 1-phosphate.",
+  "namespace": "molecular_function",
+  "label": "NUDT14 hydrolyses UDP-Glc to G1P and UMP"
+}

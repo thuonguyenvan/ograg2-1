@@ -1,0 +1,32 @@
+{
+  "id": "GO:0160039",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160039",
+  "relationships": {
+    "is_a": [
+      "GO:0005254",
+      "GO:0022824",
+      "GO:0099095",
+      "GO:0099589"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "1.A.9"
+    ],
+    "Wikipedia": [
+      "Ligand-gated_ion_channel"
+    ],
+    "PMID": [
+      "11100728"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of a chloride ion by a channel that opens when the biogenic amine serotonin has been bound by the channel complex or one of its constituent parts. Serotonin (5-hydroxytryptamine) is a neurotransmitter and hormone found in vertebrates and invertebrates.",
+  "namespace": "molecular_function",
+  "label": "serotonin-gated chloride channel activity"
+}

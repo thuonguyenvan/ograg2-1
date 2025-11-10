@@ -1,0 +1,37 @@
+{
+  "id": "GO:0071888",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071888",
+  "relationships": {
+    "is_a": [
+      "GO:0006925",
+      "GO:0033028",
+      "GO:0071887"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "macrophage apoptosis"
+    ],
+    "related": [
+      "AICD",
+      "activation-induced cell death"
+    ]
+  },
+  "cross_references": {
+    "CL": [
+      "0000235"
+    ],
+    "GOC": [
+      "BHF",
+      "mah",
+      "mtg_apoptosis",
+      "yaf",
+      "yaf"
+    ]
+  },
+  "definition": "Any apoptotic process in a macrophage, a mononuclear phagocyte present in a variety of tissues.",
+  "namespace": "biological_process",
+  "label": "macrophage apoptotic process"
+}

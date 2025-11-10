@@ -1,0 +1,35 @@
+{
+  "id": "GO:0099000",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099000",
+  "relationships": {
+    "is_a": [
+      "GO:0039678"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "viral contractile tail ejection system"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "viral genome ejection through host cell envelope, contractile tail mechanism"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "3950",
+      "3950",
+      "3950"
+    ],
+    "GOC": [
+      "dos"
+    ],
+    "PMID": [
+      "26283379"
+    ]
+  },
+  "definition": "Entry of a symbiont&apos;s genome into the host cell through the host cell envelope via a contractile tail ejection system consisting of a baseplate, a central tube and an external contractile sheath. Upon binding to the host cell surface, the baseplate changes its conformation and triggers sheath contraction, driving the rigid internal tail tube through the cell envelope. Occurs in non-enveloped prokaryotic viruses.",
+  "namespace": "biological_process",
+  "label": "Viral contractile tail ejection system"
+}

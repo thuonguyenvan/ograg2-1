@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033974",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033974",
+  "relationships": {
+    "is_a": [
+      "GO:0016818"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "nucleoside-5&apos;-phosphoacylate acylhydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.24",
+      "3.6.1.24",
+      "3.6.1.24"
+    ],
+    "MetaCyc": [
+      "3.6.1.24-RXN"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of mixed phospho-anhydride bonds.",
+  "namespace": "molecular_function",
+  "label": "nucleoside phosphoacylhydrolase activity"
+}

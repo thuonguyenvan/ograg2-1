@@ -1,0 +1,37 @@
+{
+  "id": "GO:0051649",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051649",
+  "relationships": {
+    "is_a": [
+      "GO:0051234"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "establishment of localisation in cell"
+    ],
+    "broad": [],
+    "narrow": [
+      "establishment of intracellular localization",
+      "establishment of localization within cell",
+      "positioning within cell"
+    ],
+    "related": [
+      "establishment of cellular localization"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dos",
+      "dph",
+      "tb",
+      "mah",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process, occurring in a cell, that localizes a substance or cellular component. This may occur via movement, tethering or selective degradation.",
+  "namespace": "biological_process",
+  "label": "establishment of localization in cell"
+}

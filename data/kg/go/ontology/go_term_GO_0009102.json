@@ -1,0 +1,39 @@
+{
+  "id": "GO:0009102",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009102",
+  "relationships": {
+    "is_a": [
+      "GO:0006768",
+      "GO:0042364",
+      "GO:0043604",
+      "GO:0044272",
+      "GO:0072330"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "biotin anabolism",
+      "biotin biosynthesis",
+      "biotin formation",
+      "biotin synthesis",
+      "vitamin B7 biosynthesis",
+      "vitamin B7 biosynthetic process",
+      "vitamin H biosynthesis",
+      "vitamin H biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "BIOTIN-SYN"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of biotin, cis-tetrahydro-2-oxothieno(3,4-d)imidazoline-4-valeric acid.",
+  "namespace": "biological_process",
+  "label": "biotin biosynthetic process"
+}

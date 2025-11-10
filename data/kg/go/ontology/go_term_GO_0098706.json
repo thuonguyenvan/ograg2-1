@@ -1,0 +1,36 @@
+{
+  "id": "GO:0098706",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098706",
+  "relationships": {
+    "is_a": [
+      "GO:0034755"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ferric ion import into cell",
+      "ferric iron import into cell"
+    ],
+    "broad": [
+      "ferric iron transmembrane transport"
+    ],
+    "narrow": [
+      "ferric iron import across cell outer membrane",
+      "high affinity ferric iron transport",
+      "high-affinity ferric iron transmembrane transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "23192658"
+    ]
+  },
+  "definition": "The directed movement of iron ions from outside of a cell, across the cell outer membrane and into the periplasmic space.",
+  "namespace": "biological_process",
+  "label": "iron ion import across cell outer membrane"
+}

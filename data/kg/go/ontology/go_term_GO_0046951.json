@@ -1,0 +1,33 @@
+{
+  "id": "GO:0046951",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046951",
+  "relationships": {
+    "is_a": [
+      "GO:0044283",
+      "GO:1901570",
+      "GO:1902224"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ketone body anabolism",
+      "ketone body biosynthesis",
+      "ketone body formation",
+      "ketone body synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-77111"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of ketone bodies, any one of the three substances: acetoacetate, D-3-hydroxybutyrate (beta-hydroxybutyrate) or acetone. Biosynthesis involves the formation of hydroxymethylglutaryl-CoA, which is cleaved to acetate and acetyl-CoA.",
+  "namespace": "biological_process",
+  "label": "Synthesis of Ketone Bodies"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0060338",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060338",
+  "relationships": {
+    "is_a": [
+      "GO:0001959",
+      "GO:0045088"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of type I interferon-mediated signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-912694"
+    ],
+    "GOC": [
+      "dph",
+      "mah"
+    ]
+  },
+  "definition": "Any process that modulates the rate, frequency or extent of a type I interferon-mediated signaling pathway.",
+  "namespace": "biological_process",
+  "label": "Regulation of IFNA/IFNB signaling"
+}

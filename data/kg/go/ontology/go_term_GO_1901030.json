@@ -1,0 +1,54 @@
+{
+  "id": "GO:1901030",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901030",
+  "relationships": {
+    "is_a": [
+      "GO:0010638",
+      "GO:0035794",
+      "GO:0051050",
+      "GO:1901028"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of MOMP",
+      "up regulation of MOMP",
+      "up regulation of mitochondrial outer membrane permeabilization",
+      "up-regulation of MOMP",
+      "up-regulation of mitochondrial outer membrane permeabilization",
+      "upregulation of MOMP",
+      "upregulation of mitochondrial outer membrane permeabilization"
+    ],
+    "broad": [
+      "positive regulation of mitochondrial outer membrane permeabilization"
+    ],
+    "narrow": [
+      "activation of MOMP",
+      "activation of mitochondrial outer membrane permeabilization"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-111452",
+      "R-HSA-114294"
+    ],
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "mtg_apoptosis",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway.",
+  "namespace": "biological_process",
+  "label": "Activation, translocation and oligomerization of BAX"
+}

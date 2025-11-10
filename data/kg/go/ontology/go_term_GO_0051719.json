@@ -1,0 +1,28 @@
+{
+  "id": "GO:0051719",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051719",
+  "relationships": {
+    "is_a": [
+      "GO:0003886"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5334097",
+      "R-HSA-5334152",
+      "R-HSA-9845308"
+    ],
+    "PMID": [
+      "15689527"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + DNA containing CpN = S-adenosyl-L-homocysteine + DNA containing 5-MeCpN.",
+  "namespace": "molecular_function",
+  "label": "DNMT3A:DNMT3L in nascent RNA transcript:MeR-PIWIL4:2&apos;-O-methyl-piRNA:SPOCD1:DNMT3A:DNMT3L methylates cytosine in DNA"
+}

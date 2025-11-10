@@ -1,0 +1,29 @@
+{
+  "id": "GO:0030159",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030159",
+  "relationships": {
+    "is_a": [
+      "GO:0035591"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "receptor signaling complex adaptor activity",
+      "receptor signaling complex scaffold activity",
+      "receptor signaling complex scaffold protein activity",
+      "receptor signalling complex adaptor activity",
+      "receptor signalling complex scaffold activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The binding activity of a molecule that provides a physical support for the assembly of a multiprotein receptor signaling complex.",
+  "namespace": "molecular_function",
+  "label": "signaling receptor complex adaptor activity"
+}

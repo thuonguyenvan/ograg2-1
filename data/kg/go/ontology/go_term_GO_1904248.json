@@ -1,0 +1,47 @@
+{
+  "id": "GO:1904248",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904248",
+  "relationships": {
+    "is_a": [
+      "GO:0045088",
+      "GO:0050793"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of ARR"
+    ],
+    "broad": [
+      "regulation of developmental resistance",
+      "regulation of ontogenic resistance"
+    ],
+    "narrow": [
+      "regulation of adult seedling resistance",
+      "regulation of flowering-induced resistance",
+      "regulation of mature seedling resistance",
+      "regulation of senescence-induced resistance"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "19694953"
+    ]
+  },
+  "definition": "Any process that modulates the extent of age-related resistance.",
+  "namespace": "biological_process",
+  "label": "regulation of age-related resistance"
+}

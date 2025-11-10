@@ -1,0 +1,30 @@
+{
+  "id": "GO:0008219",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008219",
+  "relationships": {
+    "is_a": [
+      "GO:0009987"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "accidental cell death",
+      "necrosis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mtg_apoptosis"
+    ],
+    "PMID": [
+      "25236395"
+    ]
+  },
+  "definition": "Any biological process that results in permanent cessation of all vital functions of a cell. A cell should be considered dead when any one of the following molecular or morphological criteria is met: (1) the cell has lost the integrity of its plasma membrane; (2) the cell, including its nucleus, has undergone complete fragmentation into discrete bodies (frequently referred to as apoptotic bodies). The cell corpse (or its fragments) may be engulfed by an adjacent cell in vivo, but engulfment of whole cells should not be considered a strict criteria to define cell death as, under some circumstances, live engulfed cells can be released from phagosomes (see PMID:18045538).",
+  "namespace": "biological_process",
+  "label": "cell death"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0000006",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000006",
+  "relationships": {
+    "is_a": [
+      "GO:0005385"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "high affinity zinc uptake transmembrane transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "high-affinity zinc uptake transmembrane transporter activity"
+    ]
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.5.1.1"
+    ]
+  },
+  "definition": "Enables the transfer of zinc ions (Zn2+) from one side of a membrane to the other, probably powered by proton motive force. In high-affinity transport the transporter is able to bind the solute even if it is only present at very low concentrations.",
+  "namespace": "molecular_function",
+  "label": "high-affinity zinc transmembrane transporter activity"
+}

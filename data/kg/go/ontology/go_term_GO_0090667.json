@@ -1,0 +1,28 @@
+{
+  "id": "GO:0090667",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090667",
+  "relationships": {
+    "is_a": [
+      "GO:0060326"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "rph"
+    ],
+    "PMID": [
+      "21885851"
+    ]
+  },
+  "definition": "The directed movement of a motile cell in response to the presence of vascular endothelial growth factor (VEGF).",
+  "namespace": "biological_process",
+  "label": "cell chemotaxis to vascular endothelial growth factor"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0005402",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005402",
+  "relationships": {
+    "is_a": [
+      "GO:0015144",
+      "GO:0015294"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cation/sugar symporter activity",
+      "cation:sugar symporter activity"
+    ],
+    "broad": [
+      "carbohydrate:cation symporter activity"
+    ],
+    "narrow": [
+      "sugar:cation symporter activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: sugar(out) + cation(out) = sugar(in) + cation(in).",
+  "namespace": "molecular_function",
+  "label": "carbohydrate:monoatomic cation symporter activity"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0070165",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070165",
+  "relationships": {
+    "is_a": [
+      "GO:0046887",
+      "GO:0050714",
+      "GO:0051240",
+      "GO:0070163"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of adiponectin secretion",
+      "up-regulation of adiponectin secretion",
+      "upregulation of adiponectin secretion"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of adiponectin secretion",
+      "stimulation of adiponectin secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the regulated release of adiponectin from a cell.",
+  "namespace": "biological_process",
+  "label": "positive regulation of adiponectin secretion"
+}

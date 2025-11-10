@@ -1,0 +1,61 @@
+{
+  "id": "GO:0004634",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004634",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-phospho-D-glycerate-hydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "nervous-system specific enolase"
+    ],
+    "related": [
+      "14-3-2-protein",
+      "2-phospho-D-glycerate hydro-lyase (phosphoenolpyruvate-forming)",
+      "2-phospho-D-glycerate hydro-lyase activity",
+      "2-phosphoglycerate dehydratase activity",
+      "2-phosphoglycerate enolase activity",
+      "2-phosphoglyceric dehydratase activity",
+      "enolase activity",
+      "gamma-enolase activity",
+      "phosphoenolpyruvate hydratase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.11",
+      "4.2.1.11",
+      "4.2.1.11",
+      "4.2.1.11",
+      "4.2.1.11",
+      "4.2.1.11",
+      "4.2.1.11",
+      "4.2.1.11",
+      "4.2.1.11",
+      "4.2.1.11",
+      "4.2.1.11",
+      "4.2.1.11"
+    ],
+    "MetaCyc": [
+      "2PGADEHYDRAT-RXN"
+    ],
+    "RHEA": [
+      "10164"
+    ],
+    "Reactome": [
+      "R-HSA-70494",
+      "R-HSA-71660"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-phospho-D-glycerate = phosphoenolpyruvate + H2O.",
+  "namespace": "molecular_function",
+  "label": "Enolase dimers dehydrates 2PG"
+}

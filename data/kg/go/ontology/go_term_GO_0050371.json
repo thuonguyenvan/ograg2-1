@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050371",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050371",
+  "relationships": {
+    "is_a": [
+      "GO:0016830"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-tyrosine phenol-lyase (deaminating)",
+      "L-tyrosine phenol-lyase (deaminating; pyruvate-forming)",
+      "beta-tyrosinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.99.2",
+      "4.1.99.2",
+      "4.1.99.2",
+      "4.1.99.2",
+      "4.1.99.2"
+    ],
+    "KEGG_REACTION": [
+      "R00728"
+    ],
+    "MetaCyc": [
+      "TYROSINE-PHENOL-LYASE-RXN"
+    ],
+    "RHEA": [
+      "21704",
+      "21704"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-tyrosine + H2O = NH4 + phenol + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "tyrosine phenol-lyase activity"
+}

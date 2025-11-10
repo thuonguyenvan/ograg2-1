@@ -1,0 +1,42 @@
+{
+  "id": "GO:0004341",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004341",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "lactonase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "D-glucono-1,5-lactone lactonohydrolase activity",
+      "aldonolactonase activity",
+      "glucono-delta-lactonase activity",
+      "gulonolactonase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.17",
+      "3.1.1.17",
+      "3.1.1.17",
+      "3.1.1.17",
+      "3.1.1.17",
+      "3.1.1.17",
+      "3.1.1.17"
+    ],
+    "MetaCyc": [
+      "GLUCONOLACT-RXN"
+    ],
+    "RHEA": [
+      "10440"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-glucono-1,5-lactone + H2O = D-gluconate.",
+  "namespace": "molecular_function",
+  "label": "gluconolactonase activity"
+}

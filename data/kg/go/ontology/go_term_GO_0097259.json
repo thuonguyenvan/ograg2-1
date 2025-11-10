@@ -1,0 +1,36 @@
+{
+  "id": "GO:0097259",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097259",
+  "relationships": {
+    "is_a": [
+      "GO:0004497"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "48672",
+      "48672"
+    ],
+    "Reactome": [
+      "R-HSA-2161792",
+      "R-HSA-2161979"
+    ],
+    "GOC": [
+      "mw"
+    ],
+    "PMID": [
+      "2549038",
+      "2836406",
+      "9675028"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 20-oxo-leukotriene B4 + O2 + reduced [NADPH-hemoprotein reductase] = 20-carboxy-leukotriene B4 + 2 H+ + H2O + oxidized [NADPH-hemoprotein reductase].",
+  "namespace": "molecular_function",
+  "label": "20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GO:0004798",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004798",
+  "relationships": {
+    "is_a": [
+      "GO:0047507"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "thymidylate kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:dTMP phosphotransferase activity",
+      "TMPK activity",
+      "deoxythymidine 5&apos;-monophosphate kinase activity",
+      "thymidine 5&apos;-monophosphate kinase activity",
+      "thymidine monophosphate kinase activity",
+      "thymidylate monophosphate kinase activity",
+      "thymidylic acid kinase activity",
+      "thymidylic kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.4.9",
+      "2.7.4.9",
+      "2.7.4.9",
+      "2.7.4.9",
+      "2.7.4.9",
+      "2.7.4.9",
+      "2.7.4.9",
+      "2.7.4.9",
+      "2.7.4.9"
+    ],
+    "MetaCyc": [
+      "DTMPKI-RXN"
+    ],
+    "RHEA": [
+      "13517",
+      "13517"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dTMP + ATP = dTDP + ADP.",
+  "namespace": "molecular_function",
+  "label": "dTMP kinase activity"
+}

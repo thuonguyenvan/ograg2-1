@@ -1,0 +1,37 @@
+{
+  "id": "GO:0050009",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050009",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "propan-2-ol:NADP+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.80",
+      "1.1.1.80",
+      "1.1.1.80"
+    ],
+    "KEGG_REACTION": [
+      "R01550"
+    ],
+    "MetaCyc": [
+      "ISOPROPANOL-DEHYDROGENASE-NADP+-RXN"
+    ],
+    "RHEA": [
+      "21792",
+      "21792"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NADP+ + propan-2-ol = acetone + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "isopropanol dehydrogenase (NADP+) activity"
+}

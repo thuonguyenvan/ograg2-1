@@ -1,0 +1,40 @@
+{
+  "id": "GO:0003689",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003689",
+  "relationships": {
+    "is_a": [
+      "GO:0008094"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA clamp loading ATPase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "PCNA loading activity",
+      "PCNA loading complex activity"
+    ],
+    "related": [
+      "DNA-protein loading ATPase activity",
+      "protein-DNA loading ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-174439",
+      "R-HSA-176264"
+    ],
+    "GOC": [
+      "mah",
+      "vw",
+      "mah"
+    ],
+    "PMID": [
+      "16082778"
+    ]
+  },
+  "definition": "Facilitating the opening of the ring structure of the PCNA complex, or any of the related sliding clamp complexes, and their closing around the DNA duplex, driven by ATP hydrolysis.",
+  "namespace": "molecular_function",
+  "label": "Recruitment of the Rad9-Hus1-Rad1 complex to DNA"
+}

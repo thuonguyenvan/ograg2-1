@@ -1,0 +1,36 @@
+{
+  "id": "GO:0102865",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102865",
+  "relationships": {
+    "is_a": [
+      "GO:0016717"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.19.38"
+    ],
+    "MetaCyc": [
+      "RXN-8343"
+    ],
+    "RHEA": [
+      "46536",
+      "46536"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "10848999"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a gamma-linolenoyl-[glycerolipid] + 2 ferrocytochrome b5 + O2 + 2 H+ = a (9Z,12Z)-octadeca-9,12-dien-6-ynoyl-[glycerolipid] + 2 ferricytochrome b5 + 2 H2O.",
+  "namespace": "molecular_function",
+  "label": "delta6-acyl-lipid desaturase activity"
+}

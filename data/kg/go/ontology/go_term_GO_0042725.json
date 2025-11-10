@@ -1,0 +1,37 @@
+{
+  "id": "GO:0042725",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042725",
+  "relationships": {
+    "is_a": [
+      "GO:0042365",
+      "GO:0042723",
+      "GO:0044273",
+      "GO:0072529"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "thiamin and derivative catabolic process",
+      "thiamin and derivative catabolism",
+      "thiamin-containing compound catabolic process",
+      "thiamine and derivative catabolic process",
+      "thiamine and derivative catabolism",
+      "thiamine-containing compound breakdown",
+      "thiamine-containing compound catabolism",
+      "thiamine-containing compound degradation",
+      "vitamin B1 and derivative catabolic process",
+      "vitamin B1 and derivative catabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of thiamine (vitamin B1), and compounds derived from it.",
+  "namespace": "biological_process",
+  "label": "thiamine-containing compound catabolic process"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0047528",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047528",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,3-dihydroxyindole:oxygen 2,3-oxidoreductase (decyclizing) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.23",
+      "1.13.11.23",
+      "1.13.11.23"
+    ],
+    "KEGG_REACTION": [
+      "R00983"
+    ],
+    "MetaCyc": [
+      "23-DIHYDROXYINDOLE-23-DIOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "19445",
+      "19445"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,3-dihydroxyindole + O2 = anthranilate + CO2 + H+.",
+  "namespace": "molecular_function",
+  "label": "2,3-dihydroxyindole 2,3-dioxygenase activity"
+}

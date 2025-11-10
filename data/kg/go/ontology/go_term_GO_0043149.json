@@ -1,0 +1,35 @@
+{
+  "id": "GO:0043149",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043149",
+  "relationships": {
+    "is_a": [
+      "GO:0030038",
+      "GO:0031032"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "actin cable assembly",
+      "actin cable formation",
+      "stress fibre biosynthesis",
+      "stress fibre formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "16651381"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form a stress fiber. A stress fiber is a contractile actin filament bundle that consists of short actin filaments with alternating polarity.",
+  "namespace": "biological_process",
+  "label": "stress fiber assembly"
+}

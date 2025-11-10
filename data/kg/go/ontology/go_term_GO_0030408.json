@@ -1,0 +1,45 @@
+{
+  "id": "GO:0030408",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030408",
+  "relationships": {
+    "is_a": [
+      "GO:0016742"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycine formiminotransferase activity"
+    ],
+    "broad": [
+      "formimidoyltransferase activity",
+      "formiminotransferase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "5-formimidoyltetrahydrofolate:glycine N-formimidoyltransferase activity",
+      "FIG formiminotransferase activity",
+      "formiminoglycine formiminotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.2.4",
+      "2.1.2.4",
+      "2.1.2.4",
+      "2.1.2.4"
+    ],
+    "KEGG_REACTION": [
+      "R02729"
+    ],
+    "MetaCyc": [
+      "GLYCINE-FORMIMINOTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "24288",
+      "24288"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-formimidoyltetrahydrofolate + glycine = (6S)-5,6,7,8-tetrahydrofolate + N-formimidoylglycine.",
+  "namespace": "molecular_function",
+  "label": "glycine formimidoyltransferase activity"
+}

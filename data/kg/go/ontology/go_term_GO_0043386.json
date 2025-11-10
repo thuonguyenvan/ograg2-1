@@ -1,0 +1,29 @@
+{
+  "id": "GO:0043386",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043386",
+  "relationships": {
+    "is_a": [
+      "GO:0009403",
+      "GO:0043385"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mycotoxin anabolism",
+      "mycotoxin biosynthesis",
+      "mycotoxin formation",
+      "mycotoxin synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of a mycotoxin, any poisonous substance produced by a fungus.",
+  "namespace": "biological_process",
+  "label": "mycotoxin biosynthetic process"
+}

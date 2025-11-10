@@ -1,0 +1,46 @@
+{
+  "id": "GO:0042176",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042176",
+  "relationships": {
+    "is_a": [
+      "GO:0009894",
+      "GO:0051246"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of cellular protein breakdown",
+      "regulation of cellular protein catabolic process",
+      "regulation of cellular protein catabolism",
+      "regulation of cellular protein degradation",
+      "regulation of protein breakdown",
+      "regulation of protein catabolism",
+      "regulation of protein degradation"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of cyclin breakdown",
+      "regulation of cyclin catabolic process",
+      "regulation of cyclin catabolism",
+      "regulation of cyclin degradation",
+      "regulation of degradation of cyclin"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "jl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of the chemical reactions and pathways resulting in the breakdown of a protein by the destruction of the native, active configuration, with or without the hydrolysis of peptide bonds.",
+  "namespace": "biological_process",
+  "label": "regulation of protein catabolic process"
+}

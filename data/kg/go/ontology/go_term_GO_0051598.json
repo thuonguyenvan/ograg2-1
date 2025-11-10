@@ -1,0 +1,28 @@
+{
+  "id": "GO:0051598",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051598",
+  "relationships": {
+    "is_a": [
+      "GO:0033313",
+      "GO:0045835"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "meiotic recombination checkpoint",
+      "pachytene checkpoint",
+      "signal transduction involved in meiotic recombination checkpoint"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "14718568"
+    ]
+  },
+  "definition": "A signaling process that contributes to a meiotic recombination checkpoint, that acts during late prophase I (pachytene) and prevents segregation of homologous chromosomes until recombination is completed, ensuring proper distribution of the genetic material to the gametes.",
+  "namespace": "biological_process",
+  "label": "meiotic recombination checkpoint signaling"
+}

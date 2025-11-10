@@ -1,0 +1,27 @@
+{
+  "id": "GO:0180021",
+  "uri": "http://purl.obolibrary.org/obo/GO_0180021",
+  "relationships": {
+    "is_a": [
+      "GO:0090486"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "63088",
+      "63088"
+    ],
+    "PMID": [
+      "37403782"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + U6 snRNA = S-adenosyl-L-homocysteine + U6 containing a 3&apos;-terminal 2&apos;-O-methylnucleotide + H+.",
+  "namespace": "molecular_function",
+  "label": "U6 snRNA 2&apos;-O-ribose methyltransferase activity"
+}

@@ -1,167 +1,154 @@
-# Clone repo
-git clone https://github.com/thuonguyenvan/ograg2-1.git
-cd ograg2-1
+# OG-RAG for Gene Ontology
 
-# Copy template and add API key
-cp api_keys.yaml.template api_keys.yaml
-# Edit api_keys.yaml and add your Groq API key 
+**Ontology-Grounded Retrieval-Augmented Generation** applied to Gene Ontology (GO) for biological knowledge retrieval and question answering.
 
-# Install requirements
-pip install -r requirements_minimal_hypergraph.txt
-
-# Run notebook
-jupyter notebook test_hypergraph_original.ipynb
-
-
-
-
-
-# Ontology Generated Retrieval Augmented Generation (OG-RAG)
-![OG-RAG: Ontology-Grounded Retrieval-Augmented Generation](https://arxiv.org/html/2412.15235v1/x1.png)
-
-**OG-RAG** enhances Large Language Models (LLMs) with domain-specific ontologies for improved factual accuracy and contextually relevant responses in fields with specialized workflows like agriculture, healthcare, knowledge work, and more.
-
-[**Paper:** OG-RAG: Ontology-Grounded Retrieval-Augmented Generation For Large Language Models](https://arxiv.org/html/2412.15235v1)
+Based on paper: [OG-RAG: Ontology-Grounded Retrieval-Augmented Generation](https://arxiv.org/html/2412.15235v1)
 
 ---
 
-## 🔍 Overview
-![OG-RAG Flow](https://arxiv.org/html/2412.15235v1/x2.png)
+## 🔬 Project Overview
 
-OG-RAG addresses traditional Retrieval-Augmented Generation (RAG) limitations by using hypergraphs to incorporate ontology-grounded knowledge. It retrieves minimal, highly relevant contexts, significantly boosting response accuracy and factual grounding.
+This implementation applies the OG-RAG methodology to **Gene Ontology**, a structured knowledge base of biological terms and their relationships. The system enables accurate retrieval and generation of answers to biological questions.
+
+**Dataset:**
+- **39,354 active GO terms** (filtered from 51,842 total, removing 12,488 obsolete)
+- **3 namespaces**: biological_process, molecular_function, cellular_component  
+- **Hierarchical relationships**: is_a, part_of, regulates, etc.
+
+**Performance:**
+- Build time: ~10 minutes (with MiniLM)
+- Query time: ~1-2 seconds
+- 286,288 hypernodes, 39,354 facts
 
 ---
 
-## 📈 Key Features
+## 🚀 Quick Start
 
-* **Ontology-Grounded Retrieval**
-* **Hypergraph Context Representation**
-* **Optimized Context Retrieval Algorithm**
-* **Enhanced Factual Accuracy**
-
----
-
-## 🛠️ Installation
+### 1. Setup
 
 ```bash
-git clone https://github.com/yourusername/og-rag.git
-cd og-rag
+git clone https://github.com/thuonguyenvan/ograg2-1.git
+cd ograg2-1
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+
+# Setup API keys
+cp api_keys.yaml.template api_keys.yaml
+# Edit and add your OpenAI API key
+```
+
+### 2. Download & Process GO Ontology
+
+```bash
+# Download
+wget http://purl.obolibrary.org/obo/go/go-basic.owl
+
+# Parse (creates 39,354 JSON files)
+python scripts/parse_go_owl.py \
+    --owl-file go-basic.owl \
+    --output-dir data/kg/go/ontology
+
+# Build hypergraph (~10 minutes)
+python build_go_hypergraph.py \
+    --ontology-dir data/kg/go/ontology \
+    --model sentence-transformers/all-MiniLM-L6-v2
+```
+
+### 3. Query
+
+```python
+from query_engine.go_query_engine import GOQueryEngine
+
+engine = GOQueryEngine()
+answer = engine.query("What is DNA repair?")
+print(answer)
 ```
 
 ---
 
-## ⚙️ Configuration
+## 📁 Structure
 
-Create a YAML config file with your environment and preferences:
-
-```yaml
-model:
-  api_base: <API_BASE>
-  api_key: <API_KEY>
-  deployment_name: <LLM model name, eg. "gpt-4-turbo">
-  api_type: <Eg. "openai">
-  api_version: <Eg '2024-08-06'>
-
-embedding_model:
-  api_base: <API_BASE>
-  api_key: <API_KEY>
-  deployment_name: <LLM embedding model name, eg. "text-embedding-ada-002">
-  api_type: <Eg. azure>
-  api_version: <Eg '2024-08-06'>
-
-data:
-  documents_dir: data/md/soybean
-  ontology_path: data/ontology/farm_cropcultivation_schema_ontology_jsonld.json
-  kg_storage_path: data/kg/soybean
-  index_dir: index_openai/vector_soybean
-  subdir: False
-  smart_pdf: True
-  chunk_size: 8192
-
-query:
-  framework: ontohypergraph-rag
-  batch_size: 10
-  mode: json
-  questions_file:
-
-question_generator:
-  framework: ontodocragas
-  test_size: 100
-  distr:
-    simple: 0
-    reasoning: 1
-    multi_context: 0
-
-evaluator:
-  eval_file:
-  reference_free: True
-  type: single
-  metrics:
-    - answer_correctness
-    - faithfulness
-    - answer_similarity
-    - answer_relevancy
-    - context_relevancy
-    - context_precision
-    - context_recall
-    - context_entity_recall
 ```
-
-## 🚀 Usage
-
-### Mapping Ontology and Generating Knowledge Graph
-
-Map ontology only and Generate full knowledge graph (triples):
-
-```bash
-python build_knowledge_graph.py --config_file <path-to-config-file>
-```
-
-### Querying LLM
-
-Execute queries:
-
-```bash
-python query_llm.py --config_file <path-to-config-file>
-```
-
-### Testing
-
-Run tests and evaluate model performance:
-
-```bash
-python test_answers.py --config_file <path-to-config-file>
+├── scripts/parse_go_owl.py          # Parse OWL → JSON
+├── build_go_hypergraph.py           # Build hypergraph
+├── query_engine/go_query_engine.py  # Complete OG-RAG
+├── test_go_query_engine.py          # Full test
+├── configs/go/config_go.yaml        # Configuration
+└── data/kg/go/ontology/            # GO data
+    ├── go_term_*.json              # 39K terms
+    └── go_hypergraph_*.pkl/npy     # Embeddings
 ```
 
 ---
 
-## 📚 Reference
+## 🎯 Features
 
-* [**Paper:** OG-RAG: Ontology-Grounded Retrieval-Augmented Generation For Large Language Models](https://arxiv.org/html/2412.15235v1)
+### Dual Ranking Retrieval
+- Key similarity (GO attributes)
+- Value similarity (definitions, synonyms)
+- Combined scoring: `max(key_score, value_score)`
 
+### Hierarchical Expansion
+- Auto-expand with parent terms (is_a)
+- Configurable depth (default: 2 levels)
 
+### LLM Generation  
+- GPT-4 for comprehensive answers
+- Structured context with GO terms + relationships
 
-## Contributing
+---
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+## 📈 Performance Comparison
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+| Model | Params | Build Time | Accuracy |
+|-------|--------|------------|----------|
+| BGE-M3 | 560M | 8-10 hours | Best |
+| MiniLM-L6 | 22M | ~10 min | Very Good ✅ |
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+**50x faster** with MiniLM while maintaining high accuracy for biological terms!
 
-## Trademarks
+---
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+## 🧪 Example
+
+```python
+from query_engine.go_query_engine import GOQueryEngine
+
+engine = GOQueryEngine(top_k=5, hierarchical_depth=2)
+
+# Get answer with context
+result = engine.query(
+    "How does cell division work?",
+    return_context=True,
+    verbose=True
+)
+
+print(result['answer'])
+print(f"\nRetrieved {len(result['retrieved_facts'])} GO terms")
+```
+
+---
+
+## 📚 Sample Questions
+
+- What is DNA repair? → GO:0006281
+- How does cell division work? → GO:0051301  
+- What is protein phosphorylation? → GO:0006468
+- What processes are involved in cellular respiration? → GO:0045333
+
+---
+
+## 📄 License
+
+MIT
+
+## 📖 Citation
+
+```bibtex
+@article{ograg2024,
+  title={OG-RAG: Ontology-Grounded Retrieval-Augmented Generation},
+  journal={arXiv preprint arXiv:2412.15235},
+  year={2024}
+}
+```

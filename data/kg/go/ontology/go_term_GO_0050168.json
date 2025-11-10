@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050168",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050168",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pentanamide amidohydrolase activity",
+      "valeramidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.50",
+      "3.5.1.50",
+      "3.5.1.50",
+      "3.5.1.50"
+    ],
+    "KEGG_REACTION": [
+      "R02938"
+    ],
+    "MetaCyc": [
+      "PENTANAMIDASE-RXN"
+    ],
+    "RHEA": [
+      "10000",
+      "10000"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + pentanamide = NH4 + valerate.",
+  "namespace": "molecular_function",
+  "label": "pentanamidase activity"
+}

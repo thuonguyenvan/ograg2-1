@@ -1,0 +1,31 @@
+{
+  "id": "GO:0031642",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031642",
+  "relationships": {
+    "is_a": [
+      "GO:0031641",
+      "GO:0031645",
+      "GO:0048523"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of myelination",
+      "down-regulation of myelination",
+      "downregulation of myelination"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of myelination"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the formation of a myelin sheath around nerve axons.",
+  "namespace": "biological_process",
+  "label": "negative regulation of myelination"
+}

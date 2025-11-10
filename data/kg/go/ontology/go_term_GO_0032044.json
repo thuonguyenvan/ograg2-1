@@ -1,0 +1,35 @@
+{
+  "id": "GO:0032044",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032044",
+  "relationships": {
+    "is_a": [
+      "GO:0008023"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5,6-Dichloro-1-beta-D-ribofuranosylbenzimidazole sensitivity inducing factor complex",
+      "DRB sensitivity inducing factor complex",
+      "Spt4-Spt5 complex",
+      "Spt5-Spt4 complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "12242279",
+      "12653964",
+      "12676794",
+      "16581788",
+      "19460865"
+    ],
+    "GOC": [
+      "vw"
+    ]
+  },
+  "definition": "A heterodimeric protein complex formed of Spt4 and Spt5 proteins which is expressed in eukaryotes from yeast to man. DSIF is an inhibitory elongation factor that promotes RNA polymerase II transcriptional pausing, but can also stimulate transcriptional elongation under certain conditions, and may play a role in RNA processing via its physical association with mRNA capping enzymes.",
+  "namespace": "cellular_component",
+  "label": "DSIF complex"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0022625",
+  "uri": "http://purl.obolibrary.org/obo/GO_0022625",
+  "relationships": {
+    "is_a": [
+      "GO:0015934"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "50S ribosomal subunit",
+      "60S ribosomal subunit",
+      "eukaryotic ribosomal LSU",
+      "prokaryotic large ribosomal subunit"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_sensu"
+    ]
+  },
+  "definition": "The large subunit of a ribosome located in the cytosol.",
+  "namespace": "cellular_component",
+  "label": "cytosolic large ribosomal subunit"
+}

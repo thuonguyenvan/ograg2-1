@@ -1,0 +1,42 @@
+{
+  "id": "GO:0061501",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061501",
+  "relationships": {
+    "is_a": [
+      "GO:0140699"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2&apos;,3&apos; cyclic GMP-AMP synthase activity",
+      "2&apos;,3&apos; cyclic-GMP-AMP synthase activity",
+      "cyclic 2&apos;,3&apos; GAMP synthase activity"
+    ],
+    "broad": [
+      "cyclic-GMP-AMP synthase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.86"
+    ],
+    "RHEA": [
+      "42064",
+      "42064"
+    ],
+    "Reactome": [
+      "R-HSA-3244614"
+    ],
+    "GOC": [
+      "dph"
+    ],
+    "PMID": [
+      "23258413"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + GTP = 2 diphosphate + cyclic G-P(2&apos;-5&apos;)A-P(3&apos;-5&apos;) (cyclic 2&apos;,3&apos; GAMP).",
+  "namespace": "molecular_function",
+  "label": "cGAS produces cyclic GMP-AMP"
+}

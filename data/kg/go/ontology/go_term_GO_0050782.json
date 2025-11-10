@@ -1,0 +1,29 @@
+{
+  "id": "GO:0050782",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050782",
+  "relationships": {
+    "is_a": [
+      "GO:0005354",
+      "GO:0008516"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "galactose, glucose uniporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ],
+    "TC": [
+      "2.A.1.1.6"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: galactose (out) = galactose(in).",
+  "namespace": "molecular_function",
+  "label": "galactose uniporter activity"
+}

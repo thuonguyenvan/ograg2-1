@@ -1,0 +1,97 @@
+{
+  "id": "GO:0003958",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003958",
+  "relationships": {
+    "is_a": [
+      "GO:0016653"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NADPH-ferrihemoprotein reductase activity",
+      "NADPH:cytochrome P450 reductase activity",
+      "NADPH:cytochrome c reductase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "NADP--cytochrome c reductase activity",
+      "NADP--cytochrome reductase activity",
+      "NADPH--cytochrome P450 oxidoreductase activity",
+      "NADPH--cytochrome P450 reductase activity",
+      "NADPH--cytochrome c oxidoreductase activity",
+      "NADPH--cytochrome c reductase activity",
+      "NADPH--ferricytochrome c oxidoreductase activity",
+      "NADPH--ferrihemoprotein reductase activity",
+      "NADPH-dependent cytochrome c reductase activity",
+      "NADPH:P450 reductase activity",
+      "TPNH(2) cytochrome c reductase activity",
+      "TPNH-cytochrome c reductase activity",
+      "cytochrome P450 reductase activity",
+      "cytochrome c reductase (reduced nicotinamide adenine dinucleotide phosphate, NADPH, NADPH-dependent) activity",
+      "dihydroxynicotinamide adenine dinucleotide phosphate-cytochrome c reductase activity",
+      "reduced nicotinamide adenine dinucleotide phosphate-cytochrome c reductase activity",
+      "reductase, cytochrome c (reduced nicotinamide adenine dinucleotide phosphate) activity"
+    ],
+    "related": [
+      "CPR activity",
+      "FAD-cytochrome c reductase activity",
+      "NADPH-cytochrome P-450 oxidoreductase activity",
+      "NADPH-cytochrome p-450 reductase activity",
+      "NADPH:P-450 reductase activity",
+      "NADPH:ferrihemoprotein oxidoreductase activity",
+      "NADPH:hemoprotein oxidoreductase activity",
+      "POR",
+      "TPNH2 cytochrome c reductase activity",
+      "aldehyde reductase (NADPH-dependent) activity",
+      "cytochrome P-450 reductase activity",
+      "ferrihemoprotein P-450 reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4",
+      "1.6.2.4"
+    ],
+    "MetaCyc": [
+      "NADPH--FERRIHEMOPROTEIN-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "24040"
+    ],
+    "Reactome": [
+      "R-HSA-76494"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NADPH + H+ + n oxidized hemoprotein = NADP+ + n reduced hemoprotein.",
+  "namespace": "molecular_function",
+  "label": "POR reduces CYP450:Fe3+ to CYP450:Fe2+"
+}

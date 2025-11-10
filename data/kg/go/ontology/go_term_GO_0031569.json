@@ -1,0 +1,35 @@
+{
+  "id": "GO:0031569",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031569",
+  "relationships": {
+    "is_a": [
+      "GO:0010972",
+      "GO:0031567"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G2 cell size control checkpoint",
+      "G2/M transition size control checkpoint",
+      "mitotic cell cycle G2/M transition size control checkpoint"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "mitotic G2 cell size control checkpoint",
+      "signal transduction involved in G2 cell size control checkpoint",
+      "signal transduction involved in G2/M transition size control checkpoint",
+      "signal transduction involved in mitotic cell cycle G2/M transition size control checkpoint"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A signal transduction process that contributes to a cell size control checkpoint prior to the G2/M transition of mitosis.",
+  "namespace": "biological_process",
+  "label": "mitotic G2 cell size control checkpoint signaling"
+}

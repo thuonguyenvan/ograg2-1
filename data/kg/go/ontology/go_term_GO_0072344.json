@@ -1,0 +1,31 @@
+{
+  "id": "GO:0072344",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072344",
+  "relationships": {
+    "is_a": [
+      "GO:0006414",
+      "GO:0032790"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jh2",
+      "mah"
+    ],
+    "PMID": [
+      "18557701",
+      "19170872",
+      "20117091",
+      "20185543"
+    ]
+  },
+  "definition": "A process of translational elongation that takes place when a ribosome has stalled during translation, and results in freeing the ribosome from the stalled translation complex.",
+  "namespace": "biological_process",
+  "label": "rescue of stalled ribosome"
+}

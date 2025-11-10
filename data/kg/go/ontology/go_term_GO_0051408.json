@@ -1,0 +1,25 @@
+{
+  "id": "GO:0051408",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051408",
+  "relationships": {
+    "is_a": [
+      "GO:0009670"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glyceraldehyde 3-phosphate:inorganic phosphate antiporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: glyceraldehyde 3-phosphate(out) + phosphate(in) = glyceraldehyde 3-phosphate(in) + phosphate(out).",
+  "namespace": "molecular_function",
+  "label": "glyceraldehyde 3-phosphate:phosphate antiporter activity"
+}

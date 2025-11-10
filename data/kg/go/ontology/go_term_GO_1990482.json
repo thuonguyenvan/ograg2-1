@@ -1,0 +1,28 @@
+{
+  "id": "GO:1990482",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990482",
+  "relationships": {
+    "is_a": [
+      "GO:0008194"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "inositol phosphorylceramide glucuronosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "tb"
+    ],
+    "PMID": [
+      "25122154"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-glucuronate + inositol phosphorylceramide (IPC) = UDP + GlcA-IPC.",
+  "namespace": "molecular_function",
+  "label": "sphingolipid alpha-glucuronosyltransferase activity"
+}

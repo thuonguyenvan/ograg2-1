@@ -1,0 +1,31 @@
+{
+  "id": "GO:0051356",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051356",
+  "relationships": {
+    "is_a": [
+      "GO:0007601"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "perception of orientation with respect to gravity by visual perception"
+    ],
+    "broad": [],
+    "narrow": [
+      "equilibrioception by visual perception"
+    ],
+    "related": [
+      "visual perception during equilibrioception"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The series of events during equilibrioception required for an organism to receive a visual stimulus, convert it to a molecular signal, and recognize and characterize the signal. Visual input plays an important role in the ability of an organism to perceive its orientation with respect to gravity.",
+  "namespace": "biological_process",
+  "label": "visual perception involved in equilibrioception"
+}

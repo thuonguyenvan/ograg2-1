@@ -1,0 +1,32 @@
+{
+  "id": "GO:0000271",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000271",
+  "relationships": {
+    "is_a": [
+      "GO:0005976",
+      "GO:0009059",
+      "GO:0016051"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glycan biosynthesis",
+      "glycan biosynthetic process",
+      "polysaccharide anabolism",
+      "polysaccharide biosynthesis",
+      "polysaccharide formation",
+      "polysaccharide synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of a polysaccharide, a polymer of many (typically more than 10) monosaccharide residues linked glycosidically.",
+  "namespace": "biological_process",
+  "label": "polysaccharide biosynthetic process"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:0004328",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004328",
+  "relationships": {
+    "is_a": [
+      "GO:0004040"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "formamide hydrolase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "formamide amidohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.49",
+      "3.5.1.49"
+    ],
+    "KEGG_REACTION": [
+      "R00524"
+    ],
+    "MetaCyc": [
+      "FORMAMIDASE-RXN"
+    ],
+    "RHEA": [
+      "21948",
+      "21948"
+    ],
+    "UM-BBD_reactionID": [
+      "r0873"
+    ]
+  },
+  "definition": "Catalysis of the reaction: formamide + H2O = formate + NH4.",
+  "namespace": "molecular_function",
+  "label": "formamidase activity"
+}

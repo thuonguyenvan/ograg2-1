@@ -1,0 +1,34 @@
+{
+  "id": "GO:0043494",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043494",
+  "relationships": {
+    "is_a": [
+      "GO:0000152",
+      "GO:0035097",
+      "GO:0080008"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CLRC ubiquitin ligase complex",
+      "Clr4-Rik1-Cul4 complex",
+      "Rik1 E3 ubiquitin ligase complex",
+      "Rik1-E3 ubiquitin ligase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw"
+    ],
+    "PMID": [
+      "16127433",
+      "20211136"
+    ]
+  },
+  "definition": "An cullin-dependent E3 ubiquitin ligase/histone H3-K9 methyltransferase complex essential for heterochromatin assembly by RNAi.",
+  "namespace": "cellular_component",
+  "label": "CLRC complex"
+}

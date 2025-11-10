@@ -1,0 +1,37 @@
+{
+  "id": "GO:0039653",
+  "uri": "http://purl.obolibrary.org/obo/GO_0039653",
+  "relationships": {
+    "is_a": [
+      "GO:0052026"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "host transcription shut-off"
+    ],
+    "broad": [],
+    "narrow": [
+      "host transcription shutoff by virus",
+      "suppression by virus of host DNA-dependent transcription",
+      "suppression by virus of host transcription"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "1577",
+      "1577",
+      "1577"
+    ],
+    "UniProtKB-KW": [
+      "KW-1191"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "A process in which a symbiont inhibits or disrupts transcription of genes into mRNA in its host. For example, symbiont proteins can interfere with host RNA polymerase or with transcription factors. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "Host transcription shutoff by virus"
+}

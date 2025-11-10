@@ -1,0 +1,29 @@
+{
+  "id": "GO:0141168",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141168",
+  "relationships": {
+    "is_a": [
+      "GO:0006281",
+      "GO:0141166"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "epigenetic 5-methylcytosine DNA demethylation, oxidative deamination pathway",
+      "epigenetic DNA demethylation, oxidative deamination pathway"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "21862972",
+      "29875631",
+      "36478523"
+    ]
+  },
+  "definition": "An epigenetic cytosine DNA demethylation pathway that includes a deamination step to produce either a thymine (T), or a 5-hydroxymethyluracil (5hmU), if the 5meC had first been converted to 5hmC. A DNA glycosylase (e. g. TDG) recognizes the T mispaired with a G or the 5hmC and excises the modified base to initiate its replacement with unmethylated cytosine through base excision repair.",
+  "namespace": "biological_process",
+  "label": "chromosomal 5-methylcytosine DNA demethylation, oxidative deamination pathway"
+}

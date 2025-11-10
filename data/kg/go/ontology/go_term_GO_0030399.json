@@ -1,0 +1,34 @@
+{
+  "id": "GO:0030399",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030399",
+  "relationships": {
+    "is_a": [
+      "GO:0030397",
+      "GO:1905037"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "autophagic membrane breakdown",
+      "autophagic vacuole membrane disassembly"
+    ],
+    "broad": [],
+    "narrow": [
+      "autophagic membrane catabolism",
+      "autophagic membrane degradation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "autophagy",
+      "mah",
+      "autophagy",
+      "autophagy",
+      "autophagy"
+    ]
+  },
+  "definition": "The controlled breakdown of the membranes of autophagosomes.",
+  "namespace": "biological_process",
+  "label": "autophagosome membrane disassembly"
+}

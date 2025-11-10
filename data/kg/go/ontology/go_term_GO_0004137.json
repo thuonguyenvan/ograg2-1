@@ -1,0 +1,43 @@
+{
+  "id": "GO:0004137",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004137",
+  "relationships": {
+    "is_a": [
+      "GO:0019136"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2&apos;-deoxycytidine kinase activity",
+      "Ara-C kinase activity",
+      "NTP:deoxycytidine 5&apos;-phosphotransferase activity",
+      "arabinofuranosylcytosine kinase activity",
+      "deoxycytidine kinase (phosphorylating)",
+      "deoxycytidine-cytidine kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.74",
+      "2.7.1.74",
+      "2.7.1.74",
+      "2.7.1.74",
+      "2.7.1.74",
+      "2.7.1.74",
+      "2.7.1.74",
+      "2.7.1.74"
+    ],
+    "MetaCyc": [
+      "DEOXYCYTIDINE-KINASE-RXN"
+    ],
+    "RHEA": [
+      "20061"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NTP + deoxycytidine = NDP + CMP.",
+  "namespace": "molecular_function",
+  "label": "deoxycytidine kinase activity"
+}

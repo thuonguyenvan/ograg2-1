@@ -1,0 +1,36 @@
+{
+  "id": "GO:0060372",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060372",
+  "relationships": {
+    "is_a": [
+      "GO:0099623"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of atrial cardiac muscle cell repolarization",
+      "regulation of atrial cardiomyocyte membrane repolarization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "atrial repolarization",
+      "electrocardiogram QRS complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the establishment or extent of a membrane potential in the polarizing direction towards the resting potential in an atrial cardiomyocyte.",
+  "namespace": "biological_process",
+  "label": "regulation of atrial cardiac muscle cell membrane repolarization"
+}

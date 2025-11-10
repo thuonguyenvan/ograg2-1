@@ -1,0 +1,35 @@
+{
+  "id": "GO:0043434",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043434",
+  "relationships": {
+    "is_a": [
+      "GO:0009725",
+      "GO:1901698",
+      "GO:1901700"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to peptide hormone stimulus",
+      "response to polypeptide hormone stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11027914",
+      "15134857"
+    ],
+    "Wikipedia": [
+      "Peptide_hormone"
+    ],
+    "GOC": [
+      "dos"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a peptide hormone stimulus. A peptide hormone is any of a class of peptides that are secreted into the blood stream and have endocrine functions in living animals.",
+  "namespace": "biological_process",
+  "label": "response to peptide hormone"
+}

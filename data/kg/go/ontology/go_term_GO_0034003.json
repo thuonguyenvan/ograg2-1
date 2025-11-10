@@ -1,0 +1,45 @@
+{
+  "id": "GO:0034003",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034003",
+  "relationships": {
+    "is_a": [
+      "GO:0010334"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "HVS",
+      "pemnaspirodiene synthase activity",
+      "trans,trans-farnesyl-diphosphate diphosphate-lyase (cyclizing, vetispiradiene-forming) activity",
+      "vetispiradiene cyclase activity",
+      "vetispiradiene-forming farnesyl pyrophosphate cyclase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.21",
+      "4.2.3.21",
+      "4.2.3.21",
+      "4.2.3.21",
+      "4.2.3.21",
+      "4.2.3.21",
+      "4.2.3.21"
+    ],
+    "KEGG_REACTION": [
+      "R06523"
+    ],
+    "MetaCyc": [
+      "RXN-4823"
+    ],
+    "RHEA": [
+      "10340",
+      "10340"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-trans,6-trans-farnesyl diphosphate = diphosphate + vetispiradiene.",
+  "namespace": "molecular_function",
+  "label": "vetispiradiene synthase activity"
+}

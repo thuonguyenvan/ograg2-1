@@ -1,0 +1,31 @@
+{
+  "id": "GO:0008063",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008063",
+  "relationships": {
+    "is_a": [
+      "GO:0007166"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Tl signaling pathway",
+      "Tl signalling pathway",
+      "Toll signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ],
+    "PMID": [
+      "11135568",
+      "19126860"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by an extracellular ligand binding to the receptor Toll on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "Toll signaling pathway"
+}

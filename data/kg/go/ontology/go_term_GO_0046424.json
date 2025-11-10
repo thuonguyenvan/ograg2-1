@@ -1,0 +1,28 @@
+{
+  "id": "GO:0046424",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046424",
+  "relationships": {
+    "is_a": [
+      "GO:0004497",
+      "GO:0016651"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-1121"
+    ],
+    "PMID": [
+      "8692910",
+      "9880351"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ferulic acid + NADPH + H+ + O2 = 5-hydroxyferulic acid + H2O + NADP+.",
+  "namespace": "molecular_function",
+  "label": "ferulate 5-hydroxylase activity"
+}

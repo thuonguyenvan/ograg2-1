@@ -1,0 +1,35 @@
+{
+  "id": "GO:0007105",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007105",
+  "relationships": {
+    "is_a": [
+      "GO:0032506"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytokinesis, site selection",
+      "division plane positioning",
+      "site selection involved in cell cycle cytokinesis",
+      "site selection involved in cytokinesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "contractile ring localization"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "26553932",
+      "28162898"
+    ],
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The process in which a contractile ring is positioned in a specific location. This process is critical for both for both symmetric and asymmetric cell divisions.",
+  "namespace": "biological_process",
+  "label": "cytokinesis, division site positioning"
+}

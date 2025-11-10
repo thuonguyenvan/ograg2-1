@@ -1,0 +1,26 @@
+{
+  "id": "GO:0009401",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009401",
+  "relationships": {
+    "is_a": [
+      "GO:0098704"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "PTS system"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "31209249",
+      "33820910"
+    ]
+  },
+  "definition": "The uptake and phosphorylation of specific carbohydrates from the extracellular environment; uptake and phosphorylation are coupled, making the PTS a link between the uptake and metabolism of sugars; phosphoenolpyruvate is the original phosphate donor; phosphoenolpyruvate passes the phosphate via a signal transduction pathway, to enzyme 1 (E1), which in turn passes it on to the histidine protein, HPr; the next step in the system involves sugar-specific membrane-bound complex, enzyme 2 (EII), which transports the sugar into the cell; it includes the sugar permease, which catalyzes the transport reactions; EII is usually divided into three different domains, EIIA, EIIB, and EIIC.",
+  "namespace": "biological_process",
+  "label": "phosphoenolpyruvate-dependent sugar phosphotransferase system"
+}

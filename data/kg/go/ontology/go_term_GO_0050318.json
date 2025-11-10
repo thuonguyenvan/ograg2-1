@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050318",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050318",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "tannase S",
+      "tannin acetylhydrolase activity",
+      "tannin acylhydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.20",
+      "3.1.1.20",
+      "3.1.1.20",
+      "3.1.1.20",
+      "3.1.1.20"
+    ],
+    "KEGG_REACTION": [
+      "R00053"
+    ],
+    "MetaCyc": [
+      "TANNASE-RXN"
+    ],
+    "RHEA": [
+      "16365",
+      "16365"
+    ]
+  },
+  "definition": "Catalysis of the reaction: digallate + H2O = 2 gallate + H+.",
+  "namespace": "molecular_function",
+  "label": "tannase activity"
+}

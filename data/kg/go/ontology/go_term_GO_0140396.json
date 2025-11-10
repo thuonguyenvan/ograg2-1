@@ -1,0 +1,30 @@
+{
+  "id": "GO:0140396",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140396",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.352",
+      "1.1.1.352"
+    ],
+    "RHEA": [
+      "35475"
+    ],
+    "PMID": [
+      "14602595"
+    ]
+  },
+  "definition": "Catalyzes the reaction: (1&apos;S,5&apos;S)-hydroxyaverantin + NAD+ = 5&apos;-oxoaverantin + NADH.",
+  "namespace": "molecular_function",
+  "label": "5&apos;-hydroxyaverantin dehydrogenase activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:1903108",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903108",
+  "relationships": {
+    "is_a": [
+      "GO:0006355",
+      "GO:0062125"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of transcription from mitochondrial promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "21357609"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of transcription occurring in the mitochondrion.",
+  "namespace": "biological_process",
+  "label": "regulation of mitochondrial transcription"
+}

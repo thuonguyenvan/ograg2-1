@@ -1,0 +1,46 @@
+{
+  "id": "GO:0050564",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050564",
+  "relationships": {
+    "is_a": [
+      "GO:0016881"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "delta-(L-alpha-aminoadipyl)-L-cysteinyl-D-valine synthetase activity"
+    ],
+    "broad": [
+      "ACV synthetase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "L-2-aminohexanedioate:L-cysteine:L-valine ligase (AMP-forming, valine-inverting)",
+      "L-alpha-aminoadipyl-cysteinyl-valine synthetase activity",
+      "L-delta-(alpha-aminoadipoyl)-L-cysteinyl-D-valine synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.2.26",
+      "6.3.2.26",
+      "6.3.2.26",
+      "6.3.2.26",
+      "6.3.2.26",
+      "6.3.2.26"
+    ],
+    "KEGG_REACTION": [
+      "R04870"
+    ],
+    "MetaCyc": [
+      "6.3.2.26-RXN"
+    ],
+    "RHEA": [
+      "23196",
+      "23196"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-2-aminoadipate + L-cysteine + L-valine + 3 ATP + H2O = N-[(5S)-5-amino-5-carboxypentanoyl]-L-cysteinyl-D-valine + 3 AMP + 3 diphosphate + 6 H+.",
+  "namespace": "molecular_function",
+  "label": "N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase activity"
+}

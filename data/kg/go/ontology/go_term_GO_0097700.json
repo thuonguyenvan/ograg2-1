@@ -1,0 +1,34 @@
+{
+  "id": "GO:0097700",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097700",
+  "relationships": {
+    "is_a": [
+      "GO:0071499",
+      "GO:0097699"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "blood vessel endothelial cell response to laminar fluid shear stress"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9856530"
+    ],
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "bc"
+    ],
+    "PMID": [
+      "21768538"
+    ]
+  },
+  "definition": "Any response to laminar fluid shear stress in a vascular endothelial cell.",
+  "namespace": "biological_process",
+  "label": "High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells"
+}

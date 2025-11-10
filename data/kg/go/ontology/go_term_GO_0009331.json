@@ -1,0 +1,30 @@
+{
+  "id": "GO:0009331",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009331",
+  "relationships": {
+    "is_a": [
+      "GO:1990204"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "glycerol-3-phosphate dehydrogenase complex"
+    ],
+    "narrow": [
+      "aerobic glycerol 3-phosphate dehydrogenase",
+      "anaerobic glycerol-3-phosphate dehydrogenase"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "18296637",
+      "3286606",
+      "7576488"
+    ]
+  },
+  "definition": "An enzyme complex that catalyzes the oxidation of sn-glycerol 3-phosphate to dihydroxyacetone phosphate, with concurrent reduction of flavin adenine dinucleotide (FAD) to FADH2. In E. coli, the complex is either a GlpA-GlpB-GlpC heterotrimer that functions in anaerobic conditions, or a GlpD homodimer that functions in aerobic conditions.",
+  "namespace": "cellular_component",
+  "label": "glycerol-3-phosphate dehydrogenase (FAD) complex"
+}

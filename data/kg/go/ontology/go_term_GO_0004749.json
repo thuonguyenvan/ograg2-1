@@ -1,0 +1,72 @@
+{
+  "id": "GO:0004749",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004749",
+  "relationships": {
+    "is_a": [
+      "GO:0016778"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ribose-phosphate pyrophosphokinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-phosphoribose pyrophosphorylase activity",
+      "5-phosphoribosyl-1-pyrophosphate synthetase activity",
+      "5-phosphoribosyl-alpha-1-pyrophosphate synthetase activity",
+      "ATP:D-ribose-5-phosphate diphosphotransferase activity",
+      "PP-ribose P synthetase activity",
+      "PPRibP synthetase activity",
+      "PRPP synthetase activity",
+      "phosphoribosyl diphosphate synthetase activity",
+      "phosphoribosyl pyrophosphate synthetase activity",
+      "phosphoribosyl-diphosphate synthetase activity",
+      "phosphoribosylpyrophosphate synthase activity",
+      "phosphoribosylpyrophosphate synthetase activity",
+      "pyrophosphoribosylphosphate synthetase activity",
+      "ribophosphate pyrophosphokinase activity",
+      "ribose-5-phosphate pyrophosphokinase activity",
+      "ribose-phosphate diphosphokinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.6.1",
+      "2.7.6.1",
+      "2.7.6.1",
+      "2.7.6.1",
+      "2.7.6.1",
+      "2.7.6.1",
+      "2.7.6.1",
+      "2.7.6.1",
+      "2.7.6.1",
+      "2.7.6.1",
+      "2.7.6.1",
+      "2.7.6.1",
+      "2.7.6.1",
+      "2.7.6.1",
+      "2.7.6.1",
+      "2.7.6.1",
+      "2.7.6.1"
+    ],
+    "KEGG_REACTION": [
+      "R01049"
+    ],
+    "MetaCyc": [
+      "PRPPSYN-RXN"
+    ],
+    "RHEA": [
+      "15609",
+      "15609"
+    ],
+    "Reactome": [
+      "R-HSA-111215",
+      "R-HSA-73580"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-ribose 5-phosphate + ATP = 5-phospho-alpha-D-ribose 1-diphosphate + AMP + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "PRPS dimers pyrophosphorylate R5P using ATP"
+}

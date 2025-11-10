@@ -1,0 +1,42 @@
+{
+  "id": "GO:1903296",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903296",
+  "relationships": {
+    "is_a": [
+      "GO:0001956",
+      "GO:0014049",
+      "GO:0051968",
+      "GO:1903294"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of glutamate secretion, neurotransmission",
+      "up-regulation of glutamate secretion, neurotransmission",
+      "upregulation of glutamate secretion, neurotransmission"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of glutamate secretion, neurotransmission"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "16782817"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of glutamate secretion, where glutamate acts as a neurotransmitter.",
+  "namespace": "biological_process",
+  "label": "positive regulation of glutamate secretion, neurotransmission"
+}

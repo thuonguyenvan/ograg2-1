@@ -1,0 +1,51 @@
+{
+  "id": "GO:0004329",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004329",
+  "relationships": {
+    "is_a": [
+      "GO:0016879"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "10-formyl-THF synthetase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "10-formyltetrahydrofolate synthetase activity",
+      "formate:tetrahydrofolate ligase (ADP-forming)",
+      "formyltetrahydrofolate synthetase activity",
+      "tetrahydrofolate formylase activity",
+      "tetrahydrofolic formylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.4.3",
+      "6.3.4.3",
+      "6.3.4.3",
+      "6.3.4.3",
+      "6.3.4.3",
+      "6.3.4.3",
+      "6.3.4.3"
+    ],
+    "MetaCyc": [
+      "FORMATETHFLIG-RXN"
+    ],
+    "RHEA": [
+      "20221"
+    ],
+    "Reactome": [
+      "R-HSA-200711",
+      "R-HSA-5696839",
+      "R-HSA-6801456"
+    ],
+    "GOC": [
+      "vw"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + formate + tetrahydrofolate = ADP + phosphate + 10-formyltetrahydrofolate.",
+  "namespace": "molecular_function",
+  "label": "MTHFD1L transforms 10-formyl-THF to HCOOH and THF"
+}

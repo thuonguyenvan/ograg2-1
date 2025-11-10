@@ -1,0 +1,34 @@
+{
+  "id": "GO:0046404",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046404",
+  "relationships": {
+    "is_a": [
+      "GO:0051734"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent DNA kinase activity"
+    ],
+    "broad": [
+      "polydeoxyribonucleotide 5&apos;-hydroxyl-kinase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R03840"
+    ],
+    "MetaCyc": [
+      "POLYNUCLEOTIDE-5-HYDROXYL-KINASE-RXN"
+    ],
+    "RHEA": [
+      "15669",
+      "15669"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + 5&apos;-dephospho-DNA = ADP + 5&apos;-phospho-DNA.",
+  "namespace": "molecular_function",
+  "label": "ATP-dependent polydeoxyribonucleotide 5&apos;-hydroxyl-kinase activity"
+}

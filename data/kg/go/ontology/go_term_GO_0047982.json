@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047982",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047982",
+  "relationships": {
+    "is_a": [
+      "GO:0016846"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-homocysteine hydrogen-sulfide-lyase (deaminating)",
+      "L-homocysteine hydrogen-sulfide-lyase (deaminating; 2-oxobutanoate-forming)",
+      "homocysteine desulfurase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.4.1.2",
+      "4.4.1.2",
+      "4.4.1.2",
+      "4.4.1.2",
+      "4.4.1.2"
+    ],
+    "MetaCyc": [
+      "HOMOCYSTEINE-DESULFHYDRASE-RXN",
+      "HOMOCYSTEINE-DESULFHYDRASE-RXN"
+    ],
+    "RHEA": [
+      "14501"
+    ],
+    "Reactome": [
+      "R-HSA-1614631"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-homocysteine + H2O = sulfide + NH3 + 2-oxobutanoate.",
+  "namespace": "molecular_function",
+  "label": "Homocysteine is degraded to oxobutanoate and H2S"
+}

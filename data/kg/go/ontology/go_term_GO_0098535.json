@@ -1,0 +1,43 @@
+{
+  "id": "GO:0098535",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098535",
+  "relationships": {
+    "is_a": [
+      "GO:0097742"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "de novo centriole assembly via deuterosome"
+    ],
+    "broad": [
+      "de novo centriole assembly"
+    ],
+    "narrow": [],
+    "related": [
+      "centriole amplification",
+      "deuterosomal basal body biogenesis",
+      "deuterosome pathway",
+      "deuterosome-mediated centriole biogenesis",
+      "multiciliation",
+      "multiciliogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "dos"
+    ],
+    "PMID": [
+      "24075808",
+      "5111878",
+      "5661997",
+      "24075808",
+      "25047614",
+      "24075808"
+    ]
+  },
+  "definition": "Centriole assembly in which a centriole arises de novo by a process involving an electron-dense structure known as a deuterosome, rather than by duplication of an existing centriole, and occurring as part of multi-ciliated epithelial cell differentiation.",
+  "namespace": "biological_process",
+  "label": "de novo centriole assembly involved in multi-ciliated epithelial cell differentiation"
+}

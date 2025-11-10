@@ -1,0 +1,34 @@
+{
+  "id": "GO:0034343",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034343",
+  "relationships": {
+    "is_a": [
+      "GO:0001816"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "type III IFN production"
+    ],
+    "broad": [],
+    "narrow": [
+      "type III interferon secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0126896631"
+    ],
+    "PMID": [
+      "15546383",
+      "16734557"
+    ]
+  },
+  "definition": "The appearance of type III interferon due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels. Interferon lambda is the only member of the type III interferon found so far.",
+  "namespace": "biological_process",
+  "label": "type III interferon production"
+}

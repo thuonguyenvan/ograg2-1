@@ -1,0 +1,46 @@
+{
+  "id": "GO:0004461",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004461",
+  "relationships": {
+    "is_a": [
+      "GO:0035250"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-galactose-glucose galactosyltransferase activity",
+      "UDP-galactose:D-glucose 4-beta-D-galactotransferase activity",
+      "UDPgalactose-glucose galactosyltransferase activity",
+      "UDPgalactose:D-glucose 4-beta-D-galactotransferase activity",
+      "lactose synthetase activity",
+      "uridine diphosphogalactose-glucose galactosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.22",
+      "2.4.1.22",
+      "2.4.1.22",
+      "2.4.1.22",
+      "2.4.1.22",
+      "2.4.1.22",
+      "2.4.1.22",
+      "2.4.1.22"
+    ],
+    "MetaCyc": [
+      "LACTOSE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "12404"
+    ],
+    "Reactome": [
+      "R-HSA-5653878"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-galactose + D-glucose = UDP + lactose.",
+  "namespace": "molecular_function",
+  "label": "B4GALT1:LALBA transfers Gal from UDP-Gal to Glc to form Lac"
+}

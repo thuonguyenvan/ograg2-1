@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033893",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033893",
+  "relationships": {
+    "is_a": [
+      "GO:0016891"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "endoribonuclease IV activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.26.6",
+      "3.1.26.6",
+      "3.1.26.6"
+    ],
+    "MetaCyc": [
+      "3.1.26.6-RXN"
+    ]
+  },
+  "definition": "Catalysis of the endonucleolytic cleavage of poly(A) to fragments terminated by 3&apos;-hydroxy and 5&apos;-phosphate groups.",
+  "namespace": "molecular_function",
+  "label": "ribonuclease IV activity"
+}

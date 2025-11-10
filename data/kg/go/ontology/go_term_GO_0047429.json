@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047429",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047429",
+  "relationships": {
+    "is_a": [
+      "GO:0016462"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nucleoside-triphosphate diphosphatase activity",
+      "nucleoside-triphosphate diphosphohydrolase activity",
+      "nucleoside-triphosphate pyrophosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.1.9",
+      "3.6.1.9",
+      "3.6.1.9",
+      "3.6.1.9"
+    ],
+    "MetaCyc": [
+      "NUCLEOTIDE-PYROPHOSPHATASE-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-9755030"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a nucleoside triphosphate + H2O = a nucleotide + H+ + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "ITPA dimer dephosphorylates RBV-TP to RBV-MP"
+}

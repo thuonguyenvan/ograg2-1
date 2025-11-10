@@ -1,0 +1,39 @@
+{
+  "id": "GO:0033830",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033830",
+  "relationships": {
+    "is_a": [
+      "GO:0008375",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Skp1-HyPro GlcNAc-transferase activity",
+      "UDP-GlcNAc:Skp1-hydroxyproline GlcNAc-transferase activity",
+      "UDP-GlcNAc:hydroxyproline polypeptide GlcNAc-transferase activity",
+      "UDP-N-acetyl-D-glucosamine:Skp1-protein-hydroxyproline N-acetyl-D-glucosaminyl-transferase activity",
+      "UDP-N-acetylglucosamine (GlcNAc):hydroxyproline polypeptide GlcNAc-transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.229",
+      "2.4.1.229",
+      "2.4.1.229",
+      "2.4.1.229",
+      "2.4.1.229",
+      "2.4.1.229",
+      "2.4.1.229"
+    ],
+    "RHEA": [
+      "17841"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-N-acetylglucosamine + Skp1-protein-hydroxyproline = UDP + Skp1-protein-O-(N-acetyl-D-glucosaminyl)hydroxyproline.",
+  "namespace": "molecular_function",
+  "label": "Skp1-protein-hydroxyproline N-acetylglucosaminyltransferase activity"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0099641",
+  "uri": "http://purl.obolibrary.org/obo/GO_0099641",
+  "relationships": {
+    "is_a": [
+      "GO:0008089",
+      "GO:0099640",
+      "GO:1905383"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "anterograde axon cargo transport"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dos"
+    ]
+  },
+  "definition": "The directed movement of proteins along microtubules from the cell body toward the cell periphery in nerve cell axons.",
+  "namespace": "biological_process",
+  "label": "anterograde axonal protein transport"
+}

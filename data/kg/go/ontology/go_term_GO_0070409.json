@@ -1,0 +1,35 @@
+{
+  "id": "GO:0070409",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070409",
+  "relationships": {
+    "is_a": [
+      "GO:0070408",
+      "GO:0090407"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "carbamoyl phosphate anabolism",
+      "carbamoyl phosphate biosynthesis",
+      "carbamoyl phosphate formation",
+      "carbamoyl phosphate synthesis",
+      "carbamyl phosphate biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "CHEBI": [
+      "17672"
+    ],
+    "GOC": [
+      "mah",
+      "rph",
+      "rph"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of carbamoyl phosphate, an intermediate in the urea cycle and other nitrogen compound metabolic pathways.",
+  "namespace": "biological_process",
+  "label": "carbamoyl phosphate biosynthetic process"
+}

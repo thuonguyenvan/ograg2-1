@@ -1,0 +1,37 @@
+{
+  "id": "GO:0019294",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019294",
+  "relationships": {
+    "is_a": [
+      "GO:0046364",
+      "GO:0046394"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "KDO biosynthesis",
+      "KDO biosynthetic process",
+      "keto-3-deoxy-D-manno-octulosonic acid anabolism",
+      "keto-3-deoxy-D-manno-octulosonic acid biosynthesis",
+      "keto-3-deoxy-D-manno-octulosonic acid formation",
+      "keto-3-deoxy-D-manno-octulosonic acid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ketodeoxyoctanoate biosynthetic process"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "KDOSYN-PWY"
+    ],
+    "ISBN": [
+      "0198506732",
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of keto-3-deoxy-D-manno-octulosonic acid, an acidic sugar present in lipopolysaccharides of the outer membranes of some Gram-negative bacteria.",
+  "namespace": "biological_process",
+  "label": "keto-3-deoxy-D-manno-octulosonic acid biosynthetic process"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "GO:0010201",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010201",
+  "relationships": {
+    "is_a": [
+      "GO:0010218"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_far_red",
+      "sm"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of the detection of a continuous far red light stimulus by the high-irradiance response system. Far red light is electromagnetic radiation of wavelength 700-800nm. The activity of the high-irradiance response system is characterized by stronger effects of continuous than pulsed light at equal total fluence.",
+  "namespace": "biological_process",
+  "label": "response to continuous far red light stimulus by the high-irradiance response system"
+}

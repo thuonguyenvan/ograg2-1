@@ -1,0 +1,38 @@
+{
+  "id": "GO:0021804",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021804",
+  "relationships": {
+    "is_a": [
+      "GO:0007162"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of cell adhesion in ventricular zone",
+      "down-regulation of cell adhesion in ventricular zone",
+      "downregulation of cell adhesion in ventricular zone"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of cell adhesion in ventricular zone"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "12626695"
+    ]
+  },
+  "definition": "The process that results in the loss of attachments of a cell in the ventricular zone.",
+  "namespace": "biological_process",
+  "label": "negative regulation of cell adhesion in ventricular zone"
+}

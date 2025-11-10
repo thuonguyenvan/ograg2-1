@@ -1,0 +1,35 @@
+{
+  "id": "GO:0036055",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036055",
+  "relationships": {
+    "is_a": [
+      "GO:0141218"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptidyl-succinyllysine desuccinylase activity"
+    ],
+    "broad": [
+      "succinyl lysine desuccinylase activity",
+      "succinyllysine desuccinylase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "47668",
+      "47668"
+    ],
+    "PMID": [
+      "22076378"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N(6)-succinyl-L-lysyl-[protein] + NAD+ + H2O = 2&apos;&apos;-O-succinyl-ADP-D-ribose + nicotinamide + L-lysyl-[protein].",
+  "namespace": "molecular_function",
+  "label": "protein-succinyllysine desuccinylase activity"
+}

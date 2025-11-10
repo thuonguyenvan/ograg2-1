@@ -1,0 +1,41 @@
+{
+  "id": "GO:0033971",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033971",
+  "relationships": {
+    "is_a": [
+      "GO:0016812"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-hydroxyisourate amidohydrolase activity",
+      "5-hydroxyisourate hydrolase activity",
+      "HIUHase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.2.17",
+      "3.5.2.17",
+      "3.5.2.17",
+      "3.5.2.17",
+      "3.5.2.17"
+    ],
+    "KEGG_REACTION": [
+      "R06601"
+    ],
+    "MetaCyc": [
+      "3.5.2.17-RXN"
+    ],
+    "RHEA": [
+      "23736",
+      "23736"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-hydroxyisourate + H2O = 5-hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate + H+.",
+  "namespace": "molecular_function",
+  "label": "hydroxyisourate hydrolase activity"
+}

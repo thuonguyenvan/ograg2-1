@@ -1,0 +1,31 @@
+{
+  "id": "GO:0035695",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035695",
+  "relationships": {
+    "is_a": [
+      "GO:0000422"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "MIV-mediated mitophagy"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "autophagy",
+      "bf",
+      "sp"
+    ],
+    "PMID": [
+      "21264228",
+      "21264228"
+    ]
+  },
+  "definition": "The process in which cells degrade mitochondria by inducing a vacuole-like structure which directly engulfs and degrades the unhealthy mitochondria by accumulating lysosomes.",
+  "namespace": "biological_process",
+  "label": "mitophagy by internal vacuole formation"
+}

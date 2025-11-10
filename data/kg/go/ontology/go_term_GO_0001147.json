@@ -1,0 +1,34 @@
+{
+  "id": "GO:0001147",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001147",
+  "relationships": {
+    "is_a": [
+      "GO:0000976"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "bacterial-type RNA polymerase termination site sequence-specific DNA binding",
+      "mitochondrial RNA polymerase termination site sequence-specific DNA binding",
+      "mitochondrial RNA polymerase terminator site sequence-specific DNA binding transcription factor activity",
+      "transcription factor activity, mitochondrial RNA polymerase terminator site sequence-specific binding"
+    ],
+    "related": [
+      "transcription termination site DNA binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH"
+    ],
+    "PMID": [
+      "18280161",
+      "18391175"
+    ]
+  },
+  "definition": "Binding to a sequence of DNA that promotes termination by RNA polymerase. The transcribed region might be described as a gene, cistron, or operon.",
+  "namespace": "molecular_function",
+  "label": "transcription termination site sequence-specific DNA binding"
+}

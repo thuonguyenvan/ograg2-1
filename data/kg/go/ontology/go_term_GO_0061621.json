@@ -1,0 +1,37 @@
+{
+  "id": "GO:0061621",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061621",
+  "relationships": {
+    "is_a": [
+      "GO:0061620",
+      "GO:0061718"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "ANAGLYCOLYSIS-PWY"
+    ],
+    "Reactome": [
+      "R-HSA-70171"
+    ],
+    "Wikipedia": [
+      "Glycolysis"
+    ],
+    "GOC": [
+      "dph"
+    ],
+    "ISBN": [
+      "0201090910",
+      "0879010479"
+    ]
+  },
+  "definition": "The glycolytic process that begins with the conversion of glucose to glucose-6-phosphate by glucokinase activity. Glycolytic processes are the chemical reactions and pathways resulting in the breakdown of a carbohydrate into pyruvate, with the concomitant production of a small amount of ATP.",
+  "namespace": "biological_process",
+  "label": "Glycolysis"
+}

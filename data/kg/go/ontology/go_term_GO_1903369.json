@@ -1,0 +1,41 @@
+{
+  "id": "GO:1903369",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903369",
+  "relationships": {
+    "is_a": [
+      "GO:0048521",
+      "GO:1903368"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of foraging behavior",
+      "down-regulation of foraging behavior",
+      "downregulation of foraging behavior"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of foraging behavior"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mr",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "8677262"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of foraging behavior.",
+  "namespace": "biological_process",
+  "label": "negative regulation of foraging behavior"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:0002223",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002223",
+  "relationships": {
+    "is_a": [
+      "GO:0002220",
+      "GO:1990858"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "stimulatory C-type lectin receptor signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "stimulatory Ly49 family receptor signaling pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5621481"
+    ],
+    "GOC": [
+      "add"
+    ],
+    "GO_REF": [
+      "0000022"
+    ],
+    "ISBN": [
+      "0781735149",
+      "0781735149"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by the binding of C-type lectin to its receptor on the surface of a target cell, and resulting in cellular activation.",
+  "namespace": "biological_process",
+  "label": "C-type lectin receptors (CLRs)"
+}

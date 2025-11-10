@@ -1,0 +1,39 @@
+{
+  "id": "GO:1902777",
+  "uri": "http://purl.obolibrary.org/obo/GO_1902777",
+  "relationships": {
+    "is_a": [
+      "GO:0016054",
+      "GO:0044273",
+      "GO:1901136"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "6-sulfoquinovose(1-) breakdown",
+      "6-sulfoquinovose(1-) catabolism",
+      "6-sulfoquinovose(1-) degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000068"
+    ],
+    "PMID": [
+      "24463506"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of 6-sulfoquinovose(1-).",
+  "namespace": "biological_process",
+  "label": "6-sulfoquinovose(1-) catabolic process"
+}

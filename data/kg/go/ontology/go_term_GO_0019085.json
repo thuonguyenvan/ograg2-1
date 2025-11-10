@@ -1,0 +1,27 @@
+{
+  "id": "GO:0019085",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019085",
+  "relationships": {
+    "is_a": [
+      "GO:0019083"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "immediate early viral mRNA transcription"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "jh2",
+      "jl"
+    ]
+  },
+  "definition": "The first phase of viral transcription that occurs after entry of the virus into the host cell, but prior to viral genome replication. It involves the transcription of genes for non-structural proteins, and for lytic viruses, the early gene products are involved in establishing control over the host cell.",
+  "namespace": "biological_process",
+  "label": "early viral transcription"
+}

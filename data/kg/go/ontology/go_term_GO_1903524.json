@@ -1,0 +1,52 @@
+{
+  "id": "GO:1903524",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903524",
+  "relationships": {
+    "is_a": [
+      "GO:0051240",
+      "GO:1903522"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of blood circulation",
+      "up-regulation of blood circulation",
+      "upregulation of blood circulation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of blood circulation"
+    ],
+    "related": [
+      "activation of hemolymph circulation",
+      "positive regulation of hemolymph circulation",
+      "up regulation of hemolymph circulation",
+      "up-regulation of hemolymph circulation",
+      "upregulation of hemolymph circulation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "mr",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "10659969"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of blood circulation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of blood circulation"
+}

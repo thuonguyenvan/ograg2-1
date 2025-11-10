@@ -1,0 +1,49 @@
+{
+  "id": "GO:0004689",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004689",
+  "relationships": {
+    "is_a": [
+      "GO:0004683"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphorylase kinase, intrinsic catalyst activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:phosphorylase-b phosphotransferase activity",
+      "PHK",
+      "STK17",
+      "dephosphophosphorylase kinase activity",
+      "glycogen phosphorylase kinase activity",
+      "phosphorylase B kinase activity",
+      "phosphorylase kinase (phosphorylating) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.11.19",
+      "2.7.11.19",
+      "2.7.11.19",
+      "2.7.11.19",
+      "2.7.11.19",
+      "2.7.11.19",
+      "2.7.11.19",
+      "2.7.11.19",
+      "2.7.11.19"
+    ],
+    "MetaCyc": [
+      "2.7.11.19-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-453337",
+      "R-HSA-71541",
+      "R-HSA-71588"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4 ATP + 2 phosphorylase b = 4 ADP + phosphorylase a.",
+  "namespace": "molecular_function",
+  "label": "glycogen phosphorylase (PYGL) dimer b + 2 ATP =&gt; glycogen phosphorylase (PYGL) dimer a + 2 ADP"
+}

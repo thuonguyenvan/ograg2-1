@@ -1,0 +1,51 @@
+{
+  "id": "GO:0003951",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003951",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NAD kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:NAD+ 2&apos;-phosphotransferase activity",
+      "DPN kinase activity",
+      "NADK",
+      "nicotinamide adenine dinucleotide kinase (phosphorylating)",
+      "nicotinamide adenine dinucleotide kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.23",
+      "2.7.1.23",
+      "2.7.1.23",
+      "2.7.1.23",
+      "2.7.1.23",
+      "2.7.1.23"
+    ],
+    "KEGG_REACTION": [
+      "R00104"
+    ],
+    "MetaCyc": [
+      "NAD-KIN-RXN"
+    ],
+    "RHEA": [
+      "18629",
+      "18629"
+    ],
+    "Reactome": [
+      "R-HSA-197198",
+      "R-HSA-8955030"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + NAD+ = ADP + H+ + NADP+.",
+  "namespace": "molecular_function",
+  "label": "NADK2 dimer phosphorylates NAD+ to NADP+"
+}

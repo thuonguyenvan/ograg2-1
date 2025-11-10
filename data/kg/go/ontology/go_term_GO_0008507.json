@@ -1,0 +1,30 @@
+{
+  "id": "GO:0008507",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008507",
+  "relationships": {
+    "is_a": [
+      "GO:0015111",
+      "GO:0015373"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sodium/iodide symporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-429591",
+      "R-HSA-5658195"
+    ],
+    "TC": [
+      "2.A.21.5.1"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: iodide(out) + Na+(out) = iodide(in) + Na+(in).",
+  "namespace": "molecular_function",
+  "label": "Defective SLC5A5 does not cotransport Na+ with I- from extracellular region to cytosol"
+}

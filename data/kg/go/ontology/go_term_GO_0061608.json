@@ -1,0 +1,36 @@
+{
+  "id": "GO:0061608",
+  "uri": "http://purl.obolibrary.org/obo/GO_0061608",
+  "relationships": {
+    "is_a": [
+      "GO:0140142"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "importin activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2065550"
+    ],
+    "GOC": [
+      "dph",
+      "pg",
+      "vw"
+    ],
+    "PMID": [
+      "28713609"
+    ],
+    "Wikipedia": [
+      "Nuclear_transport"
+    ]
+  },
+  "definition": "Combining with a nuclear import signal (NIS) on a cargo to be transported, to mediate transport of the cargo through the nuclear pore, from the cytoplasm to the nuclear lumen. The cargo can be either a RNA or a protein.",
+  "namespace": "molecular_function",
+  "label": "SREBP1A,1C,2 binds Importin beta-1"
+}

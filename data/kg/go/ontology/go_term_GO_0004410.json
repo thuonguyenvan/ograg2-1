@@ -1,0 +1,44 @@
+{
+  "id": "GO:0004410",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004410",
+  "relationships": {
+    "is_a": [
+      "GO:0046912"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-hydroxybutane-1,2,4-tricarboxylate 2-oxoglutarate-lyase (CoA- acetylating) activity",
+      "2-hydroxybutane-1,2,4-tricarboxylate 2-oxoglutarate-lyase (CoA-acetylating)",
+      "acetyl-CoA:2-oxoglutarate C-acetyltransferase (thioester-hydrolysing, carboxymethyl forming)",
+      "acetyl-coenzyme A:2-ketoglutarate C-acetyl transferase activity",
+      "homocitrate synthetase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.3.14",
+      "2.3.3.14",
+      "2.3.3.14",
+      "2.3.3.14",
+      "2.3.3.14",
+      "2.3.3.14"
+    ],
+    "KEGG_REACTION": [
+      "R00271"
+    ],
+    "MetaCyc": [
+      "HOMOCITRATE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "12929",
+      "12929"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxoglutarate + acetyl-CoA + H2O = CoA + H+ + homocitrate.",
+  "namespace": "molecular_function",
+  "label": "homocitrate synthase activity"
+}

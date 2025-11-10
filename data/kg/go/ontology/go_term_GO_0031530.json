@@ -1,0 +1,30 @@
+{
+  "id": "GO:0031530",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031530",
+  "relationships": {
+    "is_a": [
+      "GO:0051428"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GnRH receptor binding",
+      "gonadotrophin-releasing hormone receptor binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pr",
+      "dph"
+    ],
+    "PMID": [
+      "15196882"
+    ]
+  },
+  "definition": "Binding to a receptor for gonadotropin-releasing hormone (GnRH), a peptide hormone that is synthesized and released by the hypothalamus and is responsible for the release of follicle-stimulating hormone (FSH) and luteinizing hormone (LH) from the anterior pituitary.",
+  "namespace": "molecular_function",
+  "label": "gonadotropin-releasing hormone receptor binding"
+}

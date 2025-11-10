@@ -1,0 +1,39 @@
+{
+  "id": "GO:1903541",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903541",
+  "relationships": {
+    "is_a": [
+      "GO:0017157"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of exosomal secretory pathway",
+      "regulation of extracellular vesicular exosome secretion",
+      "regulation of secretion of exosome"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of exosomal protein secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "24105262"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of exosomal secretion.",
+  "namespace": "biological_process",
+  "label": "regulation of exosomal secretion"
+}

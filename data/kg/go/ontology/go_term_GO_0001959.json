@@ -1,0 +1,33 @@
+{
+  "id": "GO:0001959",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001959",
+  "relationships": {
+    "is_a": [
+      "GO:0009966",
+      "GO:0060759"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of cytokine and chemokine mediated signaling pathway",
+      "regulation of cytokine mediated signaling pathway",
+      "regulation of cytokine mediated signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8939247"
+    ],
+    "GOC": [
+      "hjd",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of the cytokine mediated signaling pathway.",
+  "namespace": "biological_process",
+  "label": "RUNX1 regulates transcription of genes involved in interleukin signaling"
+}

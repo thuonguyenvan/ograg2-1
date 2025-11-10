@@ -1,0 +1,35 @@
+{
+  "id": "GO:0018461",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018461",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "9-fluorenol dehydrogenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "fluoren-9-ol:NAD(P)+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.256",
+      "1.1.1.256",
+      "1.1.1.256"
+    ],
+    "MetaCyc": [
+      "9-FLUORENOL-DEHYDROGENASE-RXN"
+    ],
+    "UM-BBD_reactionID": [
+      "r0408"
+    ]
+  },
+  "definition": "Catalysis of the reaction: fluoren-9-ol + 2 NADP+ = fluoren-9-one + 2 NADPH + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "fluoren-9-ol dehydrogenase activity"
+}

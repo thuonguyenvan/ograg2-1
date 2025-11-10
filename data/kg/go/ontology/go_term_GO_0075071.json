@@ -1,0 +1,31 @@
+{
+  "id": "GO:0075071",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075071",
+  "relationships": {
+    "is_a": [
+      "GO:0044068"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "modulation by symbiont of host autophagy",
+      "symbiont-mediated modulation of host autophagy"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "autophagy during symbiotic interaction",
+      "autophagy involved in symbiotic interaction",
+      "modulation by symbiont of host autophagic process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "pamgo_curators",
+      "dph"
+    ]
+  },
+  "definition": "A process in which a symbiont alters or subverts autophagy in the host cell. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated perturbation of host autophagy"
+}

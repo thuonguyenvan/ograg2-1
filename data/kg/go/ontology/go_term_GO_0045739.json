@@ -1,0 +1,32 @@
+{
+  "id": "GO:0045739",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045739",
+  "relationships": {
+    "is_a": [
+      "GO:0006282",
+      "GO:0048584",
+      "GO:0051054"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of DNA repair",
+      "up-regulation of DNA repair",
+      "upregulation of DNA repair"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of DNA repair",
+      "stimulation of DNA repair"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of DNA repair.",
+  "namespace": "biological_process",
+  "label": "positive regulation of DNA repair"
+}

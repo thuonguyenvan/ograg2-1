@@ -1,0 +1,30 @@
+{
+  "id": "GO:0140448",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140448",
+  "relationships": {
+    "is_a": [
+      "GO:0016485"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "ligand maturation"
+    ],
+    "related": [
+      "signal maturation"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "29247995"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "The cleavage of a peptide bond in a precursor form of a signaling receptor ligand, resulting in the mature (active) form of the ligand.",
+  "namespace": "biological_process",
+  "label": "signaling receptor ligand precursor processing"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102251",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102251",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.70",
+      "1.13.11.70"
+    ],
+    "MetaCyc": [
+      "RXN-12393"
+    ],
+    "RHEA": [
+      "26401"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 10&apos;-apo-beta-carotenal + O2 = 13-apo-beta-carotenone + 4-methylocta-2,4,6-trienedial.",
+  "namespace": "molecular_function",
+  "label": "all-trans-beta-apo-10&apos;-carotenal cleavage oxygenase activity"
+}

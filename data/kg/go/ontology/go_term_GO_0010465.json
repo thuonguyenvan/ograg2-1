@@ -1,0 +1,31 @@
+{
+  "id": "GO:0010465",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010465",
+  "relationships": {
+    "is_a": [
+      "GO:0005030"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NGF receptor activity",
+      "beta-nerve growth factor receptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb"
+    ],
+    "PR": [
+      "000011194",
+      "000011194"
+    ]
+  },
+  "definition": "Combining with nerve growth factor (NGF), to prevent apoptosis in neurons and promote nerve growth, or to initiate a change in cell activity.",
+  "namespace": "molecular_function",
+  "label": "nerve growth factor receptor activity"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0010999",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010999",
+  "relationships": {
+    "is_a": [
+      "GO:0001932",
+      "GO:0006446",
+      "GO:0080135"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9648895"
+    ],
+    "GOC": [
+      "BHF",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the rate, frequency, or extent of eIF2 alpha phosphorylation as a result of heme levels.",
+  "namespace": "biological_process",
+  "label": "Response of EIF2AK1 (HRI) to heme deficiency"
+}

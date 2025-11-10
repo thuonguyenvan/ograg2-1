@@ -1,0 +1,36 @@
+{
+  "id": "GO:0016043",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016043",
+  "relationships": {
+    "is_a": [
+      "GO:0071840"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell organisation",
+      "cellular component organisation at cellular level",
+      "cellular component organisation in other organism",
+      "cellular component organization at cellular level",
+      "cellular component organization in other organism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cell organization and biogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "jl",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A process that results in the assembly, arrangement of constituent parts, or disassembly of a cellular component.",
+  "namespace": "biological_process",
+  "label": "cellular component organization"
+}

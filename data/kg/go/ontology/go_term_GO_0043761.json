@@ -1,0 +1,29 @@
+{
+  "id": "GO:0043761",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043761",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CDP-2,3-di-O-geranylgeranyl-sn-glycerol inositol 1-archaetidyltransferase activity",
+      "CDP-2,3-di-O-geranylgeranyl-sn-glycerol:l-serine O-archaetidyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.8.38"
+    ],
+    "PMID": [
+      "12562787"
+    ]
+  },
+  "definition": "Catalysis of the reaction: CDP-digeranylgeranylglycerol + L-serine = archaetidylserine + CMP.",
+  "namespace": "molecular_function",
+  "label": "archaetidylserine synthase activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:1990391",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990391",
+  "relationships": {
+    "is_a": [
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA damage repair complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "WHY1 complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bhm"
+    ],
+    "PMID": [
+      "17217467",
+      "20551348",
+      "22749910",
+      "24192350"
+    ]
+  },
+  "definition": "A protein complex involved in DNA repair processes including direct reversal, base excision repair, nucleotide excision repair, photoreactivation, bypass, double-strand break repair pathway, and mismatch repair pathway.",
+  "namespace": "cellular_component",
+  "label": "DNA repair complex"
+}

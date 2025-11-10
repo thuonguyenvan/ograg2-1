@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050505",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050505",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose:hydroquinone-O-beta-D-glucosyltransferase activity",
+      "UDPglucose:hydroquinone-O-beta-D-glucosyltransferase activity",
+      "arbutin synthase activity",
+      "hydroquinone:O-glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.218",
+      "2.4.1.218",
+      "2.4.1.218",
+      "2.4.1.218",
+      "2.4.1.218",
+      "2.4.1.218"
+    ],
+    "KEGG_REACTION": [
+      "R05769"
+    ],
+    "MetaCyc": [
+      "2.4.1.218-RXN"
+    ],
+    "RHEA": [
+      "12560",
+      "12560"
+    ]
+  },
+  "definition": "Catalysis of the reaction: hydroquinone + UDP-D-glucose = H+ + hydroquinone O-beta-D-glucopyranoside + UDP.",
+  "namespace": "molecular_function",
+  "label": "hydroquinone glucosyltransferase activity"
+}

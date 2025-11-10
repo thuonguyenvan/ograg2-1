@@ -1,0 +1,51 @@
+{
+  "id": "GO:0007186",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007186",
+  "relationships": {
+    "is_a": [
+      "GO:0007165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "G protein coupled receptor protein signaling pathway",
+      "G protein coupled receptor protein signalling pathway",
+      "G-protein coupled receptor protein signal transduction",
+      "G-protein coupled receptor protein signaling pathway",
+      "G-protein coupled receptor signalling pathway",
+      "G-protein-coupled receptor protein signalling pathway",
+      "GPCR signaling pathway",
+      "GPCR signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "G-protein coupled receptor signaling pathway via GPCR dimer",
+      "dimeric G-protein coupled receptor signaling pathway",
+      "dimeric G-protein coupled receptor signalling pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-373076",
+      "R-HSA-388396"
+    ],
+    "GOC": [
+      "bf",
+      "mah",
+      "bf",
+      "bf",
+      "mah"
+    ],
+    "PMID": [
+      "16902576",
+      "24568158"
+    ],
+    "Wikipedia": [
+      "G_protein-coupled_receptor"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by a ligand binding to its receptor, in which the activated receptor promotes the exchange of GDP for GTP on the alpha-subunit of an associated heterotrimeric G-protein complex. The GTP-bound activated alpha-G-protein then dissociates from the beta- and gamma-subunits to further transmit the signal within the cell. The pathway begins with receptor-ligand interaction, and ends with regulation of a downstream cellular process. The pathway can start from the plasma membrane, Golgi or nuclear membrane.",
+  "namespace": "biological_process",
+  "label": "GPCR downstream signalling"
+}

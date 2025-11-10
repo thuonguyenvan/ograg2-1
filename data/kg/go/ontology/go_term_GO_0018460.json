@@ -1,0 +1,36 @@
+{
+  "id": "GO:0018460",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018460",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cyclohexanol:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.245",
+      "1.1.1.245",
+      "1.1.1.245"
+    ],
+    "MetaCyc": [
+      "CYCLOHEXANOL-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "10044"
+    ],
+    "UM-BBD_reactionID": [
+      "r0165"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cyclohexanol + NAD+ = cyclohexanone + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "cyclohexanol dehydrogenase activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015129",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015129",
+  "relationships": {
+    "is_a": [
+      "GO:0008028"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "monocarboxylate (lactate, pyruvate, mevalonate) uptake/efflux porter activity"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-373867",
+      "R-HSA-373875"
+    ],
+    "GOC": [
+      "ai"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Enables the transfer of lactate from one side of a membrane to the other. Lactate is 2-hydroxypropanoate, CH3-CHOH-COOH; L(+)-lactate is formed by anaerobic glycolysis in animal tissues, and DL-lactate is found in sour milk, molasses and certain fruit juices.",
+  "namespace": "molecular_function",
+  "label": "BSG:MCTs cotransport LACT, H+ from cytosol to extracellular region"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:2000410",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000410",
+  "relationships": {
+    "is_a": [
+      "GO:2000404"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of thymic lymphocyte migration"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of immature T cell migration",
+      "regulation of immature T lymphocyte migration",
+      "regulation of immature T-cell migration",
+      "regulation of immature T-lymphocyte migration"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of thymocyte migration.",
+  "namespace": "biological_process",
+  "label": "regulation of thymocyte migration"
+}

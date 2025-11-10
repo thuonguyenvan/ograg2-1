@@ -1,0 +1,36 @@
+{
+  "id": "GO:0018762",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018762",
+  "relationships": {
+    "is_a": [
+      "GO:0000257"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "aliphatic nitrile aminohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.5.7",
+      "3.5.5.7",
+      "3.5.5.7"
+    ],
+    "MetaCyc": [
+      "3.5.5.7-RXN"
+    ],
+    "RHEA": [
+      "46188"
+    ],
+    "UM-BBD_reactionID": [
+      "r0622"
+    ]
+  },
+  "definition": "Catalysis of the reaction: R-CN + H2O = R-COOH + NH3.",
+  "namespace": "molecular_function",
+  "label": "aliphatic nitrilase activity"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0033539",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033539",
+  "relationships": {
+    "is_a": [
+      "GO:0006635"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "FAO-PWY",
+      "FAO-PWY"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "A fatty acid beta-oxidation pathway in which the initial step of each oxidation cycle, which converts an acyl-CoA to a trans-2-enoyl-CoA, is catalyzed by acyl-CoA dehydrogenase; the electrons removed by oxidation pass through the respiratory chain to oxygen and leave H2O as the product. Fatty acid beta-oxidation begins with the addition of coenzyme A to a fatty acid, and ends when only two or three carbons remain (as acetyl-CoA or propionyl-CoA respectively).",
+  "namespace": "biological_process",
+  "label": "fatty acid beta-oxidation using acyl-CoA dehydrogenase"
+}

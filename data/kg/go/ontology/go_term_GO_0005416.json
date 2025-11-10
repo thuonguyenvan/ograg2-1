@@ -1,0 +1,29 @@
+{
+  "id": "GO:0005416",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005416",
+  "relationships": {
+    "is_a": [
+      "GO:0015171",
+      "GO:0015294"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cation/amino acid symporter activity",
+      "cation:amino acid symporter activity"
+    ],
+    "broad": [
+      "amino acid:cation symporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: amino acid(out) + cation(out) = amino acid(in) + cation(in).",
+  "namespace": "molecular_function",
+  "label": "amino acid:monoatomic cation symporter activity"
+}

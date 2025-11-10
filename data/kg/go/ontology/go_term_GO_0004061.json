@@ -1,0 +1,48 @@
+{
+  "id": "GO:0004061",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004061",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "aryl-formylamine amidohydrolase activity",
+      "formamidase I",
+      "formamidase II",
+      "formylase activity",
+      "formylkynureninase activity",
+      "formylkynurenine formamidase activity",
+      "kynurenine formamidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.9",
+      "3.5.1.9",
+      "3.5.1.9",
+      "3.5.1.9",
+      "3.5.1.9",
+      "3.5.1.9",
+      "3.5.1.9",
+      "3.5.1.9",
+      "3.5.1.9"
+    ],
+    "MetaCyc": [
+      "ARYLFORMAMIDASE-RXN"
+    ],
+    "RHEA": [
+      "13009"
+    ],
+    "Reactome": [
+      "R-HSA-71189"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-formyl-L-kynurenine + H2O = formate + L-kynurenine.",
+  "namespace": "molecular_function",
+  "label": "AFMID hydrolyses NFK to L-KYN"
+}

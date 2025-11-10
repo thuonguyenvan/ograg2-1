@@ -1,0 +1,29 @@
+{
+  "id": "GO:0046677",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046677",
+  "relationships": {
+    "is_a": [
+      "GO:0042221"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "antibiotic susceptibility/resistance"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9639775"
+    ],
+    "GOC": [
+      "ai",
+      "ef"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an antibiotic stimulus. An antibiotic is a chemical substance produced by a microorganism which has the capacity to inhibit the growth of or to kill other microorganisms.",
+  "namespace": "biological_process",
+  "label": "Antimicrobial action and antimicrobial resistance in Mtb"
+}

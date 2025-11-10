@@ -1,0 +1,25 @@
+{
+  "id": "GO:0030591",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030591",
+  "relationships": {
+    "is_a": [
+      "GO:0140294"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "NAD DNA ADP-ribosyltransferase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11592983"
+    ]
+  },
+  "definition": "Catalysis of the transfer of the ADP-ribose group of NAD+ to the amino group at N2 of 2&apos;-deoxyguanosine to yield N2-(alpha-ADP-ribos-1-yl)-2&apos;-deoxyguanosine and its beta form.",
+  "namespace": "molecular_function",
+  "label": "2&apos;-deoxyguanosine DNA ADP-ribosyltransferase activity"
+}

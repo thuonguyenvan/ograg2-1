@@ -1,0 +1,50 @@
+{
+  "id": "GO:0047310",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047310",
+  "relationships": {
+    "is_a": [
+      "GO:0070548"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "glutamine-scyllo-inosose aminotransferase activity",
+      "glutamine-scyllo-inosose transaminase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-glutamine-keto-scyllo-inositol aminotransferase activity",
+      "L-glutamine-scyllo-inosose transaminase activity",
+      "L-glutamine:2,4,6/3,5-pentahydroxycyclohexanone aminotransferase activity",
+      "glutamine scyllo-inosose aminotransferase activity",
+      "glutamine--scyllo-inosose aminotransferase activity",
+      "glutamine--scyllo-inosose transaminase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.50",
+      "2.6.1.50",
+      "2.6.1.50",
+      "2.6.1.50",
+      "2.6.1.50",
+      "2.6.1.50",
+      "2.6.1.50",
+      "2.6.1.50"
+    ],
+    "KEGG_REACTION": [
+      "R02781"
+    ],
+    "MetaCyc": [
+      "2.6.1.50-RXN"
+    ],
+    "RHEA": [
+      "22920",
+      "22920"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2,4,6/3,5-pentahydroxycyclohexanone + L-glutamine = 1-amino-1-deoxy-scyllo-inositol + 2-oxoglutaramate.",
+  "namespace": "molecular_function",
+  "label": "glutamine-scyllo-inositol transaminase activity"
+}

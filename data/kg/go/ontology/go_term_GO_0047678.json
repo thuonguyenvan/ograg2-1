@@ -1,0 +1,43 @@
+{
+  "id": "GO:0047678",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047678",
+  "relationships": {
+    "is_a": [
+      "GO:0016703"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-arginine:oxygen 2-oxidoreductase (decarboxylating)",
+      "arginine decarboxy-oxidase activity",
+      "arginine monooxygenase activity",
+      "arginine oxygenase (decarboxylating) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.12.1",
+      "1.13.12.1",
+      "1.13.12.1",
+      "1.13.12.1",
+      "1.13.12.1",
+      "1.13.12.1"
+    ],
+    "KEGG_REACTION": [
+      "R00559"
+    ],
+    "MetaCyc": [
+      "ARGININE-2-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "10548",
+      "10548"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-arginine + O2 = 4-guanidinobutanamide + CO2 + H2O.",
+  "namespace": "molecular_function",
+  "label": "arginine 2-monooxygenase activity"
+}

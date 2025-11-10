@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015803",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015803",
+  "relationships": {
+    "is_a": [
+      "GO:0046942",
+      "GO:0071705"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "branched-chain aliphatic amino acid transport",
+      "branched-chain amino-acid anion transport"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "branched-chain amino-acid anions transport"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "bf",
+      "jl",
+      "TermGenie"
+    ]
+  },
+  "definition": "The directed movement of branched-chain amino acids into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore. Branched-chain amino acids are amino acids with a branched carbon skeleton without rings.",
+  "namespace": "biological_process",
+  "label": "branched-chain amino acid transport"
+}

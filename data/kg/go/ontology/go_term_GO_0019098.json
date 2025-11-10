@@ -1,0 +1,33 @@
+{
+  "id": "GO:0019098",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019098",
+  "relationships": {
+    "is_a": [
+      "GO:0007610",
+      "GO:0048609"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "reproductive behavior in a multicellular organism",
+      "reproductive behaviour"
+    ],
+    "broad": [],
+    "narrow": [
+      "multi-organism reproductive behavior",
+      "multicellular organism reproductive behavior"
+    ],
+    "related": [
+      "single-organism reproductive behavior"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "pr"
+    ]
+  },
+  "definition": "The specific behavior of an organism that is associated with reproduction.",
+  "namespace": "biological_process",
+  "label": "reproductive behavior"
+}

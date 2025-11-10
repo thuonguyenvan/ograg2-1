@@ -1,0 +1,28 @@
+{
+  "id": "GO:0030595",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030595",
+  "relationships": {
+    "is_a": [
+      "GO:0050900",
+      "GO:0060326"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "immune cell chemotaxis",
+      "leucocyte chemotaxis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "jl"
+    ]
+  },
+  "definition": "The movement of a leukocyte in response to an external stimulus.",
+  "namespace": "biological_process",
+  "label": "leukocyte chemotaxis"
+}

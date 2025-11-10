@@ -1,0 +1,34 @@
+{
+  "id": "GO:0046829",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046829",
+  "relationships": {
+    "is_a": [
+      "GO:0032240",
+      "GO:0046823",
+      "GO:0046828"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of RNA import into nucleus",
+      "down-regulation of RNA import into nucleus",
+      "downregulation of RNA import into nucleus",
+      "negative regulation of RNA import into cell nucleus",
+      "negative regulation of RNA transport from cytoplasm to nucleus",
+      "negative regulation of RNA-nucleus import"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of RNA import into nucleus"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of the movement of RNA from the cytoplasm into the nucleus.",
+  "namespace": "biological_process",
+  "label": "negative regulation of RNA import into nucleus"
+}

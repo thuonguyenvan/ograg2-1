@@ -1,0 +1,28 @@
+{
+  "id": "GO:0006166",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006166",
+  "relationships": {
+    "is_a": [
+      "GO:0043101",
+      "GO:0043174",
+      "GO:0046129"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "P121-PWY"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Any process which produces a purine nucleoside from derivatives of it, without de novo synthesis.",
+  "namespace": "biological_process",
+  "label": "purine ribonucleoside salvage"
+}

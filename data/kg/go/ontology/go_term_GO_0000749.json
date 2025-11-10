@@ -1,0 +1,26 @@
+{
+  "id": "GO:0000749",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000749",
+  "relationships": {
+    "is_a": [
+      "GO:0071444"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "response to pheromone during conjugation with cellular fusion"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "clt",
+      "dph"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a pheromone stimulus that positively regulates the process of conjugation with cellular fusion. An example of this process is found in Saccharomyces cerevisiae.",
+  "namespace": "biological_process",
+  "label": "response to pheromone triggering conjugation with cellular fusion"
+}

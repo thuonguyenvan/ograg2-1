@@ -1,0 +1,29 @@
+{
+  "id": "GO:0030290",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030290",
+  "relationships": {
+    "is_a": [
+      "GO:0008047"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "saposin"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1605717",
+      "R-HSA-9840470"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Any of a group of peptide cofactors of enzymes for the lysosomal degradation of sphingolipids. They stimulate various enzymes, including glucosylceramidase, galactosylceramidase, cerebroside-sulfatase, alpha-galactosidase, beta-galactosidase, and sphingomyelin phosphodiesterase.",
+  "namespace": "molecular_function",
+  "label": "PSAP(195-273) dimer:PE binds and mobilizes ligands"
+}

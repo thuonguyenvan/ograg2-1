@@ -1,0 +1,28 @@
+{
+  "id": "GO:0033790",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033790",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jp",
+      "mah"
+    ],
+    "PMID": [
+      "15338422",
+      "16652391"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-hydroxymethylfurfural + NAD(P)H + H+ = 2,5-bis-hydroxymethylfuran + NAD(P)+.",
+  "namespace": "molecular_function",
+  "label": "hydroxymethylfurfural reductase activity"
+}

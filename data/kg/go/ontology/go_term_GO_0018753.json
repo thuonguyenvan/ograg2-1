@@ -1,0 +1,33 @@
+{
+  "id": "GO:0018753",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018753",
+  "relationships": {
+    "is_a": [
+      "GO:0016812"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.2.15",
+      "3.5.2.15"
+    ],
+    "MetaCyc": [
+      "RXN-20062"
+    ],
+    "RHEA": [
+      "70363"
+    ],
+    "UM-BBD_reactionID": [
+      "r0116"
+    ]
+  },
+  "definition": "Catalysis of the reaction: cyanurate + H2O = 1-carboxybiuret + H+.",
+  "namespace": "molecular_function",
+  "label": "cyanuric acid amidohydrolase activity"
+}

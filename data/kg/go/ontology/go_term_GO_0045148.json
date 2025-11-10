@@ -1,0 +1,42 @@
+{
+  "id": "GO:0045148",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045148",
+  "relationships": {
+    "is_a": [
+      "GO:0004177",
+      "GO:0034701"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "aminotripeptidase activity",
+      "peptidase T"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alanine-phenylalanine-proline arylamidase activity",
+      "aminoexotripeptidase activity",
+      "imidoendopeptidase activity",
+      "lymphopeptidase activity",
+      "peptidase B"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.4.11.4",
+      "3.4.11.4",
+      "3.4.11.4",
+      "3.4.11.4",
+      "3.4.11.4",
+      "3.4.11.4",
+      "3.4.11.4"
+    ],
+    "MetaCyc": [
+      "3.4.11.4-RXN"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of a single N-terminal amino acid residue from a tripeptide.",
+  "namespace": "molecular_function",
+  "label": "tripeptide aminopeptidase activity"
+}

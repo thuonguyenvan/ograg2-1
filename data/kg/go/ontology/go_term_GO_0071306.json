@@ -1,0 +1,32 @@
+{
+  "id": "GO:0071306",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071306",
+  "relationships": {
+    "is_a": [
+      "GO:0033197",
+      "GO:0071295",
+      "GO:1901701"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "cellular response to DL-alpha-tocopherol acetate",
+      "cellular response to DL-alpha-tocopheryl acetate",
+      "cellular response to O-Acetyl-alpha-tocopherol"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a vitamin E stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to vitamin E"
+}

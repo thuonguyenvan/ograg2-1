@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047411",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047411",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-(acetamidomethylene)succinate amidohydrolase (deaminating, decarboxylating)",
+      "alpha-(N-acetylaminomethylene)succinic acid hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.29",
+      "3.5.1.29",
+      "3.5.1.29",
+      "3.5.1.29"
+    ],
+    "MetaCyc": [
+      "3.5.1.29-RXN",
+      "3.5.1.29-RXN"
+    ],
+    "RHEA": [
+      "10432"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 H2O + 2-(acetamidomethylene)succinate = CO2 + NH3 + succinate semialdehyde + acetate.",
+  "namespace": "molecular_function",
+  "label": "2-(acetamidomethylene)succinate hydrolase activity"
+}

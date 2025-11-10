@@ -1,0 +1,33 @@
+{
+  "id": "GO:0033929",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033929",
+  "relationships": {
+    "is_a": [
+      "GO:0015925"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "endo-beta-galactosidase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "blood-group-substance 1,4-beta-D-galactanohydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.102",
+      "3.2.1.102",
+      "3.2.1.102",
+      "3.2.1.102"
+    ],
+    "MetaCyc": [
+      "3.2.1.102-RXN"
+    ]
+  },
+  "definition": "Catalysis of the endohydrolysis of (1-&gt;4)-beta-D-galactosidic linkages in blood group A and B substances.",
+  "namespace": "molecular_function",
+  "label": "blood-group-substance endo-1,4-beta-galactosidase activity"
+}

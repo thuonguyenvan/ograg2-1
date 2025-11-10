@@ -1,0 +1,31 @@
+{
+  "id": "GO:0001517",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001517",
+  "relationships": {
+    "is_a": [
+      "GO:0008146"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-acetylglucosamine 6-O-sulphotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2046222",
+      "R-HSA-3656269",
+      "R-HSA-6786012"
+    ],
+    "GOC": [
+      "ai",
+      "hjd"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3&apos;-phosphoadenosine 5&apos;-phosphosulfate + N-acetyl-D-glucosamine = adenosine 3&apos;,5&apos;-bisphosphate + N-acetyl-D-glucosamine 6-sulfate.",
+  "namespace": "molecular_function",
+  "label": "CHST4 transfers SO4(2-) from PAPS to Core 2 mucins"
+}

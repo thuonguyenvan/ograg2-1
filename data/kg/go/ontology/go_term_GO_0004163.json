@@ -1,0 +1,56 @@
+{
+  "id": "GO:0004163",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004163",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-pyrophosphomevalonate decarboxylase activity",
+      "ATP:(R)-5-diphosphomevalonate carboxy-lyase (adding ATP; isopentenyl-diphosphate-forming)",
+      "ATP:(R)-5-diphosphomevalonate carboxy-lyase (dehydrating)",
+      "mevalonate 5-diphosphate decarboxylase activity",
+      "mevalonate diphosphate decarboxylase activity",
+      "mevalonate pyrophosphate decarboxylase activity",
+      "mevalonate-5-pyrophosphate decarboxylase activity",
+      "pyrophosphomevalonate decarboxylase activity",
+      "pyrophosphomevalonic acid decarboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.33",
+      "4.1.1.33",
+      "4.1.1.33",
+      "4.1.1.33",
+      "4.1.1.33",
+      "4.1.1.33",
+      "4.1.1.33",
+      "4.1.1.33",
+      "4.1.1.33",
+      "4.1.1.33",
+      "4.1.1.33"
+    ],
+    "KEGG_REACTION": [
+      "R01121"
+    ],
+    "MetaCyc": [
+      "DIPHOSPHOMEVALONTE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "23732",
+      "23732"
+    ],
+    "Reactome": [
+      "R-HSA-191414"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-5-diphosphomevalonate + ATP = ADP + CO2 + H+ + isopentenyl diphosphate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "MVD decarboxylates MVA5PP to IPPP"
+}

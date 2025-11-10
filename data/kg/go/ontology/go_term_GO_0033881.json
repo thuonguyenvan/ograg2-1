@@ -1,0 +1,36 @@
+{
+  "id": "GO:0033881",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033881",
+  "relationships": {
+    "is_a": [
+      "GO:0008410"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "bile-acid-CoA hydrolase activity",
+      "deoxycholoyl-CoA transferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.8.3.25"
+    ],
+    "KEGG_REACTION": [
+      "R07295"
+    ],
+    "RHEA": [
+      "49436",
+      "49436"
+    ],
+    "PMID": [
+      "22021638"
+    ]
+  },
+  "definition": "Catalysis of the reaction: deoxycholoyl-CoA + cholate = deoxycholate + choloyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "bile-acid-CoA transferase activity"
+}

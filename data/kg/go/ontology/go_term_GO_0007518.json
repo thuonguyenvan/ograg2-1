@@ -1,0 +1,26 @@
+{
+  "id": "GO:0007518",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007518",
+  "relationships": {
+    "is_a": [
+      "GO:0001709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000056"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The cell fate determination process in which a cell becomes capable of differentiating autonomously into a myoblast regardless of its environment; upon determination, the cell fate cannot be reversed. A myoblast is a mononucleate cell type that, by fusion with other myoblasts, gives rise to the myotubes that eventually develop into skeletal muscle fibers.",
+  "namespace": "biological_process",
+  "label": "myoblast fate determination"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0042381",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042381",
+  "relationships": {
+    "is_a": [
+      "GO:0006959",
+      "GO:0007599",
+      "GO:0045087",
+      "GO:0050817"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hemolymph clotting"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ],
+    "ISBN": [
+      "0198506732"
+    ],
+    "PMID": [
+      "10561606",
+      "11915949"
+    ]
+  },
+  "definition": "Any process in which factors in the hemolymph (the invertebrate equivalent of vertebrate blood and lymph) precipitate into insoluble clots in order to prevent loss of body fluid, and at the same time prevent the movement of microbes. Hemolymph coagulation is also part of the invertebrate humoral immune response.",
+  "namespace": "biological_process",
+  "label": "hemolymph coagulation"
+}

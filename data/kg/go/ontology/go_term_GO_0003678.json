@@ -1,0 +1,32 @@
+{
+  "id": "GO:0003678",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003678",
+  "relationships": {
+    "is_a": [
+      "GO:0004386",
+      "GO:0008094"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent DNA helicase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.6.4.12"
+    ],
+    "Reactome": [
+      "R-HSA-5693589"
+    ],
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Unwinding of a DNA helix, driven by ATP hydrolysis.",
+  "namespace": "molecular_function",
+  "label": "D-loop dissociation and strand annealing"
+}

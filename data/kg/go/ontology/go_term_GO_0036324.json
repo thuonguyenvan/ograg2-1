@@ -1,0 +1,45 @@
+{
+  "id": "GO:0036324",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036324",
+  "relationships": {
+    "is_a": [
+      "GO:0048010"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "FLK-1 signaling pathway",
+      "KDR signaling pathway",
+      "VEGFR-2 signaling pathway",
+      "VEGFR2 signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "uh",
+      "uh"
+    ],
+    "PMID": [
+      "12967471"
+    ],
+    "Wikipedia": [
+      "Kinase_insert_domain_receptor",
+      "VEGF_receptors",
+      "Kinase_insert_domain_receptor",
+      "Kinase_insert_domain_receptor",
+      "VEGF_receptors"
+    ],
+    "PR": [
+      "000002112",
+      "000002112",
+      "000002112"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by a ligand binding to a vascular endothelial growth factor receptor-2 (VEGFR-2) on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "vascular endothelial growth factor receptor-2 signaling pathway"
+}

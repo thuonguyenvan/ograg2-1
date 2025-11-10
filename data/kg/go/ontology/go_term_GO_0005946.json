@@ -1,0 +1,27 @@
+{
+  "id": "GO:0005946",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005946",
+  "relationships": {
+    "is_a": [
+      "GO:1990234"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-glucose-glucosephosphate glucosyltransferase complex",
+      "trehalose-6-phosphate synthase complex",
+      "trehalose-6-phosphate synthase/phosphatase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "9837904"
+    ]
+  },
+  "definition": "A protein complex that possesses alpha,alpha-trehalose-phosphate synthase (UDP-forming) and trehalose-phosphatase activities, and thus catalyzes two reactions in trehalose biosynthesis. In the complex identified in Saccharomyces, Tps1p has alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity, Tps2p has trehalose 6-phosphate phosphatase activity; Tps3p is a regulatory subunit, and an additional subunit, Tsl1p, may be present.",
+  "namespace": "cellular_component",
+  "label": "alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)"
+}

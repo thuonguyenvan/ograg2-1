@@ -1,0 +1,30 @@
+{
+  "id": "GO:0019801",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019801",
+  "relationships": {
+    "is_a": [
+      "GO:0006528"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cyclization of asparagine, during protein splicing"
+    ]
+  },
+  "cross_references": {
+    "RESID": [
+      "AA0302",
+      "AA0302"
+    ],
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The cyclization of asparagine to yield an L-aspartimide (otherwise known as alpha-aminosuccinimide) residue at the C-terminus of an excised intein during protein splicing.",
+  "namespace": "biological_process",
+  "label": "cyclization of asparagine involved in intein-mediated protein splicing"
+}

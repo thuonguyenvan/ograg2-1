@@ -1,0 +1,53 @@
+{
+  "id": "GO:0004455",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004455",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-2,3-dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)",
+      "2-hydroxy-3-keto acid reductoisomerase activity",
+      "acetohydroxy acid isomeroreductase activity",
+      "acetohydroxy acid reductoisomerase activity",
+      "acetolactate reductoisomerase activity",
+      "alpha-keto-beta-hydroxylacyl reductoisomerase activity",
+      "dihydroxyisovalerate (isomerizing) dehydrogenase activity",
+      "dihydroxyisovalerate dehydrogenase (isomerizing) activity",
+      "isomeroreductase activity",
+      "ketol acid reductoisomerase activity",
+      "reductoisomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.86",
+      "1.1.1.86",
+      "1.1.1.86",
+      "1.1.1.86",
+      "1.1.1.86",
+      "1.1.1.86",
+      "1.1.1.86",
+      "1.1.1.86",
+      "1.1.1.86",
+      "1.1.1.86",
+      "1.1.1.86",
+      "1.1.1.86",
+      "1.1.1.86"
+    ],
+    "MetaCyc": [
+      "ACETOLACTREDUCTOISOM-RXN"
+    ],
+    "RHEA": [
+      "22068"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-2,3-dihydroxy-3-methylbutanoate + NADP+ = (S)-2-hydroxy-2-methyl-3-oxobutanoate + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "ketol-acid reductoisomerase activity"
+}

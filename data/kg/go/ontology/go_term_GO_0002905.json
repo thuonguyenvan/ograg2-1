@@ -1,0 +1,27 @@
+{
+  "id": "GO:0002905",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002905",
+  "relationships": {
+    "is_a": [
+      "GO:0002682",
+      "GO:0002902"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "regulation of mature B cell apoptosis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "mtg_apoptosis"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate, or extent of mature B cell apoptotic process.",
+  "namespace": "biological_process",
+  "label": "regulation of mature B cell apoptotic process"
+}

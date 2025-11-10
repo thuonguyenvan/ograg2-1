@@ -1,0 +1,49 @@
+{
+  "id": "GO:0048011",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048011",
+  "relationships": {
+    "is_a": [
+      "GO:0007169",
+      "GO:0038179"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tropomyosin-receptor-kinase signaling"
+    ],
+    "broad": [],
+    "narrow": [
+      "TrkA signaling pathway",
+      "TrkB signaling pathway",
+      "TrkC signaling pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-166520",
+      "R-HSA-167021",
+      "R-HSA-187042",
+      "R-HSA-193704"
+    ],
+    "GOC": [
+      "bf",
+      "ceb",
+      "jc",
+      "signaling"
+    ],
+    "PMID": [
+      "12065629"
+    ],
+    "Wikipedia": [
+      "Trk_receptor",
+      "Trk_receptor",
+      "TrkA",
+      "TrkB",
+      "TrkC"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by neurotrophin binding to its receptor on the surface of a target cell where the receptor possesses tyrosine kinase activity, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "p75 NTR receptor-mediated signalling"
+}

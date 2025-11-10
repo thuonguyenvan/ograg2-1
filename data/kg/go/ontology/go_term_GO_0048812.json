@@ -1,0 +1,31 @@
+{
+  "id": "GO:0048812",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048812",
+  "relationships": {
+    "is_a": [
+      "GO:0120039"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "neurite biosynthesis",
+      "neurite formation",
+      "neurite growth"
+    ],
+    "related": [
+      "neurite morphogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The process in which the anatomical structures of a neuron projection are generated and organized. A neuron projection is any process extending from a neural cell, such as axons or dendrites.",
+  "namespace": "biological_process",
+  "label": "neuron projection morphogenesis"
+}

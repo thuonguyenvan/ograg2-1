@@ -1,0 +1,32 @@
+{
+  "id": "GO:1990273",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990273",
+  "relationships": {
+    "is_a": [
+      "GO:0016180",
+      "GO:0036260"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "snRNA 2,2,7-trimethylguanosine (TMG) cap formation",
+      "snRNA capping"
+    ],
+    "broad": [
+      "snRNA 5&apos;-end processing"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw"
+    ],
+    "PMID": [
+      "15590684"
+    ]
+  },
+  "definition": "The sequence of enzymatic reactions by which a 2,2,7-trimethylguanosine cap structure is added to the 5&apos; end of an snRNA. The snRNA capping process includes the formation of 7-methyl-G caps found on all RNA polymerase II transcripts, followed by hypermethylation at the 2&apos; position of the guanosine residue to convert a mono-methylated cap to a 2,2,7-trimethylguanosine cap structure. Note that the pol III transcribed U6 snRNA is also TMG capped.",
+  "namespace": "biological_process",
+  "label": "snRNA 2,2,7-trimethylguanosine (TMG) capping"
+}

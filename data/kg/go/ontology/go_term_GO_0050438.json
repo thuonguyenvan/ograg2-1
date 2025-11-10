@@ -1,0 +1,44 @@
+{
+  "id": "GO:0050438",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050438",
+  "relationships": {
+    "is_a": [
+      "GO:0046912"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-2-ethylmalate 2-oxobutanoyl-lyase (CoA-acetylating) activity",
+      "2-ethylmalate-3-hydroxybutanedioate synthase activity",
+      "acetyl-CoA:2-oxobutanoate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)",
+      "propylmalate synthase activity",
+      "propylmalic synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.3.6",
+      "2.3.3.6",
+      "2.3.3.6",
+      "2.3.3.6",
+      "2.3.3.6",
+      "2.3.3.6"
+    ],
+    "KEGG_REACTION": [
+      "R00998"
+    ],
+    "MetaCyc": [
+      "2-ETHYLMALATE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "23040",
+      "23040"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxobutanate + acetyl-CoA + H2O = (R)-2-ethylmalate + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "2-ethylmalate synthase activity"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "GO:0043565",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043565",
+  "relationships": {
+    "is_a": [
+      "GO:0003677"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sequence specific DNA binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "Binding to DNA of a specific nucleotide composition, e.g. GC-rich DNA binding, or with a specific sequence motif or type of DNA e.g. promotor binding or rDNA binding.",
+  "namespace": "molecular_function",
+  "label": "sequence-specific DNA binding"
+}

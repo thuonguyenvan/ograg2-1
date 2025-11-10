@@ -1,0 +1,30 @@
+{
+  "id": "GO:0031852",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031852",
+  "relationships": {
+    "is_a": [
+      "GO:0031628"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "mu-type opioid receptor ligand"
+    ],
+    "related": [
+      "morphine receptor binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "nln",
+      "sl",
+      "sl"
+    ]
+  },
+  "definition": "Binding to a mu-type opioid receptor.",
+  "namespace": "molecular_function",
+  "label": "mu-type opioid receptor binding"
+}

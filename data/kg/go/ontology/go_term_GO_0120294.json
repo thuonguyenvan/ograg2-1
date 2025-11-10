@@ -1,0 +1,29 @@
+{
+  "id": "GO:0120294",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120294",
+  "relationships": {
+    "is_a": [
+      "GO:0016410"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "66552"
+    ],
+    "GOC": [
+      "sp"
+    ],
+    "PMID": [
+      "14697203"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-glutaminyl-[protein] + serotonin = 5-serotonyl-L-glutamyl-[protein] + NH4(+).",
+  "namespace": "molecular_function",
+  "label": "peptide serotonyltransferase activity"
+}

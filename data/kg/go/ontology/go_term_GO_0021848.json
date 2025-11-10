@@ -1,0 +1,35 @@
+{
+  "id": "GO:0021848",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021848",
+  "relationships": {
+    "is_a": [
+      "GO:0055057"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "neuroblast division in the ventral telencephalon"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "12626695",
+      "16226447"
+    ]
+  },
+  "definition": "The division of neuroblasts in the subpallium area of the forebrain. The interneuron precursors that these cells give rise to include GABAergic interneurons and will migrate tangentially.",
+  "namespace": "biological_process",
+  "label": "neuroblast division in subpallium"
+}

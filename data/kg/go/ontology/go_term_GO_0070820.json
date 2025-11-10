@@ -1,0 +1,31 @@
+{
+  "id": "GO:0070820",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070820",
+  "relationships": {
+    "is_a": [
+      "GO:0030141"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "gelatinase granule"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mah",
+      "rl"
+    ],
+    "PMID": [
+      "12070036",
+      "23650620"
+    ]
+  },
+  "definition": "A secretory granule that contains cathepsin and gelatinase and is readily exocytosed upon cell activation; found primarily in mature neutrophil cells.",
+  "namespace": "cellular_component",
+  "label": "tertiary granule"
+}

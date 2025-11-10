@@ -1,0 +1,33 @@
+{
+  "id": "GO:2001190",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001190",
+  "relationships": {
+    "is_a": [
+      "GO:0002699",
+      "GO:0050778",
+      "GO:0050870",
+      "GO:2001188"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of T lymphocyte activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell",
+      "positive regulation of T-cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell",
+      "positive regulation of T-lymphocyte activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell.",
+  "namespace": "biological_process",
+  "label": "positive regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell"
+}

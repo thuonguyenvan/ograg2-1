@@ -1,0 +1,38 @@
+{
+  "id": "GO:0018479",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018479",
+  "relationships": {
+    "is_a": [
+      "GO:0004029"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "benzaldehyde (NAD) dehydrogenase activity",
+      "benzaldehyde:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.28",
+      "1.2.1.28",
+      "1.2.1.28",
+      "1.2.1.28"
+    ],
+    "MetaCyc": [
+      "BENZALDEHYDE-DEHYDROGENASE-NAD+-RXN"
+    ],
+    "RHEA": [
+      "11840"
+    ],
+    "UM-BBD_reactionID": [
+      "r0269"
+    ]
+  },
+  "definition": "Catalysis of the reaction: benzaldehyde + NAD+ + H2O = benzoate + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "benzaldehyde dehydrogenase (NAD+) activity"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0055086",
+  "uri": "http://purl.obolibrary.org/obo/GO_0055086",
+  "relationships": {
+    "is_a": [
+      "GO:0006139",
+      "GO:0044281"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nucleobase, nucleoside and nucleotide metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "nucleobase, nucleoside and nucleotide metabolic process"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-15869",
+      "R-HSA-2393930"
+    ],
+    "GOC": [
+      "vw"
+    ]
+  },
+  "definition": "The cellular chemical reactions and pathways involving a nucleobase-containing small molecule: a nucleobase, a nucleoside, or a nucleotide.",
+  "namespace": "biological_process",
+  "label": "Phosphate bond hydrolysis by NUDT proteins"
+}

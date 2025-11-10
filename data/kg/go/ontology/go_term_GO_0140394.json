@@ -1,0 +1,32 @@
+{
+  "id": "GO:0140394",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140394",
+  "relationships": {
+    "is_a": [
+      "GO:0140359",
+      "GO:1901474"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "azole ABC transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATPase-coupled azole transmembrane transporter activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "33503",
+      "33503"
+    ],
+    "PMID": [
+      "31501141"
+    ]
+  },
+  "definition": "Enables the transfer of azoles, heterocyclic compound found in many biologically important substances, from one side of a membrane to the other according to the reaction: ATP + H2O + azole(in) = ADP + phosphate + azole(out).",
+  "namespace": "molecular_function",
+  "label": "ABC-type azole transporter activity"
+}

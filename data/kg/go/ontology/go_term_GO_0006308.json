@@ -1,0 +1,31 @@
+{
+  "id": "GO:0006308",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006308",
+  "relationships": {
+    "is_a": [
+      "GO:0006259",
+      "GO:0141188"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA breakdown",
+      "DNA catabolism",
+      "DNA degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The cellular DNA metabolic process resulting in the breakdown of DNA, deoxyribonucleic acid, one of the two main types of nucleic acid, consisting of a long unbranched macromolecule formed from one or two strands of linked deoxyribonucleotides, the 3&apos;-phosphate group of each constituent deoxyribonucleotide being joined in 3&apos;,5&apos;-phosphodiester linkage to the 5&apos;-hydroxyl group of the deoxyribose moiety of the next one.",
+  "namespace": "biological_process",
+  "label": "DNA catabolic process"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0045725",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045725",
+  "relationships": {
+    "is_a": [
+      "GO:0005979",
+      "GO:0010557",
+      "GO:0070875"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of glycogen anabolism",
+      "positive regulation of glycogen biosynthesis",
+      "positive regulation of glycogen formation",
+      "positive regulation of glycogen synthesis",
+      "up regulation of glycogen biosynthetic process",
+      "up-regulation of glycogen biosynthetic process",
+      "upregulation of glycogen biosynthetic process"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of glycogen biosynthetic process",
+      "stimulation of glycogen biosynthetic process"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the chemical reactions and pathways resulting in the formation of glycogen.",
+  "namespace": "biological_process",
+  "label": "positive regulation of glycogen biosynthetic process"
+}

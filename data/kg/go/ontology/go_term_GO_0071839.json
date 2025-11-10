@@ -1,0 +1,40 @@
+{
+  "id": "GO:0071839",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071839",
+  "relationships": {
+    "is_a": [
+      "GO:0006915"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "bone marrow cell apoptosis",
+      "bone marrow cell programmed cell death by apoptosis",
+      "killing of bone marrow cells",
+      "programmed cell death of bone marrow cells by apoptosis",
+      "programmed cell death, bone marrow cells"
+    ],
+    "broad": [],
+    "narrow": [
+      "apoptosis in bone marrow"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mtg_apoptosis",
+      "yaf",
+      "mah",
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "PMID": [
+      "17063141"
+    ]
+  },
+  "definition": "The apoptotic process in cells in the bone marrow.",
+  "namespace": "biological_process",
+  "label": "apoptotic process in bone marrow cell"
+}

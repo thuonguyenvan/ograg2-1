@@ -1,0 +1,30 @@
+{
+  "id": "GO:0034993",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034993",
+  "relationships": {
+    "is_a": [
+      "GO:0106094"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LINC complex",
+      "LInker of Nucleoskeleton and Cytoskeleton complex",
+      "SUN-KASH complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "18692466"
+    ]
+  },
+  "definition": "A nuclear membrane protein complex which connects the nuclear outer and inner membranes together, and links links the nuclear lumen to cytoplasmic microtubules during meiosis.",
+  "namespace": "cellular_component",
+  "label": "meiotic nuclear membrane microtubule tethering complex"
+}

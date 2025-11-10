@@ -1,0 +1,33 @@
+{
+  "id": "GO:0006398",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006398",
+  "relationships": {
+    "is_a": [
+      "GO:0008334",
+      "GO:0031124"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "histone mRNA 3&apos; end processing"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-77588"
+    ],
+    "GOC": [
+      "mah",
+      "tb"
+    ],
+    "PMID": [
+      "17998288"
+    ]
+  },
+  "definition": "Any mRNA 3&apos;-end processing that involves the binding to and cleavage of a stem-loop structure. For example, histone mRNAs contain a highly conserved stem-loop sequence at the 3&apos; end of the mRNA with a 6 base pairs (bp) stem and a 4-nt loop. The mRNA is cleaved between these two elements, after the fourth or fifth nucleotide, which is typically an adenosine.",
+  "namespace": "biological_process",
+  "label": "SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs"
+}

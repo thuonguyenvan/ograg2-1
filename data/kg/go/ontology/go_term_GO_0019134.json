@@ -1,0 +1,39 @@
+{
+  "id": "GO:0019134",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019134",
+  "relationships": {
+    "is_a": [
+      "GO:0008080"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetyl-CoA:D-glucosamine-1-phosphate N-acetyltransferase activity",
+      "acetyl-CoA:alpha-D-glucosamine-1-phosphate N-acetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.157",
+      "2.3.1.157",
+      "2.3.1.157",
+      "2.3.1.157"
+    ],
+    "KEGG_REACTION": [
+      "R05332"
+    ],
+    "MetaCyc": [
+      "2.3.1.157-RXN"
+    ],
+    "RHEA": [
+      "13725",
+      "13725"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-D-glucosamine 1-phosphate + acetyl-CoA = N-acetyl-alpha-D-glucosamine 1-phosphate + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "glucosamine-1-phosphate N-acetyltransferase activity"
+}

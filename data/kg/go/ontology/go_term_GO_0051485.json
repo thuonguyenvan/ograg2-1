@@ -1,0 +1,30 @@
+{
+  "id": "GO:0051485",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051485",
+  "relationships": {
+    "is_a": [
+      "GO:0016114"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "terpenoid anabolism, mevalonate-dependent",
+      "terpenoid formation, mevalonate-dependent",
+      "terpenoid synthesis, mevalonate-dependent"
+    ],
+    "broad": [],
+    "narrow": [
+      "terpene biosynthesis, mevalonate-dependent",
+      "terpene biosynthetic process, mevalonate-dependent"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of terpenoids via isopentenyl diphosphate, synthesized by the mevalonate pathway. Isopentenyl diphosphate (IPP) is the fundamental unit in terpenoid biosynthesis, and in mevalonate-dependent terpenoid biosynthesis, acetate, in the form of acetyl-CoA, is converted to isopentenyl diphosphate (IPP) through a series of mevalonate intermediates.",
+  "namespace": "biological_process",
+  "label": "terpenoid biosynthetic process, mevalonate-dependent"
+}

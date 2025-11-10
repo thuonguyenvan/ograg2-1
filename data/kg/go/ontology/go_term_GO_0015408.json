@@ -1,0 +1,41 @@
+{
+  "id": "GO:0015408",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015408",
+  "relationships": {
+    "is_a": [
+      "GO:0015091",
+      "GO:0019829",
+      "GO:0140359"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ABC-type Fe3+ transporter",
+      "ferric ABC transporter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATPase-coupled ferric iron transmembrane transporter activity",
+      "Fe3+-transporting ATPase activity",
+      "ferric transporting ATPase activity",
+      "ferric-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.2.2.7",
+      "7.2.2.7"
+    ],
+    "MetaCyc": [
+      "3.6.3.30-RXN"
+    ],
+    "RHEA": [
+      "12332",
+      "12332"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + Fe3+(out) = ADP + phosphate + Fe3+(in).",
+  "namespace": "molecular_function",
+  "label": "ABC-type ferric iron transporter activity"
+}

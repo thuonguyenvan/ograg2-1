@@ -1,0 +1,34 @@
+{
+  "id": "GO:0036084",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036084",
+  "relationships": {
+    "is_a": [
+      "GO:0015783",
+      "GO:0046967"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "GDP-fucose import into endoplasmic reticulum",
+      "GDP-fucose transport across endoplasmic reticulum membrane",
+      "GDP-fucose transport into endoplasmic reticulum lumen"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "sart",
+      "bf",
+      "bf",
+      "sart"
+    ],
+    "PMID": [
+      "3458237"
+    ]
+  },
+  "definition": "The directed movement of GDP-fucose into the endoplasmic reticulum lumen. GDP-fucose is a substance composed of fucose in glycosidic linkage with guanosine diphosphate.",
+  "namespace": "biological_process",
+  "label": "GDP-fucose import into endoplasmic reticulum lumen"
+}

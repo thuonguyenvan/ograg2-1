@@ -1,0 +1,35 @@
+{
+  "id": "GO:0047664",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047664",
+  "relationships": {
+    "is_a": [
+      "GO:0016814"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-aminoimidazole aminohydrolase activity",
+      "4-aminoimidazole hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.4.8",
+      "3.5.4.8",
+      "3.5.4.8"
+    ],
+    "MetaCyc": [
+      "R13-RXN"
+    ],
+    "RHEA": [
+      "22348",
+      "22348"
+    ]
+  },
+  "definition": "Catalysis of the reaction:4-aminoimidazole + H20 = imidazol-4-one + NH3.",
+  "namespace": "molecular_function",
+  "label": "aminoimidazolase activity"
+}

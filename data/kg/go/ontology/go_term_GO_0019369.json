@@ -1,0 +1,36 @@
+{
+  "id": "GO:0019369",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019369",
+  "relationships": {
+    "is_a": [
+      "GO:0001676",
+      "GO:0006690",
+      "GO:0033559",
+      "GO:0120254"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "arachidonic acid metabolic process",
+      "arachidonic acid metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2142753",
+      "R-HSA-426048"
+    ],
+    "Wikipedia": [
+      "Arachidonic_acid"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving arachidonic acid, a straight chain fatty acid with 20 carbon atoms and four double bonds per molecule. Arachidonic acid is the all-Z-(5,8,11,14)-isomer.",
+  "namespace": "biological_process",
+  "label": "Arachidonate production from DAG"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "GO:0047309",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047309",
+  "relationships": {
+    "is_a": [
+      "GO:0008483"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "dihydroxyphenylalanine aminotransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3,4-dihydroxy-L-phenylalanine:2-oxoglutarate aminotransferase activity",
+      "DOPA aminotransferase activity",
+      "L-dopa transaminase activity",
+      "aspartate-DOPP transaminase (ADT)",
+      "dopa transaminase activity",
+      "glutamate-DOPP transaminase (GDT)",
+      "phenylalanine-DOPP transaminase (PDT)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.6.1.49",
+      "2.6.1.49",
+      "2.6.1.49",
+      "2.6.1.49",
+      "2.6.1.49",
+      "2.6.1.49",
+      "2.6.1.49",
+      "2.6.1.49",
+      "2.6.1.49"
+    ],
+    "KEGG_REACTION": [
+      "R02077"
+    ],
+    "MetaCyc": [
+      "2.6.1.49-RXN"
+    ],
+    "RHEA": [
+      "15273",
+      "15273"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxoglutarate + L-dopa = 3,4-dihydroxyphenylpyruvate + L-glutamate.",
+  "namespace": "molecular_function",
+  "label": "dihydroxyphenylalanine transaminase activity"
+}

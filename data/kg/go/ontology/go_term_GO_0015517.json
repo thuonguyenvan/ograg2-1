@@ -1,0 +1,29 @@
+{
+  "id": "GO:0015517",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015517",
+  "relationships": {
+    "is_a": [
+      "GO:0005354",
+      "GO:0009679"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "galactose:hydrogen symporter activity"
+    ],
+    "broad": [
+      "lactose, galactose:hydrogen symporter activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "TC": [
+      "2.A.1.1.1",
+      "2.A.1.1.9"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: galactose(out) + H+(out) = galactose(in) + H+(in).",
+  "namespace": "molecular_function",
+  "label": "galactose:proton symporter activity"
+}

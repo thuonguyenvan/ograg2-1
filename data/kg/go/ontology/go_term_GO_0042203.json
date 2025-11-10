@@ -1,0 +1,31 @@
+{
+  "id": "GO:0042203",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042203",
+  "relationships": {
+    "is_a": [
+      "GO:0018970",
+      "GO:0042178",
+      "GO:0072491",
+      "GO:0120253"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "toluene breakdown",
+      "toluene catabolism",
+      "toluene degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "UM-BBD_pathwayID": [
+      "tol",
+      "tol"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of toluene, a volatile monoaromatic hydrocarbon found in crude petroleum and petroleum products.",
+  "namespace": "biological_process",
+  "label": "toluene catabolic process"
+}

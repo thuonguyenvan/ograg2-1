@@ -1,0 +1,41 @@
+{
+  "id": "GO:1901823",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901823",
+  "relationships": {
+    "is_a": [
+      "GO:0016118",
+      "GO:0016121"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "delta-carotene breakdown",
+      "delta-carotene catabolism",
+      "delta-carotene degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "yaf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "MetaCyc": [
+      "PWY-5946"
+    ],
+    "PMID": [
+      "8837512"
+    ],
+    "UniPathway": [
+      "UPA00801"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of delta-carotene.",
+  "namespace": "biological_process",
+  "label": "delta-carotene catabolic process"
+}

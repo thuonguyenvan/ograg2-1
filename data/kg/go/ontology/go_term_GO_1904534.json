@@ -1,0 +1,53 @@
+{
+  "id": "GO:1904534",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904534",
+  "relationships": {
+    "is_a": [
+      "GO:0032205",
+      "GO:1904533"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of T loop disassembly",
+      "down regulation of telomeric loop disassembly",
+      "down-regulation of T loop disassembly",
+      "down-regulation of telomeric loop disassembly",
+      "downregulation of T loop disassembly",
+      "downregulation of telomeric loop disassembly",
+      "negative regulation of T loop disassembly"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of T loop disassembly",
+      "inhibition of telomeric loop disassembly"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "TermGenie",
+      "nc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22579284"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of telomeric loop disassembly.",
+  "namespace": "biological_process",
+  "label": "negative regulation of telomeric loop disassembly"
+}

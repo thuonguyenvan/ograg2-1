@@ -1,0 +1,31 @@
+{
+  "id": "GO:0060857",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060857",
+  "relationships": {
+    "is_a": [
+      "GO:0021782",
+      "GO:0060856"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "establishment of glial BBB",
+      "establishment of glial blood/brain barrier"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "sart"
+    ],
+    "PMID": [
+      "20080302"
+    ]
+  },
+  "definition": "Establishment of the glial barrier between the blood and the brain. The glial cells in the brain are packed tightly together preventing the passage of most molecules from the blood into the brain. Only lipid soluble molecules or those that are actively transported can pass through the blood-brain barrier.",
+  "namespace": "biological_process",
+  "label": "establishment of glial blood-brain barrier"
+}

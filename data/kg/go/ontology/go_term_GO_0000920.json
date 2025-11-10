@@ -1,0 +1,34 @@
+{
+  "id": "GO:0000920",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000920",
+  "relationships": {
+    "is_a": [
+      "GO:0009987"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cell separation following cytokinesis"
+    ],
+    "broad": [
+      "mitotic cytokinetic cell separation"
+    ],
+    "narrow": [],
+    "related": [
+      "cell separation after cytokinesis",
+      "cytokinetic cell separation",
+      "daughter cell separation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle",
+      "vw",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The process of physically separating the septal cell wall material by enzymatic digestion, that occurs after daughter cells are separated by cytokinesis.",
+  "namespace": "biological_process",
+  "label": "septum digestion after cytokinesis"
+}

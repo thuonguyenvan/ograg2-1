@@ -1,0 +1,50 @@
+{
+  "id": "GO:1900735",
+  "uri": "http://purl.obolibrary.org/obo/GO_1900735",
+  "relationships": {
+    "is_a": [
+      "GO:0022409",
+      "GO:0060256"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of flocculation",
+      "up regulation of flocculation via cell wall protein-carbohydrate interaction",
+      "up-regulation of flocculation",
+      "up-regulation of flocculation via cell wall protein-carbohydrate interaction",
+      "upregulation of flocculation",
+      "upregulation of flocculation via cell wall protein-carbohydrate interaction"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of flocculation",
+      "activation of flocculation via cell wall protein-carbohydrate interaction"
+    ],
+    "related": [
+      "positive regulation of flocculation via cell wall protein-carbohydrate interaction"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "dgf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "PMID": [
+      "10591965",
+      "15466424",
+      "16568252"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of flocculation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of flocculation"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "GO:0044787",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044787",
+  "relationships": {
+    "is_a": [
+      "GO:0044786"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "bacterial-type cell cycle DNA replication"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle"
+    ]
+  },
+  "definition": "The DNA-dependent DNA replication, exemplified by prokaryotes, that occurs as part of the cell cycle. Prokaryotic DNA replication is bi-directional and originates at a single origin of replication on the circular genome.",
+  "namespace": "biological_process",
+  "label": "bacterial-type DNA replication"
+}

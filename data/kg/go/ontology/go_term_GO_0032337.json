@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032337",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032337",
+  "relationships": {
+    "is_a": [
+      "GO:0032335",
+      "GO:0046887"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of activin secretion",
+      "up-regulation of activin secretion",
+      "upregulation of activin secretion"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of activin secretion",
+      "stimulation of activin secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the regulated release of activin from a cell.",
+  "namespace": "biological_process",
+  "label": "positive regulation of activin secretion"
+}

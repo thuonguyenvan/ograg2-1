@@ -1,0 +1,26 @@
+{
+  "id": "GO:0140320",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140320",
+  "relationships": {
+    "is_a": [
+      "GO:0140319"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "pathogen-associated molecular pattern receptor decoy activity",
+      "pattern recognition receptor decoy activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "20724636"
+    ]
+  },
+  "definition": "Binding and sequestering PAMP ligands in order to prevent them from binding and activating to the host PAMP receptor. Usually this activity is encoded by a symbiont or a pathogen to prevent activation of the host innate immune response.",
+  "namespace": "molecular_function",
+  "label": "PAMP receptor decoy activity"
+}

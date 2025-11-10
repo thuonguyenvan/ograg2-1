@@ -1,0 +1,40 @@
+{
+  "id": "GO:1904882",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904882",
+  "relationships": {
+    "is_a": [
+      "GO:0043254"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of telomerase catalytic core complex formation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of TERT-TERC complex assembly",
+      "regulation of TERT-TERC complex formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_telomere",
+      "TermGenie",
+      "rph",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "26586433"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of telomerase catalytic core complex assembly.",
+  "namespace": "biological_process",
+  "label": "regulation of telomerase catalytic core complex assembly"
+}

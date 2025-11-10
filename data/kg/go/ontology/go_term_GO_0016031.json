@@ -1,0 +1,38 @@
+{
+  "id": "GO:0016031",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016031",
+  "relationships": {
+    "is_a": [
+      "GO:0035927",
+      "GO:0051031"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytoplasmic tRNA import into mitochondria",
+      "cytoplasmic tRNA transport into mitochondrion",
+      "cytoplasmic tRNA, mitochondrial import"
+    ],
+    "broad": [],
+    "narrow": [
+      "cytoplasmic tRNA import into mitochondrion",
+      "mitochondrial import of cytoplasmic tRNA",
+      "nuclear-encoded tRNA import into mitochondrion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ma",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "10988073",
+      "11121736"
+    ]
+  },
+  "definition": "The process in which a tRNA is transported from the cytosol into the mitochondrial matrix.",
+  "namespace": "biological_process",
+  "label": "tRNA import into mitochondrion"
+}

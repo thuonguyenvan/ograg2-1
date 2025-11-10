@@ -1,0 +1,27 @@
+{
+  "id": "GO:0009585",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009585",
+  "relationships": {
+    "is_a": [
+      "GO:0007602"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "phytochrome signaling pathway"
+    ],
+    "narrow": [],
+    "related": [
+      "red-sensitive opsin"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The sequence of reactions within a cell required to convert absorbed photons from red or far-red light into a molecular signal; the red, far-red light range is defined as having a wavelength within the range 660-730 nm.",
+  "namespace": "biological_process",
+  "label": "red, far-red light phototransduction"
+}

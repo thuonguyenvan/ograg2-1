@@ -1,0 +1,29 @@
+{
+  "id": "GO:0106439",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106439",
+  "relationships": {
+    "is_a": [
+      "GO:0015189",
+      "GO:0015297",
+      "GO:0061459"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "70827",
+      "70827"
+    ],
+    "PMID": [
+      "10903140"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: L-lysine(out) + L-arginine(in) = L-lysine(in) + L-arginine(out).",
+  "namespace": "molecular_function",
+  "label": "L-lysine:L-arginine antiporter activity"
+}

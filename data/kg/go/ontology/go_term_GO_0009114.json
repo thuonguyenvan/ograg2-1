@@ -1,0 +1,30 @@
+{
+  "id": "GO:0009114",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009114",
+  "relationships": {
+    "is_a": [
+      "GO:0006145",
+      "GO:0046100"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hypoxanthine breakdown",
+      "hypoxanthine catabolism",
+      "hypoxanthine degradation"
+    ],
+    "broad": [],
+    "narrow": [
+      "hypoxanthine oxidation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "3196295"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of hypoxanthine, 6-hydroxy purine, an intermediate in the degradation of adenylate. Its ribonucleoside is known as inosine and its ribonucleotide as inosinate.",
+  "namespace": "biological_process",
+  "label": "hypoxanthine catabolic process"
+}

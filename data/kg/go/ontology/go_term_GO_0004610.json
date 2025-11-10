@@ -1,0 +1,50 @@
+{
+  "id": "GO:0004610",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004610",
+  "relationships": {
+    "is_a": [
+      "GO:0016868"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acetyl-D-glucosamine 1,6-phosphomutase activity",
+      "N-acetyl-alpha-D-glucosamine 1,6-phosphomutase activity",
+      "N-acetylglucosamine-phosphate mutase activity",
+      "acetylaminodeoxyglucose phosphomutase activity",
+      "acetylglucosamine phosphomutase activity",
+      "phospho-N-acetylglucosamine mutase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.2.3",
+      "5.4.2.3",
+      "5.4.2.3",
+      "5.4.2.3",
+      "5.4.2.3",
+      "5.4.2.3",
+      "5.4.2.3",
+      "5.4.2.3"
+    ],
+    "KEGG_REACTION": [
+      "R08193"
+    ],
+    "MetaCyc": [
+      "PHOSACETYLGLUCOSAMINEMUT-RXN"
+    ],
+    "RHEA": [
+      "23804",
+      "23804"
+    ],
+    "Reactome": [
+      "R-HSA-446185"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acetyl-alpha-D-glucosamine 1-phosphate = N-acetyl-D-glucosamine 6-phosphate.",
+  "namespace": "molecular_function",
+  "label": "Isomerization of GlcNAc6P to GlcNAc1P"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "GO:0050762",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050762",
+  "relationships": {
+    "is_a": [
+      "GO:0009056",
+      "GO:0050761"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "depsipeptide breakdown",
+      "depsipeptide catabolism",
+      "depsipeptide degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of depsipeptides, a linear or cyclic compound composed of both amino acids and hydroxy acids in peptide and ester bonds respectively.",
+  "namespace": "biological_process",
+  "label": "depsipeptide catabolic process"
+}

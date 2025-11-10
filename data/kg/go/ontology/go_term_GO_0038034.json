@@ -1,0 +1,44 @@
+{
+  "id": "GO:0038034",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038034",
+  "relationships": {
+    "is_a": [
+      "GO:0007165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "signal transduction in absence of agonist"
+    ],
+    "broad": [
+      "addiction receptor signaling pathway",
+      "dependence receptor signaling pathway",
+      "non-classical signal transduction"
+    ],
+    "narrow": [
+      "basal signaling"
+    ],
+    "related": [
+      "negative signal transduction"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "al",
+      "ppm",
+      "pr",
+      "bf",
+      "al"
+    ],
+    "PMID": [
+      "15044679",
+      "15044679",
+      "15044679",
+      "15044679",
+      "15044679"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by the absence of a ligand or the withdrawal of a ligand from a receptor.",
+  "namespace": "biological_process",
+  "label": "signal transduction in absence of ligand"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0032133",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032133",
+  "relationships": {
+    "is_a": [
+      "GO:0005875"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CPC complex",
+      "chromosomal passenger complex"
+    ],
+    "broad": [
+      "CPC"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw",
+      "mah",
+      "vw",
+      "mcc"
+    ],
+    "PMID": [
+      "16824200",
+      "19570910"
+    ]
+  },
+  "definition": "A eukaryotically conserved protein complex that localizes to kinetochores in early mitosis, the spindle mid-zone in anaphase B and to the telophase midbody. It has been proposed that the passenger complex coordinates various events based on its location to different structures during the course of mitosis. Complex members include the BIR-domain-containing protein Survivin, Aurora kinase, INCENP and Borealin.",
+  "namespace": "cellular_component",
+  "label": "chromosome passenger complex"
+}

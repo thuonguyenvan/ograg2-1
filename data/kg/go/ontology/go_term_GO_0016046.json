@@ -1,0 +1,34 @@
+{
+  "id": "GO:0016046",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016046",
+  "relationships": {
+    "is_a": [
+      "GO:0009620",
+      "GO:0098543"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "detection of fungi"
+    ],
+    "broad": [],
+    "narrow": [
+      "detection of parasitic fungi",
+      "detection of parasitic fungus",
+      "perception of parasitic fungi"
+    ],
+    "related": [
+      "perception of fungi",
+      "perception of fungus",
+      "perception of parasitic fungus"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "hb"
+    ]
+  },
+  "definition": "The series of events in which a stimulus from a fungus is received and converted into a molecular signal.",
+  "namespace": "biological_process",
+  "label": "detection of fungus"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0004649",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004649",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.143",
+      "3.2.1.143"
+    ],
+    "MetaCyc": [
+      "3.2.1.143-RXN"
+    ],
+    "RHEA": [
+      "52216"
+    ],
+    "Reactome": [
+      "R-HSA-5651828",
+      "R-HSA-8952903"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of poly(ADP-ribose) at glycosidic (1&apos;&apos;-2&apos;) linkage of ribose-ribose bond to produce free ADP-ribose.",
+  "namespace": "molecular_function",
+  "label": "ADPRHL2 hydrolyses poly(ADP-ribose)"
+}

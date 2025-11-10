@@ -1,0 +1,33 @@
+{
+  "id": "GO:0034073",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034073",
+  "relationships": {
+    "is_a": [
+      "GO:0034072"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "squalene--tetrahymanol cyclase activity",
+      "tetrahymanol cyclase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.123"
+    ],
+    "RHEA": [
+      "30675",
+      "30675"
+    ],
+    "PMID": [
+      "18033581"
+    ]
+  },
+  "definition": "Catalysis of the reaction: tetrahymanol = squalene + H2O.",
+  "namespace": "molecular_function",
+  "label": "tetrahymanol synthase activity"
+}

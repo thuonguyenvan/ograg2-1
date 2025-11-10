@@ -1,0 +1,47 @@
+{
+  "id": "GO:0050385",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050385",
+  "relationships": {
+    "is_a": [
+      "GO:0016842"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(S)-ureidoglycolate urea-lyase (glyoxylate-forming)",
+      "(S)-ureidoglycolate urea-lyase activity",
+      "ureidoglycolase activity",
+      "ureidoglycolatase activity",
+      "ureidoglycolate hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.3.2.3",
+      "4.3.2.3",
+      "4.3.2.3",
+      "4.3.2.3",
+      "4.3.2.3",
+      "4.3.2.3"
+    ],
+    "KEGG_REACTION": [
+      "R00776"
+    ],
+    "MetaCyc": [
+      "UREIDOGLYCOLATE-LYASE-RXN"
+    ],
+    "RHEA": [
+      "11304",
+      "11304"
+    ],
+    "PMID": [
+      "24107613"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-ureidoglycolate = glyoxylate + urea.",
+  "namespace": "molecular_function",
+  "label": "ureidoglycolate lyase activity"
+}

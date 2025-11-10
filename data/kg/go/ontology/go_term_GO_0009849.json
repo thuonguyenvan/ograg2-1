@@ -1,0 +1,36 @@
+{
+  "id": "GO:0009849",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009849",
+  "relationships": {
+    "is_a": [
+      "GO:0009684"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "indoleacetic acid biosynthesis, tryptophan-independent",
+      "indoleacetic acid biosynthetic process, tryptophan-independent",
+      "tryptophan-independent IAA biosynthetic process",
+      "tryptophan-independent indoleacetic acid anabolism",
+      "tryptophan-independent indoleacetic acid biosynthesis",
+      "tryptophan-independent indoleacetic acid formation",
+      "tryptophan-independent indoleacetic acid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "lm",
+      "lr"
+    ],
+    "PMID": [
+      "10375566"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of indoleacetic acid, independent of tryptophan.",
+  "namespace": "biological_process",
+  "label": "tryptophan-independent indoleacetic acid biosynthetic process"
+}

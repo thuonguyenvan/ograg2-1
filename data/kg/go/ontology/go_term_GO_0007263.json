@@ -1,0 +1,32 @@
+{
+  "id": "GO:0007263",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007263",
+  "relationships": {
+    "is_a": [
+      "GO:0141124"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "NO mediated signal transduction",
+      "NO-mediated signal transduction",
+      "nitric oxide signaling",
+      "nitric oxide-mediated signal transduction"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "bf"
+    ],
+    "PMID": [
+      "21549190"
+    ]
+  },
+  "definition": "An intracellular signaling cassette that starts with production of nitric oxide, detection by receptors/sensors for nitric oxide (such as soluble guanylyl cyclase/sGC) and ends with the activation of downstream effectors that further transmit the signal within the cell. Nitric oxide transmits its downstream effects through either cyclic GMP (cGMP)-dependent or independent mechanisms.",
+  "namespace": "biological_process",
+  "label": "nitric oxide mediated signal transduction"
+}

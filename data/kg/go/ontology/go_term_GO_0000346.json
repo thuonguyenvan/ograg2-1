@@ -1,0 +1,28 @@
+{
+  "id": "GO:0000346",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000346",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TREX complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "11979277"
+    ]
+  },
+  "definition": "The transcription export (TREX) complex couples transcription elongation by RNA polymerase II to mRNA export. The complex associates with the polymerase and travels with it along the length of the transcribed gene. TREX is composed of the THO transcription elongation complex as well as other proteins that couple THO to mRNA export proteins. The TREX complex is known to be found in a wide range of eukaryotes, including S. cerevisiae and metazoans.",
+  "namespace": "cellular_component",
+  "label": "transcription export complex"
+}

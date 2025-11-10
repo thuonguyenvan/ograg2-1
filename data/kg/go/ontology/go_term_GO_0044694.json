@@ -1,0 +1,41 @@
+{
+  "id": "GO:0044694",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044694",
+  "relationships": {
+    "is_a": [
+      "GO:0141171"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "viral genome translocation"
+    ],
+    "broad": [],
+    "narrow": [
+      "pore-mediated entry of viral genome into host cell",
+      "viral genome delivery via icosahedral vertex",
+      "viral pore-forming protein"
+    ],
+    "related": [
+      "membrane puncture-mediated penetration of viral genome into host cell",
+      "pore-mediated penetration of viral genome into host cell",
+      "viral entry via genome injection"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "979",
+      "979"
+    ],
+    "GOC": [
+      "jl",
+      "bf"
+    ],
+    "UniProtKB-KW": [
+      "KW-1172"
+    ]
+  },
+  "definition": "Entry of a symbiont&apos;s genome into a host cell by a pore formed by the symbiont in the host cell. Examples of this process include injection by a non-enveloped virus of the viral genome into the host cytoplasm, usually mediated by a viral pore-forming peptide associated with the viral capsid or bacteriophage tail.",
+  "namespace": "biological_process",
+  "label": "Pore-mediated penetration of viral genome into host cell"
+}

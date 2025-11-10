@@ -1,0 +1,29 @@
+{
+  "id": "GO:0141072",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141072",
+  "relationships": {
+    "is_a": [
+      "GO:0052029"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "disruption of host TNF-mediated signaling pathway",
+      "disruption of host TNFR-mediated signaling pathway",
+      "disruption of host tumor necrosis factor receptor-mediated signaling pathway",
+      "disruption of host tumor necrosis factor-mediated signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11805081",
+      "24736233"
+    ]
+  },
+  "definition": "A process in which a virus interferes with, inhibits or disrupts a tumor necrosis factor-mediated signal transduction in its host organism. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated suppression of host tumor necrosis factor-mediated signaling pathway"
+}

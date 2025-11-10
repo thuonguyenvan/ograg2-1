@@ -1,0 +1,28 @@
+{
+  "id": "GO:0019254",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019254",
+  "relationships": {
+    "is_a": [
+      "GO:0009437"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "carnitine metabolism, CoA-linked"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "CARNMET-PWY"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving carnitine, where metabolism is linked to CoA.",
+  "namespace": "biological_process",
+  "label": "carnitine metabolic process, CoA-linked"
+}

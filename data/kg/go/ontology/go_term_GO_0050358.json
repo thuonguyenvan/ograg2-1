@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050358",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050358",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pseudotropine forming tropinone reductase activity",
+      "pseudotropine:NADP+ 3-oxidoreductase activity",
+      "tropinone (psi-tropine-forming) reductase activity",
+      "tropinone reductase II activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.236",
+      "1.1.1.236",
+      "1.1.1.236",
+      "1.1.1.236",
+      "1.1.1.236",
+      "1.1.1.236"
+    ],
+    "KEGG_REACTION": [
+      "R06734"
+    ],
+    "MetaCyc": [
+      "TROPINONE-REDUCTASE-RXN"
+    ],
+    "RHEA": [
+      "24244",
+      "24244"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NADP+ + pseudotropine = H+ + NADPH + tropinone.",
+  "namespace": "molecular_function",
+  "label": "tropinone reductase activity"
+}

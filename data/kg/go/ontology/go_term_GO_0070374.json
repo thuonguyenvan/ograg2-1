@@ -1,0 +1,53 @@
+{
+  "id": "GO:0070374",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070374",
+  "relationships": {
+    "is_a": [
+      "GO:0043410",
+      "GO:0070372"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of ERK1 and ERK2 signaling pathway",
+      "positive regulation of ERK1 and ERK2 signalling pathway",
+      "positive regulation of ERK1/2 cascade",
+      "up regulation of ERK1 and ERK2 cascade",
+      "up-regulation of ERK1 and ERK2 cascade",
+      "upregulation of ERK1 and ERK2 cascade"
+    ],
+    "broad": [
+      "positive regulation of ERK cascade"
+    ],
+    "narrow": [
+      "activation of ERK1 and ERK2 cascade",
+      "positive regulation of ERK1 cascade",
+      "positive regulation of ERK2 cascade",
+      "positive regulation of MAPK1 cascade",
+      "positive regulation of MAPK3 cascade",
+      "stimulation of ERK1 and ERK2 cascade"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "add",
+      "mah",
+      "mah",
+      "add",
+      "mah",
+      "mah",
+      "mah",
+      "mah",
+      "add",
+      "add",
+      "add",
+      "add",
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of signal transduction mediated by the ERK1 and ERK2 cascade.",
+  "namespace": "biological_process",
+  "label": "positive regulation of ERK1 and ERK2 cascade"
+}

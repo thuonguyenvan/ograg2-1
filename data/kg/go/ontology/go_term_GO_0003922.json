@@ -1,0 +1,56 @@
+{
+  "id": "GO:0003922",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003922",
+  "relationships": {
+    "is_a": [
+      "GO:0016884"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GMP synthase (glutamine-hydrolysing)",
+      "GMP synthetase (glutamine-hydrolysing)",
+      "GMP synthetase (glutamine-hydrolyzing) activity",
+      "glutamine amidotransferase activity",
+      "guanosine 5&apos;-monophosphate synthetase activity",
+      "guanosine monophosphate synthetase (glutamine-hydrolyzing)",
+      "guanylate synthetase (glutamine-hydrolyzing)",
+      "xanthosine 5&apos;-phosphate amidotransferase activity",
+      "xanthosine-5&apos;-phosphate:L-glutamine amido-ligase (AMP-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.3.5.2",
+      "6.3.5.2",
+      "6.3.5.2",
+      "6.3.5.2",
+      "6.3.5.2",
+      "6.3.5.2",
+      "6.3.5.2",
+      "6.3.5.2",
+      "6.3.5.2",
+      "6.3.5.2"
+    ],
+    "MetaCyc": [
+      "GMP-SYN-GLUT-RXN"
+    ],
+    "RHEA": [
+      "11680",
+      "11680"
+    ],
+    "Reactome": [
+      "R-HSA-73792",
+      "R-HSA-9748957"
+    ],
+    "Wikipedia": [
+      "GMP_synthase_(glutamine-hydrolysing)"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + XMP + L-glutamine + H2O = AMP + diphosphate + GMP + L-glutamate + 2H+.",
+  "namespace": "molecular_function",
+  "label": "GMPS dimer transforms 6TXMP to 6TGMP"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "GO:0160106",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160106",
+  "relationships": {
+    "is_a": [
+      "GO:0016426"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA (adenine(9)-N(1))-methyltransferase activity",
+      "tRNA m(1)A(9)-methyltransferase",
+      "tRNA(m(1)G(9)/m(1)A(9))-methyltransferase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.218",
+      "2.1.1.218"
+    ],
+    "RHEA": [
+      "43148"
+    ],
+    "Reactome": [
+      "R-HSA-6787594"
+    ]
+  },
+  "definition": "Catalysis of the reaction: adenosine(9) in tRNA + S-adenosyl-L-methionine = H+ + N(1)-methyladenosine(9) in tRNA + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "TRMT10C:HSD17B10 (TRMT10C:SDR5C1) methylates adenosine-9 in tRNA yielding 1-methyladenosine-9"
+}

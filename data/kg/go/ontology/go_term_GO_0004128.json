@@ -1,0 +1,27 @@
+{
+  "id": "GO:0004128",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004128",
+  "relationships": {
+    "is_a": [
+      "GO:0016653"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-198824",
+      "R-HSA-6806831"
+    ],
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 Fe(III)-[cytochrome b5] + NAD(P)H = 2 Fe(II)-[cytochrome b5] + NAD(P)+ + H+.",
+  "namespace": "molecular_function",
+  "label": "CYB5Rs reduce MetHb to HbA"
+}

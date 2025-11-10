@@ -1,0 +1,36 @@
+{
+  "id": "GO:0102158",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102158",
+  "relationships": {
+    "is_a": [
+      "GO:0080023"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "very-long-chain 3-hydroxyacyl-CoA dehydratase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.134"
+    ],
+    "MetaCyc": [
+      "RXN-11750"
+    ],
+    "RHEA": [
+      "45812",
+      "45812"
+    ],
+    "PMID": [
+      "16564093",
+      "19763486"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a very-long-chain (3R)-3-hydroxyacyl-CoA = H2O + a very-long-chain (2E)-enoyl-CoA. This reaction is the third (dehydration) step of the four-step fatty acid elongation cycle in the endoplasmic reticulum that extends fatty acids of C-16 or longer with an additional 2-C unit.",
+  "namespace": "molecular_function",
+  "label": "very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase activity"
+}

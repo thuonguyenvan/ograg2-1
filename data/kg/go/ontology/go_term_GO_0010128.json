@@ -1,0 +1,31 @@
+{
+  "id": "GO:0010128",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010128",
+  "relationships": {
+    "is_a": [
+      "GO:0043639"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "anaerobic benzoate breakdown",
+      "anaerobic benzoate catabolic process",
+      "anaerobic benzoate catabolism",
+      "anaerobic benzoate degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-283"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of benzoate, by its ligation to Coenzyme A to form benzoyl-CoA, which is then broken by an aerobic or anaerobic pathway.",
+  "namespace": "biological_process",
+  "label": "benzoate catabolic process via CoA ligation"
+}

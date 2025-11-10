@@ -1,0 +1,35 @@
+{
+  "id": "GO:0009383",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009383",
+  "relationships": {
+    "is_a": [
+      "GO:0008169",
+      "GO:0016434"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "rRNA (cytosine-C5-967)-methyltransferase activity",
+      "rRNA m5C967 methyltransferase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-6790944",
+      "R-HSA-6793057"
+    ],
+    "GOC": [
+      "imk"
+    ],
+    "PMID": [
+      "10026269",
+      "18786544"
+    ]
+  },
+  "definition": "Catalysis of the transfer of a methyl group from S-adenosyl-L-methionine to cytosine to form 5-methylcytosine in small subunit ribosomal RNA.",
+  "namespace": "molecular_function",
+  "label": "NSUN4 methylates cytidine-841 of 12S rRNA yielding 5-methylcytidine-841"
+}

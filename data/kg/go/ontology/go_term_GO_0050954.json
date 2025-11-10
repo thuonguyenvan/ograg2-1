@@ -1,0 +1,28 @@
+{
+  "id": "GO:0050954",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050954",
+  "relationships": {
+    "is_a": [
+      "GO:0007600"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mechanosensory perception",
+      "perception of mechanical stimulus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "chemi-mechanical coupling"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The series of events required for an organism to receive a sensory mechanical stimulus, convert it to a molecular signal, and recognize and characterize the signal. This is a neurological process.",
+  "namespace": "biological_process",
+  "label": "sensory perception of mechanical stimulus"
+}

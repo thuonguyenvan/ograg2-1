@@ -1,0 +1,69 @@
+{
+  "id": "GO:0004571",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004571",
+  "relationships": {
+    "is_a": [
+      "GO:0015924"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Man9-mannosidase activity",
+      "ManI activity",
+      "mannose-9 processing alpha-mannosidase activity",
+      "mannosidase 1A activity",
+      "mannosidase 1B activity"
+    ],
+    "related": [
+      "1,2-alpha-mannosidase",
+      "1,2-alpha-mannosyl-oligosaccharide alpha-D-mannohydrolase activity",
+      "exo-alpha-1,2-mannanase activity",
+      "glycoprotein processing mannosidase I",
+      "mannosidase I"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.113",
+      "3.2.1.113",
+      "3.2.1.113",
+      "3.2.1.113",
+      "3.2.1.113",
+      "3.2.1.113",
+      "3.2.1.113",
+      "3.2.1.113",
+      "3.2.1.113",
+      "3.2.1.113",
+      "3.2.1.113"
+    ],
+    "KEGG_REACTION": [
+      "R12479"
+    ],
+    "Reactome": [
+      "R-HSA-4793949",
+      "R-HSA-6782685",
+      "R-HSA-901024",
+      "R-HSA-901036",
+      "R-HSA-901039",
+      "R-HSA-901074",
+      "R-HSA-9036008",
+      "R-HSA-9036011",
+      "R-HSA-9036012",
+      "R-HSA-964737",
+      "R-HSA-964825",
+      "R-HSA-964830",
+      "R-HSA-9696807"
+    ],
+    "GOC": [
+      "bf"
+    ],
+    "PMID": [
+      "25092655"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of the terminal (1-&gt;2)-linked alpha-D-mannose residues in an oligo-mannose oligosaccharide.",
+  "namespace": "molecular_function",
+  "label": "N-glycan mannose trimming of Spike"
+}

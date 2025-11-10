@@ -1,0 +1,32 @@
+{
+  "id": "GO:0050963",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050963",
+  "relationships": {
+    "is_a": [
+      "GO:0050906",
+      "GO:0050981"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sensory detection of electrical stimulus",
+      "sensory detection of electrical stimulus during sensory perception",
+      "sensory perception, sensory detection of electrical stimulus",
+      "sensory perception, sensory transduction of electrical stimulus",
+      "sensory transduction of electrical stimulus",
+      "sensory transduction of electrical stimulus during sensory perception"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dos"
+    ]
+  },
+  "definition": "The series of events in which an electrical stimulus is received by a cell and converted into a molecular signal as part of sensory perception.",
+  "namespace": "biological_process",
+  "label": "detection of electrical stimulus involved in sensory perception"
+}

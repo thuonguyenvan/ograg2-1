@@ -1,0 +1,33 @@
+{
+  "id": "GO:1904584",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904584",
+  "relationships": {
+    "is_a": [
+      "GO:1901699",
+      "GO:1904583"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to polyamine",
+      "cellular response to polyamines"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000071"
+    ],
+    "PMID": [
+      "20805360"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a polyamine macromolecule stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to polyamine macromolecule"
+}

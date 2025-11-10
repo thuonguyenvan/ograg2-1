@@ -1,0 +1,24 @@
+{
+  "id": "GO:0060542",
+  "uri": "http://purl.obolibrary.org/obo/GO_0060542",
+  "relationships": {
+    "is_a": [
+      "GO:0051052"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that modulates the rate, frequency or extent of strand invasion. Strand invasion is the process in which the nucleoprotein complex (composed of the broken single-strand DNA and the recombinase) searches and identifies a region of homology in intact duplex DNA. The broken single-strand DNA displaces the like strand and forms Watson-Crick base pairs with its complement, forming a duplex in which each strand is from one of the two recombining DNA molecules.",
+  "namespace": "biological_process",
+  "label": "regulation of strand invasion"
+}

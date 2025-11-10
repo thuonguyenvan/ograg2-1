@@ -1,0 +1,27 @@
+{
+  "id": "GO:0051873",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051873",
+  "relationships": {
+    "is_a": [
+      "GO:0031640",
+      "GO:0051702",
+      "GO:0140546"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "disruption by host of symbiont cells"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process mediated by an organism that results in the death of cells in the symbiont organism. The symbiont is defined as the smaller of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "killing by host of symbiont cells"
+}

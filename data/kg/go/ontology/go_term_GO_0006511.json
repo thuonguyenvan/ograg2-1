@@ -1,0 +1,47 @@
+{
+  "id": "GO:0006511",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006511",
+  "relationships": {
+    "is_a": [
+      "GO:0019941"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ubiquitin-dependent protein breakdown",
+      "ubiquitin-dependent protein catabolism",
+      "ubiquitin-dependent protein degradation",
+      "ubiquitin-dependent proteolysis"
+    ],
+    "broad": [
+      "protein degradation tagging activity"
+    ],
+    "narrow": [
+      "myofibrillar protein ubiquitination during ubiquitin-dependent protein breakdown",
+      "myofibrillar protein ubiquitination during ubiquitin-dependent protein catabolic process",
+      "myofibrillar protein ubiquitination during ubiquitin-dependent protein catabolism",
+      "myofibrillar protein ubiquitination during ubiquitin-dependent protein degradation",
+      "protein ubiquitination during ubiquitin-dependent protein breakdown",
+      "protein ubiquitination during ubiquitin-dependent protein catabolism",
+      "protein ubiquitination during ubiquitin-dependent protein degradation",
+      "protein ubiquitinylation during ubiquitin-dependent protein catabolic process",
+      "protein ubiquitinylation during ubiquitin-dependent protein catabolism",
+      "protein ubiquitylation during ubiquitin-dependent protein catabolic process",
+      "protein ubiquitylation during ubiquitin-dependent protein catabolism"
+    ],
+    "related": [
+      "protein ubiquitination during ubiquitin-dependent protein catabolic process",
+      "protein ubiquitination involved in ubiquitin-dependent protein catabolic process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a protein or peptide by hydrolysis of its peptide bonds, initiated by the covalent attachment of a ubiquitin group, or multiple ubiquitin groups, to the protein.",
+  "namespace": "biological_process",
+  "label": "ubiquitin-dependent protein catabolic process"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0098851",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098851",
+  "relationships": {
+    "is_a": [
+      "GO:0003725"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "miRNA duplex binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "rph"
+    ],
+    "PMID": [
+      "19966796"
+    ]
+  },
+  "definition": "Binding to double-stranded miRNA. double-stranded miRNA is formed by processing of pre-miRNA stem-loop structures.",
+  "namespace": "molecular_function",
+  "label": "double-stranded miRNA binding"
+}

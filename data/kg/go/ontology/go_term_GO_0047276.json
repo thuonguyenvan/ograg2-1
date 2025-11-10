@@ -1,0 +1,71 @@
+{
+  "id": "GO:0047276",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047276",
+  "relationships": {
+    "is_a": [
+      "GO:0035250"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "N-acetyllactosaminide alpha-1,3-galactosyltransferase activity",
+      "beta-galactosyl-N-acetylglucosaminylglycopeptide alpha-1,3-galactosyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-Gal:Gal-beta-1-&gt;4GlcNAc-R alpha-1-&gt;3-galactosyltransferase activity",
+      "UDP-Gal:Galbeta1-&gt;4GlcNAc-R alpha1-&gt;3-galactosyltransferase activity",
+      "UDP-Gal:N-acetyllactosaminide alpha(1,3)-galactosyltransferase activity",
+      "UDP-Gal:N-acetyllactosaminide alpha-(1,3)-galactosyltransferase activity",
+      "UDP-Gal:N-acetyllactosaminide alpha-1,3-D-galactosyltransferase activity",
+      "UDP-Gal:beta-D-Gal(1,4)-D-GlcNAc alpha(1,3)-galactosyltransferase activity",
+      "UDP-Gal:beta-D-Gal(1,4)-D-GlcNAc alpha-(1,3)-galactosyltransferase activity",
+      "UDP-galactose-acetyllactosamine alpha-D-galactosyltransferase activity",
+      "UDP-galactose:N-acetyllactosaminide 3-alpha-D-galactosyltransferase activity",
+      "UDPgalactose:beta-D-galactosyl-beta-1,4-N-acetyl-D-glucosaminyl-glycopeptide alpha-1,3-D-galactosyltransferase activity",
+      "alpha-galactosyltransferase activity",
+      "beta-D-galactosyl-N-acetylglucosaminylglycopeptide alpha-1,3-galactosyltransferase activity",
+      "glucosaminylglycopeptide alpha-1,3-galactosyltransferase activity",
+      "uridine diphosphogalactose-acetyllactosamine alpha-1-&gt;3-galactosyltransferase activity",
+      "uridine diphosphogalactose-acetyllactosamine alpha1-&gt;3-galactosyltransferase activity",
+      "uridine diphosphogalactose-acetyllactosamine galactosyltransferase activity",
+      "uridine diphosphogalactose-galactosylacetylglucosaminylgalactosyl-glucosylceramide galactosyltransferase activity",
+      "uridine diphosphogalactose-galactosylacetylglucosaminylgalactosylglucosylceramide galactosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87",
+      "2.4.1.87"
+    ],
+    "MetaCyc": [
+      "2.4.1.151-RXN"
+    ],
+    "RHEA": [
+      "13013",
+      "13013"
+    ]
+  },
+  "definition": "Catalysis of the reaction: beta-D-galactosyl-(1,4)-beta-N-acetyl-D-glucosaminyl-R + UDP-galactose = alpha-D-galactosyl-(1,3)-beta-D-galactosyl-(1,4)-beta-N-acetyl-D-glucosaminyl-R + UDP.",
+  "namespace": "molecular_function",
+  "label": "N-acetyllactosaminide 3-alpha-galactosyltransferase activity"
+}

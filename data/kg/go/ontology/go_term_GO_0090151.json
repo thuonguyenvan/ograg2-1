@@ -1,0 +1,32 @@
+{
+  "id": "GO:0090151",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090151",
+  "relationships": {
+    "is_a": [
+      "GO:0007006",
+      "GO:0051649",
+      "GO:0072655",
+      "GO:0090150"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "establishment of protein localisation in mitochondrial membrane",
+      "establishment of protein localization in mitochondrial membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ascb_2009",
+      "dph",
+      "tb",
+      "mah"
+    ]
+  },
+  "definition": "The directed movement of a protein to a specific location in the mitochondrial membrane.",
+  "namespace": "biological_process",
+  "label": "establishment of protein localization to mitochondrial membrane"
+}

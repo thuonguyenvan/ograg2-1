@@ -1,0 +1,37 @@
+{
+  "id": "GO:0150008",
+  "uri": "http://purl.obolibrary.org/obo/GO_0150008",
+  "relationships": {
+    "is_a": [
+      "GO:0048488"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ADBE",
+      "activity-dependent bulk endocytosis",
+      "activity-dependent bulk synaptic vesicle endocytosis",
+      "bulk endocytosis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "aruk",
+      "bc",
+      "ha"
+    ],
+    "PMID": [
+      "18250322",
+      "18579735",
+      "19266323",
+      "26430111",
+      "28391090"
+    ]
+  },
+  "definition": "Endocytosis of large regions of presynaptic membrane after intense stimulation-mediated fusion of multiple synaptic vesicles. Bulk endocytosis is triggered by high loads of membrane addition through exocytosis of synaptic vesicles and elevated concentration of calcium in the presynapse.",
+  "namespace": "biological_process",
+  "label": "bulk synaptic vesicle endocytosis"
+}

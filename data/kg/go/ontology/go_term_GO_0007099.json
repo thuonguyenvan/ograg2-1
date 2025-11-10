@@ -1,0 +1,37 @@
+{
+  "id": "GO:0007099",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007099",
+  "relationships": {
+    "is_a": [
+      "GO:0022402",
+      "GO:0098534"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "centriole duplication"
+    ],
+    "broad": [
+      "microtubule basal body duplication"
+    ],
+    "narrow": [],
+    "related": [
+      "ciliary basal body duplication"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cilia",
+      "kmv"
+    ],
+    "ISBN": [
+      "0815316194"
+    ],
+    "PMID": [
+      "9889124"
+    ]
+  },
+  "definition": "The cell cycle process in which a daughter centriole is formed perpendicular to an existing centriole. An immature centriole contains a ninefold radially symmetric array of single microtubules; mature centrioles consist of a radial array of nine microtubule triplets, doublets, or singlets depending upon the species and cell type. Duplicated centrioles also become the ciliary basal body in cells that form cilia during G0.",
+  "namespace": "biological_process",
+  "label": "centriole replication"
+}

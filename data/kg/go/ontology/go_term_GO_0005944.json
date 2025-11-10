@@ -1,0 +1,30 @@
+{
+  "id": "GO:0005944",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005944",
+  "relationships": {
+    "is_a": [
+      "GO:0097651"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1-phosphatidylinositol-4-phosphate 3-kinase, class IB complex",
+      "class IB PI3K complex",
+      "phosphoinositide 3-kinase complex, class IB"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1-phosphatidylinositol-4-phosphate kinase, class IB complex"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "9255069",
+      "9759495"
+    ]
+  },
+  "definition": "A class I phosphatidylinositol 3-kinase complex that possesses 1-phosphatidylinositol-4-phosphate 3-kinase activity; comprises a catalytic class IB phosphoinositide 3-kinase (PI3K) subunit and an associated regulatory subunit that is larger than, and unrelated to, the p85 proteins present in class IA complexes. Class IB PI3Ks are stimulated by G-proteins and do not interact with the SH2-domain containing adaptors that bind to Class IA PI3Ks.",
+  "namespace": "cellular_component",
+  "label": "phosphatidylinositol 3-kinase complex, class IB"
+}

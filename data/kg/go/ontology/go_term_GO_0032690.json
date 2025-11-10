@@ -1,0 +1,33 @@
+{
+  "id": "GO:0032690",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032690",
+  "relationships": {
+    "is_a": [
+      "GO:0032650",
+      "GO:0032692"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of interleukin-1 alpha production",
+      "down-regulation of interleukin-1 alpha production",
+      "downregulation of interleukin-1 alpha production",
+      "negative regulation of IL-1 alpha production"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of interleukin-1 alpha production",
+      "negative regulation of interleukin-1 alpha biosynthetic process",
+      "negative regulation of interleukin-1 alpha secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate, or extent of interleukin-1 alpha production.",
+  "namespace": "biological_process",
+  "label": "negative regulation of interleukin-1 alpha production"
+}

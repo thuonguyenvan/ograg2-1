@@ -1,0 +1,42 @@
+{
+  "id": "GO:0000243",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000243",
+  "relationships": {
+    "is_a": [
+      "GO:0005684"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "mammalian spliceosomal E complex",
+      "mammalian spliceosomal complex E",
+      "yeast spliceosomal complex CC"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "mah",
+      "krc",
+      "mah",
+      "krc",
+      "mah"
+    ],
+    "ISBN": [
+      "0879695897",
+      "0879695897",
+      "0879697393",
+      "0879695897",
+      "0879697393"
+    ],
+    "PMID": [
+      "9150140"
+    ]
+  },
+  "definition": "A spliceosomal complex that is formed by association of the U1 snRNP with the 5&apos; splice site of an unspliced intron in an RNA transcript.",
+  "namespace": "cellular_component",
+  "label": "commitment complex"
+}

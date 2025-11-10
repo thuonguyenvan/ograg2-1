@@ -1,0 +1,35 @@
+{
+  "id": "GO:0047055",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047055",
+  "relationships": {
+    "is_a": [
+      "GO:0016717"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-reticuline oxidase (C-C phenol-coupling) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.19.67"
+    ],
+    "KEGG_REACTION": [
+      "R04696"
+    ],
+    "MetaCyc": [
+      "1.1.3.35-RXN"
+    ],
+    "RHEA": [
+      "17713",
+      "17713"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-reticuline + reduced [NADPH--hemoprotein reductase] + O2 = salutaridine + oxidized [NADPH--hemoprotein reductase] + 2 H2O + H+.",
+  "namespace": "molecular_function",
+  "label": "salutaridine synthase activity"
+}

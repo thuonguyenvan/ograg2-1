@@ -1,0 +1,31 @@
+{
+  "id": "GO:0000754",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000754",
+  "relationships": {
+    "is_a": [
+      "GO:0023058"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "adaptation of signalling pathway by response to pheromone involved in conjugation with cellular fusion",
+      "desensitization to pheromone during conjugation with cellular fusion"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "adaptation to pheromone during conjugation with cellular fusion"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "clt",
+      "mah",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "In organisms that undergo conjugation with cellular fusion, the process resulting in desensitization following exposure to pheromone stimulus that act to down-regulate further stimulation or block initial conjugation responses. An example of this is the adaptation to pheromone during conjugation with cellular fusion in Saccharomyces cerevisiae.",
+  "namespace": "biological_process",
+  "label": "adaptation of signaling pathway by response to pheromone involved in conjugation with cellular fusion"
+}

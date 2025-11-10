@@ -1,0 +1,42 @@
+{
+  "id": "GO:0003777",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003777",
+  "relationships": {
+    "is_a": [
+      "GO:0003774",
+      "GO:0120544",
+      "GO:0140657"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP-dependent microtubule motor activity"
+    ],
+    "broad": [
+      "dynein",
+      "kinesin"
+    ],
+    "narrow": [
+      "axonemal motor activity",
+      "dynein ATPase activity",
+      "kinesin motor activity",
+      "kinetochore motor activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-177479",
+      "R-HSA-265160",
+      "R-HSA-9610627"
+    ],
+    "PMID": [
+      "19686686",
+      "32684327",
+      "32842864"
+    ]
+  },
+  "definition": "A motor activity that generates movement along a microtubule, driven by ATP hydrolysis.",
+  "namespace": "molecular_function",
+  "label": "KIF17 transports GluN1:GluN2B (GRIN1:GRIN2B) NMDA receptors to the plasma membrane"
+}

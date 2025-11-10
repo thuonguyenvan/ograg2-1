@@ -1,0 +1,42 @@
+{
+  "id": "GO:0006352",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006352",
+  "relationships": {
+    "is_a": [
+      "GO:0032774"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DNA-dependent RNA polymerase complex assembly at promoter",
+      "DNA-dependent transcription, initiation",
+      "DNA-templated transcription, initiation",
+      "initiation of DNA-dependent transcription",
+      "initiation of transcription, DNA-dependent"
+    ],
+    "broad": [],
+    "narrow": [
+      "transcription initiation from bacterial-type RNA polymerase promoter"
+    ],
+    "related": [
+      "transcription initiation factor activity",
+      "transcription initiation, DNA-dependent"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jid",
+      "txnOH",
+      "txnOH",
+      "jh2",
+      "mah",
+      "jh2"
+    ],
+    "PMID": [
+      "18280161"
+    ]
+  },
+  "definition": "The initial step of transcription, consisting of the assembly of the RNA polymerase preinitiation complex (PIC) at a gene promoter, as well as the formation of the first few bonds of the RNA transcript. Transcription initiation includes abortive initiation events, which occur when the first few nucleotides are repeatedly synthesized and then released, and ends when promoter clearance takes place.",
+  "namespace": "biological_process",
+  "label": "DNA-templated transcription initiation"
+}

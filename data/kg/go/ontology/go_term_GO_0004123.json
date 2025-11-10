@@ -1,0 +1,49 @@
+{
+  "id": "GO:0004123",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004123",
+  "relationships": {
+    "is_a": [
+      "GO:0016846"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "L-cystathionine cysteine-lyase (deaminating)",
+      "gamma-cystathionase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "L-cystathionine cysteine-lyase (deaminating; 2-oxobutanoate-forming)",
+      "homoserine deaminase activity",
+      "homoserine deaminase-cystathionase activity",
+      "homoserine dehydratase activity"
+    ]
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R01001"
+    ],
+    "MetaCyc": [
+      "RXN-15130"
+    ],
+    "RHEA": [
+      "14005",
+      "14005"
+    ],
+    "Reactome": [
+      "R-HSA-1614583"
+    ],
+    "EC": [
+      "4.4.1.1",
+      "4.4.1.1",
+      "4.4.1.1",
+      "4.4.1.1",
+      "4.4.1.1",
+      "4.4.1.1"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-cystathionine + H2O = 2-oxobutanoate + L-cysteine + NH4+.",
+  "namespace": "molecular_function",
+  "label": "PXLP-K212-CTH cleaves L-Cystathionine"
+}

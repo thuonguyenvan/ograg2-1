@@ -1,0 +1,51 @@
+{
+  "id": "GO:1904887",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904887",
+  "relationships": {
+    "is_a": [
+      "GO:0065003"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LRP5/6 signalosome assembly",
+      "LRP5/6 signalosome formation",
+      "Wnt signalosome complex assembly",
+      "Wnt signalosome complex formation",
+      "Wnt signalosome formation",
+      "Wnt-LRP5/6 signalosome assembly",
+      "Wnt-LRP5/6 signalosome formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "LRP6 signalosome assembly",
+      "LRP6 signalosome formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "TermGenie",
+      "bf",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000079"
+    ],
+    "PMID": [
+      "22899650"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form a Wnt signalosome.",
+  "namespace": "biological_process",
+  "label": "Wnt signalosome assembly"
+}

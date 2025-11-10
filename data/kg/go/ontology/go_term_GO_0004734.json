@@ -1,0 +1,35 @@
+{
+  "id": "GO:0004734",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004734",
+  "relationships": {
+    "is_a": [
+      "GO:0016648"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PDA synthase activity",
+      "pyrimidodiazepine:glutathione-disulfide oxidoreductase (ring-opening, cyclizing)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.5.4.1",
+      "1.5.4.1",
+      "1.5.4.1",
+      "1.5.4.1"
+    ],
+    "MetaCyc": [
+      "1.5.4.1-RXN"
+    ],
+    "RHEA": [
+      "10720"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a pyrimidodiazepine + oxidized glutathione = 6-pyruvoyltetrahydropterin + 2 glutathione.",
+  "namespace": "molecular_function",
+  "label": "pyrimidodiazepine synthase activity"
+}

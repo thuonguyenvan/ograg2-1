@@ -1,0 +1,33 @@
+{
+  "id": "GO:0005221",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005221",
+  "relationships": {
+    "is_a": [
+      "GO:0005217",
+      "GO:0043855",
+      "GO:0099094"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "intracellular cyclic nucleotide activated monoatomic cation channel activity",
+      "intracellular cyclic nucleotide-activated monoatomic cation channel activity"
+    ],
+    "broad": [
+      "intracellular cyclic nucleotide activated cation channel activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2514867"
+    ],
+    "GOC": [
+      "mtg_transport"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of a monoatomic cation by a channel that opens when intracellular cyclic nucleotide has been bound by the channel complex or one of its constituent parts.",
+  "namespace": "molecular_function",
+  "label": "cGMP:CNG transports Na+ and Ca2+ into the rod outer segment"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0000995",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000995",
+  "relationships": {
+    "is_a": [
+      "GO:0140223"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA polymerase III general initiation factor activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "RNA polymerase III transcription factor activity, sequence-specific DNA binding",
+      "core RNA polymerase III binding transcription factor activity",
+      "sequence-specific DNA binding RNA polymerase III transcription factor activity",
+      "transcription factor activity, core RNA polymerase III binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH-2018"
+    ],
+    "PMID": [
+      "12381659",
+      "17977614",
+      "20413673",
+      "27068803"
+    ],
+    "Wikipedia": [
+      "RNA_polymerase_III"
+    ]
+  },
+  "definition": "A general transcription initiation factor activity that contributes to transcription start site selection and transcription initiation of genes transcribed by RNA polymerase III. Factors required for RNA polymerase III transcription initiation include TFIIIA, TFIIIB and TFIIIC. RNA polymerase III transcribes genes encoding short RNAs, including tRNAs, 5S rRNA, U6 snRNA, the short ncRNA component of RNases P, the mitochondrial RNA processing (MRP) RNA, the signal recognition particle SRP RNA, and in higher eukaryotes a number of micro and other small RNAs, though there is some variability across species as to whether a given small noncoding RNA is transcribed by RNA polymerase II or RNA polymerase III.",
+  "namespace": "molecular_function",
+  "label": "RNA polymerase III general transcription initiation factor activity"
+}

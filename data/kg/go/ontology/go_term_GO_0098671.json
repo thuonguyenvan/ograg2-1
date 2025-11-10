@@ -1,0 +1,30 @@
+{
+  "id": "GO:0098671",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098671",
+  "relationships": {
+    "is_a": [
+      "GO:0046813"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "viral attachment to host adhesion receptor"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "VZ": [
+      "3943",
+      "3943",
+      "3943"
+    ],
+    "PMID": [
+      "18351291"
+    ]
+  },
+  "definition": "The process by which a virion attaches to a host cell by binding to a receptor on the host cell surface that does not mediate or trigger entry into the host cell. This binding is typically reversible and enhances significantly infectivity by concentrating the virus in the vicinity of its entry receptors, or bringing it to an organ in which its target cells are located.",
+  "namespace": "biological_process",
+  "label": "adhesion receptor-mediated virion attachment to host cell"
+}

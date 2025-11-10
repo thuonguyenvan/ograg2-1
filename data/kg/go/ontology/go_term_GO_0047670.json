@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047670",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047670",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATC oxygenase activity",
+      "anhydrotetracycline oxygenase activity",
+      "anhydrotetracycline,NADPH:oxygen oxidoreductase (6-hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.38",
+      "1.14.13.38",
+      "1.14.13.38",
+      "1.14.13.38",
+      "1.14.13.38"
+    ],
+    "KEGG_REACTION": [
+      "R04060"
+    ],
+    "MetaCyc": [
+      "ANHYDROTETRACYCLINE-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "11976",
+      "11976"
+    ]
+  },
+  "definition": "Catalysis of the reaction: anhydrotetracycline + H+ + NADPH + O2 = 12-dehydrotetracycline + H2O + NADP+.",
+  "namespace": "molecular_function",
+  "label": "anhydrotetracycline monooxygenase activity"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:1903084",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903084",
+  "relationships": {
+    "is_a": [
+      "GO:0034504",
+      "GO:1903083"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein localisation in condensed nuclear chromosome",
+      "protein localisation to condensed nuclear chromosome",
+      "protein localization in condensed nuclear chromosome"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "kmv",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000087"
+    ],
+    "PMID": [
+      "12707312"
+    ]
+  },
+  "definition": "A process in which a protein is transported to, or maintained in, a location within a condensed nuclear chromosome.",
+  "namespace": "biological_process",
+  "label": "protein localization to condensed nuclear chromosome"
+}

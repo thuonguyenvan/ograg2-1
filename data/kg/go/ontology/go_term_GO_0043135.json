@@ -1,0 +1,29 @@
+{
+  "id": "GO:0043135",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043135",
+  "relationships": {
+    "is_a": [
+      "GO:0016462"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PRPP pyrophosphatase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-10969",
+      "RXN-10969"
+    ],
+    "PMID": [
+      "12370170"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 5-phospho-alpha-D-ribose 1-diphosphate + H2O = ribose 1,5 bisphosphate + phosphate + H+.",
+  "namespace": "molecular_function",
+  "label": "5-phosphoribosyl 1-pyrophosphate pyrophosphatase activity"
+}

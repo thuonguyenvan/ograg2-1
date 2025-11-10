@@ -1,0 +1,29 @@
+{
+  "id": "GO:0036426",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036426",
+  "relationships": {
+    "is_a": [
+      "GO:0047267"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "KEGG_REACTION": [
+      "R07257"
+    ],
+    "MetaCyc": [
+      "2.4.1.54-RXN"
+    ],
+    "GOC": [
+      "curators"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ditrans,octacis-undecaprenyl phosphate + GDP-alpha-D-mannose = D-mannosyl undecaprenyl phosphate+ GDP.",
+  "namespace": "molecular_function",
+  "label": "ditrans, polycis-undecaprenyl-phosphate mannosyltransferase activity"
+}

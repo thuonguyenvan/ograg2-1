@@ -1,0 +1,38 @@
+{
+  "id": "GO:1905744",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905744",
+  "relationships": {
+    "is_a": [
+      "GO:0048024"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of nuclear mRNA cis splicing, via spliceosome"
+    ],
+    "broad": [
+      "regulation of splicing"
+    ],
+    "narrow": [
+      "regulation of nuclear mRNA cis splicing, via U2-type spliceosome"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "2880558"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of mRNA cis splicing, via spliceosome.",
+  "namespace": "biological_process",
+  "label": "regulation of mRNA cis splicing, via spliceosome"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GO:0050344",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050344",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "trans-cinnamic acid 2-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cinnamate 2-hydroxylase activity",
+      "cinnamate 2-monooxygenase activity",
+      "cinnamic 2-hydroxylase activity",
+      "cinnamic acid 2-hydroxylase activity",
+      "trans-cinnamate,NADPH:oxygen oxidoreductase (2-hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.14",
+      "1.14.13.14",
+      "1.14.13.14",
+      "1.14.13.14",
+      "1.14.13.14",
+      "1.14.13.14",
+      "1.14.13.14"
+    ],
+    "KEGG_REACTION": [
+      "R02254"
+    ],
+    "MetaCyc": [
+      "TRANS-CINNAMATE-2-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "10956",
+      "10956"
+    ]
+  },
+  "definition": "Catalysis of the reaction: trans-cinnamate + H+ + NADPH + O2 = 2-coumarate + H2O + NADP+.",
+  "namespace": "molecular_function",
+  "label": "trans-cinnamate 2-monooxygenase activity"
+}

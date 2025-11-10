@@ -1,0 +1,40 @@
+{
+  "id": "GO:0051461",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051461",
+  "relationships": {
+    "is_a": [
+      "GO:0051240",
+      "GO:0051459",
+      "GO:0090277"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of ACTH secretion",
+      "positive regulation of adrenocorticotropic hormone secretion",
+      "positive regulation of adrenocorticotropin secretion",
+      "positive regulation of adrenotropic hormone secretion",
+      "positive regulation of adrenotropin secretion",
+      "positive regulation of corticotropic hormone secretion",
+      "up regulation of adrenocorticotropin secretion",
+      "up-regulation of adrenocorticotropin secretion",
+      "upregulation of adrenocorticotropin secretion"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of adrenocorticotropin secretion",
+      "stimulation of adrenocorticotropin secretion"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph",
+      "tb"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of the regulated release of corticotropin hormone from a cell.",
+  "namespace": "biological_process",
+  "label": "positive regulation of corticotropin secretion"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "GO:2001312",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001312",
+  "relationships": {
+    "is_a": [
+      "GO:0046474",
+      "GO:1901137",
+      "GO:2001311"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LBPA anabolism",
+      "LBPA biosynthesis",
+      "LBPA biosynthetic process",
+      "LBPA formation",
+      "LBPA synthesis",
+      "bis(monoacylglycerol) hydrogen phosphate (BMP) anabolism",
+      "bis(monoacylglycerol) hydrogen phosphate (BMP) biosynthesis",
+      "bis(monoacylglycerol) hydrogen phosphate (BMP) biosynthetic process",
+      "bis(monoacylglycerol) hydrogen phosphate (BMP) formation",
+      "bis(monoacylglycerol) hydrogen phosphate (BMP) synthesis",
+      "bis(monoacylglycerol) hydrogen phosphate anabolism",
+      "bis(monoacylglycerol) hydrogen phosphate biosynthesis",
+      "bis(monoacylglycerol) hydrogen phosphate biosynthetic process",
+      "bis(monoacylglycerol) hydrogen phosphate formation",
+      "bis(monoacylglycerol) hydrogen phosphate synthesis",
+      "lysobisphosphatidic acid anabolism",
+      "lysobisphosphatidic acid biosynthesis",
+      "lysobisphosphatidic acid formation",
+      "lysobisphosphatidic acid synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1483171"
+    ],
+    "GOC": [
+      "mw",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of a lysobisphosphatidic acid. A lysobisphosphatidic acid is a lysophosphatidic acid having the unusual property of a phosphodiester moiety linked to positions sn-1 and sn1&apos; of glycerol; and two additional fatty acids esterified to the glycerol head group.",
+  "namespace": "biological_process",
+  "label": "Synthesis of BMP"
+}

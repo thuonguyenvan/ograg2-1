@@ -1,0 +1,44 @@
+{
+  "id": "GO:0008993",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008993",
+  "relationships": {
+    "is_a": [
+      "GO:0016773",
+      "GO:0019200"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:L-rhamnulose 1-phosphotransferase activity",
+      "L-rhamnulokinase activity",
+      "L-rhamnulose kinase activity",
+      "RhuK",
+      "rhamnulokinase (phosphorylating)",
+      "rhamnulose kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.5",
+      "2.7.1.5",
+      "2.7.1.5",
+      "2.7.1.5",
+      "2.7.1.5",
+      "2.7.1.5",
+      "2.7.1.5",
+      "2.7.1.5"
+    ],
+    "MetaCyc": [
+      "RHAMNULOKIN-RXN"
+    ],
+    "RHEA": [
+      "20117"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + L-rhamnulose = ADP + L-rhamnulose 1-phosphate.",
+  "namespace": "molecular_function",
+  "label": "rhamnulokinase activity"
+}

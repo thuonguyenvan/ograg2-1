@@ -1,0 +1,36 @@
+{
+  "id": "GO:0047034",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047034",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(15S)-15-hydroxy-5,8,11-cis-13-trans-icosatetraenoate:NAD(P)+ 15-oxidoreductase activity",
+      "15-hydroxyeicosatetraenoate dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.232",
+      "1.1.1.232",
+      "1.1.1.232",
+      "1.1.1.232"
+    ],
+    "MetaCyc": [
+      "1.1.1.232-RXN",
+      "1.1.1.232-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-2161789"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD(P)+ + (15S)-15-hydroxy-5,8,11-cis-13-trans-icosatetraenoate = NAD(P)H + H+ + 15-oxo-5,8,11-cis-13-trans-icosatetraenoate.",
+  "namespace": "molecular_function",
+  "label": "15S-HETE is oxidised to 15-oxoETE by 15-HEDH"
+}

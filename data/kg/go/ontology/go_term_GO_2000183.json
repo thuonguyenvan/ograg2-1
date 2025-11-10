@@ -1,0 +1,35 @@
+{
+  "id": "GO:2000183",
+  "uri": "http://purl.obolibrary.org/obo/GO_2000183",
+  "relationships": {
+    "is_a": [
+      "GO:0010894",
+      "GO:0032353",
+      "GO:0062014",
+      "GO:2000182"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "negative regulation of progesterone anabolism",
+      "negative regulation of progesterone biosynthesis",
+      "negative regulation of progesterone formation",
+      "negative regulation of progesterone synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "obol",
+      "obol",
+      "obol",
+      "obol"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of progesterone biosynthetic process.",
+  "namespace": "biological_process",
+  "label": "negative regulation of progesterone biosynthetic process"
+}

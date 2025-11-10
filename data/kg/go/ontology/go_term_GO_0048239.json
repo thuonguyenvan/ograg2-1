@@ -1,0 +1,39 @@
+{
+  "id": "GO:0048239",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048239",
+  "relationships": {
+    "is_a": [
+      "GO:0045910",
+      "GO:0072695"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of telomeric recombination at telomere",
+      "down-regulation of telomeric recombination at telomere",
+      "downregulation of telomeric recombination at telomere",
+      "negative regulation of telomeric recombination at telomere",
+      "suppression of telomeric recombination at telomere"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of telomeric recombination at telomere"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9670095"
+    ],
+    "GOC": [
+      "jid",
+      "tb"
+    ],
+    "PMID": [
+      "9635193"
+    ]
+  },
+  "definition": "Any process that stops, prevents, or reduces the frequency, rate or extent of genetic recombination within the telomere.",
+  "namespace": "biological_process",
+  "label": "Inhibition of DNA recombination at telomere"
+}

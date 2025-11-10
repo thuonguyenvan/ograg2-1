@@ -1,0 +1,38 @@
+{
+  "id": "GO:0007097",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007097",
+  "relationships": {
+    "is_a": [
+      "GO:0046907",
+      "GO:0051647",
+      "GO:0051656"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "establishment of position of nucleus",
+      "nuclear movement",
+      "nuclear positioning",
+      "nucleus migration",
+      "nucleus positioning",
+      "positioning of nucleus"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "establishment of cell nucleus localization",
+      "establishment of localization of nucleus",
+      "establishment of nucleus localisation",
+      "establishment of nucleus localization"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "mah"
+    ]
+  },
+  "definition": "The directed movement of the nucleus to a specific location within a cell.",
+  "namespace": "biological_process",
+  "label": "nuclear migration"
+}

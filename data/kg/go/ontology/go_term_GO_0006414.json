@@ -1,0 +1,30 @@
+{
+  "id": "GO:0006414",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006414",
+  "relationships": {
+    "is_a": [
+      "GO:0009059"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "translation elongation"
+    ],
+    "broad": [
+      "protein synthesis elongation"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-156842"
+    ],
+    "GOC": [
+      "ems"
+    ]
+  },
+  "definition": "The successive addition of amino acid residues to a nascent polypeptide chain during protein biosynthesis.",
+  "namespace": "biological_process",
+  "label": "Eukaryotic Translation Elongation"
+}

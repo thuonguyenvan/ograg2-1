@@ -1,0 +1,33 @@
+{
+  "id": "GO:0016469",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016469",
+  "relationships": {
+    "is_a": [
+      "GO:0098796"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "hydrogen-transporting two-sector ATPase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "vacuolar hydrogen-transporting ATPase"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "ISBN": [
+      "0716743663"
+    ],
+    "PMID": [
+      "16691483"
+    ]
+  },
+  "definition": "A large protein complex that catalyzes the synthesis or hydrolysis of ATP by a rotational mechanism, coupled to the transport of protons across a membrane. The complex comprises a membrane sector (F0, V0, or A0) that carries out proton transport and a cytoplasmic compartment sector (F1, V1, or A1) that catalyzes ATP synthesis or hydrolysis. Two major types have been characterized: V-type ATPases couple ATP hydrolysis to the transport of protons across a concentration gradient, whereas F-type ATPases, also known as ATP synthases, normally run in the reverse direction to utilize energy from a proton concentration or electrochemical gradient to synthesize ATP. A third type, A-type ATPases have been found in archaea, and are closely related to eukaryotic V-type ATPases but are reversible.",
+  "namespace": "cellular_component",
+  "label": "proton-transporting two-sector ATPase complex"
+}

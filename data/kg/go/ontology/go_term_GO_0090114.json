@@ -1,0 +1,43 @@
+{
+  "id": "GO:0090114",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090114",
+  "relationships": {
+    "is_a": [
+      "GO:0006900"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "ER vesicle budding"
+    ],
+    "narrow": [
+      "ER exit"
+    ],
+    "related": [
+      "COPII vesicle budding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "ascb_2009",
+      "dph",
+      "tb",
+      "ascb_2009",
+      "dph",
+      "jp",
+      "tb",
+      "ascb_2009",
+      "dph",
+      "jp",
+      "tb",
+      "ascb_2009",
+      "dph",
+      "jp",
+      "tb"
+    ]
+  },
+  "definition": "The evagination of an endoplasmic reticulum membrane, resulting in formation of a COPII-coated vesicle.",
+  "namespace": "biological_process",
+  "label": "COPII-coated vesicle budding"
+}

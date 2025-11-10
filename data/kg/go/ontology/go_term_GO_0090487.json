@@ -1,0 +1,31 @@
+{
+  "id": "GO:0090487",
+  "uri": "http://purl.obolibrary.org/obo/GO_0090487",
+  "relationships": {
+    "is_a": [
+      "GO:0009056",
+      "GO:0019748"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "secondary metabolite breakdown",
+      "secondary metabolite catabolism",
+      "secondary metabolite degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "tb",
+      "tb",
+      "tb",
+      "tb"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of secondary metabolites, the compounds that are not necessarily required for growth and maintenance of cells, and are often unique to a taxon.",
+  "namespace": "biological_process",
+  "label": "secondary metabolite catabolic process"
+}

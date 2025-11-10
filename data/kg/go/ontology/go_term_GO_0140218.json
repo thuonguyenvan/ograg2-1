@@ -1,0 +1,26 @@
+{
+  "id": "GO:0140218",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140218",
+  "relationships": {
+    "is_a": [
+      "GO:0140993"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone 2-methylpropenoyl transferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "34961760",
+      "40339582"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-methylpropenoyl-CoA + L-lysyl-[protein] = N6-methacrylyl-L-lysyl-[protein] + CoA + H+. Methacryl-CoA is a synonym of 2-methylpropenoyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "histone methacryltransferase activity"
+}

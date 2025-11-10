@@ -1,0 +1,60 @@
+{
+  "id": "GO:0008800",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008800",
+  "relationships": {
+    "is_a": [
+      "GO:0016812"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ampicillinase activity",
+      "beta-lactam hydrolase activity",
+      "beta-lactamase A, B, C",
+      "beta-lactamase AME I",
+      "beta-lactamase I-III",
+      "cephalosporin-beta-lactamase activity",
+      "exopenicillinase activity",
+      "neutrapen",
+      "penicillin amido-beta-lactamhydrolase activity",
+      "penicillin beta-lactamase activity",
+      "penicillinase I, II"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.2.6",
+      "3.5.2.6",
+      "3.5.2.6",
+      "3.5.2.6",
+      "3.5.2.6",
+      "3.5.2.6",
+      "3.5.2.6",
+      "3.5.2.6",
+      "3.5.2.6",
+      "3.5.2.6",
+      "3.5.2.6",
+      "3.5.2.6",
+      "3.5.2.6"
+    ],
+    "MetaCyc": [
+      "BETA-LACTAMASE-RXN"
+    ],
+    "RHEA": [
+      "20401"
+    ],
+    "Reactome": [
+      "R-HSA-9911513",
+      "R-HSA-9911515",
+      "R-HSA-9911518",
+      "R-HSA-9911519",
+      "R-HSA-9911520"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a beta-lactam + H2O = a substituted beta-amino acid.",
+  "namespace": "molecular_function",
+  "label": "TEM-1 hydrolyzes penicillin G"
+}

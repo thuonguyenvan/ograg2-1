@@ -1,0 +1,31 @@
+{
+  "id": "GO:0009705",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009705",
+  "relationships": {
+    "is_a": [
+      "GO:0005774"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "membrane of vacuole with cell cycle-independent morphology",
+      "tonoplast"
+    ],
+    "broad": [
+      "vacuolar membrane"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_sensu"
+    ],
+    "ISBN": [
+      "0471245208"
+    ]
+  },
+  "definition": "The lipid bilayer surrounding a vacuole that retains the same shape regardless of cell cycle phase. The membrane separates its contents from the cytoplasm of the cell. An example of this component is found in Arabidopsis thaliana.",
+  "namespace": "cellular_component",
+  "label": "plant-type vacuole membrane"
+}

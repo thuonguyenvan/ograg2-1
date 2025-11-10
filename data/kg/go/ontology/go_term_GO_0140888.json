@@ -1,0 +1,32 @@
+{
+  "id": "GO:0140888",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140888",
+  "relationships": {
+    "is_a": [
+      "GO:0019221"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "interferon signaling pathway",
+      "interferon-activated signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "dph",
+      "signaling",
+      "signaling"
+    ],
+    "PMID": [
+      "32464097"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by type II interferon binding to its receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription. Type II interferon is also known as interferon-gamma.",
+  "namespace": "biological_process",
+  "label": "interferon-mediated signaling pathway"
+}

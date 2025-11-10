@@ -1,0 +1,36 @@
+{
+  "id": "GO:0120547",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120547",
+  "relationships": {
+    "is_a": [
+      "GO:0016725"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.17.99.9"
+    ],
+    "MetaCyc": [
+      "RXN-18399"
+    ],
+    "RHEA": [
+      "63388",
+      "63388"
+    ],
+    "Reactome": [
+      "R-HSA-2995334"
+    ],
+    "PMID": [
+      "30397130"
+    ]
+  },
+  "definition": "Catalysis of the reaction: Fe(II)-heme o + 2 acceptor + H2O = Fe(II)-heme a + 2 acceptor-H2. The conversion of heme o to heme a occcurs by two successive hydroxylations of the methyl group at C8 using water as the oxygen source. The first hydroxylation forms heme i, the second hydroxylation results in an unstable dihydroxymethyl group, which spontaneously dehydrates, resulting in the formyl group of heme A.",
+  "namespace": "molecular_function",
+  "label": "COX15 transforms heme O to heme A"
+}

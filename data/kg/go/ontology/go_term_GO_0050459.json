@@ -1,0 +1,49 @@
+{
+  "id": "GO:0050459",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050459",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "amino alcohol O-phosphate phospholyase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "O-phosphoethanolamine-phospholyase activity",
+      "O-phosphorylethanol-amine phospho-lyase activity",
+      "ethanolamine-phosphate phospho-lyase (deaminating)",
+      "ethanolamine-phosphate phospho-lyase (deaminating; acetaldehyde-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.2",
+      "4.2.3.2",
+      "4.2.3.2",
+      "4.2.3.2",
+      "4.2.3.2",
+      "4.2.3.2",
+      "4.2.3.2"
+    ],
+    "KEGG_REACTION": [
+      "R00748"
+    ],
+    "MetaCyc": [
+      "ETHANOLAMINE-PHOSPHATE-PHOSPHO-LYASE-RXN"
+    ],
+    "RHEA": [
+      "17889",
+      "17889"
+    ],
+    "Reactome": [
+      "R-HSA-5696415"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + phosphoethanolamine = acetaldehyde + NH4 + phosphate.",
+  "namespace": "molecular_function",
+  "label": "PXLP-K278-ETNPPL tetramer hydrolyses PETA"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GO:0045127",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045127",
+  "relationships": {
+    "is_a": [
+      "GO:0019200"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-acetylamino-2-deoxy-D-glucose kinase activity",
+      "ATP:2-acetylamino-2-deoxy-D-glucose 6-phosphotransferase activity",
+      "ATP:N-acetyl-D-glucosamine 6-phosphotransferase activity",
+      "GlcNAc kinase activity",
+      "acetylaminodeoxyglucokinase activity",
+      "acetylglucosamine kinase (phosphorylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.59",
+      "2.7.1.59",
+      "2.7.1.59",
+      "2.7.1.59",
+      "2.7.1.59",
+      "2.7.1.59",
+      "2.7.1.59"
+    ],
+    "KEGG_REACTION": [
+      "R01201"
+    ],
+    "MetaCyc": [
+      "N-ACETYLGLUCOSAMINE-KINASE-RXN"
+    ],
+    "RHEA": [
+      "17417",
+      "17417"
+    ],
+    "Reactome": [
+      "R-HSA-6803771"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acetyl-D-glucosamine + ATP = N-acetyl-D-glucosamine 6-phosphate + ADP + H+.",
+  "namespace": "molecular_function",
+  "label": "NAGK dimer phosphorylates GlcNAc, GlcNGc to GlcNAc-6-P, GlcNGc-6-P"
+}

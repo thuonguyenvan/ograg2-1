@@ -1,0 +1,37 @@
+{
+  "id": "GO:0050368",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050368",
+  "relationships": {
+    "is_a": [
+      "GO:0016869"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "tyrosine 2,3-aminomutase activity",
+      "tyrosine alpha,beta-mutase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.4.3.6",
+      "5.4.3.6"
+    ],
+    "KEGG_REACTION": [
+      "R00739"
+    ],
+    "MetaCyc": [
+      "TYROSINE-23-AMINOMUTASE-RXN"
+    ],
+    "RHEA": [
+      "15781",
+      "15781"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-tyrosine = 3-amino-3-(4-hydroxyphenyl)propanoate.",
+  "namespace": "molecular_function",
+  "label": "L-tyrosine 2,3-aminomutase activity"
+}

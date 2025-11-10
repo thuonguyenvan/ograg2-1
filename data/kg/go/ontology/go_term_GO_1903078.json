@@ -1,0 +1,86 @@
+{
+  "id": "GO:1903078",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903078",
+  "relationships": {
+    "is_a": [
+      "GO:1903076",
+      "GO:1904377",
+      "GO:1905477"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of protein localisation in plasma membrane",
+      "positive regulation of protein localization in plasma membrane",
+      "up regulation of protein localisation in plasma membrane",
+      "up regulation of protein localization in plasma membrane",
+      "up regulation of protein localization to plasma membrane",
+      "up-regulation of protein localisation in plasma membrane",
+      "up-regulation of protein localization in plasma membrane",
+      "up-regulation of protein localization to plasma membrane",
+      "upregulation of protein localisation in plasma membrane",
+      "upregulation of protein localization in plasma membrane",
+      "upregulation of protein localization to plasma membrane"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of protein localisation in plasma membrane",
+      "activation of protein localization in plasma membrane",
+      "activation of protein localization to plasma membrane",
+      "activation of protein targeting to plasma membrane",
+      "activation of protein-plasma membrane targeting"
+    ],
+    "related": [
+      "positive regulation of establishment of protein localisation in plasma membrane",
+      "positive regulation of establishment of protein localization to plasma membrane",
+      "positive regulation of protein targeting to plasma membrane",
+      "positive regulation of protein-plasma membrane targeting",
+      "up regulation of protein targeting to plasma membrane",
+      "up regulation of protein-plasma membrane targeting",
+      "up-regulation of protein targeting to plasma membrane",
+      "up-regulation of protein-plasma membrane targeting",
+      "upregulation of protein targeting to plasma membrane",
+      "upregulation of protein-plasma membrane targeting"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "rl",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "mah",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "11602640"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of protein localization to plasma membrane.",
+  "namespace": "biological_process",
+  "label": "positive regulation of protein localization to plasma membrane"
+}

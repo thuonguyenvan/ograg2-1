@@ -1,0 +1,24 @@
+{
+  "id": "GO:0009379",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009379",
+  "relationships": {
+    "is_a": [
+      "GO:0033202"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "16935884",
+      "9442895"
+    ]
+  },
+  "definition": "A DNA helicase complex found at Holliday junctions where the helicase activity is involved in the migration of the junction branch point. The best-characterized example is the E. coli RuvAB complex, in which a hexamer of RuvB subunits possesses helicase activity that is modulated by association with RuvA.",
+  "namespace": "cellular_component",
+  "label": "Holliday junction helicase complex"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GO:0001182",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001182",
+  "relationships": {
+    "is_a": [
+      "GO:0001109"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA polymerase I promoter escape",
+      "promoter clearance from RNA polymerase I promoter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "promoter clearance from RNA polymerase I promoter for nuclear large rRNA transcript"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "txnOH"
+    ],
+    "PMID": [
+      "18559419"
+    ]
+  },
+  "definition": "A process that mediates the transition from the initiation to the elongation phases of transcription by RNA polymerase I, generally including a conformational change from the initiation conformation to the elongation conformation. Promoter clearance often involves breaking contact with transcription factors involved only in the initiation phase and making contacts with elongation specific factors.",
+  "namespace": "biological_process",
+  "label": "RNA polymerase I promoter clearance"
+}

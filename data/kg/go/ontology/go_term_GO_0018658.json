@@ -1,0 +1,46 @@
+{
+  "id": "GO:0018658",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018658",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "salicylate hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "salicylate 1-hydroxylase activity",
+      "salicylate hydroxylase (decarboxylating)",
+      "salicylate monooxygenase activity",
+      "salicylate,NADH:oxygen oxidoreductase (1-hydroxylating, decarboxylating)",
+      "salicylic hydroxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.1",
+      "1.14.13.1",
+      "1.14.13.1",
+      "1.14.13.1",
+      "1.14.13.1",
+      "1.14.13.1",
+      "1.14.13.1"
+    ],
+    "MetaCyc": [
+      "SALICYLATE-1-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "11004"
+    ],
+    "UM-BBD_enzymeID": [
+      "r0340"
+    ]
+  },
+  "definition": "Catalysis of the reaction: salicylate + NADH + H+ + O2 = catechol + NAD+ + H2O + CO2.",
+  "namespace": "molecular_function",
+  "label": "salicylate 1-monooxygenase activity"
+}

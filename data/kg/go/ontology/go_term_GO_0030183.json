@@ -1,0 +1,34 @@
+{
+  "id": "GO:0030183",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030183",
+  "relationships": {
+    "is_a": [
+      "GO:0030098",
+      "GO:0042113"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "B lymphocyte differentiation",
+      "B-cell differentiation",
+      "B-lymphocyte differentiation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "B cell development"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "add"
+    ],
+    "GO_REF": [
+      "0000022"
+    ]
+  },
+  "definition": "The process in which a precursor cell type acquires the specialized features of a B cell. A B cell is a lymphocyte of B lineage with the phenotype CD19-positive and capable of B cell mediated immunity.",
+  "namespace": "biological_process",
+  "label": "B cell differentiation"
+}

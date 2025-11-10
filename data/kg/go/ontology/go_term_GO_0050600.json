@@ -1,0 +1,34 @@
+{
+  "id": "GO:0050600",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050600",
+  "relationships": {
+    "is_a": [
+      "GO:0016215"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "acyl-CoA delta11-desaturase activity"
+    ],
+    "narrow": [
+      "myristoyl-CoA 11-(E) desaturase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.19.24"
+    ],
+    "MetaCyc": [
+      "1.14.99.31-RXN"
+    ],
+    "RHEA": [
+      "46396",
+      "46396"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an 11,12-saturated fatty acyl-CoA + 2 Fe(II)-[cytochrome b5] + 2 H+ + O2 = an (11E)-delta11-fatty acyl-CoA + 2 Fe(III)-[cytochrome b5] + 2 H2O.",
+  "namespace": "molecular_function",
+  "label": "acyl-CoA 11-(E)-desaturase activity"
+}

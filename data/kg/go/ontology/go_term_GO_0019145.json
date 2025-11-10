@@ -1,0 +1,41 @@
+{
+  "id": "GO:0019145",
+  "uri": "http://purl.obolibrary.org/obo/GO_0019145",
+  "relationships": {
+    "is_a": [
+      "GO:0004029"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "4-aminobutanal dehydrogenase activity",
+      "4-aminobutanal:NAD+ 1-oxidoreductase activity",
+      "4-aminobutyraldehyde dehydrogenase activity",
+      "ABAL dehydrogenase activity",
+      "gamma-aminobutyraldehyde dehydroganase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.19",
+      "1.2.1.19",
+      "1.2.1.19",
+      "1.2.1.19",
+      "1.2.1.19",
+      "1.2.1.19",
+      "1.2.1.19"
+    ],
+    "MetaCyc": [
+      "AMINOBUTDEHYDROG-RXN"
+    ],
+    "RHEA": [
+      "19105"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 4-aminobutanal + NAD+ + H2O = 4-aminobutanoate + NADH + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "aminobutyraldehyde dehydrogenase (NAD+) activity"
+}

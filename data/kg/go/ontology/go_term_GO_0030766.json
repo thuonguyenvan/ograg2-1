@@ -1,0 +1,39 @@
+{
+  "id": "GO:0030766",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030766",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "11-demethyl-17-deacetylvindoline 11-methyltransferase activity",
+      "S-adenosyl-L-methionine:11-O-demethyl-17-O-deacetylvindoline 11-O-methyltransferase activity",
+      "S-adenosyl-L-methionine:16-hydroxytabersonine 16-O-methyltransferase activity",
+      "tabersonine 16-O-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.94",
+      "2.1.1.94",
+      "2.1.1.94",
+      "2.1.1.94",
+      "2.1.1.94",
+      "2.1.1.94"
+    ],
+    "MetaCyc": [
+      "2.1.1.94-RXN"
+    ],
+    "RHEA": [
+      "20992"
+    ]
+  },
+  "definition": "Catalysis of the reaction: S-adenosyl-L-methionine + 11-O-demethyl-17-O-deacetylvindoline = S-adenosyl-L-homocysteine + 17-O-deacetylvindoline.",
+  "namespace": "molecular_function",
+  "label": "11-O-demethyl-17-O-deacetylvindoline O-methyltransferase activity"
+}

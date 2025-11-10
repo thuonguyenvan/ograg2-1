@@ -1,0 +1,29 @@
+{
+  "id": "GO:0103037",
+  "uri": "http://purl.obolibrary.org/obo/GO_0103037",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN0-5410"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "18620424"
+    ]
+  },
+  "definition": "Catalysis of the reaction: sn-glycerol 3-phosphate + NADP = H+ + L-glyceraldehyde 3-phosphate + NADPH.",
+  "namespace": "molecular_function",
+  "label": "L-glyceraldehyde 3-phosphate reductase activity"
+}

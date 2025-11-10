@@ -1,0 +1,32 @@
+{
+  "id": "GO:0044677",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044677",
+  "relationships": {
+    "is_a": [
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "5-methyl-5,6,7,8-tetrahydromethanopterin:2-mercaptoethane sulfonate 2-methyltransferase complex",
+      "N5-methyltetrahydromethanopterin-coenzyme M methyltransferase complex"
+    ],
+    "broad": [
+      "coenzyme M methyltransferase complex",
+      "methyl-H4MPT"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mengo_curators"
+    ],
+    "PMID": [
+      "8477726"
+    ]
+  },
+  "definition": "A protein complex consisted of eight polypeptides. This complex catalyzes the formation of methyl-coenzyme M and H4MPT from N5-methyl-H4MPT and CoM during methanogenesis.",
+  "namespace": "cellular_component",
+  "label": "methyl-tetrahydromethanopterin:coenzyme M methyltransferase complex"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "GO:2001309",
+  "uri": "http://purl.obolibrary.org/obo/GO_2001309",
+  "relationships": {
+    "is_a": [
+      "GO:0043387",
+      "GO:0043603",
+      "GO:0044273",
+      "GO:0051410"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "gliotoxin breakdown",
+      "gliotoxin catabolism",
+      "gliotoxin degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "di",
+      "obol",
+      "obol",
+      "obol"
+    ],
+    "PMID": [
+      "16333108",
+      "17574915",
+      "18272357"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of the epipolythiodioxopiperazine gliotoxin, a poisonous substance produced by some species of fungi.",
+  "namespace": "biological_process",
+  "label": "gliotoxin catabolic process"
+}

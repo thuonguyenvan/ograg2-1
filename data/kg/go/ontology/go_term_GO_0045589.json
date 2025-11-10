@@ -1,0 +1,39 @@
+{
+  "id": "GO:0045589",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045589",
+  "relationships": {
+    "is_a": [
+      "GO:0045580"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of regulatory T lymphocyte differentiation",
+      "regulation of regulatory T-cell differentiation",
+      "regulation of regulatory T-lymphocyte differentiation",
+      "regulation of suppressor T cell differentiation",
+      "regulation of suppressor T lymphocyte differentiation",
+      "regulation of suppressor T-cell differentiation",
+      "regulation of suppressor T-lymphocyte differentiation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of regulatory T cell development"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8877330"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "GOC": [
+      "add"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of differentiation of regulatory T cells.",
+  "namespace": "biological_process",
+  "label": "RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)"
+}

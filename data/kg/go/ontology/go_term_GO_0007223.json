@@ -1,0 +1,38 @@
+{
+  "id": "GO:0007223",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007223",
+  "relationships": {
+    "is_a": [
+      "GO:0035567"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Wnt receptor signaling pathway, calcium modulating pathway",
+      "Wnt-activated signaling pathway, calcium modulating pathway"
+    ],
+    "broad": [
+      "non-canonical Wnt signaling pathway"
+    ],
+    "narrow": [
+      "frizzled-2 signaling pathway",
+      "frizzled-2 signalling pathway"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-4086398"
+    ],
+    "PMID": [
+      "11532397",
+      "37804416"
+    ],
+    "GOC": [
+      "signaling"
+    ]
+  },
+  "definition": "A type of non-canonical Wnt signaling in which Wnt binding to its receptor on the surface of a target cell leads to an increase in intracellular calcium and activation of protein kinase C (PKC).",
+  "namespace": "biological_process",
+  "label": "Ca2+ pathway"
+}

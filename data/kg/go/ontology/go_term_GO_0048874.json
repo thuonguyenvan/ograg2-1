@@ -1,0 +1,29 @@
+{
+  "id": "GO:0048874",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048874",
+  "relationships": {
+    "is_a": [
+      "GO:0048872",
+      "GO:0051851"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "host-mediated regulation of intestinal microbiota composition"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "homeostasis of number of cells in a free-living population",
+      "host-induced regulation of intestinal microbiota composition"
+    ]
+  },
+  "cross_references": {
+    "PMID": [
+      "25757720"
+    ]
+  },
+  "definition": "The biological process involved in maintaining the steady-state number of cells within a population of free-living cells such as the bacteria in the gut.",
+  "namespace": "biological_process",
+  "label": "host-mediated modulation of intestinal microbiota composition"
+}

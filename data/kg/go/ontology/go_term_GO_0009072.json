@@ -1,0 +1,30 @@
+{
+  "id": "GO:0009072",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009072",
+  "relationships": {
+    "is_a": [
+      "GO:0006520",
+      "GO:0019752"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "aromatic amino acid family metabolic process",
+      "aromatic amino acid family metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-8963691"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving aromatic amino acid family, amino acids with aromatic ring (phenylalanine, tyrosine, tryptophan).",
+  "namespace": "biological_process",
+  "label": "Phenylalanine and tyrosine metabolism"
+}

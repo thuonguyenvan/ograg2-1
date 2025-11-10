@@ -1,0 +1,32 @@
+{
+  "id": "GO:0075342",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075342",
+  "relationships": {
+    "is_a": [
+      "GO:0052008"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "catabolism by symbiont of host cell PML body",
+      "degradation by symbiont of host cell PML body",
+      "disassembly by symbiont of host cell PML NB",
+      "disassembly by symbiont of host cell PML body",
+      "disassembly by symbiont of host cell PML body during symbiotic interaction",
+      "disassembly by symbiont of host cell PML nuclear body",
+      "disruption by symbiont of host cell PML body"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "jl"
+    ]
+  },
+  "definition": "The process in which an organism effects a change that impairs the structure or function of the host PML body. A PML body is a nuclear body that reacts against SP100 auto-antibodies (PML = promyelocytic leukemia). The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated disruption of host cell PML body"
+}

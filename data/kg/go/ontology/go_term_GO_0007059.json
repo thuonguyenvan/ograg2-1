@@ -1,0 +1,33 @@
+{
+  "id": "GO:0007059",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007059",
+  "relationships": {
+    "is_a": [
+      "GO:0022402"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chromosome division"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "chromosome transmission"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Chromosome_segregation"
+    ],
+    "GOC": [
+      "jl",
+      "mah",
+      "mtg_cell_cycle",
+      "vw"
+    ]
+  },
+  "definition": "The process in which genetic material, in the form of chromosomes, is organized into specific structures and then physically separated and apportioned to two or more sets. In eukaryotes, chromosome segregation begins with the condensation of chromosomes, includes chromosome separation, and ends when chromosomes have completed movement to the spindle poles.",
+  "namespace": "biological_process",
+  "label": "chromosome segregation"
+}

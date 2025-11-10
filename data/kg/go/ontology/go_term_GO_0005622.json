@@ -1,0 +1,37 @@
+{
+  "id": "GO:0005622",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005622",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "internal to cell",
+      "intracellular",
+      "protoplasm"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "nucleocytoplasm",
+      "protoplast"
+    ]
+  },
+  "cross_references": {
+    "Wikipedia": [
+      "Intracellular"
+    ],
+    "ISBN": [
+      "0198506732"
+    ],
+    "GOC": [
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A component of a cell contained within (but not including) the plasma membrane. In eukaryotes it includes the nucleus and cytoplasm.",
+  "namespace": "cellular_component",
+  "label": "intracellular anatomical structure"
+}

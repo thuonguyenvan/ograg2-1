@@ -1,0 +1,31 @@
+{
+  "id": "GO:0033962",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033962",
+  "relationships": {
+    "is_a": [
+      "GO:0140694"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "P body assembly",
+      "cytoplasmic mRNA processing body assembly"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "P body biogenesis"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "17429074"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of proteins and RNA molecules to form a cytoplasmic mRNA processing body.",
+  "namespace": "biological_process",
+  "label": "P-body assembly"
+}

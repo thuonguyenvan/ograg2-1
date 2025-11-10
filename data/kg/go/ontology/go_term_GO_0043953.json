@@ -1,0 +1,29 @@
+{
+  "id": "GO:0043953",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043953",
+  "relationships": {
+    "is_a": [
+      "GO:0071806"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "twin-arginine translocation pathway"
+    ],
+    "broad": [],
+    "narrow": [
+      "protein secretion by the TAT complex",
+      "protein translocation by the TAT complex",
+      "protein translocation by the twin-arginine translocation complex"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pamgo_curators"
+    ]
+  },
+  "definition": "The process in which folded proteins are transported across cytoplasmic membranes of bacteria and membranes of organelles derived from bacteria (chloroplasts and mitochondria) by the TAT complex.",
+  "namespace": "biological_process",
+  "label": "protein transport by the Tat complex"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:0015086",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015086",
+  "relationships": {
+    "is_a": [
+      "GO:0046915"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "zinc, cadmium uptake permease activity",
+      "zinc, cadmium, cobalt, nickel, lead-efflux ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dgf"
+    ]
+  },
+  "definition": "Enables the transfer of cadmium (Cd) ions from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "cadmium ion transmembrane transporter activity"
+}

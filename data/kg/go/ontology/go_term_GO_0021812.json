@@ -1,0 +1,35 @@
+{
+  "id": "GO:0021812",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021812",
+  "relationships": {
+    "is_a": [
+      "GO:0098609"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "neuronal-glial interaction involved in cerebral cortex glial-mediated radial migration"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid",
+      "dph"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "12626695"
+    ]
+  },
+  "definition": "The changes in adhesion between neuronal cells and glial cells as a component of the process of cerebral cortex glial-mediated radial cell migration.",
+  "namespace": "biological_process",
+  "label": "neuronal-glial interaction involved in cerebral cortex radial glia guided migration"
+}

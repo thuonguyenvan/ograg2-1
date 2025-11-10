@@ -1,0 +1,45 @@
+{
+  "id": "GO:0030768",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030768",
+  "relationships": {
+    "is_a": [
+      "GO:0008757"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "16-methoxy-2,3-dihydro-3-hydroxytabersonine methyltransferase activity",
+      "3-hydroxy-16-methoxy-2,3-dihydrotabersonine N-methyltransferase activity",
+      "NMT activity",
+      "S-adenosyl-L-methionine:16-methoxy-2,3-dihydro-3-hydroxytabersonine N-methyltransferase activity",
+      "S-adenosyl-L-methionine:3-hydroxy-16-methoxy-2,3-dihydrotabersonine N-methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.99",
+      "2.1.1.99",
+      "2.1.1.99",
+      "2.1.1.99",
+      "2.1.1.99",
+      "2.1.1.99",
+      "2.1.1.99"
+    ],
+    "KEGG_REACTION": [
+      "R04013"
+    ],
+    "MetaCyc": [
+      "2.1.1.99-RXN"
+    ],
+    "RHEA": [
+      "11336",
+      "11336"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (3R)-3-hydroxy-16-methoxy-2,3-dihydrotabersonine + S-adenosyl-L-methionine = S-adenosyl-L-homocysteine + deacetoxyvindoline + H+.",
+  "namespace": "molecular_function",
+  "label": "16-methoxy-2,3-dihydro-3-hydroxytabersonine N-methyltransferase activity"
+}

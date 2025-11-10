@@ -1,4 +1,4 @@
-from utils.utils import (
+from .utils import (
     create_service_context,
     read_markdown_files,
     read_pdf_files,
@@ -13,7 +13,7 @@ from utils.utils import (
     flatten_tree
 ) 
 
-from utils.parser import get_config
+from .parser import get_config
 
 __all__ = [
     "create_service_context",

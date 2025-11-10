@@ -1,0 +1,28 @@
+{
+  "id": "GO:0016180",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016180",
+  "relationships": {
+    "is_a": [
+      "GO:0006396",
+      "GO:0016073"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "snRNA maturation",
+      "snRNA production"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "15196465",
+      "31815536"
+    ]
+  },
+  "definition": "Any process involved in the conversion of a primary small nuclear RNA (snRNA) transcript into a mature snRNA molecule. The primary function of snRNAs is processing pre-messenger RNA in the nucleus. They have also been shown to aid in the regulation of transcription factors (7SK RNA) or RNA polymerase II (B2 RNA), and maintaining the telomeres.",
+  "namespace": "biological_process",
+  "label": "snRNA processing"
+}

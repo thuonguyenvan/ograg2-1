@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047270",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047270",
+  "relationships": {
+    "is_a": [
+      "GO:0035251"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "LPS glucosyltransferase II activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "UDP-glucose:galactosyl-lipopolysaccharide alpha-D-glucosyltransferase activity",
+      "UDPglucose:galactosyl-lipopolysaccharide alpha-D-glucosyltransferase activity",
+      "uridine diphosphoglucose-galactosylpolysaccharide glucosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.73",
+      "2.4.1.73",
+      "2.4.1.73",
+      "2.4.1.73",
+      "2.4.1.73"
+    ],
+    "MetaCyc": [
+      "RXN0-5125"
+    ],
+    "RHEA": [
+      "30003"
+    ]
+  },
+  "definition": "Catalysis of the reaction: UDP-glucose + lipopolysaccharide = UDP + alpha-D-glucosyl-lipopolysaccharide.",
+  "namespace": "molecular_function",
+  "label": "lipopolysaccharide glucosyltransferase II activity"
+}

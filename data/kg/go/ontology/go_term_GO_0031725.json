@@ -1,0 +1,29 @@
+{
+  "id": "GO:0031725",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031725",
+  "relationships": {
+    "is_a": [
+      "GO:0045236"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "STRL33 receptor binding",
+      "bonzo receptor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "CXCR6 chemokine receptor ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "nln"
+    ]
+  },
+  "definition": "Binding to a CXCR6 chemokine receptor.",
+  "namespace": "molecular_function",
+  "label": "CXCR6 chemokine receptor binding"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "GO:0005477",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005477",
+  "relationships": {
+    "is_a": [
+      "GO:0015355",
+      "GO:0050833"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pyruvate carrier activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_transport"
+    ]
+  },
+  "definition": "Enables the transfer of pyruvate from one side of a membrane to the other, up its concentration gradient. The transporter binds the solute and undergoes a series of conformational changes. Transport works equally well in either direction and is driven by a chemiosmotic source of energy. Secondary active transporters include symporters and antiporters.",
+  "namespace": "molecular_function",
+  "label": "pyruvate secondary active transmembrane transporter activity"
+}

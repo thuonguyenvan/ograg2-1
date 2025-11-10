@@ -1,0 +1,40 @@
+{
+  "id": "GO:1905948",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905948",
+  "relationships": {
+    "is_a": [
+      "GO:0001409",
+      "GO:0005346",
+      "GO:0140359"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3&apos;,5&apos;-cyclic GMP transmembrane-transporting ATPase activity",
+      "ATP-dependent 3&apos;,5&apos;-cyclic GMP transmembrane transporter activity",
+      "ATPase-coupled cGMP transmembrane transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATPase-coupled 3&apos;,5&apos;-cyclic GMP transmembrane transporter activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "66188"
+    ],
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000070"
+    ],
+    "PMID": [
+      "18310115"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + 3&apos;,5&apos;-cyclic GMP(in) = ADP + phosphate + 3&apos;,5&apos;-cyclic GMP(out).",
+  "namespace": "molecular_function",
+  "label": "ABC-type 3&apos;,5&apos;-cyclic GMP transmembrane transporter activity"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "GO:0008384",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008384",
+  "relationships": {
+    "is_a": [
+      "GO:0004674"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "TANK-binding kinase 1 activity"
+    ],
+    "related": [
+      "ATP:IkappaB protein phosphotransferase activity",
+      "CHUK",
+      "IKBKA",
+      "IKBKB",
+      "IKK",
+      "IKK-1",
+      "IKK-2",
+      "STK12",
+      "TBK1",
+      "inhibitor of NF-kappaB kinase activity",
+      "inhibitor of NFkappaB kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.11.10",
+      "2.7.11.10",
+      "2.7.11.10",
+      "2.7.11.10",
+      "2.7.11.10",
+      "2.7.11.10",
+      "2.7.11.10",
+      "2.7.11.10",
+      "2.7.11.10",
+      "2.7.11.10",
+      "2.7.11.10",
+      "2.7.11.10",
+      "2.7.11.10",
+      "2.7.11.10"
+    ],
+    "MetaCyc": [
+      "2.7.11.10-RXN"
+    ],
+    "RHEA": [
+      "19073"
+    ],
+    "Reactome": [
+      "R-HSA-5684267",
+      "R-HSA-5684275"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + IkappaB protein = ADP + IkappaB phosphoprotein.",
+  "namespace": "molecular_function",
+  "label": "IKBKB phosphorylates TPL2 (MAP3K8) at Ser400"
+}

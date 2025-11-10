@@ -1,0 +1,41 @@
+{
+  "id": "GO:0052933",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052933",
+  "relationships": {
+    "is_a": [
+      "GO:0016898"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "alcohol:cytochrome c(L) oxidoreductase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "2-chloroethanol cytochrome-c oxidoreductase activity",
+      "ethanol cytochrome-c oxidoreductase activity",
+      "methanol dehydrogenase activity",
+      "methanol ferricytochrome-c oxidoreductase activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.2.7",
+      "1.1.2.7"
+    ],
+    "KEGG_REACTION": [
+      "R10713"
+    ],
+    "MetaCyc": [
+      "RXN-11332"
+    ],
+    "RHEA": [
+      "51004",
+      "51004"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 [Fe(III)cytochrome cL] + a primary alcohol = 2 [Fe(II)cytochrome cL] + an aldehyde + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "alcohol dehydrogenase (cytochrome c(L)) activity"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:1901234",
+  "uri": "http://purl.obolibrary.org/obo/GO_1901234",
+  "relationships": {
+    "is_a": [
+      "GO:0048639",
+      "GO:1901232",
+      "GO:1905332"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of convergent extension involved in axis elongation",
+      "up-regulation of convergent extension involved in axis elongation",
+      "upregulation of convergent extension involved in axis elongation"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of convergent extension involved in axis elongation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of convergent extension involved in axis elongation.",
+  "namespace": "biological_process",
+  "label": "positive regulation of convergent extension involved in axis elongation"
+}

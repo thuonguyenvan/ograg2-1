@@ -1,0 +1,33 @@
+{
+  "id": "GO:0036504",
+  "uri": "http://purl.obolibrary.org/obo/GO_0036504",
+  "relationships": {
+    "is_a": [
+      "GO:0090174"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Golgi apparatus membrane fusion",
+      "membrane fusion involved in Golgi reassembly",
+      "post-mitotic fusion of Golgi membranes"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "PARL",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "12473691",
+      "10811609"
+    ]
+  },
+  "definition": "The joining of two lipid bilayers that surround the Golgi apparatus to form a single Golgi membrane.",
+  "namespace": "biological_process",
+  "label": "Golgi membrane fusion"
+}

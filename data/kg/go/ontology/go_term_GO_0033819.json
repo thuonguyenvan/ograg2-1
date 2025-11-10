@@ -1,0 +1,49 @@
+{
+  "id": "GO:0033819",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033819",
+  "relationships": {
+    "is_a": [
+      "GO:0016747",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lipoate/octanoate transferase activity",
+      "lipoyl (octanoyl)-acyl carrier protein:protein transferase activity",
+      "lipoyl (octanoyl)-acyl-carrier-protein-protein N-lipoyltransferase activity",
+      "octanoyl-acyl carrier protein-protein N-octanoyltransferase activity",
+      "octanoyl-acyl-carrier-protein-protein N-octanoyltransferase activity",
+      "octanoyl-acyl-carrier-protein:protein N-octanoyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "octanoyl transferase activity (acting on glycine-cleavage complex H protein)"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.181",
+      "2.3.1.181",
+      "2.3.1.181",
+      "2.3.1.181",
+      "2.3.1.181",
+      "2.3.1.181",
+      "2.3.1.181"
+    ],
+    "MetaCyc": [
+      "RXN0-947"
+    ],
+    "RHEA": [
+      "17665",
+      "17665"
+    ],
+    "Reactome": [
+      "R-HSA-6793590"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-lysyl-[protein] + octanoyl-[ACP] = H+ + holo-[ACP] + N6-octanoyl-L-lysyl-[protein].",
+  "namespace": "molecular_function",
+  "label": "LIPT2 transfers octanoyl group to GCSH"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "GO:0004476",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004476",
+  "relationships": {
+    "is_a": [
+      "GO:0016861"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "phosphohexoisomerase activity",
+      "phosphohexomutase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "D-mannose-6-phosphate aldose-ketose-isomerase activity",
+      "D-mannose-6-phosphate ketol-isomerase activity",
+      "mannose phosphate isomerase activity",
+      "phosphomannoisomerase activity",
+      "phosphomannose isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.1.8",
+      "5.3.1.8",
+      "5.3.1.8",
+      "5.3.1.8",
+      "5.3.1.8",
+      "5.3.1.8",
+      "5.3.1.8",
+      "5.3.1.8"
+    ],
+    "MetaCyc": [
+      "MANNPISOM-RXN"
+    ],
+    "RHEA": [
+      "12356",
+      "12356"
+    ],
+    "Reactome": [
+      "R-HSA-3781832",
+      "R-HSA-532549"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-mannose 6-phosphate = D-fructose 6-phosphate.",
+  "namespace": "molecular_function",
+  "label": "MPI isomerises Fru6P to Man6P"
+}

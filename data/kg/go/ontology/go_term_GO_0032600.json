@@ -1,0 +1,27 @@
+{
+  "id": "GO:0032600",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032600",
+  "relationships": {
+    "is_a": [
+      "GO:0032599",
+      "GO:0033606"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "chemokine receptor translocation out of membrane raft",
+      "chemokine receptor transport out of lipid raft"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "The directed movement of a chemokine receptor out of a membrane raft.",
+  "namespace": "biological_process",
+  "label": "chemokine receptor transport out of membrane raft"
+}

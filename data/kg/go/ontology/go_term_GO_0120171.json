@@ -1,0 +1,33 @@
+{
+  "id": "GO:0120171",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120171",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CDC24-FAR1-BG complex",
+      "CDC24-FAR1-Gbetagamma complex",
+      "Cdc24p-Far1p-BG complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "10087263",
+      "10087263"
+    ],
+    "GOC": [
+      "bm",
+      "bm",
+      "rn"
+    ]
+  },
+  "definition": "A complex that forms at the cell cortex in response to pheromone treatment and is required for the polarized growth of haploid yeast cells towards a mating partner during yeast mating. In the yeast Saccharomyces cerevisiae, this complex consists of Cdc24p, Far1p, Ste4p (G-protein beta subunit) and Ste18p (G-protein gamma subunit).",
+  "namespace": "cellular_component",
+  "label": "Cdc24p-Far1p-Gbetagamma complex"
+}

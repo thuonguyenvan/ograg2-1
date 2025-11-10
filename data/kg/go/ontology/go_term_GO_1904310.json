@@ -1,0 +1,34 @@
+{
+  "id": "GO:1904310",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904310",
+  "relationships": {
+    "is_a": [
+      "GO:1901699",
+      "GO:1901701",
+      "GO:1904309"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to 3&apos;-deoxyadenosine"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "sl"
+    ],
+    "GO_REF": [
+      "0000071"
+    ],
+    "PMID": [
+      "21597460"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a cordycepin stimulus.",
+  "namespace": "biological_process",
+  "label": "cellular response to cordycepin"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GO:0044458",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044458",
+  "relationships": {
+    "is_a": [
+      "GO:0060271"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "motile primary cilia assembly",
+      "motile primary cilia formation",
+      "motile primary cilium assembly",
+      "motile primary cilium formation",
+      "nodal cilium assembly",
+      "nodal cilium formation"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "cilia",
+      "krc",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000079"
+    ],
+    "PMID": [
+      "19776033",
+      "21129373"
+    ],
+    "ZFIN": [
+      "dsf"
+    ]
+  },
+  "definition": "The aggregation, arrangement and bonding together of a set of components to form a motile cilium.",
+  "namespace": "biological_process",
+  "label": "motile cilium assembly"
+}

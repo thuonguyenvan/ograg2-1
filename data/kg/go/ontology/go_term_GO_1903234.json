@@ -1,0 +1,41 @@
+{
+  "id": "GO:1903234",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903234",
+  "relationships": {
+    "is_a": [
+      "GO:0045955",
+      "GO:1903233",
+      "GO:2000301"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of calcium ion-dependent exocytosis of neurotransmitter",
+      "down-regulation of calcium ion-dependent exocytosis of neurotransmitter",
+      "downregulation of calcium ion-dependent exocytosis of neurotransmitter"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of calcium ion-dependent exocytosis of neurotransmitter"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "16782817"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of calcium ion-dependent exocytosis of neurotransmitter.",
+  "namespace": "biological_process",
+  "label": "negative regulation of calcium ion-dependent exocytosis of neurotransmitter"
+}

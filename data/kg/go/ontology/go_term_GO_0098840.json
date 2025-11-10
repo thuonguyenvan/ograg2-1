@@ -1,0 +1,27 @@
+{
+  "id": "GO:0098840",
+  "uri": "http://purl.obolibrary.org/obo/GO_0098840",
+  "relationships": {
+    "is_a": [
+      "GO:0006886",
+      "GO:0010970",
+      "GO:0099118"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "microtubule-based protein transport"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "25987607"
+    ]
+  },
+  "definition": "The directed movement of a protein along a microtubule, mediated by motor proteins.",
+  "namespace": "biological_process",
+  "label": "protein transport along microtubule"
+}

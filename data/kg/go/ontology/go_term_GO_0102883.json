@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102883",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102883",
+  "relationships": {
+    "is_a": [
+      "GO:0016838"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.3.78"
+    ],
+    "MetaCyc": [
+      "RXN-8424"
+    ],
+    "RHEA": [
+      "30379",
+      "30379"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (2E,6E)-farnesyl diphosphate = (+)-beta-chamigrene + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "(+)-beta-chamigrene synthase activity"
+}

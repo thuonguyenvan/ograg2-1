@@ -1,0 +1,32 @@
+{
+  "id": "GO:0051725",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051725",
+  "relationships": {
+    "is_a": [
+      "GO:0036211"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "poly(ADP-ribose) removal from protein",
+      "protein amino acid de-ADP-ribosylation",
+      "protein poly(ADP-ribose) catabolic process",
+      "protein poly(ADP-ribose) catabolism",
+      "protein poly(ADP-ribose) degradation",
+      "protein poly(ADP-ribose) hydrolysis",
+      "removal of ADP-ribose from protein"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "bf"
+    ]
+  },
+  "definition": "The process of removing one or more ADP-ribose residues from a protein.",
+  "namespace": "biological_process",
+  "label": "protein de-ADP-ribosylation"
+}

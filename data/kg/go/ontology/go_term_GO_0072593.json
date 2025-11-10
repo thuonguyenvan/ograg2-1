@@ -1,0 +1,31 @@
+{
+  "id": "GO:0072593",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072593",
+  "relationships": {
+    "is_a": [
+      "GO:0008152"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ROS metabolic process",
+      "reactive oxygen species metabolism"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah"
+    ],
+    "CHEBI": [
+      "26523"
+    ]
+  },
+  "definition": "The chemical reactions and pathways involving a reactive oxygen species, any molecules or ions formed by the incomplete one-electron reduction of oxygen. They contribute to the microbicidal activity of phagocytes, regulation of signal transduction and gene expression, and the oxidative damage to biopolymers.",
+  "namespace": "biological_process",
+  "label": "reactive oxygen species metabolic process"
+}

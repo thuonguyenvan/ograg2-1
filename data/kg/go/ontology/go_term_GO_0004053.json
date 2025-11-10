@@ -1,0 +1,45 @@
+{
+  "id": "GO:0004053",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004053",
+  "relationships": {
+    "is_a": [
+      "GO:0016813"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-arginase activity",
+      "L-arginine amidinohydrolase activity",
+      "arginine amidinase activity",
+      "arginine transamidinase activity",
+      "canavanase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.3.1",
+      "3.5.3.1",
+      "3.5.3.1",
+      "3.5.3.1",
+      "3.5.3.1",
+      "3.5.3.1",
+      "3.5.3.1"
+    ],
+    "MetaCyc": [
+      "ARGINASE-RXN"
+    ],
+    "RHEA": [
+      "20569"
+    ],
+    "Reactome": [
+      "R-HSA-452036",
+      "R-HSA-70569"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-arginine + H2O = L-ornithine + urea.",
+  "namespace": "molecular_function",
+  "label": "arginine + H2O =&gt; ornithine + urea [ARG1]"
+}

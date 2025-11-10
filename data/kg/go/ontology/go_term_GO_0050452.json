@@ -1,0 +1,44 @@
+{
+  "id": "GO:0050452",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050452",
+  "relationships": {
+    "is_a": [
+      "GO:0016668"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "CoA-glutathione reductase (NADP) activity",
+      "NADPH-dependent coenzyme A-SS-glutathione reductase activity",
+      "NADPH:CoA-glutathione oxidoreductase activity",
+      "glutathione:NADP+ oxidoreductase (CoA-acylating)"
+    ],
+    "broad": [
+      "CoA-glutathione reductase activity",
+      "coenzyme A disulfide-glutathione reductase activity",
+      "coenzyme A glutathione disulfide reductase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.8.1.10",
+      "1.8.1.10",
+      "1.8.1.10",
+      "1.8.1.10",
+      "1.8.1.10",
+      "1.8.1.10"
+    ],
+    "MetaCyc": [
+      "COA-GLUTATHIONE-REDUCTASE-NADPH-RXN"
+    ],
+    "RHEA": [
+      "14617",
+      "14617"
+    ]
+  },
+  "definition": "Catalysis of the reaction: CoA + glutathione + NADP+ = CoA-glutathione + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "CoA-glutathione reductase (NADPH) activity"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "GO:0031429",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031429",
+  "relationships": {
+    "is_a": [
+      "GO:0072588",
+      "GO:0140513",
+      "GO:1902494"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "box H/ACA small nucleolar ribonucleoprotein complex",
+      "box H/ACA snoRNP pseudouridylase complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "vw",
+      "cjm",
+      "mah",
+      "vw"
+    ],
+    "PMID": [
+      "17284456",
+      "20227365",
+      "22065625",
+      "17284456"
+    ]
+  },
+  "definition": "A box H/ACA small nucleolar ribonucleoprotein complex located in the nucleolus that catalyzes pseudouridylation of ribosomal RNA residues. The complex is composed of four different core proteins that assemble onto a H/ACA guide RNA scaffold that identifies specific uridines in rRNA for modification during ribosome synthesis.",
+  "namespace": "cellular_component",
+  "label": "box H/ACA snoRNP complex"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "GO:0075293",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075293",
+  "relationships": {
+    "is_a": [
+      "GO:0075136"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response of symbiont to host pH environment"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "pamgo_curators"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of the symbiont or its cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of the pH conditions in or around its host organism. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "response to host pH environment"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "GO:0004706",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004706",
+  "relationships": {
+    "is_a": [
+      "GO:0004709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "JNKKK"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "JNK kinase kinase activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "Catalysis of the reaction: JNKK + ATP = JNKK phosphate + ADP. This reaction is the phosphorylation and activation of JUN kinase kinases (JNKKs).",
+  "namespace": "molecular_function",
+  "label": "JUN kinase kinase kinase activity"
+}

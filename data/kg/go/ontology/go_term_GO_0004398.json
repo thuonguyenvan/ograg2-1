@@ -1,0 +1,40 @@
+{
+  "id": "GO:0004398",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004398",
+  "relationships": {
+    "is_a": [
+      "GO:0016831"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "L-histidine carboxy-lyase (histamine-forming)",
+      "L-histidine carboxy-lyase activity",
+      "L-histidine decarboxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.1.1.22",
+      "4.1.1.22",
+      "4.1.1.22",
+      "4.1.1.22",
+      "4.1.1.22"
+    ],
+    "MetaCyc": [
+      "HISTIDINE-DECARBOXYLASE-RXN"
+    ],
+    "RHEA": [
+      "20840"
+    ],
+    "Reactome": [
+      "R-HSA-977301"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-histidine = histamine + CO2.",
+  "namespace": "molecular_function",
+  "label": "Histidine is decarboxylated to histamine"
+}

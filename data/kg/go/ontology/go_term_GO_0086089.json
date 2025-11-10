@@ -1,0 +1,26 @@
+{
+  "id": "GO:0086089",
+  "uri": "http://purl.obolibrary.org/obo/GO_0086089",
+  "relationships": {
+    "is_a": [
+      "GO:0086008"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "voltage-gated potassium channel activity involved in atrial cardiomyocyte action potential repolarization"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "mtg_cardiac_conduct_nov11"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of a potassium ion by a voltage-gated channel through the plasma membrane of an atrial cardiomyocyte contributing to the repolarization phase of an action potential. A voltage-gated channel is a channel whose open state is dependent on the voltage across the membrane in which it is embedded.",
+  "namespace": "molecular_function",
+  "label": "voltage-gated potassium channel activity involved in atrial cardiac muscle cell action potential repolarization"
+}

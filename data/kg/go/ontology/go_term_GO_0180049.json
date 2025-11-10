@@ -1,0 +1,26 @@
+{
+  "id": "GO:0180049",
+  "uri": "http://purl.obolibrary.org/obo/GO_0180049",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "Mrh5C complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "34634819",
+      "38499152"
+    ]
+  },
+  "definition": "A protein complex capable of translation activator activity, and is involved in the activation of cox1 mRNA for translation. In fission yeast this complex consists of a scaffold (Sls1), a helicase (Mrh5), and PPR repeat proteins Prr4 and Mtf2.",
+  "namespace": "cellular_component",
+  "label": "Mrh5C translation activator complex"
+}

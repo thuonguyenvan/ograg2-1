@@ -1,0 +1,43 @@
+{
+  "id": "GO:0008114",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008114",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "6-phosphogluconate 2-dehydrogenase activity"
+    ],
+    "broad": [
+      "6-phosphogluconic dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "2-keto-6-phosphogluconate reductase activity",
+      "6-phospho-D-gluconate:NAD(P)+ 2-oxidoreductase activity",
+      "6-phosphogluconate dehydrogenase (NAD)",
+      "gluconate 6-phosphate dehydrogenase activity",
+      "phosphogluconate dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.43",
+      "1.1.1.43",
+      "1.1.1.43",
+      "1.1.1.43",
+      "1.1.1.43",
+      "1.1.1.43",
+      "1.1.1.43",
+      "1.1.1.43"
+    ],
+    "MetaCyc": [
+      "1.1.1.43-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 6-phospho-D-gluconate + NADP+ = 6-phospho-2-dehydro-D-gluconate + NADPH.",
+  "namespace": "molecular_function",
+  "label": "phosphogluconate 2-dehydrogenase activity"
+}

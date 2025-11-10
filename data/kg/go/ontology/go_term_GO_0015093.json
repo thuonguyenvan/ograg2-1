@@ -1,0 +1,35 @@
+{
+  "id": "GO:0015093",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015093",
+  "relationships": {
+    "is_a": [
+      "GO:0005381"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ferrous iron uptake transmembrane transporter activity"
+    ]
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "TRANS-RXN-8"
+    ],
+    "Reactome": [
+      "R-HSA-1362417",
+      "R-HSA-442368",
+      "R-HSA-5655760",
+      "R-HSA-9911596",
+      "R-HSA-9911598"
+    ],
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "Enables the transfer of ferrous iron (Fe(II) or Fe2+) ions from one side of a membrane to the other.",
+  "namespace": "molecular_function",
+  "label": "EfeUOB transport Fe2+ from periplasmic space to the cytosol"
+}

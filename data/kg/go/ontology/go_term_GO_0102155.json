@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102155",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102155",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.310",
+      "1.1.1.310"
+    ],
+    "MetaCyc": [
+      "RXN-11689"
+    ],
+    "RHEA": [
+      "28194"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (S)-3-sulfonatolactate + NAD = 3-sulfonatopyruvate(2-) + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "S-sulfolactate dehydrogenase activity"
+}

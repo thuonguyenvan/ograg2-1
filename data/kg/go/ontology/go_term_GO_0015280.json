@@ -1,0 +1,32 @@
+{
+  "id": "GO:0015280",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015280",
+  "relationships": {
+    "is_a": [
+      "GO:0005272",
+      "GO:0099094"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "acid-sensing ion channel activity",
+      "epithelial sodium channel"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2672334"
+    ],
+    "GOC": [
+      "mah",
+      "fj",
+      "fj"
+    ]
+  },
+  "definition": "Enables the transmembrane transfer of a sodium ion by a channel that opens when a specific ligand has been bound by the channel complex or one of its constituent parts.",
+  "namespace": "molecular_function",
+  "label": "SCNN channels transport extracellular Na+ to cytosol"
+}

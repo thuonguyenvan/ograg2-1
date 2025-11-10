@@ -1,0 +1,52 @@
+{
+  "id": "GO:0050527",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050527",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "PHA depolymerase activity",
+      "poly((R)-hydroxyalkanoic acid) depolymerase activity",
+      "poly(HA) depolymerase activity",
+      "poly[(R)-hydroxyalkanoic acid] depolymerase"
+    ],
+    "narrow": [],
+    "related": [
+      "PHO depolymerase activity",
+      "poly((R)-3-hydroxyoctanoate) hydrolase activity",
+      "poly(3HO) depolymerase activity",
+      "poly(HA(MCL)) depolymerase activity",
+      "poly(HAMCL) depolymerase activity",
+      "poly[(R)-3-hydroxyoctanoate] hydrolase activity",
+      "poly{oxycarbonyl[(R)-2-pentylethylene]} hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.76",
+      "3.1.1.76",
+      "3.1.1.76",
+      "3.1.1.76",
+      "3.1.1.76",
+      "3.1.1.76",
+      "3.1.1.76",
+      "3.1.1.76",
+      "3.1.1.76",
+      "3.1.1.76",
+      "3.1.1.76",
+      "3.1.1.76",
+      "3.1.1.76"
+    ],
+    "MetaCyc": [
+      "3.1.1.76-RXN",
+      "3.1.1.76-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H2O + poly[(R)-3-hydroxyoctanoate](n) = poly[(R)-3-hydroxyoctanoate](x) + poly[(R)-3-hydroxyoctanoate](n-x); x is 1-5.",
+  "namespace": "molecular_function",
+  "label": "poly(3-hydroxyoctanoate) depolymerase activity"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "GO:0032481",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032481",
+  "relationships": {
+    "is_a": [
+      "GO:0001819",
+      "GO:0032479"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "positive regulation of type I IFN production",
+      "up regulation of type I interferon production",
+      "up-regulation of type I interferon production",
+      "upregulation of type I interferon production"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of type I interferon production",
+      "stimulation of type I interferon production"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1834949"
+    ],
+    "GOC": [
+      "add",
+      "mah"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate, or extent of type I interferon production. Type I interferons include the interferon-alpha, beta, delta, episilon, zeta, kappa, tau, and omega gene families.",
+  "namespace": "biological_process",
+  "label": "Cytosolic sensors of pathogen-associated DNA"
+}

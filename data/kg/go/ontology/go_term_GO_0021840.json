@@ -1,0 +1,32 @@
+{
+  "id": "GO:0021840",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021840",
+  "relationships": {
+    "is_a": [
+      "GO:0030334"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "12626695"
+    ]
+  },
+  "definition": "The creation and reception of signals that control the direction of migration of interneurons as a component of the process of migration from the subpallium to the cortex.",
+  "namespace": "biological_process",
+  "label": "directional guidance of interneurons involved in migration from the subpallium to the cortex"
+}

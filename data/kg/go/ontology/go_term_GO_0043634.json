@@ -1,0 +1,28 @@
+{
+  "id": "GO:0043634",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043634",
+  "relationships": {
+    "is_a": [
+      "GO:0043633"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "poly(A)-dependent ncRNA catabolic process"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "dgf",
+      "jl",
+      "krc",
+      "vw"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of a noncoding RNA (ncRNA) molecule, initiated by the enzymatic addition of a sequence of adenylyl residues (polyadenylation) at the 3&apos; end the target ncRNA.",
+  "namespace": "biological_process",
+  "label": "polyadenylation-dependent ncRNA catabolic process"
+}

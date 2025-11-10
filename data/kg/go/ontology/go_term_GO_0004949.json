@@ -1,0 +1,34 @@
+{
+  "id": "GO:0004949",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004949",
+  "relationships": {
+    "is_a": [
+      "GO:0004930"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cannaboid receptor"
+    ],
+    "broad": [],
+    "narrow": [
+      "endocannabinoid receptor activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "bf"
+    ],
+    "IUPHAR_GPCR": [
+      "1279"
+    ],
+    "Wikipedia": [
+      "Cannabinoid"
+    ]
+  },
+  "definition": "Combining with a cannabinoid to initiate a change in cell activity. Cannabinoids are a class of diverse chemical compounds that include the endocannabinoids and the phytocannabinoids.",
+  "namespace": "molecular_function",
+  "label": "cannabinoid receptor activity"
+}

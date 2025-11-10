@@ -1,0 +1,32 @@
+{
+  "id": "GO:0008679",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008679",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-glycerate:NAD(P)+ oxidoreductase activity",
+      "tartronate semialdehyde reductase (NADPH) activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.60",
+      "1.1.1.60",
+      "1.1.1.60",
+      "1.1.1.60"
+    ],
+    "MetaCyc": [
+      "TSA-REDUCT-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-glycerate + NADP+ = 2-hydroxy-3-oxopropanoate + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "2-hydroxy-3-oxopropionate reductase activity"
+}

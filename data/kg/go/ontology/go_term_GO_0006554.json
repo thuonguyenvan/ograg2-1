@@ -1,0 +1,31 @@
+{
+  "id": "GO:0006554",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006554",
+  "relationships": {
+    "is_a": [
+      "GO:0006553",
+      "GO:1901606"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "lysine breakdown",
+      "lysine catabolism",
+      "lysine degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-71064"
+    ],
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of lysine, 2,6-diaminohexanoic acid.",
+  "namespace": "biological_process",
+  "label": "Lysine catabolism"
+}

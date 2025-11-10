@@ -1,0 +1,40 @@
+{
+  "id": "GO:0004031",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004031",
+  "relationships": {
+    "is_a": [
+      "GO:0016623"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "retinal oxidase activity"
+    ],
+    "related": [
+      "aldehyde:oxygen oxidoreductase activity",
+      "quinoline oxidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.3.1",
+      "1.2.3.1",
+      "1.2.3.1",
+      "1.2.3.1"
+    ],
+    "MetaCyc": [
+      "ALDEHYDE-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "16829"
+    ],
+    "Reactome": [
+      "R-HSA-3204311"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an aldehyde + H2O + O2 = a carboxylic acid + hydrogen peroxide.",
+  "namespace": "molecular_function",
+  "label": "AOX1 oxidises PXL to PDXate"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GO:0035241",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035241",
+  "relationships": {
+    "is_a": [
+      "GO:0016274"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "protein arginine omega-N monomethylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "S-adenosyl-L-methionine:[protein]-L-arginine N-methyltransferase ([protein]-Nomega-methyl-L-arginine-forming)",
+      "type III protein arginine methyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.321",
+      "2.1.1.321",
+      "2.1.1.321",
+      "2.1.1.321"
+    ],
+    "RHEA": [
+      "48100"
+    ],
+    "PMID": [
+      "14705965"
+    ],
+    "RESID": [
+      "AA0069"
+    ]
+  },
+  "definition": "Catalysis of the addition of a methyl group to either of the unmethylated terminal nitrogen atoms (also called omega nitrogen) in peptidyl-arginine to form an omega-N-G-monomethylated arginine residue. The reaction is S-adenosyl-L-methionine + [protein]-L-arginine = S-adenosyl-L-homocysteine + [protein]-Nomega-methyl-L-arginine.",
+  "namespace": "molecular_function",
+  "label": "protein-arginine omega-N monomethyltransferase activity"
+}

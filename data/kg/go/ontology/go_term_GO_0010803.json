@@ -1,0 +1,36 @@
+{
+  "id": "GO:0010803",
+  "uri": "http://purl.obolibrary.org/obo/GO_0010803",
+  "relationships": {
+    "is_a": [
+      "GO:0001959"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of TNF signaling",
+      "regulation of TNF-mediated signaling pathway",
+      "regulation of tumor necrosis factor-mediated signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-5357905"
+    ],
+    "GOC": [
+      "dph",
+      "tb",
+      "dph",
+      "tb",
+      "dph",
+      "tb",
+      "mah"
+    ]
+  },
+  "definition": "Any process that modulates the rate or extent of the tumor necrosis factor-mediated signaling pathway. The tumor necrosis factor-mediated signaling pathway is the series of molecular signals generated as a consequence of tumor necrosis factor binding to a cell surface receptor.",
+  "namespace": "biological_process",
+  "label": "Regulation of TNFR1 signaling"
+}

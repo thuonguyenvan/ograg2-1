@@ -1,0 +1,46 @@
+{
+  "id": "GO:0004561",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004561",
+  "relationships": {
+    "is_a": [
+      "GO:0015929"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acetyl-alpha-D-glucosaminidase activity",
+      "N-acetyl-alpha-glucosaminidase activity",
+      "NAG activity",
+      "alpha-D-2-acetamido-2-deoxyglucosidase activity",
+      "alpha-N-acetyl-D-glucosaminide N-acetylglucosaminohydrolase activity",
+      "alpha-acetylglucosaminidase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.50",
+      "3.2.1.50",
+      "3.2.1.50",
+      "3.2.1.50",
+      "3.2.1.50",
+      "3.2.1.50",
+      "3.2.1.50",
+      "3.2.1.50"
+    ],
+    "MetaCyc": [
+      "3.2.1.50-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-1678742",
+      "R-HSA-2090038",
+      "R-HSA-2263496",
+      "R-HSA-9036052"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of terminal non-reducing N-acetyl-D-glucosamine residues in N-acetyl-alpha-D-glucosaminides.",
+  "namespace": "molecular_function",
+  "label": "Defective NAGLU does not hydrolyse heparan chain(2)"
+}

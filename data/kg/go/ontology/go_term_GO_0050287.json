@@ -1,0 +1,45 @@
+{
+  "id": "GO:0050287",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050287",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "5-keto-D-fructose reductase activity",
+      "5-ketofructose reductase activity",
+      "L-sorbose:NADP+ 5-oxidoreductase activity",
+      "reduced nicotinamide adenine dinucleotide phosphate-linked reductase activity",
+      "sorbose (nicotinamide adenine dinucleotide phosphate) dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.123",
+      "1.1.1.123",
+      "1.1.1.123",
+      "1.1.1.123",
+      "1.1.1.123",
+      "1.1.1.123",
+      "1.1.1.123"
+    ],
+    "KEGG_REACTION": [
+      "R01694"
+    ],
+    "MetaCyc": [
+      "SORBOSE-5-DEHYDROGENASE-NADP+-RXN"
+    ],
+    "RHEA": [
+      "15001",
+      "15001"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-sorbose + NADP+ = 5-dehydro-D-fructose + H+ + NADPH.",
+  "namespace": "molecular_function",
+  "label": "sorbose 5-dehydrogenase (NADP+) activity"
+}

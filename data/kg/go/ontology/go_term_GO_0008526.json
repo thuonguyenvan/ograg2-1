@@ -1,0 +1,40 @@
+{
+  "id": "GO:0008526",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008526",
+  "relationships": {
+    "is_a": [
+      "GO:0120014"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "phosphatidylinositol carrier activity"
+    ],
+    "broad": [
+      "phosphatidylinositol transporter activity"
+    ],
+    "narrow": [
+      "intermembrane phosphatidylinositol transfer activity",
+      "intermembrane phosphotidylinositol transfer activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1483229",
+      "R-HSA-8869241",
+      "R-HSA-8874470"
+    ],
+    "GOC": [
+      "krc"
+    ],
+    "PMID": [
+      "20823909",
+      "24220498",
+      "25797198"
+    ]
+  },
+  "definition": "Removes phosphatidylinositol from a membrane or a monolayer lipid particle, transports it through the aqueous phase while protected in a hydrophobic pocket, and brings it to an acceptor membrane or lipid particle.",
+  "namespace": "molecular_function",
+  "label": "TNFAIP8 proteins transfer PI(4,5)P2, PI(3,4,5)P3 from cytosolic vesicles to plasma membrane"
+}

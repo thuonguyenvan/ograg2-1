@@ -1,0 +1,78 @@
+{
+  "id": "GO:0004714",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004714",
+  "relationships": {
+    "is_a": [
+      "GO:0004713",
+      "GO:0019199"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "receptor protein tyrosine kinase activity",
+      "receptor protein-tyrosine kinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.10.1",
+      "2.7.10.1",
+      "2.7.10.1",
+      "2.7.10.1"
+    ],
+    "Reactome": [
+      "R-HSA-166544",
+      "R-HSA-167019",
+      "R-HSA-167683",
+      "R-HSA-169905",
+      "R-HSA-177930",
+      "R-HSA-177933",
+      "R-HSA-198295",
+      "R-HSA-6784324",
+      "R-HSA-74711",
+      "R-HSA-74742",
+      "R-HSA-8852552",
+      "R-HSA-8853792",
+      "R-HSA-8950269",
+      "R-HSA-8950340",
+      "R-HSA-8950354",
+      "R-HSA-8950364",
+      "R-HSA-8950405",
+      "R-HSA-8950423",
+      "R-HSA-8950453",
+      "R-HSA-8950485",
+      "R-HSA-8950537",
+      "R-HSA-8950591",
+      "R-HSA-8950757",
+      "R-HSA-8982163",
+      "R-HSA-8983300",
+      "R-HSA-8983309",
+      "R-HSA-8983371",
+      "R-HSA-8983424",
+      "R-HSA-8986985",
+      "R-HSA-8986994",
+      "R-HSA-8986995",
+      "R-HSA-8987012",
+      "R-HSA-8987040",
+      "R-HSA-8987042",
+      "R-HSA-8987070",
+      "R-HSA-8987084",
+      "R-HSA-8987096",
+      "R-HSA-8987129",
+      "R-HSA-8987141",
+      "R-HSA-8987150",
+      "R-HSA-8987179",
+      "R-HSA-8987202",
+      "R-HSA-8987255"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Combining with a signal and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity by catalysis of the reaction: ATP + a protein-L-tyrosine = ADP + a protein-L-tyrosine phosphate.",
+  "namespace": "molecular_function",
+  "label": "IL26:IL10RB:p-TYK2:IL20RA:p-JAK1:STAT1,STAT3  phosphorylates STAT1,STAT3"
+}

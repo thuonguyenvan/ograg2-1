@@ -1,0 +1,34 @@
+{
+  "id": "GO:0050077",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050077",
+  "relationships": {
+    "is_a": [
+      "GO:0016859"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-maleylpyruvate cis-trans-isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.2.1.4",
+      "5.2.1.4",
+      "5.2.1.4"
+    ],
+    "MetaCyc": [
+      "MALEYLPYRUVATE-ISOMERASE-RXN",
+      "MALEYLPYRUVATE-ISOMERASE-RXN"
+    ],
+    "RHEA": [
+      "17393"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-maleylpyruvate = 3-fumarylpyruvate.",
+  "namespace": "molecular_function",
+  "label": "maleylpyruvate isomerase activity"
+}

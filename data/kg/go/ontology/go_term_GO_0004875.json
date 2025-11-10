@@ -1,0 +1,35 @@
+{
+  "id": "GO:0004875",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004875",
+  "relationships": {
+    "is_a": [
+      "GO:0004888",
+      "GO:0140375"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "anaphylatoxin receptor activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "add",
+      "ai",
+      "pg",
+      "signaling"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "11884446"
+    ]
+  },
+  "definition": "Combining with any component or product of the complement cascade and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.",
+  "namespace": "molecular_function",
+  "label": "complement receptor activity"
+}

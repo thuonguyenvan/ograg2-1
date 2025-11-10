@@ -1,0 +1,29 @@
+{
+  "id": "GO:0001046",
+  "uri": "http://purl.obolibrary.org/obo/GO_0001046",
+  "relationships": {
+    "is_a": [
+      "GO:0000976"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "bacterial-type RNA polymerase core promoter sequence-specific DNA binding",
+      "eubacterial-type RNA polymerase core promoter sequence-specific DNA binding"
+    ],
+    "related": [
+      "core promoter binding"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "pg",
+      "txnOH"
+    ]
+  },
+  "definition": "Binding to a sequence of DNA that is part of a core promoter region. The core promoter is composed of the transcription start site and binding sites for the RNA polymerase and the basal transcription machinery. The transcribed region might be described as a gene, cistron, or operon.",
+  "namespace": "molecular_function",
+  "label": "core promoter sequence-specific DNA binding"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0002484",
+  "uri": "http://purl.obolibrary.org/obo/GO_0002484",
+  "relationships": {
+    "is_a": [
+      "GO:0019885"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "endogenous peptide antigen processing and presentation via MHC class I via ER pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "add"
+    ],
+    "ISBN": [
+      "0781735149"
+    ],
+    "PMID": [
+      "14647477",
+      "15771591"
+    ]
+  },
+  "definition": "The process in which an antigen-presenting cell expresses a peptide antigen of endogenous origin on its cell surface in association with an MHC class I protein complex following intracellular transport via an ER pathway. The peptide is typically a fragment of a larger endogenous protein which has been degraded within the cell and becomes associated with the MHC class I molecule in the ER. Class I here refers to classical class I molecules.",
+  "namespace": "biological_process",
+  "label": "antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway"
+}

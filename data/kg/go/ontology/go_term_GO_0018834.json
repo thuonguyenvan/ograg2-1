@@ -1,0 +1,42 @@
+{
+  "id": "GO:0018834",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018834",
+  "relationships": {
+    "is_a": [
+      "GO:0016848"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "dichloromethane chloride-lyase (adding H2O; chloride-hydrolysing; formaldehyde-forming)",
+      "dichloromethane chloride-lyase (chloride-hydrolysing)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.5.1.3",
+      "4.5.1.3",
+      "4.5.1.3",
+      "4.5.1.3"
+    ],
+    "KEGG_REACTION": [
+      "R00603"
+    ],
+    "MetaCyc": [
+      "DICHLOROMETHANE-DEHALOGENASE-RXN"
+    ],
+    "RHEA": [
+      "15397",
+      "15397"
+    ],
+    "UM-BBD_reactionID": [
+      "r0188"
+    ]
+  },
+  "definition": "Catalysis of the reaction: dichloromethane + H2O = 2 chloride + formaldehyde + 2 H+.",
+  "namespace": "molecular_function",
+  "label": "dichloromethane dehalogenase activity"
+}

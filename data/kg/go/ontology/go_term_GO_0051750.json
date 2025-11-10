@@ -1,0 +1,36 @@
+{
+  "id": "GO:0051750",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051750",
+  "relationships": {
+    "is_a": [
+      "GO:0016863"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "delta(3,5),delta(2,4)-dienoyl-coenzyme A isomerase activity",
+      "delta3,5-delta2,4-dienoyl-CoA isomerase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "delta5-delta2,4-dienoyl-CoA isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.3.21"
+    ],
+    "RHEA": [
+      "45240",
+      "45240"
+    ],
+    "PMID": [
+      "11278886",
+      "16040662"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a (3E,5Z)-dienoyl-CoA = a (2E,4E)-(5,6-saturated)-dienoyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "delta(3,5)-delta(2,4)-dienoyl-CoA isomerase activity"
+}

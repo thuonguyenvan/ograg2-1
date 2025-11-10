@@ -1,0 +1,28 @@
+{
+  "id": "GO:0048249",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048249",
+  "relationships": {
+    "is_a": [
+      "GO:0005315"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "high affinity phosphate transmembrane transporter activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jid"
+    ],
+    "PMID": [
+      "8709965"
+    ]
+  },
+  "definition": "Enables the transfer of phosphate from one side of a membrane to the other. In high-affinity transport the transporter is able to bind the solute even if it is only present at very low concentrations.",
+  "namespace": "molecular_function",
+  "label": "high-affinity phosphate transmembrane transporter activity"
+}

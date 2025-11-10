@@ -1,0 +1,34 @@
+{
+  "id": "GO:0050687",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050687",
+  "relationships": {
+    "is_a": [
+      "GO:0002832",
+      "GO:0031348",
+      "GO:0032102",
+      "GO:0050688"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of antiviral response",
+      "down-regulation of antiviral response",
+      "downregulation of antiviral response",
+      "negative regulation of antiviral response"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of antiviral response"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai",
+      "dph"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the rate or extent of antiviral mechanisms, thereby facilitating viral replication.",
+  "namespace": "biological_process",
+  "label": "negative regulation of defense response to virus"
+}

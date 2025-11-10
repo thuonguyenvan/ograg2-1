@@ -1,0 +1,32 @@
+{
+  "id": "GO:0051754",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051754",
+  "relationships": {
+    "is_a": [
+      "GO:0051177",
+      "GO:0070601"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "centromeric meiotic sister chromatin cohesion",
+      "meiotic sister chromatid cohesion at centromere",
+      "sister chromatid cohesion at centromere at meiosis I"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "14730319",
+      "16325576"
+    ],
+    "GOC": [
+      "bf"
+    ]
+  },
+  "definition": "The cell cycle process in which centromeres of sister chromatids are joined during meiosis.",
+  "namespace": "biological_process",
+  "label": "meiotic sister chromatid cohesion, centromeric"
+}

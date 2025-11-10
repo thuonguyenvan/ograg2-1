@@ -1,0 +1,45 @@
+{
+  "id": "GO:0034017",
+  "uri": "http://purl.obolibrary.org/obo/GO_0034017",
+  "relationships": {
+    "is_a": [
+      "GO:0016863"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "trans-2, cis-3 decenoyl-ACP isomerase activity",
+      "trans-2, cis-3 decenoyl-[acyl-carrier-protein] isomerase activity"
+    ],
+    "broad": [
+      "beta-hydroxydecanoyl thioester dehydrase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "decenoyl-acyl-carrier-protein delta2-trans-delta3-cis-isomerase activity",
+      "trans-2,cis-3-decenoyl-ACP isomerase activity",
+      "trans-2-cis-3-decenoyl-ACP isomerase activity",
+      "trans-2-decenoyl-ACP isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.3.14",
+      "5.3.3.14",
+      "5.3.3.14",
+      "5.3.3.14",
+      "5.3.3.14",
+      "5.3.3.14"
+    ],
+    "MetaCyc": [
+      "5.3.3.14-RXN"
+    ],
+    "RHEA": [
+      "23568",
+      "23568"
+    ]
+  },
+  "definition": "Catalysis of the reaction: trans-dec-2-enoyl-[acyl-carrier protein] = cis-dec-3-enoyl-[acyl-carrier protein].",
+  "namespace": "molecular_function",
+  "label": "trans-2-decenoyl-acyl-carrier-protein isomerase activity"
+}

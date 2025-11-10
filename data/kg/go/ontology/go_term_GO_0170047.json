@@ -1,0 +1,25 @@
+{
+  "id": "GO:0170047",
+  "uri": "http://purl.obolibrary.org/obo/GO_0170047",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "virus-like particle"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "29328916"
+    ]
+  },
+  "definition": "A protein coat that surrounds nucleic acid to form a structure similar to a virus capsid. Virus-like capsids are non-infectious and are encoded by endogenous (non-viral) genes. Fly and tetrapod Arc (ancestrally-related to retrotransposon Gag) are examples of proteins that can self-assemble into capsid-like structures which encapsulate Arc mRNA and mediate the intercellular transmission of RNA.",
+  "namespace": "cellular_component",
+  "label": "virus-like capsid"
+}

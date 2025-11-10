@@ -1,0 +1,30 @@
+{
+  "id": "GO:0062000",
+  "uri": "http://purl.obolibrary.org/obo/GO_0062000",
+  "relationships": {
+    "is_a": [
+      "GO:0045597",
+      "GO:0051240",
+      "GO:0061999"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "BHF_miRNA",
+      "rph"
+    ],
+    "PMID": [
+      "26857067"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of cardiac endothelial to mesenchymal trnasition.",
+  "namespace": "biological_process",
+  "label": "positive regulation of cardiac endothelial to mesenchymal transition"
+}

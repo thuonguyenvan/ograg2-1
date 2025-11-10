@@ -1,0 +1,38 @@
+{
+  "id": "GO:0016618",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016618",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "hydroxypyruvate reductase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "D-glycerate dehydrogenase activity",
+      "D-glycerate:NADP+ 2-oxidoreductase activity",
+      "NADH:hydroxypyruvate reductase activity",
+      "beta-hydroxypyruvate reductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.81",
+      "1.1.1.81",
+      "1.1.1.81",
+      "1.1.1.81",
+      "1.1.1.81",
+      "1.1.1.81"
+    ],
+    "MetaCyc": [
+      "HYDROXYPYRUVATE-REDUCTASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-glycerate + NAD(P)+ = 3-hydroxypyruvate + NAD(P)H + H+.",
+  "namespace": "molecular_function",
+  "label": "hydroxypyruvate reductase [NAD(P)H] activity"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "GO:0031508",
+  "uri": "http://purl.obolibrary.org/obo/GO_0031508",
+  "relationships": {
+    "is_a": [
+      "GO:0140719"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "centromere chromatin silencing",
+      "centromeric heterochromatin biosynthesis",
+      "centromeric heterochromatin formation",
+      "centromeric silencing",
+      "chromatin silencing at centromere",
+      "heterochromatic silencing at centromere",
+      "pericentric heterochromatin assembly"
+    ],
+    "broad": [],
+    "narrow": [
+      "chromatin silencing at centromere outer repeat region"
+    ],
+    "related": [
+      "centric heterochromatin formation",
+      "chromatin silencing at pericentric region"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "vw",
+      "mah"
+    ],
+    "PMID": [
+      "14612388",
+      "20206496",
+      "22729156"
+    ]
+  },
+  "definition": "The compaction of chromatin located adjacent to the CENP-A rich centromere &apos;central core&apos; and characterized by methylation of histone H3K9, into heterochromatin, resulting in the repression of transcription at pericentric DNA.",
+  "namespace": "biological_process",
+  "label": "pericentric heterochromatin formation"
+}

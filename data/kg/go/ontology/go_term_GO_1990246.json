@@ -1,0 +1,27 @@
+{
+  "id": "GO:1990246",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990246",
+  "relationships": {
+    "is_a": [
+      "GO:0034704",
+      "GO:0098800"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "mitochondrial uniporter complex",
+      "mitochondrial uniporter holocomplex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "24231807"
+    ]
+  },
+  "definition": "A calcium channel complex in the mitochondrial inner membrane capable of highly-selective calcium channel activity. Its components include the EF-hand-containing proteins mitochondrial calcium uptake 1 (MICU1) and MICU2, the pore-forming subunit mitochondrial calcium uniporter (MCU) and its paralog MCUb, and the MCU regulator EMRE.",
+  "namespace": "cellular_component",
+  "label": "uniplex complex"
+}

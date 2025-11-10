@@ -1,0 +1,34 @@
+{
+  "id": "GO:0021934",
+  "uri": "http://purl.obolibrary.org/obo/GO_0021934",
+  "relationships": {
+    "is_a": [
+      "GO:0021535"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "hindbrain neurophilic migration"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "cls",
+      "dgh",
+      "dph",
+      "jid"
+    ],
+    "GO_REF": [
+      "0000021"
+    ],
+    "PMID": [
+      "15157725"
+    ]
+  },
+  "definition": "The migration of a cell in the hindbrain in which cells move orthogonal to the direction of radial migration.",
+  "namespace": "biological_process",
+  "label": "hindbrain tangential cell migration"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GO:0009010",
+  "uri": "http://purl.obolibrary.org/obo/GO_0009010",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "D-glucitol-6-phosphate dehydrogenase activity",
+      "D-sorbitol 6-phosphate dehydrogenase activity",
+      "D-sorbitol-6-phosphate dehydrogenase activity",
+      "D-sorbitol-6-phosphate:NAD+ 2-oxidoreductase activity",
+      "glucitol-6-phosphate dehydrogenase activity",
+      "ketosephosphate reductase activity",
+      "sorbitol-6-P-dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.140",
+      "1.1.1.140",
+      "1.1.1.140",
+      "1.1.1.140",
+      "1.1.1.140",
+      "1.1.1.140",
+      "1.1.1.140",
+      "1.1.1.140",
+      "1.1.1.140"
+    ],
+    "MetaCyc": [
+      "SORB6PDEHYDROG-RXN"
+    ],
+    "RHEA": [
+      "19837"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-sorbitol 6-phosphate + NAD+ = D-fructose 6-phosphate + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "sorbitol-6-phosphate 2-dehydrogenase activity"
+}

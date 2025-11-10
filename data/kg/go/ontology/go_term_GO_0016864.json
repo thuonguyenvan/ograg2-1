@@ -1,0 +1,29 @@
+{
+  "id": "GO:0016864",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016864",
+  "relationships": {
+    "is_a": [
+      "GO:0016860"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "intramolecular isomerase activity, transposing S-S bonds"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.3.4.-",
+      "5.3.4.-"
+    ],
+    "GOC": [
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of an oxidation-reduction (redox) reaction in which the hydrogen donor and acceptor are the same molecule, one or more sulfur-sulfur bonds in the molecule are rearranged, and no oxidized product appears.",
+  "namespace": "molecular_function",
+  "label": "intramolecular oxidoreductase activity, transposing S-S bonds"
+}

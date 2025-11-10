@@ -1,0 +1,45 @@
+{
+  "id": "GO:0047838",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047838",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "D-xylose 1-dehydrogenase (NAD) activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(NAD)-linked D-xylose dehydrogenase activity",
+      "D-xylose dehydrogenase activity",
+      "D-xylose:NAD+ 1-oxidoreductase activity",
+      "NAD-D-xylose",
+      "NAD-D-xylose dehydrogenase activity",
+      "NAD-linked D-xylose dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.175",
+      "1.1.1.175",
+      "1.1.1.175",
+      "1.1.1.175",
+      "1.1.1.175",
+      "1.1.1.175",
+      "1.1.1.175"
+    ],
+    "MetaCyc": [
+      "D-XYLOSE-1-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "13861",
+      "13861"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-xylose + NAD+ = D-xylonolactone + NADH.",
+  "namespace": "molecular_function",
+  "label": "D-xylose 1-dehydrogenase (NAD+) activity"
+}

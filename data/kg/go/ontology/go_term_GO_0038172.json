@@ -1,0 +1,39 @@
+{
+  "id": "GO:0038172",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038172",
+  "relationships": {
+    "is_a": [
+      "GO:0019221"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "IL-33-mediated signaling pathway",
+      "IL33 signaling pathway",
+      "interleukin-33-mediated signalling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "interleukin-33 signaling pathway"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-9014843"
+    ],
+    "GOC": [
+      "jc",
+      "signaling",
+      "bf",
+      "bf",
+      "jc"
+    ],
+    "PR": [
+      "000001389"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by interleukin-33 binding to its receptor on the surface of a target cell, and ending with the regulation of a downstream cellular process, e.g. transcription.",
+  "namespace": "biological_process",
+  "label": "Interleukin-33 signaling"
+}

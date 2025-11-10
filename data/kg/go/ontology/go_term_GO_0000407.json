@@ -1,0 +1,33 @@
+{
+  "id": "GO:0000407",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000407",
+  "relationships": {
+    "is_a": [
+      "GO:0110165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PAS"
+    ],
+    "broad": [],
+    "narrow": [
+      "perivacuolar space",
+      "pre-autophagosomal structure"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "elh"
+    ],
+    "PMID": [
+      "11689437",
+      "12048214",
+      "12554655"
+    ]
+  },
+  "definition": "Punctate structures proximal to the endoplasmic reticulum which are the sites where the Atg machinery assembles upon autophagy induction.",
+  "namespace": "cellular_component",
+  "label": "phagophore assembly site"
+}

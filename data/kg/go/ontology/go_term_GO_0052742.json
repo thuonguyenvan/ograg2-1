@@ -1,0 +1,29 @@
+{
+  "id": "GO:0052742",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052742",
+  "relationships": {
+    "is_a": [
+      "GO:0001727",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "1-phosphatidylinositol kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-1675773"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + a phosphatidylinositol = ADP + a phosphatidylinositol phosphate.",
+  "namespace": "molecular_function",
+  "label": "PI(3,4)P2 is phosphorylated to PI(3,4,5)P3 by PIP5K1A-C at the plasma membrane"
+}

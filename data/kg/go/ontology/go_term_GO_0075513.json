@@ -1,0 +1,38 @@
+{
+  "id": "GO:0075513",
+  "uri": "http://purl.obolibrary.org/obo/GO_0075513",
+  "relationships": {
+    "is_a": [
+      "GO:0019065",
+      "GO:0072584"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "viral entry into host cell via caveolae-mediated endocytosis",
+      "viral penetration via caveolae-mediated endocytosis followed by endosome disruption"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "viral entry into host cell via caveolin-mediated endocytosis"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "976",
+      "976"
+    ],
+    "GOC": [
+      "bf",
+      "jl",
+      "bf",
+      "jl",
+      "bf",
+      "jl"
+    ]
+  },
+  "definition": "Any caveolin-mediated endocytosis that is involved in the uptake of a virus into a host cell. Begins when material is taken up into plasma membrane caveolae - specialized lipid rafts that form 50-70 nm flask-shaped invaginations of the plasma membrane - which then pinch off to form endocytic caveolar carriers containing the virus.",
+  "namespace": "biological_process",
+  "label": "Caveolin-mediated endocytosis of virus by host"
+}

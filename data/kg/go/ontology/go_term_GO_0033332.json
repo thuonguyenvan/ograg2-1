@@ -1,0 +1,36 @@
+{
+  "id": "GO:0033332",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033332",
+  "relationships": {
+    "is_a": [
+      "GO:0033331",
+      "GO:0046246"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ent-kaurene anabolism",
+      "ent-kaurene biosynthesis",
+      "ent-kaurene formation",
+      "ent-kaurene synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "PWY-5032",
+      "PWY-5032"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "17064690"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of ent-kaurene. Ent-kaurene is a tetracyclic diterpenoid that is a precursor of several plant isoprenoids, including gibberellins.",
+  "namespace": "biological_process",
+  "label": "ent-kaurene biosynthetic process"
+}

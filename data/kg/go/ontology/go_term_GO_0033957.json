@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033957",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033957",
+  "relationships": {
+    "is_a": [
+      "GO:0004553"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "endo-beta-1,4-carrageenose 2,6,2&apos;-trisulfate-hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.2.1.162",
+      "3.2.1.162",
+      "3.2.1.162"
+    ],
+    "MetaCyc": [
+      "3.2.1.162-RXN"
+    ]
+  },
+  "definition": "Catalysis of the endohydrolysis of beta-1,4-linkages in the backbone of lambda-carrageenan, resulting in the tetrasaccharide alpha-D-Galp2,6S2-(1-&gt;3)-beta-D-Galp2S-(1-&gt;4)-alpha-D-Galp2,6S2-(1-&gt;3)-D-Galp2S.",
+  "namespace": "molecular_function",
+  "label": "lambda-carrageenase activity"
+}

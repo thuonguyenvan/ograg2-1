@@ -1,0 +1,40 @@
+{
+  "id": "GO:0050243",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050243",
+  "relationships": {
+    "is_a": [
+      "GO:0016620"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "pyruvate:NADP(+) oxidoreductase activity",
+      "pyruvate:NADP+ 2-oxidoreductase (CoA-acetylating)",
+      "pyruvate:NADP+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.1.51",
+      "1.2.1.51",
+      "1.2.1.51",
+      "1.2.1.51"
+    ],
+    "KEGG_REACTION": [
+      "R00210"
+    ],
+    "MetaCyc": [
+      "PYRUVATE-DEHYDROGENASE-NADP+-RXN"
+    ],
+    "RHEA": [
+      "17425",
+      "17425"
+    ]
+  },
+  "definition": "Catalysis of the reaction: CoA + NADP+ + pyruvate = acetyl-CoA + CO2 + NADPH.",
+  "namespace": "molecular_function",
+  "label": "pyruvate dehydrogenase (NADP+) activity"
+}

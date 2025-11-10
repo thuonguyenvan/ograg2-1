@@ -1,0 +1,32 @@
+{
+  "id": "GO:0048763",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048763",
+  "relationships": {
+    "is_a": [
+      "GO:0015278"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-2855020"
+    ],
+    "GOC": [
+      "jid",
+      "nln"
+    ],
+    "PMID": [
+      "2990997",
+      "8381210",
+      "8653752"
+    ]
+  },
+  "definition": "Enables transmembrane transfer of calcium ions from an intracellular store to the cytosol on induction by increased calcium concentration.",
+  "namespace": "molecular_function",
+  "label": "RYR tetramers transport Ca2+ from sarcoplasmic reticulum lumen to cytosol"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0043419",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043419",
+  "relationships": {
+    "is_a": [
+      "GO:0019627",
+      "GO:0043605",
+      "GO:0044282"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "urea breakdown",
+      "urea catabolism",
+      "urea decomposition",
+      "urea degradation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "jl"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the breakdown of urea, the water soluble compound O=C-(NH2)2.",
+  "namespace": "biological_process",
+  "label": "urea catabolic process"
+}

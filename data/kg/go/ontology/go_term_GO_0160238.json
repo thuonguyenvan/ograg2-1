@@ -1,0 +1,29 @@
+{
+  "id": "GO:0160238",
+  "uri": "http://purl.obolibrary.org/obo/GO_0160238",
+  "relationships": {
+    "is_a": [
+      "GO:0016830"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [
+      "aldehyde oxidative decarbonylase activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "83563",
+      "83563"
+    ],
+    "PMID": [
+      "22927409"
+    ]
+  },
+  "definition": "Catalysis of the reaction: reduced [NADPH-hemoprotein reductase] + O2 + a long-chain fatty aldehyde = oxidized [NADPH-hemoprotein reductase] + CO2 + H2O + H+ + a long-chain alkane.",
+  "namespace": "molecular_function",
+  "label": "long-chain fatty aldehyde oxidative decarbonylase activity"
+}

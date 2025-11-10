@@ -1,0 +1,55 @@
+{
+  "id": "GO:0003855",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003855",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-dehydroquinase activity",
+      "3-dehydroquinate hydro-lyase (3-dehydroshikimate-forming)",
+      "3-dehydroquinate hydro-lyase activity",
+      "3-dehydroquinate hydrolase activity",
+      "5-dehydroquinase activity",
+      "5-dehydroquinate dehydratase activity",
+      "5-dehydroquinate hydro-lyase activity",
+      "DHQase",
+      "dehydroquinase activity",
+      "dehydroquinate dehydratase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.10",
+      "4.2.1.10",
+      "4.2.1.10",
+      "4.2.1.10",
+      "4.2.1.10",
+      "4.2.1.10",
+      "4.2.1.10",
+      "4.2.1.10",
+      "4.2.1.10",
+      "4.2.1.10",
+      "4.2.1.10",
+      "4.2.1.10"
+    ],
+    "KEGG_REACTION": [
+      "R03084"
+    ],
+    "MetaCyc": [
+      "3-DEHYDROQUINATE-DEHYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "21096",
+      "21096"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-dehydroquinate = 3-dehydroshikimate + H2O.",
+  "namespace": "molecular_function",
+  "label": "3-dehydroquinate dehydratase activity"
+}

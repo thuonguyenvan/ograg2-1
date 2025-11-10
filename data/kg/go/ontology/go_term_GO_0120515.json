@@ -1,0 +1,28 @@
+{
+  "id": "GO:0120515",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120515",
+  "relationships": {
+    "is_a": [
+      "GO:0015645",
+      "GO:0016405"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "BUTYRATE--COA-LIGASE-RXN"
+    ],
+    "RHEA": [
+      "38883",
+      "38883"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a fatty acid + ATP + CoA = a fatty acyl-CoA + AMP + diphosphate.",
+  "namespace": "molecular_function",
+  "label": "fatty acid-CoA ligase activity"
+}

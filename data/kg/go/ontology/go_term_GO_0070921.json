@@ -1,0 +1,35 @@
+{
+  "id": "GO:0070921",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070921",
+  "relationships": {
+    "is_a": [
+      "GO:0070920"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of RNA interference, production of siRNA",
+      "regulation of chromatin silencing by small RNA, production of siRNA",
+      "regulation of production of siRNA involved in RNA interference",
+      "regulation of production of siRNA involved in chromatin silencing by small RNA"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of production of siRNA involved in PTGS",
+      "regulation of production of siRNA involved in gene silencing by small RNA",
+      "regulation of production of siRNA involved in post-transcriptional gene silencing by RNA",
+      "regulation of siRNA production"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of siRNA processing.",
+  "namespace": "biological_process",
+  "label": "regulation of siRNA processing"
+}

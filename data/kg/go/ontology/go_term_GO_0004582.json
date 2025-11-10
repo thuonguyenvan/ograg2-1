@@ -1,0 +1,70 @@
+{
+  "id": "GO:0004582",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004582",
+  "relationships": {
+    "is_a": [
+      "GO:0000030"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "DPM synthase activity",
+      "dolichol-phosphate-mannose synthase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "GDP-mannose-dolichol phosphate mannosyltransferase activity",
+      "GDP-mannose:dolichyl-phosphate beta-D-mannosyltransferase activity",
+      "GDPMan:DolP mannosyltransferase activity",
+      "GDPmannose-dolichylmonophosphate mannosyltransferase activity",
+      "GDPmannose:dolichyl-phosphate mannosyltransferase activity",
+      "dolichol phosphate mannose synthase activity",
+      "dolichol-phosphate mannose synthase activity",
+      "dolichol-phosphate mannosyltransferase activity",
+      "dolichyl mannosyl phosphate synthase activity",
+      "dolichyl phosphate mannosyltransferase activity",
+      "dolichyl-phosphate mannose synthase activity",
+      "dolichyl-phospho-mannose synthase activity",
+      "guanosine diphosphomannose-dolichol phosphate mannosyltransferase activity",
+      "mannosylphosphodolichol synthase activity",
+      "mannosylphosphoryldolichol synthase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.83",
+      "2.4.1.83",
+      "2.4.1.83",
+      "2.4.1.83",
+      "2.4.1.83",
+      "2.4.1.83",
+      "2.4.1.83",
+      "2.4.1.83",
+      "2.4.1.83",
+      "2.4.1.83",
+      "2.4.1.83",
+      "2.4.1.83",
+      "2.4.1.83",
+      "2.4.1.83",
+      "2.4.1.83",
+      "2.4.1.83",
+      "2.4.1.83"
+    ],
+    "MetaCyc": [
+      "2.4.1.83-RXN"
+    ],
+    "RHEA": [
+      "21184"
+    ],
+    "Reactome": [
+      "R-HSA-162721",
+      "R-HSA-4717406",
+      "R-HSA-4719354",
+      "R-HSA-4719375"
+    ]
+  },
+  "definition": "Catalysis of the reaction: GDP-mannose + dolichyl phosphate = GDP + dolichyl D-mannosyl phosphate.",
+  "namespace": "molecular_function",
+  "label": "Defective DPM2 does not transfer mannose to DOLP to form DOLPman"
+}

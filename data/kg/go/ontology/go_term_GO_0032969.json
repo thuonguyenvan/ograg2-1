@@ -1,0 +1,32 @@
+{
+  "id": "GO:0032969",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032969",
+  "relationships": {
+    "is_a": [
+      "GO:0098796"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "MP1-p14 scaffolding complex",
+      "endosomal adaptor complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "15263099",
+      "16227978",
+      "17496910"
+    ],
+    "GOC": [
+      "mah",
+      "hjd"
+    ]
+  },
+  "definition": "A protein complex that contains MAPKSP1 (MP1, Map2k1ip1) and ROBLD3 (p14, Mapbpip), is anchored to late endosomes, and is involved in selective activation of the ERK1 in ERK/MAPK signaling.",
+  "namespace": "cellular_component",
+  "label": "endosomal scaffold complex"
+}

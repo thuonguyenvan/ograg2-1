@@ -1,0 +1,41 @@
+{
+  "id": "GO:0008568",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008568",
+  "relationships": {
+    "is_a": [
+      "GO:0120544",
+      "GO:0140096",
+      "GO:0140657",
+      "GO:0170060"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ATP phosphohydrolase (tubulin-dimerizing)",
+      "microtubule-severing ATPase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "katanin activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "5.6.1.1",
+      "5.6.1.1"
+    ],
+    "MetaCyc": [
+      "3.6.4.3-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-9668419"
+    ],
+    "PMID": [
+      "10910766"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + H2O = ADP + phosphate. Catalysis of the severing of a microtubule at a specific spot along its length, coupled to the hydrolysis of ATP.",
+  "namespace": "molecular_function",
+  "label": "SPAST (spastin) mediates the severing of microtubules at chromosome attachment sites"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GO:0052167",
+  "uri": "http://purl.obolibrary.org/obo/GO_0052167",
+  "relationships": {
+    "is_a": [
+      "GO:0052553"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "modulation by symbiont of host innate immunity",
+      "modulation of host innate immune response",
+      "perturbation of host innate immune response"
+    ],
+    "broad": [
+      "modulation by organism of innate immune response in other organism involved in symbiotic interaction"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_pamgo_17jul06",
+      "pg"
+    ]
+  },
+  "definition": "A process in which a symbiont alters or subverts the innate immune response of the host organism; the innate immune response is the host&apos;s first line of defense against infection. The host is defined as the larger of the organisms involved in a symbiotic interaction.",
+  "namespace": "biological_process",
+  "label": "symbiont-mediated perturbation of host innate immune response"
+}

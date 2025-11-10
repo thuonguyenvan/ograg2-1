@@ -1,0 +1,41 @@
+{
+  "id": "GO:0047255",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047255",
+  "relationships": {
+    "is_a": [
+      "GO:0035250"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "1,6-D-galactosyltransferase activity",
+      "UDP-galactose:galactogen beta-1,6-D-galactosyltransferase activity",
+      "UDPgalactose:galactogen beta-1,6-D-galactosyltransferase activity",
+      "beta-(1,6)-D-galactosyltransferase activity",
+      "galactogen 6beta-galactosyltransferase activity",
+      "uridine diphosphogalactose-galactogen galactosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.205",
+      "2.4.1.205",
+      "2.4.1.205",
+      "2.4.1.205",
+      "2.4.1.205",
+      "2.4.1.205",
+      "2.4.1.205",
+      "2.4.1.205"
+    ],
+    "MetaCyc": [
+      "2.4.1.205-RXN",
+      "2.4.1.205-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: galactogen + UDP-galactose = 1,6-beta-D-galctosylgalactogen + UDP.",
+  "namespace": "molecular_function",
+  "label": "galactogen 6-beta-galactosyltransferase activity"
+}

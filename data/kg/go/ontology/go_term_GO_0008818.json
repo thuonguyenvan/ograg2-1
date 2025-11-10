@@ -1,0 +1,27 @@
+{
+  "id": "GO:0008818",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008818",
+  "relationships": {
+    "is_a": [
+      "GO:0016780"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "COBALAMIN5PSYN-RXN",
+      "COBALAMIN5PSYN-RXN"
+    ],
+    "RHEA": [
+      "23560"
+    ]
+  },
+  "definition": "Catalysis of the reaction: adenosylcobinamide-GDP + alpha-ribazole-5&apos;-phosphate = adenosylcobalamin-5&apos;-phosphate + GMP.",
+  "namespace": "molecular_function",
+  "label": "cobalamin 5&apos;-phosphate synthase activity"
+}

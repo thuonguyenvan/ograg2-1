@@ -1,0 +1,38 @@
+{
+  "id": "GO:0050487",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050487",
+  "relationships": {
+    "is_a": [
+      "GO:0046912"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "sulphoacetaldehyde acetyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetyl-phosphate:sulfite S-acetyltransferase (acyl-phosphate hydrolysing, 2-oxoethyl-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.3.15",
+      "2.3.3.15"
+    ],
+    "KEGG_REACTION": [
+      "R05651"
+    ],
+    "MetaCyc": [
+      "RXN-2364"
+    ],
+    "RHEA": [
+      "24204",
+      "24204"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl phosphate + H+ + sulfite = phosphate + sulfoacetaldehyde.",
+  "namespace": "molecular_function",
+  "label": "sulfoacetaldehyde acetyltransferase activity"
+}

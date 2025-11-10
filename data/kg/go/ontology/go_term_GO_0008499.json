@@ -1,0 +1,45 @@
+{
+  "id": "GO:0008499",
+  "uri": "http://purl.obolibrary.org/obo/GO_0008499",
+  "relationships": {
+    "is_a": [
+      "GO:0035250",
+      "GO:0048531"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "UDP-Gal:beta-GlcNAc beta-1,3-galactosyltransferase activity",
+      "UDP-galactose beta-N-acetylglucosamine beta-1,3-galactosyltransferase activity",
+      "UDP-galactose:beta-N-acetylglucosamine beta-1,3-galactosyltransferase activity"
+    ],
+    "broad": [
+      "beta-1,3-GalTase activity",
+      "beta3Gal-Ts activity"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.1.86"
+    ],
+    "MetaCyc": [
+      "2.4.1.86-RXN"
+    ],
+    "RHEA": [
+      "53432",
+      "53432"
+    ],
+    "Reactome": [
+      "R-HSA-9603989",
+      "R-HSA-9845516"
+    ],
+    "PMID": [
+      "10212226"
+    ]
+  },
+  "definition": "Catalysis of the reaction: an N-acetyl-beta-D-glucosaminyl derivative + UDP-alpha-D-galactose = a beta-D-galactosyl-(1-&gt;3)-N-acetyl-beta-D-glucosaminyl derivative + H+ + UDP.",
+  "namespace": "molecular_function",
+  "label": "B3GALT4 transfers Gal to gangliosides"
+}

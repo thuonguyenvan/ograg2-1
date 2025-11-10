@@ -1,0 +1,41 @@
+{
+  "id": "GO:0050120",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050120",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acetyl-D-hexosamine dehydrogenase activity",
+      "N-acetyl-D-hexosamine:NAD+ 1-oxidoreductase activity",
+      "N-acetylhexosamine dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.240",
+      "1.1.1.240",
+      "1.1.1.240",
+      "1.1.1.240",
+      "1.1.1.240"
+    ],
+    "KEGG_REACTION": [
+      "R01202"
+    ],
+    "MetaCyc": [
+      "N-ACETYLHEXOSAMINE-1-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "23144",
+      "23144"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acetyl-D-glucosamine + H2O + NAD+ = N-acetyl-D-glucosaminate + 2 H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "N-acetylhexosamine 1-dehydrogenase activity"
+}

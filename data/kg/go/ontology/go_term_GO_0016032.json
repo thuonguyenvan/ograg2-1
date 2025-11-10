@@ -1,0 +1,38 @@
+{
+  "id": "GO:0016032",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016032",
+  "relationships": {
+    "is_a": [
+      "GO:0008150"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "virus process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "viral infection",
+      "virulence"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-162906"
+    ],
+    "Wikipedia": [
+      "Viral_life_cycle"
+    ],
+    "GOC": [
+      "bf",
+      "jl",
+      "mah",
+      "bf",
+      "jl"
+    ]
+  },
+  "definition": "A multi-organism process in which a virus is a participant. The other participant is the host. Includes infection of a host cell, replication of the viral genome, and assembly of progeny virus particles. In some cases the viral genetic material may integrate into the host genome and only subsequently, under particular circumstances, &apos;complete&apos; its life cycle.",
+  "namespace": "biological_process",
+  "label": "HIV Infection"
+}

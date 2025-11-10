@@ -1,0 +1,31 @@
+{
+  "id": "GO:0051099",
+  "uri": "http://purl.obolibrary.org/obo/GO_0051099",
+  "relationships": {
+    "is_a": [
+      "GO:0044093",
+      "GO:0051098"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of binding",
+      "up-regulation of binding",
+      "upregulation of binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of binding",
+      "stimulation of binding"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Any process that activates or increases the rate or extent of binding, the selective interaction of a molecule with one or more specific sites on another molecule.",
+  "namespace": "biological_process",
+  "label": "positive regulation of binding"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047989",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047989",
+  "relationships": {
+    "is_a": [
+      "GO:0052689"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-3-((R)-3-hydroxybutanoyloxy)butanoate hydroxybutanoylhydrolase activity",
+      "D-(-)-3-hydroxybutyrate-dimer hydrolase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.1.22",
+      "3.1.1.22",
+      "3.1.1.22",
+      "3.1.1.22"
+    ],
+    "KEGG_REACTION": [
+      "R00048"
+    ],
+    "MetaCyc": [
+      "HYDROXYBUTYRATE-DIMER-HYDROLASE-RXN"
+    ],
+    "RHEA": [
+      "10172",
+      "10172"
+    ]
+  },
+  "definition": "Catalysis of the reaction: (R)-3-[(R)-3-hydroxybutanoyloxy]butanoate + H2O = 2 (R)-3-hydroxybutanoate + H+.",
+  "namespace": "molecular_function",
+  "label": "hydroxybutyrate-dimer hydrolase activity"
+}

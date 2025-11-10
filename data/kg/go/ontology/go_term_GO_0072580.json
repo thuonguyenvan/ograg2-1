@@ -1,0 +1,36 @@
+{
+  "id": "GO:0072580",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072580",
+  "relationships": {
+    "is_a": [
+      "GO:0018205"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "EF-P modification pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "curators",
+      "imk",
+      "mah"
+    ],
+    "PMID": [
+      "20729861",
+      "22706199",
+      "22706199"
+    ],
+    "RESID": [
+      "AA0530",
+      "AA0531"
+    ]
+  },
+  "definition": "The modification of a lysine residue in a protein to produce (2S)-2-amino-6-([(3S)-3,6-diaminohexanoyl]amino)hexanoic acid, and the subsequent hydroxylation of the modified lysine residue. This modification is observed in, and is probably unique to, the prokaryotic translation elongation factor P (EF-P).",
+  "namespace": "biological_process",
+  "label": "bacterial-type EF-P lysine modification"
+}

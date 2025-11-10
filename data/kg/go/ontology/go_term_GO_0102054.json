@@ -1,0 +1,36 @@
+{
+  "id": "GO:0102054",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102054",
+  "relationships": {
+    "is_a": [
+      "GO:0016823"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.7.1.23"
+    ],
+    "MetaCyc": [
+      "RXN-10447"
+    ],
+    "RHEA": [
+      "47956",
+      "47956"
+    ],
+    "GOC": [
+      "pz"
+    ],
+    "PMID": [
+      "7400101"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-maleylpyruvate(2-) + H2O = H+ + maleate(2-) + pyruvate.",
+  "namespace": "molecular_function",
+  "label": "maleylpyruvate hydrolase activity"
+}

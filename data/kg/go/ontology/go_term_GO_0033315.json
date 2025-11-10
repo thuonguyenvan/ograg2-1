@@ -1,0 +1,29 @@
+{
+  "id": "GO:0033315",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033315",
+  "relationships": {
+    "is_a": [
+      "GO:0000076",
+      "GO:0044778",
+      "GO:0110031"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "meiotic G2/MI DNA replication checkpoint",
+      "meiotic cell cycle DNA replication checkpoint",
+      "signal transduction involved in meiotic DNA replication checkpoint"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mtg_cell_cycle"
+    ]
+  },
+  "definition": "A signal transduction process that controls the G2/M1 transition of the meiotic cell cycle and prevents the initiation of nuclear division until DNA replication is complete.",
+  "namespace": "biological_process",
+  "label": "meiotic G2/MI DNA replication checkpoint signaling"
+}

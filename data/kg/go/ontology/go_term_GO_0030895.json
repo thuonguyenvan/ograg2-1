@@ -1,0 +1,28 @@
+{
+  "id": "GO:0030895",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030895",
+  "relationships": {
+    "is_a": [
+      "GO:0045293",
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "APOBEC",
+      "apoB mRNA editing enzyme complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "10781591",
+      "12683974"
+    ]
+  },
+  "definition": "Protein complex that mediates editing of the mRNA encoding apolipoprotein B; catalyzes the deamination of C to U (residue 6666 in the human mRNA). Contains a catalytic subunit, APOBEC-1, and other proteins (e.g. human ASP; rat ASP and KSRP).",
+  "namespace": "cellular_component",
+  "label": "apolipoprotein B mRNA editing enzyme complex"
+}

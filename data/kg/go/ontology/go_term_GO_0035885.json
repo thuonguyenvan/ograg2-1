@@ -1,0 +1,36 @@
+{
+  "id": "GO:0035885",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035885",
+  "relationships": {
+    "is_a": [
+      "GO:0004568"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-12309"
+    ],
+    "RHEA": [
+      "50672"
+    ],
+    "GOC": [
+      "bf",
+      "kah",
+      "pde"
+    ],
+    "PMID": [
+      "11468293",
+      "16298970",
+      "21390509"
+    ]
+  },
+  "definition": "Catalysis of the hydrolysis of terminal 1,4-beta-linkages of N-acetyl-D-glucosamine (GlcNAc) polymers of chitin and chitodextrins. Typically, exochitinases progressively cleave off two subunits from the reducing or non-reducing ends of the chitin chain.",
+  "namespace": "molecular_function",
+  "label": "exochitinase activity"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GO:0016094",
+  "uri": "http://purl.obolibrary.org/obo/GO_0016094",
+  "relationships": {
+    "is_a": [
+      "GO:0008299",
+      "GO:0016093",
+      "GO:0046165"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "polyprenol anabolism",
+      "polyprenol biosynthesis",
+      "polyprenol formation",
+      "polyprenol synthesis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ],
+    "PMID": [
+      "11108713"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of polyprenols, prenols with more than 4 isoprenoid residues, which may be all-trans, or a mixture of cis and trans.",
+  "namespace": "biological_process",
+  "label": "polyprenol biosynthetic process"
+}

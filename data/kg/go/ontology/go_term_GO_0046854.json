@@ -1,0 +1,32 @@
+{
+  "id": "GO:0046854",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046854",
+  "relationships": {
+    "is_a": [
+      "GO:0006661"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PIP biosynthesis",
+      "PtdInsP biosynthesis",
+      "phosphatidylinositol phosphate biosynthesis"
+    ],
+    "broad": [],
+    "narrow": [
+      "phosphatidylinositol phosphate phosphorylation",
+      "phosphoinositide phosphorylation"
+    ],
+    "related": [
+      "phosphatidylinositol phosphorylation"
+    ]
+  },
+  "cross_references": {
+    "ISBN": [
+      "0198506732"
+    ]
+  },
+  "definition": "The chemical reactions and pathways resulting in the formation of phosphatidylinositol phosphate.",
+  "namespace": "biological_process",
+  "label": "phosphatidylinositol phosphate biosynthetic process"
+}

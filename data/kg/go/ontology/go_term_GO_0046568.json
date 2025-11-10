@@ -1,0 +1,34 @@
+{
+  "id": "GO:0046568",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046568",
+  "relationships": {
+    "is_a": [
+      "GO:0018455"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-methylbutanol:NAD(P) oxidoreductase activity",
+      "3-methylbutyraldehyde reductase activity",
+      "isoamyl alcohol oxidase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-methylbutanal reductase [NAD(P)] activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.265",
+      "1.1.1.265",
+      "1.1.1.265"
+    ],
+    "MetaCyc": [
+      "1.1.1.265-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-methylbutanol + NAD(P)+ = 3-methylbutanal + NAD(P)H + H+. 3-methylbutanal is also known as isovaleraldehyde.",
+  "namespace": "molecular_function",
+  "label": "3-methylbutanal reductase [NAD(P)H] activity"
+}

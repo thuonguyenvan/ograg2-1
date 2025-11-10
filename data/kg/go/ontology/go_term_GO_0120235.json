@@ -1,0 +1,37 @@
+{
+  "id": "GO:0120235",
+  "uri": "http://purl.obolibrary.org/obo/GO_0120235",
+  "relationships": {
+    "is_a": [
+      "GO:0033157",
+      "GO:0034762"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of posttranslational endoplasmic reticulum membrane protein translocation",
+      "regulation of posttranslational protein targeting to membrane, translocation"
+    ],
+    "broad": [],
+    "narrow": [
+      "regulation of N-terminal signal peptide-independent translocation into the ER",
+      "regulation of SRP-independent endoplasmic reticulum protein-membrane targeting, translocation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "rn",
+      "rn",
+      "rn",
+      "rn"
+    ],
+    "PMID": [
+      "32513868"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of posttranslational protein translocation through the ER membrane.",
+  "namespace": "biological_process",
+  "label": "regulation of post-translational protein targeting to membrane, translocation"
+}

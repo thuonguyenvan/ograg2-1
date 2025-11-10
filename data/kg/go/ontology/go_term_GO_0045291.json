@@ -1,0 +1,33 @@
+{
+  "id": "GO:0045291",
+  "uri": "http://purl.obolibrary.org/obo/GO_0045291",
+  "relationships": {
+    "is_a": [
+      "GO:0000365"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nuclear mRNA trans splicing, SL addition",
+      "nuclear mRNA trans splicing, spliced leader addition"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "krc",
+      "vw"
+    ],
+    "ISBN": [
+      "0879695897"
+    ],
+    "PMID": [
+      "2675423"
+    ]
+  },
+  "definition": "The joining together of two independently transcribed RNAs, where the one that provides the 5&apos; portion of the final mRNA is from a splice leader RNA (SL-RNA). The SL-RNA, or mini-exon donor sequence, is added to the 5&apos;-end of the acceptor RNA molecule which provides the mRNA body.",
+  "namespace": "biological_process",
+  "label": "mRNA trans splicing, SL addition"
+}

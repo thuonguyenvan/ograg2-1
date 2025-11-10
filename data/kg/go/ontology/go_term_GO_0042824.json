@@ -1,0 +1,33 @@
+{
+  "id": "GO:0042824",
+  "uri": "http://purl.obolibrary.org/obo/GO_0042824",
+  "relationships": {
+    "is_a": [
+      "GO:0098796",
+      "GO:0140534"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "peptide-loading complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PLC"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "jl",
+      "bhm",
+      "bhm"
+    ],
+    "PMID": [
+      "10631934"
+    ]
+  },
+  "definition": "A large, multisubunit complex which consists of the MHC class I-beta 2 microglobulin dimer, the transporter associated with antigen presentation (TAP), tapasin (an MHC-encoded membrane protein), the chaperone calreticulin and the thiol oxidoreductase ERp57. Functions in the assembly of peptides with newly synthesized MHC class I molecules.",
+  "namespace": "cellular_component",
+  "label": "MHC class I peptide loading complex"
+}

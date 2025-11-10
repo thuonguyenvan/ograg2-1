@@ -1,0 +1,29 @@
+{
+  "id": "GO:0071532",
+  "uri": "http://purl.obolibrary.org/obo/GO_0071532",
+  "relationships": {
+    "is_a": [
+      "GO:0019904"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ANK repeat binding"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "amm"
+    ],
+    "InterPro": [
+      "IPR002110"
+    ]
+  },
+  "definition": "Binding to an ankyrin repeat of a protein. Ankyrin repeats are tandemly repeated modules of about 33 amino acids; each repeat folds into a helix-loop-helix structure with a beta-hairpin/loop region projecting out from the helices at a 90-degree angle, and repeats stack to form an L-shaped structure.",
+  "namespace": "molecular_function",
+  "label": "ankyrin repeat binding"
+}

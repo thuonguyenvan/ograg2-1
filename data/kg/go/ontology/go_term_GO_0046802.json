@@ -1,0 +1,38 @@
+{
+  "id": "GO:0046802",
+  "uri": "http://purl.obolibrary.org/obo/GO_0046802",
+  "relationships": {
+    "is_a": [
+      "GO:0039674"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "capsid egress",
+      "nuclear egress",
+      "nuclear egress of viral procapsid"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "egress of viral procapsid from host cell nucleus"
+    ]
+  },
+  "cross_references": {
+    "VZ": [
+      "1952",
+      "1952",
+      "2177"
+    ],
+    "PMID": [
+      "21494278",
+      "22858153",
+      "9601512",
+      "9765421",
+      "22858153"
+    ]
+  },
+  "definition": "The directed movement of an assembled viral particle out of the host cell nucleus by budding and fusion through the nuclear membranes. In this process, enveloped viral particles are formed by budding through the inner nuclear membrane. These perinuclear enveloped particles then fuse with the outer nuclear membrane to deliver a naked capsid into the host cytoplasm.",
+  "namespace": "biological_process",
+  "label": "Nuclear egress"
+}

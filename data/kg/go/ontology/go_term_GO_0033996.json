@@ -1,0 +1,34 @@
+{
+  "id": "GO:0033996",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033996",
+  "relationships": {
+    "is_a": [
+      "GO:0016837"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2,6-beta-D-fructan D-fructosyl-D-fructosyltransferase (forming di-beta-D-fructofuranose 2,6&apos;:2&apos;,6-dianhydride) activity",
+      "2,6-beta-D-fructan lyase (di-beta-D-fructofuranose-2,6&apos;:2&apos;,6-dianhydride-forming) activity",
+      "levan fructotransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.2.16",
+      "4.2.2.16",
+      "4.2.2.16",
+      "4.2.2.16",
+      "4.2.2.16"
+    ],
+    "MetaCyc": [
+      "4.2.2.16-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: beta-D-fructopyranosyl-(2-&gt;6)-[D-fructofuranosyl-(2-&gt;6)]n-D-fructofuranoside = beta-D-fructopyranosyl-(2-&gt;6)-[D-fructofuranosyl-(2-&gt;6)](n-1)-D-fructofuranoside + di-beta-D-fructofuranose 2,6&apos;:2&apos;,6-dianhydride. This reaction is the production of di-beta-D-fructofuranose 2,6&apos;:2&apos;,6-dianhydride (DFA IV) by successively eliminating the diminishing (2-&gt;6)-beta-D-fructan (levan) chain from the terminal D-fructosyl-D-fructosyl disaccharide.",
+  "namespace": "molecular_function",
+  "label": "levan fructotransferase (DFA-IV-forming) activity"
+}

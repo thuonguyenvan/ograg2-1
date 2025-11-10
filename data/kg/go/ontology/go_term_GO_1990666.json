@@ -1,0 +1,38 @@
+{
+  "id": "GO:1990666",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990666",
+  "relationships": {
+    "is_a": [
+      "GO:0032991"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "PCSK9.LDLR complex",
+      "PCSK9/LDL-R complex",
+      "PCSK9:low-density lipoprotein receptor complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "PCSK9:EGF-A complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "nc",
+      "bf"
+    ],
+    "PMID": [
+      "18250299",
+      "24440079",
+      "18799458",
+      "24440079",
+      "18250299"
+    ]
+  },
+  "definition": "A protein complex consisting of the serine protease PCSK9 (proprotein convertase subtilisin/kexin-9) and a low-density lipoprotein receptor (LDLR). Interaction typically occurs through the epidermal growth factor-like repeat A (EGF-A) domain of the LDLR, and complex formation promotes degradation of the LDLR through the endosome/lysosome pathway.",
+  "namespace": "cellular_component",
+  "label": "PCSK9-LDLR complex"
+}

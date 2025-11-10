@@ -1,0 +1,35 @@
+{
+  "id": "GO:0070985",
+  "uri": "http://purl.obolibrary.org/obo/GO_0070985",
+  "relationships": {
+    "is_a": [
+      "GO:0090575"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TFIIK complex"
+    ],
+    "broad": [],
+    "narrow": [
+      "Mcs6/Mcs2/Pmh1 complex"
+    ],
+    "related": [
+      "cyclin H-CDK7 complex"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "vw"
+    ],
+    "PMID": [
+      "19818408",
+      "22572993",
+      "19328067"
+    ]
+  },
+  "definition": "A transcription factor complex that forms part of the holo TFIIH complex. In Saccharomyces/human, TFIIK contains Ccl1p/Cyclin H, Tfb3p/MAT1 and Kin28p/CDK7.",
+  "namespace": "cellular_component",
+  "label": "transcription factor TFIIK complex"
+}

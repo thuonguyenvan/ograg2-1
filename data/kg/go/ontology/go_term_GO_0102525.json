@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102525",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102525",
+  "relationships": {
+    "is_a": [
+      "GO:0016706"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.11.41"
+    ],
+    "MetaCyc": [
+      "RXN-14542"
+    ],
+    "RHEA": [
+      "36607",
+      "36607"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-argininium(1+) + 2-oxoglutarate + O2 = (3S)-3-hydroxy-L-arginine(1+) + succinate + carbon dioxide.",
+  "namespace": "molecular_function",
+  "label": "2-oxoglutarate, L-arginine oxygenase (succinate-forming) activity"
+}

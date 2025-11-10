@@ -1,0 +1,41 @@
+{
+  "id": "GO:0030196",
+  "uri": "http://purl.obolibrary.org/obo/GO_0030196",
+  "relationships": {
+    "is_a": [
+      "GO:0016836"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "formamide dehydratase activity",
+      "formamide hydro-lyase (cyanide-forming)",
+      "formamide hydro-lyase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "4.2.1.66",
+      "4.2.1.66",
+      "4.2.1.66",
+      "4.2.1.66",
+      "4.2.1.66"
+    ],
+    "KEGG_REACTION": [
+      "R01408"
+    ],
+    "MetaCyc": [
+      "CYANIDE-HYDRATASE-RXN"
+    ],
+    "RHEA": [
+      "21720",
+      "21720"
+    ]
+  },
+  "definition": "Catalysis of the reaction: formamide = H2O + hydrogen cyanide.",
+  "namespace": "molecular_function",
+  "label": "cyanide hydratase activity"
+}

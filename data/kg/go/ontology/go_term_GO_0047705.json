@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047705",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047705",
+  "relationships": {
+    "is_a": [
+      "GO:0016634"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "bilirubin oxidase M-1",
+      "bilirubin:oxygen oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.3.3.5",
+      "1.3.3.5",
+      "1.3.3.5",
+      "1.3.3.5"
+    ],
+    "KEGG_REACTION": [
+      "R02394"
+    ],
+    "MetaCyc": [
+      "BILIRUBIN-OXIDASE-RXN"
+    ],
+    "RHEA": [
+      "20980",
+      "20980"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2 bilirubin + O2 = 2 biliverdin + 2 H2O.",
+  "namespace": "molecular_function",
+  "label": "bilirubin oxidase activity"
+}

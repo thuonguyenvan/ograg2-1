@@ -1,0 +1,33 @@
+{
+  "id": "GO:0102069",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102069",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.326",
+      "1.1.1.326"
+    ],
+    "MetaCyc": [
+      "RXN-10629"
+    ],
+    "RHEA": [
+      "32327"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 8-hydroxy-alpha-humulene + NAD = zerumbone + NADH + H+.",
+  "namespace": "molecular_function",
+  "label": "zerumbone synthase activity"
+}

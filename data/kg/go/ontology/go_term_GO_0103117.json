@@ -1,0 +1,33 @@
+{
+  "id": "GO:0103117",
+  "uri": "http://purl.obolibrary.org/obo/GO_0103117",
+  "relationships": {
+    "is_a": [
+      "GO:0016811"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "3.5.1.108"
+    ],
+    "MetaCyc": [
+      "UDPACYLGLCNACDEACETYL-RXN"
+    ],
+    "RHEA": [
+      "67816",
+      "67816"
+    ],
+    "GOC": [
+      "pz"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a UDP-3-O-[(3R)-3-hydroxyacyl]-N-acetyl-alpha-D-glucosamine + H2O = a UDP-3-O-[(3R)-3-hydroxyacyl]-alpha-D-glucosamine + acetate.",
+  "namespace": "molecular_function",
+  "label": "UDP-3-O-acyl-N-acetylglucosamine deacetylase activity"
+}

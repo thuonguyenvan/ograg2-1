@@ -1,0 +1,27 @@
+{
+  "id": "GO:0015349",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015349",
+  "relationships": {
+    "is_a": [
+      "GO:0015291"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-879575",
+      "R-HSA-9631987"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "Enables the transfer of thyroid hormones from one side of a membrane to the other. Thyroid hormone are any of the compounds secreted by the thyroid gland, largely thyroxine and triiodothyronine.",
+  "namespace": "molecular_function",
+  "label": "SLCO1B1 transports T3,T4 from extracellular region to cytosol"
+}

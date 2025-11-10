@@ -1,0 +1,30 @@
+{
+  "id": "GO:0005640",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005640",
+  "relationships": {
+    "is_a": [
+      "GO:0031965",
+      "GO:0031968"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "nucleus outer envelope",
+      "perinuclear membrane"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "NIF_Subcellular": [
+      "sao1617136075"
+    ],
+    "ISBN": [
+      "0198547684"
+    ]
+  },
+  "definition": "The outer, i.e. cytoplasm-facing, lipid bilayer of the nuclear envelope; continuous with the endoplasmic reticulum of the cell and sometimes studded with ribosomes.",
+  "namespace": "cellular_component",
+  "label": "nuclear outer membrane"
+}

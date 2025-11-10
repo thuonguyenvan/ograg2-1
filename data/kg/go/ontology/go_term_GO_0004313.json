@@ -1,0 +1,51 @@
+{
+  "id": "GO:0004313",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004313",
+  "relationships": {
+    "is_a": [
+      "GO:0016418"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "ACP S-acetyltransferase activity",
+      "[acyl-carrier protein] S-acetyltransferase activity"
+    ],
+    "broad": [
+      "ACAT activity"
+    ],
+    "narrow": [],
+    "related": [
+      "ACP acetyltransferase activity",
+      "ACPacetyltransferase activity",
+      "acetyl coenzyme A-acyl-carrier-protein transacylase activity",
+      "acetyl-CoA:acyl-carrier-protein S-acetyltransferase activity",
+      "acyl-carrier-protein S-acetyltransferase activity",
+      "acyl-carrier-protein acetyltransferase activity",
+      "acyl-carrier-proteinacetyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.1.38",
+      "2.3.1.38",
+      "2.3.1.38",
+      "2.3.1.38",
+      "2.3.1.38",
+      "2.3.1.38",
+      "2.3.1.38",
+      "2.3.1.38",
+      "2.3.1.38"
+    ],
+    "MetaCyc": [
+      "ACP-S-ACETYLTRANSFER-RXN"
+    ],
+    "RHEA": [
+      "41788",
+      "41788"
+    ]
+  },
+  "definition": "Catalysis of the reaction: acetyl-CoA + [acyl-carrier protein] = CoA + acetyl-[acyl-carrier protein].",
+  "namespace": "molecular_function",
+  "label": "[acyl-carrier-protein] S-acetyltransferase activity"
+}

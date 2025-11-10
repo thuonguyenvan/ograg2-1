@@ -1,0 +1,40 @@
+{
+  "id": "GO:0003989",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003989",
+  "relationships": {
+    "is_a": [
+      "GO:0016421"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "acetyl coenzyme A carboxylase activity",
+      "acetyl-CoA:carbon-dioxide ligase (ADP-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "6.4.1.2",
+      "6.4.1.2",
+      "6.4.1.2",
+      "6.4.1.2"
+    ],
+    "MetaCyc": [
+      "ACETYL-COA-CARBOXYLTRANSFER-RXN"
+    ],
+    "RHEA": [
+      "11308"
+    ],
+    "Reactome": [
+      "R-HSA-200555",
+      "R-HSA-75851",
+      "R-HSA-8876889"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + acetyl-CoA + HCO3- = ADP + phosphate + malonyl-CoA.",
+  "namespace": "molecular_function",
+  "label": "Btn-ACACB:2Mn2+ polymer carboxylates Ac-CoA to form Mal-CoA"
+}

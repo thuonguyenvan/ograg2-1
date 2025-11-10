@@ -1,0 +1,30 @@
+{
+  "id": "GO:0102919",
+  "uri": "http://purl.obolibrary.org/obo/GO_0102919",
+  "relationships": {
+    "is_a": [
+      "GO:0016702"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.13.11.79",
+      "1.13.11.79"
+    ],
+    "MetaCyc": [
+      "RXN-8771"
+    ],
+    "RHEA": [
+      "27345"
+    ]
+  },
+  "definition": "Catalysis of the reaction: FMNH2 + O2 = 5,6-dimethylbenzimidazole + D-erythrose 4-phosphate + dialuric acid.",
+  "namespace": "molecular_function",
+  "label": "5,6-dimethylbenzimidazole synthase activity"
+}

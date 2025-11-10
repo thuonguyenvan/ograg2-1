@@ -1,0 +1,50 @@
+{
+  "id": "GO:0043807",
+  "uri": "http://purl.obolibrary.org/obo/GO_0043807",
+  "relationships": {
+    "is_a": [
+      "GO:0016625"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-methyl-2-oxobutanoate:ferredoxin oxidoreductase (decarboxylating; CoA-2-methylpropanoylating)"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-ketoisovalerate ferredoxin reductase activity",
+      "2-oxoisovalerate ferredoxin reductase activity",
+      "3-methyl-2-oxobutanoate synthase (ferredoxin) activity",
+      "VOR",
+      "branched-chain ketoacid ferredoxin reductase activity",
+      "branched-chain oxo acid ferredoxin reductase activity",
+      "keto-valine-ferredoxin oxidoreductase activity",
+      "ketoisovalerate ferredoxin reductase activity",
+      "ketoisovalerate oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.2.7.7",
+      "1.2.7.7",
+      "1.2.7.7",
+      "1.2.7.7",
+      "1.2.7.7",
+      "1.2.7.7",
+      "1.2.7.7",
+      "1.2.7.7",
+      "1.2.7.7",
+      "1.2.7.7"
+    ],
+    "MetaCyc": [
+      "1.2.7.7-RXN"
+    ],
+    "RHEA": [
+      "11712"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 3-methyl-2-oxobutanoate + CoA + oxidized ferredoxin = S-(2-methylpropanoyl)-CoA + CO2 + reduced ferredoxin.",
+  "namespace": "molecular_function",
+  "label": "3-methyl-2-oxobutanoate dehydrogenase (ferredoxin) activity"
+}

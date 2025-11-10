@@ -1,0 +1,42 @@
+{
+  "id": "GO:0018851",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018851",
+  "relationships": {
+    "is_a": [
+      "GO:0016872"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "alpha-pinene oxide lyase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alpha-pinene-oxide lyase (decyclizing)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.5.1.10",
+      "5.5.1.10",
+      "5.5.1.10"
+    ],
+    "KEGG_REACTION": [
+      "R04040"
+    ],
+    "MetaCyc": [
+      "ALPHA-PINENE-OXIDE-DECYCLASE-RXN"
+    ],
+    "RHEA": [
+      "16693",
+      "16693"
+    ],
+    "UM-BBD_reactionID": [
+      "r0743"
+    ]
+  },
+  "definition": "Catalysis of the reaction: alpha-pinene oxide = (Z)-2-methyl-5-isopropylhexa-2,5-dienal.",
+  "namespace": "molecular_function",
+  "label": "alpha-pinene-oxide decyclase activity"
+}

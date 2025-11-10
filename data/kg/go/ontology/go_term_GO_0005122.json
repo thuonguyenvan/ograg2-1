@@ -1,0 +1,31 @@
+{
+  "id": "GO:0005122",
+  "uri": "http://purl.obolibrary.org/obo/GO_0005122",
+  "relationships": {
+    "is_a": [
+      "GO:0005102"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tor binding"
+    ],
+    "broad": [],
+    "narrow": [
+      "tor ligand",
+      "torso ligand"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "ceb"
+    ],
+    "PMID": [
+      "2927509"
+    ]
+  },
+  "definition": "Binding to a torso (tor) protein, a receptor tyrosine kinase.",
+  "namespace": "molecular_function",
+  "label": "torso binding"
+}

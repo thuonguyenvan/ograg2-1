@@ -1,0 +1,38 @@
+{
+  "id": "GO:0141101",
+  "uri": "http://purl.obolibrary.org/obo/GO_0141101",
+  "relationships": {
+    "is_a": [
+      "GO:0016300"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "tRNA(Ser) (uracil(44)-2&apos;-O-)-methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "2.1.1.211"
+    ],
+    "MetaCyc": [
+      "RXN-12368"
+    ],
+    "RHEA": [
+      "43100",
+      "43100"
+    ],
+    "Reactome": [
+      "R-HSA-6788707"
+    ],
+    "PMID": [
+      "18025252"
+    ]
+  },
+  "definition": "Catalysis of the reaction: Catalysis of the reaction: S-adenosyl-L-methionine + uridine44 in tRNASer = 2&apos;-O-methyluridine44 in tRNASer + H+ + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "TRMT44 2&apos;-O-methylates uridine-44 in tRNA(Ser)"
+}

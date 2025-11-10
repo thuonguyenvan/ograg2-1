@@ -1,0 +1,38 @@
+{
+  "id": "GO:0015434",
+  "uri": "http://purl.obolibrary.org/obo/GO_0015434",
+  "relationships": {
+    "is_a": [
+      "GO:0015086",
+      "GO:0019829",
+      "GO:0140359"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cadmium ABC transporter"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP-dependent cadmium transmembrane transporter activity",
+      "ATPase-coupled cadmium transmembrane transporter activity",
+      "cadmium-transporting ATPase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "7.2.2.2",
+      "7.2.2.2"
+    ],
+    "MetaCyc": [
+      "RXN-21035"
+    ],
+    "PMID": [
+      "12455987"
+    ]
+  },
+  "definition": "Enables the transfer of a solute or solutes from one side of a membrane to the other according to the reaction: ATP + H2O + Cd (cytosol) = ADP + phosphate + Cd (vacuole).",
+  "namespace": "molecular_function",
+  "label": "ABC-type cadmium transporter activity"
+}

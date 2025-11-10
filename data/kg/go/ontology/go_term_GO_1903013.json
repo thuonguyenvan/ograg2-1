@@ -1,0 +1,36 @@
+{
+  "id": "GO:1903013",
+  "uri": "http://purl.obolibrary.org/obo/GO_1903013",
+  "relationships": {
+    "is_a": [
+      "GO:0045472",
+      "GO:1901654"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "response to 1-(3,5-dichloro-2,6-dihydroxy-4-methoxyphenyl)hexan-1-one"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "DIF-1",
+      "response to DIF-1",
+      "response to DIF1"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000071"
+    ],
+    "PMID": [
+      "22365144"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a 1-(3,5-dichloro-2,6-dihydroxy-4-methoxyphenyl)hexan-1-one stimulus.",
+  "namespace": "biological_process",
+  "label": "response to differentiation-inducing factor 1"
+}

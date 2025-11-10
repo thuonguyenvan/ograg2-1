@@ -1,0 +1,49 @@
+{
+  "id": "GO:0018672",
+  "uri": "http://purl.obolibrary.org/obo/GO_0018672",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "anthranilate hydroxylase (deaminating) activity"
+    ],
+    "broad": [
+      "anthranilate hydroxylase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "anthranilate 2,3-dioxygenase (deaminating)",
+      "anthranilate 2,3-hydroxylase (deaminating) activity",
+      "anthranilate,NADPH:oxygen oxidoreductase (3-hydroxylating, deaminating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.35",
+      "1.14.13.35",
+      "1.14.13.35",
+      "1.14.13.35",
+      "1.14.13.35",
+      "1.14.13.35"
+    ],
+    "KEGG_REACTION": [
+      "R00980"
+    ],
+    "MetaCyc": [
+      "1.14.13.35-RXN"
+    ],
+    "RHEA": [
+      "21236",
+      "21236"
+    ],
+    "UM-BBD_reactionID": [
+      "r0578"
+    ]
+  },
+  "definition": "Catalysis of the reaction: anthranilate + 2 H+ + NADPH + O2 = 2,3-dihydroxybenzoate + NADP+ + NH4.",
+  "namespace": "molecular_function",
+  "label": "anthranilate 3-monooxygenase (deaminating) activity"
+}

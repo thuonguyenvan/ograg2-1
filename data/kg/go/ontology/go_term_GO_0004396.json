@@ -1,0 +1,55 @@
+{
+  "id": "GO:0004396",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004396",
+  "relationships": {
+    "is_a": [
+      "GO:0016773",
+      "GO:0019200"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "hexokinase type I activity",
+      "hexokinase type II activity",
+      "hexokinase type III activity",
+      "hexokinase type IV (glucokinase) activity"
+    ],
+    "related": [
+      "ATP-dependent hexokinase activity",
+      "ATP:D-hexose 6-phosphotransferase activity",
+      "glucose ATP phosphotransferase activity",
+      "hexokinase (phosphorylating)",
+      "hexokinase D",
+      "hexokinase type IV",
+      "hexokinase type IV glucokinase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.1",
+      "2.7.1.1",
+      "2.7.1.1",
+      "2.7.1.1",
+      "2.7.1.1",
+      "2.7.1.1",
+      "2.7.1.1",
+      "2.7.1.1",
+      "2.7.1.1",
+      "2.7.1.1",
+      "2.7.1.1",
+      "2.7.1.1",
+      "2.7.1.1"
+    ],
+    "MetaCyc": [
+      "HEXOKINASE-RXN"
+    ],
+    "RHEA": [
+      "22740"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + D-hexose = ADP + D-hexose 6-phosphate.",
+  "namespace": "molecular_function",
+  "label": "hexokinase activity"
+}

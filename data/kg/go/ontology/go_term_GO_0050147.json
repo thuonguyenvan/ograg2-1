@@ -1,0 +1,33 @@
+{
+  "id": "GO:0050147",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050147",
+  "relationships": {
+    "is_a": [
+      "GO:0016763"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "nucleoside N-ribosyltransferase activity",
+      "nucleoside:purine(pyrimidine) D-ribosyltransferase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.4.2.5",
+      "2.4.2.5",
+      "2.4.2.5",
+      "2.4.2.5"
+    ],
+    "MetaCyc": [
+      "NUCLEOSIDE-RIBOSYLTRANSFERASE-RXN",
+      "NUCLEOSIDE-RIBOSYLTRANSFERASE-RXN"
+    ]
+  },
+  "definition": "Catalysis of the reaction: D-ribosyl-base1 + base2 = D-ribosyl-base2 + base1.",
+  "namespace": "molecular_function",
+  "label": "nucleoside ribosyltransferase activity"
+}

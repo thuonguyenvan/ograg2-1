@@ -1,0 +1,36 @@
+{
+  "id": "GO:0097641",
+  "uri": "http://purl.obolibrary.org/obo/GO_0097641",
+  "relationships": {
+    "is_a": [
+      "GO:0051213"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "2-oxoglutarate-dependent xanthine dioxygenase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "alpha-ketoglutarate- and Fe(II)-dependent xanthine dioxygenase activity",
+      "alpha-ketoglutarate- and Fe(II)-dependent xanthine hydroxylase activity"
+    ]
+  },
+  "cross_references": {
+    "RHEA": [
+      "43120",
+      "43120"
+    ],
+    "GOC": [
+      "vw"
+    ],
+    "PMID": [
+      "15948966",
+      "17429948"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-oxoglutarate (alpha-ketoglutarate) + O2 + xanthine = CO2 + succinate + urate.",
+  "namespace": "molecular_function",
+  "label": "alpha-ketoglutarate-dependent xanthine dioxygenase activity"
+}

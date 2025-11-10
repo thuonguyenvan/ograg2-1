@@ -1,0 +1,31 @@
+{
+  "id": "GO:0017122",
+  "uri": "http://purl.obolibrary.org/obo/GO_0017122",
+  "relationships": {
+    "is_a": [
+      "GO:0140535",
+      "GO:1990234"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "O-GlcNAc transferase complex",
+      "UDP-N-acetylglucosamine-peptide N-acetylglucosaminyltransferase"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "15247246"
+    ],
+    "GOC": [
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "A protein complex capable of protein N-acetylglucosaminyltransferase activity, the addition of nucleotide-activated sugars onto the polypeptide according to reaction: UDP-N-acetyl-D-glucosamine + protein = UDP + 4-N-(N-acetyl-D-glucosaminyl)-protein. The complex has different compositions in different species: In mammals it is often a homotrimer, in bacteria a heterotetramer of 2 different subunits.",
+  "namespace": "cellular_component",
+  "label": "protein N-acetylglucosaminyltransferase complex"
+}

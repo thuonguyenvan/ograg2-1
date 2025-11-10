@@ -1,0 +1,61 @@
+{
+  "id": "GO:0047035",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047035",
+  "relationships": {
+    "is_a": [
+      "GO:0044594"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "testosterone 17-beta-dehydrogenase (NAD+) activity",
+      "testosterone 17b-dehydrogenase activity"
+    ],
+    "broad": [
+      "17-beta-HSD activity",
+      "17-ketoreductase activity",
+      "3-alpha(17-beta)-hydroxysteroid dehydrogenase (NAD+) activity",
+      "3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)",
+      "3alpha(or 17beta)-hydroxysteroid:NAD+ oxidoreductase activity",
+      "3alpha,17beta-hydroxy steroid dehydrogenase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "17beta-HSD",
+      "17beta-hydroxysteroid:NAD+ 17-oxidoreductase activity",
+      "3alpha(17beta)-HSD",
+      "testosterone 17beta-dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.239",
+      "1.1.1.239",
+      "1.1.1.239",
+      "1.1.1.239",
+      "1.1.1.239",
+      "1.1.1.239",
+      "1.1.1.239",
+      "1.1.1.239",
+      "1.1.1.239",
+      "1.1.1.239",
+      "1.1.1.239"
+    ],
+    "KEGG_REACTION": [
+      "R01836"
+    ],
+    "MetaCyc": [
+      "TESTOSTERONE-17-BETA-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "14929",
+      "14929"
+    ],
+    "Wikipedia": [
+      "3alpha(17beta)-hydroxysteroid_dehydrogenase_(NAD+)"
+    ]
+  },
+  "definition": "Catalysis of the reaction: testosterone + NAD+ = androst-4-ene-3,17-dione + NADH.",
+  "namespace": "molecular_function",
+  "label": "testosterone dehydrogenase (NAD+) activity"
+}

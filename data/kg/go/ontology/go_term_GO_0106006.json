@@ -1,0 +1,38 @@
+{
+  "id": "GO:0106006",
+  "uri": "http://purl.obolibrary.org/obo/GO_0106006",
+  "relationships": {
+    "is_a": [
+      "GO:0008093",
+      "GO:0043495"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytoskeletal protein to membrane recruiting activity"
+    ],
+    "broad": [
+      "cytoskeletal protein membrane adaptor",
+      "cytoskeletal protein membrane anchor activity",
+      "cytoskeletal protein membrane tether activity",
+      "cytoskeletal protein-membrane adaptor activity",
+      "membrane-cytoskeletal protein anchor activity",
+      "membrane-cytoskeletal protein tether activity"
+    ],
+    "narrow": [
+      "BAR domain adaptor",
+      "F-BAR domain adaptor",
+      "microtubule cortical anchor activity"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "25736293",
+      "30840879"
+    ]
+  },
+  "definition": "The binding activity of a molecule that brings together a cytoskeletal protein or protein complex and a plasma membrane lipid or membrane-associated protein, in order to maintain the localization of the cytoskeleton at a specific cortical membrane location.",
+  "namespace": "molecular_function",
+  "label": "cytoskeletal protein-membrane anchor activity"
+}

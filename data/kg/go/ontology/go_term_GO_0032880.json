@@ -1,0 +1,31 @@
+{
+  "id": "GO:0032880",
+  "uri": "http://purl.obolibrary.org/obo/GO_0032880",
+  "relationships": {
+    "is_a": [
+      "GO:0032879"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of cellular protein localisation",
+      "regulation of cellular protein localization",
+      "regulation of protein localisation"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dph",
+      "mah",
+      "tb",
+      "TermGenie",
+      "mah"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of any process in which a protein is transported to, or maintained in, a specific location.",
+  "namespace": "biological_process",
+  "label": "regulation of protein localization"
+}

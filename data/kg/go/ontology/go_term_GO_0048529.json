@@ -1,0 +1,35 @@
+{
+  "id": "GO:0048529",
+  "uri": "http://purl.obolibrary.org/obo/GO_0048529",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "Mg-protoporphyrin IX monomethyl ester (oxidative) cyclase activity",
+      "Mg-protoporphyrin IX monomethyl ester oxidative cyclase activity",
+      "magnesium-protoporphyrin-IX 13-monomethyl ester,NADPH:oxygen oxidoreductase (hydroxylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.81",
+      "1.14.13.81",
+      "1.14.13.81",
+      "1.14.13.81",
+      "1.14.13.81"
+    ],
+    "RHEA": [
+      "33235",
+      "33235"
+    ]
+  },
+  "definition": "Catalysis of the reaction: magnesium protoporphyrin IX 13-monomethyl ester + 3 NADPH + 3 H+ + 3 O2 = divinylprotochlorophyllide + 3 NADP+ + 5 H2O.",
+  "namespace": "molecular_function",
+  "label": "magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase activity"
+}

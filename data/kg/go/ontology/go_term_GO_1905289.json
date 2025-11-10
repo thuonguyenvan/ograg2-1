@@ -1,0 +1,32 @@
+{
+  "id": "GO:1905289",
+  "uri": "http://purl.obolibrary.org/obo/GO_1905289",
+  "relationships": {
+    "is_a": [
+      "GO:0050848"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "regulation of stress-activated AMP-activated protein kinase signaling cascade"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "22128786"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of CAMKK-AMPK signaling cascade.",
+  "namespace": "biological_process",
+  "label": "regulation of CAMKK-AMPK signaling cascade"
+}

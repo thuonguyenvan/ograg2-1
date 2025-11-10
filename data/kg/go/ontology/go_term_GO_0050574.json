@@ -1,0 +1,42 @@
+{
+  "id": "GO:0050574",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050574",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "2-(2-(R)-hydroxypropylthio)ethanesulfonate dehydrogenase activity",
+      "2-[2-(R)-hydroxypropylthio]ethanesulfonate:NAD+ oxidoreductase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.268",
+      "1.1.1.268",
+      "1.1.1.268",
+      "1.1.1.268"
+    ],
+    "KEGG_REACTION": [
+      "R05689"
+    ],
+    "MetaCyc": [
+      "1.1.1.268-RXN"
+    ],
+    "RHEA": [
+      "13249",
+      "13249"
+    ],
+    "UM-BBD_reactionID": [
+      "r0852"
+    ]
+  },
+  "definition": "Catalysis of the reaction: 2-(R)-hydroxypropyl-coenzyme M + NAD+ = 2-oxopropyl-coenzyme M + H+ + NADH.",
+  "namespace": "molecular_function",
+  "label": "2-(R)-hydroxypropyl-CoM dehydrogenase activity"
+}

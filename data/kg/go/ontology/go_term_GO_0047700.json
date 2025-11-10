@@ -1,0 +1,39 @@
+{
+  "id": "GO:0047700",
+  "uri": "http://purl.obolibrary.org/obo/GO_0047700",
+  "relationships": {
+    "is_a": [
+      "GO:0016301",
+      "GO:0016773"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "b-glucoside kinase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "ATP:cellobiose 6-phosphotransferase activity",
+      "beta-D-glucoside kinase (phosphorylating)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.1.85",
+      "2.7.1.85",
+      "2.7.1.85",
+      "2.7.1.85"
+    ],
+    "MetaCyc": [
+      "BETA-GLUCOSIDE-KINASE-RXN",
+      "BETA-GLUCOSIDE-KINASE-RXN"
+    ],
+    "RHEA": [
+      "21944"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + cellobiose = ADP + 6-phospho-beta-D-glucosyl-(1,4)-D-glucose.",
+  "namespace": "molecular_function",
+  "label": "beta-glucoside kinase activity"
+}

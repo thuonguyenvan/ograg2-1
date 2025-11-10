@@ -1,0 +1,46 @@
+{
+  "id": "GO:0004525",
+  "uri": "http://purl.obolibrary.org/obo/GO_0004525",
+  "relationships": {
+    "is_a": [
+      "GO:0016891",
+      "GO:0032296"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "pre-mRNA 3&apos;-end processing endonuclease"
+    ],
+    "related": [
+      "RNase III activity",
+      "ribonuclease 3 activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.26.3",
+      "3.1.26.3",
+      "3.1.26.3"
+    ],
+    "MetaCyc": [
+      "3.1.26.3-RXN"
+    ],
+    "Reactome": [
+      "R-HSA-203862",
+      "R-HSA-203893",
+      "R-HSA-426464",
+      "R-HSA-9708292",
+      "R-HSA-9708408",
+      "R-HSA-9820840"
+    ],
+    "PMID": [
+      "11157775",
+      "15242644"
+    ]
+  },
+  "definition": "Catalysis of the endonucleolytic cleavage of RNA with 5&apos;-phosphomonoesters and 3&apos;-OH termini; makes two staggered cuts in both strands of dsRNA, leaving a 3&apos; overhang of 2 nt.",
+  "namespace": "molecular_function",
+  "label": "DICER1 hydrolyzes maternal mRNA:lncRNA to yield endosiRNA"
+}

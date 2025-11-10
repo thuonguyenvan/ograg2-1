@@ -1,0 +1,30 @@
+{
+  "id": "GO:0033441",
+  "uri": "http://purl.obolibrary.org/obo/GO_0033441",
+  "relationships": {
+    "is_a": [
+      "GO:0030533"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "AAT codon-amino acid adaptor activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "asparagine tRNA"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "mah",
+      "hjd",
+      "hjd",
+      "mah"
+    ]
+  },
+  "definition": "A triplet codon-amino acid adaptor activity that recognizes an AAU codon.",
+  "namespace": "molecular_function",
+  "label": "AAU codon-amino acid adaptor activity"
+}

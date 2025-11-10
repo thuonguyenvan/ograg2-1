@@ -1,0 +1,28 @@
+{
+  "id": "GO:0140806",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140806",
+  "relationships": {
+    "is_a": [
+      "GO:1990404"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "RHEA": [
+      "54424",
+      "54424"
+    ],
+    "PMID": [
+      "19764761",
+      "25043379"
+    ]
+  },
+  "definition": "Catalysis of the reaction: L-aspartyl-[protein] + NAD+ = 4-O-(ADP-D-ribosyl)-L-aspartyl-[protein] + nicotinamide.",
+  "namespace": "molecular_function",
+  "label": "NAD+-protein-aspartate ADP-ribosyltransferase activity"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "GO:1904268",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904268",
+  "relationships": {
+    "is_a": [
+      "GO:0050921",
+      "GO:1900149",
+      "GO:1904266"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "up regulation of Schwann cell chemotaxis",
+      "up-regulation of Schwann cell chemotaxis",
+      "upregulation of Schwann cell chemotaxis"
+    ],
+    "broad": [],
+    "narrow": [
+      "activation of Schwann cell chemotaxis"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "16203995"
+    ]
+  },
+  "definition": "Any process that activates or increases the frequency, rate or extent of Schwann cell chemotaxis.",
+  "namespace": "biological_process",
+  "label": "positive regulation of Schwann cell chemotaxis"
+}

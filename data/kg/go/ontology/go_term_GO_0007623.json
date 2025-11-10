@@ -1,0 +1,35 @@
+{
+  "id": "GO:0007623",
+  "uri": "http://purl.obolibrary.org/obo/GO_0007623",
+  "relationships": {
+    "is_a": [
+      "GO:0048511"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "circadian process"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "circadian response",
+      "response to circadian rhythm"
+    ]
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-400253"
+    ],
+    "Wikipedia": [
+      "Circadian_rhythm"
+    ],
+    "GOC": [
+      "bf",
+      "go_curators"
+    ]
+  },
+  "definition": "Any biological process in an organism that recurs with a regularity of approximately 24 hours.",
+  "namespace": "biological_process",
+  "label": "Circadian Clock"
+}

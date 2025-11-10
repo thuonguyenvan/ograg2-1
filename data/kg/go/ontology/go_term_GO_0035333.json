@@ -1,0 +1,31 @@
+{
+  "id": "GO:0035333",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035333",
+  "relationships": {
+    "is_a": [
+      "GO:0031293"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "Notch S2 cleavage",
+      "Notch S3 cleavage"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf"
+    ],
+    "PMID": [
+      "12651094",
+      "12651094",
+      "12651094"
+    ]
+  },
+  "definition": "The proteolytic cleavages to the Notch protein that occur as a result of ligand binding. Ligand binding at the cell surface exposes an otherwise inaccessible cleavage site in the extracellular portion of Notch, which when cleaved releases a membrane-tethered form of the Notch intracellular domain. Subsequent cleavage within the transmembrane domain then leads to the release of the soluble Notch intracellular domain (NICD).",
+  "namespace": "biological_process",
+  "label": "Notch receptor processing, ligand-dependent"
+}

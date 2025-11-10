@@ -1,0 +1,32 @@
+{
+  "id": "GO:0006836",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006836",
+  "relationships": {
+    "is_a": [
+      "GO:0006810"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [
+      "sodium:neurotransmitter transport"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "Reactome": [
+      "R-HSA-181429",
+      "R-HSA-181430",
+      "R-HSA-210500",
+      "R-HSA-212676",
+      "R-HSA-264642"
+    ],
+    "GOC": [
+      "ai"
+    ]
+  },
+  "definition": "The directed movement of a neurotransmitter into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore. Neurotransmitters are any chemical substance that is capable of transmitting (or inhibiting the transmission of) a nerve impulse from a neuron to another cell.",
+  "namespace": "biological_process",
+  "label": "Acetylcholine Neurotransmitter Release Cycle"
+}

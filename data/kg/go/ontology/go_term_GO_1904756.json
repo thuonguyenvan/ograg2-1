@@ -1,0 +1,60 @@
+{
+  "id": "GO:1904756",
+  "uri": "http://purl.obolibrary.org/obo/GO_1904756",
+  "relationships": {
+    "is_a": [
+      "GO:1902116",
+      "GO:1904755"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "down regulation of gut granule assembly",
+      "down regulation of gut granule biogenesis",
+      "down regulation of gut granule formation",
+      "down-regulation of gut granule assembly",
+      "down-regulation of gut granule biogenesis",
+      "down-regulation of gut granule formation",
+      "downregulation of gut granule assembly",
+      "downregulation of gut granule biogenesis",
+      "downregulation of gut granule formation",
+      "negative regulation of gut granule biogenesis",
+      "negative regulation of gut granule formation"
+    ],
+    "broad": [],
+    "narrow": [
+      "inhibition of gut granule assembly",
+      "inhibition of gut granule biogenesis",
+      "inhibition of gut granule formation"
+    ],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie",
+      "TermGenie"
+    ],
+    "GO_REF": [
+      "0000058"
+    ],
+    "PMID": [
+      "17535251"
+    ]
+  },
+  "definition": "Any process that stops, prevents or reduces the frequency, rate or extent of gut granule assembly.",
+  "namespace": "biological_process",
+  "label": "negative regulation of gut granule assembly"
+}

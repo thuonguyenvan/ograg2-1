@@ -1,0 +1,32 @@
+{
+  "id": "GO:0038009",
+  "uri": "http://purl.obolibrary.org/obo/GO_0038009",
+  "relationships": {
+    "is_a": [
+      "GO:0009966",
+      "GO:0031623"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "regulation of signaling pathway by receptor endocytosis"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "signaling",
+      "bf"
+    ],
+    "PMID": [
+      "17011816",
+      "19696798"
+    ]
+  },
+  "definition": "Any process that modulates the frequency, rate or extent of signal transduction by the movement of a signaling receptor from the plasma membrane to the inside of the cell. Receptor internalization can have a positive or negative effect on a signaling pathway.",
+  "namespace": "biological_process",
+  "label": "regulation of signal transduction by receptor internalization"
+}

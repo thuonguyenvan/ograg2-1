@@ -1,0 +1,40 @@
+{
+  "id": "GO:0050578",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050578",
+  "relationships": {
+    "is_a": [
+      "GO:0016616",
+      "GO:0033719"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(R)-2-hydroxyacid:NAD(P)+ oxidoreductase activity",
+      "(R)-sulfolactate:NAD(P)(+) oxidoreductase activity",
+      "(R)-sulfolactate:NAD(P)+ oxidoreductase activity",
+      "L-sulfolactate dehydrogenase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.272",
+      "1.1.1.272",
+      "1.1.1.272",
+      "1.1.1.272",
+      "1.1.1.272"
+    ],
+    "MetaCyc": [
+      "1.1.1.272-RXN"
+    ],
+    "RHEA": [
+      "35735",
+      "35735"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a (2R)-2-hydroxycarboxylate + NADP+ = a 2-oxocarboxylate + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "(2R)-2-hydroxyacid dehydrogenase (NADP+) activity"
+}

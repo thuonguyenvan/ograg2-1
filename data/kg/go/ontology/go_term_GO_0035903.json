@@ -1,0 +1,34 @@
+{
+  "id": "GO:0035903",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035903",
+  "relationships": {
+    "is_a": [
+      "GO:0033554",
+      "GO:0035902"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cellular response to immobilisation stress"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "cellular response to restraint stress"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "bf",
+      "bf",
+      "sl"
+    ],
+    "PMID": [
+      "17683801",
+      "19893991"
+    ]
+  },
+  "definition": "Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of being rendered immobile.",
+  "namespace": "biological_process",
+  "label": "cellular response to immobilization stress"
+}

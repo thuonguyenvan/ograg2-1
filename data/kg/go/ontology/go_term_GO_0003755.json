@@ -1,0 +1,64 @@
+{
+  "id": "GO:0003755",
+  "uri": "http://purl.obolibrary.org/obo/GO_0003755",
+  "relationships": {
+    "is_a": [
+      "GO:0016859",
+      "GO:0140096"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cis-trans proline isomerase activity"
+    ],
+    "broad": [],
+    "narrow": [
+      "FK506-sensitive peptidyl-prolyl cis-trans isomerase",
+      "cyclophilin-type peptidyl-prolyl cis-trans isomerase activity",
+      "juglone-sensitive cis-trans proline isomerase activity",
+      "juglone-sensitive peptidyl-prolyl cis-trans isomerase activity"
+    ],
+    "related": [
+      "PPIase activity",
+      "cyclophilin activity",
+      "immunophilin",
+      "parvulin",
+      "peptide bond isomerase activity",
+      "peptidyl-prolyl isomerase B reaction",
+      "peptidylproline cis-trans-isomerase activity",
+      "peptidylprolyl cis-trans isomerase activity",
+      "peptidylprolyl isomerase activity",
+      "rotamase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.2.1.8",
+      "5.2.1.8",
+      "5.2.1.8",
+      "5.2.1.8",
+      "5.2.1.8",
+      "5.2.1.8",
+      "5.2.1.8",
+      "5.2.1.8",
+      "5.2.1.8"
+    ],
+    "MetaCyc": [
+      "PEPTIDYLPROLYL-ISOMERASE-RXN"
+    ],
+    "RHEA": [
+      "16237"
+    ],
+    "Reactome": [
+      "R-HSA-2022073",
+      "R-HSA-9626816"
+    ],
+    "GOC": [
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "Catalysis of the reaction: peptidyl-proline (omega=180) = peptidyl-proline (omega=0).",
+  "namespace": "molecular_function",
+  "label": "PIN1 binds p-S345-NCF1"
+}

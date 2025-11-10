@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050124",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050124",
+  "relationships": {
+    "is_a": [
+      "GO:0016791"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "N-acylneuraminate-9-phosphate phosphohydrolase activity",
+      "N-acylneuraminic (sialic) acid 9-phosphatase activity",
+      "N-acylneuraminic acid 9-phosphate phosphatase activity",
+      "acylneuraminate 9-phosphatase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "3.1.3.29",
+      "3.1.3.29",
+      "3.1.3.29",
+      "3.1.3.29",
+      "3.1.3.29",
+      "3.1.3.29"
+    ],
+    "MetaCyc": [
+      "N-ACYLNEURAMINATE-9-PHOSPHATASE-RXN",
+      "N-ACYLNEURAMINATE-9-PHOSPHATASE-RXN"
+    ],
+    "RHEA": [
+      "13057"
+    ],
+    "Reactome": [
+      "R-HSA-4084989"
+    ]
+  },
+  "definition": "Catalysis of the reaction: N-acylneuraminate 9-phosphate + H2O = N-acylneuraminate + phosphate.",
+  "namespace": "molecular_function",
+  "label": "NANP dephosphorylates Neu5Ac-9-P to Neu5Ac"
+}

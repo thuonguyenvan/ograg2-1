@@ -1,0 +1,39 @@
+{
+  "id": "GO:0050058",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050058",
+  "relationships": {
+    "is_a": [
+      "GO:0016859"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "linoleate delta12-cis-delta11-trans-isomerase activity",
+      "linoleic acid isomerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "5.2.1.5",
+      "5.2.1.5",
+      "5.2.1.5",
+      "5.2.1.5"
+    ],
+    "KEGG_REACTION": [
+      "R03627"
+    ],
+    "MetaCyc": [
+      "LINOLEATE-ISOMERASE-RXN"
+    ],
+    "RHEA": [
+      "17381",
+      "17381"
+    ]
+  },
+  "definition": "Catalysis of the reaction: linoleate = 9-cis,11-trans-octadecadienoate.",
+  "namespace": "molecular_function",
+  "label": "linoleate isomerase activity"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "GO:0050442",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050442",
+  "relationships": {
+    "is_a": [
+      "GO:0046912"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-(n-propyl)-malate synthase activity",
+      "3-propylmalate glyoxylate-lyase (CoA-pentanoylating) activity",
+      "N-propylmalate synthase activity",
+      "beta-n-propylmalate synthase activity",
+      "pentanoyl-CoA:glyoxylate C-pentanoyltransferase (thioester-hydrolysing, 1-carboxybutyl-forming)"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.3.3.12",
+      "2.3.3.12",
+      "2.3.3.12",
+      "2.3.3.12",
+      "2.3.3.12",
+      "2.3.3.12"
+    ],
+    "KEGG_REACTION": [
+      "R03040"
+    ],
+    "MetaCyc": [
+      "3-PROPYLMALATE-SYNTHASE-RXN"
+    ],
+    "RHEA": [
+      "14457",
+      "14457"
+    ]
+  },
+  "definition": "Catalysis of the reaction: glyoxylate + H2O + pentanoyl-CoA = 3-propylmalate + CoA + H+.",
+  "namespace": "molecular_function",
+  "label": "3-propylmalate synthase activity"
+}

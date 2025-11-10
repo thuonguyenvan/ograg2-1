@@ -1,0 +1,35 @@
+{
+  "id": "GO:0072540",
+  "uri": "http://purl.obolibrary.org/obo/GO_0072540",
+  "relationships": {
+    "is_a": [
+      "GO:0002295"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "T-helper 17 cell fate commitment",
+      "Th17 cell lineage commitment",
+      "Th17 fate commitment"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "CL": [
+      "0000899",
+      "0000899",
+      "0000899"
+    ],
+    "GOC": [
+      "BHF",
+      "ebc",
+      "mah",
+      "mah"
+    ]
+  },
+  "definition": "The process in which a CD4-positive, alpha-beta T cell becomes committed to becoming a T-helper 17 cell, a CD4-positive, alpha-beta T cell with the phenotype RORgamma-t-positive that produces IL-17.",
+  "namespace": "biological_process",
+  "label": "T-helper 17 cell lineage commitment"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GO:0080150",
+  "uri": "http://purl.obolibrary.org/obo/GO_0080150",
+  "relationships": {
+    "is_a": [
+      "GO:0008171"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "S-adenosyl-L-methionine:benzoate carboxyl methyltransferase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "MetaCyc": [
+      "RXN-6722",
+      "RXN-6722"
+    ],
+    "RHEA": [
+      "36099"
+    ],
+    "PMID": [
+      "10852939"
+    ]
+  },
+  "definition": "Catalysis of the reaction: benzoate + S-adenosyl-L-methionine = methylbenzoate + S-adenosyl-L-homocysteine.",
+  "namespace": "molecular_function",
+  "label": "S-adenosyl-L-methionine:benzoic acid carboxyl methyl transferase activity"
+}

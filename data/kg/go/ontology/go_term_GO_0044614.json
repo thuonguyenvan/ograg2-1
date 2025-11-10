@@ -1,0 +1,38 @@
+{
+  "id": "GO:0044614",
+  "uri": "http://purl.obolibrary.org/obo/GO_0044614",
+  "relationships": {
+    "is_a": [
+      "GO:0140513"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "cytoplasmic fibers of the NPC",
+      "cytoplasmic fibers of the nuclear pore complex"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "dgf"
+    ],
+    "PMID": [
+      "18046406",
+      "19524430",
+      "20947011",
+      "22419078",
+      "7775481",
+      "8978815",
+      "9456312",
+      "7775481",
+      "8978815",
+      "9456312"
+    ]
+  },
+  "definition": "Filamentous extensions on cytoplasmic face of the nuclear pore complex (NPC). In S. cerevisiae, Nup159p, Nup82p, and Nup42p contribute to the cytoplasmic filaments. In vertebrates, Nup358 is a major component.",
+  "namespace": "cellular_component",
+  "label": "nuclear pore cytoplasmic filaments"
+}

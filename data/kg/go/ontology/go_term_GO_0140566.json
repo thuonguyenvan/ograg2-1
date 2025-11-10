@@ -1,0 +1,30 @@
+{
+  "id": "GO:0140566",
+  "uri": "http://purl.obolibrary.org/obo/GO_0140566",
+  "relationships": {
+    "is_a": [
+      "GO:0140463"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "histone reader"
+    ],
+    "broad": [
+      "epigenetic reader"
+    ],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "PMID": [
+      "11498575",
+      "25688442",
+      "31082667",
+      "34726351"
+    ]
+  },
+  "definition": "A chromatin adaptor activity that brings together a protein and a specific form of histone, either modified by a post-translational modification, or the unmodified form. Histone readers have roles in many processes, including in centromere function or in modulating the accessibility of cis-regulatory regions to the transcription machinery.",
+  "namespace": "molecular_function",
+  "label": "histone reader activity"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "GO:0035667",
+  "uri": "http://purl.obolibrary.org/obo/GO_0035667",
+  "relationships": {
+    "is_a": [
+      "GO:0034142",
+      "GO:0035666"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "TRIF-dependent TLR4 signaling pathway",
+      "TRIF-dependent toll-like receptor 4 signalling pathway",
+      "Toll/IL-1 receptor (TIR) domain-containing adaptor-dependent TLR4 signaling pathway"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "GOC": [
+      "BHF",
+      "bf",
+      "bf"
+    ],
+    "PMID": [
+      "18641322",
+      "20511708",
+      "12855817"
+    ]
+  },
+  "definition": "The series of molecular signals initiated by a ligand binding to a toll-like 4 receptor where the TRIF adaptor mediates transduction of the signal. Toll-like 4 receptors are pattern recognition receptors that bind bacterial lipopolysaccharide (LPS) to initiate an innate immune response.",
+  "namespace": "biological_process",
+  "label": "TRIF-dependent toll-like receptor 4 signaling pathway"
+}

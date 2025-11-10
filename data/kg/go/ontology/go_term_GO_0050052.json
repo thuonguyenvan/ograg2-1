@@ -1,0 +1,43 @@
+{
+  "id": "GO:0050052",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050052",
+  "relationships": {
+    "is_a": [
+      "GO:0016709"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "leukotriene-E4 w-hydroxylase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "(7E,9E,11Z,14Z)-(5S,6R)-6-(cystein-S-yl)-5-hydroxyicosa-7,9,11,14-tetraenoate,NADPH:oxygen oxidoreductase (20-hydroxylating)",
+      "leukotriene-E(4) omega-hydroxylase activity",
+      "leukotriene-E4 omega-hydroxylase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.14.13.34",
+      "1.14.13.34",
+      "1.14.13.34",
+      "1.14.13.34",
+      "1.14.13.34"
+    ],
+    "KEGG_REACTION": [
+      "R04256"
+    ],
+    "MetaCyc": [
+      "LEUKOTRIENE-E4-20-MONOOXYGENASE-RXN"
+    ],
+    "RHEA": [
+      "24120",
+      "24120"
+    ]
+  },
+  "definition": "Catalysis of the reaction: H+ + leukotriene E(4) + NADPH + O2 = 20-hydroxy-leukotriene E(4) + H2O + NADP+.",
+  "namespace": "molecular_function",
+  "label": "leukotriene-E4 20-monooxygenase activity"
+}

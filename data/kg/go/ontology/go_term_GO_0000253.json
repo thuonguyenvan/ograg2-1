@@ -1,0 +1,50 @@
+{
+  "id": "GO:0000253",
+  "uri": "http://purl.obolibrary.org/obo/GO_0000253",
+  "relationships": {
+    "is_a": [
+      "GO:0033764"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "3-keto sterol reductase activity",
+      "3-keto-steroid reductase activity"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "3-KSR activity",
+      "3beta-hydroxy-steroid:NADP+ 3-oxidoreductase"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.270",
+      "1.1.1.270",
+      "1.1.1.270",
+      "1.1.1.270"
+    ],
+    "MetaCyc": [
+      "RXN-13686"
+    ],
+    "RHEA": [
+      "34787"
+    ],
+    "Reactome": [
+      "R-HSA-194632",
+      "R-HSA-194689",
+      "R-HSA-9945784",
+      "R-HSA-9945804"
+    ],
+    "GOC": [
+      "mah"
+    ],
+    "PMID": [
+      "9811880"
+    ]
+  },
+  "definition": "Catalysis of the reaction: a 3-betahydroxyl sterol + NADP+ = a 3-oxosterol sterol + NADPH + H+.",
+  "namespace": "molecular_function",
+  "label": "HSD17B7 reduces 5a-cholest-8-en-3-one to ZYMSTNL"
+}

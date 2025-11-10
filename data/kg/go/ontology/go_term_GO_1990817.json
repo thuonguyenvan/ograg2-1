@@ -1,0 +1,50 @@
+{
+  "id": "GO:1990817",
+  "uri": "http://purl.obolibrary.org/obo/GO_1990817",
+  "relationships": {
+    "is_a": [
+      "GO:0070566"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "RNA adenylating enzyme",
+      "RNA adenyltransferase activity",
+      "RNA adenylyltransferase activity",
+      "polynucleotide adenylyltransferase activity"
+    ],
+    "broad": [
+      "NTP polymerase activity"
+    ],
+    "narrow": [],
+    "related": [
+      "poly(A) polymerase activity"
+    ]
+  },
+  "cross_references": {
+    "EC": [
+      "2.7.7.19",
+      "2.7.7.19",
+      "2.7.7.19",
+      "2.7.7.19"
+    ],
+    "MetaCyc": [
+      "POLYNUCLEOTIDE-ADENYLYLTRANSFERASE-RXN"
+    ],
+    "RHEA": [
+      "11332",
+      "11332"
+    ],
+    "Reactome": [
+      "R-HSA-72185",
+      "R-HSA-9833031",
+      "R-HSA-9936998"
+    ],
+    "PMID": [
+      "13965521"
+    ]
+  },
+  "definition": "Catalysis of the reaction: ATP + RNA(n) = diphosphate + RNA(n)-3&apos;-adenine ribonucleotide. The primer may be an RNA or DNA fragment, or oligo(A) bearing a 3&apos;-OH terminal group.",
+  "namespace": "molecular_function",
+  "label": "MTPAP polyadenylates mitochondrial mRNA"
+}

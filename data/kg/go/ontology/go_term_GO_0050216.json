@@ -1,0 +1,34 @@
+{
+  "id": "GO:0050216",
+  "uri": "http://purl.obolibrary.org/obo/GO_0050216",
+  "relationships": {
+    "is_a": [
+      "GO:0016616"
+    ]
+  },
+  "synonyms": {
+    "exact": [],
+    "broad": [],
+    "narrow": [],
+    "related": []
+  },
+  "cross_references": {
+    "EC": [
+      "1.1.1.7",
+      "1.1.1.7"
+    ],
+    "KEGG_REACTION": [
+      "R04236"
+    ],
+    "MetaCyc": [
+      "PROPANEDIOL-PHOSPHATE-DEHYDROGENASE-RXN"
+    ],
+    "RHEA": [
+      "21584",
+      "21584"
+    ]
+  },
+  "definition": "Catalysis of the reaction: NAD+ + propane-1,2-diol 1-phosphate = H+ + hydroxyacetone phosphate + NADH.",
+  "namespace": "molecular_function",
+  "label": "propanediol-phosphate dehydrogenase activity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GO:0006952",
+  "uri": "http://purl.obolibrary.org/obo/GO_0006952",
+  "relationships": {
+    "is_a": [
+      "GO:0006950"
+    ]
+  },
+  "synonyms": {
+    "exact": [
+      "defence response",
+      "physiological defense response"
+    ],
+    "broad": [],
+    "narrow": [],
+    "related": [
+      "antimicrobial peptide activity",
+      "defense/immunity protein activity"
+    ]
+  },
+  "cross_references": {
+    "GOC": [
+      "go_curators"
+    ]
+  },
+  "definition": "Reactions, triggered in response to the presence of a foreign body or the occurrence of an injury, which result in restriction of damage to the organism attacked or prevention/recovery from the infection caused by the attack.",
+  "namespace": "biological_process",
+  "label": "defense response"
+}
