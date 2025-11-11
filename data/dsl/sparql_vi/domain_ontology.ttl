@@ -1,0 +1,318 @@
+@prefix : <http://ograg.org/domain#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# ============================================
+# Domain Ontology for SPARQL-VI Test Cases
+# Fixed schema covering all 30 test cases
+# ============================================
+
+<http://ograg.org/domain> a owl:Ontology ;
+    rdfs:label "Domain Ontology"@en ;
+    rdfs:label "Ontology Miền Dữ Liệu"@vi ;
+    rdfs:comment "Schema definition for Person, Product, Order, and related entities"@en ;
+    owl:versionInfo "1.0" .
+
+# ============================================
+# Classes (Lớp Đối Tượng)
+# ============================================
+
+:Person a owl:Class ;
+    rdfs:label "Person"@en ;
+    rdfs:label "Người"@vi ;
+    rdfs:comment "Represents a person/user in the system"@en ;
+    rdfs:comment "Đại diện cho một người dùng trong hệ thống"@vi .
+
+:Customer a owl:Class ;
+    rdfs:subClassOf :Person ;
+    rdfs:label "Customer"@en ;
+    rdfs:label "Khách hàng"@vi ;
+    rdfs:comment "A person who is a customer"@en ;
+    rdfs:comment "Người dùng là khách hàng"@vi .
+
+:Product a owl:Class ;
+    rdfs:label "Product"@en ;
+    rdfs:label "Sản phẩm"@vi ;
+    rdfs:comment "A product/item that can be purchased"@en ;
+    rdfs:comment "Một sản phẩm có thể được mua"@vi .
+
+:Book a owl:Class ;
+    rdfs:subClassOf :Product ;
+    rdfs:label "Book"@en ;
+    rdfs:label "Sách"@vi ;
+    rdfs:comment "A book product"@en ;
+    rdfs:comment "Sản phẩm loại sách"@vi .
+
+:Order a owl:Class ;
+    rdfs:label "Order"@en ;
+    rdfs:label "Đơn hàng"@vi ;
+    rdfs:comment "A purchase order placed by a customer"@en ;
+    rdfs:comment "Đơn hàng được đặt bởi khách hàng"@vi .
+
+:City a owl:Class ;
+    rdfs:label "City"@en ;
+    rdfs:label "Thành phố"@vi ;
+    rdfs:comment "A city or location where people live"@en ;
+    rdfs:comment "Thành phố nơi mọi người sinh sống"@vi .
+
+:Category a owl:Class ;
+    rdfs:label "Category"@en ;
+    rdfs:label "Danh mục"@vi ;
+    rdfs:comment "Product category for grouping products"@en ;
+    rdfs:comment "Danh mục để nhóm các sản phẩm"@vi .
+
+# ============================================
+# Object Properties (Thuộc tính Đối tượng)
+# ============================================
+
+:livesIn a owl:ObjectProperty ;
+    rdfs:label "lives in"@en ;
+    rdfs:label "sống tại"@vi ;
+    rdfs:domain :Person ;
+    rdfs:range :City ;
+    rdfs:comment "Indicates the city where a person lives"@en ;
+    rdfs:comment "Chỉ ra thành phố nơi người đó sống"@vi .
+
+:ofCustomer a owl:ObjectProperty ;
+    rdfs:label "of customer"@en ;
+    rdfs:label "của khách hàng"@vi ;
+    rdfs:domain :Order ;
+    rdfs:range :Customer ;
+    rdfs:comment "Links an order to the customer who placed it"@en ;
+    rdfs:comment "Liên kết đơn hàng với khách hàng đã đặt"@vi .
+
+:placeOrder a owl:ObjectProperty ;
+    rdfs:label "place order"@en ;
+    rdfs:label "đặt đơn hàng"@vi ;
+    rdfs:domain :Customer ;
+    rdfs:range :Order ;
+    owl:inverseOf :ofCustomer ;
+    rdfs:comment "Customer places an order"@en .
+
+:inCategory a owl:ObjectProperty ;
+    rdfs:label "in category"@en ;
+    rdfs:label "thuộc danh mục"@vi ;
+    rdfs:domain :Product ;
+    rdfs:range :Category ;
+    rdfs:comment "Product belongs to a category"@en ;
+    rdfs:comment "Sản phẩm thuộc một danh mục"@vi .
+
+:friendOf a owl:ObjectProperty ;
+    rdfs:label "friend of"@en ;
+    rdfs:label "bạn của"@vi ;
+    rdfs:domain :Person ;
+    rdfs:range :Person ;
+    rdf:type owl:SymmetricProperty ;
+    rdfs:comment "Friendship relationship between persons"@en ;
+    rdfs:comment "Quan hệ bạn bè giữa các người"@vi .
+
+:borrowed a owl:ObjectProperty ;
+    rdfs:label "borrowed"@en ;
+    rdfs:label "mượn"@vi ;
+    rdfs:domain :Person ;
+    rdfs:range :Book ;
+    rdfs:comment "Person borrowed a book"@en .
+
+# ============================================
+# Datatype Properties (Thuộc tính Dữ liệu)
+# ============================================
+
+:hasName a owl:DatatypeProperty ;
+    rdfs:label "has name"@en ;
+    rdfs:label "có tên"@vi ;
+    rdfs:domain :Person ;
+    rdfs:range xsd:string ;
+    rdfs:comment "The name of a person"@en ;
+    rdfs:comment "Tên của người"@vi .
+
+:hasAge a owl:DatatypeProperty ;
+    rdfs:label "has age"@en ;
+    rdfs:label "có tuổi"@vi ;
+    rdfs:domain :Person ;
+    rdfs:range xsd:integer ;
+    rdfs:comment "The age of a person in years"@en ;
+    rdfs:comment "Tuổi của người (năm)"@vi .
+
+:hasEmail a owl:DatatypeProperty ;
+    rdfs:label "has email"@en ;
+    rdfs:label "có email"@vi ;
+    rdfs:domain :Person ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Email address of a person"@en ;
+    rdfs:comment "Địa chỉ email của người"@vi .
+
+:hasPhone a owl:DatatypeProperty ;
+    rdfs:label "has phone"@en ;
+    rdfs:label "có điện thoại"@vi ;
+    rdfs:domain :Person ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Phone number of a person"@en ;
+    rdfs:comment "Số điện thoại của người"@vi .
+
+:hasNick a owl:DatatypeProperty ;
+    rdfs:label "has nickname"@en ;
+    rdfs:label "có nickname"@vi ;
+    rdfs:domain :Person ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Nickname of a person"@en ;
+    rdfs:comment "Tên nick của người"@vi .
+
+:hasPrice a owl:DatatypeProperty ;
+    rdfs:label "has price"@en ;
+    rdfs:label "có giá"@vi ;
+    rdfs:domain owl:unionOf (:Product :Order) ;
+    rdfs:range xsd:decimal ;
+    rdfs:comment "Price of a product or order"@en ;
+    rdfs:comment "Giá của sản phẩm hoặc đơn hàng"@vi .
+
+:categoryName a owl:DatatypeProperty ;
+    rdfs:label "category name"@en ;
+    rdfs:label "tên danh mục"@vi ;
+    rdfs:domain :Category ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Name of the category"@en .
+
+:cityName a owl:DatatypeProperty ;
+    rdfs:label "city name"@en ;
+    rdfs:label "tên thành phố"@vi ;
+    rdfs:domain :City ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Name of the city"@en .
+
+# ============================================
+# Entity Mapping for Vietnamese NL Queries
+# Maps Vietnamese words to ontology concepts
+# ============================================
+
+:EntityMapping a owl:Class ;
+    rdfs:label "Entity Mapping"@en ;
+    rdfs:comment "Mapping between Vietnamese terms and ontology concepts"@en .
+
+# Vietnamese term mappings (for documentation/retrieval)
+:nguoi_mapping a :EntityMapping ;
+    rdfs:label "người → :Person" ;
+    :vietnameseTerm "người" ;
+    :mapsToClass :Person .
+
+:nguoi_dung_mapping a :EntityMapping ;
+    rdfs:label "người dùng → :Person" ;
+    :vietnameseTerm "người dùng" ;
+    :mapsToClass :Person .
+
+:khach_hang_mapping a :EntityMapping ;
+    rdfs:label "khách hàng → :Customer" ;
+    :vietnameseTerm "khách hàng" ;
+    :vietnameseTerm "khách" ;
+    :mapsToClass :Customer .
+
+:san_pham_mapping a :EntityMapping ;
+    rdfs:label "sản phẩm → :Product" ;
+    :vietnameseTerm "sản phẩm" ;
+    :mapsToClass :Product .
+
+:sach_mapping a :EntityMapping ;
+    rdfs:label "sách → :Book" ;
+    :vietnameseTerm "sách" ;
+    :mapsToClass :Book .
+
+:don_hang_mapping a :EntityMapping ;
+    rdfs:label "đơn hàng → :Order" ;
+    :vietnameseTerm "đơn hàng" ;
+    :vietnameseTerm "đơn" ;
+    :mapsToClass :Order .
+
+:thanh_pho_mapping a :EntityMapping ;
+    rdfs:label "thành phố → :City" ;
+    :vietnameseTerm "thành phố" ;
+    :mapsToClass :City .
+
+:danh_muc_mapping a :EntityMapping ;
+    rdfs:label "danh mục → :Category" ;
+    :vietnameseTerm "danh mục" ;
+    :mapsToClass :Category .
+
+# Property mappings
+:ten_mapping a :EntityMapping ;
+    rdfs:label "tên → :hasName" ;
+    :vietnameseTerm "tên" ;
+    :mapsToProperty :hasName .
+
+:tuoi_mapping a :EntityMapping ;
+    rdfs:label "tuổi → :hasAge" ;
+    :vietnameseTerm "tuổi" ;
+    :mapsToProperty :hasAge .
+
+:email_mapping a :EntityMapping ;
+    rdfs:label "email → :hasEmail" ;
+    :vietnameseTerm "email" ;
+    :mapsToProperty :hasEmail .
+
+:dien_thoai_mapping a :EntityMapping ;
+    rdfs:label "điện thoại → :hasPhone" ;
+    :vietnameseTerm "điện thoại" ;
+    :vietnameseTerm "số điện thoại" ;
+    :vietnameseTerm "sdt" ;
+    :mapsToProperty :hasPhone .
+
+:gia_mapping a :EntityMapping ;
+    rdfs:label "giá → :hasPrice" ;
+    :vietnameseTerm "giá" ;
+    :vietnameseTerm "giá trị" ;
+    :vietnameseTerm "giá tiền" ;
+    :mapsToProperty :hasPrice .
+
+:song_tai_mapping a :EntityMapping ;
+    rdfs:label "sống tại → :livesIn" ;
+    :vietnameseTerm "sống tại" ;
+    :vietnameseTerm "ở" ;
+    :vietnameseTerm "ở tại" ;
+    :mapsToProperty :livesIn .
+
+:ban_mapping a :EntityMapping ;
+    rdfs:label "bạn → :friendOf" ;
+    :vietnameseTerm "bạn" ;
+    :vietnameseTerm "bạn bè" ;
+    :mapsToProperty :friendOf .
+
+# ============================================
+# Sample Data (for validation/testing)
+# ============================================
+
+:person1 a :Person ;
+    :hasName "Nguyen Van A" ;
+    :hasAge 25 ;
+    :hasEmail "nguyenvana@example.com" ;
+    :hasPhone "0912-345-678" ;
+    :livesIn :hanoi .
+
+:person2 a :Person ;
+    :hasName "Tran Thi B" ;
+    :hasAge 19 ;
+    :hasEmail "tranthib@gmail.com" ;
+    :livesIn :hanoi .
+
+:customer1 a :Customer ;
+    :hasName "Le Van C" ;
+    :hasAge 30 ;
+    :hasEmail "levanc@yahoo.com" ;
+    :livesIn :hochiminh .
+
+:hanoi a :City ;
+    :cityName "Hà Nội" .
+
+:hochiminh a :City ;
+    :cityName "Hồ Chí Minh" .
+
+:book1 a :Book ;
+    :hasName "Introduction to SPARQL" ;
+    :hasPrice 150000 ;
+    :inCategory :tech_books .
+
+:tech_books a :Category ;
+    :categoryName "Technical Books" .
+
+:order1 a :Order ;
+    :ofCustomer :customer1 ;
+    :hasPrice 500000 .

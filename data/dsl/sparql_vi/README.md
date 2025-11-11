@@ -85,13 +85,32 @@ SPARQL-VI is a Vietnamese variant of SPARQL designed to test OG-RAG (Ontology-Gu
 | BIND | RANGG_BUOC_WW | Bind | Double G + _WW |
 | VALUES | GIAA_TRI_QQ | Values | Double A + _QQ |
 
+## Two-Ontology Architecture
+
+SPARQL-VI uses **TWO ontologies** working together:
+
+1. **DSL Ontology** (`sparql_vi_ontology.ttl`)
+   - Defines SPARQL-VI syntax and keywords
+   - Examples: CHONJ_KW, NOII_MA_KK, LOCJ_RR
+   - Constraints: CO requires NHOMM_THEO_YY
+
+2. **Domain Ontology** (`domain_ontology.ttl`)
+   - Defines data schema (classes and properties)
+   - Examples: Person, hasAge, livesIn
+   - Entity mappings: "người" → :Person, "tuổi" → :hasAge
+
+See [DOMAIN_ONTOLOGY.md](DOMAIN_ONTOLOGY.md) for detailed documentation.
+
 ## Project Structure
 
 ```
 data/dsl/sparql_vi/
-├── sparql_vi_ontology.ttl      # Formal OWL ontology
-├── test_cases.json              # 30 test cases (10 simple, 10 medium, 10 complex)
-└── README.md                    # This file
+├── sparql_vi_ontology.ttl      # DSL Ontology (syntax rules)
+├── domain_ontology.ttl          # Domain Ontology (data schema)
+├── test_cases.json              # 30 test cases with domain context
+├── test_cases.py                # Test generation script
+├── README.md                    # This file
+└── DOMAIN_ONTOLOGY.md           # Domain ontology documentation
 
 dsl/
 └── sparql_vi_translator.py      # Bidirectional translator SPARQL ↔ SPARQL-VI
@@ -158,7 +177,7 @@ Each class has formal constraints in the ontology:
 - REGEX patterns
 - Full pipeline queries
 
-### Example Test Case
+### Example Test Case (with Domain Context)
 
 ```json
 {
@@ -172,9 +191,22 @@ Each class has formal constraints in the ontology:
   "validation": {
     "syntax_valid": true,
     "requires_groupby": true
+  },
+  "domain_schema": {
+    "classes": [":Person", ":City"],
+    "properties": [":livesIn"]
+  },
+  "entity_mapping": {
+    "người": ":Person",
+    "thành phố": ":City",
+    "sống tại": ":livesIn"
   }
 }
 ```
+
+**Key Addition**: Each test case now includes:
+- `domain_schema`: Required classes and properties
+- `entity_mapping`: Vietnamese term → Ontology concept mapping
 
 ## Expected Results
 

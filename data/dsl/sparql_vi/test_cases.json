@@ -13,6 +13,19 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person"
+      ],
+      "properties": [
+        ":hasName"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "người dùng": ":Person",
+      "tên": ":hasName"
     }
   },
   {
@@ -28,6 +41,21 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person",
+        ":Book"
+      ],
+      "properties": [
+        ":hasEmail"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "người dùng": ":Person",
+      "sách": ":Book",
+      "email": ":hasEmail"
     }
   },
   {
@@ -45,6 +73,18 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person"
+      ],
+      "properties": [
+        ":hasAge"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "tuổi": ":hasAge"
     }
   },
   {
@@ -61,6 +101,19 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Book",
+        ":Product"
+      ],
+      "properties": [
+        ":hasPrice"
+      ]
+    },
+    "entity_mapping": {
+      "sách": ":Book",
+      "giá": ":hasPrice"
     }
   },
   {
@@ -77,6 +130,21 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person"
+      ],
+      "properties": [
+        ":hasEmail",
+        ":hasName"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "người dùng": ":Person",
+      "tên": ":hasName",
+      "email": ":hasEmail"
     }
   },
   {
@@ -93,6 +161,22 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person"
+      ],
+      "properties": [
+        ":hasPhone",
+        ":hasName"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "người dùng": ":Person",
+      "tên": ":hasName",
+      "điện thoại": ":hasPhone",
+      "số điện thoại": ":hasPhone"
     }
   },
   {
@@ -109,6 +193,19 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Book",
+        ":City"
+      ],
+      "properties": [
+        ":livesIn"
+      ]
+    },
+    "entity_mapping": {
+      "sách": ":Book",
+      "thành phố": ":City"
     }
   },
   {
@@ -125,6 +222,18 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person"
+      ],
+      "properties": [
+        ":hasName"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "người dùng": ":Person"
     }
   },
   {
@@ -142,6 +251,19 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person"
+      ],
+      "properties": [
+        ":hasAge"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "người dùng": ":Person",
+      "tuổi": ":hasAge"
     }
   },
   {
@@ -158,6 +280,18 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person"
+      ],
+      "properties": [
+        ":hasAge"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "tuổi": ":hasAge"
     }
   },
   {
@@ -177,6 +311,19 @@
     "validation": {
       "syntax_valid": true,
       "requires_groupby": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person",
+        ":City"
+      ],
+      "properties": [
+        ":livesIn"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "thành phố": ":City"
     }
   },
   {
@@ -195,6 +342,23 @@
     "validation": {
       "syntax_valid": true,
       "requires_groupby": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Customer",
+        ":Order"
+      ],
+      "properties": [
+        ":ofCustomer",
+        ":hasPrice"
+      ]
+    },
+    "entity_mapping": {
+      "khách hàng": ":Customer",
+      "khách": ":Customer",
+      "đơn hàng": ":Order",
+      "đơn": ":Order",
+      "giá": ":hasPrice"
     }
   },
   {
@@ -215,6 +379,19 @@
       "syntax_valid": true,
       "requires_groupby": true,
       "requires_having": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person",
+        ":City"
+      ],
+      "properties": [
+        ":livesIn"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "thành phố": ":City"
     }
   },
   {
@@ -232,6 +409,18 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Product"
+      ],
+      "properties": [
+        ":hasPrice"
+      ]
+    },
+    "entity_mapping": {
+      "sản phẩm": ":Product",
+      "giá": ":hasPrice"
     }
   },
   {
@@ -248,6 +437,22 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person"
+      ],
+      "properties": [
+        ":hasNick",
+        ":hasName"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "người dùng": ":Person",
+      "tên": ":hasName",
+      "nick": ":hasNick",
+      "nickname": ":hasNick"
     }
   },
   {
@@ -265,6 +470,18 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person"
+      ],
+      "properties": [
+        ":hasAge"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "tuổi": ":hasAge"
     }
   },
   {
@@ -282,6 +499,18 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person"
+      ],
+      "properties": [
+        ":hasName"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "tên": ":hasName"
     }
   },
   {
@@ -299,6 +528,19 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person"
+      ],
+      "properties": [
+        ":hasAge"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "người dùng": ":Person",
+      "tuổi": ":hasAge"
     }
   },
   {
@@ -315,6 +557,19 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":City"
+      ],
+      "properties": [
+        ":livesIn",
+        ":friendOf"
+      ]
+    },
+    "entity_mapping": {
+      "thành phố": ":City",
+      "bạn": ":friendOf"
     }
   },
   {
@@ -332,6 +587,17 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person"
+      ],
+      "properties": [
+        ":hasName"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person"
     }
   },
   {
@@ -353,6 +619,19 @@
     "validation": {
       "syntax_valid": true,
       "requires_groupby": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person",
+        ":City"
+      ],
+      "properties": [
+        ":livesIn"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "thành phố": ":City"
     }
   },
   {
@@ -372,6 +651,21 @@
     "validation": {
       "syntax_valid": true,
       "requires_groupby": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Product",
+        ":Category"
+      ],
+      "properties": [
+        ":inCategory",
+        ":hasPrice"
+      ]
+    },
+    "entity_mapping": {
+      "sản phẩm": ":Product",
+      "danh mục": ":Category",
+      "giá": ":hasPrice"
     }
   },
   {
@@ -391,6 +685,18 @@
     "validation": {
       "syntax_valid": true,
       "has_subquery": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Product"
+      ],
+      "properties": [
+        ":hasPrice"
+      ]
+    },
+    "entity_mapping": {
+      "sản phẩm": ":Product",
+      "giá": ":hasPrice"
     }
   },
   {
@@ -413,6 +719,22 @@
       "syntax_valid": true,
       "requires_groupby": true,
       "requires_having": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Customer",
+        ":Order"
+      ],
+      "properties": [
+        ":ofCustomer",
+        ":hasPrice"
+      ]
+    },
+    "entity_mapping": {
+      "khách hàng": ":Customer",
+      "khách": ":Customer",
+      "đơn hàng": ":Order",
+      "đơn": ":Order"
     }
   },
   {
@@ -431,6 +753,18 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person"
+      ],
+      "properties": [
+        ":hasEmail"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "email": ":hasEmail"
     }
   },
   {
@@ -450,6 +784,21 @@
     "validation": {
       "syntax_valid": true,
       "requires_groupby": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Customer",
+        ":Order"
+      ],
+      "properties": [
+        ":Customer",
+        ":ofCustomer"
+      ]
+    },
+    "entity_mapping": {
+      "khách": ":Customer",
+      "đơn hàng": ":Order",
+      "đơn": ":Order"
     }
   },
   {
@@ -469,6 +818,20 @@
     "validation": {
       "syntax_valid": true,
       "requires_groupby": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Category",
+        ":Product"
+      ],
+      "properties": [
+        ":inCategory",
+        ":hasPrice"
+      ]
+    },
+    "entity_mapping": {
+      "danh mục": ":Category",
+      "giá": ":hasPrice"
     }
   },
   {
@@ -486,6 +849,19 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person"
+      ],
+      "properties": [
+        ":hasPhone"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "điện thoại": ":hasPhone",
+      "số điện thoại": ":hasPhone"
     }
   },
   {
@@ -502,6 +878,23 @@
     ],
     "validation": {
       "syntax_valid": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Person"
+      ],
+      "properties": [
+        ":hasEmail",
+        ":hasPhone",
+        ":hasName"
+      ]
+    },
+    "entity_mapping": {
+      "người": ":Person",
+      "người dùng": ":Person",
+      "email": ":hasEmail",
+      "điện thoại": ":hasPhone",
+      "số điện thoại": ":hasPhone"
     }
   },
   {
@@ -526,6 +919,20 @@
       "syntax_valid": true,
       "requires_groupby": true,
       "requires_having": true
+    },
+    "domain_schema": {
+      "classes": [
+        ":Product",
+        ":Category"
+      ],
+      "properties": [
+        ":inCategory",
+        ":hasPrice"
+      ]
+    },
+    "entity_mapping": {
+      "sản phẩm": ":Product",
+      "danh mục": ":Category"
     }
   }
 ]
