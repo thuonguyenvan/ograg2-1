@@ -45,6 +45,17 @@ results/
 data/kg/*/onto_hypernode_embeddings.npy
 data/kg/*/summarized_texts.md
 
+# GO Ontology - Large files
+go-basic.owl
+*.owl
+data/kg/go/ontology/*.npy
+data/kg/go/ontology/*.pkl
+data/kg/*/hypergraph/*.pkl
+
+# Large CSV data files
+*.csv
+!requirements*.txt
+
 # OS
 .DS_Store
 Thumbs.db
