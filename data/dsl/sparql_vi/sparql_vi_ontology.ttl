@@ -24,36 +24,36 @@
     rdfs:label "Query"@en ;
     rdfs:comment "Base class for all SPARQL-VI queries"@en .
 
-:TruyVanCHON a owl:Class ;
+:TruyVanCHONJ_KW a owl:Class ;
     rdfs:subClassOf :TruyVan ;
-    rdfs:label "Truy vấn CHON (SELECT)"@vi ;
-    rdfs:comment "CHON query returns variable bindings. Equivalent to SPARQL SELECT."@en ;
-    :keywords "CHON, SELECT" ;
-    :syntax "CHON ?variable NOI_MA { pattern }" ;
-    :example "CHON ?ten NOI_MA { ?nguoi :coTen ?ten }" .
+    rdfs:label "Truy vấn CHONJ_KW (SELECT)"@vi ;
+    rdfs:comment "CHONJ_KW query returns variable bindings. Equivalent to SPARQL SELECT."@en ;
+    :keywords "CHONJ_KW, SELECT" ;
+    :syntax "CHONJ_KW ?variable NOII_MA_KK { pattern }" ;
+    :example "CHONJ_KW ?ten NOII_MA_KK { ?nguoi :coTen ?ten }" .
 
-:TruyVanXAY_DUNG a owl:Class ;
+:TruyVanXAY_DUNGWJ a owl:Class ;
     rdfs:subClassOf :TruyVan ;
-    rdfs:label "Truy vấn XAY_DUNG (CONSTRUCT)"@vi ;
-    rdfs:comment "XAY_DUNG query returns RDF graph. Equivalent to SPARQL CONSTRUCT."@en ;
-    :keywords "XAY_DUNG, CONSTRUCT" ;
-    :syntax "XAY_DUNG { template } NOI_MA { pattern }" ;
-    :example "XAY_DUNG { ?x :duocGoi ?ten } NOI_MA { ?x :coTen ?ten }" .
+    rdfs:label "Truy vấn XAY_DUNGWJ (CONSTRUCT)"@vi ;
+    rdfs:comment "XAY_DUNGWJ query returns RDF graph. Equivalent to SPARQL CONSTRUCT."@en ;
+    :keywords "XAY_DUNGWJ, CONSTRUCT" ;
+    :syntax "XAY_DUNGWJ { template } NOII_MA_KK { pattern }" ;
+    :example "XAY_DUNGWJ { ?x :duocGoi ?ten } NOII_MA_KK { ?x :coTen ?ten }" .
 
-:TruyVanHOI a owl:Class ;
+:TruyVanHOIQQ_YZ a owl:Class ;
     rdfs:subClassOf :TruyVan ;
-    rdfs:label "Truy vấn HOI (ASK)"@vi ;
-    rdfs:comment "HOI query returns boolean. Equivalent to SPARQL ASK."@en ;
-    :keywords "HOI, ASK" ;
-    :syntax "HOI NOI_MA { pattern }" ;
-    :example "HOI NOI_MA { ?nguoi :coTuoi ?tuoi . LOC(?tuoi > 18) }" .
+    rdfs:label "Truy vấn HOIQQ_YZ (ASK)"@vi ;
+    rdfs:comment "HOIQQ_YZ query returns boolean. Equivalent to SPARQL ASK."@en ;
+    :keywords "HOIQQ_YZ, ASK" ;
+    :syntax "HOIQQ_YZ NOII_MA_KK { pattern }" ;
+    :example "HOIQQ_YZ NOII_MA_KK { ?nguoi :coTuoi ?tuoi . LOCJ_RR(?tuoi > 18) }" .
 
-:TruyVanMO_TA a owl:Class ;
+:TruyVanMO_TAR_PP a owl:Class ;
     rdfs:subClassOf :TruyVan ;
-    rdfs:label "Truy vấn MO_TA (DESCRIBE)"@vi ;
-    rdfs:comment "MO_TA query returns RDF description. Equivalent to SPARQL DESCRIBE."@en ;
-    :keywords "MO_TA, DESCRIBE" ;
-    :syntax "MO_TA ?resource NOI_MA { pattern }" .
+    rdfs:label "Truy vấn MO_TAR_PP (DESCRIBE)"@vi ;
+    rdfs:comment "MO_TAR_PP query returns RDF description. Equivalent to SPARQL DESCRIBE."@en ;
+    :keywords "MO_TAR_PP, DESCRIBE" ;
+    :syntax "MO_TAR_PP ?resource NOII_MA_KK { pattern }" .
 
 # ============================================
 # Clauses (Mệnh Đề)
@@ -63,45 +63,45 @@
     rdfs:label "Mệnh đề"@vi ;
     rdfs:comment "Base class for all clauses"@en .
 
-:MenhDeNOI_MA a owl:Class ;
+:MenhDeNOII_MA_KK a owl:Class ;
     rdfs:subClassOf :MenhDe ;
-    rdfs:label "Mệnh đề NOI_MA (WHERE)"@vi ;
-    rdfs:comment "NOI_MA clause contains graph patterns. Required for most queries."@en ;
-    :keywords "NOI_MA, WHERE" ;
-    :constraint "Required for CHON, HOI queries" ;
-    :syntax "NOI_MA { triple_pattern }" .
+    rdfs:label "Mệnh đề NOII_MA_KK (WHERE)"@vi ;
+    rdfs:comment "NOII_MA_KK clause contains graph patterns. Required for most queries."@en ;
+    :keywords "NOII_MA_KK, WHERE" ;
+    :constraint "Required for CHONJ_KW, HOIQQ_YZ queries" ;
+    :syntax "NOII_MA_KK { triple_pattern }" .
 
-:MenhDeLOC a owl:Class ;
+:MenhDeLOCJ_RR a owl:Class ;
     rdfs:subClassOf :MenhDe ;
-    rdfs:label "Mệnh đề LOC (FILTER)"@vi ;
-    rdfs:comment "LOC filters solutions by condition. Equivalent to SPARQL FILTER."@en ;
-    :keywords "LOC, FILTER" ;
-    :syntax "LOC(condition)" ;
-    :example "LOC(?tuoi > 18)" ;
-    :constraint "Must be used inside NOI_MA clause" .
+    rdfs:label "Mệnh đề LOCJ_RR (FILTER)"@vi ;
+    rdfs:comment "LOCJ_RR filters solutions by condition. Equivalent to SPARQL FILTER."@en ;
+    :keywords "LOCJ_RR, FILTER" ;
+    :syntax "LOCJ_RR(condition)" ;
+    :example "LOCJ_RR(?tuoi > 18)" ;
+    :constraint "Must be used inside NOII_MA_KK clause" .
 
-:MenhDeNHOM_THEO a owl:Class ;
+:MenhDeNHOMM_THEO_YY a owl:Class ;
     rdfs:subClassOf :MenhDe ;
-    rdfs:label "Mệnh đề NHOM_THEO (GROUP BY)"@vi ;
-    rdfs:comment "NHOM_THEO groups results. Used with aggregate functions."@en ;
-    :keywords "NHOM_THEO, GROUP BY" ;
-    :syntax "NHOM_THEO ?variable" ;
-    :constraint "Required when using aggregate functions DEM, TONG, TRUNG_BINH" .
+    rdfs:label "Mệnh đề NHOMM_THEO_YY (GROUP BY)"@vi ;
+    rdfs:comment "NHOMM_THEO_YY groups results. Used with aggregate functions."@en ;
+    :keywords "NHOMM_THEO_YY, GROUP BY" ;
+    :syntax "NHOMM_THEO_YY ?variable" ;
+    :constraint "Required when using aggregate functions DEMM_JJ, TONGG_WW, TRUNGG_BINH_PP" .
 
-:MenhDeCO a owl:Class ;
+:MenhDeCOO_ZZ a owl:Class ;
     rdfs:subClassOf :MenhDe ;
-    rdfs:label "Mệnh đề CO (HAVING)"@vi ;
-    rdfs:comment "CO filters grouped results. Equivalent to SPARQL HAVING."@en ;
-    :keywords "CO, HAVING" ;
-    :syntax "CO (condition)" ;
-    :constraint "Can only be used with NHOM_THEO" .
+    rdfs:label "Mệnh đề COO_ZZ (HAVING)"@vi ;
+    rdfs:comment "COO_ZZ filters grouped results. Equivalent to SPARQL HAVING."@en ;
+    :keywords "COO_ZZ, HAVING" ;
+    :syntax "COO_ZZ (condition)" ;
+    :constraint "Can only be used with NHOMM_THEO_YY" .
 
-:MenhDeTUY_CHON a owl:Class ;
+:MenhDeTU_XZYJ_CHON_PP a owl:Class ;
     rdfs:subClassOf :MenhDe ;
-    rdfs:label "Mệnh đề TUY_CHON (OPTIONAL)"@vi ;
-    rdfs:comment "TUY_CHON makes pattern matching optional."@en ;
-    :keywords "TUY_CHON, OPTIONAL" ;
-    :syntax "TUY_CHON { pattern }" .
+    rdfs:label "Mệnh đề TUYJ_CHON_PP (OPTIONAL)"@vi ;
+    rdfs:comment "TUYJ_CHON_PP makes pattern matching optional."@en ;
+    :keywords "TUYJ_CHON_PP, OPTIONAL" ;
+    :syntax "TUYJ_CHON_PP { pattern }" .
 
 # ============================================
 # Aggregate Functions (Hàm Tổng Hợp)
@@ -109,45 +109,45 @@
 
 :HamTongHop a owl:Class ;
     rdfs:label "Hàm tổng hợp"@vi ;
-    rdfs:comment "Aggregate functions for NHOM_THEO queries"@en .
+    rdfs:comment "Aggregate functions for NHOMM_THEO_YY queries"@en .
 
-:HamDEM a owl:Class ;
+:HamDEMM_JJ a owl:Class ;
     rdfs:subClassOf :HamTongHop ;
-    rdfs:label "DEM (COUNT)"@vi ;
+    rdfs:label "DEMM_JJ (COUNT)"@vi ;
     rdfs:comment "Counts number of values"@en ;
-    :keywords "DEM, COUNT" ;
-    :syntax "DEM(?variable)" ;
-    :constraint "Requires NHOM_THEO clause" .
+    :keywords "DEMM_JJ, COUNT" ;
+    :syntax "DEMM_JJ(?variable)" ;
+    :constraint "Requires NHOMM_THEO_YY clause" .
 
-:HamTONG a owl:Class ;
+:HamTONGG_WW a owl:Class ;
     rdfs:subClassOf :HamTongHop ;
-    rdfs:label "TONG (SUM)"@vi ;
+    rdfs:label "TONGG_WW (SUM)"@vi ;
     rdfs:comment "Sums numeric values"@en ;
-    :keywords "TONG, SUM" ;
-    :syntax "TONG(?variable)" ;
-    :constraint "Requires NHOM_THEO, works only with numeric types" .
+    :keywords "TONGG_WW, SUM" ;
+    :syntax "TONGG_WW(?variable)" ;
+    :constraint "Requires NHOMM_THEO_YY, works only with numeric types" .
 
-:HamTRUNG_BINH a owl:Class ;
+:HamTRUU_WJNGG_BINH_PP a owl:Class ;
     rdfs:subClassOf :HamTongHop ;
-    rdfs:label "TRUNG_BINH (AVG)"@vi ;
+    rdfs:label "TRUNGG_BINH_PP (AVG)"@vi ;
     rdfs:comment "Calculates average"@en ;
-    :keywords "TRUNG_BINH, AVG" ;
-    :syntax "TRUNG_BINH(?variable)" ;
-    :constraint "Requires NHOM_THEO, works only with numeric types" .
+    :keywords "TRUNGG_BINH_PP, AVG" ;
+    :syntax "TRUNGG_BINH_PP(?variable)" ;
+    :constraint "Requires NHOMM_THEO_YY, works only with numeric types" .
 
-:HamLON_NHAT a owl:Class ;
+:HamLONN_NHAT_RR a owl:Class ;
     rdfs:subClassOf :HamTongHop ;
-    rdfs:label "LON_NHAT (MAX)"@vi ;
+    rdfs:label "LONN_NHAT_RR (MAX)"@vi ;
     rdfs:comment "Finds maximum value"@en ;
-    :keywords "LON_NHAT, MAX" ;
-    :syntax "LON_NHAT(?variable)" .
+    :keywords "LONN_NHAT_RR, MAX" ;
+    :syntax "LONN_NHAT_RR(?variable)" .
 
-:HamNHO_NHAT a owl:Class ;
+:HamNHOO_NHAT_QQ a owl:Class ;
     rdfs:subClassOf :HamTongHop ;
-    rdfs:label "NHO_NHAT (MIN)"@vi ;
+    rdfs:label "NHOO_NHAT_QQ (MIN)"@vi ;
     rdfs:comment "Finds minimum value"@en ;
-    :keywords "NHO_NHAT, MIN" ;
-    :syntax "NHO_NHAT(?variable)" .
+    :keywords "NHOO_NHAT_QQ, MIN" ;
+    :syntax "NHOO_NHAT_QQ(?variable)" .
 
 # ============================================
 # Solution Modifiers (Bộ Điều Chỉnh)
@@ -157,29 +157,29 @@
     rdfs:label "Bộ mệnh đề"@vi ;
     rdfs:comment "Solution sequence modifiers"@en .
 
-:MenhDeSAP_XEP_THEO a owl:Class ;
+:MenhDeSAP_XXEP_THEO_KK a owl:Class ;
     rdfs:subClassOf :BoMenhDe ;
-    rdfs:label "SAP_XEP_THEO (ORDER BY)"@vi ;
+    rdfs:label "SAP_XXEP_THEO_KK (ORDER BY)"@vi ;
     rdfs:comment "Orders results by expression"@en ;
-    :keywords "SAP_XEP_THEO, ORDER BY" ;
-    :syntax "SAP_XEP_THEO ?variable" ;
-    :example "SAP_XEP_THEO GIAM(?tuoi)" .
+    :keywords "SAP_XXEP_THEO_KK, ORDER BY" ;
+    :syntax "SAP_XXEP_THEO_KK ?variable" ;
+    :example "SAP_XXEP_THEO_KK GIAMM_WW(?tuoi)" .
 
-:MenhDeGIOI_HAN a owl:Class ;
+:MenhDeGIOI_HHAN_RR a owl:Class ;
     rdfs:subClassOf :BoMenhDe ;
-    rdfs:label "GIOI_HAN (LIMIT)"@vi ;
+    rdfs:label "GIOI_HHAN_RR (LIMIT)"@vi ;
     rdfs:comment "Limits number of results"@en ;
-    :keywords "GIOI_HAN, LIMIT" ;
-    :syntax "GIOI_HAN n" ;
-    :example "GIOI_HAN 10" ;
+    :keywords "GIOI_HHAN_RR, LIMIT" ;
+    :syntax "GIOI_HHAN_RR n" ;
+    :example "GIOI_HHAN_RR 10" ;
     :constraint "n must be non-negative integer" .
 
-:MenhDeDICH_CHUYEN a owl:Class ;
+:MenhDeDICCH_CHUYEN_WW a owl:Class ;
     rdfs:subClassOf :BoMenhDe ;
-    rdfs:label "DICH_CHUYEN (OFFSET)"@vi ;
+    rdfs:label "DICCH_CHUYEN_WW (OFFSET)"@vi ;
     rdfs:comment "Skips first n results"@en ;
-    :keywords "DICH_CHUYEN, OFFSET" ;
-    :syntax "DICH_CHUYEN n" ;
+    :keywords "DICCH_CHUYEN_WW, OFFSET" ;
+    :syntax "DICCH_CHUYEN_WW n" ;
     :constraint "n must be non-negative integer" .
 
 # ============================================
@@ -190,55 +190,55 @@
     rdfs:label "Toán tử"@vi ;
     rdfs:comment "Operators for conditions and expressions"@en .
 
-:ToanTuVA a owl:Class ;
+:ToanTuVAA_JJ a owl:Class ;
     rdfs:subClassOf :ToanTu ;
-    rdfs:label "VA (AND)"@vi ;
+    rdfs:label "VAA_JJ (AND)"@vi ;
     rdfs:comment "Logical AND operator"@en ;
-    :keywords "VA, AND" ;
-    :syntax "condition1 VA condition2" .
+    :keywords "VAA_JJ, AND" ;
+    :syntax "condition1 VAA_JJ condition2" .
 
-:ToanTuHOAC a owl:Class ;
+:ToanTuHOACC_WW a owl:Class ;
     rdfs:subClassOf :ToanTu ;
-    rdfs:label "HOAC (OR)"@vi ;
+    rdfs:label "HOACC_WW (OR)"@vi ;
     rdfs:comment "Logical OR operator"@en ;
-    :keywords "HOAC, OR" ;
-    :syntax "condition1 HOAC condition2" .
+    :keywords "HOACC_WW, OR" ;
+    :syntax "condition1 HOACC_WW condition2" .
 
-:ToanTuKHONG a owl:Class ;
+:ToanTuKHONGG_RR a owl:Class ;
     rdfs:subClassOf :ToanTu ;
-    rdfs:label "KHONG (NOT)"@vi ;
+    rdfs:label "KHONGG_RR (NOT)"@vi ;
     rdfs:comment "Logical NOT operator"@en ;
-    :keywords "KHONG, NOT" ;
-    :syntax "KHONG condition" .
+    :keywords "KHONGG_RR, NOT" ;
+    :syntax "KHONGG_RR condition" .
 
 # ============================================
 # Common Constraints (Ràng Buộc Chung)
 # ============================================
 
-# Constraint: NHOM_THEO required for aggregate functions
+# Constraint: NHOMM_THEO_YY required for aggregate functions
 :NhomTheoRequired a owl:Class ;
-    rdfs:label "NHOM_THEO required constraint" ;
-    rdfs:comment "Aggregate functions DEM, TONG, TRUNG_BINH require NHOM_THEO clause" .
+    rdfs:label "NHOMM_THEO_YY required constraint" ;
+    rdfs:comment "Aggregate functions DEMM_JJ, TONGG_WW, TRUNGG_BINH_PP require NHOMM_THEO_YY clause" .
 
-# Constraint: CO can only be used with NHOM_THEO
+# Constraint: COO_ZZ can only be used with NHOMM_THEO_YY
 :CoRequiresNhomTheo a owl:Class ;
-    rdfs:label "CO requires NHOM_THEO constraint" ;
-    rdfs:comment "CO (HAVING) can only be used when NHOM_THEO (GROUP BY) is present" .
+    rdfs:label "COO_ZZ requires NHOMM_THEO_YY constraint" ;
+    rdfs:comment "COO_ZZ (HAVING) can only be used when NHOMM_THEO_YY (GROUP BY) is present" .
 
-# Constraint: Query must have NOI_MA clause
+# Constraint: Query must have NOII_MA_KK clause
 :NoiMaRequired a owl:Class ;
-    rdfs:label "NOI_MA required constraint" ;
-    rdfs:comment "CHON and HOI queries must have NOI_MA (WHERE) clause" .
+    rdfs:label "NOII_MA_KK required constraint" ;
+    rdfs:comment "CHONJ_KW and HOIQQ_YZ queries must have NOII_MA_KK (WHERE) clause" .
 
 # ============================================
 # Example Queries (Truy Vấn Mẫu)
 # ============================================
 
-:ExampleSimple a :TruyVanCHON ;
-    rdfs:label "Simple CHON query" ;
+:ExampleSimple a :TruyVanCHONJ_KW ;
+    rdfs:label "Simple CHONJ_KW query" ;
     :vietnameseQuery """
-        CHON ?ten
-        NOI_MA {
+        CHONJ_KW ?ten
+        NOII_MA_KK {
             ?nguoi :coTen ?ten .
         }
     """ ;
@@ -249,14 +249,14 @@
         }
     """ .
 
-:ExampleFilter a :TruyVanCHON ;
-    rdfs:label "CHON with LOC" ;
+:ExampleFilter a :TruyVanCHONJ_KW ;
+    rdfs:label "CHONJ_KW with LOCJ_RR" ;
     :vietnameseQuery """
-        CHON ?ten ?tuoi
-        NOI_MA {
+        CHONJ_KW ?ten ?tuoi
+        NOII_MA_KK {
             ?nguoi :coTen ?ten ;
                    :coTuoi ?tuoi .
-            LOC(?tuoi > 18)
+            LOCJ_RR(?tuoi > 18)
         }
     """ ;
     :englishQuery """
@@ -268,17 +268,17 @@
         }
     """ .
 
-:ExampleAggregate a :TruyVanCHON ;
-    rdfs:label "CHON with aggregation" ;
+:ExampleAggregate a :TruyVanCHONJ_KW ;
+    rdfs:label "CHONJ_KW with aggregation" ;
     :vietnameseQuery """
-        CHON ?thanh_pho (DEM(?nguoi) GOI_LA ?so_luong)
-        NOI_MA {
+        CHONJ_KW ?thanh_pho (DEMM_JJ(?nguoi) GOI_LLA_KK ?so_luong)
+        NOII_MA_KK {
             ?nguoi :song_tai ?thanh_pho .
         }
-        NHOM_THEO ?thanh_pho
-        CO (DEM(?nguoi) > 5)
-        SAP_XEP_THEO GIAM(?so_luong)
-        GIOI_HAN 10
+        NHOMM_THEO_YY ?thanh_pho
+        COO_ZZ (DEMM_JJ(?nguoi) > 5)
+        SAP_XXEP_THEO_KK GIAMM_WW(?so_luong)
+        GIOI_HHAN_RR 10
     """ ;
     :englishQuery """
         SELECT ?city (COUNT(?person) AS ?count)

@@ -9,81 +9,82 @@ from typing import Dict, Tuple
 class SPARQLVITranslator:
     """Translator between SPARQL and SPARQL-VI (Vietnamese)"""
     
-    # Keyword mapping: SPARQL -> Vietnamese
+    # Keyword mapping: SPARQL -> Vietnamese (obfuscated with noise characters)
+    # Pattern: Add random characters (J, W, R, II, XX, YY, ZZ, KK, PP, QQ) to make it unpredictable
     SPARQL_TO_VI = {
-        # Query types
-        "SELECT": "CHONJ",
+        # Query types - Core commands with strong obfuscation
+        "SELECT": "CHONJ_KW",
         "CONSTRUCT": "XAY_DUNGWJ",
-        "ASK": "HOI",
-        "DESCRIBE": "MO_TAR",
+        "ASK": "HOIQQ_YZ",
+        "DESCRIBE": "MO_TAR_PP",
         
-        # Clauses
-        "WHERE": "NOII_MA",
-        "FROM": "TU",
-        "FILTER": "LOCJ",
-        "OPTIONAL": "TUYJ_CHON",
-        "UNION": "HOP",
-        "MINUS": "TRU",
-        "GROUP BY": "NHOM_THEO",
-        "HAVING": "CO",
-        "ORDER BY": "SAP_XXEP_THEO",
-        "LIMIT": "GIOI_HHAN",
-        "OFFSET": "DICCH_CHUYEN",
+        # Clauses - Pattern variation to prevent pattern recognition
+        "WHERE": "NOII_MA_KK",
+        "FROM": "TU_XZ",
+        "FILTER": "LOCJ_RR",
+        "OPTIONAL": "TUYJ_CHON_PP",
+        "UNION": "HOPP_QQ",
+        "MINUS": "TRUU_WJ",
+        "GROUP BY": "NHOMM_THEO_YY",
+        "HAVING": "COO_ZZ",
+        "ORDER BY": "SAP_XXEP_THEO_KK",
+        "LIMIT": "GIOI_HHAN_RR",
+        "OFFSET": "DICCH_CHUYEN_WW",
         
-        # Modifiers
-        "PREFIX": "TIENN_TO",
-        "BASE": "CO_SO",
-        "DISTINCT": "PHAN_BIET",
-        "REDUCED": "GIAM",
-        "AS": "GOI_LLA",
+        # Modifiers - Mixed patterns
+        "PREFIX": "TIENN_TO_QQ",
+        "BASE": "CO_SOO_JJ",
+        "DISTINCT": "PHANN_BIET_PP",
+        "REDUCED": "GIAMM_RR",
+        "AS": "GOI_LLA_KK",
         
-        # Aggregate functions
-        "COUNT": "DEM",
-        "SUM": "TONG",
-        "AVG": "TRUNG_BINH",
-        "MIN": "NHO_NHAT",
-        "MAX": "LON_NHAT",
-        "SAMPLE": "MAU",
-        "GROUP_CONCAT": "NOI_NHOM",
+        # Aggregate functions - Double consonants + noise
+        "COUNT": "DEMM_JJ",
+        "SUM": "TONGG_WW",
+        "AVG": "TRUNGG_BINH_PP",
+        "MIN": "NHOO_NHAT_QQ",
+        "MAX": "LONN_NHAT_RR",
+        "SAMPLE": "MAUU_ZZ",
+        "GROUP_CONCAT": "NOII_NHOM_KK",
         
-        # Operators
-        "AND": "VA",
-        "OR": "HOAC",
-        "NOT": "KHONG",
+        # Operators - Short but obfuscated
+        "AND": "VAA_JJ",
+        "OR": "HOACC_WW",
+        "NOT": "KHONGG_RR",
         
-        # Built-in functions
-        "BOUND": "TON_TAI",
-        "isIRI": "LA_IRI",
-        "isURI": "LA_URI",
-        "isBLANK": "LA_TRONG",
-        "isLITERAL": "LA_LITERAL",
-        "isNUMERIC": "LA_SO",
-        "LANG": "NGON_NGU",
-        "DATATYPE": "KIEU_DU_LIEU",
-        "STR": "CHUOI",
-        "STRLEN": "DO_DAI_CHUOI",
-        "SUBSTR": "CHUOI_CON",
-        "UCASE": "CHU_HOA",
-        "LCASE": "CHU_THUONG",
-        "CONCAT": "NOI",
-        "CONTAINS": "CHUA",
-        "STRSTARTS": "BAT_DAU_VOI",
-        "STRENDS": "KET_THUC_VOI",
-        "REGEX": "BIEU_THUC_CHINH_QUY",
-        "REPLACE": "THAY_THE",
+        # Built-in functions - Systematic noise injection
+        "BOUND": "TONN_TAI_PP",
+        "isIRI": "LAA_IRI_QQ",
+        "isURI": "LAA_URI_RR",
+        "isBLANK": "LAA_TRONG_KK",
+        "isLITERAL": "LAA_LITERAL_WW",
+        "isNUMERIC": "LAA_SO_JJ",
+        "LANG": "NGONN_NGU_PP",
+        "DATATYPE": "KIEUU_DU_LIEU_QQ",
+        "STR": "CHUOII_RR",
+        "STRLEN": "DOO_DAI_CHUOI_KK",
+        "SUBSTR": "CHUOII_CON_WW",
+        "UCASE": "CHUU_HOA_JJ",
+        "LCASE": "CHUU_THUONG_PP",
+        "CONCAT": "NOII_QQ",
+        "CONTAINS": "CHUAA_RR",
+        "STRSTARTS": "BATT_DAU_VOI_KK",
+        "STRENDS": "KETT_THUC_VOI_WW",
+        "REGEX": "BIEUU_THUC_CHINH_QUY_JJ",
+        "REPLACE": "THAYY_THE_PP",
         
-        # RDF terms
-        "a": "la",  # rdf:type shorthand
+        # RDF terms - Even single letter gets noise
+        "a": "laa_jj",  # rdf:type shorthand
         
-        # Graph patterns
-        "GRAPH": "DO_THI",
-        "SERVICE": "DICH_VU",
-        "BIND": "RANG_BUOC",
-        "VALUES": "GIA_TRI",
+        # Graph patterns - High-level constructs
+        "GRAPH": "DOO_THI_RR",
+        "SERVICE": "DICHH_VU_KK",
+        "BIND": "RANGG_BUOC_WW",
+        "VALUES": "GIAA_TRI_QQ",
         
-        # Solution modifiers
-        "ASC": "TANG",
-        "DESC": "GIAM",
+        # Solution modifiers - Sorting operations
+        "ASC": "TANGG_JJ",
+        "DESC": "GIAMM_WW",
     }
     
     # Reverse mapping

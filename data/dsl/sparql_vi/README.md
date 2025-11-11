@@ -11,44 +11,79 @@ SPARQL-VI is a Vietnamese variant of SPARQL designed to test OG-RAG (Ontology-Gu
 - Complex constraints (type checking, cardinality, operator precedence)
 - Multiple query types (SELECT, CONSTRUCT, ASK, DESCRIBE)
 
-### 2. **Vietnamese keywords force context reliance**
-- `CHON` instead of `SELECT` → LLM has 0% prior knowledge
-- `NOI_MA` instead of `WHERE` → Must retrieve from ontology
-- `DEM` instead of `COUNT` → Cannot guess meaning
+### 2. **Aggressive obfuscation prevents guessing**
+- **Strategy**: Double consonants + random noise suffixes (_JJ, _WW, _KK, _PP, _QQ, _RR, _ZZ, _YY)
+- `CHONJ_KW` instead of `SELECT` → LLM cannot recognize pattern
+- `NOII_MA_KK` instead of `WHERE` → No correlation to Vietnamese "nơi mà"
+- `DEMM_JJ` instead of `COUNT` → Impossible to guess from "đếm"
+- **No consistent pattern**: Each keyword has different suffix to prevent pattern learning
+- **Result**: LLM has ~0% prior knowledge, **must use ontology context**
 
 ### 3. **Validation is straightforward**
 - SPARQL-VI → SPARQL → Parse → Execute
 - Clear success/failure criteria
+- Bidirectional translator ensures consistency
 
 ## Keyword Mapping
 
-| SPARQL | SPARQL-VI | Vietnamese Meaning |
-|--------|-----------|-------------------|
-| SELECT | CHON | Choose/Select |
-| WHERE | NOI_MA | Where/At which |
-| FILTER | LOC | Filter |
-| GROUP BY | NHOM_THEO | Group by |
-| HAVING | CO | Have/Having |
-| ORDER BY | SAP_XEP_THEO | Sort by |
-| LIMIT | GIOI_HAN | Limit |
-| OFFSET | DICH_CHUYEN | Offset/Shift |
-| COUNT | DEM | Count |
-| SUM | TONG | Sum/Total |
-| AVG | TRUNG_BINH | Average |
-| MAX | LON_NHAT | Maximum |
-| MIN | NHO_NHAT | Minimum |
-| DISTINCT | PHAN_BIET | Distinct |
-| AS | GOI_LA | Called/Named as |
-| OPTIONAL | TUY_CHON | Optional |
-| UNION | HOP | Union |
-| CONSTRUCT | XAY_DUNG | Construct/Build |
-| ASK | HOI | Ask |
-| DESCRIBE | MO_TA | Describe |
-| AND | VA | And |
-| OR | HOAC | Or |
-| NOT | KHONG | Not |
-| ASC | TANG | Ascending |
-| DESC | GIAM | Descending |
+| SPARQL | SPARQL-VI | Vietnamese Meaning | Obfuscation |
+|--------|-----------|-------------------|-------------|
+| SELECT | CHONJ_KW | Choose/Select | Double consonant + random suffix |
+| WHERE | NOII_MA_KK | Where/At which | Doubled vowel + _KK |
+| FILTER | LOCJ_RR | Filter | Added J + _RR |
+| GROUP BY | NHOMM_THEO_YY | Group by | Double M + _YY |
+| HAVING | COO_ZZ | Have/Having | Double O + _ZZ |
+| ORDER BY | SAP_XXEP_THEO_KK | Sort by | XX instead of X + _KK |
+| LIMIT | GIOI_HHAN_RR | Limit | Double H + _RR |
+| OFFSET | DICCH_CHUYEN_WW | Offset/Shift | Double C + _WW |
+| COUNT | DEMM_JJ | Count | Double M + _JJ |
+| SUM | TONGG_WW | Sum/Total | Double G + _WW |
+| AVG | TRUNGG_BINH_PP | Average | Double G + _PP |
+| MAX | LONN_NHAT_RR | Maximum | Double N + _RR |
+| MIN | NHOO_NHAT_QQ | Minimum | Double O + _QQ |
+| DISTINCT | PHANN_BIET_PP | Distinct | Double N + _PP |
+| AS | GOI_LLA_KK | Called/Named as | Double L + _KK |
+| OPTIONAL | TUYJ_CHON_PP | Optional | Added J + _PP |
+| UNION | HOPP_QQ | Union | Double P + _QQ |
+| CONSTRUCT | XAY_DUNGWJ | Construct/Build | Added W + J |
+| ASK | HOIQQ_YZ | Ask | Double Q + _YZ |
+| DESCRIBE | MO_TAR_PP | Describe | Added R + _PP |
+| AND | VAA_JJ | And | Double A + _JJ |
+| OR | HOACC_WW | Or | Double C + _WW |
+| NOT | KHONGG_RR | Not | Double G + _RR |
+| ASC | TANGG_JJ | Ascending | Double G + _JJ |
+| DESC | GIAMM_WW | Descending | Double M + _WW |
+| FROM | TU_XZ | From | Added _XZ |
+| MINUS | TRUU_WJ | Minus | Double U + _WJ |
+| PREFIX | TIENN_TO_QQ | Prefix | Double N + _QQ |
+| BASE | CO_SOO_JJ | Base | Double O + _JJ |
+| REDUCED | GIAMM_RR | Reduced | Double M + _RR |
+| SAMPLE | MAUU_ZZ | Sample | Double U + _ZZ |
+| GROUP_CONCAT | NOII_NHOM_KK | Group Concat | Double I + _KK |
+| BOUND | TONN_TAI_PP | Bound/Exists | Double N + _PP |
+| isIRI | LAA_IRI_QQ | Is IRI | Double A + _QQ |
+| isURI | LAA_URI_RR | Is URI | Double A + _RR |
+| isBLANK | LAA_TRONG_KK | Is Blank | Double A + _KK |
+| isLITERAL | LAA_LITERAL_WW | Is Literal | Double A + _WW |
+| isNUMERIC | LAA_SO_JJ | Is Numeric | Double A + _JJ |
+| LANG | NGONN_NGU_PP | Language | Double N + _PP |
+| DATATYPE | KIEUU_DU_LIEU_QQ | Datatype | Double U + _QQ |
+| STR | CHUOII_RR | String | Double I + _RR |
+| STRLEN | DOO_DAI_CHUOI_KK | String Length | Double O + _KK |
+| SUBSTR | CHUOII_CON_WW | Substring | Double I + _WW |
+| UCASE | CHUU_HOA_JJ | Uppercase | Double U + _JJ |
+| LCASE | CHUU_THUONG_PP | Lowercase | Double U + _PP |
+| CONCAT | NOII_QQ | Concatenate | Double I + _QQ |
+| CONTAINS | CHUAA_RR | Contains | Double A + _RR |
+| STRSTARTS | BATT_DAU_VOI_KK | Starts With | Double T + _KK |
+| STRENDS | KETT_THUC_VOI_WW | Ends With | Double T + _WW |
+| REGEX | BIEUU_THUC_CHINH_QUY_JJ | Regular Expression | Double U + _JJ |
+| REPLACE | THAYY_THE_PP | Replace | Double Y + _PP |
+| a (rdf:type) | laa_jj | Is a / type | Double a + _jj |
+| GRAPH | DOO_THI_RR | Graph | Double O + _RR |
+| SERVICE | DICHH_VU_KK | Service | Double H + _KK |
+| BIND | RANGG_BUOC_WW | Bind | Double G + _WW |
+| VALUES | GIAA_TRI_QQ | Values | Double A + _QQ |
 
 ## Project Structure
 
@@ -66,36 +101,36 @@ dsl/
 
 ### Classes (Loại)
 - **TruyVan** (Query): Base class
-  - **TruyVanCHON** (SELECT Query)
-  - **TruyVanXAY_DUNG** (CONSTRUCT Query)
-  - **TruyVanHOI** (ASK Query)
-  - **TruyVanMO_TA** (DESCRIBE Query)
+  - **TruyVanCHONJ_KW** (SELECT Query)
+  - **TruyVanXAY_DUNGWJ** (CONSTRUCT Query)
+  - **TruyVanHOIQQ_YZ** (ASK Query)
+  - **TruyVanMO_TAR_PP** (DESCRIBE Query)
 
 - **MenhDe** (Clause): Base class
-  - **MenhDeNOI_MA** (WHERE Clause)
-  - **MenhDeLOC** (FILTER Clause)
-  - **MenhDeNHOM_THEO** (GROUP BY Clause)
-  - **MenhDeCO** (HAVING Clause)
-  - **MenhDeTUY_CHON** (OPTIONAL Clause)
+  - **MenhDeNOII_MA_KK** (WHERE Clause)
+  - **MenhDeLOCJ_RR** (FILTER Clause)
+  - **MenhDeNHOMM_THEO_YY** (GROUP BY Clause)
+  - **MenhDeCOO_ZZ** (HAVING Clause)
+  - **MenhDeTUYJ_CHON_PP** (OPTIONAL Clause)
 
 - **HamTongHop** (Aggregate Function): Base class
-  - **HamDEM** (COUNT)
-  - **HamTONG** (SUM)
-  - **HamTRUNG_BINH** (AVG)
-  - **HamLON_NHAT** (MAX)
-  - **HamNHO_NHAT** (MIN)
+  - **HamDEMM_JJ** (COUNT)
+  - **HamTONGG_WW** (SUM)
+  - **HamTRUNGG_BINH_PP** (AVG)
+  - **HamLONN_NHAT_RR** (MAX)
+  - **HamNHOO_NHAT_QQ** (MIN)
 
 ### Constraints (Ràng Buộc)
 Each class has formal constraints in the ontology:
 
 ```turtle
-:MenhDeCO a owl:Class ;
-    rdfs:label "CO (HAVING)"@vi ;
-    :constraint "Can only be used with NHOM_THEO" .
+:MenhDeCOO_ZZ a owl:Class ;
+    rdfs:label "COO_ZZ (HAVING)"@vi ;
+    :constraint "Can only be used with NHOMM_THEO_YY" .
 
-:HamDEM a owl:Class ;
-    rdfs:label "DEM (COUNT)"@vi ;
-    :constraint "Requires NHOM_THEO clause" .
+:HamDEMM_JJ a owl:Class ;
+    rdfs:label "DEMM_JJ (COUNT)"@vi ;
+    :constraint "Requires NHOMM_THEO_YY clause" .
 ```
 
 ## Test Dataset
@@ -131,9 +166,9 @@ Each class has formal constraints in the ontology:
   "level": "complex",
   "category": "nested_aggregation",
   "nl_query": "Tìm top 10 thành phố có nhiều người nhất",
-  "expected_vi": "CHON ?thanh_pho (DEM(?nguoi) GOI_LA ?so) NOI_MA { ?nguoi :song_tai ?thanh_pho } NHOM_THEO ?thanh_pho SAP_XEP_THEO GIAM(?so) GIOI_HAN 10",
+  "expected_vi": "CHONJ_KW ?thanh_pho (DEMM_JJ(?nguoi) GOI_LLA_KK ?so) NOII_MA_KK { ?nguoi :song_tai ?thanh_pho } NHOMM_THEO_YY ?thanh_pho SAP_XXEP_THEO_KK GIAMM_WW(?so) GIOI_HHAN_RR 10",
   "expected_sparql": "SELECT ?city (COUNT(?person) AS ?count) WHERE { ?person :livesIn ?city } GROUP BY ?city ORDER BY DESC(?count) LIMIT 10",
-  "concepts": ["CHON", "NOI_MA", "DEM", "NHOM_THEO", "SAP_XEP_THEO", "GIAM", "GIOI_HAN"],
+  "concepts": ["CHONJ_KW", "NOII_MA_KK", "DEMM_JJ", "NHOMM_THEO_YY", "SAP_XXEP_THEO_KK", "GIAMM_WW", "GIOI_HHAN_RR"],
   "validation": {
     "syntax_valid": true,
     "requires_groupby": true
