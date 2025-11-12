@@ -1,0 +1,1412 @@
+{
+  "@graph": [
+    {
+      "@type": "DomainClass",
+      "identifier": ":Person",
+      "label": "Person",
+      "description": "A human user in the system. Typical questions: 'list all users', 'average age of users', 'users who live in the same city', 'friends of a person'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:alice",
+        "ex:bob"
+      ],
+      "related_properties": [
+        {
+          "property": ":hasName",
+          "label": "name",
+          "description": "The name of a person, customer, employee, or product. Example questions: 'list user names', 'names of all products', 'customers whose name starts with A'.",
+          "range": "xsd:string",
+          "example_triples": [
+            "ex:alice :hasName \"Alice\" ."
+          ]
+        },
+        {
+          "property": ":hasEmail",
+          "label": "email",
+          "description": "The email address of a person or customer. Example questions: 'find emails of all customers', 'list users with missing email (OPTIONAL)'.",
+          "range": "xsd:string",
+          "example_triples": [
+            "ex:alice :hasEmail \"alice@example.com\" ."
+          ]
+        },
+        {
+          "property": ":hasPhone",
+          "label": "phone number",
+          "description": "The phone number of a person, customer, or supplier.",
+          "range": "xsd:string",
+          "example_triples": [
+            "ex:alice :hasPhone \"+44-123-456\" ."
+          ]
+        },
+        {
+          "property": ":hasAge",
+          "label": "age",
+          "description": "The age of a person in years. Typical questions: 'users older than 18', 'average age of users', 'youngest or oldest user age'.",
+          "range": "xsd:integer",
+          "example_triples": [
+            "ex:alice :hasAge 25 ."
+          ]
+        },
+        {
+          "property": ":livesIn",
+          "label": "lives in",
+          "description": "Links a person to the city they live in. Typical questions: 'users who live in London', 'users living in the same city', 'number of users per city'.",
+          "range": ":City",
+          "example_triples": [
+            "ex:alice :livesIn ex:London ."
+          ]
+        },
+        {
+          "property": ":hasAddress",
+          "label": "has address",
+          "description": "Links a person, customer, warehouse, or supplier to an address.",
+          "range": ":Address",
+          "example_triples": [
+            "ex:customer1 :hasAddress ex:addr1 ."
+          ]
+        },
+        {
+          "property": ":friendOf",
+          "label": "friend of",
+          "description": "Friendship relationship between two persons. Typical questions: 'friends of a given user', 'create friendship relations between people who live in the same city'.",
+          "range": ":Person",
+          "example_triples": [
+            "ex:alice :friendOf ex:bob ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Customer",
+      "label": "Customer",
+      "description": "A person who places orders. A customer is also a person. Typical questions: 'orders per customer', 'total spending of each customer'.",
+      "subclass_of": ":Person",
+      "example_individuals": [
+        "ex:customer1"
+      ],
+      "related_properties": [
+        {
+          "property": ":placedOrder",
+          "label": "placed order",
+          "description": "Links a customer to an order they placed. Typical questions: 'orders for each customer', 'customers who placed more than 5 orders'.",
+          "range": ":Order",
+          "example_triples": [
+            "ex:customer1 :placedOrder ex:order1 ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Employee",
+      "label": "Employee",
+      "description": "An employee working for the company, such as sales staff or warehouse managers. Typical questions: 'orders handled by each employee', 'employees per warehouse'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:employee1"
+      ],
+      "related_properties": [
+        {
+          "property": ":employedAt",
+          "label": "employed at",
+          "description": "Links an employee to the warehouse or company where they work.",
+          "range": ":Warehouse",
+          "example_triples": [
+            "ex:employee1 :employedAt ex:Warehouse1 ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":City",
+      "label": "City",
+      "description": "A city where people live. Typical questions: 'users who live in London', 'number of users per city', 'friends living in the same city'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:London",
+        "ex:Paris"
+      ],
+      "related_properties": [
+        {
+          "property": ":cityInCountry",
+          "label": "city in country",
+          "description": "Links a city to its country. Typical questions: 'cities in each country', 'orders grouped by country via the city of the customer'.",
+          "range": ":Country",
+          "example_triples": [
+            "ex:London :cityInCountry ex:UK ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Country",
+      "label": "Country",
+      "description": "A country that contains cities, warehouses, and customers. Typical questions: 'orders per country', 'customers by country'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:UK",
+        "ex:France"
+      ],
+      "related_properties": []
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Address",
+      "label": "Address",
+      "description": "A physical address, usually associated with a person, warehouse, or shipment destination.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:addr1"
+      ],
+      "related_properties": [
+        {
+          "property": ":streetLine",
+          "label": "street line",
+          "description": "Street line of an address, for example '221B Baker Street'.",
+          "range": "xsd:string",
+          "example_triples": [
+            "ex:addr1 :streetLine \"221B Baker Street\" ."
+          ]
+        },
+        {
+          "property": ":postalCode",
+          "label": "postal code",
+          "description": "Postal or ZIP code of an address.",
+          "range": "xsd:string",
+          "example_triples": [
+            "ex:addr1 :postalCode \"NW1 6XE\" ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Product",
+      "label": "Product",
+      "description": "A product that can be purchased in the system. Typical questions: 'products with price greater than 100', 'average price per category', 'top 10 most expensive products'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:product1",
+        "ex:product2"
+      ],
+      "related_properties": [
+        {
+          "property": ":hasBrand",
+          "label": "has brand",
+          "description": "Links a product to its brand.",
+          "range": ":Brand",
+          "example_triples": [
+            "ex:product1 :hasBrand ex:BrandA ."
+          ]
+        },
+        {
+          "property": ":productName",
+          "label": "product name",
+          "description": "The human-readable name of a product. Typical questions: 'list product names', 'products whose name contains \"phone\"'.",
+          "range": "xsd:string",
+          "example_triples": [
+            "ex:product1 :productName \"Smartphone X\" ."
+          ]
+        },
+        {
+          "property": ":sku",
+          "label": "SKU",
+          "description": "Stock keeping unit identifier of a product.",
+          "range": "xsd:string",
+          "example_triples": [
+            "ex:product1 :sku \"SKU-12345\" ."
+          ]
+        },
+        {
+          "property": ":hasPrice",
+          "label": "product price",
+          "description": "The base price of a product. Typical questions: 'products with price greater than 100', 'average product price per category'.",
+          "range": "xsd:decimal",
+          "example_triples": [
+            "ex:product1 :hasPrice 299.99 ."
+          ]
+        },
+        {
+          "property": ":inCategory",
+          "label": "in category",
+          "description": "Links a product to its category. Typical questions: 'products in the Electronics category', 'number of products per category'.",
+          "range": ":Category",
+          "example_triples": [
+            "ex:product1 :inCategory ex:Electronics ."
+          ]
+        },
+        {
+          "property": ":suppliedBy",
+          "label": "supplied by",
+          "description": "Links a product to its supplier.",
+          "range": ":Supplier",
+          "example_triples": [
+            "ex:product1 :suppliedBy ex:Supplier1 ."
+          ]
+        },
+        {
+          "property": ":taggedWith",
+          "label": "tagged with",
+          "description": "Links a product to a tag.",
+          "range": ":Tag",
+          "example_triples": [
+            "ex:product1 :taggedWith ex:tag1 ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Brand",
+      "label": "Brand",
+      "description": "A brand or manufacturer of products. Typical questions: 'products of each brand', 'top brands by sales'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:BrandA"
+      ],
+      "related_properties": []
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Category",
+      "label": "Category",
+      "description": "A product category, such as 'Electronics', 'Books', or 'Clothing'. Typical questions: 'products in the Electronics category', 'number of products per category'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:Electronics",
+        "ex:Books"
+      ],
+      "related_properties": []
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Supplier",
+      "label": "Supplier",
+      "description": "A supplier providing products to the company. Typical questions: 'products from each supplier', 'total quantity purchased from a supplier'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:Supplier1"
+      ],
+      "related_properties": []
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Warehouse",
+      "label": "Warehouse",
+      "description": "A warehouse where products are stored. Typical questions: 'inventory per warehouse', 'orders shipped from each warehouse'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:Warehouse1"
+      ],
+      "related_properties": []
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":InventoryItem",
+      "label": "Inventory item",
+      "description": "An inventory record indicating the quantity of a product in a warehouse.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:inv1"
+      ],
+      "related_properties": [
+        {
+          "property": ":warehouseFor",
+          "label": "warehouse for",
+          "description": "Links an inventory item to the warehouse it belongs to.",
+          "range": ":Warehouse",
+          "example_triples": [
+            "ex:inv1 :warehouseFor ex:Warehouse1 ."
+          ]
+        },
+        {
+          "property": ":inventoryOfProduct",
+          "label": "inventory of product",
+          "description": "Links an inventory item to the product being stocked.",
+          "range": ":Product",
+          "example_triples": [
+            "ex:inv1 :inventoryOfProduct ex:product1 ."
+          ]
+        },
+        {
+          "property": ":quantityInStock",
+          "label": "quantity in stock",
+          "description": "Quantity of a product currently in stock at a warehouse.",
+          "range": "xsd:integer",
+          "example_triples": [
+            "ex:inv1 :quantityInStock 100 ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Order",
+      "label": "Order",
+      "description": "A purchase order placed by a customer. Typical questions: 'orders of each customer', 'orders with total amount greater than 1000', 'number of orders per city'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:order1"
+      ],
+      "related_properties": [
+        {
+          "property": ":orderDate",
+          "label": "order date",
+          "description": "The date and time when an order was placed. Typical questions: 'orders in the last 30 days', 'orders placed in 2024'.",
+          "range": "xsd:dateTime",
+          "example_triples": [
+            "ex:order1 :orderDate \"2024-01-15T10:30:00\"^^xsd:dateTime ."
+          ]
+        },
+        {
+          "property": ":orderTotal",
+          "label": "order total",
+          "description": "The total monetary amount of an order. Typical questions: 'orders with total amount greater than 1000', 'maximum order total', 'average order total per customer'.",
+          "range": "xsd:decimal",
+          "example_triples": [
+            "ex:order1 :orderTotal 250.50 ."
+          ]
+        },
+        {
+          "property": ":orderCurrency",
+          "label": "order currency",
+          "description": "Currency in which the order is charged.",
+          "range": ":Currency",
+          "example_triples": [
+            "ex:order1 :orderCurrency ex:USD ."
+          ]
+        },
+        {
+          "property": ":hasItem",
+          "label": "has item",
+          "description": "Links an order to its order items. Typical questions: 'items of each order', 'products contained in an order'.",
+          "range": ":OrderItem",
+          "example_triples": [
+            "ex:order1 :hasItem ex:orderItem1 ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":OrderItem",
+      "label": "Order item",
+      "description": "An item within an order that refers to a specific product and quantity. Typical questions: 'products in an order', 'total quantity of each product sold'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:orderItem1"
+      ],
+      "related_properties": [
+        {
+          "property": ":itemOfProduct",
+          "label": "item of product",
+          "description": "Links an order item to the product it refers to. Typical questions: 'products sold in each order', 'total quantity sold per product'.",
+          "range": ":Product",
+          "example_triples": [
+            "ex:orderItem1 :itemOfProduct ex:product1 ."
+          ]
+        },
+        {
+          "property": ":quantity",
+          "label": "quantity",
+          "description": "The quantity of a product in an order item or cart item. Typical questions: 'total quantity of each product sold', 'order items with quantity greater than 10'.",
+          "range": "xsd:integer",
+          "example_triples": [
+            "ex:orderItem1 :quantity 3 ."
+          ]
+        },
+        {
+          "property": ":unitPrice",
+          "label": "unit price",
+          "description": "The price per unit of a product in an order item.",
+          "range": "xsd:decimal",
+          "example_triples": [
+            "ex:orderItem1 :unitPrice 99.90 ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Payment",
+      "label": "Payment",
+      "description": "A payment made for an order. Typical questions: 'payment status of orders', 'total amount paid per customer'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:payment1"
+      ],
+      "related_properties": [
+        {
+          "property": ":forOrder",
+          "label": "payment for order",
+          "description": "Links a payment to the order it pays for.",
+          "range": ":Order",
+          "example_triples": [
+            "ex:payment1 :forOrder ex:order1 ."
+          ]
+        },
+        {
+          "property": ":paymentMethod",
+          "label": "payment method",
+          "description": "Payment method such as credit card, bank transfer, or cash.",
+          "range": "xsd:string",
+          "example_triples": [
+            "ex:payment1 :paymentMethod \"credit_card\" ."
+          ]
+        },
+        {
+          "property": ":paymentStatus",
+          "label": "payment status",
+          "description": "Status of a payment, such as 'pending', 'completed', 'failed'.",
+          "range": "xsd:string",
+          "example_triples": [
+            "ex:payment1 :paymentStatus \"completed\" ."
+          ]
+        },
+        {
+          "property": ":paidAmount",
+          "label": "paid amount",
+          "description": "The amount of money actually paid in a payment.",
+          "range": "xsd:decimal",
+          "example_triples": [
+            "ex:payment1 :paidAmount 250.50 ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Invoice",
+      "label": "Invoice",
+      "description": "An invoice issued for an order. Typical questions: 'invoices per customer', 'unpaid invoices'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:invoice1"
+      ],
+      "related_properties": [
+        {
+          "property": ":invoiceForOrder",
+          "label": "invoice for order",
+          "description": "Links an invoice to the order it is issued for.",
+          "range": ":Order",
+          "example_triples": [
+            "ex:invoice1 :invoiceForOrder ex:order1 ."
+          ]
+        },
+        {
+          "property": ":invoiceNumber",
+          "label": "invoice number",
+          "description": "Invoice identifier.",
+          "range": "xsd:string",
+          "example_triples": [
+            "ex:invoice1 :invoiceNumber \"INV-2024-001\" ."
+          ]
+        },
+        {
+          "property": ":invoiceDate",
+          "label": "invoice date",
+          "description": "Date when the invoice was issued.",
+          "range": "xsd:dateTime",
+          "example_triples": [
+            "ex:invoice1 :invoiceDate \"2024-01-16T09:00:00\"^^xsd:dateTime ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Shipment",
+      "label": "Shipment",
+      "description": "A shipment that delivers an order to a destination. Typical questions: 'shipments per warehouse', 'late shipments'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:shipment1"
+      ],
+      "related_properties": [
+        {
+          "property": ":shipmentForOrder",
+          "label": "shipment for order",
+          "description": "Links a shipment to the order it delivers.",
+          "range": ":Order",
+          "example_triples": [
+            "ex:shipment1 :shipmentForOrder ex:order1 ."
+          ]
+        },
+        {
+          "property": ":shippedFrom",
+          "label": "shipped from warehouse",
+          "description": "Warehouse from which a shipment is sent.",
+          "range": ":Warehouse",
+          "example_triples": [
+            "ex:shipment1 :shippedFrom ex:Warehouse1 ."
+          ]
+        },
+        {
+          "property": ":shippedTo",
+          "label": "shipped to address",
+          "description": "Address where a shipment is delivered.",
+          "range": ":Address",
+          "example_triples": [
+            "ex:shipment1 :shippedTo ex:addr1 ."
+          ]
+        },
+        {
+          "property": ":shipmentDate",
+          "label": "shipment date",
+          "description": "Date when the shipment was sent.",
+          "range": "xsd:dateTime",
+          "example_triples": [
+            "ex:shipment1 :shipmentDate \"2024-01-16T12:00:00\"^^xsd:dateTime ."
+          ]
+        },
+        {
+          "property": ":deliveredDate",
+          "label": "delivered date",
+          "description": "Date when the shipment was delivered.",
+          "range": "xsd:dateTime",
+          "example_triples": [
+            "ex:shipment1 :deliveredDate \"2024-01-18T15:30:00\"^^xsd:dateTime ."
+          ]
+        },
+        {
+          "property": ":trackingNumber",
+          "label": "tracking number",
+          "description": "Tracking number of a shipment.",
+          "range": "xsd:string",
+          "example_triples": [
+            "ex:shipment1 :trackingNumber \"TRACK-123\" ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Cart",
+      "label": "Cart",
+      "description": "A shopping cart belonging to a customer. Typical questions: 'items in a cart', 'abandoned carts'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:cart1"
+      ],
+      "related_properties": [
+        {
+          "property": ":cartOfCustomer",
+          "label": "cart of customer",
+          "description": "Links a cart to the customer it belongs to.",
+          "range": ":Customer",
+          "example_triples": [
+            "ex:cart1 :cartOfCustomer ex:customer1 ."
+          ]
+        },
+        {
+          "property": ":cartHasItem",
+          "label": "cart has item",
+          "description": "Links a cart to its cart items.",
+          "range": ":CartItem",
+          "example_triples": [
+            "ex:cart1 :cartHasItem ex:cartItem1 ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":CartItem",
+      "label": "Cart item",
+      "description": "An item inside a shopping cart referencing a product and quantity.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:cartItem1"
+      ],
+      "related_properties": [
+        {
+          "property": ":cartItemProduct",
+          "label": "cart item product",
+          "description": "Links a cart item to the product it refers to.",
+          "range": ":Product",
+          "example_triples": [
+            "ex:cartItem1 :cartItemProduct ex:product1 ."
+          ]
+        },
+        {
+          "property": ":cartItemQuantity",
+          "label": "cart item quantity",
+          "description": "Quantity of the product in the cart item.",
+          "range": "xsd:integer",
+          "example_triples": [
+            "ex:cartItem1 :cartItemQuantity 2 ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Review",
+      "label": "Review",
+      "description": "A text review written by a customer about a product. Typical questions: 'reviews for a given product', 'customers who wrote reviews'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:review1"
+      ],
+      "related_properties": [
+        {
+          "property": ":reviewOfProduct",
+          "label": "review of product",
+          "description": "Links a review to the product it is about.",
+          "range": ":Product",
+          "example_triples": [
+            "ex:review1 :reviewOfProduct ex:product1 ."
+          ]
+        },
+        {
+          "property": ":reviewByCustomer",
+          "label": "review by customer",
+          "description": "Links a review to the customer who wrote it.",
+          "range": ":Customer",
+          "example_triples": [
+            "ex:review1 :reviewByCustomer ex:customer1 ."
+          ]
+        },
+        {
+          "property": ":reviewText",
+          "label": "review text",
+          "description": "Text content of a review.",
+          "range": "xsd:string",
+          "example_triples": [
+            "ex:review1 :reviewText \"Great product!\" ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Rating",
+      "label": "Rating",
+      "description": "A numeric rating (for example 1–5 stars) given by a customer to a product.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:rating1"
+      ],
+      "related_properties": [
+        {
+          "property": ":ratingValue",
+          "label": "rating value",
+          "description": "Numeric rating value given by a customer to a product (for example, from 1 to 5).",
+          "range": "xsd:decimal",
+          "example_triples": [
+            "ex:rating1 :ratingValue 4.5 ."
+          ]
+        },
+        {
+          "property": ":ratingForProduct",
+          "label": "rating for product",
+          "description": "Links a rating to the product it evaluates.",
+          "range": ":Product",
+          "example_triples": [
+            "ex:rating1 :ratingForProduct ex:product1 ."
+          ]
+        },
+        {
+          "property": ":ratingByCustomer",
+          "label": "rating by customer",
+          "description": "Links a rating to the customer who gave it.",
+          "range": ":Customer",
+          "example_triples": [
+            "ex:rating1 :ratingByCustomer ex:customer1 ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Tag",
+      "label": "Tag",
+      "description": "A tag or label attached to a product, such as 'bestseller', 'new', 'discounted'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:tag1"
+      ],
+      "related_properties": [
+        {
+          "property": ":tagName",
+          "label": "tag name",
+          "description": "Name of a tag such as 'bestseller', 'new', 'discounted'.",
+          "range": "xsd:string",
+          "example_triples": [
+            "ex:tag1 :tagName \"bestseller\" ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Currency",
+      "label": "Currency",
+      "description": "A currency such as USD, EUR, or VND. Typical questions: 'total sales in each currency'.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:USD",
+        "ex:EUR"
+      ],
+      "related_properties": []
+    },
+    {
+      "@type": "DomainClass",
+      "identifier": ":Discount",
+      "label": "Discount",
+      "description": "A discount or promotion applied to an order or product.",
+      "subclass_of": null,
+      "example_individuals": [
+        "ex:discount1"
+      ],
+      "related_properties": [
+        {
+          "property": ":discountPercent",
+          "label": "discount percent",
+          "description": "Discount percentage applied to an order or product.",
+          "range": "xsd:decimal",
+          "example_triples": [
+            "ex:discount1 :discountPercent 10.0 ."
+          ]
+        },
+        {
+          "property": ":discountForOrder",
+          "label": "discount for order",
+          "description": "Links a discount to an order it is applied to.",
+          "range": ":Order",
+          "example_triples": [
+            "ex:discount1 :discountForOrder ex:order1 ."
+          ]
+        },
+        {
+          "property": ":discountForProduct",
+          "label": "discount for product",
+          "description": "Links a discount to a product it is applied to.",
+          "range": ":Product",
+          "example_triples": [
+            "ex:discount1 :discountForProduct ex:product1 ."
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":hasName",
+      "label": "name",
+      "description": "The name of a person, customer, employee, or product. Example questions: 'list user names', 'names of all products', 'customers whose name starts with A'.",
+      "domain": ":Person",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:alice :hasName \"Alice\" ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":hasEmail",
+      "label": "email",
+      "description": "The email address of a person or customer. Example questions: 'find emails of all customers', 'list users with missing email (OPTIONAL)'.",
+      "domain": ":Person",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:alice :hasEmail \"alice@example.com\" ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":hasPhone",
+      "label": "phone number",
+      "description": "The phone number of a person, customer, or supplier.",
+      "domain": ":Person",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:alice :hasPhone \"+44-123-456\" ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":hasAge",
+      "label": "age",
+      "description": "The age of a person in years. Typical questions: 'users older than 18', 'average age of users', 'youngest or oldest user age'.",
+      "domain": ":Person",
+      "range": "xsd:integer",
+      "example_triples": [
+        "ex:alice :hasAge 25 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":livesIn",
+      "label": "lives in",
+      "description": "Links a person to the city they live in. Typical questions: 'users who live in London', 'users living in the same city', 'number of users per city'.",
+      "domain": ":Person",
+      "range": ":City",
+      "example_triples": [
+        "ex:alice :livesIn ex:London ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":cityInCountry",
+      "label": "city in country",
+      "description": "Links a city to its country. Typical questions: 'cities in each country', 'orders grouped by country via the city of the customer'.",
+      "domain": ":City",
+      "range": ":Country",
+      "example_triples": [
+        "ex:London :cityInCountry ex:UK ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":hasAddress",
+      "label": "has address",
+      "description": "Links a person, customer, warehouse, or supplier to an address.",
+      "domain": ":Person",
+      "range": ":Address",
+      "example_triples": [
+        "ex:customer1 :hasAddress ex:addr1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":streetLine",
+      "label": "street line",
+      "description": "Street line of an address, for example '221B Baker Street'.",
+      "domain": ":Address",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:addr1 :streetLine \"221B Baker Street\" ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":postalCode",
+      "label": "postal code",
+      "description": "Postal or ZIP code of an address.",
+      "domain": ":Address",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:addr1 :postalCode \"NW1 6XE\" ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":friendOf",
+      "label": "friend of",
+      "description": "Friendship relationship between two persons. Typical questions: 'friends of a given user', 'create friendship relations between people who live in the same city'.",
+      "domain": ":Person",
+      "range": ":Person",
+      "example_triples": [
+        "ex:alice :friendOf ex:bob ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":employedAt",
+      "label": "employed at",
+      "description": "Links an employee to the warehouse or company where they work.",
+      "domain": ":Employee",
+      "range": ":Warehouse",
+      "example_triples": [
+        "ex:employee1 :employedAt ex:Warehouse1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":hasBrand",
+      "label": "has brand",
+      "description": "Links a product to its brand.",
+      "domain": ":Product",
+      "range": ":Brand",
+      "example_triples": [
+        "ex:product1 :hasBrand ex:BrandA ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":productName",
+      "label": "product name",
+      "description": "The human-readable name of a product. Typical questions: 'list product names', 'products whose name contains \"phone\"'.",
+      "domain": ":Product",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:product1 :productName \"Smartphone X\" ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":sku",
+      "label": "SKU",
+      "description": "Stock keeping unit identifier of a product.",
+      "domain": ":Product",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:product1 :sku \"SKU-12345\" ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":hasPrice",
+      "label": "product price",
+      "description": "The base price of a product. Typical questions: 'products with price greater than 100', 'average product price per category'.",
+      "domain": ":Product",
+      "range": "xsd:decimal",
+      "example_triples": [
+        "ex:product1 :hasPrice 299.99 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":inCategory",
+      "label": "in category",
+      "description": "Links a product to its category. Typical questions: 'products in the Electronics category', 'number of products per category'.",
+      "domain": ":Product",
+      "range": ":Category",
+      "example_triples": [
+        "ex:product1 :inCategory ex:Electronics ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":suppliedBy",
+      "label": "supplied by",
+      "description": "Links a product to its supplier.",
+      "domain": ":Product",
+      "range": ":Supplier",
+      "example_triples": [
+        "ex:product1 :suppliedBy ex:Supplier1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":warehouseFor",
+      "label": "warehouse for",
+      "description": "Links an inventory item to the warehouse it belongs to.",
+      "domain": ":InventoryItem",
+      "range": ":Warehouse",
+      "example_triples": [
+        "ex:inv1 :warehouseFor ex:Warehouse1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":inventoryOfProduct",
+      "label": "inventory of product",
+      "description": "Links an inventory item to the product being stocked.",
+      "domain": ":InventoryItem",
+      "range": ":Product",
+      "example_triples": [
+        "ex:inv1 :inventoryOfProduct ex:product1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":quantityInStock",
+      "label": "quantity in stock",
+      "description": "Quantity of a product currently in stock at a warehouse.",
+      "domain": ":InventoryItem",
+      "range": "xsd:integer",
+      "example_triples": [
+        "ex:inv1 :quantityInStock 100 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":placedOrder",
+      "label": "placed order",
+      "description": "Links a customer to an order they placed. Typical questions: 'orders for each customer', 'customers who placed more than 5 orders'.",
+      "domain": ":Customer",
+      "range": ":Order",
+      "example_triples": [
+        "ex:customer1 :placedOrder ex:order1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":orderDate",
+      "label": "order date",
+      "description": "The date and time when an order was placed. Typical questions: 'orders in the last 30 days', 'orders placed in 2024'.",
+      "domain": ":Order",
+      "range": "xsd:dateTime",
+      "example_triples": [
+        "ex:order1 :orderDate \"2024-01-15T10:30:00\"^^xsd:dateTime ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":orderTotal",
+      "label": "order total",
+      "description": "The total monetary amount of an order. Typical questions: 'orders with total amount greater than 1000', 'maximum order total', 'average order total per customer'.",
+      "domain": ":Order",
+      "range": "xsd:decimal",
+      "example_triples": [
+        "ex:order1 :orderTotal 250.50 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":orderCurrency",
+      "label": "order currency",
+      "description": "Currency in which the order is charged.",
+      "domain": ":Order",
+      "range": ":Currency",
+      "example_triples": [
+        "ex:order1 :orderCurrency ex:USD ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":hasItem",
+      "label": "has item",
+      "description": "Links an order to its order items. Typical questions: 'items of each order', 'products contained in an order'.",
+      "domain": ":Order",
+      "range": ":OrderItem",
+      "example_triples": [
+        "ex:order1 :hasItem ex:orderItem1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":itemOfProduct",
+      "label": "item of product",
+      "description": "Links an order item to the product it refers to. Typical questions: 'products sold in each order', 'total quantity sold per product'.",
+      "domain": ":OrderItem",
+      "range": ":Product",
+      "example_triples": [
+        "ex:orderItem1 :itemOfProduct ex:product1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":quantity",
+      "label": "quantity",
+      "description": "The quantity of a product in an order item or cart item. Typical questions: 'total quantity of each product sold', 'order items with quantity greater than 10'.",
+      "domain": ":OrderItem",
+      "range": "xsd:integer",
+      "example_triples": [
+        "ex:orderItem1 :quantity 3 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":unitPrice",
+      "label": "unit price",
+      "description": "The price per unit of a product in an order item.",
+      "domain": ":OrderItem",
+      "range": "xsd:decimal",
+      "example_triples": [
+        "ex:orderItem1 :unitPrice 99.90 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":forOrder",
+      "label": "payment for order",
+      "description": "Links a payment to the order it pays for.",
+      "domain": ":Payment",
+      "range": ":Order",
+      "example_triples": [
+        "ex:payment1 :forOrder ex:order1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":paymentMethod",
+      "label": "payment method",
+      "description": "Payment method such as credit card, bank transfer, or cash.",
+      "domain": ":Payment",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:payment1 :paymentMethod \"credit_card\" ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":paymentStatus",
+      "label": "payment status",
+      "description": "Status of a payment, such as 'pending', 'completed', 'failed'.",
+      "domain": ":Payment",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:payment1 :paymentStatus \"completed\" ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":paidAmount",
+      "label": "paid amount",
+      "description": "The amount of money actually paid in a payment.",
+      "domain": ":Payment",
+      "range": "xsd:decimal",
+      "example_triples": [
+        "ex:payment1 :paidAmount 250.50 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":invoiceForOrder",
+      "label": "invoice for order",
+      "description": "Links an invoice to the order it is issued for.",
+      "domain": ":Invoice",
+      "range": ":Order",
+      "example_triples": [
+        "ex:invoice1 :invoiceForOrder ex:order1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":invoiceNumber",
+      "label": "invoice number",
+      "description": "Invoice identifier.",
+      "domain": ":Invoice",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:invoice1 :invoiceNumber \"INV-2024-001\" ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":invoiceDate",
+      "label": "invoice date",
+      "description": "Date when the invoice was issued.",
+      "domain": ":Invoice",
+      "range": "xsd:dateTime",
+      "example_triples": [
+        "ex:invoice1 :invoiceDate \"2024-01-16T09:00:00\"^^xsd:dateTime ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":shipmentForOrder",
+      "label": "shipment for order",
+      "description": "Links a shipment to the order it delivers.",
+      "domain": ":Shipment",
+      "range": ":Order",
+      "example_triples": [
+        "ex:shipment1 :shipmentForOrder ex:order1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":shippedFrom",
+      "label": "shipped from warehouse",
+      "description": "Warehouse from which a shipment is sent.",
+      "domain": ":Shipment",
+      "range": ":Warehouse",
+      "example_triples": [
+        "ex:shipment1 :shippedFrom ex:Warehouse1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":shippedTo",
+      "label": "shipped to address",
+      "description": "Address where a shipment is delivered.",
+      "domain": ":Shipment",
+      "range": ":Address",
+      "example_triples": [
+        "ex:shipment1 :shippedTo ex:addr1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":shipmentDate",
+      "label": "shipment date",
+      "description": "Date when the shipment was sent.",
+      "domain": ":Shipment",
+      "range": "xsd:dateTime",
+      "example_triples": [
+        "ex:shipment1 :shipmentDate \"2024-01-16T12:00:00\"^^xsd:dateTime ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":deliveredDate",
+      "label": "delivered date",
+      "description": "Date when the shipment was delivered.",
+      "domain": ":Shipment",
+      "range": "xsd:dateTime",
+      "example_triples": [
+        "ex:shipment1 :deliveredDate \"2024-01-18T15:30:00\"^^xsd:dateTime ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":trackingNumber",
+      "label": "tracking number",
+      "description": "Tracking number of a shipment.",
+      "domain": ":Shipment",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:shipment1 :trackingNumber \"TRACK-123\" ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":cartOfCustomer",
+      "label": "cart of customer",
+      "description": "Links a cart to the customer it belongs to.",
+      "domain": ":Cart",
+      "range": ":Customer",
+      "example_triples": [
+        "ex:cart1 :cartOfCustomer ex:customer1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":cartHasItem",
+      "label": "cart has item",
+      "description": "Links a cart to its cart items.",
+      "domain": ":Cart",
+      "range": ":CartItem",
+      "example_triples": [
+        "ex:cart1 :cartHasItem ex:cartItem1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":cartItemProduct",
+      "label": "cart item product",
+      "description": "Links a cart item to the product it refers to.",
+      "domain": ":CartItem",
+      "range": ":Product",
+      "example_triples": [
+        "ex:cartItem1 :cartItemProduct ex:product1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":cartItemQuantity",
+      "label": "cart item quantity",
+      "description": "Quantity of the product in the cart item.",
+      "domain": ":CartItem",
+      "range": "xsd:integer",
+      "example_triples": [
+        "ex:cartItem1 :cartItemQuantity 2 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":reviewOfProduct",
+      "label": "review of product",
+      "description": "Links a review to the product it is about.",
+      "domain": ":Review",
+      "range": ":Product",
+      "example_triples": [
+        "ex:review1 :reviewOfProduct ex:product1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":reviewByCustomer",
+      "label": "review by customer",
+      "description": "Links a review to the customer who wrote it.",
+      "domain": ":Review",
+      "range": ":Customer",
+      "example_triples": [
+        "ex:review1 :reviewByCustomer ex:customer1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":reviewText",
+      "label": "review text",
+      "description": "Text content of a review.",
+      "domain": ":Review",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:review1 :reviewText \"Great product!\" ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":ratingValue",
+      "label": "rating value",
+      "description": "Numeric rating value given by a customer to a product (for example, from 1 to 5).",
+      "domain": ":Rating",
+      "range": "xsd:decimal",
+      "example_triples": [
+        "ex:rating1 :ratingValue 4.5 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":ratingForProduct",
+      "label": "rating for product",
+      "description": "Links a rating to the product it evaluates.",
+      "domain": ":Rating",
+      "range": ":Product",
+      "example_triples": [
+        "ex:rating1 :ratingForProduct ex:product1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":ratingByCustomer",
+      "label": "rating by customer",
+      "description": "Links a rating to the customer who gave it.",
+      "domain": ":Rating",
+      "range": ":Customer",
+      "example_triples": [
+        "ex:rating1 :ratingByCustomer ex:customer1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":taggedWith",
+      "label": "tagged with",
+      "description": "Links a product to a tag.",
+      "domain": ":Product",
+      "range": ":Tag",
+      "example_triples": [
+        "ex:product1 :taggedWith ex:tag1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":tagName",
+      "label": "tag name",
+      "description": "Name of a tag such as 'bestseller', 'new', 'discounted'.",
+      "domain": ":Tag",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:tag1 :tagName \"bestseller\" ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":discountPercent",
+      "label": "discount percent",
+      "description": "Discount percentage applied to an order or product.",
+      "domain": ":Discount",
+      "range": "xsd:decimal",
+      "example_triples": [
+        "ex:discount1 :discountPercent 10.0 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":discountForOrder",
+      "label": "discount for order",
+      "description": "Links a discount to an order it is applied to.",
+      "domain": ":Discount",
+      "range": ":Order",
+      "example_triples": [
+        "ex:discount1 :discountForOrder ex:order1 ."
+      ]
+    },
+    {
+      "@type": "DomainProperty",
+      "identifier": ":discountForProduct",
+      "label": "discount for product",
+      "description": "Links a discount to a product it is applied to.",
+      "domain": ":Discount",
+      "range": ":Product",
+      "example_triples": [
+        "ex:discount1 :discountForProduct ex:product1 ."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,767 @@
+{
+  "ontology_name": "commerce_social_domain_extended",
+  "version": "0.2",
+  "classes": [
+    {
+      "name": ":Person",
+      "label": "Person",
+      "description": "A human user in the system. Typical questions: 'list all users', 'average age of users', 'users who live in the same city', 'friends of a person'.",
+      "example_individuals": [
+        "ex:alice",
+        "ex:bob"
+      ]
+    },
+    {
+      "name": ":Customer",
+      "label": "Customer",
+      "description": "A person who places orders. A customer is also a person. Typical questions: 'orders per customer', 'total spending of each customer'.",
+      "subclass_of": ":Person",
+      "example_individuals": [
+        "ex:customer1"
+      ]
+    },
+    {
+      "name": ":Employee",
+      "label": "Employee",
+      "description": "An employee working for the company, such as sales staff or warehouse managers. Typical questions: 'orders handled by each employee', 'employees per warehouse'.",
+      "example_individuals": [
+        "ex:employee1"
+      ]
+    },
+    {
+      "name": ":City",
+      "label": "City",
+      "description": "A city where people live. Typical questions: 'users who live in London', 'number of users per city', 'friends living in the same city'.",
+      "example_individuals": [
+        "ex:London",
+        "ex:Paris"
+      ]
+    },
+    {
+      "name": ":Country",
+      "label": "Country",
+      "description": "A country that contains cities, warehouses, and customers. Typical questions: 'orders per country', 'customers by country'.",
+      "example_individuals": [
+        "ex:UK",
+        "ex:France"
+      ]
+    },
+    {
+      "name": ":Address",
+      "label": "Address",
+      "description": "A physical address, usually associated with a person, warehouse, or shipment destination.",
+      "example_individuals": [
+        "ex:addr1"
+      ]
+    },
+    {
+      "name": ":Product",
+      "label": "Product",
+      "description": "A product that can be purchased in the system. Typical questions: 'products with price greater than 100', 'average price per category', 'top 10 most expensive products'.",
+      "example_individuals": [
+        "ex:product1",
+        "ex:product2"
+      ]
+    },
+    {
+      "name": ":Brand",
+      "label": "Brand",
+      "description": "A brand or manufacturer of products. Typical questions: 'products of each brand', 'top brands by sales'.",
+      "example_individuals": [
+        "ex:BrandA"
+      ]
+    },
+    {
+      "name": ":Category",
+      "label": "Category",
+      "description": "A product category, such as 'Electronics', 'Books', or 'Clothing'. Typical questions: 'products in the Electronics category', 'number of products per category'.",
+      "example_individuals": [
+        "ex:Electronics",
+        "ex:Books"
+      ]
+    },
+    {
+      "name": ":Supplier",
+      "label": "Supplier",
+      "description": "A supplier providing products to the company. Typical questions: 'products from each supplier', 'total quantity purchased from a supplier'.",
+      "example_individuals": [
+        "ex:Supplier1"
+      ]
+    },
+    {
+      "name": ":Warehouse",
+      "label": "Warehouse",
+      "description": "A warehouse where products are stored. Typical questions: 'inventory per warehouse', 'orders shipped from each warehouse'.",
+      "example_individuals": [
+        "ex:Warehouse1"
+      ]
+    },
+    {
+      "name": ":InventoryItem",
+      "label": "Inventory item",
+      "description": "An inventory record indicating the quantity of a product in a warehouse.",
+      "example_individuals": [
+        "ex:inv1"
+      ]
+    },
+    {
+      "name": ":Order",
+      "label": "Order",
+      "description": "A purchase order placed by a customer. Typical questions: 'orders of each customer', 'orders with total amount greater than 1000', 'number of orders per city'.",
+      "example_individuals": [
+        "ex:order1"
+      ]
+    },
+    {
+      "name": ":OrderItem",
+      "label": "Order item",
+      "description": "An item within an order that refers to a specific product and quantity. Typical questions: 'products in an order', 'total quantity of each product sold'.",
+      "example_individuals": [
+        "ex:orderItem1"
+      ]
+    },
+    {
+      "name": ":Payment",
+      "label": "Payment",
+      "description": "A payment made for an order. Typical questions: 'payment status of orders', 'total amount paid per customer'.",
+      "example_individuals": [
+        "ex:payment1"
+      ]
+    },
+    {
+      "name": ":Invoice",
+      "label": "Invoice",
+      "description": "An invoice issued for an order. Typical questions: 'invoices per customer', 'unpaid invoices'.",
+      "example_individuals": [
+        "ex:invoice1"
+      ]
+    },
+    {
+      "name": ":Shipment",
+      "label": "Shipment",
+      "description": "A shipment that delivers an order to a destination. Typical questions: 'shipments per warehouse', 'late shipments'.",
+      "example_individuals": [
+        "ex:shipment1"
+      ]
+    },
+    {
+      "name": ":Cart",
+      "label": "Cart",
+      "description": "A shopping cart belonging to a customer. Typical questions: 'items in a cart', 'abandoned carts'.",
+      "example_individuals": [
+        "ex:cart1"
+      ]
+    },
+    {
+      "name": ":CartItem",
+      "label": "Cart item",
+      "description": "An item inside a shopping cart referencing a product and quantity.",
+      "example_individuals": [
+        "ex:cartItem1"
+      ]
+    },
+    {
+      "name": ":Review",
+      "label": "Review",
+      "description": "A text review written by a customer about a product. Typical questions: 'reviews for a given product', 'customers who wrote reviews'.",
+      "example_individuals": [
+        "ex:review1"
+      ]
+    },
+    {
+      "name": ":Rating",
+      "label": "Rating",
+      "description": "A numeric rating (for example 1\u20135 stars) given by a customer to a product.",
+      "example_individuals": [
+        "ex:rating1"
+      ]
+    },
+    {
+      "name": ":Tag",
+      "label": "Tag",
+      "description": "A tag or label attached to a product, such as 'bestseller', 'new', 'discounted'.",
+      "example_individuals": [
+        "ex:tag1"
+      ]
+    },
+    {
+      "name": ":Currency",
+      "label": "Currency",
+      "description": "A currency such as USD, EUR, or VND. Typical questions: 'total sales in each currency'.",
+      "example_individuals": [
+        "ex:USD",
+        "ex:EUR"
+      ]
+    },
+    {
+      "name": ":Discount",
+      "label": "Discount",
+      "description": "A discount or promotion applied to an order or product.",
+      "example_individuals": [
+        "ex:discount1"
+      ]
+    }
+  ],
+  "properties": [
+    {
+      "name": ":hasName",
+      "label": "name",
+      "description": "The name of a person, customer, employee, or product. Example questions: 'list user names', 'names of all products', 'customers whose name starts with A'.",
+      "domain": ":Person",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:alice :hasName \"Alice\" ."
+      ]
+    },
+    {
+      "name": ":hasEmail",
+      "label": "email",
+      "description": "The email address of a person or customer. Example questions: 'find emails of all customers', 'list users with missing email (OPTIONAL)'.",
+      "domain": ":Person",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:alice :hasEmail \"alice@example.com\" ."
+      ]
+    },
+    {
+      "name": ":hasPhone",
+      "label": "phone number",
+      "description": "The phone number of a person, customer, or supplier.",
+      "domain": ":Person",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:alice :hasPhone \"+44-123-456\" ."
+      ]
+    },
+    {
+      "name": ":hasAge",
+      "label": "age",
+      "description": "The age of a person in years. Typical questions: 'users older than 18', 'average age of users', 'youngest or oldest user age'.",
+      "domain": ":Person",
+      "range": "xsd:integer",
+      "example_triples": [
+        "ex:alice :hasAge 25 ."
+      ]
+    },
+    {
+      "name": ":livesIn",
+      "label": "lives in",
+      "description": "Links a person to the city they live in. Typical questions: 'users who live in London', 'users living in the same city', 'number of users per city'.",
+      "domain": ":Person",
+      "range": ":City",
+      "example_triples": [
+        "ex:alice :livesIn ex:London ."
+      ]
+    },
+    {
+      "name": ":cityInCountry",
+      "label": "city in country",
+      "description": "Links a city to its country. Typical questions: 'cities in each country', 'orders grouped by country via the city of the customer'.",
+      "domain": ":City",
+      "range": ":Country",
+      "example_triples": [
+        "ex:London :cityInCountry ex:UK ."
+      ]
+    },
+    {
+      "name": ":hasAddress",
+      "label": "has address",
+      "description": "Links a person, customer, warehouse, or supplier to an address.",
+      "domain": ":Person",
+      "range": ":Address",
+      "example_triples": [
+        "ex:customer1 :hasAddress ex:addr1 ."
+      ]
+    },
+    {
+      "name": ":streetLine",
+      "label": "street line",
+      "description": "Street line of an address, for example '221B Baker Street'.",
+      "domain": ":Address",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:addr1 :streetLine \"221B Baker Street\" ."
+      ]
+    },
+    {
+      "name": ":postalCode",
+      "label": "postal code",
+      "description": "Postal or ZIP code of an address.",
+      "domain": ":Address",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:addr1 :postalCode \"NW1 6XE\" ."
+      ]
+    },
+    {
+      "name": ":friendOf",
+      "label": "friend of",
+      "description": "Friendship relationship between two persons. Typical questions: 'friends of a given user', 'create friendship relations between people who live in the same city'.",
+      "domain": ":Person",
+      "range": ":Person",
+      "example_triples": [
+        "ex:alice :friendOf ex:bob ."
+      ]
+    },
+    {
+      "name": ":employedAt",
+      "label": "employed at",
+      "description": "Links an employee to the warehouse or company where they work.",
+      "domain": ":Employee",
+      "range": ":Warehouse",
+      "example_triples": [
+        "ex:employee1 :employedAt ex:Warehouse1 ."
+      ]
+    },
+    {
+      "name": ":hasBrand",
+      "label": "has brand",
+      "description": "Links a product to its brand.",
+      "domain": ":Product",
+      "range": ":Brand",
+      "example_triples": [
+        "ex:product1 :hasBrand ex:BrandA ."
+      ]
+    },
+    {
+      "name": ":productName",
+      "label": "product name",
+      "description": "The human-readable name of a product. Typical questions: 'list product names', 'products whose name contains \"phone\"'.",
+      "domain": ":Product",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:product1 :productName \"Smartphone X\" ."
+      ]
+    },
+    {
+      "name": ":sku",
+      "label": "SKU",
+      "description": "Stock keeping unit identifier of a product.",
+      "domain": ":Product",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:product1 :sku \"SKU-12345\" ."
+      ]
+    },
+    {
+      "name": ":hasPrice",
+      "label": "product price",
+      "description": "The base price of a product. Typical questions: 'products with price greater than 100', 'average product price per category'.",
+      "domain": ":Product",
+      "range": "xsd:decimal",
+      "example_triples": [
+        "ex:product1 :hasPrice 299.99 ."
+      ]
+    },
+    {
+      "name": ":inCategory",
+      "label": "in category",
+      "description": "Links a product to its category. Typical questions: 'products in the Electronics category', 'number of products per category'.",
+      "domain": ":Product",
+      "range": ":Category",
+      "example_triples": [
+        "ex:product1 :inCategory ex:Electronics ."
+      ]
+    },
+    {
+      "name": ":suppliedBy",
+      "label": "supplied by",
+      "description": "Links a product to its supplier.",
+      "domain": ":Product",
+      "range": ":Supplier",
+      "example_triples": [
+        "ex:product1 :suppliedBy ex:Supplier1 ."
+      ]
+    },
+    {
+      "name": ":warehouseFor",
+      "label": "warehouse for",
+      "description": "Links an inventory item to the warehouse it belongs to.",
+      "domain": ":InventoryItem",
+      "range": ":Warehouse",
+      "example_triples": [
+        "ex:inv1 :warehouseFor ex:Warehouse1 ."
+      ]
+    },
+    {
+      "name": ":inventoryOfProduct",
+      "label": "inventory of product",
+      "description": "Links an inventory item to the product being stocked.",
+      "domain": ":InventoryItem",
+      "range": ":Product",
+      "example_triples": [
+        "ex:inv1 :inventoryOfProduct ex:product1 ."
+      ]
+    },
+    {
+      "name": ":quantityInStock",
+      "label": "quantity in stock",
+      "description": "Quantity of a product currently in stock at a warehouse.",
+      "domain": ":InventoryItem",
+      "range": "xsd:integer",
+      "example_triples": [
+        "ex:inv1 :quantityInStock 100 ."
+      ]
+    },
+    {
+      "name": ":placedOrder",
+      "label": "placed order",
+      "description": "Links a customer to an order they placed. Typical questions: 'orders for each customer', 'customers who placed more than 5 orders'.",
+      "domain": ":Customer",
+      "range": ":Order",
+      "example_triples": [
+        "ex:customer1 :placedOrder ex:order1 ."
+      ]
+    },
+    {
+      "name": ":orderDate",
+      "label": "order date",
+      "description": "The date and time when an order was placed. Typical questions: 'orders in the last 30 days', 'orders placed in 2024'.",
+      "domain": ":Order",
+      "range": "xsd:dateTime",
+      "example_triples": [
+        "ex:order1 :orderDate \"2024-01-15T10:30:00\"^^xsd:dateTime ."
+      ]
+    },
+    {
+      "name": ":orderTotal",
+      "label": "order total",
+      "description": "The total monetary amount of an order. Typical questions: 'orders with total amount greater than 1000', 'maximum order total', 'average order total per customer'.",
+      "domain": ":Order",
+      "range": "xsd:decimal",
+      "example_triples": [
+        "ex:order1 :orderTotal 250.50 ."
+      ]
+    },
+    {
+      "name": ":orderCurrency",
+      "label": "order currency",
+      "description": "Currency in which the order is charged.",
+      "domain": ":Order",
+      "range": ":Currency",
+      "example_triples": [
+        "ex:order1 :orderCurrency ex:USD ."
+      ]
+    },
+    {
+      "name": ":hasItem",
+      "label": "has item",
+      "description": "Links an order to its order items. Typical questions: 'items of each order', 'products contained in an order'.",
+      "domain": ":Order",
+      "range": ":OrderItem",
+      "example_triples": [
+        "ex:order1 :hasItem ex:orderItem1 ."
+      ]
+    },
+    {
+      "name": ":itemOfProduct",
+      "label": "item of product",
+      "description": "Links an order item to the product it refers to. Typical questions: 'products sold in each order', 'total quantity sold per product'.",
+      "domain": ":OrderItem",
+      "range": ":Product",
+      "example_triples": [
+        "ex:orderItem1 :itemOfProduct ex:product1 ."
+      ]
+    },
+    {
+      "name": ":quantity",
+      "label": "quantity",
+      "description": "The quantity of a product in an order item or cart item. Typical questions: 'total quantity of each product sold', 'order items with quantity greater than 10'.",
+      "domain": ":OrderItem",
+      "range": "xsd:integer",
+      "example_triples": [
+        "ex:orderItem1 :quantity 3 ."
+      ]
+    },
+    {
+      "name": ":unitPrice",
+      "label": "unit price",
+      "description": "The price per unit of a product in an order item.",
+      "domain": ":OrderItem",
+      "range": "xsd:decimal",
+      "example_triples": [
+        "ex:orderItem1 :unitPrice 99.90 ."
+      ]
+    },
+    {
+      "name": ":forOrder",
+      "label": "payment for order",
+      "description": "Links a payment to the order it pays for.",
+      "domain": ":Payment",
+      "range": ":Order",
+      "example_triples": [
+        "ex:payment1 :forOrder ex:order1 ."
+      ]
+    },
+    {
+      "name": ":paymentMethod",
+      "label": "payment method",
+      "description": "Payment method such as credit card, bank transfer, or cash.",
+      "domain": ":Payment",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:payment1 :paymentMethod \"credit_card\" ."
+      ]
+    },
+    {
+      "name": ":paymentStatus",
+      "label": "payment status",
+      "description": "Status of a payment, such as 'pending', 'completed', 'failed'.",
+      "domain": ":Payment",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:payment1 :paymentStatus \"completed\" ."
+      ]
+    },
+    {
+      "name": ":paidAmount",
+      "label": "paid amount",
+      "description": "The amount of money actually paid in a payment.",
+      "domain": ":Payment",
+      "range": "xsd:decimal",
+      "example_triples": [
+        "ex:payment1 :paidAmount 250.50 ."
+      ]
+    },
+    {
+      "name": ":invoiceForOrder",
+      "label": "invoice for order",
+      "description": "Links an invoice to the order it is issued for.",
+      "domain": ":Invoice",
+      "range": ":Order",
+      "example_triples": [
+        "ex:invoice1 :invoiceForOrder ex:order1 ."
+      ]
+    },
+    {
+      "name": ":invoiceNumber",
+      "label": "invoice number",
+      "description": "Invoice identifier.",
+      "domain": ":Invoice",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:invoice1 :invoiceNumber \"INV-2024-001\" ."
+      ]
+    },
+    {
+      "name": ":invoiceDate",
+      "label": "invoice date",
+      "description": "Date when the invoice was issued.",
+      "domain": ":Invoice",
+      "range": "xsd:dateTime",
+      "example_triples": [
+        "ex:invoice1 :invoiceDate \"2024-01-16T09:00:00\"^^xsd:dateTime ."
+      ]
+    },
+    {
+      "name": ":shipmentForOrder",
+      "label": "shipment for order",
+      "description": "Links a shipment to the order it delivers.",
+      "domain": ":Shipment",
+      "range": ":Order",
+      "example_triples": [
+        "ex:shipment1 :shipmentForOrder ex:order1 ."
+      ]
+    },
+    {
+      "name": ":shippedFrom",
+      "label": "shipped from warehouse",
+      "description": "Warehouse from which a shipment is sent.",
+      "domain": ":Shipment",
+      "range": ":Warehouse",
+      "example_triples": [
+        "ex:shipment1 :shippedFrom ex:Warehouse1 ."
+      ]
+    },
+    {
+      "name": ":shippedTo",
+      "label": "shipped to address",
+      "description": "Address where a shipment is delivered.",
+      "domain": ":Shipment",
+      "range": ":Address",
+      "example_triples": [
+        "ex:shipment1 :shippedTo ex:addr1 ."
+      ]
+    },
+    {
+      "name": ":shipmentDate",
+      "label": "shipment date",
+      "description": "Date when the shipment was sent.",
+      "domain": ":Shipment",
+      "range": "xsd:dateTime",
+      "example_triples": [
+        "ex:shipment1 :shipmentDate \"2024-01-16T12:00:00\"^^xsd:dateTime ."
+      ]
+    },
+    {
+      "name": ":deliveredDate",
+      "label": "delivered date",
+      "description": "Date when the shipment was delivered.",
+      "domain": ":Shipment",
+      "range": "xsd:dateTime",
+      "example_triples": [
+        "ex:shipment1 :deliveredDate \"2024-01-18T15:30:00\"^^xsd:dateTime ."
+      ]
+    },
+    {
+      "name": ":trackingNumber",
+      "label": "tracking number",
+      "description": "Tracking number of a shipment.",
+      "domain": ":Shipment",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:shipment1 :trackingNumber \"TRACK-123\" ."
+      ]
+    },
+    {
+      "name": ":cartOfCustomer",
+      "label": "cart of customer",
+      "description": "Links a cart to the customer it belongs to.",
+      "domain": ":Cart",
+      "range": ":Customer",
+      "example_triples": [
+        "ex:cart1 :cartOfCustomer ex:customer1 ."
+      ]
+    },
+    {
+      "name": ":cartHasItem",
+      "label": "cart has item",
+      "description": "Links a cart to its cart items.",
+      "domain": ":Cart",
+      "range": ":CartItem",
+      "example_triples": [
+        "ex:cart1 :cartHasItem ex:cartItem1 ."
+      ]
+    },
+    {
+      "name": ":cartItemProduct",
+      "label": "cart item product",
+      "description": "Links a cart item to the product it refers to.",
+      "domain": ":CartItem",
+      "range": ":Product",
+      "example_triples": [
+        "ex:cartItem1 :cartItemProduct ex:product1 ."
+      ]
+    },
+    {
+      "name": ":cartItemQuantity",
+      "label": "cart item quantity",
+      "description": "Quantity of the product in the cart item.",
+      "domain": ":CartItem",
+      "range": "xsd:integer",
+      "example_triples": [
+        "ex:cartItem1 :cartItemQuantity 2 ."
+      ]
+    },
+    {
+      "name": ":reviewOfProduct",
+      "label": "review of product",
+      "description": "Links a review to the product it is about.",
+      "domain": ":Review",
+      "range": ":Product",
+      "example_triples": [
+        "ex:review1 :reviewOfProduct ex:product1 ."
+      ]
+    },
+    {
+      "name": ":reviewByCustomer",
+      "label": "review by customer",
+      "description": "Links a review to the customer who wrote it.",
+      "domain": ":Review",
+      "range": ":Customer",
+      "example_triples": [
+        "ex:review1 :reviewByCustomer ex:customer1 ."
+      ]
+    },
+    {
+      "name": ":reviewText",
+      "label": "review text",
+      "description": "Text content of a review.",
+      "domain": ":Review",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:review1 :reviewText \"Great product!\" ."
+      ]
+    },
+    {
+      "name": ":ratingValue",
+      "label": "rating value",
+      "description": "Numeric rating value given by a customer to a product (for example, from 1 to 5).",
+      "domain": ":Rating",
+      "range": "xsd:decimal",
+      "example_triples": [
+        "ex:rating1 :ratingValue 4.5 ."
+      ]
+    },
+    {
+      "name": ":ratingForProduct",
+      "label": "rating for product",
+      "description": "Links a rating to the product it evaluates.",
+      "domain": ":Rating",
+      "range": ":Product",
+      "example_triples": [
+        "ex:rating1 :ratingForProduct ex:product1 ."
+      ]
+    },
+    {
+      "name": ":ratingByCustomer",
+      "label": "rating by customer",
+      "description": "Links a rating to the customer who gave it.",
+      "domain": ":Rating",
+      "range": ":Customer",
+      "example_triples": [
+        "ex:rating1 :ratingByCustomer ex:customer1 ."
+      ]
+    },
+    {
+      "name": ":taggedWith",
+      "label": "tagged with",
+      "description": "Links a product to a tag.",
+      "domain": ":Product",
+      "range": ":Tag",
+      "example_triples": [
+        "ex:product1 :taggedWith ex:tag1 ."
+      ]
+    },
+    {
+      "name": ":tagName",
+      "label": "tag name",
+      "description": "Name of a tag such as 'bestseller', 'new', 'discounted'.",
+      "domain": ":Tag",
+      "range": "xsd:string",
+      "example_triples": [
+        "ex:tag1 :tagName \"bestseller\" ."
+      ]
+    },
+    {
+      "name": ":discountPercent",
+      "label": "discount percent",
+      "description": "Discount percentage applied to an order or product.",
+      "domain": ":Discount",
+      "range": "xsd:decimal",
+      "example_triples": [
+        "ex:discount1 :discountPercent 10.0 ."
+      ]
+    },
+    {
+      "name": ":discountForOrder",
+      "label": "discount for order",
+      "description": "Links a discount to an order it is applied to.",
+      "domain": ":Discount",
+      "range": ":Order",
+      "example_triples": [
+        "ex:discount1 :discountForOrder ex:order1 ."
+      ]
+    },
+    {
+      "name": ":discountForProduct",
+      "label": "discount for product",
+      "description": "Links a discount to a product it is applied to.",
+      "domain": ":Discount",
+      "range": ":Product",
+      "example_triples": [
+        "ex:discount1 :discountForProduct ex:product1 ."
+      ]
+    }
+  ]
+}

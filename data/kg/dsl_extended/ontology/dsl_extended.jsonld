@@ -1,0 +1,352 @@
+{
+  "@graph": [
+    {
+      "@type": "DSLFunction",
+      "identifier": "HamAVG",
+      "keyword": "TRUNGG_BINH_PP",
+      "label": "Average (AVG) function",
+      "kind": "aggregate",
+      "description": "Calculates the average (mean) value of a numeric variable. Typical natural language questions: 'average age of users', 'average price of products', 'mean salary of employees'.",
+      "syntax": "TRUNGG_BINH_PP(?var)",
+      "example_dsl": "TRUNGG_BINH_PP(?age)"
+    },
+    {
+      "@type": "DSLFunction",
+      "identifier": "HamSUM",
+      "keyword": "TONGG_WW",
+      "label": "Sum (SUM) function",
+      "kind": "aggregate",
+      "description": "Sums the numeric values of a variable across all matching rows. Typical questions: 'total sales', 'sum of quantities', 'total revenue'.",
+      "syntax": "TONGG_WW(?amount)",
+      "example_dsl": "TONGG_WW(?price)"
+    },
+    {
+      "@type": "DSLFunction",
+      "identifier": "HamCOUNT",
+      "keyword": "DEMM_JJ",
+      "label": "Count (COUNT) function",
+      "kind": "aggregate",
+      "description": "Counts the number of values or rows. Typical questions: 'how many orders', 'number of users in each city', 'count of products in a category'.",
+      "syntax": "DEMM_JJ(?var)",
+      "example_dsl": "DEMM_JJ(?order)"
+    },
+    {
+      "@type": "DSLFunction",
+      "identifier": "HamMIN",
+      "keyword": "NHO_NHAT_KK",
+      "label": "Minimum (MIN) function",
+      "kind": "aggregate",
+      "description": "Returns the smallest numeric value of a variable. Typical questions: 'minimum price of products', 'youngest user age'.",
+      "syntax": "NHO_NHAT_KK(?var)",
+      "example_dsl": "NHO_NHAT_KK(?price)"
+    },
+    {
+      "@type": "DSLFunction",
+      "identifier": "HamMAX",
+      "keyword": "LONN_NHAT_RR",
+      "label": "Maximum (MAX) function",
+      "kind": "aggregate",
+      "description": "Returns the largest numeric value of a variable. Typical questions: 'maximum order total', 'oldest user age'.",
+      "syntax": "LONN_NHAT_RR(?var)",
+      "example_dsl": "LONN_NHAT_RR(?orderTotal)"
+    },
+    {
+      "@type": "DSLFunction",
+      "identifier": "HamABS",
+      "keyword": "GIAT_TUYET_DOII_KK",
+      "label": "Absolute value function",
+      "kind": "numeric",
+      "description": "Returns the absolute value of a numeric expression. Typical questions: 'absolute difference between planned and actual quantity'.",
+      "syntax": "GIAT_TUYET_DOII_KK(?var)",
+      "example_dsl": "GIAT_TUYET_DOII_KK(?diff)"
+    },
+    {
+      "@type": "DSLFunction",
+      "identifier": "HamROUND",
+      "keyword": "LAM_TRONN_KK",
+      "label": "Round function",
+      "kind": "numeric",
+      "description": "Rounds a numeric value to the nearest integer or to a given number of decimals.",
+      "syntax": "LAM_TRONN_KK(?var)",
+      "example_dsl": "LAM_TRONN_KK(?price)"
+    },
+    {
+      "@type": "DSLFunction",
+      "identifier": "HamSTRLEN",
+      "keyword": "DO_DAI_CHUOI_KK",
+      "label": "String length function",
+      "kind": "string",
+      "description": "Returns the length of a string in characters. Typical questions: 'names longer than 20 characters'.",
+      "syntax": "DO_DAI_CHUOI_KK(?str)",
+      "example_dsl": "DO_DAI_CHUOI_KK(?name)"
+    },
+    {
+      "@type": "DSLFunction",
+      "identifier": "HamCONTAINS",
+      "keyword": "CHUA_CHUOI_KK",
+      "label": "Substring check function",
+      "kind": "string",
+      "description": "Checks whether a string contains a given substring. Typical questions: 'products whose name contains \"phone\"'.",
+      "syntax": "CHUA_CHUOI_KK(?str, \"sub\")",
+      "example_dsl": "CHUA_CHUOI_KK(?productName, \"phone\")"
+    },
+    {
+      "@type": "DSLClause",
+      "identifier": "ClauseFilter",
+      "keyword": "LOCJ_RR",
+      "label": "Filter clause (WHERE condition)",
+      "kind": "filter",
+      "description": "Filters results using a boolean condition such as 'age > 18', 'price < 100', or 'city = \"London\"'. In natural language this corresponds to phrases like 'where', 'only users older than 18', 'products whose price is greater than 100', 'customers living in London'.",
+      "syntax": "LOCJ_RR(condition)",
+      "example_dsl": "LOCJ_RR(?age > 18)"
+    },
+    {
+      "@type": "DSLClause",
+      "identifier": "ClauseOptional",
+      "keyword": "TUYJ_CHON_PP",
+      "label": "Optional pattern clause",
+      "kind": "optional",
+      "description": "Marks a part of the pattern as optional. Equivalent to SPARQL OPTIONAL. Used for questions like 'list all users and optionally their email if available'.",
+      "syntax": "TUYJ_CHON_PP { pattern }",
+      "example_dsl": "TUYJ_CHON_PP { ?person :hasEmail ?email }"
+    },
+    {
+      "@type": "DSLClause",
+      "identifier": "ClauseGroupBy",
+      "keyword": "NHOMM_THEO_YY",
+      "label": "GROUP BY clause",
+      "kind": "group_by",
+      "description": "Groups results by one or more variables so that aggregate functions like SUM, COUNT, or AVG can be applied per group. Typical questions: 'number of users in each city', 'total sales per customer'.",
+      "syntax": "NHOMM_THEO_YY ?var1 ?var2 ...",
+      "example_dsl": "NHOMM_THEO_YY ?city"
+    },
+    {
+      "@type": "DSLClause",
+      "identifier": "ClauseHaving",
+      "keyword": "DIEU_KIEN_NHOMM_PP",
+      "label": "HAVING-like group filter clause",
+      "kind": "having",
+      "description": "Applies a filter condition on grouped results, similar to SQL HAVING. Example questions: 'customers with more than 5 orders', 'cities with at least 100 users'.",
+      "syntax": "DIEU_KIEN_NHOMM_PP(condition)",
+      "example_dsl": "DIEU_KIEN_NHOMM_PP(DEMM_JJ(?order) > 5)"
+    },
+    {
+      "@type": "DSLModifier",
+      "identifier": "ModifierOrderBy",
+      "keyword": "SAP_XXEP_THEO_KK",
+      "label": "ORDER BY modifier",
+      "kind": "order_by",
+      "description": "Orders the result set by one or more expressions. Typical questions: 'top 10 most expensive products', 'list users sorted by age'.",
+      "syntax": "SAP_XXEP_THEO_KK ?varOrExpr",
+      "example_dsl": "SAP_XXEP_THEO_KK ?age"
+    },
+    {
+      "@type": "DSLModifier",
+      "identifier": "ModifierLimit",
+      "keyword": "GIOI_HHAN_RR",
+      "label": "LIMIT modifier",
+      "kind": "limit",
+      "description": "Limits the number of rows returned. Typical questions: 'top 10', 'first 5 results'.",
+      "syntax": "GIOI_HHAN_RR n",
+      "example_dsl": "GIOI_HHAN_RR 10"
+    },
+    {
+      "@type": "DSLModifier",
+      "identifier": "ModifierOffset",
+      "keyword": "DICCH_CHUYEN_WW",
+      "label": "OFFSET modifier",
+      "kind": "offset",
+      "description": "Skips the first n results. Used for pagination, for example 'skip the first 10 results and then return the next 10'.",
+      "syntax": "DICCH_CHUYEN_WW n",
+      "example_dsl": "DICCH_CHUYEN_WW 10"
+    },
+    {
+      "@type": "DSLModifier",
+      "identifier": "ModifierDistinct",
+      "keyword": "KHAC_NHAU_PP",
+      "label": "DISTINCT modifier",
+      "kind": "distinct",
+      "description": "Eliminates duplicate result rows. Typical questions: 'distinct cities of users', 'unique product categories'.",
+      "syntax": "KHAC_NHAU_PP",
+      "example_dsl": "KHAC_NHAU_PP"
+    },
+    {
+      "@type": "DSLQueryType",
+      "identifier": "TruyVanCHONJ_KW",
+      "kind": "select",
+      "label": "SELECT query",
+      "description": "Returns variable bindings based on a WHERE pattern. Equivalent to SPARQL SELECT.",
+      "order": [
+        "CHONJ_KW",
+        "ProjectionList",
+        "NOII_MA_KK",
+        "WhereClause",
+        "GroupByClause?",
+        "HavingClause?",
+        "Modifiers?"
+      ],
+      "components": [
+        {
+          "name": "CHONJ_KW",
+          "kind": "keyword",
+          "text": "CHONJ_KW",
+          "required": true
+        },
+        {
+          "name": "ProjectionList",
+          "kind": "block",
+          "syntax": "?var1 ?var2 ... or aggregate expressions",
+          "required": true,
+          "description": "List of variables or expressions (including aggregates) to return."
+        },
+        {
+          "name": "NOII_MA_KK",
+          "kind": "keyword",
+          "text": "NOII_MA_KK",
+          "required": true
+        },
+        {
+          "name": "WhereClause",
+          "kind": "block",
+          "syntax": "{ pattern }",
+          "required": true,
+          "allowed_inside": [
+            "TriplePattern",
+            "LOCJ_RR",
+            "TUYJ_CHON_PP"
+          ],
+          "description": "Main WHERE block containing triple patterns and filter/optional clauses."
+        },
+        {
+          "name": "GroupByClause?",
+          "kind": "block",
+          "syntax": "NHOMM_THEO_YY ?var ...",
+          "required": false,
+          "description": "Optional GROUP BY clause when using aggregates on groups."
+        },
+        {
+          "name": "HavingClause?",
+          "kind": "block",
+          "syntax": "DIEU_KIEN_NHOMM_PP(condition)",
+          "required": false,
+          "description": "Optional HAVING-like clause to filter grouped results."
+        },
+        {
+          "name": "Modifiers?",
+          "kind": "list",
+          "required": false,
+          "options": [
+            "SAP_XXEP_THEO_KK",
+            "GIOI_HHAN_RR",
+            "DICCH_CHUYEN_WW",
+            "KHAC_NHAU_PP"
+          ],
+          "description": "Optional DISTINCT / ORDER BY / LIMIT / OFFSET modifiers applied after WHERE/GROUP BY."
+        }
+      ],
+      "example_dsl": "CHONJ_KW ?city (DEMM_JJ(?person) AS ?userCount) NOII_MA_KK { ?person :livesIn ?city } NHOMM_THEO_YY ?city DIEU_KIEN_NHOMM_PP(DEMM_JJ(?person) > 100) SAP_XXEP_THEO_KK ?userCount GIOI_HHAN_RR 10"
+    },
+    {
+      "@type": "DSLQueryType",
+      "identifier": "TruyVanXAY_DUNGWJ",
+      "kind": "construct",
+      "label": "CONSTRUCT query",
+      "description": "Builds new RDF triples from existing data patterns. Equivalent to SPARQL CONSTRUCT.",
+      "order": [
+        "XAY_DUNGWJ",
+        "ConstructTemplate",
+        "NOII_MA_KK",
+        "WhereClause",
+        "Modifiers?"
+      ],
+      "components": [
+        {
+          "name": "XAY_DUNGWJ",
+          "kind": "keyword",
+          "text": "XAY_DUNGWJ",
+          "required": true
+        },
+        {
+          "name": "ConstructTemplate",
+          "kind": "block",
+          "syntax": "{ triplePattern+ }",
+          "required": true,
+          "description": "Template of triples to construct from the matched WHERE patterns."
+        },
+        {
+          "name": "NOII_MA_KK",
+          "kind": "keyword",
+          "text": "NOII_MA_KK",
+          "required": true
+        },
+        {
+          "name": "WhereClause",
+          "kind": "block",
+          "syntax": "{ pattern }",
+          "required": true,
+          "allowed_inside": [
+            "TriplePattern",
+            "LOCJ_RR",
+            "TUYJ_CHON_PP"
+          ],
+          "description": "WHERE patterns that select existing data to build new triples from."
+        },
+        {
+          "name": "Modifiers?",
+          "kind": "list",
+          "required": false,
+          "options": [
+            "GIOI_HHAN_RR",
+            "DICCH_CHUYEN_WW"
+          ],
+          "description": "Optional LIMIT / OFFSET modifiers."
+        }
+      ],
+      "example_dsl": "XAY_DUNGWJ { ?p1 :friendOf ?p2 } NOII_MA_KK { ?p1 :livesIn ?city . ?p2 :livesIn ?city . LOCJ_RR(?p1 != ?p2) }"
+    },
+    {
+      "@type": "DSLQueryType",
+      "identifier": "TruyVanHOIQQ_YZ",
+      "kind": "ask",
+      "label": "ASK query",
+      "description": "Checks if a pattern has at least one match. Returns a boolean result. Equivalent to SPARQL ASK.",
+      "order": [
+        "HOIQQ_YZ",
+        "NOII_MA_KK",
+        "WhereClause"
+      ],
+      "components": [
+        {
+          "name": "HOIQQ_YZ",
+          "kind": "keyword",
+          "text": "HOIQQ_YZ",
+          "required": true
+        },
+        {
+          "name": "NOII_MA_KK",
+          "kind": "keyword",
+          "text": "NOII_MA_KK",
+          "required": true
+        },
+        {
+          "name": "WhereClause",
+          "kind": "block",
+          "syntax": "{ pattern }",
+          "required": true,
+          "allowed_inside": [
+            "TriplePattern",
+            "LOCJ_RR",
+            "TUYJ_CHON_PP"
+          ],
+          "description": "Pattern to test for existence."
+        }
+      ],
+      "example_dsl": "HOIQQ_YZ NOII_MA_KK { ?order :orderTotal ?total . LOCJ_RR(?total > 10000) }"
+    },
+    {
+      "@type": "TriplePatternSpec",
+      "description": "Basic triple pattern. The predicate (:property) must be one of the properties defined in the domain ontology. The subject and object should be variables or resources compatible with the property's domain and range.",
+      "syntax": "?s :property ?o ."
+    }
+  ]
+}

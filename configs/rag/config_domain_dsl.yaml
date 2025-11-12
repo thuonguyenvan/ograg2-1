@@ -1,0 +1,82 @@
+model:
+  deployment_name: gpt-4o
+  api_base: 
+  api_key: 
+  api_type: openai
+  api_version: "2024-02-01"
+
+embedding_model:
+  deployment_name: sentence-transformers/all-mpnet-base-v2
+  api_base: 
+  api_key: 
+  api_type: huggingface
+  api_version: ""
+
+data:
+  domain:
+    documents_dir: data/md/domain
+    kg_storage_path: data/kg/domain_extended
+    index_dir: index_openai/vector_domain
+    subdir: False
+    smart_pdf: True
+    full_text: False
+    use_vector_index: False
+  dsl:
+    documents_dir: data/md/dsl
+    kg_storage_path: data/kg/dsl_extended
+    index_dir: index_openai/vector_dsl
+    subdir: False
+    smart_pdf: True
+    full_text: False
+    use_vector_index: False
+  rules_file: data/rules/dsl_rules.txt
+
+query:
+  method: domain-dsl
+  hyperparams:
+    domain_top_k: 5
+    domain_nodes_top_k: 30
+    dsl_top_k: 5
+    dsl_nodes_top_k: 30
+    max_tokens: 768
+    output_format: "Return a valid DSL command that satisfies the request."
+    prompt_template: |
+      You are an expert assistant that converts user intents into DSL commands.
+      Use the provided domain context and DSL schema to build the solution.
+      Domain context:
+      {domain_context}
+
+      DSL schema context:
+      {dsl_context}
+
+      Rules:
+      {rules}
+
+      Return ONLY the DSL command.
+    validation:
+      require_keywords:
+        - CHONJ_KW
+        - NOII_MA_KK
+  batch_size: 10
+  mode: json
+  questions_file: []
+  answers_file: results/domain_dsl/answers.json
+
+question_generator:
+  framework: ontodoc_ragas
+  test_size: 20
+  distr:
+    simple: 0.3
+    reasoning: 0.4
+    multi_context: 0.3
+
+evaluator:
+  eval_file: results/domain_dsl/answers_eval.json
+  reference_free: True
+  type: single
+  metrics:
+    - answer_correctness
+    - faithfulness
+    - answer_relevancy
+    - context_relevancy
+

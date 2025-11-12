@@ -1,0 +1,6 @@
+# DSL usage guidelines derived from the ontology
+- Respect the component order defined in each DSL query type.
+- Always include mandatory keywords/components marked as required.
+- When using aggregate functions (DEMM_JJ, TONGG_WW, TRUNGG_BINH_PP, ...), add NHOMM_THEO_YY unless the ontology marks it optional.
+- LOCJ_RR filters should rely on properties defined in the domain ontology.
+- Modifiers (SAP_XXEP_THEO_KK, GIOI_HHAN_RR, DICCH_CHUYEN_WW, KHAC_NHAU_PP) must be listed as allowed modifiers for the chosen query type.

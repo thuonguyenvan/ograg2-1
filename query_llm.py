@@ -119,6 +119,35 @@ if __name__ == '__main__':
                             embed_model=embeddings,
                             vector_retriever=vector_retriever,
                         )
+    elif config.query.method == 'domain-dsl':
+        from query_engine import DomainDSLQueryEngine
+
+        assert hasattr(config.data, "domain"), "config.data.domain is required for domain-dsl method."
+        assert hasattr(config.data, "dsl"), "config.data.dsl is required for domain-dsl method."
+
+        prompt_template = None
+        output_format = None
+        validation_rules = None
+        max_tokens = None
+
+        if 'hyperparams' in config.query:
+            hyperparams = config.query.hyperparams
+            prompt_template = getattr(hyperparams, "prompt_template", None)
+            output_format = getattr(hyperparams, "output_format", None)
+            validation_rules = getattr(hyperparams, "validation", None)
+            max_tokens = getattr(hyperparams, "max_tokens", None)
+
+        query_engine = DomainDSLQueryEngine.from_config(
+            llm=llm,
+            embed_model=embeddings,
+            domain_config=config.data.domain,
+            dsl_config=config.data.dsl,
+            service_context=service_context,
+            prompt_template=prompt_template,
+            output_format=output_format,
+            max_tokens=max_tokens,
+            validation_rules=validation_rules,
+        )
     elif config.query.method == 'fullontology-rag':
         from query_engine import FullOntoQueryEngine
         query_engine = FullOntoQueryEngine.from_ontology_path(
