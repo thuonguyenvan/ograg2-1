@@ -1,0 +1,169 @@
+{
+  "facts": [
+    {
+      "domain_class": "Person",
+      "label_en": "Person",
+      "label_vi": "Person",
+      "description": "Represents a person in the system"
+    },
+    {
+      "domain_class": "Customer",
+      "parent_class": "subClassOf",
+      "label_en": "Customer",
+      "label_vi": "Customer",
+      "description": "A person who is a customer"
+    },
+    {
+      "domain_class": "Product",
+      "label_en": "Product",
+      "label_vi": "Product",
+      "description": "A product that can be purchased"
+    },
+    {
+      "domain_class": "Book",
+      "parent_class": "subClassOf",
+      "label_en": "Book",
+      "label_vi": "Book",
+      "description": "A product of type book"
+    },
+    {
+      "domain_class": "Order",
+      "label_en": "Order",
+      "label_vi": "Order",
+      "description": "An order placed by a customer"
+    },
+    {
+      "domain_class": "City",
+      "label_en": "City",
+      "label_vi": "City",
+      "description": "A city where people live"
+    },
+    {
+      "domain_class": "Category",
+      "label_en": "Category",
+      "label_vi": "Category",
+      "description": "A category to group products"
+    },
+    {
+      "domain_property": "livesIn",
+      "label_en": "lives in",
+      "label_vi": "lives in",
+      "domain": ":Person",
+      "range": ":City",
+      "description": "Indicates the city where the person lives"
+    },
+    {
+      "domain_property": "ofCustomer",
+      "label_en": "of customer",
+      "label_vi": "of customer",
+      "domain": ":Order",
+      "range": ":Customer",
+      "description": "Links an order to the customer who placed it"
+    },
+    {
+      "domain_property": "placeOrder",
+      "label_en": "place order",
+      "label_vi": "place order",
+      "domain": ":Customer",
+      "range": ":Order",
+      "description": "Customer places an order"
+    },
+    {
+      "domain_property": "inCategory",
+      "label_en": "in category",
+      "label_vi": "in category",
+      "domain": ":Product",
+      "range": ":Category",
+      "description": "Product belongs to a category"
+    },
+    {
+      "domain_property": "friendOf",
+      "label_en": "friend of",
+      "label_vi": "friend of",
+      "domain": ":Person",
+      "range": ":Person",
+      "description": "Friendship relationship between persons"
+    },
+    {
+      "domain_property": "borrowed",
+      "label_en": "borrowed",
+      "label_vi": "borrowed",
+      "domain": ":Person",
+      "range": ":Book",
+      "description": "Person borrowed a book"
+    },
+    {
+      "domain_property": "hasName",
+      "label_en": "has name",
+      "label_vi": "has name",
+      "domain": ":Person",
+      "range": "xsd:string",
+      "description": "Name of the person"
+    },
+    {
+      "domain_property": "hasAge",
+      "label_en": "has age",
+      "label_vi": "has age",
+      "domain": ":Person",
+      "range": "xsd:integer",
+      "description": "Age of the person (years)"
+    },
+    {
+      "domain_property": "hasEmail",
+      "label_en": "has email",
+      "label_vi": "has email",
+      "domain": ":Person",
+      "range": "xsd:string",
+      "description": "Email address of the person"
+    },
+    {
+      "domain_property": "hasPhone",
+      "label_en": "has phone",
+      "label_vi": "has phone",
+      "domain": ":Person",
+      "range": "xsd:string",
+      "description": "Phone number of the person"
+    },
+    {
+      "domain_property": "hasNick",
+      "label_en": "has nickname",
+      "label_vi": "has nickname",
+      "domain": "domain",
+      "range": "range",
+      "description": "Nickname of the person"
+    },
+    {
+      "domain_property": "hasPrice",
+      "label_en": "has price",
+      "label_vi": "has price",
+      "domain": ":Product",
+      "range": "xsd:decimal",
+      "description": "Price of the product or order"
+    },
+    {
+      "domain_property": "categoryName",
+      "label_en": "category name",
+      "label_vi": "category name",
+      "domain": ":Category",
+      "range": "xsd:string",
+      "description": "Name of the category"
+    },
+    {
+      "domain_property": "cityName",
+      "label_en": "city name",
+      "label_vi": "city name",
+      "domain": ":City",
+      "range": "xsd:string",
+      "description": "Name of the city"
+    },
+    {
+      "domain_class": "EntityMapping",
+      "label_en": "Entity Mapping",
+      "description": "Mapping between Vietnamese terms and ontology concepts"
+    }
+  ],
+  "stats": {
+    "num_facts": 22,
+    "ontology_type": "domain"
+  }
+}

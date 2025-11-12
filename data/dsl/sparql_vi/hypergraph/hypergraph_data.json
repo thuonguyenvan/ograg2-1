@@ -1,0 +1,833 @@
+{
+  "facts": [
+    {
+      "dsl_class": "TruyVan",
+      "label_vi": "Truy vấn"
+    },
+    {
+      "dsl_class": "TruyVan",
+      "label_en": "Query"
+    },
+    {
+      "dsl_class": "TruyVan",
+      "description": "Base class for all SPARQL-VI queries"
+    },
+    {
+      "dsl_class": "TruyVanCHONJ_KW",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "TruyVanCHONJ_KW",
+      "label_vi": "Truy vấn CHONJ_KW (SELECT)"
+    },
+    {
+      "dsl_class": "TruyVanCHONJ_KW",
+      "description": "CHONJ_KW query returns variable bindings. Equivalent to SPARQL SELECT."
+    },
+    {
+      "dsl_class": "TruyVanCHONJ_KW",
+      "syntax": "CHONJ_KW ?variable NOII_MA_KK { pattern }"
+    },
+    {
+      "dsl_class": "TruyVanCHONJ_KW",
+      "example": "CHONJ_KW ?ten NOII_MA_KK { ?nguoi :coTen ?ten }"
+    },
+    {
+      "dsl_class": "TruyVanXAY_DUNGWJ",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "TruyVanXAY_DUNGWJ",
+      "label_vi": "Truy vấn XAY_DUNGWJ (CONSTRUCT)"
+    },
+    {
+      "dsl_class": "TruyVanXAY_DUNGWJ",
+      "description": "XAY_DUNGWJ query returns RDF graph. Equivalent to SPARQL CONSTRUCT."
+    },
+    {
+      "dsl_class": "TruyVanXAY_DUNGWJ",
+      "syntax": "XAY_DUNGWJ { template } NOII_MA_KK { pattern }"
+    },
+    {
+      "dsl_class": "TruyVanXAY_DUNGWJ",
+      "example": "XAY_DUNGWJ { ?x :duocGoi ?ten } NOII_MA_KK { ?x :coTen ?ten }"
+    },
+    {
+      "dsl_class": "TruyVanHOIQQ_YZ",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "TruyVanHOIQQ_YZ",
+      "label_vi": "Truy vấn HOIQQ_YZ (ASK)"
+    },
+    {
+      "dsl_class": "TruyVanHOIQQ_YZ",
+      "description": "HOIQQ_YZ query returns boolean. Equivalent to SPARQL ASK."
+    },
+    {
+      "dsl_class": "TruyVanHOIQQ_YZ",
+      "syntax": "HOIQQ_YZ NOII_MA_KK { pattern }"
+    },
+    {
+      "dsl_class": "TruyVanHOIQQ_YZ",
+      "example": "HOIQQ_YZ NOII_MA_KK { ?nguoi :coTuoi ?tuoi . LOCJ_RR(?tuoi > 18) }"
+    },
+    {
+      "dsl_class": "TruyVanMO_TAR_PP",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "TruyVanMO_TAR_PP",
+      "label_vi": "Truy vấn MO_TAR_PP (DESCRIBE)"
+    },
+    {
+      "dsl_class": "TruyVanMO_TAR_PP",
+      "description": "MO_TAR_PP query returns RDF description. Equivalent to SPARQL DESCRIBE."
+    },
+    {
+      "dsl_class": "TruyVanMO_TAR_PP",
+      "syntax": "MO_TAR_PP ?resource NOII_MA_KK { pattern }"
+    },
+    {
+      "dsl_class": "MenhDe",
+      "label_vi": "Mệnh đề"
+    },
+    {
+      "dsl_class": "MenhDe",
+      "description": "Base class for all clauses"
+    },
+    {
+      "dsl_class": "MenhDeNOII_MA_KK",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "MenhDeNOII_MA_KK",
+      "label_vi": "Mệnh đề NOII_MA_KK (WHERE)"
+    },
+    {
+      "dsl_class": "MenhDeNOII_MA_KK",
+      "description": "NOII_MA_KK clause contains graph patterns. Required for most queries."
+    },
+    {
+      "dsl_class": "MenhDeNOII_MA_KK",
+      "constraint": "Required for CHONJ_KW, HOIQQ_YZ queries"
+    },
+    {
+      "dsl_class": "MenhDeNOII_MA_KK",
+      "syntax": "NOII_MA_KK { triple_pattern }"
+    },
+    {
+      "dsl_class": "MenhDeLOCJ_RR",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "MenhDeLOCJ_RR",
+      "label_vi": "Mệnh đề LOCJ_RR (FILTER)"
+    },
+    {
+      "dsl_class": "MenhDeLOCJ_RR",
+      "description": "LOCJ_RR filters solutions by condition. Equivalent to SPARQL FILTER."
+    },
+    {
+      "dsl_class": "MenhDeLOCJ_RR",
+      "syntax": "LOCJ_RR(condition)"
+    },
+    {
+      "dsl_class": "MenhDeLOCJ_RR",
+      "example": "LOCJ_RR(?tuoi > 18)"
+    },
+    {
+      "dsl_class": "MenhDeLOCJ_RR",
+      "constraint": "Must be used inside NOII_MA_KK clause"
+    },
+    {
+      "dsl_class": "MenhDeNHOMM_THEO_YY",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "MenhDeNHOMM_THEO_YY",
+      "label_vi": "Mệnh đề NHOMM_THEO_YY (GROUP BY)"
+    },
+    {
+      "dsl_class": "MenhDeNHOMM_THEO_YY",
+      "description": "NHOMM_THEO_YY groups results. Used with aggregate functions."
+    },
+    {
+      "dsl_class": "MenhDeNHOMM_THEO_YY",
+      "syntax": "NHOMM_THEO_YY ?variable"
+    },
+    {
+      "dsl_class": "MenhDeNHOMM_THEO_YY",
+      "constraint": "Required when using aggregate functions DEMM_JJ, TONGG_WW, TRUNGG_BINH_PP"
+    },
+    {
+      "dsl_class": "MenhDeCOO_ZZ",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "MenhDeCOO_ZZ",
+      "label_vi": "Mệnh đề COO_ZZ (HAVING)"
+    },
+    {
+      "dsl_class": "MenhDeCOO_ZZ",
+      "description": "COO_ZZ filters grouped results. Equivalent to SPARQL HAVING."
+    },
+    {
+      "dsl_class": "MenhDeCOO_ZZ",
+      "syntax": "COO_ZZ (condition)"
+    },
+    {
+      "dsl_class": "MenhDeCOO_ZZ",
+      "constraint": "Can only be used with NHOMM_THEO_YY"
+    },
+    {
+      "dsl_class": "MenhDeTU_XZYJ_CHON_PP",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "MenhDeTU_XZYJ_CHON_PP",
+      "label_vi": "Mệnh đề TUYJ_CHON_PP (OPTIONAL)"
+    },
+    {
+      "dsl_class": "MenhDeTU_XZYJ_CHON_PP",
+      "description": "TUYJ_CHON_PP makes pattern matching optional."
+    },
+    {
+      "dsl_class": "MenhDeTU_XZYJ_CHON_PP",
+      "syntax": "TUYJ_CHON_PP { pattern }"
+    },
+    {
+      "dsl_class": "HamTongHop",
+      "label_vi": "Hàm tổng hợp"
+    },
+    {
+      "dsl_class": "HamTongHop",
+      "description": "Aggregate functions for NHOMM_THEO_YY queries"
+    },
+    {
+      "dsl_class": "HamDEMM_JJ",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "HamDEMM_JJ",
+      "label_vi": "DEMM_JJ (COUNT)"
+    },
+    {
+      "dsl_class": "HamDEMM_JJ",
+      "description": "Counts number of values"
+    },
+    {
+      "dsl_class": "HamDEMM_JJ",
+      "syntax": "DEMM_JJ(?variable)"
+    },
+    {
+      "dsl_class": "HamDEMM_JJ",
+      "constraint": "Requires NHOMM_THEO_YY clause"
+    },
+    {
+      "dsl_class": "HamTONGG_WW",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "HamTONGG_WW",
+      "label_vi": "TONGG_WW (SUM)"
+    },
+    {
+      "dsl_class": "HamTONGG_WW",
+      "description": "Sums numeric values"
+    },
+    {
+      "dsl_class": "HamTONGG_WW",
+      "syntax": "TONGG_WW(?variable)"
+    },
+    {
+      "dsl_class": "HamTONGG_WW",
+      "constraint": "Requires NHOMM_THEO_YY, works only with numeric types"
+    },
+    {
+      "dsl_class": "HamTRUU_WJNGG_BINH_PP",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "HamTRUU_WJNGG_BINH_PP",
+      "label_vi": "TRUNGG_BINH_PP (AVG)"
+    },
+    {
+      "dsl_class": "HamTRUU_WJNGG_BINH_PP",
+      "description": "Calculates average"
+    },
+    {
+      "dsl_class": "HamTRUU_WJNGG_BINH_PP",
+      "syntax": "TRUNGG_BINH_PP(?variable)"
+    },
+    {
+      "dsl_class": "HamTRUU_WJNGG_BINH_PP",
+      "constraint": "Requires NHOMM_THEO_YY, works only with numeric types"
+    },
+    {
+      "dsl_class": "HamLONN_NHAT_RR",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "HamLONN_NHAT_RR",
+      "label_vi": "LONN_NHAT_RR (MAX)"
+    },
+    {
+      "dsl_class": "HamLONN_NHAT_RR",
+      "description": "Finds maximum value"
+    },
+    {
+      "dsl_class": "HamLONN_NHAT_RR",
+      "syntax": "LONN_NHAT_RR(?variable)"
+    },
+    {
+      "dsl_class": "HamNHOO_NHAT_QQ",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "HamNHOO_NHAT_QQ",
+      "label_vi": "NHOO_NHAT_QQ (MIN)"
+    },
+    {
+      "dsl_class": "HamNHOO_NHAT_QQ",
+      "description": "Finds minimum value"
+    },
+    {
+      "dsl_class": "HamNHOO_NHAT_QQ",
+      "syntax": "NHOO_NHAT_QQ(?variable)"
+    },
+    {
+      "dsl_class": "BoMenhDe",
+      "label_vi": "Bộ mệnh đề"
+    },
+    {
+      "dsl_class": "BoMenhDe",
+      "description": "Solution sequence modifiers"
+    },
+    {
+      "dsl_class": "MenhDeSAP_XXEP_THEO_KK",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "MenhDeSAP_XXEP_THEO_KK",
+      "label_vi": "SAP_XXEP_THEO_KK (ORDER BY)"
+    },
+    {
+      "dsl_class": "MenhDeSAP_XXEP_THEO_KK",
+      "description": "Orders results by expression"
+    },
+    {
+      "dsl_class": "MenhDeSAP_XXEP_THEO_KK",
+      "syntax": "SAP_XXEP_THEO_KK ?variable"
+    },
+    {
+      "dsl_class": "MenhDeSAP_XXEP_THEO_KK",
+      "example": "SAP_XXEP_THEO_KK GIAMM_WW(?tuoi)"
+    },
+    {
+      "dsl_class": "MenhDeGIOI_HHAN_RR",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "MenhDeGIOI_HHAN_RR",
+      "label_vi": "GIOI_HHAN_RR (LIMIT)"
+    },
+    {
+      "dsl_class": "MenhDeGIOI_HHAN_RR",
+      "description": "Limits number of results"
+    },
+    {
+      "dsl_class": "MenhDeGIOI_HHAN_RR",
+      "syntax": "GIOI_HHAN_RR n"
+    },
+    {
+      "dsl_class": "MenhDeGIOI_HHAN_RR",
+      "example": "GIOI_HHAN_RR 10"
+    },
+    {
+      "dsl_class": "MenhDeGIOI_HHAN_RR",
+      "constraint": "n must be non-negative integer"
+    },
+    {
+      "dsl_class": "MenhDeDICCH_CHUYEN_WW",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "MenhDeDICCH_CHUYEN_WW",
+      "label_vi": "DICCH_CHUYEN_WW (OFFSET)"
+    },
+    {
+      "dsl_class": "MenhDeDICCH_CHUYEN_WW",
+      "description": "Skips first n results"
+    },
+    {
+      "dsl_class": "MenhDeDICCH_CHUYEN_WW",
+      "syntax": "DICCH_CHUYEN_WW n"
+    },
+    {
+      "dsl_class": "MenhDeDICCH_CHUYEN_WW",
+      "constraint": "n must be non-negative integer"
+    },
+    {
+      "dsl_class": "ToanTu",
+      "label_vi": "Toán tử"
+    },
+    {
+      "dsl_class": "ToanTu",
+      "description": "Operators for conditions and expressions"
+    },
+    {
+      "dsl_class": "ToanTuVAA_JJ",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "ToanTuVAA_JJ",
+      "label_vi": "VAA_JJ (AND)"
+    },
+    {
+      "dsl_class": "ToanTuVAA_JJ",
+      "description": "Logical AND operator"
+    },
+    {
+      "dsl_class": "ToanTuVAA_JJ",
+      "syntax": "condition1 VAA_JJ condition2"
+    },
+    {
+      "dsl_class": "ToanTuHOACC_WW",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "ToanTuHOACC_WW",
+      "label_vi": "HOACC_WW (OR)"
+    },
+    {
+      "dsl_class": "ToanTuHOACC_WW",
+      "description": "Logical OR operator"
+    },
+    {
+      "dsl_class": "ToanTuHOACC_WW",
+      "syntax": "condition1 HOACC_WW condition2"
+    },
+    {
+      "dsl_class": "ToanTuKHONGG_RR",
+      "parent_class": "subClassOf"
+    },
+    {
+      "dsl_class": "ToanTuKHONGG_RR",
+      "label_vi": "KHONGG_RR (NOT)"
+    },
+    {
+      "dsl_class": "ToanTuKHONGG_RR",
+      "description": "Logical NOT operator"
+    },
+    {
+      "dsl_class": "ToanTuKHONGG_RR",
+      "syntax": "KHONGG_RR condition"
+    },
+    {
+      "dsl_class": "NhomTheoRequired",
+      "label_en": "NHOMM_THEO_YY required constraint"
+    },
+    {
+      "dsl_class": "NhomTheoRequired",
+      "description": "Aggregate functions DEMM_JJ, TONGG_WW, TRUNGG_BINH_PP require NHOMM_THEO_YY clause"
+    },
+    {
+      "dsl_class": "CoRequiresNhomTheo",
+      "label_en": "COO_ZZ requires NHOMM_THEO_YY constraint"
+    },
+    {
+      "dsl_class": "CoRequiresNhomTheo",
+      "description": "COO_ZZ (HAVING) can only be used when NHOMM_THEO_YY (GROUP BY) is present"
+    },
+    {
+      "dsl_class": "NoiMaRequired",
+      "label_en": "NOII_MA_KK required constraint"
+    },
+    {
+      "dsl_class": "NoiMaRequired",
+      "description": "CHONJ_KW and HOIQQ_YZ queries must have NOII_MA_KK (WHERE) clause"
+    },
+    {
+      "domain_class": "Person",
+      "label_en": "Person"
+    },
+    {
+      "domain_class": "Person",
+      "label_vi": "Người"
+    },
+    {
+      "domain_class": "Person",
+      "description": "Đại diện cho một người dùng trong hệ thống"
+    },
+    {
+      "domain_class": "Customer",
+      "parent_class": "subClassOf"
+    },
+    {
+      "domain_class": "Customer",
+      "label_en": "Customer"
+    },
+    {
+      "domain_class": "Customer",
+      "label_vi": "Khách hàng"
+    },
+    {
+      "domain_class": "Customer",
+      "description": "Người dùng là khách hàng"
+    },
+    {
+      "domain_class": "Product",
+      "label_en": "Product"
+    },
+    {
+      "domain_class": "Product",
+      "label_vi": "Sản phẩm"
+    },
+    {
+      "domain_class": "Product",
+      "description": "Một sản phẩm có thể được mua"
+    },
+    {
+      "domain_class": "Book",
+      "parent_class": "subClassOf"
+    },
+    {
+      "domain_class": "Book",
+      "label_en": "Book"
+    },
+    {
+      "domain_class": "Book",
+      "label_vi": "Sách"
+    },
+    {
+      "domain_class": "Book",
+      "description": "Sản phẩm loại sách"
+    },
+    {
+      "domain_class": "Order",
+      "label_en": "Order"
+    },
+    {
+      "domain_class": "Order",
+      "label_vi": "Đơn hàng"
+    },
+    {
+      "domain_class": "Order",
+      "description": "Đơn hàng được đặt bởi khách hàng"
+    },
+    {
+      "domain_class": "City",
+      "label_en": "City"
+    },
+    {
+      "domain_class": "City",
+      "label_vi": "Thành phố"
+    },
+    {
+      "domain_class": "City",
+      "description": "Thành phố nơi mọi người sinh sống"
+    },
+    {
+      "domain_class": "Category",
+      "label_en": "Category"
+    },
+    {
+      "domain_class": "Category",
+      "label_vi": "Danh mục"
+    },
+    {
+      "domain_class": "Category",
+      "description": "Danh mục để nhóm các sản phẩm"
+    },
+    {
+      "domain_property": "livesIn",
+      "label_en": "lives in"
+    },
+    {
+      "domain_property": "livesIn",
+      "label_vi": "sống tại"
+    },
+    {
+      "domain_property": "livesIn",
+      "domain": "domain"
+    },
+    {
+      "domain_property": "livesIn",
+      "range": "range"
+    },
+    {
+      "domain_property": "livesIn",
+      "description": "Chỉ ra thành phố nơi người đó sống"
+    },
+    {
+      "domain_property": "ofCustomer",
+      "label_en": "of customer"
+    },
+    {
+      "domain_property": "ofCustomer",
+      "label_vi": "của khách hàng"
+    },
+    {
+      "domain_property": "ofCustomer",
+      "domain": "domain"
+    },
+    {
+      "domain_property": "ofCustomer",
+      "range": "range"
+    },
+    {
+      "domain_property": "ofCustomer",
+      "description": "Liên kết đơn hàng với khách hàng đã đặt"
+    },
+    {
+      "domain_property": "placeOrder",
+      "label_en": "place order"
+    },
+    {
+      "domain_property": "placeOrder",
+      "label_vi": "đặt đơn hàng"
+    },
+    {
+      "domain_property": "placeOrder",
+      "domain": "domain"
+    },
+    {
+      "domain_property": "placeOrder",
+      "range": "range"
+    },
+    {
+      "domain_property": "placeOrder",
+      "description": "Customer places an order"
+    },
+    {
+      "domain_property": "inCategory",
+      "label_en": "in category"
+    },
+    {
+      "domain_property": "inCategory",
+      "label_vi": "thuộc danh mục"
+    },
+    {
+      "domain_property": "inCategory",
+      "domain": "domain"
+    },
+    {
+      "domain_property": "inCategory",
+      "range": "range"
+    },
+    {
+      "domain_property": "inCategory",
+      "description": "Sản phẩm thuộc một danh mục"
+    },
+    {
+      "domain_property": "friendOf",
+      "label_en": "friend of"
+    },
+    {
+      "domain_property": "friendOf",
+      "label_vi": "bạn của"
+    },
+    {
+      "domain_property": "friendOf",
+      "domain": "domain"
+    },
+    {
+      "domain_property": "friendOf",
+      "range": "range"
+    },
+    {
+      "domain_property": "friendOf",
+      "description": "Quan hệ bạn bè giữa các người"
+    },
+    {
+      "domain_property": "borrowed",
+      "label_en": "borrowed"
+    },
+    {
+      "domain_property": "borrowed",
+      "label_vi": "mượn"
+    },
+    {
+      "domain_property": "borrowed",
+      "domain": "domain"
+    },
+    {
+      "domain_property": "borrowed",
+      "range": "range"
+    },
+    {
+      "domain_property": "borrowed",
+      "description": "Person borrowed a book"
+    },
+    {
+      "domain_property": "hasName",
+      "label_en": "has name"
+    },
+    {
+      "domain_property": "hasName",
+      "label_vi": "có tên"
+    },
+    {
+      "domain_property": "hasName",
+      "domain": "domain"
+    },
+    {
+      "domain_property": "hasName",
+      "range": "range"
+    },
+    {
+      "domain_property": "hasName",
+      "description": "Tên của người"
+    },
+    {
+      "domain_property": "hasAge",
+      "label_en": "has age"
+    },
+    {
+      "domain_property": "hasAge",
+      "label_vi": "có tuổi"
+    },
+    {
+      "domain_property": "hasAge",
+      "domain": "domain"
+    },
+    {
+      "domain_property": "hasAge",
+      "range": "range"
+    },
+    {
+      "domain_property": "hasAge",
+      "description": "Tuổi của người (năm)"
+    },
+    {
+      "domain_property": "hasEmail",
+      "label_en": "has email"
+    },
+    {
+      "domain_property": "hasEmail",
+      "label_vi": "có email"
+    },
+    {
+      "domain_property": "hasEmail",
+      "domain": "domain"
+    },
+    {
+      "domain_property": "hasEmail",
+      "range": "range"
+    },
+    {
+      "domain_property": "hasEmail",
+      "description": "Địa chỉ email của người"
+    },
+    {
+      "domain_property": "hasPhone",
+      "label_en": "has phone"
+    },
+    {
+      "domain_property": "hasPhone",
+      "label_vi": "có điện thoại"
+    },
+    {
+      "domain_property": "hasPhone",
+      "domain": "domain"
+    },
+    {
+      "domain_property": "hasPhone",
+      "range": "range"
+    },
+    {
+      "domain_property": "hasPhone",
+      "description": "Số điện thoại của người"
+    },
+    {
+      "domain_property": "hasNick",
+      "label_en": "has nickname"
+    },
+    {
+      "domain_property": "hasNick",
+      "label_vi": "có nickname"
+    },
+    {
+      "domain_property": "hasNick",
+      "domain": "domain"
+    },
+    {
+      "domain_property": "hasNick",
+      "range": "range"
+    },
+    {
+      "domain_property": "hasNick",
+      "description": "Tên nick của người"
+    },
+    {
+      "domain_property": "hasPrice",
+      "label_en": "has price"
+    },
+    {
+      "domain_property": "hasPrice",
+      "label_vi": "có giá"
+    },
+    {
+      "domain_property": "hasPrice",
+      "domain": "domain"
+    },
+    {
+      "domain_property": "hasPrice",
+      "range": "range"
+    },
+    {
+      "domain_property": "hasPrice",
+      "description": "Giá của sản phẩm hoặc đơn hàng"
+    },
+    {
+      "domain_property": "categoryName",
+      "label_en": "category name"
+    },
+    {
+      "domain_property": "categoryName",
+      "label_vi": "tên danh mục"
+    },
+    {
+      "domain_property": "categoryName",
+      "domain": "domain"
+    },
+    {
+      "domain_property": "categoryName",
+      "range": "range"
+    },
+    {
+      "domain_property": "categoryName",
+      "description": "Name of the category"
+    },
+    {
+      "domain_property": "cityName",
+      "label_en": "city name"
+    },
+    {
+      "domain_property": "cityName",
+      "label_vi": "tên thành phố"
+    },
+    {
+      "domain_property": "cityName",
+      "domain": "domain"
+    },
+    {
+      "domain_property": "cityName",
+      "range": "range"
+    },
+    {
+      "domain_property": "cityName",
+      "description": "Name of the city"
+    },
+    {
+      "domain_class": "EntityMapping",
+      "label_en": "Entity Mapping"
+    },
+    {
+      "domain_class": "EntityMapping",
+      "description": "Mapping between Vietnamese terms and ontology concepts"
+    }
+  ],
+  "embed_model_name": "sentence-transformers/all-MiniLM-L6-v2"
+}

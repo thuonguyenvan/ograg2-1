@@ -1,0 +1,204 @@
+{
+  "facts": [
+    {
+      "dsl_class": "TruyVan",
+      "label_vi": "Query",
+      "label_en": "Query",
+      "description": "Base class for all SPARQL-VI queries. ⚠️ IMPORTANT: Every query MUST start with a query type keyword: CHONJ_KW (SELECT), XAY_DUNGWJ (CONSTRUCT), HOIQQ_YZ (ASK), or MO_TAR_PP (DESCRIBE). Modifiers like SAP_XXEP_THEO_KK, GIOI_HHAN_RR come AFTER the main query structure."
+    },
+    {
+      "dsl_class": "TruyVanCHONJ_KW",
+      "parent_class": "subClassOf",
+      "label_vi": "CHONJ_KW Query (SELECT)",
+      "description": "CHONJ_KW query returns variable bindings. Equivalent to SPARQL SELECT. ⚠️ COMPLETE STRUCTURE: CHONJ_KW ?variable NOII_MA_KK { pattern } [modifiers]. The NOII_MA_KK (WHERE) clause is REQUIRED. Optional modifiers: SAP_XXEP_THEO_KK, GIOI_HHAN_RR, etc.",
+      "syntax": "CHONJ_KW ?variable NOII_MA_KK { pattern }",
+      "example": "CHONJ_KW ?name NOII_MA_KK { ?person :hasName ?name }"
+    },
+    {
+      "dsl_class": "TruyVanXAY_DUNGWJ",
+      "parent_class": "subClassOf",
+      "label_vi": "XAY_DUNGWJ Query (CONSTRUCT)",
+      "description": "XAY_DUNGWJ query returns RDF graph. Equivalent to SPARQL CONSTRUCT. ⚠️ COMPLETE STRUCTURE: XAY_DUNGWJ { template } NOII_MA_KK { pattern } [modifiers].",
+      "syntax": "XAY_DUNGWJ { template } NOII_MA_KK { pattern }",
+      "example": "XAY_DUNGWJ { ?x :hasName ?name } NOII_MA_KK { ?x :hasName ?name }"
+    },
+    {
+      "dsl_class": "TruyVanHOIQQ_YZ",
+      "parent_class": "subClassOf",
+      "label_vi": "HOIQQ_YZ Query (ASK)",
+      "description": "HOIQQ_YZ query returns boolean (true/false). Equivalent to SPARQL ASK. ⚠️ COMPLETE STRUCTURE: HOIQQ_YZ NOII_MA_KK { pattern }. No SELECT variables needed. Returns true if pattern matches, false otherwise.",
+      "syntax": "HOIQQ_YZ NOII_MA_KK { pattern }",
+      "example": "HOIQQ_YZ NOII_MA_KK { ?person :hasAge ?age . LOCJ_RR(?age > 18) }"
+    },
+    {
+      "dsl_class": "TruyVanMO_TAR_PP",
+      "parent_class": "subClassOf",
+      "label_vi": "MO_TAR_PP Query (DESCRIBE)",
+      "description": "MO_TAR_PP query returns RDF description of resource. Equivalent to SPARQL DESCRIBE. ⚠️ COMPLETE STRUCTURE: MO_TAR_PP ?resource NOII_MA_KK { pattern } [modifiers].",
+      "syntax": "MO_TAR_PP ?resource NOII_MA_KK { pattern }"
+    },
+    {
+      "dsl_class": "MenhDe",
+      "label_vi": "Clause",
+      "description": "Base class for all clauses"
+    },
+    {
+      "dsl_class": "MenhDeNOII_MA_KK",
+      "parent_class": "subClassOf",
+      "label_vi": "NOII_MA_KK Clause (WHERE)",
+      "description": "NOII_MA_KK clause contains graph patterns. Required for most queries.",
+      "constraint": "Required for CHONJ_KW, HOIQQ_YZ queries",
+      "syntax": "NOII_MA_KK { triple_pattern }"
+    },
+    {
+      "dsl_class": "MenhDeLOCJ_RR",
+      "parent_class": "subClassOf",
+      "label_vi": "LOCJ_RR Clause (FILTER)",
+      "description": "LOCJ_RR filters solutions by condition. Equivalent to SPARQL FILTER.",
+      "syntax": "LOCJ_RR(condition)",
+      "example": "LOCJ_RR(?age > 18)",
+      "constraint": "Must be used inside NOII_MA_KK clause"
+    },
+    {
+      "dsl_class": "MenhDeNHOMM_THEO_YY",
+      "parent_class": "subClassOf",
+      "label_vi": "NHOMM_THEO_YY Clause (GROUP BY)",
+      "description": "NHOMM_THEO_YY groups results. Used with aggregate functions.",
+      "syntax": "NHOMM_THEO_YY ?variable",
+      "constraint": "Required when using aggregate functions DEMM_JJ, TONGG_WW, TRUNGG_BINH_PP"
+    },
+    {
+      "dsl_class": "MenhDeCOO_ZZ",
+      "parent_class": "subClassOf",
+      "label_vi": "COO_ZZ Clause (HAVING)",
+      "description": "COO_ZZ filters grouped results. Equivalent to SPARQL HAVING.",
+      "syntax": "COO_ZZ (condition)",
+      "constraint": "Can only be used with NHOMM_THEO_YY"
+    },
+    {
+      "dsl_class": "MenhDeTU_XZYJ_CHON_PP",
+      "parent_class": "subClassOf",
+      "label_vi": "TUYJ_CHON_PP Clause (OPTIONAL)",
+      "description": "TUYJ_CHON_PP makes pattern matching optional.",
+      "syntax": "TUYJ_CHON_PP { pattern }"
+    },
+    {
+      "dsl_class": "HamTongHop",
+      "label_vi": "Aggregate Functions",
+      "description": "Aggregate functions for NHOMM_THEO_YY queries"
+    },
+    {
+      "dsl_class": "HamDEMM_JJ",
+      "parent_class": "subClassOf",
+      "label_vi": "DEMM_JJ (COUNT)",
+      "description": "Counts number of values",
+      "syntax": "DEMM_JJ(?variable)",
+      "constraint": "Requires NHOMM_THEO_YY clause"
+    },
+    {
+      "dsl_class": "HamTONGG_WW",
+      "parent_class": "subClassOf",
+      "label_vi": "TONGG_WW (SUM)",
+      "description": "Sums numeric values",
+      "syntax": "TONGG_WW(?variable)",
+      "constraint": "Requires NHOMM_THEO_YY, works only with numeric types"
+    },
+    {
+      "dsl_class": "HamTRUU_WJNGG_BINH_PP",
+      "parent_class": "subClassOf",
+      "label_vi": "TRUNGG_BINH_PP (AVG)",
+      "description": "Calculates average",
+      "syntax": "TRUNGG_BINH_PP(?variable)",
+      "constraint": "Requires NHOMM_THEO_YY, works only with numeric types"
+    },
+    {
+      "dsl_class": "HamLONN_NHAT_RR",
+      "parent_class": "subClassOf",
+      "label_vi": "LONN_NHAT_RR (MAX)",
+      "description": "Finds maximum value",
+      "syntax": "LONN_NHAT_RR(?variable)"
+    },
+    {
+      "dsl_class": "HamNHOO_NHAT_QQ",
+      "parent_class": "subClassOf",
+      "label_vi": "NHOO_NHAT_QQ (MIN)",
+      "description": "Finds minimum value",
+      "syntax": "NHOO_NHAT_QQ(?variable)"
+    },
+    {
+      "dsl_class": "BoMenhDe",
+      "label_vi": "Solution Modifiers",
+      "description": "Solution sequence modifiers"
+    },
+    {
+      "dsl_class": "MenhDeSAP_XXEP_THEO_KK",
+      "parent_class": "subClassOf",
+      "label_vi": "SAP_XXEP_THEO_KK (ORDER BY)",
+      "description": "Orders results by expression. ⚠️ USAGE: This is a MODIFIER, must come AFTER complete query structure. Cannot be used alone. Must be preceded by CHONJ_KW ... NOII_MA_KK { ... }",
+      "syntax": "SAP_XXEP_THEO_KK ?variable",
+      "example": "SAP_XXEP_THEO_KK GIAMM_WW(?age)"
+    },
+    {
+      "dsl_class": "MenhDeGIOI_HHAN_RR",
+      "parent_class": "subClassOf",
+      "label_vi": "GIOI_HHAN_RR (LIMIT)",
+      "description": "Limits number of results. ⚠️ USAGE: This is a MODIFIER, must come AFTER complete query structure. Cannot be used alone.",
+      "syntax": "GIOI_HHAN_RR n",
+      "example": "GIOI_HHAN_RR 10",
+      "constraint": "n must be non-negative integer"
+    },
+    {
+      "dsl_class": "MenhDeDICCH_CHUYEN_WW",
+      "parent_class": "subClassOf",
+      "label_vi": "DICCH_CHUYEN_WW (OFFSET)",
+      "description": "Skips first n results",
+      "syntax": "DICCH_CHUYEN_WW n",
+      "constraint": "n must be non-negative integer"
+    },
+    {
+      "dsl_class": "ToanTu",
+      "label_vi": "Operators",
+      "description": "Operators for conditions and expressions"
+    },
+    {
+      "dsl_class": "ToanTuVAA_JJ",
+      "parent_class": "subClassOf",
+      "label_vi": "VAA_JJ (AND)",
+      "description": "Logical AND operator",
+      "syntax": "condition1 VAA_JJ condition2"
+    },
+    {
+      "dsl_class": "ToanTuHOACC_WW",
+      "parent_class": "subClassOf",
+      "label_vi": "HOACC_WW (OR)",
+      "description": "Logical OR operator",
+      "syntax": "condition1 HOACC_WW condition2"
+    },
+    {
+      "dsl_class": "ToanTuKHONGG_RR",
+      "parent_class": "subClassOf",
+      "label_vi": "KHONGG_RR (NOT)",
+      "description": "Logical NOT operator",
+      "syntax": "KHONGG_RR condition"
+    },
+    {
+      "dsl_class": "NhomTheoRequired",
+      "label_en": "NHOMM_THEO_YY required constraint",
+      "description": "Aggregate functions DEMM_JJ, TONGG_WW, TRUNGG_BINH_PP require NHOMM_THEO_YY clause"
+    },
+    {
+      "dsl_class": "CoRequiresNhomTheo",
+      "label_en": "COO_ZZ requires NHOMM_THEO_YY constraint",
+      "description": "COO_ZZ (HAVING) can only be used when NHOMM_THEO_YY (GROUP BY) is present"
+    },
+    {
+      "dsl_class": "NoiMaRequired",
+      "label_en": "NOII_MA_KK required constraint",
+      "description": "CHONJ_KW and HOIQQ_YZ queries must have NOII_MA_KK (WHERE) clause"
+    }
+  ],
+  "stats": {
+    "num_facts": 28,
+    "ontology_type": "dsl"
+  }
+}
