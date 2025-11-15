@@ -1,0 +1,12 @@
+# OG-RAG - Generic Ontology QA System
+# Minimal requirements for the web application
+
+# Core dependencies
+streamlit>=1.28.0
+sentence-transformers>=2.2.2
+groq>=0.4.0
+numpy>=1.24.0
+pyyaml>=6.0
+
+# Optional but recommended
+# torch>=2.0.0
