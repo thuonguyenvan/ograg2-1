@@ -25,13 +25,20 @@ from build_hypergraph import build_hypergraph
 from query_engine.generic_query_engine import GenericQueryEngine
 
 
-# Load API keys from yaml file
+# Load API keys from environment or yaml file
 def load_api_keys():
-    """Load API keys from api_keys.yaml"""
+    """Load API keys from environment variables (HF Secrets) or api_keys.yaml"""
+    # Priority 1: Environment variables (for Hugging Face Spaces)
+    megallm_key = os.getenv('MEGALLM_API_KEY')
+    if megallm_key:
+        return {'MEGALLM_API_KEY': megallm_key}
+    
+    # Priority 2: Local yaml file (for development)
     api_keys_file = Path(__file__).parent / "api_keys.yaml"
     if api_keys_file.exists():
         with open(api_keys_file, 'r') as f:
             return yaml.safe_load(f)
+    
     return {}
 
 API_KEYS = load_api_keys()

@@ -47,7 +47,6 @@ data/kg/*/summarized_texts.md
 
 # GO Ontology - Large files
 go-basic.owl
-*.owl
 data/kg/go/ontology/*.npy
 data/kg/go/ontology/*.pkl
 data/kg/*/hypergraph/*.pkl
@@ -55,6 +54,13 @@ data/kg/*/hypergraph/*.pkl
 # Large CSV data files
 *.csv
 !requirements*.txt
+
+# Large parsed ontology files (for Hugging Face Spaces)
+data/ontologies/*/parsed/*.npy
+data/ontologies/*/parsed/*.pkl
+# Keep metadata and index
+!data/ontologies/ontologies_index.json
+!data/ontologies/*/parsed/ontology_metadata.json
 
 # OS
 .DS_Store

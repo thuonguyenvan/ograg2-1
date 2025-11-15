@@ -1,24 +1,37 @@
-# OG-RAG for Gene Ontology
+---
+title: OGRag2 - General Ontology QA
+emoji: 🧬
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 1.31.0
+app_file: app.py
+pinned: false
+license: mit
+python_version: 3.10
+---
 
-**Ontology-Grounded Retrieval-Augmented Generation** applied to Gene Ontology (GO) for biological knowledge retrieval and question answering.
+# OG-RAG for General Ontologies
+
+**Ontology-Grounded Retrieval-Augmented Generation** - A web application that allows you to upload any ontology and ask questions using AI-powered retrieval.
 
 Based on paper: [OG-RAG: Ontology-Grounded Retrieval-Augmented Generation](https://arxiv.org/html/2412.15235v1)
 
 ---
 
-## 🔬 Project Overview
+## 🌐 Live Demo
 
-This implementation applies the OG-RAG methodology to **Gene Ontology**, a structured knowledge base of biological terms and their relationships. The system enables accurate retrieval and generation of answers to biological questions.
+Try it now: [Hugging Face Space](https://huggingface.co/spaces/YOUR_USERNAME/ograg2-general-ontology)
 
-**Dataset:**
-- **39,354 active GO terms** (filtered from 51,842 total, removing 12,488 obsolete)
-- **3 namespaces**: biological_process, molecular_function, cellular_component  
-- **Hierarchical relationships**: is_a, part_of, regulates, etc.
+## ✨ Features
 
-**Performance:**
-- Build time: ~10 minutes (with MiniLM)
-- Query time: ~1-2 seconds
-- 286,288 hypernodes, 39,354 facts
+- 📤 **Upload any ontology**: Supports OWL and OBO formats
+- 🤖 **AI-powered Q&A**: Ask questions in natural language
+- 🔍 **Smart retrieval**: Uses hypergraph-based retrieval with embeddings
+- 📊 **Source references**: Shows which ontology terms were used to generate answers
+- 🎯 **General purpose**: Works with any ontology from any domain
+
+## 🚀 Quick Start
 
 ---
 
