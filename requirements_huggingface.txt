@@ -8,3 +8,19 @@ torch==2.0.1
 owlready2==0.46
 networkx==3.1
 scikit-learn==1.3.0
+langchain==0.1.20
+langchain-core
+langchain-community
+langchain-openai  
+langchain-text-splitters
+
+llama-index==0.10.38
+llama-index-core==0.10.42
+llama-index-llms-langchain==0.1.4  # Bridge: LangChain LLM → LlamaIndex
+llama-index-embeddings-langchain==0.1.2  # Bridge: LangChain Embeddings → LlamaIndex
+faiss-cpu==1.8.0.post1  
+scipy
+tqdm
+pandas
+typing-extensions>=4.5.0  # Cho Union, Optional types
+pydantic>=2.0  # Cho L
